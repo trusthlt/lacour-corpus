@@ -1,0 +1,4333 @@
+<?xml version="1.0" ?>
+<transcript_4887608_07032012>
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Announcer</Role>
+        <Name>UNK</Name>
+        <TimestampBegin>9.44</TimestampBegin>
+        <TimestampEnd>10.02</TimestampEnd>
+        <Language>fr</Language>
+      </meta_data>
+      <text>La Cour!</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>52.38</TimestampBegin>
+        <TimestampEnd>53.38</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Please sit down.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>61.14</TimestampBegin>
+        <TimestampEnd>70.76</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I declare open the public hearing on the admissibility and merits in the case of Animal Defenders International versus the United Kingdom.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>70.76</TimestampBegin>
+        <TimestampEnd>85.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The case was lodged on the 11th September 2008 with the court under Article 34 of the Convention by a non-governmental organization, Animal Defenders International, based in the United Kingdom.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>85.58</TimestampBegin>
+        <TimestampEnd>93.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The application was allocated to the fourth section of the court, pursuant to Rules 52, paragraph 1 of the Rules of the Court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>93.98</TimestampBegin>
+        <TimestampEnd>100.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The application was communicated to the government on 23rd January 2011.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>100.74</TimestampBegin>
+        <TimestampEnd>115.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Having received the party's submission on 29 November 2011, the chamber decided to relinquish jurisdiction in favor of the Grand Chamber, none of the parties having objected to this relinquishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>115.22</TimestampBegin>
+        <TimestampEnd>124.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government are represented by their agent, Ms. Ahila Sornarajah, assisted by Mr. Martin Chamberlain, counsel,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>124.74</TimestampBegin>
+        <TimestampEnd>129.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and by Ms. Victoria Kaye, Ms. Eleanor Van Heyningen,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>129.22</TimestampBegin>
+        <TimestampEnd>132.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and Mr. Simon White, advisor.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>132.42</TimestampBegin>
+        <TimestampEnd>136.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicant is represented by Mr. Hugh Tomlinson</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>136.74</TimestampBegin>
+        <TimestampEnd>140.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and Mr. Aidan O’Neill, both Queen's counsel,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>140.5</TimestampBegin>
+        <TimestampEnd>145.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>assisted by Ms. Tamsin Allen, the applicant solicitor.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>145.14</TimestampBegin>
+        <TimestampEnd>149.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Ms. Jan Creamer, president of Animal Defender International,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>149.02</TimestampBegin>
+        <TimestampEnd>150.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>is also present.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>150.94</TimestampBegin>
+        <TimestampEnd>155.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I welcome the representative of the parties in the name of the court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>155.54</TimestampBegin>
+        <TimestampEnd>175.38</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I would also like to welcome a visiting delegation from the Academy of Judges and public prosecutor of the former Yugoslav Republic of Macedonia, a visiting delegation from the state constitutional court of Lower Saxony, Germany, as well as a visiting delegation from the constitutional court of Angola.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>175.38</TimestampBegin>
+        <TimestampEnd>190.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Macedonian has been authorized for the benefit of the delegation from the former Yugoslav Republic of Macedonia.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>190.82</TimestampBegin>
+        <TimestampEnd>201.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That interpretation is not arranged by the court and no transcription of the oral translation will be included in the official record of the proceedings.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>201.46</TimestampBegin>
+        <TimestampEnd>209.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Having consulted the agent of the government and the representative of the applicant, we have determined the order of addressees as follows.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>209.9</TimestampBegin>
+        <TimestampEnd>213.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. Chamberlain for the government will speak first,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>213.1</TimestampBegin>
+        <TimestampEnd>216.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and then Mr. Tomlinson for the applicant.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>216.22</TimestampBegin>
+        <TimestampEnd>221.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I call Mr. Chamberlain.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>225.18</TimestampBegin>
+        <TimestampEnd>234.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Madam President, Members of the Court, Messages that are broadcast on television and radio come directly into our homes.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>234.22</TimestampBegin>
+        <TimestampEnd>238.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They can be instantly communicated to a national audience.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>238.22</TimestampBegin>
+        <TimestampEnd>242.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They affect us in ways that the written word cannot.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>242.3</TimestampBegin>
+        <TimestampEnd>248.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Those seeking to advertise their products and services recognise this.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>248.02</TimestampBegin>
+        <TimestampEnd>253.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So do those seeking to change minds on issues of political significance.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>253.5</TimestampBegin>
+        <TimestampEnd>260.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That is why the applicant organisation wants to be able to advertise on television and radio.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>260.34</TimestampBegin>
+        <TimestampEnd>272.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It's also why acquiring advertising space on television and radio, especially on national channels, is expensive for most of us, prohibitively so.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>272.82</TimestampBegin>
+        <TimestampEnd>301.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In some countries, the view is taken that a message aimed at changing minds on an issue of political significance is no different in principle from a message aimed at encouraging people to buy a product or service, that both are forms of persuasive speech, and that individuals, organisations, and corporations should be permitted to buy airtime for either type of message without regulation or interference by government.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>301.62</TimestampBegin>
+        <TimestampEnd>307.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That is a perfectly proper view for a democracy to take, but it has consequences.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>307.86</TimestampBegin>
+        <TimestampEnd>318.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The ability to speak to the public using the most powerful and pervasive media is confined to those who can afford to buy the necessary airtime.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>318.22</TimestampBegin>
+        <TimestampEnd>327.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The quantity of airtime allocated to any particular view depends on the combined resources of those who share it and wish to communicate it.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>327.9</TimestampBegin>
+        <TimestampEnd>337.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This has a profound effect both on elections and outside them on the character of public debate on controversial issues.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>337.7</TimestampBegin>
+        <TimestampEnd>345.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In principle, it can turn democratic influence into a commodity to be bought and sold.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>345.94</TimestampBegin>
+        <TimestampEnd>360.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That is why the United Kingdom Parliament, in common with the legislatures of most other Council of Europe states, has set its face against an unregulated market in political speech in the broadcast media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>360.82</TimestampBegin>
+        <TimestampEnd>367.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As one would expect, the details of the regulatory regimes differ from state to state.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>367.7</TimestampBegin>
+        <TimestampEnd>380.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The United Kingdom's regime is designed to ensure that a wide range of viewpoints are represented and that the representation of these viewpoints is not unfairly skewed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>380.34</TimestampBegin>
+        <TimestampEnd>383.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It has three principal elements.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>383.22</TimestampBegin>
+        <TimestampEnd>399.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, a requirement of impartiality imposed on all broadcasters, which prevents them from expressing their own views on political questions and which requires them to treat the views of others even-handedly.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>399.34</TimestampBegin>
+        <TimestampEnd>415.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Secondly, the provision of free party election, party political, and referendum campaign broadcasts for political parties and for organizations campaigning on either side of a referendum question.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>415.42</TimestampBegin>
+        <TimestampEnd>426.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thirdly, the prohibition on political advertising, or PPA, which is the subject of today's application.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>426.06</TimestampBegin>
+        <TimestampEnd>439.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The sole question for this court is whether the PPA, viewed in the context of the UK's regulatory regime as a whole, is necessary in a democratic society.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>439.58</TimestampBegin>
+        <TimestampEnd>445.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This is the first time that the Grand Chamber of this court has had occasion to address this question.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>445.9</TimestampBegin>
+        <TimestampEnd>452.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is an important one, not just for the United Kingdom, but also for other Council of Europe states.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>452.46</TimestampBegin>
+        <TimestampEnd>483.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government submit that this court should apply a broad margin of appreciation to the restrictions at issue in the present case, imposed as they were to safeguard the integrity of the United Kingdom's democratic system, and that the Divisional Court and the House of Lords were correct to hold unanimously that the legislature of the United Kingdom did not exceed that margin any more than those of the other contracting states, which have adopted similar regimes.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>483.78</TimestampBegin>
+        <TimestampEnd>497.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>To set the arguments in this case in context, it's necessary to say a little about the international position upon which the applicants rely extensively in their memorial.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>497.82</TimestampBegin>
+        <TimestampEnd>512.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The study published in 2006 by the European Platform of Regulatory Authorities shows that of the 31 countries covered, only four left paid political advertising entirely unregulated.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>512.7</TimestampBegin>
+        <TimestampEnd>517.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>All the others imposed some regulation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>517.02</TimestampBegin>
+        <TimestampEnd>530.38</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The EPRA noted that what it termed a wide-reaching ban applied in France, Ireland, Malta, and Spain, as well as in the United Kingdom.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>530.38</TimestampBegin>
+        <TimestampEnd>546.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Some states, such as Switzerland, Denmark, and Norway, did allow advertising by social advocacy groups, but only because they read this court's decision in VGT as requiring them to do so.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>546.58</TimestampBegin>
+        <TimestampEnd>552.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The scope and effect of this decision, of course, is one of the matters in issue today.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>552.82</TimestampBegin>
+        <TimestampEnd>555.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In any event, two things are plain.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>555.5</TimestampBegin>
+        <TimestampEnd>569.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, there is a wide consensus among most Council of Europe states that the nature of the broadcast media justifies regulation of a sort that would not necessarily be appropriate for other media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>569.98</TimestampBegin>
+        <TimestampEnd>578.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Secondly, as to the precise content of this regulation, Europe does not speak with one voice.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>578.06</TimestampBegin>
+        <TimestampEnd>596.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It's telling that the Committee of Ministers, when it examined this issue in 1999 and 2007, was not prepared to make a recommendation for a common approach across Europe in the light of the diversity of approaches among the contracting states.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>596.1</TimestampBegin>
+        <TimestampEnd>607.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The suggestion in the applicants' memorial that European Union law requires a common approach among its member states is wholly misplaced.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>607.1</TimestampBegin>
+        <TimestampEnd>623.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In particular, the television without frontiers directive applied only to commercial advertising, and in any event, contains specific provisions to ensure that broadcasters could not use that directive to circumvent stricter national rules.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>623.82</TimestampBegin>
+        <TimestampEnd>629.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The same is true of the current audiovisual media services directive.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>629.56</TimestampBegin>
+        <TimestampEnd>647.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It's therefore not surprising that the European Convention on Transfrontier Television's standing committee, at its meeting in July 2010, concluded that political advertising lay outside the competence of the European Union.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>647.78</TimestampBegin>
+        <TimestampEnd>652.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Before going any further, let me address one important point.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>652.42</TimestampBegin>
+        <TimestampEnd>661.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government accept that the analysis of the merits of this application must start with the facts of this present case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>661.86</TimestampBegin>
+        <TimestampEnd>673.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is also accepted that the applicant organization is not itself a financially powerful one seeking to distort the public debate on animal welfare issues.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>673.9</TimestampBegin>
+        <TimestampEnd>687.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>A similar observation was made by a chamber of this court about the applicant in the VGT case, and by another chamber about the applicant in the TVVest case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>687.06</TimestampBegin>
+        <TimestampEnd>698.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It might be tempting to conclude, therefore, that even if the PPA may be justifiable in general, its application in this particular case was not.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>698.1</TimestampBegin>
+        <TimestampEnd>714.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But that conclusion could follow only if there was some acceptable and practical way of distinguishing between advertisers on the basis of their financial power, so that only less wealthy speakers could advertise.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>714.54</TimestampBegin>
+        <TimestampEnd>725.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>How could a state set about distinguishing between advertisers in this way without undermining the aims that the PPA seeks to promote?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>725.86</TimestampBegin>
+        <TimestampEnd>749.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The first difficulty is that it is, in practice, very easy for a powerful individual or corporate interest to use another organization as a vehicle to convey its message, and correspondingly difficult, if not impossible, for a regulator to discover who is actually behind the organization that is seeking to advertise.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>749.7</TimestampBegin>
+        <TimestampEnd>762.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>How is a regulator to tell whether a corporate body claiming to be independent is, in fact, the surrogate of a particular candidate or other wealthy interest?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>762.3</TimestampBegin>
+        <TimestampEnd>770.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In any event, what is to stop the establishment of multiple small corporate entities, all promoting a particular point of view?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>770.6</TimestampBegin>
+        <TimestampEnd>775.64</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Take, for example, the view that man-made climate change is a myth.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>775.64</TimestampBegin>
+        <TimestampEnd>786.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Each of these corporate entities could honestly claim that it was small enough not to offend whatever financial limit was imposed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>786.22</TimestampBegin>
+        <TimestampEnd>801.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Yet the collective effect of the advertising bought by these small corporations would be exactly the same as if one multinational oil company had block-booked weeks or months of airtime.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>801.7</TimestampBegin>
+        <TimestampEnd>815.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>One response to problems of this sort is to suggest some sort of quota system, where a governmental regulator would decide how much airtime is to be allocated to each side of any particular issue.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>815.58</TimestampBegin>
+        <TimestampEnd>819.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But how exactly is this allocation to be performed?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>819.16</TimestampBegin>
+        <TimestampEnd>828.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Does the debate on climate change deserve more or less airtime than the debate on how to avoid a further economic recession?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>828.9</TimestampBegin>
+        <TimestampEnd>842.48</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Are those who believe in man-made climate change to get the same amount of airtime as those who don't, even though the latter view is held by only a tiny minority of relevant experts?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>842.48</TimestampBegin>
+        <TimestampEnd>846.12</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>If not, how is the time to be divided up?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>846.12</TimestampBegin>
+        <TimestampEnd>854.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>What about those whose views can't be neatly ascribed to either side of that particular debate?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>854.14</TimestampBegin>
+        <TimestampEnd>867.44</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Under the regime that applies in the United Kingdom today, it is the independent broadcasters that make these difficult decisions, discharging their statutory duties of impartiality.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>867.44</TimestampBegin>
+        <TimestampEnd>873.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But under a partial PPA, they would fall to an organ of the state.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>873.58</TimestampBegin>
+        <TimestampEnd>883.04</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>These difficulties were expressly recognized in the context of religious advertising in this court's decision in Murphy and Ireland.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>883.04</TimestampBegin>
+        <TimestampEnd>903.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There, the court noted that a provision which allowed the filtering by the state or any organ designated by it on a case-by-case basis of unacceptable or excessive religious advertising would be difficult to apply fairly, objectively, and coherently.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>903.9</TimestampBegin>
+        <TimestampEnd>907.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>No doubt there are differences between religious and political speech.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>907.82</TimestampBegin>
+        <TimestampEnd>914.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But in this respect, the analysis in Murphy applies equally to the current situation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>914.18</TimestampBegin>
+        <TimestampEnd>933.4</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is impossible to see how an organ of the state could operate a quota system for political speech without contravening the principle famously described by Justice Jackson in the US Supreme Court as a fixed star in our constitutional constellation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>933.4</TimestampBegin>
+        <TimestampEnd>946.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That is, the principle that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>946.22</TimestampBegin>
+        <TimestampEnd>962.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That principle, which requires the state, so far as possible, to abjure regulation of political views on the basis of their content, is, of course, also a principle underlying the Article 10 jurisprudence of this court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>962.06</TimestampBegin>
+        <TimestampEnd>965.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is one which underlies the United Kingdom's PPA.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>968.42</TimestampBegin>
+        <TimestampEnd>975.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Why, then, can't the PPA be confined to political parties and candidates?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>975.34</TimestampBegin>
+        <TimestampEnd>981.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Well, the first difficulty with this is that it would be too easy to circumvent.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>981.54</TimestampBegin>
+        <TimestampEnd>1002.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>A vivid example can be seen in the United States, where the recent decision of the Supreme Court in the Citizens United case means that corporations are allowed to spend as much money as they want on political advertising at election time, whereas candidates who accept public funding are subject to spending limits.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1002.18</TimestampBegin>
+        <TimestampEnd>1025.12</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The result, as anyone who's followed the recent Republican Party primary campaign will know, has been the establishment of a large number of corporate bodies known as super PACs, which between them have spent vast sums of money running advertisements, promoting their favored candidates, and disparaging the others.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1025.12</TimestampBegin>
+        <TimestampEnd>1030.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The super PACs are, of course, in form, independent corporate entities.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1030.66</TimestampBegin>
+        <TimestampEnd>1038.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Yet in reality, they are closely aligned with particular candidates and often run by their associates.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1038.98</TimestampBegin>
+        <TimestampEnd>1045.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>A PPA which applied only to parties and candidates would simply be ineffective.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1045.94</TimestampBegin>
+        <TimestampEnd>1054.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Nor would it be an answer to say that advertisers were not allowed to express their support for particular parties or candidates.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1054.06</TimestampBegin>
+        <TimestampEnd>1063.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Imagine a corporate group advocating Britain's withdrawal from the European Union, or indeed the Council of Europe.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1063.58</TimestampBegin>
+        <TimestampEnd>1069.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Such a group would not need to support any party or candidate expressly.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1069.94</TimestampBegin>
+        <TimestampEnd>1084.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Yet advertising campaigns paid for by it would inevitably favor some parties and candidates over others, more to the point, they would skew the political debate on these and other important issues.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1084.58</TimestampBegin>
+        <TimestampEnd>1096.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Advertising campaigns of this sort were precisely what the House of Lords had in mind when it held unanimously that the PPA was justified.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1096.46</TimestampBegin>
+        <TimestampEnd>1102.26</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Why then can't the PPA be confined to election periods?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1102.26</TimestampBegin>
+        <TimestampEnd>1113.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The problem here is that it's artificial to regard the electoral process as beginning a certain number of weeks or months before the election itself.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1113.34</TimestampBegin>
+        <TimestampEnd>1120.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The process of changing minds on issues disputed by candidates for an election is an ongoing one.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1120.82</TimestampBegin>
+        <TimestampEnd>1137.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>If the voting public is saturated with partisan political advertising for a period of years, a requirement that this advertising must temporarily cease 30 days before an election will hardly serve to level the playing field.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1137.62</TimestampBegin>
+        <TimestampEnd>1144.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Anyway, elections are not the only time when citizens participate in democratic government.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1144.06</TimestampBegin>
+        <TimestampEnd>1154.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Citizens are entitled to and do, in fact, write to their elected representatives, sign petitions, start local action groups, and so forth.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1154.14</TimestampBegin>
+        <TimestampEnd>1164.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Political advertising is as capable of affecting these democratic acts as it is capable of affecting the act of voting.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1164.3</TimestampBegin>
+        <TimestampEnd>1171.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This, then, is why it is justifiable for the United Kingdom's PPA to be framed as broadly as it is.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1171.66</TimestampBegin>
+        <TimestampEnd>1176.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But the explanation I've given is not one which has been dreamed up after the event.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1176.82</TimestampBegin>
+        <TimestampEnd>1190.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The scope of the PPA was considered in very great detail by a number of public bodies before the current legislative regime in the Communications Act 2003 was settled.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1190.46</TimestampBegin>
+        <TimestampEnd>1201.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It was considered by the Neill Committee on Standards in Public Life, by the Joint Committee on Human Rights, and by Parliament itself.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1201.1</TimestampBegin>
+        <TimestampEnd>1211.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The Joint Committee on Human Rights, in particular, considered in some detail whether a narrower restriction would be workable and concluded that it would not.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1211.62</TimestampBegin>
+        <TimestampEnd>1217.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Both the Divisional Court and the House of Lords arrived at the same conclusion.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1217.62</TimestampBegin>
+        <TimestampEnd>1221.2</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>What, then, is the task of the Grand Chamber in this case?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1221.2</TimestampBegin>
+        <TimestampEnd>1227.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The starting point is the principle enunciated by the Grand Chamber in Hatton and the United Kingdom.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1227.94</TimestampBegin>
+        <TimestampEnd>1240.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court's supervisory function being of a subsidiary nature, it is limited to reviewing whether or not the particular solution adopted can be regarded as striking a fair balance.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1240.78</TimestampBegin>
+        <TimestampEnd>1244.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Of course, this is a case involving political speech.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1244.46</TimestampBegin>
+        <TimestampEnd>1253.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But as the court observed in Castells and Spain, there is no absolute right to engage even in political speech.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1253.1</TimestampBegin>
+        <TimestampEnd>1276.26</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And as the court made plain in the TV Vest case, even in this area, the lack of consensus among Council of Europe states speaks in favor of allowing a somewhat wider margin of appreciation than that normally accorded with respect to restrictions on political speech in relation to Article 10 of the Convention.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1276.26</TimestampBegin>
+        <TimestampEnd>1291.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Against that background, it would be a very strong thing, indeed, to stigmatize as outside the United Kingdom's margin of appreciation the unanimous judgment of the United Kingdom Parliament and courts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1291.1</TimestampBegin>
+        <TimestampEnd>1297.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In deciding whether to do so, three matters in particular should be borne in mind.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1297.74</TimestampBegin>
+        <TimestampEnd>1303.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The first is the strength and importance of the interests which the PPA serves.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1303.58</TimestampBegin>
+        <TimestampEnd>1314.44</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Freedom of expression is valuable precisely because of the role it can play in altering the course of a democratic government or a democratic society.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1314.44</TimestampBegin>
+        <TimestampEnd>1324.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But its ability to play that vital role is diminished if the capacity to influence the debate depends on the resources of the speaker.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1324.98</TimestampBegin>
+        <TimestampEnd>1344.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Permission to air its advertisements in favor of animal welfare will be of little value to the applicant if the response is a deluge of advertisements supporting the status quo placed by much richer pharmaceutical or entertainment interests.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1344.5</TimestampBegin>
+        <TimestampEnd>1348.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The second factor is the limited nature of the PPA.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1348.78</TimestampBegin>
+        <TimestampEnd>1352.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It applies only to the broadcast media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1352.14</TimestampBegin>
+        <TimestampEnd>1363.26</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So there is nothing to stop the applicant from conveying its views in newspapers, on the internet, on billboards, by telemarketing, or in leaflets.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1363.26</TimestampBegin>
+        <TimestampEnd>1370.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicant, of course, says that this just shows how unnecessary the PPA is.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1370.5</TimestampBegin>
+        <TimestampEnd>1373.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But this court in Murphy took the opposite view.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1373.98</TimestampBegin>
+        <TimestampEnd>1398.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It held correctly that the availability of these other means for conveying the message was highly relevant to the proportionality of a ban limited to the broadcast media, media which it said were accepted by this court and acknowledged by the applicant in that case as having a more immediate, invasive, and powerful impact.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1398.36</TimestampBegin>
+        <TimestampEnd>1406.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The third factor is the regulatory regime as a whole of which the PPA forms only one part.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1406.1</TimestampBegin>
+        <TimestampEnd>1423.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The existence of an obligation of impartiality imposed on all broadcasters and of a right to make free party political, party election, and referendum campaign broadcasts is an essential part of the context in which the PPA must be judged.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1423.54</TimestampBegin>
+        <TimestampEnd>1435.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Neither feature was present in Switzerland when the VGT case was decided, nor in Norway at the time of the decision in TV Vest.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1435.54</TimestampBegin>
+        <TimestampEnd>1439.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Let me deal now with those two cases.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1439.14</TimestampBegin>
+        <TimestampEnd>1442.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, the decision in VGT.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1442.94</TimestampBegin>
+        <TimestampEnd>1446.28</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The facts of that case were unusual.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1446.28</TimestampBegin>
+        <TimestampEnd>1456.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicant organization was seeking to respond to commercial broadcast advertisements, which were themselves considered by the court to be political.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1456.5</TimestampBegin>
+        <TimestampEnd>1466.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In other words, it was seeking to restore balance to a political debate that had, in the circumstances, become unbalanced.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1466.34</TimestampBegin>
+        <TimestampEnd>1470.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There is nothing that can be regarded as analogous here.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1470.34</TimestampBegin>
+        <TimestampEnd>1484.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicant complains that media organizations continue to use primates in TV and radio advertisements, but they're not doing so to make a political point, nor are they engaging in a political debate.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1484.58</TimestampBegin>
+        <TimestampEnd>1490.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They're simply exercising a right which they have under existing law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1490.34</TimestampBegin>
+        <TimestampEnd>1509.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>A group which really did have a political point to make, for example, one seeking to support the adequacy of existing animal welfare standards or oppose their extension, would be prohibited by the PPA from advertising, just as the applicant is.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1509.1</TimestampBegin>
+        <TimestampEnd>1517.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In any event, there are a number of respects in which the reasoning of the chamber in 2001 is open to question.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1517.34</TimestampBegin>
+        <TimestampEnd>1524.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They're set out in the United Kingdom government's memorial, but the essential points are these.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1524.58</TimestampBegin>
+        <TimestampEnd>1538.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, the chamber gave no explanation for rejecting the submission that the potency and pervasiveness of the broadcast media justified special restrictions not applicable to other media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1538.82</TimestampBegin>
+        <TimestampEnd>1546.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As I have said, that was a proposition expressly accepted by this court in Murphy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1546.52</TimestampBegin>
+        <TimestampEnd>1560.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>A second related point is that the decision appears to have attached little significance to the availability of alternative media in allowing the applicant to pursue its political objectives.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1560.1</TimestampBegin>
+        <TimestampEnd>1574.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The availability of these alternative media is crucial to any analysis of the proportionality of the PPA, just as it was crucial to the proportionality of the Irish rule at issue in Murphy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1574.7</TimestampBegin>
+        <TimestampEnd>1585.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Third, the court did not address the effect that removal of the prohibition could have on the impartiality of broadcasting services.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1585.54</TimestampBegin>
+        <TimestampEnd>1594.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Fourth, as I've noted, the court in VGT relied on the fact that the applicant was not a powerful financial group.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1594.5</TimestampBegin>
+        <TimestampEnd>1599.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The same point was made by the chamber in TV Vest.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1599.58</TimestampBegin>
+        <TimestampEnd>1604.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The answer, with respect, is again supplied by the judgment of the court in Murphy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1604.94</TimestampBegin>
+        <TimestampEnd>1617.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The fact that the applicant was not itself financially powerful could not be relevant unless a workable means could be devised to distinguish between financially powerful groups and others.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1617.5</TimestampBegin>
+        <TimestampEnd>1626.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As I've shown, the United Kingdom Parliament and courts were entitled to conclude that no such means exists.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1626.7</TimestampBegin>
+        <TimestampEnd>1643.12</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Fifth, the judgment in VGT does not appear to recognize that prohibitions on political advertising are intended to enhance rather than to restrict the quality of free expression in a democracy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1643.12</TimestampBegin>
+        <TimestampEnd>1655.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The right to speak is worth very little if the speech is, in practice, not heard, because it is drowned out by speech from well-funded opposing interests.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1655.54</TimestampBegin>
+        <TimestampEnd>1675.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Sixth, the court in VGT appears to have paid scant regard to the widespread agreement that the broadcasting of political advertising may be prohibited on the broadcast media, at least during election periods when political speech is at its most important.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1675.3</TimestampBegin>
+        <TimestampEnd>1682.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This is an important starting point, and the applicant organization does not dispute it.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1682.3</TimestampBegin>
+        <TimestampEnd>1693.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It shows that, in principle, it may be justifiable to regulate speech in the broadcast media while leaving speech in other media unregulated.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1693.52</TimestampBegin>
+        <TimestampEnd>1716.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Whether to extend the prohibition beyond election periods must then depend on the judgment of individual contracting states about whether, in the context of their particular regulatory regimes, a prohibition narrowly limited to election periods would achieve the important aims which it seeks to promote.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1716.66</TimestampBegin>
+        <TimestampEnd>1738.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Seventh, the court in VGT appears not to have addressed the fact that there is no European consensus on the need for or scope of a prohibition of political advertising or the effect that this important fact should have on the margin of appreciation afforded by the court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1738.1</TimestampBegin>
+        <TimestampEnd>1749.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Finally, the suggestion that the Grand Chamber in VGT number 2 reaffirmed the substantive reasoning in VGT is wholly misplaced.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1749.72</TimestampBegin>
+        <TimestampEnd>1757.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court in VGT number 2 was not concerned with the correctness of its earlier decision at all.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1757.52</TimestampBegin>
+        <TimestampEnd>1769.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The issue before the court was whether the Swiss authorities had committed a further violation of Article 10 by failing to allow the applicant to reopen its domestic proceedings.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1769.74</TimestampBegin>
+        <TimestampEnd>1787.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The question whether a contracting state should make changes to its domestic regime to eliminate a breach of the convention found by this court is, of course, very different from the prior question whether such a breach has occurred in the first place.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1787.8</TimestampBegin>
+        <TimestampEnd>1793.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In TV Vest, the facts were again very different from those of the present case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1793.18</TimestampBegin>
+        <TimestampEnd>1800.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, unlike the present applicant, the applicant in TV Vest was a political party.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1800.06</TimestampBegin>
+        <TimestampEnd>1813.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Secondly, unlike in the United Kingdom, the purchase of advertising time was the only method for minority parties in Norway to disseminate their message via the broadcast media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1813.74</TimestampBegin>
+        <TimestampEnd>1832.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>By contrast, in the United Kingdom, broadcasters have an obligation to maintain impartiality between political views and their programming, and a duty to provide free party political, party election, and referendum campaign broadcasts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1832.22</TimestampBegin>
+        <TimestampEnd>1852.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court in TV Vest, in fact, went out of its way to say at paragraph 34 that the need for a political party to advertise in Norway was especially pressing, since unlike in many other European states, including the United Kingdom, there was no system of party political broadcasts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1852.66</TimestampBegin>
+        <TimestampEnd>1864.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thus, Norway was one of the few contracting states that not only prohibited political advertising on television, but also failed to regulate party political broadcasts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1864.94</TimestampBegin>
+        <TimestampEnd>1874.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This point the court held was important to bear in mind in determining the scope of the margin of appreciation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1874.1</TimestampBegin>
+        <TimestampEnd>1885.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is not surprising that the chamber's judgment in that case turned on the particular characteristics of the regulatory regime under consideration there.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1885.42</TimestampBegin>
+        <TimestampEnd>1895.48</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The outcome of this case, by analogy, must turn on an analysis of the very different regulatory regime applicable in the United Kingdom.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1895.48</TimestampBegin>
+        <TimestampEnd>1920.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The task of this court is not to design a one-size-fits-all regime capable of application to all Council of Europe contracting states, but to consider whether the carefully considered policy choices made by the United Kingdom Parliament and upheld by its courts have strayed outside the applicable margin of appreciation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1920.58</TimestampBegin>
+        <TimestampEnd>1940.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The United Kingdom Parliament and courts were entitled to conclude that the PPA, in the context of the other duties imposed on those media, was and is the right way of ensuring and enhancing pluralism and equality in political speech.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1940.1</TimestampBegin>
+        <TimestampEnd>1951.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>For these reasons, and those set out in its memorial, the United Kingdom government respectfully invite the court to hold that there has been no violation of the applicant's Article 10 rights.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>1953.36</TimestampBegin>
+        <TimestampEnd>1956.68</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much, Mr Chamberlain.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>1956.68</TimestampBegin>
+        <TimestampEnd>1958.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now I call Mr Tomlinson.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1960.81</TimestampBegin>
+        <TimestampEnd>1979.45</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Madam President, members of the court, in 2005, the applicant NGO prepared a 22nd television advertisement to support its campaign against the exploitation of non-human primates. The</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1979.45</TimestampBegin>
+        <TimestampEnd>1986.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>campaign was called, My Mate's a Primate. The advertisement showed a young girl in a</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1986.81</TimestampBegin>
+        <TimestampEnd>1994.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>cage. It then had a caption which said, a chimp has the mental and emotional age of</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1994.77</TimestampBegin>
+        <TimestampEnd>2003.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>a four year old child. It went on to show a chimpanzee with a voiceover saying that</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2003.09</TimestampBegin>
+        <TimestampEnd>2012.49</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>although they share 98% of our genetic makeup, they are still caged and abused to entertain.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2012.49</TimestampBegin>
+        <TimestampEnd>2019.53</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This advert can be seen today on YouTube, can be looked at any time on the internet.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2019.53</TimestampBegin>
+        <TimestampEnd>2027.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It cannot be shown on television in the United Kingdom. Its broadcast breaches an absolute</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2027.81</TimestampBegin>
+        <TimestampEnd>2037.53</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>statutory prohibition in the Communications Act 2003. This particular advert is not said</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2037.53</TimestampBegin>
+        <TimestampEnd>2046.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>to be offensive or socially divisive. It's not said that in any way it damages or lowers</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2046.73</TimestampBegin>
+        <TimestampEnd>2055.65</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the tone of public debate. It is not in any way objectionable. It is nevertheless banned</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2055.65</TimestampBegin>
+        <TimestampEnd>2063.65</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>from broadcast on United Kingdom television. This is because under English law, a body</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2063.65</TimestampBegin>
+        <TimestampEnd>2082.91</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>whose objects are wholly or mainly of a political nature or an advertisement directed towards a political end cannot be broadcast on television or on radio. This statutory ban is absolute.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2082.91</TimestampBegin>
+        <TimestampEnd>2091.27</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In addition, it has three striking features. First of all, there is the extraordinarily</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2091.27</TimestampBegin>
+        <TimestampEnd>2099.33</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>wide definition of political. This does not just cover an attempt to influence the outcome</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2099.33</TimestampBegin>
+        <TimestampEnd>2115.79</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>of an election, but it covers any attempt to bring about a change in the law or the policies of government or public officials anywhere in the world. This means, to take</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2115.79</TimestampBegin>
+        <TimestampEnd>2141.93</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>a contemporary example, nobody in the United Kingdom could broadcast an appeal to citizens in the United Kingdom to write to the government of Syria saying that the government of Syria should change its policies towards humanitarian aid to civilians in Homs. That would be impossible</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2141.93</TimestampBegin>
+        <TimestampEnd>2150.93</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>because it is an attempt to influence the policies of a foreign government. Put another</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2150.93</TimestampBegin>
+        <TimestampEnd>2168.61</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>way, in practice, in the United Kingdom, it is impossible to use broadcast adverts to contribute to any debate of general interest. The law does not permit it. The second striking</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2168.61</TimestampBegin>
+        <TimestampEnd>2177.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>feature is this. The ban covers only radio and television. The advert can be shown in</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2177.89</TimestampBegin>
+        <TimestampEnd>2187.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the cinema, on the internet. It can be shown on video screens in public places. There is</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2187.09</TimestampBegin>
+        <TimestampEnd>2202.61</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>no prohibition in the United Kingdom on political advertising in the non-broadcast media, although such advertisements are subject to certain content standards. The applicant was able</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2202.61</TimestampBegin>
+        <TimestampEnd>2210.65</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>to place this advert in newspapers. Other campaigning NGOs, such as Amnesty International</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2210.65</TimestampBegin>
+        <TimestampEnd>2227.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and the RSPCA, which supported the applicant in the domestic courts, have placed adverts on billboards, in underground stations or in the cinema. The third point, the third</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2227.77</TimestampBegin>
+        <TimestampEnd>2237.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>striking feature, is that this ban applies to everybody. It is not limited to the rich</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2237.01</TimestampBegin>
+        <TimestampEnd>2255.71</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and powerful, but also to the poor and to those who have very few means of influencing public opinion. The sole exception is that the ban does not apply to established political</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2255.71</TimestampBegin>
+        <TimestampEnd>2266.93</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>parties. Those, as Mr Chamberlain said in his address, are permitted to make broadcasts</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2266.93</TimestampBegin>
+        <TimestampEnd>2274.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>at various times, not just at elections. Those broadcasts are free. So the established parties</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2274.77</TimestampBegin>
+        <TimestampEnd>2302.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>can use these important media, but groups which are campaigning on social advocacy issues, such as the applicant, or political parties that are not contesting the threshold number of seats, do not have the same privilege. It is obvious, and it is not in contest, that</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2302.75</TimestampBegin>
+        <TimestampEnd>2312.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>this prohibition is a very serious interference with the Article 10 rights of the applicant.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2312.41</TimestampBegin>
+        <TimestampEnd>2321.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is, of course, prescribed by law, and we accept that it pursues a legitimate aim. So</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2321.35</TimestampBegin>
+        <TimestampEnd>2336.47</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the sole issue that the Grand Chamber has to consider is whether it is necessary in a democratic society. As the issue has been framed, the Court considers this point in</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2336.47</TimestampBegin>
+        <TimestampEnd>2344.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the context of the previous decisions in VGT, Murphy and TVVest. I will return to those</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2344.43</TimestampBegin>
+        <TimestampEnd>2360.03</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>cases a little later, but the point I want to make now is that they are decisive of the issue before the Grand Chamber. A blanket restriction on political speech of this kind</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2360.03</TimestampBegin>
+        <TimestampEnd>2369.85</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>is not necessary in a democratic society. Even without these cases, we say the point</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2369.85</TimestampBegin>
+        <TimestampEnd>2379.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>really is clear as a matter of principle. The prohibition does not correspond to any</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2379.75</TimestampBegin>
+        <TimestampEnd>2387.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>oppressing social need. It restricts debate on matters of general interest without serving</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2387.75</TimestampBegin>
+        <TimestampEnd>2396.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>any proper or useful purpose. The closing off from public debate of an important medium</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2396.81</TimestampBegin>
+        <TimestampEnd>2406.61</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>of public communication is unhealthy and undemocratic. A vital feature of democratic life is the</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2406.61</TimestampBegin>
+        <TimestampEnd>2414.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>openness of public debate, a public place where all voices have a chance to be heard.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2414.55</TimestampBegin>
+        <TimestampEnd>2434.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Where debate thrives in the marketplace of ideas, this ban cuts that off in an essential part. We say that the prohibition on political advertising is not necessary in a democratic</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2434.41</TimestampBegin>
+        <TimestampEnd>2445.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>society for four basic reasons. The first, and this is not an issue as I understand it,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2445.75</TimestampBegin>
+        <TimestampEnd>2464.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>that it is a restriction on political expression and requires therefore the strictest scrutiny by this court. It is of course also a form of prior restraint. Prior restraint also requires</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2464.99</TimestampBegin>
+        <TimestampEnd>2474.03</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>strict and careful scrutiny. The margin of appreciation must in such a case be a narrow</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2474.03</TimestampBegin>
+        <TimestampEnd>2486.63</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>one. As the chamber emphasised in VGT, the breadth of the margin is also influenced by</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2486.63</TimestampBegin>
+        <TimestampEnd>2503.95</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the fact that what is at stake is not a commercial interest on behalf of the applicant but participation in a debate on matters of general interest. The broad margin of appreciation that Mr Chamberlain</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2503.95</TimestampBegin>
+        <TimestampEnd>2512.33</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>argues for and which was accorded by the domestic courts is not appropriate. It is not appropriate</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2512.33</TimestampBegin>
+        <TimestampEnd>2556.83</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>for this additional reason that the bodies that decided to impose and to carry on this ban are themselves part of the status quo, the political establishment which benefits from it in the sense that the political parties that are represented in the United Kingdom Parliament have the benefit of broadcast advertising, free broadcast advertising, a benefit which is not extended to anyone else. That was my first point. The second point is this. As</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2556.83</TimestampBegin>
+        <TimestampEnd>2575.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I have already said at the outset, the prohibition is on political advertising which is defined in an extraordinarily wide sense. It is not confined to any influence over the democratic</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2575.87</TimestampBegin>
+        <TimestampEnd>2586.59</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>or election process. It is confined to all forms of attempts to influence public policy</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2586.59</TimestampBegin>
+        <TimestampEnd>2596.03</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and social advocacy which is of course what is in issue in this case. Thirdly, there is</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2596.03</TimestampBegin>
+        <TimestampEnd>2607.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>no pressing need for such a wide prohibition. As the Chamber noted in VGT, the fact that</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2607.75</TimestampBegin>
+        <TimestampEnd>2628.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the prohibition only applies to certain media and not to others suggests that the need for it is not particularly pressing. The Government's submissions today ignore this point because</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2628.55</TimestampBegin>
+        <TimestampEnd>2647.95</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>although it is right that television and radio go into people's homes, so does the internet which is completely unregulated when it comes to political content. Finally, and this is</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2647.95</TimestampBegin>
+        <TimestampEnd>2690.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>very important in the context of the consideration that this Grand Chamber has to make, in the particular factual circumstances of this case we are dealing with an advertisement which is accepted to be on a matter of general concern which is neither harmful nor offensive and in the particular circumstances of this case the prohibition cannot be justified and indeed the Government does not set out to do so. The Government's position, the beginning</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2690.19</TimestampBegin>
+        <TimestampEnd>2728.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and the end of the Government's argument on this is that its intention is to prevent democratic debate being hijacked by rich and powerful people because it is said that if the prohibition were to be removed then the rich would dominate the airwaves to the exclusion of all else. But the prohibition affects everybody. It doesn't just silence the rich, it also</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2728.51</TimestampBegin>
+        <TimestampEnd>2778.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>silences the poor and of course it has no effect on the current position where rich people in the United Kingdom and elsewhere can and do purchase newspapers, channel unlimited funds to political parties and campaigns whereas a small financially weak NGO has only a small number of limited opportunities to put its viewpoint across and one of those which is potentially very effective is broadcast, it is prevented from doing so. It is claimed</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2778.55</TimestampBegin>
+        <TimestampEnd>2799.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>that the legislation embodies a balancing of interests to prevent the unfair distortion of public debate but there is no balancing in this case. It is a blanket prohibition</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2799.77</TimestampBegin>
+        <TimestampEnd>2810.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and it prevents alternative social and political groups from using the broadcast media. At</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2810.09</TimestampBegin>
+        <TimestampEnd>2818.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the same time, as I've said, there is a party monopoly. The established political parties</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2818.73</TimestampBegin>
+        <TimestampEnd>2826.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>have a number of opportunities to use the broadcast media to support their viewpoints.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2826.77</TimestampBegin>
+        <TimestampEnd>2856.25</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So the political content of the broadcast media is focused very much on the establishment of the status quo while the minority and the marginalised are barred from using this means of communication. That is not something which serves the interests of a democratic society.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2856.25</TimestampBegin>
+        <TimestampEnd>2877.13</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The ban does not preserve, we say, the integrity of the democratic process but in reality distorts it. The United Kingdom, essentially in support of its argument, puts forward these four points.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2877.13</TimestampBegin>
+        <TimestampEnd>2892.85</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Firstly they say that broadcasting is a uniquely powerful medium of communication because this is how Mr Chamberlain began, how it goes into people's homes. But there is no evidence</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2892.85</TimestampBegin>
+        <TimestampEnd>2910.97</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>or fine-grained analysis to compare with other audiovisual media and the impact that they have. And that's particularly true in the age of the internet. This prohibition was</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2910.97</TimestampBegin>
+        <TimestampEnd>2929.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>introduced at a time when the only medium that went into people's homes was radio and television. Things have changed dramatically over the past two decades. Secondly, the United</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2929.77</TimestampBegin>
+        <TimestampEnd>2946.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Kingdom says advertising on radio and television is particularly expensive and therefore is only the potential preserve of the rich. Again, there's no analysis of that and no comparison,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2946.17</TimestampBegin>
+        <TimestampEnd>2961.93</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>for example, between the costs of a short television advertisement and the costs of an advertisement in the newspapers. The true position, as a matter of obvious common sense,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2961.93</TimestampBegin>
+        <TimestampEnd>2975.25</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>is that the costs vary widely across all media. Thirdly, they say a wholly unregulated market</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2975.25</TimestampBegin>
+        <TimestampEnd>2991.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>for the broadcasting of political advertisements would be open, and these are their words, to the potential mischief of partial political advertising. And so in order to avoid this</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>2991.89</TimestampBegin>
+        <TimestampEnd>3000.45</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>mischief of partiality, it's necessary to have a blanket prohibition. But this isn't</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3000.45</TimestampBegin>
+        <TimestampEnd>3014.05</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>a rational basis for a scheme. As I've already said, excluded from the ban which is designed</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3014.05</TimestampBegin>
+        <TimestampEnd>3026.93</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>to avoid partiality is a built-in partiality in favour of established political parties.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3026.93</TimestampBegin>
+        <TimestampEnd>3042.05</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>If political advertising by the rich were such a threat to the democratic process, then one would have thought it would be more widely regulated. It is not. It is not regulated,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3042.05</TimestampBegin>
+        <TimestampEnd>3049.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>as I've said, in other media. In reality, the phrase partial political advertising is</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3049.81</TimestampBegin>
+        <TimestampEnd>3060.45</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>just another name for complaining about free speech. All speech is partial. What the regulation</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3060.45</TimestampBegin>
+        <TimestampEnd>3085.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>of political advertising in the United Kingdom does, and this is part of its design, is to deprive disadvantaged and alternative groups from an opportunity of advancing their views using one of the effective means of communication available. It is claimed by the government</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3085.77</TimestampBegin>
+        <TimestampEnd>3103.05</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>that its aim is to achieve balance in the broadcast media between different political viewpoints. If so, the ban has failed, because it does not. A whole range of alternative</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3103.05</TimestampBegin>
+        <TimestampEnd>3119.29</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>viewpoints is excluded from broadcast, the political parties being the only ones who have the access. The approach of the United Kingdom government and the approach of the</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3119.29</TimestampBegin>
+        <TimestampEnd>3131.37</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>domestic courts is wrongly based on the assumption that there are only two choices. One, a blanket</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3131.37</TimestampBegin>
+        <TimestampEnd>3144.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>ban on political advertising, or secondly, its complete deregulation. The House of Lords</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3144.17</TimestampBegin>
+        <TimestampEnd>3154.25</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>was, we say, misled by the US example. The constitutional jurisprudence of the United</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3154.25</TimestampBegin>
+        <TimestampEnd>3163.13</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>States, as we all know, takes an absolutist line on freedom of speech. Under the European</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3163.13</TimestampBegin>
+        <TimestampEnd>3171.85</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>constitutional order, under both the convention and the charter, the position is very different.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3171.85</TimestampBegin>
+        <TimestampEnd>3192.61</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This allows for, indeed requires, proportionate restrictions on freedom of speech, restrictions which are tailored to balance rights in specific situations. That is what is required in the</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3192.61</TimestampBegin>
+        <TimestampEnd>3201.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>context of political advertising. The United Kingdom places considerable reliance on the</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3201.09</TimestampBegin>
+        <TimestampEnd>3212.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>decision in the Murphy and Ireland case, but that does not assist it. Religion is not politics.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3212.01</TimestampBegin>
+        <TimestampEnd>3219.49</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Religion is a special case. We know that from the terms of the convention itself, where</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3219.49</TimestampBegin>
+        <TimestampEnd>3229.05</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>specific provision is made under Article 9 in relation to religious rights. The expression</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3229.05</TimestampBegin>
+        <TimestampEnd>3251.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>of religious views gives rise to particular sensitivities, and the court in Murphy rightly recognised that those sensitivities are particularly acute in Ireland. In that case, the court</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3251.73</TimestampBegin>
+        <TimestampEnd>3281.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>recognised the distinction between religious and political speech, a distinction which was correctly relied on by the chamber in the TV vest case when it declined to apply the reasoning in Murphy to a ban on political advertising. The government makes great play</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3281.73</TimestampBegin>
+        <TimestampEnd>3299.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>of the fact that in the domestic courts the applicant accepted that a ban on political advertising may be justified at election times. It goes on to say, if you accept it is justified</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3299.17</TimestampBegin>
+        <TimestampEnd>3321.15</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>at election times, it is really just a matter of detail that the ban is extended to all times because you are recognising the special nature of broadcasting and the importance of its regulation. But that does not follow. It is right, and we accept, that the integrity</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3321.15</TimestampBegin>
+        <TimestampEnd>3330.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>of the democratic process may require special protection, particularly at time of elections.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3330.81</TimestampBegin>
+        <TimestampEnd>3349.69</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>For example, the United Kingdom and many other countries place special restrictions on election expenditure in the promotion of the candidacy of someone at an election. The expenditure</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3349.69</TimestampBegin>
+        <TimestampEnd>3359.21</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>that can be made on their campaign is limited by rules of statute. That is a perfectly proper</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3359.21</TimestampBegin>
+        <TimestampEnd>3370.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>protection. But similar restrictions are not placed on expenditure beyond election times.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3370.41</TimestampBegin>
+        <TimestampEnd>3389.53</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Campaigns outside the time of elections in the United Kingdom are outside the broadcast area completely unregulated. In the same way, if restrictions are placed as may be proper,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3389.53</TimestampBegin>
+        <TimestampEnd>3405.23</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>if restrictions are placed on political advertising during the time of an election, it does not follow that that justifies a ban on political advertising at all times for all purposes.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3405.23</TimestampBegin>
+        <TimestampEnd>3416.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The ban is grossly over-inclusive. The United Kingdom makes great play of its concerns about</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3416.41</TimestampBegin>
+        <TimestampEnd>3426.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the difficulties in establishing and enforcing an alternative regulatory framework. Alternative</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3426.01</TimestampBegin>
+        <TimestampEnd>3435.39</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>regulatory frameworks have been devised in a number of other Council of Europe states.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3435.39</TimestampBegin>
+        <TimestampEnd>3460.07</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is not suggested that the terrible results that the United Kingdom foresees for the removal of the ban in the United Kingdom have resulted in those states. What is relied on is a floodgates</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3460.07</TimestampBegin>
+        <TimestampEnd>3477.21</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>argument which involves the spectre of rich interest groups seizing control of the political agenda by means of political advertising. That involves generalising from the very specific</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3477.21</TimestampBegin>
+        <TimestampEnd>3493.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>experiences of the United States to the very different position in the United Kingdom and in other European states. These floodgates arguments are not on any analysis convincing,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3493.09</TimestampBegin>
+        <TimestampEnd>3498.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>and the fears that the United Kingdom relies on are overblown. The United Kingdom is not</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3498.89</TimestampBegin>
+        <TimestampEnd>3517.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the United States, and a relaxation of a proportionate form on the existing ban, particularly in relation to social advocacy groups, would not faithfully undermine the democratic process.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3517.01</TimestampBegin>
+        <TimestampEnd>3523.85</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The ban, as I have said already, in its current form favours the political establishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3523.85</TimestampBegin>
+        <TimestampEnd>3538.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr Chamberlain mentioned various bodies which had considered the ban and had decided it was the only way forward. They were part of the existing political process, and they were</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3538.17</TimestampBegin>
+        <TimestampEnd>3546.61</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>not. The position is very different when it comes to social advocacy groups and NGOs.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3546.61</TimestampBegin>
+        <TimestampEnd>3563.13</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As I have already said, groups such as Amnesty International and the RSPCA, who campaign on very well-known issues, supported the applicant in this case. The measure, we say, is really</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3563.13</TimestampBegin>
+        <TimestampEnd>3582.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>aimed at preserving the political status quo, which is not a proper form of justification under Article 10. Can I just say something very briefly about the VGT and TV vest cases?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3582.09</TimestampBegin>
+        <TimestampEnd>3598.53</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In these cases, chambers of the court held and confirmed that a total ban on political advertising is not necessarily a democratic society. There were some crucial points of</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3598.53</TimestampBegin>
+        <TimestampEnd>3606.33</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>similarity between those cases and this one. First of all, in those cases, the respondent</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3606.33</TimestampBegin>
+        <TimestampEnd>3622.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>government sought to justify a blanket ban in order to protect the public against powerful financial groups, exactly the same basis that the UK government advances in this case. Those</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3622.19</TimestampBegin>
+        <TimestampEnd>3631.71</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>arguments were rejected in the two cases I mentioned. Secondly, as in the present case,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3631.71</TimestampBegin>
+        <TimestampEnd>3646.15</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>it was not said that the advertisements in question were offensive or lowered the quality of political debate, as in this case. And then, as in this case, the advertisers were</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3646.15</TimestampBegin>
+        <TimestampEnd>3655.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>not powerful financial groups. The United Kingdom's attempt to distinguish those cases,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3655.75</TimestampBegin>
+        <TimestampEnd>3666.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>to say that they have no application, is misconceived. They are directly applicable in this case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3666.75</TimestampBegin>
+        <TimestampEnd>3674.23</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The reasoning is correct, and it should be followed. There is nothing said by the United</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3674.23</TimestampBegin>
+        <TimestampEnd>3682.63</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Kingdom which warrants departure by the Grand Chamber from those decisions. They represent</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3682.63</TimestampBegin>
+        <TimestampEnd>3694.59</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the correct analysis and application of the legal principles, and it's in the interests of both certainty and the development of the court's jurisprudence to follow them. The</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3694.59</TimestampBegin>
+        <TimestampEnd>3712.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>court should dismiss the objections to those cases and reaffirm the decisions in VGT and TVVest. There is no doubt, Madam President, Members of the Court, that the applicants'</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3712.51</TimestampBegin>
+        <TimestampEnd>3724.79</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>campaigns in relation to the treatment of animals, and specifically the treatment of primates in this case, contribute to debates of general interest. The applicant should</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3724.79</TimestampBegin>
+        <TimestampEnd>3734.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>not be prevented from using the most effective campaigning tools which are available to it.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3734.75</TimestampBegin>
+        <TimestampEnd>3743.91</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The democratic process is not best protected by a blanket ban. It is best protected by</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3743.91</TimestampBegin>
+        <TimestampEnd>3759.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>a focused and proportionate set of measures which balance the interests of all and promote, rather than restrict, debate in the general interest. For those reasons, and for those</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3759.51</TimestampBegin>
+        <TimestampEnd>3771.03</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>which are set out in our memorial, we invite the court to declare that the application is admissible and to find that there has been a breach of Article 10 of the Convention in this case.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3775.06</TimestampBegin>
+        <TimestampEnd>3777.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much, Mr. Tomlinson.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3777.74</TimestampBegin>
+        <TimestampEnd>3784.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now I would like to know and to invite the judge of the Grand Chamber to put any questions they may have to the parties.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3784.66</TimestampBegin>
+        <TimestampEnd>3786.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So the floor is open to the judges.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3793.1</TimestampBegin>
+        <TimestampEnd>3794.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>No questions?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3794.58</TimestampBegin>
+        <TimestampEnd>3796.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Everything is clear?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3796.82</TimestampBegin>
+        <TimestampEnd>3802.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So if there is no question, just wait a little bit.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3802.62</TimestampBegin>
+        <TimestampEnd>3808.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>OK, well, if there is no question, I think we can immediately proceed to the reply.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3808.22</TimestampBegin>
+        <TimestampEnd>3811.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So I will give the floor first to Mr. Chamberlain</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3811.86</TimestampBegin>
+        <TimestampEnd>3815.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>for the reply, and we have 10 minutes for that.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>3815.66</TimestampBegin>
+        <TimestampEnd>3816.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So I call Mr. Chamberlain.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3820.63</TimestampBegin>
+        <TimestampEnd>3830.11</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Madam President, members of the court, there are a number of points which were raised by Mr. Tomlinson in his speech, to which I</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3830.11</TimestampBegin>
+        <TimestampEnd>3832.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>would like to respond.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3832.51</TimestampBegin>
+        <TimestampEnd>3846.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The first was his suggestion that the United Kingdom government has not established that broadcast media are more potent and pervasive than other media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3846.43</TimestampBegin>
+        <TimestampEnd>3853.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In particular, he referred to the prominence in recent years of the internet.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3853.81</TimestampBegin>
+        <TimestampEnd>3858.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Well, the answer to that is fourfold.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3858.35</TimestampBegin>
+        <TimestampEnd>3877.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, the unique potency and pervasiveness of the broadcast media have been recognized by this court on at least two occasions, in particular in the Yersilk case at paragraph 31, and in the Murphy case at paragraph 69.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3877.99</TimestampBegin>
+        <TimestampEnd>3893.31</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In both of those cases, this court recognized that the broadcast media's potency and pervasiveness were a reason why special restrictions may be applicable to those media which are not applicable to other media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3893.31</TimestampBegin>
+        <TimestampEnd>3905.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The second response refers back to the evidence of the chief executive of the applicant organization herself.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3905.35</TimestampBegin>
+        <TimestampEnd>3914.47</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>She filed witness evidence in the domestic proceedings, and her witness evidence was to this effect.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3914.47</TimestampBegin>
+        <TimestampEnd>3927.31</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>She said, so far as we are concerned, the only effect of the ban is to prevent us from having access to what she called the most influential advertising option.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3927.31</TimestampBegin>
+        <TimestampEnd>3934.57</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is no accident that the applicant organization has brought this claim.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3934.57</TimestampBegin>
+        <TimestampEnd>3939.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They want to have access to these particular media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3939.35</TimestampBegin>
+        <TimestampEnd>3954.23</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And the reason they want to have access to these media is because they recognize what this court has recognized, namely that these media have a special place in terms of their potency and pervasiveness.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3954.23</TimestampBegin>
+        <TimestampEnd>3958.53</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And that is why Mr. Justice Ouseley in the divisional court</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3958.53</TimestampBegin>
+        <TimestampEnd>3970.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>in the domestic proceedings in this case said that it was not really a matter of serious debate that broadcast media were more potent and pervasive than any other.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3970.35</TimestampBegin>
+        <TimestampEnd>3975.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And that is why Lord Bingham, for a unanimous House of Lords, agreed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3978.39</TimestampBegin>
+        <TimestampEnd>3984.67</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The fourth point by way of response on potency and pervasiveness is this.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3984.67</TimestampBegin>
+        <TimestampEnd>3995.67</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicant organization acknowledges that special restrictions may be applicable to broadcast media alone at election time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3995.67</TimestampBegin>
+        <TimestampEnd>3996.59</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now, why is that?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3996.59</TimestampBegin>
+        <TimestampEnd>4011.03</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It can only be because they recognize that these media, they're not suggesting for one moment that such restrictions may be applied to other media at election time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4011.03</TimestampBegin>
+        <TimestampEnd>4018.11</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And the reason for that is that they must recognize, they do recognize, that the broadcast media are special.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4020.91</TimestampBegin>
+        <TimestampEnd>4030.83</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The second issue on which I need to reply concerns the cost of advertising in the broadcast media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4030.83</TimestampBegin>
+        <TimestampEnd>4033.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And Mr. Tomlinson suggested that there</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4033.99</TimestampBegin>
+        <TimestampEnd>4042.71</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>was no evidence in these proceedings as to the relative cost of advertising in different media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4042.71</TimestampBegin>
+        <TimestampEnd>4052.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Well, first of all, there was, in fact, indicative evidence of the cost of TV advertising in the witness statement of Mr. Ramsay, which</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4052.35</TimestampBegin>
+        <TimestampEnd>4061.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>was placed before the domestic courts in this case, and which is in the annexes to the United Kingdom's memorial.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4061.55</TimestampBegin>
+        <TimestampEnd>4066.83</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. Ramsay pointed out in paragraph 35 of his statement</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4066.83</TimestampBegin>
+        <TimestampEnd>4085.07</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>that figures provided by the government's Central Office of Information state that the average production costs of a television commercial range between a quarter of a million pounds and half a million pounds, with more expensive advertisements costing up to two million pounds.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4085.07</TimestampBegin>
+        <TimestampEnd>4087.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And that is just the production costs.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4087.87</TimestampBegin>
+        <TimestampEnd>4091.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The cost of airtime is also very significant.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4091.19</TimestampBegin>
+        <TimestampEnd>4109.91</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>A peak time 30-second spot, for example, during a popular program such as Coronation Street, a soap opera, which is broadcast in the United Kingdom, can cost up to 85,000 pounds, although daytime spots can cost significantly less.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4109.91</TimestampBegin>
+        <TimestampEnd>4116.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now, in any event, as the domestic courts held, it doesn't really matter.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4116.99</TimestampBegin>
+        <TimestampEnd>4127.63</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It's not an important part of the United Kingdom's case to say that the cost of advertising in the broadcast media is much higher than the cost in other media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4127.63</TimestampBegin>
+        <TimestampEnd>4140.31</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is sufficient to note that the cost makes advertising in the broadcast media out of reach to many groups who wish to participate in the public debate.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4140.31</TimestampBegin>
+        <TimestampEnd>4144.03</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And again, I would refer back to the evidence of Ms.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4144.03</TimestampBegin>
+        <TimestampEnd>4149.95</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Creamer, the chief executive of the applicant organization, who said this.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4149.95</TimestampBegin>
+        <TimestampEnd>4158.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>She said, at the outset of any campaign, we tend to be in debate with powerful industries with huge financial advantages over us.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4158.87</TimestampBegin>
+        <TimestampEnd>4168.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The advertising spending power of these industries in one day is more than the nonprofit sector can put together in a year.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4168.99</TimestampBegin>
+        <TimestampEnd>4173.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That is the position as she was advancing it to the court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4173.35</TimestampBegin>
+        <TimestampEnd>4183.71</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And it is, in my submission, a correct analysis of the cost of advertising in this expensive medium.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4183.71</TimestampBegin>
+        <TimestampEnd>4188.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The third point raised by Mr. Tomlinson</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4188.19</TimestampBegin>
+        <TimestampEnd>4206.71</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>is that the ban, the PPA, in its current form was put in place by the political establishment and benefits the political establishment to the detriment of alternative voices in civil society, such as the applicant organization.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4206.71</TimestampBegin>
+        <TimestampEnd>4209.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Well, there are several answers to that.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4209.55</TimestampBegin>
+        <TimestampEnd>4218.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, it's an extraordinary suggestion that the PPA benefits politicians as a class.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4218.75</TimestampBegin>
+        <TimestampEnd>4235.23</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Experience in the United States and elsewhere shows that if political advertising in the broadcast media is unregulated, candidates and parties whose policies appeal to big business stand to benefit hugely.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4235.23</TimestampBegin>
+        <TimestampEnd>4241.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Taking away this ban will not be to the detriment of politicians as a class.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4241.87</TimestampBegin>
+        <TimestampEnd>4251.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It will be to the benefit of some politicians whose policies happen to benefit those with the deepest pockets.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4251.19</TimestampBegin>
+        <TimestampEnd>4256.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Second, it's quite possible to establish a political party.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4256.75</TimestampBegin>
+        <TimestampEnd>4270.79</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Even very small ones with very little prospect of returning any candidates in an election have in the past fielded enough candidates to qualify for free party political party election broadcasts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4270.79</TimestampBegin>
+        <TimestampEnd>4282.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Examples from recent years include parties such as the Pro-Life Alliance, the British National Party, the Scottish Socialist Party, the English Democrats.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4282.87</TimestampBegin>
+        <TimestampEnd>4294.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>None of these parties are ones which have succeeded in obtaining representation in the United Kingdom Parliament or who have any realistic prospect of doing so.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4294.19</TimestampBegin>
+        <TimestampEnd>4301.69</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Yet they have all had party political and election broadcasts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4301.69</TimestampBegin>
+        <TimestampEnd>4313.83</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Third, and in any event, there is no evidence that the prohibition on political advertising has had any adverse impact on these alternative voices in civil society.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4313.83</TimestampBegin>
+        <TimestampEnd>4324.59</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The United Kingdom has a thriving third sector, as it's known, and its NGOs are internationally known and respected.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4324.59</TimestampBegin>
+        <TimestampEnd>4333.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Fourthly, the suggestion that's been put across by Mr. Tomlinson that the broadcast media in the United</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4333.19</TimestampBegin>
+        <TimestampEnd>4341.31</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Kingdom contains no discussion of controversial political issues is entirely misplaced.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4341.31</TimestampBegin>
+        <TimestampEnd>4352.79</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There is, of course, on the broadcast media in the United Kingdom plenty of discussion of controversial issues, such as those relating to animal welfare.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4352.79</TimestampBegin>
+        <TimestampEnd>4362.61</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And there is every opportunity for animal welfare groups to ventilate their views and for those views to be reported by the broadcast media.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4362.61</TimestampBegin>
+        <TimestampEnd>4374.23</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The way it's done in the United Kingdom is that this is mediated through a broadcast media which has a statutory obligation of impartiality.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4374.23</TimestampBegin>
+        <TimestampEnd>4394.95</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So cases that have been raised, not just in relation to the issues which the applicant organization itself is concerned about, but in relation to other issues, issues about the international situation in Syria, for example, are well reported in the broadcast media in the United Kingdom.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4394.95</TimestampBegin>
+        <TimestampEnd>4401.27</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They are reported through a media which has obligations of impartiality.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4401.27</TimestampBegin>
+        <TimestampEnd>4411.49</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And that is the method by which the United Kingdom ensures a proper respect for different viewpoints in its broadcast media.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>4414.61</TimestampBegin>
+        <TimestampEnd>4421.61</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much, Mr. Chamberlain. Now, I call Mr. Tomlinson for the defendant.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4423.77</TimestampBegin>
+        <TimestampEnd>4426.57</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Madam President, members of the court, thank you very much.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4426.57</TimestampBegin>
+        <TimestampEnd>4429.57</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I'll be brief in my response.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4429.57</TimestampBegin>
+        <TimestampEnd>4434.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The first point I make in response to Mr. Chamberlain</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4434.01</TimestampBegin>
+        <TimestampEnd>4435.97</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>is this.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4435.97</TimestampBegin>
+        <TimestampEnd>4455.57</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>He says, and he said this at the outset of his address to the court, and he made the point on a number of occasions, that the power of the broadcast media means that in the interests of democracy, it requires some form of regulation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4455.57</TimestampBegin>
+        <TimestampEnd>4458.93</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We agree with that.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4458.93</TimestampBegin>
+        <TimestampEnd>4473.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is not and never has been the applicant's position that the alternative to the present position must be a wholly unregulated regime for political advertising.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4473.01</TimestampBegin>
+        <TimestampEnd>4486.13</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Where we part company is on his next statement, which is that the present regime allows for a wide range of viewpoints.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4486.13</TimestampBegin>
+        <TimestampEnd>4488.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Those were his words.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4488.09</TimestampBegin>
+        <TimestampEnd>4497.97</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And they are not borne out by what, in fact, happens because there is an impartiality requirement.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4497.97</TimestampBegin>
+        <TimestampEnd>4509.21</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But that does not necessarily mean that anybody who puts a viewpoint forward will have it reported at all.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4509.21</TimestampBegin>
+        <TimestampEnd>4513.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>He then says there are free party political broadcasts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4513.09</TimestampBegin>
+        <TimestampEnd>4515.29</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I've already made the point about that.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4515.29</TimestampBegin>
+        <TimestampEnd>4520.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They apply only to parties who have a certain number of candidates.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4520.35</TimestampBegin>
+        <TimestampEnd>4524.49</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But they don't apply at all to social advocacy groups.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4524.49</TimestampBegin>
+        <TimestampEnd>4538.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And then he says, rather curiously, that the prohibition on political advertising, the third element, is part of the regime which encourages a wide range of viewpoints.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4538.41</TimestampBegin>
+        <TimestampEnd>4544.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That is obviously wholly unsustainable.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4544.73</TimestampBegin>
+        <TimestampEnd>4564.69</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The second point that he makes, and he made, again, a great play of, is that it is, I think his point was it was really beyond human devising.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4564.69</TimestampBegin>
+        <TimestampEnd>4575.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It was impossible to work out a coherent regulatory system which wasn't a blanket prohibition.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4575.89</TimestampBegin>
+        <TimestampEnd>4579.25</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We make two points in relation to that.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4579.25</TimestampBegin>
+        <TimestampEnd>4590.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The first is that the difficulties he identifies are greatly exaggerated and overblown.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4590.09</TimestampBegin>
+        <TimestampEnd>4613.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We see from the EPROS survey that we've attached to our memorial, and has been referred to on a number of occasions, that many different regimes exist which provide for coherent and appropriate regulation of political advertising.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4613.01</TimestampBegin>
+        <TimestampEnd>4644.05</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But in any event, we make the point, and the point is made at paragraph 93 of our memorial, that as this grand chamber said in the case of Hearst and the United Kingdom, it is not for the court or the applicant to devise a new scheme if a scheme is found to be in breach of convention rights.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4644.05</TimestampBegin>
+        <TimestampEnd>4669.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Perfectly properly, if this court declares that there is a violation of Article 10, it is a matter for the national authorities to devise a proper and appropriate way of dealing with that decision of the court, of implementing the court's judgment in accordance with local conditions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4669.01</TimestampBegin>
+        <TimestampEnd>4671.65</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That's perfectly proper and sensible.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4671.65</TimestampBegin>
+        <TimestampEnd>4682.25</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So we say that that second point about practical difficulties is not a good one.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4682.25</TimestampBegin>
+        <TimestampEnd>4687.85</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thirdly, Mr. Chamberlain says, and I</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4687.85</TimestampBegin>
+        <TimestampEnd>4708.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>think I noted his words, I hope I noted his words down correctly, it would be a very strong thing indeed for the court to say that the ban in this case was outside the margin of appreciation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4708.77</TimestampBegin>
+        <TimestampEnd>4728.57</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That he asked this grand chamber to say, well, because the United Kingdom authorities have considered the matter carefully, then the court should say we will accept that way of approaching things.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4728.57</TimestampBegin>
+        <TimestampEnd>4738.01</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And because there's not a European consensus, we should therefore accept the way that the United Kingdom does things.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4738.01</TimestampBegin>
+        <TimestampEnd>4742.21</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now, that is not the correct approach.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4742.21</TimestampBegin>
+        <TimestampEnd>4753.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And it's not the correct approach because he says, look at the strength and importance of the interests at stake.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4753.73</TimestampBegin>
+        <TimestampEnd>4768.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>He raises the specter of a removal of the advertising ban, destabilizing the political process, destabilizing democracy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4768.81</TimestampBegin>
+        <TimestampEnd>4772.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We say that that is completely overblown.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4772.17</TimestampBegin>
+        <TimestampEnd>4780.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But it's also, we can turn it around and look at the importance of the interests at stake from the other side.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4780.77</TimestampBegin>
+        <TimestampEnd>4798.85</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We are here talking about the very highest and most important form of political speech, the form that has the strongest protection under Article 10, political expression, debates on matters of general interest.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4798.85</TimestampBegin>
+        <TimestampEnd>4802.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And we are talking about prior restraint.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4802.17</TimestampBegin>
+        <TimestampEnd>4817.33</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now, in that situation, it is not a very strong thing indeed for the chamber, the grand chamber, to take a different view from the United Kingdom.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4817.33</TimestampBegin>
+        <TimestampEnd>4832.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>On the contrary, it will be a very strong thing indeed for the chamber, the grand chamber, to defer to the United Kingdom's assessment without subjecting it to the strictest scrutiny.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4832.41</TimestampBegin>
+        <TimestampEnd>4852.25</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And we say that the scrutiny that the chambers of this court subjected similar bans to in VGT and TVVest, and the approach that was taken in those two decisions is the one that the grand chamber should take in this case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4852.25</TimestampBegin>
+        <TimestampEnd>4880.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And it should declare that the prohibition is that the margin of appreciation does not help the United Kingdom, and declare that the prohibition, as it applies in the circumstances of this case, to an NGO engaged in proper, reasonable social advocacy, it's a breach of Article 10 to prevent it from doing that.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4880.41</TimestampBegin>
+        <TimestampEnd>4880.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Madam President, I thank you.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>4884.61</TimestampBegin>
+        <TimestampEnd>4888.71</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So, we have now come to the end of the hearing.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>4888.71</TimestampBegin>
+        <TimestampEnd>4892.05</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I thank very much the parties for their interventions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>4892.05</TimestampBegin>
+        <TimestampEnd>4896.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court will now deliberate on the admissibility and merits.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>4896.43</TimestampBegin>
+        <TimestampEnd>4902.95</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The judgment will be delivered late, and the party, of course, will be informed of the date of the delivery.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Françoise Tulkens</Name>
+        <TimestampBegin>4902.95</TimestampBegin>
+        <TimestampEnd>4907.07</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So I declare the hearing closed, and I wish you all a very good day.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+</transcript_4887608_07032012>

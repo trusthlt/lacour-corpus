@@ -1,0 +1,1993 @@
+[[Announcer;UNK]]
+
+<<9.7;10.38;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<49.58;51.42;en>>
+Please be seated.
+
+<<55.78;67.94;en>>
+I declare open the public hearing on the admissibility and merits in the case of Lopes de Sousa Fernandes versus Portugal.
+
+<<67.94;81.54;en>>
+The application was lodged with the court on 23 August 2013 under Article 34 of the Convention by a Portuguese national, Mrs. Maria Isabel Lopes de Sousa Fernandes
+
+<<82.94;92.78;en>>
+The application was allocated to the fourth section of the court pursuant to Rule 52, paragraph 1 of the rules of the court.
+
+<<92.78;100.1;en>>
+The application was communicated to the government on 13 October 2014.
+
+<<100.1;108.78;en>>
+On 15 December 2015, a chamber of the fourth section delivered its judgment in the case.
+
+<<108.78;120.58;en>>
+On 11 March 2016, the government requested that the case be referred to the ground chamber in accordance with Article 43 of the Convention.
+
+<<120.58;126.46;en>>
+And the panel of the ground chamber accepted the request on 2 May 2016.
+
+<<126.46;144.58;en>>
+On 29 July 2016, the president of the ground chamber granted leave to the United Kingdom government and to the government of Ireland to submit written comments under Article 44, paragraph 3 of the rules of the court.
+
+<<144.58;149.3;en>>
+The government are represented by their agent, Mrs. Maria de Fátima Da Graça  Carvalho, Deputy Attorney General, assisted by Mrs. Ana Garcia Marques
+
+<<156.06;160.1;en>>
+and Dr. Maria Elaine Sousa Pina, advisors.
+
+<<160.1;163.94;en>>
+The applicant is represented by her counsel, Mr. Ricardo Sá Fernandes, assisted by Mrs. Inês Rogeiro, Mrs. Andreia Martins,
+
+<<170.34;173.3;en>>
+and Dr. Domingos Machado, advisors.
+
+<<173.3;177.74;en>>
+I welcome the representatives in the name of the court.
+
+<<177.74;189.2;en>>
+I also welcome, among others, a delegation of judges from Russia and Luxembourg, as well as a delegation of judges and prosecutors from Belarus.
+
+<<189.2;198.26;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<198.26;201.74;en>>
+Mr. Sá Fernandes for the applicant will speak first,
+
+<<201.74;206.18;en>>
+and then Mrs. Da Graça Carvalho for the government.
+
+<<206.18;222.82;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Russian has been authorized for the benefit of the Russian-speaking judges attending this hearing.
+
+<<222.82;232.32;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<232.32;234.22;en>>
+I call Mr. Sá Fernandes.
+
+<<234.22;234.22;en>>
+You have the floor, please.
+
+[[Applicant;AP1]]
+
+<<244.13;246.33;fr>>
+salutation à la Cour.
+
+<<247.73;267.85;fr>>
+C'est un honneur, mais aussi une grande responsabilité, de participer dans cette audience publique à la Grande Chambre de la Cour européenne des droits de l'homme à propos de ce terrible affaire qui a conduit à la mort de l'époux de la rétérente que nous représentons, Mme Sosefnadj.
+
+<<269.53;283.93;fr>>
+Nous sommes conscientes de l'importance de la jurisprudence qui sera affermie après la demande de renvoi par le gouvernement portugais, à laquelle les gouvernements du Royaume-Uni et de l'Irlande se sont associés.
+
+<<285.57;301.41;fr>>
+A nos jours, la Cour européenne des droits de l'homme est la plus importante référence, on dirait même un phare, dans la construction d'un ordre juridique international qui assure en effet le respect pour les droits de l'homme.
+
+<<301.41;311.73;fr>>
+Dans notre pays, le Portugal, l'influence bénéfique et très stimulante de la jurisprudence de la Cour européenne dans la vie judiciaire portugaise est évidente.
+
+<<312.41;328.09;fr>>
+Dans des sujets comme par exemple la liberté d'expression et la garantie d'une justice en temps sans délai excessif, les Portugais sont débitaires à la Cour d'une gratitude pour un progrès indiscutable de ces étalons de justice.
+
+<<328.09;332.73;fr>>
+Les circonstances de l'espèce.
+
+<<332.93;337.49;fr>>
+Rappelons les circonstances de l'espèce les plus importantes.
+
+<<338.49;346.17;fr>>
+Antonio Rui, l'époux de la requérante, était un homme jeune, robuste et sain.
+
+<<347.09;368.13;fr>>
+Le 25 novembre 1987, l'époux de la requérante fut admis à l'hôpital de Villanova de Gaia, pour être soumis à une polypectomie nasale, l'extraction des polypes nasaux, une intervention simple et courante.
+
+<<369.37;383.97;fr>>
+Deux jours plus tard, après sortie de l'hôpital, l'époux de la requérante a été pris de violents maux de tête et se présenta aux urgences du même hôpital à 1h30 du matin, le 29 novembre.
+
+<<383.97;393.25;fr>>
+Il fut examiné par les médecins de garde, lesquels diagnostiquèrent des troubles d'ordre psychologique et lui ont prescrit des tranquillisants.
+
+<<393.97;399.97;fr>>
+Ils ont même demandé sa sortie de l'hôpital, mais la requérante s'en opposa.
+
+<<401.29;432.29;fr>>
+Le lendemain, à 9h, l'époux de la requérante fut observé par la nouvelle équipe médicale de garde, laquelle s'est aperçue de la gravité de la situation et a demandé des examens médicaux, notamment une ponction lombaire qui détecta une mélangite bactérienne, pseudomonas sépacia, raison pour laquelle, cet après-midi, il fut transféré à l'unité des soins intensifs de l'hôpital.
+
+<<432.81;438.81;fr>>
+Le 30 novembre, un scanner révela l'existence d'un édème cérébral.
+
+<<438.81;498.53;fr>>
+À partir de ce moment-là, il s'est suivi une angoissante évolution jusqu'à son décès, le 8 mars, et entre-temps, il y a eu 4 sorties de l'hôpital, 13 décembre, 23 décembre, 9 janvier et 3 février, lesquelles se sont suivies de nouvelles hospitalisations avec une séquence de complications cliniques que, dans une mesure aucune, sont devenues de la mélangite bactérienne grave, c'est-à-dire des ulcères doignales, diarrhées aigües, douleurs abdominales, anémies très graves avec besoin de transfusions sanguines, colites infectieuses avec ulcères, infections à clostridium difficile, acides, c'est-à-dire liquides anormaux dans l'abdomen, rectolithes, aggravation des douleurs abdominales, péritonites, déclenchées par la préforation d'une ulcère, septicémie et le décès.
+
+<<498.73;523.97;fr>>
+A l'origine de cette chaîne, nous avons la mélangite provoquée par une bactérie hospitalaire qui n'a pas été diagnostiquée et traitée avec la promptitude que les circonstances d'espèce exigeaient, ce qui a eu pour conséquence la nécessité de l'intensification de la maladie, et par conséquence la nécessité de l'intensification de l'action antibactérienne.
+
+<<524.21;544.41;fr>>
+Cette circonstance a déterminé la dégradation de l'état de santé de la victime, en contribuant ainsi pour l'apparition des complications, notamment d'infections opportunistes et d'ulcères qui, se suivant les unes les autres, ont déterminé son décès.
+
+<<544.41;551.69;fr>>
+A l'invention de ce qui précède, c'est correct l'enchaînement de propositions de l'arrêt de la cour.
+
+<<551.89;581.69;fr>>
+Mélangite bactérienne provoquée par une infection hospitalaire, inaction du service d'urgence, ce qui a impliqué un retardement de son traitement pour plus de huit heures, besoin de recourir à une action antibactérienne intense, débilitation générale du patient, déchaînement d'ulcère, apparition d'infections opportunistes qui se sont suivies, jusqu'à la péritonite, qui a déterminé la septicémie, qui a été la cause directe du décès.
+
+<<583.69;586.09;fr>>
+Les questions en debat.
+
+<<587.17;603.53;fr>>
+Tenant en compte ces circonstances d'espèce bien établies par la Cour européenne, voyons quelles sont les principales questions qui posent les gouvernements du Portugal, du Royaume-Uni et de l'Irlande.
+
+<<604.65;636.65;fr>>
+En premier, la question de savoir si l'arrêt de la Cour européenne du 15 décembre a fait une correcte interprétation de l'obligation substantive positive à un soin de santé, comme prévu à l'article 2 de la Convention, en ligne avec la jurisprudence de la Cour, ou si, au contraire, l'affaire de manière erronée, divergeant manifestement de la jurisprudence déjà rendue par la Cour, dans des cas similaires.
+
+<<638.25;654.13;fr>>
+En deuxième, la question de savoir si les fautes commises sont suffisantes pour qu'on établit qu'elles ont contribué de façon importante pour mettre en risque la vie de la victime, qui dans cette affaire a fini pour décéder.
+
+<<655.49;676.81;fr>>
+En troisième, la question de savoir si l'autonomie technique de l'Etat portugais et des expertises scientifiques effectuées a été respectée, ou si, au contraire, la Cour a fait un jugement clinique pour lequel elle n'avait pas la capacité.
+
+<<678.09;682.37;fr>>
+Je vais maintenant développer le débat sur ces trois questions.
+
+<<682.89;684.93;fr>>
+Pour nous, ce sont les questions fondamentales.
+
+<<684.93;687.49;fr>>
+La première question.
+
+<<688.49;705.69;fr>>
+L'arrêt de la Cour commence pour rappeler que la première phrase de l'article 2 impose à l'Etat non seulement de s'abstenir de donner la mort intentionnellement, mais aussi de prendre les mesures nécessaires à la protection de la vie des personnes relevant de sa juridiction.
+
+<<706.81;713.01;fr>>
+Ce point-là est à nos jours pacifique quant à l'interprétation de l'article 2 de la Convention.
+
+<<713.01;720.01;fr>>
+Ensuite, la Cour relève que tels principes sont aussi applicables dans le domaine de la santé publique.
+
+<<720.21;738.41;fr>>
+La Cour dit que les obligations positives énoncées ci-dessus impliquent donc la mise en place par l'Etat d'un cadre réglementaire imposant aux hôpitaux, qu'ils soient publics ou privés, l'adoption des mesures propres à assurer la protection de la vie de leurs malades.
+
+<<739.21;747.21;fr>>
+Cette orientation est la première et cette orientation ne se discute pas non plus.
+
+<<747.41;774.01;fr>>
+En plus, sur la trace de la jurisprudence rendue dans d'autres affaires, la Cour souligne qu'il ne suffit pas l'existence d'une erreur de jugement ou d'une mauvaise coordination entre les professionnels de la santé pour mettre le problème sur l'angle de l'obligation positive de protéger le droit à la vie au terme d'article 2 de la Convention.
+
+<<775.21;778.41;fr>>
+C'est aussi un point qu'on ne discute pas.
+
+<<779.41;794.21;fr>>
+Et c'est surtout à ce propos que les gouvernements du Portugal, du Royaume-Uni et de l'Irlande soutiennent que, dans le cas d'espèces, il y a eu une inversion ou une subversion de la jurisprudence établie.
+
+<<794.21;801.01;fr>>
+Nous croyons cependant que les objections relevées n'ont pas raison d'être.
+
+<<802.21;832.01;fr>>
+Ce qui la jurisprudence dans les affaires similaires a établi, voire les affaires Saint-Urc, Ascaïa, Ghent et Koujoukarou, et ce qui a été suivi dans le cas d'espèces, c'est qu'une erreur de jugement médical ou une mauvaise coordination entre les services médicaux n'est pas suffisante pour condamner un État par violation de l'obligation positive de protéger le droit à la vie.
+
+<<833.61;852.41;fr>>
+Mais cette condamnation doit forcément exister quand de telles situations impliquent, dans des termes pratiques et effectifs, un manque important d'assistance médicale qui, selon un standard minimum, est raisonnable d'attendre.
+
+<<854.41;859.01;fr>>
+Nous croyons que c'est celle-ci la vexata question.
+
+<<860.41;871.41;fr>>
+Les gouvernements contestants croient l'erreur de jugement ou le dysfonctionnement des services comme une barrière définitive et insurmontable.
+
+<<873.01;882.41;fr>>
+Mais en réalité, ce que la jurisprudence a établi, c'est que c'est celle à la orientation à suivre.
+
+<<883.21;896.61;fr>>
+Sauf quand, dans une de ces situations, résulte le manque de prestations de soins de santé lesquelles, selon un standard minimum, on devrait attendre.
+
+<<897.81;907.61;fr>>
+C'était la solution adoptée par l'arrêt de notre affaire, comme il en arrivait déjà dans les autres affaires préalables surmentionnées.
+
+<<909.01;921.61;fr>>
+Dans l'affaire Saint-Urc, la Cour a considéré qu'il n'était pas raisonnable que le médecin ait déterminé le transfert de Mme Saint-Urc parce qu'il connaissait l'urgence de l'intervention chirurgicale.
+
+<<923.01;939.01;fr>>
+Dans l'affaire Askia, la Cour a considéré, devant le refus de la victime à recevoir le traitement, en tenant compte des symptômes qui révélaient une perturbation mentale, l'hôpital devrait avoir en temps évalué son capacité de refuser.
+
+<<940.21;955.21;fr>>
+Dans l'affaire Janss, la Cour a décidé que le petit Tolga Janss avait été victime d'un dysfonctionnement des services hôpitaliers qui n'ont pas mis à sa disposition les moyens adéquats à l'urgence de la situation.
+
+<<956.61;970.61;fr>>
+Dans l'affaire Ko Joukharou, la Cour a décidé aussi que la fille de la récurrente a été victime d'une manque de coordination des services médicaux lesquels n'ont pas assuré la prontitude des soins de santé nécessaires.
+
+<<972.41;986.41;fr>>
+Dans la présente affaire, la question cruciale est donc de savoir si le traitement de la mélangite a été administré avec la prontitude que les circonstances de l'espèce exigeaient.
+
+<<986.41;988.41;fr>>
+Et la réponse est une seule.
+
+<<988.61;989.61;fr>>
+Non.
+
+<<990.41;999.21;fr>>
+L'équipe de l'urgence a gravement ignoré, au mécunu, la polychétomie nasale qui venait d'être réalisée dans ce même hôpital.
+
+<<999.41;1020.21;fr>>
+Soit par une très grave erreur du jugement, soit par une insoutenable décoordination des services, la réalité, c'est que l'époux de la récurrente a été sans assistance médicale, quand, selon un standard d'exigence minimum, il la devrait avoir eue en termes pratiques et effectifs.
+
+<<1020.41;1029.61;fr>>
+Dans tous ces cas, les affaires que j'ai dites, c'est toujours possible de configurer à l'origine une erreur de jugement ou un dysfonctionnement des services.
+
+<<1030.01;1033.21;fr>>
+Mais ce n'est pas ça qui génère la responsabilité des États.
+
+<<1033.81;1054.61;fr>>
+Cette responsabilité existe dans ces cas parce que l'erreur ou le dysfonctionnement ont conduit, en termes pratiques et effectifs, à un grave manque d'assistance médicale qui a mis en risque une vie humaine quand c'était raisonnable, selon un standard minimum, de l'attendre.
+
+<<1054.81;1074.81;fr>>
+Pour que l'on considère qu'il y a eu une violation sous volet matériel de l'article 2, il faut établir qu'en concrète, la prontitude et la diligence sur lesquelles il était raisonnable de compter aux circonstances de l'espèce ont échoué, n'assurant pas qu'effectivement la victime ait accès aux soins de santé minimum.
+
+<<1075.81;1091.41;fr>>
+Et c'est précisément ce manque d'accès aux soins de santé appropriés, selon un standard minimum, qui configure une violation par l'État portugais de son obligation de protéger l'intégrité physique et la vie de l'époux de la récréante.
+
+<<1093.81;1122.01;fr>>
+Dans les observations du gouvernement du Royaume-Uni, on souligne la différence entre l'obligation pour l'État d'adopter les mesures pour protection des patients, ce qui serait sur le ressort de l'article 2 de la Convention, contrairement aux « deficiencies in the provision of medical treatment by healthcare professionals and hospital staff », ce qui aurait hors le champ d'application de la norme.
+
+<<1123.61;1137.01;fr>>
+Si la distanciation se devait mettre en termes si radicaux et insurmontables, le gouvernement du Royaume-Uni n'aurait pas de raison, comme il résulte de la jurisprudence des affaires Santour-Kaskaye against Kolch-Oktarou.
+
+<<1138.41;1154.41;fr>>
+Pourtant, la vérité, c'est que dans ces observations, le gouvernement du Royaume-Uni finit par accepter qu'en certaines situations, comme dans les affaires Santour-Keyjens, la particularité et la sévérité de la situation justifient la responsabilité de l'État.
+
+<<1154.41;1175.01;fr>>
+Également, le gouvernement de l'Irlande, lequel dans ses observations exclut aussi en général qu'un erreur de jugement ou le manque de coordination peuvent gérer la responsabilité de l'État, finit par reconnaître la pertinence de cette responsabilité quand elle faut se traduise d'un « denial of care medical treatment ».
+
+<<1176.21;1192.01;fr>>
+C'est-à-dire, les gouvernements du Royaume-Uni et de l'Irlande savent qu'il n'est pas possible d'établir une barrière définitive et incontournable entre l'existence des règles qui assurent un standard minimum de soins médicaux et la situation concrète où ces mécanismes ne sont pas assurés.
+
+<<1193.41;1203.01;fr>>
+Et c'est comme ça parce que la Convention n'attend pas seulement que les États assurent en termes législatifs ou réglementaires la prestation de soins de santé minimum.
+
+<<1204.01;1220.41;fr>>
+Elle va plus loin, comme la jurisprudence de la Cour l'interprète, exigeant que cela se traduise dans une effective prestation de soins médicaux minimum à ceux qui en ont besoin et avec lesquels on devrait raisonnablement compter.
+
+<<1222.81;1231.61;fr>>
+Bref, dans cette affaire, comme dans les autres, nous ne sommes pas simplement devant une erreur ou un dysfonctionnement de service.
+
+<<1231.81;1248.61;fr>>
+Nous sommes devant une situation où, dû à une erreur d'évaluation ou à un dysfonctionnement de service, la victime a été privée de soins médicaux minimum, lesquels, selon un standard minimum, il était raisonnable d'attendre.
+
+<<1249.01;1259.41;fr>>
+Donc, ce manque a mis en risque la vie de la victime, laquelle a fini pour mourir à la séquence d'une chaîne d'événements déterminée par ce fait originaire.
+
+<<1259.41;1262.41;fr>>
+Et maintenant, je vais passer à la deuxième question.
+
+<<1263.41;1276.61;fr>>
+Dans un deuxième plan, il faut vérifier si les faits établis permettent de conclure que la chaîne d'événements postérieurs qui ont conduit au décès de la victime.
+
+<<1276.81;1300.01;fr>>
+C'est une ligne d'argumentation très chère au gouvernement portugais pour laquelle il n'existe pas un lieu de causalité entre l'épisode survenu le 29 novembre et les événements survenus ultérieurement, notamment le cadre clinique présenté en mars, qui a déterminé une intervention chirurgicale abdominale à la suite laquelle le patient est décédé.
+
+<<1300.61;1303.61;fr>>
+Avec tout le respect, ce n'est pas le point.
+
+<<1304.21;1316.61;fr>>
+Le gouvernement portugais confond cause directe du décès avec le lien de causalité entre l'événement considéré et la chaîne d'événements postérieurs.
+
+<<1316.61;1333.81;fr>>
+Il est évident que le manque d'assistance en temps à la méningite n'a pas été la cause directe du décès, lequel a été directement déterminé par la septicémie provoquée par le péritonite déclenché par l'ulcère.
+
+<<1334.01;1341.41;fr>>
+Cependant, ce dernier événement est le corollaire d'une chaîne de complications cliniques, notamment des ulcères et des infarctions.
+
+<<1341.61;1361.21;fr>>
+La chaîne d'événements postérieures est une chaîne de complications notamment des ulcères et des infarctions opportunistes dues à l'état de santé débilité du malade, lequel a été créé par la méningite bactérienne et le subséquent traitement auquel il était soumis, d'autant plus intense qu'en tardivement déclenché.
+
+<<1363.21;1383.61;fr>>
+Or, comme la Cour a déjà jugé dans l'affaire Dodoff, mentionnée dans nos observations, l'article 2 de la Convention n'est pas limité au moment et à la cause directe de la mort, pouvant être considéré à la séquence d'événements déclenchés par une action qui conduit plus tard à la mort.
+
+<<1385.61;1436.41;fr>>
+La circonstance de la méningite a été considérée soignée à la sortie de l'hôpital le 13 décembre et insignifiante, parce que c'était son existence associée au traitement auquel la victime a été soumise, lequel a commencé trop tard, ce qui a forcément aggravé l'état de stress et de débilitation du patient, l'obligeant à se soumettre à une thérapie intense, qui a contribué pour l'apparition des observeurs déjà identifiés à l'observation clinique du 10 décembre, de nouveau révélés à l'internement le 19 décembre, lesquels, à leur fois, ont contribué pour l'état de dégradation qui a facilité l'apparition des subséquentes infections opportunistes jusqu'à la mort de l'époux de la requérante, dont la cause la plus prochaine a justement été la préforation d'une de ses ulcères.
+
+<<1438.21;1456.81;fr>>
+Ce qu'on vient d'exposer, le sujet de causalité, tel comme il est exposé par le gouvernement portugais, pouvait être important si on évaluait la responsabilité criminelle ou civile d'une personne en fonction d'une intervention portuelle dans la chaîne d'événements.
+
+<<1456.81;1458.21;fr>>
+Mais ce n'est pas le cas.
+
+<<1459.41;1477.41;fr>>
+Dans cette affaire, ce qu'on apprécie, c'est la circonstance de que, indépendamment de la cause concrète, la victime a été privée des soins de santé, ce qui a déterminé un cadre clinique lequel a déclenché une chaîne d'événements conduisant à son décès.
+
+<<1477.61;1479.81;fr>>
+Je vais maintenant aborder la troisième question.
+
+<<1481.81;1499.21;fr>>
+La troisième question concerne la thèse du gouvernement portugais, basée surtout dans l'opinion décidante des juges Sajo et Tzotzori, selon laquelle l'arrêt a interféré dans le jugement technique et scientifique des tribunaux portugais et des expertises faites à son propos.
+
+<<1499.61;1501.81;fr>>
+Mais on ne peut pas aborder le sujet dans ces termes.
+
+<<1502.81;1518.61;fr>>
+La décision du tribunal criminal Villanovegaj, qui a jugé l'éventuelle mauvaise pratique du médecin qui a autorisé la sortie du malade de l'hôpital de 3 février, concerne à peine ce cas isolé, ce qui n'est pas en cause dans cette affaire.
+
+<<1519.61;1545.61;fr>>
+D'autre part, les tribunaux administratifs ont fini pour se fonder au fait absolument insignifiant selon lequel la nature et l'origine de la bactérie qui a provoqué la mélangite n'avait pas été établie avec certitude, ce qui, en plus contradictoire avec les aimants cliniques faits par l'hôpital Villanovegaj, lequel a identifié comme pseudomonas sepacia une bactérie strictement hôpitalière.
+
+<<1546.61;1559.61;fr>>
+Mais ça, c'est insignifiant pour le sujet en discussion parce que, quelle que soit l'origine de la bactérie, personne ne discute pas ce qui a déterminé l'hôpitalisation du 29 novembre a été l'occurrence d'une mélangite bactérienne.
+
+<<1561.61;1588.61;fr>>
+En plus, les tribunaux administratifs sont reportés seulement à des appréciations génériques sur le manque de démonstration de violation de la légis artich sans jamais apprécier la question concrète depuis toujours soutenue par la récurrente sur le complet manque de soins de santé quand, à l'aube du 29 novembre, son époux a été privé d'assistance médicale et même demandé de rentrer chez lui, ce qui ne se n'est pas arrivé parce que la récurrente s'en s'est opposée.
+
+<<1590.61;1600.61;fr>>
+D'autre part, il est vrai que la généralité des expertises a considéré un terme généraux qu'il n'y a pas eu aucune violation de la légis artich et cela se relève.
+
+<<1602.61;1626.61;fr>>
+En ce qui concerne la situation qui s'est passée au service d'urgence de l'hôpital de Lolland-Wittgeier, la seule expertise que s'est prononcée sur ce qui est arrivé avec l'équipe d'urgence qui a reçu la victime le 29 novembre était le Collège des maladies infectieuses, lequel a été parentoir, en soulignant leur retard inexplicable, du diagnostic de la ménégite.
+
+<<1627.61;1633.61;fr>>
+Aucune des autres expertises ne s'est prononcée sous sursautger l'escamentant de ces rapports.
+
+<<1634.61;1646.61;fr>>
+C'est-à-dire, l'arrêt de la course est basé dans les expertises faites dans la juridiction interne sur des points indiscutables, incontestables pour les autres expertises.
+
+<<1648.61;1664.61;fr>>
+Premier, l'événement qui a émené les poux de la récréante à l'hôpital à l'aube du 29 novembre était une ménégite, laquelle constitue une complication pouvant souvenir exceptionnellement après une polychotomie nasale.
+
+<<1666.61;1673.61;fr>>
+Deuxième, cette situation n'a été objet d'aucun traitement jusqu'au moment où, déjà le matin, la victime a été évaluée par une autre équipe médicale.
+
+<<1673.61;1698.61;fr>>
+Troisième, ce délai a créé la nécessité d'une intensification de l'action antibactérienne, si qui, en conjection avec le stress prolongé, a déterminé la dégradation de l'état de la santé de la victime, en contribuant ainsi à l'apparition des complications, notamment d'infarctions opportunistes et ulcères qui, sous suivant les uns les autres, ont déterminé son décès.
+
+<<1698.61;1729.61;fr>>
+On ne peut pas confondre le jugement générique de la juridiction interne portugaise quant à l'inobservance de la violation de la législature avec la situation concrète identifiée par la Cour, basée sur un désexpertise national, lesquels dans cet aspect ne sont pas contestés parce qu'effectivement, à l'aube du 29 novembre, l'époux de la récurrente a été privé d'assistance médicale et c'est ça qui a mis en risque sa vie.
+
+<<1729.61;1734.61;fr>>
+Bref, la Cour a respecté les expertises nationales.
+
+<<1734.61;1753.61;fr>>
+Elle les a valuées avec prudence et raisonnablement, en fonction de la situation concrète de grave manque d'assistance, ce qui fut le facteur que gère la responsabilité de l'État portugais pour la violation de l'article 2 de la Convention selon son volet matériel.
+
+<<1753.61;1756.61;fr>>
+Et maintenant, trois notes finales.
+
+<<1756.61;1802.61;fr>>
+La première, pour dire qu'à notre égard, au-delà de l'événement de l'aube du 29 novembre, il y a eu, au moins, une autre situation concernant ce qui s'est passé le 7 et 8 mars suivants, laquelle confiure aussi un manque de soins médicaux minimum, que les circonstances justifiaient, quand, jugeant nécessaire une intervention chirurgicale, parce qu'il existait une forte probabilité d'avoir existé la préforation d'une lèvre, il n'a pas existé la préforation d'une serre d'oie d'enal, et elle n'a pas été réalisée que 24 heures plus tard, ce qui n'est pas justifiable, comme il résulte du jugement technique fait par le Collège des maladies infectieuses et par le Collège de cirurgie générale.
+
+<<1802.61;1826.61;fr>>
+La deuxième note, pour souligner son apte de développer le thème de la violation de l'article 2 sous son volet procédural, parce que c'est un sujet, on croit, consensuel, lequel n'a pas été objet de l'opinion décidante ni des observations des gouvernements du Royaume-Uni et d'Irlande et, marginalement, par le gouvernement portugais.
+
+<<1826.61;1835.61;fr>>
+C'est un sujet sur lequel on salue l'arrêt de la Cour et on renvoie pour les observations que nous avons présentées au mois d'août.
+
+<<1835.61;1849.61;fr>>
+Finalement, je veux remercier très ému en mon nom et en nom des collègues qui m'accompagnent, à Mme Lopes-Sous-Fernandes, laquelle lutte depuis 20 ans pour que la justice soit faite.
+
+<<1849.61;1856.61;fr>>
+Elle n'a pas de formation juridique, ni connaît pas la langue française ni l'anglaise.
+
+<<1856.61;1880.61;fr>>
+Sans de ressources économiques pour couvrir les honoraires d'un avocat, elle s'est présentée toute seule devant la Cour européenne, excrimant ses points de vue avec intelligence et sensibilité et, délivrée à elle-même, elle a conduit sa requête jusqu'à son sous-sexe avec l'arrêt du 15 novembre 2015 de cette Cour.
+
+<<1880.61;1887.61;fr>>
+Elle est une citoyenne dans laquelle on devrait tous se reconnaître.
+
+<<1887.61;1901.41;fr>>
+Finalement, en ce qui concerne la demande de satisfaction équitable, la récréante renvoie pour qu'elle a déjà présenté devant la Cour et, en tout cas, accepte la décision rendue à ce propos d'un arrêt du 15 décembre.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1903.67;1906.87;fr>>
+Merci beaucoup, maître Sá Fernandes.
+
+<<1907.07;1910.03;fr>>
+Et la parole est maintenant à Mme Da Graça Carvalho.
+
+<<1910.03;1911.03;fr>>
+Merci beaucoup. C'est la parole de madame.
+
+[[Government;GR1]]
+
+<<1915.66;1927.06;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, permettez-moi tout d'abord de vous présenter mes compliments ainsi qu'à Maître Ricardo Savernandes, je suis l'avocat de la récurrente, et à ses conseillers.
+
+<<1928.82;1945.86;fr>>
+La question soulevée dans cette affaire et qui est à l'origine de ce renvoi à la Grande Chambre est cruciale pour la définition du champ d'application de l'article 2 de la Convention, surtout dans son volet matériel, dans le cas du décès d'un patient survenu à un hôpital.
+
+<<1947.06;1958.22;fr>>
+En fond de compte, il s'agit de savoir quelles sont les limites de l'interprétation de nos normes qui a été originellement consacrée en vue des cas de mort intentionnelle.
+
+<<1958.98;1975.74;fr>>
+Toutefois, il ne s'agit pas ici de son application à des cas de décès par négligence médicale avérée, ni à des cas de refus de prestation de soins médicaux, ni même d'un refus de prise en charge mettant en danger la vie d'une personne.
+
+<<1977.1;1980.9;fr>>
+La présente affaire pose une question différente et nouvelle.
+
+<<1982.02;2008.86;fr>>
+Si un éventuel manque de coordination ou un dysfonctionnement de service qu'une espèce n'a même été prové en enterre, et même s'il n'a pas causé la morte d'une personne, et, j'ajoute, s'il n'a même mis en danger la vie d'une personne, si il peut encore entraîner une violation de l'article 2, protection du droit à la vie, nommément sur son volet matériel.
+
+<<2010.38;2046.42;fr>>
+Rappelons que la thèse sur laquelle la récréante a fondé sa requête, l'existence d'une suite de défauts et d'erreurs au cours du procès clinique de son mari, liée entre eux avec des rapports de cause à effet, depuis la première chirurgie, l'extraction des polypes du nez, à laquelle il a été soumis en novembre 1997 à Villeneuve-Gaillet, jusqu'à son décès, survenu en mars de l'année suivante à un autre hôpital, suite à la perforation du doigt d'énum.
+
+<<2048.46;2062.54;fr>>
+Cette thèse, répétons, d'une successive causalité, n'a jamais été démontrée au cours des différents procès qui ont été engagés au niveau interne.
+
+<<2063.3;2100.14;fr>>
+Plus précisément, la récréante soutient que, lors de cette première chirurgie, une bactérie hospitalière s'est logée dans l'organisme de son mari, laquelle aurait provoqué chez lui une méningite bactérienne, diagnostiquée tardivement par le même hôpital, ce qui a fait que son mari a été enceint par une bactérie hospitalière, ce qui aurait déterminé la prescription d'antibiotiques trop fort, causant des complications au niveau abdominal, dont il viendrait à décéder trois mois plus tard.
+
+<<2100.82;2104.9;fr>>
+Or, rien ne confirme la thèse de la récréante.
+
+<<2105.06;2112.38;fr>>
+En effet, rien ne permet de conclure que la méningite a été causée par une infection hospitalière.
+
+<<2112.38;2120.82;fr>>
+Rien ne permet de conclure que la méningite a été diagnostiquée tardivement, comme on expliquera plus avant.
+
+<<2120.98;2133.3;fr>>
+Et rien ne permet aussi de conclure que dans le cas où la méningite aurait été diagnostiquée quelques heures plus tôt, d'autres antibiotiques moins forts auraient été prescrits.
+
+<<2133.46;2146.06;fr>>
+Ce rapport de cause à effet résulte d'une spéculation de la récréante, non démontrée scientifiquement, continue comme prouvée dans les différents procès instaurés.
+
+<<2146.22;2173.74;fr>>
+Il faut tenir compte des faits qui ont été établis par les instances internes aux moyens des procès qui ont respecté les exigences d'un procès équitable, dans lesquels la récréante a eu l'opportunité de présenter sa version, d'être entendue à une audience publique devant des juges, de présenter des moyens de preuve, de contradire les versions et les preuves présentées par l'autre parti, et encore de réclamer de former court des décisions qui lui ont été défavorables.
+
+<<2173.9;2190.06;fr>>
+En effet, des différents procès internes de nature civile, pénale et disciplinaire ont été instaurés, en épuisant toutes les démarches nécessaires à l'éclaircissement des faits et à la détermination des responsabilités.
+
+<<2190.26;2202.78;fr>>
+Les juridictions internes ont conclu notamment que le bloc opératoire où l'extraction des polyp de nez a eu lien était asétique et stérilisé.
+
+<<2202.94;2214.34;fr>>
+Qu'il n'était pas été prouvé que la méningite était causée par cette chirurgie, étant donné que la bactérie n'était pas d'origine hospitalière.
+
+<<2214.5;2221.98;fr>>
+Que la méningite a été diagnostiquée le jour même de l'internement du patient au service d'urgence.
+
+<<2222.18;2228.98;fr>>
+Que celui-ci a été examiné peu après son accueil par un neurologue.
+
+<<2229.14;2239.06;fr>>
+Que lorsque le patient s'est adressé plus tard au même hôpital présentant d'autres complications, la méningite était déjà complètement guérie.
+
+<<2239.22;2248.1;fr>>
+Que son décès est dû à une perforation du doigt d'un homme sans rapport avec la maladie du colon dont le patient a été soigné.
+
+<<2248.26;2264.78;fr>>
+Dans tous les cas, les décisions ont été dans le sens qu'il n'était pas prouvé que la mort qui a chronologiquement suivi la méningite ait eu pour cause sine qua non une quelconque conduite négligente des agents des hôpitaux.
+
+<<2264.98;2273.1;fr>>
+Ou qu'à aucun moment, le patient n'a été soumis à une thérapie ou à des médicaments non appropriés à sa situation clinique.
+
+<<2273.26;2279.14;fr>>
+Aucune violation des législatures ne se vérifie ainsi, ni par ration, ni par omission.
+
+<<2279.3;2287.54;fr>>
+Tel que la Cour suprême administrative l'a dit, la récurrente se fonde essentiellement sur des faits qui ne sont pas prouvés.
+
+<<2287.74;2296.78;fr>>
+Tout se résume, de la sorte, à une négligence médicale supposée, sans appui sur les faits établis.
+
+<<2296.94;2313.38;fr>>
+D'autre part, suite aux plaintes déposées par la récurrente, une enquête a été instaurée par l'Inspection générale de la santé, laquelle a été rouverte deux fois à la demande de la récurrente pour effectuer les démarches qu'elle demandait.
+
+<<2313.54;2319.7;fr>>
+Et l'Ordre des médecins, lui aussi, instaura une procédure de nature disciplinaire.
+
+<<2319.86;2342.5;fr>>
+Le dossier clinique a été joué et analysé, et des avis ont été sollicités aux différents collèges de la spécialité de l'Ordre des médecins, cinq collèges, composés d'Hespères dans les domaines d'octorine, maladies infectieuses, gastro-entérologie, chirurgie générale et médecine interne.
+
+<<2342.62;2350.18;fr>>
+Ici aussi, il a été conclu qu'il n'y avait pas d'indice de négligence médicale et le procès fut rayé du rôle.
+
+<<2350.34;2360.42;fr>>
+En somme, aucune négligence médicale n'a été établie par les juridictions internes ou par d'autres entités responsables dans le domaine de la santé.
+
+<<2360.58;2385.86;fr>>
+De même, l'existence d'un lien de causalité successif entre l'extraction des polypes du nez, la méningite et les complications survenues plus tard, notamment le cadre clinique présenté en mars de l'année suivante qui a déterminé la chirurgie suite à laquelle le patient est décédé, ces successions causales n'ont pas été établies non plus.
+
+<<2386.02;2401.7;fr>>
+En espèce, aucune situation de négligence médicale n'a été vérifiée et pas non plus de refus de prestations de soins et aucun manque de coordination entre les services de l'hôpital de Villeneuve-Gaillet s'est pas non plus avéré.
+
+<<2401.86;2409.66;fr>>
+Par conséquent, aucune base factuelle ne peut étayer la conclusion à laquelle la Chambre est parvenue.
+
+<<2409.74;2419.22;fr>>
+Toutefois, il convient de décrire, tel que nous a été demandé, la façon dont l'Etat portugais remplit les obligations positives découlant de l'article 2.
+
+<<2419.38;2437.98;fr>>
+Il faut rappeler tout d'abord que compte tenu de la jurisprudence de la Cour, les obligations positives des Etats dans le cadre de l'article 2 impliquent l'existence d'un cadre réglementaire imposant aux hôpitaux publics et privés l'adoption de mesures propres à assurer la protection de la vie de ces malades.
+
+<<2438.14;2452.02;fr>>
+Et un autre, l'existence d'un système judiciaire indépendant et effectif permettant, en cas de décès du patient causé par une faute ou une négligence, l'établissement des faits et la détermination des responsabilités.
+
+<<2452.18;2466.5;fr>>
+L'Etat portugais disposait à l'époque d'un cadre normatif solide applicable aux établissements de santé qui protégeait les droits des malades et qui établissait les mesures adéquates à la protection de la santé et de la vie.
+
+<<2466.66;2485.74;fr>>
+La Constitution de la République consacrait, et elle consacre toujours, le droit à la protection de la santé assuré en moyen d'un service national de santé universel, général et tendanciellement gratuit, constitué en 1979 et couvrant tout le pays.
+
+<<2485.9;2489.82;fr>>
+Le système de santé était doté d'une réglementation adéquate.
+
+<<2489.98;2494.9;fr>>
+Le service hospitalier était réglementé en termes d'organisation et de fonctionnement.
+
+<<2495.06;2500.26;fr>>
+Les hôpitaux disposaient d'organes de gestion et de direction cliniques et techniques.
+
+<<2500.42;2504.14;fr>>
+Les malades étaient titulaires d'un statut comprenant des droits et des devoirs.
+
+<<2504.3;2507.46;fr>>
+Ils pouvaient présenter des plaintes et formuler des réclamations.
+
+<<2507.46;2526.34;fr>>
+La prontitude et la qualité de l'assistance figuraient entre les droits des patients, l'accueil, y compris au service d'urgence, l'enternement en cas de besoin, le diagnostic et tous les soins et traitements étaient exigibles aux médecins hospitaliers.
+
+<<2526.5;2542.98;fr>>
+Les médecins étaient assujettis au respect des règles déontologiques et dans l'exercice de leurs fonctions, ils étaient tenus d'appliquer les gestes artiches et les connaissances de la technique et de la science médicale selon les bonnes pratiques et les protocoles cliniques.
+
+<<2543.14;2555.34;fr>>
+Le ministère de la Santé était tenu de définir les normes et les critères d'assistance hospitalière, d'établir des directives et de vérifier la qualité des soins fournis à la population.
+
+<<2555.5;2564.62;fr>>
+Les hôpitaux privés étaient, eux aussi, soumis à un licenciement et à la fiscalisation des autorités de santé.
+
+<<2564.62;2580.62;fr>>
+Mais la Cour a demandé une information spécifique sur les règles et standards en vigueur à l'époque des faits, en particulier concernant la sécurité du patient en contexte chirurgical.
+
+<<2580.78;2592.86;fr>>
+Or, à cette époque, la fin de l'année 1997, presque 20 ans se sont déjà écoulés, un projet de contrôle de l'infection était en cours.
+
+<<2592.86;2607.62;fr>>
+Les responsables de ce projet ont divulgué, en 1996, un ensemble de recommandations pour la prévention et le contrôle des infections nosocomiales dans les institutions de santé.
+
+<<2608.22;2627.1;fr>>
+Chaque établissement de santé devrait définir un programme global de contrôle de l'infection, coordonné et mis en oeuvre par une commission interdisciplinaire, la Commission de contrôle de l'infection, créée cette même année, 1996, par une ordonnance du directeur général de la santé.
+
+<<2627.26;2639.82;fr>>
+Ce programme envisageait la vigilance épidémiologique de tous les aspects liés aux structures, aux procédés et aux résultats afférents aux infections exogènes croisées.
+
+<<2639.98;2659.34;fr>>
+On envisageait aussi la formation, la mise en oeuvre de politiques et de normes concernant toutes les situations de risque, dont les techniques asethiques, l'emploi d'antibiotiques, des politiques de nettoyage, de désinfection, de stérilisation, de circulation de personnes, d'équipements et de matériel.
+
+<<2659.5;2682.06;fr>>
+Entre-temps, la direction générale des hôpitaux avait déjà divulgué, en 1986, auprès des hôpitaux publics et privés, les recommandations du Conseil de l'Europe sur le contrôle des infections, notamment la recommandation 84-20 du comité de ministre sur la prévention des infections hospitalières.
+
+<<2682.22;2702.26;fr>>
+Il faut ajouter que l'hôpital de Villeneuve-de-Gaël, suivant ces recommandations, a créé, en 1994, une commission dévouée à la lutte contre l'infection hospitalière, dont les activités comprenaient la surveillance épidémiologique, la mise en oeuvre d'énormes recommandations et la formation.
+
+<<2702.42;2727.94;fr>>
+Concernant la prévention de l'infection au lien où se fait-il la chirurgie dans le même hôpital, on souligne l'uniformisation des procédés d'hygiène hospitalière, l'optimisation des procédés de stérilisation, les protocoles de prophylaxie chirurgicale, les intérations adressées aux micro-organismes, problèmes, tels qu'est décrit dans le bulletin informatif publié par cet hôpital.
+
+<<2728.1;2742.98;fr>>
+En conclusion, à cette époque, l'Etat portugais avait déjà mis en oeuvre des recommandations et il avait déjà créé des structures pour combattre l'infection hospitalière, notamment en contexte chirurgical.
+
+<<2743.18;2747.94;fr>>
+Et ce combat était interprét à l'hôpital de Villeneuve-Gaillet.
+
+<<2748.18;2762.34;fr>>
+Il faut rappeler d'ailleurs qu'il a été prouvé dans les procès internes que le bloc opératoire de cet hôpital, où la blessure de polypédinée a eu lieu, était ascétique et stérilisé.
+
+<<2762.34;2776.9;fr>>
+Or, ce constat met en cause la thèse invoquée par la récurrente qui repose sur une séquence d'événements qui aurait eu à leur origine une infection contratée à cette occasion, une infection hospitalière.
+
+<<2777.94;2802.78;fr>>
+De plus, et sans prétendre entrer dans des considérations de nature scientifique, le fait est que les examens n'ont pas révélé l'existence d'une solution de continuité, une fissure, qui aurait permis l'entrée de la bactérie, ce qui exclut, selon les experts, l'hypothèse de l'infection opératoire et indique que la bactérie aura pénétré par la circulation sanguine.
+
+<<2802.94;2806.78;fr>>
+Soit disant, il s'agisserait d'une bactérie endogène.
+
+<<2807.22;2831.22;fr>>
+Compte tenu de tout ce qui a été décrit, force est de conclure qu'aucune violation de toute règle des législatives ou de tout protocole clinique ne s'est pas vérifiée, notamment en ce qui concerne la prévention de l'infection pendant la polypectomie ou le diagnostic de l'aménogyte suite à la même chirurgie, de laquelle je parlerai un peu plus tard.
+
+<<2831.58;2847.9;fr>>
+Tous les soins, les traitements et les interventions que se sont montrées adéquates ont été assurés et les procédés techniques et scientifiques que devant les données connues au moyen des examens effectués se montraient les plus efficaces et adéquates ont été suivis.
+
+<<2848.06;2862.14;fr>>
+Par conséquent, il n'y a eu aucun manquement à une obligation positive de nature substantive, notamment un manque manifest de prestations de soins essentielles ou un refus d'accueil ou de présence en charge.
+
+<<2863.62;2875.38;fr>>
+Mais l'Etat portugais disposait également d'un système judiciaire indépendant et d'un système d'enquête qui permettait d'établir les faits et la responsabilité criminelle, civile et disciplinaire des agents.
+
+<<2876.14;2890.34;fr>>
+Toute l'activité hospitalière était soumise à la fiscalisation et les actes ou les omissions des médecins qui auraient un franc des devoirs de zèle ou des règles déontologiques pouvaient déterminer la responsabilité disciplinaire.
+
+<<2890.5;2901.22;fr>>
+En cas de négligence, dont aurait résulté le décès du patient, une enquête pour le crime d'homicide négligent était instaurée.
+
+<<2902.06;2909.18;fr>>
+De plus, la responsabilité civile pouvait être établie et des indemnités pouvaient être attribuées aux victimes.
+
+<<2910.02;2921.7;fr>>
+Or, dans le cas d'espèce, tous ces moyens ont été saisis et les procès sont arrivés à leur terme avec des conclusions et des décisions qui n'ont pas confirmé les doutes de la récurrente.
+
+<<2922.86;2935.22;fr>>
+En effet, face à ces doutes, tous les mécanismes de contrôle judiciaire et administratif disciplinaire ont été déclenchés, lesquels ont permis d'éclaircir les questions posées avec rigueur et objectivité.
+
+<<2935.74;2947.94;fr>>
+Les faits ont été investigués, plusieurs médecins et experts, dont quelqu'un indiqué par la récurrente, ont été entendus, des avis des collèges de spécialité ont été obtenus.
+
+<<2948.42;2969.7;fr>>
+Finalement, les entités compétentes, en tribunal pénal, en tribunal administratif, la Cour suprême administrative, l'Inspection générale de la santé et l'Ordre des médecins, tous ont conclu dans le sens de l'inexistence de négligence ou d'erreur commise par les médecins dans l'assistance qui a été fournie au patient.
+
+<<2970.3;2976.14;fr>>
+Aucune question de manque de coordination des services ne s'est pas non plus posée ni démontrée.
+
+<<2976.82;2991.7;fr>>
+De surcroît, la cause du décès a été établie et elle a été inscrite dans la documentation officielle du certificat du décès, selon laquelle la cause était une sepsis péritonite due à la perforation du doigt d'un homme.
+
+<<2992.3;3009.1;fr>>
+Enfin, concernant les éclaircissements auxquels le procès a été conduit, il faut rappeler la jurisprudence de la Cour selon laquelle l'exigence procédurale découlant de l'article 2 est une obligation de moyens et non pas de résultats.
+
+<<3009.1;3021.26;fr>>
+Or, les autorités nationales ont fait tous les efforts pour éclaircir les aspects factuels dans les limites que la science les permet et pour déterminer, le cas échéant, les responsabilités.
+
+<<3022.14;3036.86;fr>>
+Même la durée des procès, due à la préoccupation de l'éclaircissement exact des faits et des responsabilités, compte tenu aussi des doutes suscités par les réclarants, ne devrait pas donner lieu elle-même à une violation de l'obligation procédurale d'enquêter.
+
+<<3036.86;3042.58;fr>>
+Ceci signifie que dans cette partie, la réclarant a invoqué la violation de l'article 6 de la Convention.
+
+<<3043.46;3065.46;fr>>
+Pour conclure, dans cette partie, on dira que l'Etat portugais disposait, à l'époque, d'un cadre réglementaire adéquat en matière de santé publique et qu'il disposait d'un système judiciaire indépendant ainsi qu'un arsenal juridique qui permettait la détermination des faits et la responsabilité en cas de délai.
+
+<<3065.46;3074.74;fr>>
+La responsabilité en cas de décès d'un patient casé par un manquement ou par négligence médicale, ce qui n'a pas été vérifié en espèce.
+
+<<3076.22;3089.06;fr>>
+Par conséquent, force est de conclure que les circonstances de l'affaire ne révèlent aucune inexécution des obligations positives qui auraient tombé sur l'Etat pour protéger le droit à la vie au terme de l'article 2.
+
+<<3089.22;3098.14;fr>>
+Pour terminer, il s'impose une référence à l'arrêt de la Chambre du 15 décembre 2015 qui en a conclu autrement.
+
+<<3099.06;3124.06;fr>>
+En effet, bien que la Chambre ait reconnu que la thèse de la récréante concernant l'infection nosocomiale et la négligence médicale ont été jugées comme non étayées par les juridictions pénales, civiles, l'Inspection générale et l'Ordre des médecins, elle a conclu nonobstant qu'il y a eu une violation du droit à la vie et cela même sous son volet matériel.
+
+<<3125.62;3148.14;fr>>
+La Chambre s'est appuyée sur un éventuel et hypothétique manque de coordination entre les services d'urgence et d'octorino de l'hôpital qu'elle a considéré être survenu la nuit du 30 novembre 1997 concernant le diagnostic de la méningite, ce qui n'a pas été prouvé par les juridictions internes.
+
+<<3148.14;3160.1;fr>>
+Apparemment, la Chambre a attribué une grande importance au fait que la méningite ait pu survenir exceptionnellement, comme la Chambre l'a dit.
+
+<<3162.06;3175.78;fr>>
+La méningite peut survenir exceptionnellement suite à l'extraction des polyp du nez, ce qui aurait imposé, à son avis, la Chambre, que le service d'urgence ait admis cette possibilité dès le début.
+
+<<3175.78;3189.54;fr>>
+Or, selon les experts, cette possibilité est située entre 0,6 % et 1 %, pouvant être un peu plus élevée s'il s'agit d'une seconde intervention.
+
+<<3189.7;3209.14;fr>>
+Mais vu qu'il s'agissait précisément d'une possibilité aussi exceptionnelle, le fait que le service d'urgence n'ait pas diagnostiqué immédiatement la méningite ne doit pas, seulement de ce fait, être tenu pour une absence de soins aux urgences, comme le dit la Chambre.
+
+<<3209.22;3213.9;fr>>
+Aucun protocole clinique n'imposait une conduite différente.
+
+<<3214.06;3222.14;fr>>
+Le fait est que le patient a été accueilli et qu'il a été observé une heure après par un neurologue.
+
+<<3222.3;3246.66;fr>>
+Il a été observé une première fois par le médecin d'urgence, qui a prescrit des tranquillisants, et une heure après, il a été accueilli et une heure après, il a été observé à 2h30 par un neurologue, spécialité adéquate pour le diagnostic de la méningite, qui est une maladie du système nerveux central.
+
+<<3246.82;3253.86;fr>>
+Et ce neurologue, à ce moment, 2h30, n'a pas vérifié d'indice de la maladie.
+
+<<3254.02;3262.66;fr>>
+Tel que le dossier clinique le révèle, à ce moment-là, le patient n'avait pas de fievre et les amendes de neurologie étaient normales.
+
+<<3262.86;3284.74;fr>>
+Toutefois, il a été soigné dans le service d'urgence jusqu'à ce que l'on parvienne, au-debout de la matinée, au diagnostic de la méningite, dans un moment, quelques heures plus tard, où il avait déjà de la fièvre et une ponction lombaire a été déterminée, suite à laquelle la méningite a été diagnostiquée.
+
+<<3284.9;3301.46;fr>>
+De plus, la méningite a été guérie à travers des antibiotiques, lesquels, l'IAN révèle, qui auraient été différentes si la maladie aurait été diagnostiquée quelques heures plus tôt.
+
+<<3301.62;3326.46;fr>>
+Les constats de la Cour, dans le sens qu'il y aurait eu un manque de coordination et un dysfonctionnement entre les services d'urgence et d'autorite, et qu'un protocole post-opératoire, d'ailleurs non spécifié, n'aurait pas été suivi, ne découle pas des faits prouvés, et il manque d'une base factuelle et, j'ajouterais aussi, scientifique.
+
+<<3326.62;3351.1;fr>>
+Toutefois, bien que la Chambre ait réconnu l'inexistence de conséquences de cet éventuel manque de coordination en ce qui concerne l'évolution clinique et le décès du patient, elle a conclu que l'Etat n'avait pas protégé l'intégrité physique du mari de la requérant et que l'article 2 de la Convention dans ce volet matériel a été violé.
+
+<<3352.22;3371.94;fr>>
+Ce raisonnement, exprimé dans un seul paragraphe de l'arrêt, 114, pardoit son manque de fondement dans les faits, contient, à notre avis, des sauts logiques et ignore le champ d'application de la norme et la valeur fondamentale qu'elle vise à protéger, la vie, et non pas l'intégrité physique.
+
+<<3371.94;3376.18;fr>>
+D'ailleurs, le risque pour la vie n'a pas été même mentionné.
+
+<<3377.3;3403.94;fr>>
+L'arrêt de la Chambre, en déclarant la violation du droit à la vie sous son volet matériel, dans des situations où il n'existe pas d'acte intentionnel, d'acte négligente à l'origine d'un décès, ni un refus de prise en charge mettant en danger la vie d'une personne, va dans un sens assez différent de l'âge jurisprudent précédent et même postérieur de la Cour, sans qu'une telle divergence soit fondée sur des motifs évidents et suffisants.
+
+<<3404.98;3419.1;fr>>
+Cet arrêt révèle une approche très différente de celle adotée d'habitude, où la négligence médicale, qui n'a même été établie en l'espèce, n'est pas associée au volet matériel, mais au volet procédural de l'article 2.
+
+<<3420.14;3435.38;fr>>
+Tout manque de coordination des services hospitaliers, sans conséquence sur la vie de personne, ni même en risque de la vie de personne, pourrait motiver dorénavant la déclaration de la violation du droit à la vie sous son volet matériel.
+
+<<3436.7;3455.54;fr>>
+La Chambre a substitué le verdict des juridictions internes en ce qui concerne les faits, par son propre verdict, sans qu'une erreur d'appréciation manifeste ou un acte manifestement arbitraire ait été commis, en agissant ainsi comme une quatrième instance en préjudice du principe de subsidiarité.
+
+<<3457.5;3468.62;fr>>
+D'autre part, elle a procédé à une comparaison de cette affaire avec d'autres affaires que concernaient le refus de prise en charge médicale de nature à mettre la vie en danger.
+
+<<3468.9;3470.54;fr>>
+Ici, je pense que c'est la différence.
+
+<<3471.94;3482.38;fr>>
+Cette comparaison, sachant que dans le cas d'espèce, le patient a été accueilli, observé et soigné au service de l'urgence de l'hôpital.
+
+<<3483.34;3495.9;fr>>
+La maladie a été diagnostiquée, soignée et guérie uniquement parce que ce service a pris 8 heures pour diagnostiquer la méningite, appuyée sur des examens adéquats.
+
+<<3496.62;3510.46;fr>>
+Et alors que la probabilité que la méningite se déclare suite à l'extraction du polyduné était exceptionnelle, se révèle, à notre avis, un peu déraisonnable et beaucoup assez injuste.
+
+<<3511.22;3539.1;fr>>
+Le gouvernement portugais manifeste sa préoccupation parce qu'il peut constituer un écartement de la jurisprudence consolidée de la Cour et un élargissement de ses compétences au-delà de la Convention et qui porte pour les Etats un risque d'incertitude juridique dans le cadre d'une norme et d'un droit nucléaire du système conventionnel, notamment s'agissant des soins médicaux administrés par le Service national de santé.
+
+<<3540.22;3557.98;fr>>
+Comme les juges ayant émis une opinion dissidente, l'on dit, la Cour risque de devenir un superviseur du fonctionnement des hôpitaux européens et de la qualité des services fournis, un tribunal des mauvaises pratiques médicales de première et dernière instance, ce qui ne doit pas être son rôle.
+
+<<3559.22;3573.22;fr>>
+Monsieur le Président, Mesdames et Messieurs les juges, pour toutes ces raisons, le gouvernement portugais est d'avis que le droit à la vie du mari de la récurrente n'a pas été violé et que la requête est mal fondée et doit être déclarée inadmissible.
+
+<<3573.22;3575.3;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3576.39;3579.03;fr>>
+Merci beaucoup, madame Da Graça Carvalho.
+
+<<3579.23;3582.19;fr>>
+Je remercie les 2 parties pour leurs interventions.
+
+<<3582.39;3588.75;fr>>
+Je me tourne maintenant vers mes collègues, juge de la Grand-Chambre, pour savoir s'ils ont des questions à poser aux partis.
+
+<<3588.75;3588.75;fr>>
+Mr. le juge, Pinto de Albuquerque.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<3596.07;3599.35;en>>
+Thank you, Mr. President.
+
+<<3599.35;3603.59;en>>
+My questions are addressed to both parties.
+
+<<3603.59;3610.15;en>>
+Paragraph 24 of the chamber judgment says the following.
+
+<<3610.15;3620.67;en>>
+On the 5th of March, 1998, he was examined by a doctor who judged the situation to be under control.
+
+<<3620.67;3627.23;en>>
+His condition deteriorated the following day, 6th of March.
+
+<<3627.23;3634.27;en>>
+He was examined by a doctor who diagnosed a possible perforated viscose.
+
+<<3634.27;3641.95;en>>
+It was decided that he should undergo surgery on the 6th of March.
+
+<<3641.95;3650.71;en>>
+The surgery took place on the 7th of March, late in the evening.
+
+<<3650.71;3659.91;en>>
+There's a lapse of time of more than 24 hours between the decision and the surgery.
+
+<<3659.91;3667.19;en>>
+The government never disputed this fact, nor this lapse of time.
+
+<<3667.19;3684.11;en>>
+Now the applicant in the application, the first initial application, said that this was explained by the lack of medical staff, specialized medical staff.
+
+<<3684.11;3690.59;en>>
+I read the application, the relevant part.
+
+<<3690.59;3692.91;en>>
+The condition of the patient was deplorable.
+
+<<3692.91;3694.91;en>>
+His belly was completely swollen.
+
+<<3694.91;3696.71;en>>
+The pain was desperate.
+
+<<3696.71;3702.19;en>>
+He had breathing, intense sweating, and sleepy.
+
+<<3702.19;3703.99;en>>
+He was unrecognizable.
+
+<<3703.99;3706.19;en>>
+He was in a horrible situation.
+
+<<3706.19;3710.83;en>>
+He was desperately asking for oxygen, and he was unable to urinate.
+
+<<3710.83;3719.75;en>>
+It was necessary to insert a urinary catheter, but nothing could be done without a medical prescription.
+
+<<3719.75;3723.27;en>>
+But there was no doctor.
+
+<<3723.27;3731.91;en>>
+In many efforts, and in an atmosphere of panic, which also affected other patients, a doctor came from the emergency department.
+
+<<3731.91;3736.99;en>>
+However, as soon as he saw the patient, he refused to do anything.
+
+<<3736.99;3741.47;en>>
+The doctor mentioned that the patient seemed to be in a serious health condition.
+
+<<3741.47;3746.69;en>>
+He also mentioned that he was not an expert, and he did not know the patient.
+
+<<3746.69;3751.23;en>>
+For that reason, he would have to wait for a colleague from the department.
+
+<<3751.23;3760.03;en>>
+Now the hours go on, and in the afternoon, around 3 p.m., another doctor comes and saw
+
+<<3760.03;3763.47;en>>
+the patient and left.
+
+<<3763.47;3771.31;en>>
+He then came back with a surgeon, and this is the description.
+
+<<3771.31;3776.31;en>>
+The surgeon was trying to understand how that could have happened so fast.
+
+<<3776.31;3781.47;en>>
+He was informed that the patient was like that for more than 24 hours.
+
+<<3781.47;3788.23;en>>
+The doctor immediately started preparing the patient for the surgery and giving instructions to the nurses.
+
+<<3788.23;3790.35;en>>
+Saturday afternoon.
+
+<<3790.35;3796.39;en>>
+We know that the first attempt to get the surgery done was not successful.
+
+<<3796.39;3802.71;en>>
+He was taken out of the surgery room, and late in the evening, then at 8 p.m., he was
+
+<<3802.71;3809.31;en>>
+finally operated.
+
+<<3809.31;3813.75;en>>
+My question is what the government has to say to this.
+
+<<3813.75;3821.63;en>>
+The government never pronounced a word about this lapse of time.
+
+<<3821.63;3827.03;en>>
+Now is the time to give a reply to this.
+
+<<3827.03;3837.99;en>>
+This leads me to the other structural issue at stake.
+
+<<3837.99;3852.71;en>>
+Was there a structural problem at a relevant time, at that time, in both hospitals, not only in the hospital of Vila Nova de Gaia, but also at the Porto Hospital?
+
+<<3852.71;3856.47;en>>
+And was this investigated properly at the national level?
+
+<<3856.47;3858.91;en>>
+The structural issue.
+
+<<3858.91;3881.63;en>>
+Now we have a report from the Panel of Infectious Diseases from 1999, so the very first report on the incident, from the Portuguese Medical Association, which identifies clearly a structural issue, a structural problem.
+
+<<3881.63;3883.93;en>>
+And they even make a suggestion.
+
+<<3883.93;3892.35;en>>
+They say, we alert once again, I'm quoting, once again, so this is not the first time that they are drawing the attention of the authorities to the problem.
+
+<<3892.35;3910.75;en>>
+We alert once again for the need to consider the creation of an infectious disease department in hospitals like the one, so it's a systemic problem that is here identified, department in hospitals like the one of Vila Nova de Gaia, in order to improve their care quality.
+
+<<3910.75;3914.19;en>>
+My question to the government is the following.
+
+<<3914.19;3930.31;en>>
+Was there an investigation with regard to this allegation by the Colégio da Especialidade de Doenças Infecciosas, by the Panel of Infectious Diseases panel?
+
+<<3930.31;3947.23;en>>
+We know that the criminal investigation against one doctor only took into account the behavior, the conduct of this doctor until the 3rd of February, 1998.
+
+<<3947.23;3950.75;en>>
+Nothing else.
+
+<<3950.75;3965.53;en>>
+Was there an investigation on this issue raised by the Panel of Infectious Diseases of the Portuguese Medical Association?
+
+<<3965.53;3983.87;en>>
+Was there a reply to this, to this alert that is made in the very final sentence of the report?
+
+<<3983.87;4008.89;en>>
+We also know that there was a civil action against two hospitals and nine, eight medical doctors, but we know as well that eight doctors were found not to have standing in this procedure, so the scope of the investigation of the civil action was also limited.
+
+<<4008.89;4029.69;en>>
+The question remains, was there a structural issue, was there a structural problem, as pointed out by the Panel of Infectious Diseases, and if yes, was it addressed, and by what means?
+
+<<4029.69;4030.69;en>>
+Thank you very much.
+
+<<4030.69;4030.69;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4030.7;4033.42;fr>>
+Merci beaucoup, juge Pinto de Albuquerque.
+
+<<4033.42;4034.42;fr>>
+Maintenant, le juge Sicilianos.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<4039.03;4040.63;fr>>
+Merci, M. le Président.
+
+<<4041.07;4047.51;fr>>
+C'est une question adressée essentiellement aux requérants, mais j'apprécierais également la réaction du gouvernement.
+
+<<4047.72;4056.67;fr>>
+Maître, vous avez parlé d'un dysfonctionnement des services hospitaliers, d'un grave manque d'assistance médicale, voire d'une privation de soins.
+
+<<4057.15;4059.11;fr>>
+Ce sont vos paroles tout à l'heure.
+
+<<4059.95;4061.19;fr>>
+Ma question est la suivante.
+
+<<4061.39;4063.24;fr>>
+Elle va dans le sens de mon collègue.
+
+<<4064.03;4068.47;fr>>
+Est-ce que vous croyez que ces dysfonctionnements sont systémiques et structurels?
+
+<<4068.47;4081.15;fr>>
+Autrement dit, est-ce que vous croyez que ces dysfonctionnements révèlent des carences plus profondes du système hospitalier local ou bien qu'il s'agissait de dysfonctionnements simplement occasionnels?
+
+<<4082.56;4083.68;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4083.84;4085.44;fr>>
+Merci beaucoup.
+
+<<4085.44;4087.36;fr>>
+Now, Judge Spano, please.
+
+[[Judge;Robert Spano]]
+
+<<4088.71;4090.35;en>>
+Thank you, Mr. President.
+
+<<4090.35;4103.15;en>>
+I also have questions which are directed at the applicant's invitation to the court to appreciate the facts in a certain manner.
+
+<<4103.15;4139.13;en>>
+As I see from the pleadings of the applicant before the court, in general, the use of words like lack of promptness, diligence, delay in the diagnostic part of the post-operative infection in November 1997, and also in Chapter C of your pleadings, a reference to the delay as just mentioned by my colleague, Judge de Albuquerque, the issue of the delay from 6 to 8 March as regards to surgery.
+
+<<4139.13;4155.43;en>>
+May I ask, was the way in which the applicant pled this at domestic level in the civil proceedings based on an allegation of medical negligence on the particular facts?
+
+<<4155.43;4171.85;en>>
+Or was it based also on the existence of, and this is Judge Siciliano's question, I'm not basically asking you for how you're pleading before this court, but how you pled the issue in the civil proceedings before the domestic courts.
+
+<<4171.85;4191.07;en>>
+In other words, were the domestic courts confronted with an allegation of a dysfunctionality or a systemic problem, or was the allegation that on the particular facts of this case there had been medical negligence in the application of treatment?
+
+<<4191.07;4207.03;en>>
+The reason I ask, as you know, the court has said that it cannot accept that errors of judgment or lack of coordination between health officials can in and of itself constitute a violation of the substantive limit.
+
+<<4207.03;4212.95;en>>
+So could you clarify the way in which the issue was pled by the applicant at domestic level?
+
+<<4212.95;4220.75;en>>
+My second point is directed at the events of 6 to 8 March, 1998.
+
+<<4220.75;4239.63;en>>
+I see from the Supreme Administrative Court judgment, which is before us, page 36 to 37, established facts A, A, A, A, B, B, B, B, and C, C, C, C, which deals with these issues where the court finds, and I will read this in French because this is what we have in front of us.
+
+<<4240.63;4267.29;fr>>
+Les examens de 6 Mars radiographiques et échographiques abdominaux pelvienne n'ont pas permis de confirmer un quelconque perforation du colon ou de doux au dénume cependant la situation en espèce devait être surveillée. And then the next established fact: c'est seulement le 7 mars que le syndrome abdominale a été diagnostiquée avec l'exigence d'une intervention chirurgical-urgente.
+
+<<4269.63;4294.29;en>>
+May I ask, on what basis would the applicant invite the court to call into question these established facts according to the administrative courts?
+
+<<4294.29;4310.79;en>>
+Could you refer the court to the elements of the dossier which would allow the court, in your view, to call into question these judicial facts as found by the First Instance Court and relied upon by the Supreme Administrative Court?
+
+<<4310.79;4310.79;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4311.98;4313.78;en>>
+Thank you very much.
+
+<<4313.78;4316.94;en>>
+Judge Serghides, please.
+
+[[Judge;Guido Raimondi]]
+
+<<4317.34;4319.34;en>>
+Thank you very much, Mr. President.
+
+<<4319.34;4325.98;en>>
+A couple of questions, which are kindly addressed to both parties.
+
+<<4325.98;4339.98;en>>
+What was the general condition of the health of the applicant's husband on the 26th of November of 1997, apart from his nasal problem?
+
+<<4339.98;4343.9;en>>
+Mr. Fernandes said that the applicant's husband
+
+<<4343.9;4347.22;en>>
+was a strong man at that time.
+
+<<4347.22;4349.54;en>>
+Is there any concrete evidence on this?
+
+<<4349.54;4350.66;en>>
+This is the first question.
+
+<<4350.66;4352.42;en>>
+The second question.
+
+<<4352.42;4359.32;en>>
+Mrs. Carvalho argued that there was a legal or a regulatory
+
+<<4359.32;4369.5;en>>
+framework governing the functioning of emergency units and making inadequate provision for the protection of lives of patients.
+
+<<4369.5;4375.3;en>>
+What was the exact context of these alleged regulations?
+
+<<4375.3;4383.58;en>>
+And lastly, were these alleged regulations actually applied in the present case?
+
+<<4383.58;4387.1;en>>
+And if yes, in what way?
+
+<<4387.1;4387.74;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4388.51;4390.31;en>>
+Thank you very much.
+
+<<4390.31;4392.31;en>>
+Judge Vučinić, please.
+
+[[Judge;Nebojša Vučinić]]
+
+<<4395.81;4397.09;en>>
+Thank you Mr. President.
+
+<<4397.09;4402.53;en>>
+One very short question for both parties.
+
+<<4402.53;4409.45;en>>
+Why the autopsy of the applicant's husband's body had not been carried out?
+
+<<4409.45;4409.45;en>>
+And had this issue been raised in a domestic proceeding?
+
+[[JudgeP;Guido Raimondi]]
+
+<<4417.33;4419.37;en>>
+Thank you very much, Judge Turković, please you have the floor.
+
+[[Judge;Ksenija Turković]]
+
+<<4427.75;4434.75;en>>
+Thank you. I would just like to follow up the question by Judge Spano in terms of the
+
+<<4434.75;4448.31;en>>
+domestic framework and the possibility at the domestic level to deal with systemic or structural failures in the health system. Is there a possibility for that? Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4449.06;4451.06;fr>>
+Thank you very much.
+
+<<4451.22;4458.9;fr>>
+S'il n'y a pas d'autres questions, la Cour va maintenant se retirer, disons jusqu'à 11 h.
+
+<<4459.14;4469.42;fr>>
+Et après quoi, les partis pourront présenter des brèves observations à réplique et une réponse aux questions posées par les juges de la Grande Chambre.
+
+<<4469.42;4470.78;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4789.08;4789.72;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4826.17;4828.17;fr>>
+Je vous en prie, asseyez-vous.
+
+<<4828.17;4830.17;fr>>
+L'audience reprend et la parole est à Maître Sá Fernandes.
+
+[[Applicant;AP1]]
+
+<<4852.44;4859.44;fr>>
+D'abord, je vais répondre aux questions des juges.
+
+<<4859.44;4866.84;fr>>
+Après, je ferai une petite réplique aux observations du gouvernement portugais.
+
+<<4866.84;4879.8;fr>>
+Et je vais joindre quelques questions et dans quelques points, je vais donner des réponses ensemble à ces questions.
+
+<<4879.8;4898.8;fr>>
+La première question est relative à ce qui s'est passé entre le jour 6 et 8 mars, même à la veille de la mort de l'époux de la récréante.
+
+<<4898.8;4915.32;fr>>
+Le juge Pinto Daup Kerk a abordé cette question et le juge Spano a aussi abordé la question.
+
+<<4915.32;4939.56;fr>>
+Le juge Pinto Daup Kerk a indiqué les faits avec lesquels nous sommes d'accord, qui sont aussi des faits qui traduisent une manque de soins pour la part de l'hôpital à ce homme qui était en train de mourir.
+
+<<4939.56;4948.36;fr>>
+Mais je comprends aussi les questions que le juge Spano a mises.
+
+<<4948.36;4974.68;fr>>
+Il a dit, oui, mais comment on va ici, dans la cour, voir la question que le tribunal portugais a posée, et que les examens du 6 mars, radiographie et échographie abdominale, n'ont pas permis de confirmer une quelconque préforation du côlon ou du diadème, cependant la situation et l'espèce devaient être surveillées.
+
+<<4974.68;4986.56;fr>>
+Et après, c'est seulement le 7 mars que le syndrome abdominal aigu a été diagnostiqué avant l'exigence d'une intervention chirurgicale urgente.
+
+<<4986.56;4996.96;fr>>
+Et donc, monsieur le juge, la réponse à votre doute, c'est aussi dans la décision de la cour portugaise.
+
+<<4996.96;5015.84;fr>>
+Si vous observez à la page 34, les issues HHH à RRR, vous trouverez la réponse.
+
+<<5015.84;5029.36;fr>>
+On dit, le matin du 6 mars, Anthony Roux s'est plaint de violentes douleurs abdominales qui s'étaient d'ailleurs depuis la veille et qui n'ont pas été soulagées avec Tramadol.
+
+<<5029.36;5035.4;fr>>
+Après l'observation mentionnée, le Dr. Karla a demandé qu'Anthony Roux
+
+<<5035.4;5041.8;fr>>
+fût soumis à une radiographie, une échographie et une colonoscopie.
+
+<<5041.8;5055.56;fr>>
+Comme on peut voir, si on voit aussi le fait de AAAA, il a été fait une radiographie, une échographie, mais pas la colonoscopie qui a été demandée.
+
+<<5055.56;5064.68;fr>>
+Le 6 mars, à la nuit, Anthony Roux présentait une transpiration excessive, situation qui s'est maintenue pendant le matiné du 7 mars.
+
+<<5064.68;5070.28;fr>>
+Le 7 mars, la première observation a lieu dans l'après-midi.
+
+<<5070.28;5076.64;fr>>
+À 13 heures, Anthony Roux s'est plaint qu'il avait du mal à respirer et il a mis sous oxygène.
+
+<<5076.64;5080.84;fr>>
+Vers 15 heures, le Dr. Villiat, des urgences,
+
+<<5080.84;5084.64;fr>>
+a examiné Anthony Roux et il est sorti.
+
+<<5084.64;5088.6;fr>>
+Anthony Roux, plus tard, a été ensuite examiné par un cirurgien.
+
+<<5088.6;5094.6;fr>>
+Par indication d'un cirurgien, il a décidé d'opérer Anthony Roux le jour même, le 7 mars.
+
+<<5094.6;5102.76;fr>>
+Anthony Roux s'est entré au bloc opératoire le 7 mars, mais il est ressorti parce qu'il avait besoin d'une transfusion sanguine.
+
+<<5102.76;5107.48;fr>>
+Il est entré de nouveau au bloc opératoire.
+
+<<5107.48;5120.24;fr>>
+Il est sorti du bloc opératoire directement vers les services intensifs, inconscient et branché à des machines, ayant été dit par les médecins à la demande dresse qu'il avait 10 % de chance de survivre.
+
+<<5120.24;5125.04;fr>>
+Ça, c'est la réponse à la question du juge Spano.
+
+<<5125.04;5135.68;fr>>
+C'est incompréhensible que cet homme, seulement l'après-midi du 7 mars, soit vu par un cirurgien.
+
+<<5135.68;5142.36;fr>>
+Et si on va voir le calendrier, on sait que le 7 mars, c'est samedi.
+
+<<5142.36;5153.72;fr>>
+Et au Portugal, dans le week-end, il n'y a pas de médecins dans l'hôpital, sauf dans l'urgence, en général.
+
+<<5153.72;5162.08;fr>>
+Ce qui s'est passé le 6, 7 et 8 mars, c'est très grave.
+
+<<5162.08;5171.2;fr>>
+Même si on accepte que le 6 mars, il n'y avait pas une certitude absolue de la perforation de colonne.
+
+<<5171.2;5179.56;fr>>
+Pourquoi, depuis le 6 mars, on va jusqu'à l'après-midi du 7 mars?
+
+<<5179.56;5186.4;fr>>
+C'est parce qu'on ne peut pas attendre jusqu'à l'après-midi du 7 mars.
+
+<<5186.4;5194.84;fr>>
+Et même les examens qui ont été demandés, au moins une de ces examens, la colonoscopie n'a pas été faite.
+
+<<5194.84;5208.28;fr>>
+Alors, il n'y a pas une réponse raisonnable pour que cet homme ait été, depuis le 6 mars jusqu'à l'après-midi du 7 mars, sans une observation clinique.
+
+<<5208.28;5212.28;fr>>
+Et même quand il vient d'abord, ce n'est pas le chirurgien.
+
+<<5212.28;5215.68;fr>>
+Il faut rappeler que le chirurgien vient après.
+
+<<5215.68;5218.28;fr>>
+Et il va pour le bloc.
+
+<<5218.28;5219.72;fr>>
+Mais le bloc n'est pas préparé.
+
+<<5219.72;5221.88;fr>>
+Rien n'est préparé.
+
+<<5221.88;5233.52;fr>>
+Et quand cet homme va dans le bloc, il est déjà pratiquement mort, sans espoir de survivance.
+
+<<5233.52;5249.88;fr>>
+La question du juge Pinto-Waukerk sur la commission, sur l'évaluation de l'infection hospitalière.
+
+<<5249.88;5262.64;fr>>
+Sur ce sujet, il faut dire qu'il n'y a pas eu aucune intervention de la commission d'infection de l'hôpital, des deux hôpitals.
+
+<<5262.64;5271.76;fr>>
+Il n'y a aucun rapport, aucun rapport, de la commission de l'infection hospitalière dans les deux hôpitals.
+
+<<5271.76;5273.8;fr>>
+Il n'y a pas aucun rapport.
+
+<<5273.8;5279.08;fr>>
+Et on sait que le problème des infections dans l'hôpital, c'est un problème général et aussi un problème au Portugal.
+
+<<5279.08;5283.92;fr>>
+Alors comment, dans ce cas, il n'y a aucun rapport?
+
+<<5283.92;5296.36;fr>>
+Seulement, la commission des maladies infectieuses, s'est prononcée sur cette situation particulière.
+
+<<5296.36;5299.24;fr>>
+La commission de l'ordre des médecins.
+
+<<5299.24;5307.96;fr>>
+Il a dit que cette commission, cet collège des maladies infectieuses a dit deux choses.
+
+<<5307.96;5316.16;fr>>
+Au premier moment, qu'il n'y a pas d'explication que dans le service d'urgence, ils n'ont fait rien le 29 novembre.
+
+<<5316.16;5325.76;fr>>
+Et ce même collège de maladies infectieuses dit que le 7 mars, 8 mars, l'intervention a été aussi tardive.
+
+<<5325.76;5330.72;fr>>
+Ça, c'est ce qu'a dit le collège des maladies infectieuses.
+
+<<5330.72;5354.12;fr>>
+La seule autorité scientifique qui, au Portugal, s'est prononcée sur deux situations, c'est le collège des maladies infectieuses et qui a dit que le 29 novembre et le 6 mars, les soins de santé n'ont pas été prévus.
+
+<<5354.12;5368.52;fr>>
+Et c'est très grave que la commission de l'hôpital, la commission d'infection de l'hôpital des deux hôpitaux n'ait fait aucun rapport.
+
+<<5368.52;5389.6;fr>>
+Le juge Sicilianus a demandé si cette question, au Portugal, c'est une question du système ou ça a été un cas ponctuel.
+
+<<5389.6;5398.96;fr>>
+À notre avis, cette affaire est la démonstration que c'est un problème du système.
+
+<<5398.96;5403.96;fr>>
+Parce qu'on a vu la réponse du gouvernement portugais.
+
+<<5403.96;5414.04;fr>>
+Le gouvernement portugais se refuse à voir ce cas comme avec un abordage holistique.
+
+<<5414.04;5423.72;fr>>
+Le gouvernement portugais, pour le gouvernement portugais et pour les autorités portugais, Antonio Ruiz aurait une collection de maladies.
+
+<<5423.72;5432.0;fr>>
+C'est un raisonnement insustenable depuis la médecine grecque.
+
+<<5432.0;5444.12;fr>>
+Toujours, la médecine exige une explication unitaire, holistique d'une situation clinique, surtout si les accidents pathologiques sont proches et successifs.
+
+<<5444.12;5453.0;fr>>
+C'est absolument insustenable ce que les autorités portugaises ont fait sur ce cas.
+
+<<5453.0;5460.8;fr>>
+Ils ont commencé le 29 novembre et ils l'ont terminé le 8 mars et ils ont fait une division de tous ces cas.
+
+<<5460.8;5464.68;fr>>
+Comme tous ces cas, ils étaient indépendants les uns des autres.
+
+<<5464.68;5468.8;fr>>
+Il n'y a pas un abordage unitaire, holistique.
+
+<<5468.8;5470.88;fr>>
+C'est insustentable.
+
+<<5470.88;5479.52;fr>>
+Alors, la meilleure réponse que le problème soit un problème du système, c'est la réponse du gouvernement portugais.
+
+<<5479.52;5483.64;fr>>
+Parce que pour le gouvernement portugais, tout s'est bien.
+
+<<5483.64;5488.16;fr>>
+Nous sommes dans le paradis.
+
+<<5488.16;5492.52;fr>>
+Peut-être que nous sommes dans le paradis au niveau de la législation.
+
+<<5492.52;5501.56;fr>>
+Le Portugal, comme d'autres pays, nous sommes très bons à faire des législations, des réglementations, très bien pour faire tout ça, des aspects généraux.
+
+<<5501.56;5507.04;fr>>
+Mais le problème, le problème pour le peuple, c'est l'application de la législation.
+
+<<5507.04;5524.84;fr>>
+Et quand le gouvernement portugais, dans ce cas, dit tout s'est bien, tout s'est bien, alors vous avez la meilleure réponse, c'est la réponse du gouvernement portugais qui démontre qu'effectivement, le problème, c'est un problème du système, ce n'est pas un problème ponctuel.
+
+<<5524.84;5530.12;fr>>
+Dans ce cas, il n'y a pas d'intervention des commissions de l'infection hôpitalière.
+
+<<5530.12;5537.04;fr>>
+Tous ces rapports sont passés plusieurs années, plus de dix années.
+
+<<5537.04;5541.4;fr>>
+Il y a une vision unitaire de tout ça.
+
+<<5541.4;5555.88;fr>>
+Et pour le gouvernement portugais, ce homme, c'était un homme à 40 ans, avec une bonne santé, sain, cet homme, il avait une collection de toutes ces maladies.
+
+<<5555.88;5558.88;fr>>
+Ça, c'est insustainable.
+
+<<5563.24;5569.36;fr>>
+Le juge Spano vient mettre une autre question.
+
+<<5569.36;5582.52;fr>>
+Et la question, c'est que si l'arrivée de la maladie ne se montre pas, dans les juridictions domestiques, c'est le problème du système, ou seulement sa question.
+
+<<5582.52;5592.52;fr>>
+Je pense que la réponse à la question du juge Spano vient de la question de la juge Turkovic.
+
+<<5592.52;5596.8;fr>>
+La juge Turkovic demande « mais vous pouvez faire ça? »
+
+<<5596.8;5599.36;fr>>
+Et la réponse, c'est non.
+
+<<5599.36;5608.24;fr>>
+Dans la procédure qu'il y avait au Portugal, on ne peut pas demander la question du système.
+
+<<5608.24;5615.96;fr>>
+On peut seulement demander une indemnisation, une punition à cause des questions ponctuelles.
+
+<<5615.96;5618.32;fr>>
+Les questions ponctuelles de ce homme.
+
+<<5618.32;5630.36;fr>>
+Si on va dire « oh, mais ça démontre un problème du système », le juge portugal nous dira « ça, c'est pour la politique ici, on voit seulement dans votre cas ». Alors, la réponse
+
+<<5630.36;5634.92;fr>>
+au juge Spano, il y a la juge Turkovic.
+
+<<5634.92;5641.16;fr>>
+Je pense que dans la question de la juge Turkovic, on trouve la réponse.
+
+<<5641.16;5653.8;fr>>
+Non, la question concrète, la question du système n'était pas discutée dans la juridiction interne, parce que ça, ce n'était pas possible.
+
+<<5653.8;5664.12;fr>>
+Au juge Serguide, la question, cet homme était un homme sain, robuste, sans problème de santé.
+
+<<5664.12;5673.04;fr>>
+Oui, et ça, c'est accepté dans la Cour portugaise, la page 34, le fait établi SSS.
+
+<<5673.04;5676.8;fr>>
+Antonio Euro était robuste et en bonne santé.
+
+<<5676.8;5680.2;fr>>
+Jusqu'au 27 novembre, il est en bonne santé.
+
+<<5680.2;5685.4;fr>>
+Il avait seulement ce petit problème des polypones nasaux.
+
+<<5685.4;5691.36;fr>>
+Il avait déjà eu une intervention quelques ans avant, mais ça, c'est un problème simple et courant.
+
+<<5691.36;5693.44;fr>>
+C'était un problème grave de santé.
+
+<<5693.44;5697.64;fr>>
+Antonio Euro, ça a été établi par le tribunal portugais.
+
+<<5697.64;5702.12;fr>>
+Il était robuste et en bonne santé.
+
+<<5702.12;5708.08;fr>>
+Finalement, la question du juge Vucinic, le problème d'autopsie.
+
+<<5708.08;5713.24;fr>>
+Ce problème s'est aussi abordé dans nos observations. Non,
+
+<<5713.24;5729.6;fr>>
+le Portugal n'a pas fait une autopsie et dans l'avis du Collège des maladies infectieuses, ça devrait être, dans ce cas, obligatoire.
+
+<<5729.6;5739.88;fr>>
+Je répète, le Collège des maladies infectieuses, ça s'est établi, a dit que cette autopsie devrait être obligatoire.
+
+<<5739.88;5755.44;fr>>
+C'est vrai que la requérante n'a pas demandé l'autopsie et ça, c'est compréhensible compte tenu de la situation extrême de l'heure qu'elle se trouvait après trois mois de désespoir et de souffrance.
+
+<<5755.44;5756.72;fr>>
+Elle n'a pas demandé.
+
+<<5756.72;5765.84;fr>>
+Mais face à la loi portugaise, les services hospitaliers avaient la compétence pour la déterminer.
+
+<<5765.84;5770.12;fr>>
+Et dans ce cas, ils avaient l'obligation de la déterminer.
+
+<<5770.12;5790.64;fr>>
+Parce que selon la loi portugaise, s'il y a la perspective d'une erreur médicale qui peut être constitutive d'un délit d'homicide négligent, et dans ce cas, après il y a eu une accusation d'homicide négligent, c'est obligatoire, c'est mandatoire que les autorités hospitalières déterminent l'autopsie.
+
+<<5790.64;5798.24;fr>>
+Ils ont la compétence et dans ce cas, ils avaient l'obligation et ils n'ont pas fait ça.
+
+<<5798.24;5812.96;fr>>
+Après, je m'excuse plus de cinq minutes, je veux aussi répondre à deux points, trois points des observations de l'État portugais.
+
+<<5812.96;5826.04;fr>>
+D'abord, cette chose extraordinaire que l'État portugais dit, non, on ne sait pas quelle est l'origine de cette mélangite parce qu'on ne sait pas quelle est l'origine de cette bactérie.
+
+<<5826.04;5835.92;fr>>
+Mais alors, on n'a pas déterminé quelle est la bactérie?
+
+<<5835.92;5839.04;fr>>
+Ce n'est pas la responsabilité de l'État portugais?
+
+<<5839.04;5856.4;fr>>
+Mais la réponse, c'est aussi dans la Cour, le point D, D, D, D, page 35, le tribunal dit la bactérie, le pseudomonas, le pseudomonas sepacia, était résistant aux diverses antibiotiques testés.
+
+<<5856.4;5863.16;fr>>
+Et cette identification de la bactérie, ça a été fait par le laboratoire portugais.
+
+<<5863.16;5869.12;fr>>
+Après, la Cour dit, oui, mais il y a des doutes, parce qu'en médecine, il y a des doutes, peut-être.
+
+<<5869.12;5870.52;fr>>
+Il y a des doutes.
+
+<<5870.52;5877.8;fr>>
+Mais la seule identification qui a été faite, c'est que c'est cette bactérie pseudomonas.
+
+<<5877.8;5890.68;fr>>
+Et ça, on le sait, et les expertises le disent, que cette bactérie, c'est exclusivement hospitalière.
+
+<<5890.68;5899.44;fr>>
+Alors, je ne comprends pas cette insistance, parce que la Cour, la Cour suprême au Portugal, c'est ce point de vue qu'il y a.
+
+<<5899.44;5903.52;fr>>
+Non, on ne sait pas quelle est l'origine de la bactérie.
+
+<<5903.52;5910.92;fr>>
+Il y a un laboratoire qui a dit que c'était hospitalier, mais peut-être n'est pas.
+
+<<5910.92;5918.4;fr>>
+Le problème pour moi, c'est que ça, ce n'est pas une question importante.
+
+<<5918.4;5926.72;fr>>
+Parce que ce qu'on sait, c'est que l'homme a eu une mélangite bactérienne.
+
+<<5926.72;5932.68;fr>>
+C'est absolument insignifiant qu'elle ait pseudomonas ou autre.
+
+<<5932.68;5937.0;fr>>
+Le fait qu'il y ait pseudomonas, c'est plus grave, parce que démontre quelque chose.
+
+<<5937.0;5942.16;fr>>
+Qu'on ne sait pas quelle est la bactérie, c'est le problème de l'État portugais qui n'a pas réussi à le découvrir.
+
+<<5942.16;5952.64;fr>>
+Mais indépendamment de ça, ce qui est important, c'est que cet homme a eu une mélangite bactérienne.
+
+<<5952.64;5964.04;fr>>
+Alors, quand le gouvernement portugais dit que la position de la récurrente se soutenue dans des facs qui ne sont pas établis, ce n'est pas vrai.
+
+<<5964.04;5968.04;fr>>
+Et je veux faire la démonstration de ça.
+
+<<5968.04;5988.04;fr>>
+Les trois points indiscutables sont non sur le problème de 7 mars, mais sur le problème de 29 novembre, sur lequel la course s'est basée.
+
+<<5988.04;5993.04;fr>>
+Les trois faits fondamentaux sont indiscutables.
+
+<<5993.04;6000.04;fr>>
+D'abord, l'événement qui a émené les poudres récurrentes était une mélangite bactérienne.
+
+<<6000.04;6001.04;fr>>
+Oui.
+
+<<6001.04;6010.04;fr>>
+Cette mélangite bactérienne, c'est une complication qui peut survivre exceptionnellement après une polychotomie nasale.
+
+<<6010.04;6011.04;fr>>
+Oui.
+
+<<6011.04;6015.04;fr>>
+Dans ce cas, il n'y a aucune autre explication.
+
+<<6015.04;6020.04;fr>>
+La seule explication pour ce qui s'est passé, c'est une mélangite bactérienne.
+
+<<6020.04;6030.04;fr>>
+Et ça, c'est une complication qui dérive de l'opération qui a été faite.
+
+<<6030.04;6032.04;fr>>
+Il n'y a aucune autre explication.
+
+<<6032.04;6035.04;fr>>
+La seule explication qui est venue, c'est celle-ci.
+
+<<6035.04;6037.04;fr>>
+Il n'y a pas d'autre.
+
+<<6037.04;6039.04;fr>>
+Ça s'est établi.
+
+<<6039.04;6045.04;fr>>
+Cette situation n'a pas été l'objet d'aucun traitement jusqu'au matin du 29 novembre.
+
+<<6045.04;6051.04;fr>>
+La victime a été évoluée par une autre équipe médicale.
+
+<<6051.04;6052.04;fr>>
+Ça, c'est vrai.
+
+<<6052.04;6055.04;fr>>
+Ça, c'est vrai.
+
+<<6055.04;6059.04;fr>>
+Évidemment qu'il y avait une équipe médicale à l'hôpital à Lowe, mais ça n'a fait rien.
+
+<<6059.04;6064.04;fr>>
+L'équipe médicale l'a demandé d'aller chez vous.
+
+<<6064.04;6066.04;fr>>
+Et c'est la récompense qui dit non, on ne va pas.
+
+<<6066.04;6070.04;fr>>
+Parce que l'équipe médicale voulait que l'homme va chez lui.
+
+<<6070.04;6073.04;fr>>
+Et c'est la récompense qui s'est opposée à ça.
+
+<<6073.04;6079.04;fr>>
+C'est pourquoi, dans ce cas, ce n'est pas un problème, c'est le monde d'erreur du jugement.
+
+<<6079.04;6082.04;fr>>
+Évidemment qu'il y a eu une erreur du jugement.
+
+<<6082.04;6084.04;fr>>
+Mais cette erreur du jugement...
+
+[[JudgeP;Guido Raimondi]]
+
+<<6083.96;6085.96;fr>>
+Je vous demande... Pardon, puis-je vous demander de conclure, s'il vous plaît?
+
+[[Applicant;AP1]]
+
+<<6093.38;6101.94;fr>>
+Je pense, et ça s'est écrit dans mes observations et dans mes notes de ce matin, que les faits sont établis.
+
+<<6101.94;6107.41;fr>>
+Et finalement, ce n'est pas vrai que c'est une question nouvelle.
+
+<<6107.41;6114.69;fr>>
+Cette question, c'est la question qui a été aussi dans les autres affaires qu'on a mentionnées.
+
+<<6114.69;6117.22;fr>>
+Ce n'est pas vrai que c'est une question nouvelle.
+
+<<6117.22;6123.57;fr>>
+La Cour, dans ce cas, a suivi la thèse d'autres jurispondances.
+
+<<6123.57;6143.14;fr>>
+Le problème, c'est que quand une erreur de jugement ou un dysfonctionnement provoque qu'un homme n'a pas des soins à qui il a le droit, dans ce cas, il y a une violation de l'article 2 selon le volet matériel.
+
+<<6143.14;6145.45;fr>>
+Mes excuses, M. le Président.
+
+[[JudgeP;Guido Raimondi]]
+
+<<6145.45;6146.53;fr>>
+Je crois que le temps est venu.
+
+<<6145.62;6150.3;fr>>
+Pour le contraire, je vous remercie beaucoup, maître Sá Fernandes. Merci infiniment.
+
+<<6150.3;6152.7;fr>>
+Et maintenant la parole est à madame Da Graça Carvalho.
+
+[[Government;GR1]]
+
+<<6153.54;6154.94;fr>>
+Merci, M. le Président.
+
+<<6155.14;6156.46;fr>>
+Je vais essayer de tout répondre.
+
+<<6156.7;6158.26;fr>>
+C'est pas très facile.
+
+<<6158.46;6161.26;fr>>
+En premier lieu, je veux dire une chose.
+
+<<6161.46;6177.5;fr>>
+Il y a une quelconque confusion entre les faits qui ont été établis et les faits qui ont été soulevés pendant les procédures en termes et même pendant la procédure devant la Cour et quelques faits qui sont soulevés maintenant.
+
+<<6179.34;6184.1;fr>>
+Quelques questions qui ont été posées par le juge Paul Pintabouker.
+
+<<6184.9;6192.66;fr>>
+Selon ce que j'ai compris, sont soulevés à partir de la requête de la requérante.
+
+<<6193.58;6206.86;fr>>
+Elle a effectivement mentionné une série de choses qui concernent le jour 6 et 7 mars avant la 2e intervention, mais qui n'ont pas été établies par les instances.
+
+<<6207.7;6210.94;fr>>
+Je ne sais pas si elles ont été bien soulevées ou mal soulevées.
+
+<<6210.94;6213.22;fr>>
+Elles ne sont pas établies.
+
+<<6213.42;6216.14;fr>>
+En outre, il y a...
+
+<<6216.46;6222.14;fr>>
+Nous avons 5 rapports des collèges de l'ordre des médecins. 5.
+
+<<6222.34;6234.66;fr>>
+Il y en a un entre les 5 qui est le seul qui a été mentionné, qui est le collège des infections, des maladies infectieuses, qui est le seul qui est critique pour tous les événements.
+
+<<6234.9;6237.7;fr>>
+Et c'est seulement ce collège qui a été mentionné.
+
+<<6237.9;6260.26;fr>>
+Effectivement, ce collège a dit qu'au service d'urgence du 1er hôpital, qu'il devrait y avoir un infectiologiste pendant l'urgence et que la 2e opération de chirurgie a eu un lapsus de temps qu'il pense qu'il n'est pas explicable.
+
+<<6261.14;6282.94;fr>>
+Or, concernant la 1re question, l'infectiologiste, selon ce que je sais, et je pense que c'est quelque chose d'objectif, à l'époque, en 1997, l'infectiologie était encore une spécialité relativement récente.
+
+<<6283.62;6286.1;fr>>
+Il y avait beaucoup d'infectiologistes.
+
+<<6287.22;6294.34;fr>>
+Alors, il peut être un peu irréaliste, mais c'est une personne qui, lui-même, est infectiologiste, ce qu'il propose.
+
+<<6294.54;6298.98;fr>>
+Mais le vrai, c'est que en 2000 ans, un groupe...
+
+<<6299.18;6312.7;fr>>
+Quelques-uns d'abord, je ne sais pas bien à quel moment, mais un groupe de travail a été créé à Portugal exactement pour réfléchir sur la question des infectiologistes dans les hôpitaux.
+
+<<6312.98;6319.22;fr>>
+Et le rapport a été émis en 2000 ans avec des propositions concernant ce renforcement.
+
+<<6321.74;6330.7;fr>>
+Mais dans le cas concret, nous pensons que la présence d'un infectiologiste à l'urgence de l'hôpital n'était impérieuse.
+
+<<6331.26;6332.98;fr>>
+Il était là un nérologue.
+
+<<6333.18;6336.22;fr>>
+Et le nérologue a examiné le malade.
+
+<<6336.9;6340.82;fr>>
+Il a examiné une heure après son arrivée.
+
+<<6341.02;6343.9;fr>>
+Et à ce moment, il n'avait pas de symptômes de méningite.
+
+<<6344.1;6354.58;fr>>
+Le problème, c'est qu'à ce moment, un examen a été fait, il n'y avait pas encore de la fièvre, de la raideur de la nourriture, de la nourriture de la nouque.
+
+<<6354.78;6356.94;fr>>
+Il n'y avait pas de symptômes de la maladie.
+
+<<6357.42;6362.18;fr>>
+Ca, c'est arrivé un peu plus tard, jusqu'à 8h, 9h du matin.
+
+<<6362.98;6367.22;fr>>
+Et après ça, la maladie a été diagnostiquée.
+
+<<6367.62;6371.74;fr>>
+Alors l'infectiologiste n'était pas impérieuse pour le cas concret.
+
+<<6377.06;6388.74;fr>>
+Sur l'état de santé et sur le système portugal en 1997, certainement, il était un peu pire que celui qui est maintenant, je pense.
+
+<<6389.18;6393.5;fr>>
+Mais le vrai, c'est que nous avions déjà à cette époque un système universel de la santé.
+
+<<6393.98;6396.7;fr>>
+Toutes les personnes se pouvaient adresser aux hôpitaux.
+
+<<6397.42;6400.62;fr>>
+Ils bénéficiaient d'accueil et d'assistance.
+
+<<6401.9;6423.94;fr>>
+Ce cas concret, je pense, au contraire du maître Safernandes, je pense qu'il révèle aussi que le système a accueilli plusieurs fois, pendant ces 3 mois, le malade a été toujours accueilli, il a eu toujours l'opportunité de contacter avec les médecins.
+
+<<6424.38;6430.9;fr>>
+Il a été soumis à 2 interventions, il a fait beaucoup d'examens, il a bénéficié de beaucoup de soins.
+
+<<6431.1;6434.58;fr>>
+Nous ne pouvons dire que le système, c'était horrible, qu'il ne fonctionnait pas.
+
+<<6434.78;6436.22;fr>>
+Je pense que c'est injuste.
+
+<<6436.22;6437.86;fr>>
+C'est injuste de dire ça.
+
+<<6438.46;6440.54;fr>>
+Certainement, il y avait des problèmes.
+
+<<6448.5;6455.46;fr>>
+Alors, je pense que je réponds aussi si ça réfléchit à un problème d'ordre systémique.
+
+<<6457.3;6462.78;fr>>
+Mais la vérité, c'est que le problème n'a pas été soulevé dans les procédures internes.
+
+<<6462.98;6470.3;fr>>
+Le problème a été soulevé sur le cas concret, sur l'existence de négligence, sur l'existence du manquement.
+
+<<6470.78;6479.3;fr>>
+Même le dysfonctionnement des services et le manque de coordination qui a été soulevé par la Chambre n'avait pas été soulevé dans ces termes.
+
+<<6479.78;6482.86;fr>>
+C'est maintenant que sa question s'est surtout soulevée.
+
+<<6483.54;6489.58;fr>>
+Les aspects structurels ne faisaient partie des procédures internes.
+
+<<6490.3;6502.58;fr>>
+Quelle a été la conséquence, le juge la 1re demande, je pense qu'elle a été aussi dans ce sens, quelle a été la conséquence de ce rapport négatif du Collège d'infectiologie?
+
+<<6503.78;6510.06;fr>>
+Ce n'est pas certainement une enquête criminelle qui aurait eu lieu après ça.
+
+<<6510.7;6513.3;fr>>
+C'était un problème structurel.
+
+<<6513.5;6525.7;fr>>
+Je pense que l'Inspiration générale de la santé a reçu ce rapport et elle a pu adopter quelques mesures, faire des propositions, si tel est le cas.
+
+<<6525.9;6551.7;fr>>
+Et effectivement, un groupe a été constitué, je ne sais pas quelle a été l'influence de ce rapport ou non, un groupe a été créé et a présenté des propositions concernant la question de l'infectiologie, qui était, je répète, une spécialité relativement récente à ce moment, concernant précisément le retard de la chirurgie du 6 mars.
+
+<<6553.7;6567.06;fr>>
+C'est vrai que le Collège d'infectiologie dit dans 2 lignes qu'à son avis, il y a eu un retard, mais il ne présente des explications, des fondements pour cette conclusion.
+
+<<6567.26;6568.58;fr>>
+C'est une conclusion.
+
+<<6569.98;6579.3;fr>>
+Le vrai, c'est que nous avons des éléments, soit dans le procès clinique, soit dans les rapports des autres collèges qui expliquent la situation.
+
+<<6579.5;6582.78;fr>>
+Effectivement, il y a eu un conjoint de complications.
+
+<<6583.06;6599.22;fr>>
+Le 6 mars, le malade a été soumis à une radiographie d'Ebou et à une écho qui n'ont pas détecté la concentration des gaz qui serait symptomatique de la perforation.
+
+<<6599.54;6615.78;fr>>
+Alors la situation n'avait pas l'urgence parce qu'il était urgent, mais elle n'était pas si urgente parce qu'il n'y avait pas l'indication de la concentration des gaz que, selon les experts, serait l'indication de l'apéritonite.
+
+<<6615.98;6619.78;fr>>
+L'apéritonite s'est seulement détectée pendant la chirurgie.
+
+<<6619.98;6621.38;fr>>
+Et ça, c'est prouvé.
+
+<<6621.54;6646.94;fr>>
+La raison de quelque temps, je ne sais pas si ce sont 20 heures, 24 heures exactement, est expliquée par le Collège de chirurgie générale qui réfléchit sur l'état clinique général de débilitation, de déséquilibre électrolytique.
+
+<<6647.14;6650.94;fr>>
+Je pardonne par la parole.
+
+<<6651.14;6669.94;fr>>
+Mais la situation concrète et plus facile, c'était un état de complication et de débilitation générale des nourritures du malade qui exigeait une préparation plus forte.
+
+<<6670.18;6675.34;fr>>
+Il a eu besoin de faire une transfusion de sang avant la chirurgie.
+
+<<6675.54;6686.34;fr>>
+Et c'était un état général qui demandait des soins spéciaux et qui ne permettait pas qu'il soit soumis tout de suite à cette chirurgie.
+
+<<6686.58;6696.34;fr>>
+Le Collège de chirurgie générale dit que cette intervention doit être bien pondérée.
+
+<<6696.54;6701.54;fr>>
+Il y a eu des réunions des médecins pour décider ça.
+
+<<6701.82;6709.78;fr>>
+Et la maladie a dû être préparée avec beaucoup de mesures pour supporter cette intervention.
+
+<<6709.78;6712.78;fr>>
+Alors, c'est l'explication.
+
+<<6713.02;6721.22;fr>>
+Concernant l'autopsie, effectivement, l'autopsie n'a été réalisée.
+
+<<6721.94;6726.06;fr>>
+Une fois plus, le Collège d'infectiologie dit qu'elle serait mandatoire.
+
+<<6726.26;6727.26;fr>>
+Elle ne dit pas obligatoire.
+
+<<6727.46;6729.46;fr>>
+Le mot mandatoire, c'est un peu différent.
+
+<<6729.62;6735.62;fr>>
+En vrai, d'après la loi, l'autopsie n'était pas obligatoire.
+
+<<6735.62;6745.7;fr>>
+Parce qu'à ce moment où le décès est survenu, les médecins savaient bien quelle était la cause du décès.
+
+<<6745.9;6748.9;fr>>
+Ils avaient des doutes sur la cause du décès.
+
+<<6749.1;6766.82;fr>>
+Il n'y avait pas de suspicion, des indices de négligence, de faute, de quelques erreurs qui devaient être objet d'une responsabilisation postérieure.
+
+<<6767.02;6775.22;fr>>
+Alors, à ce moment, il n'y avait pas des exigences de la loi ou des prévisions de la loi pour réaliser l'autopsie.
+
+<<6775.9;6780.9;fr>>
+De plus, elle n'a pas été demandée.
+
+<<6781.18;6789.58;fr>>
+Plus tard, pendant l'enquête criminelle, on pourrait faire une exhumation, mais ce n'a pas été le cas.
+
+<<6789.98;6792.98;fr>>
+C'est quelque chose de très grave.
+
+<<6792.98;6795.98;fr>>
+Et jugé nécessaire, il n'y a pas été demandé, je pense.
+
+<<6797.82;6800.82;fr>>
+Alors, je ne sais pas si j'ai répondu à toutes les questions.
+
+<<6802.46;6807.46;fr>>
+Je m'excuse si j'ai oublié quelque chose.
+
+<<6807.66;6818.66;fr>>
+Concernant seulement deux minutes, trois, pour répondre à quelque chose que le maître a dit, je pense qu'il envoque des choses qui ne sont pas été prouvées.
+
+<<6818.66;6828.86;fr>>
+Surtout la question à ce moment, la question que la récurrente...
+
+<<6829.26;6834.26;fr>>
+qu'il avait une intention d'envoyer...
+
+<<6834.46;6839.46;fr>>
+Pardon, je me rapporte à ce moment à la nuit du 29 novembre.
+
+<<6841.06;6849.46;fr>>
+Et le maître a dit qu'il avait l'intention de renvoyer le malade chez lui.
+
+<<6849.66;6852.66;fr>>
+Ça n'a pas été établi.
+
+<<6852.86;6857.06;fr>>
+La récurrente envoque ça dans sa requête, mais ça n'a pas été établi.
+
+<<6857.26;6862.26;fr>>
+Il a omis aussi qu'elle a été examinée par le neurologue.
+
+<<6862.46;6873.86;fr>>
+Concernant l'infection, l'origine de l'infection, effectivement, je pense que c'est une question importante, parce que c'est différent.
+
+<<6873.86;6914.46;fr>>
+Si l'infection est causée par l'hôpital, et alors il y a une faute d'hygiène, quelque chose, si l'origine, c'est une origine endogène, comme on a conclu que serait le cas, parce qu'il n'y avait pas d'indice de fissure, parce que l'antibiotique qu'il avait pris n'aurait pas soigné la méningite, parce que la bactérie était d'origine hospitalière, et alors on a conclu que c'était une autre bactérie endogène qui arrive au cerveau pendant cette intervention.
+
+<<6915.26;6919.26;fr>>
+Effectivement, ça arrive, et pour conclure, je dirais ça.
+
+<<6921.86;6925.66;fr>>
+C'est vrai que la méningite est associée à l'intervention.
+
+<<6926.46;6932.46;fr>>
+Il y a une probabilité très réduite que cette conséquence arrive, et elle est arrivée.
+
+<<6932.66;6941.86;fr>>
+Mais ce n'est pas de la faute des médecins, ce n'est pas une faute qui puisse être amputée à l'État.
+
+<<6942.06;6945.06;fr>>
+Et c'est une différence très importante, à mon avis.
+
+<<6947.26;6973.26;fr>>
+Au-delà de cela, nous acceptons qu'il y a des rapports avec les différentes complications qu'une personne qui est enternée peut avoir des haussères de stress, une personne qui a des méningites peut avoir l'infection du colon à cause des antibiotiques, mais ça n'était pas évitable.
+
+<<6974.26;6979.26;fr>>
+Le malade doit être enterné, il doit prendre ses antibiotiques.
+
+<<6980.46;6990.66;fr>>
+Il n'y a pas de façon d'éviter toutes ces conséquences malheureuses que nous regrettons évidemment, et qui sont très tristes, mais il n'y avait pas d'hypothèse d'éviter cette conséquence.
+
+<<6990.86;6996.86;fr>>
+Toutes les choses les moins probables, les moins normales, sont arrivées.
+
+<<6997.06;7004.26;fr>>
+C'est une alie de la médecine, je pense, mais le vrai, c'est que tout s'est fait pour éviter cette conséquence.
+
+<<7004.26;7005.26;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<7007.9;7010.9;fr>>
+Merci beaucoup, Mme Da Graça Carvalho.
+
+<<7011.1;7014.74;fr>>
+Nous en arrivons maintenant à la fin de l'audience.
+
+<<7015.06;7021.43;fr>>
+Je remercie les partis pour leurs interventions et leurs réponses aux questions de la Cour.
+
+<<7021.66;7025.82;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<7026.02;7029.26;fr>>
+L'arrêt sera prononcé ultérieurement.
+
+<<7029.51;7032.98;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<7032.98;7035.3;fr>>
+J'y déclare l'audience close.
+

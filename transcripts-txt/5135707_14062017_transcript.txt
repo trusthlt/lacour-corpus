@@ -1,0 +1,2035 @@
+[[Announcer;UNK]]
+
+<<10.86;11.66;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<59.38;61.68;fr>>
+Je vous en prie, prenez place.
+
+<<73.54;80.24;fr>>
+Je déclare ouverte l'audience publique sous le fond de l'affaire Naït-Liman contre la Suisse.
+
+<<80.24;91.64;fr>>
+L'affaire a été introduite devant la Cour le 20 novembre 2007 par un ressortissant tunisien, naturalisé suisse, M. Abdennacer Naït-Liman,
+
+<<91.64;95.14;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<95.14;103.54;fr>>
+Elle a été attribuée à la deuxième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<103.54;109.14;fr>>
+La requête a été communiquée au gouvernement le 25 novembre 2010.
+
+<<109.14;120.04;fr>>
+Le 21 juin 2016, une chambre constituée au centre de la section a déclaré la requête recevable et a adopté un arrêt dans cette affaire.
+
+<<120.04;130.04;fr>>
+Le 19 septembre 2016, le requérant a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention.
+
+<<130.04;138.04;fr>>
+Cette demande a été acceptée par le Collège de la Grande Chambre le 28 novembre 2016.
+
+<<138.04;145.74;fr>>
+Le gouvernement du Royaume-Uni a été autorisé à intervenir dans la procédure écrite comme tierce partie.
+
+<<145.74;149.04;fr>>
+Il en va de même des organisations suivantes.
+
+<<149.04;155.74;fr>>
+Redress, agissant conjointement avec l'Organisation mondiale contre la torture OMCT.
+
+<<155.74;164.14;fr>>
+Amnesty International, agissant conjointement avec la Commission internationale de juristes et Citizens Watch.
+
+<<164.14;170.74;fr>>
+Le gouvernement, représenté par son agent, M. Frank Schürmann, chef de l'Unité de protection internationale
+
+<<170.74;178.34;fr>>
+des droits de l'homme à l'Office fédéral de la justice, assisté par M. Niklaus Meier, conseil,
+
+<<178.34;183.54;fr>>
+et par Mme Cornelia Ehrich et Anna Begemann, conseillère.
+
+<<183.54;187.74;fr>>
+Le requérant est représenté par M. Philip Grant
+
+<<187.74;190.84;fr>>
+et M. François Membrez, avocat.
+
+<<190.84;194.24;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<194.24;204.84;fr>>
+Je salue également les magistrats allemands, espagnols, macédoniens, russes, suisses, turcs, et les magistrats de la Cour de l'Union économique euro-asiatique.
+
+<<204.84;211.94;fr>>
+En visite à la Cour, ainsi que la délégation du Réseau européen de formation judiciaire.
+
+<<211.94;219.64;fr>>
+Ayant consulté l'agent du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<219.64;223.24;fr>>
+Nous entendrons successivement M. Grant et M. Membrez
+
+<<223.24;227.84;fr>>
+pour le requérant, puis M. Schürmann pour le gouvernement.
+
+<<227.84;242.34;fr>>
+Je dois expliquer qu'en sus de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, une interprétation en macédonien, russe et turc, a été autorisée au profit d'un groupe de magistrats que je viens de saluer.
+
+<<242.34;251.14;fr>>
+Une interprétation en arménien a également été autorisée au profit d'un groupe de visiteurs sous la direction de l'Ombudsman des droits de l'homme de l'Arménie.
+
+<<251.14;258.04;fr>>
+Enfin, une interprétation en bulgare a été autorisée au profit d'une délégation d'avocats bulgare.
+
+<<258.04;265.64;fr>>
+Ces interprétations ne sont pas aux assurés par la Cour et ne feront donc pas partie de l'enregistrement officiel de la procédure.
+
+<<265.64;268.44;fr>>
+La parole est à M. Grant.
+
+<<268.44;268.44;fr>>
+Je vous en prie, maître.
+
+[[Applicant;AP1]]
+
+<<271.72;286.88;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, il y a presque 25 ans, jour pour jour, le requérant quittait les locaux du ministère de l'Intérieur à Tunis suite à six semaines d'interrogatoire et de torture sauvage.
+
+<<287.8;314.16;fr>>
+Nous nous retrouvons aujourd'hui à Strasbourg pour l'épilogue de cette affaire, votre cours devant déterminer pour la première fois si l'article 6, paragraphe 1 de la Convention est violé lorsqu'une victime qui ne peut agir ailleurs est empêchée de saisir la justice du pays qui lui a accordé l'asile afin d'y faire valoir les prétentions civiles découlant des actes de torture.
+
+<<314.16;318.12;fr>>
+Permettez-moi d'écarter deux obstacles initiaux.
+
+<<318.12;321.64;fr>>
+Le premier concerne la question de l'immunité de juridiction.
+
+<<321.64;332.84;fr>>
+Tout le monde ici, l'État défendeur, la Chambre, le requérant, le Royaume-Uni également, s'accorde pour considérer que cette question n'a pas à être traitée.
+
+<<332.84;351.68;fr>>
+En rappelant que le Tribunal fédéral a laissé ouverte la question des immunités, le gouvernement, au paragraphe 2 de ses écritures, conclut correctement que ce point devra être traité ultérieurement au plan national, dans l'hypothèse évidemment où votre Chambre devait rendre un avis de violation de la Convention.
+
+<<351.68;355.96;fr>>
+Le second point, lui, concerne le cœur de cette affaire.
+
+<<355.96;375.28;fr>>
+Le requérant doit désagréablement relever que le gouvernement suisse, d'abord suivi en cela par la Chambre et rejoint désormais par le Royaume-Uni, tente d'enfermer le débat juridique autour de la notion de compétence universelle civile.
+
+<<375.28;379.88;fr>>
+Il est important d'emblée de clarifier cette notion.
+
+<<379.88;385.88;fr>>
+La compétence universelle est une notion bien connue en droit pénal qui découle de différentes conventions internationales.
+
+<<385.88;392.64;fr>>
+La Convention de Genève de 1949, la Convention contre la torture des Nations Unies de 1984.
+
+<<392.64;397.12;fr>>
+En revanche, il ne s'agit pas d'un concept de droit civil.
+
+<<397.12;411.24;fr>>
+En utilisant cette formule, on fait croire que le requérant pourrait et voudrait saisir les tribunaux de n'importe quel État, indépendamment de quelconque lien tissé avec cet État.
+
+<<411.24;416.2;fr>>
+Le gouvernement parle ainsi dans ses écritures de l'effort universel.
+
+<<416.2;421.84;fr>>
+Il écrit que nous n'avons pas pour tâche d'ouvrir à toute l'humanité des forts en Suisse.
+
+<<421.84;423.24;fr>>
+C'est en page 9.
+
+<<423.24;433.6;fr>>
+Avant d'ajouter que prévoir une juridiction civile quasiment illimitée surmènerait les instances juridiques de quelques nations que ce soit.
+
+<<433.6;438.08;fr>>
+Le Royaume-Uni dédie quatre pages d'observation à cette thématique.
+
+<<438.08;452.08;fr>>
+Et l'arrêt du 21 juin 2016 consacre de long développement à cette thématique, mais rend la chose confuse, ne prenant pas le temps de définir ce que ce concept recouvre exactement.
+
+<<452.08;457.36;fr>>
+Je tiens à vous rassurer et j'espère que l'État parti le comprendra enfin aujourd'hui.
+
+<<457.36;471.36;fr>>
+Le requérant ne demande pas la reconnaissance d'un fort universel illimité qui lui permettrait de quémander justice devant n'importe lequel des 47 États du Conseil de l'Europe.
+
+<<471.36;486.6;fr>>
+En l'absence de toute possibilité de saisir les tribunaux tunisiens, il souhaite simplement pouvoir bénéficier d'un fort approprié et un seul devant lequel plaider son affaire.
+
+<<486.6;499.24;fr>>
+Et ce fort approprié, il se trouve nécessairement en Suisse, le seul État avec lequel le requérant entretient des liens objectifs et effectifs sur lesquels maître Monbré reviendra.
+
+<<499.24;511.64;fr>>
+Faire croire qu'au final votre cour devra consacrer un fort universel valable devant n'importe quelle juridiction européenne est tout simplement faux.
+
+<<511.64;517.52;fr>>
+La présente affaire, en définitive, est probablement plus facile qu'il n'y paraît.
+
+<<517.52;525.84;fr>>
+Personne ici ne remet en cause l'applicabilité de l'article 6 paragraphe 1 aux prétentions civiles de M. Naït Limane,
+
+<<525.84;532.0;fr>>
+ni l'arrêt de la Chambre, paragraphe 85, ni désormais le gouvernement dans ses écritures.
+
+<<532.0;543.44;fr>>
+La présente affaire implique donc de s'interroger de manière assez classique sur la capacité de l'État à restreindre le droit d'accès du requérant à un tribunal.
+
+<<543.44;550.08;fr>>
+À cet égard, l'arrêt du 21 juin 2016 est assez décevant.
+
+<<550.08;570.2;fr>>
+Tant en ce qui concerne les buts justifiants de restreindre ce droit d'accès, que le rapport raisonnable de proportionnalité entre les moyens utilisés et le but visé, la Chambre ne parvient pas à se détacher de la question de la compétence universelle civile.
+
+<<570.2;589.56;fr>>
+Il faut relire impérativement le paragraphe 107 et le paragraphe 108 de l'arrêt pour bien se rendre compte que la Chambre nie la violation de l'article 6 parce qu'elle rejette cette notion de compétence universelle civile pourtant étrangère à notre affaire.
+
+<<589.56;597.04;fr>>
+Tout aussi grave, la Chambre omet à ce stade de prendre en considération deux éléments fondamentaux.
+
+<<597.04;600.84;fr>>
+Le premier élément, c'est la torture.
+
+<<600.84;607.76;fr>>
+La présente affaire ne concerne pas n'importe quelle cause civile, droit de la famille, succession, droit des contrats.
+
+<<607.76;611.6;fr>>
+Elle ne découle pas non plus d'un crime ordinaire.
+
+<<611.6;628.76;fr>>
+Elle se base sur la commission d'un crime de droit international, la torture, prohibée par l'article 3 de la Convention, qui relève du jus cogens et que la communauté internationale s'est engagée fermement à bannir et à réprimer.
+
+<<628.76;631.56;fr>>
+La torture, ce n'est pas un fait ordinaire.
+
+<<631.56;645.84;fr>>
+Sa commission entraîne la mise en œuvre de tout un corpus juridique particulier au plan européen et au plan universel, notamment les obligations découlant de la Convention des Nations Unies contre la torture de 1984.
+
+<<645.84;668.92;fr>>
+Amnesty International, la Commission internationale de juristes, rappelle très justement qu'il découle de l'article 14 de cette convention, qu'une restriction au droit d'accès à un tribunal pour les victimes de torture ne peut intervenir qu'en application stricte du principe de nécessité et de proportionnalité.
+
+<<668.92;685.24;fr>>
+Et donc que les États ont l'obligation de ne pas interpréter leurs droits internes de manière à réduire à néant le droit des victimes de torture à obtenir réparation, comme l'a précisément fait le tribunal fédéral.
+
+<<685.24;696.12;fr>>
+Ces organisations rappellent également que la mise en œuvre d'une voie de droit civil, ce n'est pas juste autoriser la victime à aller demander de l'argent.
+
+<<696.12;720.12;fr>>
+Elle peut permettre la mise en œuvre de multiples autres aspects du droit à la réparation, le droit à la vérité, à ce que la responsabilité du crime soit imputée à son auteur, notamment en conformité à la pratique et à la jurisprudence de nombreuses instances et cours internationales, notamment de la vôtre.
+
+<<720.12;730.12;fr>>
+En matière de torture, la réparation civile, ce n'est pas moins sérieux ou moins important que le droit à la justice pénale.
+
+<<730.12;739.0;fr>>
+Le second élément dont la Chambre omet de saisir la portée, c'est le risque généralisé de déni de justice.
+
+<<739.0;774.12;fr>>
+En effet, à la seule et à la première occasion qui lui était donnée d'appliquer l'article 3 de la loi suisse sur le droit international privé à un cas de torture, et donc de donner un effet réel et vivant à l'article 6 de la Convention européenne ou à l'article 14 de la Convention contre la torture, le tribunal fédéral a malheureusement recouru à l'interprétation la plus rigide qui soit, celle qui empêche de prendre en compte le moindre lien entre le requérant et son pays d'accueil.
+
+<<774.12;779.4;fr>>
+À lire les écritures du gouvernement, cela est au demeurant largement assumé.
+
+<<779.4;784.2;fr>>
+Je cite « même si le prix à payer est de ne pas pouvoir éviter des dénis de justice ».
+
+<<784.2;786.32;fr>>
+C'est en page 10.
+
+<<786.32;805.68;fr>>
+Or, depuis cet arrêt, cela vaut pour tous les crimes internationaux, torture, disparition forcée, génocide et autres crimes de guerre, impossibilité désormais pure et simple, sans exception, de saisir les tribunaux pour obtenir réparation.
+
+<<805.68;824.88;fr>>
+Dans l'arrêt « Harlewin contre Suède » du mois de mars 2016, la Cour devait juger, si l'on pouvait attendre d'un Suédois vivant en Suède, qu'il se rende en Grande-Bretagne pour y introduire une action civile suite à une émission de télévision diffusée depuis la Grande-Bretagne vers la Suède.
+
+<<824.88;833.36;fr>>
+Or, ces deux éléments fondamentaux, que sont la torture et le risque de déni de justice, faisaient défaut dans l'affaire Harlewin.
+
+<<833.36;842.96;fr>>
+On y parlait d'une part seulement de diffamation, et d'autre part, une procédure aurait pu être diligentée en Grande-Bretagne.
+
+<<842.96;844.88;fr>>
+Qu'a jugé la Cour?
+
+<<844.88;868.16;fr>>
+À l'unanimité, elle a conclu que l'interprétation du droit suédois portait atteinte à la substance même du droit garanti par l'article 6 de la Convention, en ne prévoyant pas un fort approprié en Suède, paragraphe 73 de l'arrêt Harlewin.
+
+<<868.16;882.28;fr>>
+Or, l'interprétation du droit suisse dans l'affaire Naït Lehmann porte une atteinte autrement plus grave au droit du requérant, puisqu'il n'existe pour lui aucun fort de repli.
+
+<<882.28;889.32;fr>>
+Alors, que valent les buts poursuivis par cette restriction massive telle que consacrée par l'arrêt du 21 juin 2016?
+
+<<889.32;905.0;fr>>
+Les paragraphes 107 les énoncent, par exemple, le risque d'ineffectivité des décisions judiciaires internes ou alors des difficultés pratiques considérables pour les tribunaux, notamment à cause de l'administration des preuves.
+
+<<905.0;915.56;fr>>
+Le requérant s'est prononcé en détail sur chacun de ces buts prétendus, et je vous renvoie respectueusement aux paragraphes 107 à 130 de ces écritures.
+
+<<915.56;922.6;fr>>
+En revanche, j'aimerais revenir sur deux ou trois éléments soulevés par le gouvernement dans ces écritures, avec trois remarques.
+
+<<922.6;941.64;fr>>
+Sur la prétendue difficulté à faire exécuter des jugements rendus sur la base du fort de nécessité, c'est le gouvernement suisse qui nous offre le meilleur argument contre cette justification, en nous rappelant que des régimes dictatoriaux sont parfois appelés à se transformer en régimes plus démocratiques.
+
+<<941.64;949.96;fr>>
+Si la Suisse avait rendu, il y a dix ans, un arrêt attribuant des réparations à M. Naïk Limane,
+
+<<949.96;956.68;fr>>
+celui-ci aurait pu, dès 2011, se rendre en Tunisie, faire exécuter ce jugement.
+
+<<956.68;970.76;fr>>
+Deuxième élément, les difficultés liées à l'administration des preuves, à savoir, comme le gouvernement l'écrit, qu'il serait très difficile d'apporter dans le cadre du procès civil la preuve des actes de torture commises à l'étranger.
+
+<<970.76;977.96;fr>>
+Mais voyons, en matière civile, la charge de la preuve, elle n'incombe pas au juge, elle incombe au demandeur.
+
+<<977.96;983.76;fr>>
+Si celui-ci n'est pas à même de prouver les faits qu'il allègue, il perd son procès.
+
+<<983.76;988.24;fr>>
+Ce n'est pas une raison de fermer la porte du tribunal.
+
+<<988.24;995.48;fr>>
+Troisième argument qui pourrait peser peut-être un petit peu plus lourd, la crainte d'une avalanche de nouvelles affaires.
+
+<<995.48;1000.4;fr>>
+Ni le gouvernement ni la Chambre nous donnent le moindre début d'illustration d'un tel risque.
+
+<<1000.4;1016.48;fr>>
+Alors le requérant a sollicité un grand cabinet d'avocats, White & Case, qu'il vérifie le nombre d'affaires qui ont pu occuper les tribunaux de pays qui connaissent le fort de nécessité et qu'il l'applique plus largement que ne le fait la Suisse.
+
+<<1016.48;1019.44;fr>>
+Ce document est maintenant versé au dossier.
+
+<<1019.44;1025.68;fr>>
+Il s'agit de l'Allemagne, de l'Estonie, de la France, de la Pologne, de la Russie et de la Suède.
+
+<<1025.68;1042.28;fr>>
+Non seulement cette étude nous montre que l'affaire Naït Liman aurait probablement aisément pu être entendue par les tribunaux de ces pays, mais surtout elle nous prouve qu'aucune affaire similaire à l'affaire Naït Liman n'a été portée devant les juridictions de ces Etats.
+
+<<1042.28;1048.8;fr>>
+Nous sommes en présence, au plan européen, de quelques cas tout à fait isolés.
+
+<<1048.8;1053.28;fr>>
+Votre arrêt permettra probablement à ce qu'il y en ait d'autres à l'avenir.
+
+<<1053.28;1060.96;fr>>
+Mais en aucune manière, pour citer le gouvernement, cela ne surmènera les instances juridiques de quelques nations que ce soit.
+
+<<1060.96;1064.28;fr>>
+Pour terminer, un peu de logique s'impose.
+
+<<1064.28;1071.48;fr>>
+Si un procès s'était tenu en Suisse suite à l'arrestation hypothétique du tortionnaire de M. Naït Liman,
+
+<<1071.48;1076.96;fr>>
+le requérant aurait demandé et certainement obtenu une indemnisation.
+
+<<1076.96;1094.08;fr>>
+Or, l'ensemble des arguments avancés pour montrer à quel point il serait délicat de se prononcer sur une demande civile vaut exactement de la même manière si la prétention civile est formulée à l'appui du procès pénal.
+
+<<1094.08;1102.88;fr>>
+Nombreux sont les Etats du Conseil de l'Europe majoritaire, probablement, qui acceptent la formulation de telles prétentions civiles, à commencer par la Suisse.
+
+<<1102.88;1113.52;fr>>
+L'article 126 du Code de procédure pénale prévoit que les tribunaux statuent sur les prétentions civiles présentées lorsqu'ils rendent un verdict de culpabilité.
+
+<<1113.52;1121.92;fr>>
+Contrairement à ce que le gouvernement affirme au paragraphe 50 de ses observations, cela est tout à fait fréquent.
+
+<<1121.92;1125.64;fr>>
+Certes, des affaires comme celle de M. Naït Liman
+
+<<1125.64;1128.8;fr>>
+ne sont pas nombreuses, mais des illustrations existent.
+
+<<1128.8;1146.44;fr>>
+Nous avons fourni en pièce 28 une telle illustration, un procès qui s'est tenu dans le canton de Genève en 2014, au cours duquel l'ancien chef de la police du Guatemala a été condamné à la prison à vie pour toute une série d'exécutions extrajudiciaires commises au Guatemala.
+
+<<1146.44;1155.56;fr>>
+Or, les tribunaux ont accordé à la famille de l'une des victimes vivant au Guatemala, de nationalité guatemaltèque, 30 000 francs de réparation.
+
+<<1155.56;1158.24;fr>>
+Cela se fait tout à fait correctement.
+
+<<1158.24;1170.32;fr>>
+Redress et l'OMCT, d'ailleurs, le disent dans leurs écritures, une telle pratique se retrouve en Belgique, en France, en Suède, en Espagne, aux Pays-Bas et ailleurs.
+
+<<1170.32;1177.92;fr>>
+S'il eût ainsi été possible, dans le cadre d'un procès pénal, d'allouer une indemnisation pour tort moral à M. Naït Liman,
+
+<<1177.92;1188.4;fr>>
+il ne reste aucun argument, aucun argument permettant de justifier que cela serait compliqué ou impossible dans le cadre d'un procès civil.
+
+<<1188.4;1197.16;fr>>
+En conclusion, le fort de nécessité aurait dû être appliqué de manière appropriée au cas d'espèce.
+
+<<1197.16;1204.04;fr>>
+Je cède maintenant la parole à maître Monbrey pour qu'il explique plus précisément comment, en vous remerciant très vivement pour votre attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1206.44;1208.04;fr>>
+pour M. Grant, M. Membrez, je vous en prie.
+
+[[Applicant;AP2]]
+
+<<1214.63;1226.23;fr>>
+Monsieur le Président, mesdames et messieurs les juges, comme Maître Grant vous l'a indiqué, je vais maintenant aborder les conditions d'application du fort de nécessité en Suisse.
+
+<<1226.43;1239.11;fr>>
+L'article 3 de la loi sur le droit international privé, LDIP, exige pour que le fort de nécessité soit admis en Suisse essentiellement 2 conditions.
+
+<<1239.31;1250.03;fr>>
+En 1er lieu, il convient qu'une procédure à l'étranger se révèle impossible ou qu'on ne puisse raisonnablement exiger qu'elle y soit introduite.
+
+<<1250.23;1254.23;fr>>
+En l'espèce, cette condition n'est pas litigieuse.
+
+<<1254.43;1259.35;fr>>
+Le requérant ne pouvait nullement agir en Tunisie contre son tortionnaire.
+
+<<1259.55;1268.99;fr>>
+Le gouvernement suisse le reconnaît expressément en affirmant que l'on ne pouvait certes pas attendre du requérant qu'il agisse devant les tribunaux tunisiens.
+
+<<1269.15;1270.71;fr>>
+C'est en page 8.
+
+<<1270.71;1276.75;fr>>
+L'arrêt de la Chambre du 21 juin 2016 enterrine ce point en son paragraphe 19.
+
+<<1278.39;1299.99;fr>>
+Cela dit, et pour répondre à la question du juge rapporteur, le requérant a effectivement écrit, mais de nombreuses années plus tard, à l'instance tunisienne de la vérité et de la dignité, l'IVD, suite à l'adoption de la loi tunisienne sur la justice transitionnelle de décembre 2013.
+
+<<1299.99;1304.59;fr>>
+C'était en février 2016, dans le but de l'informer de son cas.
+
+<<1304.79;1311.71;fr>>
+Après avoir reçu un simple accusé de réception, le requérant n'a plus eu de contact avec l'IVD.
+
+<<1311.91;1315.39;fr>>
+Est-ce dire qu'il aurait introduit une action judiciaire en Tunisie?
+
+<<1315.63;1317.03;fr>>
+Certainement pas.
+
+<<1317.23;1339.47;fr>>
+L'expert suisse Dick Marty, ancien membre de l'Assemblée parlementaire du Conseil de l'Europe, souligne dans son courrier du 19 mai 2017, en pièce 25, que le mandat de cette instance est essentiellement d'enquêter, de dévoiler la vérité au sujet des violations des droits de l'homme commises entre 1955 et 2013.
+
+<<1339.67;1347.39;fr>>
+Elle a ainsi été saisie de 62 300 dossiers et a récemment commencé à mener des auditions.
+
+<<1347.55;1351.15;fr>>
+Cette instance n'est clairement pas un tribunal.
+
+<<1351.39;1357.27;fr>>
+Elle n'est pas tenue de respecter les principes élémentaires du procès équitable découlant du pacte II de l'ONU.
+
+<<1357.27;1361.43;fr>>
+Et elle n'est donc nullement une voie de recours effective en matière de réparation.
+
+<<1361.63;1374.27;fr>>
+Le comité contre la torture des Nations unies relève dans ses observations finales du 10 juin 2016 que l'IVD a certes sur le papier également une fonction d'indemnisation, mais aucun budget ne lui a été accordé.
+
+<<1374.47;1386.27;fr>>
+En définitive, tout cela n'est cependant guerre d'importance pour la solution du présent cas, puisque ces faits sont largement postérieurs de 9 ans à l'arrêt du tribunal fédéral.
+
+<<1386.27;1397.99;fr>>
+Par définition, ils n'ont pu avoir aucune incidence sur la manière dont la justice suisse a traité le dossier du requérant.
+
+<<1398.23;1416.51;fr>>
+Une fois la possibilité d'agir à l'étranger établie, l'article 3 LDIP énonce comme seconde condition que sont compétentes les autorités judiciaires suisses du lieu avec lequel la cause présente un lien suffisant.
+
+<<1416.71;1434.23;fr>>
+Dans le cas du requérant, le tribunal fédéral a retenu que le mot cause, figurant à l'article 3 LDIP, devait être compris dans l'acception restreinte de complexes de faits à l'origine de la prétention juridique invoquée.
+
+<<1434.43;1444.39;fr>>
+Ce seraient donc les actes de torture et non la personne du demandeur qui devrait présenter un lien suffisant avec la Suisse.
+
+<<1444.59;1453.07;fr>>
+Le tribunal fédéral s'est ainsi focalisé sur le complexe de faits et a ignoré le lien suffisant.
+
+<<1453.27;1469.55;fr>>
+Cette interprétation a été vivement critiquée en Suisse en doctrine, car donnant lieu à des dénis de justice dans le cas des réfugiés à qui la Suisse accorde l'asile en raison des crimes qu'ils ont subis.
+
+<<1469.75;1481.43;fr>>
+En exigeant que la cause juridique ait un lien avec la Suisse et non le requérant, l'article 3 LDIP est en effet vidé de toute portée pratique.
+
+<<1481.63;1493.23;fr>>
+Pas moins de 6 commentateurs qui se sont penchés sur l'arrêt du tribunal fédéral du 22 mai 2007 font état de leur incompréhension face à la solution retenue.
+
+<<1493.43;1497.83;fr>>
+Leur critique est en reprise dans les observations écrites du requérant.
+
+<<1498.03;1500.99;fr>>
+Je ne vais pas y revenir maintenant.
+
+<<1501.19;1510.07;fr>>
+Quelques mots du professeur Bernard Dutoit dans son commentaire joint à la procédure résument les avis de la doctrine suisse.
+
+<<1510.27;1511.43;fr>>
+Je cite.
+
+<<1511.63;1518.91;fr>>
+On se permettra d'émettre quelques doutes sur une telle interprétation du mot cause à l'article 3 LDIP.
+
+<<1519.11;1527.39;fr>>
+Ne convenait-il pas de lui donner le sens le plus conforme à la ratio de cette disposition qui est d'éviter un déni de justice?
+
+<<1527.59;1539.55;fr>>
+Pourquoi la situation d'un réfugié tunisien qui a obtenu l'asile en Suisse où il vit depuis plus de 10 ans avec sa famille devrait-elle échapper à l'article 3 LDIP?
+
+<<1539.71;1550.63;fr>>
+Exiger que le complexe de fait et non la procédure ait un lien suffisant avec la Suisse, c'est vider l'article 3 LDIP de sa substance.
+
+<<1550.79;1552.39;fr>>
+Fin de citation.
+
+<<1552.39;1580.07;fr>>
+On le voit, l'interprétation du tribunal fédéral revient pour les victimes de crimes de droite internationale commis à l'étranger, à rendre impossibles toutes ces hymnes des tribunaux suisses, et cela même dans l'hypothèse où les victimes sont de nationalité suisse où ils résident au moment des faits, comme le soutient le gouvernement suisse au paragraphe 17 et 18 de ses écritures.
+
+<<1580.07;1609.35;fr>>
+Nous avons produit 3 décisions judiciaires aux annexes 29 à 31, dans lesquelles les autorités suisses n'ont pas hésité à faire application du fort de nécessité de l'article 3 LDIP lors de procédures tendant à constater l'inexistence d'une dette, protéger un enfant ou partager des avoirs de prévoyance professionnelle après un divorce.
+
+<<1609.35;1633.75;fr>>
+Et le gouvernement défendeur nous offre, sur un plateau en page 12, une autre affaire dont nous n'avions pas connaissance, soit un jugement cantonal rendu le 17 mai 2013, permettant à un ressortissant suisse domicilié à l'étranger de faire constater son changement de sexe en Suisse, chose impossible au lieu de son domicile.
+
+<<1633.95;1655.99;fr>>
+Ces 4 affaires démontrent que dans les cas où l'article 3 LDIP fonde la compétence des tribunaux suisses, ceux-ci se rattachent soit au domicile du demandeur, soit au domicile d'un tiers, soit à la nationalité du demandeur, même s'il est domicilié à l'étranger.
+
+<<1656.19;1667.35;fr>>
+En revanche, en l'espèce, le domicile en Suisse du requérant a été considéré comme non pertinent par le tribunal fédéral, et bien même M. Neytleman y vivait depuis plus de 14 ans
+
+<<1667.67;1669.75;fr>>
+lorsqu'il l'a statué.
+
+<<1669.99;1684.75;fr>>
+Ainsi, c'est dans le seul domaine des crimes de droit international que le tribunal fédéral s'est autorisé à une interprétation non seulement restrictive, mais qui consacre un déni de justice.
+
+<<1684.95;1703.31;fr>>
+Or, comme déjà dit, c'est dans ce domaine précisément que le droit international devrait guider les Etats à ne pas interpréter les dispositions de droit interne de manière à réduire à néant le droit des victimes de torture à obtenir réparation.
+
+<<1703.51;1709.47;fr>>
+L'arrêt du tribunal fédéral n'est pas le seul à présenter de tels défauts de raisonnement.
+
+<<1709.67;1715.75;fr>>
+L'arrêt de la Chambre contient lui aussi, en son coeur, une contradiction.
+
+<<1715.95;1733.35;fr>>
+Il souligne en effet que les Etats partis à la Convention qui appliquent le fort de nécessité subordonnent celui-ci à l'existence d'un certain lien de rattachement entre le litige et l'Etat du fort requis.
+
+<<1733.55;1746.91;fr>>
+Et constate en son paragraphe 114 que les liens de rattachement suffisants sont habituellement la nationalité, le domicile ou la résidence habituelle.
+
+<<1746.91;1772.11;fr>>
+Les facteurs énumérés sont dans la plupart des pays définis soit en termes généraux ou indéterminés, tels que liens étroits, liens suffisants, soit ils sont énoncés de manière plus précise, mais ils ont tous trait au rapport existant entre la partie au litige et l'Etat du fort de nécessité, jamais à la cause juridique.
+
+<<1772.35;1789.27;fr>>
+On citera par exemple la nationalité ou la résidence habituelle en Allemagne, en Autriche, en Belgique, en Estonie, en Roumanie, en Pologne et au Portugal, et des liens plus souples encore aux Pays-Bas.
+
+<<1789.47;1802.19;fr>>
+L'arrêt ajoute qu'il s'ensuit que l'article 3 LDIP n'a rien d'exceptionnel parmi les Etats membres du Conseil de l'Europe qui ont introduit une telle compétence dans leurs ordres juridiques.
+
+<<1802.19;1804.19;fr>>
+C'est le paragraphe 114.
+
+<<1804.39;1823.19;fr>>
+Or, justement, la Suisse refuse très clairement de reconnaître, au contraire de tous les autres Etats qui admettent le fort de nécessité, des liens non attachés à l'Etat de fait lui-même, comme la nationalité, le domicile ou la résidence habituelle.
+
+<<1823.39;1836.35;fr>>
+Au contraire de tous les autres Etats qui acceptent de les prendre en compte, la Suisse consacre pour les victimes de torture un déni de justice absolument incompatible avec l'ordre juridique européen.
+
+<<1836.55;1856.47;fr>>
+La seule manière de réconcilier l'article 3 LDIP, l'article 6 CEDH et les autres normes de droit international, c'est de reconnaître que du moment où, en matière de torture, une procédure en dommage d'intérêt est impossible à l'étranger, les liens tissés avec le nouvel Etat d'accueil sont suffisants.
+
+<<1856.67;1863.07;fr>>
+Ces liens pourraient être la nationalité, l'octroi de l'asile, le domicile, la résidence ou d'autres encore.
+
+<<1863.27;1875.63;fr>>
+Le gouvernement suisse indique dans ses observations que la nationalité suisse du requérant acquise le 21 mai 2007, soit un jour avant que le tribunal fédéral s'est prononcé en dernière instance, devrait être ignorée.
+
+<<1875.83;1877.71;fr>>
+Or, cette nationalité fait pourtant partie du dossier.
+
+<<1877.91;1887.23;fr>>
+Elle a été mentionnée dans la requête auprès de la Cour du 20 novembre 2007, puis développée dans la réplique du 31 mai 2011 en page 8.
+
+<<1887.23;1889.87;fr>>
+Toutefois, peu importe, puisque M. Naik Lieman
+
+<<1890.11;1897.95;fr>>
+était domicilier en Suisse, à Genève, où il avait reçu l'asile politique.
+
+<<1898.15;1906.35;fr>>
+Depuis 13 ans et 9 mois, lorsque le tribunal fédéral s'est prononcé en dernier lieu le 22 mai 2007.
+
+<<1906.59;1916.15;fr>>
+Les critères plus souples encore appliqués dans nombre d'Etats européens, comme la simple résidence habituelle, seraient évidemment également remplis en la personne du requérant.
+
+<<1916.15;1923.19;fr>>
+En matière de lutte contre la torture, le principe directeur devrait être d'éviter le déni de justice pur et simple.
+
+<<1923.39;1939.27;fr>>
+En ce sens, les intervenants Redress et l'Organisation mondiale contre la torture indiquent en page 3 que plus le risque d'un déni de justice est grand, plus petit devrait être l'exigence d'un lien avec l'Etat du fort.
+
+<<1939.47;1942.15;fr>>
+Ne nous arrêtons pas à son...
+
+<<1942.35;1948.87;fr>>
+La résolution, excusez-moi, la résolution de l'Institut de droit international du 30 août 2015.
+
+<<1949.07;1953.31;fr>>
+La résolution de l'Institut de droit international du 30 août 2015 va dans le même sens.
+
+<<1953.51;1960.55;fr>>
+Ne nous arrêtons pas à son titre, qui parle de compétences universelles civiles pour la réparation de crimes internationaux.
+
+<<1960.75;1968.35;fr>>
+Sa portée n'a pas le sens illimité que le gouvernement suisse souhaite donner à cette notion de compétences universelles civiles.
+
+<<1968.55;1973.99;fr>>
+Arrêtons-nous plutôt sur ces critères matériels, tout à fait objectifs et raisonnables.
+
+<<1974.19;1997.51;fr>>
+En son article 2, chiffre 1, lettre C, la résolution de l'Institut énonce qu'un tribunal devrait exercer sa compétence pour connaître des demandes en réparation des victimes à condition qu'aucun autre Etat n'ait des liens plus étroits avec le litige eu égard aux liens avec les victimes et les défendeurs ainsi qu'aux faits et circonstances pertinents.
+
+<<1997.71;2002.99;fr>>
+C'est la définition même du fort approprié qu'il serait raisonnable d'appliquer ici.
+
+<<2003.15;2022.43;fr>>
+En matière de réparation pour crimes internationaux, si le fort ordinaire n'est pas donné, en présence de prétention civile comme une demande en indemnisation du dommage physique ou du tort moral, un fort secondaire doit pouvoir être ouvert dans l'Etat où des liens pertinents ont été tissés.
+
+<<2022.63;2046.55;fr>>
+Le recours à ces critères lors de l'interprétation de l'article 3 LDIP résoudra très logiquement la présente procédure, car aucun Etat n'avait de lien plus étroit avec l'affaire que la Suisse, domicile du requérant depuis 13 ans et 9 mois, à l'exception, bien sûr, de la Tunisie, mais où l'action était impossible, ce qui n'est pas contesté.
+
+<<2046.79;2058.83;fr>>
+L'application de ces critères permettra également de répondre à la question du juge rapporteur de savoir si le requérant a tenté de saisir les tribunaux italiens.
+
+<<2059.11;2062.11;fr>>
+La réponse est évidemment négative.
+
+<<2062.31;2066.39;fr>>
+En effet, M. Naït Leeman se plaint d'actes de torture
+
+<<2066.59;2071.03;fr>>
+sur sa personne et le moment auquel il pouvait demander réparation.
+
+<<2071.23;2079.47;fr>>
+C'est alors qu'il était domicilié en Suisse qui lui avait accordé l'asile en raison, justement, de ces actes.
+
+<<2079.67;2097.27;fr>>
+Il n'avait aucun motif de saisir les tribunaux italiens, car au contraire de la Suisse, aucun lien n'existait entre lui et l'Italie, où il n'a séjourné que brièvement et antérieurement à la commission des crimes dont il a été victime.
+
+<<2097.51;2099.83;fr>>
+Il est temps de conclure.
+
+<<2100.03;2105.31;fr>>
+Au point 8.7 de sa recommandation 1327,
+
+<<2105.51;2145.63;fr>>
+produite en pièce 32, l'Assemblée parlementaire du Conseil de l'Europe recommandait au comité des ministres de demander aux Etats membres d'adopter, je cite, d'adopter une législation nationale permettant aux victimes de torture ou d'autres violations graves des droits de l'homme d'intenter dans le pays d'accueil une action civile en réparation à l'encontre des personnes coupables de ces violations, et de déterminer dans quelle mesure il serait possible d'élaborer une convention européenne ayant cet objectif.
+
+<<2145.87;2147.07;fr>>
+Fin de citation.
+
+<<2147.27;2166.71;fr>>
+Retenir dans l'affaire Naït Leeman une violation de l'article 6, paragraphe 1 de la Convention n'impliquera aucune réforme législative en Suisse, puisqu'il s'agira uniquement d'interpréter différemment à l'avenir l'article 3 LDIP.
+
+<<2166.91;2174.43;fr>>
+Mais cela permettra également de mettre en oeuvre la recommandation de l'Assemblée parlementaire.
+
+<<2174.63;2206.71;fr>>
+La convention à laquelle il est fait référence n'existe pas encore, mais votre cour a le pouvoir, par l'arrêt qu'elle rendra, non seulement de répondre à la recommandation de l'Assemblée parlementaire, mais également de consacrer l'article 6 de la Convention européenne des droits de l'homme comme étant le fondement du droit des victimes de torture et autres crimes internationaux à obtenir justice.
+
+<<2206.91;2209.79;fr>>
+En conclusion, le requérant, M. Naït Leeman,
+
+<<2209.99;2224.87;fr>>
+persiste dans ses conclusions et sollicite respectueusement de la Grande Chambre qu'elle dise qu'il y a eu violation de l'article 6 de la Convention au titre de l'accès à un tribunal pour faire valoir ses prétentions civiles.
+
+<<2224.87;2226.11;fr>>
+Je vous remercie beaucoup de votre attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<2227.26;2229.1;fr>>
+Merci beaucoup, maître.
+
+<<2229.34;2231.74;fr>>
+J'ai pris la parole, et maintenant, à M. Schürmann.
+
+<<2231.74;2231.74;fr>>
+Vous avez la parole.
+
+[[Government;GR2]]
+
+<<2237.21;2245.09;fr>>
+Monsieur le Président, Mesdames et Messieurs les membres de la Grande Chambre, La toile de fond de cette affaire est sérieuse.
+
+<<2245.09;2261.61;fr>>
+À son origine, une des violations les plus graves des droits de l'homme, des actes de torture en l'espèce commis sous l'ancien régime tunisien, lié au statut des acteurs présumés, la question complexe de leur immunité.
+
+<<2261.61;2266.93;fr>>
+En même temps, l'objet du litige devant votre cour reste limité.
+
+<<2266.93;2277.45;fr>>
+La Grande Chambre est elle aussi appelée à juger si le droit du requérant d'avoir accès à un tribunal a été violé en violation de l'article 6 de la Convention.
+
+<<2277.45;2297.89;fr>>
+Une violation ne saurait être admise que si les juridictions internes avaient nié à tort leurs compétences, soit en méconnaissance flagrante des règles du droit interne sur les forts, soit en méconnaissance d'une éventuelle obligation découlant du droit international.
+
+<<2297.89;2302.05;fr>>
+La question de l'immunité, quant à elle, ne se pose pas sur ce point.
+
+<<2302.05;2307.81;fr>>
+On vient de l'entendre, les partis s'accordent de même que les juges de la Chambre.
+
+<<2307.81;2312.41;fr>>
+Permettez-moi, M. le Président, deux autres remarques liminaires.
+
+<<2312.41;2315.25;fr>>
+D'abord, un bref rappel des faits.
+
+<<2315.25;2325.05;fr>>
+Avant d'être arrêté par la police italienne et ramené en Tunisie par des agents tunisiens, le requérant avait son domicile en Italie.
+
+<<2325.05;2333.49;fr>>
+À la connaissance du gouvernement suisse, le requérant n'a par la suite entrepris aucune démarche vis-à-vis de notre pays voisin.
+
+<<2333.49;2340.73;fr>>
+En 1993, après avoir subi les actes de torture allégués, le requérant a fui la Tunisie pour la Suisse.
+
+<<2340.73;2343.53;fr>>
+Deux ans plus tard, il se voit octroyé l'asile politique.
+
+<<2343.53;2348.17;fr>>
+En 2007, il a acquis la nationalité suisse.
+
+<<2348.17;2360.85;fr>>
+En 2001, il dépose une plainte pénale contre Aka, ancien ministre tunisien de l'Intérieur, supposé d'être hospitalisé en ce moment dans un hôpital à Genève.
+
+<<2360.85;2367.73;fr>>
+Le procureur général a classé la plainte parce qu'Aka avait quitté la Suisse.
+
+<<2367.73;2375.81;fr>>
+Sa présence aurait été la condition sine qua non pour justifier la compétence des autorités de poursuite.
+
+<<2375.81;2386.93;fr>>
+J'ajoute que contrairement à ce que laissent entendre les trois juges minoritaires de la Chambre, le procureur général n'a pas attendu le départ d'Aka pour ensuite pouvoir classer l'affaire.
+
+<<2386.93;2397.81;fr>>
+Il a au contraire agi tout de suite, le jour même, mais il s'est avéré qu'Aka avait déjà quitté l'hôpital avant même le dépôt de la plainte.
+
+<<2397.81;2401.93;fr>>
+Je renvoie ici au paragraphe 47 et 48 de notre mémoire.
+
+<<2401.93;2408.29;fr>>
+Et rappelons aussi que le requérant n'a pas recouru contre cette décision de classement.
+
+<<2408.29;2419.41;fr>>
+Trois ans plus tard, en 2004, le requérant entame la voie civile, présentant une demande de dommages d'intérêt dirigée contre la République de Tunisie et M. Aka.
+
+<<2419.41;2427.41;fr>>
+C'est ainsi que le fort de nécessité de l'article 3 et des IP entrent dans la discussion.
+
+<<2427.41;2440.29;fr>>
+Une dernière remarque liminaire, l'importance de la garantie de l'interdiction de la torture, son caractère absolu, son appartenance aux jus cogens sont hors question.
+
+<<2440.29;2446.85;fr>>
+La Suisse reconnaît sans réserve les engagements qui la lient au niveau international.
+
+<<2446.85;2456.21;fr>>
+Cela vaut en particulier pour l'obligation ancrée à l'article 5 de la Convention contre la torture, la CCT, ratifiée en 1986.
+
+<<2456.21;2466.89;fr>>
+C'est donc l'article 5 l'obligation d'établir la compétence des juridictions pénales pour connaître des infractions de torture commises en dehors de son territoire.
+
+<<2466.89;2469.25;fr>>
+Mais le requérant veut plus.
+
+<<2469.25;2478.77;fr>>
+Il cherche à faire reconnaître une compétence en matière civile au-delà des conditions prévues à l'article 5 CCT pour le volet pénal.
+
+<<2478.77;2495.89;fr>>
+Plus concrètement, il milite en faveur d'une interprétation de l'article 6 CEDH permettant de réclamer devant les juridictions civiles une indemnisation pour des actes de torture qui n'ont aucun lien avec le pays dont il a saisi les tribunaux.
+
+<<2495.89;2507.33;fr>>
+Dans ce sens, il réclame bel et bien ce qu'on appelle communément, y compris la Chambre, une compétence universelle en matière civile.
+
+<<2507.33;2513.53;fr>>
+Selon lui, la Suisse aurait une obligation d'exercer cette compétence.
+
+<<2513.53;2521.93;fr>>
+Et c'est une proposition, Monsieur le Président, Mesdames et Messieurs les Juges, une proposition à proprement parler révolutionnaire.
+
+<<2521.93;2533.77;fr>>
+En effet, en droit international public, même la question de savoir sous quelles conditions un Etat a le droit d'exercer une telle compétence est loin d'être tranchée.
+
+<<2533.77;2551.97;fr>>
+Il est généralement admis qu'un exercice quasi illimité de la compétence en matière civile, en tout cas au-delà des points, soi-disant classiques, de rattachement de l'article 5 CCT, aurait des conséquences très négatives pour les relations internationales à plusieurs égards.
+
+<<2551.97;2556.13;fr>>
+Pour atteindre le résultat visé, le requérant se fonde sur deux arguments.
+
+<<2556.13;2569.17;fr>>
+La compétence des juridictions civiles suisses imposerait selon lui, d'une part en vertu de l'article 14 CCT et d'autre part par le droit interne, donc l'article 3 LDIP.
+
+<<2569.17;2576.85;fr>>
+On laisse de côté l'article 16 de la Convention de Genève relative au statut des réfugiés portant sur le droit d'esté en justice.
+
+<<2576.85;2587.37;fr>>
+À cet égard, nous vous renvoyons à nos observations devant la Chambre, paragraphe 37 ajoutant que cet article n'a jamais été appliqué dans notre contexte spécifique.
+
+<<2587.37;2592.53;fr>>
+Le requérant ne cite ni jurisprudence ni doctrine allant dans ce sens.
+
+<<2592.53;2599.05;fr>>
+Il en va de même des autres sources de droit, du droit international invoqué par des tierces intervenantes.
+
+<<2599.05;2610.69;fr>>
+Au volet procédural de l'article 3 CEDH, article 13 CEDH, sans pendant, au niveau universel, l'article 2 Alignat 3 PAC 2 et d'autres.
+
+<<2610.69;2629.25;fr>>
+En ce qui concerne le droit coutumier, comme la Chambre l'a constaté, une pratique des États comme expression d'une opinion juris qui reconnaîtrait une obligation d'établir une compétence universelle civile, je cite, « faisait clairement défaut ».
+
+<<2629.25;2635.41;fr>>
+Quant à l'article 14 CCT, pourquoi n'est-il pas une base suffisante?
+
+<<2635.41;2643.65;fr>>
+D'abord, la comparaison entre l'article 14 CCT et l'article 5 CCT est révélatrice.
+
+<<2643.65;2659.97;fr>>
+Ce dernier établit une règle de fort, complétant ainsi la garantie précédente, article 4, qui statue l'obligation des États d'ériger en infraction pénale les actes de torture.
+
+<<2659.97;2676.21;fr>>
+De toute autre nature, l'article 14, qui confère un droit matériel, le droit des victimes à une réparation, sans référence à une quelconque règle de fort. L'interprétation grammaticale systématique
+
+<<2676.21;2687.69;fr>>
+démontre clairement qu'on ne saurait déduire de cette garantie matérielle une obligation des États d'établir un fort en matière civile.
+
+<<2687.69;2699.13;fr>>
+Deuxième observation, la Chambre a fondé sa conclusion sur une analyse détaillée, prenant notamment en compte la pratique dans 26 États européens et celle du Comité contre la torture.
+
+<<2699.13;2716.57;fr>>
+Le requérant et les organisations tierces intervenantes insistent beaucoup sur cette dernière, se référant à l'observation générale numéro 3 du Comité de 2012 et notamment à son paragraphe 22.
+
+<<2716.57;2725.09;fr>>
+S'il en fait référence à ce paragraphe 22, il faut le citer dès son début, ce que fait la Chambre au paragraphe 39.
+
+<<2725.09;2739.17;fr>>
+La phrase citée par le requérant, à savoir, je cite, « L'application de l'article 14 ne se limite pas aux victimes de préjudices commis sur le territoire de l'État-Parti ou commis par ou contre en ressortissant de l'État-Parti. »
+
+<<2739.17;2758.69;fr>>
+Cette phrase est en effet précédée par une autre, qui se lit comme suit, « En vertu de la Convention CCT, les États-Partis sont tenus de poursuivre ou à extrader les auteurs présumés d'actes de torture qui se trouvent sur tout territoire sous leur juridiction. »
+
+<<2758.69;2773.09;fr>>
+Ce paragraphe 22 de l'observation générale ne demande donc pas aux États de reconnaître une compétence universelle civile dans des affaires telles que le cas d'espèce, où M. Haka ne se trouve pas en Suisse.
+
+<<2773.09;2791.45;fr>>
+Pour le surplus, la Chambre constate que l'approche préconisée par le comité, qui en fait veut appliquer les règles du fort de l'article 5 au volet civil, que cette approche, je cite, « n'a pas été suivie par les États-Partis à cet instrument. »
+
+<<2791.45;2802.89;fr>>
+En effet, aucun des 26 États couverts par l'étude ne reconnaît aujourd'hui pareille application analogue et encore moins ce que réclame le requérant.
+
+<<2802.89;2808.61;fr>>
+Le comité a confirmé cette interprétation dans le contexte de plusieurs communications individuelles.
+
+<<2808.61;2817.09;fr>>
+Je cite l'affaire Z contre Australie, rendue en 2014, donc après l'adoption de cette observation générale numéro 3.
+
+<<2817.09;2829.93;fr>>
+« Le requérant reprochait aux juridictions australiennes d'avoir rejeté son action civile contre des autorités chinoises pour des actes de torture commis en Chine.
+
+<<2829.93;2851.69;fr>>
+Le comité a rejeté la requête, estimant que, je cite, « dans les circonstances particulières de l'affaire, l'État-Parti n'était pas en mesure d'établir sa compétence pour connaître d'actes commis en dehors de son territoire par des agents d'un autre État. »
+
+<<2851.69;2878.17;fr>>
+Si on veut identifier une incohérence entre cette pratique et l'observation numéro 3, ou si on interprète comme le juge Lemens, dans son opinion concordante, les deux sources de façon cohérente, dans les deux hypothèses, l'article 14, CCT, ne peut être considéré comme une base suffisante pour en déduire une obligation des États d'établir une compétence universelle civile.
+
+<<2878.17;2882.57;fr>>
+Une dernière observation dans le contexte de l'article 14.
+
+<<2882.57;2906.73;fr>>
+À supposer même que l'on puisse faire une analogie avec le volet pénal, la ligne 1 de l'article 5 CCT rattache la compétence au principe de la territorialité, lettre A, de la personnalité active, lettre B, et de la personnalité passive, donc la nationalité de la victime, lettre C.
+
+<<2906.73;2915.93;fr>>
+Soulignant que ce dernier point de rattachement n'entre en ligne de compte que si l'État le juge approprié.
+
+<<2915.93;2926.17;fr>>
+On voit donc que la Convention elle-même ne met pas sur pied d'égalité la nationalité de la victime avec les deux autres points de rattachement.
+
+<<2926.17;2940.81;fr>>
+En l'espèce, les actes présumés n'ont pas été commis en Suisse, les auteurs présumés ne sont pas suisses, et la victime présumée n'était pas suisse, ni à l'époque des faits, ni au moment de l'introduction de son action.
+
+<<2940.81;2957.37;fr>>
+La ligne 2 de cet article 5 CCT, quant à lui, complète les dix points de rattachement en prévoyant la compétence dans le cas où l'auteur présumé se trouve sur le territoire de la juridiction en question.
+
+<<2957.37;2963.17;fr>>
+Mais dans notre cas, l'auteur présumé ne se trouvait pas en Suisse au moment de l'action civile.
+
+<<2963.17;2970.69;fr>>
+Par la suite, les notifications adressées à M. Haka et par le billet des affaires étrangères à la République tunisienne
+
+<<2970.69;2981.45;fr>>
+comportant l'assignation à comparaitre devant le tribunal en Suisse ont été refusées, respectivement renvoyées par les destinataires.
+
+<<2981.45;2992.77;fr>>
+En résumé, le requérant veut déduire de l'article 14 CCT l'obligation d'établir un fort en matière civile, même au-delà des conditions applicables au pénal.
+
+<<2992.77;3007.05;fr>>
+Nous invitons la Grande Chambre à rejeter cette interprétation excessive et à dire, à l'instar de la Chambre, qu'aucune obligation internationale n'imposait à la Suisse de statuer sur l'action civile du requérant.
+
+<<3007.05;3010.77;fr>>
+Passons à l'article 3 de la EDIP.
+
+<<3010.77;3026.17;fr>>
+La Chambre l'a rappelé, s'agissant de l'interprétation d'une règle de droit interne, la Cour ne peut mettre en cause l'appréciation des autorités internes que lorsque cette appréciation est arbitraire ou manifestement déraisonnable.
+
+<<3026.17;3031.21;fr>>
+Si les définitions de ces termes peuvent varier dans la forme, l'essence est toujours la même.
+
+<<3031.21;3034.73;fr>>
+Il s'agit d'une appréciation grossièrement fausse.
+
+<<3034.73;3039.89;fr>>
+L'erreur saute aux yeux, une injustice manifeste.
+
+<<3039.89;3054.89;fr>>
+Pour reprocher à la juridiction suprême, qui a jugé cette affaire en audience publique et après délibération en public, d'avoir commis une injustice pareille, il faut des arguments forts.
+
+<<3054.89;3063.05;fr>>
+De l'avis du gouvernement, ni les juges dissidents, ni le requérant, ni les organisations tierces intervenantes ne les ont présentés.
+
+<<3063.05;3073.97;fr>>
+Nous sommes au contraire convaincus que l'interprétation de l'article 3 EDIP par le tribunal fédéral n'est non seulement pas arbitraire, mais au contraire bien raisonnable.
+
+<<3073.97;3078.69;fr>>
+La Chambre a retenu plusieurs buts légitimes de la restriction du droit d'accès au tribunal.
+
+<<3078.69;3101.57;fr>>
+La bonne administration de la justice, l'effectivité des décisions judiciaires internes, l'arrêt souligne les difficultés pratiques considérables, notamment à cause de l'administration des preuves et de l'exécution de ces décisions, ainsi que le risque de provoquer des émissions indésirables.
+
+<<3101.57;3108.97;fr>>
+Dans le mémoire, dans son mémoire, le requérant investit de gros moyens pour minimiser les difficultés pratiques.
+
+<<3108.97;3112.89;fr>>
+D'ailleurs, la minorité les passe sous silence.
+
+<<3112.89;3120.81;fr>>
+A commencer par un aspect soulevé dans nos observations devant la Chambre, la charge de travail supplémentaire pour les juridictions civiles.
+
+<<3120.81;3124.33;fr>>
+La partie adverse vient de mentionner ce point également.
+
+<<3124.33;3138.09;fr>>
+La statistique suisse en matière d'asile est à fin 2016, compte à peu près 46 000 réfugiés reconnus et à peu près 31 000 personnes qui étaient dans le processus d'asile.
+
+<<3138.09;3150.09;fr>>
+Dans leur opinion concordante dans l'affaire Al-Azhani contre UK, les juges Pellampé et Sir Bradsha en parlaient de centaines de réfugiés qui pourraient s'adresser aux juridictions civiles.
+
+<<3150.09;3158.61;fr>>
+De là précisément et paradoxalement dans les pays qui se montrent plus libéraux que d'autres dans l'accueil de ces personnes.
+
+<<3158.61;3162.17;fr>>
+Un des problèmes pratiques est celui de l'exécution.
+
+<<3162.17;3176.41;fr>>
+Comme la Cour l'a dit à ma reprise, déjà dans un arrêt rendu il y a 20 ans, Hanspi contre Grèce, le simple accès à un tribunal sans possibilité de voir exécuter les jugements ne suffit pas au regard de l'article 6.
+
+<<3176.41;3206.81;fr>>
+Plus concrètement, et là je cite la résolution de Tallinn particulièrement parlante, le droit d'accès des victimes à la justice n'a de sens qu'à la condition qu'il existe une perspective que les jugements rendus puissent s'appliquer effectivement et notamment devenir exécutoires à l'encontre des défendeurs, auteurs ou complices des atrocités commises.
+
+<<3206.81;3214.69;fr>>
+Supposons que le tribunal de première instance à Genève ait condamné les défendeurs en 2004 à payer au requérant l'indemnisation demandée.
+
+<<3214.69;3219.49;fr>>
+Est-ce que ce jugement suisse aurait été exécuté en Tunisie?
+
+<<3219.49;3225.81;fr>>
+Selon nous, la réponse est négative, indépendamment de la question de l'immunité.
+
+<<3225.81;3236.33;fr>>
+Un jugement suisse tel que réclamé par le requérant ne pourrait pas être exécuté en Tunisie, l'exigence de réciprocité faisant défaut.
+
+<<3236.33;3255.05;fr>>
+Et à part cet aspect, contrairement à ce que vient de dire le requérant, le fait d'avoir mis en place un système de justice transitionnel en Tunisie, selon nous, rend encore plus difficile l'exécution d'un arrêt d'une tribunale suisse.
+
+<<3255.05;3266.01;fr>>
+Il en va de la cohérence d'une application uniforme dans toutes les affaires comparables à l'intérieur d'un tel système de justice transitionnel.
+
+<<3266.01;3278.01;fr>>
+Un jugement étranger serait en quelque sorte un corps étranger dans les efforts de rendre justice aux victimes dans le pays directement concerné.
+
+<<3278.01;3285.21;fr>>
+Quant à la proportionnalité de la restriction, la Chambre a analysé, avec la retenue requise, l'argumentation du tribunal fédéral.
+
+<<3285.21;3294.17;fr>>
+Elle rappelle que l'article 3 LDIP pose comme condition que la cause présente un lien suffisant avec la juridiction suisse saisie.
+
+<<3294.17;3308.61;fr>>
+Vu les circonstances de l'espèce dans laquelle, et là je cite le tribunal fédéral et la Chambre, par le paragraphe 112, l'ensemble des caractéristiques de la cause ramène en Tunisie, sauf la résidence en Italie à l'époque des faits.
+
+<<3308.61;3316.21;fr>>
+Et la Chambre conclut sur cette base que l'appréciation du tribunal fédéral n'était pas arbitraire ou déraisonnable.
+
+<<3316.21;3320.41;fr>>
+La conclusion est corroborée par les résultats de l'étude effectuée par la Chambre.
+
+<<3320.41;3328.09;fr>>
+Déjà seule une minorité de neuf des 26 États sous examen connaît le concept d'un fort de nécessité.
+
+<<3328.09;3335.73;fr>>
+Peut-être y en a-t-il d'autres, comme le prétend le requérant, critiquant la méthodologie adoptée par la Chambre.
+
+<<3335.73;3355.81;fr>>
+Encore avant-hier, il a transmis à la Cour un document concernant la situation dans six États membres, et vient de les citer, « Selon notre analyse, aucun des États, pourtant librement choisis par le requérant, ne reconnaîtrait le fort de nécessité dans une constellation comme la nôtre. »
+
+<<3355.81;3364.49;fr>>
+D'ailleurs, à une exception près, la Suède, ces États sont déjà couverts par l'étude de la Chambre.
+
+<<3364.49;3378.29;fr>>
+Quant à la Suède, le document présenté par le requérant constate qu'il est impossible de dire si une cause comparable au cas d'espèce pourrait être portée devant les juridictions suédoises.
+
+<<3378.29;3406.25;fr>>
+Et qui plus en est, et je cite la phrase en anglais parce que le document est en anglais, le document cite l'avis du comité judiciaire parlementaire suédois, selon lequel, « In practice, damages claims for crimes committed outside of Sweden by foreign citizens residing outside of Sweden cannot be brought before Swedish courts. »
+
+<<3406.25;3417.45;fr>>
+Quant aux autres États et aux exemples de jurisprudence mentionnés, aucun des cas cités ne concerne une constellation identique ou au moins similaire de la nôtre.
+
+<<3417.45;3425.49;fr>>
+Les liens entre la cause, le droit de la ferme et des successions, du travail et l'État en question étaient plus étroits.
+
+<<3425.49;3435.77;fr>>
+Nous allons le démontrer plus en détail dans le délai que vous nous avez imparti pour réagir à ce nouveau document.
+
+<<3435.77;3455.41;fr>>
+Et même si l'on trouvait un État qui adoptait une base légale claire, ou si l'on trouvait une pratique établie des tribunaux nationaux qui reconnaîtrait une compétence dans une affaire comme la nôtre, cela ne signifierait nullement qu'il en découlerait l'obligation pour les autres États de faire de même.
+
+<<3455.41;3460.65;fr>>
+Le Royaume-Uni le souligne à juste titre dans sa tierce intervention.
+
+<<3460.65;3468.61;fr>>
+En fait, on est très loin d'une application uniforme du fort de nécessité allant dans le sens du requérant.
+
+<<3468.61;3470.33;fr>>
+Bien au contraire.
+
+<<3470.33;3482.57;fr>>
+La Chambre a conclu, je cite l'article 3 de la AEDIP, « n'a rien d'exceptionnel » et s'inscrit dans un consensus très large parmi les États membres du Conseil de l'Europe, paragraphe 114.
+
+<<3482.57;3488.81;fr>>
+Dans ces circonstances, on ne saurait parler d'arbitraire ou de déni de justice.
+
+<<3488.81;3493.41;fr>>
+Deux points de rattachement potentiel sont analysés de plus près par la Chambre.
+
+<<3493.41;3500.29;fr>>
+Le domicile du requérant et la nationalité suisse acquises peu après l'arrêt du tribunal fédéral.
+
+<<3500.29;3511.97;fr>>
+Quant au domicile, la Chambre cite là aussi le tribunal fédéral qui avait estimé qu'il s'agit d'un fait postérieur à la cause et qui n'en fait du reste pas partie.
+
+<<3511.97;3527.09;fr>>
+Quant à la nationalité, elle se contente de constater que la naturalisation est intervenue postérieurement à l'adoption de l'arrêt du tribunal fédéral et n'a donc pas pu être prise en compte par celui-ci, paragraphe 113.
+
+<<3527.09;3545.21;fr>>
+La majorité quant à elle se réfère aux critères suivants pour établir le lien requis par l'article 3, le lieu de résidence, le statut de réfugié, la procédure de naturalisation en cours, combinée à la présence de la personne suspectée sur le territoire suisse.
+
+<<3545.21;3553.73;fr>>
+Quelques clarifications s'imposent, d'abord sur plusieurs faits auxquels la minorité semble avoir attaché une importance déterminante.
+
+<<3553.73;3563.65;fr>>
+Les juges minoritaires partent l'idée que le TF, le tribunal fédéral, ne pouvait pas ignorer la procédure de naturalisation qui était sur le point de s'achever.
+
+<<3563.65;3572.69;fr>>
+Mais comment aurait-il pu en avoir connaissance? Cette procédure n'était pas l'argument du requérant.
+
+<<3572.69;3589.17;fr>>
+Il ne l'a jamais mentionné tout au long de la procédure devant les trois juridictions internes, ni d'ailleurs, selon nous, on va le vérifier dans sa requête à la Cour, c'est dans sa réplique, à notre avis, que la nationalité est mentionnée pour la première fois.
+
+<<3589.17;3603.29;fr>>
+En plus, s'il avait considéré comme pertinente le critère de la nationalité, pourquoi n'a-t-il pas introduit une nouvelle action une fois la procédure de naturalisation définitivement terminée?
+
+<<3603.29;3609.85;fr>>
+Une autre clarification concerne l'argument tiré de la présence supposée du défendeur en Suisse.
+
+<<3609.85;3621.01;fr>>
+Monsieur Aka ne se trouvait pas en Suisse ni au moment de l'introduction de l'action civile en 2004, ni au moment des débats devant les trois juridictions civiles.
+
+<<3621.01;3631.53;fr>>
+Quant à la plainte pénale, on l'a dit, malgré l'intervention immédiate de l'autorité de poursuite, Aka n'a pas pu être appréhendé parce qu'il avait déjà quitté le pays.
+
+<<3631.53;3655.81;fr>>
+Ensuite, quant à l'interprétation de l'article 3, l'analyse des travaux préparatoires, je renvoie notamment au paragraphe 17 et suivant dans notre mémoire, démontre que le critère de nationalité a certes été discuté au Parlement, mais n'a pas été retenu en tant que critère généralement admis pour ouvrir le fort de nécessité.
+
+<<3655.81;3665.69;fr>>
+Bien sûr, il y a des constellations dans lesquelles le domicile du demandeur ou la nationalité peuvent créer ce lien.
+
+<<3665.69;3668.73;fr>>
+C'est notamment le cas en droit de la famille.
+
+<<3668.73;3672.61;fr>>
+Le droit de la famille diffère toujours fortement d'un État à l'autre.
+
+<<3672.61;3685.45;fr>>
+L'État peut donc avoir intérêt à offrir à ses ressortissants des concepts inconnus à l'étranger, par exemple le partenariat enregistré entre personnes du même sexe.
+
+<<3685.45;3689.45;fr>>
+En revanche, la situation n'est pas la même en droit des obligations.
+
+<<3689.45;3693.69;fr>>
+Ici, la nationalité n'est pas un critère déterminant.
+
+<<3693.69;3699.65;fr>>
+Autrement dit, il faut identifier pour chaque constellation les critères de rattachement déterminants.
+
+<<3699.65;3712.09;fr>>
+Le requérant n'en tient pas compte lorsqu'il déduit du fait que le fort d'origine est connu en droit de la famille, que ce critère devrait aussi lui garantir un fort en matière d'actes illicites.
+
+<<3712.09;3727.05;fr>>
+Si la nationalité ne peut pas créer le lien suffisant, l'article 3 LDIP ne serait même pas applicable dans une cause comparable impliquant un ressortissant suisse.
+
+<<3727.05;3737.29;fr>>
+Prenons l'exemple d'un touriste suisse dans un pays tiers qui est arrêté et maltraité par la police du pays.
+
+<<3737.29;3742.49;fr>>
+De retour en Suisse, il introduit une action civile devant le tribunal de son domicile.
+
+<<3742.49;3748.49;fr>>
+À notre connaissance, une telle affaire n'a jamais été examinée par un tribunal suisse.
+
+<<3748.49;3756.69;fr>>
+Vu la conception adoptée par le législateur, il faut partir de l'idée que l'article 3 ne s'appliquerait pas.
+
+<<3756.69;3766.69;fr>>
+Il s'agit, comme l'a formulé le tribunal fédéral, d'un élément qui ne fait pas partie de la cause.
+
+<<3766.69;3774.09;fr>>
+Il est d'ailleurs intéressant de faire un parallèle avec une autre loi pertinente, la loi sur l'aide aux victimes.
+
+<<3774.09;3785.49;fr>>
+Cette loi ne considère, et non plus comme déterminante, la nationalité de la victime, s'agissant du droit à une indemnité et à une réparation morale.
+
+<<3785.49;3795.49;fr>>
+Dans l'article 3, ligne 1 de cette loi, je cite « l'aide aux victimes est accordée lorsque l'infraction a été commise en Suisse ».
+
+<<3795.49;3808.09;fr>>
+La ligne 2 ajoute, je cite toujours « si l'infraction a été commise à l'étranger, aucune indemnité ni réparation morale n'est accordée ».
+
+<<3808.09;3823.29;fr>>
+Et même si on voulait admettre avec la minorité que la nationalité ou le domicile peuvent, en principe, créer le lien nécessaire, il y a toujours un aspect temporel dont il faut tenir compte.
+
+<<3823.29;3830.69;fr>>
+Pour faire partie de la cause, un élément doit exister au moment des faits en question.
+
+<<3830.69;3840.49;fr>>
+En l'espèce, nous l'avons dit, les actes de torture allégués ont été commis en Tunisie par des agents de l'État tunisien avant ressorti sans Tunisien domicilier en Italie.
+
+<<3840.49;3845.09;fr>>
+Aucun élément de la cause ne présentait un lien avec la Suisse.
+
+<<3845.09;3868.69;fr>>
+Donc, même à supposer que le critère du domicile, nationalité, pourrait être déterminant, ce qui, je le répète, ne correspond pas à la conception suisse, l'arrivée du requérant en Suisse après les actes de torture et sa naturalisation ne pourrait plus créer, après coup, un lien qui n'existait pas au moment des faits.
+
+<<3868.69;3872.29;fr>>
+C'est ce qu'a exprimé le tribunal fédéral de façon succincte.
+
+<<3872.29;3877.29;fr>>
+Il s'agit d'un fait postérieur à la cause.
+
+<<3877.29;3881.69;fr>>
+Finalement, l'argument du requérant tiré de la possibilité d'une procédure d'adhésion.
+
+<<3881.69;3892.29;fr>>
+La Chambre note que plusieurs États connaissent la compétence universelle en matière pénale, nous pouvons alors se constituer parti civil devant la juridiction pénale.
+
+<<3892.29;3900.29;fr>>
+Ce qu'a fait le requérant, la plainte fut toutefois classée parce que le prévenu avait quitté la Suisse.
+
+<<3900.29;3910.29;fr>>
+Le Code de procédure pénale du Compte de Genève, applicable à l'époque des faits, connaissait ce type de procédure comme aujourd'hui le Code de procédure pénale suisse.
+
+<<3910.29;3920.89;fr>>
+A la connaissance du gouvernement, jamais un tribunal pénal en Suisse n'a jugé de conclusion civile dans une constellation comparable à la présente.
+
+<<3920.89;3925.69;fr>>
+L'affaire S qui vient d'être mentionnée, il faut voir de quoi il s'agissait.
+
+<<3925.69;3934.69;fr>>
+Monsieur S a son domicile, sa résidence habituelle en Suisse et il est de nationalité suisse.
+
+<<3934.69;3939.49;fr>>
+Il ne s'agit donc pas d'une affaire comparable à la nôtre.
+
+<<3939.49;3951.69;fr>>
+Quoi qu'il en soit, le requérant essaye de construire une contradiction entre cette possibilité et procédure d'adhésion qu'il présente comme une certitude et l'interprétation restrictive de l'article 3 et des IP.
+
+<<3951.69;3964.59;fr>>
+On sait toutefois que ce type de procédure est déjà peu utilisé dans la pratique du procès pénal en général et il semble plus probable que le juge pénal aurait renvoyé la partie plaignante à agir par la voie civile.
+
+<<3964.59;3976.29;fr>>
+Et même s'il ne l'avait pas fait, ce renvoi, il aurait dû lui aussi examiner si les conditions du fort de nécessité en matière civile étaient bien remplies.
+
+<<3976.29;3983.59;fr>>
+Cette exigence est aujourd'hui expressément réglée à l'article 8C de la LDIP.
+
+<<3983.59;3995.39;fr>>
+Voilà, Monsieur le Président, Mesdames et Messieurs les Juges, les raisons pour lesquelles le gouvernement estime que le tribunal fédéral a rendu un arrêt non seulement défendable, mais raisonnable et judicieux.
+
+<<3995.39;4007.19;fr>>
+Il invite la Grande Chambre à suivre la majorité de la Chambre et à dire que la restriction du droit du requérant à l'accès à un tribunal n'a pas enfreint l'article 6 de la Convention.
+
+<<4007.19;4012.49;fr>>
+Quelques observations encore sur l'article 41 de la Convention.
+
+<<4012.49;4022.29;fr>>
+Rappelons d'abord que devant la Chambre, le requérant n'a demandé une satisfaction ni pour dommages matériels, ni pour les frais et dépens encourus dans la procédure interne.
+
+<<4022.29;4033.09;fr>>
+Il est donc fort clos quand il inclut maintenant dans son mémoire devant la Grande Chambre, page 29, les dédits, frais et dépens, d'ailleurs sans aucune précision.
+
+<<4033.09;4044.29;fr>>
+Quant aux prétentions au titre du tort moral et des dépens pour la procédure devant la Chambre, nous vous renvoyons à nos observations du 23 juin 2011 devant la Chambre.
+
+<<4044.29;4049.69;fr>>
+Dans la procédure devant la Grande Chambre, le requérant se fait représenter par deux avocats.
+
+<<4049.69;4058.19;fr>>
+Ces derniers réclament un montant de plus de 33 000 francs suisses pour la seule procédure devant la Grande Chambre.
+
+<<4058.19;4063.19;fr>>
+Nous l'avons dit au début, l'objet du litige dans la présente affaire est assez limité.
+
+<<4063.19;4071.09;fr>>
+Nous référons à la jurisprudence pertinente de la Cour.
+
+<<4071.09;4083.39;fr>>
+Array Iatridis contre Grèce, Array Associated Society of Locomotive Engineers and Firemen, nous contestons la nécessité d'avoir recours à plusieurs avocats.
+
+<<4083.39;4097.29;fr>>
+Nous contestons en plus le caractère raisonnable du montant réclamé et estimons qu'un montant de 7 000 francs suisses constituerait une satisfaction équitable pour les dépens encourus dans la procédure devant la Grande Chambre.
+
+<<4097.29;4097.29;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4100.04;4102.64;fr>>
+Merci beaucoup, M. Schürmann.
+
+<<4102.8;4107.32;fr>>
+Je remercie tous les intervenants pour leur déclaration.
+
+<<4107.48;4114.32;fr>>
+Je me tourne maintenant vers mes collègues, juge de la Grande Chambre, pour savoir s'ils ont des questions à poser au parti.
+
+<<4114.32;4116.32;fr>>
+Merci. M. le juge Wojtyczek.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<4119.78;4120.78;fr>>
+Merci, M. le Président.
+
+<<4120.94;4127.46;fr>>
+J'ai deux questions qui s'adressent avant tout aux requérants, mais peut-être le gouvernement souhaitera aussi répondre à ces questions.
+
+<<4128.62;4141.1;fr>>
+La première concerne les modalités pratiques de l'exécution d'un arrêt sur les fonds à supposer que les requérants aient pu obtenir un arrêt sur les fonds.
+
+<<4142.3;4146.18;fr>>
+Dans quel État sera engagée la procédure d'exécution?
+
+<<4146.18;4151.94;fr>>
+Quelle serait sa base légale, notamment les traités applicables à la procédure d'exécution?
+
+<<4152.18;4158.02;fr>>
+Et quels seraient les effets pratiques de l'exécution d'un tel arrêt?
+
+<<4158.34;4159.54;fr>>
+C'est la première question.
+
+<<4160.26;4164.5;fr>>
+La deuxième question concerne un point différent.
+
+<<4165.38;4178.54;fr>>
+Les requérants présentent par d'un lien entre l'affaire et la Suisse qui rendrait l'article 6 de la Convention applicable.
+
+<<4178.78;4200.46;fr>>
+Est-ce que la nature de ces liens s'apprécie de la même façon pour établir la compétence juridictionnelle, la compétence des tribunaux, que pour établir aussi la compétence d'un État pour régir des questions de fonds et établir des règles de l'exécution?
+
+<<4200.46;4203.74;fr>>
+Et établir des règles substantielles.
+
+<<4204.1;4214.06;fr>>
+Autrement dit, est-ce que la compétence des tribunaux suisses est indépendante des questions quels sont les droits substantiels applicables?
+
+<<4215.18;4225.54;fr>>
+Elle peut aller au-delà du droit suisse substantiel et les tribunaux seraient compétents pour connaître le droit civil qui serait régi par le droit d'un autre État?
+
+<<4225.9;4234.34;fr>>
+Ou est-ce qu'entre les deux compétences, la compétence des tribunaux et la compétence de l'État pour régir les questions de droits matériels, il y a un lien?
+
+<<4236.74;4252.1;fr>>
+Est-ce que ces critères de lien entre l'État et les mêmes critères pour établir la compétence des tribunaux que pour établir la compétence pour régir les questions de fonds, pour édicter les droits matériels?
+
+<<4252.1;4252.1;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4253.26;4255.06;fr>>
+Merci beaucoup.
+
+<<4255.9;4257.3;fr>>
+Donc...
+
+<<4257.46;4259.38;fr>>
+Ah, monsieur le juge Dedov.
+
+<<4259.38;4261.59;en>>
+Yes, please, you have the floor.
+
+[[Judge;Dmitry Dedov]]
+
+<<4266.43;4268.55;en>>
+Thank you.
+
+<<4268.55;4271.11;en>>
+I have three questions to the parties.
+
+<<4271.11;4278.23;en>>
+First, the Italian aspect context was mentioned by the government.
+
+<<4278.23;4286.15;en>>
+And my question is for both parties, what could be the nature of the claim?
+
+<<4286.15;4294.43;en>>
+It would be the same or the different nature in Italian courts, if the case would be.
+
+<<4294.43;4301.39;en>>
+The next question is about the case law provided by the federal court in its judgment.
+
+<<4301.39;4318.63;en>>
+And also, the government referred to other examples how the Article 3 of the law was applied to the inheritance law, the law of debt enforcement and bankruptcy.
+
+<<4318.63;4337.63;en>>
+My question is whether this article is limited to those property disputes or to family law, or it has more general application in civil cases.
+
+<<4337.63;4349.19;en>>
+And in connection with this case law, if the parties could explain how the elements in those cases were applied in Article 3.
+
+<<4349.19;4362.81;en>>
+I mean the connection to the state, the connection which could be provided by the applicant, by the claimant, by the offender, or the events.
+
+<<4362.81;4375.69;en>>
+So as I understand, and maybe I'm wrong, that there are some foreign elements and domestic elements in those cases.
+
+<<4375.69;4388.25;en>>
+For example, if you give some explanation in relation to one particular category of those cases, for example, debt enforcement.
+
+<<4388.25;4395.65;en>>
+The next question is about the element which was mentioned by the government, not by the applicant.
+
+<<4395.65;4410.29;en>>
+But my question is how the domestic proceedings, the parties and the national authorities assessed or examined that element.
+
+<<4410.29;4420.21;en>>
+I mean that the person who ordered the torture, Mr. A.K.,
+
+<<4420.21;4429.69;en>>
+the Minister of Internal Affairs of Tunis, had medical treatment in the Swiss clinic.
+
+<<4429.69;4456.85;en>>
+Does it mean that there could be some connection with the Swiss state, with Switzerland, for example, that the person could have a property or a bank account, how he paid for the services, whether that element was the subject of investigation by the national authorities to establish the connection between the case and the state?
+
+<<4456.85;4478.97;en>>
+And also the question in connection with all these observations made by the applicants, whether the concept of arguable claim or legitimate expectations could be applied in the present case, that what you said about the connection between the applicant and the state.
+
+<<4478.97;4478.97;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4479.92;4481.58;en>>
+Thank you very much.
+
+<<4481.58;4482.58;en>>
+Thank you.
+
+<<4482.58;4482.58;en>>
+Judge Serghides, please.
+
+[[Judge;Georgios A. Serghides]]
+
+<<4484.48;4486.52;en>>
+Thank you, Mr. President.
+
+<<4486.52;4493.52;en>>
+I have only one question, which will be addressed to both parties.
+
+<<4493.52;4517.08;en>>
+Could you please comment as to whether the provisions of Article 1 of the Convention, which provides that the high contracted parties shall secure to everyone within their jurisdiction the rights and freedoms defined in Section 1 of the Convention, may be relevant in the present case?
+
+<<4517.08;4521.0;en>>
+And if yes, in what way and to what extent?
+
+<<4521.0;4521.0;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4522.44;4525.44;fr>>
+Thank you very much.
+
+<<4525.44;4532.44;fr>>
+S'il n'y a pas d'autres questions, la cour va maintenant se retirer pour 20 minutes.
+
+<<4532.44;4542.44;fr>>
+Après quoi, les partis pourront présenter des brèves observations en réponse aux clés d'oreille adverse et répondre aux questions des juges.
+
+<<4542.44;4542.44;fr>>
+La séance est suspendue.
+
+[[Announcer;UNK]]
+
+<<4653.51;4654.35;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4702.88;4704.14;fr>>
+Je vous en prie, prenez place.
+
+<<4710.26;4720.08;fr>>
+L'audience est reprise, donc la parole est à la partie récréante, si possible Maître Grant ou Maître Membrez, Maître Membrez.
+
+[[Applicant;AP2]]
+
+<<4724.28;4725.44;fr>>
+Merci beaucoup, monsieur le président.
+
+<<4726.48;4741.0;fr>>
+Je vais commencer par répondre à une question de monsieur le juge Wojtyszek en rapport avec les modalités pratiques de l'exécution du jugement suisse dans ce cas.
+
+<<4741.88;4756.84;fr>>
+Alors, pour vous dire que le jugement peut être exécuté dans tous les États où monsieur Aka, ou dans tous les pays où monsieur Aka aurait détenu des biens, comme par exemple en Suisse, s'il y avait un compte bancaire.
+
+<<4758.24;4767.96;fr>>
+Le jugement peut aussi être exécuté en Tunisie sans difficulté. En droit tunisien, la reconnaissance et l'exécution
+
+<<4767.96;4773.68;fr>>
+des jugements est prévue par le Code de droit international privé de la République de Tunisie.
+
+<<4774.32;4781.48;fr>>
+Les articles 11 à 18 indiquent quelles sont les modalités de l'exécution d'un jugement.
+
+<<4782.12;4796.0;fr>>
+Et il y a, à notre connaissance, toutes les conditions sont remplies pour qu'un jugement rendu en Suisse sur une base telle que celle qui est requise pour monsieur Naït Liman soit exécutée en Tunisie.
+
+<<4796.8;4809.56;fr>>
+Nous ne comprenons pas l'affirmation du gouvernement suisse qui dit qu'il n'y a pas de réciprocité parce qu'à notre connaissance, les jugements tunisiens sont reconnus sans problème en Suisse.
+
+<<4809.56;4819.36;fr>>
+Et comme je l'ai indiqué, selon le Code de droit international privé de la Tunisie, les articles 11 à 18, les jugements suisses sont aussi reconnus sans difficulté en Tunisie.
+
+<<4819.36;4832.6;fr>>
+Pour répondre à votre seconde question au sujet de la différence entre la compétence juridictionnelle et le droit applicable au fond de la cause.
+
+<<4832.6;4838.48;fr>>
+Alors ici, la situation, c'est la suivante.
+
+<<4838.48;4850.24;fr>>
+L'article 3 LDIP avec le fort de nécessité prévoit une compétence juridictionnelle en Suisse, mais pour le droit de fond, la même LDIP suisse renvoie au droit tunisien.
+
+<<4850.24;4858.76;fr>>
+C'est le Code des obligations de la Tunisie qui est applicable au droit de fond à la substance matérielle de l'affaire.
+
+<<4858.76;4871.0;fr>>
+Les articles 82 et suivants, ce sont eux que nous avons plaidés devant les instances nationales sur le fond pour la substance de la réclamation.
+
+<<4871.0;4880.92;fr>>
+Maintenant, je vais répondre brièvement à la question de M. le juge Dedoff au sujet des autres cas d'application,
+
+<<4880.92;4890.76;fr>>
+des autres cas qui ont été jugés en Suisse où la compétence a été fondée sur l'article 3 LDIP.
+
+<<4890.76;4901.8;fr>>
+Alors, dans les autres affaires, il y avait une société en Californie qui avait son siège en Californie qui prétendait être créancière d'une société suisse.
+
+<<4901.8;4918.96;fr>>
+Sur une question de constatation que la créance n'existait pas, la société suisse a agi en Suisse, mais pour nous, la cause était aussi à l'étranger dans ce cas, comme dans la présente affaire.
+
+<<4918.96;4925.68;fr>>
+Ensuite, dans la deuxième, la mère et son enfant étaient domiciliés aux Etats-Unis.
+
+<<4925.68;4932.4;fr>>
+Le seul rattachement avec la Suisse, c'est que le demandeur, le père de l'enfant, avait son domicile en Suisse.
+
+<<4932.4;4938.32;fr>>
+Et dans la troisième affaire, ce sont deux époux qui ont vécu en France et qui ont divorcé en France.
+
+<<4938.32;4947.72;fr>>
+Et là, la compétence a été fondée parce que l'institution de prévoyance avait son domicile, son siège en Suisse.
+
+<<4947.72;4963.44;fr>>
+Donc, selon nous, comme nous l'avons dit, le tribunal fédéral a jugé différemment l'affaire présente ici, l'affaire de M. Naït Limane, où il agit en dommages intérêts contre M.
+
+<<4963.44;4966.08;fr>>
+Aka pour les actes qu'il a subis en Tunisie.
+
+<<4966.08;4976.72;fr>>
+Il la juge différemment que les autres cas, parce que dans les autres cas, la cause se présentait, même si on retient cette interprétation que nous contestons, la cause était également à l'étranger.
+
+<<4976.72;4981.28;fr>>
+Et c'est pourquoi nous avons aussi invoqué une inégalité de traitement.
+
+<<4981.28;4985.2;fr>>
+Voilà, M. le Président, j'en ai terminé pour mes réponses
+
+<<4985.2;4987.36;fr>>
+et je passe maintenant la parole à M. Grant pour la suite
+
+<<4987.36;4987.36;fr>>
+des réponses.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4989.22;4992.58;fr>>
+Merci beaucoup, maitre Membrez, maître Grant.
+
+[[Applicant;AP1]]
+
+<<4993.04;4994.04;fr>>
+Merci, M. le Président.
+
+<<4994.04;4998.12;fr>>
+Il s'agira de réponses à certaines questions et de répliques aussi aux propos du gouvernement.
+
+<<4998.12;5008.04;fr>>
+Celui-ci, tout comme le tribunal fédéral, nous a appris, nous a répété que les faits postérieurs aux actes de torture ne devaient pas, ne pouvaient pas être pris en compte.
+
+<<5008.04;5019.4;fr>>
+Et s'il y avait un déplacement, par exemple, de la victime du pays où les tortures ont été commises en Suisse, cela ne créait pas un fort pour une action civile en Suisse.
+
+<<5019.4;5039.4;fr>>
+Mais il y a une règle qui contrecarre complètement cet état de figure dans la loi suisse sur le droit international privé, l'article 129, qui énonce que les tribunaux suisses du domicile ou à défaut de domicile, ceux de la résidence habituelle du défendeur, sont compétents pour connaître les actions fondées sur un acte judicite à torture.
+
+<<5039.4;5044.32;fr>>
+Imaginons-nous le tortionnaire venir s'établir en Suisse après les faits.
+
+<<5044.32;5046.28;fr>>
+Les tribunaux suisses sont compétents.
+
+<<5046.28;5054.44;fr>>
+C'est bien la preuve que des faits subséquents à la torture peuvent avoir un impact sur l'établissement du fort en Suisse.
+
+<<5054.44;5065.68;fr>>
+Et nous le pensons très fortement, permettent également de considérer d'autres éléments, par exemple, l'acquisition de la nationalité, la résidence et d'autres éléments de ce type-là.
+
+<<5065.68;5068.32;fr>>
+J'aimerais aussi revenir sur la question de la compétence universelle.
+
+<<5068.32;5074.4;fr>>
+Je crois qu'il y a un réel danger à tenter de faire de l'équilibrisme sur des concepts que l'on maîtrise mal et qui sont flous.
+
+<<5074.4;5083.92;fr>>
+En matière pénale, la compétence universelle, c'est un concept qui est connu, qui permet aux victimes, à quelque part, d'aller chasser, pourchasser, poursuivre leurs auteurs.
+
+<<5083.92;5087.48;fr>>
+La compétence universelle pénale permet la création de multiples forts.
+
+<<5087.48;5094.36;fr>>
+Si vous avez un tortionnaire qui vient s'établir dans plusieurs pays, la compétence des autorités de poursuite pénale le suive.
+
+<<5094.36;5098.44;fr>>
+En matière civile, on ne peut pas avoir les choses de la même manière.
+
+<<5098.44;5103.68;fr>>
+Ce serait évidemment intenable d'avoir ce type de fort et ce n'est pas ce que le requérant demande.
+
+<<5103.68;5118.28;fr>>
+Il faut laisser cette question de compétence universelle civile qui n'a aucun ancrage en droit positif de côté et il faut se rabattre sur quelque chose que l'on connaît tous, le droit d'accès à un tribunal fondé sur un fort approprié.
+
+<<5118.28;5121.28;fr>>
+On nous a fait très peur avec des chiffres tout à l'heure.
+
+<<5121.28;5131.12;fr>>
+Il y aurait des milliers de réfugiés en Suisse qui viendraient, lors suite à votre arrêt, saisir les tribunaux et évidemment surcharger les administrations judiciaires.
+
+<<5131.12;5133.2;fr>>
+Dans la pratique, ça ne va pas se passer comme ça.
+
+<<5133.2;5138.32;fr>>
+Il faut évidemment surmonter des difficultés énormes dans ces domaines.
+
+<<5138.32;5142.0;fr>>
+Il faut importer la preuve des tortures subies.
+
+<<5142.0;5147.92;fr>>
+Il faut réussir à signer son tortionnaire s'il est encore en ville, dans le lieu où il réside.
+
+<<5147.92;5149.6;fr>>
+Il faut rémunérer un avocat.
+
+<<5149.6;5153.72;fr>>
+Il faut avoir la force physique et humaine, psychologique d'aller de l'avant.
+
+<<5153.72;5155.8;fr>>
+Il n'y aura pas des dizaines de milliers d'affaires.
+
+<<5155.8;5165.12;fr>>
+La preuve, c'est que dans les pays très largement ouverts à ce type de procédure, les Pays-Bas par exemple, il y a eu, je crois, un ou deux dossiers cette dernière décennie.
+
+<<5165.12;5171.8;fr>>
+Votre jugement aujourd'hui ne va pas ouvrir la porte à une avalanche d'affaires.
+
+<<5171.8;5173.6;fr>>
+Je crois que c'est M. le juge Dédoeuf qui a posé
+
+<<5173.6;5176.92;fr>>
+une question sur une affaire possible en Italie.
+
+<<5176.92;5182.64;fr>>
+Alors évidemment, une affaire en Italie, si elle avait pu avoir lieu, elle aurait été dirigée contre l'État.
+
+<<5182.64;5191.12;fr>>
+Ça aurait été une action en responsabilité pour le fait que l'État a livré le requérant à la Tunisie pour qu'il s'y fasse torturer.
+
+<<5191.12;5197.36;fr>>
+Une affaire de non-refoulement, nous n'avons pas les éléments, M. Naït Limane ne l'a pas faite, cette affaire.
+
+<<5197.36;5210.24;fr>>
+Si en revanche, on estime que c'est en Italie qu'il doit aller déposer plainte contre le tortionnaire lui-même, alors on retombe dans cette compétence universelle civile et on permet d'ouvrir des forts un petit peu n'importe où.
+
+<<5210.24;5214.48;fr>>
+Ce n'est pas ce que demande M. Naït Limane.
+
+<<5216.68;5225.72;fr>>
+Et pour répondre à la dernière question, je crois, du juge Serguides et de l'article 1er, comment celui-ci peut être vu dans l'autre cas.
+
+<<5225.72;5229.16;fr>>
+Je crois que les conclusions de cette affaire sont assez évidentes.
+
+<<5229.16;5236.92;fr>>
+Premier point, en matière de torture, la victime doit pouvoir disposer d'une voie de droit civil pour obtenir réparation.
+
+<<5236.92;5245.88;fr>>
+Si ce n'est pas dans son pays, cela doit être dans un pays tiers, nous dit notamment l'article 14 de la Convention contre la torture.
+
+<<5245.88;5253.48;fr>>
+Il suffit alors dans ce cas de garantir un fort et un seul fort approprié pour cela, pour éviter le déni de justice.
+
+<<5253.48;5272.0;fr>>
+Si un réfugié, il peut venir d'Europe, d'ailleurs, mais s'il venait de pays extra-européens, arrivait et débarquait sur le territoire d'un État membre du Conseil de l'Europe, au titre de l'article 1er, il récupérerait le droit garanti par l'article 6 CEDH.
+
+<<5272.0;5290.04;fr>>
+Et cet article CEDH, à ce moment-là, servirait en quelque sorte de réceptacle aux exigences, aux obligations découlant de l'article 14 de la Convention contre la torture et permettrait de mettre ces obligations découlant de la Convention contre la torture en oeuvre de manière cohérente.
+
+<<5290.04;5309.68;fr>>
+Du moment où l'article 6 s'applique, et il s'applique parce que les prétentions civiles qui découlent d'actes de torture sont des prétentions couvertes par l'article 6, paragraphe 1, on pourra alors se référer à l'ensemble des circonstances du cas d'espèce pour établir où est le fort approprié en suivant l'arrêt Harlewin, notamment.
+
+<<5309.68;5310.92;fr>>
+Alors quelles sont ces circonstances?
+
+<<5310.92;5312.64;fr>>
+Elles peuvent être de plusieurs ordres.
+
+<<5312.64;5331.96;fr>>
+Je vous réfère à la résolution de l'Institut de droit international de 2015 et de son article 2 qui permettent de manière très coulante, de manière très cohérente de déterminer le pays le plus approprié pour exercer ce fort et éviter les dénis de justice pour les victimes de torture.
+
+<<5331.96;5351.72;fr>>
+Parce que les restrictions, et je terminerai avec cela, les restrictions qui porteraient atteinte à l'essence même du droit d'accès au tribunal, comme le tribunal fédéral l'a fait, contrecarreraient le principe maintes fois répété par votre cours selon lequel la prohibition de la torture consacre l'une des valeurs fondamentales des sociétés démocratiques qui forment le Conseil de l'Europe.
+
+<<5351.72;5351.72;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5352.7;5355.34;fr>>
+Merci beaucoup, maître Grant.
+
+<<5355.34;5357.34;fr>>
+Et maintenant, la parole est à M. Schürmann.
+
+[[Government;GR2]]
+
+<<5360.84;5362.96;fr>>
+Merci, M. le Président.
+
+<<5363.8;5371.8;fr>>
+Mesdames et Messieurs les membres de la Grande Chambre, d'abord quelques observations sur la plaidoirie de la partie adverse.
+
+<<5371.8;5372.56;fr>>
+Trois points.
+
+<<5372.56;5382.76;fr>>
+D'abord, on a pris note avec intérêt que le requérant s'est effectivement adressé à l'instance de la vérité et de la dignité en Tunisie.
+
+<<5383.84;5393.12;fr>>
+On n'ignore pas qu'il y a des difficultés de mettre en oeuvre le système transitionnel, comme il a été décrit par M. Dik-Marti, entre autres.
+
+<<5393.12;5408.08;fr>>
+Nous savons également de notre représentation à Tunis qu'il y a ces difficultés, mais il ne reste pas moins qu'il y a un système de justice transitionnelle qui a été mis en place et les efforts continuent pour les mettre en oeuvre.
+
+<<5409.32;5424.84;fr>>
+La deuxième observation concerne la recommandation citée par le requérant, la recommandation de l'Assemblée parlementaire numéro 1327 de 1997, intitulée Protection et renforcement des droits de l'homme des réfugiés et des requérants d'asile.
+
+<<5425.84;5438.36;fr>>
+Cette recommandation, en effet, invite les États membres à établir une législation à l'instar du Alien Tort Claim Act des États-Unis.
+
+<<5438.36;5447.84;fr>>
+La Chambre a fait référence à cet Alien Tort Act au paragraphe 53 de son arrêt.
+
+<<5447.84;5449.6;fr>>
+Deux petites remarques.
+
+<<5449.6;5458.04;fr>>
+Cet acte, lui aussi, demande la présence de la personne soupçonnée sur le territoire qui a la juridiction.
+
+<<5458.04;5464.36;fr>>
+Et deuxièmement, n'oublions pas, il y a 20 ans que cette recommandation a été adoptée.
+
+<<5464.36;5470.88;fr>>
+À notre connaissance, les États ne les ont pas suivies jusqu'à maintenant.
+
+<<5470.88;5474.6;fr>>
+Troisième très petite remarque concernant la nationalité.
+
+<<5474.6;5482.64;fr>>
+Il est vrai que la nationalité est mentionnée dans la requête à la Cour, mais seulement dans l'introduction où il y a les coordonnées du requérant.
+
+<<5482.64;5485.84;fr>>
+Mais la nationalité n'a pas été...
+
+<<5485.84;5492.16;fr>>
+L'argumentation de substance n'a pas été basée sur cet aspect de la nationalité.
+
+<<5492.16;5500.6;fr>>
+Quant aux questions posées par plusieurs juges, d'abord, je prends l'ordre dans lequel elles ont été posées.
+
+<<5500.6;5503.4;fr>>
+D'abord, la question de M. le juge Wojciech.
+
+<<5503.4;5506.24;fr>>
+Là, je vous prie, M. le président, de passer la parole
+
+<<5506.24;5512.52;fr>>
+après à mon collègue, Nicolas Maillan, chef de l'Unité des droits internationals et publics.
+
+<<5512.52;5516.36;fr>>
+La question ou les questions de M. le juge Dédoff,
+
+<<5516.36;5519.0;fr>>
+la nature de la procédure en Italie.
+
+<<5519.0;5521.52;fr>>
+Là, je crois qu'il y a deux aspects.
+
+<<5521.52;5533.36;fr>>
+Il y a l'aspect des obligations positives découlant de l'article 3 qui pourrait entraîner la responsabilité de l'Etat.
+
+<<5533.36;5537.68;fr>>
+Et le deuxième aspect, c'est la question du fort de nécessité.
+
+<<5537.68;5540.8;fr>>
+Là, j'avoue qu'on n'a pas les éléments de réponse.
+
+<<5540.8;5547.12;fr>>
+On ignore pour l'instant quelle est la situation, ou quelle était la situation à l'époque en Italie.
+
+<<5547.12;5557.36;fr>>
+Et je propose qu'on va vérifier ces éléments et vous envoyer la réponse ensemble avec les réponses au dernier document qui a été soumis à la Cour.
+
+<<5557.36;5562.28;fr>>
+Je crois que vous nous avez imparti un délai jusqu'au 26 juin.
+
+<<5562.28;5567.52;fr>>
+Une autre question de M. le juge Dédoff,
+
+<<5567.52;5573.64;fr>>
+property or bank accounts et notamment la facture de l'hôpital.
+
+<<5573.64;5583.52;fr>>
+On avait mis à l'annexe de notre mémoire devant la grande chambre, c'est l'annexe 3C, le rapport d'un policier à M. le chef de la police judiciaire.
+
+<<5583.52;5595.04;fr>>
+Je cite brièvement, il parle donc de l'invitation du procureur, demander de localiser, d'identifier l'intéressé qui se trouvait hospitalisé à l'hôpital, etc.
+
+<<5595.04;5602.0;fr>>
+Aussitôt en possession de cette requête, nous avons pris contact avec Mme Marès Coty, responsable du service juridique de l'hôpital cantonal.
+
+<<5602.0;5606.92;fr>>
+Celle-ci, après avoir reçu ces instructions de la part de M. le directeur général de l'hôpital,
+
+<<5606.92;5608.8;fr>>
+a répondu à notre demande.
+
+<<5608.8;5614.16;fr>>
+Selon les recherches qu'elle a fait effectuer, Mme a pu nous informer que M. K. avait effectivement
+
+<<5614.16;5619.76;fr>>
+été hospitalisé à l'hôpital cantonal, mais avait quitté cet établissement le dimanche 11 février 2001.
+
+<<5619.76;5627.52;fr>>
+La facture consécutive à cette hospitalisation a été réglée par l'ambassade de Tunisie.
+
+<<5627.52;5631.24;fr>>
+Annexe 3C à notre mémoire.
+
+<<5631.24;5636.04;fr>>
+Quant à la quatrième question de M. le juge Dedof,
+
+<<5636.04;5641.36;fr>>
+là aussi, c'est mon collègue M. Maillard qui va y répondre.
+
+<<5641.36;5644.04;fr>>
+Puis, il y avait la question de M. le juge Zerguides,
+
+<<5644.04;5651.68;fr>>
+article 1 de la CEDH, donc l'obligation de respecter les droits de l'homme.
+
+<<5651.68;5658.44;fr>>
+Bien sûr, cet article définit le champ d'application de la Convention à plusieurs égards.
+
+<<5658.44;5684.84;fr>>
+On sait que la Cour a fondé le concept des obligations positives également sur cet article 1, mais à notre avis, cet article 1 ne peut pas élargir la protection offerte par l'article 6 quant au droit à l'accès à un tribunal.
+
+<<5684.84;5693.92;fr>>
+Voilà, maintenant, je vous prie de bien vouloir passer la parole à mon collègue et de me redonner la parole pour une dernière observation de mon intervention.
+
+<<5693.92;5695.72;fr>>
+Merci, M. le Président.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5696.14;5698.46;fr>>
+Merci, M. Schürmann.
+
+<<5698.46;5699.5;fr>>
+Merci, M. Meier.
+
+[[Government;GR1]]
+
+<<5703.23;5714.43;fr>>
+Monsieur le Président, Mesdames, Messieurs les juges, je vais d'abord aborder la question de monsieur le juge Wojciech par rapport aux modalités d'exécution du jugement éventuel suisse en Tunisie.
+
+<<5715.19;5724.79;fr>>
+Comme la cité le requérant, le Code de droit international privé de la Tunisie connaît l'exigence de réciprocité et en l'espèce, cette réciprocité ne serait pas donnée.
+
+<<5725.27;5743.23;fr>>
+Je cite l'article 149, aligné à 2, lettre F de la loi suisse sur le droit international privé, une décision étrangère est reconnue en matière d'obligation délectuelle lorsqu'elle a été rendue au lieu de l'acte, au lieu du résultat, et que le défendeur n'était pas domicilié en Suisse.
+
+<<5745.39;5763.71;fr>>
+Supposons donc des atrocités commises en Suisse par un agent domicilié en Suisse et un jugement rendu en Tunisie sur un fort de nécessité tunisien ne pourraient pas être reconnus en Suisse parce que ces exigences de compétence indirecte ne seraient pas reconnues, ne seraient pas remplies.
+
+<<5764.15;5771.75;fr>>
+Donc il n'y a pas de réciprocité dans ce cas et un jugement suisse, en notre cas, ne pourrait pas être reconnu en Tunisie.
+
+<<5773.59;5777.55;fr>>
+Ensuite, la 2e question par rapport aux liens entre la compétence et le droit applicable.
+
+<<5779.27;5781.83;fr>>
+Le gouvernement suisse confirme ici ce qu'a dit le requérant.
+
+<<5782.23;5794.95;fr>>
+Il n'y a pas de lien entre la compétence et le droit applicable et il n'y a pas non plus de lien entre la compétence juridictionnelle et la compétence législative sur le fond, sur le droit matériel.
+
+<<5795.39;5802.91;fr>>
+Et en l'espèce, il n'y a pas de compétence juridictionnelle et il n'y aurait pas de compétence législative pour régler de telles affaires.
+
+<<5803.59;5807.19;fr>>
+Ensuite, je passe aux questions de M. le juge Dédof.
+
+<<5808.19;5812.19;fr>>
+D'abord, par rapport au champ d'application de l'article 3 LDIP.
+
+<<5813.03;5815.39;fr>>
+En effet, le champ d'application, il est général.
+
+<<5815.39;5818.75;fr>>
+Il n'est pas limité à des questions de droit de la famille.
+
+<<5819.79;5836.31;fr>>
+Mais d'après la systématique du droit international privé telle qu'elle est connue en Europe depuis le 19e siècle, je cite ici Pasquale Mancini, Etienne Bartin ou bien encore Frédéric Kalf von Savigny, il faut toujours chercher, pour chaque constellation, le siège de cette affaire.
+
+<<5837.39;5842.11;fr>>
+Pour, par exemple, un immeuble, c'est le lieu de situation de l'immeuble.
+
+<<5842.11;5852.39;fr>>
+Pour le droit de la famille, c'est notamment la nationalité, parce que le droit de la famille continue à être étroitement forgé par des concepts nationaux.
+
+<<5853.35;5864.7;fr>>
+Et ce que je veux dire par là, c'est qu'on ne peut pas faire de parallélisme entre un critère de rattachement retenu dans un domaine du droit et l'extrapoler et l'appliquer à un autre domaine du droit.
+
+<<5864.99;5866.7;fr>>
+Il n'y a pas ce parallélisme.
+
+<<5866.99;5872.79;fr>>
+Donc, c'est pas parce qu'on a retenu un critère en droit de la famille qu'on pourrait l'appliquer en matière d'actes illicites.
+
+<<5873.19;5876.95;fr>>
+Je reprends les 4 exemples cités par le requérant.
+
+<<5878.35;5884.31;fr>>
+D'abord, en matière de droit de la famille, comme je l'ai dit, c'est fortement forgé par les concepts nationaux.
+
+<<5884.51;5893.71;fr>>
+Par exemple, en Suisse, on oblige les ressortissants suisses à inscrire un partenariat enregistré dans le registre d'Etat civil suisse.
+
+<<5893.91;5897.55;fr>>
+Si on les oblige à l'inscrire, alors il faut aussi leur offrir un fort.
+
+<<5897.75;5900.15;fr>>
+Mais ce n'est pas du tout le cas.
+
+<<5900.15;5903.39;fr>>
+Ce n'est pas du tout le cas en matière d'actes illicites.
+
+<<5903.59;5913.71;fr>>
+Ensuite, en ce qui concerne l'action en constatation négative de dette, il s'agit là d'une particularité du droit suisse.
+
+<<5913.91;5922.51;fr>>
+Chacun peut saisir les autorités de poursuite en Suisse pour intenter une poursuite contre quelqu'un qui est domicilier en Suisse.
+
+<<5922.99;5926.79;fr>>
+Et après cela, il y a un inversement des rôles procéduraux.
+
+<<5926.79;5933.39;fr>>
+Le débiteur devient celui qui doit demander que l'action ne soit pas poursuivie.
+
+<<5933.59;5935.79;fr>>
+Donc il y a un inversement des rôles procéduraux.
+
+<<5935.99;5945.62;fr>>
+Et si effectivement, c'est le demandeur qui peut saisir les tribunaux de son domicile, en réalité, dans l'aspect matériel, il s'agit du débiteur.
+
+<<5946.03;5952.19;fr>>
+Donc dans une procédure ordinaire, ce serait le défendeur.
+
+<<5952.43;5957.75;fr>>
+Et bien sûr, le domicile du défendeur est reconnu partout au monde, mais pas le domicile du demandeur.
+
+<<5957.83;5960.83;fr>>
+Donc c'est bien une particularité suisse.
+
+<<5960.99;5975.95;fr>>
+L'autre exemple cité en matière de droit de la famille, les requérants n'ont pas mentionné que dans ce cas cité en matière de droit de la famille et de protection des enfants, le divorce avait été prononcé en Suisse, la mère était suisse et l'enfant aussi était suisse.
+
+<<5976.15;5977.99;fr>>
+C'est donc pas du tout comparable.
+
+<<5978.23;6003.99;fr>>
+Et finalement, encore, le partage des avoirs de prévoyance professionnelle, je ne vais pas vous expliquer le système de la sécurité sociale en Suisse, je dis juste, c'est une particularité suisse qui est inconnue à l'étranger, donc il faut prévoir un fort en Suisse parce qu'un juge étranger ne pourrait pas partager les avoirs de prévoyance professionnel, puisque ce système n'est simplement pas connu à l'étranger.
+
+<<6004.19;6007.39;fr>>
+Alors il faut prévoir un fort pour cela en Suisse.
+
+<<6007.59;6010.19;fr>>
+Cela me ramène à la conclusion.
+
+<<6010.19;6020.35;fr>>
+Ces exemples montrent bien qu'il s'agit là de lacunes pour lesquelles le législateur n'avait pas prévu de fort et l'article 3 permet de combler ces lacunes.
+
+<<6020.59;6022.95;fr>>
+Et cela démontre la vraie nature de cet article 3.
+
+<<6023.19;6039.55;fr>>
+Le législateur, à l'époque, il essayait de prévoir et de régler de façon exhaustive toutes les questions au droit international privé, dans cette loi sur le droit international privé, or il savait qu'il n'en est pas à pouvoir régler toutes les questions, donc il a prévu une soupape de sécurité, cet article 3 LDIP.
+
+<<6039.55;6045.55;fr>>
+Pour justement lui permettre de régler certaines lacunes qui allaient peut-être survenir plus tard.
+
+<<6045.95;6048.75;fr>>
+Les 4 exemples qu'on a cités, ce sont des exemples de lacunes.
+
+<<6049.15;6053.35;fr>>
+Or le cas présent ici, ce n'est pas une lacune, c'est plutôt un silence qualifié.
+
+<<6053.75;6060.35;fr>>
+Car si on lit les débats parlementaires, on a bel et bien discuté de cas comparables.
+
+<<6060.75;6068.35;fr>>
+Mais après ces débats parlementaires, on a dit non, on ne veut pas offrir en Suisse un fort pour tout le monde.
+
+<<6068.35;6076.55;fr>>
+Il faut que la cause, et je répète et j'insiste, la cause est un lien avec la Suisse, et ceci n'est pas le cas en l'espèce.
+
+<<6076.55;6079.75;fr>>
+...
+
+[[JudgeP;Guido Raimondi]]
+
+<<6082.61;6085.69;fr>>
+Merci beaucoup, Monsieur Meier.
+
+<<6085.69;6086.69;fr>>
+Monsieur Schürmann, please.
+
+<<6086.69;6087.95;fr>>
+Je vous en prie.
+
+[[Government;GR2]]
+
+<<6089.8;6091.64;fr>>
+Merci, M. le Président.
+
+<<6091.8;6095.08;fr>>
+Il m'importe de faire une dernière brève observation.
+
+<<6096.52;6107.2;fr>>
+Les intentions du requérant et de ses représentants, directeur et vice-président de l'organisation Trial International, sont louables.
+
+<<6107.36;6119.24;fr>>
+En même temps, les arguments invoqués par la partie adverse se basent plutôt sur des avis et propositions qui ne sauraient être considérés comme juridiquement contraignants.
+
+<<6119.24;6125.68;fr>>
+Il y a beaucoup de wunschdenken, de wishful thinking, dans cette argumentation.
+
+<<6125.84;6132.8;fr>>
+L'engagement des représentants du requérant, encore une fois, pour la bonne cause, mérite respect.
+
+<<6132.95;6137.99;fr>>
+Pour atteindre le but visé, il faudrait des bases légales solides.
+
+<<6138.16;6140.91;fr>>
+Aujourd'hui, elles font défaut.
+
+<<6141.08;6160.68;fr>>
+Pour les créer, il faudrait, en droit interne, une décision délibérée du législateur établissant un fort de nécessité dans le sens postulé et, ou en droit international, un consensus suffisamment large de la communauté des Etats.
+
+<<6160.84;6165.44;fr>>
+Aujourd'hui, nous sommes loin dans tel consensus.
+
+<<6165.44;6165.44;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<6168.63;6170.35;fr>>
+Merci beaucoup.
+
+<<6170.55;6173.59;fr>>
+Et nous en arrivons au terme de l'audience.
+
+<<6174.19;6180.91;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<6181.67;6185.39;fr>>
+La Cour va maintenant délibérer sur la recevabilité le fonds.
+
+<<6186.03;6188.15;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<6188.71;6192.43;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<6192.43;6192.43;fr>>
+L'audience est levée.
+

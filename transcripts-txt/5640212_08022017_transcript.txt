@@ -1,0 +1,1491 @@
+[[Announcer;UNK]]
+
+<<29.86;30.74;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<72.56;74.24;fr>>
+Je vous en prie, prenez place.
+
+<<84.08;92.88;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire Correia de Matos contre Portugal.
+
+<<92.88;102.64;fr>>
+L'affaire a été introduite devant la Cour le 4 août 2012 par un ressortissant portugais, M. Carlos Correia de Matos,
+
+<<102.64;106.32;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<106.32;117.32;fr>>
+Conformément à l'article 52, paragraphe 1 du règlement de la Cour, elle a été attribuée à la première section de la Cour, ensuite à la quatrième section.
+
+<<117.32;123.84;fr>>
+La requête a été communiquée au gouvernement le 18 septembre 2014.
+
+<<123.84;132.44;fr>>
+Le 13 septembre 2016, une chambre de la quatrième section a décidé de se dessaisir au profit de la grande chambre.
+
+<<132.44;136.64;fr>>
+Aucune des parties ne s'y étant opposée.
+
+<<136.64;148.28;fr>>
+Le gouvernement est représenté par son agente, Mme Maria de Fátima Da Graça  Carvalho, assistée de M. Luís Eloy Pereira De Azevedo, conseiller.
+
+<<148.28;153.2;fr>>
+Le requérant assume lui-même sa propre représentation.
+
+<<153.2;156.48;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<156.48;168.12;fr>>
+Je salue également une délégation de la Cour constitutionnelle d'Ukraine et une délégation de l'Académie nationale des procureurs et du Bureau du procureur général d'Ukraine en visite à la Cour.
+
+<<168.12;175.32;fr>>
+Ayant consulté l'agente du gouvernement et le requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<175.32;183.72;fr>>
+Nous entendrons successivement Mme Da Graça  Carvalho pour le gouvernement, puis le requérant, M.Correia De Matos.
+
+<<183.72;198.72;fr>>
+Je dois expliquer qu'en su de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, j'ai autorisé le requérant à plaider en portugais avec interprétation vers les langues officielles.
+
+<<198.72;206.96;fr>>
+En outre, l'interprétation en ukrainien et en russe a été autorisée au profit des deux délégations que je viens de saluer.
+
+<<206.96;214.04;fr>>
+En plus, l'interprétation en albanais a été autorisée au profit d'une délégation de plusieurs institutions albanaises.
+
+<<214.04;224.72;fr>>
+Ces interprétations ne sont pas assurées par la Cour et ne feront donc pas partie de l'enregistrement officiel de la procédure.
+
+<<224.72;224.72;fr>>
+La parole est à Mme Da Graça Carvalho.
+
+[[Government;GR1]]
+
+<<230.48;231.68;fr>>
+Merci, M. le Président.
+
+<<233.76;235.8;fr>>
+M. le Président, Mesdames et Messieurs les Juges,
+
+<<236.48;240.84;fr>>
+permettez-moi tout d'abord de vous présenter mes compliments ainsi qu'à M. le Réquérant.
+
+<<241.96;249.6;fr>>
+La question qui fait l'objet de cette requête a été déjà appréciée par la Cour dans une requête antérieure déposée par le même Réquérant.
+
+<<250.6;260.08;fr>>
+Dans les deux affaires, le Réquérant envoque l'impossibilité face au droit portugais d'exercer sa propre défense dans une procédure pénale où il est l'accusé.
+
+<<261.4;278.6;fr>>
+Les normes internes pertinentes sont, pour l'essentiel, identiques dans les deux affaires, puisqu'elles découlent de principes essentiels et fondateurs du système juridique pénal interne, en particulier du droit fondamental de l'accusé à une défense efficace.
+
+<<279.92;289.28;fr>>
+Et selon la loi interne, l'effectivité de ce droit exige la représentation de l'accusé par un avocat en des moments cruciaux de la procédure.
+
+<<291.28;297.44;fr>>
+Il faut souligner déjà qu'il existe un ample consensus sur le plan interne quant à cette exigence.
+
+<<298.56;325.92;fr>>
+Et à notre avis, cet aspect doit être du moins pris en compte par une juridiction internationale dont l'intervention repose sur le principe de la subsidiarité, sur la reconnaissance de la marge d'appréciation des États, sur le respect des systèmes juridiques qui traduisent leur culture et leurs traditions, pourvu que, évidemment, ils ne se montrent pas arbitraires ni manifestement contraires aux intérêts et aux droits des citoyens.
+
+<<326.44;344.24;fr>>
+Dans cette perspective, le gouvernement portugais pose la question de savoir si des raisons fondamentales existent, d'intérêt général ou de l'intérêt de la personne concernée, qui justifient la révision de la jurisprudence déjà établie par la Cour et à la non-animité.
+
+<<344.76;365.44;fr>>
+Rappelons que la Cour, après avoir mentionné d'autres décisions antérieures dans le même sens, a dit, et je cite, « Elle, la Cour, estime qu'en cette matière, il est essentiel que l'intéressé soit en mesure de présenter sa défense d'une manière appropriée et conforme aux exigences d'un procès équitable.
+
+<<365.72;386.56;fr>>
+Toutefois, la décision de permettre à un accusé de se défendre lui-même ou de lui désigner non-juste ou de lui désigner un avocat rentre dans la marge d'appréciation des États contratants, qui sont mieux placés que la Cour pour choisir les moyens propres à permettre à leur système judiciaire de garantir les droits de la défense.
+
+<<386.76;400.88;fr>>
+Il convient de souligner, je cite encore, « que les motifs invoqués pour exiger la représentation obligatoire par un avocat lors de certaines phases de la procédure sont, aux yeux de la Cour, suffisants et pertinents.
+
+<<400.88;408.0;fr>>
+Il s'agit en effet notamment d'une mesure dans l'intérêt de l'accusé et visant une défense efficace de ce dernier.
+
+<<408.2;417.0;fr>>
+Les juridictions nationales sont donc en droit d'estimer que les intérêts de la justice commandent la désignation obligatoire d'un avocat. »
+
+<<417.24;418.64;fr>>
+Fin de citation.
+
+<<418.84;444.48;fr>>
+Le gouvernement portugais considère qu'il n'y a pas de motifs pondérants pour que la Cour s'écarte de cette jurisprudence si judicieuse et si raisonnable et que démontre le respect des options internes ne créant pas, par d'autres options possibles mais non impérieuses, de nouveaux problèmes et de déséquilibre pour les modèles internes enracinés dans les États et conformes à leur culture.
+
+<<445.4;448.08;fr>>
+La norme de la Convention qui incause est très claire.
+
+<<448.68;454.64;fr>>
+L'accusé a le droit de se défendre lui-même ou avoir l'assistance d'un défenseur de son choix.
+
+<<455.2;464.48;fr>>
+Et s'il n'a pas les moyens de rémunérer un défenseur, de pouvoir être assisté gratuitement par un avocat d'office lorsque les intérêts de la justice l'exigent.
+
+<<465.16;471.24;fr>>
+Cette formulation ne consacre pas un droit absolu de l'accusé à se défendre lui-même.
+
+<<471.56;487.04;fr>>
+D'ailleurs, et comme l'a souligné Michael O'Boyle dans un test publié concernant l'affaire antérieure, rien ne révèle que le droit à l'autodéfense constitue une clé de voûte du système de justice.
+
+<<487.04;500.52;fr>>
+Il cite le professeur Bassioni qui a étudié 139 constitutions et qui a conclu qu'à cette époque, seuls 33 d'entre elles consacraient le droit à l'autodéfense.
+
+<<500.72;517.08;fr>>
+Et nous ajoutons que c'est le droit d'avoir un avocat, de choisir un avocat, et non le droit de rénoncer à tout avocat qui a toujours été mis en évidence par la jurisprudence de la Cour concernant la dite norme de la Convention.
+
+<<517.2;558.12;fr>>
+Le système procédural portugais repose sur la reconnaissance du droit de défense de l'accusé par le droit des garanties visant à lui assurer un procès juste et équitable, la présumption d'un nuisance, l'instruction menée par un juge visant le contrôle judiciaire de l'accusation présentée par le parquet, la structure accusatoire du procès, l'annulité des preuves obtenues illégalement, et également le droit de recours sans, avec le droit à l'assistance et au choix d'un avocat, des garanties de défense consacrées par la Constitution et densifiées dans le Code procédure pénale et qui informent le procès équitable.
+
+<<559.08;568.8;fr>>
+En effet, la Constitution portugaise établit que l'accusé a le droit de choisir un défenseur et de se faire assister par lui durant tous les actes de procédure.
+
+<<568.8;578.24;fr>>
+Elle, la Constitution, remet à la loi ordinaire l'indication des cas et des phases où l'assistance par un avocat devient obligatoire.
+
+<<578.88;600.92;fr>>
+Dans l'ordre juridique interne, l'assistance de l'accusé par un défenseur n'est pas imposée pendant toute la procédure, mais plutôt dans certaines situations il y a des actes de procédure déterminées, expressément prévues, fondées sur l'intérêt supérieur de la justice et la réalisation d'une défense efficace de l'accusé.
+
+<<601.76;605.96;fr>>
+L'assistance par un défenseur est obligatoire dans les situations suivantes.
+
+<<606.64;611.52;fr>>
+Lors des interrogatoires de la personne mis en isolement qui est arrêtée ou détenue.
+
+<<612.16;615.24;fr>>
+Lors des débats d'instruction et de l'audience de jugement.
+
+<<616.04;624.6;fr>>
+Si la personne concernée est aveugle, sourde, moette, analphabète, ne comprend pas la langue, est mineure ou si la question de l'imputabilité se pose.
+
+<<624.6;627.88;fr>>
+Lors des recours ordinaires ou extraordinaires.
+
+<<628.4;631.0;fr>>
+Dans le cas des déclarations pour mémoire future.
+
+<<631.44;634.92;fr>>
+Lors de l'audience réalisée en l'absence de l'accusé.
+
+<<635.72;645.48;fr>>
+En d'ailleurs de ces cas, le tribunal peut désigner un défenseur si les circonstances de l'affaire font apparaître la nécessité ou la pertinence d'assister l'accusé.
+
+<<646.2;661.92;fr>>
+Par conséquent, les cas où le législateur interne impose à l'accusé l'assistance d'un défenseur sont justifiés par les conséquences particulièrement sérieuses pour l'accusé, notamment lorsque l'application d'une peine privative de liberté est en cause.
+
+<<662.64;667.84;fr>>
+Lorsque date de procédure de spéciale importance pour le résultat de la procédure.
+
+<<668.56;682.56;fr>>
+Lorsque certaines phases caractérisées par une spéciale technicité, notamment les recours, ou en cas de spéciale vulnérabilité ou fragilité de la personne, ou vulnérabilité ou fragilité de l'accusé.
+
+<<683.52;694.52;fr>>
+Il s'agit de situations où les intérêts de la justice et la sauvegarde de la défense effective de l'accusé imposent son assistance par un avocat et empêchent la rénonciation à ce droit.
+
+<<695.68;707.84;fr>>
+Et la Cour a déjà dit dans une autre affaire, divorce contre Croacy, que la rénonciation à l'assistance d'un avocat ne doit se heurter à aucun intérêt public important.
+
+<<707.84;722.68;fr>>
+Or, à notre avis, la défense de l'accusé en procédure criminelle, surtout si l'application d'une peine de prison est en cause, constitue un intérêt d'ordre public inaliénable et qui n'est pas susceptible de rénoncement.
+
+<<723.44;731.88;fr>>
+Un autre, et comme nous l'avons déjà dit, il existe au niveau interne une convergence essentielle de la doctrine et de la jurisprudence dans ce sens.
+
+<<732.56;744.96;fr>>
+Les auteurs les plus réputés soulignent que la participation de l'avocat constitue un élément équitable, le droit de ne pas être seul et désarmé dans le procès.
+
+<<745.92;765.6;fr>>
+Et ils ajoutent que même lorsque l'autodéfense d'intérêt c'est admissible, la justice et l'équité du procès imposent la défense technique par un professionnel qualifié ayant comme mission exclusive de mettre en valeur dans le procès tout ce qui est favorable à la position juridique de l'accusé.
+
+<<766.88;799.04;fr>>
+Comme le dit Figueiredo Dij, le professeur de Coimbra, architecte de la procédure pénale démocratique au Portugal, il revient aux défenseurs de conseiller le prévenu, de contrarier toute vision uniratérale ou partiale qui tend à l'intérieur de la procédure à se former contre celui-ci, concernant les faits ou les droits, de veiller, enfin, à l'intérêt de l'advocat à ce que l'autonomie éthique de la personne mise en aisement et sa dignité personnelle ne souffre aucun dommage.
+
+<<800.16;806.88;fr>>
+Et cette préoccupation éthique assume une importance reconnue dans le système procédural pénal portugais.
+
+<<808.12;821.72;fr>>
+Les juges de la Cour suprême de justice au Portugal soulignent aussi dans un commentaire au Code de procédure pénale que la justice et la nature équitable de la procédure imposent une défense technique assurée par un professionnel qualifié.
+
+<<821.72;836.64;fr>>
+Ils soulignent que le manque d'objectivité et de sérénité découlant naturellement de la position de l'accusé rendrait inefficace la défense par l'accusé lui-même et entraînerait plusieurs inconvénients d'ordre procédural.
+
+<<836.64;853.04;fr>>
+La Cour constitutionnelle a statué aussi sur la question et elle a considéré que les normes du Code de procédure pénale ne violent pas la Constitution et que l'Étape par la voie législative imposait la représentation des accusés par un avocat.
+
+<<853.04;865.44;fr>>
+Parmi d'autres motifs, la Cour constitutionnelle a relevé que les droits fondamentaux n'imposent pas que l'accusé puisse se défendre personnellement, même s'il est un avocat.
+
+<<865.44;874.4;fr>>
+Elle souligne que la défense par soi-même n'en résoudrait pas objectivement un moyen meilleur de défense, même si le prévenu y croyait.
+
+<<874.4;884.56;fr>>
+La défense exercée par soi-même serait passionnée et lui manquerait la sérénité désintéressée indispensable au bon déroulement de la cause.
+
+<<884.56;905.88;fr>>
+Et même le barreau des avocats, au moyen de l'avis rendu par son Conseil général, a estimé que la défense pénale se présente comme un intérêt d'ordre public, que le droit de défense est inaliénable et que l'imposition d'un avocat à l'accusé vise à satisfaire son propre intérêt et relève de la dignité de la personne humaine.
+
+<<905.88;917.76;fr>>
+Le barreau a considéré aussi que dans certains actes de procédure, le cumul des rôles de défenseur et d'accusé serait même inconciliable.
+
+<<917.76;930.76;fr>>
+Tout ceci confirme qu'il y a un fort consensus sur le plan national autour de ce modèle, qui s'inscrit dans la marche du législateur pour concrétiser les exigences du procès équitable.
+
+<<930.76;944.28;fr>>
+Or, comme la Cour l'a dit aussi dans l'affaire intérieure, la Convention laisse aux États contratants le choix des moyens propres à permettre à leur système judiciaire de garantir le droit de défense consacré.
+
+<<944.28;955.44;fr>>
+Et elle ajoute que sa tâche consiste à rechercher si la voie qu'ils ont empruntée cadre avec les exigences d'un procès équitable.
+
+<<955.44;962.04;fr>>
+Revenons au cas d'espèce et répondons à une question récemment posée par la Cour.
+
+<<962.04;972.6;fr>>
+Il faut dire que le récurrent est interdit par le barreau des avocats d'exercer en qualité d'avocat depuis 1993 jusqu'à présent.
+
+<<972.6;993.4;fr>>
+Il a été interdit pendant plusieurs années en raison d'incompatibilité avec l'exercice d'autres activités professionnelles, et plus récemment et continuement, en raison des sanctions disciplinaires de suspension entre-temps appliquées à son encontre et qui sont encore en course.
+
+<<993.4;1007.64;fr>>
+Cet empêchement s'est vérifié pendant toute la durée du procès criminel qui est à l'origine de cette requête, empêchant le récurrent soit de se représenter lui-même, soit de représenter un tiers en qualité d'avocat.
+
+<<1007.64;1015.4;fr>>
+Par conséquent, son intervention dans le procès comme avocat n'était pas possible.
+
+<<1015.4;1020.32;fr>>
+Mais rappelons en synthèse ce qui s'est passé dans la procédure.
+
+<<1020.32;1041.04;fr>>
+Le récurrent a été accusé du chef d'un juge à l'encontre d'un magistrat, en crime passible d'une peine de prison jusqu'à six mois ou d'amende, et n'ayant pas constitué un avocat, le ministère public, après avoir présenté ses réquisitions, lui a désigné une défenseur d'office.
+
+<<1041.04;1049.04;fr>>
+Malgré ceci, le récurrent a demandé lui-même l'ouverture de l'instruction, qui a été admise par le juge.
+
+<<1049.04;1055.52;fr>>
+La demande d'ouverture de l'instruction n'était pas nâte exigeant l'intervention du défenseur.
+
+<<1055.52;1063.44;fr>>
+Toutefois, le récurrent a aussi demandé de remplacer la défenseur nommée se représentant lui-même dans la procédure.
+
+<<1063.44;1068.88;fr>>
+Le remplacement n'a pas été autorisé par le juge d'instruction.
+
+<<1068.88;1078.0;fr>>
+Le récurrent interdit l'appel qui a été admis puisque son objet concernait justement la possibilité pour l'accusé de se défendre lui-même.
+
+<<1078.0;1091.28;fr>>
+Cependant, par la suite, l'appel a été rejeté sur le fond, vu que la loi interne imposait l'obligation d'assistance par un défenseur, notamment lors de l'audience de l'instruction.
+
+<<1091.28;1107.68;fr>>
+Le récurrent a formé un recours en constitutionnalité, mais il n'a pas été admis car il n'était pas signé par le défenseur désigné, étant donné que la loi régissant les recours en constitutionnalité exige que ces recours soient présentés par un avocat.
+
+<<1107.68;1119.0;fr>>
+La procédure s'est poursuivie et le récurrent a été personnellement notifié pour l'audience d'instruction, laquelle fut successivement rapportée sur sa demande.
+
+<<1119.0;1122.44;fr>>
+Cette audience a eu lieu, mais le récurrent n'y était pas présent.
+
+<<1122.44;1128.52;fr>>
+Le juge d'instruction a confirmé l'inculpation et a renvoyé l'affaire pour audience de jugement.
+
+<<1128.52;1150.84;fr>>
+Le récurrent a également formé un recours de cette décision en évoquant l'inconstitutionnalité de la norme que dispose sur l'audience d'instruction, mais le recours a été rejeté parce la question de l'inconstitutionnalité n'avait pas été dûment soulevée dans la mesure où la décision rendue n'était pas fondée sur la norme invoquée.
+
+<<1150.84;1157.96;fr>>
+On peut ajouter que suite au dépôt de la présente requête, une audience de jugement a eu lieu.
+
+<<1157.96;1162.28;fr>>
+Le récurrent choisissant encore s'absenter.
+
+<<1162.28;1172.44;fr>>
+Un jugement condamnant le récurrent à une amende de 140 jours pour le crime d'un jour aggravé a été rendu.
+
+<<1172.44;1189.44;fr>>
+De même, et répondant à une autre question posée par la Cour, le récurrent a été condamné au paiement de la somme de 150 euros au bénéfice de l'avocate nommée d'office, vu qu'il n'avait pas demandé l'appui judiciaire dans cette partie.
+
+<<1189.44;1199.6;fr>>
+Ce montant n'a pas cependant été payé par le récurrent et les exécutions instaurées furent rayées du rôle pour manque de biens.
+
+<<1199.6;1208.16;fr>>
+Le récurrent a lui-même interjeté appel du jugement que l'a condamné, mais le juge l'a débouté, vu qu'il n'était pas souscrit par un avocat.
+
+<<1208.16;1213.4;fr>>
+Ensuite, il a déposé une réclamation devant le président de la Cour, qui a été aussi rejeté.
+
+<<1213.4;1220.68;fr>>
+En somme, le récurrent a opté pour s'absenter lorsque des audiences tenuent dans le procès.
+
+<<1220.68;1232.24;fr>>
+Il a persisté en présentant des recours souscrits par lui-même, tout en sachant que la loi exigeait l'intervention d'un avocat dans cette phase de procès.
+
+<<1232.24;1245.2;fr>>
+Et bon qu'une défenseure lui avait été nommée, il n'a pas profité de cette nomination, il n'avait pas aussi la qualité d'avocat pour souscrire ses recours.
+
+<<1245.2;1253.48;fr>>
+Il a rénoncé à la possibilité de se défendre personnellement dans le procès, notamment pendant les audiences.
+
+<<1253.48;1277.2;fr>>
+En effet, il faut distinguer la défense technique que la loi interne assure par la désignation d'un avocat et qui est obligatoire à certains actes de la procédure pénale, et la défense personnelle de l'accusé, c'est-à-dire le droit de participer directement et personnellement dans le procès, qui est dûment prévu par la loi interne.
+
+<<1277.2;1288.64;fr>>
+L'accusé a le droit d'être présent durant tous les actes qu'il concerne, produisant des déclarations ou gardant le silence sur le fait dont il l'est l'accusé.
+
+<<1288.64;1297.6;fr>>
+Il peut déposer des expositions, des mémoires ou des requêtes à tout moment de la procédure, même s'ils ne sont pas signés par une défenseure.
+
+<<1297.6;1314.88;fr>>
+Outre le fait de pouvoir fournir toutes les déclarations qu'il souhaite en audience, l'accusé bénéficie du droit d'être le dernier à s'adresser au tribunal après les plaidoiries et avant que le jugement ne soit rendu.
+
+<<1314.88;1331.0;fr>>
+Finalement, il faut rappeler que l'accusé a toujours le pouvoir de retirer l'efficacité aux actes réalisés par le défenseur en son nom, à condition que ceci soit fait avant qu'une décision concernant cet acte ne soit rendue.
+
+<<1331.0;1339.36;fr>>
+Et aussi, il a la possibilité de demander le remplacement de l'avocat en évoquant un motif légitime.
+
+<<1339.36;1345.84;fr>>
+L'accusé dispose donc d'un ensemble de droits et de participation dans la procédure en vue de sa défense.
+
+<<1345.84;1361.08;fr>>
+Et l'exercice droit de défense personnel peut coexister avec l'assistance d'un défenseur auquel encombre l'exercice de la défense technique.
+
+<<1361.08;1380.76;fr>>
+Cette dichotomie essentielle entre la défense personnelle de l'accusé et sa défense technique, exercée nécessairement par un avocat, s'avère fondamentale pour la compréhension des raisons qui empêchent d'après la loi la possibilité de l'autodéfense.
+
+<<1380.76;1400.76;fr>>
+D'ailleurs, la coexistence de la défense technique exercée par un avocat et de la défense personnelle exercée par l'accusé conjointement avec son avocat a été admise par la Cour dans l'affaire Rensau contre Autriche à propos de la participation de l'accusé dans les débats.
+
+<<1400.76;1414.6;fr>>
+On peut conclure que le requérant avait la possibilité d'être présent, de participer et d'intervenir personnellement au procès, de se prononcer sur les faits que lui étaient réprochés et se défendre en personne.
+
+<<1414.6;1427.88;fr>>
+S'il n'a pas exercé ses droits, cela s'est dû à son option de ne pas être présent durant les actes de procédure essentielle, notamment les débats d'instruction et l'audience.
+
+<<1427.88;1443.12;fr>>
+En effet, le requérant a dédié toutes ces innombrables et longues interventions procédurales à la question de la défense par soi-même, méprisant toutes les possibilités que la loi lui considère pour se défendre dans le procès.
+
+<<1443.12;1465.24;fr>>
+Il a opté par la présentation successive et parfois labyrinthique des requêtes, des plaintes à l'encontre de diverses personnes, des recours devant toutes les instances et devant toutes les juridictions, en des termes parfois peu corrects, sachant qu'il devrait être signé par un avocat et méprisant la défenseur qui lui avait été nommée.
+
+<<1465.24;1477.08;fr>>
+En effet, à notre avis, ce cas confirme la préoccupation du législateur et des juges avec le manque d'objectivité et de sérénité d'une telle défense.
+
+<<1477.08;1493.08;fr>>
+En outre, il faut souligner encore que compte tenu du modèle interne, la prétention de joindre sur le même chef les rôles d'accusé et de défenseur poserait de sérieux problèmes.
+
+<<1493.08;1505.96;fr>>
+En effet, dans un procès de structure accusatoire, les pouvoirs que sont commis par la loi aux défenseurs ne sont pas du tout, en beaucoup de situations, conciliables avec sa position d'accusé.
+
+<<1505.96;1514.28;fr>>
+Il s'agit de deux sujets de la procédure qui sont distants, qui possèdent différents statuts, aux droits et aux devoirs différents.
+
+<<1514.28;1523.6;fr>>
+Divers inconvénients d'ordre procédural, ainsi que l'embarras des autres intervenants, sont entraînés par le tumult des rôles.
+
+<<1523.6;1532.68;fr>>
+À titre d'exemple, comment rendre compatible l'exercice la défense avec le droit du silence que revient à l'accusé?
+
+<<1532.68;1545.56;fr>>
+En effet, celui-ci, en tant que défenseur, doit intervenir lorsqu'une audience interroge et contre-interroge le témoin et au final il doit produire des allégations d'avocat.
+
+<<1545.56;1552.64;fr>>
+Or, comment faire tout ceci sans porter préjuice à sa volonté et à son droit de ne pas s'exprimer sur les faits?
+
+<<1552.64;1565.52;fr>>
+Comment protéger toutes victimes, en particulier les victimes les plus vulnérables, du contact direct avec le prévenu duquel serait contrainte à être interrogée par lui?
+
+<<1565.52;1584.84;fr>>
+Comment le juge doit conduire le procédure et l'audience, notamment en cas d'obstruction significative de leur déroulement, compte tenu des droits et des devoirs de l'ontologique des avocats et des régimes de contrôle prévus qui sont différents pour le défenseur et pour l'accusé?
+
+<<1584.84;1595.68;fr>>
+Pour le cas de l'existence de plusieurs accusés, comment effectuer les interrogatoires séparés chaque fois que les défenses sont inconciliables?
+
+<<1595.68;1599.32;fr>>
+Et comment réaliser les confrontations entre les co-accusés?
+
+<<1599.32;1607.16;fr>>
+Ou encore, comment exécuter le droit du défenseur à demander des précisions sur les déclarations de l'accusé?
+
+<<1607.16;1612.44;fr>>
+Serait-il possible de demander une précision sur ses propres déclarations?
+
+<<1612.44;1624.84;fr>>
+En effet, comme le barreau des avocats l'a dit dans son avis, dans le système procédural pénal portugais, l'accusé a un très ample droit d'intervention et de se défendre personnellement.
+
+<<1624.84;1637.92;fr>>
+De tels droits sont formellement consacrés par la loi, sachant que la concentration de la qualité de défenseur et d'accusé importerait une diminution de la sphère de la protection de celui-ci.
+
+<<1637.92;1654.36;fr>>
+Un autre, le respect du contradictoire exige que l'accusé soit en position d'égalité avec le ministère public et avec l'assistant, ce qui implique qu'il dispose d'une défense technique assurée par un avocat.
+
+<<1654.36;1665.12;fr>>
+La Cour nous a demandé, finalement, information sur le nombre de cas survenus dans les dernières années où l'accusé a été admis à se défendre lui-même.
+
+<<1665.12;1669.6;fr>>
+En effet, ces données ne sont pas enregistrées ni autrement traitées.
+
+<<1669.6;1679.32;fr>>
+L'information prétendue exigerait donc la consultation de chacun des procès criminels, dont le nombre se situe entre 5 000 et 1 500 par année.
+
+<<1679.32;1700.28;fr>>
+Toutefois, on peut dire que le nombre n'est probablement pas élevé ni significatif, dans la mesure où la loi exige la représentation de l'accusé par un avocat autre que l'accusé lui-même en des moments cruciaux de la procédure, lorsque l'application d'une paie de prison est en cause, ce qui arrive dans la généralité des cas.
+
+<<1700.28;1714.24;fr>>
+En effet, le législateur national considère que le risque de privation de la liberté est un motif suffisamment sérieux pour que, dans l'intérêt de l'accusé, celui-ci soit représentant par un avocat.
+
+<<1714.24;1723.88;fr>>
+Soit disant, une procédure qui peut conduire à la privation de la liberté n'est jamais une procédure simple, à notre avis.
+
+<<1723.88;1742.04;fr>>
+Il faut conclure que le modèle adoté d'un ordre juridique interne se présente comme la meilleure voie pour garantir la défense de l'accusé, qu'il s'en sert dans la marge d'appréciation des autorités et qu'il assure les exigences de la Convention, notamment celles crélèves de l'article 6.
+
+<<1742.04;1746.0;fr>>
+Par conséquent, M. le Président, M. les Juges,
+
+<<1746.0;1753.28;fr>>
+le gouvernement portugais considère que la présente requête doit être déclarée irrécevable parce qu'elle est mal fondée.
+
+<<1753.28;1754.28;fr>>
+Je veux remercier votre attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1755.7;1758.14;fr>>
+Merci beaucoup, madame.
+
+<<1758.14;1762.3;fr>>
+La parole est maintenant au récréant, monsieur Correia De Matos.
+
+<<1762.3;1763.46;fr>>
+Vous avez la parole, monsieur.
+
+[[Applicant;AP1]]
+
+<<1765.07;1768.11;pt>>
+Mestre, me sinto por residão.
+
+<<1768.11;1773.83;pt>>
+Senhor Presidente, Senhoras e Senhores Juízes, Excelências.
+
+<<1773.83;1787.31;pt>>
+É uma subida honra usar da palavra perante esta magna Corte Plena do Tribunal Europeu dos Direitos Humanos e é um privilégio que reconhecidamente agradeço, thank you very much, Mr. President, Your Honor,
+
+<<1787.31;1803.83;pt>>
+de ser o primeiro a fazê-lo na língua de Camões e Saramago, da Mália e também da Rosalia, o sonoro português em que data Rénia atribua agora os cumprimentos em francês da Sra. Magistrada e acompanhante, que da parte do Governo de Mandado tem,
+
+<<1803.83;1809.31;pt>>
+no caso, in caso, a ingrata missão de defender o indefensável.
+
+<<1809.31;1830.23;pt>>
+Tenho também boa consciência de ser o primeiro advogado a defender uma causa sua neste magnífico Palácio da Justiça, ao que dignamente procedo com toda a convicção de que o advogado que não tem o brilho e a capacidade de assumir como deve a sua própria defesa, menos valor terá para advogar em prol e por conta de outrem.
+
+<<1830.23;1847.51;pt>>
+Neste caso, porém, sucede que não é apenas em alta defesa que, e que é de nome que me apresento a pleitear, na verdade, esta queixa de que sou autor não pode resumir-se à questão de um cidadão contra o Estado de que é nacional ou mais propriamente contra o Governo do seu país, não.
+
+<<1847.51;1850.19;pt>>
+Como que derá definitivamente demonstrado.
+
+<<1850.19;1866.19;pt>>
+Este é o caso de um cidadão europeu de nacionalidade portuguesa que se queixa de as jurisdições de Portugal lhe denegarem em lhe incidência um direito convencional, universal, que o Estado português denega por sistema a todos os cidadãos sob a sua jurisdição.
+
+<<1866.19;1877.19;pt>>
+Porque ao defender-me própria persona nesta causa, estou eu necessária e indeclinavelmente a defender a mesma justa causa do povo português.
+
+<<1877.19;1882.19;pt>>
+Nesta demanda sou eu, por consequência, quem verdadeiramente defende Portugal.
+
+<<1882.19;1884.19;pt>>
+Sou besta honrada toga.
+
+<<1884.19;1887.11;pt>>
+Je suis Portugal.
+
+<<1887.11;1934.55;pt>>
+E na realidade, um Estado-membro do Conselho da Europa e da União Europeia, onde o provedor de justiça, o alhures nobilíssimo Ombudsman, que em Espanha se chama Defensor do Povo, referindo-se à Convenção Europeia e ao Pacto de Nova Iorque relativos aos direitos humanos, civis e políticos, informa publicamente aos cidadãos, em permanência, através do seu portal oficial na internet, de que não decorrerá da referida legislação internacional qualquer imposição dirigida aos Estados que a ratificaram, incluindo Portugal, no sentido de a legislação interna permitir a autorrepresentação do arguido em processo penal, por certo que precisa ser defendido urgentemente ao mais alto nível jurisdicional para o Europeu.
+
+<<1934.63;1960.59;pt>>
+Como sinal de raro infortunio que este Estado, que usa o nome ousado de República Portuguesa, carece com urgência de ser superiormente defendido já nesta Suprema Corte de Justiça Internacional, é patentemente o que as alegações escritas da sua parte documentando o dossiê da presente queixa atestam, de resto, em termos que abstraiem da inteligência do escolde declaratários.
+
+<<1960.59;1975.51;pt>>
+Realmente, querendo justificar a suma indignidade que é o cerceamento da liberdade de ação ao cidadão plenamente capaz, da natural liberdade de defesa individual assente na autonomia imprescritível da pessoa humana.
+
+<<1975.51;2005.43;pt>>
+O governo português louva-se em Estrasburgo, numa tirada nitidamente insincera da banda de ordem dos advogados, a evada de hipocrisia mais abominável para declarar que pode ser imposto defensor ao orguido contra a vontade expressa deste, porque o direito de defesa é irrenunciável e tal imposição é feita exclusivamente no seu interesse em nome de uma dignidade humana irredutível de que é portador.
+
+<<2005.43;2024.75;pt>>
+Tal como o gesto do torturador de Chico Buarque de Holanda no fado tropical, também esta ignominiosa paródia da nova sentença de Kant, de Würther Desmenschen e este Unantazwaar deve ter sido escrita a chorar lágrimas de crocodilo.
+
+<<2024.75;2062.75;pt>>
+E contudo, se estas duas manifestações de poder antidemocrático não podem deixar de infundir no cidadão português mais consciente uma infinita tristeza, uma envergonha insupitável, maior ainda é o sentimento de infelicidade cívica quando se verifica que é já o pleno das secções criminais do Supremo Tribunal de Justiça deste país de marinheiros a mandar pela borda fora o fruto de séculos da melhor filosofia europeia, fundadora da civilização ocidental, a obra do iluminismo jurídico, consagrador de valores tão essenciais ao progresso humano quanto a certeza do direito e o primário da lei escrita.
+
+<<2062.75;2103.47;pt>>
+Na verdade, o recente Acórdão nº 15 de 2016 do Supremo Tribunal de Justiça português, publicado em 6 de dezembro último, não ficará, pelos piores motivos na história da Justiça europeia e mundial, somente por repristinar e difundir, a partir do Boletim Oficial do Estado, a sua tese reacionária e inumana de que o acusado em processo penal nunca poderá defender-se a si próprio, mesmo que seja advogado ou magistrado, no fundo porque o Conselho Geral de Ordem dos Advogados, num parecer interno de 1999, disse que tal impedimento não viola qualquer regra legal, internacional ou nacional, fundamental ao geral.
+
+<<2103.47;2146.19;pt>>
+Não, este distópico aresto, típico de uma ditadura astutamente descaracterizada, derroga um deciso de uma secção do mesmo Tribunal Supremo, declaradamente aderindo à decisão do Comitê de Derrote de Nome das Nações Unidas, no sentido de que o Estado português deveria assegurar que o advogado assistisse ao direito absoluto de se defender a si próprio em todos os estados do procedimento penal, para estabelecer quase 20 anos envolvidos sobre a promulgação do diploma, que nos temos do artigo 70 nº 1 do Código de Processo Penal de 1987, o ofendido que seja advogado e pretenda constituir-se assistente em processo penal, tendo de estar representado nos autos por outro advogado.
+
+<<2146.19;2160.11;pt>>
+Sim, a todas as luzes, inegavelmente, este aresto exponho o poder judiciário de um Estado suposto de direito democrático a adulterar a lei vigente há décadas, a usurpar a função do Legislativo, ante o silêncio supulcral da República.
+
+<<2160.11;2169.95;pt>>
+Mais e pior, depois e na esteira da justiça única da ordem constitucional indestina, és a mais alta da subalterna ordem judicial a talhar uma lei de encomenda.
+
+<<2169.95;2187.35;pt>>
+Pois, despontem este acórdão, quando se haviam profilado já várias ações judiciais propostas por um determinado advogado em causa própria, a pretender efetivar a responsabilidade criminal por prevaricação de magistrados e, em maior número, de hierárquias e leitos da ordem dos advogados.
+
+<<2187.35;2189.47;pt>>
+O que em boa verdade não é nada tão surpreendente.
+
+<<2189.47;2204.11;pt>>
+A defesa cerrada desta ordem profissional pelo poder judicial, que lá suceeu, já vem de trás, mas usou-se contra o requerente após a referida decisão do Comitê dos Direitos Humanos da ONU, em março de 2006, a condenar o Estado português.
+
+<<2204.11;2214.15;pt>>
+No espaço de dez anos, três momentos e quatro acórdãos distintos marcam o passo dessa escalada rumo ao paroxismo do absurdo jurisprudencial autóctono.
+
+<<2214.15;2245.71;pt>>
+Logo em 2006, a 17 de maio, na vigência do artigo 134, número 2 do Código de Procedimento Administrativo, o Tribunal Constitucional, no seu acórdão número 315 de 2006, recusava-se a apreciar a nulidade da deliberação de suspensão da minha inscrição como advogado, porque a ordem dos advogados que detém a competência para conferir o respetivo título judicial, a ordem dos advogados informou que está suspensa a inscrição do reclamante, por esta razão o reclamante está impossibilitado de exercer a advocacia.
+
+<<2245.71;2250.79;pt>>
+Dois anos depois, em junho de 2008, a mesma instância suprema refinava a argumentação.
+
+<<2250.79;2270.63;pt>>
+Arrazoava no acórdão número 317 de 2008 que os poderes conferidos pela lei à ordem dos advogados, como a entidade que em Portugal exerce atribuições públicas em matéria de inscrição na ordem e consequente autorização para o exercício da advocacia, impedem que o Tribunal invada essa competência administrativa.
+
+<<2270.63;2289.67;pt>>
+SIC, de estar decriando um precedente judiciário ilegítimo contra a legem, logo porém discricionariamente adotado pelas jurisdições inferiores, como está-se considerando para o efeito todas as demais, inclusive a ex do foro administrativo, não obstante a sua especial competência na matéria.
+
+<<2289.75;2299.31;pt>>
+E seria exatamente um Tribunal Superior da Ordem Administrativa, já em 2016, a replicar aquela casuística constitucional perversa com maior empenho.
+
+<<2299.31;2329.67;pt>>
+Em dois acórdãos da mesma data, 15 de julho, e nessa parte de idêntico teor tirados nos processos número 2579-15, Braga, e número 3717-15, Braga, nos quais o requerente é este mesmo, o Tribunal Central Administrativo Norte, em ordem a expusar-se à competente declaração da nulidade da deliberação de suspensão da inscrição do advogado em ação, dispara esta motivação perfeitamente clarificadora.
+
+<<2329.67;2343.91;pt>>
+O Tribunal não pode substituir-se à ordem dos advogados, nas suas atribuições e competências dos seus órgãos, com o que violaria frontalmente o princípio da separação e interdependência de poderes.
+
+<<2343.95;2346.03;pt>>
+O que o Lorde éra de demonstrarme.
+
+<<2346.03;2381.67;pt>>
+Não resta a menor dúvida, portanto, de que no 19º Estado Membro do Conselho da Europa, na República Portuguesa, os titulares de terceiro poder soberano, os tribunais, qualificam oficialmente a ordem dos advogados nacional não como uma associação profissional de direito público comum, mas sim como um autêntico órgão de soberania, um intíssimo sui generis, aliás, uma entidade, um corpo estranho à democracia histórica, cuja atuação administrativa, cujos atos deliberativos próprios ou impróprios, são jurisdicionalmente insindicáveis.
+
+<<2381.67;2410.23;pt>>
+Cabe agora demonstrar documentadamente este motivo principal da minha grata presença nesta Arielpagu supranacional, que a denegação de um certo direito convencional pelo Tribunal Judicial da Comarca de Águeda, na origem desta queixa a ser julgada, tal como aquela primeira do Tribunal Judicial da Comarca do Ponto de Lima, que deu causa à queixa nº 48.188-99, não configura meros casos fortuitos, duas questões ilusoradas, antes sim representam
+
+<<2410.23;2428.91;pt>>
+duas pontas do mesmo iceberg contravencional, um rígido bloco orgânico-funcional profundamente refratário à cidadania, poderosamente afrontando quem realmente advoga, sem restrições à liberdade, a vera rosa fresca, lentíssima, da pessoa humana.
+
+<<2428.91;2482.91;pt>>
+Sim, com algum sacrifício e grande empenho, eu desloquei-me a esta capital do Estado de Direito por Excelência, chamado Europa, sobretudo para aqui afirmar publicamente, solenemente, que desde 1993 há mais de 23 anos, 23 anos, sou vítima de uma sinistra espécie de bula da excomunhão, uma fatua laica de expulsão da ordem dos advogados portuguesa, única e simplesmente por ter tido a lucidez e mantido a honradez de exteriorizar, numa singela postura de advogado e economista honesto, a sólida convicção de que, como aumenta à luz quer da Convenção Europeia dos Direitos Humanos, quer do Pacto Internacional sobre os Direitos Civis e Políticos, o defensor imposto não é um advogado, o chamado, é um impostor.
+
+<<2482.91;2499.59;pt>>
+Tal como o mandato judicial obrigatório e estipendiado contra a vontade expressa e por conta do mandante, afinal, mandado, não é patrocínio, é letrocínio, é um roubo de Estado que fere sobremodo a dignidade do homem perante a justiça.
+
+<<2499.63;2520.39;pt>>
+E o mais deplorável, urge denunciar também com firmeza essa insana senha persecutória corporativa contou-se sempre, até hoje, com a solidariedade espúria em geral e, em particular, a cumplicidade ativa das autoridades judiciais e judiciárias nacionais da mais elevada patente.
+
+<<2520.39;2554.15;pt>>
+Na realidade, em consequência dessa ofensiva institucional concertada, encontro-me presentemente, depois de ilicitamente suspenso durante mais de 22 anos, sob o pretexto de uma falsa incompatibilidade funcional e depois ter sido forçado a cumprir na íntegra, de seguida, uma sanção disciplinar de seis meses de suspensão, cuja deliberação integra outro sínico ilícito penal e cuja execução efetiva acumula novo abuso de poder, encontro-me presentemente, sim, de novo suspenso de facto do exercício da advocacia.
+
+<<2554.15;2596.95;pt>>
+Agora, no centésimo décimo segundo dia de cumprimento de um castigo dito disciplinar, com a duração de dois anos, punitivo da infração surreal de usurpação de funções de advogado em causa própria, por antes de 1999 haver demandado principalmente as jurisdições administrativas e constitucional, quando tinha a licença de advogado suspensa por incompatibilidade legalmente inexistente, e, ademais, deliberado por ato ineficaz, porquanto não publicado oficialmente e, inclusive, é com eficácia formalmente suspensa por decreto judicial e para cúmulo, infração essa inabstracto, logo em maio de 1999, amnistiada.
+
+<<2596.95;2619.79;pt>>
+Posto isto, este introito clarificador deve, então, focar mais especificamente as questões cuja particular ênfase foi, entretanto, recomendada pela Presidência, ao que procederei seguindo o texto original em inglês, da correspondente notificação oficial, e remetendo onde pertinente para os documentos da minha parte incorporados no dossiê em 2 de janeiro de transato, com indicação do número respectivo.
+
+<<2619.79;2638.67;en>>
+1. Did the decision of the domestic courts refusing the applicant leave to represent himself in the criminal proceedings against him comply with Article 6, Paragraph 1 and 3C of the Convention?
+
+<<2638.67;2642.95;pt>>
+A resposta só pode ser negativa, totalmente negativa e a vários títulos.
+
+<<2642.95;2648.67;pt>>
+Antes de mais, não entras decisões respeitadas do direito do cidadão a que a sua causa seja examinada.
+
+<<2648.67;2653.95;pt>>
+Numa versão oficial do texto, há-se que se actua seu ato ante andiu.
+
+<<2653.95;2664.67;pt>>
+Quando em processo de penal, não tem este o direito vasilar de fazer-se ouvir ante andu, de dizer de sua justiça, não só sobre a matéria de facto, mas também em matéria de direito.
+
+<<2664.67;2694.03;pt>>
+A única oportunidade que o acusado penal tem de falar, de dirigir-se ao tribunal sem ser oficialmente arremetido para um terceiro que veio todo o tempo atuando por ele, ocorre na audiência de julgamento em sede terminal de produção da prova, no exercício, conforme previsto nos artigos 343 a 345 do Código de Processo Penal, do direito a postar declarações ou a responder a perguntas sobre os factos que lhe são imputados, eventualmente para os confessar.
+
+<<2694.03;2707.47;pt>>
+Momento esse demasiado tardio, como é óbvio, para que pudessem de próprio preparar uma defesa fidedigna e minimamente eficaz, antes dos dados probatórios contra si aí apresentados e que tomará nessa altura conhecimento.
+
+<<2707.47;2716.65;pt>>
+E o mais importante, sobre os quais só o seu forçado defensor pode extrair conclusões e expô-las ao tribunal em alegação oral.
+
+<<2716.65;2722.11;pt>>
+Assim rege com efeito o artigo 360, número 1 do mesmo código.
+
+<<2722.11;2728.23;pt>>
+Verifica-se portanto, inegavelmente, a violação de Minardo, número 1, do artigo 6º da Convenção.
+
+<<2728.23;2738.37;pt>>
+Mas logo depois é alineacedo o número 3 do mesmo artigo, que acusa infração grave, por sinal em dois planos distintos, na exata medida dos dois direitos fundamentais que o Prefeito contempla.
+
+<<2738.37;2746.73;pt>>
+O acusado tem direito nomeadamente a primeiro, defender-se a si próprio, ou segundo, ter assistência de um defensor da sua escolha.
+
+<<2746.73;2750.79;pt>>
+A violação do meu direito pessoal a defender-me a mim próprio é mais que evidente.
+
+<<2750.79;2763.29;pt>>
+Nunca no caso sob iúdice fui eu denunciado, processado, arruído, acusado e condenado em causa, sucessivamente concedido ou garantido o ius postulandi pro se.
+
+<<2763.29;2780.21;pt>>
+Porque a lei processual penal e sob o modo atinente de jurisprudência nacionais portuguesas não o consentem, recusam-no perentoriamente a todo o acusado, mesmo que seja ele próprio juiz penal, em nome de uma figura jurídica falaciosa e abusiva.
+
+<<2780.21;2784.41;pt>>
+A obrigatoriedade da defesa técnica.
+
+<<2784.41;2801.69;pt>>
+Na verdade, o técnico de um acusado, livre de se defender, de decidir por si e querer antes valer-se, pode bem ser o auditor financeiro, o médico-legista, o patologista ou o detetive privado. E quanto ao necessário conhecimento da lei, a exigência desse defensor técnico
+
+<<2801.69;2815.17;pt>>
+ser um jurisperitus não pode, tampouco, ignorar-se que também a todo o acusado ignorância lesis non excusad e que, em todo o caso, primará a regra jura novid curia.
+
+<<2815.17;2847.81;pt>>
+Especialmente notável, no entanto, é a violação simul do meu direito pessoal ao defensor de minha escolha, ao advogado que eu próprio sou, questão esta da máxima importância, com efeito que a prova documental oferecida demonstra-se, sem margem para qualquer dúvida, é que a defensora, oficialmente nomeada à pessoa de hora exponente quando processado, nenhum concreto ato de defesa praticou, além da sua mera presença, em atos judiciais a repreendê-lo contra a sua vontade expressa. E mais, que ela mesmo, a solicitação deste,
+
+<<2847.81;2860.09;pt>>
+por alguma razão, pediu e obteve do órgão competente da Ordem dos Advogados a excusa do cargo, porém continuou a exercê-lo, muito provavelmente também contra a sua vontade.
+
+<<2860.09;2889.09;pt>>
+Em suma, de todo incontestavelmente, eu fui impedido, oper judicis, de defender-me a mim próprio pelos juízes de instrução e penal de Agda, os Tribunais das Regulações de Coimbra e do Porto e o Tribunal Constitucional, deliberada e conscientemente, para não poder beneficiar de uma defesa técnica competente e honesta, aquela que o mesmo, concebidamente, era capaz de produzir e teria produzido em estado de real liberdade. A violação do
+
+<<2889.09;2894.45;pt>>
+artigo 6º da Convenção não podia ter sido mais grave, jamais terá sido tão grave.
+
+<<2894.45;2904.49;en>>
+2. Is it a temporary removal of the applicant from the Bar Council's role in 1993 on the
+
+<<2904.49;2925.27;en>>
+grounds that the exercise of his profession of lawyer was considered incompatible with his further profession of auditor still in place, or has it been lifted since 1993, temporarily or permanently? In particular, was the applicant authorized to practice as a lawyer at the
+
+<<2925.27;2937.53;en>>
+time of the criminal proceedings against him before the Portuguese courts which are at issue in the present case? Must a distinction be made in respect of the applicant's authorization
+
+<<2937.53;2948.61;en>>
+to practice as a lawyer between proceedings in which the applicant intended to represent himself and proceedings in which he represented third persons?
+
+<<2948.61;2966.01;pt>>
+A suspensão da minha inscrição como advogado, com alegado motivo no exercício também da atividade de revisora oficial de contas, deliberada em 1993 pelo Conselho Geral de Ordens Advogados, não foi revogada nem foi tal deliberação declarada nula por órgão administrativo ou tribunal algum. Foi apenas
+
+<<2966.01;2991.13;pt>>
+levantada por despacho de julho de 2016 da bastonária e presidente daquele órgão diretivo devido ao facto de, em janeiro de 2014, eu ter requerido essa medida como mínimo por haver então suspendido voluntariamente o exercício daquelas funções falsamente ditas incompatíveis. Porque o levantamento da suspensão, conforme exarado no mencionado despacho da
+
+<<2991.13;3019.61;pt>>
+bastonária reproduzido no meu documento 70, teve os efeitos reportados a 18 de abril anterior e foi o dia seguinte declarado nesse mesmo ato o de início do cumprimento da pena de seis meses de suspensão, publicitada através do edital número 567-2015 do Conselho de Deontologia do Porto, reproduzido no documento 57. Ao que se seguiria a publicação em 21
+
+<<3019.61;3063.17;pt>>
+de novembro do edital número 1000 de 2016 do mesmo órgão disciplinar reproduzido no documento 79, anunciando uma pena de dois anos de suspensão aplicada em 1999 e desde então pendente, resulta que desde 1993 até à presente data, somente durante 32 dias, de 20 de outubro a 20 de novembro de 2016, é que eu não estive sujeito a uma suspensão do exercício da atividade de advogado por força de resoluções administrativas em absoluto nulas. Aliás, só o facto daquela deliberação ilícita de suspensão por incompatibilidade
+
+<<3063.17;3097.57;pt>>
+totalmente inexistente se manter em colo na ordem jurídica portuguesa, não obstante consumar um ato nulo ipso iure, é que explica por que continuo, em 2017, a cumprir esta outra pena disciplinar, não menos ilegal, mas ainda mais infame, de castigo pela pseudo infração racionalmente inconcebível de usurpação de funções de advogado em causa própria, por ter representado a minha pessoa e me ter defendido a mim em juízo quando, após a lei, estava de suspenso de facto sob o color de uma incompatibilidade ficta. E
+
+<<3097.57;3126.93;pt>>
+ademais, só a recusa judicial permanecente da declaração formal dessa nulidade manifesta permite que eu continue ainda a haver retirado mensalmente da minha modesta pensão de reforma uma importância superior a 200 euros, por alcance de pinhoras para satisfação de taxas de justiça liquidadas, muito principalmente pelo Tribunal Constitucional, por haver advogado por mim próprio, quanto à vontade da Associação Profissional pontificando no setor. Concreto
+
+<<3126.93;3152.97;pt>>
+e mais precisamente, portanto, ao longo de todo o processo penal na origem da presente queixa, instalado no Tribunal Judicial da Comarca de Águeda em 2008 e subido em vias de recurso e reclamação aos Tribunais da Relação do Coimbra e do Porto e ao Tribunal Constitucional, nunca fui admitido a exercer a advocacia, que nesses atos seria, obviamente, em causa própria. Comprometo, aliás, esclarecer ainda que logo a partir de 1994 deixei de
+
+<<3152.97;3163.37;pt>>
+advogar a título profissional por respeito e para proteção dos potenciais clientes, muito embora a suspensão da minha inscrição seja ilícita. Eu próprio realmente tive
+
+<<3163.37;3169.57;pt>>
+de fazer tal distinção, por esse ponderoso motivo. Todavia, porque bem ciente, desde
+
+<<3169.57;3177.13;pt>>
+a decisão de 2006 do Comitê dos Direitos Humanos, na queixa nº 123.1123, de 2002,
+
+<<3177.13;3206.69;pt>>
+de que o advogado goza do direito absoluto de defender-se a si próprio, apresentei-me sempre que necessário em legítimo auto-patrocínio, sem nunca ter deixado, entretanto, de exigir dos tribunais nacionais, até hoje sem êxito, alias, o reconhecimento formal da nulidade do pleno direito da suspensão da minha inscrição.
+
+<<3206.69;3219.49;en>>
+3. Which amount of costs did the applicant pay for his representation by an officially appointed counsel in the criminal proceedings before the domestic courts here at UJU?
+
+<<3219.49;3254.65;pt>>
+Porque sempre recusei a subordinação a um defensor de nomeação judicial e, neste caso, instalado em 2008, me foi concedido em abril de 2014 o peticionado apoio judiciário na modalidade de dispensa de taxa de justiça e de mais encargos com o processo, nunca paguei diretamente nem a tribunal algum nem a advogada mandatada ex oficio qualquer soma relativa à prestação dessa defensora fictícia, a qual terá por isso sido compensada em princípio pelo Ministério da Justiça através da ordem dos advogados. O governo demandado é que
+
+<<3254.65;3263.89;pt>>
+sabe, portanto, qual a verba suspendida com esse serviço oficial e, por sinal, já a comunicou à corte.
+
+<<3263.89;3284.61;en>>
+4. In how many cases was the accused in criminal proceedings authorized to conduct his own defense since the entry into force of the Code of Criminal Procedure in 1987 and, in particular, since 2012, when the present application was lodged?
+
+<<3284.61;3322.93;pt>>
+Desde 2012, desde 1987, desde 1978, anos de entrada em vigor da Convenção Europeia sob o Conspecto no Ordenamento Português, ou desde 1976, data de aprovação da Constituição da República Portuguesa, que consagra no artigo 1º o princípio da dignidade da pessoa humana e, no artigo 2º o Estado Democrático, fundado no respeito e na garantia dos direitos e liberdades fundamentais, a resposta é uma só e a mesma. Nenhum. Em nenhum caso desde
+
+<<3322.93;3345.89;pt>>
+1929, sob regime derrubado em abril de 1974, foi um acusado de crime em processo penal correndo num tribunal português autorizado a defender-se pro sé, nem que fosse profissional do foro, advogado ou magistrado, procurador da República ou juiz.
+
+<<3345.89;3377.81;pt>>
+Honoráveis Senhoras e Senhores Juízes, No livro 2 da Helíada, dando voz à indignação do herói, antes considerável símbolo da perfidia grega, Bresílio coloca em neias a relatada d'Ido o doloroso episódio do desde então para sempre famoso Cavalo de Troia, que define com esta frase marcante, Crimine ab uno di sé omnes, por um só crime que conhecemos a todos. À distância de milénios será não menos judicioso afirmar que também
+
+<<3377.81;3400.93;pt>>
+os crimes manifestados através dos editais nº 567-2015 e nº 1000-2016 da Ordem dos Advogados Portuguesa, dão bem a conhecer a essência autêntica do regime político que os gerou e os sustém. Sim, o meu documento nº 57, integrado no dossiê, atesta o facto
+
+<<3400.93;3443.33;pt>>
+único, não só em toda a Europa, mas muito provavelmente à escala mundial, de um presidente de um conselho de ideontologia, de uma Ordem Nacional de Profissionais de Advocacia, que se defes num recurso de todo regularmente interposto contra uma deliberação desse mesmo órgão e como se tal impugnação não existisse, difundiu oficialmente por todo o país, através de todas as repartições públicas, a resolução administrativa que aplicara ao recorrente uma infundada pena disciplinar de suspensão, para tanto não hesitando em declarar falsamente que o aludido a corda constitui caso resolvido na ordem interna da Ordem dos Advogados.
+
+<<3443.33;3460.81;pt>>
+Cabe por certo referir-me a propósito que há cerca de 5 anos, face a atos jurisdicionais destes EIs, sacrilégios na área da jurisprudência, uma juíza brasileira ocupando o alto cargo federal de Corregedor Nacional de Justiça chamou a colega Cheu, os bandidos de Toga.
+
+<<3460.81;3515.25;pt>>
+E o documento 79, conservado também no dossiê da Presidente Queixa, o segundo edital da labra do mesmo conselheiro-mor de ideontologia da Ordem de Advocacia Portuguesa, constitui a prova irrefutável de que neste Estado é inteiramente possível que um advogado encontrasse a cumprir um castigo dito disciplinar de suspensão pela infração ficta de usurpação das funções de advogado em causa própria, porque, em acúmulo, a elibação elimina no inquérito judicial paralelo aberto sobre denúncia caluniosa a mando do próprio bastonário delinquente mor, e até imediato a amnistia do tipo legal da infração disciplinar desta arte aplicada, recte em curso de aplicação, nenhuma força jurídica garantem contra a grave vontade judicial nativa de que neste caso crítico não seja feita justiça.
+
+<<3515.25;3527.09;pt>>
+Mas não, estes não são meros atos de banditismo togado, crimes de colorinho preto, são antes atos bélicos despercebidos. Há um espírito de guerra permanente, uma luta constante pelo
+
+<<3527.09;3532.13;pt>>
+poder no seio da cidade, e é nesse plano que a situação pode ser compreendida. O
+
+<<3532.13;3543.25;pt>>
+Estado português não é um pleno Estado de direito democrático, é, para usar um neologismo já consagrado, uma democratura. A República Portuguesa não é uma República
+
+<<3543.25;3549.81;pt>>
+verídica, é uma real dictocracia. Quem de facto reina nesta nação ancestral é o poder
+
+<<3549.81;3562.65;pt>>
+popular, é o poder soberano, cujos membros não são eleitos nem confirmados pelo voto popular. O poder judicial, que, servindo a uma plutocracia imparante, sob um só comando
+
+<<3562.65;3569.77;pt>>
+verdadeiro, uma augusta comandatura arcana, aloja três magistraturas distintas. Magistratura
+
+<<3569.77;3589.97;pt>>
+judicial, a tradicional judicatura, magistratura ministerial, a procuratura, e uma magistratura extraoficial, a ad hoc, a advocatura, que, por ditame tacticista, persistem a apresentar-se como a profissão liberal que neste país há muito tempo deixou de ser. Duas notas
+
+<<3589.97;3598.09;pt>>
+essenciais demonstram efetivamente esta dura realidade social indígena, impunidade e opacidade.
+
+<<3598.09;3620.33;pt>>
+No século VII da nossa era, ano de 654, em Toledo, o Rei Folau-Borges V, depois, como capítulo I, do título dedicado ao mandato judicial do Código Visigótico, que então promulgou uma lei sua estabelecendo que os príncipes e os bispos não podem pleitear por si, mas por intermédio de seus súbditos. Quero que, para que, por medo do poderio,
+
+<<3620.33;3631.61;pt>>
+não desfaleça a verdade, quero para evitar a desonra que seria para tão grandes homens, se contra eles, mil e oito pessoas, em contradição e causa, mediados a desisterem.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3631.77;3637.09;fr>>
+Pardonnez-moi, désolé de vous interrompre, mais pourrais-je vous demander de conclure? Merci.
+
+[[Applicant;AP1]]
+
+<<3637.46;3668.78;pt>>
+Ao declarar, como será dinho um Ed Houston, a presente queixa é perfeitamente admissível e, logo a admitindo, considerando-a em seguida completamente bem fundada, já que o providenciará, portanto, de par com a competente justiça individual requerida no caso, como sói, uma emergente regeneração constitucional do Estado infrator, como outro sim, justiciamente, lhe aprazerá.
+
+<<3668.78;3672.42;pt>>
+Eu expresso o meu agradecimento ao Tribunal pela atenção dispensada.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3680.02;3682.22;fr>>
+Merci, merci beaucoup.
+
+<<3682.38;3686.54;fr>>
+Je remercie les parties pour leurs interventions.
+
+<<3686.7;3694.66;fr>>
+Maintenant, j'invite mes collègues, les juges de la grande chambre, qui souhaitent poser des questions, de les formuler.
+
+<<3695.34;3696.26;fr>>
+Qui souhaite...
+
+<<3696.26;3699.3;en>>
+Judge De Gaetano, please.
+
+[[Judge;Vincent A. De Gaetano]]
+
+<<3701.86;3704.5;en>>
+Thank you, Mr. President.
+
+<<3704.5;3716.14;en>>
+I have two questions addressed mainly to the government agent, but of course, the applicant can comment as well.
+
+<<3716.14;3734.26;en>>
+My first question, and I make it quite clear that I put these questions simply so that I can have a very clear picture of the actual situation and the various permutations and combinations that could have occurred in this case.
+
+<<3734.26;3742.86;en>>
+My first question is triggered by something that the government agent said in her presentation.
+
+<<3742.86;3754.78;en>>
+Am I, had, and the question is this, had the applicant appointed a lawyer of his choice, or had he accepted the court-appointed lawyer?
+
+<<3754.78;3784.06;en>>
+Am I correct in saying that the accused, the applicant, of course, in the instant case, could have, at both first instance and on appeal, personally addressed at some stage the courts on issues both of law and of fact, together with or in view of his lawyer?
+
+<<3784.06;3793.46;en>>
+I hope that the question is clear, because there are many sort of conditions.
+
+<<3793.46;3800.1;en>>
+My second question, and again, of course, the applicant is perfectly entitled to comment.
+
+<<3800.1;3827.7;en>>
+Am I correct in understanding that even had the applicant not been suspended as a lawyer because of this alleged incompatibility with his function as an auditor, so even if he had not been suspended, he would still not have been able to represent himself in his trial at both first instance and on appeal?
+
+<<3827.7;3835.7;en>>
+Those are my two questions addressed to most to the government agent, on which, as I said, the applicant is most welcome to comment, as well.
+
+<<3835.7;3836.82;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3836.89;3838.89;en>>
+Thank you, thank you very much.
+
+<<3839.89;3841.77;fr>>
+Maintenant le juge Wojtyczek.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<3843.41;3845.53;fr>>
+Merci, M. le Président.
+
+<<3845.53;3850.25;fr>>
+J'ai une question adressée avant tout au gouvernement.
+
+<<3850.25;3861.13;fr>>
+Le gouvernement, dans ses observations écrites, parle notamment de recommandations du Comité de droit de l'homme.
+
+<<3861.13;3882.25;fr>>
+Je voudrais demander au gouvernement de présenter son point de vue concernant la valeur juridique des recommandations du Comité de droit de l'homme liées à l'examen d'une requête individuelle par ce comité.
+
+<<3882.25;3898.65;fr>>
+Et notamment, les recommandations du Comité de droit de l'homme ont-elles une valeur contraignante pour les États partis au pacte de droit civil et politique?
+
+<<3898.65;3904.21;fr>>
+La deuxième question s'adresse avant tout au requérant.
+
+<<3904.21;3922.17;fr>>
+Je voudrais savoir quelles étaient les principales divergences entre le requérant et son avocat dans le procès qui est à l'origine de la requête dans la présente affaire.
+
+<<3922.17;3934.69;fr>>
+Quelles étaient les divergences, les convergences de vues entre le requérant et son avocat concernant les plaidoiries devant les juridictions nationales?
+
+<<3934.69;3936.09;fr>>
+Merci, Monsieur le Président.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3936.51;3940.99;en>>
+Thank you very much. Now, Judge O'Leary, please.
+
+[[Judge;Síofra O’Leary]]
+
+<<3943.25;3945.77;en>>
+Thank you, Mr. President.
+
+<<3945.77;3958.61;en>>
+The applicant's constitutional appeal to the Constitutional Court was dismissed as inadmissible on 11 May 2012, as it had neither been signed nor endorsed by counsel.
+
+<<3958.61;3970.81;en>>
+Now it's the well-established case law of this Court that domestic remedies are not exhausted if an appeal is dismissed because of the appellant's failure to comply with such formalities.
+
+<<3970.81;3984.21;en>>
+Now, the substantive question before this Court, and that's the – that's what my colleagues have addressed in their questions, is whether the applicant can claim a right pursuant to the Convention to defend himself in criminal proceedings.
+
+<<3984.21;3986.55;en>>
+And I underline criminal proceedings.
+
+<<3986.55;3998.75;en>>
+But this substantive legal question is arguably distinct from the requirement in Portuguese law that a constitutional appeal on whatever legal question be signed by legal counsel.
+
+<<3998.75;4018.03;en>>
+And this distinction is highlighted by Sir Nigel Rodley in his separate opinion, which is attached to the Human Rights Committee decision, and I quote, Important as it may be to ensuring justice in an individual case, a constitutional motion is not procedurally an integral part of a criminal trial.
+
+<<4018.03;4030.21;en>>
+In the light of these factors, and also our established case law, I would ask both parties to explain if domestic remedies have actually been exhausted in this case, and if so, how.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4033.54;4034.02;en>>
+Thank you.
+
+<<4034.02;4036.64;en>>
+Thank you very much.
+
+<<4036.64;4038.8;en>>
+Now, Vice President Nußberger, please.
+
+[[Judge;Angelika Nußberger]]
+
+<<4040.77;4043.61;fr>>
+J'aurais une question au requérant.
+
+<<4043.61;4078.38;fr>>
+J'aimerais bien savoir, le requérant a déjà porté une requête devant la Cour en 1999, et la Cour a rendu un jugement en 2001, et ce jugement est définitif, alors c'était la même chose, le même problème, maintenant c'est 16 années plus tard, et j'aimerais bien savoir quels sont les changements ou bien les facteurs que vous comptez importants pour justifier un revirement de notre jurisprudence.
+
+<<4078.38;4078.38;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4079.29;4081.53;fr>>
+Merci beaucoup.
+
+<<4083.33;4084.49;fr>>
+S'il n'y a pas...
+
+<<4084.49;4086.33;fr>>
+Le juge Bošnjak, s'il vous plaît.
+
+[[Judge;Marko Bošnjak]]
+
+<<4088.27;4090.07;en>>
+Thank you very much, Mr. President.
+
+<<4090.07;4091.39;en>>
+I have two questions.
+
+<<4091.39;4095.77;en>>
+One will be addressed to the government and the other to the applicant.
+
+<<4095.77;4113.39;en>>
+First to the government, according to paragraph 36 of your grand chamber observations, it is the overriding interest of justice and effective defense of defendants that legitimize provisions of code of criminal procedure on compulsory representation.
+
+<<4113.39;4122.47;en>>
+You, in your pleadings today, have outlined some of those interests that you deem important.
+
+<<4122.47;4130.75;en>>
+But could you please specify whether such interests of justice existed in the particular applicant's case?
+
+<<4130.75;4137.99;en>>
+And in particular, could he be considered to be unable to defend himself effectively in the particular case?
+
+<<4137.99;4141.11;en>>
+And if so, why?
+
+<<4141.11;4144.47;en>>
+Then a question to the applicant.
+
+<<4144.47;4160.67;en>>
+The question might be similar to what Judge De Gaetano already forwarded, namely, in what way, if at all, did the appointment of a counsel impede the applicant to conduct your own defense?
+
+<<4160.67;4167.55;en>>
+And in particular, what procedural action were you prevented from undertaking, if any?
+
+<<4167.55;4177.71;en>>
+And in case of possible divergent views between you and your counsel, could your views prevail over those of your counsel?
+
+<<4177.71;4181.55;en>>
+Of course, the government is also welcome to comment on this last issue.Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4182.85;4185.65;en>>
+Thank you very much.
+
+<<4185.65;4202.89;fr>>
+Maintenant, la cour va se retirer pour 25 minutes, donc jusqu'à 11 heures moins 10, après quoi les partis pourront présenter des brèves observations en réponse aux plaidoiries adverses et répondre aux questions des juges.
+
+<<4202.89;4202.89;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4267.65;4268.49;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4308.92;4310.4;fr>>
+Je vous en prie, prenez place.
+
+<<4310.56;4312.6;fr>>
+L'audience...
+
+<<4314.56;4315.76;fr>>
+L'audience reprend.
+
+<<4315.92;4318.6;fr>>
+Et la parole est à Mme Da Graça Carvalho.
+
+<<4318.6;4319.6;fr>>
+Vous avez la parole, madame.
+
+[[Government;GR1]]
+
+<<4321.38;4324.18;fr>>
+Merci, M. le Président.
+
+<<4324.18;4331.14;fr>>
+Je commence par répondre à des questions qui ont été posées en spécial au gouvernement.
+
+<<4331.14;4352.06;fr>>
+Concernant la première question, si l'accusé peut, dans ses déclarations personnelles devant la Cour et dans ses mémoires qu'il peut présenter, s'il peut verser des questions en fait et en droit aussi, ce que je peux dire, c'est que la loi n'empêche pas que les questions versent le droit.
+
+<<4352.06;4379.34;fr>>
+En effet, sur ce sujet, l'article 9018 dispose que l'accusé peut présenter disposition des mémorials, des requêtes, en toute phase de la procédure, même qu'elle ne soit pas signée par le défenseur, à la condition qu'elle se contienne dans l'objet de la procédure auxquelles sont pour finalité la sauvegarde de ses droits fondamentaux.
+
+<<4379.34;4385.62;fr>>
+Il n'y a pas une exception concernant les aspects en droit.
+
+<<4385.62;4396.3;fr>>
+Il est même habituel, par exemple, avec les détenus, de présenter devant les juges beaucoup de questions en droit, des droits procéduraux pénaux.
+
+<<4396.3;4413.58;fr>>
+On demande aussi si l'accusé n'était pas suspendu par le barreau des avocats, s'il pourrait se défendre soi-même en première instance et devant les juridictions supérieures.
+
+<<4413.58;4424.62;fr>>
+Ce que je peux dire à ce sujet, c'est que la loi empêche l'accusé de se défendre lui-même, soit il a un avocat ou non.
+
+<<4424.62;4454.1;fr>>
+Seulement, devant la cour constitutionnelle, il pourrait éventuellement obtenir l'admission de son recours parce qu'il y a des précédents dans la jurisprudence de la cour constitutionnelle qui a déjà admis des recours posés par l'accusé qui était un avocat.
+
+<<4454.1;4462.22;fr>>
+Et je peux passer tout de suite à la question qui m'a été posée aussi sur le recours en constitutionnalité.
+
+<<4462.22;4478.62;fr>>
+En effet, le recours en constitutionnalité fait partie du dossier pénal et la décision de la cour constitutionnelle, elle verse sur la constitutionnalité d'une norme telle qu'elle a été appliquée par le jugement interne.
+
+<<4478.62;4492.18;fr>>
+Alors, la décision de la cour constitutionnelle peut donner origine à la modification de la décision interne, du jugement interne.
+
+<<4492.18;4508.46;fr>>
+Dans cette mesure, on doit conclure que ce recours était un moyen à accuser et qu'il n'était pas souscrit par un avocat dont il n'a pas été dûment exercé.
+
+<<4508.46;4515.1;fr>>
+Je passe à une autre question qui concerne la recommandation du Comité des Nations Unies.
+
+<<4515.1;4530.3;fr>>
+En effet, le Portugal a souscrit le pacte, il n'a pas fait de réserve, il accepte le caractère recours vanculatif.
+
+<<4530.3;4536.54;fr>>
+Seulement, dans ce cas, nous sommes devant un cas différent de l'habitude.
+
+<<4536.54;4577.82;fr>>
+Il a été étudié, je l'ai dit dans mes observations écrites, il a été étudié par quelques juristes qui ont soulevé la question du dilemme insoluble pour l'Etat concernant l'existence de deux décisions en dessins différentes provenant de deux instances internationales différentes, une de nature juridictionnelle, la Cour européenne, qui s'a prononcée auparavant, et une autre d'une instance qui n'est pas juridictionnelle et qui s'est prononcée après que la première décision était déjà rendue dans un autre sens.
+
+<<4577.82;4584.34;fr>>
+Or, le Portugal s'est confronté par une situation qui est un peu paradoxale et qui n'est pas habituelle.
+
+<<4584.34;4601.06;fr>>
+Et c'est à cette raison que le Portugal a fait la divulgation de la décision, mais il n'a pas jusqu'à ce jour modifié la loi.
+
+<<4601.06;4616.1;fr>>
+On m'a demandé aussi si, au-delà des aspects qui concernent les intérêts supérieurs de la justice, il y avait aussi des inconvénients spécifiques dans ce cas.
+
+<<4616.1;4619.86;fr>>
+J'ai compris que c'était celle-ci la question.
+
+<<4619.86;4635.94;fr>>
+C'est vrai que la norme, c'est une norme générale et abstraite, et que la règle, c'est que l'accusé ne peut pas être... l'accusé ne peut pas être
+
+<<4635.94;4639.74;fr>>
+représenté par lui-même, même qu'il soit un avocat.
+
+<<4639.74;4663.34;fr>>
+Toutefois, je dois dire que dans ce cas, il était évident, dans le début, que l'avocat, que l'accusé, le récurrent, n'était pas dans les meilleures conditions de se défendre lui-même à cause du manque de sérénité.
+
+<<4663.34;4682.1;fr>>
+Et lorsqu'il a refusé, quand il a demandé de remplacer l'avocate d'office pendant l'audience d'instruction, il a même ironisé le fait que c'agissait d'une femme.
+
+<<4682.1;4695.26;fr>>
+Tel que résulte du document numéro 12, qui est joint avec la requête, je ne vais pas reproduire l'expression.
+
+<<4695.26;4710.58;fr>>
+Je passerai tout de suite à dire quelque chose sur les plaidoiries de M. le récurrent.
+
+<<4710.58;4715.1;fr>>
+Je dirais tout d'abord que M. le récurrent continue
+
+<<4715.1;4729.98;fr>>
+à s'adresser d'une forme qui n'est pas très correcte, pour dire le moins, dans mon avis, contre toutes les institutions, contre toutes les personnes, les différents magistrats, etc.
+
+<<4729.98;4740.54;fr>>
+Et qu'il s'affirme le défenseur du peuple et de la République dans un sujet qui s'est d'une gravité extrême.
+
+<<4740.54;4747.58;fr>>
+On peut discuter si la solution légale, c'est la meilleure ou non, c'est la meilleure solution ou non.
+
+<<4747.58;4752.58;fr>>
+Mais la vérité, c'est qu'il ne s'agit pas d'un problème national.
+
+<<4752.58;4762.22;fr>>
+Je n'ai pas connaissance des autres cas similaires d'une telle volonté des accusés de se représenter eux-mêmes.
+
+<<4762.22;4782.78;fr>>
+Je pense que les accusés, ils reconnaissent qu'ils bénéficient de la possibilité d'avoir un avocat d'office, et que s'ils n'ont pas de possibilités économiques, ils n'ont pas besoin de payer, tel que, comme le récurrent a confirmé, il-même ne l'a pas fait.
+
+<<4782.78;4799.3;fr>>
+Concernant la suspension par l'ordre des avocats, si bien que ce n'était pas le sujet principal de la requête, mais il a été très développé.
+
+<<4799.3;4808.5;fr>>
+Je dois dire en premier lieu que l'ordre des avocats, c'est une association publique, libre et autonome, et qui est indépendante de l'État.
+
+<<4808.5;4814.1;fr>>
+Ses décisions sont susceptibles de recours devant les tribunaux administratifs.
+
+<<4814.1;4824.94;fr>>
+Et tant que j'ai vu dans le dossier que j'ai consulté, le récurrent a interjeté successivement des recours devant les tribunaux administratifs.
+
+<<4824.94;4837.14;fr>>
+Seulement, il s'adressait toujours en son propre nom, sans avocat, sans constitué avocat, dans un moment où il n'avait pas possibilité d'exercer l'advocatie.
+
+<<4837.14;4844.34;fr>>
+Alors, tous ces recours ont été rejetés parce qu'ils n'étaient pas souscrits par un avocat.
+
+<<4844.34;4849.94;fr>>
+C'est la raison parce qu'il n'a pas obtenu des décisions favorables.
+
+<<4849.94;4854.86;fr>>
+Je ne sais pas, dans un autre moment, s'il les obtiendrait ou non.
+
+<<4854.86;4870.14;fr>>
+Mais les recours ont été rejetés parce que les recours devant les juridictions administratives ne doivent pas être souscrits par un avocat.
+
+<<4870.14;4897.34;fr>>
+Un autre, la raison d'être suspendue pendant beaucoup de temps, c'était l'incompatibilité des activités, l'advocatie et l'expert comptable officiel exercées en même temps, et qui était considérée incompatible avec l'advocatie.
+
+<<4897.34;4907.1;fr>>
+Et cette suspension a duré pendant tout le temps que le requérant a continué à exercer cette activité parallèle.
+
+<<4907.1;4926.3;fr>>
+Seulement, quand il a communiqué qu'il a cessé l'autre activité, la suspension a été levée, mais immédiatement, la peine de suspension a commencé à être accomplie, la suspension disciplinaire dans ce cas.
+
+<<4926.3;4935.58;fr>>
+Et la suspension disciplinaire a été fondée sur l'exercice d'advocatie dans un moment où il était interdit.
+
+<<4935.58;4948.78;fr>>
+Mais ce n'était pas l'advocatie en son propre nom, c'était toute l'advocatie soit exercée à son nom, dans ses propres causes, soit exercée dans les causes d'autrui.
+
+<<4948.78;4957.82;fr>>
+La faute, c'était l'exercice d'advocatie dans un moment où il était interdit de l'exercer.
+
+<<4957.82;4964.26;fr>>
+Cette situation se maintient encore.
+
+<<4964.26;5006.3;fr>>
+Concernant la possibilité qu'il a eue de profiter d'une avocate d'office, comme j'ai déjà dit, je pense qu'il a méprisé complètement cette possibilité, il a ignoré la personne et alors il n'a pas exercé durement les droits que la loi reconnaît, notamment les droits de recours.
+
+<<5006.3;5011.82;fr>>
+C'est la raison pour laquelle les recours n'ont pas été admis.
+
+<<5011.82;5035.66;fr>>
+La loi prévoit des possibilités de défense, la loi a lui concédé une avocate, elle était à son disposition dès le debout, mais il a eu une insistance permanente du récurrent d'ignorer cette possibilité.
+
+<<5035.66;5035.66;fr>>
+Je vous remercie une autre fois.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5038.44;5040.44;fr>>
+Merci, merci beaucoup, madame.
+
+<<5040.44;5042.44;fr>>
+La parole est maintenant à M. Correia De Matos.
+
+[[Applicant;AP1]]
+
+<<5048.42;5067.86;pt>>
+Vou seguir a exposição da parte do Governo, que abrange de facto as 5 questões que foram postas pelos seus juízes e vou comentar também algumas das declarações da parte do mesmo Governo.
+
+<<5067.86;5081.3;pt>>
+A primeira questão posta pelo seu juiz de Gaitano, sobre a faculdade que o Arruído tem de pronunciar-se em matéria de direito, é nula.
+
+<<5081.3;5090.78;pt>>
+Da parte do Governo português foi até citado um artigo do Código de Processo Penal que permite ao Arruído apresentar exposições, documentações.
+
+<<5090.78;5092.94;pt>>
+Mas tudo isso tem que ser ratificado pelo seu defensor.
+
+<<5092.94;5110.94;pt>>
+A primeira coisa que um juiz faz, e ele como advogado tem essa experiência, num primeiro dos processos que me trouxe aqui a Estrasburgo, o 48188-99, eu próprio quis manifestar ciência em matéria de direito aplicável à questão.
+
+<<5110.94;5116.02;pt>>
+Só que foi arquivado, porque o meu defensor na altura não ratificou o processado.
+
+<<5116.02;5118.58;pt>>
+Portanto, é tão simples quanto isto.
+
+<<5118.58;5123.54;pt>>
+É teórico dizer que a parte pode defender em matéria de direito.
+
+<<5123.54;5151.9;pt>>
+É exatamente aquilo que eu disse na primeira parte, a única oportunidade que um Arruído tem em Portugal de se pronunciar, seja pelo que for, é só em matéria de facto, é sobre os factos que lhes são imputados, e eventualmente outros factos conexos, mas fundamentalmente para dizer se confessa ou não confessa os factos.
+
+<<5151.9;5155.46;pt>>
+Se a questão ainda posta pelo Sr.
+
+<<5155.46;5166.86;pt>>
+Juiz de Gaitano sobre se se arrasar suspenso ou não, em princípio, na parte do processo estritamente penal, é indiferente.
+
+<<5166.86;5180.82;pt>>
+Aliás, é a máxima da parte do governo português, originalíssima, nem que seja juiz penal, nem que seja Procurador da República, nem que seja o próprio Procurador-Geral da República, não se pode defender.
+
+<<5180.82;5183.46;pt>>
+É um tabu, não se pode defender.
+
+<<5183.46;5231.9;pt>>
+Mas na sequência natural do processo penal, que primeiramente poderá ser talvez o Tribunal Constitucional, em princípio já releva aí, enquanto no processo penal é indiferente se está suspenso ou não está suspenso, eu mesmo que não estivesse suspenso, arbitrariamente, mas mesmo que não estivesse suspenso também não poderia, no Tribunal Constitucional já poderia se não estivesse suspenso, em princípio, mas estava suspenso de castigo, a Senhora Procuradora disse há pouco e, como se diz em português, fuzilha a boca para a verdade, se eu estivesse suspenso por incompatibilidade, era uma suspensão por incompatibilidade, mas foi dito a pena, era um castigo, não era incompatibilidade nenhuma, eu estava de castigo, não podia defender-me.
+
+<<5231.9;5236.82;pt>>
+E, portanto, perante o Tribunal Constitucional eu não pude defender-me.
+
+<<5236.82;5274.5;pt>>
+Mas a questão também não é tão linear assim, porque em princípio é um advogado, também perante os tribunais administrativos, de acordo com a lei portuguesa, é necessário, o artigo 11 é necessário ser advogado, mas há uma restrição, é que no número 3 do artigo 11 do código de processo nos tribunais administrativos e no número 3 do artigo 83 do código da lei orgânica do Tribunal Constitucional, está previsto que os licenciados em direito podem advogar por parte de entidades administrativas.
+
+<<5274.5;5307.46;pt>>
+Quer dizer, um Tribunal Constitucional que é obrigado a aplicar o princípio, basicamente do artigo 13 da nossa Constituição, da igualdade, se eu for funcionário de uma Câmara Municipal ou do Ministério da Justiça ou da Secretaria da Procuradia-Geral da República e o meu chefe me mandar ao Tribunal defender, eu, mero licenciado em direito, nunca fui advogado, mas como licenciado em direito, eu posso apresentar um recurso perante o Tribunal Constitucional, posso apresentar alegações perante os tribunais administrativos.
+
+<<5307.46;5317.9;pt>>
+Como licenciado e advogado, mas seja qual for a razão, com a inscrição de um advogado suspensa, eu já não sou licenciado, já não posso intervir.
+
+<<5317.9;5321.62;pt>>
+Portanto, a questão é assim que tem que ser analisada.
+
+<<5321.62;5331.98;pt>>
+Portanto, sobre a suspensão a ser estar, depois a questão posta pelo Sr. Juiz, eu
+
+<<5331.98;5338.54;pt>>
+não digo o nome, perdão, do Sr. Juiz da Polónia.
+
+<<5338.54;5341.3;pt>>
+Eu gostava de precisar uma coisa.
+
+<<5341.3;5350.7;pt>>
+O instrumento emitido em 2006 pelo Comitê dos Direitos Humanos da ONU não é uma recomendação, é uma decisão, uma decisão condenatória.
+
+<<5350.7;5369.18;pt>>
+Portugal foi condenado, além de determinados aspectos relativos à queixa e à minha pessoa como requerente, como queixoso, foi condenado a modificar o seu Código de Processo Penal e o Código de Processo Civil de acordo com o Pacto Internacional.
+
+<<5369.18;5391.42;pt>>
+O Estado português é que não cumpriu a sentença e vem agora dizer que não cumpriu e que também, ulteriormente, ficou indeciso porque não cumpriu a sentença porque havia um precedente judiciário da parte daqui, da Corte Europeia, e que lhes impedia.
+
+<<5391.42;5405.26;pt>>
+A primeira coisa que um Estado de direito e digno tinha a fazer, não cumpria a sentença, denunciava o Pacto de Nova Iorque, o Pacto Internacional sobre os Direitos Cíveis e Políticos.
+
+<<5405.26;5412.86;pt>>
+Tinha um contencioso, tinha um argumento para não cumprir, sim senhor, que era uma decisão da parte deste Tribunal.
+
+<<5412.86;5421.62;pt>>
+Mas em relação à ONU, por isso mesmo o Comitê das Nações Unidas se queixou de que o Governo português não o tratava com respeito.
+
+<<5421.62;5422.66;pt>>
+Isso está documentado.
+
+<<5422.66;5426.02;pt>>
+O Governo português não tratou com respeito o Comitê dos Direitos Humanos.
+
+<<5426.02;5432.94;pt>>
+Se não aceita a decisão, pede, denuncia o Pacto.
+
+<<5432.94;5444.18;pt>>
+Depois, as divergências, ainda sobre o senhor juiz da Polónia, as divergências entre a minha pessoa, quando argoído, e o advogado.
+
+<<5444.18;5447.7;pt>>
+Eu devo dizer que não há divergências nenhumas.
+
+<<5447.7;5459.58;pt>>
+Por um lado, porque ele assumiu, quis assumir, a primeira coisa que quando o ministério público me nomeou um defensor vicioso, eu fui tentar lutar contra isso, dizer assim eu sou autossuficiente.
+
+<<5459.58;5464.06;pt>>
+Portanto, não há divergências.
+
+<<5464.06;5470.62;pt>>
+Não há diálogo entre um argoído e o seu defensor, ou até o seu advogado contratado.
+
+<<5470.62;5482.86;pt>>
+Há a regra romanista, que todos nós sabemos, dami facto, dabo tibi ius, que é o que diz o juiz à parte, damos facto que eu dou-te o direito.
+
+<<5482.86;5492.94;pt>>
+O advogado, o defensor oficioso, não diz tanto porque não pode dar o direito, mas o que diz é dame facto, conta-me o que se passou, que eu cá estou para te tratar de tudo, eu é que sou o jurista.
+
+<<5492.94;5506.62;pt>>
+E mesmo um advogado, portanto, e sobretudo o advogado que está sujeito a um defensor oficioso contra vontade, não há divergências nenhumas, não tem que manifestar, não há troca de impressões sequer.
+
+<<5506.62;5536.16;pt>>
+Neste caso, eu ainda esperaria, o caso é de uma tal linearidade, como ficou aliás documentado na decisão do Comitê dos Direitos Humanos, num caso tão simples quanto este, foi em julho ou não foi, estava tudo documentado num processo cível, a questão surgiu num processo cível em que eu tinha intervindo como advogado e, portanto, uma defensor oficiosa, mesmo que sabendo que eu que não concordava com ela, mas estava a receber, estava nomeada, e tinha intervindo.
+
+<<5536.16;5541.66;pt>>
+É a altura de dizer que chama-se em Portugal defensor oficioso, é uma falácia.
+
+<<5541.66;5589.1;pt>>
+Foi em 13 de dezembro de 1790, na convenção, que o advogado Dinocho fez a declaração «Há eu, que a natureza e o trabalho o destinam a se tornar protegente de seus compatriotas, e a ser de boa vontade», como dizia há 3 mil o founding father da figura do advogado, na Grécia há séculos.
+
+<<5589.1;5607.18;pt>>
+A família e os amigos devem ter um papel soberano, mas de qualquer maneira serão voluntários, não aqueles que podem ajudar o acusado queixoso, e era isso que inclusivamente o código de processo civil de Napoleão foi recolher.
+
+<<5607.18;5623.7;pt>>
+Os juízes nomeiam o defensor ao argoído, mas se ele puder ser substituído por parentes ou amigos, falam «Ah, não é nada disso que se verifica na República Portuguesa, é obrigado a ter um advogado e a pagar, e se não puder pagar, então paga o contribuinte nacional».
+
+<<5623.7;5626.7;pt>>
+Esta é que é a realidade.
+
+<<5626.7;5641.18;pt>>
+No meu caso, portanto, não havia diálogo, e no meu caso pessoal, com eu nem sequer os factos dei à senhora que foi minha defensora oficiosa.
+
+<<5641.18;5658.26;pt>>
+Mas esperaria, uma vez que ela a queria desempenhar essa função de pseudo-defensora oficial, que ela fosse ao processo onde a questão tinha surgido e me defendesse objetivamente.
+
+<<5658.26;5659.26;pt>>
+Não fez.
+
+<<5659.26;5681.82;pt>>
+E então, ainda sobre a questão de poder advogar ou não perante o Tribunal Constitucional, eu cheguei a fazer um recurso, como todos em causa própria, e a senhora é que manifestou que não ratificou o processado, não ratificou o meu recurso, dizendo que eu tinha sido muito bem defendido e, portanto, não era preciso recorrer da decisão na audiência.
+
+<<5681.82;5683.46;pt>>
+Portanto, esta é que é.
+
+<<5683.46;5698.42;pt>>
+E, aliás, quero contraditar vivamente o que foi afirmado, sem provas, foi só um obitair dictum, mas malicioso, que eu terei feito qualquer referência por ser uma mulher.
+
+<<5698.42;5701.22;pt>>
+Faça o favor, por ser uma mulher.
+
+<<5701.22;5704.62;pt>>
+Eu gostaria que a senhora Procuradora confirmasse esta declaração.
+
+<<5704.62;5717.54;pt>>
+Eu referi, ultimamente, que era uma senhora que vivia numa aldeia de uma vila com 4 mil habitantes e que, portanto, nunca teria, não teria naturalmente, muito grande experiência do foro.
+
+<<5717.54;5718.98;pt>>
+Isso foi o que eu disse.
+
+<<5718.98;5721.66;pt>>
+Há uma senhora advogada, mas inexperiente.
+
+<<5721.66;5731.66;pt>>
+Porquê é que vou ser trocado eu, que me posso defender a mim próprio, por uma senhora que vive numa aldeia com 4 mil habitantes?
+
+<<5731.66;5739.22;pt>>
+Ela alguma vez fez algum recurso para o Supremo Tribunal de Justiça?
+
+<<5739.22;5741.22;pt>>
+Alguma vez fez algum recurso de constitucionalidade?
+
+<<5741.22;5742.22;pt>>
+Não é isto.
+
+<<5742.22;5743.22;pt>>
+Estamos em abstrato.
+
+<<5743.22;5754.58;pt>>
+Dá a impressão que da parte do governo português vem a Estrasburgo e que leem mal ali está Curra Europeen de Droide L'homme e dá a impressão que leem Curra Europeen de Droide L'Avocat.
+
+<<5754.58;5759.66;pt>>
+Não, primeiro está o homem, primeiro está a pessoa humana e depois é que está o advogado.
+
+<<5759.66;5765.5;pt>>
+Mas na legislação portuguesa o que funciona são os direitos do defensor.
+
+<<5765.5;5777.74;pt>>
+Eu faço esse samba-comentar das minhas alegações escritas, é que não são os direitos do argoído, os direitos do acusado, o que é preciso é garantir os direitos do defensor e garantir os seus honorários.
+
+<<5777.74;5779.3;pt>>
+Esta é a prioridade.
+
+<<5779.3;5781.3;pt>>
+Esta é que é a prioridade.
+
+<<5781.3;5791.38;pt>>
+Portanto, a recomendação não é uma recomendação do Comitê dos Direitos, é uma decisão de condenação que não foi cumprida.
+
+<<5791.38;5795.66;pt>>
+Sobre as divergências, não há divergências.
+
+<<5795.66;5802.62;pt>>
+Sobre a senhora juíza O'Leary, de Irlanda, sobre o domestic remedy, portanto sobre os recursos internos.
+
+<<5802.62;5811.82;pt>>
+Os recursos internos foi aqueles que eu próprio quis acionar, designadamente para o Tribunal Constitucional e que a senhora advogada, defensora oficiosa, não ratificou.
+
+<<5811.82;5819.7;pt>>
+Está tão bem no dossiê, não foi ratificado, o curso não teve seguimento porque não foi ratificado o processado.
+
+<<5819.7;5839.7;pt>>
+Passo então à questão da senhora juíza, mais para a Alemanha, sobre porquê é que eu, não tendo tido uma decisão favorável no processo 48.188,99, lhe facture, os factores
+
+<<5839.7;5843.78;pt>>
+que justificaram a minha vinda de novo.
+
+<<5843.78;5848.66;pt>>
+Ora bom, basicamente porque não fiquei satisfeito com a decisão, não é?
+
+<<5848.66;5886.58;pt>>
+E uma razão objetiva para não ter ficado satisfeito foi eu ter notado, e também já fiz sentir isso em alguns dos meus escritos, que eu compreendo o sistema de rule of precedent em Inglaterra, porque é um direito oral tradicional, em relação à Convenção dos Direitos do Homem, peço perdão à Corte, mas haver um texto legislado, um texto concreto, uma abordagem diferente, ter-me permitido talvez ganhar a questão nesse caso do Tribunal de Contas de Lima.
+
+<<5886.58;5887.58;pt>>
+Quais foram os argumentos?
+
+<<5887.58;5905.86;pt>>
+Porque há o caso do Croação, que é um senhor advogado da Bader-Meinhor, que nunca ele, que era advogado também, nomeou uns amigos, ou enfim, colegas, seus advogados, estavam a empatar o processo, mas ele próprio nunca se quis defender a si mesmo.
+
+<<5905.86;5909.58;pt>>
+É uma situação que nada tem a ver comigo, com a minha.
+
+<<5909.58;5911.34;pt>>
+Eu quis sempre defender-me a mim mesmo.
+
+<<5911.34;5912.98;pt>>
+Eu acho que o homem se deve afirmar.
+
+<<5912.98;5928.06;pt>>
+E, portanto, depois, isto até 2006, portanto, desde 2001 até 2006, o meu estado de espírito foi de insatisfação com a decisão, é óbvio.
+
+<<5928.06;5936.46;pt>>
+Se eu me quisesse defender, se tinha capacidade para me defender, se me tivesse posto um estagiário, enfim, não fui bem tratado.
+
+<<5936.46;5950.22;pt>>
+E depois, em Estrasburgo, levo a resposta de que não, já há aqui um precedente, há alguns, mas então este caso do Croação é fatal e, portanto, já houve um caso também aqui, foi, não há, não sei o que.
+
+<<5950.22;5954.14;pt>>
+Não tem bases para ser admitida a queixa.
+
+<<5954.14;5956.14;pt>>
+Isto até 2006.
+
+<<5956.14;5967.58;pt>>
+Em 2006, perante o Comitê dos Direitos dos Homens das Nações Unidas, eu defendi exatamente esta tese, que perante o texto da convenção, que naquele caso era o texto do pacto, não havia nada.
+
+<<5967.58;5978.46;pt>>
+Eu não estava, não havia testemunhas que o pudesse assustar, que o pudesse por em causar medo para apostar em declarações contra mim.
+
+<<5978.46;5991.18;pt>>
+Eu sou autossuficiente juridicamente, tenho estabilidade emocional para me expressar, embora possa ser acusado de vivacidade, mas isso também o apaixonar é vida, temos que aceitar isto.
+
+<<5991.18;5996.54;pt>>
+Portanto, não havia razões objetivas para eu não ter podido defender-me já em Ponte de Lima.
+
+<<5996.54;6004.58;pt>>
+E expus melhor, expus melhor a questão, já era a segunda vez, expus melhor os meus argumentos perante o Comitê.
+
+<<6004.58;6020.5;pt>>
+E é por isso que também achei que poderia expor melhor os meus argumentos, é o que tenho vindo a fazer nesta queixa de 2012, eu poderia expor melhor os meus argumentos, que não tive tanta oportunidade, nem proximamente, como estou a ter agora.
+
+<<6020.5;6022.94;pt>>
+Esta foi a minha principal motivação.
+
+<<6022.94;6032.94;pt>>
+E também acho que já respondi à essência das questões que me foram colocadas.
+
+<<6032.94;6032.94;pt>>
+Obrigado.
+
+[[JudgeP;Guido Raimondi]]
+
+<<6036.82;6038.82;fr>>
+Merci beaucoup.
+
+<<6038.98;6042.54;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<6043.02;6050.9;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<6051.14;6055.26;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<6055.9;6058.5;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<6059.14;6062.06;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<6062.06;6063.86;fr>>
+L'audience est levée.
+

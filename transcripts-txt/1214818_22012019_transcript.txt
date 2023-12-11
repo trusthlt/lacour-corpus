@@ -1,0 +1,2014 @@
+[[Announcer;UNK]]
+
+<<16.65;17.37;fr>>
+La Cour!
+
+[[JudgeP;Angelika Nußberger]]
+
+<<50.71;53.03;fr>>
+Veuillez prendre place, s'il vous plaît.
+
+<<61.23;68.47;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire A.M. contre France.
+
+<<69.47;81.91;fr>>
+L'affaire a été introduite devant la Cour le 12 mars 2018 par un ressortissant algérien, M. A.M., en vertu de l'article 34 de la Convention.
+
+<<82.59;91.27;fr>>
+Elle a été attribuée à la cinquième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<91.79;97.11;fr>>
+La requête a été communiquée au gouvernement le 26 avril 2018.
+
+<<97.67;101.15;fr>>
+Le gouvernement est représenté par son agent, M. Alabrune,
+
+<<101.47;114.59;fr>>
+directeur des Affaires juridiques du ministère de l'Europe et des Affaires étrangères, assisté par Mme Merloz, coagente, et par Mme Leblond, Mme Dumont et Mme Desmaison, conseillère.
+
+<<115.31;119.03;fr>>
+Le requérant est représenté par M. Lantheaume,
+
+<<119.39;122.07;fr>>
+M. Fourrey et M. Coutaz, avocats.
+
+<<122.87;126.51;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<127.23;134.11;fr>>
+Ayant consulté l'agent du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<134.11;136.99;fr>>
+Nous entendrons successivement M. Alabrune
+
+<<137.11;140.23;fr>>
+pour le gouvernement, puis M. Lantheaume
+
+<<140.55;143.03;fr>>
+et M. Fourrey pour le requérant.
+
+<<143.75;160.31;fr>>
+Je dois expliquer qu'en su de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en langue turque a été autorisée au profit d'un groupe de juristes du ministère de l'Intérieur turc qui assistent à cette audience.
+
+<<160.75;163.39;fr>>
+Cette interprétation n'est pas assurée par la cour.
+
+<<163.39;169.99;fr>>
+Elle n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<169.99;172.55;fr>>
+La parole est à M. Alabrune.
+
+[[Government;GR1]]
+
+<<184.01;204.61;fr>>
+Madame la Présidente, Mesdames et Messieurs les juges, la présente affaire s'inscrit dans un contexte sensible, qui est celui de la lutte contre le terrorisme, une menace aujourd'hui bien réelle pour de nombreux États du Conseil de l'Europe.
+
+<<206.57;214.77;fr>>
+Elle l'est notamment pour la France, qui est régulièrement victime d'attaques terroristes, comme celle qui a frappé la ville de Strasbourg le mois dernier.
+
+<<218.21;231.33;fr>>
+De façon constante, votre Cour rappelle qu'elle a une conscience aiguë des enjeux de la lutte antiterroriste et des difficultés que les États rencontrent pour protéger leur population de cette menace.
+
+<<233.93;241.41;fr>>
+Pour autant, ces enjeux ne peuvent affecter la prohibition absolue de la torture et des peines et traitements inhumains ou dégradants.
+
+<<245.01;261.37;fr>>
+C'est pourquoi il revient dans la présente affaire à votre Cour d'évaluer le risque d'exposition à de tels traitements, encourus par le requérant, qui a commis dans le passé des actes terroristes, au cas où il serait renvoyé vers son pays d'origine.
+
+<<263.33;270.01;fr>>
+Et votre Cour doit mener cette évaluation selon les critères rigoureux établis par sa jurisprudence.
+
+<<273.01;281.81;fr>>
+Ces critères ont été récemment rappelés par la Grande Chambre dans ses arrêts FG contre Suède et JICA et autres contre Suède.
+
+<<284.69;297.45;fr>>
+La Cour estime tout d'abord que le risque de traitement contraire à l'article 3 peut émaner d'une situation générale de violence, d'une caractéristique propre à l'intéressé ou d'une combinaison des deux.
+
+<<298.81;314.73;fr>>
+Ensuite, il appartient au requérant de fournir un exposé étayé, qui permet de faire la distinction entre sa situation et les périls généraux qui existeraient dans le pays de destination.
+
+<<316.29;327.25;fr>>
+Enfin, cette exigence est assouplie lorsque le requérant allègue qu'il fait partie d'un groupe systématiquement exposé à une pratique de mauvais traitement.
+
+<<328.53;337.45;fr>>
+Il suffit en effet dans ce cas d'établir l'existence d'une telle pratique et le fait qu'il appartient au groupe ciblé.
+
+<<339.29;358.57;fr>>
+Ainsi, dans la présente affaire, la question n'est pas de savoir si, à son retour en Algérie, le requérant risque de faire l'objet de mesures de surveillance, d'être arrêté, d'être interrogé, ni même condamné par les autorités algériennes.
+
+<<359.85;380.97;fr>>
+En effet, de tels risques ne constitueraient pas en eux-mêmes une violation de la Convention, comme la Cour l'a relevé dans les arrêts X contre Suède du 9 janvier 2018, X contre Suède du 9 janvier 2018 et X contre Pays-Bas du 10 juillet 2018.
+
+<<382.85;396.77;fr>>
+C'est seulement s'il est établi que le requérant serait exposé en cas de renvoi en Algérie à un risque réel de torture ou de traitement inhumain ou dégradant qu'un constat de violation pourra être établi.
+
+<<398.89;405.25;fr>>
+Le gouvernement ne conteste donc pas le caractère fondamental de l'article 3 de la Convention et son caractère indérogeable.
+
+<<406.45;412.97;fr>>
+Il demande uniquement à votre Cour de faire une application stricte de sa jurisprudence habituelle en ce domaine.
+
+<<414.45;427.93;fr>>
+Or, le gouvernement démontrera que la situation générale de l'Algérie a évolué de manière positive depuis les constatations faites par la Cour dans l'arrêt M.A. contre France du 1er février 2018.
+
+<<427.93;439.77;fr>>
+Ainsi, les personnes suspectées ou condamnées pour des faits de terrorisme ne constituent pas un groupe systématiquement exposé à des mauvais traitements.
+
+<<441.25;453.21;fr>>
+Le gouvernement démontrera ensuite que le requérant ne présente aucun élément étayé établissant, en ce qui le concerne, l'existence d'un risque individuel spécifique.
+
+<<454.49;486.77;fr>>
+Si la Cour venait à considérer que l'éloignement du requérant emporterait violation de l'article 3, alors même que les individus liés au terrorisme ne sont pas systématiquement exposés à la torture et que l'intéressé n'a pas fourni d'éléments précis sur un risque spécifique le concernant, cela signifierait qu'il y a désormais une présomption générale de traitements inhumains et dégradants en Algérie pour tous les ressortissants algériens liés au terrorisme.
+
+<<487.85;500.33;fr>>
+Cette présomption ferait ainsi systématiquement obstacle à l'éloignement de ces personnes vers l'Algérie sans qu'elles aient à démontrer l'existence d'un risque réel, actuel et personnel.
+
+<<501.69;506.53;fr>>
+Une telle présomption ne serait pas cohérente avec la jurisprudence de la Cour.
+
+<<507.77;513.89;fr>>
+Elle aurait en outre, bien sûr, un impact très négatif en termes de sécurité et en termes de pratique.
+
+<<515.05;541.33;fr>>
+D'abord en termes de sécurité, cela impliquerait le maintien sur notre territoire pendant une période prolongée d'individus considérés comme dangereux et le régime d'assignation à résidence administrative auquel ils sont soumis, s'il est strict, ne permet toutefois pas de prévenir efficacement le risque de fuite, pas plus qu'il n'empêche la commission d'actes menaçant gravement l'ordre public.
+
+<<541.33;545.93;fr>>
+On peut notamment citer à ce titre le cas de M. Bégal,
+
+<<545.93;552.85;fr>>
+assigné à résidence en France, en particulier à la suite d'une requête pendante devant votre cour.
+
+<<552.85;558.13;fr>>
+Pendant cette période, M. Bégal a servi de mentor à de jeunes islamistes radicaux,
+
+<<558.13;561.53;fr>>
+dont certains ont commis par la suite des attentats en France.
+
+<<561.53;566.01;fr>>
+Il a en outre été impliqué dans le projet d'évasion d'un terroriste.
+
+<<566.01;576.81;fr>>
+Cette situation est donc dangereuse et elle représente une charge importante pour les forces de l'ordre qui sont déjà fortement mobilisées dans la lutte contre le terrorisme.
+
+<<576.81;589.61;fr>>
+Sur un plan pratique, la suspension pour une durée indéfinie du renvoi vers l'Algérie d'individus liés au terrorisme soulèverait en outre des difficultés pour trouver des lieux d'assignation à résidence appropriée.
+
+<<589.61;607.01;fr>>
+Madame la Présidente, Mesdames et Messieurs les Juges, pour en détailler plus sur la question du bien-fondé de la requête, je souhaiterais répondre à celle que votre cour a posée concernant la recevabilité de cette requête.
+
+<<607.01;617.01;fr>>
+Le requérant allègue que la demande d'asile ne constituerait pas une voie de recours adéquate et effective pour un individu condamné pour des faits de terrorisme comme lui.
+
+<<617.01;635.01;fr>>
+Il soutient ainsi que la demande de mesures provisoires auprès de votre cour n'a été au moment de son introduction le seul moyen adéquat, utile et effectif pour tenter de faire échec à la mesure d'éloignement dont il faisait l'objet.
+
+<<635.01;639.01;fr>>
+Le gouvernement conteste ces affirmations.
+
+<<639.01;653.01;fr>>
+En effet, dans le cadre d'une demande d'asile, l'Office français de protection des réfugiés et apatrides, l'OFPRA, procède à l'examen des risques de mauvais traitements allégués en cas de retour vers le pays d'origine.
+
+<<653.01;659.01;fr>>
+La procédure relative à cette demande doit donc être épuisée avant que votre cours ne soit saisi.
+
+<<659.01;662.01;fr>>
+C'est d'ailleurs ce qu'a jugé votre cours dans l'affaire MX contre France.
+
+<<662.01;679.01;fr>>
+Certes, l'article 1F de la Convention de Genève prévoit que les personnes qui se sont rendues coupables d'agissements contraires au but et au principe des Nations Unies, dont les personnes condamnées pour terrorisme, peuvent être exclues du bénéfice du statut de réfugié.
+
+<<679.01;686.01;fr>>
+Il en est de même pour le bénéfice de la protection subsidiaire prévue par la législation française.
+
+<<686.01;696.01;fr>>
+Néanmoins, même si l'octroi de ces statuts l'aurait refusé sur ce fondement, les personnes en cause ne peuvent pas être éloignées si l'OFPRA a constaté la réalité du risque invoqué.
+
+<<696.01;702.01;fr>>
+En effet, l'article L. 513.2 du Code de l'entrée du séjour
+
+<<702.01;717.01;fr>>
+des étrangers et du droit d'asile prohibe l'éloignement d'un étranger à destination d'un pays si cet étranger établit qu'il y est exposé à des traitements contraires à l'article 3 de la Convention européenne des droits de l'homme.
+
+<<717.01;731.01;fr>>
+On rappellera par ailleurs que la présentation d'une demande d'asile auprès de l'OFPRA a un effet suspensif de l'éloignement, conformément à l'article L. 743.4 du Code de l'entrée
+
+<<731.01;735.01;fr>>
+et du séjour des étrangers et du droit d'asile.
+
+<<735.01;746.51;fr>>
+La personne qui présente une telle demande est donc autorisée à se maintenir sur le territoire français jusqu'à la notification de la décision de l'OFPRA.
+
+<<746.51;753.51;fr>>
+Il résulte de ces éléments que la demande d'asile auprès de l'OFPRA constituait bien un recours effectif.
+
+<<753.51;758.51;fr>>
+Dès lors, le requérant avait bien l'obligation d'épuiser ce recours avant de saisir la cour.
+
+<<758.51;776.01;fr>>
+Certes, selon la jurisprudence de la Cour, les circonstances exceptionnelles d'une affaire donnée peuvent justifier une dérogation à cette règle de l'épuisement des voies de recours internes à la date de l'introduction de la requête devant votre Cour.
+
+<<776.01;787.51;fr>>
+Le gouvernement considère toutefois que ces circonstances exceptionnelles ne sont pas réunies dans la présente affaire et qu'il n'y a pas lieu de faire preuve de souplesse dans l'application de cette règle.
+
+<<787.51;795.51;fr>>
+Le requérant a en effet sciemment choisi de saisir la Cour d'une demande de mesure provisoire avant de saisir l'OFPRA au mépris du recours national qui lui était ouvert.
+
+<<795.51;804.51;fr>>
+Il s'agissait donc d'un détournement des règles procédurales de la Cour et d'un contournement du principe de subsidiarité.
+
+<<804.51;813.51;fr>>
+Face à ces arguments, le requérant invoque sa méconnaissance de la possibilité de déposer une demande d'asile alors qu'il était en détention.
+
+<<813.51;828.01;fr>>
+Il indique que s'il avait su qu'il disposait de cette faculté, il aurait privilégié cette option, dès lors que cela lui garantissait automatiquement une voie de recours suspensive de son éloignement.
+
+<<828.01;830.01;fr>>
+Cet argument n'est pas convaincant.
+
+<<830.01;841.01;fr>>
+Le gouvernement tient en effet à rappeler que le requérant est assisté depuis l'introduction de sa demande de mesure provisoire devant la Cour d'un avocat spécialisé en droits des étrangers.
+
+<<841.01;851.51;fr>>
+Au regard de ces éléments, la Cour ne pourra que constater que le requérant a saisi la Cour de manière prématurée en violation du principe de subsidiarité.
+
+<<851.51;860.01;fr>>
+La requête devra donc être déclarée irrecevable pour défaut d'épuisement des voies de recours internes conformément à l'article 35, paragraphe 1 de la Convention.
+
+<<860.01;875.01;fr>>
+A titre subsidiaire, si votre Cour ne retenait pas l'exception d'irrecevabilité, le gouvernement français soutient qu'il y a lieu de rejeter la requête pour absence de violation de l'article 3 de la Convention.
+
+<<875.01;895.51;fr>>
+J'ai rappelé en introduction que l'appréciation de votre Cour doit, conformément à une jurisprudence constante, se concentrer sur les conséquences prévisibles de l'expulsion du requérant vers le pays de destination au regard de la situation générale et des caractéristiques propres à l'intéressé.
+
+<<895.51;917.51;fr>>
+S'agissant de la situation générale en Algérie, le requérant se fonde essentiellement dans ses écritures sur la situation à laquelle la Cour se référait dans les arrêts de chambre d'Audi contre France du 3 décembre 2009 et MA contre France du 1er février 2018.
+
+<<917.51;924.51;fr>>
+Dans ce dernier arrêt, la Cour avait jugé que la situation en Algérie était préoccupante.
+
+<<924.51;940.01;fr>>
+Toutefois, depuis la période à laquelle se référaient ces deux arrêts, à savoir la période 2007 à 2016, la situation en Algérie a évolué dans un sens positif.
+
+<<940.01;958.51;fr>>
+C'est ce que reflètent les rapports d'organisations internationales, d'institutions gouvernementales et d'organisations non gouvernementales que le gouvernement vous a communiqués le 18 décembre dernier et qui constatent des sources fiables et récentes sur la situation en Algérie.
+
+<<958.51;972.31;fr>>
+Il ressort de ces documents qu'il ne peut être considéré que les personnes soupçonnées d'être en lien avec le terrorisme sont systématiquement exposées à un risque de mauvais traitement en Algérie.
+
+<<972.31;999.01;fr>>
+C'est ce que montre tout d'abord le rapport du groupe de travail sur l'examen périodique universel en date du 19 juillet 2017 qui ne fait plus mention de préoccupations sur des signalements en cas de torture ou traitement inhumain ou dégradant, alors que cette préoccupation avait été exprimée dans le rapport 2012 par la Suède.
+
+<<999.01;1024.01;fr>>
+Par ailleurs, le rapport 2017-2018 d'Amnesty International, s'il met en lumière plusieurs problématiques relatives au respect des droits de l'homme en Algérie, notamment en matière de liberté d'expression, de réunion ou d'association, ne fait en revanche à État d'aucun signalement de cas de torture, contrairement au rapport des années précédentes.
+
+<<1024.01;1042.01;fr>>
+De plus, dans son rapport de 2017, le département d'État américain, s'il présente les problèmes les plus significatifs en matière de respect des droits de l'homme en Algérie, ne mentionne plus, contrairement au rapport de 2016, les problématiques de la torture.
+
+<<1042.01;1051.01;fr>>
+Ce rapport explique également que le gouvernement algérien a pris des mesures pour enquêter, poursuivre et punir les agents publics ayant commis des violations.
+
+<<1051.01;1062.21;fr>>
+Par ailleurs, le rapport rappelle que la loi algérienne prohibe l'emploi de la torture et que les agents du gouvernement se rendant coupables de tels actes encourent entre 10 et 20 ans de prison.
+
+<<1062.21;1072.01;fr>>
+Il indique qu'en 2016, des poursuites ont été engagées dans 28 dossiers dans lesquels des policiers étaient accusés d'avoir recouru à de mauvais traitements.
+
+<<1072.01;1074.71;fr>>
+Deux condamnations ont été prononcées.
+
+<<1074.71;1081.01;fr>>
+En 2017, le rapport souligne qu'aucun élément de cette nature n'a été rapporté.
+
+<<1081.01;1099.41;fr>>
+Enfin, il ressort du rapport de 2017 du Comité international de la Croix-Rouge, que celui-ci s'est rendu dans des lieux de détention conformément à ses procédures habituelles afin de surveiller le traitement et les conditions de vie des détenus.
+
+<<1099.41;1105.41;fr>>
+Le CICR a visité 32 établissements détenant plus de 20 500 personnes.
+
+<<1105.41;1121.41;fr>>
+Après ces visites, le CICR a communiqué confidentiellement ses conclusions et recommandations aux autorités algériennes pour les aider à améliorer les conditions de vie et le traitement des détenus dans le contexte de la réforme pénitentiaire algérienne.
+
+<<1121.41;1131.61;fr>>
+Le CICR a également mené plusieurs activités de formation destinées au personnel pénitentiaire et à des responsables de l'administration algérienne.
+
+<<1131.61;1154.31;fr>>
+Certes, le gouvernement a relevé que certains documents exprimaient des préoccupations liées à des allégations faisant état de mauvais traitement qui continueraient d'être pratiquées par des agents du département de surveillance et de sécurité, notamment dans le contexte de la lutte contre le terrorisme.
+
+<<1154.31;1164.61;fr>>
+Il ressort en particulier des observations finales du Comité des droits de l'homme concernant le quatrième rapport périodique de l'Algérie du 17 août dernier.
+
+<<1164.61;1183.81;fr>>
+Toutefois, les autres rapports que j'ai cités témoignent du fait qu'il existe une amélioration de la situation en Algérie et qu'il n'est pas possible de soutenir que les personnes liées au terrorisme sont systématiquement exposées à un risque de torture.
+
+<<1183.81;1192.21;fr>>
+D'ailleurs, le Comité des droits de l'homme ne parle pas lui-même d'une pratique systématique de la torture.
+
+<<1192.21;1204.41;fr>>
+L'amélioration de la situation en Algérie a d'ailleurs été soulignée par la Cour nationale du droit d'asile dans sa décision du 4 juillet 2018 rejetant le recours du requérant.
+
+<<1204.41;1221.61;fr>>
+Prenant en compte les rapports les plus récents relatifs à la situation en Algérie, elle a notamment jugé qu'un renforcement des droits et garanties du citoyen, illustré notamment par la révision de la Constitution algérienne le 7 février 2016, peut y être constaté.
+
+<<1221.61;1247.51;fr>>
+Au-delà de l'amélioration de la situation générale présentée dans ces rapports, il convient de porter à l'attention de votre Cour que plusieurs ressortissants algériens ont été éloignés vers l'Algérie ces dernières années et n'ont pas établi ni même allégué d'avoir fait l'objet de la part des autorités algériennes de traitements au contraire à l'article 3 après leur renvoi.
+
+<<1247.51;1256.81;fr>>
+Le gouvernement vous a fourni à cet égard un tableau qui recense depuis 2013 les éloignements de ressortissants algériens liés au terrorisme.
+
+<<1256.81;1261.71;fr>>
+Peut notamment être cité le cas de M. Djamel Begal,
+
+<<1261.71;1275.71;fr>>
+ressortissant algérien condamné en 2005 à une peine de 10 ans d'emprisonnement pour association de malfaiteurs en vue de la préparation d'actes terroristes et qui avait été particulièrement médiatisé.
+
+<<1275.71;1285.01;fr>>
+Alors qu'il finissait de purger sa peine, il a lui-même sollicité son retour en Algérie dans le cadre d'une libération conditionnelle expulsion.
+
+<<1285.01;1291.31;fr>>
+Il a ainsi été expulsé vers l'Algérie le 16 juillet 2018.
+
+<<1291.31;1309.71;fr>>
+Comme le relâche un article du journal Le Monde, paru le même jour, son avocat français, maître Béranger Tournet, a expliqué à l'agence France Presse, je cite, il y a 10 ans, nous avions bloqué son expulsion vers l'Algérie en raison du risque de torture encourue.
+
+<<1309.71;1313.35;fr>>
+Le climat lui apparaît désormais plus apaisé.
+
+<<1313.35;1315.77;fr>>
+Le cas de M. M. A.,
+
+<<1315.77;1323.37;fr>>
+renvoyé vers l'Algérie le 20 février 2015 et qui a fait l'objet d'un arrêt de votre cours, peut également être cité.
+
+<<1323.37;1335.11;fr>>
+Il apparaît que ce dernier, qui a gardé un contact avec son avocate française, n'a pas allégé avoir été soumis à des mauvais traitements depuis son arrivée en Algérie.
+
+<<1335.11;1343.25;fr>>
+Par ailleurs, il ressort des informations communiquées par les autorités algériennes le 28 novembre dernier que M. M. A., qui est actuellement détenu
+
+<<1343.25;1350.37;fr>>
+dans une prison ordinaire à Schleff, dispose de recours internes, qu'il a d'ailleurs exercés.
+
+<<1350.37;1360.41;fr>>
+L'ambassade de France est en contact régulier avec les autorités algériennes afin de suivre la situation de l'intéressé.
+
+<<1360.41;1372.45;fr>>
+À cet égard, il importe de rappeler que le régime de la garde à vue des personnes liées au terrorisme d'Algérie est précisément encadré et comporte des garanties.
+
+<<1372.45;1379.45;fr>>
+Les rapports de diverses organisations non gouvernementales évoquées par le requérant mentionnent une garde à vue de 12 jours.
+
+<<1379.45;1382.51;fr>>
+Cette durée est cependant un maximum.
+
+<<1382.51;1391.37;fr>>
+La durée initiale de placement en garde à vue est de 48 heures et chaque renouvellement est soumis à l'autorisation du procureur.
+
+<<1391.37;1401.31;fr>>
+Par ailleurs, toute personne placée en garde à vue est informée de son droit à communiquer immédiatement avec sa famille et de recevoir des visites.
+
+<<1401.31;1411.81;fr>>
+Il est par ailleurs obligatoirement procédé à un examen médical à l'issue du délai de garde à vue et cet examen médical est joint à la procédure.
+
+<<1411.81;1436.31;fr>>
+Enfin, ainsi que le montrent les éléments transmis à votre cour le 18 décembre dernier, d'autres pays, tels que l'Espagne et les Pays-Bas, ont procédé à l'éloignement de ressortissants algériens liés au terrorisme sans que ces derniers n'aient invoqué de risque de violation de l'article 3 de la Convention d'après les éléments portés à notre connaissance.
+
+<<1436.31;1451.85;fr>>
+Ainsi, l'ensemble des éléments qui viennent de vous être présentés, montrent que la situation en Algérie a évolué de façon positive depuis le constat opéré par la Cour dans son arrêt MA.
+
+<<1451.85;1462.57;fr>>
+Il en découle qu'il n'est pas avéré que les individus en lien avec le terrorisme sont aujourd'hui systématiquement exposés à un risque de torture.
+
+<<1462.57;1471.31;fr>>
+Le requérant ne peut donc soutenir qu'il appartient à un groupe systématiquement exposé à des traitements contraires à l'article 3.
+
+<<1471.31;1488.25;fr>>
+Il lui appartient alors de présenter un exposé étayé des risques personnels qu'il estime encourir, permettant de faire la distinction entre sa situation et les périls généraux existants en Algérie.
+
+<<1488.25;1501.81;fr>>
+Or, s'agissant des circonstances qui lui sont propres, le requérant se fonde dans ses écritures, principalement sur les arrêts d'Audi contre France et MA contre France.
+
+<<1501.81;1517.35;fr>>
+Il se contente ainsi d'invoquer le caractère public de la condamnation du Tribunal correctionnel de Paris du 25 septembre 2015, dont les autorités algériennes auraient nécessairement eu connaissance.
+
+<<1517.35;1524.51;fr>>
+Il fait également valoir la couverture médiatique de son cas en France et en Algérie.
+
+<<1524.51;1538.35;fr>>
+Enfin, le requérant indique, mais sans apporter d'éléments précis à cet égard, être recherché par les autorités algériennes pour ses liens avec des personnalités algériennes liées au terrorisme.
+
+<<1538.35;1549.11;fr>>
+Le requérant n'établit toutefois aucunement l'existence d'un risque personnel de traitement contraire à l'article 3 en cas de renvoi vers l'Algérie.
+
+<<1549.11;1564.01;fr>>
+Il convient en revanche de rappeler que les autorités françaises compétentes ont procédé à un examen scrupuleux de la situation du requérant en application des principes formulés par votre Cours.
+
+<<1564.01;1574.61;fr>>
+Ainsi, l'OFPRA, la Cour nationale du droit d'asile et le juge administratif ont examiné l'ensemble des éléments invoqués par le requérant.
+
+<<1574.61;1587.01;fr>>
+Ils ont tous considéré, dans des décisions largement motivées, que, faute d'éléments concrets et actuels, le requérant ne démontrait pas être exposé à un tel risque.
+
+<<1587.01;1604.25;fr>>
+Dans sa décision du 4 juillet 2018, par laquelle elle a rejeté la demande de protection subsidiaire du requérant, la Cour nationale du droit d'asile a ainsi considéré que les témoignages sur lesquels il s'appuyait étaient d'une crédibilité douteuse.
+
+<<1604.25;1622.07;fr>>
+Elle a aussi relevé que le fait que le requérant puisse être impliqué dans une procédure judiciaire pour ses liens avec une cellule terroriste démantelée dans sa ville natale ne permettait pas d'établir des craintes personnelles d'être soumis à des mauvais traitements.
+
+<<1622.07;1642.25;fr>>
+Au surplus, la Cour nationale du droit d'asile a noté que les membres de cette cellule terroriste démantelée ont été interpellés, condamnés et libérés sans qu'il soit établi qu'ils aient été soumis à des peines disproportionnées ou aient fait l'objet de mauvais traitements durant leur détention.
+
+<<1642.25;1658.17;fr>>
+De la même façon, le tribunal administratif de Lille, dans sa décision du 27 juillet 2018, a estimé que le requérant n'était pas personnellement exposé à un risque réel et sérieux de subir des traitements contraires à l'article 3 de la Convention.
+
+<<1658.17;1674.55;fr>>
+Il a souligné notamment la différence entre la situation du requérant et celle de MA, que j'ai mentionné précédemment, dans la mesure où aucune pièce du dossier ne permet de dire que le requérant sera mis en cause par les autorités algériennes.
+
+<<1674.55;1702.85;fr>>
+Ainsi, en application du principe de subsidiarité récemment réaffirmé par la Grande Chambre dans l'arrêt FG contre Suède, votre Cour ne pourra que constater que l'appréciation effectuée par les autorités françaises compétentes a été adéquate et suffisamment étayée par les données internes et par celles provenant d'autres sources fiables et objectives.
+
+<<1702.85;1725.79;fr>>
+Ces sources sont en particulier constituées par les rapports annuels d'Amnesty International, le rapport de 2016 du département d'État américain, un rapport de 2017 du ministère de l'Intérieur britannique et le rapport du groupe de travail sur l'examen périodique universel de l'Algérie de 2017.
+
+<<1725.79;1744.49;fr>>
+Cette appréciation faite par les autorités françaises quant à l'absence de risque de traitement contraire à l'article 3 ne saurait être remise en cause par les arguments du requérant relatifs à la connaissance par les autorités algériennes de sa condamnation.
+
+<<1744.49;1783.85;fr>>
+Même s'il est établi que les autorités algériennes ont connaissance de la condamnation du requérant, que ce soit du fait de l'application de la Convention consulaire franco-algérienne du 24 mai 1974 mentionnée par le requérant ou à la suite de la note verbale adressée par le gouvernement français le 21 mars 2018 en application de la mesure provisoire prononcée par votre cour, le gouvernement français considère que cette circonstance n'est pas un élément déterminant dans cette affaire.
+
+<<1783.85;1795.05;fr>>
+En effet, il a été établi précédemment que les personnes liées au terrorisme ne sont pas systématiquement exposées à un risque de torture.
+
+<<1795.05;1814.25;fr>>
+Ainsi, le fait que les autorités algériennes aient connaissance de la condamnation du requérant ne saurait caractériser par lui-même l'existence d'un risque pour ce dernier de se voir exposé à un traitement contraire à l'article 3.
+
+<<1814.25;1820.89;fr>>
+Et j'ajoute que les autorités algériennes n'ont démontré aucun intérêt particulier à l'égard du requérant.
+
+<<1820.89;1833.31;fr>>
+Ces autorités n'ont pas demandé son extradition aux autorités françaises, pas plus qu'elles n'ont sollicité copie du jugement de condamnation par le canal de l'entrée judiciaire.
+
+<<1833.31;1854.39;fr>>
+Par ailleurs, comme l'indique la note verbale du ministère des Affaires étrangères algériens du 28 novembre dernier, le requérant ne fait pas l'objet de poursuites judiciaires en Algérie, ce qui signifie, et contrairement à ce que dit le requérant, qu'aucun mandat d'arrêt n'est décerné contre lui.
+
+<<1854.39;1859.85;fr>>
+Il dispose par ailleurs d'un casier judiciaire vierge en Algérie.
+
+<<1859.85;1877.81;fr>>
+Enfin, s'agissant des assurances diplomatiques, il convient de préciser que, à la suite de la demande formulée par votre Cours au stade de la mesure provisoire et de la note verbale française de mars 2018, des contacts de haut niveau ont eu lieu sur ce sujet.
+
+<<1877.81;1886.15;fr>>
+En particulier, une mission interministérielle française s'est rendue en Algérie en septembre 2018 et a pu évoquer la situation du requérant.
+
+<<1886.15;1892.55;fr>>
+Cependant, ces contacts n'ont pas permis l'obtention d'assurances formelles de la part des autorités algériennes.
+
+<<1892.55;1896.45;fr>>
+Le dialogue engagé avec les autorités algériennes se poursuit sur ce sujet.
+
+<<1896.45;1904.79;fr>>
+Pour autant, à la lumière de ces démarches, le gouvernement attire l'attention de votre Cour sur la difficulté d'obtenir de telles assurances.
+
+<<1904.79;1911.35;fr>>
+Une telle démarche peut en effet être perçue par l'Etat concerné comme une remise en cause de sa souveraineté.
+
+<<1911.35;1922.41;fr>>
+Certes, comme le requérant le souligne, les autorités françaises ont obtenu des assurances diplomatiques de la part du Maroc, dans un cas, celui de M. Rafa.
+
+<<1922.41;1936.19;fr>>
+Toutefois, il s'agissait d'une situation différente, puisqu'elle concernait non pas l'Algérie, mais le Maroc, mais surtout parce que les autorités marocaines avaient sollicité l'extradition de M. Rafa
+
+<<1936.19;1943.25;fr>>
+et étaient donc particulièrement intéressés par son retour au Maroc.
+
+<<1943.25;1958.95;fr>>
+En conclusion, le gouvernement ne conteste aucunement le caractère fondamental de la protection offerte par l'article 3 et son caractère universel et indérogeable.
+
+<<1958.95;1987.55;fr>>
+Le gouvernement demande uniquement à votre cours de faire une appréciation rigoureuse et conforme à sa jurisprudence constante des critères d'appréciation des risques invoqués par le requérant afin de ne pas instaurer, en l'absence d'éléments probants, une présomption générale de traitements inhumains et dégradants en Algérie pour tout ressortissant algérien condamné pour terrorisme par un des États partis à la Convention.
+
+<<1987.55;1996.07;fr>>
+L'ensemble des éléments exposés conduisent à conclure à l'absence de violation de l'article 3 de la Convention.
+
+<<1996.07;1996.07;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<2000.59;2002.67;fr>>
+La parole est à Maitre Lantheaume.
+
+[[Applicant;AP2]]
+
+<<2009.09;2014.81;fr>>
+Madame la présidente, mesdames et messieurs les juges, la France vous demande l'impossible.
+
+<<2016.05;2030.53;fr>>
+Elle vous demande de pouvoir renvoyer un homme en Algérie sans avoir la moindre garantie de l'Etat algérien que le requérant sera correctement traité à son arrivée là-bas.
+
+<<2032.05;2044.65;fr>>
+Elle vous demande de pouvoir renvoyer cet homme qui risque d'être soumis à des traitements inhumains et dégradants sans que cela n'ait aucun coût diplomatique pour elle.
+
+<<2046.29;2069.21;fr>>
+Il est pourtant certain que la France a pleinement conscience du fait que rien n'a évolué en Algérie ou si peu depuis vos arrêts d'Aoudi de 2009, Emma de 2018, qui l'ont sanctionné pour avoir prononcé des mesures d'éloignement contre des ressortissants algériens impliqués dans des affaires de terrorisme.
+
+<<2069.41;2082.29;fr>>
+Pour de tels profils de personnes, les organisations internationales, rapport après rapport, signalent les violations graves des droits de l'homme qui se produisent encore en Algérie.
+
+<<2082.49;2091.73;fr>>
+Mais voilà, la France ne veut pas embarrasser ce pays ami avec lequel l'histoire commune est si tumultueuse.
+
+<<2091.73;2106.89;fr>>
+Elle ne veut pas, comme le lui suggère pourtant la Cour, demander à l'Algérie des garanties précises, c'est-à-dire des garanties concrètes, que les ressortissants qu'elle lui renvoie n'y seront pas malmenés.
+
+<<2107.81;2115.37;fr>>
+Le président de la République française, M. Emmanuel Macron, a prononcé un discours ici même,
+
+<<2115.57;2118.53;fr>>
+devant vous, le 31 octobre 2017.
+
+<<2118.53;2122.53;fr>>
+Il a conclu son propos par les termes suivants que je cite.
+
+<<2122.77;2131.57;fr>>
+Faire prévaloir les droits de l'homme est un combat, y compris pour un pays comme la France qui y est viscéralement attaché.
+
+<<2131.77;2136.21;fr>>
+Eh bien oui, faire prévaloir les droits de l'homme, c'est un combat.
+
+<<2136.57;2143.97;fr>>
+Et ce combat, il ne doit pas en rester au stade des mots, il doit également se mener dans l'arène diplomatique.
+
+<<2144.17;2173.01;fr>>
+Et c'est bien parce que la France, bien parce que la France refuse de mener ce combat avec l'Algérie qu'elle fait de vous, juge européen qui devez garantir le respect des droits inscrits dans la Convention, en quelque sorte les arbitres d'un débat qui, en réalité, trouve son origine dans les relations difficiles entre 2 Etats.
+
+<<2173.01;2203.69;fr>>
+Parce que la France craint de froisser l'Algérie en lui demandant des garanties, comme elle l'a fait avec le Maroc dans l'affaire AES en 2018, comme l'avait fait avant elle le Royaume-Uni avec la Jordanie dans l'affaire Hottman en 2012, elle préfère prendre le risque de renvoyer l'euro-kyran en Algérie où il y a des possibilités qu'il soit soumis à des traitements inhumains et dégradants.
+
+<<2203.89;2214.09;fr>>
+Bref, la sécurité d'un homme, son intégrité physique sacrifiée sur l'autel des relations diplomatiques, c'est évidemment inacceptable.
+
+<<2217.09;2226.97;fr>>
+Vous l'avez maintes fois jugé, la prohibition de la torture est absolue et ne souffre aucune dérogation.
+
+<<2226.97;2247.85;fr>>
+Rien ne justifie de faire du mal à un être humain, de le tourmenter, de l'humilier, de lui faire subir des cruautés, quand bien même cet être humain a été impliqué dans une affaire de terrorisme pour laquelle, je rappelle, il a été condamné à une lourde peine d'emprisonnement.
+
+<<2248.05;2257.13;fr>>
+Les Etats de droit se distinguent des dictatures en ceci qu'elles ont fait le choix de bannir la barbarie de leur pratique.
+
+<<2257.37;2269.33;fr>>
+La réponse au terrorisme, évidemment nécessaire, ne peut qu'être encadrée par le droit et conforme aux principes qui font ce que nous sommes.
+
+<<2269.53;2279.89;fr>>
+L'affaire AM contre France pose une problématique particulière que nous pouvons essayer de résumer de la manière suivante.
+
+<<2279.89;2312.97;fr>>
+En matière d'éloignement d'étrangers impliqués dans des affaires de terrorisme, la protection absolue de l'article 3 de la Convention oblige-t-elle les Etats adhérents à obtenir des garanties précises des Etats de renvoi lorsque des sources d'informations générales font état dans ces pays de pratiques contraires à cet article, c'est-à-dire à l'article 3 de la Convention.
+
+<<2313.13;2325.09;fr>>
+C'est donc peut-être la notion de principe de précaution en matière de protection contre les traitements inhumains et dégradants qui est au coeur de cette affaire.
+
+<<2325.29;2344.37;fr>>
+Et nous souhaitons affirmer avec force ici que la situation des droits de l'homme en Algérie étant ce qu'elle est, il appartient à la France d'obtenir des garanties précises de la part de l'Algérie si elle entend y renvoyer le requirant.
+
+<<2344.57;2355.13;fr>>
+L'exigence de telles garanties, peu importe les embarras diplomatiques que cela occasionnerait, découle du caractère sacré de la protection de l'article 3.
+
+<<2356.73;2369.81;fr>>
+Avant d'examiner la question de la situation en Algérie et des craintes personnelles du requirant, un mot sur la recevabilité de la requête qui est contestée par le gouvernement français.
+
+<<2370.05;2371.77;fr>>
+Deux questions se posent.
+
+<<2371.97;2383.13;fr>>
+Premièrement, est-ce que le requirant devait déposer une demande d'asile afin que l'on considère qu'il avait effectivement épuisé les voies de recours internes?
+
+<<2383.33;2393.65;fr>>
+Deuxièmement, si la réponse est oui à la question précédente, était-il en mesure concrètement de formuler cette demande d'asile?
+
+<<2393.65;2405.09;fr>>
+Rappelons d'abord qu'il n'existe actuellement en France aucun recours suspensif de plein droit d'une mesure fixant le pays de destination.
+
+<<2405.25;2406.33;fr>>
+Aucun.
+
+<<2406.53;2426.05;fr>>
+Et c'est bien la raison pour laquelle le gouvernement français tente de démontrer qu'il faudrait en quelque sorte passer par une voie détournée, une demande d'asile, pour combler ce vide juridique et obtenir un effet suspensif à une mesure fixant le pays de destination.
+
+<<2426.27;2444.81;fr>>
+Mais même à suivre un tel raisonnement, il nous semble que le dépôt d'une demande d'asile pour une personne ayant le profil du requirant ne saurait constituer une voie de droit effective, en pratique, et pertinente sur le plan juridique.
+
+<<2445.01;2456.97;fr>>
+Elle n'est pas pertinente en droit, tout d'abord parce que l'objet même d'une demande d'asile n'est absolument pas de faire échec à une mesure fixant le pays de renvoi.
+
+<<2456.97;2495.65;fr>>
+C'est d'ailleurs la raison pour laquelle, en France, lorsqu'un demandeur d'asile qui fait l'objet d'une mesure d'éloignement ou d'une mesure fixant le pays de renvoi dépose une demande d'asile, sa demande d'asile sera traitée en procédure accélérée, c'est-à-dire avec des garanties moindres et dans un délai extrêmement bref, parce que, précisément, l'on considère que cet étranger utilise là un subterfuge pour essayer de bloquer son renvoi dans son pays, autrement dit qu'il utilise là une voie de droit qui n'est pas faite pour ça.
+
+<<2495.65;2525.25;fr>>
+Il faut également bien comprendre que pour une personne condamnée pour des faits en lien avec le terrorisme, l'idée même de déposer depuis sa cellule une demande de protection à l'Etat qui l'a sanctionné pénalement, à l'Etat qui lui a fait interdiction définitive de son territoire et à l'Etat qui souhaite le renvoyer dans son pays, c'est une idée qui est absolument inconcevable.
+
+<<2525.25;2542.65;fr>>
+Considérer qu'une demande d'asile serait une voie de droit pertinente dans ce cas de figure nous paraît révéler une approche qui est purement théorique, purement abstraite de la notion de voie de recours interne.
+
+<<2542.65;2560.65;fr>>
+Une telle voie de droit n'est de toute façon pas effective en pratique pour la simple et bonne raison qu'en France il est extraordinairement difficile, pour ne pas dire totalement impossible, de formuler une demande d'asile depuis une prison.
+
+<<2560.65;2580.85;fr>>
+C'est la raison pour laquelle quasiment aucun étranger ne fait de demande de protection internationale depuis un établissement pénitentiaire et il ne vous aura pas échappé qu'à cet égard, le gouvernement ne fournit aucune statistique sur les éventuelles demandes d'asile faites en prison.
+
+<<2580.85;2607.49;fr>>
+On sait que la Cour a une approche pragmatique de la notion d'épuisement des voies de recours internes et une telle approche nous paraît radicalement incompatible avec l'idée qu'une demande d'asile déposée depuis sa prison par un étranger condamné pour des faits en lien avec le terrorisme puisse constituer une voie de droit adéquate.
+
+<<2607.49;2631.89;fr>>
+Quoi qu'il en soit, comme déjà évoqué, la décision fixant l'Algérie comme pays à destination duquel le requirant allait être renvoyé était exécutoire d'office, c'est-à-dire qu'aucun recours suspensif ne permettait de la bloquer avant l'examen de sa légalité par une juridiction.
+
+<<2631.89;2642.05;fr>>
+En réalité, et c'est tout le paradoxe, le requirant a finalement fait plus qu'il n'était nécessaire du point de vue de la recevabilité.
+
+<<2642.05;2643.09;fr>>
+Pourquoi?
+
+<<2643.09;2663.25;fr>>
+Il a saisi le tribunal administratif de Lyon d'une requête en référé liberté, alors même qu'un tel recours n'est pas suspensif de plein droit et ne constitue pas une voie de recours effective au sens de votre jurisprudence guébrémédine contre France de 2007.
+
+<<2663.25;2680.61;fr>>
+Le juge des référés du tribunal administratif de Lyon a rejeté la requête de MA, de AM, pardon, et il a rejeté cette requête après avoir examiné le grief tiré de la violation de l'article 3.
+
+<<2680.61;2690.89;fr>>
+Ce n'est que postérieurement à cette décision juridictionnelle que nous avons effectivement saisi la cour d'une mesure provisoire.
+
+<<2690.89;2699.01;fr>>
+Dans ces conditions, le requirant a épuisé les voies de recours internes et sa requête était parfaitement recevable.
+
+<<2699.01;2708.25;fr>>
+Madame la présidente, mesdames et messieurs les juges, il faut désormais aborder la question de la situation en Algérie et des craintes personnelles du requirant.
+
+<<2708.25;2711.09;fr>>
+Et sur ce point, je cède la parole à mon confrère, le maître Thomas Fourret.
+
+[[Applicant;AP1]]
+
+<<2723.64;2741.56;fr>>
+Madame la Présidente, Mesdames et Messieurs les Juges, le 13 mars 2018, faisant application de l'article 39 de la Convention, votre Cours a décidé de suspendre la mesure de reconduite prise par le gouvernement français à l'encontre de M. M.
+
+<<2741.56;2759.16;fr>>
+Le même jour, vous invitiez la France à obtenir des autorités algériennes, des garanties précises permettant de s'assurer que le requérant ne serait pas soumis à des traitements contraires aux droits protégés par la Convention après son arrivée dans son pays.
+
+<<2759.16;2770.76;fr>>
+Vous envisagez également, je vous cite, la possibilité pour des membres du personnel diplomatique français de visiter régulièrement ce requérant.
+
+<<2770.76;2783.12;fr>>
+Près d'un an plus tard, au terme de multiples échanges que nous avons eus par écrit devant vous, la France a-t-elle pu répondre à vos demandes et les satisfaire?
+
+<<2783.12;2793.68;fr>>
+Pouvez-vous être absolument certain que le requérant ne sera pas soumis à des mesures contraires à la Convention dès lors qu'il sera sur le territoire algérien?
+
+<<2793.68;2827.08;fr>>
+Car condamner en France en 2015 à une peine de six années d'emprisonnement et à une interdiction du territoire définitive pour des faits d'associations de malfaiteurs à visée terroriste, consistant à avoir notamment fourni une aide logistique à Acme en Algérie, une fois là-bas, notre client sera placé en garde à vue, à l'instar de MA dont vous avez examiné la requête le 1er février 2018.
+
+<<2827.08;2832.88;fr>>
+Cette garde à vue en Algérie pourra durer jusqu'à 12 jours.
+
+<<2832.88;2835.4;fr>>
+Notre client verra-t-il un médecin?
+
+<<2835.4;2838.8;fr>>
+Non, seulement à la fin de la mesure.
+
+<<2838.8;2840.96;fr>>
+Pourra-t-il contacter un proche?
+
+<<2840.96;2843.28;fr>>
+Oui, une seule personne.
+
+<<2843.28;2844.92;fr>>
+Pourra-t-il voir un avocat?
+
+<<2844.92;2854.28;fr>>
+Oui, mais uniquement si le procureur de la République est d'accord et au bout de six jours de garde à vue.
+
+<<2854.28;2870.92;fr>>
+Et uniquement s'il n'a pas contacté un proche, car en Algérie, vous ne pouvez pas contacter un proche et un avocat, c'est l'un ou l'autre, c'est l'article 51 bis du Code de procédure pénale algérien.
+
+<<2870.92;2874.44;fr>>
+Qui interrogera le requérant placé en garde à vue?
+
+<<2874.44;2886.96;fr>>
+Il sera, j'ouvre les guillemets, mis à la disposition des services de sûreté, comme l'a indiqué dans sa note le gouvernement algérien à propos de MA.
+
+<<2886.96;2899.2;fr>>
+Ces services de sûreté, ce ne sera pas le tristement renommé DRS, département du renseignement et de la sécurité, qui a été dissous en janvier 2016.
+
+<<2899.2;2902.12;fr>>
+Ce service a-t-il été remplacé?
+
+<<2902.12;2904.64;fr>>
+Oui, par un autre service.
+
+<<2904.64;2907.32;fr>>
+Simplement, une lettre a changé.
+
+<<2907.32;2910.36;fr>>
+On a remplacé le R par le S.
+
+<<2910.36;2921.48;fr>>
+Il s'agit désormais du DSS, département des services de sécurité, qui est directement rattaché au président Bouteflika.
+
+<<2921.48;2943.56;fr>>
+Or, dans un rapport présenté au Comité des droits de l'homme en vue de l'examen du rapport périodique de l'Algérie, l'organisation Amnesty International s'est interrogée sur la réalité de la disparition de ce service, stigmatisant le fait que ce nouveau service, ce DSS, s'adresse directement au président.
+
+<<2943.56;2970.52;fr>>
+Par ailleurs, on ne sait pas avec précision quelles sont les nouvelles fonctions de ce service, car en outre, le décret de destitution de celui qui dirigeait le DSS, un certain médium plus connu sous le nom de général Toufique, n'a à ce jour, en 2019, toujours pas été publié.
+
+<<2970.52;2993.96;fr>>
+Au cours de cette procédure, devant vous, la France a-t-elle été en mesure de vous apporter de la part d'un pays avec lequel elle entretient, ce sont ses propres termes, d'excellentes relations diplomatiques et avec lesquelles les échanges en matière de coopération judiciaire sont, là encore, je les cite, à la fois denses et de grande qualité?
+
+<<2993.96;2999.2;fr>>
+La France vous a-t-elle présenté des garanties sérieuses?
+
+<<2999.2;3001.0;fr>>
+Il semble que non.
+
+<<3001.0;3015.36;fr>>
+Pourtant, votre cours, ainsi que la rappelée mon confrère, dans sa jurisprudence, a adressé ce qu'on pourrait appeler une sorte de vademécom aux États afin de se conformer à l'article 3 de la Convention.
+
+<<3015.36;3018.16;fr>>
+Ainsi, la question est la suivante.
+
+<<3018.16;3031.48;fr>>
+Pourquoi la France n'a-t-elle pas obtenu des garanties à l'inscart de celles fournies par le Royaume-Uni auprès de la Jordanie, ces garanties que vous avez qualifiées vous-mêmes de, je vous cite, transparentes et précises?
+
+<<3031.48;3034.2;fr>>
+Transparentes et précises.
+
+<<3034.2;3051.0;fr>>
+Pareillement, dans votre arrêt du 6 janvier 2015, à Swat contre le Royaume-Uni, la Cour avait considéré que le Royaume-Uni et les États-Unis lui avaient fourni des assurances, je vous cite, complètes et spéciales sur les conditions dans lesquelles le requérant serait détenu aux États-Unis.
+
+<<3051.0;3056.24;fr>>
+Transparentes, précises, complètes et spéciales.
+
+<<3056.24;3061.84;fr>>
+Ce sont ces garanties que vous avez demandées et que vous exigez de la part de la France.
+
+<<3061.84;3080.76;fr>>
+La question qui se pose également est de savoir si l'Algérie a pris, j'ouvre les guillemets, des actions concrètes, des actions concrètes, selon les termes que vous avez employés récemment dans votre arrêt AS contre France concernant le Maroc.
+
+<<3080.76;3096.48;fr>>
+Que s'est-il passé en Algérie en trois ans depuis 2016, date des rapports qui ont fondé votre décision, l'EMA contre France du 1er février 2018?
+
+<<3096.48;3106.36;fr>>
+Simplement, à titre liminaire, nous évacuerons une question que vous avez posée aux deux récurrents et à laquelle le gouvernement l'a reconnue, nous avons répondu.
+
+<<3106.36;3113.24;fr>>
+L'État algérien, la question est la suivante, l'État algérien a-t-il eu connaissance de la condamnation en France de M. M.
+
+<<3113.24;3117.36;fr>>
+pour des faits de terrorisme et de son incarcération?
+
+<<3117.36;3127.2;fr>>
+Oui, nécessairement, parce que les textes français et les engagements existants entre la France et l'Algérie que nous vous avons communiqués le précisent.
+
+<<3127.2;3136.52;fr>>
+La France, tout au long de la procédure, n'ayant pour sa part pas jugé utile de vous les transmettre, c'est nous qui vous les avons transmis.
+
+<<3136.52;3148.72;fr>>
+Ainsi, ainsi que l'a rappelé le gouvernement, une convention franco-algérienne du 24 mai 1974 dispose que les autorités consulaires sont averties de l'incarcération de leurs ressortissants en France et des motifs de celle-ci.
+
+<<3148.72;3167.16;fr>>
+En outre, une circulaire du ministère de la Justice français du 18 septembre 2007 prévoit également que les autorités consulaires seront informées par le procureur de la République de la remise en liberté de leurs ressortissants.
+
+<<3167.16;3177.12;fr>>
+Les autorités algériennes, avant même cette procédure devant vous, savent que notre client a été détenu.
+
+<<3177.12;3180.12;fr>>
+Depuis quand? Pourquoi?
+
+<<3180.12;3183.08;fr>>
+Et à quelle date il a terminé sa peine?
+
+<<3183.08;3187.08;fr>>
+À quelle date il est sorti de détention?
+
+<<3187.08;3193.64;fr>>
+Elles le savent aussi parce que la procédure pénale de M. M. a été médiatisée en France et en Algérie.
+
+<<3193.64;3202.64;fr>>
+Nous avons transmis de multiples articles de sites français, algériens, européens, évoquant notamment son interpellation.
+
+<<3202.64;3211.2;fr>>
+Dans ces écritures, le gouvernement français relève que ces articles, et c'est vrai, ne comportent pas le nom complet du requérant.
+
+<<3211.2;3222.4;fr>>
+En effet, dans cet article, il est anonymisé, je ne vais pas vous le citer puisque la procédure est anonyme, mais figure uniquement le prénom et la première lettre du nom de notre client.
+
+<<3222.4;3229.76;fr>>
+Nous n'avons pas fait, nous avons été quelque peu surpris par l'argument repris par le gouvernement à ce sujet, mettant en cause nos recherches.
+
+<<3229.76;3232.76;fr>>
+Nous n'avons pas fait de copie-écran de ces recherches.
+
+<<3232.76;3242.24;fr>>
+Mais voilà, je vous demande de nous croire, évidemment, lorsqu'on entre le nom de notre client sur les moteurs de recherche, on tombe sur ces articles.
+
+<<3242.24;3248.6;fr>>
+Comment, comment autrement aurions-nous pu avoir ces articles?
+
+<<3248.6;3252.8;fr>>
+Les autorités algériennes connaissent donc le requérant.
+
+<<3252.8;3260.96;fr>>
+Et inévitablement, inévitablement, ce dernier les intéresse.
+
+<<3260.96;3270.72;fr>>
+En effet, et c'est là, et c'est là la particularité de cette procédure, de ce dossier, la situation de M. M. est particulière,
+
+<<3270.72;3296.56;fr>>
+car il a été condamné en France, non pas, non pas pour avoir été en lien avec des activistes islamistes en France, mais uniquement, car son objectif, en 2012, en 2013, jusqu'à son interpellation, était de soutenir Acme sur le territoire algérien.
+
+<<3296.56;3310.56;fr>>
+Il a ainsi, et ça figure au réquisitoire définitif, au jugement correctionnel que nous vous avons transmis, il a ainsi adressé du matériel, des vêtements, de l'argent à cette organisation.
+
+<<3310.56;3329.16;fr>>
+L'instruction judiciaire française a montré qu'il était ainsi le correspondant privilégié, unique, en France, comptable et cadre important de Acme, qui est toujours inscrit à ce jour sur la liste de l'ONU des sanctions d'Al Qaïda depuis 2008.
+
+<<3329.16;3338.6;fr>>
+Au final, notre client a été interpellé en juin 2013, alors qu'il devait se rendre en Tunisie.
+
+<<3338.6;3348.0;fr>>
+Il souhaitait en effet rejoindre l'Algérie, mais via la Tunisie, pour ne pas être identifié par les autorités algériennes.
+
+<<3348.0;3358.48;fr>>
+Donc l'Algérie sait, et au regard de ce que le requérant a fait, et il est évident qu'elle souhaite l'entendre et éventuellement le poursuivre.
+
+<<3358.48;3369.2;fr>>
+En réponse, il vous a été produit par la France une note verbale de l'Algérie en date du 29 novembre 2018.
+
+<<3369.2;3381.72;fr>>
+Cependant, il ne vous aura pas échappé que le contenu de cette note qui vous a donc été produit le 18 décembre dernier est pour le moins si bien.
+
+<<3381.72;3392.0;fr>>
+En effet, l'Algérie écrit dans cette note que, M. M. ne fait l'objet d'aucune poursuite judiciaire en Algérie,
+
+<<3392.0;3396.16;fr>>
+ouvrez la parenthèse, si joint l'extrait du casier judiciaire.
+
+<<3396.16;3398.28;fr>>
+Fermez la parenthèse.
+
+<<3398.28;3404.08;fr>>
+On notera tout d'abord que cet extrait de casier judiciaire a été établi le 12 avril 2018.
+
+<<3404.08;3412.84;fr>>
+Ceci signifie que la France a pris attache avec l'Etat algérien à propos du requérant dès le prononcé de la mesure de suspension de la reconduite.
+
+<<3412.84;3424.92;fr>>
+C'est le seul document que la France peut produire aujourd'hui, et l'Algérie l'a depuis le mois d'avril.
+
+<<3424.92;3437.76;fr>>
+Sur le fond, évidemment, un casier judiciaire vierge ne signifie pas que la personne n'est pas poursuivie sur place.
+
+<<3437.76;3451.84;fr>>
+Comme je voulais rappeler, la phrase de l'Algérie, la phrase de l'Etat algérien de cette note verbale est pour le moins ambiguë, ne fait l'objet d'aucune poursuite judiciaire en Algérie, et fait référence à un casier judiciaire.
+
+<<3451.84;3456.04;fr>>
+Les deux notions sont indépendantes, n'ont rien à voir.
+
+<<3456.04;3463.0;fr>>
+L'absence de casier judiciaire ne démontre pas qu'il n'y a pas de poursuite contre notre client.
+
+<<3463.0;3480.68;fr>>
+Vous n'avez donc pas la preuve que le requérant n'est pas poursuivi ou susceptible d'être poursuivi sur les territoires algériens, alors que l'Etat français dispose de tous les moyens pour le prouver.
+
+<<3480.68;3484.68;fr>>
+Nous avons ainsi pu démontrer devant vous que M. M. sera interrogé en Algérie
+
+<<3484.68;3505.72;fr>>
+parce que c'est plus que plausible au regard des faits pour lesquels il a été jugé et les personnes qu'il a côtoyées, et aussi, et c'est là encore une des particularités de ce dossier, parce qu'il le dit lui-même en 2013 au cours des conversations téléphoniques qu'il a lui-même avec ses correspondants algériens.
+
+<<3505.72;3517.84;fr>>
+Ces conversations téléphoniques ont été interceptées, il le dit à deux reprises, je sais que je suis recherché en Algérie, je sais que je suis recherché en Algérie.
+
+<<3517.84;3539.32;fr>>
+Et le procureur de la République, le procureur de la République du tribunal de Paris en charge du terrorisme, le relève lui-même dans son réquisitoire, et c'est la raison pour laquelle le requérant ne souhaite pas passer par l'Algérie, il souhaite passer par la Tunisie parce qu'il se sait recherché.
+
+<<3539.32;3559.48;fr>>
+S'agissant maintenant de la situation en Algérie, celle-ci a-t-elle, pour reprendre les termes d'une question que vous nous avez posée, a-t-elle significativement évolué, significativement évolué depuis votre décision du 1er février 2018?
+
+<<3559.48;3585.72;fr>>
+Ainsi que l'a rappelé le gouvernement, vous aviez notamment confondé votre condamnation sur des rapports d'Amnesty International datant du 25 avril 2015 et du 24 février 2016, qui indiquaient que les autorités algériennes avaient, j'ouvre les guillemets, refusé d'autoriser l'accès au pays à des organes experts des Nations unies dans le domaine des droits de l'homme, notamment ceux chargés de la torture et de la lutte contre le terrorisme.
+
+<<3585.72;3612.72;fr>>
+Or, deux ans plus tard, en juin 2018, la Ligue algérienne pour la défense des droits de l'homme et l'organisation Euromètre Droits écrivait dans leur rapport remis au Comité des droits de l'homme, j'ouvre les guillemets, il est impossible, il est impossible de vérifier s'il y a eu des cas de torture et de maltraitance en Algérie, en particulier dans les commissariats de police.
+
+<<3612.72;3621.4;fr>>
+Les lieux de garde à vue n'ont jamais été ouverts aux associations des droits humains ou de la société civile.
+
+<<3621.4;3635.72;fr>>
+De même, le Comité des droits de l'homme des Nations unies avait interrogé les autorités algériennes dans la cadre de la préparation du quatrième rapport périodique qui vous a été cité par le gouvernement et qui, ce rapport, a été remis le 26 juillet 2018.
+
+<<3635.72;3655.2;fr>>
+Ainsi, préalablement à ce rapport, le 11 décembre 2017, il avait été demandé aux autorités algériennes si les agents, je cite encore, si les agents de force de police pratiquaient encore la torture, notamment dans le cadre de la lutte contre le terrorisme, le 11 décembre 2017.
+
+<<3655.2;3657.56;fr>>
+C'est la question posée aux autorités algériennes.
+
+<<3657.56;3666.96;fr>>
+Pour seule réponse, les autorités algériennes, le 2 mai 2018, se sont contentées de citer des dispositions constitutionnelles et législatives.
+
+<<3666.96;3682.36;fr>>
+Pareil, il avait été demandé de préciser si ce fameux DRS avait effectivement été dissous et précisé les fondements juridiques et les attributions de l'institution remplaçante.
+
+<<3682.36;3684.64;fr>>
+Le gouvernement ne répondait pas.
+
+<<3684.64;3700.4;fr>>
+En conséquence, au terme de son examen, alors qu'on attendait un tel rapport depuis 2011, ce retard est tendu à l'absence de coopération de la part des autorités algériennes avec l'ONU.
+
+<<3700.4;3704.84;fr>>
+Le comité des droits d'hommes conclut s'agissant de la torture.
+
+<<3704.84;3712.08;fr>>
+L'article 263 bis du Code pénal donne une définition incomplète de celle-ci et non conforme au pacte.
+
+<<3712.08;3719.0;fr>>
+Faisant suite aux déclarations du représentant du gouvernement algérien, le comité a pris note que cette pratique restait résiduelle.
+
+<<3719.0;3737.6;fr>>
+Le comité demeure préoccupé par les allégations faisant état de torture ou mauvais traitement qui continuent d'être pratiquées en particulier par les agents du nouveau département de surveillance, de sécurité et notamment dans le domaine de la lutte contre le terrorisme.
+
+<<3737.6;3741.28;fr>>
+Où sont ces garanties que vous exigez?
+
+<<3741.28;3748.4;fr>>
+La plus haute instance onusienne en matière des droits de l'homme les recherche aussi.
+
+<<3748.4;3762.84;fr>>
+La France, elle pourtant si proche de l'Etat algérien, qui dispose d'un magistrat de liaison sur place depuis 2009, se refonde uniquement sur des rapports du département d'Etat américain, selon lequel il n'y aurait pas eu d'informations sur des cas de torture en 2017.
+
+<<3762.84;3777.28;fr>>
+Pourtant, si vous lisez ce rapport dans le détail, vous le ferez dans le passage suivant ce rapport, on peut lire que les ONG dénonçaient que des officiels employaient des traitements dégradants au fin d'obtenir des aveux.
+
+<<3777.28;3782.84;fr>>
+Aucune garantie sérieuse n'existe donc.
+
+<<3782.84;3789.72;fr>>
+Il est certain que si les hommes torturent, c'est parce qu'un système leur permet de le faire.
+
+<<3789.72;3791.48;fr>>
+C'est le droit qui fait changer les pratiques.
+
+<<3791.48;3793.28;fr>>
+Elles ne changent pas toutes seules.
+
+<<3793.28;3797.48;fr>>
+Il faut un contrôle, un contrepoids, un équilibre. Il ne suffit pas
+
+<<3797.48;3803.04;fr>>
+que les droits soient prévus dans les textes, il faut qu'ils soient effectifs. A-t-on plus de droits
+
+<<3803.04;3807.8;fr>>
+aujourd'hui en Algérie qu'en 2015, lorsqu'on est en placé en garde à vue?
+
+<<3807.8;3812.6;fr>>
+Notre client aura-t-il plus de droits que Emma? Les abus seront-ils
+
+<<3812.6;3815.44;fr>>
+possibles parce que cachés?
+
+<<3815.44;3822.64;fr>>
+Pour ce qui concerne la prohibition de la torture, rien de neuf, rien de nouveau. Elle est prévue
+
+<<3822.64;3826.4;fr>>
+en Algérie depuis 2004. La peine de mort?
+
+<<3826.4;3829.72;fr>>
+Un moratoire existe depuis 1993.
+
+<<3829.72;3832.24;fr>>
+Alors, qu'est-ce qui a changé en Algérie?
+
+<<3832.24;3840.0;fr>>
+Selon la France, il y aurait eu deux changements significatifs faisant de l'Algérie un état respectueux des droits des personnes.
+
+<<3840.0;3852.56;fr>>
+Ces changements sont les suivants, c'est simple, la mise en place d'une nouvelle instance en charge des droits de l'homme et l'évolution de la procédure pénale, ainsi que cela vous a été rappelé par le gouvernement, résultant d'une loi due 23 juillet 2015.
+
+<<3852.56;3861.88;fr>>
+Parlons d'abord de cette loi, dont faisait déjà état Amnesty International dans son rapport 2017, que vous citiez dans votre arrêt du 1er février 2018.
+
+<<3861.88;3864.36;fr>>
+Quels en sont les avancées?
+
+<<3864.36;3866.08;fr>>
+Réduire la durée de la garde à vue?
+
+<<3866.08;3869.4;fr>>
+Non, le délai de douze jours existait auparavant.
+
+<<3869.4;3871.44;fr>>
+Voir un médecin? Oui, mais pas quand
+
+<<3871.44;3876.6;fr>>
+la garde à vue le demande, uniquement à la fin de la mesure.
+
+<<3876.6;3885.68;fr>>
+Or, il ne vous échappera pas qu'un médecin est utile lorsqu'il intervient à la demande de la personne, lorsqu'il souhaite être soigné, pris en charge, soulagé s'il souffre.
+
+<<3885.68;3889.0;fr>>
+À quoi sert un médecin qui intervient après?
+
+<<3889.0;3891.32;fr>>
+À quoi sert-il?
+
+<<3891.32;3901.68;fr>>
+S'agissant de la présence de l'avocat, le garde à vue peut voir son client, mais seulement au bout de six jours, et seulement si le procureur est d'accord.
+
+<<3901.68;3907.56;fr>>
+Vous releviez dans votre arrêt MA que les personnes placées en garde à vue, citant de rapport, n'avaient pas de contacts à l'extérieur.
+
+<<3907.56;3909.88;fr>>
+C'était dans votre paragraphe 54.
+
+<<3909.88;3916.72;fr>>
+Aujourd'hui, pratiquement trois ans plus tard, elles n'en ont qu'un seul.
+
+<<3916.72;3922.8;fr>>
+La loi du 23 juillet 2015 n'a donc pas modifié substantiellement la garde à vue en Algérie.
+
+<<3922.8;3929.88;fr>>
+Pendant 12 jours, notre client sera donc seul face à la direction des services de la sécurité.
+
+<<3929.88;3931.16;fr>>
+Deuxième point.
+
+<<3931.16;3936.44;fr>>
+Selon la France, l'Algérie se serait dotée d'un organe de contrôle indépendant en matière des droits de l'homme.
+
+<<3936.44;3945.76;fr>>
+Par une loi du 3 novembre 2016, a ainsi été créé le CNDH, Conseil national des droits de l'homme, qui est opérationnel depuis le 9 mars 2017.
+
+<<3945.76;3953.04;fr>>
+Cet organisme a succédé à un autre qui s'appelait la Commission nationale consultative de promotion et de protection des droits de l'homme.
+
+<<3953.04;3962.84;fr>>
+Pour mémoire, cette commission avait écrit dans son dernier rapport, avant qu'elle disparaisse, que l'année 2016 avait constitué, je cite, une année charnière et phare pour les droits de l'homme en Algérie.
+
+<<3962.84;3965.68;fr>>
+Une année charnière et phare.
+
+<<3965.68;3972.04;fr>>
+Quant à ce nouveau comité, le CNDH, a publié l'an passé son premier rapport annuel relatif à l'année 2017.
+
+<<3972.04;3975.44;fr>>
+Maître Lentot, mais moi, en avons lu les 140 pages.
+
+<<3975.44;3978.0;fr>>
+Les 140 pages. Nous vous l'avons produit.
+
+<<3978.0;3982.28;fr>>
+Je ne vous ferai lecture que de quelques lignes, celles consacrées au terrorisme.
+
+<<3982.28;3992.04;fr>>
+On y apprend ainsi que, je vous ouvre les guillemets, page 26, l'Algérie est devenue une référence internationale dans la manière de lutter contre le terrorisme.
+
+<<3992.04;3995.72;fr>>
+Une référence internationale. Rien d'autre.
+
+<<3995.72;3997.72;fr>>
+Pas un mot sur la procédure pénale.
+
+<<3997.72;4005.72;fr>>
+Sauf pour estimer que, je vous ouvre les guillemets, les dispositions du code de procédure pénale sont une étape positive et hautement appréciable.
+
+<<4005.72;4006.8;fr>>
+Page 19.
+
+<<4006.8;4010.4;fr>>
+Rien sur d'éventuels mauvais traitements ou sur des enquêtes en cours à ce sujet.
+
+<<4010.4;4017.52;fr>>
+En outre, l'une des missions du CNDH, ainsi que le relève le gouvernement, est de visiter les lieux de détention et les lieux de garde à vue.
+
+<<4017.52;4019.8;fr>>
+Cette mission ne figure même pas dans le rapport.
+
+<<4019.8;4022.48;fr>>
+Il n'en parle même pas.
+
+<<4022.48;4036.4;fr>>
+Cet organisme se livre tout simplement d'un plaidoyer pronomo et au profit de l'Etat algérien, étant précisé que l'ensemble des membres de ce comité sont nommés directement par le président de la République, selon l'article 12 de la loi l'ayant créé.
+
+<<4036.4;4042.0;fr>>
+Il n'est donc pas étonnant que cet organisme, soit classé B, soit non conforme partiellement au principe de Paris.
+
+<<4042.0;4049.16;fr>>
+Enfin, nous vous rappelons que l'Algérie n'a toujours pas ratifié le procès facultatif à la Convention contre la torture signée en 2002.
+
+<<4049.16;4063.8;fr>>
+Donc non, il n'y a eu aucune action concrète de la part de l'Etat algérien pour prévenir tout acte inhumain ou dégradant à la compte d'une personne poursuivie pour terrorisme.
+
+<<4063.8;4070.12;fr>>
+Très peu de choses ont changé depuis votre dernière décision.
+
+<<4070.12;4072.84;fr>>
+J'en arrive au terme de mes observations.
+
+<<4072.84;4084.28;fr>>
+Aujourd'hui, la Cour, votre Cour, se trouve face à un silence assourdissant tant des autorités françaises qu'algériennes.
+
+<<4084.28;4097.72;fr>>
+La France n'a pas été en mesure d'obtenir des garanties sérieuses, certaines, de la part d'un pays dont, rappelons-le, le président de la République ne s'est pas exprimé en public depuis 2012 et briguera un nouveau mandat en avril prochain.
+
+<<4097.72;4107.96;fr>>
+Il a été produit, ainsi que cela a été rappelé, un tableau recensant les reconduites d'Algériens condamnés pour des faits de nature terroriste.
+
+<<4107.96;4117.72;fr>>
+Que des Algériens aient été reconduits et que cela se soit passé sans difficulté, cela est tout à fait plausible.
+
+<<4117.72;4136.08;fr>>
+Cependant, il serait absolument malhonnête, intellectuellement, de vouloir comparer des situations, de faire état des procédures dont on ne connaît rien, pour reprendre les termes de votre arrêt MA, des situations dénuées de toute précision.
+
+<<4136.08;4142.88;fr>>
+On ne sait rien de ce qui a été reproché, de quelle est la situation de ces autres personnes.
+
+<<4142.88;4150.76;fr>>
+Par ailleurs, l'Inta français vient vous dire, par vos décisions, vous édicteriez une impossibilité générale d'expulser des Algériens condamnés pour terrorisme.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<4150.75;4154.43;fr>>
+Maître, veillez venir à la fin s'il veux plaît.
+
+[[Applicant;AP1]]
+
+<<4154.65;4162.21;fr>>
+Oui, que les choses soient claires, quelle que soit votre décision, il y aura d'autres Algériens condamnés pour terrorisme qui seront renvoyés vers l'Algérie.
+
+<<4162.97;4171.13;fr>>
+Votre cour, si elle devait faire droit à notre requête, n'empêcherait pas de facto et d'aillurer la France de procéder à l'expulsion d'Algériens.
+
+<<4171.85;4172.77;fr>>
+Ce débat n'a pas lieu d'être.
+
+<<4173.77;4184.73;fr>>
+Pareillement, la question de l'acceptabilité sociale, ce concept ô combien creux et malléable qui est mis en avant n'est qu'un rideau de fumée destiné à brouiller notre perception.
+
+<<4184.97;4190.57;fr>>
+Votre arrêt n'aura pas pour conséquence une multiplication des Algériens assignés à résidence sur le territoire français.
+
+<<4191.21;4194.49;fr>>
+Il vous est simplement demandé de considérer la situation de M. M.
+
+<<4195.33;4200.65;fr>>
+au regard de ce qu'il a fait ici, en Algérie, et au regard de ce qui a concrètement évolué là-bas.
+
+<<4202.69;4208.89;fr>>
+La France, dans cette procédure, note-le, a respecté l'article 34 en suspendant la reconduite de M. M.
+
+<<4208.89;4213.65;fr>>
+Ce dernier va regarder, cet après-midi, la vidéo de votre audience.
+
+<<4214.13;4218.37;fr>>
+Nous avions envisagé qu'il se présente devant vous, mais il a préféré garder l'anonymat.
+
+<<4218.61;4221.93;fr>>
+Il réside à 200 km d'ici, en France.
+
+<<4221.93;4225.97;fr>>
+Faites que cette dernière respecte pleinement l'article 3.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<4230.92;4233.32;fr>>
+Merci pour vos interventions.
+
+<<4233.32;4241.84;fr>>
+J'invite maintenant les juges de la Chambre qui le souhaitent à poser leurs questions au parti, juge Kucsko-Stadlmayer.
+
+[[Judge;Gabriele Kucsko-Stadlmayer]]
+
+<<4243.88;4245.8;fr>>
+Merci, Mme la Présidente.
+
+<<4245.99;4252.72;fr>>
+Mes premières questions concernent l'épuisement des voies de recours internes et s'adressent au recoeurant.
+
+<<4252.91;4263.68;fr>>
+Maître Lantheaume, le requérant a déposé sa demande d'asile le 19 mars 2018 lors de sa détention administrative.
+
+<<4263.88;4273.52;fr>>
+Y'eu égard qui'il bénéficiait des conseils de son avocat, pourquoi n'a-t-il pas formé une demande d'asile avant de saisir la cour?
+
+<<4273.52;4276.6;fr>>
+Avec sa demande de mesures provisoires?
+
+<<4276.8;4287.68;fr>>
+Et en plus, pourquoi le requérant n'a-t-il pas fait appel de l'ordonnance du juge des référés du tribunal administratif en date du 8 mars 2018?
+
+<<4287.88;4293.52;fr>>
+Y'eu égard ou délai qui séparait cette date du jour de sa délibération?
+
+<<4296.95;4302.68;fr>>
+Et maintenant, mes questions concernent le grief tiré de l'article 3 de la Convention.
+
+<<4302.68;4306.03;fr>>
+Ces questions s'adressent aux deux parties.
+
+<<4306.23;4334.95;fr>>
+Concernant la situation générale en Algérie, est-ce qu'il y a des éléments qui indiquent que des personnes liées au terrorisme ont subi en 2017 ou en 2018 des mauvais traitements en détention de la part des autorités algériennes, en particulier des personnes avec lesquelles le requérant était en contact en Algérie au moment des faits ayant abouti sa condamnation pénale?
+
+<<4335.68;4349.8;fr>>
+Et concernant les circonstances de l'espèce, existent-il des raisons de penser que le recoeurant est soupçonné par les autorités algériennes d'infractions liées au terrorisme en Algérie?
+
+<<4350.36;4367.11;fr>>
+Et existent-il des raisons de penser, des indices que le requérant est actuellement recherché hors procédure judiciaire par des services de sécurité, notamment par le DSS, la Direction des services de sécurité?
+
+<<4367.36;4371.84;fr>>
+Et ma dernière question s'adresse uniquement au gouvernement.
+
+<<4372.88;4381.76;fr>>
+Quelle institution indépendante pourrait, le cas échéant, rendre visite au requérant s'il venait à être privé de liberté?
+
+<<4381.76;4381.76;fr>>
+Merci.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<4385.47;4387.31;fr>>
+Maintenant, juge O’Leary.
+
+[[Judge;Síofra O’Leary]]
+
+<<4389.55;4391.03;fr>>
+Merci beaucoup, Madame la Présidente.
+
+<<4392.07;4395.43;fr>>
+J'ai plusieurs questions sur la récivilité et aussi sur le fond.
+
+<<4396.15;4401.35;fr>>
+Les deux premières questions, ce sont pour le gouvernement, à l'égard de l'épuisement.
+
+<<4402.83;4424.99;fr>>
+Le gouvernement défendeur soutient-il qu'une demande d'asile, dans un cas comme celui-ci, c'est-à-dire où une ITF est suivie plusieurs années plus tard par un arrêté fixant le pays de destination, est la seule voie de recours effective ou s'agit-il d'une voie effective parmi d'autres?
+
+<<4426.59;4458.43;fr>>
+Dans ce même contexte, une deuxième question pour le gouvernement, est-ce que cette répartition de compétences qu'on voit dans ce dossier entre le juge judiciaire qui impose l'ITF mais ne peut pas l'examiner à l'aune de l'article 3 de la Convention et le juge administratif qui peut entamer un tel examen, mais seulement lorsqu'une décision administrative fixant le pays de renvoi est prise, est-ce que cette répartition de compétences ne crée pas un vrai imbroglio?
+
+<<4459.43;4475.07;fr>>
+Elle semble en pratique priver d'effets suspensifs le recours contre la décision fixant le pays de renvoi autrement prévu par l'article 513-3 du CECEDA.
+
+<<4475.07;4478.91;fr>>
+Bien sûr, je pose cette question en tant que juge non français.
+
+<<4478.91;4488.03;fr>>
+La troisième question visant l'épuisement et pour le récréant, mais bien sûr, les deux parties sont invitées à répondre s'ils veulent aux questions posées.
+
+<<4488.03;4495.67;fr>>
+Et cette question reprend un point déjà soulévé par mon collègue, Madame Kucsko-Stadlmayer.
+
+<<4495.67;4513.23;fr>>
+Ayant choisi la voie de juge administratif en l'espèce pour faire obstacle à l'arrêté fixant le pays de renvoi, pourquoi le requérant n'a-t-il pas introduit un recours contre cet refus par le juge de référer liberté devant le Conseil d'État?
+
+<<4513.23;4521.83;fr>>
+Et, sauf erreur de ma part, le Conseil d'État aurait pu également statuer avant son renvoi programmé en Algérie.
+
+<<4521.83;4525.55;fr>>
+J'ai deux questions sur le fond.
+
+<<4525.55;4530.15;fr>>
+Les deux parties sont invitées à répondre.
+
+<<4530.15;4533.87;fr>>
+Je reprends un point soulévé par le gouvernement défendeur d'abord.
+
+<<4533.87;4551.15;fr>>
+Le juge de référer liberté, l'OFPRA, la Cour nationale du droit d'asile, le tribunal administratif de Lille ont tous statué dans le même sens, à savoir en refusant les recours du requérant en l'absence du risque allégué par lui.
+
+<<4551.15;4553.19;fr>>
+Alors, ma question est très simple.
+
+<<4553.19;4560.71;fr>>
+Pourquoi la Cour devrait-elle aujourd'hui statuer autrement compte tenu des principes établis dans sa jurisprudence?
+
+<<4560.71;4570.03;fr>>
+Et je cite entre autres l'arrêt Saadi, l'arrêt Géquet contre Suède, voire même l'arrêt Douadie contre France.
+
+<<4570.03;4586.91;fr>>
+Et j'invite les deux parties à prendre position sur le fait qu'à la différence de la présente affaire, dans l'affaire Douadie contre France, la CN2A, sauf erreur de ma part, a bien constaté l'existence du risque allégué par le récréant.
+
+<<4586.91;4588.87;fr>>
+Dernière question.
+
+<<4588.87;4611.23;fr>>
+Compte tenu de la puissance des moteurs de recherche comme Google aujourd'hui, quelle est la valeur lors de l'appréciation globale entamée par la Cour du critère relatif à la médiatisation de la situation du récréant dont vous avez tous les deux parlé?
+
+<<4611.23;4611.23;fr>>
+Je vous remercie.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<4615.47;4616.51;fr>>
+Merci, juge Potocki.
+
+[[Judge;André Potocki]]
+
+<<4618.71;4620.43;fr>>
+Merci, Madame la Présidente.
+
+<<4620.43;4631.39;fr>>
+Merci aux partis qui nous ont donné, par l'intermédiaire de leurs représentants, des explications particulièrement riches et intéressantes qui nourriront notre délibéré.
+
+<<4631.39;4639.75;fr>>
+Permettez-moi de réagir de façon assez spontanée à certains des débats qui se sont exprimés devant nous.
+
+<<4639.75;4661.27;fr>>
+Tout d'abord, s'agissant de la recevabilité, je dois dire que j'ai été un peu surpris par les termes utilisés par le représentant du requérant qui qualifiait le recours à la demande d'asile d'une conception théorique d'un recours.
+
+<<4661.27;4671.87;fr>>
+Est-ce qu'on ne pourrait pas dire au contraire que, théoriquement, ce n'est pas fait pour ça, mais qu'au fond, pratiquement, cela sert le plus souvent à cela d'abord?
+
+<<4671.87;4711.67;fr>>
+Et notamment, est-ce qu'on peut considérer qu'il est purement théorique de soumettre son cas à l'OFPRA alors qu'on sait, comme l'a rappelé le gouvernement, que l'OFPRA examine notamment le risque de violation de l'article 3 en cas de renvoi et que s'il constate, comme c'est le cas assez souvent, que ce risque existe, même s'il ne peut accorder l'asile, le mécanisme ou l'énoncé de l'article L5132 du CEDESA empêche le renvoi de cet étranger?
+
+<<4711.67;4723.95;fr>>
+De telle sorte que la question que je me pose, c'est lorsque vous qualifiez de conception théorique le recours à cette demande d'asile, est-ce que vous contestez cette possibilité?
+
+<<4723.95;4743.39;fr>>
+Est-ce que vous estimez que, contrairement à ce que a dit le gouvernement, soit l'OFPRA n'examine pas le danger de violation de l'article 3 lorsque ce danger est invoqué ou que, lorsque ce danger est constaté par l'OFPRA, l'application de l'article 5132 n'est pas respectée?
+
+<<4743.39;4747.03;fr>>
+Donc voilà ma question.
+
+<<4747.03;4781.99;fr>>
+De même que je n'ai pas exactement compris pourquoi vous considériez qu'il était inconcevable que quelqu'un qui a été condamné pour terrorisme demande à bénéficier de l'asile, je n'ai pas compris si c'était par une sorte de volonté de cohérence, c'est-à-dire j'ai porté atteinte à des principes fondamentaux de sécurité au sein de ce pays et je ne peux pas, sans contradiction, lui demander de m'accorder l'asile.
+
+<<4781.99;4795.83;fr>>
+Je respecterais beaucoup ce sens de la cohérence, mais je ne suis pas sûr que lorsque l'on craint d'être menacé de torture, le pragmatisme ne l'emporte pas sur ce souci de cohérence.
+
+<<4795.83;4812.31;fr>>
+Enfin, je ne comprends pas très bien pourquoi en détention, il serait beaucoup plus difficile de demander l'asile que de saisir la cour d'une demande de mesures provisoires fondée sur l'article 39 de son règlement.
+
+<<4812.31;4826.15;fr>>
+Lorsque l'on a un avocat averti, ne peut-il pas, dans l'un et l'autre cas, fournir les informations et l'aide nécessaires pour présenter ces deux types de voies de droit?
+
+<<4826.15;4833.59;fr>>
+Donc, comme vous l'avez compris, cette question s'adressait essentiellement aux représentants du requérant.
+
+<<4833.59;4835.99;fr>>
+Je me tourne cette fois-ci vers le gouvernement.
+
+<<4835.99;4850.91;fr>>
+Cette question des garanties diplomatiques a été très présente dans vos exposés l'un et l'autre, aussi bien pour le gouvernement que pour le requérant.
+
+<<4850.91;4863.43;fr>>
+Nous comprenons que, malgré ces efforts, le gouvernement français n'a pas réussi à obtenir de telles garanties du gouvernement algérien.
+
+<<4863.43;4867.95;fr>>
+Ça me conduit à deux interrogations que je vous livre.
+
+<<4867.95;4870.87;fr>>
+Première interrogation, au fond, pourquoi?
+
+<<4870.87;4874.71;fr>>
+Qu'est-ce qui s'oppose à cela, quand on y réfléchit?
+
+<<4874.71;4883.59;fr>>
+J'entends bien, et ça fait partie de la position de chacun, que les représentants du requérant sous-entendent.
+
+<<4883.59;4897.47;fr>>
+S'il n'y a pas de garantie, c'est parce que la réalité de la situation ne permettrait pas de les donner, car la lutte contre le terrorisme, contre la torture, pardon, ne serait pas suffisamment réelle, crédible.
+
+<<4897.47;4899.87;fr>>
+Mais, au fond, qu'est-ce qui s'y oppose?
+
+<<4899.87;4911.67;fr>>
+Je sais bien qu'il est délicat en matière de diplomatie, de discerner les ressorts des décisions ou des refus, mais néanmoins, il pourrait être éclairant pour la Cour de le comprendre.
+
+<<4911.67;4948.27;fr>>
+Deuxième question, si des engagements, des garanties diplomatiques formelles, avec tout ce que cela représente, sont difficiles, est-ce qu'il est envisageable, comme la Cour a pu le constater dans d'autres dossiers, que des engagements ou des accords interviennent à des niveaux moins élevés que les niveaux ministériels, dans des formes moins solennelles, mais dont la portée pourrait être aussi concrète et réelle que les engagements diplomatiques?
+
+<<4948.27;4950.19;fr>>
+Est-ce envisageable?
+
+<<4950.19;4950.19;fr>>
+Voilà ma seconde question et je vous remercie.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<4955.35;4964.23;fr>>
+La Cour va maintenant se retirer pour 30 minutes, après quoi les partis pourront présenter de brèves observations en réponse aux plaidoiries adverses et répondre aux questions des juges.
+
+[[Announcer;UNK]]
+
+<<5027.34;5028.02;fr>>
+La Cour!
+
+[[JudgeP;Angelika Nußberger]]
+
+<<5062.32;5064.04;fr>>
+Veuillez vous asseoir, s'il vous plaît.
+
+<<5064.04;5065.04;fr>>
+La parole est à monsieur Alabrune.
+
+[[Government;GR1]]
+
+<<5075.72;5091.08;fr>>
+Madame la Présidente, Mesdames et Messieurs les Juges, je répondrai aux différentes questions qui ont été posées par les juges, en commençant par les questions touchantes à la recevabilité.
+
+<<5091.28;5101.8;fr>>
+J'éminerai également les questions touchantes au fond, ce qui me permettra aussi, sur certains points, de répondre à quelques remarques faites par l'autre partie.
+
+<<5101.8;5126.68;fr>>
+S'agissant de questions touchantes à la recevabilité qui ont été posées aux représentants du gouvernement par la juge O'Leary, 1re question touchante au point de savoir si la demande d'asile est la seule voie de recours effective dans la situation du requérant.
+
+<<5126.88;5128.24;fr>>
+La réponse est oui.
+
+<<5128.48;5137.24;fr>>
+S'agissant du requérant, dans sa situation, la demande d'asile était la seule voie de recours effective, comme l'a jugé la Cour, d'ailleurs, dans sa décision Amix contre France.
+
+<<5137.24;5156.24;fr>>
+La demande d'asile permet de faire examiner la question de la réalité des risques au regard de l'article 3 de la Convention, tout en permettant au requérant de se maintenir sur le territoire jusqu'à ce qu'il soit statué définitivement sur sa demande d'asile.
+
+<<5156.24;5174.64;fr>>
+Deuxièmement, en ce qui concerne la question du caractère effectif de cette voie de recours, y compris en détention, je voudrais relever qu'il ne s'agit pas d'une procédure exceptionnelle.
+
+<<5174.64;5181.64;fr>>
+L'audition du demandeur d'asile en détention peut avoir lieu soit à l'OFPRA, soit par visioconférence.
+
+<<5181.64;5185.64;fr>>
+Il s'agit donc bien d'une voie de recours effective.
+
+<<5185.64;5208.64;fr>>
+Le risque du partage de compétences entre le juge judiciaire et le juge administratif, lorsqu'un étranger fait l'objet d'une interdiction de territoire français, puis d'un arrêté fixant le pays de destination, certes, ce partage existe.
+
+<<5208.64;5218.64;fr>>
+Toutefois, l'examen du risque de traitement lié à l'article 3 relève exclusivement du juge administratif.
+
+<<5218.64;5228.64;fr>>
+Et comme je l'ai rappelé, l'introduction d'une demande d'asile est bien la voie de recours effective.
+
+<<5228.64;5239.64;fr>>
+J'en viens maintenant à des questions touchant au bien fondé de la requête et au fond, s'agissant tout d'abord de la situation générale en Algérie.
+
+<<5239.64;5248.64;fr>>
+Je répondrai à ce titre à des questions posées par la juge Kutsko-Stadmayer.
+
+<<5248.64;5270.64;fr>>
+Je voudrais tout d'abord, sur la question de la situation générale, rappeler que le point que le gouvernement a fait est qu'il y a une évolution, un changement par rapport aux constatations qui avaient été faites, en particulier dans l'arrêt MA.
+
+<<5270.64;5294.64;fr>>
+Le gouvernement s'est fondé pour mettre en lumière cette évolution, non pas seulement sur le rapport du département d'État, comme l'a indiqué le représentant du requérant, mais sur plusieurs rapports, y compris des rapports d'organisations non gouvernementales, d'organisations internationales et d'autres organisations gouvernementales.
+
+<<5294.64;5300.64;fr>>
+Le propos du gouvernement n'est pas de dire qu'il n'y a pas de marge de progression encore.
+
+<<5300.64;5310.64;fr>>
+Le gouvernement a reconnu qu'il y avait, dans certains documents, des allégations de mauvais traitement, qu'il pouvait y avoir un risque résiduel. Le propos du gouvernement
+
+<<5310.64;5326.64;fr>>
+est de dire qu'il n'y a pas aujourd'hui de possibilité d'affirmer qu'il y a un risque systématique de mauvais traitement pour le groupe de personnes auxquelles appartient le requérant.
+
+<<5326.64;5335.64;fr>>
+C'est la raison pour laquelle il est important pour le requérant de pouvoir apporter la preuve d'un risque individuel. S'agissant des personnes
+
+<<5335.64;5383.64;fr>>
+avec lesquelles le requérant était en contact en Algérie, question qui a été posée au gouvernement, je voudrais rappeler que, comme la Cour nationale du droit d'asile l'a établie dans les motivations de sa décision du 4 juillet 2018, les membres de la cellule terroriste qui était en cause, qui ont été interpellés, condamnés et libérés, il n'a pas été établi qu'ils aient été soumis à des peines disproportionnées ou qu'ils aient fait des objets de mauvais traitement durant leur détention.
+
+<<5383.64;5422.64;fr>>
+S'agissant de la question de savoir si le requérant est recherché, pourrait être recherché en dehors d'un cadre judiciaire, je voudrais sur ce point rappeler que la note verbale des autorités algériennes du mois de novembre est sans ambiguïté, contrairement à ce que dit le requérant, sur le fait qu'il n'y a pas de poursuite judiciaire, qu'il n'y a pas donc de mandat d'arrêt, et nous n'avons aucun élément qui permettrait d'établir ou de supputer que des poursuites en dehors d'un autre cadre seraient possibles ou envisagées. Sur la question de savoir
+
+<<5422.64;5450.64;fr>>
+si une institution indépendante serait susceptible de réaliser la situation du requérant au cas où, au cas hypothétique, où il serait détenu à son retour en Algérie, une telle institution n'est pas identifiée à ce stade.
+
+<<5450.64;5470.64;fr>>
+Toutefois, le gouvernement tient à noter qu'il est évidemment ouvert dans le cadre du dialogue et qu'il est déterminé à poursuivre à toute solution ad hoc qui permettrait d'établir un suivi individuel.
+
+<<5470.64;5486.64;fr>>
+C'est d'ailleurs ce que le gouvernement français proposait dans le courrier du 21 mars 2018, et le gouvernement français ne manquera pas de faire preuve de flexibilité et de mettre en œuvre toute solution qui pourrait être acceptée par les autorités algériennes.
+
+<<5486.64;5508.64;fr>>
+S'agissant de la question de la médiatisation, de la question des moteurs de recherche, c'est un point qui a fait l'objet d'une question, c'est un point sur la médiatisation qui a été évoqué par les représentants du requérant.
+
+<<5508.64;5537.64;fr>>
+Ce que je voudrais surtout redire à nouveau, c'est que du point de vue du gouvernement, ce n'est pas l'élément déterminant, encore une fois parce qu'il revient au requérant de prouver le risque individuel qu'il encourt au-delà de la simple connaissance que les autorités algériennes auraient de cette condamnation et de cette situation.
+
+<<5537.64;5549.64;fr>>
+Or, encore une fois, le requérant n'a pas établi le risque systématique de mauvais traitement et de torture auquel il serait exposé s'il est éloigné vers l'Alger.
+
+<<5549.64;5563.64;fr>>
+J'en reviens maintenant à la question des assurances diplomatiques, sujet qui a été évoqué par le juge Potosky, qui a été mentionné par le requérant et les représentants du requérant.
+
+<<5563.64;5591.64;fr>>
+Ce que je voudrais d'abord relever, c'est que, contrairement à ce que le représentant du requérant a pu chercher à faire valoir, l'obtention de garanties par des assurances diplomatiques n'est pas, au regard des principes que votre Cour a formulés dans ce domaine, une condition préalable à l'éloignement.
+
+<<5591.64;5596.64;fr>>
+La Cour a établi un certain nombre de principes.
+
+<<5596.64;5607.64;fr>>
+L'obtention de garanties diplomatiques n'est pas, dans les principes que la Grande Chambre, notamment, a rappelés récemment, une condition préalable.
+
+<<5607.64;5631.64;fr>>
+Alors, pourquoi, le juge Potosky a posé la question, n'avons-nous pu obtenir des garanties sous forme d'assurance diplomatique formelle de la part des autorités algériennes, malgré les efforts qui ont été accomplis?
+
+<<5631.64;5643.64;fr>>
+Et je voudrais masquer en faux, avec ce qui a été dit par le représentant du requérant, sur le fait que la France aurait refusé de faire en ce sens des démarches.
+
+<<5643.64;5645.64;fr>>
+Au mois de mars de l'année dernière, on voyait une note.
+
+<<5645.64;5651.64;fr>>
+Il y a eu une délégation interministérielle qui s'est rendue à Alger en septembre.
+
+<<5651.64;5656.64;fr>>
+Il y a eu des contacts entre les secrétaires généraux des ministères.
+
+<<5656.64;5656.64;fr>>
+Il y a eu des efforts qui ont été faits.
+
+<<5656.64;5663.64;fr>>
+Pourquoi l'Algérie n'a-t-elle pas apporté de telles assurances?
+
+<<5663.64;5669.64;fr>>
+Alors, le juge Potosky s'interroge et m'interroge sur ce point.
+
+<<5669.64;5693.64;fr>>
+Et ce qui est très intéressant, c'est que, autant que nous puissions le dire, obtenir des garanties et des assurances diplomatiques répondantes, en particulier aux 11 critères formulés par l'arrêt Hauptman de notre cours, est évidemment quelque chose d'extrêmement difficile et de très compliqué à obtenir en pratique.
+
+<<5693.64;5720.64;fr>>
+Il y a des aspects techniques, bien sûr, mais au-delà de cela, il y a forcément un aspect psychologique de la part d'un Etat qui a ratifié des instruments en matière de garantie des droits de l'homme, qui est évidemment très sensible au respect de sa souveraineté, lorsqu'on lui demande de fournir en plus des garanties formelles répondantes aux critères que j'ai rappelés tout à l'heure.
+
+<<5720.64;5751.64;fr>>
+Je mentionnerai aussi, dans les contacts que nous avons eus, et encore une fois pour répondre à la question du juge Potoski, que le fait pour les autorités algériennes d'accepter que certains ressortissants algériens feraient l'objet d'un traitement particulier par rapport à d'autres ressortissants algériens détenus, est évidemment aussi un élément qui nous est apparu comme une difficulté de la part des autorités, dans la réaction des autorités algériennes.
+
+<<5751.64;5771.64;fr>>
+Alors le juge Potoski pose la question de savoir s'il serait envisageable d'avoir peut-être un dispositif plus souple, plus informel, que celui qui jusqu'à présent a été exigé par votre Cour.
+
+<<5771.64;5777.64;fr>>
+La France est évidemment ouverte à l'exploration de cette possibilité.
+
+<<5777.64;5804.64;fr>>
+Toutefois, elle appelle l'attention sur, là aussi, la difficulté pratique qui peut être rencontrée pour mettre au point un dispositif satisfaisant, en particulier en ce qui concerne l'identification de l'autorité qui donnerait ce type de garantie.
+
+<<5804.64;5843.64;fr>>
+Je voudrais aussi simplement mentionner à propos des garanties et des assurances diplomatiques le fait que de nombreux Etats partis à la Convention qui ont sollicité de telles assurances ont été confrontés à des refus aussi, et que des difficultés et des situations de blocage existent, y compris même au sein parfois de l'exécution des arrêts de la Cour, et que même des Etats comme le Royaume-Uni, qui ont, et le représentant du requérant a mentionné cette démarche du Royaume-Uni, rencontrent aujourd'hui des difficultés et hésitent à poursuivre en ce sens.
+
+<<5843.64;5860.64;fr>>
+Je voudrais mentionner à ce titre le rapport publié en 2017 par le rapporteur indépendant de la législation antiterroriste au Royaume-Uni qui a mis en lumière les difficultés des assurances et d'obtenir des assurances conformes aux exigences de la Cour.
+
+<<5860.64;5875.64;fr>>
+Enfin, je voudrais revenir sur un point qui a été mentionné par le représentant du requérant, si vous me le permettez, en ce qui concerne le régime de la garde à vue.
+
+<<5875.64;5897.64;fr>>
+Je voudrais simplement rappeler que l'article 51 bis du Code de procédure pénale en Algérie prévoit qu'à l'expiration du délai de garde à vue, il sera obligatoirement procédé à l'examen médical de la personne retenue si elle le demande directement ou par le biais de son conseil ou sa famille.
+
+<<5897.64;5903.64;fr>>
+Alors, le représentant du requérant a dit que c'est au bout de 12 jours.
+
+<<5903.64;5906.64;fr>>
+En fait, non. Les informations que nous avons obtenues
+
+<<5906.64;5921.64;fr>>
+du magistrat de liaison qui se trouve à Alger montrent bien que le délai de garde à vue normal, c'est 48 heures, qui peut être renouvelé jusqu'à une durée maximale de 12 jours.
+
+<<5921.64;5931.64;fr>>
+Et c'est à la fin de chaque délai de 48 heures que l'examen médical est pratiqué.
+
+<<5931.64;5934.64;fr>>
+Je voulais fournir en réponse aux questions de la Cour.
+
+<<5934.64;5934.64;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<5936.78;5938.98;fr>>
+La parole est aux représentants du requérant.
+
+[[Applicant;AP2]]
+
+<<5943.13;5955.99;fr>>
+Madame la Présidente, Mesdames et Messieurs les Juges, trois observations liminaires avant d'en venir aux réponses aux questions en réplique aux observations du gouvernement français.
+
+<<5955.99;5959.77;fr>>
+Une question se pose, parle-t-on exactement de la même chose?
+
+<<5959.77;5961.77;fr>>
+Ce n'est pas tout à fait certain.
+
+<<5961.77;5978.69;fr>>
+Pourquoi j'ai entendu le représentant du gouvernement dire qu'il n'y avait aucun élément qui tendait à démontrer qu'il y aurait des traitements systématiquement inhumains et dégradants pour les personnes condamnées pour des faits de terrorisme en Algérie?
+
+<<5978.69;5981.41;fr>>
+Mais nous n'avons jamais dit l'inverse.
+
+<<5981.41;5982.77;fr>>
+La question n'est pas là.
+
+<<5982.77;5996.77;fr>>
+Il est absolument certain et fort heureusement que toutes les personnes condamnées pour des faits de terrorisme et qui sont renvoyées en Algérie n'y subissent pas la torture ou des traitements inhumains et dégradants.
+
+<<5996.77;5998.09;fr>>
+Le débat n'est pas là.
+
+<<5998.09;6001.05;fr>>
+Le débat est la question qu'il existe un risque.
+
+<<6001.05;6010.97;fr>>
+Et évidemment, je vous renvoie de ce point de vue-là à votre jurisprudence, la question qui se pose est donc de savoir si ce risque est sérieux ou pas.
+
+<<6010.97;6031.57;fr>>
+Si ce risque est sérieux ou pas, au regard des éléments d'information générale et au regard de ce que dit le requérant sur sa propre situation, le principe de précaution qui s'attache à la protection absolue de l'article 3 nous paraît obligatoirement vous conduire à dire qu'il faut suspendre l'éloignement.
+
+<<6031.57;6036.69;fr>>
+Deuxième point, une autre phrase m'a alerté.
+
+<<6036.69;6052.45;fr>>
+Je ne vois pas comment il est possible d'affirmer, au regard des éléments du dossier et tout particulièrement au regard du réquisitoire du procureur antiterroriste de Paris sur la situation de M. Haïm dans le cadre de la procédure pénale,
+
+<<6052.45;6059.77;fr>>
+comment il est possible de dire que les autorités algériennes n'auraient pas montré d'intérêt pour le requérant?
+
+<<6059.77;6073.61;fr>>
+Faudrait-il qu'elles aient des défaillances exceptionnelles pour effectivement ne pas être intéressées à cette personne dont je rappelle qu'initialement le projet terroriste est un projet algérien.
+
+<<6073.61;6081.33;fr>>
+Il est un rouage en Europe d'un projet terroriste qui devait avoir lieu sur le sol algérien.
+
+<<6081.33;6093.61;fr>>
+Et c'est précisément la raison pour laquelle il était en contact avec des personnes aussi importantes dans l'encadrement d'AQMI, Al-Qaïda au Maghreb islamique.
+
+<<6093.61;6114.17;fr>>
+Je ne vois pas comment, avec ces éléments-là, l'Algérie ne pouvait pas s'intéresser à une telle personne et comment d'ailleurs la France n'aurait pas informé les autorités algériennes que cet individu allait probablement essayer de perpétrer un attentat sur leur sol.
+
+<<6114.17;6120.37;fr>>
+Troisième point, il y a eu des efforts faits par la France.
+
+<<6120.37;6123.45;fr>>
+C'est ce que nous dit le représentant du gouvernement français.
+
+<<6123.45;6127.01;fr>>
+Et là, je vous renvoie encore à cette question de relations diplomatiques.
+
+<<6127.01;6137.17;fr>>
+Dans la première réponse que fait la France, suite à notre demande de mesures provisoires accordées par la Cour, il y a cette phrase.
+
+<<6137.17;6148.97;fr>>
+Le gouvernement français dit, nous nous sommes rapprochés des autorités algériennes pour voir dans quelles mesures elles seraient disposées à fournir des garanties.
+
+<<6148.97;6150.57;fr>>
+Quel effort?
+
+<<6150.57;6152.93;fr>>
+Quel effort pour exiger des garanties?
+
+<<6152.93;6158.17;fr>>
+Je sais bien qu'on n'est pas, dans le cadre des relations diplomatiques, dans les exigences.
+
+<<6158.17;6164.97;fr>>
+On est dans un discours, dans des rapports qui sont des rapports délicats, feutrés.
+
+<<6164.97;6182.37;fr>>
+Mais précisément avec un pays à nous, avec un pays avec lequel les relations sont fluides, c'est peut-être bien avec ce type de pays que l'on peut être un peu plus persuasif que simplement dire dans quelles mesures vous seriez disposés à nous fournir des garanties.
+
+<<6182.37;6188.33;fr>>
+Quatrième point sur la recevabilité, et je répondrai ensuite aux questions des juges.
+
+<<6188.33;6190.53;fr>>
+Ce sera très bref.
+
+<<6190.53;6202.89;fr>>
+Le gouvernement français fait grand cas de votre décision MX contre France s'agissant de la règle de l'épuisement des voies de recours internes, en l'occurrence le dépôt d'une demande d'asile.
+
+<<6202.89;6211.89;fr>>
+Vous aurez relevé qu'il y a une différence absolument fondamentale dans cette décision qui donc ne peut pas être comparée à notre affaire.
+
+<<6211.89;6212.89;fr>>
+C'est la suivante.
+
+<<6212.89;6226.81;fr>>
+Dans l'affaire MX, à aucun stade le requérant, vous n'avez invité un juge interne, donc un juge français, à examiner le grief tiré de la violation de l'article 3.
+
+<<6226.81;6228.41;fr>>
+À aucun stade.
+
+<<6228.41;6233.57;fr>>
+Cela veut dire qu'à aucun moment le juge français n'a pu se prononcer sur cette question.
+
+<<6233.57;6251.41;fr>>
+Et c'est bien cela qui avait été reproché à votre cours, non pas tant pour dire que la demande d'asile aurait été une voie juridiquement pertinente, mais pour dire qu'elle aurait pu être pertinente, en tout cas au regard du fait qu'il n'avait rien fait d'autre.
+
+<<6251.41;6259.13;fr>>
+Ce n'est pas le cas dans notre affaire puisque nous avons saisi le juge des référés Libertés qui est statué sur l'article 3.
+
+<<6259.13;6278.13;fr>>
+Pour répondre aux questions de recevabilité que je vais essayer d'aborder en même temps, puisque certaines se recoupent, en tout cas du point de vue de la compréhension, il me faut à la fois aborder les questions des juges Stalmayer, O'Leary et Potocky.
+
+<<6278.13;6283.37;fr>>
+Un rappel, nous ne sommes pas les avocats du requérant dans l'affaire pénale.
+
+<<6283.37;6297.89;fr>>
+En 2015, il y a une avocate qui est inscrite au barreau de Paris, et maître Fouret et moi-même, cette personne, nous la rencontrons, nous sommes saisis par elle, à partir du moment où elle fait l'objet d'un arrêté fixant le pays de destination.
+
+<<6297.89;6300.25;fr>>
+Donc c'est il y a un an.
+
+<<6300.25;6309.69;fr>>
+Dans ces conditions, c'est quand même extrêmement compliqué d'examiner la pertinence d'une voie de recours.
+
+<<6309.69;6324.05;fr>>
+En tout cas, ce n'est pas comme s'il n'y en avait plus le conseiller à l'avance sur les différentes modalités qui lui permettaient d'éviter le renvoi dans un pays, sachant qu'il n'y avait pas encore de décision de renvoi.
+
+<<6324.05;6326.85;fr>>
+Les demandes d'asile en prison.
+
+<<6326.85;6337.85;fr>>
+Je redis que nous n'avons aucun chiffre, soit parce qu'il n'y en a pas, soit parce qu'ils sont éloquents, du nombre de demandes d'asile qui sont faites en prison.
+
+<<6337.85;6340.17;fr>>
+Comment ça se passe concrètement?
+
+<<6340.17;6348.73;fr>>
+Le demandeur d'asile l'étranger, qui veut faire une demande d'asile en prison, doit écrire à la préfecture pour se faire envoyer le dossier Ofpra.
+
+<<6348.73;6353.29;fr>>
+Normalement, c'est la règle de la présentation personnelle en préfecture.
+
+<<6353.29;6354.69;fr>>
+Là, c'est impossible.
+
+<<6354.69;6365.57;fr>>
+Donc la préfecture, dans des délais qui sont ceux de l'administration française, lui renvoie le dossier de demande d'asile et lui-même doit le rédiger en langue française.
+
+<<6365.57;6370.21;fr>>
+Je rappelle que le requérant est avant tout arabophone.
+
+<<6370.21;6374.53;fr>>
+Et ensuite, il envoie ce formulaire à l'Ofpra.
+
+<<6374.53;6394.17;fr>>
+Comment peut-on, dans des délais aussi brefs, alors que la décision du juge administratif tombe le 8 mars et que le requérant va être placé dans un avion le 14 mars, comment peut-on à la fois écrire à la préfecture, recevoir le dossier Ofpra, le remplir et le renvoyer?
+
+<<6394.17;6397.65;fr>>
+Et ce n'est pas une démarche qui peut être faite par un avocat.
+
+<<6397.65;6399.25;fr>>
+C'est une énorme différence.
+
+<<6399.25;6413.69;fr>>
+Saisir la cour d'une mesure provisoire, oui, c'est effectivement plus simple que pour un avocat à l'extérieur, qui est libre de ses mouvements, que déposer une demande d'asile pour un étranger qui est détenu.
+
+<<6413.69;6418.49;fr>>
+C'est une différence qui me paraît absolument fondamentale.
+
+<<6418.49;6425.69;fr>>
+Pourquoi pas d'appel auprès du Conseil d'État de la décision du juge des référés du tribunal administratif de Lyon?
+
+<<6425.69;6428.57;fr>>
+Là encore, il faut bien voir la question des délais.
+
+<<6428.57;6432.37;fr>>
+L'ordonnance du juge des référés est rendue le 8 mars.
+
+<<6432.37;6446.49;fr>>
+Nous avons, en droit français, un délai de 15 jours pour faire appel et, très théoriquement, le Conseil d'État est amené à statuer dans un délai également de 15 jours, il me semble.
+
+<<6446.49;6463.57;fr>>
+En tout cas, il est certain que, même si nous aurions pu formuler un appel dans le délai très bref que nous avions, jamais, c'est impossible, le Conseil d'État n'aurait rendu une décision avant que le requérant soit éloigné.
+
+<<6463.57;6476.21;fr>>
+Et donc, c'est sur ce point que je veux insister, c'est à ce moment précis, pour nous, la seule option possible que de saisir la cour d'une mesure provisoire.
+
+<<6476.21;6479.69;fr>>
+Quand je dis que, M. le juge Poutoky,
+
+<<6479.69;6494.69;fr>>
+il y a un aspect inconcevable à imaginer, le dépôt d'une demande d'asile par un étranger détenu, je ne critique évidemment pas l'approche qui va être faite des craintes par l'OFPRA et la CNDA.
+
+<<6494.69;6504.29;fr>>
+Il y a des divergences avec celles de la cour, mais évidemment que ce travail est fait par ces organes qui sont les organes compétents en matière d'asile.
+
+<<6504.29;6519.69;fr>>
+Ce que je dis, en revanche, et c'est là qu'il y a une part d'abstraction dans la réflexion, c'est qu'il est contre-intuitif pour un détenu d'imaginer qu'il pourrait demander la protection d'un État qu'il a puni et qu'il veut le faire partir.
+
+<<6519.69;6523.97;fr>>
+Il n'y a pas d'associations en détention qui permettent d'informer sur les droits.
+
+<<6523.97;6526.77;fr>>
+Elles sont en centre de rétention administrative.
+
+<<6526.77;6556.89;fr>>
+Et justement, c'est pour ça que le requérant va déposer une demande d'asile quand il sera au centre de rétention administrative de l'ESCIN dans le Nord, parce que là, des associations qui sont mandatées par l'État lui expliquent que malgré son profil, malgré sa condamnation pénale, il peut, puisqu'il soutient être susceptible d'être soumis à des traitements inhumains et dégradants, il peut formuler une demande d'asile.
+
+<<6556.89;6563.61;fr>>
+Dernier point sur la question des craintes en cas de retour.
+
+<<6563.61;6570.29;fr>>
+Pourquoi la CDH, madame la juge O'Leary, statuerait différemment des organes français?
+
+<<6570.29;6571.57;fr>>
+Je donnerai deux réponses.
+
+<<6571.57;6582.29;fr>>
+D'abord, il faut voir que les organes compétents en matière d'asile, Ofprace et NDA, se font sur la Convention de Genève, pas sur la Convention européenne des droits de l'homme.
+
+<<6582.29;6585.17;fr>>
+C'est une approche donc très différente.
+
+<<6585.17;6594.01;fr>>
+Deuxièmement, oui, il existe une divergence entre les juridictions administratives françaises et la Cour.
+
+<<6594.01;6603.05;fr>>
+Elles portent non pas sur l'aspect absolument sacré de la protection de l'article 3, elles portent sur les modalités de preuve.
+
+<<6603.05;6613.09;fr>>
+Nous soutenons que les modalités de preuve qui sont exigées en France du point de vue des demandeurs d'asile sont trop importantes.
+
+<<6613.09;6617.57;fr>>
+Et elles ont été critiquées, y compris par la Cour, dans plusieurs arrêts.
+
+<<6617.57;6647.97;fr>>
+La Cour fait prévaloir, il me semble, une vision plus pragmatique, plus souple, en se rappelant qu'il est quand même extraordinairement difficile pour un retirant individuel d'une prison, d'un centre de rétention, assigné à résidence comme il l'est actuellement, d'apporter des preuves de ce qu'il est, par exemple, soumis à un mandat de recherche en Algérie, quand cette preuve, évidemment, est beaucoup plus simple à rapporter par un Etat.
+
+<<6647.97;6653.73;fr>>
+Les juridictions administratives sont hiérarchisées, elles appliquent la position du Conseil d'Etat.
+
+<<6653.73;6668.05;fr>>
+À partir du moment où le Conseil d'Etat a une position différente de la vôtre, évidemment que les tribunaux administratifs vont avoir la même position que le Conseil d'Etat, ou en tout cas, la même manière d'apprécier la charge de la preuve.
+
+<<6668.05;6679.89;fr>>
+Il n'y a donc, selon moi, rien d'étonnant à ce que le juge du tribunal administratif de Lille juge exactement la même chose que son collègue qui siège à Lyon.
+
+<<6679.89;6699.29;fr>>
+Dernier point, sur la question de la médiatisation, oui, effectivement, peut-être que le fait que le requérant apparaît sur Google ne change pas grand-chose, dans le sens où il était très probablement déjà connu par les autorités algériennes.
+
+<<6699.29;6715.21;fr>>
+Ce qui est certain, c'est qu'à l'ère Google, la mention de son nom sur ce moteur de recherche a un effet démultiplicateur de la possibilité pour un Etat d'en savoir un peu plus sur un de ses ressortissants.
+
+<<6715.21;6718.13;fr>>
+J'espère avoir répondu aux principales questions.
+
+<<6718.13;6719.81;fr>>
+Peut-être en ai-je oublié, je m'en excuse, mais le temps défile.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6723.0;6726.6;fr>>
+J'invite les juges à poser des questions supplémentaires, s'il y en a.
+
+<<6728.44;6728.44;fr>>
+Juge Potocki.
+
+[[Judge;André Potocki]]
+
+<<6732.07;6733.39;fr>>
+Merci beaucoup, Madame la Présidente.
+
+<<6733.59;6744.27;fr>>
+Il ne s'agit pas du tout de relancer le débat de façon interminable, mais simplement de revenir sur un point très concret que vous venez d'évoquer.
+
+<<6744.47;6760.15;fr>>
+Vous avez dit, j'espère ne pas trahir la formulation que vous avez utilisée, il est difficile d'apporter des preuves du risque, risque de violation de l'article 3, lorsque l'on est en détention.
+
+<<6760.15;6763.11;fr>>
+Ce que je peux comprendre, il est plus difficile, en effet.
+
+<<6763.31;6764.99;fr>>
+On a moins d'accès extérieur.
+
+<<6765.95;6772.55;fr>>
+Est-ce que depuis la libération, le requérant a porté des éléments de preuve qu'il n'aurait pas pu apporter parce qu'il était détenu?
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6778.8;6780.48;fr>>
+Je redonne la parole à le requérant.
+
+[[Applicant;AP2]]
+
+<<6782.41;6784.73;fr>>
+Très brièvement, non.
+
+<<6784.93;6800.29;fr>>
+Non, parce que le requérant, dès son élargissement, dès sa libération du centre de détention de Rouen, dans la Loire, est emmené au centre de rétention administrative de Lesquen, dans le Nord.
+
+<<6800.45;6803.17;fr>>
+Il est privé de liberté.
+
+<<6803.41;6810.01;fr>>
+Il peut contacter sa famille, certes, mais il n'est pas en mesure de fournir d'autres éléments que ceux qu'il avait déjà.
+
+<<6810.01;6813.13;fr>>
+Il est actuellement assigné à résidence.
+
+<<6813.33;6820.89;fr>>
+Il doit pointer 3 fois par jour auprès de la gendarmerie de la commune dans laquelle il réside.
+
+<<6821.09;6827.53;fr>>
+Donc la mesure privative de liberté est également assez serrée, si l'on peut dire.
+
+<<6827.69;6838.69;fr>>
+Et il n'est pas davantage en mesure dans ces conditions-là, bien qu'il ait essayé notamment d'avoir un extrait du mandat de recherche dont il fait l'objet, d'apporter davantage de preuves, hélas.
+
+<<6838.69;6838.69;fr>>
+Sous-titrage ST' 501
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6840.75;6844.55;fr>>
+Est-ce que l'agent du gouvernement veut encore ajouter quelque chose sur cette question?
+
+<<6844.55;6845.55;fr>>
+Non.
+
+<<6845.55;6849.11;fr>>
+Encore juge O’Leary?
+
+[[Judge;Síofra O’Leary]]
+
+<<6848.0;6855.16;fr>>
+Comme M. le juge Potocki, je ne voudrais pas rendre le débat interminable, mais je voudrais
+
+<<6855.16;6860.72;fr>>
+creuser un point avec le gouvernement français, qui a clarifié cette question.
+
+<<6860.72;6867.6;fr>>
+Effectivement, la demande d'asile constitue dans ce type d'affaires la seule voie de recours effective.
+
+<<6867.6;6875.96;fr>>
+Et vous vous fondez sur l'arrêt MX contre France, qui est bien sûr devenu M.A. contre France.
+
+<<6875.96;6880.08;fr>>
+Mais est-ce qu'il n'y a pas eu une différence entre les deux affaires?
+
+<<6880.08;6886.28;fr>>
+Je laisse de côté la différence soulignée par les avocats du requérant.
+
+<<6886.28;6890.64;fr>>
+Mais dans l'affaire MX contre France, on avait une ITF.
+
+<<6890.64;6897.4;fr>>
+Mais on n'avait pas à ce stade un arrêté administratif fixant le paier de renvoi.
+
+<<6897.4;6902.96;fr>>
+Ce qui rendait, si j'ai bien compris, la voie administrative impossible.
+
+<<6902.96;6913.16;fr>>
+En l'espèce, on avait bien à l'époque pertinente l'ITF et l'arrêté administratif, ce qui ouvrait la voie administrative.
+
+<<6913.16;6923.24;fr>>
+Alors, je n'exclus pas qu'il pourrait y avoir des conséquences d'une faute d'appel contre le refus du juge du référé Liberté.
+
+<<6923.24;6934.28;fr>>
+Mais en présence d'un arrêté administratif fixant le paie de renvoi, pourquoi la voie administrative n'est pas ouverte à un requérant comme le requérant devant nous aujourd'hui?
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6937.93;6941.13;fr>>
+Je redonne la parole au représentant du gouvernement.
+
+[[Government;GR1]]
+
+<<6940.44;6943.56;fr>>
+Est-ce que vous me permettez une minute de vérification?
+
+<<6943.56;6943.56;fr>>
+Merci.
+
+<<6960.19;6964.83;fr>>
+Merci. Sur ce point, merci de votre patience.
+
+<<6964.83;6978.07;fr>>
+Ce que je voulais dire, c'est que le recours devant le juge administratif est une voie qui est ouverte, mais qui n'a pas de plein droit d'effet suspensif.
+
+<<6978.07;6987.31;fr>>
+La voie qui a de plein droit à un effet suspensif, c'est la demande d'asile et le recours à l'offre-prêt.
+
+<<6987.31;6989.59;fr>>
+C'est l'élément que je voulais apporter en réponse.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6991.6;6992.48;fr>>
+Merci beaucoup.
+
+<<6992.84;6995.48;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<6995.48;7001.96;fr>>
+Je remercie les comparants qui ont assisté la Cour par leur intervention et leur réponse à ces questions.
+
+<<7001.96;7006.12;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<7006.12;7009.36;fr>>
+La décision ou l'arrêt sera rendue ultérieurement.
+
+<<7009.36;7012.88;fr>>
+Les parties seront informées de la date du prononcé.
+
+<<7012.88;7012.88;fr>>
+L'audience est levée.
+

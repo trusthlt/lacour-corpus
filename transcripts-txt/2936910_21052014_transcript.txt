@@ -1,0 +1,1670 @@
+[[Announcer;UNK]]
+
+<<6.59;7.15;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<47.38;49.02;fr>>
+Asseyez-vous, s'il vous plaît.
+
+<<49.22;55.82;fr>>
+Je déclare ouverte l'audience publique sur l'affaire Morice contre France.
+
+<<56.82;64.74;fr>>
+L'affaire a été introduite devant la Cour le 7 mai 2010 par un ressortissant français, M. Olivier Morice,
+
+<<64.94;67.54;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<68.58;72.58;fr>>
+La requête a été communiquée au gouvernement le 6 septembre 2010.
+
+<<72.98;79.9;fr>>
+Le 11 juin 2013, la Chambre a déclaré la requête recevable et a adopté un arrêt dans cette affaire.
+
+<<80.34;84.22;fr>>
+L'arrêt de la Chambre a été prononcé le 11 juillet 2013.
+
+<<84.82;94.66;fr>>
+Le 3 octobre 2013, le représentant du requérant a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention.
+
+<<95.26;100.78;fr>>
+Cette demande a été acceptée par le Collège de la Grande Chambre le 9 décembre 2013.
+
+<<101.46;114.54;fr>>
+Le gouvernement défendeur et représentant est représenté par son agent, Mme Nathalie Ancel, sous-directrice des Droits de l'Homme au ministère des Affaires étrangères, assisté de M. Aurélien Letocart
+
+<<114.74;120.7;fr>>
+et de Mme Marie-Aude Recher, Patricia Rouault-Chalier et Emmanuelle Topin Conseiller.
+
+<<122.06;126.78;fr>>
+Le requérant est représenté par M. Laurent Petitti
+
+<<126.98;129.98;fr>>
+et M. Claire Audhoui, avocat au barreau de Paris,
+
+<<130.18;133.5;fr>>
+assisté de M. Nicolas Hervieu, conseil,
+
+<<133.5;137.82;fr>>
+et de M. Julien Tardif et Célia Chauffray, conseiller.
+
+<<138.02;140.66;fr>>
+Le requérant est également présent.
+
+<<142.5;146.18;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<148.06;155.06;fr>>
+Ayant consulté l'agent du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<155.98;159.1;fr>>
+Nous entendrons successivement M. Morice, le requérant,
+
+<<159.3;162.38;fr>>
+ainsi que ses conseils, M. Laurent Pettiti et M. Hervieu,
+
+<<162.38;165.1;fr>>
+puis Mme Ancel pour le gouvernement.
+
+<<166.54;178.98;fr>>
+Je dois expliquer qu'en plus de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en russe a été autorisée au profit d'un groupe de magistrats russes en visite d'études à la Cour.
+
+<<180.54;186.98;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<188.46;196.82;fr>>
+Je tiens également à saluer la présence d'une délégation de la Cour de cassation et de magistrats de juridiction judiciaire et administrative française.
+
+<<196.82;199.74;fr>>
+La parole est à M. Morice.
+
+[[Applicant;AP3]]
+
+<<204.2;210.8;fr>>
+Monsieur le Président, mesdames et messieurs les juges de la Grande Chambre, je vous remercie de me donner la parole.
+
+<<212.88;227.28;fr>>
+Depuis 30 ans, je n'ai cessé d'être attaché, comme avocat pénaliste, aux valeurs de la défense, que ce soit pour assister des partis civils ou des accusés.
+
+<<229.04;251.92;fr>>
+Dès l'âge de 10 ans, j'ai été frappé par cette figure emblématique, Dive et Laurie de Kermartin, protecteurs des juristes, qui n'eut de cesse de prôner une justice égale pour tous, accessible aux plus démunis et aux plus vulnérables.
+
+<<254.48;271.52;fr>>
+L'avocat de la veuve et de l'orphelin, voilà encore et toujours ce qui anime le sens de mon exercice professionnel auquel j'ai tout donné, ma santé et ma vie, comme tant d'autres avocats.
+
+<<274.08;287.28;fr>>
+Lorsque Mme Elisabeth Borrell, elle-même magistrat, m'a demandé, il y a maintenant 17 ans, d'assurer sa défense face à la justice, d'assurer sa défense face à la tragédie qu'elle vivait.
+
+<<288.52;308.12;fr>>
+Nous avons vite compris, avec mon confrère Laurent Decaune, chargé de la défense des fils orphelins de Bernard Borrell, que le combat serait rude et inégal face à la raison d'Etat.
+
+<<308.12;312.88;fr>>
+Le pot de terre contre le pot de fer.
+
+<<314.44;322.12;fr>>
+Notre liberté d'expression comme avocat, nos prises de parole devaient être à la hauteur des enjeux.
+
+<<325.04;336.52;fr>>
+Dénoncer l'omerta des pouvoirs politiques françaises et djiboutiens, dire les dysfonctionnements de la justice et les règles de la justice.
+
+<<336.52;342.12;fr>>
+Et les révéler, afin que la vérité puisse éclater au grand jour.
+
+<<344.24;349.52;fr>>
+J'ai toujours agi en conscience dans l'intérêt de ma cliente.
+
+<<350.16;364.6;fr>>
+Me taire, nous taire, alors que nous étions accusés de manipulation, eût été un abandon de la défense et une trahison de notre mission.
+
+<<364.6;367.2;fr>>
+Je vous remercie de m'avoir écouté.
+
+<<367.2;369.16;fr>>
+J'espère que vous m'entendrez.
+
+[[JudgeP;Dean Spielmann]]
+
+<<372.23;374.99;fr>>
+Merci Maître Morice.
+
+<<375.19;377.07;fr>>
+Je donne la parole à Maître Laurent Pettiti.
+
+<<377.07;378.07;fr>>
+Maître Pettiti.
+
+[[Applicant;AP1]]
+
+<<378.45;388.05;fr>>
+Monsieur le Président, Mesdames et Messieurs les juges composants de la Grande Chambre, de la Cour, vous êtes un contre-pouvoir au service des libertés individuelles.
+
+<<388.05;394.45;fr>>
+C'est ainsi que s'exprimait le garde des Sceaux s'adressant à des avocats en 1987.
+
+<<394.45;402.53;fr>>
+L'avocat incarne en effet un contre-pouvoir dans la société civilisée et libérale à laquelle il appartient.
+
+<<402.53;418.57;fr>>
+Investi à l'intérieur de cette société d'un prophétisme propre qui lui a été confié par la tradition et l'histoire, il lui appartient avec courage de dénoncer les mauvais fonctionnements de la justice et de la société.
+
+<<418.57;433.05;fr>>
+Étymologiquement, l'avocat est celui que l'on appelle au secours, advocatus, dans l'adversité, en souvenir des patriciens romains venant au secours de leur clientèle pour la protéger et la conseiller.
+
+<<433.05;442.85;fr>>
+On exprime aujourd'hui avec force la même idée en disant que l'avocat joue un rôle déterminant pour l'exercice des droits de la défense.
+
+<<442.85;458.25;fr>>
+Comme le rappelle Pierre Lambert, il n'est pas de justice véritable sans avocat le droit de la défense, entendu dans son sens le plus large, étant l'expression première du droit à la liberté.
+
+<<458.25;472.65;fr>>
+Cette fonction essentielle, l'avocat ne peut la remplir que s'il dispose d'une totale indépendance à l'égard des pouvoirs quels qu'ils soient et de la liberté d'exercer la défense à l'abri des menaces et des sanctions.
+
+<<472.65;481.81;fr>>
+Ces deux composantes, l'indépendance et la liberté, définissent le cœur même de la profession et cela depuis des années.
+
+<<481.81;492.33;fr>>
+Ces impératifs de la mission de l'avocat demeurent encore aujourd'hui mais ils doivent bien sûr s'adapter aux évolutions de la société contemporaine.
+
+<<492.33;500.41;fr>>
+Plus que jamais, l'avocat doit toujours pouvoir librement porter la parole de son client au sein du prétoire.
+
+<<500.41;509.97;fr>>
+Mais dans la société médiatique qui est la nôtre, une affaire peut aussi avoir un retentissement devant l'opinion publique tout entière.
+
+<<509.97;521.57;fr>>
+Dans ce cas, conformément à la mission qui lui a été confiée par son client, l'avocat doit pouvoir continuer à le défendre hors des murs du prétoire.
+
+<<521.57;549.05;fr>>
+Aujourd'hui et même depuis plusieurs décennies, il est fréquent que les conseils soient appelés à exposer et défendre la position de leurs clients jusque devant les caméras, les micros ou au sein de la presse écrite, à tel point que l'expression publique de la parole de la défense dans les affaires rencontrant un écho médiatique n'est plus seulement un droit de l'avocat, il s'agit aussi désormais d'un devoir de sa charge.
+
+<<549.05;555.17;fr>>
+Serait défaillant l'avocat qui omettrait de répondre aux interrogations de l'opinion.
+
+<<555.17;566.17;fr>>
+Serait aussi défaillant l'avocat qui, quand la situation l'exige et lorsque l'affaire touche à l'intérêt général, manquerait d'interpeller l'opinion publique.
+
+<<566.17;577.89;fr>>
+Partant, l'avocat doit être libre d'agir et de s'exprimer, même en dehors du prétoire, dès l'instant où ses interventions sont au service de la défense du client.
+
+<<577.89;594.89;fr>>
+Avec constance, votre jurisprudence a d'ailleurs amplement reconnu comment, combien la profession d'avocat jouait un rôle central dans la défense des droits des citoyens, mais aussi, et je cite, dans l'administration de la justice et le maintien de l'état de droit.
+
+<<594.89;606.01;fr>>
+C'est pour cette raison qu'à l'image d'autres acteurs clés d'une démocratie, les avocats doivent bénéficier d'une protection privilégiée et renforcée.
+
+<<606.01;620.77;fr>>
+Car restreindre les droits et libertés de l'avocat revient nécessairement à porter atteinte aux droits des justiciables, mais aussi au bon fonctionnement de la justice ainsi qu'aux principes essentiels de la prééminence du droit.
+
+<<620.77;633.97;fr>>
+Dans ces conditions, votre Cour ne concède qu'une très faible liberté aux États lorsque ceci limite les droits des avocats sans égard pour les droits des justiciables.
+
+<<633.97;646.45;fr>>
+En ce domaine, la marge d'appréciation concédée aux États est d'autant plus réduite qu'il existe un net consensus européen en faveur d'une forte protection des droits des avocats.
+
+<<646.45;655.21;fr>>
+Votre Cour l'a déjà reconnu en cohérence avec plusieurs textes convergents d'organes du Conseil de l'Europe.
+
+<<655.21;669.97;fr>>
+Autre preuve en ce sens, le soutien unanime apporté aux requérants sous la forme des tierces interventions par l'ensemble des institutions françaises et européennes représentant la profession d'avocat.
+
+<<669.97;680.37;fr>>
+Enfin, un bref regard sur le droit comparé vous convaincra définitivement de la solidité du consensus européen en faveur des droits de l'avocat.
+
+<<680.37;694.73;fr>>
+Pour ne prendre qu'un seul mais illustre exemple, la jurisprudence de la Cour suprême des États-Unis, que votre Cour observe avec intérêt, reconnaît une très forte protection à la liberté d'expression des avocats.
+
+<<694.73;719.77;fr>>
+Ainsi, dans ses arrêts Sawyer de 1959, Garrison de 1964 ou Gentile de 1991, la Cour suprême américaine a jugé qu'un avocat pouvait critiquer vertement des magistrats, notamment pour dénoncer un possible manque d'impartialité, et ce même par des propos tenus hors du prétoire et dans la presse.
+
+<<719.77;728.61;fr>>
+La présente affaire vous offre une occasion rare de confirmer et d'amplifier solennellement cette protection due à l'avocat.
+
+<<728.61;737.69;fr>>
+Protection extrêmement précieuse puisqu'elle est utile et même indispensable aux justiciables, ainsi qu'à l'idée même de justice.
+
+<<737.69;748.41;fr>>
+En effet, les deux questions soumises aujourd'hui à votre appréciation concernent les deux piliers européens sur lesquels ce statut protecteur de l'avocat repose.
+
+<<748.41;752.65;fr>>
+Le droit au procès équitable et la liberté d'expression.
+
+<<752.65;765.69;fr>>
+Ainsi, la première de ces questions concerne le manque d'impartialité de la formation de la Cour de cassation qui a statué sur l'ultime recours interne du requérant dans la présente affaire.
+
+<<765.69;781.65;fr>>
+Rappelons en effet que Mme Marie-Paul Moraquini, l'une des juges d'instruction chargée du dossier Borrell et auteure des poursuites contre le requérant Olivier Maurice, avait déjà été mise en cause pour sa gestion d'un autre dossier, l'affaire dite de la Scientologie.
+
+<<781.65;796.09;fr>>
+Précisons que dans cette affaire, comme pour l'affaire Borrell, Olivier Maurice était l'avocat des partis civils et qu'à sa demande, l'État français a été condamné pour dysfonctionnement du service public de la justice.
+
+<<796.09;808.61;fr>>
+Or en 2000, à l'occasion d'une assemblée générale des magistrats, le juge Jean-Yves Borrell a exprimé son soutien et sa confiance à sa collègue, juge d'instruction.
+
+<<808.61;812.61;fr>>
+Il affirma même explicitement qu'il en était proche.
+
+<<812.61;835.89;fr>>
+Pourtant, en dépit de cette proximité affichée, au surplus à propos d'une affaire impliquant Olivier Maurice, ce juge accepta en 2009, comme conseiller au sein de la formation de la Chambre criminelle, qui antérina la condamnation pénale du requérant pour diffamation de la juge Marie-Paul Moracchini.
+
+<<835.89;854.77;fr>>
+Ainsi que nous l'avons amplement démontré dans nos observations écrites, ce seul fait suffit à caractériser une violation de l'article 6, paragraphe 1er, et plus particulièrement de l'exigence d'impartialité dont votre jurisprudence est la gardienne vigilante.
+
+<<854.77;862.13;fr>>
+En réponse, le gouvernement tente de justifier les propos tenus par le juge Jean-Yves Monfort.
+
+<<862.13;876.05;fr>>
+Il souligne, et je cite, qu'ils étaient suscités par le fait que la presse avait relaté les poursuites disciplinaires et autres déboires de la juge d'instruction Marie-Paul Moracchini.
+
+<<876.05;877.05;fr>>
+Mais ce n'est pas la question.
+
+<<877.05;882.53;fr>>
+Personne ne conteste ici la liberté d'expression du juge Jean-Yves Monfort.
+
+<<882.53;891.97;fr>>
+En 2000, il était parfaitement libre de tenir les propos soutenant la juge Marie-Paul Moracchini face à Olivier Maurice.
+
+<<891.97;901.65;fr>>
+Cependant, en 2009, ces mots l'empêchaient de statuer dans un contentieux opposant cette même juge à Olivier Maurice.
+
+<<901.65;914.57;fr>>
+Car votre jurisprudence est ferme, constante et très claire, doit se déporter tout juge dont on peut légitimement craindre un manque d'impartialité, l'affaire Mikaleff.
+
+<<914.57;928.05;fr>>
+Le gouvernement défendeur prétend essentiellement que dans une formation de dix juges, la seule présence du juge Jean-Yves Monfort n'était pas de nature à créer un vice de partialité.
+
+<<928.05;930.97;fr>>
+Mais cet argument ne saurait résister.
+
+<<930.97;949.37;fr>>
+En effet, toujours selon votre jurisprudence, seul compte le fait de savoir si la situation d'un magistrat, même dans une juridiction collégiale, est de nature à faire planer un doute sérieux dans l'esprit des partis à l'instance.
+
+<<949.37;963.09;fr>>
+Dans ce cadre donc, et je cite, « même les apparences peuvent revêtir de l'importance afin de garantir la confiance que les tribunaux d'une société démocratique se doivent d'inspirer au justiciable ».
+
+<<963.09;975.21;fr>>
+Or cette confiance est irrémédiablement entamée quand un magistrat qui auparavant a clairement soutenu l'une des parties contre l'autre siège dans la formation de jugement.
+
+<<975.21;1003.61;fr>>
+Car le magistrat a nécessairement eu voix au chapitre, en particulier lors du délibéré, il a donc pu influencer les autres magistrats, qu'il ait ou non exercé cette influence dans un sens précis, finalement importe peu, car selon votre raisonnement habituel, une seule chose compte, que le justiciable ait nourri, je cite, « des craintes objectivement justifiées d'un manque d'impartialité ».
+
+<<1003.61;1014.85;fr>>
+Dès lors, la seule présence d'un magistrat qui aurait dû se déporter, contamine l'ensemble de la formation de jugement par un soupçon sérieux de partialité.
+
+<<1014.85;1022.81;fr>>
+Dans ces conditions, tout comme l'a fait à l'unanimité la Chambre, votre court ne peut que condamner la France pour violation de l'article 6.
+
+<<1022.81;1032.33;fr>>
+Mais contrairement à la formation de Chambre, vous ne vous arrêterez pas là et vous condamnerez aussi la France pour violation de l'article 10, ainsi que va vous l'exposer Nicolas Herpé.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1035.0;1037.2;fr>>
+Merci, maître Petitti.
+
+<<1037.2;1040.0;fr>>
+Je donne la parole à monsieur Nicolas Hervieu.
+
+<<1040.0;1041.0;fr>>
+Vous avez la parole.
+
+[[Applicant;AP2]]
+
+<<1041.45;1047.13;fr>>
+Imposer silence à l'expression d'une opinion revient à voler l'humanité tout entière.
+
+<<1047.13;1063.21;fr>>
+Monsieur le Président, Mesdames, Messieurs les Juges, ces mots de John Stuart Mill font écho aux vôtres, car vous l'avez rappelé à maintes reprises, la liberté d'expression est l'un des fondements essentiels d'une société démocratique, l'une des conditions primordiales de son progrès et de l'épanouissement de chacun.
+
+<<1063.21;1074.73;fr>>
+Protéger la liberté d'expression n'est donc pas qu'une fin en soi, c'est aussi et surtout un instrument au service d'une ambition plus vaste, protéger la démocratie et garantir l'effectivité des droits conventionnels.
+
+<<1074.73;1082.33;fr>>
+Il est donc crucial, fondamental même, que tous ceux qui sont au service de cette haute ambition bénéficient d'une protection importante.
+
+<<1082.33;1088.25;fr>>
+Tel est le cas des avocats et tel fut le cas dans la présente affaire d'Olivier Maurice.
+
+<<1088.25;1102.53;fr>>
+En septembre 2000, c'est comme avocat de la veuve du magistrat Bernard Borel que le gouvernement requérant, en se fondant sur des faits précis, a dénoncé dans la presse des connivences et un comportement des magistrats instructeurs contraires à l'impartialité et à la loyauté.
+
+<<1102.53;1108.41;fr>>
+En novembre 2009, c'est au mépris de ce statut d'avocat qu'une lourde condamnation pénale lui a été infligée.
+
+<<1108.41;1116.05;fr>>
+Aujourd'hui devant vous, c'est toujours comme avocat qu'Olivier Maurice en appelle à la philosophie protectrice qui irrigue votre jurisprudence.
+
+<<1116.05;1124.33;fr>>
+Or, à rebours complet de cette approche protectrice, le gouvernement défendeur tente aujourd'hui de faire voler une approche triplement restrictive.
+
+<<1124.33;1126.97;fr>>
+Restrictive de votre propre office d'abord.
+
+<<1126.97;1130.73;fr>>
+Restrictive de la liberté d'expression des avocats ensuite.
+
+<<1130.73;1136.73;fr>>
+Restrictive du droit corrélatif de dénonciation et de critique du fonctionnement d'une institution judiciaire enfin.
+
+<<1136.73;1143.53;fr>>
+Aujourd'hui, c'est à vous qu'il revient de faire résolument échec à cette funeste tentative.
+
+<<1143.53;1148.45;fr>>
+En premier lien, en effet, c'est à tort que le gouvernement défendeur prétend limiter votre office.
+
+<<1148.45;1157.13;fr>>
+Dans ses observations, il affirme ainsi que seules les juridictions nationales seraient compétentes pour identifier les faits de l'espèce, les apprécier et les qualifier juridiquement.
+
+<<1157.13;1162.13;fr>>
+De cette façon, le gouvernement croit pouvoir en conclure que vous êtes lié par l'appréciation nationale des faits.
+
+<<1162.13;1167.57;fr>>
+Mais sauf à saper radicalement l'idée même de protection de la liberté d'expression, vous ne pourrez souscrire à cette approche.
+
+<<1167.57;1173.49;fr>>
+Certes, nul ne conteste ici l'importance du principe de subsidiarité chère à votre cours.
+
+<<1173.49;1183.73;fr>>
+Mais contrôler la qualification juridique des faits réalisées au plan national ne revient nullement, pour reprendre les mots du président Costa, à succomber au péché de la quatrième instance.
+
+<<1183.73;1188.33;fr>>
+Bien au contraire, il s'agit simplement pour votre cours d'exercer pleinement son office.
+
+<<1188.33;1191.25;fr>>
+Il en est particulièrement ainsi dans le domaine de la liberté d'expression.
+
+<<1191.25;1203.97;fr>>
+Ainsi, dans son arrêt Animal Defense International contre le Royaume-Uni de 2013, la Grande Chambre a rappelé qu'il revenait de vérifier que les autorités nationales s'étaient fondées sur une appréciation acceptable des faits pertinents.
+
+<<1203.97;1212.89;fr>>
+Partant, dans la présente affaire, votre cours ne sera aucunement lié par l'appréciation nationale des faits, comme le soutient et l'espère le gouvernement défendant.
+
+<<1212.89;1217.53;fr>>
+Surtout, du fait des circonstances de l'espèce, votre contrôle sera strict et exigeant.
+
+<<1217.53;1222.21;fr>>
+Et corrélativement, la France ne pourra guère se draper dans une quelconque marge d'appréciation.
+
+<<1222.21;1231.25;fr>>
+En deuxième lieu, en effet, si la liberté d'expression jouit en soi d'une forte protection, cette protection est décuplée pour certains propos et pour certains orateurs.
+
+<<1231.25;1237.45;fr>>
+Tel est le cas en l'espèce où est en cause la parole de l'avocat dans le cadre de sa mission de défense.
+
+<<1237.45;1241.53;fr>>
+Aurait-il besoin de le rappeler? Combien est constante et consistante votre jurisprudence
+
+<<1241.53;1245.81;fr>>
+qui protège intensément la liberté d'expression de l'avocat?
+
+<<1245.81;1256.61;fr>>
+Des arrêts Nicolas contre Finlande de 2002 à l'arrêt de Grande Chambre qui prit Yannou contre Chypre de 2005, en passant par l'arrêt mort contre France de 2011, tous convergent vers cette idée cruciale.
+
+<<1256.61;1260.25;fr>>
+La liberté d'expression des avocats exige de très fortes garanties.
+
+<<1260.25;1267.77;fr>>
+Pourtant, contre toute évidence et sans craindre la cohérence, le gouvernement essaye de restreindre la portée de cette liberté.
+
+<<1267.77;1270.85;fr>>
+Et ce en tentant de scinder en deux la figure de l'avocat.
+
+<<1270.85;1276.45;fr>>
+D'une part, sa mission de défense, le défenseur, d'autre part l'acteur du débat public.
+
+<<1276.45;1286.45;fr>>
+En effet, cette tentative elle-même ne saurait faire illusion et tromper votre cours tant les supports conventionnels de la liberté d'expression ne sont pas alternatifs, ils sont cumulatifs.
+
+<<1286.45;1291.37;fr>>
+Et la présente affaire le démontre avec éloquence. Si les propos litigieux du requérant
+
+<<1291.37;1300.81;fr>>
+doivent jouir d'une protection conventionnelle renforcée, c'est d'abord parce qu'ils ont été exprimés par un avocat lors d'une procédure judiciaire et surtout au service de la mission de défense.
+
+<<1300.81;1309.85;fr>>
+Cette protection privilégiée de la liberté d'expression des avocats n'est donc pas confinée aux seules limites du prétoire et s'étend bien au-delà dans l'espace public et notamment dans la presse.
+
+<<1309.85;1318.17;fr>>
+En l'espèce nulle-conteste, l'objectif des propos du requérant était bien d'assurer la défense de sa cliente. Mais il y a plus.
+
+<<1318.17;1331.13;fr>>
+En effet, rappelons ensuite que les propos d'Olivier Maurice avaient trait à une affaire riche en répercussions médiatiques et politiques, en l'occurrence l'assassinat du magistrat Bernard Borel. Affaire liée à un débat d'intérêt général et votre propre cours
+
+<<1331.13;1335.13;fr>>
+l'a déjà reconnu dans son arrêt « Judie et Libération » de 2008 contre France.
+
+<<1335.13;1345.37;fr>>
+Ainsi donc, le droit du requérant de s'exprimer au nom de sa cliente rejoint pleinement le droit du public à être informé sur une procédure judiciaire de grande ampleur. Pour
+
+<<1345.37;1358.09;fr>>
+tenter encore de minorer la liberté d'expression, le gouvernement se permet d'affirmer que ses propos ne servaient pas à une défense efficace ou ne relevaient pas d'une stratégie de défense opportune. Le gouvernement défendeur prétend ainsi justifier la sanction infligée
+
+<<1358.09;1358.09;fr>>
+par le requérant.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1357.35;1364.79;fr>>
+Monsieur Hergé, excusez-moi, est-ce qu'il serait possible de parler moins vite à cause de l'interprétation en anglais?
+
+[[Applicant;AP2]]
+
+<<1365.18;1367.9;fr>>
+Je souhaite respecter le temps qui m'est imparti, donc je vais parler moins vite.
+
+<<1368.1;1369.1;fr>>
+Merci, monsieur le président.
+
+<<1369.3;1370.5;fr>>
+Merci, monsieur.
+
+<<1370.7;1382.18;fr>>
+Le gouvernement défendeur prétend ainsi justifier la sanction infligée au requérant au motif que, selon lui, une bonne défense aurait consisté uniquement à exercer les recours disponibles, puis à se taire.
+
+<<1383.1;1386.54;fr>>
+A de nombreux égards, une telle position est extrêmement incritiquable.
+
+<<1386.78;1396.98;fr>>
+Premièrement, l'intervention d'Olivier Maurice dans la presse a permis de rendre public un fait qui touche tant aux intérêts de sa cliente qu'à l'intérêt général tout entier.
+
+<<1397.18;1414.86;fr>>
+Deuxièmement, en prétendant définir ce qui aurait été la bonne défense, le gouvernement heurte radicalement votre jurisprudence selon laquelle la conduite de la défense appartient pour l'essentiel à l'accusé et à l'avocat et sous le nom du principe d'indépendance, du barreau par rapport à l'Etat.
+
+<<1415.06;1427.94;fr>>
+Troisièmement et enfin, votre cours a reconnu aux avocats le droit de se prononcer sur le fonctionnement de la justice et publiquement sans jamais conditionner la jouissance de ce droit à l'exercice ou non de recours judiciaire.
+
+<<1428.62;1439.74;fr>>
+Tout au plus, la cour tient-elle compte, parmi d'autres éléments, du fait que l'avocat, à l'heure de s'exprimer dans la presse, a bien accompli sa mission et a actionné les recours disponibles.
+
+<<1439.98;1442.9;fr>>
+Tel fut précisément le comportement de maître Olivier Maurice.
+
+<<1443.1;1451.38;fr>>
+Dès qu'il eut connaissance des faits impliquant les jus d'instruction, son confrère, Laurent de Conney lui-même, en saisit la garde des Sceaux pour demander une enquête.
+
+<<1451.38;1456.22;fr>>
+Sachant qu'à l'époque, aucune saisine directe du Conseil supérieur de la magistrature n'était possible.
+
+<<1457.1;1464.1;fr>>
+Pourtant, il est indéniable que le requérant, en sa qualité d'avocat, disposait du droit de s'exprimer librement dans la presse.
+
+<<1464.62;1470.7;fr>>
+Il se tend en vertu de sa mission de défense qu'en vertu de sa contribution au débat d'intérêt général soulevé par l'affaire Borrell.
+
+<<1471.66;1478.1;fr>>
+Bien sûr, cette liberté d'expression n'est pas absolue et trouve une limite dans les propos manifestement excessifs.
+
+<<1478.98;1485.1;fr>>
+Toutefois, cette limite ne peut être synonyme de négation de l'indispensable droit de dénonciation des dysfonctionnements judiciaires.
+
+<<1486.06;1489.42;fr>>
+En 3e et dernier lieu, il convient en effet de le marteler une fois encore.
+
+<<1489.86;1493.3;fr>>
+Votre jurisprudence, par principe, protège le droit de critique.
+
+<<1494.06;1496.62;fr>>
+Et ce, même en vert l'institution judiciaire et les magistrats.
+
+<<1497.62;1508.02;fr>>
+Certes, le requérant admet parfaitement avec votre jurisprudence qu'il est parfois nécessaire de protéger les magistrats des attaques destructrices dénuées de fondements sérieux.
+
+<<1508.98;1512.18;fr>>
+Mais le seul fait de critiquer les magistrats ne saurait suffire à justifier la sanction.
+
+<<1512.82;1516.14;fr>>
+Seul importe la teneur, la forme et l'objectif des propos.
+
+<<1516.3;1517.3;fr>>
+Or, qu'en est-il en l'espèce?
+
+<<1517.94;1529.38;fr>>
+Pour sanctionner Olivier Maurice, les juridictions françaises ont seulement retenu deux phrases de l'article du Monde où l'avocat dénonce, je cite, un comportement parfaitement contraire au principe d'impartialité et de loyauté.
+
+<<1529.78;1533.3;fr>>
+Et une connivence entre le procureur de Djibouti et les magistrats français.
+
+<<1533.5;1538.46;fr>>
+Peut-on raisonnablement affirmer qu'il s'agit là d'une attaque destructrice dénuée de fondements sérieux?
+
+<<1538.46;1540.46;fr>>
+Non, résolument non.
+
+<<1540.66;1542.34;fr>>
+Et ce, pour trois raisons cumulatives.
+
+<<1542.54;1547.26;fr>>
+Premièrement, ces propos ne contiennent ni injure, ni insulte, pas même une invective.
+
+<<1547.7;1554.66;fr>>
+Le contraste est d'ailleurs saisissant avec certains de vos précédents, tels l'affaire Coutan contre France dont se prévaut aujourd'hui le gouvernement.
+
+<<1554.86;1564.34;fr>>
+Rappelons ainsi que dans cette affaire, une avocate fut sanctionnée pour avoir accusé les autorités de recourir à des méthodes dignes de la Gestapo et de la milice.
+
+<<1564.54;1569.46;fr>>
+Chacun pourra aisément apprécier la différence radicale avec les propos reprochés à Olivier Maurice.
+
+<<1569.66;1581.14;fr>>
+Certes, les mots du requérant peuvent être considérés comme des jugements de valeur, mais votre cours admet ces jugements de valeur, admet que la critique admissible envers les magistrats doit être plus vaste, comme tout fonctionnaire.
+
+<<1581.34;1593.66;fr>>
+Et vous avez également admis qu'un avocat pouvait utiliser d'un ton acerbe, voire sarcastique, pour fustiger les magistrats, voire même des propos qui dénoteraient une certaine absence de considération, je cite les mots de votre cours une fois encore.
+
+<<1593.86;1599.86;fr>>
+Deuxièmement, les propos du requérant reposaient indéniablement sur une base factuelle suffisante au moment des faits.
+
+<<1600.06;1608.1;fr>>
+En effet, si votre cours tolère des jugements de valeur qui, donc, ne se prêtent pas à une démonstration de leur exactitude, c'est à la condition qu'ils ne soient pas dénués de tout fondement.
+
+<<1608.3;1613.5;fr>>
+Or, nul ne peut contester que les critiques d'Olivier Maurice reposaient bien sur des éléments factuels consistants.
+
+<<1613.7;1620.5;fr>>
+La découverte d'une cassette non cotée dans la procédure, accompagnée d'une note manuscrite du procureur de Djibouti.
+
+<<1620.7;1627.9;fr>>
+Et cette note révélait clairement une grande proximité avec les magistrats instructeurs, ainsi qu'une forte animosité envers Mme Borrell.
+
+<<1628.1;1633.5;fr>>
+Et je tiens à vous citer intégralement cette brève note du procureur de Djibouti et la juge Marie-Paul Moracchini.
+
+<<1633.7;1634.7;fr>>
+Salut, Marie-Paul.
+
+<<1634.7;1637.7;fr>>
+Je t'envoie comme convenu la cassette vidéo du transport au Goubet.
+
+<<1637.9;1640.1;fr>>
+J'espère que l'image sera satisfaisante.
+
+<<1640.3;1642.7;fr>>
+J'ai regardé l'émission sans aucun doute sur TF1.
+
+<<1642.9;1649.9;fr>>
+J'ai pu constater à nouveau combien Mme Borrell et ses avocats sont décidés à continuer leur entreprise de manipulation.
+
+<<1650.1;1651.1;fr>>
+Je t'appellerai bientôt.
+
+<<1651.1;1653.3;fr>>
+Passe le bonjour à Mme Borrell.
+
+<<1653.3;1656.9;fr>>
+Passe le bonjour à Roger s'il est déjà rentré, de même qu'à JC Dandelle.
+
+<<1657.1;1658.7;fr>>
+A très bientôt. Je t'embrasse.
+
+<<1658.9;1659.9;fr>>
+Jam.
+
+<<1660.1;1664.5;fr>>
+Mettons-nous un seul instant à la place de Mme Borrell et de ses avocats lorsqu'ils ont découvert cette note.
+
+<<1664.7;1670.7;fr>>
+Le gouvernement défendeur rétorque que les magistrats instructeurs impliqués n'ont pas été sanctionnés pour ces faits.
+
+<<1670.9;1676.1;fr>>
+Mais du point de vue de la liberté d'expression d'Olivier Maurice et de votre jurisprudence, cette absence de sanction est totalement indifférente.
+
+<<1676.3;1678.3;fr>>
+Seul importe la question de savoir.
+
+<<1678.5;1684.5;fr>>
+Si au moment des faits, la critique d'une codivence était dénuée de tout fondement factuel sérieux.
+
+<<1684.7;1688.3;fr>>
+Or, l'existence des faits n'a jamais été contestée par quiconque.
+
+<<1688.5;1690.5;fr>>
+Même les juridictions internes l'ont reconnue.
+
+<<1690.7;1696.3;fr>>
+3ement et surtout, les critiques du requérant visent exclusivement le comportement professionnel des magistrats.
+
+<<1696.5;1700.9;fr>>
+A aucun moment, Olivier Maurice n'a mis en cause la personne même des magistrats.
+
+<<1701.1;1705.3;fr>>
+Et à aucun moment, Olivier Maurice n'a dépassé le cadre de sa mission de défense.
+
+<<1705.5;1714.3;fr>>
+Ces mots cités dans l'article du Monde se bornaient simplement à dénoncer des éléments factuels faisant douter de l'impartialité et de la loyauté des magistrats instructeurs.
+
+<<1714.5;1721.1;fr>>
+Le fait que ces magistrats aient été désaisis du dossier Borrell quelques semaines auparavant n'altérant rien à la nécessité d'une telle dénonciation.
+
+<<1721.1;1727.7;fr>>
+Car tous les actes d'instruction accomplis par ces magistrats demeurent dans la procédure et influeront sur la suite de la procédure.
+
+<<1727.7;1735.1;fr>>
+Et strictement rien ne vient étayer l'idée selon laquelle cette dénonciation serait motivée par de quelconques animosités personnelles.
+
+<<1735.1;1743.9;fr>>
+En réponse, le gouvernement se bande à affirmer qu'il faudrait protéger la probité du système judiciaire et que les propos du requérant portaient atteinte à cette probité.
+
+<<1743.9;1750.7;fr>>
+Mais de tels arguments sont parfaitement incongrus, ce qui sape l'autorité des tribunaux.
+
+<<1750.7;1756.1;fr>>
+Ce n'est pas la dénonciation de dysfonctionnements judiciaires, c'est l'existence même de ces dysfonctionnements.
+
+<<1756.1;1761.5;fr>>
+Plus encore, ce qui risque d'affaiblir la confiance du public envers le système judiciaire.
+
+<<1761.5;1766.5;fr>>
+Ce n'est pas la révélation d'un dysfonctionnement, c'est la loi du silence qui baïonnerait les avocats.
+
+<<1766.5;1773.5;fr>>
+Au demeurant, le fait que ce soit un avocat qui ait dénoncé le dysfonctionnement judiciaire n'affaiblit en rien ce droit de critique et d'alerte.
+
+<<1773.5;1774.5;fr>>
+Bien au contraire.
+
+<<1774.5;1782.5;fr>>
+Bien sûr, votre jurisprudence estime que l'avocat joue un rôle clé dans l'administration de la justice comme intermédiaire entre le justiciable et les tribunaux.
+
+<<1782.5;1787.5;fr>>
+Mais à ce titre, la mission des avocats n'est pas de servir l'organe, l'institution judiciaire.
+
+<<1787.5;1793.5;fr>>
+Leur vocation, c'est d'être au service de la fonction, du service public de la justice.
+
+<<1793.5;1797.5;fr>>
+Et donc d'exercer leur mission de défense avec courage au bénéfice du justiciaire.
+
+<<1797.5;1801.5;fr>>
+Et cette nuance entre mission et institution est fondamentale.
+
+<<1801.5;1808.5;fr>>
+Car pour assurer effectivement cette mission de défense, il peut arriver que l'avocat soit contraint de mettre en cause l'institution judiciaire.
+
+<<1808.5;1821.5;fr>>
+Et c'est très précisément ce que votre grande chambre, dans la réquiperie à nous contre Chypre de 2005, a reconnu en estimant que l'avocat avait le droit de s'opposer à l'attitude du tribunal ou de s'en plaindre au nom de l'intérêt des requins.
+
+<<1821.5;1830.5;fr>>
+Et en l'espèce, c'est très exactement ce droit conventionnel qu'Olivier Maurice a exercé en sa qualité d'avocat et au nom de sa mission de défense.
+
+<<1830.5;1839.5;fr>>
+Monsieur le Président, Mesdames, Messieurs les juges, admettre la sanction infligée à Olivier Maurice, c'est tolérer qu'un avocat puisse être sanctionné pour avoir simplement exercé sa mission.
+
+<<1839.5;1847.5;fr>>
+Admettre la sanction infligée à Olivier Maurice, c'est risquer de mettre en danger ce que votre grande chambre a déjà reconnu comme étant éminemment précieux.
+
+<<1847.5;1851.5;fr>>
+La capacité des avocats à représenter effectivement les justiciables.
+
+<<1851.5;1857.5;fr>>
+A l'inverse, condamner la France dans la présente affaire, c'est envoyer un signal salutaire et solennel.
+
+<<1857.5;1861.5;fr>>
+D'une part, la justice doit offrir toutes les garanties d'impartialité.
+
+<<1861.5;1870.5;fr>>
+D'autre part, l'avocat doit pouvoir exercer librement sa mission de défense, notamment pour dénoncer un manquement de cette impartialité.
+
+<<1870.5;1878.5;fr>>
+Autant de droits au service des justiciables, autant de garanties au service de la société démocratique, autant d'impératifs qu'il vous revient aujourd'hui de protéger fermement.
+
+<<1878.5;1891.5;fr>>
+Et de cette manière, et pour faire nôtre les mots de Cicéron, autre illustre plaideur, vous ferez en sorte que l'équité, si cruellement persécutée et battue par tant d'orages, trouve enfin à l'abri de votre tribunal un port et un refuge.
+
+<<1891.5;1892.5;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1896.7;1898.98;fr>>
+Merci, Monsieur Hervieu.
+
+<<1899.18;1903.94;fr>>
+Je donne la parole maintenant à Mme Ancel pour le gouvernement. Madame.
+
+[[Government;GR1]]
+
+<<1905.83;1926.15;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, l'affaire qui est portée devant vous aujourd'hui appelle que vous tranchiez deux questions intéressantes toutes deux, le fonctionnement de la justice et la perception de ses acteurs, tant de l'intérieur du système judiciaire, notamment par la partie civile, que de l'extérieur par le grand public.
+
+<<1927.75;1931.47;fr>>
+La première question porte sur l'impartialité d'une formation de jugement.
+
+<<1932.19;1941.39;fr>>
+La seconde question, qui a suscité la demande de renvoi devant votre formation plénière, concerne l'étendue de la liberté d'expression des avocats.
+
+<<1943.67;1958.75;fr>>
+S'agissant du premier grief relatif à l'article 6, paragraphe 1 de la Convention, le requérant conteste le défaut d'impartialité de la Cour de Cassation qui a rejeté par arrêt du 10 novembre 2009 le pourvoi qu'il avait formé contre l'arrêt de la Cour d'appel de Rouen.
+
+<<1960.31;1969.75;fr>>
+Votre jurisprudence conduit à distinguer d'une part l'impartialité objective et d'autre part l'impartialité subjective.
+
+<<1971.15;1978.03;fr>>
+L'impartialité subjective implique de vérifier que le juge n'a pas de parti pris ou de préjugé.
+
+<<1978.99;1987.35;fr>>
+Or, il n'a jamais été soutenu, ni même allégué dans la requête portée devant vous, que tel aurait été le cas.
+
+<<1988.99;2007.51;fr>>
+L'impartialité objective, quant à elle, ainsi que votre discours l'a définie dans l'arrêt Michaelève contre Malte, consiste à se demander si, indépendamment de la conduite personnelle du juge, certains faits vérifiables autorisent à suspecter l'impartialité de ce dernier.
+
+<<2008.95;2015.91;fr>>
+Cet arrêt rappelle que si l'optique du requérant entre en ligne de compte, dans votre appréciation, il n'est pas déterminant.
+
+<<2016.79;2024.43;fr>>
+Il faut en effet encore apprécier si les appréhensions de l'intéressé peuvent être considérées comme objectivement justifiées.
+
+<<2025.95;2032.87;fr>>
+Ainsi que votre jurisprudence nous y invite, il convient de procéder à un examen précis des faits de la cause.
+
+<<2034.47;2043.03;fr>>
+Le requérant soutient dans ses observations en réplique que le magistrat concerné par ces critiques, M.Y.M., qui faisait partie de la formation de jugement de la
+
+<<2043.03;2053.31;fr>>
+Courte de cassiation, a, je cite, manifesté publiquement et dans un cadre officiel son soutien, ainsi que sa confiance à Mme M. à propos de l'affaire de la
+
+<<2053.31;2061.03;fr>>
+scientologie où celle-ci était juge d'instruction et où Olivier Maurice était quant à lui conseil d'une partie civile.
+
+<<2061.55;2065.87;fr>>
+La partie requérante en conclut que M.Y.M.,
+
+<<2065.91;2071.31;fr>>
+je cite encore, a pris partie pour l'une au détriment de l'autre.
+
+<<2071.31;2080.63;fr>>
+Mais la vision des événements décrites par le requérant ne correspond pas à une appréhension objective de la réalité.
+
+<<2081.87;2087.59;fr>>
+Rappelons en premier lieu que tous les ans se tient une Assemblée Générale dans chacune des juridictions de France.
+
+<<2088.75;2094.95;fr>>
+Cette Assemblée Générale réunit exclusivement les magistrats du tribunal concerné et n'est pas publique.
+
+<<2094.95;2101.79;fr>>
+Les assertions de M.Maurice à ce sujet sont donc erronées.
+
+<<2101.79;2113.43;fr>>
+Rappelons également que sont évoquées à l'occasion de l'Assemblée Générale des questions d'organisation de la juridiction ainsi que tout problème ou difficulté concernant le tribunal.
+
+<<2115.19;2127.71;fr>>
+C'est donc dans le cadre d'une Assemblée Générale des magistrats du tribunal de grande instance de Paris, tenu le 4 juillet 2000, qu'a été évoquée la situation de Mme M, alors magistrat en poste dans ce tribunal.
+
+<<2129.03;2137.75;fr>>
+Le compte rendu de l'Assemblée Générale qui a été produit par le requérant permet d'avoir une connaissance précise du déroulement des événements.
+
+<<2138.79;2151.75;fr>>
+Le président du tribunal a été interrogé par les magistrats sur des informations parues dans la presse selon lesquelles le garde des Sceaux avait engagé des poursuites disciplinaires contre Mme M à l'occasion du dossier dit de la scientologie.
+
+<<2151.75;2162.35;fr>>
+Le débat entre le président du tribunal et les magistrats s'est donc noué sur la manière dont la procédure disciplinaire avait été portée à la connaissance de l'intéressé.
+
+<<2163.23;2170.67;fr>>
+Ce débat a abouti à la rédaction d'une motion laquelle reflète parfaitement la nature des interventions des magistrats.
+
+<<2170.67;2177.23;fr>>
+En voici le texte de cette motion adoptée par l'Assemblée Générale des magistrats, je cite.
+
+<<2177.23;2212.87;fr>>
+L'Assemblée des magistrats du siège du tribunal de grande instance de Paris, réunie le 4 juillet 2000 sans contester le pouvoir reconnu au garde des Sceaux d'exercer des poursuites disciplinaires dans les conditions prévues par la loi, s'étonne d'apprendre par voix de presse l'engagement de poursuites de ce type à l'encontre de Mme M, premier juge d'instruction à Paris, alors que ni l'intéressé elle-même ni la hiérarchie judiciaire n'ont été avisées à ce jour officiellement d'un tel engagement. L'appréciation objective de la situation aboutit à constater
+
+<<2212.87;2219.87;fr>>
+qu'en juillet 2000, M. Y. M. s'est prononcé en faveur de l'information
+
+<<2219.87;2226.75;fr>>
+personnelle et non par voix de presse d'un magistrat qui fait l'objet de poursuites disciplinaires.
+
+<<2226.75;2232.39;fr>>
+À notre sens, les propos de M. Y. M. ne permettent pas
+
+<<2232.39;2248.43;fr>>
+de conclure à l'apparence de l'existence d'un préjugé ou d'un parti pris de la part de ce magistrat dans l'affaire qu'il a eu à connaître en sa qualité de juge à la Cour de cassation, neuf ans plus tard, en 2009. Mais au-delà de l'appréciation que
+
+<<2248.43;2263.71;fr>>
+vous pourrez porter sur ces propos, il faut à notre considérer la question de la partialité ou de l'impartialité de la formation de jugement dans son ensemble, indépendamment de la façon dont l'un de ses membres s'adresse à l'autre. Car, au contraire de l'approche
+
+<<2263.71;2283.23;fr>>
+subjective qui s'intéresse au comportement d'un juge, l'approche objective conduit à apprécier l'impact de l'apparence de l'existence d'un préjugé donné par un juge sur la formation de jugement dans son ensemble. En effet, votre Cour a jugé le cas
+
+<<2283.23;2287.87;fr>>
+de M. M. M. en 2010, en leur proposant une forme de jugement
+
+<<2287.87;2304.39;fr>>
+et votre Cour a jugé le 4 mars 2014, dans l'arrêt Fazli-Azlaner contre Turquie, que la prise de position préalable de certains juges ne suffit pas à elle seule pour considérer que l'impartialité de la formation de jugement a été altérée.
+
+<<2304.39;2315.23;fr>>
+En effet, il convient de prendre en compte d'autres éléments, tels que le nombre de magistrats concernés par la prise de position et leur rôle au sein de la formation de jugement.
+
+<<2315.23;2336.15;fr>>
+Ainsi, dans l'arrêt Mansell et Brancard contre France du 24 juin 2010, c'est bien le fait que 7 des 9 juges avaient pu apparaître comme ayant un parti pris ou un préjugé sur l'affaire qui a conduit votre Cour à considérer que l'article 6, paragraphe 1 de la Convention avait été méconnu.
+
+<<2336.15;2358.15;fr>>
+Ou encore, dans l'arrêt San Leona-Bandeclub contre Malte du 29 juillet 2004, vous avez conclu, au défaut d'impartialité de la formation de jugement, parce que l'ensemble des 3 juges composant la formation de jugement pouvaient être perçus comme ayant des préjugés sur l'affaire qu'ils étaient amenés à juger.
+
+<<2358.15;2365.71;fr>>
+Dans notre espèce, la formation de jugement de la Cour de cassation qui a connu l'affaire était composée de 10 magistrats.
+
+<<2365.71;2370.67;fr>>
+On soulignera que M.Y.M. n'avait aucun rôle spécifique.
+
+<<2370.67;2376.23;fr>>
+Il n'était ni président de la formation, ni rapporteur de l'affaire.
+
+<<2376.23;2405.99;fr>>
+Dans ces conditions, il nous apparaît que l'impartialité objective de la formation de jugement ne peut être contestée en raison de pronopos tenus en juillet 2000, soit près de 9 ans auparavant, sans lien avec l'affaire dont vous êtes saisi, alors que la formation de jugement était composée de 10 magistrats de la Cour de cassation et que la personne à laquelle on impute une apparence de préjugé ne disposait pas de pouvoir particulier dans cette formation.
+
+<<2405.99;2422.03;fr>>
+C'est pour ces raisons que le gouvernement estime que le grief tiré de la violation de l'article 6, par graphe 1 de la Convention fondée sur une allégation de défaut d'impartialité de la formation de jugement, n'est pas fondé.
+
+<<2422.03;2448.31;fr>>
+Sur le grief tiré de la violation de l'article 10 de la Convention et la liberté d'expression, le requérant a été condamné pour des propos tenus dans le journal Le Monde le 7 septembre 2000, dans lequel il mettait en cause gravement les juges d'instruction qui étaient en charge du dossier jusqu'au 21 juin 2000, date à laquelle ils ont été dessaisis.
+
+<<2448.31;2458.63;fr>>
+Ne sont pas en débat les points de savoir si l'ingérence contestée était prévue par la loi et si elle poursuivait un but légitime.
+
+<<2458.63;2468.55;fr>>
+Ces deux points ne sont en effet pas contestés par le requérant et sont étayés par une jurisprudence constante de votre cours dans ce domaine.
+
+<<2468.55;2480.23;fr>>
+La question de la proportionnalité de cette ingérence et surtout des principes qui la sous-tendent sont en revanche au cœur du débat.
+
+<<2480.23;2493.51;fr>>
+Le requérant considère qu'il existe, je le cite, de graves incertitudes et variations jurisprudentielles sur l'ampleur de la liberté d'expression hors de l'enceinte du prétoire.
+
+<<2493.51;2500.59;fr>>
+Il appelle à une modification radicale de votre jurisprudence sur la liberté d'expression des avocats.
+
+<<2500.59;2508.43;fr>>
+Il entend vous voir consacrer ce qu'il a appelé une protection fonctionnelle au profit des avocats.
+
+<<2508.43;2526.51;fr>>
+L'ordre des avocats au barreau de Paris, le Conseil national des barreaux et la conférence des bâtonniers évoquent même dans leur tierce intervention l'institution d'une immunité au profit des membres de leur profession.
+
+<<2526.51;2551.19;fr>>
+Un examen attentif de votre jurisprudence permet toutefois de ne pas souscrire à ce point de vue selon lequel il existerait de graves incertitudes jurisprudentielles et d'estimer que l'arrêt rendu par la cinquième section de votre cours, le 11 juillet 2013, s'inscrit parfaitement dans le cadre des principes prétoriens que vous avez eu l'occasion de dégager.
+
+<<2551.19;2568.83;fr>>
+Il ressort clairement de votre jurisprudence que la liberté d'expression des avocats est un principe fort et affirmé, dont l'étendue connaît toutefois, comme pour tout autre bénéficiaire de cette liberté, certaines limites.
+
+<<2568.83;2583.99;fr>>
+L'étendue de la liberté d'expression des avocats est précisément modulée en fonction de la place que ces derniers occupent dans le système judiciaire et de la spécificité de leur profession.
+
+<<2583.99;2600.15;fr>>
+Ce ne sont donc pas des considérations purement factuelles, ainsi que les qualifie le Conseil des barreaux européens dans sa tierce intervention, qui conduisent votre cours à juger différemment des propos tenus, soit par des journalistes, soit par des avocats, qui se rapportent à une même affaire.
+
+<<2600.15;2612.55;fr>>
+Mais c'est bien la qualité de l'auteur des propos qui joue un rôle direct sur l'appréciation de la proportionnalité d'une ingérence dans la liberté d'expression.
+
+<<2612.55;2622.31;fr>>
+Votre jurisprudence a en effet très tôt consacré le rôle spécifique des avocats dans le fonctionnement du système judiciaire.
+
+<<2622.31;2638.95;fr>>
+Vous avez ainsi décrit leur statut spécifique qui les place dans une situation centrale dans l'administration de la justice comme intermédiaire entre les justiciables et les tribunaux.
+
+<<2638.95;2659.35;fr>>
+Vous avez encore souligné qu'au regard de leur rôle clé, on peut attendre d'eux qu'ils contribuent au bon fonctionnement de la justice et ainsi à la confiance du public en celle-ci, et insisté sur les impératifs de bonne administration de la justice et la dignité de la profession d'homme de loi.
+
+<<2659.35;2662.63;fr>>
+Cette jurisprudence est constante.
+
+<<2662.63;2692.59;fr>>
+On pourra utilement se référer aux arrêts Casado-Coca contre Espagne du 24 février 1994, Nikula contre Finlande du 21 mars 2002, Schopfer contre Suisse du 20 mai 1999, Amiala-Kioé contre Moldova du 20 avril 2004, Alphantakis contre Grèce du 11 février 2010, Freita-Ecosta contre Portugal du 21 mars 2011, sans paragraphe au 46 notamment.
+
+<<2692.59;2719.55;fr>>
+Et c'est bien ce statut spécifique qui ne peut être ignoré, qui vous a conduit à consacrer une très large liberté d'expression des avocats en l'assortissant toutefois de nuances destinées conformément à la lettre de la Convention et à l'interprétation que vous en faites à préserver l'autorité du système judiciaire qui est l'un des fondements essentiels d'une société démocratique.
+
+<<2719.55;2730.43;fr>>
+Une analyse précise de votre jurisprudence démontre que les principes d'interprétation de l'article 10 de la Convention s'agissant des avocats sont déjà clairement posés.
+
+<<2730.43;2735.83;fr>>
+Elle conduit à distinguer trois situations.
+
+<<2735.83;2748.95;fr>>
+La première de ces situations correspond à l'hypothèse où l'avocat s'exprime dans les médias sur un sujet d'intérêt général concernant la justice sans lien avec une procédure judiciaire en cours.
+
+<<2748.95;2755.15;fr>>
+Dans cette hypothèse, vous considérez que la liberté d'expression des avocats est très étendue.
+
+<<2755.15;2770.87;fr>>
+C'est ce qui ressort de l'arrêt Amiya Ala Kioé contre Moldavie du 20 avril 2004, affaire qui concernait un requérant avocat ayant vivement critiqué une décision de la Cour constitutionnelle relative au statut de la profession d'avocat et à leur organisation.
+
+<<2770.87;2790.07;fr>>
+Votre cours a souligné que les propos tenus par le requérant, qui, bien que pouvant dénoter une certaine absence de considération pour la Cour constitutionnelle, étaient admissibles car ils concernaient précisément les questions d'intérêt général d'organisation de la profession.
+
+<<2790.07;2799.83;fr>>
+L'affaire Gouveia-Gomez-Fernandez et Freitas-Ecosta contre Portugal du 29 mars 2011 constitue également une illustration de ce principe.
+
+<<2799.83;2809.59;fr>>
+Les critiques émises ne concernaient pas une affaire pendante et, à notre, les intéressés n'étaient pas partis à la procédure concernée.
+
+<<2809.59;2815.79;fr>>
+La deuxième situation concerne les propos tenus dans le cadre d'une audience.
+
+<<2815.79;2821.91;fr>>
+Votre cours a consacré dans cette situation une très grande liberté de parole aux avocats.
+
+<<2821.91;2832.91;fr>>
+Cette liberté d'expression très étendue répond aux nécessités d'assurer une défense efficace des clients d'un avocat au cours d'une audience.
+
+<<2832.91;2840.83;fr>>
+C'est dans ce contexte particulier qu'il est admis que des propos discours-toits puissent être tenus contre des magistrats.
+
+<<2840.83;2847.91;fr>>
+Le plus souvent, les propos excessifs sont dirigés contre la partie adverse incarnée par le ministère public.
+
+<<2847.91;2860.51;fr>>
+La Cour a consacré la liberté de parole des avocats dans cette hypothèse en tenant compte de la circonstance particulière que le ministère public incarne dans ces situations, l'adversaire du client que l'avocat défend.
+
+<<2860.51;2884.67;fr>>
+Ainsi, dans la réunicula contre Finlande du 21 mars 2002, votre cours a souligné que, de manière générale, la différence établie entre le rôle du procureur et celui du juge confère une meilleure protection aux déclarations par lesquelles un accusé critique un procureur, par opposition à celle contenant des propos agressifs envers le juge ou le tribunal dans son ensemble.
+
+<<2884.67;2897.19;fr>>
+La troisième situation que votre jurisprudence relative à la liberté d'expression des avocats permet d'identifier correspond au cas qui vous est déféré en l'espèce.
+
+<<2897.19;2909.67;fr>>
+L'avocat s'exprime dans la presse sur une procédure en cours alors qu'il représente lui-même une partie à cette procédure.
+
+<<2909.67;2912.67;fr>>
+Votre jurisprudence est claire.
+
+<<2912.67;2927.07;fr>>
+L'avocat d'une partie à une procédure judiciaire en cours peut naturellement s'exprimer sur l'affaire en cause, mais doit le faire avec mesure.
+
+<<2927.07;2948.23;fr>>
+On peut s'interroger sur les motifs pour lesquels un avocat commentant dans les médias une affaire en cours, dans laquelle il est parti, ne pourrait pas le faire de manière excessive, y compris comme votre cours l'a accepté pour des journalistes, de manière polémique ou agressive et avec une dose d'exagération.
+
+<<2948.23;2956.79;fr>>
+Voir à ce sujet d'ailleurs l'arrêt d'EHASS et Gilsès contre Belgique du 24 février 1997.
+
+<<2956.79;2966.55;fr>>
+La réponse naturelle à cette question repose sur la place de l'avocat dans le système judiciaire.
+
+<<2966.55;2969.63;fr>>
+L'avocat a un rôle clé dans l'administration de la justice.
+
+<<2969.63;2975.71;fr>>
+Il contribue au bon fonctionnement de cette institution et à la confiance du public dans celle-ci.
+
+<<2975.71;2987.87;fr>>
+L'avocat, spécialiste du droit au cœur de l'organisation judiciaire, a à sa disposition l'arsenal de procédés légaux pour faire utilement valoir la cause de son client auprès des tribunaux.
+
+<<2987.87;2997.95;fr>>
+C'est l'utilisation de ces dispositifs légaux qui lui permet d'assurer au premier chef la défense efficace des intérêts de son client dans le cadre d'une procédure judiciaire en cours.
+
+<<2997.95;3011.55;fr>>
+Ces voies de droit sont les moyens naturels pour un avocat de répondre aux aspirations et attentes de son client dans le cadre judiciaire dévolu par le système démocratique à la résolution des litiges.
+
+<<3011.55;3029.51;fr>>
+C'est pour ces raisons que lorsqu'elle doit se prononcer sur des propos tenus dans les médias par un avocat sur une procédure en cours et dans laquelle il représente une partie, votre cours examine la question de savoir s'il intéressait à d'abord chercher à faire valoir ses intérêts par voie de droit légal à sa disposition.
+
+<<3029.51;3052.39;fr>>
+C'est ainsi que dans l'arrêt Chopfer contre Suisse du 20 mai 1999, vous avez conclu à l'absence de violation de l'article 10 de la Convention en retenant que le requérant, avocat de profession, avait fait part dans la presse de doléances au sujet d'une affaire pénale en cours sans avoir cherché à obtenir gain de cause en utilisant les voies légales.
+
+<<3052.39;3075.67;fr>>
+De même, dans la décision Coutan contre France du 24 janvier 2008, votre cours a reconnu le caractère manifestement mal fondé de la requête car l'avocate requérante n'avait pas démontré en quoi les propos qu'elle avait tenus dans la presse constituaient l'unique moyen qu'elle avait à sa disposition pour faire valoir la défense de ses clients.
+
+<<3075.67;3094.67;fr>>
+L'existence et surtout l'utilisation des voies de droit existantes lorsqu'une procédure en cours est commentée par un avocat représentant une partie à l'instance est un élément déterminant pour apprécier la portée de l'ingérence dans la liberté d'expression d'un avocat.
+
+<<3094.67;3112.55;fr>>
+S'agissant particulièrement de l'affaire qui est portée devant vous, il me semble nécessaire de revenir en détail sur trois arguments soulevés par le requérant et les tiers intervenants s'agissant de l'article paru dans la presse sur une affaire en cours.
+
+<<3112.55;3119.35;fr>>
+Le premier point est relatif à la défense du client par son avocat.
+
+<<3119.35;3127.87;fr>>
+Le requérant persiste à soutenir que ses propos dans la presse participaient de la stratégie de défense de sa cliente.
+
+<<3127.87;3133.15;fr>>
+Au vu du simple examen des faits, il est toutefois permis d'en douter.
+
+<<3133.15;3148.35;fr>>
+En effet, à la date de la parution litigeuse, le requérant avait utilisé les voies de droit qui lui étaient ouvertes avec succès puisqu'il avait obtenu quelques mois auparavant le dessaisissement des magistrats instructeurs critiqués.
+
+<<3148.35;3160.51;fr>>
+Il avait en outre saisi la garde des sceaux des faits qu'il entendait dénoncer en vue que soit déclenchée à leur encontre une procédure disciplinaire.
+
+<<3160.51;3172.95;fr>>
+La presse ne constituait donc pas, ainsi qu'on voudrait nous le faire croire, l'ultime recours destiné à faire valoir la cause de la cliente du requérant.
+
+<<3172.95;3183.87;fr>>
+L'utilisation des voies de droit disponibles ont permis d'assurer la défense des intérêts de sa cliente et d'atteindre l'objectif poursuivi.
+
+<<3183.87;3192.87;fr>>
+Le deuxième point est relatif à la question du débat d'intérêt général et la nécessaire information du public.
+
+<<3192.87;3213.59;fr>>
+Contrairement à ce que le requérant et les tiers intervenants peuvent laisser entendre, l'intérêt général que peut susciter une affaire ne saurait constituer une excuse absolutoire de l'absence de mesure des propos tenus par un avocat sur une affaire en cours.
+
+<<3213.59;3225.27;fr>>
+En effet, l'information du public peut être réalisée tant que soit tenue des propos mettant en cause de manière grave et non établie la probité des magistrats.
+
+<<3225.27;3249.03;fr>>
+Le caractère excessif de tels propos est clairement de nature à saper l'autorité de la justice, d'autant plus que, comme la Cour a pu le souligner dans l'affaire Alsthankis contre Grèce du 11 février 2010, je cite, le devoir de réserve interdit aux magistrats concernés de réagir.
+
+<<3249.03;3269.11;fr>>
+Le troisième et dernier point qui appelle un éclaircissement particulier au vu des écritures des requérants et tiers intervenants est relatif à l'affaire Mort contre France du 15 décembre 2011, sur lequel tant les tiers intervenants que le requérant s'appuient pour asseoir leur démonstration.
+
+<<3269.11;3275.15;fr>>
+Dans l'affaire Mort, le litige s'articulait autour du secret de l'instruction.
+
+<<3275.15;3297.91;fr>>
+Votre Cour a relevé au paragraphe 45 de l'arrêt que la requérante, avocate représentant des victimes, avait été déclarée coupable de violation du secret professionnel pour avoir divulgué dans la presse le contenu d'un rapport d'expertise remis aux juges d'instruction dans le cadre d'une information judiciaire ouverte pour homicide involontaire.
+
+<<3297.91;3311.95;fr>>
+Mais votre Cour a constaté que ce rapport d'expertise couvert par le secret de l'instruction était déjà en possession des médias et que l'intéressé n'avait pas été à l'origine de la communication du rapport d'expert à la presse.
+
+<<3311.95;3327.87;fr>>
+Elle a, dans ces circonstances particulières, estimé que la requérante s'était bornée, suivant l'expression utilisée dans cet arrêt, à commenter des informations qui étaient déjà largement diffusées.
+
+<<3327.87;3332.31;fr>>
+L'affaire Mort contre France est donc bien différente de notre espèce.
+
+<<3332.31;3336.71;fr>>
+Le requérant, M. Maurice,
+
+<<3336.71;3349.11;fr>>
+ne s'est pas contenté de commenter un rapport d'expertise confidentiel déjà diffusé à la presse par une source inconnue et portant sur un sujet objet d'un débat d'intérêt général.
+
+<<3349.11;3358.35;fr>>
+Il a dénoncé la partialité et la déloyauté de magistrats des saisies du dossier.
+
+<<3358.35;3371.99;fr>>
+Du point de vue du gouvernement, les principes jurisprudentiels posés par la Cour sont clairs et permettent de couvrir toutes les hypothèses dans lesquelles la liberté d'expression d'un avocat est en jeu.
+
+<<3371.99;3378.75;fr>>
+Les tiers intervenants mettent en évidence une certaine difficulté de lecture de la jurisprudence.
+
+<<3378.75;3392.79;fr>>
+Mais cette difficulté, à supposer qu'elle existe, tient au fait que la proportionnalité d'une mesure d'ingérence s'apprécie au regard des faits particuliers de chacune des espèces soumises à votre Cour.
+
+<<3392.79;3404.43;fr>>
+Cette qualification des faits relève au premier chef du ressort des juridictions nationales et est naturellement soumise au contrôle de votre Cour.
+
+<<3404.43;3410.63;fr>>
+Cette appréciation n'est pas exempte d'une certaine subjectivité propre à la nature même du litige.
+
+<<3410.63;3419.31;fr>>
+Des propos qui pourraient être jugés comme admissibles ou, dans un certain contexte, peuvent être jugés comme excessifs dans un autre.
+
+<<3419.31;3426.63;fr>>
+C'est toute la spécificité des affaires relatives à la liberté d'expression qui sont soumises à votre jugement.
+
+<<3426.63;3440.95;fr>>
+Dans notre affaire, les juridictions nationales ont pris grand soin de détailler les raisons pour lesquelles elles ont été amenées à considérer que les limites de la liberté d'expression de l'avocat avaient été franchies.
+
+<<3440.95;3446.35;fr>>
+Ces motifs ont été longuement précisés dans les écritures du gouvernement.
+
+<<3446.35;3455.03;fr>>
+Il est nécessaire de rappeler encore une fois qu'il n'a pas été reproché au requérant de cette prononcée sur une affaire en cours dans laquelle il représentait une partie.
+
+<<3455.03;3460.23;fr>>
+C'est uniquement la nature des propos tenus qui est en cause.
+
+<<3460.23;3472.15;fr>>
+Ces propos visaient à dénoncer la déloyauté et le défaut d'impartialité des magistrats instructeurs qui, à la date de parution de l'article, n'étaient plus, il faut le rappeler, en charge de l'instruction.
+
+<<3472.15;3488.99;fr>>
+Le requérant les accusait ouvertement de connivence avec les autorités djiboutiennes et d'avoir disséminé des pièces d'instruction, fait particulièrement grave de nature à engager la responsabilité pénale des magistrats.
+
+<<3488.99;3507.91;fr>>
+Il paraît légitime, au regard des stipulations de l'article 10 de la Convention, d'entendre de la part de l'homme de loi qui porte de pareilles accusations, de nature à jeter un grave discrédit sur le fonctionnement de la justice, de les étayer par des preuves.
+
+<<3507.91;3527.11;fr>>
+Votre cours a déjà eu l'occasion de retenir le caractère d'extrême gravité des propos relatifs à une soi-disant dissimulation volontaire de l'enregistrement de la reconstitution à l'occasion de la décision Floquet contre France et Eménar contre France du 10 janvier 2002.
+
+<<3527.11;3550.47;fr>>
+Dans ces affaires qui concernaient des journalistes, dont on sait qu'ils disposent en leur qualité de chiens de garde de la démocratie, suivant l'expression que votre cours a consacrée, d'une liberté d'expression particulièrement vaste et protégée, votre cours a rejeté la requête fondée sur le grief de violation de l'article 10 de la Convention.
+
+<<3550.47;3559.03;fr>>
+Enfin, pour finir, je souhaiterais évoquer très brièvement la question de la proportionnalité de la sanction.
+
+<<3559.03;3571.11;fr>>
+Le requérant fait valoir dans ces dernières écritures qu'elle est excessive et de nature à avoir un effet dissuasif sur la liberté d'expression des avocats.
+
+<<3571.11;3573.83;fr>>
+On ne saurait souscrire à une telle approche.
+
+<<3573.83;3597.75;fr>>
+Au contraire, des affaires dans lesquelles vous avez pu juger que les condamnations à la radiation des ordres des avocats à Ray Igor Kabanov contre Russie, à une peine de prison à Ray Schalka contre Pologne, qui prie à nous contre Chypre du 15 décembre 2005, ou même à une amende d'un montant de 25 000 euros à Ray Gouveia, Fernandez et Freita et Costa contre Portugal du 29 mars 2011, étaient excessives.
+
+<<3597.75;3604.27;fr>>
+La condamnation du requérant ici n'est que pécuniaire et relativement modérée.
+
+<<3604.27;3612.31;fr>>
+4 000 euros d'amende à traite personnelle et 7 500 euros solidairement avec le co-condamné au titre de dommage et intérêt.
+
+<<3612.31;3631.43;fr>>
+Il sera rappelé que dans l'arrêt Linden, Ochakowski, Lawrence et Julie contre France du 22 octobre 2007, votre grande chambre n'a pas jugé disproportionné la condamnation de l'un des requérants à 2 286 euros d'amende et à 7 622 euros de dommage et intérêt au parti civil.
+
+<<3631.43;3647.71;fr>>
+Il pourra également être noté que, contrairement à ce que soutient le requérant dans ses dernières écritures, dans l'arrêt Dumas contre France, votre cour ne s'est prononcée à aucun moment sur un éventuel caractère disproportionné de la sanction de cette affaire qui était de 3 000 euros.
+
+<<3647.71;3668.67;fr>>
+Pour conclure sur le grief tiré de la violation de l'article 10 de la Convention, le gouvernement considère qu'accorder une forme d'irresponsabilité aux avocats, qu'elle soit dénommée protection fonctionnelle ou immunité, n'est conforme ni à la lettre ni à l'esprit de la Convention.
+
+<<3668.67;3677.91;fr>>
+L'avocat dispose naturellement d'une liberté d'expression dans les médias sur une affaire en cours dans laquelle il représente une partie.
+
+<<3677.91;3694.07;fr>>
+Mais le rôle qui lui est dévolu dans l'organisation du système judiciaire et à l'occasion d'une procédure en cours implique qu'il le fasse avec une certaine modération, ce qui, en l'espèce, n'a manifestement pas été le cas.
+
+<<3694.07;3719.75;fr>>
+Quant au grief tiré d'une violation de l'article 6, paragraphe 1 de la Convention, il mérite également que toutes les circonstances de fait soient prises en compte, tant le contexte de l'Assemblée générale du Tribunal de grande instance de Paris du 4 juillet 2000, que le temps écoulé, le rôle dévolu aux magistrats en cause et l'impact potentiel de ce dernier sur une formation de jugement.
+
+<<3719.75;3727.11;fr>>
+Pour toutes ces raisons, le gouvernement persiste à conclure que la requête doit être rejetée dans son entier.
+
+<<3727.11;3727.95;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3729.21;3736.65;fr>>
+Merci Mme Ancel. Je me tourne maintenant vers mes collègues pour demander s'il y a des questions.
+
+<<3736.65;3738.65;fr>>
+Le juge Šikuta d'abord.
+
+[[Judge;Ján Šikuta]]
+
+<<3743.69;3750.89;en>>
+Thank you very much. I do have a question to the applicant. It's a clarification question.
+
+<<3750.89;3764.43;en>>
+On 21st of June, the file was removed from Judge M and the case was withdrawn from the judge. On 6th of September, the applicant wrote the letter to the Minister of Justice
+
+<<3764.43;3772.43;en>>
+calling for investigation by General Inspectorate of Judicial Services. And then, the day after,
+
+<<3772.43;3782.33;en>>
+7th of September, the applicant went to public before waiting for decision of the Minister.
+
+<<3782.33;3810.11;en>>
+If you be so kind and clarify, what was the reason and the aim you decided to go to public and how your public intervention made three months after the case was withdrawn from Judge M? How this contributed to the proper administration of justice? Moreover, in circumstances when
+
+<<3810.11;3815.05;en>>
+there was going on the investigation on Judge M's professional behaviour. Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3816.91;3821.31;fr>>
+Merci au juge Šikuta, le juge Luis López Guerra.
+
+[[Judge;Luis López Guerra]]
+
+<<3826.06;3831.06;fr>>
+Monsieur le Président, je voudrais faire une demande d'information au parti.
+
+<<3831.06;3855.66;fr>>
+Est-ce qu'il y a des règlements ou des régulations disciplinaires internes de l'ordre des avocats qui pourraient éventuellement avoir été appliées par des organes de l'ordre au fait du cas? En d'autres mots, est-ce qu'il aurait été possible d'introduire une telle
+
+<<3855.66;3868.7;fr>>
+procédure disciplinaire contre les récurrents dans le cas, dehors et séparément de la procédure judiciaire? Dans le cas, comment doit-on s'interpréter qu'on n'a pas introduit
+
+<<3868.7;3871.42;fr>>
+une telle procédure? Merci.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3871.0;3874.76;fr>>
+Thank you, Judge Ann Power-Forde.
+
+[[Judge;Ann Power-Forde]]
+
+<<3876.9;3882.54;en>>
+Merci. I would like to put a question to the applicant's lawyers.
+
+<<3882.7;3884.3;en>>
+Two questions, actually.
+
+<<3885.02;3902.58;en>>
+During your submissions this morning, you emphasized the fact, I think, that the character of the particular judge in question, Judge M, was not an issue in the freedom of expression enjoyed by the applicant, and that it was only her professional conduct that was commented upon.
+
+<<3902.58;3911.06;en>>
+I would like you to elaborate on that submission in respect solely of the allegation of connivance.
+
+<<3911.42;3930.46;en>>
+I'm not interested, for the purposes of the question, in the first part of the allegation, but on the allegation of connivance, particularly when we hear from the government's lawyers that this could involve the criminal liability on the part of the judge in question.
+
+<<3930.46;3942.26;en>>
+So, could you elaborate on how the character of Judge M was not an issue in circumstances where an allegation of connivance, which could involve criminal liability, was made?
+
+<<3942.42;3943.74;en>>
+That's the first question.
+
+<<3943.9;3951.66;en>>
+And the second question I would like some further submissions on is on the question of the duty of a lawyer.
+
+<<3951.82;3960.9;en>>
+You focus, again, primarily on the lawyer's primary role to defend his or her client's interests.
+
+<<3961.06;3969.94;en>>
+And you submit that the lawyer must enjoy a functional protection not limited to the courtroom, and that it be as broad as possible.
+
+<<3970.1;3978.14;en>>
+I would be interested in any observations that you might have to make on the lawyer's duty, if any, in your view, to the court.
+
+<<3978.3;3987.42;en>>
+And in this regard, I mean the court actually seized with the case, the court hearing the case, and not to the professional reputation of judges in general.
+
+<<3987.58;3993.26;en>>
+I'm talking about the court that was actually seized with the hearing of this case at the time when the comments were made.
+
+<<3993.42;3996.78;en>>
+What, if any, in your view, does...
+
+<<3996.94;4003.02;en>>
+What duty, if any, in your view, does such a lawyer owe to the court as the decider of the facts and the law?
+
+<<4003.02;4003.02;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4007.9;4011.26;fr>>
+Bien, pas d'autres questions?
+
+<<4011.42;4016.7;fr>>
+Alors, je propose qu'on fasse une pause jusqu'à 10h40.
+
+<<4016.98;4020.46;fr>>
+Donc on va se revoir à 10h40.
+
+<<4020.46;4020.46;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4093.53;4094.13;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4128.76;4131.26;fr>>
+L'audience est reprise.
+
+<<4131.26;4134.76;fr>>
+Je me tourne vers les requérants.
+
+<<4134.76;4136.26;fr>>
+Qui veut prendre la parole? M. Hervieu?
+
+[[Applicant;AP2]]
+
+<<4137.0;4138.8;fr>>
+Merci, monsieur le Président.
+
+<<4138.8;4155.36;fr>>
+Avant de répondre aux questions qui ont été posées, nous souhaiterions simplement insister sur un fait qui nous semble extrêmement important, tant le requérant que les tiers intervenants n'ont jamais exigé et ne demandent pas devant votre cours une liberté d'expression absolue au bénéfice des avocats ou une quelconque immunité.
+
+<<4155.36;4168.64;fr>>
+Ils souhaitent simplement que le principe de liberté d'expression, lorsque la parole de l'avocat et de service de la mission de défense, soit assurée, la seule limite étant effectivement les attaques destructrices dénouées de fondements sérieux.
+
+<<4168.64;4179.2;fr>>
+Et en cela, vous ne ferez que prolonger votre propre jurisprudence et en aucune façon la renverser, et prolonger aussi la jurisprudence de votre grande Chambre qui prie à nous contre Chypre de 2005.
+
+<<4179.2;4196.2;fr>>
+Pour répondre à la question de monsieur le juge Sikouta, qui posait donc la question de savoir quel est le but, poursuivi par Olivier Maurice et Laurent Deconne lorsqu'ils ont pris la parole dans la presse, alors qu'une décision de dessaisissement des juges instructeurs avait déjà été adoptée, il convient de rappeler un fait très important.
+
+<<4196.2;4203.36;fr>>
+La cassette et le petit mot du procureur de Djibouti ont été découverts après le dessaisissement de ces juges.
+
+<<4203.36;4220.36;fr>>
+Et donc, on ne peut pas estimer qu'il y aurait lieu de taire ce fait très important alors que le décisement a déjà eu lieu, et alors aussi que tous les actes accomplis par ces juges instructeurs demeurent encore dans la procédure et ont encore vocation à l'influencer durablement.
+
+<<4220.36;4226.68;fr>>
+Et c'est pour cela qu'à cet instant précis, Olivier Maurice et son confrère ont souhaité mettre en avant cet élément-là.
+
+<<4226.68;4228.44;fr>>
+Et quel est le but plus précisément?
+
+<<4228.44;4238.48;fr>>
+Eh bien, tout simplement de rétablir l'équilibre dans le cadre d'une mission de défense, la volonté d'insister sur les conditions dans lesquelles cette instruction a été menée.
+
+<<4238.48;4240.4;fr>>
+Il faut rappeler un fait important.
+
+<<4240.4;4242.72;fr>>
+Pourquoi les juges instructeurs ont-ils été dessaisis?
+
+<<4242.72;4252.4;fr>>
+Eh bien, parce qu'ils ont refusé la présence des partis civils à deux reconstitutions, alors que parallèlement, ils ont accepté que le procureur assiste à l'une d'elles.
+
+<<4252.4;4263.6;fr>>
+Il y a déjà donc un ensemble d'éléments factuels qui faisaient planer des doutes sur l'impartialité des juges instructeurs, ce qui a justifié le dessaisissement, et un fait nouveau, important, mérité d'être porté à la connaissance de l'opinion publique.
+
+<<4263.6;4285.08;fr>>
+Et c'est aussi en cela que se doit rejoindre le but de servir l'administration de la justice que d'éclairer sur les dysfonctionnements qui ont pu avoir lieu dans cette affaire à cet égard, et montrer la difficulté dans cette affaire qui touche à des enjeux liés à la raison d'Etat et à des relations internationales entre la France et Djibouti, et bien de pouvoir éclairer l'ensemble du public, tout comme le tribunal.
+
+<<4285.08;4298.24;fr>>
+On préciserait également que la saisine du garde des Sceaux n'a absolument rien donné et aucune réponse n'a été apportée à la demande de maîtres Olivier Maurice et Laurent Deconne, ce qui montre bien à quel point cette voie de recours était insuffisante.
+
+<<4298.24;4306.8;fr>>
+La question de madame la juge Powerford, ensuite, sur le fait de savoir comment peut-on affirmer qu'il y a connivence et pourtant critiquer le comportement professionnel.
+
+<<4306.8;4318.76;fr>>
+Mais ce principe ou cette critique de la connivence, c'est de viser la manière, pour reprendre les mots de votre cours, la manière dont les fonctions, la manière dont les juges d'instruction ont accompli leur fonction.
+
+<<4318.76;4322.04;fr>>
+C'est dans le cadre de leur mission d'instruction qu'ils se sont déplacés à Djibouti.
+
+<<4322.04;4325.12;fr>>
+C'est dans le cadre de cette mission qu'ils ont reçu la cassette d'instruction.
+
+<<4325.12;4329.2;fr>>
+Donc, c'est ce comportement professionnel et ces liens avec l'une des parties qui est éclairée.
+
+<<4329.2;4333.68;fr>>
+Parler de connivence, ce n'est pas forcément viser le comportement personnel.
+
+<<4333.68;4339.08;fr>>
+C'est viser la manière dont les juges d'instruction ont exercé leur mission en l'occurrence.
+
+<<4339.08;4347.32;fr>>
+En rappelant un fait très important dans la procédure pénale française, le juge d'instruction instruit à charge et à décharge en toute indépendance.
+
+<<4347.32;4351.12;fr>>
+Et ces actes vont influencer lourdement la suite de la procédure.
+
+<<4351.12;4363.88;fr>>
+Et donc, mettre le doigt sur la manière dont a été accomplie cette phase d'instruction est absolument essentielle pour ensuite apprécier, comme le raisonne, comme raisonne votre propre jurisprudence, l'équité globale du procès.
+
+<<4363.88;4375.4;fr>>
+Et pour reprendre l'idée du fruit empoisonné, si le point de départ de la procédure comporte une faille lourde, eh bien la suite de la procédure sera lourdement impactée par cet acte-là.
+
+<<4375.4;4384.52;fr>>
+Vous avez également posé la question de savoir comment peut-on affirmer, d'une part, qu'il y a eu un comportement professionnel grave et pas de mise en cause pénale.
+
+<<4384.52;4387.36;fr>>
+Les deux sont dissociables à cet égard.
+
+<<4387.36;4404.72;fr>>
+On peut envisager qu'un avocat puisse critiquer en l'aide de faits sérieux, de faits consistants, de faits solides à un moment précis, eh bien qu'un comportement de magistrat lève un doute sur son impartialité, sans pour autant que ce magistrat soit sanctionné parce qu'on apprécie la liberté d'expression au moment des faits.
+
+<<4404.72;4420.84;fr>>
+Et au moment des faits, et des juridictions, notamment la cour d'appel de Douai, dans une affaire incidente, mais qui est liée à cette procédure, a affirmé qu'il n'y avait pas lieu de considérer qu'au moment des faits, les actes dénoncés par le requérant étaient de nature à être totalement affondés.
+
+<<4420.84;4423.64;fr>>
+Donc, à cet égard, il y a vraiment un point à distinguer.
+
+<<4423.64;4430.12;fr>>
+Il y avait bien une baisse factuelle au moment des faits à dénoncer ce comportement, en tout cas un doute sur l'impartialité.
+
+<<4430.12;4436.88;fr>>
+Quant à la dernière question, sur quelle serait la limite pour le requérant, eh bien tout simplement votre jurisprudence.
+
+<<4436.88;4445.88;fr>>
+L'idée qu'il y a un principe de modération, il y a un principe de respect de l'institution judiciaire, lorsque cela sert le service public de la justice.
+
+<<4445.88;4451.36;fr>>
+Il y a donc une obligation déontologique que jamais le requérant n'a contesté, de respecter les magistrats.
+
+<<4451.36;4466.92;fr>>
+Mais lorsque l'on arrive sur le terrain de la défense du client et que, comme vous l'avez reconnu dans votre arrêt de grande chambre qui est pris à nous, que l'obligation de défense du client doit parfois impliquer de s'opposer au tribunal, eh bien là, on arrive à cette limite.
+
+<<4466.92;4473.72;fr>>
+Et la seconde limite, au-delà des circonstances, le moment où il faut contester le tribunal pour assurer la mission de défense, c'est la manière dont on le fait.
+
+<<4473.72;4480.0;fr>>
+Pas d'attaque destructrice, donc pas d'insulte gratuite, pas de mise en cause personnelle des magistrats.
+
+<<4480.0;4482.8;fr>>
+Et deuxième chose, pas d'attaque infondée.
+
+<<4482.8;4494.6;fr>>
+Là, en l'occurrence, vous aviez à la fois un propos qui n'était ni insultant, ni relevé d'une invective, mais qui, au surplus, reposait sur des éléments factuels, solides, sérieux, au moment des faits.
+
+<<4494.6;4494.6;fr>>
+Je vous remercie et je passe la parole.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4496.0;4507.12;fr>>
+Un instant monsieur Hervieu, juste pour qu'il n'y ait pas de malentendus, est-ce que la cour vous a bien compris maintenant que vous ne revendiquez pas au nom du requérant une quelconque immunité fonctionnelle hors prétoire?
+
+[[Applicant;AP2]]
+
+<<4511.69;4515.45;fr>>
+Le mot immunité n'est pas du tout un élément revendiqué par les requérants.
+
+<<4515.65;4518.93;fr>>
+Et dans notre écriture, le mot immunité n'est pas revendiqué.
+
+<<4519.09;4526.21;fr>>
+Ce que nous souhaitons, c'est que la liberté d'expression soit garantie aux avocats à la lueur de leur mission de défense.
+
+<<4526.41;4528.73;fr>>
+C'est cela, la conception fonctionnelle.
+
+<<4528.97;4530.37;fr>>
+Et ce n'est pas une quelconque immunité.
+
+<<4530.57;4542.45;fr>>
+Et je pense que le mot en soi est important parce qu'évoquer le mot immunité, c'est aussi faire croire ou laisser à penser à votre cours que l'on revendiquerait une protection, une bulle totalement infranchissable au bénéfice des avocats, quels que soient leurs propos.
+
+<<4542.97;4551.53;fr>>
+Ce qui compte, et c'est en cela que l'idée de liberté d'expression fonctionnelle est cruciale, c'est au nom de quoi, pour quel objectif, dans quel cadre les propos ont-ils été prononcés.
+
+<<4551.97;4563.05;fr>>
+S'ils ont été prononcés dans le cadre de la mission de défense, au service de cette mission de défense, ils doivent bénéficier d'une protection renforcée à cette limite, que cela ne doit pas confiner à des attaques destructrices, dénuées de fondements sérieux, contrôlées, magistrales.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4565.93;4568.85;fr>>
+Merci, M. Hervieu, Maître Pettiti.
+
+[[Applicant;AP1]]
+
+<<4570.19;4574.39;fr>>
+Monsieur le Président, j'aimerais répondre à la question de M. le juge Lopez-Guerra.
+
+<<4574.64;4588.19;fr>>
+Avant de répondre à la question relative à la procédure disciplinaire, j'aimerais tout d'abord rappeler que ce sont les principes essentiels de la profession qui guident le comportement de l'avocat en toutes circonstances.
+
+<<4589.11;4602.03;fr>>
+Et que l'avocat, quand il exerce ses fonctions d'avocat, le fait en respectant les principes de dignité, de conscience d'humanité, d'indépendance, de probité, comme tout avocat le fait en France.
+
+<<4603.23;4609.72;fr>>
+Et il respecte en outre, dans cet exercice qui est le sien, ses principes.
+
+<<4610.03;4622.03;fr>>
+Et la méconnaissance d'un seul de ces principes, des règles et des devoirs, constitue une méconnaissance de la loi et des décrets d'application.
+
+<<4624.19;4648.8;fr>>
+Dès lors qu'une méconnaissance aurait été effectivement constatée, il appartient ou au bâtonnier, en vertu des pouvoirs qui lui sont propres, ou alors au procureur général, de saisir l'autorité disciplinaire pour voir, éventuellement, faire constater par la formation disciplinaire une méconnaissance de ces règles.
+
+<<4648.99;4667.6;fr>>
+Et la procédure à Paris est la suivante, c'est-à-dire que la loi permet au procureur général, dès l'instant où une poursuite pénale aurait été introduite contre un avocat, la loi lui donne l'opportunité de saisir cette instance disciplinaire.
+
+<<4667.8;4669.6;fr>>
+Que se passe-t-il en général à Paris?
+
+<<4669.8;4690.99;fr>>
+Nous considérons effectivement que, dès qu'une condamnation n'est pas définitive, nous devons attendre effectivement qu'il y ait un jugement définitif sur la responsabilité pénale, avant de statuer disciplinairement, c'est-à-dire c'est l'autonomie effectivement des poursuites disciplinaires vis-à-vis des autorités pénales.
+
+<<4691.19;4714.6;fr>>
+Nous allons même plus loin, puisque nous considérons que la saisine de la Cour européenne par le requérant, par celui qui aurait été condamné pénalement, doit amener la formation disciplinaire à suspendre l'examen des poursuites disciplinaires par la formation disciplinaire, dès lors qu'il aurait saisi la Cour européenne.
+
+<<4714.8;4717.39;fr>>
+En l'espèce, que s'est-il passé?
+
+<<4717.6;4725.8;fr>>
+À aucun moment, ni le procureur général, ni le bâtonnier de l'ordre des avocats de Paris n'a saisi l'instance disciplinaire.
+
+<<4725.99;4738.39;fr>>
+Ni le procureur, ni le bâtonnier n'ont donc considéré qu'il y aurait eu une méconnaissance d'un seul des principes règles et devoirs qui s'appliquait à M. Olivier Maurice.
+
+<<4738.39;4759.19;fr>>
+Si le procureur général avait considéré effectivement que l'article en question, et cela est déjà arrivé dans la jurisprudence ordinaire parisienne, s'il avait considéré que par la parution, effectivement, de cet article, des propos rapportés par la presse à M. Olivier Maurice
+
+<<4759.39;4778.8;fr>>
+auraient constitué une méconnaissance des règles de la profession d'avocat, il aurait saisi l'autorité ordinale pour demander l'application des sanctions disciplinaires qui, je le rappelle, peuvent aller jusqu'à la radiation de l'avocat du tableau de l'ordre des avocats.
+
+<<4778.99;4784.99;fr>>
+C'est donc très sereinement que je viens de dire à votre cour que ce qui concerne M. Olivier Maurice,
+
+<<4784.99;4814.6;fr>>
+à aucun moment, ni le procureur général, qui est quand même l'instance supérieure, puisque nous sommes contrôlés en France par la cour d'appel de Paris et par le procureur général qui, au terme de la loi, a la possibilité d'ouvrir des poursuites disciplinaires, en l'espèce, ni le procureur général, ni le bâtonnier de l'ordre n'ont exercé ces poursuites disciplinaires à l'encontre de M. Olivier Maurice.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4819.71;4822.71;fr>>
+Merci, Maître Pettiti.
+
+<<4822.71;4827.51;fr>>
+Madame Ancel, vous avez la parole.
+
+[[Government;GR1]]
+
+<<4827.9;4829.22;fr>>
+Merci, M. le Président.
+
+<<4829.42;4838.3;fr>>
+Mesdames et messieurs les juges, d'abord, quelques éléments de réponse du point de vue du gouvernement à la question qu'a bien voulu poser M. le juge Lopez-Guerra
+
+<<4838.66;4844.94;fr>>
+sur la question de l'engagement de la procédure disciplinaire, éventuellement.
+
+<<4845.14;4861.18;fr>>
+Effectivement, une procédure disciplinaire à la suite des propos tenus et parus dans l'article du monde litigieux aurait pu donner lieu à l'engagement de poursuites disciplinaires.
+
+<<4862.58;4871.38;fr>>
+Les dites poursuites disciplinaires ne peuvent être engagées que par le bâtonnier de l'ordre des avocats ou le procureur général.
+
+<<4871.82;4884.9;fr>>
+Et celui-ci, le procureur général, sans qu'on en connaisse effectivement toutes les raisons, comme le bâtonnier lui-même, n'a pas engagé de telles poursuites disciplinaires.
+
+<<4884.9;4896.74;fr>>
+Il a appliqué un principe cardinal en matière de procédure pénale, qui est celui de l'opportunité des poursuites qu'a le ministère public.
+
+<<4897.82;4931.58;fr>>
+Probablement qu'un élément qui a guidé cette décision de ne pas suivre dans la voie de la procédure disciplinaire est qu'une plainte avec constitution de partie civile avait été engagée par les magistrats en cause sur les mêmes faits, et que donc il n'y allait pas y avoir une multiplication des procédures, à la fois sur le terrain pénal et à la fois sur le terrain disciplinaire.
+
+<<4932.02;4939.1;fr>>
+Voilà les éléments de réponse que je peux vous apporter aujourd'hui au vu des éléments dont dispose le gouvernement.
+
+<<4941.3;4955.94;fr>>
+Sur la question des propos litigieux et de la mise en cause de la responsabilité pénale des magistrats ciblés par les propos litigieux.
+
+<<4956.14;4966.7;fr>>
+Les propos litigieux peuvent effectivement être de nature à engager la responsabilité pénale des magistrats qui était visée.
+
+<<4966.9;4972.78;fr>>
+C'est ce qui, évidemment, recèle l'extrême gravité.
+
+<<4973.1;4986.7;fr>>
+Les propos en ce qu'ils font référence au non-versement de la cassette dans le dossier d'information pourraient être constitutifs du délit d'entrave à la justice par la soustraction de documents.
+
+<<4987.02;4995.22;fr>>
+Ce sont des faits prévus et réprimés par l'article 434-4 du Code pénal français.
+
+<<4995.22;5024.58;fr>>
+Et je tiens à souligner que de tels faits, de recelles, de dissimulations de documents qui permettent la manifestation de la vérité sont punis plus gravement lorsqu'ils sont réputés être commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, ce qui est éminemment le cas des juges d'instruction.
+
+<<5024.58;5027.9;fr>>
+Les juges d'instruction qui instruisent à charger à décharge.
+
+<<5028.3;5033.3;fr>>
+Et il est retenu, donc, une circonstance aggravante pour cette infraction pénale.
+
+<<5033.62;5052.58;fr>>
+Par ailleurs, les propos en ce qu'ils suggèrent, la connivence, l'éventuelle collusion entre les juges français et les autorités judiciaires djiboutiennes, pourraient être passibles de la qualification de corruption passive des autorités judiciaires.
+
+<<5052.58;5078.94;fr>>
+Ce sont des faits éminemment graves dans notre droit pénal français et qui, là encore, ont une circonstance aggravante qui accentue gravement le quantum de la peine encourue lorsque ces faits peuvent être commis par des magistrats ou des personnes dépositaires de l'autorité publique.
+
+<<5078.94;5096.14;fr>>
+À l'issue de ces débats, le gouvernement souhaite clairement souligner que la liberté d'expression de l'avocat est essentielle à la fois pour assurer la défense efficace de ses clients et pour contribuer au bon fonctionnement de la justice.
+
+<<5096.74;5100.42;fr>>
+Cette liberté d'expression connaît toutefois des limites.
+
+<<5100.94;5113.74;fr>>
+La qualité d'auxiliaire de justice des avocats différencie fondamentalement les jurés et différencie fondamentalement, comme je le disais à l'instant, les avocats des journalistes.
+
+<<5114.1;5120.66;fr>>
+Les avocats ont en effet un rôle central en leur qualité d'intermédiaire entre les justiciables et l'institution judiciaire.
+
+<<5120.9;5125.98;fr>>
+Ils contribuent par leur action à ce que la justice puisse être rendue de manière efficace et sereine.
+
+<<5127.46;5134.7;fr>>
+Contrairement à la thèse soutenue par la partie requérante, la jurisprudence de votre cours est cohérente dans ces principes.
+
+<<5135.02;5142.1;fr>>
+L'avocat dispose d'une liberté très étendue pour s'exprimer dans les médias sur l'institution judiciaire indépendamment de toute procédure en cours.
+
+<<5142.62;5152.94;fr>>
+L'avocat peut s'exprimer dans les médias sur une affaire en cours dans le but notamment d'informer le public, mais ses propos doivent être emprunts d'une certaine prudence et de modération.
+
+<<5153.78;5170.58;fr>>
+Si l'avocat est légitime à informer le public de dysfonctionnements éventuels du système judiciaire dans une affaire largement discutée dans les médias, cette information ne peut être faite dans des termes tels qu'il remette en cause gravement la probité des magistrats sans que de tels manquements ne soient établis.
+
+<<5171.14;5178.34;fr>>
+Les propos litigieux émis par le requérant dépassaient le cadre de la critique procédurale.
+
+<<5179.06;5186.1;fr>>
+En effet, le requérant ne s'est pas borné à critiquer factuellement, objectivement, la manière dont la procédure s'est déroulée.
+
+<<5186.74;5199.38;fr>>
+Il ne s'est pas limité à présenter les faits, mais est allé jusqu'à laisser entendre qu'il existait une collusion entre les magistrats instructeurs et le procureur de Djibouti, et que les magistrats avaient volontairement omis de verser les cassettes vidéo au dossier d'instruction.
+
+<<5200.46;5207.7;fr>>
+Il a porté des attaques de collusion et de dissimulation volontaire de pièces contre ces magistrats.
+
+<<5208.1;5215.18;fr>>
+Il s'agit de faits particulièrement graves qui, comme nous venons de le voir, tombent sous le coup de la loi pénale française.
+
+<<5215.9;5221.22;fr>>
+Il s'agit d'attaques proférées par un professionnel du droit qui mesurent pleinement la portée de ses propos.
+
+<<5221.74;5229.18;fr>>
+Il s'agit d'une accumulation d'éléments qui, juxtaposées, amplifie la portée de l'attaque et donne à croire que les faits dénoncés sont établis.
+
+<<5230.22;5237.06;fr>>
+Le jugement de valeurs ainsi porté par le requérant n'était pas fondé sur une base factuelle suffisante.
+
+<<5238.14;5244.54;fr>>
+Il n'y a pas eu d'action pénale entreprise par le requérant, pas plus que de condamnations pénales prononcées.
+
+<<5245.02;5261.42;fr>>
+Le gouvernement ne peut que souligner que de telles attaques dirigées contre des magistrats ne contribuaient ni à une exacte appréciation par le public des enjeux, alors même que les magistrats n'ont pas le droit de réplique, ni à la sérénité des débats judiciaires et d'une procédure judiciaire qui se poursuivait.
+
+<<5262.06;5271.7;fr>>
+Ces attaques laissaient planer une suspicion sur l'ensemble de la procédure encore pendante et se poursuivant, et donc sur l'institution judiciaire dans son ensemble.
+
+<<5273.18;5281.3;fr>>
+La partie requérante ne démontre pas qu'elle pouvait se rattacher à la défense du requérant puisque dès le mois de juillet, le dessaisissement des magistrats avait obtenu.
+
+<<5281.5;5303.1;fr>>
+Le requérant évoque des suspicions sur l'information menée par les magistrats dessaisis, mais si ces suspicions sont réelles, il existe des voies légales pour défendre et voir sanctionner les éventuels faits à l'origine de ces suspicions.
+
+<<5303.3;5313.34;fr>>
+C'est pourquoi le gouvernement persiste dans sa conclusion sur le rejet du grief tiré de la violation de l'article 10 ensemble de l'article 6, paragraphe 1.
+
+<<5313.34;5316.34;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5323.05;5324.85;fr>>
+Merci beaucoup.
+
+<<5326.41;5331.33;fr>>
+Bien. Alors, nous en arrivons au terme de l'audience.
+
+<<5331.53;5342.85;fr>>
+Je remercie tous les comparants qui ont assisté la Cour par leurs interventions et par leur réponse à ces questions.
+
+<<5343.89;5345.49;fr>>
+La Cour va maintenant délibérer.
+
+<<5345.85;5353.57;fr>>
+Alors, l'arrêt sera rendu ultérieurement et les partis seront informés de la date du prononcé.
+
+<<5353.57;5355.41;fr>>
+L'audience est levée.
+

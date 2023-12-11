@@ -1,0 +1,3117 @@
+[[Announcer;UNK]]
+
+<<24.85;25.53;fr>>
+La Cour!
+
+[[JudgeP;Angelika Nußberger]]
+
+<<66.96;68.96;en>>
+Please be seated.
+
+<<79.2;89.36;en>>
+I declare open the public hearing on the merits in the case of Big Brother Watch and Others versus the United Kingdom.
+
+<<89.36;113.48;en>>
+The three applications were lodged with the court under Article 34 of the Convention by Big Brother Watch and Others, Bureau of Investigative Journalism and Alice Ross, and 10 human rights organizations on 4th September, 2013, 11th September, 2014, and 20th May, 2015, respectively.
+
+<<113.48;129.08;en>>
+The applications were originally allocated to the fourth section of the court, pursuant to Rule 52, paragraph 1 of the rules of court, before being transferred to the first section, following a recomposition of the sections.
+
+<<129.08;141.88;en>>
+The applications were communicated to the government on 7th January, 2014, 5th January, 2015, and 24th November, 2015, respectively.
+
+<<141.88;149.34;en>>
+The chamber joined the three applications, and a public hearing was held on 7th of November, 2017.
+
+<<149.34;155.34;en>>
+The chamber delivered its judgment on 13th of September, 2018.
+
+<<155.34;174.92;en>>
+On 11th of December and 12th of December, 2018, respectively, the applicants in Big Brother Watch and Others and Bureau of Investigative Journalism and Alice Ross requested the case be referred to the Grand Chamber in accordance with Article 43 of the Convention.
+
+<<174.92;182.78;en>>
+And the panel of the Grand Chamber accepted the request on 4th of February, 2019.
+
+<<182.78;214.18;en>>
+On different dates, between 9th of September, 2015, and 3rd of May, 2019, the president of the Grand Chamber granted leave to the governments of France, the Netherlands, and Norway to submit written comments as third parties by virtue of Rule 44, paragraph 3 of the Rules of Court, and also to the following 15 organizations or individuals.
+
+<<214.18;255.7;en>>
+Access Now, Bureau Brandeis, the Center for Democracy and Technology, the Equality and Human Rights Commission, and the European Network of National Human Rights Institutions, the Helsinki Foundation for Human Rights, Human Rights Watch, the International Commission of Jurists, the Open Society Justice Initiative, the Law Society of England and Wales, Ot Van Daalen Project More, and EBRI and others, the National Union of Journalists, the Media Lawyers Association, Article 19, the Electronic Privacy Information Center, and Mr. David Kaye, United Nations Special Rapporteur
+
+<<255.7;259.78;en>>
+on the Promotion of the Right to Freedom of Opinion and Expression.
+
+<<259.78;263.94;en>>
+The respondent government are represented by the agent Mr.
+
+<<263.94;275.94;en>>
+Chanaka Wickremasinghe and are assisted by Sir James Eadie QC counsel and by Mr. Julian Milford, Mr. Robert Yardley,
+
+<<275.94;281.5;en>>
+Mrs. Louise Morgan, Mrs. Hugh Mawby, Mr. Thomas Rutherford,
+
+<<281.5;285.98;en>>
+and Mr. James Keay-Bright, Advisors.
+
+<<285.98;290.58;en>>
+The applicants are represented by Mr. Ben Jaffey QC
+
+<<290.58;295.58;en>>
+and Mrs. Helen Mountfield QC counsel for all the applicants
+
+<<295.58;299.38;en>>
+and are assisted by Mr. Ravi Mehta and Mr. Daniel
+
+<<299.38;303.42;en>>
+Carey for Big Brother Watch and others, Mr. Connor Mccarthy
+
+<<303.42;308.46;en>>
+and Mrs. Rosa Curling for Bureau of Investigative Journalism
+
+<<308.46;312.62;en>>
+and Alice Ross, and Mr. David Heaton and Mrs. Gayatri
+
+<<312.62;316.62;en>>
+Sarathy for the 10 Human Rights Organizations.
+
+<<316.62;320.42;en>>
+Some of the applicants are also present.
+
+<<320.42;326.62;en>>
+I welcome the representatives and applicants in the name of the court.
+
+<<326.62;344.5;en>>
+I also welcome the following groups who are on study visit to the court, judges from the Supreme Court of Montenegro, judges and prosecutors from the European Judicial Training Network, and Ukrainian judges and leaders of the National School of Judges.
+
+<<344.5;354.14;en>>
+Having consulted the agent of the government and the representatives of the applicants, I have determined the order of addresses as follows.
+
+<<354.14;357.62;en>>
+Mr. Jaffey will speak first for the applicants,
+
+<<357.62;361.62;en>>
+followed by Mrs. Mountfield, and then Sir James Eadie
+
+<<361.62;364.1;en>>
+will speak for the government.
+
+<<364.1;383.02;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Ukrainian and Montenegrin has been authorized for the benefit of the groups of judges from Ukraine and Montenegro who are attending this hearing.
+
+<<383.02;391.9;en>>
+This interpretation is not part of the official interpretation of the proceedings as organized by the court.
+
+<<391.9;391.9;en>>
+I call Mr. Jaffey and Mrs. Mountfield for the applicants.
+
+[[Applicant;AP1]]
+
+<<398.19;416.29;en>>
+Madam President, members of the court, this case provides the Grand Chamber with the opportunity to consider whether the court's jurisprudence on surveillance should be updated to reflect rapid developments in technology and in society.
+
+<<416.29;426.15;en>>
+The findings of breach of the convention that were made by the first section were, the applicants say, correct for the reasons the first section gave.
+
+<<426.15;433.95;en>>
+Indeed, most of them, but not all of them, are now conceded by the government of the United Kingdom, to be correct.
+
+<<433.95;440.43;en>>
+The applicant's case is that, in certain respects, Grand Chamber should consider going further.
+
+<<440.43;449.19;en>>
+I propose to make submissions on the bulk interception regime under section 8.4 of the UK legislation, RIPA,
+
+<<449.19;451.91;en>>
+and the article 10 case relating to journalism.
+
+<<451.91;456.63;en>>
+And Miss Mountfield QC will deal with the issue of intelligence sharing.
+
+<<456.63;473.11;en>>
+The background to these applications is that the Edward Snowden documents illuminated the true extent of bulk interception and sharing of mass intercept data by the United Kingdom and its intelligence sharing partners.
+
+<<473.11;482.75;en>>
+This activity in the United Kingdom is authorized by a small number of general warrants, which are authorized only by a politician, not by a judge.
+
+<<482.75;489.95;en>>
+In 2016, only 13 warrants were issued under section 8.4 of RIPA.
+
+<<489.95;506.63;en>>
+Those warrants do not list the bearers, which are the entire communications links to be intercepted, nor do they list the strong selectors, the names and email addresses, for example, which are used to search through the bulk data.
+
+<<506.63;518.79;en>>
+And the government of the United Kingdom has declined to say, in its written observations, in answer to a specific question from the court, the number of selectors that it applies to the bulk data.
+
+<<518.79;524.83;en>>
+The applicants infer that is because the number is very large, indeed.
+
+<<524.83;539.19;en>>
+GCHQ, the UK agency that carries out bulk interceptions, has a practice of keeping all of the communications data that comes into their building for up to two years.
+
+<<539.19;543.99;en>>
+That's what they told the Interception of Communications Commissioner in 2013.
+
+<<543.99;549.07;en>>
+And that's in the court's materials at CB2 at tab 40.
+
+<<549.07;560.59;en>>
+Of that communications data, and also of the content that they receive, the analysts at GCHQ then select the data that they want to see.
+
+<<560.59;567.51;en>>
+There is no system of independent prior approval before access to data is granted.
+
+<<567.51;577.07;en>>
+What the government says about that is that access to data can only be granted in respect of data that appears on an index.
+
+<<577.07;587.23;en>>
+But analysts may choose to add a selector, add a person's communications to the index, simply by adding that appropriate selector.
+
+<<587.23;597.23;en>>
+And it's worth comparing that with the scheme that this court considered in Liberty in the United Kingdom under the 1985 bulk interception legislation.
+
+<<597.23;608.07;en>>
+At paragraph 50 of the court's decision in that case, the court explained that a single official at GCHQ could not choose and add a selector for themselves.
+
+<<608.07;611.63;en>>
+That is no longer the case under RIPA.
+
+<<611.63;620.65;en>>
+Now, the government relies on four major safeguards in order to justify the convention compatibility of these arrangements.
+
+<<620.65;626.79;en>>
+The first is that warrants are targeted at external communications.
+
+<<626.79;635.83;en>>
+The applicants say that that safeguard has now lost any protective power as technology has developed.
+
+<<635.83;643.79;en>>
+The second safeguard that's relied on is the British Island safeguard, so-called, in section 16 of RIPA.
+
+<<643.79;651.67;en>>
+But that safeguard does not apply at all to communications data, as the first section found.
+
+<<651.67;658.63;en>>
+Thirdly, the possibility of review ex post by the commissioner is relied on.
+
+<<658.63;664.67;en>>
+But these cases, as I'll seek to explain, have shown the limits of that in practice.
+
+<<664.67;673.15;en>>
+And then finally, there is the Investigatory Powers Tribunal, the UK court with jurisdiction to hear complaints about surveillance issues.
+
+<<673.15;682.47;en>>
+But if a person does not know that they are likely to have been a victim, the reality is that they will not go to the Investigatory Powers Tribunal.
+
+<<682.47;696.31;en>>
+The government's case ultimately comes down to trust us, trust us in the context of very large databases of private material, most of which is about people of no legitimate intelligence interest.
+
+<<696.31;715.19;en>>
+Trust us, even though the reality is that large and secretive institutions will often, in practice, consider that things that they want to do and things that they can do are also things that it is necessary and proportionate for them to do.
+
+<<715.19;733.39;en>>
+The applicant's case is that trust alone is not enough to support a scheme which we say is lacking essential safeguards and permits interception and analysis of bulk data on a scale that we think is unprecedented in any democratic society.
+
+<<733.39;737.11;en>>
+And this case, of course, is not just hypothetical.
+
+<<737.11;744.87;en>>
+It has become clear that the communications of non-government organizations are of real intelligence interest.
+
+<<744.87;756.75;en>>
+Amnesty International and the Legal Resources Center's communications, two of the applicants before the court today, were unlawfully selected and examined, the UK tribunal found.
+
+<<756.75;762.59;en>>
+That, of course, does not mean that other of the applicants before the court were not intercepted.
+
+<<762.59;767.63;en>>
+It's just that on the tribunal's view, those interceptions were lawful.
+
+<<767.63;771.47;en>>
+And lawful interceptions are not disclosed.
+
+<<771.47;774.43;en>>
+So we make six submissions before the court.
+
+<<774.43;782.37;en>>
+The first will be that the world has dramatically changed since Weber and liberty in the United Kingdom were decided.
+
+<<782.37;789.99;en>>
+Secondly, I will address the continued value and importance of the right to privacy under the convention.
+
+<<789.99;794.91;en>>
+Thirdly, the proportionality of the RIPA regime.
+
+<<794.91;801.83;en>>
+Fourthly, the safeguards in RIPA, which the applicants say are not meaningful and effective any longer.
+
+<<801.83;807.95;en>>
+And in any event, they don't comply with the minimum requirements identified in Weber.
+
+<<807.95;818.95;en>>
+Fifthly, that changes in technology and how we communicate mean that this is the appropriate time for the court to develop additional enhanced safeguards.
+
+<<818.95;820.91;en>>
+And we propose three.
+
+<<820.91;826.71;en>>
+First, the prior judicial authorization of warrants, bearers, and searches.
+
+<<826.71;830.75;en>>
+Secondly, that there be objective evidence of reasonable suspicion.
+
+<<830.75;836.79;en>>
+And thirdly, a requirement to give notice to affected individuals where that's possible.
+
+<<836.79;846.85;en>>
+And finally, I'll deal with the special protections required by Article 10 for the protection of journalists and for similar activities carried on by NGOs.
+
+<<846.85;850.55;en>>
+So I can turn to deal with what's changed in the world.
+
+<<850.55;855.25;en>>
+The reality is that how we use technology has fundamentally changed.
+
+<<855.25;861.07;en>>
+Communications now take place not using fixed telephones, but mobile devices.
+
+<<861.07;869.31;en>>
+They've replaced our photo albums, our calendars, private diaries, notebooks, newspapers, TV, and books.
+
+<<869.31;875.23;en>>
+We store our data in the cloud using servers around the world.
+
+<<875.23;883.05;en>>
+A message or our data will pass through numerous countries before it reaches us or reaches its recipients.
+
+<<883.05;892.07;en>>
+Communications that would never previously have been collected by a foreign intelligence surveillance regime will now get swept up in the net.
+
+<<892.07;902.23;en>>
+And it will get swept up in the net, potentially, of multiple countries, because the court is asked to authorize a regime that could apply in any Council of Europe state.
+
+<<902.23;910.35;en>>
+So a communication may be intercepted not just once, but in every country that it passes through with a further intrusion each time.
+
+<<910.35;921.43;en>>
+Now, in those communications, we generate enormous volumes of communications data, which, as the first section identified, can be just as intrusive as content.
+
+<<921.43;928.51;en>>
+A phone communicates its location constantly to the telephone network.
+
+<<928.51;938.15;en>>
+Each email I send, each newspaper article I read, each photo or video I watch online will create communications data.
+
+<<938.15;948.79;en>>
+And so, as we've noted in our observations, the director of the US National Security Agency said recently, if you have enough metadata, you don't need the content.
+
+<<948.79;950.55;en>>
+And that's correct.
+
+<<950.55;958.93;en>>
+Yet, communications data has minimal protection under RIPA and is kept routinely for longer.
+
+<<958.93;972.03;en>>
+When older cases like Malone and the United Kingdom were decided by this court, communications data was simply a metering device that produced a list of the telephone numbers that had been called.
+
+<<972.03;975.07;en>>
+The world has changed substantially since then.
+
+<<975.07;980.63;en>>
+The data that's collected is highly sensitive, and it paints an intimate picture of our lives.
+
+<<980.63;986.37;en>>
+And of course, the government's ability to analyze and store data has exponentially increased.
+
+<<986.37;1002.87;en>>
+Computing power has increased, and it can aggregate data from multiple sources to create profiles of individuals and to examine the behavior of very large groups of people, entire communities, or societies.
+
+<<1002.87;1011.99;en>>
+As one of the Snowden documents refers to, we now live in what the US NSA called the golden age of signals intelligence.
+
+<<1011.99;1021.23;en>>
+Now, the government accepts that the collection of large volumes of data is an interference under Article 8 of the Convention.
+
+<<1021.23;1026.83;en>>
+But the government's case is that that interference is a minor one.
+
+<<1026.83;1029.11;en>>
+That's incorrect.
+
+<<1029.11;1040.91;en>>
+The systematic collection of data on a government database is a very significant interference with privacy, even if the data is not read or reviewed.
+
+<<1040.91;1054.63;en>>
+And that reflects this court's consistent case law, most recently in the decision in Catt in the United Kingdom, where precisely that argument was made by the UK courts and by the government in this court, but rejected.
+
+<<1054.63;1061.07;en>>
+And this court cited in detail the dissenting judgment in the UK Supreme Court of Lord Toulson.
+
+<<1061.07;1071.83;en>>
+And he said correctly, one might question why it really matters if there's no risk of the police making inappropriate disclosure of the information to others.
+
+<<1071.83;1081.07;en>>
+And he answered, it matters, because in modern society, the state has very extensive powers of keeping records on its citizens.
+
+<<1081.07;1094.71;en>>
+If a citizen's activities are lawful, they should be free from the state keeping a record of them, unless, and then for only as long as, such a record really needs to be kept in the public interest.
+
+<<1094.71;1111.43;en>>
+So let's imagine for a moment a law that has superb safeguards, requiring each of us to deliver a list of everywhere we've been and all of the websites we've looked at on the internet each month to our local police station.
+
+<<1111.43;1113.67;en>>
+Now, such data would no doubt be very useful.
+
+<<1113.67;1115.35;en>>
+It would help fight crime.
+
+<<1115.35;1120.07;en>>
+You could have very strict controls on the review and examination of the data.
+
+<<1120.07;1121.55;en>>
+You might have a judicial warrant.
+
+<<1121.55;1126.99;en>>
+You might have a code of practice, judges carrying out audits, oversight, and so on.
+
+<<1126.99;1134.63;en>>
+But nonetheless, that collection of data would chill freedom of expression and risk gravely harming public life.
+
+<<1134.63;1147.27;en>>
+The collection of data in large databases by the government on a compulsory basis is not a minor interference with the right to privacy in the applicant's submission.
+
+<<1147.27;1153.71;en>>
+And that argument is stronger in relation to bulk intercept, because that is carried out in conditions of total secrecy.
+
+<<1153.71;1159.99;en>>
+And so people are less likely to know about it or be able to complain about it.
+
+<<1159.99;1170.71;en>>
+The applicant suggests that in these circumstances, we shouldn't be continuing to apply standards that have been developed in rather different factual circumstances.
+
+<<1170.71;1178.47;en>>
+The second submission that we make is about the value of privacy and also the threat that's faced by Council of Europe member states.
+
+<<1178.47;1184.15;en>>
+Council of Europe states face very serious security threats and a risk from serious crime.
+
+<<1184.15;1194.83;en>>
+And combating those threats requires concerted police and intelligence activity, including covert surveillance and interception.
+
+<<1194.83;1199.35;en>>
+But those operations must be conducted within the convention framework.
+
+<<1199.35;1210.67;en>>
+Surveillance risks undermining the core values of the free and democratic societies that terrorism and serious criminality also seek to undermine.
+
+<<1210.67;1217.55;en>>
+And privacy is valuable, because what it does is to enable the exercise of other rights.
+
+<<1217.55;1223.71;en>>
+It enables us to whistleblow on illegality, to participate in political debates.
+
+<<1223.71;1226.59;en>>
+It makes intimate relationships possible.
+
+<<1226.59;1232.27;en>>
+It enables us to consider developing our religious faith or discuss abandoning it.
+
+<<1232.27;1238.91;en>>
+Lord Anderson, who carried out a number of reviews for the United Kingdom government, wrote a number of reports.
+
+<<1238.91;1240.59;en>>
+And they're relied on by the government.
+
+<<1240.59;1242.61;en>>
+But he put this point very well.
+
+<<1242.61;1254.49;en>>
+He said in his report, A Question of Trust, which is at CB248, some people might find comfort in a world in which every transaction and movement could be recorded.
+
+<<1254.49;1260.43;en>>
+Crime fighting, security, safety, public health justifications are never hard to find.
+
+<<1260.43;1268.51;en>>
+The impact of such powers on the innocent could be mitigated by the usual apparatus of safeguards, regulators, and codes of practice.
+
+<<1268.51;1273.99;en>>
+But a country constructed on such a basis would surely be intolerable to many of its inhabitants.
+
+<<1273.99;1282.31;en>>
+A state that enjoyed all of these powers would be truly totalitarian, even if the authorities had the best interest of its people at heart.
+
+<<1282.31;1286.27;en>>
+So that leads me on to the issue of proportionality.
+
+<<1286.27;1309.23;en>>
+Given these changes in technology, the generalized monitoring permitted by RIPA of the population's communications is, we say now, disproportionate, applying the principles identified by this court in S and MARPA and the United Kingdom and MK and France, relating to DNA and fingerprints.
+
+<<1309.23;1323.99;en>>
+And the fact that it is now technologically possible for a state to retain private information about a large proportion of the population and that retaining that information may be useful does not automatically justify doing so.
+
+<<1323.99;1333.79;en>>
+Can does not mean should, especially where a state such as the United Kingdom is acting as a pioneer in the development of new technology.
+
+<<1333.79;1338.91;en>>
+The proper test is one of strict necessity, which is not met.
+
+<<1338.91;1346.31;en>>
+So in S and MARPA, it was possible to take, for example, DNA from every arrested person in the United Kingdom and store it.
+
+<<1346.31;1348.83;en>>
+That could then be used to identify criminals.
+
+<<1348.83;1355.23;en>>
+But it did not justify the intrusion into privacy of a person who was never convicted of an offense.
+
+<<1355.23;1375.27;en>>
+And one of the reasons for that is because it involves a fundamental change in how we view policing and intelligence operations in society, from targeting a suspect who has been identified to treating everyone as a potential suspect whose data must be stored, analyzed, and profiled.
+
+<<1375.27;1379.83;en>>
+And so we say this broad, untargeted regime is not a proportionate one.
+
+<<1379.83;1391.07;en>>
+The impact of modern bulk interception is simply too grave an interference to be left entirely to states' margins of appreciation.
+
+<<1391.07;1407.47;en>>
+Now, if the court concludes that the applicants are incorrect about that and that RIPA's bulk regime is within the margin of appreciation, then the grave risks that are posed by it do require particularly strict safeguards.
+
+<<1407.47;1413.83;en>>
+Now, the court's jurisprudence, including in, for example, VEBA, contains six minimum safeguards.
+
+<<1413.83;1419.29;en>>
+And they should be applied to both content and also to communications data.
+
+<<1419.29;1425.59;en>>
+And the applicants say that even those safeguards are not met in respect of the RIPA regime.
+
+<<1425.59;1430.11;en>>
+The court already knows there are two kinds of warrants that are possible under RIPA.
+
+<<1430.11;1434.19;en>>
+First of all, an individual warrant under Section 8.1.
+
+<<1434.19;1441.39;en>>
+Those kind of warrants must name a single person or a single set of premises.
+
+<<1441.39;1443.95;en>>
+Secondly, there is a bulk warrant under Section 8.4,
+
+<<1443.95;1448.31;en>>
+which allows an entire communications link to be intercepted.
+
+<<1448.31;1457.99;en>>
+Now, a bulk warrant permits the interception of external communications, where at least one end of the communication is outside the British Islands.
+
+<<1457.99;1461.83;en>>
+But also, it authorizes under Section 5.6
+
+<<1461.83;1466.15;en>>
+anything which is necessary to do what the warrant authorizes.
+
+<<1466.15;1473.79;en>>
+And that permits what the first section called bycatch of internal communications traveling over the same link.
+
+<<1473.79;1477.31;en>>
+Now, in Sweden, for example, there is a ban on such bycatch.
+
+<<1477.31;1481.79;en>>
+If it is collected, it must be immediately destroyed as soon as it's identified.
+
+<<1481.79;1487.35;en>>
+That's what the court said in Centrum for RAT visa at paragraphs 15 and 26.
+
+<<1487.35;1490.43;en>>
+There is no such provision under RIPA.
+
+<<1490.43;1499.15;en>>
+Now, this requirement that a communication be external used to be a meaningful safeguard, but no longer.
+
+<<1499.15;1512.03;en>>
+The architecture and operation of the modern internet means that data which is between two people communicating in the UK passes via servers and networks abroad.
+
+<<1512.03;1517.83;en>>
+And so it gets swept up as bycatch and can be exploited under Section 8.4.
+
+<<1517.83;1521.39;en>>
+The result is that a Section 8.4 warrant can be used,
+
+<<1521.39;1528.13;en>>
+and indeed is used, to intercept a large volume of internal communications.
+
+<<1528.13;1536.55;en>>
+It's notable that the United Kingdom has actually given a hint of the true scale of these operations in its observations to the Grand Chamber.
+
+<<1536.55;1544.11;en>>
+We are told at paragraph 146 of the United Kingdom's observations that communications data collected under Section 8.
+
+<<1544.11;1550.47;en>>
+4 is used in respect of people who are known to be in the United Kingdom.
+
+<<1550.47;1556.51;en>>
+So an internal surveillance power several thousand times per week.
+
+<<1556.51;1563.95;en>>
+Bulk intercept was meant to be a foreign intelligence gathering power.
+
+<<1563.95;1569.75;en>>
+As a result of the development of the internet, it is no longer.
+
+<<1569.75;1581.47;en>>
+Now, the UK may only target the content of a person's communications in the UK with a special authorization from the Secretary of State, a Section 16.3 certificate.
+
+<<1581.47;1586.19;en>>
+And that prevents the circumvention of the requirement to get an individual warrant.
+
+<<1586.19;1591.79;en>>
+But that certificate is secret, and it's drafted in extremely broad terms.
+
+<<1591.79;1594.43;en>>
+It doesn't name individuals.
+
+<<1594.43;1598.71;en>>
+That's explained in the first section's judgment at paragraph 342.
+
+<<1598.71;1604.83;en>>
+And that is also the applicant's response to question 3 of the supplemental questions posed by the court.
+
+<<1604.83;1609.67;en>>
+Individuals are not named in the Section 8 certificate.
+
+<<1609.67;1613.07;en>>
+And those arrangements have a major loophole.
+
+<<1613.07;1617.41;en>>
+And the loophole was identified by the first section at paragraph 348.
+
+<<1617.41;1623.95;en>>
+The certificate only constrains the examination of content, not the examination of communications data.
+
+<<1623.95;1628.83;en>>
+So the reality is that the UK safeguards have stood still, but the world hasn't.
+
+<<1628.83;1632.87;en>>
+Now, in response to that, a partial concession has now been made.
+
+<<1632.87;1639.87;en>>
+The UK say that they will introduce a new scheme of non-statutory thematic approvals.
+
+<<1639.87;1642.91;en>>
+Now, they say that's being done entirely voluntarily.
+
+<<1642.91;1649.03;en>>
+In reality, we suggest it's being done through legal obligation as a result of the first section's judgment.
+
+<<1649.03;1652.63;en>>
+But the Grand Chamber is invited to confirm those findings.
+
+<<1652.63;1663.71;en>>
+We also invite the court to take the further step of recognizing that the external communications safeguard no longer acts as a meaningful constraint for the reasons I've just developed.
+
+<<1663.71;1672.09;en>>
+The first section also found that the oversight of bearers and selectors was inadequate, and it was correct to do so.
+
+<<1672.09;1682.27;en>>
+The government now accepts at paragraph 70 of its observations that oversight by the commissioners only consists of 15 person days per year.
+
+<<1682.27;1684.55;en>>
+They won't say how many selectors there are.
+
+<<1684.55;1689.63;en>>
+And looking recently at GCHQ's website, they employ over 6,000 people.
+
+<<1689.63;1695.55;en>>
+There is no evidence before the court that the commissioner actually looked at particular selectors used.
+
+<<1695.55;1698.71;en>>
+That's not sufficient oversight.
+
+<<1698.71;1705.95;en>>
+Turning then to the question of updating, the applicants proposed three supplemental safeguards.
+
+<<1705.95;1710.95;en>>
+First of all, prior judicial authorization of warrants, bearers, and selectors.
+
+<<1710.95;1714.31;en>>
+Secondly, a test of reasonable grounds of suspicion.
+
+<<1714.31;1718.39;en>>
+And thirdly, notice after the event where possible.
+
+<<1718.39;1722.95;en>>
+Now, why is it that the applicants say that prior judicial authorization is important?
+
+<<1722.95;1732.75;en>>
+Well, the answer is that only approval by a judge offers a guarantee of independent control before the interference occurs.
+
+<<1732.75;1736.85;en>>
+Now, such a scheme is perfectly possible, albeit it's still flawed.
+
+<<1736.85;1745.47;en>>
+The United Kingdom has introduced a scheme of prior judicial approval under the Investigatory Powers Act 2016.
+
+<<1745.47;1753.03;en>>
+What the government then says is, well, it's impossible to do any more than approve a small number of general warrants.
+
+<<1753.03;1757.23;en>>
+And they resist a system of judicial approval of bearers and selectors.
+
+<<1757.23;1759.51;en>>
+But such a system is not impossible.
+
+<<1759.51;1764.59;en>>
+In Weber, the independent commission, the G10 commission, approves a list of selectors.
+
+<<1764.59;1768.95;en>>
+And such approval systems operating at scale are perfectly possible.
+
+<<1768.95;1781.87;en>>
+Following the judgment of the Court of Justice of the European Union in Telly 2, Svea and Watson, the United Kingdom is introducing a system of prior approval for access to communications data in relation to the police.
+
+<<1781.87;1786.71;en>>
+There were approximately 3 quarters of a million applications that will need to be considered each year.
+
+<<1786.71;1789.83;en>>
+The UK uses that data on a large scale.
+
+<<1789.83;1795.55;en>>
+And that scheme will be operational by the end of this year.
+
+<<1795.55;1800.87;en>>
+Large-scale interference with privacy may require a large-scale system of safeguards.
+
+<<1800.87;1802.91;en>>
+And they are possible.
+
+<<1802.91;1817.95;en>>
+Turning then to reasonable grounds for suspicion, one use of bulk data which is made is searching with strong selectors, which is roughly equivalent to an individual 8-1 warrant, a particular name or email address.
+
+<<1817.95;1835.03;en>>
+When the intelligence services are able to identify a specific intelligence target, they ought to apply the test which was identified by the Grand Chamber in Zakharov, that of reasonable grounds for suspicion, paragraph 260 of the Zakharov judgment.
+
+<<1835.03;1842.79;en>>
+Otherwise, what happens is that bulk interception will become a loophole to avoid the protections of an individual warrant.
+
+<<1842.79;1849.91;en>>
+Now, the government's response to that is, well, we also use bulk interception to identify unknown targets.
+
+<<1849.91;1857.55;en>>
+Well, that's just another way of saying that we should all have all of our communications analyzed, even if we are not thought to have done anything wrong.
+
+<<1857.55;1866.05;en>>
+And that carries grave risks, which is why a requirement of objective evidence of reasonable suspicion is now needed.
+
+<<1866.05;1871.13;en>>
+We've given examples in our observations of the intrusiveness of these arrangements.
+
+<<1871.13;1881.19;en>>
+One of them is one of the programs disclosed by Edward Snowden, Optic Nerves, of collecting an image from the webcam of every user of Yahoo Chat every five minutes.
+
+<<1881.19;1886.83;en>>
+A substantial proportion of those images were of an intimate and sexual nature.
+
+<<1886.83;1890.31;en>>
+Finally, we propose notice be given where possible.
+
+<<1890.31;1893.75;en>>
+Now, of course, notification may not be possible in every case.
+
+<<1893.75;1898.91;en>>
+But under RIPA, it is prohibited in every case.
+
+<<1898.91;1904.07;en>>
+Now, in the absence of such notification, the right of access to the tribunal is largely futile.
+
+<<1904.07;1911.71;en>>
+If you don't know that you haven't been subject to surveillance, a person has no reason to apply to the Investigatory Powers Tribunal.
+
+<<1911.71;1922.35;en>>
+And since the first section's judgment, the IPT has, in a judgment called Human Rights Watch, held that suspicion is not enough of itself to bring an application.
+
+<<1922.35;1930.29;en>>
+And that's different from the position as this court understood it, or the first section understood it and was understood in Kennedy.
+
+<<1930.29;1933.75;en>>
+The final point which I'm going to deal with is journalism and Article 10.
+
+<<1936.35;1942.79;en>>
+Journalists do require a strong and special system of protection for their sources and their confidential information.
+
+<<1942.79;1949.71;en>>
+This court's repeatedly held there's a particularly strong public interest in maintaining the confidentiality of sources.
+
+<<1949.71;1952.07;en>>
+Goodwin in the UK, for example.
+
+<<1952.07;1958.39;en>>
+Usually, all that you need is the communications data to identify a source.
+
+<<1958.39;1964.15;en>>
+And yet, under the RIPA bulk scheme, communications data gets far less protection than content.
+
+<<1964.15;1965.67;en>>
+There are four requirements.
+
+<<1965.67;1975.95;en>>
+Judicial authorization prior to the search being carried out, or at least the use of data, an overriding requirement of public interest, and a scheme with clear rules.
+
+<<1975.95;1980.83;en>>
+RIPA fails each of those requirements identified by the Grand Chamber in Sonoma.
+
+<<1980.83;1987.91;en>>
+If bulk intercept can unmask a journalist's source, there is no system here of prior judicial authorization.
+
+<<1987.91;1990.47;en>>
+It may be done by an official in secret.
+
+<<1990.47;1994.39;en>>
+Nor is there an express requirement for an overriding public interest.
+
+<<1994.39;1997.03;en>>
+Now, that judicial control is necessary.
+
+<<1997.03;2003.11;en>>
+And it has to be ex ante because the identification of a confidential source is final.
+
+<<2003.11;2006.43;en>>
+Once the source has been identified, the damage has been done.
+
+<<2006.43;2009.87;en>>
+And the regime will have a chilling effect on the work of the media.
+
+<<2009.87;2013.79;en>>
+Now, the First Section were correct that there was a breach of Article 10.
+
+<<2013.79;2017.51;en>>
+And the United Kingdom concedes that the First Section was right.
+
+<<2017.51;2021.35;en>>
+But Sonoma goes considerably further than the First Section.
+
+<<2021.35;2028.87;en>>
+And the Grand Chamber is invited to make that clear, that a system of prior authorization is now required.
+
+<<2028.87;2036.07;en>>
+Finally, the role of NGOs is not recognized, either in the UK legislation or the codes of practice.
+
+<<2036.07;2040.15;en>>
+NGOs may act as public watchdogs when they rely on confidential sources.
+
+<<2040.15;2047.29;en>>
+And it's necessary that when they are acting in a position similar to journalists, they receive the same degree of protection.
+
+<<2047.29;2050.57;en>>
+The remaining issue before the court is intelligence sharing, which will be dealt with by Ms. Mountfield.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<2055.94;2056.44;en>>
+Thank you.
+
+<<2056.44;2059.4;en>>
+May I call Ms. Mountfield
+
+[[Applicant;AP2]]
+
+<<2061.37;2077.45;en>>
+Madam President, members of the court, the partially declassified Five Eyes Agreement between the United Kingdom, the United States, Canada, Australia, and New Zealand is based on the sharing of bulk intercept.
+
+<<2077.45;2092.69;en>>
+Edward Snowden disclosed the extensive access, use, and storage by the UK intelligence service, UKIS, of communications and communications data which had been intercepted by the United States National Security Agency and others.
+
+<<2092.69;2096.13;en>>
+Now, Mr. Jaffe has eloquently set out the intrusion
+
+<<2096.13;2103.53;en>>
+into private life and the chilling effect on journalistic freedom of bulk interception by UKIS.
+
+<<2103.53;2122.01;en>>
+But UKIS' use of third country intercept data is just as damaging to privacy and freedom of expression as the retention and use of such data when it is gathered by the UK intelligence services themselves and the same privacy protections and standards therefore ought to apply to it.
+
+<<2122.01;2123.97;en>>
+Let me give an example.
+
+<<2123.97;2136.17;en>>
+A and B both live in London, and A sends B an email, or a text, or a Facebook message, or an Instagram image, or a direct message on Twitter.
+
+<<2136.17;2141.61;en>>
+And that communication is transmitted via a server in the United States of America.
+
+<<2141.61;2156.57;en>>
+If GCHQ intercept that email as it leaves the UK on a cable bound for America, then the government accepts that sections 8 and 16 of REPA apply to the interception and to the use of the communications data.
+
+<<2156.57;2162.65;en>>
+And indeed, the first section's judgment requires additional safeguards to be introduced too.
+
+<<2162.65;2177.65;en>>
+But if the National Security Agency intercepts the same email at the other end of the same cable and then give GCHQ a copy of it, or the communications data relating to it, the same REPA safeguards do not apply.
+
+<<2177.65;2184.33;en>>
+And the first section said that in those circumstances, there was no breach of Article 8.
+
+<<2184.33;2195.69;en>>
+It's entirely arbitrary for there to be different legal protections for the same data based only on the technical happenstance of who carried out the initial interception.
+
+<<2195.69;2203.45;en>>
+GCHQ's processing, storage, and use of the intercept is the same whoever conducted the interception itself.
+
+<<2203.45;2213.93;en>>
+And arbitrary and inconsistent rules for access to private data on such a large scale is the antithesis of respect for private life.
+
+<<2213.93;2229.99;en>>
+As the UK government itself acknowledges in paragraph 3 of its response to the court's questions, in order to comply with Article 8 standards, systems must provide appropriate protection against abuse and arbitrariness by the state.
+
+<<2229.99;2233.69;en>>
+And this scheme doesn't do that.
+
+<<2233.69;2250.45;en>>
+The absence of an equally protective statutory scheme of safeguards for use of third country intercept data, as for home country intercept data, means that UK law is insufficient to provide protection against arbitrariness and abuse.
+
+<<2250.45;2268.17;en>>
+Now, this court has held correctly that the decisive factor in determining the specificity of legal safeguards required to prevent arbitrary or disproportionate interference with privacy is the extent of the interference with an individual's private life, which requires protection.
+
+<<2268.17;2272.57;en>>
+It's not the technological means through which the interference happens to occur.
+
+<<2272.57;2278.97;en>>
+That was established in the case of RE in the United Kingdom at paragraphs 129 to 130.
+
+<<2278.97;2293.49;en>>
+And we say that by parity of reasoning, the extent of legal protection around secret state surveillance shouldn't depend on whether the state itself operates the technology, or whether a foreign partner does the intercepting and then shares the product.
+
+<<2293.49;2302.65;en>>
+Otherwise, a state could outsource surveillance that isn't compatible with the convention, but still reap the benefits of it.
+
+<<2302.65;2313.29;en>>
+Now, that's particularly true of the United States, because as the National Security Agency itself says, the United States is a principal hub in the world's telecommunications system.
+
+<<2313.29;2328.17;en>>
+So wherever it starts, wherever it finishes, a very large amount of private material relating to UK residents and European residents, and indeed world residents, will pass through the United States in the course of its transmission.
+
+<<2328.17;2342.57;en>>
+And since the invasion of privacy is the same, whether this is direct, UKIS intercept, or third country intercept, there can be no principal justification for a lesser degree of legal protection in relation to it.
+
+<<2342.57;2348.73;en>>
+Now, the third section correctly made the following three findings relevant to this aspect of the submissions.
+
+<<2348.73;2358.13;en>>
+The first was that the existence of secret intelligence sharing arrangements was itself an interference with the applicant's Article 8 rights.
+
+<<2358.13;2365.97;en>>
+The second was that all the applicants were at risk of having their communications obtained by the UK intelligence services.
+
+<<2365.97;2370.09;en>>
+And indeed, in some cases, there was proof that it had occurred.
+
+<<2370.09;2392.69;en>>
+And thirdly, the point I made a moment ago, that since third country intercept material is still the product of intercept, the same requirements as to the bulk interception regime must also apply to the intelligence sharing regime, because otherwise, states could use intelligence sharing to circumvent stronger domestic surveillance procedures.
+
+<<2392.69;2400.05;en>>
+Now, those findings were all obviously right, and indeed, the UK government accepts them.
+
+<<2400.05;2408.29;en>>
+The first section found the standards and safeguards required for interception and intelligence sharing ought to be the same.
+
+<<2408.29;2425.43;en>>
+And it follows that if, as the first section found, the safeguards are inadequate in relation to direct surveillance by UK services, then, as we submit, they ought also to have found they are inadequate for the indirect surveillance by them.
+
+<<2425.43;2433.93;en>>
+That was the conclusion that judges Koskalo and Turkovich made at paragraph 31 of their dissenting judgment, and we respectfully submit that they were right.
+
+<<2433.93;2446.05;en>>
+And we also note that the UN special rapporteur also agrees that the same safeguards are needed for internal and third party intercept at paragraph 22 of his submissions to this chamber.
+
+<<2446.05;2456.09;en>>
+And the first section's disapproval of the REAPER section 84 regime, while approving the UK's intelligence sharing regime, is therefore illogical.
+
+<<2456.09;2464.33;en>>
+The first section's approach enables the very circumvention of domestic safeguards, which the first section acknowledged as a key risk.
+
+<<2464.33;2476.33;en>>
+And we submit that the first section also failed to consider the application of Article 8 safeguards to the sharing of unsolicited, rather than requested, third country intercept.
+
+<<2476.33;2500.01;en>>
+In the Council of Europe convention system, which is concerned with the practical and effective safeguarding of human rights, whether or not private material used by UKCCIS has been intercepted by a third country, solicited or unsolicited, makes no difference to the extent of interference under Article 8, and indeed Article 10, which arise from its use.
+
+<<2500.01;2516.81;en>>
+And indeed, given the very close links between the UK Intelligence Service and the NSA, and other intelligence services all around the world, this may be an artificial distinction because of the closeness of the intelligence sharing relationships.
+
+<<2516.81;2523.01;en>>
+Receipt of unsolicited material is expressly envisaged by the intelligence sharing regime.
+
+<<2523.01;2533.97;en>>
+And we note that in the chamber judgment at paragraph 417, the chamber recorded the government accepting that this does happen, albeit rarely.
+
+<<2533.97;2539.25;en>>
+And in that context, there are no safeguards, even as a matter of policy.
+
+<<2539.25;2543.13;en>>
+Paragraph 12.6 of the code of practice,
+
+<<2543.13;2550.45;en>>
+quoted in full at paragraph 109 of the first instance judgment, sets out those provisions.
+
+<<2550.45;2570.73;en>>
+Now, the respondent accepts that there's no express statutory framework analogous to RIPA, governing the authority upon which and the circumstances in which UKCCIS can use third country intercept data, and relies instead on a series of bare statutory powers, which it claims are applied in an analogous manner as a matter of policy.
+
+<<2570.73;2577.57;en>>
+Even if those policy assurances were sufficient, compliance with the current section 8.4 standards
+
+<<2577.57;2581.77;en>>
+would still breach article 8 for the reasons that Mr. Jaffe has explained.
+
+<<2581.77;2604.25;en>>
+And the very broad statutory framework for receipt of information by the UK security services is insufficiently tailored to provide sufficient foreseeability as to the circumstances in which third country interception data is used by them and other state agencies, or adequate constraints upon discretion to receive, analyze, and use third country intercept.
+
+<<2604.25;2620.77;en>>
+Firstly, decisions as to whether it's necessary to obtain, analyze, or store such data, which are received for very broad permitted purposes, are taken by individual, potentially fairly junior members of the security service with no prior independent or judicial approval.
+
+<<2620.77;2630.81;en>>
+The legislation itself provides no clear guidance to that official, or indeed the public, as to the principles upon which such a decision will be taken.
+
+<<2630.81;2635.61;en>>
+And when these applications were brought, the situation was entirely opaque.
+
+<<2635.61;2644.41;en>>
+The code of practice concerning interception of communications didn't address the issue of intelligence sharing at all.
+
+<<2644.41;2652.97;en>>
+And it's true that by January 2016, over three years after the proceedings were lodged, the code of practice, chapter 12 of the code of practice, was added.
+
+<<2652.97;2673.69;en>>
+But that guidance document, which is, of course, flexible policy, which may be departed from for good reason, does not comply with Article 8's quality of law requirements, because it does not provide sufficient clarity as to the process by which, or the principles upon which, third party intercept data will be used.
+
+<<2673.69;2676.17;en>>
+Moreover, as Mr. Jaffe said, the uses
+
+<<2676.17;2685.79;en>>
+of technology and known interception capacities have changed radically since this court last considered interception by the United Kingdom.
+
+<<2685.79;2703.69;en>>
+But the importance to humans of a sphere of private interaction and private correspondence, which the convention is intended to respect and protect, and I emphasize to preserve, have not changed.
+
+<<2703.69;2735.21;en>>
+And in the context of the reality of substantially new technological interception capabilities, which were revealed by Edward Snowden, and the increased capacity, complexity, and intrusiveness of algorithmic searching, we respectfully invite the court to recall the need which it identified in the Schabo case, at paragraph 68 to 70, to match technological developments with the simultaneous development of legal safeguards securing respect for citizens' convention rights.
+
+<<2735.21;2737.21;en>>
+Thank you, Your Honor.
+
+<<2737.21;2740.21;en>>
+Thank you, Your Honor.
+
+<<2740.21;2757.53;en>>
+Now, turning to the applicable standards, in order to ensure effective oversight and genuine guarantees against abuse of privacy rights in this brave new world, the court is invited to uphold the findings of the first section that the Weber standards apply to the access and use of third country intercept data.
+
+<<2757.53;2766.65;en>>
+And it should also affirm the necessity of the supplementary safeguards outlined by the Murphy in respect of intelligence sharing, too.
+
+<<2766.65;2769.41;en>>
+I make following five brief points.
+
+<<2769.41;2780.45;en>>
+First, it is not the case, as the first section appeared to suggest, that the first Weber criterion could only apply if the UK itself had control over the act of interception.
+
+<<2780.45;2787.53;en>>
+Indeed, the respondent appears to recognize this in its observations for this chamber at paragraph 189.1.
+
+<<2787.53;2804.09;en>>
+And I also note that in the first section judgment, the Venice Commission report on the democratic oversight of signals intelligence itself suggested that there should be a requirement of equivalent safeguards before search, where the interception had been conducted outside the Council of Europe.
+
+<<2804.09;2807.49;en>>
+That's at paragraph 216.
+
+<<2807.49;2813.49;en>>
+Secondly, the respondent is wrong to claim that this approach may be overbroad.
+
+<<2813.49;2828.89;en>>
+The breadth of the potential safeguards which are required only reflect the breadth of what foreign intelligence services may be able to scoop up in states in which Council of Europe standards do not directly apply.
+
+<<2828.89;2841.81;en>>
+Thirdly, and contrary to the respondent's argument again, we are not singling out or arbitrarily singling out intercept data from other kinds of information that might be shared by foreign intelligence agencies.
+
+<<2841.81;2851.89;en>>
+Interference with private life arising from bulk data interception is qualitatively and quantitatively different from other forms of information gathering.
+
+<<2851.89;2862.69;en>>
+But the impact of such bulk data interception is identical no matter who performs the initial act of interception.
+
+<<2862.69;2884.97;en>>
+Fourthly, the respondent undermines its own argument that it would be neither, I quote, feasible nor safe to comply with the Weber criteria in respect of third party intercept data by simultaneously claiming, in paragraphs 188 to 199 of its observations, that the intelligence sharing regime does, in fact, comply with them.
+
+<<2884.97;2891.09;en>>
+Fifthly, and in any event, the Weber safeguards and the additional protections which are proposed by Mr. Jaffe
+
+<<2891.09;2899.85;en>>
+are not, in fact, satisfied by the legal regime which governs the security services access and use of third country interception data.
+
+<<2899.85;2909.57;en>>
+And we address this in paragraphs 105 to 140 and paragraph 181 of our consolidated submissions to the Grand Chamber.
+
+<<2909.57;2918.49;en>>
+The Security Service Act and the Intelligence Service Act are simply too broad and unspecific to satisfy the quality of law requirements.
+
+<<2918.49;2941.81;en>>
+Without a clear and accessible legal framework, there is an obvious danger that domestic protections for the privacy of communications can be circumvented by use of third country interception data from states where Council of Europe standards do not apply, especially where there is no provision in statute or in policy for any ex post facto review of the lawfulness of the means by which the material was acquired.
+
+<<2941.81;2952.77;en>>
+And this interferes with Article 10 rights as well as Article 8 rights, which is a particular concern for journalists and human rights organizations such as the applicants.
+
+<<2952.77;2959.57;en>>
+Because the intelligence sharing regime does not contain any of the Sonoma safeguards.
+
+<<2959.57;2975.81;en>>
+This absence of safeguards may also have a chilling effect on important political communication, which is not only the heart of a democratic society, but vital to the protection and preservation of such a society.
+
+<<2975.81;2994.33;en>>
+And it is no answer to this concern simply to assert that access to foreign security services intercept to circumvent the existing legal controls in the United Kingdom would amount to a public law wrong because it would be using that data for a purpose not permitted by domestic law.
+
+<<2994.33;3003.73;en>>
+And the reason that is no answer is because there is no clear public or accessible legal framework to make this assurance good as Article 8 requires.
+
+<<3003.73;3010.81;en>>
+As to victim status, exhaustion of remedies, and just satisfaction, the applicants rely on their written observations.
+
+<<3010.81;3020.81;en>>
+We submit that the Zakharov criteria for victim status are clearly satisfied since all the applicants are either actual victims of interception or genuinely at risk of it.
+
+<<3020.81;3031.31;en>>
+And on the basis of Kennedy and the laws it stood when the application for Big Brother Watch and others was submitted, they were entitled to treat the IPT as an inadequate remedy.
+
+<<3031.31;3031.31;en>>
+Thank you.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<3032.97;3033.85;en>>
+Thank you.
+
+<<3033.85;3035.85;en>>
+I call Sir James Eadie for the government.
+
+[[Government;GR1]]
+
+<<3038.94;3052.9;en>>
+Madam President, members of the court, these applications raise issues of the utmost importance for the United Kingdom and, indeed, for other Council of Europe states.
+
+<<3052.9;3061.66;en>>
+And that is because these powers are ones that are essential for the protection of the lives and safety of the public.
+
+<<3061.66;3084.66;en>>
+That is increasingly the case in an environment where the internet is used widely for terrorism, cyber attacks, and other national security threats, and where terrorists and serious criminals are ever more sophisticated at communicating electronically in ways that enable them to evade detection.
+
+<<3084.66;3095.5;en>>
+The importance of the powers has been the subject of detailed and, in the United Kingdom, repeated consideration by a series of independent bodies in recent years.
+
+<<3095.5;3098.78;en>>
+There is unanimity of view.
+
+<<3098.78;3116.02;en>>
+And that is reflected in Lord Anderson's words in his bulk powers review, tab 50 in your core bundle, there is not any alternative, as he put it, or combination of alternatives sufficient to substitute for the bulk interception power.
+
+<<3116.02;3137.44;en>>
+He says it has, and again I quote, proven itself to be a vital utility across the range of operational areas, including counterterrorism in the United Kingdom and abroad, cyber defense, child sexual exploitation, and organized crime, and has played an important part in the prevention of bomb attacks.
+
+<<3137.44;3154.22;en>>
+The various suggested alternatives, he says, not only fall short of matching the results that can be achieved by using bulk interception, but as he put it, may also be slower, more expensive, more intrusive, and riskier to life.
+
+<<3154.22;3169.66;en>>
+And he gave a series of compelling examples of major threats that have only been averted by the use of the bulk interception power, and which in many cases would not have been discovered at all without the power.
+
+<<3169.66;3173.46;en>>
+Some of them we set out in our observations at paragraph 25.
+
+<<3173.46;3185.06;en>>
+They include the identification of mobile phones used by terrorists, leading to the disruption successfully of a terrorist plot in the final hours before it took place.
+
+<<3185.06;3194.1;en>>
+The identification and monitoring of an armed group that had seized hostages in Afghanistan, which led to the hostages' eventual rescue.
+
+<<3194.1;3205.34;en>>
+The identification of an airline worker with links to Al-Qaeda, who had offered to use his access to an airport to launch a terrorist attack from the United Kingdom.
+
+<<3205.34;3215.3;en>>
+And the analysis of bulk interception data to track men overseas who had used the World Wide Web to blackmail hundreds of children across the world.
+
+<<3215.3;3225.94;en>>
+All of those examples I emphasize are ones where bulk interception was critical to enabling the intelligence services to discover and address the threat.
+
+<<3225.94;3231.22;en>>
+I highlight three important features of the various independent analyses.
+
+<<3231.22;3240.4;en>>
+The first is the emphasis that they place on the use of bulk interception for the discovery of threats, rather than simply to follow known targets.
+
+<<3240.4;3257.46;en>>
+The Intelligence and Security Committee of the United Kingdom Parliament, in its 2015 report, tab 47 in your bundle, under the heading, why do the agencies intercept communications, said that they did so, quote, as a discovery or intelligence gathering tool.
+
+<<3257.46;3267.74;en>>
+And went on to explain, in these words, the agencies, they said, can use targeted interception only after they have discovered that a threat exists.
+
+<<3267.74;3280.18;en>>
+They require separate capabilities to uncover those threats in the first place, so that they can generate leads and obtain the information they need to then target the individuals.
+
+<<3280.18;3291.22;en>>
+The second important feature was highlighted by Lord Anderson, when he said that the alternatives to bulk interception were, quote, more intrusive into individuals' privacy rights.
+
+<<3291.22;3307.46;en>>
+And that's because it is possible to interrogate or search bulk intercepted material in a highly specific way to enable threats to be discovered that simply could not be discovered any other way, and so to restrict any other intrusion to the most minimal.
+
+<<3307.46;3319.86;en>>
+Bulk interception and analysis enables the search to be done to see if the haystack contains a needle, and to focus on discovering that needle and nothing else.
+
+<<3319.86;3338.06;en>>
+By contrast, even assuming targeted information gathering powers were available to collect the communications of an unknown individual posing a security threat, those powers would be likely to involve examination of a greater quantity of that individual's private information.
+
+<<3338.06;3350.9;en>>
+And in such cases, the use of targeted powers may well entail intrusion and intrusive monitoring of persons who it eventually transpires are not national security threats at all.
+
+<<3350.9;3356.46;en>>
+The third feature of the independent analyses is their recent provenance.
+
+<<3356.46;3366.78;en>>
+They have squarely addressed exactly the argument that has been made by the applicants in this case, that the world has changed because of technological developments.
+
+<<3366.78;3376.1;en>>
+And they have found in that new world that bulk powers, including bulk interception, are and remain central to protecting the public.
+
+<<3376.1;3383.58;en>>
+Indeed, the world changing point has emphasized and reinforced the pressing need for these powers.
+
+<<3383.58;3393.22;en>>
+Wrongdoers who use telecommunications services are much more security conscious, and take greater steps to cover their electronic traces.
+
+<<3393.22;3403.82;en>>
+As Lord Anderson again pointed out, this time in a question of trust, tab 48 in your bundle, the internet has also complicated and magnified security threats.
+
+<<3403.82;3414.62;en>>
+It allows an almost infinite variety of channels for worldwide communication, some of them highly secure to be used by criminals and terrorists.
+
+<<3414.62;3425.02;en>>
+It's also vastly increased the volume of digital communications through which the intelligence services must search to find a fraction of the information that they need.
+
+<<3425.02;3432.14;en>>
+And it's provided a new platform for some crimes, such as child sexual exploitation and fraud.
+
+<<3432.14;3436.98;en>>
+It's facilitated the spread of terrorist propaganda and indecent images.
+
+<<3436.98;3443.22;en>>
+It's created completely new opportunities for criminality, for instance, malware and cyber attacks.
+
+<<3443.22;3451.42;en>>
+Those changes we submit emphasize the need for bulk interception powers rather than the reverse.
+
+<<3451.42;3458.22;en>>
+So the need, we say, is clear and established and of the utmost seriousness.
+
+<<3458.22;3480.3;en>>
+And this court has rightly, we say, been sensitive to the concerns of states in this area, sensitive in particular because these sorts of powers directly touch the paradigm responsibility of the state for which it is democratically accountable to its population to protect its citizens from harm.
+
+<<3480.3;3504.66;en>>
+It is right and consistent with the scheme of supervision under the convention for contracting states to make the primary judgments about what powers are needed to do that effectively and subject to the minimum safeguards to decide how to balance the competing rights and interests in play, notably the protection of the citizen and the privacy of the citizen.
+
+<<3504.66;3514.42;en>>
+It's also to be recognized that there are various different ways in which such powers may be exercised and controlled in the various Council of Europe systems.
+
+<<3514.42;3517.54;en>>
+This is not a harmonized field.
+
+<<3517.54;3526.94;en>>
+For all of these reasons, the court has always recognized in this context a wide margin of appreciation available to states.
+
+<<3526.94;3535.86;en>>
+And I emphasize this margin of appreciation because it underpins what we submit is the correct approach in principle in a case like this.
+
+<<3535.86;3547.38;en>>
+The court, of course, retains its supervisory role and the court's jurisprudence has developed a series of principles governing the safeguards that are to be applied.
+
+<<3547.38;3553.46;en>>
+However, the margin reinforces and provides the basis for three important points.
+
+<<3553.46;3562.94;en>>
+The safeguards upon which the court has insisted in the different cases in this context that have come before it are in nature minimum safeguards.
+
+<<3562.94;3570.22;en>>
+The court has accepted that margin applies to the detailed safeguarding in a national regime of this kind.
+
+<<3570.22;3581.78;en>>
+And the court has not been prescriptive as to any particular feature of an adequate system so long as the minimum standards are met.
+
+<<3581.78;3610.02;en>>
+Secondly, those standards are themselves set or described as in effect principles, allowing different states to conform to them in different ways, recognizing the different systems that can exist compatibly with the convention and recognizing also that it is for contracting states ultimately to decide what is needed to protect its citizens and precisely how to ensure that the minimum standards are met.
+
+<<3610.02;3622.98;en>>
+And thirdly, when considering whether applying this approach to the safeguarding is adequate, the overarching and critical question is whether the safeguards are sufficient to protect against abuse.
+
+<<3622.98;3637.82;en>>
+And the court has been astute to ensure that it does not, in applying the minimum safeguards, undermine the ability of what the contracting state judges to be necessary to protect its citizens.
+
+<<3637.82;3658.78;en>>
+And all of those features are important here because if the applicant's case on interception and intelligence sharing is accepted, and I mean their case both on whether the powers can exist at all and also their case on safeguards, it would be profoundly damaging for the capabilities and work of the intelligence services.
+
+<<3658.78;3667.5;en>>
+Indeed, as the interventions by third-party states show, that damage would be deep across Council of Europe states more generally.
+
+<<3667.5;3682.62;en>>
+And that is particularly the case in relation to the applicant's suggestion that a bulk interception regime is now per se disproportionate and that new legal principles should be developed accordingly.
+
+<<3682.62;3688.7;en>>
+I turn then to address the true extent of any interference with Article 8 rights in this case.
+
+<<3688.7;3692.58;en>>
+And I start with this initial point about balancing.
+
+<<3692.58;3697.34;en>>
+The interests in play here, we submit, are not equal.
+
+<<3697.34;3702.34;en>>
+The right to life and the safety of the citizen is paramount.
+
+<<3702.34;3706.94;en>>
+The scales in the overall balance are therefore not evenly weighted.
+
+<<3706.94;3717.94;en>>
+Privacy is of course important and abuse must of course be prevented by proper safeguards, but the protection of the public is preeminent.
+
+<<3717.94;3730.58;en>>
+We submit that the true nature of the interference with Article 8 rights is grossly overstated by the applicants who make repeated and inaccurate claims of, quote, mass and indiscriminate surveillance.
+
+<<3730.58;3737.62;en>>
+The true factual position, as we've explained in our observations in more detail, is as follows.
+
+<<3737.62;3749.34;en>>
+First, in order to obtain any wanted communications at all, it is necessary to intercept the entire contents of a communications bearer.
+
+<<3749.34;3758.62;en>>
+Without bulk interception, it would simply not technically be possible to obtain any information from the bearer in the first place.
+
+<<3758.62;3763.9;en>>
+Secondly, only a limited selection of bearers can be accessed.
+
+<<3763.9;3769.34;en>>
+A Section 8.4 warrant is directed at obtaining external communications
+
+<<3769.34;3773.54;en>>
+meeting the descriptions in the Secretary of State's certificate.
+
+<<3773.54;3787.62;en>>
+Under the Code, the bearers chosen must be those most likely to carry such external communications, for instance, bearers carrying a high proportion of communications from northern Syria.
+
+<<3787.62;3798.1;en>>
+Thirdly, only a tiny proportion of communications so intercepted can be and are selected and retained for possible examination.
+
+<<3798.1;3807.94;en>>
+The great majority of the communications are filtered and discarded instantly because they're not of a type likely to be of intelligence interest at all.
+
+<<3807.94;3819.62;en>>
+Any remaining communications are subject to automated searches in near real time for simple or strong selectors, for instance, a terrorist's email address.
+
+<<3819.62;3836.5;en>>
+Communications from a much smaller number of bearers are kept for a period of a few days and subject to much more complex search terms, for instance, material combining the use of a particular language with emanation from a particular geographical region.
+
+<<3836.5;3843.58;en>>
+The communications that match those either simple or complex queries will be kept for possible examination.
+
+<<3843.58;3849.46;en>>
+All other remaining communications are deleted as soon as that process has taken place.
+
+<<3849.46;3854.66;en>>
+That's the process that has been referred to as selection for examination.
+
+<<3854.66;3863.78;en>>
+What remains then is an index of communications for possible searching and viewing by trained and vetted analysts.
+
+<<3863.78;3870.22;en>>
+And this last stage, therefore, involves the actual searching and examination of material.
+
+<<3870.22;3888.5;en>>
+It's against that background we submit that the first section was right to conclude that in this case any substantial interference with privacy rights occurs not when the data is first intercepted, but only if it is selected for possible examination.
+
+<<3888.5;3897.66;en>>
+This is not by the remotest stretch of the imagination analogous to the seizure of a person's letters or the making of lists, as the applicants assert.
+
+<<3897.66;3913.7;en>>
+That is not least because it's not possible to examine or make any use of the content of the communications held in the amorphous soup of data before the selection for examination process has been completed.
+
+<<3913.7;3928.58;en>>
+The interception can, of course, be both of content, the content of the communication, and the communications data, in other words, the details of the nature of the communication, the who, when, and where of communications.
+
+<<3928.58;3932.46;en>>
+The Section 8.4 regime divides interception material
+
+<<3932.46;3939.3;en>>
+into content and what is called related communications data, or RCD.
+
+<<3939.3;3943.7;en>>
+Of course, both are vital to identifying and ruling out threats.
+
+<<3943.7;3960.98;en>>
+At this stage, however, I simply note that the legislative judgment inherent in the UK scheme of safeguarding is that in general, and I emphasize in general, RCD is on no view as intrusive or personally sensitive as content.
+
+<<3960.98;3975.54;en>>
+No doubt there may be cases where communications data would be revealing of personal details, but in general, knowing, for example, an email address is not as sensitive as knowing what someone has said.
+
+<<3975.54;3979.9;en>>
+That view of sensitivity is shared by our oversight bodies.
+
+<<3979.9;4004.34;en>>
+For example, the Intelligence and Security Committee, again in its 2015 report, said, the statutory definition of communications data, the who, when, and where of a communication, is narrowly drawn, and therefore, while the volume of communications data available has made it possible to build a richer picture of an individual, this remains considerably less intrusive than content.
+
+<<4004.34;4016.9;en>>
+It's permissible in principle, and well within the margin we submit, for a contracting state to set up its system of safeguards recognizing this general but important distinction.
+
+<<4016.9;4020.3;en>>
+Two points of detail to be dealt with in relation to CD.
+
+<<4020.3;4026.22;en>>
+First, it has a specific and limited statutory definition in the Act.
+
+<<4026.22;4030.82;en>>
+Everything not covered by that definition must be treated as content.
+
+<<4030.82;4041.74;en>>
+And as a result, much of the information posited as communications data in the applicant's observations would in fact amount to content under the Section 8.4 regime.
+
+<<4041.74;4050.02;en>>
+For instance, a website address is CD, but the individual web pages that are visited are content.
+
+<<4050.02;4059.62;en>>
+So the applicant's contention that RCD enables the intelligence services to know, quote, what has been viewed on the web is simply wrong.
+
+<<4059.62;4071.26;en>>
+Secondly, the use of RCD is not merely vital to threat identification, it also enables investigations to be undertaken with the minimum degree of intrusiveness.
+
+<<4071.26;4074.86;en>>
+And that, we submit, is a virtue.
+
+<<4074.86;4079.98;en>>
+Against that backdrop, I turn to the safeguards in the Section 8.4 regime.
+
+<<4079.98;4086.02;en>>
+The overall submission is that those safeguards are powerful and multilayered.
+
+<<4086.02;4097.58;en>>
+In the submissions I'm going to make, I'm going to use the present tense, even though, as you know, there is now in the United Kingdom, in the 2016 Act, a new regime governing this area.
+
+<<4097.58;4112.14;en>>
+As the Court will have seen from the very detailed description of the regime in our observations and in the first section's judgment, those safeguards are built around the convention concepts of necessity and proportionality.
+
+<<4112.14;4128.5;en>>
+Those fundamental principles govern all aspects of information or data, from obtaining it in the first place, to examining it, to handling it, to storing it, to disclosing it, and finally to its retention and deletion.
+
+<<4128.5;4139.1;en>>
+The regime involves detailed controls through primary legislation, through published codes, through internal arrangements, much now published.
+
+<<4139.1;4148.42;en>>
+It involves a system of oversight by a specially appointed commissioner who's held high judicial office, here a former Lord Justice of Appeal.
+
+<<4148.42;4161.26;en>>
+And it involves easy access to an independent tribunal chaired by a high court judge, able to rule on specific complaints and the convention compatibility, more generally, of the regime.
+
+<<4161.26;4169.54;en>>
+And finally, it involves parliamentary oversight by the Intelligence and Security Committee.
+
+<<4169.54;4180.14;en>>
+At the outset, the regime has a requirement, backed in detail by the Code, for warrants to be obtained from the Secretary of State authorizing interception.
+
+<<4180.14;4184.66;en>>
+They are required to collect any data, including RCD.
+
+<<4184.66;4194.38;en>>
+The Secretary of State must be satisfied that the warrant is necessary and proportionate for the listed statutory purposes, national security, serious crime, and so on.
+
+<<4194.38;4204.1;en>>
+Applications must set out the background to the operation in question and explain why the warrant is necessary and proportionate for one or more of those purposes.
+
+<<4204.1;4214.54;en>>
+The Secretary of State must also certify that he considers examination of the intercepted material to be necessary for one or more of those statutory purposes.
+
+<<4214.54;4222.54;en>>
+The certificate limits the purposes for which content can be selected for examination to those set out in the certificate.
+
+<<4222.54;4235.22;en>>
+So at the very outset, the Secretary of State is required personally to consider the necessity and proportionality of using the Section 8-4 power to obtain and then to examine material.
+
+<<4235.22;4239.9;en>>
+Applications are subject to oversight by the Commissioner.
+
+<<4239.9;4244.22;en>>
+He scrutinizes a high proportion of the warrants issued.
+
+<<4244.22;4246.14;en>>
+These are not rolling warrants.
+
+<<4246.14;4254.26;en>>
+They've got to be regularly reviewed to ensure that they remain necessary and their renewal must be justified.
+
+<<4254.26;4259.78;en>>
+What then of selection, searching, and examination, which the Court has specifically asked about?
+
+<<4259.78;4261.98;en>>
+I start with content.
+
+<<4261.98;4267.22;en>>
+The Secretary of State has set the parameters in the warrant, as I indicated.
+
+<<4267.22;4277.06;en>>
+Any selectors then used in the selection for examination and all searches must then be necessary and proportionate.
+
+<<4277.06;4280.82;en>>
+That's the legal requirement under Section 15 of RIPA.
+
+<<4280.82;4290.66;en>>
+Selectors must be reviewed at least every three months where they relate to target discovery and every six months where they relate to known targets.
+
+<<4290.66;4295.22;en>>
+And those requirements are then backed by an effective oversight system.
+
+<<4295.22;4316.34;en>>
+It's an important feature of the system that analysts must create records justifying their decisions, both to task the system with particular selectors, the stage at which the index of communications is created for possible examination, and when they choose an item from the index actually to examine it.
+
+<<4316.34;4325.66;en>>
+Records have got to be created for each type of decision, explaining why it's necessary and proportionate for the purposes within the Secretary of State's certificate.
+
+<<4325.66;4335.5;en>>
+And those records must be open to internal audit and to external audit and questioning by the Commissioner.
+
+<<4335.5;4341.9;en>>
+The Commissioner has power to oversee all of those decisions on the basis of all of those records.
+
+<<4341.9;4352.46;en>>
+In practice, he has conducted sample reviews which have assessed the necessity and proportionality of the selectors used by reference to the Section 5.3 purposes.
+
+<<4352.46;4374.22;en>>
+And it's specifically to be noted in this respect that the First Section appears not to have appreciated, I'm sure it was our fault, that the Commissioner's jurisdiction has always allowed him to do this, and that by the time of his 2014 annual report, he'd specifically put in place systems and processes to make sure that that occurred.
+
+<<4374.22;4389.9;en>>
+So the concerns that appear to have had, that the First Section appear to have had, and indeed that appear to have been central to their Article 8 conclusions, were in fact groundless for the reasons that we point out in powers 52 to 59 of our observations.
+
+<<4389.9;4398.66;en>>
+Given the number of selectors and search terms, it would not realistically, of course, be possible for the Commissioner to examine more than a limited proportion of them.
+
+<<4398.66;4402.9;en>>
+But that doesn't diminish the power of his oversight as a safeguard.
+
+<<4402.9;4418.9;en>>
+They've got to create the records which will contain their reasoning on necessity and proportionality, and anyone who's operating the system will know that they will then potentially be subject to specific questioning on those very issues.
+
+<<4418.9;4422.62;en>>
+I turn then to RCD, to communications data.
+
+<<4422.62;4439.22;en>>
+Here, the critical point is that all the same safeguards apply to the selection for examination of RCD as apply to content, except for the constraint on the examination of communications of persons known to be within the British Islands.
+
+<<4439.22;4450.5;en>>
+Thus, the application of selectors to RCD must be justified as necessary and proportionate, a written record created setting out that justification, just as for content.
+
+<<4450.5;4462.1;en>>
+Just as for content, that record is subject to audit and review by the Commissioner, and he will conduct sample reviews examining the necessity and proportionality of the selectors' use.
+
+<<4462.1;4479.26;en>>
+They've got to be reviewed at exactly the same frequency in relation to RCD as they are in relation to content, and they can only continue to be used, those selectors, if they continue to be justified as necessary and proportionate.
+
+<<4479.26;4492.18;en>>
+So the basic and core safeguards apply, and that, we submit, is enough to protect the examination of RCD against abuse, the prime convention principle.
+
+<<4492.18;4505.22;en>>
+The so-called British Islands safeguard in section 16 of RIPA is not, we submit, necessary to ensure convention compatibility, because the fundamental safeguards I've indicated are already in place.
+
+<<4505.22;4508.78;en>>
+It's an additional national provision, if you will.
+
+<<4508.78;4518.86;en>>
+It requires a warrant from the Secretary of State to examine content if the person concerned is within the UK, and that doesn't apply to CD.
+
+<<4518.86;4526.14;en>>
+That distinction is a considered legislative distinction made by Parliament, and it reflects two things.
+
+<<4526.14;4535.5;en>>
+First, that the examination of CD is, in general, less intrusive, for all the reasons that I gave, than examination of content.
+
+<<4535.5;4550.66;en>>
+And secondly, it would not be possible for the constraints upon examination of the communications of persons known to be within the British Islands, imposed by section 16, to apply to CD, as well as to content.
+
+<<4550.66;4558.26;en>>
+Firstly, in order to assess whether a person is within the British Isles in the first place, they need to use CD for that purpose.
+
+<<4558.26;4569.1;en>>
+But quite apart from that, the constraints would be practically impossible, and thus insistence upon them would risk undermining a key element of the ability to protect the public.
+
+<<4569.1;4581.06;en>>
+And that's because under section 16, the Secretary of State is required personally to consider the necessity and proportionality of targeting a person in the British Islands on an individualised basis.
+
+<<4581.06;4588.66;en>>
+That's an exercise that can feasibly be done in relation even to up to 100 or so, or perhaps more, cases.
+
+<<4588.66;4603.18;en>>
+But it's not an exercise that could be done sensibly or feasibly or practically in relation to our CD, simply because of the volume of inquiries and searches that need to be made in that respect in relation to CD.
+
+<<4603.18;4613.62;en>>
+It's used, as we've explained in 146 of our observations, many thousands of times a week for those purposes in relation to individuals in the UK alone.
+
+<<4613.62;4620.9;en>>
+So it would be practically impossible to build that safeguard into the CD part of the regime.
+
+<<4620.9;4632.58;en>>
+But I emphasise again, the key safeguards remain and are in place in relation to the selection for examination and the actual examination of CD.
+
+<<4632.58;4640.02;en>>
+Sitting alongside the oversight exercised by the Commissioner, of course, is the Investigatory Powers Tribunal.
+
+<<4640.02;4653.02;en>>
+The first section rightly emphasised the IPT's extensive powers, its important role in analysing and elucidating the operation of secret surveillance regimes and its effectiveness as a remedy.
+
+<<4653.02;4658.22;en>>
+And the Liberty proceedings in this case vividly demonstrate that effectiveness.
+
+<<4658.22;4666.26;en>>
+It involved the detailed examination over about five days of the very issues now raised in this application.
+
+<<4666.26;4670.94;en>>
+The panel on the IPT was five, including two High Court judges.
+
+<<4670.94;4674.42;en>>
+It considered a large quantity of evidence and submissions.
+
+<<4674.42;4683.98;en>>
+It conducted closed hearings in which it considered the actual systems that were in place, the actual below-the-waterline arrangements, as they were put by it.
+
+<<4683.98;4688.34;en>>
+And it concluded that the regime was Article 8 compatible.
+
+<<4688.34;4700.34;en>>
+As I say, that included examination of the internal arrangements of the services, which for good national security reason, could not be made public, which they described as the below-the-waterline arrangements.
+
+<<4700.34;4718.94;en>>
+But those arrangements are plainly of at least some significance and certainly of relevance to the Article 8 issues, because they provide that final layer of control against abusive or arbitrary conduct or decision-making by the services when exercising these powers.
+
+<<4718.94;4732.78;en>>
+The other more specific limitations that the applicants seek to impose are, we submit, both unnecessary and in some respects, back to the balances I mentioned at the outset, positively and deeply damaging.
+
+<<4732.78;4741.82;en>>
+First, they seek to draw a parallel between the present situation and retention cases such as Essen, MAPA and MK in France.
+
+<<4741.82;4745.78;en>>
+Those cases are not remotely analogous.
+
+<<4745.78;4759.26;en>>
+In contrast to MAPA and MK, neither content nor CD can be accessed at all unless it's justified as necessary and proportionate for a national security-related or serious crime purpose.
+
+<<4759.26;4767.14;en>>
+The spectre that the applicants seek to conjure up of information gathering about the general population is simply false.
+
+<<4767.14;4782.18;en>>
+Moreover, in those cases, what was claimed was a power to retain fingerprint and biometric information, the subject of those cases, indefinitely, on the premise that at some point in the future it might be useful for a broad range of purposes.
+
+<<4782.18;4794.9;en>>
+Here, by contrast, no content is retained at all unless it is of intelligence value, and even then it's discarded after a few months unless incorporated into actual intelligence reporting.
+
+<<4794.9;4803.02;en>>
+Secondly, it's incorrect to suggest, as the applicants do, that all RCD is kept, still less that it's kept indefinitely.
+
+<<4803.02;4814.46;en>>
+Much, as I've described, is instantaneously discarded, and the remainder is kept for a limited period for potential searches for good reason.
+
+<<4814.46;4831.58;en>>
+They say next that there must be, as they put it, objective evidence of reasonable suspicion in relation to persons about whom data is sought and then examined, and they say there must be subsequent notification of those affected by bulk surveillance.
+
+<<4831.58;4838.34;en>>
+The problem with both of these requirements was rightly identified by the first section at Power 317.
+
+<<4838.34;4848.34;en>>
+They are fundamentally incompatible with the operation of a regime which does not depend on the existence of clearly defined surveillance targets.
+
+<<4848.34;4853.58;en>>
+The Section 8-4 regime is, by its nature, an untargeted regime.
+
+<<4853.58;4863.66;en>>
+It exists to discover unknown national security and serious crime threats, so reasonable suspicion simply could not be part of it.
+
+<<4863.66;4873.5;en>>
+Such a requirement would cripple its utility and prevent the discovery of the major national security threats of the kind I indicated at the outset.
+
+<<4873.5;4886.82;en>>
+As the IPT itself remarked, it is very difficult to know how a requirement to give notification can be interpreted in respect of the use of bulk data and how it could be practically implemented.
+
+<<4886.82;4897.22;en>>
+Just as importantly, notification is a requirement which, as cases such as Kennedy in the United Kingdom make clear, is linked to the effectiveness of remedies.
+
+<<4897.22;4905.54;en>>
+But here, as the first section rightly accepted, an effective remedy is already in place and doesn't depend upon notification.
+
+<<4905.54;4917.02;en>>
+Any person who suspects that they've been subject to unlawful surveillance can make a claim to the IPT without needing to show that the interception in fact occurred.
+
+<<4917.02;4926.98;en>>
+Next, the applicants say that there should be prior judicial authorisation, both of warrants and of selectors, and possibly even of search terms.
+
+<<4926.98;4949.38;en>>
+As to prior judicial authorisation of warrants, the Secretary of State was required personally to consider warrant applications on the basis of the detailed provisions in the Code, and the warrants were then themselves subject to independent oversight by the Commissioner, who viewed a substantial proportion of them and had full access to all relevant documents in assessing them.
+
+<<4949.38;4954.94;en>>
+The IPT then added a further layer of extensive judicial oversight.
+
+<<4954.94;4965.22;en>>
+And so the first section was right, we submit, to conclude that this section, this system, offered sufficient guarantees against abuse.
+
+<<4965.22;4973.22;en>>
+As to selectors, any requirement for prior judicial authorisation, would we submit, be wholly impractical.
+
+<<4973.22;4985.38;en>>
+GCHQ systems are necessarily tasked with many thousands of selectors, which may need to change rapidly in order to keep pace with fast-moving investigations and threat discoveries.
+
+<<4985.38;4995.74;en>>
+A requirement for prior judicial authorisation for each such selector would be impossible without fundamentally altering their ability to discover and repel threats.
+
+<<4995.74;4999.14;en>>
+Nor is it necessary, we submit, for convention compliance.
+
+<<4999.14;5007.46;en>>
+What is important is that the justification for each selector is recorded and is then capable of being subjected to independent oversight.
+
+<<5007.46;5011.38;en>>
+And that is exactly what happens.
+
+<<5011.38;5014.98;en>>
+I turn then to Article 10.
+
+<<5014.98;5032.62;en>>
+As to that, the Court's case law establishes that where an authority actively seeks an order for the disclosure of journalistic sources or confidential journalistic material of comparable sensitivity, it will require independent authorisation, saving cases of urgency.
+
+<<5032.62;5038.26;en>>
+The Sonoma case, upon which the applicants principally rely, was precisely that sort of case.
+
+<<5038.26;5042.7;en>>
+It concerned an order for disclosure of a source.
+
+<<5042.7;5057.46;en>>
+However, Sonoma does not, we submit, establish that such independent authorisation is required where the selection for examination of material from bulk merely might or could result in an interference with Article 10 rights.
+
+<<5057.46;5059.86;en>>
+Such a requirement would make no sense.
+
+<<5059.86;5070.98;en>>
+At the warrant-issuing stage, all the independent person could be told is that the execution of the warrant might result in the interception of some journalistic material.
+
+<<5070.98;5080.06;en>>
+And at the stage of selection for examination, it will very often only be known after selection has taken place whether journalistic material is involved.
+
+<<5080.06;5091.46;en>>
+What is required here, rather, we submit, as the first section rightly found, are special protections under the Code for protecting the confidentiality of such material.
+
+<<5091.46;5099.9;en>>
+It is necessary for those who intend to select such material to give particular consideration to the importance of the rights at stake.
+
+<<5099.9;5111.18;en>>
+And if such material is selected for examination, whether intentionally or unintentionally, it's necessary to identify it and ensure that it's subject to stringent safeguards.
+
+<<5111.18;5124.66;en>>
+The Code provides stringent safeguards for confidential journalistic material, which has been identified as such, as paragraph 494 of the first section's judgment properly recognised.
+
+<<5124.66;5139.06;en>>
+But the Government has accepted that the Code should have provided appropriate special protections where the intelligence services which to search bulk intercept for such material in the first place.
+
+<<5139.06;5143.74;en>>
+I turn finally and briefly to the intelligence-sharing regime.
+
+<<5143.74;5153.62;en>>
+The Court has asked whether the communications of a specified individual must be expressly identified on the face of a section 8.4 warrant
+
+<<5153.62;5159.86;en>>
+when a request is made to a foreign government for the communications of that individual.
+
+<<5159.86;5164.82;en>>
+If the individual's communications are in principle covered by a section 8.4 warrant,
+
+<<5164.82;5170.58;en>>
+the same position applies here as applies within the section 8.4 regime more generally.
+
+<<5170.58;5183.14;en>>
+If selectors referable to an individual known to be in the British Isles are used to obtain the individual's communications, they must be named in the Secretary of State's certificate under 8.4,
+
+<<5183.14;5190.38;en>>
+and the Secretary of State must personally consider the necessity and proportionality of adding them to the certificate.
+
+<<5190.38;5196.54;en>>
+If the individual is not known to be in the British Isles, then they won't be named on the certificate.
+
+<<5196.54;5214.54;en>>
+In practice, the foreign government will be asked to select material for examination on the same basis as GCHQ would itself select the material from communications it had intercepted in bulk, and to provide that material to GCHQ where it's lawful for them to do so.
+
+<<5214.54;5222.7;en>>
+The foreign government will be provided with appropriate strong selectors, for example, an email address, enabling it to do so.
+
+<<5222.7;5237.98;en>>
+Importantly, before any such strong selector is provided, GCHQ must make an assessment of the necessity and proportionality of obtaining the communications concern for the purposes in the Secretary of State's certificate.
+
+<<5237.98;5243.26;en>>
+That is what section or paragraph 12.2 of the Code provides.
+
+<<5243.26;5256.42;en>>
+And if the individual whose communications are intended to be selected is in the British Isles, the Secretary of State will have considered the necessity and proportionality of obtaining their communications, again on an individualised basis.
+
+<<5256.42;5267.66;en>>
+So, in effect, GCHQ will follow the same process as for any individual whose communications it wished to select for examination under a section 8.4 warrant,
+
+<<5267.66;5275.46;en>>
+save that the foreign government, rather than GCHQ, will be asked to effect the selection and provide the information.
+
+<<5275.46;5285.18;en>>
+GCHQ only provides strong selectors to foreign governments on the basis of a previously issued section 8.4 warrant.
+
+<<5285.18;5293.38;en>>
+No request has ever been made for the communications of an individual where no relevant RIPPER interception warrant has been in place.
+
+<<5293.38;5299.34;en>>
+So the Court's question about what happens where no warrant has been issued does not, in fact, arise.
+
+<<5299.34;5312.66;en>>
+However, as the Code makes clear, if such a request were ever to be made, the Secretary of State would need personally to consider the necessity and proportionality of obtaining that individual's communications.
+
+<<5312.66;5325.62;en>>
+As to compatibility, therefore, of that regime, my submission is that the first section were right to find that the intelligence-sharing regime was compatible under Article 8 for the reasons that they gave.
+
+<<5325.62;5340.82;en>>
+Under the Code, the very same safeguards that apply to intercept material within the RIPPER regime must be applied to the same categories of content or data when they're obtained by the foreign intelligence services or by the intelligence services from foreign states.
+
+<<5340.82;5351.78;en>>
+Those safeguards, including oversight by the Commissioner, the ISC, the Tribunal, meet the standards of the Convention for the reasons I've already outlined.
+
+<<5351.78;5362.34;en>>
+The Government does not accept that the FABER criteria apply in this very different intelligence-sharing context, but if they do, they are satisfied, we submit.
+
+<<5362.34;5372.26;en>>
+The question of the intelligence-sharing regime's compatibility with Article 10 does not arise at all, we submit, for the reasons set out in the Government's submissions.
+
+<<5372.26;5376.82;en>>
+The applicants in the Big Brother Watch case have not brought a case under Article 10.
+
+<<5376.82;5394.86;en>>
+The applicants in the Bureau of Investigative Journalism case have not complained about the intelligence-sharing regime in the first place, and the applicants in the 10 Human Rights case have not exhausted domestic remedies in respect of any complaint concerning protections of journals.
+
+<<5394.86;5402.94;en>>
+So for all of those reasons, Madam President, members of the Court, we submit that the right answer to this case is that there has been no violation of either Article 8 or Article 10.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<5407.66;5409.66;en>>
+Thank you for your submissions.
+
+<<5409.66;5416.66;en>>
+I now invite the judges of the Grand Chamber, wishing to do so, to put their questions to the parties.
+
+<<5416.66;5416.66;en>>
+Vice President Spano.
+
+[[Judge;Robert Spano]]
+
+<<5419.47;5421.51;en>>
+Thank you very much, Madam President.
+
+<<5421.51;5423.67;en>>
+I have two questions.
+
+<<5423.67;5426.71;en>>
+One is more of a technical clarification.
+
+<<5426.71;5432.59;en>>
+The second relates to the application of legal principles.
+
+<<5432.59;5436.91;en>>
+Mr. Eadie makes references on a number of occasions
+
+<<5436.91;5448.59;en>>
+to the fact that the analyst has to present or formulate a written record for the justification of the choice or use of selectors.
+
+<<5448.59;5460.47;en>>
+That is also referenced in the government's pleadings at paragraph 35, where it is also elaborated.
+
+<<5460.47;5465.11;en>>
+I understand the government's argument to be that that is an important part.
+
+<<5465.11;5466.99;en>>
+And I used the words of Mr. Eadie just now.
+
+<<5466.99;5474.87;en>>
+It's an important part of the efficacy of the oversight process by the ICC.
+
+<<5474.87;5496.75;en>>
+Just a clarification, in the applicant's observations, paragraph 59, subparagraph B, the applicant claims access to content is achieved by the analyst typing a few words of justification into a dropbox on their computer.
+
+<<5496.75;5501.23;en>>
+There is a reference here made to the testimony of a Mr. Eric
+
+<<5501.23;5501.95;en>>
+King.
+
+<<5501.95;5505.79;en>>
+You will see this in the core bundle, item number five.
+
+<<5505.79;5518.53;en>>
+Can I ask if the government is able to comment on this allegation made by the applicant, because it goes to the efficacy of the issue in question?
+
+<<5518.53;5527.37;en>>
+My second question relates to, and it is prompted by an argument made by Mr. Jaffey this morning
+
+<<5527.37;5530.23;en>>
+in relation to EU law.
+
+<<5530.23;5533.75;en>>
+Mr. Jaffey mentioned how the UK government
+
+<<5533.75;5541.07;en>>
+is reacting to the Digital Rights Ireland, TELETU judgments of the ECJ.
+
+<<5541.07;5566.95;en>>
+May I ask the government to comment, and I would also ask the applicant to comment, to what extent does or do these judgments of the ECJ, the line of case law pronounced by the ECJ, of course, in the environment of the retention directive vis-a-vis private communications providers and its requirement?
+
+<<5566.95;5587.19;en>>
+And I refer here in particular to paragraphs 119 and 120 of the TELETU judgment, where prior control is considered to be a requirement, either a judicial prior control or independent administrative control.
+
+<<5587.19;5592.67;en>>
+And there is a reference made there to our judgment in SABO and VC.
+
+<<5592.67;5595.97;en>>
+And I would like both parties to clarify this.
+
+<<5595.97;5599.63;en>>
+To what extent is this relevant for us?
+
+<<5599.63;5619.87;en>>
+And if you do not think it's relevant, and I particularly to the government, could you explain why you consider that this line of case law is not something that the court should look at when confronted with the applicant's argument, their core argument, that one of the updating requirements is prior authorization?
+
+<<5619.87;5619.87;en>>
+Thank you very much.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<5622.0;5623.48;en>>
+Thank you, president De Gaetano.
+
+[[Judge;Vincent A. De Gaetano]]
+
+<<5626.1;5627.74;en>>
+Thank you, Madam President.
+
+<<5627.74;5630.62;en>>
+I have three short questions.
+
+<<5630.62;5637.7;en>>
+The first two directed to the respondent government, but of course the applicants may wish to wade in.
+
+<<5637.7;5640.26;en>>
+And the third question directed to both.
+
+<<5640.26;5653.42;en>>
+And I apologize up front if the answer to these questions is tugged away somewhere in the voluminous documentation in this case, which I may have missed.
+
+<<5653.42;5658.58;en>>
+Now, the first question is both Mr. Jaffey and Ms. Mountfield
+
+<<5658.58;5670.82;en>>
+have referred to the difference between external and internal communications, and how what may apparently be an internal communication may in fact be an external communication.
+
+<<5670.82;5686.26;en>>
+Now, is it, and this is a very specific question, is it the position of the respondent government that such external communications deserve somehow lesser protection under the convention, under the European Convention, than internal communications?
+
+<<5686.26;5688.06;en>>
+That is my question.
+
+<<5688.06;5701.1;en>>
+The second question is, well, Sir James Eadie has rightly referred to the security threats and the need to secure the lives and safety of the public.
+
+<<5701.1;5703.1;en>>
+Now, my question is this.
+
+<<5703.1;5712.02;en>>
+What is the purpose of intelligence collection for the so-called economic well-being of the nation?
+
+<<5712.02;5728.3;en>>
+How is this quote unquote economic well-being of the nation defined or interpreted in practice, also in light of what the Venice Commission refers to as economic espionage?
+
+<<5728.3;5748.94;en>>
+And the third question directed to both is, what really is the rationale of the introduction by virtue of the Investigatory Powers Act of 2016 of the notification of the person or persons being surveyed in cases of serious error?
+
+<<5748.94;5760.44;en>>
+Is there a link between such a notification or the requirement of such a notification and the requirement of efectiveness of this 2016 act?
+
+<<5760.44;5760.74;en>>
+Thank you, Madame President.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<5762.48;5764.92;en>>
+Thank you, Judge Grozev.
+
+[[Judge;Yonko Grozev]]
+
+<<5766.94;5768.7;en>>
+Thank you, Madam President.
+
+<<5768.7;5776.1;en>>
+I have one question for the applicants and two more technical questions for the government.
+
+<<5776.1;5788.78;en>>
+The applicant has been arguing in both their submissions in writing and today that we should use the reasonable suspicion standard as a basis for allowing bulk interception.
+
+<<5788.78;5796.54;en>>
+Reasonable suspicion, however, is intrinsically linked to the concept of a crime.
+
+<<5796.54;5807.9;en>>
+Bulk interception, on the other hand, is also a tool for intelligence gathering that implies more general national security risks.
+
+<<5807.9;5816.22;en>>
+How does the applicant suggest that we use reasonable suspicion in this foreign intelligence context?
+
+<<5816.22;5828.58;en>>
+And how would that differ from the standard applied by the government at present, which is necessary and proportionate for avoiding national security risks?
+
+<<5828.58;5832.94;en>>
+My questions to the government.
+
+<<5832.94;5845.06;en>>
+We understand from the government submissions that the Secretary of State warrant does indicate the content that has to be intercepted.
+
+<<5845.06;5855.9;en>>
+The applicant has, in their pleadings, claimed that the warrant of the Secretary of State, however, does not specify the bearer to be intercepted.
+
+<<5855.9;5858.3;en>>
+Would you agree with that description?
+
+<<5858.3;5860.3;en>>
+Is it correct?
+
+<<5860.3;5867.72;en>>
+And if yes, what is the process of selecting the individual bearers for interception?
+
+<<5867.72;5876.14;en>>
+And my second question to the government is related to the intelligence sharing.
+
+<<5876.14;5899.82;en>>
+Do I understand correct that as the warrant of the Secretary of State does not specify individuals, whenever a request is made that uses strong selectors indicating an individual, that would be included in a certificate that is being issued?
+
+<<5899.82;5899.82;en>>
+Thank you.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<5903.34;5905.3;en>>
+Thank you. Judge Pavli.
+
+[[Judge;Darian Pavli]]
+
+<<5910.39;5912.49;en>>
+Thank you.
+
+<<5912.49;5917.81;en>>
+I have two questions for the government, but the applicant may feel free to comment as well.
+
+<<5917.81;5922.53;en>>
+The first relates to the data retention periods.
+
+<<5922.53;5928.65;en>>
+Now, we've heard today, and I think from the submissions as well, there's conflicting claims.
+
+<<5928.65;5935.71;en>>
+The applicant, the counsel for the applicants said today that the agencies, they keep old data for up to two years.
+
+<<5935.71;5941.81;en>>
+I think Mr. Eadie referred to several months, and the submissions talk about exceptions.
+
+<<5941.81;5953.35;en>>
+So they talk about several weeks in some cases, several months, up to two years, but in all instances, there seem to be exceptions that would allow for even longer retention periods.
+
+<<5953.35;5964.85;en>>
+So this is the first part of the question, and the second part is not so much as a matter of law, what the law allows, but as a matter of practice and the scope of this retention.
+
+<<5964.85;5982.07;en>>
+Do UK agencies retain for considerable periods, by which I mean more than a few days or a few weeks, communications pertaining at any given time to large numbers of individuals, by which I mean in the scale of millions?
+
+<<5982.07;6003.35;en>>
+So communications held of large numbers of individuals for considerable amounts of time, what is the scale, and by communications, I mean both content and communications data or metadata, and if you could factor into that response the intelligence received through sharing by third parties.
+
+<<6003.35;6011.83;en>>
+And I'd appreciate if you're not in a position today to provide a response if you'd be willing to provide that in writing to the court.
+
+<<6011.83;6048.91;en>>
+My second question is, as a matter of convention law, how in the view of the government is bulk surveillance involving the use of strong selectors, such as an individual's known or suspected email address or telephone number, how is that different as a matter of convention law from targeted surveillance of the same individual, let's say old-fashioned telephone tapping for purposes of reasonable suspicion, if the court found that to be applicable?
+
+<<6048.91;6064.15;en>>
+I note here that your system applies both to foreign intelligence, but also to purposes of serious crime and also possibly prior judicial or some other prior form of authorization.
+
+<<6064.15;6064.15;en>>
+Thank you.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6066.08;6067.68;en>>
+Thank you. Judge Pinto de Albuquerque.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<6071.51;6073.31;en>>
+I have some questions to the parties.
+
+<<6073.31;6078.71;en>>
+Both parties can intervene.
+
+<<6078.71;6100.47;en>>
+In Liberty, the court stated, and I'm quoting the court, that it does not consider that there is any ground to apply different principles concerning the accessibility and clarity of the rules governing the interception of individual communications on the one end and more general programs of surveillance on the other.
+
+<<6100.47;6103.59;en>>
+This is Liberty, paragraph 63.
+
+<<6103.59;6109.43;en>>
+My question to the government and to the parties is this one.
+
+<<6109.43;6114.39;en>>
+Is the government proposing to depart from Liberty from this principle?
+
+<<6114.39;6118.99;en>>
+In Zakharov and in Szábo, this principle was confirmed.
+
+<<6118.99;6127.63;en>>
+In fact, in Szábo, in Zakharov, the criteria, the Weber criteria, were restated.
+
+<<6127.63;6140.75;en>>
+And my question is, from the perspective of the government and, again, the applicants, do the Zakharov criteria, paragraph 231, apply to both surveillance?
+
+<<6140.75;6149.23;en>>
+This is, for instance, the position of the French government in this case, as third party.
+
+<<6149.23;6156.23;en>>
+My second question is related to the changes in the investigatory power set, 2016.
+
+<<6156.23;6168.71;en>>
+What was the rationale behind the introduction of the ex ante judicial authorization in this act of 2016?
+
+<<6168.71;6184.53;en>>
+Is there any reason not to trust the Secretary of State or to trust more the judges in terms of ex ante control of the proportionality of this interference?
+
+<<6184.53;6193.83;en>>
+The third question relates to the legal status of the interception of communications commissioner.
+
+<<6193.83;6200.43;en>>
+Is he not appointed and freely dismissed by the prime minister?
+
+<<6200.43;6204.35;en>>
+Is this a part time job for the commissioner?
+
+<<6204.35;6208.91;en>>
+Who provides for his staff, for the staff of the commissioner?
+
+<<6208.91;6215.67;en>>
+The fourth question relates to the intelligence sharing.
+
+<<6215.67;6234.35;en>>
+In the framework of intelligence sharing with non-council of Europe states, is there a legal obligation to check whether the foreign data recipient or data sender offers minimum safeguards equivalent to those of the convention?
+
+<<6234.35;6255.43;en>>
+I note this, and this is a question that is related, of course, to the conclusion of the Intelligence and Security Committee of the Parliament, of Parliament, which has concluded in its 2016 report that there was a legal vacuum in this regard.
+
+<<6255.43;6258.75;en>>
+So I would like you to comment on this.
+
+<<6258.75;6290.19;en>>
+And final question, is there a legal obligation and final question, if this court, the European Court of Human Rights, sends a confidential message to a lawyer in London, can the respondent government guarantee that it would not be caught, our message from this court to a lawyer in London would not be caught and examined by the British intelligence?
+
+<<6290.19;6294.39;en>>
+And this assuming that, of course, this message is strictly confidential.
+
+<<6294.39;6297.23;en>>
+It's between the court and the lawyer in London.
+
+<<6297.23;6297.63;en>>
+Thank you very much.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6300.41;6302.33;en>>
+Thank you. Judge Eicke.
+
+[[Judge;Tim Eicke]]
+
+<<6304.56;6306.68;en>>
+Thank you very much, Madam President.
+
+<<6306.68;6309.52;en>>
+One, I have two or three questions.
+
+<<6309.52;6312.24;en>>
+One is a question of clarification.
+
+<<6312.24;6315.44;en>>
+Mr. Jaffey referred to the Human Rights Watch judgment
+
+<<6315.44;6324.72;en>>
+of the IPT, which, as I understood him, is suggested to have tightened access to that tribunal.
+
+<<6324.72;6336.56;en>>
+Can I just clarify whether he's referring to the 2016 Human Rights Watch judgment in which it was dealing with, I think, 660 applications?
+
+<<6336.88;6367.24;en>>
+The second question related to that is, and it also relates to the question posed by my colleague, Judge De Gaetano, is, if I recall rightly, in that judgment, the tribunal was confronted with the question of whether applicants who were located outside the territorial jurisdiction of the United Kingdom were in fact within its jurisdiction for the purposes of its Human Rights Act jurisdiction.
+
+<<6367.24;6372.54;en>>
+Now, I appreciate in this case, the government hasn't raised territorial jurisdiction.
+
+<<6372.54;6375.04;en>>
+The chamber assumed it.
+
+<<6375.04;6440.94;en>>
+But as we're in the Grand Chamber and we're invited to consider the scheme afresh, I wonder whether both parties could reflect on the question whether, in fact, our approach in the Bletchley judgment, where we said that the scope of the court's jurisdiction is determined by the convention and not by the party's submissions in a particular case, and the mere absence of a plea of incompatibility cannot extend jurisdiction, whether that means that, in fact, there is an issue here about jurisdiction which the court should concern itself with, whether, one, by way of admissibility, or two, and this reflects the question of my colleague, Judge De Gaetano, whether, in fact, the focus of our analysis needs to be in relation to those who are within the jurisdiction, and external communication insofar as it concerns those who are outside the jurisdiction is not within the scope of the case before us.
+
+<<6440.94;6488.2;en>>
+And the third question, again, equally going to principle, is, of course, our case law so far has largely focused on the question of this issue, interception in the context of the right to respect for private life under Article 8, but, of course, a large number of the applicants are, in fact, corporate bodies, and I don't mean corporate in the commercial sense, but corporate in the non-natural person sense, and I would therefore ask both parties to reflect on the question whether, in fact, those applicants can have a right to respect for private life, and if they cannot, whether this falls, for example, under the heading of correspondence, and if so, whether the same tests apply.
+
+<<6488.2;6488.2;en>>
+Thank you very much.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6491.3;6492.3;en>>
+Thank you.
+
+<<6492.3;6505.18;en>>
+The court will now withdraw for 20 minutes, following which the parties will be able to submit brief observations in reply to each other's submissions and reply to questions from the judges.
+
+<<6505.18;6510.14;en>>
+As there were very many questions, I will give you up to 25 minutes for replying.
+
+[[Announcer;UNK]]
+
+<<6591.92;6592.56;fr>>
+La Cour!
+
+[[JudgeP;Angelika Nußberger]]
+
+<<6629.64;6631.64;en>>
+Please be seated.
+
+<<6637.2;6639.24;en>>
+The hearing is resumed.
+
+<<6639.24;6641.24;en>>
+I call Mr. Jaffey and Mrs. Mountfield for the applicants.
+
+[[Applicant;AP1]]
+
+<<6644.86;6647.98;en>>
+Thank you very much for the additional time, which is much appreciated.
+
+<<6648.78;6651.58;en>>
+I'll start, if I may, with Vice President Spano's questions.
+
+<<6652.62;6663.34;en>>
+The first question was directed at Sir James Eadie, and the second question related to the requirements of EU law. Under EU law, a requirement of control by a judge or
+
+<<6663.34;6668.46;en>>
+other independent person has been developed. To what extent is that relevant to this court's
+
+<<6668.46;6674.94;en>>
+consideration? Well, it's relevant to the extent of the quality of the logic and the reasoning of
+
+<<6674.94;6681.18;en>>
+the Court of Justice's analysis. The Court of Justice considered that in the circumstances
+
+<<6681.9;6694.38;en>>
+of data retention on a large scale, with then the possibility, for example, of access by the police, that that type of safeguard was required. Now here, I say the position is stronger,
+
+<<6694.38;6720.94;en>>
+because for access for the purposes of a criminal investigation, a criminal investigation will normally lead up to a prosecution, and the communications data which is obtained will be admitted in that prosecution, and the defendant, whose communications data it is, will have the opportunity to object and ask for the exclusion of that evidence before the court, or to make a separate challenge. But where the same exercise is carried out for the purposes of an intelligence
+
+<<6720.94;6738.06;en>>
+operation, and is never disclosed to the person whose data is obtained, then their opportunity of obtaining redress is much less, and therefore the importance of ex ante judicial authorization, or independent authorization, is in the applicant's submission much greater.
+
+<<6739.74;6744.46;en>>
+The next group of questions came from Vice President DiGitano. The first question was
+
+<<6744.46;6751.98;en>>
+about internal and external communications. Do they deserve less protection if they are external?
+
+<<6751.98;6767.34;en>>
+Well, the government's answer to that question is yes, even if the government is targeting a known individual who happens to be abroad. The second question concerned the economic well-being
+
+<<6767.34;6773.18;en>>
+ground on which bulk surveillance can be authorized. That does permit economic espionage,
+
+<<6773.18;6784.7;en>>
+so long as, and the wording of RIPA was amended so as to require it to be relevant to the national security of the United Kingdom. So it permits economic espionage so long as there is a national
+
+<<6784.7;6791.82;en>>
+security link. So, for example, one of the categories in the certificate which was published
+
+<<6791.82;6804.78;en>>
+by the Parliamentary Intelligence and Security Committee was so-called strategic environmental issues as being a matter of properly subject to bulk surveillance. So, for example, the types of
+
+<<6804.78;6816.3;en>>
+economic espionage which could occur might relate to, for example, arms and weapons transactions, oil, gas, renewable transactions. Whenever you can show that the economic well-being of the United
+
+<<6816.3;6829.58;en>>
+Kingdom might be affected, and you can show that there is a plausible national security link to that economic well-being issue. The third question related to the rationale of the provision in the
+
+<<6829.58;6843.18;en>>
+Investigatory Powers Act 2016 for notification to be provided to victims in the case of a serious error. Well, the 2016 Act, of course, is not directly before the court. The application
+
+<<6843.18;6857.18;en>>
+is concerned the past and RIPA, but there is an intimate link between that type of notification provision and the effectiveness of a scheme of supervision and oversight. The reason for that
+
+<<6857.18;6872.38;en>>
+is because the commissioner, if the commissioner uncovers an error, has no power to refer a case to the Investigatory Powers Tribunal. So, if the commissioner, as part of his audit work,
+
+<<6872.38;6882.78;en>>
+uncovers some illegality, he has no mechanism under RIPA to report it to the victim. Indeed,
+
+<<6882.78;6890.26;en>>
+it would be a criminal offense for him to do so under RIPA. That means that the victim will,
+
+<<6890.26;6906.98;en>>
+in practice, never know, and the victim, unless, for example, there has been a leak of information to the newspapers, as happened with Edward Snowden, will not know that perhaps they ought to take their case to the Investigatory Powers Tribunal. And that is why a system of notification
+
+<<6906.98;6916.82;en>>
+is, in the applicant's submission, essential. Now, of course, that provision in the Investigatory
+
+<<6916.82;6921.98;en>>
+Powers Act is extremely narrow. One of the things which it says, as the court will have noted,
+
+<<6921.98;6934.9;en>>
+is that the fact that the commissioner has identified a breach of the European Convention on Human Rights is not, of itself, enough to justify a notification. Some additional
+
+<<6934.9;6939.38;en>>
+factor is required, but that's not a matter before the court. But even that is a very
+
+<<6939.38;6947.74;en>>
+narrow and inadequate provision. Judge Grozev then asked a question about how reasonable
+
+<<6947.74;6953.74;en>>
+suspicion might be applied in the context of a national security investigation. The
+
+<<6953.74;6966.42;en>>
+answer to that is it's reasonable grounds to suspect that a person has been involved in activities harmful to United Kingdom national security. Now, sometimes, that person may
+
+<<6966.42;6971.46;en>>
+also be entirely innocent of any criminal offence. They may be involved in activities
+
+<<6971.46;6981.42;en>>
+which are harmful to UK national security or which engage UK national security issues without being criminal. But it's nonetheless still possible, in our submission, to apply
+
+<<6981.42;6993.66;en>>
+a test of reasonable suspicion to a national security investigation or inquiry as well as to a traditional criminal inquiry. And secondly, there's a question of whether or
+
+<<6993.66;6997.98;en>>
+not the bearer is named in the warrant. That's, of course, a matter for the government, but
+
+<<6997.98;7007.7;en>>
+it has been the government's consistent position throughout that a bearer is not named in the warrant. That is a matter for the persons who execute the warrant, the Security and
+
+<<7007.7;7015.82;en>>
+Intelligence Services, to select the bearers. Judge Pavley's first question related to
+
+<<7015.82;7022.94;en>>
+the data retention period. The maximum period that is set out in the Code of Practice, which
+
+<<7022.94;7030.38;en>>
+is paragraph 7.9 of the Interception Code, which is tab 33 of the core bundle, is normally
+
+<<7030.38;7036.7;en>>
+no longer than two years. So that's the maximum period you see on the face of any
+
+<<7036.7;7043.78;en>>
+published guidance. What we are told in the government's observations is that, in reality,
+
+<<7043.78;7056.62;en>>
+communications data is kept for months or perhaps a year, and content is kept, as Sir James said in his oral submissions, for a period of days ordinarily. And one imagines
+
+<<7056.62;7067.4;en>>
+that is because of the sheer volume of content means that it would be very difficult to retain for exceptionally long periods on the current state of technology. But no doubt that will
+
+<<7067.4;7072.66;en>>
+continue to change over time. But because communications data can be stored much more
+
+<<7072.66;7088.22;en>>
+compactly, GCHQ are able to, and they do, keep all of the communications data, which they can keep their hands on, for a lengthy period. Judge Pavley then asked, how is bulk
+
+<<7088.22;7101.66;en>>
+information using a strong selector different from targeted surveillance, for example, with an individual traditional warrant under Section 8.1 of RIPA? Well, the answer to that in our
+
+<<7101.66;7109.18;en>>
+submission is it isn't. If you have a specific target in mind, a particular person or a particular
+
+<<7109.18;7116.1;en>>
+place, you can, if you want to, go and get a targeted warrant under Section 8.1. One
+
+<<7116.1;7128.5;en>>
+of our criticisms of this scheme is that the government don't have to, even if they have identified a specific individual that they wish to target.
+
+<<7128.5;7141.54;en>>
+Turning then to Judge Pinto de Albuquerque's questions, the first one related to Liberty and Zakharoff. And if I can summarize, I think the question was whether or not Zakharoff
+
+<<7141.54;7151.66;en>>
+and the principles identified by the Grand Chamber in Zakharoff ought to apply to bulk interception. Well, the applicant's case is that Zakharoff is in fact properly analyzed,
+
+<<7151.66;7158.3;en>>
+a case which involved potential bulk surveillance itself. One of the regimes that was considered
+
+<<7158.3;7164.4;en>>
+by the Grand Chamber permitted what the Grand Chamber referred to as area surveillance.
+
+<<7164.4;7176.42;en>>
+So the interception of all communications in a particular area, even if the particular – not everyone in that area was under suspicion of any wrongdoing. That's paragraph 265
+
+<<7176.42;7181.78;en>>
+of the Grand Chamber's judgment. And so we say the Grand Chamber had well in mind
+
+<<7181.78;7191.58;en>>
+that the principles that it was identifying and developing in Zakharoff would be applied to bulk regimes, because that was in fact a bulk regime itself.
+
+<<7191.58;7204.74;en>>
+The second question related to the rationale for ex ante judicial control in the Investigatory Powers Act. Well, the rationale why the government has decided to introduce ex ante judicial
+
+<<7204.74;7212.82;en>>
+approval of warrants is no doubt that it increased the quality and effectiveness of the safeguard.
+
+<<7212.82;7217.94;en>>
+Now the type of ex ante judicial approval in the 2016 Act is somewhat inadequate. It's
+
+<<7217.94;7229.5;en>>
+to a low judicial review standard, and in any event, it does not apply to selectors and it does not apply to bearers. They may be problems for another day. But the fact
+
+<<7229.5;7242.46;en>>
+is that the government has accepted the principle, and so has the UK Parliament, that prior judicial control is a significant safeguard that ought to be in place going forward.
+
+<<7242.46;7247.5;en>>
+The third question related to the status of the Interception of Communications Commissioner.
+
+<<7247.5;7254.18;en>>
+Well, it's a job which has always been given to a retired senior judge. The judge works
+
+<<7254.18;7261.5;en>>
+part time. His staffing was previously extremely small. I make no criticism whatsoever of those
+
+<<7261.5;7271.12;en>>
+judges, but I do criticise the effectiveness of the system of oversight. That's because
+
+<<7271.12;7295.64;en>>
+in a system operating involving the scale of interception, about which the court has heard today, even on the government's case, just looking at communications data of people in the United Kingdom, thousands of requests each week, a single part time judge with a small secretariat cannot hope to exercise meaningful oversight.
+
+<<7295.64;7310.02;en>>
+The truth is that to have an effective system of oversight, particularly if, as in the UK, there is no ex ante judicial control, what you need is you need a watchdog. You need
+
+<<7310.02;7328.66;en>>
+the type of people who have experience and competence at the work of the security and intelligence services who can delve in an investigatory way in depth into the work of the agencies. The nature of the UK regime, which is of a retired judge in an adversarial
+
+<<7328.66;7337.78;en>>
+legal system, is not necessarily the best model, and it's certainly not adequate in circumstances where there's no ex ante control.
+
+<<7337.78;7354.18;en>>
+The final question asked by Judge Pinter de Albuquerque was if the court sent a message, for example, to a lawyer in the United Kingdom, is there any guarantee it would not be caught and examined? The answer to that is no. And the first section referred in its judgment
+
+<<7354.18;7364.9;en>>
+to the decision of the Investigatory Powers Tribunal in a case called Belhage, in which I was instructed for the claimant and Sir James Eadie acted for the government. And
+
+<<7364.9;7371.78;en>>
+the first section summarized the facts at paragraph 47 and the decision at 92 to 95.
+
+<<7371.78;7384.22;en>>
+It involved two Libyan families who were rendered back to Colonel Gaddafi in an operation run by the United States CIA and the United Kingdom Secret Intelligence Service. They were bringing
+
+<<7384.22;7401.86;en>>
+a tort claim against the United Kingdom in the English courts, and they also brought a claim to the Investigatory Powers Tribunal to make sure that their privileged legal communications with me and those instructing me were not interfered with. The IPT investigated, and
+
+<<7401.86;7416.16;en>>
+the IPT found that GCHQ had unlawfully intercepted legally professionally privileged material belonging to my clients and made a finding to that effect. The UK system for the protection
+
+<<7416.16;7421.66;en>>
+of legally privileged material was quashed. The government eventually conceded that it
+
+<<7421.66;7429.82;en>>
+was inadequate. The truth is, lawyers and NGOs are of interest to the security and intelligence
+
+<<7429.82;7436.62;en>>
+services because of who our clients are and the people that we assist and represent. And
+
+<<7436.62;7456.4;en>>
+therefore, when surveillance is being carried out in bulk, an exceptionally strong system of safeguards is required in order to protect the legitimate interests of those we seek to assist and represent. The short answer to the question is no, there is no guarantee.
+
+<<7456.4;7467.54;en>>
+Judge Iker then first asked a question about the Human Rights Watch judgment of the Investigatory Powers Tribunal, whether that was the 2016 judgment. That's correct. And then asked
+
+<<7467.54;7478.56;en>>
+a question about the extent to which the IPT's view about the territorial jurisdiction of the convention was correct. As the court may know, that Human Rights Watch decision is
+
+<<7478.56;7485.58;en>>
+the subject of a separate application to this court, which of course has not yet been determined.
+
+<<7485.58;7499.9;en>>
+If it would assist the court, that application sets out in summary form why the IPT's decision was incorrect in the circumstances. But if the court is considering making a ruling on
+
+<<7499.9;7523.46;en>>
+the wider question of territorial jurisdiction, which wasn't argued before the first section hasn't previously been raised by the government, the applicant would appreciate the prospect of being able to put in some brief written submissions on that question because of its wider importance to the convention system. But in very brief terms, what the IPT decided,
+
+<<7523.46;7539.98;en>>
+perhaps slightly strangely, is that anyone who was not physically inside the United Kingdom had no protection against surveillance under the convention whatsoever. So, here today,
+
+<<7539.98;7558.42;en>>
+standing before the court, if there were to be interception of the emails which I send on the train on the way home before the Channel Tunnel, I and my clients have no Article 8 rights. Once we're through the Channel Tunnel, we get some rights again. Now, is that correct
+
+<<7558.42;7577.06;en>>
+when the surveillance is being conducted at the direction of a minister and an agency in the United Kingdom and the surveillance is actually being carried out on optic fibres within the United Kingdom? Now, the applicant said the answer to that is clearly no. It
+
+<<7577.06;7589.26;en>>
+engages the United Kingdom's state responsibility and the act of surveillance is being carried out in the United Kingdom. The processing of the data is carried out in the United Kingdom.
+
+<<7589.26;7597.9;en>>
+The interference with privacy is carried out in the United Kingdom.
+
+<<7597.9;7603.86;en>>
+Judge Iker then asked a question about corporate bodies and human rights. Corporate bodies,
+
+<<7603.86;7609.54;en>>
+of course, don't have a right to private life in the same way as natural people. But the
+
+<<7609.54;7623.46;en>>
+right in issue in Article 8 is the right to private and family life home, and I emphasise correspondence. And corporate bodies have just as much a right to protection of their
+
+<<7623.46;7636.1;en>>
+correspondence, whether the corporate body is a company, a law firm, an NGO, and my submission doesn't matter. Now, that proposition was accepted, we say, in liberty in the United
+
+<<7636.1;7664.42;en>>
+Kingdom, where all of the claimants were NGOs, and the logic behind it has been explained by the court in cases like Tara Sassag in Hungary and Magyar Helsinki Pozsotag in Hungary, where the role of NGOs and the fact that those NGOs have convention rights which ought to be protected, including rights under Articles 8 and 10, is explained by the court. So we
+
+<<7664.42;7680.34;en>>
+say that the rights of the applicants before the court, most of whom who are not individuals, are most certainly engaged by this regime. Yes, Mr. Heaton reminds me that the same point
+
+<<7680.34;7694.02;en>>
+is made by this court in the Association for European Integration and Bulgaria case at paragraph 60. If I may finally just deal with a few points in reply to Sir James Eadie.
+
+<<7694.02;7719.88;en>>
+The applicants don't dispute that if you collect everyone's communications and if you automatically process them, the intelligence services will find material of use in there, just as the police would have found it useful to have a mandatory national DNA or fingerprint database in S&MARPA and MK in France. But usefulness and value is not the same thing as strict
+
+<<7719.88;7729.02;en>>
+necessity in a democratic society. Now, Sir James then sought to downplay the intrusiveness
+
+<<7729.02;7734.52;en>>
+of the processes that are taking place. He referred to the collection of bulk data as
+
+<<7734.52;7744.74;en>>
+being nothing more than an amorphous soup. Well, in the past, when a huge amount of data
+
+<<7744.74;7754.82;en>>
+might be collected, but it would require a human to analyze and process it before it was meaningful, that might be correct. But the intrusiveness of collecting bulk data
+
+<<7754.82;7761.02;en>>
+is vastly increased by the power of modern search analysis and profiling techniques.
+
+<<7761.02;7768.46;en>>
+So the Internet is an amorphous soup until you have Google. Then the Internet is no longer
+
+<<7768.46;7776.66;en>>
+an amorphous soup. It becomes not a soup, but a well-organized and indexed library in
+
+<<7776.66;7784.26;en>>
+which you can rapidly find anything you want. It is unreal in the applicant's submission
+
+<<7784.26;7796.34;en>>
+to suggest that collecting and analyzing data on this scale is not a significant interference under Article 8. And it is telling that the United Kingdom government persists in making
+
+<<7796.34;7806.94;en>>
+that submission. Sir James also dealt with the issue of oversight,
+
+<<7806.94;7812.9;en>>
+which I've already addressed in response to some of the Court's questions. The submission
+
+<<7812.9;7828.82;en>>
+which he made is that the Commissioner had carried out a limited sample review of some selectors. Now, he says, therefore, that the first section were wrong, that no sample analysis
+
+<<7828.82;7837.82;en>>
+had taken place. The applicants are awaiting to see any documents evidencing that. All
+
+<<7837.82;7848.7;en>>
+the Commissioner has said in his published reports is that he has considered not individual selectors, but has examined the operation of the system in general. The government still
+
+<<7848.7;7855.56;en>>
+declined to give even a general number of selectors and searches. Is it thousands, hundreds
+
+<<7855.56;7864.86;en>>
+of thousands, millions? And in those circumstances where it must be assumed that the scale of
+
+<<7864.86;7883.56;en>>
+the collection is very large and broad, there is an inadequate safeguard if we're simply relying on a single retired judge conducting a modest sample analysis, if that, without any system for prior consideration and approval of the selectors.
+
+<<7883.56;7896.5;en>>
+The final point that I wanted to mention was Sir James's submissions about the British Island Safeguard. The way that he explained and described the British Island Safeguard
+
+<<7896.5;7903.44;en>>
+was very interesting. It was presented for the first time, I think, in any of the proceedings
+
+<<7903.44;7918.14;en>>
+before this Court or in the Investigatory Powers Tribunal as being somehow optional or discretionary. That's wrong for the reasons which the first section explained, in particular
+
+<<7918.14;7924.1;en>>
+at paragraph 343 of the first section's judgement. The British Island Safeguard, which when you're
+
+<<7924.1;7952.14;en>>
+looking at content, requires an individual approval from the Secretary of State, is the only thing which prevents the intelligence services getting hold of content via a bulk warrant that they ought to be going and getting via an individual and targeted warrant under section 8, and therefore circumventing this Court's decision and the safeguards relied on by this Court in Kennedy and the United Kingdom.
+
+<<7952.14;7958.54;en>>
+What is interesting is why the UK Government is forced to resort to that position. And
+
+<<7958.54;7981.52;en>>
+our submission is that they've done so because the truth is that RIPA, unlike, for example, previous cases before this Court, such as VEBA, is not really a foreign intelligence power anymore. In reality, it has been transformed by technological change into a domestic surveillance
+
+<<7981.52;7988.58;en>>
+power. That used to be, the British Island Safeguard used to be, presented as a critical
+
+<<7988.58;7994.82;en>>
+safeguard for people in the UK to protect them. That is no longer in practice the case.
+
+<<7994.82;8004.46;en>>
+And the reason why it is now presented as being an optional safeguard is because of the reality of the technological change which the applicants rely on.
+
+<<8004.46;8008.46;en>>
+Ms Mountfield has one further point relating to intelligence sharing, if we may.
+
+<<8008.46;8008.46;en>>
+Thank you.
+
+[[Applicant;AP2]]
+
+<<8017.05;8036.56;en>>
+Judge Pinto de Albuquerque asked whether, in the case of receipt of intelligence from a non-Council of Europe state, there was a requirement that the receiving state should comply with Article 8 standards concerning data gathering, i.e. ensuring that the non-Council of Europe state
+
+<<8036.56;8039.24;en>>
+complied with equivalent standards.
+
+<<8039.24;8044.56;en>>
+As a matter of current UK law, the answer is no.
+
+<<8044.56;8053.97;en>>
+As a matter of European Convention law and proper interpretation of Article 8, we submit that the answer should be yes.
+
+<<8053.97;8065.6;en>>
+The UK state responsibility is engaged because that data is, or communications data, is received and used in the United Kingdom.
+
+<<8065.6;8079.4;en>>
+And just in the same way as if the United Kingdom were to receive and use in a trial evidence based on torture abroad, that would engage the UK state responsibility under Article 6.
+
+<<8079.4;8093.76;en>>
+Just as if the UK were to render someone to a country where it ought to know that they may be subjected to torture or the death penalty, that would engage the UK's state responsibility.
+
+<<8093.76;8109.48;en>>
+So in the same way, if the UK intelligence services are going to receive and use data within the UK for UK state purposes, they must ensure that Council of Europe standards are met.
+
+<<8109.48;8128.85;en>>
+May I also just comment on Judge Groszko's question to Sir James, whether in the case of intelligence sharing, as a matter of policy, a warrant would generally, though not always, be required.
+
+<<8128.85;8132.12;en>>
+Would that be required to name an individual?
+
+<<8132.12;8141.16;en>>
+Well, firstly, it is only as a matter of policy that a warrant would be required at all, not as a matter of law, and only as a matter of general policy it can be waived.
+
+<<8141.16;8152.01;en>>
+Secondly, if that warrant were required, it would be a Section 8-4 warrant, so it would not name an individual target.
+
+<<8152.01;8189.32;en>>
+Thirdly, if the government chose to comply with its usual practice, then the safeguards under Section 16 of REPA would apply to the examination of content obtained from that intelligence sharing operation insofar as it related to a person in the British Islands, but it would not apply to communications data at all, and it would not apply if the content being examined was, for example, concerning a German resident.
+
+<<8189.32;8205.76;en>>
+I do note that Sir James did not say, or in fact say anything at all, on my submissions that even as a matter of policy, no warrant and no safeguards whatsoever are required if the United Kingdom security services receive or use unsolicited third-country intercept material.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<8212.29;8213.69;en>>
+Thank you.
+
+<<8213.69;8216.33;en>>
+I call Sir James Eadie for the government.
+
+[[Government;GR1]]
+
+<<8218.03;8224.55;en>>
+I'm going to try and take the questions in order and then I've got two or three brief points in reply at the very end if I may.
+
+<<8224.55;8250.71;en>>
+Judge Spano first of all, who asked as his first question whether there was a written record by analysts as to the choice of selectors and whether access to content type was done purely by reference to a drop box or menu system, citing I think the evidence of Eric King.
+
+<<8250.71;8260.31;en>>
+Our answer to that is that it is the case that the system does have a drop box containing a menu.
+
+<<8260.31;8270.51;en>>
+It is not simply replicative of the statutory purposes, in other words it doesn't just say national security, it goes into more detail than that.
+
+<<8270.51;8272.87;en>>
+But that is the starting point.
+
+<<8272.87;8289.63;en>>
+It isn't just a drop box, what the individual analyst who is typing in the query has to do is by way of free text to explain, he's got to select one of the items off the drop box and then he's got to explain why it's necessary and proportionate to make the search.
+
+<<8289.63;8303.03;en>>
+So the answer I think to the question is that they're right but only in part and the only in part bit is quite important because it goes to the detail of the explanation of the justification for making the search.
+
+<<8303.03;8311.55;en>>
+And can I refer you in that respect to paragraph 7.16 of the code, 2016 code, which is behind
+
+<<8311.55;8316.23;en>>
+tab 33 in your core bundle.
+
+<<8316.23;8339.79;en>>
+Judge Bono's second question related to EU law and in effect to the application or otherwise of the EU line of authority, digital rights Ireland and so on, the Watson cases in Luxembourg, paragraph 119 to 20 of TELE 2.
+
+<<8339.79;8351.83;en>>
+And in particular the transposition from EU law to here is really the nub of this question if I've understood it correctly, of the prior judicial or administrative or independent authorisation.
+
+<<8351.83;8395.29;en>>
+And my answer to that is that so far as the EU law position is concerned, our submission is that the Watson DRI requirements of that kind, in other words prior judicial authorisation in particular, do not apply in the national security context with which you are currently concerned and they do not apply in that context because that context falls outside the scope of EU law and is the subject of a specific provision, excluding from the scope of EU law national security I summarise, in article 4 sub 2 of the TEU, the Treaty of European Union.
+
+<<8395.29;8412.67;en>>
+That issue is controversial as I fully acknowledge and it is the subject of a current reference to the CJU from the privacy case before the IPT, so the IPT referred a series of questions to the CJU.
+
+<<8412.67;8418.97;en>>
+The reference if you want it is C623-17.
+
+<<8418.97;8421.47;en>>
+But that's our first answer.
+
+<<8421.47;8443.83;en>>
+The second and alternative answer is that even if EU law does apply, the submission is that those Watson DRI safeguards are not appropriate in any event, even if it's within the scope of EU law, when you are considering a national security context.
+
+<<8443.83;8453.55;en>>
+So that's an argument about substantive transposition rather than an exclusion at the gates through article 4 sub 2, but that's the second argument.
+
+<<8453.55;8467.11;en>>
+And the third argument you will be delighted to hear is that even if all of that is wrong, the safeguards that should be applied are the ECHR safeguards because of the nature and structure in particular of the Charter.
+
+<<8467.11;8471.79;en>>
+So that I hope provides an answer to Judge Spano's questions.
+
+<<8471.79;8489.91;en>>
+Judge Gotano then, external and internal was the real thrust of the first of these questions and the question, put if I may say so in slightly contentious terms, was whether or not the position of the government was that lesser protection should be afforded to internal rather than external.
+
+<<8489.91;8493.47;en>>
+And my answer to that is that that is not the position of the government.
+
+<<8493.47;8504.31;en>>
+The protections which I outlined in my speech apply to external and to internal communications.
+
+<<8504.31;8520.95;en>>
+And the British Islands protection, if this was the thrust of the thinking, the British Islands protection provisions are based on the location or anticipated location of the individual, i.e. the physical location of the individual, and not the nature of the
+
+<<8520.95;8522.27;en>>
+communications.
+
+<<8522.27;8528.91;en>>
+So in other words, the application of the British Islands safeguards does not turn upon the precise nature of the communication.
+
+<<8528.91;8532.45;en>>
+It turns on the location of the individual.
+
+<<8532.45;8558.67;en>>
+And the reason for the various distinctions that are drawn in that respect in general terms in the Act are because there are a suite of powers that are available to the government to access, as it were, targeted investigatory powers in relation to those who lie physically within the jurisdiction that are simply not available to them in relation to those who lie outside the jurisdiction.
+
+<<8558.67;8567.63;en>>
+That is why in a broad sense the legislation is structured as it is with its focus on external communications, because this is principally about that.
+
+<<8567.63;8573.01;en>>
+But it is not and has never been exclusively about external communications.
+
+<<8573.01;8576.79;en>>
+It controls the range of external and internal.
+
+<<8576.79;8591.61;en>>
+The second question that Judge Gaetano asked related to the nature and impact of the statutory purpose, which is the economic well-being of the nation, as you put it in your question.
+
+<<8591.61;8595.55;en>>
+How is it defined and interpreted in practice?
+
+<<8595.55;8616.31;en>>
+Mr Jaffe has helpfully pointed out already that economic well-being as a concept was amended by the Data Retention and Investigatory Powers Act 2014 so that it is now specifically linked to national security.
+
+<<8616.31;8631.05;en>>
+So the precise phraseology reads, for the purpose, in circumstances appearing to the Secretary of State to be relevant to the interests of national security of safeguarding the economic well-being.
+
+<<8631.05;8633.47;en>>
+So there is a direct relation there.
+
+<<8633.47;8635.95;en>>
+It is not just any old economic well-being.
+
+<<8635.95;8646.71;en>>
+You will also have noted from my reading out of that, this is the economic well-being, in brackets, related to national security, of the United Kingdom.
+
+<<8646.71;8648.45;en>>
+So there is a macro element to that.
+
+<<8648.45;8653.11;en>>
+This is not just any old thing to do with economics or economic espionage.
+
+<<8653.11;8661.15;en>>
+This is something which directly affects the economic infrastructure on a macro level of the United Kingdom.
+
+<<8661.15;8667.51;en>>
+So that is how the concept works in law and in practice.
+
+<<8667.51;8688.23;en>>
+The third question that Judge Gaetano asked is, what is the rationale for the introduction in 2016 and in the 2016 Act of notification of those who are under surveillance or in relation to whom this regime applies where there is serious error?
+
+<<8688.23;8691.11;en>>
+I do not want to get sucked into that.
+
+<<8691.11;8698.39;en>>
+Mr Jaffe and I had a case about two weeks ago in which lots of challenges were brought in the domestic courts to the 2016 Act.
+
+<<8698.39;8702.13;en>>
+This was one of the areas we examined and argued about.
+
+<<8702.13;8714.61;en>>
+If you wanted to chase it down, you need to appreciate that under the 2016 Act there is a narrow range of circumstances in which that provision will apply.
+
+<<8714.61;8722.99;en>>
+It applies to serious error as defined in section 231 of the 2016 Act.
+
+<<8722.99;8745.43;en>>
+The point to bear in mind in relation to the way in which that part of that new regime is set up is that it includes a requirement for the Commissioner to consider not merely whether there has been serious error as defined in the Act, but also whether it would or could be in the public interest, including in particular on national security grounds, to notify the individual at all.
+
+<<8745.43;8759.11;en>>
+So that if notifying the individual would in fact create national security difficulties, then the Commissioner has a judgment call to make around whether or not notification should take place.
+
+<<8759.11;8775.59;en>>
+My learning from Mr Jaffe, again, threw out, as he did in the case we were arguing a couple of weeks back, the idea that under those provisions it says that a breach of the Human Rights Act will not of itself render an error serious.
+
+<<8775.59;8782.23;en>>
+He is right about that, but the words that you need mentally to underline are of itself.
+
+<<8782.23;8791.83;en>>
+The judgment call as to whether or not the error is serious or not is a judgment call that is to be made by the independent Commissioner under the 2016 Act.
+
+<<8791.83;8801.75;en>>
+It is perhaps not surprising that it says of itself, because there will be some breaches of human rights that are a very great deal more serious and relevant than others.
+
+<<8801.75;8805.87;en>>
+So that is the way that that part of the regime works.
+
+<<8805.87;8815.11;en>>
+I anticipate, however, that the sting of this question, if I can put it that way, from Judge Gaetano was, well, why haven't you got something similar?
+
+<<8815.11;8818.15;en>>
+Why didn't you have something similar under RIPA?
+
+<<8818.15;8840.63;en>>
+And my substantive answer to that sting, if I've got the sting right, is that the Commissioner does have a power to react in circumstances where he considers that there has been error, serious or otherwise, by the intelligence services when administering or dealing with or operating under the RIPA regime.
+
+<<8840.63;8874.35;en>>
+And the principal tool which he has at his disposal is the requirement to report to the Prime Minister, and those reports, as you've seen from the bundle, there are a series of reports that are published, and the Commissioner will have to decide whether to make a report to the Prime Minister to draw this error to his attention in a report, and then he will have to decide, as he has done year on year when this regime has been operating, then he will have to decide whether, and if so, to what extent it's possible to publish that error.
+
+<<8874.35;8880.19;en>>
+So if that error doesn't create a security sensitivity drama, that error will be put in the public domain as well.
+
+<<8880.19;8883.31;en>>
+So that is a substantive answer under the RIPA regime.
+
+<<8883.31;8893.07;en>>
+It's a different regime, doesn't have the specific power, but in substance there is that protection.
+
+<<8893.07;8916.51;en>>
+Can I turn then to Judge Iker's questions, and the first one related to, I'm going to be taking them slightly out of order, but forgive me if I am, the first one related to the Human Rights Watch judgment of the IPT, which Mr Jaffe said had tightened, as he put it, access to the IPT in 2016.
+
+<<8916.51;8946.43;en>>
+And the only thing I wish to say about that, or perhaps two things about that, first of all, is that we respectfully agree with the extensive and cogent, if I may respectfully say so, analysis of the first section, when they considered the Article 35 set of issues that arose, had there been a failure to exhaust domestic remedies, in that part of their judgment they considered in detail whether or not the IPT provided an effective remedy that had in principle to be exhausted.
+
+<<8946.43;8970.71;en>>
+The principal issue that arose before them was whether or not the IPT provided not merely a place for individual complaints to be determined, but also a place in which compatibility of the regime, more general arguments, could be determined, and the answer that they gave to both of those was yes, but in the circumstances there are exceptional reasons for not applying that to close out some of these applicants.
+
+<<8970.71;8991.95;en>>
+But the second thing I would say about the Human Rights Watch judgment is that it is to be noted, if ever you choose to go back to it, that all that the IPT was doing in that 2016 judgment was to apply this court's case law, in particular about the concept of victim, as set out in Zakharov.
+
+<<8991.95;8999.15;en>>
+They were doing no more and no less than that, as you see from the face of the judgment.
+
+<<8999.15;9017.11;en>>
+Judge Icker's second question related to within or without the jurisdiction, and we have taken, as you have seen, a tolerably pragmatic view about that set of issues, not least because at least some of these applicants are plainly within the jurisdiction.
+
+<<9017.11;9021.75;en>>
+So there was no escaping the defence of this regime before this court for that reason alone.
+
+<<9021.75;9041.47;en>>
+But of course we recognise, and there isn't time here to go into the detail of it, we recognise and accept that the concept of within the jurisdiction, foundational as it is, is a thoroughly important controlling principle governing the access to this court.
+
+<<9041.47;9049.51;en>>
+And there are issues around whether or not people who are located abroad, foreign companies and so on, can indeed bring these sorts of challenges.
+
+<<9049.51;9061.91;en>>
+You will have seen in your reading, no doubt, that at least one of these IPT judgments, I think it was the Green Net judgment, left open a question of that description in relation to another part of the regime.
+
+<<9061.91;9066.87;en>>
+But I say no more about that than to acknowledge the importance of that concept.
+
+<<9066.87;9084.87;en>>
+Likewise in relation to corporate bodies and the distinction in relation to privacy rights they do or don't have, I think we are agreed in relation to that, they do not have a right to a private life in the same sense that an individual does.
+
+<<9084.87;9085.99;en>>
+We're all agreed about that.
+
+<<9085.99;9095.67;en>>
+They do have a right to correspondence and we don't say that any different set of principles applies under Article 8 as a result of that.
+
+<<9095.67;9102.11;en>>
+Indeed you will have seen that RIPA itself defines a person as including a legal person.
+
+<<9102.11;9108.51;en>>
+So that is the position in relation to RIPA.
+
+<<9108.51;9121.91;en>>
+Judge Groseff then, if I can turn to him, asked the question whether or not reasonable suspicion wasn't more likely to be linked to crime and wasn't bulk about intelligence gathering.
+
+<<9121.91;9128.13;en>>
+The introduction of that sort of concept work in the bulk intelligence gathering regime of this kind.
+
+<<9128.13;9134.15;en>>
+The short answer to that is it wouldn't for the reasons I gave in my opening address.
+
+<<9134.15;9155.11;en>>
+The second question related to the Secretary of State's warrant and the question whether or not it does or it does not specify particular bearers when considering which bearers to intersect at the warranty stage.
+
+<<9155.11;9174.47;en>>
+The answer to that question I think is that the warrant does not specify individual bearers and it does not do so because there are serious impracticalities and difficulties, or there would be if that were to be a requirement.
+
+<<9174.47;9188.47;en>>
+But what it does require is a proper description of what the interception is going to involve and that will inevitably involve a description of the sorts of bearers and how they're going to approach that.
+
+<<9188.47;9203.47;en>>
+And if you want the flesh on the bone of that basic submission, that basic protection inherent in the regime, can I refer you again, it's tab 33 to the 2016 code, paragraphs 6.7, 6.10
+
+<<9203.47;9205.83;en>>
+and 6.18 which make that clear.
+
+<<9205.83;9218.87;en>>
+So no individual identification of particular bearers for practical reasons, but a requirement properly to describe how they're going to go about that exercise.
+
+<<9218.87;9228.79;en>>
+The third question asked was about the intelligence sharing regime and whether or not the warrant doesn't specify individuals.
+
+<<9228.79;9231.23;en>>
+Would that be in the certificate?
+
+<<9231.23;9235.49;en>>
+And the position there is that it's exactly the same as it would be under the Section 8.4 regime.
+
+<<9235.49;9240.83;en>>
+It would be if they were in the British Islands, not if they're not.
+
+<<9240.83;9248.35;en>>
+Judge Pavley then, data retention periods was the first question, up to two years or several months.
+
+<<9248.35;9252.45;en>>
+I probably haven't got time to go to delve into the detail of that.
+
+<<9252.45;9258.31;en>>
+The up to two years period that you've seen is a genuine up to period.
+
+<<9258.31;9265.35;en>>
+Can I give you two references which contain the detail of how the data retention periods work?
+
+<<9265.35;9271.15;en>>
+One is into the code at PARA 7.9, which contains a description of how it all works.
+
+<<9271.15;9279.91;en>>
+And the second is into our observations before the Grand Chamber in relation to content and the data retention periods in relation to content.
+
+<<9279.91;9283.51;en>>
+See PARAs 39 and 40 of our observations.
+
+<<9283.51;9292.77;en>>
+And in relation to related communications data retention periods, see paragraph 45 of those observations.
+
+<<9292.77;9311.39;en>>
+That retention period question led into the second of Judge Pavley's questions, which was the practice of the agencies, and do they retain for more than mere days a significant or large quantity of data, and so on.
+
+<<9311.39;9326.27;en>>
+Well I have described in my opening remarks the process of filtering that occurs in order to try to get the data that has been intercepted filtered down, as it were.
+
+<<9326.27;9333.75;en>>
+And I've also described how the process then of selecting content in RCD works.
+
+<<9333.75;9345.59;en>>
+So far as content is concerned, focusing directly on the question that's been asked, there will be a pretty short retention period for most of it, by which I mean days.
+
+<<9345.59;9353.59;en>>
+And by the time it's gone through the filtering process, it will be nothing like millions, if I can put it at that level of generality.
+
+<<9353.59;9360.99;en>>
+Communications data are retained for a longer period, for the reasons that I indicated in my speech.
+
+<<9360.99;9369.19;en>>
+But that would be most likely to be a period of several months or thereabouts, was I think the figure that I gave.
+
+<<9369.19;9383.47;en>>
+But again to come to the sting of the question, if the sting of the question is, haven't we here got a regime in which a very large quantity of data is kept for a significant period, the answer to that question is, think about the nature of the regime.
+
+<<9383.47;9399.79;en>>
+The whole point of a bulk data regime, with its ability to enable the state to protect its citizens by discovering threats and by using bulk data to that, the whole point of that only works if there is bulk data.
+
+<<9399.79;9405.83;en>>
+That's how the effectiveness in terms of protection of the citizens works.
+
+<<9405.83;9417.55;en>>
+So to the extent that the sting of the question is, have you got lots of data even at the end of your filtering process, the answer to that question is yes, and a jolly good thing too, we submit.
+
+<<9417.55;9438.39;en>>
+The third of his questions, which was focused on the ECHR requirements and whether the bulk surveillance was in truth any really different from targeted surveillance, and that I think was also the subject, or close to the subject, of Judge Pinto de Albuquerque's first question, so if I can take them together.
+
+<<9438.39;9459.51;en>>
+Our submissions are that the Weber criteria and the Zakharov 251 or 230, those paragraphs, apply to both regimes, and we don't say that those requirements do not apply to the regimes, save only in two limited respects.
+
+<<9459.51;9474.91;en>>
+One in relation to RCD, in other words the communications data part of it, but we say it doesn't, the Weber criteria don't apply directly, but even if they do, they're satisfied, and secondly in relation to intelligence sharing, which is a wholly different context.
+
+<<9474.91;9484.59;en>>
+But subject to those two points, we respectfully accept that the Weber criteria apply to the regime.
+
+<<9484.59;9498.31;en>>
+How are they different, to go back to bulk versus targeted, well they are principally different in the respect I've already identified, namely they are different in nature, because you are doing fundamentally different things.
+
+<<9498.31;9526.99;en>>
+You are, to go back to the description in the Intelligence and Security Committee's 2015 report, you are using the bulk surveillance or the bulk data regime in order to try to identify threats so as to enable you better to target those who genuinely pose a threat, but they're doing fundamentally different, both thoroughly important, but fundamentally different things, and the safeguards are tailored accordingly.
+
+<<9526.99;9546.47;en>>
+All of the safeguards that I described have been carefully thought about by the United Kingdom legislature, and they have set up a suite of safeguards that are, I respectfully submit, properly focused on the particular nature of the power and the particular nature of the regime to which those safeguards apply.
+
+<<9546.47;9561.63;en>>
+Judge Pinto to Albuquerque's questions, and finally, the two, three, four, and possibly even five, but the second of his questions related to the 2016 Act and the introduction in that Act of judicial authorisation.
+
+<<9561.63;9564.75;en>>
+Any reason, as he put it, not to trust the Secretary of State?
+
+<<9564.75;9579.23;en>>
+None is my answer to that, and it should not be taken, and cannot be taken, we submit, particularly having regard to the court's consistent case law on prior judicial authorisation.
+
+<<9579.23;9590.79;en>>
+It should not be taken that the legislative choice has been to up the safeguards, that the previous safeguards were inadequate—they are not, for the reasons that I have given.
+
+<<9590.79;9603.87;en>>
+The third of Judge Pinto to Albuquerque's questions related to the Commissioner, and asked about the manner and nature of his appointment, who provides the staff, is he part-time, as it was put rather pejoratively.
+
+<<9603.87;9627.83;en>>
+Our answer to that, yes, he is appointed by the Prime Minister, but the relevant legislation, that is RIPA, in section 57, sub 5, requires in terms that the person who is appointed should be, or should have been, a member of the independent senior judiciary.
+
+<<9627.83;9641.19;en>>
+It then also provides for staff to work to him, and for the provision under sub 7 of section 57 of sufficient resources to do his job.
+
+<<9641.19;9656.23;en>>
+All of the commissioners in the relevant period we are considering have been retired Court of Appeal judges—so extremely senior judges who have retired, so they have the time available to devote to this.
+
+<<9656.23;9672.63;en>>
+It is a matter for them to organise their office, to organise their staff, and when inspections are carried out they are done by staff and or by the Commissioner, but the staff report to the Commissioner, they can devote the time to it that they consider appropriate.
+
+<<9672.63;9693.71;en>>
+It might be thought that the prime safeguard in having a Commissioner there is that he can go in at any stage to any of the agencies and say, right, show me that, show me the justification for doing that particular randomly selected interrogation of the system or search, or why did you produce that particular selector.
+
+<<9693.71;9701.31;en>>
+So it is that that provides the safeguarding, and we respectfully submit that there is no inadequacy in any of that.
+
+<<9701.31;9709.43;en>>
+This is an independent person, of course funded by government—where else is the funding going to come from?—appointed by the Prime Minister, but if the suggestion is that that
+
+<<9709.43;9712.71;en>>
+interferes with his independence, we respectfully disagree.
+
+<<9712.71;9744.57;en>>
+If you want an indication of just how carefully this process works and the intensity of the scrutiny that they used to bring to bear, I would refer you in particular to tabs 35 and especially 36 and 37 of your call bundle, which contains for, I think, the years 2014 to 16, the reports of the Commissioners on the system, and that gives you at least a flavour of the intensity which they bring to bear in terms of their oversight.
+
+<<9744.57;9750.03;en>>
+Intelligence sharing and legal obligation to check, in effect, equivalent standards of the system.
+
+<<9750.03;9753.03;en>>
+That was the fourth question.
+
+<<9753.03;9757.83;en>>
+I am going to do a going out and a coming in thing, if I may, in relation to that, in answer to that.
+
+<<9757.83;9768.75;en>>
+Going out from the UK to a third party, see sections 15.2 and section 15.7 of RIPA, which
+
+<<9768.75;9796.15;en>>
+includes a requirement for there to be corresponding safeguards in the recipient state, third party state, and for things coming in, can I refer you to chapter 12 of the Code, and in particular paragraph 12.6 of the Code, behind tab 33, and the phrase used there is same safeguards.
+
+<<9796.15;9810.15;en>>
+You will bear in mind in relation to all of this area, this Court's and the Commission's consistent jurisprudence that it isn't for this Court, as it were, to impose ECHR standards on third party states.
+
+<<9810.15;9820.75;en>>
+I have in mind cases such as the Bertrand Russell Foundation against the United Kingdom all those years ago, but the theme is constant.
+
+<<9820.75;9832.71;en>>
+The fifth of the questions asked by Judge Finto de Albuquerque are asked about the possibility of a confidential message being sent by this Court to a lawyer in London.
+
+<<9832.71;9838.35;en>>
+Could it be caught and examined by the British Intelligence Service was the question.
+
+<<9838.35;9852.11;en>>
+The answer to that is, first, it might be caught because bulk interception is bulk interception, so one would not know whether it had been picked up as part of the interception of a particular bearer.
+
+<<9852.11;9858.23;en>>
+So it's possible that it would be caught by that part of it.
+
+<<9858.23;9878.23;en>>
+It could then only continue to exist capable of being examined if it passed the selection criteria, the imposition of those selectors narrowing it down, and it wouldn't pass that, I respectfully submit.
+
+<<9878.23;9888.75;en>>
+And in any event, if it got there and it was examined, the LPP safeguards in the code at paragraph 4.5 and following would apply to it.
+
+<<9888.75;9913.75;en>>
+And the bull point at both of those latter two stages is that that sort of message would not on any view fall within terrorism or serious crime or economic well-being of the United Kingdom related to national security, and it simply would not meet the conditions that are specified in the primary legislation.
+
+<<9913.75;9919.15;en>>
+My learned friend's reliance on the Belhage case is entirely inapposite in this context.
+
+<<9919.15;9936.11;en>>
+The problem in the Belhage case was that there was a particular problem or couple of problems with the precise manner in which LPP was described in the MI5 handling arrangements, and as a result of that, the concession was made.
+
+<<9936.11;9955.35;en>>
+Our Belhage cannot be taken, as it were, as my learned friend sought to imply, as some form of indication that the government or the intelligence services routinely, still less lawfully, could intercept the sort of message that Judge Pinto de Albuquerque's fifth question put up.
+
+<<9955.35;9957.27;en>>
+So those are the answers to the questions.
+
+<<9957.27;9962.91;en>>
+Very, very briefly, if I may, Mr. Jaffe's fundamental argument on safeguards was that
+
+<<9962.91;9968.63;en>>
+our case, he said, comes to a simple proposition, which is trust us.
+
+<<9968.63;9978.83;en>>
+And as you've heard in the answers to the court's questions and in the speech I made earlier on, that, we respectfully submit, is simply wrong.
+
+<<9978.83;9985.31;en>>
+You have a detailed suite of safeguards contained in the primary legislation with the detail and the code.
+
+<<9985.31;9988.23;en>>
+You've got all of the oversight mechanisms I identified.
+
+<<9988.23;9999.11;en>>
+You've got particular focus on the safeguards that apply at the stage where the interference is likely to be at its most serious, namely the selection and examination stage.
+
+<<9999.11;10006.99;en>>
+And you've also got all of that suite of safeguards applying to communications data as well as content.
+
+<<10006.99;10013.83;en>>
+And for all of those reasons, we do submit that this court should find no breach of Article 8 and no breach of Article 10.
+
+[[JudgeP;Angelika Nußberger]]
+
+<<10017.44;10020.6;en>>
+Thank you. We have now come to the end of the hearing.
+
+<<10020.6;10025.68;en>>
+I thank the parties for their submissions and answers to the court's questions.
+
+<<10025.68;10028.52;en>>
+The court will now deliberate on the merits.
+
+<<10028.52;10030.58;en>>
+The judgment will be delivered later.
+
+<<10030.58;10034.18;en>>
+The parties will be informed of the date of delivery.
+
+<<10034.18;10034.18;en>>
+I declare the hearing closed.
+

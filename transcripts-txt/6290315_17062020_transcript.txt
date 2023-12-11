@@ -1,0 +1,2356 @@
+[[Announcer;UNK]]
+
+<<5.59;6.35;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<12.98;16.86;en>>
+Good morning.
+
+<<16.86;31.38;en>>
+Good morning to all participants in this public hearing organized by the European Court of Human Rights with the use of video conferencing technology, which has been made necessary due to the COVID-19 health crisis.
+
+<<31.38;45.42;en>>
+I wish to begin by thanking the applicant and the respondent government for their cooperation in preparing this hearing on the admissibility and merits in the case of Kurt versus Austria, which I now declare open.
+
+<<45.42;54.38;en>>
+I should note before proceeding that this hearing is being recorded in its entirety and will be webcast in order to ensure its public character.
+
+<<54.38;61.68;en>>
+It will be available to the public on the court's website tomorrow, Thursday, June 18.
+
+<<61.68;74.5;en>>
+The application in this case was lodged with the court on 16 December 2015 under Article 34 of the convention by an Austrian national, Miss Senay Kurt.
+
+<<74.5;81.7;en>>
+It was allocated to the fifth section of the court pursuant to Rule 52, paragraph 1 of the rules of court.
+
+<<81.7;87.9;en>>
+It was communicated to the government on 30 March 2017.
+
+<<87.9;95.54;en>>
+On 4 July 2019, a chamber of the fifth section delivered its judgment in the case.
+
+<<95.54;106.42;en>>
+It declared unanimously the application admissible and held also unanimously that there had been no violation of Article 2 of the convention.
+
+<<106.42;116.8;en>>
+On 27 September 2019, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the convention.
+
+<<116.8;124.38;en>>
+And a panel of the Grand Chamber accepted the request on 4 November 2019.
+
+<<124.38;175.82;en>>
+Leave to intervene under Article 36, paragraph 2 of the convention and Rule 44, paragraph 3 of the rules of court was granted to "GREVIO", group of experts on action against violence against women and domestic violence, Women Against Violence Europe, "WAVE", Women in Network Against Violence, "Donne in Rete Contro la Violenza", Association of Autonomous Austrian Women's Shelters, "Verein Autonome Österreichische Frauenhäuser", European Human Rights Advocacy Center, "ERAC" and Equality Now, jointly, Federal Association of the Austrian Centers for Protection from Violence, "Bundesverband der Gewaltschutzzentren Österreichs", and women's petition for a referendum 2.0,
+
+<<175.82;179.74;en>>
+"Frauenvolksbegehren 2.0".
+
+<<179.74;195.88;en>>
+The government are represented by their agent, Ambassador Helmut Tichy from the Federal Ministry for European and International Affairs, assisted by Miss Brigitte Ohms, Deputy Government Agent, Federal Chancellery, as well as by Mr. Klaus Famira,
+
+<<195.88;200.74;en>>
+Miss Elizabeta Samoilova, Mr. Ulrich Pesendorfer,
+
+<<200.74;204.14;en>>
+Miss Andrea Rohner, Mr. Peter Andre,
+
+<<204.14;207.7;en>>
+and Mr. Walter Dillinger, advisors.
+
+<<207.7;215.94;en>>
+The applicant is represented by Miss Sonja Aziz, Council, assisted by Miss Christine Kolbitsch, Council.
+
+<<215.94;221.0;en>>
+I welcome the representatives in the name of the court.
+
+<<221.0;231.06;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<231.06;233.7;en>>
+Mr. Tichy for the government will speak first
+
+<<233.7;240.38;en>>
+for 30 minutes, and then Miss Aziz for the applicant for the same amount of time.
+
+<<240.38;243.14;en>>
+So we now proceed with the government.
+
+<<243.14;245.54;en>>
+I call Mr. Tichy.
+
+<<245.54;245.54;en>>
+Please, Mr. Tichy, you have the floor.
+
+[[Government;GR3]]
+
+<<251.92;267.4;en>>
+President, distinguished members of the court, I have the honor to present the position of the Austrian government on the compatibility with Article 2 of the Convention of the Austrian authorities' handling of a case of domestic violence.
+
+<<267.4;276.6;en>>
+At the very beginning, I would like to express our sincere sympathy to the applicant and her family, especially her daughter.
+
+<<276.6;281.16;en>>
+The tragic events of 2012 are deeply disturbing.
+
+<<281.16;286.36;en>>
+The applicant's suffering has been taken very seriously by the Austrian authorities.
+
+<<286.36;296.56;en>>
+And if we discuss now the legal aspects of this tragedy, this should not be regarded as demeaning the suffering of the victims.
+
+<<296.56;303.28;en>>
+The Austrian legal framework on combating domestic violence follows a multi-institutional approach.
+
+<<303.28;316.72;en>>
+The aim is to optimize the coordination between police authorities, family courts, the penal system, youth welfare agencies, and the protection centers for the benefit of the victims.
+
+<<316.72;325.64;en>>
+This coordination between state agencies and the private protection centers avoids possible gaps in the protection of victims.
+
+<<325.64;339.08;en>>
+The message of our legal framework is clear, acts of violence committed in the domestic sphere are not a private affair, but a public issue of general concern.
+
+<<339.08;347.8;en>>
+We shall come back to the details of the legal framework in Austria in our replies to the questions of the court.
+
+<<347.8;357.12;en>>
+In Austria, a wide range of state aid and state funded support is offered proactively to victims of domestic violence.
+
+<<357.12;378.04;en>>
+The private protection centers mandated to protect and assist victims of domestic violence play a key role in the Austrian prevention system, as they act as hubs for all relevant institutions, such as police, courts, youth welfare services, and women's shelters.
+
+<<378.04;386.68;en>>
+Police and the public prosecution have to inform these centers without delay about every case of domestic violence.
+
+<<386.68;397.6;en>>
+Thereupon, the centers contact the victim to offer information and practical assistance, such as a current risk assessment and a safety plan.
+
+<<397.6;405.28;en>>
+In addition, they provide psychosocial care and support, as well as legal advice.
+
+<<405.28;418.28;en>>
+Where possible, the mandated center provides an expert with the same cultural background as the victim, or at least an expert and an assistant interpreter.
+
+<<418.28;434.76;en>>
+Gravio, the group of experts on action against violence and against women and domestic violence of the Council of Europe, welcomed in its baseline study of 2017 Austria's long history of policymaking in the area of violence against women.
+
+<<434.76;446.76;en>>
+In particular, the strong leadership Austria has shown in the past 20 years in introducing a system of emergency barring and protection orders for victims of domestic violence.
+
+<<446.76;456.48;en>>
+Gravio concluded, today, this system is well-established and is widely considered a success.
+
+<<456.48;475.6;en>>
+Gravio referred to the strong focus of the Austrian political support and funding on domestic violence and mentioned, I quote, the well-established support services for victims of domestic violence, which serve as respected partners for the law enforcement agencies, unquote.
+
+<<475.6;487.12;en>>
+And that cooperation between government entities and domestic violence services is fully institutionalized and placed on a legal basis.
+
+<<487.12;507.16;en>>
+Unmet needs, according to Gravio, mainly concerned the situation of children witnesses of domestic violence, the budget of 5 million euro for the policy agenda, and the low conviction rate due to the frequent use of diversionary measures in domestic violence cases.
+
+<<507.16;514.28;en>>
+All this shows that the main features of the system of protection against violence have proven to be effective.
+
+<<514.28;545.36;en>>
+Statistical data and evaluations, such as an academic study of 2012, periodic roundtables, and a task force in 2018, 2019, came to the conclusion that eviction and barring orders, as well as temporary restraining orders and temporary injunctions, together with interventions of the protection centers, have successfully prevented a higher number of massive violations.
+
+<<545.36;548.96;en>>
+The following statistics illustrate the developments.
+
+<<548.96;564.24;en>>
+Between 2015 and 2019, 41,314 barring orders were issued by the police and 12,018 temporary restraining orders and temporary injunctions by the district courts.
+
+<<564.24;571.4;en>>
+Nevertheless, a high percentage of violent crimes in Austria is still attributed to acts of domestic violence.
+
+<<571.4;586.68;en>>
+In the same period, between 2015 and 2019, 156 femicides were committed, which is totally unacceptable and a matter of grave concern for the Austrian government and the public.
+
+<<586.68;596.0;en>>
+Therefore, one of the priorities in the government's program of January 2020 aims at combating domestic violence.
+
+<<596.0;607.54;en>>
+The program provides for a needs-based expansion of women's counseling and protection centers, as well as for a new national action plan against domestic violence.
+
+<<607.54;617.94;en>>
+The government is also committed to increasing substantially the specific budget, in particular for women's shelters and counseling.
+
+<<617.94;634.28;en>>
+President, distinguished members of the court, in 2012, at the time of the tragic events, an ex officio police barring order could only prohibit entry to the joint residence, including adjacent areas, but not to a school.
+
+<<634.28;639.7;en>>
+However, in the present case, the applicant had a series of options.
+
+<<639.7;653.5;en>>
+She received counseling and was accompanied by a female legal expert of her own cultural background from the local protection center, with whom she had been in regular contact since 2010.
+
+<<653.5;658.78;en>>
+We know that the dynamics of leaving an abusive relationship are very complex.
+
+<<658.78;664.92;en>>
+Women who want to leave this vicious circle often undergo a long process.
+
+<<664.92;674.88;en>>
+However, we must assume that the applicant had quite some time to reflect and to consider all possible options.
+
+<<674.88;688.08;en>>
+Due to the counseling service, she knew of her possibility to file a request with the district court for a restraining order, also for the school premises of her children.
+
+<<688.08;698.72;en>>
+In the morning of the 22nd of May, 2012, when filing for divorce at the district court, she could also have filed a request for an injunction covering her children's school.
+
+<<698.72;702.96;en>>
+An additional option offered by the Enforcement Act.
+
+<<702.96;721.0;en>>
+In the afternoon of the same day, when she reported to the police and the police barring order relating to the marital home was issued, she received a leaflet with the information that as a victim of violence, she could also file a request for an injunction with the district court.
+
+<<721.0;734.64;en>>
+Such an injunction could have prohibited her husband from entering not only the marital residence and the parents' apartment, but also the children's school and other venues.
+
+<<734.64;747.32;en>>
+From the statistics on temporary restraining orders and temporary injunctions from 2015 to 2019, it follows that roughly only 10% of the applications for such orders are dismissed.
+
+<<747.32;753.92;en>>
+In the same years, 382 applications were submitted without prior police intervention.
+
+<<753.92;760.12;en>>
+These numbers can also be assumed mutatis mutandis for 2012.
+
+<<760.12;770.28;en>>
+In addition, also based on statistical evidence, these injunctions could have been issued on the very day of the application or on the following day if necessary.
+
+<<770.28;774.28;en>>
+In urgent cases, the offender does not have to be heard.
+
+<<774.28;777.6;en>>
+In 2012, the court fee was around 10 euro.
+
+<<777.6;782.32;en>>
+In the meantime, all fees for such injunctions have been abolished.
+
+<<782.32;794.32;en>>
+Moreover, temporary restraining orders and temporary injunctions cannot only be filed on days of public court consultation, but on every working day during office hours.
+
+<<794.32;803.4;en>>
+Against this background, our position remains unchanged that the applicant has not exhausted all domestic remedies.
+
+<<803.4;810.32;en>>
+Allow me now to turn to question one of the court regarding the positive obligation under Article II of the Convention.
+
+<<810.32;827.48;en>>
+The barring order was issued ex officio on the 22nd of May, 2012, not only on the basis of the applicant's report made at 1 o'clock in the afternoon, but also after having recorded every accessible evidence.
+
+<<827.48;839.36;en>>
+The applicant's report to the police was handled by a female police officer who was an expert on and dedicated to handling cases of domestic violence.
+
+<<839.36;841.88;en>>
+The applicant was medically examined.
+
+<<841.88;849.2;en>>
+There were hematoma and scratches on the applicant's neck and chin, which were documented by means of pictures.
+
+<<849.2;854.96;en>>
+There was, however, no evidence that the alleged rape had occurred.
+
+<<854.96;874.08;en>>
+According to a standard procedure, an online query was made by the police in a central electronic database containing personal data of offenders, including reasons and extent of previous barring orders, temporary restraining orders, and temporary injunctions.
+
+<<874.08;880.56;en>>
+The public prosecutor ordered the husband and the applicant's children to be questioned immediately.
+
+<<880.56;889.2;en>>
+The husband accompanied the police voluntarily and was interrogated at the police station at 4 PM.
+
+<<889.2;894.24;en>>
+As a result of the interrogation, the police barring order was granted.
+
+<<894.24;903.16;en>>
+In the late afternoon of the same day, the police officer reported the case to the public prosecutor on duty and discussed the issue with him.
+
+<<903.16;912.24;en>>
+Thereupon, the public prosecutor on duty ordered the questioning of the two children and instituted criminal proceedings against the husband.
+
+<<912.24;924.6;en>>
+In the evening, the two children were questioned by a female police officer in a child-appropriate manner in their grandparents' apartment for 40 minutes.
+
+<<924.6;935.0;en>>
+The police also checked the registry of firearms, whether the husband had a gun at his disposal, with negative result.
+
+<<935.0;949.0;en>>
+In the late evening, the police officer reported extensively to the public prosecutor on duty about the questioning of the children, the interrogation of the husband, and the barring order, both in writing and orally.
+
+<<949.0;954.66;en>>
+The youth welfare services were subsequently informed.
+
+<<954.66;979.6;en>>
+Based on the applicant's report and the evidence obtained, the police officers and the prosecutors knew that the children were sometimes to a firearm because it can favor an escalation of the case.
+
+<<979.6;991.58;en>>
+Therefore, it had checked the registry of firearms and had no further indication that there was an immediate and real threat to their lives or a serious damage to their health.
+
+<<991.58;1003.96;en>>
+Towards the police, the husband had been calm and cooperative, and his arguments in respect of the alleged rape were not implausible when he denied any violent behavior and threats.
+
+<<1003.96;1009.32;en>>
+The husband had never been aggressive in public.
+
+<<1009.32;1028.44;en>>
+Regarding the husband's violent attack in 2010 and the corresponding criminal conviction on probation, it was known to the authorities that he had not only adhered to the barring order, but also gone to hospital of his own accord to be treated for his mental problems.
+
+<<1028.44;1035.96;en>>
+There was no indication that the husband would not respect the barring order this time.
+
+<<1035.96;1043.24;en>>
+Last but not least, it was also of importance that the reported violence happened exclusively in the marital home.
+
+<<1043.24;1050.02;en>>
+There was no indication that the husband would act violently outside his home.
+
+<<1050.02;1064.84;en>>
+The applicant spent three days with her husband in their marital home without violent or aggressive episodes known to the authorities and was able to move freely and to leave the home.
+
+<<1064.84;1082.2;en>>
+In conclusion, the authorities were justified in assuming that both the danger known to them and the likely danger of future violence could be countered by a barring order regarding the marital home and that of the applicant's parents.
+
+<<1082.2;1093.36;en>>
+The facts known to the authorities indicated that the cycle of violence, which had been mainly directed against the applicant, would be broken for the time being.
+
+<<1093.36;1113.76;en>>
+We would also like to add that the barring order not only served the applicant's protection, but also the protection of her children, as is evident from the reasons given to include the flat of the applicant's parents, stating, since the endangered person and her children are staying there.
+
+<<1113.76;1128.56;en>>
+On 23 May 2012, the barring order was examined by the Federal Police Directorate, considered lawful and confirmed because the police had expressly taken into account the fact that the children were also endangered.
+
+<<1128.56;1139.12;en>>
+On 24 May 2012, the husband came to the police station once more, this time on his own initiative, to inquire whether he was allowed to contact his children.
+
+<<1139.12;1147.16;en>>
+He was immediately interviewed as an accused person and confessed that he had slapped his children from time to time.
+
+<<1147.16;1161.0;en>>
+This showed that the husband respected the barring order and suggested that the risk assessment of the authorities was correct and that the barring order was the adequate measure for this situation.
+
+<<1161.0;1170.12;en>>
+Last but not least, the police and the public prosecutors knew that the applicant was assisted by the protection center.
+
+<<1170.12;1175.78;en>>
+The center's work focuses on the security of the victim and the children.
+
+<<1175.78;1186.28;en>>
+Every assistance and intervention of the center is examined as to whether it enhances the victim's security as well as the security of the children.
+
+<<1186.28;1199.4;en>>
+On the basis of a comprehensive standardized risk assessment and security plans, the center elaborates options and solutions for detaching the victim from the violent relationship.
+
+<<1199.4;1207.2;en>>
+The victims are at liberty to decide whether they make use of the proposed options and solutions.
+
+<<1207.2;1221.68;en>>
+In the present case, the center and the applicant had agreed by telephone to draft an application for a temporary restraining order and temporary injunction on 25 May 2012.
+
+<<1221.68;1232.6;en>>
+President distinguished members of the court regarding the Osman Tesk of real and immediate risk in the context of domestic violence, we take the following view.
+
+<<1232.6;1238.6;en>>
+The present case makes the limits of feasible state precautions very clear.
+
+<<1238.6;1246.36;en>>
+Article 2 of the convention requires a display of due diligence in respect of preventive operational measures.
+
+<<1246.36;1263.62;en>>
+For such positive obligation to arise, it must be established that the authorities knew or ought to have known at the time of the existence of a real and immediate risk to the life of an identified individual from the criminal acts of a third party.
+
+<<1263.62;1271.72;en>>
+This question can only be answered taking into account all circumstances of the particular case.
+
+<<1271.72;1281.08;en>>
+From the facts of the present case follows that the police and the public prosecutors acted promptly and targeted.
+
+<<1281.08;1287.24;en>>
+Immediately after the applicants reported to the police, they took evidence in every possible way.
+
+<<1287.24;1296.76;en>>
+Police and public prosecutor discussed the case on the basis of the information provided and the reliable facts available.
+
+<<1296.76;1302.82;en>>
+Subsequently, they made their decisions on the basis of their respective risk assessments.
+
+<<1302.82;1317.64;en>>
+Considering all circumstances and carefully balancing the available evidence, they concluded that there was neither a real nor an immediate risk to the children's and the applicants' lives for the time being.
+
+<<1317.64;1330.48;en>>
+Therefore, a barring order prohibiting the husband from returning to the marital home and to the applicant's parents' apartment was considered effective to break the cycle of violence.
+
+<<1330.48;1339.52;en>>
+We believe that in the present case, the Austrian authorities have carefully weighed all the interests and rights enshrined in the convention.
+
+<<1339.52;1346.28;en>>
+They have made every reasonable effort to protect the applicant and her children.
+
+<<1346.28;1363.36;en>>
+Our statistical data show that in the vast majority of cases, our protective system consisting of police barring orders and court-temporary restraining orders and temporary injunctions is, in combination with the proactive support by the protection centers, is effective.
+
+<<1363.36;1373.32;en>>
+As far as the second question of the court regarding the risk assessment is concerned, we have provided extensive information and material in our written observations and subsequent submissions.
+
+<<1373.32;1382.68;en>>
+We have shown that the methods used by the Austrian authorities cover the usual standardized risk assessment tools.
+
+<<1382.68;1398.64;en>>
+In the present case, the expert from the Competent Protection Center conducted a standardized risk assessment independently and based on a comprehensive set of facts, which with an outcome identical to that of the Austrian authorities.
+
+<<1398.64;1412.54;en>>
+After the murder on 25 May 2012, she stated repeatedly to the police that she had never imagined it possible that the husband would commit such a crime.
+
+<<1412.54;1417.34;en>>
+A sound result of a risk assessment requires an informed individual evaluation.
+
+<<1417.34;1422.12;en>>
+It cannot be replaced by the mechanical use of standardized risk assessment tools.
+
+<<1422.12;1438.32;en>>
+It is essential to have a well-trained staff able to check on a case-by-case basis the generally accepted factors and patterns, such as heavy alcohol use, controlling behavior, forced sexual activity, psychological violence.
+
+<<1438.32;1447.2;en>>
+Therefore, the Austrian authorities constantly display targeted training activities in general and in particular for violence prevention officers.
+
+<<1447.2;1458.0;en>>
+In the case at hand, one of the public prosecutors had worked for five months with a lawyer specialized in assisting victims.
+
+<<1458.0;1480.68;en>>
+As far as the third question of the court regarding the legal framework in force in 2012 is concerned, we have explained that the Austrian prevention system for the protection of victims provides not only for the arrest and pretrial detention, but also for ex officio police barring orders, as well as temporary restraining orders and temporary injunctions of the courts.
+
+<<1480.68;1490.58;en>>
+In addition, free assistance and support by independent protection centers are actively offered.
+
+<<1490.58;1500.06;en>>
+The police have the general duty to prevent dangerous attacks into alia on life, health, and liberty if such attacks are probable.
+
+<<1500.06;1511.44;en>>
+In such cases, the police have an obligation to take ex officio appropriate and proportionate protective measures if they attacked or otherwise endangered persons cannot protect themselves.
+
+<<1511.44;1516.92;en>>
+And this is to be found in section 22 of the Security Police Act.
+
+<<1516.92;1523.16;en>>
+They must issue a protective barring order if there is a relevant risk in a particular case.
+
+<<1523.16;1532.76;en>>
+This spares victims of domestic violence the burden of taking the initial steps necessary to break off the circle of violence.
+
+<<1532.76;1539.04;en>>
+In addition, the police have to inform the victim on all options provided by law.
+
+<<1539.04;1547.72;en>>
+Furthermore, they have to inform the competent protection center and, in the case of children, the youth welfare authority.
+
+<<1547.72;1558.44;en>>
+This system ensures quick interventions by the police as soon as they become aware of dangers in the context of domestic violence.
+
+<<1558.44;1573.28;en>>
+A barring order does not preclude the protection by courts through temporary restraining orders against violence in the home or temporary injunctions as general protection against violence.
+
+<<1573.28;1581.4;en>>
+Barring orders and court injunctions do not preclude the possibility of arrest or pretrial detention.
+
+<<1581.4;1594.96;en>>
+Whether a barring order or a temporary restraining order is a more lenient measure, avoiding detention depends on whether the detention's protective purposes can be achieved equally reliably by such measures.
+
+<<1594.96;1606.68;en>>
+The use of more lenient measures can only substitute detention if it can realistically and effectively make detention unnecessary.
+
+<<1606.68;1617.92;en>>
+In conformity with Article 5 of the Convention, arrest and detention in Austria are governed by Sections 170 and 173 of the Code of Criminal Procedure.
+
+<<1617.92;1623.92;en>>
+In the present case, there were no reasons for arrest and detention.
+
+<<1623.92;1634.76;en>>
+Apprehension in the acts of committing an offense risk that the offender will fly or go into hiding or risk of suppression of evidence were not applicable.
+
+<<1634.76;1651.24;en>>
+The risk of commission of an identical offense by the same offender against the same legally protected interest was examined carefully by the public prosecutor on the basis of all information available at the time, but could not be established.
+
+<<1651.24;1655.52;en>>
+Therefore, there was no legal ground for arresting the husband.
+
+<<1655.52;1663.12;en>>
+It was not possible for anybody to foresee what would happen three days later.
+
+<<1663.12;1670.88;en>>
+Since there was no legal ground for arresting the husband, the legal conditions for pretrial detention were not met.
+
+<<1670.88;1686.88;en>>
+Therefore, it was also not possible for the public prosecutor to order more lenient measures under Section 173 paragraph 5 of the Code of Criminal Procedure, such as a pledge to refrain from any contact with the victim.
+
+<<1686.88;1699.92;en>>
+As to the claims for compensation, we would like to point out that they seem to ignore the court's constant practice in awarding compensation for non-pecuniary damage in similar cases, which is far more moderate.
+
+<<1699.92;1703.8;en>>
+The same is true for claimed costs and expenses.
+
+<<1703.8;1713.9;en>>
+Here, I should like to close by referring once more to the written observations of the Republic of Austria, the motions therein are fully maintained.
+
+<<1713.9;1731.0;en>>
+To conclude, despite Austria's recognized record in combating violence against women and domestic violence, we are continuously evaluating and improving our system of protection against domestic violence.
+
+<<1731.0;1739.04;en>>
+Let me assure you that we take the respective recommendations from international treaty bodies and expert groups very seriously.
+
+<<1739.04;1744.16;en>>
+The tragic present case has triggered significant legal improvements.
+
+<<1744.16;1751.8;en>>
+Moreover, the Austrian government has committed itself to step up its efforts in the years to come.
+
+<<1751.8;1762.2;en>>
+However, we are convinced that back in 2012, the Austrian authorities have carefully weighed all the interests and rights enshrined in the Convention.
+
+<<1762.2;1768.64;en>>
+They have made every reasonable effort to protect the applicant and her children.
+
+<<1768.64;1769.48;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Robert Spano]]
+
+<<1771.83;1775.71;en>>
+Thank you very much indeed, Mr. Tichy.
+
+<<1775.71;1778.39;en>>
+We now turn to the applicant.
+
+<<1778.39;1779.39;en>>
+Ms. Aziz, you have the floor, please.
+
+[[Applicant;AP1]]
+
+<<1782.29;1784.29;en>>
+Thank you.
+
+<<1784.29;1787.09;en>>
+Mr. President, Honorable Judges,
+
+<<1787.09;1792.21;en>>
+it is an honor to appear before you today on behalf of the applicant, Mrs. Quart.
+
+<<1792.21;1811.95;en>>
+This case provides a key opportunity for the Grand Chamber to clarify and develop the jurisprudence of the court on the nature of the Osman test to be applied regarding the positive obligations to the authorities in cases of domestic violence concerning a threat to life and safety.
+
+<<1811.95;1827.53;en>>
+Domestic and intimate partner violence is a global phenomenon affecting more than 41 million women in the EU alone, as results from an EU-wide survey of the European Union Agency for Fundamental Rights showed.
+
+<<1827.53;1849.39;en>>
+In combating this problem, it is important to understand that domestic violence is a complex system of emotional dependency, humiliation, rejection, blame, financial dependency, isolation, coercion, and threats, as well as misusing children as leverage.
+
+<<1849.39;1860.39;en>>
+I could certainly, it could certainly be noted that there have been very positive developments within the case law of the court concerning domestic violence.
+
+<<1860.39;1869.47;en>>
+However, the reasoning provided by the Chamber below in the applicant's case undermines the progress made in the court's case law.
+
+<<1869.47;1881.63;en>>
+The Court's case law concerning domestic violence cases and creates uncertainty regarding the standards that should be followed in dealing with such cases.
+
+<<1881.63;1906.31;en>>
+Namely, the approach of the Chamber to some of the facts in the applicant's case was context-intensive in terms of overlooking the particularity of domestic violence, especially its tendency towards recurrence and escalation, as well as the resulting vulnerability of the victims.
+
+<<1906.31;1932.03;en>>
+Therefore, it is very important for the court to fully clarify its approach in those issues and take a strong stance on the standards to be followed in domestic violence cases, especially having in mind that its rulings are vital guidelines for national authorities in fulfilling their obligations under the Convention.
+
+<<1932.03;1942.75;en>>
+I will divide the pleadings into several parts to highlight the applicant's main arguments and answer also the questions of the court to the parties.
+
+<<1942.75;1956.79;en>>
+For the arguments in full details, I refer to the applicant's written submissions to the court as well as to the seven third-party submissions, which are fully endorsed by the applicant.
+
+<<1956.79;1966.79;en>>
+First of all, I will therefore address the issue of the applicant on the Ostman test in cases dealing with domestic violence.
+
+<<1966.79;1982.39;en>>
+As regards to the positive obligations to take preventive operational measures, the Chamber below followed the classical Ostman test and found that there had been no discernible real immediate risk to the children's lives.
+
+<<1982.39;1991.67;en>>
+However, the way the Ostman test was applied by the Chamber, contrasts with the approach adopted by the court in several other cases.
+
+<<1991.67;2000.07;en>>
+It needs to be taken into account that the classical Ostman test was established for incident type situations.
+
+<<2000.07;2008.35;en>>
+Cases of domestic violence are typically not incident-based, but involve ongoing abuses in the family.
+
+<<2008.35;2035.31;en>>
+The court has held that the risk of a real and immediate threat must be assessed, taking due account of the particular context of domestic violence, and above all, the recurrence of successive episodes within a family, rather than on taking into account single episodes of violence in an isolated manner.
+
+<<2035.31;2049.75;en>>
+As Equality Now, one of the third-party interveners, stated, the court has often taken a flexible case context, and a risk-driven approach to the key components of the Ostman test.
+
+<<2049.75;2062.59;en>>
+Notably, in each of the cases mentioned in the intervener submission, no specific threat was reported identifying either a victim, location, or method of harm.
+
+<<2062.59;2071.83;en>>
+Furthermore, in none of these cases was there separate evidence of specific imminence of the threat.
+
+<<2071.83;2086.23;en>>
+The intervener's opinion appears to have been satisfied with the realness of the threat, meaning a significant likelihood that the risk will materialize unless preventive measures are taken.
+
+<<2086.23;2105.55;en>>
+Also, it is important to note that access to the victim, not location, is the defining feature of where the violence occurs, as demonstrated also by several of the court's cases where sexual violence took place outside the home.
+
+<<2105.55;2124.43;en>>
+This means that the authority should know that an identified risk for children at home extends to other places, like in our case, the schools, once the perpetrator is spared from places where he previously had access to them, like their home.
+
+<<2124.43;2157.11;en>>
+Furthermore, it should be noted that the court has clearly recognized its role in combating gender-based violence and its underlying structural inequality, and that to do so, it must adopt the gender-sensitive interpretation of the Osman test that takes account of the context in which the threat in domestic violence cases materialize and the special diligence required to prevent escalation into fatal violence.
+
+<<2157.11;2194.03;en>>
+Since the applicant has already submitted detailed written information, allow me now to focus myself on the main arguments why the Austrian authorities have failed to fulfill their positive obligations to take preventive operational measures, showing clearly that first, the authorities could or should have known at the time that the applicant's husband posed a real and immediate risk to the boy's life, and that there were more serious measures to be taken, such as taking the perpetrator to pre-trial detention.
+
+<<2194.03;2214.51;en>>
+Second, that neither the Austrian Public Prosecutor's Office nor the Austrian police had a specific risk assessment tool, in particular, to assess lethal risk as required by Article 51 of the Istanbul Convention, and they still don't have any.
+
+<<2214.51;2224.75;en>>
+Third, that there was a lack of knowledge regarding the dynamics of violence, which led to wrong assumptions by the authorities.
+
+<<2225.87;2238.87;en>>
+Let me begin to point out that at the relevant time, the authorities had all information they needed to identify the lethal risk for the applicant's children.
+
+<<2239.55;2257.35;en>>
+The government claims in their observations that prior to the murder of the applicant's son, the Austrian authorities and courts had no information or indications from which they could have concluded that there was a real and immediate threat to the life of the applicant's children.
+
+<<2257.35;2259.71;en>>
+This claim is misleading.
+
+<<2259.71;2281.95;en>>
+Three days before the murder of her son, the applicant had reported her husband to the police for serious violent acts against her and her children, and she was not informed of the fact that the police had already arrested her, as well as making dangerous threats that he will kill the children in cases she leaves him.
+
+<<2282.95;2300.39;en>>
+Also, the applicant referred to several risk factors in the course of filing her police report by herself, namely the previous conviction in 2010 against the same legal protected good for causing bodily harm and dangerous threat.
+
+<<2300.39;2335.23;en>>
+The previous conviction in 2012, his resulting increased aggression, his non-acceptance of her wish to get a divorce, his ongoing threats to kill her and the children on a daily basis in case she leaves him, the increase in frequency and intensity of the violence, the recently announced divorce, and her resulting fear that her husband will be in serious threats since she now filed court on the very same day of the police report.
+
+<<2335.23;2344.03;en>>
+She expressly mentioned the protection of her children from her husband as a motive for filing the report.
+
+<<2346.35;2351.23;en>>
+And I would like to quote what she said in front of the police.
+
+<<2351.23;2360.31;en>>
+She said, I really am in great fear of my husband and for my children. I'm reporting these allegations now
+
+<<2360.31;2363.99;en>>
+because I want to protect my children from him.
+
+<<2363.99;2368.07;en>>
+Also, the children were questioned by the police.
+
+<<2368.07;2370.83;en>>
+40 minutes we heard today.
+
+<<2370.83;2379.31;en>>
+And her son, who was murdered three days later, he said, when they are fighting, father always hits mother.
+
+<<2379.31;2382.75;en>>
+Sometimes my mother has a purple cheek.
+
+<<2382.75;2385.75;en>>
+My father has hit me a lot of times.
+
+<<2385.75;2389.19;en>>
+He always slaps me several times in the face.
+
+<<2389.19;2392.75;en>>
+It has been going on for a long time.
+
+<<2392.75;2398.23;en>>
+Then my father slapped me 12 times in the face.
+
+<<2398.23;2401.19;en>>
+You could see the imprints on my cheek.
+
+<<2401.19;2404.35;en>>
+And he kicked my butt twice.
+
+<<2404.35;2410.99;en>>
+I am very afraid of my father because he always hits me and screams with me.
+
+<<2410.99;2419.55;en>>
+Then his little sister, she told the police, quote, father always takes pills when he's stressed.
+
+<<2419.55;2423.39;en>>
+When he's stressed, he hits us and the mother.
+
+<<2423.39;2428.39;en>>
+I'm afraid of my father because he hits me and he screams.
+
+<<2428.39;2436.35;en>>
+And then both children talked to the police and they said, mother is afraid of my father because he's stronger.
+
+<<2436.35;2439.47;en>>
+He always says mean things to her.
+
+<<2439.47;2447.43;en>>
+Everyone in the family is afraid of my father and he always takes pills.
+
+<<2447.43;2455.27;en>>
+Therefore, at the relevant time, the authorities had all information they needed to identify the risk.
+
+<<2455.27;2472.95;en>>
+In fact, the police should have been aware that all mentioned risk factors were serious signs for the heightened danger the applicant's husband posed, especially since the police explicitly pointed these factors out in the bearing order.
+
+<<2472.95;2479.91;en>>
+However, the bearing order only covered the family's home and the home of the applicant's parents.
+
+<<2479.91;2486.79;en>>
+The police failed to identify the children as endangered persons, despite their statements.
+
+<<2486.79;2508.23;en>>
+They were not mentioned as endangered persons in the bearing order, although all results of the investigation, and I can tell you it's the matching statements by the three victims, the documented injuries of the mother, the statements by the applicant's husband, which was not consistent with the investigation results, but was contradictory.
+
+<<2508.23;2514.67;en>>
+So all results at this time pointed to a serious risk for the children.
+
+<<2514.67;2544.23;en>>
+And to say the applicant herself seemed not to have been aware of the acute danger emanating from her husband in respect of the children is not only contrary to the facts, but it also tries to shift the responsibility principally placed on the state unto the applicant, a line of argument that was not only used by the chamber below, but also by the government of Austria and the observations as we could hear today.
+
+<<2544.23;2548.31;en>>
+Let me now refer to the risk assessment.
+
+<<2548.31;2553.59;en>>
+When issuing the bearing order, the police enumerated some risk factors.
+
+<<2553.59;2562.43;en>>
+However, these factors were not part of a specific system or a scientifically proven risk assessment tool.
+
+<<2562.43;2573.51;en>>
+All these risk factors listed in the bearing order were used by the police only with regard to the question of whether a bearing order should be imposed or not.
+
+<<2573.51;2582.59;en>>
+These risk factors were not taken into account in the decision on whether to impose pretrial detention or not.
+
+<<2582.59;2596.55;en>>
+As you can see in the annex 41, which I forwarded to the court, the bearing order listing the mentioned risk factors was not forwarded to the public prosecutor by the police.
+
+<<2596.55;2609.31;en>>
+And therefore, the risk factors were not taken into account when assessing the risk by the public prosecutor, the one who decides upon the pretrial detention.
+
+<<2609.31;2631.07;en>>
+Also, the decree of the Ministry of Justice from 2019, so it's a very new one, it shows that it was only in 2017 that it was agreed upon for all future cases of domestic violence that the police has to forward bearing orders to the public prosecutor's office from beginning of now.
+
+<<2631.07;2635.19;en>>
+This was not the standard procedure in 2012.
+
+<<2635.19;2643.75;en>>
+Up until now, I can say from my experience, it is not common practice despite the decree.
+
+<<2643.75;2652.95;en>>
+At the end of 2018 and beginning of 2019, we already heard there was an accumulation of femicides in Austria.
+
+<<2652.95;2657.11;en>>
+The number of femicides doubled in a few years.
+
+<<2657.11;2667.23;en>>
+Therefore, the government installed a screening group, which is very good, to analyze the murder and attempted murder cases in this period.
+
+<<2667.23;2678.03;en>>
+The experts came to the conclusion that the enforcement agents do not use a standardized tool, even regarding murder.
+
+<<2678.03;2688.19;en>>
+Also, it appeared that there is a reliance on the victim to actively provide all information.
+
+<<2688.19;2699.71;en>>
+Furthermore, there are risk factors that are never or hardly ever asked by the police, like for example, the access to firearms.
+
+<<2699.71;2709.63;en>>
+Also, the applicant was not explicitly asked by the police if her husband has access to a gun when interrogating her.
+
+<<2709.63;2714.31;en>>
+The police just had no indication, but they did not ask her.
+
+<<2714.31;2723.55;en>>
+If they had done so, she could have told them that her husband had repeatedly mentioned that a weapon was easy to find for him.
+
+<<2723.55;2726.59;en>>
+One call would be enough.
+
+<<2726.59;2736.23;en>>
+In fact, it took him only three days to organize one, as the murder was three days later.
+
+<<2736.23;2747.11;en>>
+Besides, he could have killed them with another weapon, a sharp knife from his Doner-K-Bab-Stahl, which he owned, or with his bare hands.
+
+<<2747.11;2755.87;en>>
+Also, we know that most murders in the family are done by using a knife, not a weapon.
+
+<<2755.87;2759.83;en>>
+So this is not the important point.
+
+<<2759.83;2770.03;en>>
+The researchers of this screening group propose the introduction of a risk assessment tool for law enforcement officers when intervening in cases of domestic violence.
+
+<<2770.03;2771.71;en>>
+I think this is a clear sign.
+
+<<2771.71;2774.35;en>>
+It's from 2019.
+
+<<2774.35;2796.71;en>>
+In summary, in assessing if a person's life is at risk and the perpetrator should be taken into pretrial detention, neither a standardized risk assessment tool designed for domestic violence nor any enumeration of specific risk factors is or was used by the public prosecutor's office.
+
+<<2796.71;2812.63;en>>
+But it is essential to point out that more important than the type of the chosen tool is the need to use it systematically and that the authorities also have a profound knowledge about domestic violence.
+
+<<2812.63;2818.95;en>>
+And there we come to the topic of the training of judges and prosecutors.
+
+<<2818.95;2828.43;en>>
+In 2019, the Austrian government initiated a task force called criminal law to improve the protection of victims.
+
+<<2828.43;2833.47;en>>
+120 experts were invited to make the recommendations.
+
+<<2833.47;2849.03;en>>
+According to the results of this task force, the experts pointed out that there is a lack of understanding of domestic violence due to a lack of awareness in the professional training of prosecutors and judges.
+
+<<2849.03;2852.43;en>>
+This was in 2019.
+
+<<2852.43;2869.23;en>>
+They also stated, 120 experts, they stated acts of violence that are considered serious in other areas, they tend to be assessed less if they are committed just in the context of domestic violence.
+
+<<2869.23;2884.11;en>>
+The current range of seminars on the topic of violence against women and children or domestic violence is not sufficient to provide a comprehensive understanding of the diverse and complex issue involved.
+
+<<2884.11;2888.87;en>>
+This is a quote of the task force report.
+
+<<2888.87;2917.55;en>>
+Although it is very good to hear that the two female public prosecutors who were briefly involved in this case were trained in the field of domestic violence, as the government stated in their observations, we have to focus on the fact that the male public prosecutor, the one who decided on his own on the question of the pretrial detention, you can see his name in the annexes, it's a man, not the women.
+
+<<2917.55;2927.91;en>>
+He had not received any specific training in the field of domestic violence as the government admitted in their submissions.
+
+<<2927.91;2942.37;en>>
+So in the present case, the lack of knowledge regarding the dynamics of violence led to a serious misjudgment or various serious misjudgments.
+
+<<2942.37;2948.07;en>>
+First of all, the Austrian authorities failed to identify the children as endangered persons.
+
+<<2948.07;2951.15;en>>
+We already heard that in the bearing order.
+
+<<2951.15;2964.95;en>>
+As the third party interventions show, violent men know that the children are the most important for their partners, and they kill joint children in order to hurt their partners.
+
+<<2964.95;2968.87;en>>
+This is why the applicant's husband threatened to kill the children.
+
+<<2968.87;2972.23;en>>
+He wanted to hurt his wife.
+
+<<2972.23;2978.35;en>>
+The killing of a child is always an act of aggression against the woman too.
+
+<<2978.35;2989.71;en>>
+This is why any risk assessment must address systematically the risk, not only for the women concerned, but also for the joint children.
+
+<<2989.71;3000.23;en>>
+And the authorities involved must fulfill their obligation to protect the children on the slightest suspicion that they might be at risk.
+
+<<3000.23;3012.91;en>>
+In addition, as mentioned before with reference to the court's case law, the perpetrator has unique access to the victim and knowledge also about the victim's daily routine.
+
+<<3012.91;3030.51;en>>
+Although domestic violence often takes place at home, as this is the arena of control and access, however, access and not the location is a defining feature of where the violence occurs.
+
+<<3030.51;3044.87;en>>
+Since the perpetrator was banned from home, but not from school, as there were no bearing orders for schools at the time, he knew that he had access to his children there, so the risk was evident.
+
+<<3044.87;3047.91;en>>
+He knew where to find them.
+
+<<3047.91;3061.43;en>>
+Also due to a lack of knowledge regarding the dynamics of violence, the Austrian authorities underestimated the dangerous threats as indication of real danger.
+
+<<3061.43;3075.79;en>>
+As the third party interveners, most of them, show, it is regularly argued that the threatening person has often made threats in the past, and none of these has yet been carried out.
+
+<<3075.79;3079.39;en>>
+So did the chamber below, as well as the government.
+
+<<3079.39;3089.27;en>>
+According to the expertise of the third parties, this is incorrectly interpreted as a sign that the threats will not be carried out.
+
+<<3089.27;3097.67;en>>
+In fact, most of the homicides that are committed are preceded by threats.
+
+<<3097.67;3131.55;en>>
+Also due to a lack of knowledge regarding the dynamics of violence, but also due to a lack of knowledge concerning the psychology of victims and perpetrators, the Austrian authorities expected the applicant to be a perfect victim, who reports the crime immediately after the first insult, who always contacts the police when the husband shows his violent behavior, who documents all incidents and requests a temporary restraining order on herself on the same day as the bearing order.
+
+<<3131.55;3149.27;en>>
+This approach disregards the dynamics of domestic violence and the imbalance of power between men and women, often given in domestic violence situations, and the effect this has on the victim's behavior towards the outside world.
+
+<<3149.27;3166.91;en>>
+Not only was the applicant afraid of potential retaliation acts by her husband, but she was also ashamed of exposing their problems to the outside world, like, for example, to a pharmacist, as the government suggested she should have done on the weekend.
+
+<<3166.91;3172.35;en>>
+Furthermore, in the present case, the applicant did take a cut.
+
+<<3172.35;3174.87;en>>
+She did take actions.
+
+<<3174.87;3197.99;en>>
+On Monday, 21st of May, 2012, the first working day after the rape, the applicant contacted immediately her psychosocial counselor from the protection center, with whom she was in contact with since she had first reported her husband in 2010.
+
+<<3197.99;3209.31;en>>
+Together, they decided to find a way to break out of the violence and the relationship immediately after the last escalation of violence.
+
+<<3209.31;3227.39;en>>
+The next day, on Tuesday, 22nd May, the applicant, supported by her psychosocial counselor, of course, that helps a lot, took the first chance available to her and filed for divorce at the district court, right before she went to the police.
+
+<<3227.39;3240.11;en>>
+She told the divorce judge about the years of violence she had experienced and that her husband threatened to harm her and the children because he could not accept her leaving him.
+
+<<3240.11;3247.15;en>>
+The government's claim in the observation that children being at risk was not an issue when the applicant filed for divorce.
+
+<<3247.15;3248.83;en>>
+This is not correct.
+
+<<3248.83;3259.79;en>>
+As seen in the divorce file on Act 6, the applicant stated that her husband threatens to kill the children, so it was an issue, even in the divorce.
+
+<<3259.79;3265.63;en>>
+She had told the judge that she was in great fear and wanted her husband to be banned.
+
+<<3265.63;3281.75;en>>
+Despite these circumstances, and although the divorce judge would have been obliged to inform the applicant that she could file for a restraining order on the spot with her, the judge failed to do so.
+
+<<3281.75;3301.99;en>>
+Apart from that, the applicant herself set an appointment with her psychosocial counselor for Friday, 25th May, to prepare an application for such a temporary restraining order, but on the same day, her son was shot.
+
+<<3301.99;3318.15;en>>
+To say that the applicant herself probably became aware of the risk her husband posed to the children only gradually, as the government did in their observations, is therefore an outflow of unawareness of the dynamics of domestic violence.
+
+<<3318.15;3320.95;en>>
+Victims must be empowered.
+
+<<3320.95;3331.63;en>>
+They must not be left alone with the sole responsibility for their own security, often not even in a position to make use of all the protective measures.
+
+<<3331.63;3338.67;en>>
+In a situation like this, the responsibility to protect her lies with the authorities.
+
+<<3338.67;3355.67;en>>
+But in case of the applicant, she herself was made responsible by the authorities for not having done everything possible to prevent the murder of her own son, since she did not apply for a temporary restraining order in the three days before the murder.
+
+<<3355.67;3363.03;en>>
+But the judge did not help her, and also, there had been a long time for her left to do so.
+
+<<3363.03;3369.27;en>>
+As a third party intervention show, this phenomenon is known as victim blaming.
+
+<<3369.27;3379.39;en>>
+The victim does not have any responsibility for a renewed violence, which could even result in homicide.
+
+<<3379.39;3386.87;en>>
+And she must not be held responsible for not immediately requesting a temporary restraining order.
+
+<<3386.87;3399.71;en>>
+The perpetrator is always responsible for their own actions, and the state has the obligation to provide the best possible protection for the victims.
+
+<<3399.71;3419.11;en>>
+Also due to a lack of knowledge regarding the dynamics of violence, the authorities came to the conclusion that the applicant's husband posed no threat to the members of his family, because he had presented himself as calm, polite, and cooperative.
+
+<<3419.11;3425.19;en>>
+According to the third party interveners, this constitutes a grave error.
+
+<<3425.19;3439.75;en>>
+A closer analysis with the perpetrators shows that they often appear to be very adapted and controlled to the outside world, and can accept subordination to the authorities, like to the police.
+
+<<3439.75;3447.03;en>>
+But this does not, this does on no account mean that they are not dangerous.
+
+<<3447.03;3455.63;en>>
+In the microcosm of the family, they maintain their power over the partners with violence.
+
+<<3455.63;3469.19;en>>
+The assessment of the level of risk or danger cannot depend on whether the perpetrator presents themselves as aggressive or as cooperative to the officers carrying out the investigation.
+
+<<3469.19;3481.43;en>>
+Otherwise, the arrest or placing under pretrial detention would always be dependent on how well an accused person manages to sell himself.
+
+<<3481.43;3492.67;en>>
+Also the fact that the applicant's husband contradicted himself again and again in his statement should have shown the authorities that he's not trustworthy.
+
+<<3492.67;3508.31;en>>
+And finally, I wanted to point out that the Austrian authorities are also of the opinion that in applying for a restraining order can provide adequate protection in cases of severe violence and threat.
+
+<<3508.31;3516.59;en>>
+As the third party interventions show, it often takes one or two weeks before a restraining order is actually issued.
+
+<<3516.59;3521.71;en>>
+It thus does not enable the immediate protection of victims.
+
+<<3521.71;3539.31;en>>
+In any case, as repeated homicide cases show, as the CEDAW cases in Austria, protection orders by the police or civil court are not strong and effective enough to prevent murder and should not be used instead of pretrial detention.
+
+<<3539.31;3554.43;en>>
+In practice, however, the protection against violent centers reports ever and ever again cases in which women have been killed despite the issuing of a police bearing order to enter the home.
+
+<<3554.43;3574.75;en>>
+And also according to Graveo, even in cases of severe violence and threat where a woman and her children are clearly at risk, the prosecution services rely on a civil law protection order to ensure their safety rather than opting for a pretrial detention.
+
+<<3574.75;3592.59;en>>
+So this is why Graveo held in this connection that the authorities should step up measures to assess the real risk of re-offending in domestic violence cases in order to make more appropriate use of pretrial detention where warranted.
+
+<<3592.59;3603.27;en>>
+In replying to Graveo's findings, it's very interesting the Austrian government recognized the need to further improve assessment.
+
+<<3603.27;3609.39;en>>
+So now finally, I would like to respond to the court's questions concerning women's shelters.
+
+<<3609.39;3612.31;en>>
+There was a question about that.
+
+<<3612.31;3626.63;en>>
+The applicant is not aware of any legal regulation in which cases victims of domestic violence are advised to move into a woman's shelter by the police, especially in 2012.
+
+<<3626.63;3637.15;en>>
+It should be noted, however, that even if the applicant had moved to a woman's shelter with her children, her husband would have caught her son at school and killed him anyway.
+
+<<3637.15;3651.47;en>>
+Due to compulsory school attendance, the children would nevertheless have continued to go to the same school, regardless of whether they stay at home with their grandparents or in a woman's shelter.
+
+<<3651.47;3663.51;en>>
+Also, the woman's shelters is not equipped with the necessary personal and financial resources to provide protection outside the shelter.
+
+<<3663.51;3677.59;en>>
+In 2013, a woman was even stabbed to death in front of a woman's shelter in Vienna on the brightest day on the open street in front of the door of the woman's shelter.
+
+<<3677.59;3688.83;en>>
+In view of the short time regarding the violation of Article 3, 8, and 14, as well as the claims for compensation, I would like to refer to the written statements.
+
+<<3688.83;3706.11;en>>
+And let me close my pleadings by saying that legal uncertainty regarding the standards to be applied when protecting victims of domestic violence can lead to a decline in the level of protection the state affords them.
+
+<<3706.11;3726.19;en>>
+The gender's judgment below has caused such uncertainty since it was in contradiction to the standards set in Talpis and stood in sharp contrast to the judgment Bolodina delivered only a few days later.
+
+<<3726.19;3730.19;en>>
+A negative development can already be observed in Austria.
+
+<<3730.19;3745.17;en>>
+The legislation allowing for bearing orders, including schools of endangered children, that was adopted in 2013 following the murder of the applicant's son, was already abolished again in 2019.
+
+<<3745.17;3750.95;en>>
+There are no bearing orders anymore for schools, but rather a ban on the child.
+
+<<3750.95;3758.05;en>>
+So it's up to the child to call the police and tell the police, my father, the perpetrator, is standing in front of my school.
+
+<<3758.05;3760.11;en>>
+Please bring him away.
+
+<<3760.11;3771.59;en>>
+I hope that the Grand Chamber will set the record straight and hold the government of Austria account and therefore affect the protection of victims of lethal domestic violence.
+
+<<3771.59;3771.59;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<3774.5;3778.5;en>>
+Thank you very much indeed, and I thank both parties for their submissions.
+
+<<3778.5;3784.26;en>>
+I confirm that both audio and video was clear and acceptable.
+
+<<3784.26;3788.18;en>>
+I now turn to my fellow colleagues.
+
+<<3788.18;3788.18;en>>
+Judge Pavli, please, for your question.
+
+[[Judge;Darian Pavli]]
+
+<<3794.84;3798.08;en>>
+Thank you, Mr. President.
+
+<<3798.08;3800.08;en>>
+Can you hear me okay?
+
+<<3800.08;3801.36;en>>
+Yes.
+
+<<3801.36;3810.32;en>>
+I have two questions that are addressed to both sides, two legal questions, and then a factual question for the government.
+
+<<3810.32;3814.68;en>>
+The first legal question is about protection at school.
+
+<<3814.68;3840.62;en>>
+Now, both sides have placed some emphasis on this issue, the applicants arguing that it was not possible to extend the barring order, the police barring order, immediately to the school, and the argument arguing on the other side, conversely, that the applicant could have applied for a judicial temporary protection order which would apply to the school and that they did not do that.
+
+<<3840.62;3842.18;en>>
+My question is the following.
+
+<<3842.18;3854.92;en>>
+Both of those positions assume that a barring order or a protection order of some sort covering the school would provide adequate protection in the circumstances.
+
+<<3854.92;3857.38;en>>
+And my question is, why do you assume that?
+
+<<3857.38;3870.98;en>>
+Why do you assume that a legal order would prevent a father in a mental situation, in an emotional situation, who is prepared to kill his own children?
+
+<<3870.98;3879.12;en>>
+My second question goes to the relationship between Article 2 and Article 5 of the Convention.
+
+<<3879.12;3896.02;en>>
+Now, I am aware, if I understand correctly today, from the government submissions, that the government's case rests on the argument that no real and immediate threat was discernible to the authorities at the time, at least with respect to the children.
+
+<<3896.02;3911.22;en>>
+But please, for the sake of argument, let's assume that a real and immediate threat was discernible, but at the same time, that legal national conditions for detaining the husband were not met.
+
+<<3911.22;3919.84;en>>
+And so, in a way, let's assume that a case like this fell somewhere in the middle.
+
+<<3919.84;3944.82;en>>
+And my question is, what would the Article 2 obligations of the government be in that situation, when there is a threat, but not enough to meet the detention standard, or any restriction of liberty of the alleged threat, source of the threat?
+
+<<3944.82;3952.32;en>>
+My final question is for the government, but the applicant is, of course, welcome to comment.
+
+<<3952.32;3966.32;en>>
+If I understood correctly, government's counsel today argued that at the time of the issuing of the barring order, the police did use some form of standardized risk assessment.
+
+<<3966.32;3969.98;en>>
+And my question is, what was the standard?
+
+<<3969.98;3980.08;en>>
+On what kind of standard, whether nationally developed or internationally developed and widely recognized standard that risk assessment was based?
+
+<<3980.08;3991.42;en>>
+And if you could also comment, this is related, on a recent submission by the applicant on 12th of June, so about a week ago.
+
+<<3991.42;3993.96;en>>
+The applicant submitted an Annex 43.
+
+<<3993.96;4000.26;en>>
+It's an article from the Journal of Police Science and Police Practice, 2015.
+
+<<4000.26;4017.62;en>>
+And this article describes that after the events in this case, so sometime between late 2013 and June 2014, the Austrian authorities developed and tested a risk assessment tool known as SALFAG.
+
+<<4017.62;4031.56;en>>
+It was tested in three provinces, in Vienna, Upper Austria, and Vorarlberg, but that it was then decided not to roll it out nationally and is not in use currently.
+
+<<4031.56;4046.22;en>>
+And according to the author of this article, the main reason for that is that it would add about 10 to 15 minutes of time to the consideration of cases of this nature by the police.
+
+<<4046.22;4056.12;en>>
+And so if you could please be so kind to comment on whether this article is correct in its assertions.
+
+<<4056.12;4056.12;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4059.93;4059.93;en>>
+Thank you very much indeed, Judge Lemmens.
+
+[[Judge;Paul Lemmens]]
+
+<<4063.85;4065.89;en>>
+Thank you very much.
+
+<<4065.89;4072.69;en>>
+I would like to follow up somewhat on the first question that my colleague just asked.
+
+<<4072.69;4079.05;en>>
+There was a barring order here in this case, and it applied to the homes.
+
+<<4079.05;4092.09;en>>
+It would have been possible under the law to obtain a temporary restraining order, but as I understand it, it would still apply to the homes, but could be for a longer period of time.
+
+<<4092.09;4103.09;en>>
+And there would also be a possibility of obtaining a temporary injunction, and that could be extended then to other places, including the school.
+
+<<4103.09;4128.05;en>>
+My question is, to what degree is that a more effective protection, not only for the reason that my colleague asked, namely that it is another legal act, but why would it not be possible for a violent husband to kill a person outside the places that are mentioned in all of these orders?
+
+<<4128.05;4138.41;en>>
+We are concentrating on the school because the murder happened there, but would it not have been possible to find another place to kill the children?
+
+<<4138.41;4138.41;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4140.76;4143.08;en>>
+Thank you very much, Judge Kucsko-Stadlmayer.
+
+[[Judge;Gabriele Kucsko-Stadlmayer]]
+
+<<4144.84;4146.8;en>>
+Thank you, Mr. President.
+
+<<4146.8;4151.76;en>>
+I have questions to both parties, and I start with the applicants.
+
+<<4151.76;4154.68;en>>
+First, I recall the sequence of events.
+
+<<4154.68;4161.92;en>>
+The applicant reported her husband to the police on 22nd May 2012, 1.05 PM.
+
+<<4161.92;4167.36;en>>
+The tragic murder was, as you all know, committed on 25th May by 8.10 AM,
+
+<<4167.36;4170.16;en>>
+a bit less than three days later.
+
+<<4170.16;4189.16;en>>
+Now, at what point during these three days do you think the police authorities should have become aware that the applicant's husband was a danger to her children, even in their school, and that it was not sufficient to bar him from the common flat already on 22nd May, 1.05 PM,
+
+<<4189.16;4191.4;en>>
+or at a later moment?
+
+<<4191.4;4203.64;en>>
+And I ask this because the applicant said in her police interview immediately after the murder on 25th May that she knew, and I quote, she knew that something like this would happen.
+
+<<4203.64;4220.6;en>>
+And she added that for the last two days, this means on 23rd and 24th May, her husband, and I quote again, had called her several times a day because he always wanted to meet her and the children together.
+
+<<4220.6;4225.84;en>>
+Why did the applicant not report these frequent phone calls to the police?
+
+<<4225.84;4232.52;en>>
+And another question, did she tell her consultant from the Center for Protection from Violence about these phone calls?
+
+<<4232.52;4246.28;en>>
+And I remind you that this consultant, immediately after the murder, stated explicitly that she, and I quote, the consultant, had never expected the applicant's husband to commit such an act.
+
+<<4246.28;4249.4;en>>
+This does not quite match.
+
+<<4249.4;4268.76;en>>
+And my question to the government are, the applicant instituted state liability proceedings in 2014, and her claim was, as you are all aware, that the public prosecutor's office should have requested that her husband be held in pretrial detention.
+
+<<4270.08;4291.4;en>>
+Now, my question, on the evening of 22nd May, when the public prosecutor decided not to take the applicant's husband into pretrial detention, he acted on the basis of various police reports that he had received by email in the late evening of the same day, including the applicant's witness statement.
+
+<<4291.4;4297.92;en>>
+Now, was this sufficient information for the public prosecutor's decision on pretrial detention?
+
+<<4297.92;4303.8;en>>
+Or should he have interviewed the applicant right away, for instance, on the next day?
+
+<<4303.8;4309.0;en>>
+Would this have changed the prosecutor's assessment concerning pretrial detention?
+
+<<4309.0;4313.24;en>>
+And what is the general law and practice in such cases?
+
+<<4313.24;4336.88;en>>
+And my last question, following up to what I asked the applicant, if the public prosecutor had known that the applicant had received frequent phone calls by her husband on 23rd and 24th May, and his wish to see his wife and children urgently, could this have changed their mind with regard to the necessity of pretrial detention?
+
+<<4336.88;4336.88;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4341.0;4342.8;en>>
+Thank you very much indeed, Judge Koskelo.
+
+[[Judge;Pauliine Koskelo]]
+
+<<4345.38;4347.74;en>>
+Thank you very much.
+
+<<4347.74;4377.32;en>>
+I understand from the applicant's written and oral submissions that the applicant is advocating more frequent recourse to detention of the alleged perpetrator in the context of domestic violence for the purposes of effective prevention.
+
+<<4377.32;4391.54;en>>
+I would like you to comment on how this position would accord with the provisions and the standards that are applicable under Article 5 of the Convention.
+
+<<4391.54;4405.86;en>>
+And in particular, are you actually suggesting or implying that the court should review and reconsider the current interpretation of the provisions governing detention under Article 5?
+
+<<4409.02;4416.42;en>>
+Of course, the government is also welcome to comment on this issue.
+
+<<4416.42;4441.74;en>>
+And in this context also, I would be curious to hear your comments about how effectively an increased recourse to detention would actually ensure effective deterrence, because detention cannot be indefinite.
+
+<<4441.74;4456.82;en>>
+So is there a risk that even detention would actually postpone further acts rather than effectively prevent them?
+
+<<4456.82;4456.82;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4457.03;4459.95;en>>
+Thank you very much.
+
+<<4459.95;4460.95;en>>
+Vice President Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<4464.03;4465.03;en>>
+Thank you very much.
+
+<<4465.03;4487.51;en>>
+We have in our file that actually the husband has been convicted of bodily harm and dangerous threatening behavior just one year before the incident and actually he got three months imprisonment that was suspended for three years with probation and what he has done he actually has done during the probation period.
+
+<<4487.51;4499.99;en>>
+And I'm not sure, we have heard that discussions around the bearing order and that he never violated the bearing order but actually he violated the conditions of the suspended sentence.
+
+<<4499.99;4521.51;en>>
+So if you could explain to what extent in which way domestic authorities are actually obliged to take that into consideration when they are deciding upon the imposing pretrial detention or bearing orders or any kinds of restraint related.
+
+<<4521.51;4536.57;en>>
+Second question that I have is related to the last part of the Osman test which says which judge reasonably might have been expected to avoid that risk.
+
+<<4536.57;4540.23;en>>
+Reasonably might have been expected to avoid that risk.
+
+<<4540.23;4550.87;en>>
+So what is the causal link or should be the causal link between what has happened and of what could have prevented.
+
+<<4550.87;4552.83;en>>
+How closely that has to be connected.
+
+<<4552.83;4553.83;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<4554.81;4556.29;en>>
+Thank you very much, Judge Felici.
+
+[[Judge;Gilberto Felici]]
+
+<<4559.29;4560.29;en>>
+Thank you, Mr. President.
+
+<<4560.29;4567.65;en>>
+But Judge Turković just quoted in his first question my question, so I'm satisfied.
+
+<<4567.65;4567.65;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4568.56;4569.48;en>>
+George Poláčková.
+
+[[Judge;Alena Poláčková]]
+
+<<4571.14;4575.38;en>>
+Thank you very much. I have only one factual question concerning the applicant.
+
+<<4575.38;4581.14;en>>
+I don't want to blame the victim. I know that they are in a very, very difficult position.
+
+<<4581.14;4596.02;en>>
+But I wonder if I'm not mistaken, I didn't find in the statement of facts any note regarding the character, the temper and aggressive behavior of husband towards her and her children.
+
+<<4596.02;4602.2;en>>
+And on the other side, his very polite attitude towards the others.
+
+<<4602.2;4625.9;en>>
+So I would like to ask why, if she was able, the applicant, if she was able to report her husband to the police on Tuesday, 22nd May 2012, and she was able to speak about really very, very awkward situation, very intimate, etc., etc., why she did not mention also this fact?
+
+<<4627.18;4627.82;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<4629.72;4630.6;en>>
+Judge Elósegui?
+
+[[Judge;María Elósegui]]
+
+<<4633.68;4635.68;en>>
+Thank you, Mr. President.
+
+<<4635.68;4645.56;en>>
+I have only some factual question for the applicant and also for the government.
+
+<<4645.56;4650.2;en>>
+It's about culture.
+
+<<4650.2;4665.64;en>>
+The government has said that in the victims, the violence, domestic violence, there is also some advice related with the cultural backgrounds.
+
+<<4665.64;4673.24;en>>
+Then I want to know if in this case, that's for the government, this advice was done.
+
+<<4673.24;4683.4;en>>
+And for the applicant also, I want to know how many years the applicant was living in Austria.
+
+<<4683.4;4697.16;en>>
+She was born there or not, how she manages in German, and what was the level of studies and her job.
+
+<<4697.16;4699.24;en>>
+That's quite factual.
+
+<<4699.24;4699.74;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<4701.04;4702.72;en>>
+Thank you very much.
+
+<<4702.72;4706.36;en>>
+There are no further questions.
+
+<<4706.36;4711.36;en>>
+We will now suspend the hearing until 11.45,
+
+<<4711.36;4715.2;en>>
+so for just over 25 minutes.
+
+<<4715.2;4719.34;en>>
+We will then come back for the answers of the parties.
+
+<<4719.34;4720.34;en>>
+So the hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4879.63;4880.39;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<4885.74;4886.42;en>>
+Good morning again.
+
+<<4886.42;4888.9;en>>
+The hearing is resumed.
+
+<<4888.9;4889.9;en>>
+I call Mr. Tichy for the government.
+
+[[Government;GR3]]
+
+<<4893.39;4895.59;en>>
+Thank you, President.
+
+<<4895.59;4898.47;en>>
+We have carefully prepared answers to the questions.
+
+<<4898.47;4904.15;en>>
+And as to the first set of questions, I would like to give the floor to my colleague from the Ministry of Justice, Mr. Pesendorfer.
+
+[[Government;GR1]]
+
+<<4910.22;4927.22;en>>
+President, distinguished members of the court, I would like to respond to the questions by judges Pavey and Lemons, recording the protection through temporary injunctions.
+
+<<4927.22;4932.14;en>>
+Let me give you a quick overview on temporary restraining orders in Austria.
+
+<<4932.14;4939.44;en>>
+With such an order, a person can apply for protection from violence in homes.
+
+<<4939.44;4947.18;en>>
+But you can also apply for a prohibition of contact in any form with the applicant.
+
+<<4947.18;4956.7;en>>
+And you can apply for a prohibition on entering other places than the home.
+
+<<4956.7;4965.5;en>>
+And since last year, you can apply also for a prohibition on approaching the applicant closer than a prescribed distance.
+
+<<4965.5;4989.34;en>>
+In this case, there was a great opportunity that the court would have immediately delivered a decision on an application by the applicant to issue a temporary restraining order or a temporary injunction pursuant to section 382E of the Enforcement Act covering a children's school.
+
+<<4989.34;4995.36;en>>
+In urgent matters, the court has to decide without delay.
+
+<<4995.36;5002.96;en>>
+The applicant showed up at court when filing for divorce with her counselor.
+
+<<5002.96;5014.38;en>>
+The judge dealing with the divorce file is the same judge that is competent in matters regarding the violence thing.
+
+<<5014.38;5021.2;en>>
+The protection through such a temporary restraining order could not take any risk.
+
+<<5021.2;5027.68;en>>
+But it would and it could minimize the risk to a minimum.
+
+<<5027.68;5034.42;en>>
+The respondent, and let me point it out, obeyed to the barring order in 2010.
+
+<<5034.42;5045.66;en>>
+And he did so in 2012 as well because he did not enter the home of the family or the home of the grandparents of the children.
+
+<<5045.66;5064.42;en>>
+If a temporary restraining order would have been delivered, also the school would have been, also the school and the teachers would have been informed of this order, especially by the applicant or also by the counselor of the protection center.
+
+<<5064.42;5070.1;en>>
+In this case, the teacher would not have handed over the children to their father.
+
+<<5070.1;5085.9;en>>
+And also because of the possible prohibition to contact his children, it can be assumed that the respondent would not have contacted his children and that he would have obeyed to this order.
+
+<<5085.9;5085.9;en>>
+Thank you.
+
+[[Government;GR3]]
+
+<<5088.52;5092.12;en>>
+I thank my colleague from the Ministry of Justice and I would now like to...
+
+<<5092.12;5097.56;en>>
+Minister of Interior, Mr. Andre, please, you have the floor.
+
+[[Government;GR2]]
+
+<<5099.88;5102.44;en>>
+Thank you, President.
+
+<<5102.44;5125.84;en>>
+Distinguished members of the court, I would like to answer to the question of Judge Pavli concerning the danger management and the tool so-called SALFAC was also mentioned in annex 43, the applicant sent to the court.
+
+<<5125.84;5134.48;en>>
+Following our written observations, I would like to point out that the risk assessment is concerned.
+
+<<5134.48;5160.12;en>>
+We have provided information and material for this in our written observations and as standards in the police work, in the report from the police to the public prosecutor, also all the facts in risk assessment are written down.
+
+<<5160.12;5186.2;en>>
+It's always the role of the police is to make this danger management because the task of the security police act, the task for the especially the prevention protection has always to be based on certain facts.
+
+<<5186.2;5192.12;en>>
+Then the police officers have to do their danger management.
+
+<<5192.12;5202.48;en>>
+And so we use always over the years a lot of tools and a lot of measures.
+
+<<5202.48;5215.04;en>>
+And one was SALFAC, it was concept paged by the Austrian Minister of the Interior, especially by the Department for Psychological Measures.
+
+<<5215.04;5219.64;en>>
+And we tested this system in some provinces.
+
+<<5219.64;5241.72;en>>
+And now, after that, this risk assessment and danger management tools are also under evaluation as others and everything comes to the formula for the...
+
+[[JudgeP;Robert Spano]]
+
+<<5241.72;5241.72;en>>
+Mr. Andre?
+
+<<5241.64;5246.92;en>>
+Mr. Andre, may I stop you just for a minute?
+
+<<5246.92;5249.32;en>>
+Is the applicant having problems listening?
+
+[[Applicant;AP2]]
+
+<<5249.32;5250.92;en>>
+No.
+
+[[JudgeP;Robert Spano]]
+
+<<5250.92;5252.48;en>>
+Okay, good.
+
+<<5252.48;5253.96;en>>
+Please continue, Mr. Andre.
+
+<<5253.96;5253.96;en>>
+Sorry for that.
+
+[[Government;GR2]]
+
+<<5256.76;5259.0;en>>
+So, yes, that was my answer.
+
+<<5259.0;5263.84;en>>
+So this is always an evaluation of these tools.
+
+<<5263.84;5263.84;en>>
+Thank you.
+
+[[Government;GR3]]
+
+<<5267.79;5270.79;en>>
+Mr. President, distinguished members of the court,
+
+<<5270.79;5274.91;en>>
+let me now try to reply to some other questions.
+
+<<5274.91;5288.51;en>>
+There is the question of Judge Kuzco-Stadelmayer about the interview not held by the public prosecutor when he became active.
+
+<<5288.51;5293.99;en>>
+And the question was why he did not immediately interview the husband.
+
+<<5293.99;5299.23;en>>
+The answer to this is that it was not felt necessary.
+
+<<5299.23;5304.51;en>>
+The public prosecutor disposed of all the relevant information.
+
+<<5304.51;5313.81;en>>
+As we have told the court, there have been intense discussions, repeated discussions, between the police and the public prosecutor.
+
+<<5313.81;5323.95;en>>
+So at that time of the procedure, it was not necessary for the public prosecutor to have an immediate interview with the husband.
+
+<<5323.95;5346.55;en>>
+Let me now also come to a question posed by Judge Turkovich about the fact that the husband once again became criminally active during the probation period and whether this had any consequences under Austrian law.
+
+<<5346.55;5351.63;en>>
+I can tell you that, of course, the authorities were aware of this fact.
+
+<<5351.63;5359.67;en>>
+It was part of their assessment, of their risk assessment in this particular case.
+
+<<5359.67;5371.83;en>>
+It is not the case in Austrian law that if you commit further crime during a probation period that you are immediately re-arrested.
+
+<<5371.83;5375.77;en>>
+So in that case, that was not felt necessary.
+
+<<5375.77;5379.79;en>>
+There is no automatic re-imprisonment.
+
+<<5379.79;5389.75;en>>
+But all the circumstances are taken into consideration in the special risk assessment that is taken in this moment.
+
+<<5392.59;5400.11;en>>
+There was also a question by Judge Turkovich about the causal link between the various episodes that had happened.
+
+<<5400.11;5409.47;en>>
+And here, we have to say once again that the authorities at the decisive time were only aware of one previous episode.
+
+<<5409.47;5411.83;en>>
+That is the one of 2010.
+
+<<5411.83;5415.79;en>>
+And so this was taken into consideration.
+
+<<5415.79;5419.43;en>>
+But it was only one previous episode.
+
+<<5419.43;5429.19;en>>
+Now, finally, a couple of questions related to Article V of the European Convention.
+
+<<5429.19;5439.63;en>>
+And here, I have to say that, of course, we are very careful with implementing Article V of the European Convention.
+
+<<5439.63;5444.67;en>>
+And we are very careful with putting people into detention.
+
+<<5444.67;5448.11;en>>
+We are now here in a case relating to Article II.
+
+<<5448.11;5455.79;en>>
+If we were less careful with Article V, I think we would find ourselves very often in front of this distinguished court with Article V cases.
+
+<<5455.79;5463.39;en>>
+So we very carefully examine in each individual case the reasons for detention, as was done in this case.
+
+<<5463.39;5491.15;en>>
+And with all the available information, it was not reasonably possible for the authorities at the time to, ah, I hear myself again, at the time to assume and be sure that there was a risk of a repetition of the same crime.
+
+<<5491.15;5498.75;en>>
+Now, Article V is a very, very important provision.
+
+<<5498.75;5502.19;en>>
+And as I said, we are very careful in applying it.
+
+<<5502.19;5530.63;en>>
+We rely in this context, in particular, on the Sadi judgment of your court, which says that the detention of an individual is such a serious measure that it is justified only as a last resort where other, less severe measures have been considered and found to be insufficient to safeguard the individual or public interest which might require that the person concerned be detained.
+
+<<5530.63;5538.59;en>>
+So it is a measure of last resort and in the very careful assessment of the Austrian authorities at the time.
+
+<<5538.59;5547.83;en>>
+And with all the knowledge they had of the case at the time, it was not felt necessary to detain the husband.
+
+<<5547.83;5556.63;en>>
+Now, my final words are also a comment on what we have heard in the intervention of the representative of the applicant.
+
+<<5556.63;5565.07;en>>
+We have heard a lot of things that are now, unfortunately, known with hindsight.
+
+<<5565.07;5570.87;en>>
+But what is the decision the court has to take here at the moment?
+
+<<5570.87;5581.79;en>>
+It is the question, what could have reasonably been done by the Austrian authorities at the time with the knowledge they have had at the time?
+
+<<5581.79;5589.59;en>>
+And I think we have illustrated that they have had a lot of information, that have used this information.
+
+<<5589.59;5601.39;en>>
+But it was not to be expected that in this particular case, the husband would go to the school and kill his son.
+
+<<5601.39;5611.27;en>>
+It was not part of something the authorities could reasonably have known, not something that they should have known, because it was impossible.
+
+<<5611.27;5635.15;en>>
+And our strong argument in this context is that, although our authorities are well-trained and well-informed about these things, the special experts from the Centers against Violence of Women and Domestic Violence, these experts involved, they came to the same result as the Austrian authorities.
+
+<<5635.15;5656.15;en>>
+And I have mentioned in my statement that after the murder, the lady from the intervention center, and she repeatedly said to the police that she had never imagined it possible that the husband would commit such a crime that he would go to the school and kill his son.
+
+<<5656.15;5668.71;en>>
+This, President, distinguished members of the court, brings me to the end of the presentation of the Austrian case and the position of the Austrian government regarding this case.
+
+<<5668.71;5684.31;en>>
+And with all we have heard also today, and with all the arguments we have brought to the attention of the court, we now respectfully request the Grand Chamber to uphold the judgment of the chamber.
+
+<<5684.31;5684.31;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<5686.43;5688.43;en>>
+Thank you very much indeed, Mr. Tichy.
+
+<<5688.43;5692.15;en>>
+We now turn to the representative of the applicant, Ms. Aziz.
+
+<<5692.15;5692.15;en>>
+You have the floor.
+
+[[Applicant;AP1]]
+
+<<5694.17;5698.17;en>>
+Thank you very much, Mr. President, honourable judges.
+
+<<5698.25;5702.73;en>>
+I would turn now to Judge Pavli's question.
+
+<<5702.81;5718.49;en>>
+If a risk at school would have been discernible to the authorities, they could have taken away the easy access of the perpetrator to them and therefore make it more complicated to reach the children and to harm them.
+
+<<5718.57;5727.41;en>>
+In addition, especially in regard to children, all relevant contact persons, for example the teachers, should have been informed of the danger.
+
+<<5727.49;5741.77;en>>
+Also, they could have had an eye on the children and not allowed, for example, the father to go into the classroom as he did and ask the son to come out so that he can give him some money for lunch.
+
+<<5741.85;5759.21;en>>
+Although in general it is impossible to foresee every possible action of the perpetrator and therefore to know if he hadn't turned to another place, the state's obligation under the Convention demands that the most likely scenarios of violation are prevented.
+
+<<5759.29;5767.89;en>>
+And of course, there would have been the possibility also for him to go to the playground and pass the child there.
+
+<<5767.97;5784.73;en>>
+He knows the daily life of his children, but of course, even though there was a bearing order for their home, the applicant was so afraid of her husband that she decided to sleep a few days at her parents' home.
+
+<<5784.81;5790.49;en>>
+That's why the police also issued the bearing order there, because they told the police, we will stay there.
+
+<<5790.57;5797.93;en>>
+They stayed at home most of the time, but of course, due to compulsory school, they had to go to the school.
+
+<<5798.01;5802.81;en>>
+And even if they had went to a women's shelter, that would have been the same situation.
+
+<<5802.81;5814.25;en>>
+But nevertheless, a bearing order is never sufficient or enough in cases of lethal risk.
+
+<<5814.33;5843.33;en>>
+And if we look at this perpetrator, who had a very unstable mental condition and he was banned from home, he was in a really difficult situation, he had lost everything and therefore nothing to lose, it would have never been a burden for him to enter the school anyways or pass his child after the child goes home after school.
+
+<<5843.41;5851.97;en>>
+In these cases, only pre-trial detention can prevent the children from their death.
+
+<<5852.05;5866.57;en>>
+Therefore, our strongest argument is not only that the bearing order couldn't be issued at the time because of the legal circumstances, but it would have never been enough.
+
+<<5866.69;5877.89;en>>
+So, to the next question of Judge Pavli, concerning Article 2 and 5, this is also a question from Judge Koskello.
+
+<<5877.97;5883.93;en>>
+No, we are not suggesting that the court should reconsider the current provision of Article 5.
+
+<<5884.01;5892.05;en>>
+However, Article 5 provides for detention when it is necessary to prevent someone from committing an offence.
+
+<<5892.13;5905.85;en>>
+If the Austrian authorities had properly considered all the relevant facts, detention would have been possible and even necessary, especially given the perpetrator's history and suspended sentence.
+
+<<5905.93;5909.61;en>>
+He was on probation and still did what he did.
+
+<<5909.69;5921.05;en>>
+So, as a result, putting the applicant's husband in pre-trial detention would have not gone against the convention standards under Article 5.
+
+<<5921.13;5932.85;en>>
+The perpetrator's rights need of curse to be respected, but cannot supersede women's and children's rights to live and physical and mental integrity.
+
+<<5932.93;5935.53;en>>
+This is also what SEDO says, what Scriabio says.
+
+<<5935.61;5941.61;en>>
+This is internationally known and also by the case law of the court.
+
+<<5941.61;5946.45;en>>
+Let me then refer to the next question.
+
+<<5949.21;5955.21;en>>
+Maybe the follow-up on Judge Pavley to Judge Lemons.
+
+<<5955.29;5979.57;en>>
+Is the possibility that one can also file for a restraining order for other places than the school and the home, like for the working place normally of the applicant or of the endangered persons, but not at any location where the family goes to?
+
+<<5979.65;5985.65;en>>
+So, not for every playground and every shopping center and supermarket?
+
+<<5985.73;5987.45;en>>
+No, this is not possible.
+
+<<5987.53;5998.05;en>>
+Only for frequently used locations like the working place, the home, sometimes the bus station, yes.
+
+<<5998.05;5999.29;en>>
+But not everything.
+
+<<5999.37;6003.29;en>>
+They also live in a very little town in Austria.
+
+<<6003.37;6013.57;en>>
+Therefore, you always have to look, does the perpetrator also need access to this area because of his work or because of his living conditions.
+
+<<6013.69;6017.29;en>>
+They cannot forbid him everything.
+
+<<6017.37;6021.89;en>>
+Let me go to the next question.
+
+<<6021.89;6025.37;en>>
+As far as I can see.
+
+<<6025.37;6030.29;en>>
+It is from Judge Kuskostalmayer.
+
+<<6030.37;6035.45;en>>
+This was a question to the applicant.
+
+<<6035.53;6040.57;en>>
+Yes, she reported her husband the 22nd May.
+
+<<6040.69;6052.57;en>>
+The question was, how did the police in the three days between the reporting at the police and the murder have become aware that there was a threat to the children?
+
+<<6052.57;6061.29;en>>
+On the 22nd May, the applicant gave all the relevant information to the police.
+
+<<6061.29;6072.45;en>>
+Since then, there was a possibility that the police should have been aware that there was already a threat.
+
+<<6072.53;6084.77;en>>
+If the police would have asked the applicant if her husband has a gun or has access to a gun or anything like that, then she would have said it's easy for him to organize one.
+
+<<6084.85;6088.57;en>>
+But of course, organizing a weapon takes a few days.
+
+<<6088.65;6095.85;en>>
+In this case, it took him three days or less than three days, because it was around two and a half days.
+
+<<6095.93;6108.85;en>>
+Therefore, in this very short time between the report and the murder, this was not a long period where we could see, nothing happened and everything calmed down.
+
+<<6108.85;6113.77;en>>
+No, it was still a very new situation for the perpetrator.
+
+<<6113.85;6118.41;en>>
+In the past, his wife has always gone back to him.
+
+<<6118.49;6120.21;en>>
+She had forgiven him.
+
+<<6120.29;6127.89;en>>
+He went to the mental residence and he promised her to do better.
+
+<<6127.97;6133.81;en>>
+That's why she took him back and she did not testify against him in 2010.
+
+<<6133.81;6138.89;en>>
+But now she left him and she filed for divorce for the very first time.
+
+<<6139.29;6141.33;en>>
+Now he knew he had lost her.
+
+<<6141.41;6146.05;en>>
+He always said, in case you leave me, I will kill you and I will kill the children.
+
+<<6146.13;6147.33;en>>
+I will hurt you.
+
+<<6147.41;6152.61;en>>
+Hurting her means killing the most important thing, which is the children.
+
+<<6152.69;6163.09;en>>
+The police was aware that this threat was there already the 22nd, the day when the divorce file was issued.
+
+<<6163.09;6168.05;en>>
+Also, he was confronted by the police report of her.
+
+<<6168.53;6170.77;en>>
+He knew now it's over.
+
+<<6170.93;6174.77;en>>
+She left me and she also banned me from home.
+
+<<6174.85;6183.01;en>>
+That's also something you can see in his suicide note, which the police later found in his car, where he was shot dead by himself.
+
+<<6184.05;6186.45;en>>
+He wrote, you banned me from our home.
+
+<<6186.97;6189.29;en>>
+You went to court and asked for divorce.
+
+<<6189.69;6190.69;en>>
+You went to the police.
+
+<<6190.69;6192.41;en>>
+I told you that I will do it.
+
+<<6192.77;6199.89;en>>
+And that's the information that also the applicant gave to the police.
+
+<<6200.13;6218.93;en>>
+But if we also, and therefore I also want to answer the questions of Judge Polakova, because there was the question, why didn't she tell the police that he has two different faces in front of the other outside world?
+
+<<6218.93;6220.77;en>>
+He's very cooperative and calm.
+
+<<6220.85;6227.05;en>>
+And in the inside, the microcosm of the family, he's really violent also to his children.
+
+<<6227.49;6231.33;en>>
+I mean, you heard what the boy told the police.
+
+<<6231.69;6234.25;en>>
+He slapped him into the face 12 times.
+
+<<6234.73;6237.77;en>>
+He was already red and had marks.
+
+<<6238.29;6243.05;en>>
+Who slaps his six or seven year old child in this manner?
+
+<<6243.13;6244.05;en>>
+He kicked his ass.
+
+<<6244.61;6247.21;en>>
+That is really severe violence.
+
+<<6247.21;6249.77;en>>
+And it was not just once, it was several times.
+
+<<6250.13;6264.25;en>>
+But what I wanted to explain is, when a victim goes to the police and is questioned, it is not written down word for word, question, answer, question, answer by the police.
+
+<<6264.77;6271.61;en>>
+But rather it is like this, that the police interviews the applicant or the victim.
+
+<<6272.41;6283.89;en>>
+And after she explained everything, the police sits down at the computer and writes what she has in mind, like a summarise of her statement.
+
+<<6284.49;6291.21;en>>
+It's not the word for word what the applicant said, but it's rather summarising up.
+
+<<6291.89;6296.29;en>>
+And you can also see that in her report, it's no question answer.
+
+<<6296.37;6299.37;en>>
+It's just a written summary.
+
+<<6299.45;6302.77;en>>
+So we don't know what the police asked her.
+
+<<6302.77;6308.41;en>>
+And of course, if the police had asked her all these things, like, how is your husband?
+
+<<6309.17;6311.17;en>>
+How can we expect your husband?
+
+<<6311.29;6314.29;en>>
+How can it be that he was so calm when we went there?
+
+<<6314.61;6316.05;en>>
+Then she would have answered.
+
+<<6316.45;6338.01;en>>
+But as also the study of, which I mentioned before, the study of the university on behalf of the government said in this, how do you say, in this attempted murder cases, the study, the screening group, they said police don't ask all risk factors.
+
+<<6338.09;6340.01;en>>
+And that's the same with interrogation.
+
+<<6340.41;6342.69;en>>
+They let the applicant speak.
+
+<<6342.77;6357.61;en>>
+And if the victim does not say everything, or even if she says everything and the police says, okay, that's not so important or the police forgets it, it's a summarised statement and not a very clear word.
+
+<<6357.61;6366.53;en>>
+This is also something that experts ask for years, that they should change the standards.
+
+<<6366.61;6378.97;en>>
+Also lawyers who represent perpetrators ask for that, because later when we are at the court hearing, the court and the judges always ask, why didn't you say that at the police?
+
+<<6378.97;6385.93;en>>
+And then as well, like perpetrators as well as victims say, I did, I did say that.
+
+<<6385.93;6389.29;en>>
+As well as victims say, I did, but they didn't write it down.
+
+<<6389.37;6393.81;en>>
+So this is not where we should focus on what is written down.
+
+<<6393.89;6396.45;en>>
+I think she was not asked about it.
+
+<<6396.53;6417.85;en>>
+And I'm therefore so sure, because in the case at the civil court afterwards, in the liability case, which she issued before going to the European Court of Human Rights, she was asked by her lawyer, by us, and we asked her, how is your husband?
+
+<<6417.93;6426.05;en>>
+And she said, and you can see that in the annexes, she said, my husband has a totally different face in front of the police.
+
+<<6426.13;6429.69;en>>
+He can be calm, he can be nice to the outside world, but at home he's not.
+
+<<6429.77;6432.17;en>>
+And I'm really afraid and I fear.
+
+<<6432.25;6435.33;en>>
+And that's what she told the police.
+
+<<6435.41;6440.49;en>>
+Good. So then, since it's only me answering the questions,
+
+<<6440.49;6444.01;en>>
+I have to look what the next question was.
+
+<<6444.09;6449.69;en>>
+Yes, also maybe for Judge Kustadelmayer, this is something for your question.
+
+<<6453.49;6465.05;en>>
+Should the police, could they find out the 23rd and 24th that he called her massive times and asked her to see her and the children?
+
+<<6465.13;6471.17;en>>
+The applicant always thought that if she meets him with the children, then he will shoot the children in front of her.
+
+<<6471.25;6472.61;en>>
+That's why she didn't do it.
+
+<<6472.69;6477.77;en>>
+She offered that he can see the children, but only with the grandfather as a supervised visit.
+
+<<6477.85;6481.69;en>>
+And that's also something that courts often do in these cases.
+
+<<6481.77;6489.37;en>>
+They're only supervised visits with a parent or with a grandparent or with an institution.
+
+<<6489.45;6505.49;en>>
+But what could have the police should have done is, the bearing order is issued and then the police, by law, is obliged to go to the applicant and check if he obeys the bearing order.
+
+<<6505.57;6511.97;en>>
+So they have to go to the applicant's door, they have to knock, they have to stop by and ask, is everything all right?
+
+<<6512.05;6514.45;en>>
+Did he come here despite the bearing order?
+
+<<6514.53;6516.45;en>>
+Did he contact you?
+
+<<6516.53;6519.73;en>>
+But in this case, nothing like that happened.
+
+<<6519.81;6522.81;en>>
+We don't have any information that this happened.
+
+<<6522.89;6525.89;en>>
+And it was not in the criminal law case.
+
+<<6525.89;6529.33;en>>
+And we looked at every page and there was nothing like that.
+
+<<6529.41;6533.73;en>>
+Therefore, we have to assume that the police did not check on her.
+
+<<6533.81;6549.33;en>>
+And of course, if the police had done what she had to do and check on the applicant, the victim, of course, she would have told, as she did before, that she's in fear and that he called her and that he doesn't stop calling her.
+
+<<6549.33;6561.93;en>>
+I know that the applicant talked to her psychosocial counsellor on the 24th.
+
+<<6562.01;6563.37;en>>
+They made a phone call.
+
+<<6563.45;6570.17;en>>
+We also looked into the notes of this counsellor, who does not work there anymore, unfortunately.
+
+<<6570.25;6574.21;en>>
+And there we could see that on the 24th, they had a call.
+
+<<6574.29;6592.41;en>>
+And because of what the applicant told her counsellor on the 24th, they made an appointment for the 25th, so that she can come and pass by the prevention centre and they write together an application for a restraining order, because the judge on Tuesday did not offer so.
+
+<<6592.49;6600.45;en>>
+So there was a contact and because of this contact, they decided to write this very, very quickly.
+
+<<6600.53;6606.45;en>>
+Normally, you have 14 days to write such an application, because the bearing order is 14 days.
+
+<<6606.45;6612.85;en>>
+And if you apply for a restraining order, then the bearing order is until four weeks.
+
+<<6612.93;6615.17;en>>
+So it's a prolonged time.
+
+<<6616.13;6617.93;en>>
+But they did it right away on Friday.
+
+<<6618.01;6620.65;en>>
+Unfortunately, this was too late.
+
+<<6623.45;6626.17;en>>
+So what is the next question?
+
+<<6626.17;6633.17;en>>
+Yeah, there was a question...
+
+<<6633.17;6649.09;en>>
+Yeah, that was also for Judge Koskello concerning the pretrial detention trial.
+
+<<6649.17;6652.29;en>>
+Of course, it cannot be forever.
+
+<<6652.29;6659.29;en>>
+But it's not possible to lock perpetrators away for an indefinite time.
+
+<<6659.37;6660.37;en>>
+That's clear.
+
+<<6660.45;6670.05;en>>
+But however, if the applicant's husband would have been taken into pretrial detention, he would most likely have been convicted and received a sentence.
+
+<<6670.05;6685.81;en>>
+And also, I have to tell you that if there is a pretrial detention, then the criminal case, the case of the perpetrator, the case, the exterminations, are very, very quick.
+
+<<6685.89;6699.61;en>>
+That means that normally a case takes up to, I don't know, eight months, beginning from the police report until the prosecutor says, now we have enough evidence to go to court.
+
+<<6699.69;6703.69;en>>
+And then there is a court session whenever there is time for the judge.
+
+<<6703.69;6707.69;en>>
+But in case of pretrial detention, everything goes very quickly.
+
+<<6707.69;6711.69;en>>
+And that has to be because of Article 5 of the Convention.
+
+<<6711.69;6715.69;en>>
+And therefore, in this case, we had enough evidence.
+
+<<6715.69;6721.29;en>>
+We had the children, we had the matching statements of the children and also the applicant.
+
+<<6721.29;6723.61;en>>
+We had the injuries, the photographs.
+
+<<6723.61;6734.41;en>>
+We had also what the Republic said, her parents, she confessed to her parents about everything she was experiencing with her husband.
+
+<<6734.41;6751.89;en>>
+They would have been also very important witnesses and the decree of the Ministry of Justice from 2019 also says it is important with domestic violence, where there are not so many witnesses, because it's mostly at home, to also ask the environment.
+
+<<6751.89;6757.09;en>>
+And of course, grandparents are the environment, the social environment who could know something.
+
+<<6757.09;6762.09;en>>
+So they would have been also, would have been interrogated.
+
+<<6762.09;6771.09;en>>
+But then, after all these testimonies, the public prosecutor's office could have gone to court.
+
+<<6771.09;6776.89;en>>
+And because of all this evidence, normally we don't have so much evidence in domestic violence cases.
+
+<<6776.89;6783.29;en>>
+I myself represent a lot of these cases, and it's rare that we have evidence.
+
+<<6783.29;6788.69;en>>
+This is also why a lot of cases are shut down by the prosecutor, because there is no evidence.
+
+<<6788.69;6793.49;en>>
+In this case, we had the children and also the applicants.
+
+<<6793.49;6814.69;en>>
+So there is a very strong, we can really assume and be very certain that in this case, he would have received a sentence and would have gone to jail for several years, because hurting his children for a longer period like this has a very, very high punishment.
+
+<<6814.69;6817.57;en>>
+Now it's five to 15 years of imprisonment.
+
+<<6817.57;6819.09;en>>
+That's very long.
+
+<<6819.09;6826.09;en>>
+So if he would have gone to prison, then of course there would have been a pause.
+
+<<6826.09;6827.29;en>>
+They could have relaxed.
+
+<<6827.29;6829.69;en>>
+They could have made safety plans.
+
+<<6829.69;6832.89;en>>
+They could have moved to another country or another city.
+
+<<6832.89;6835.09;en>>
+But for him also, that would have been a lot of progress.
+
+[[JudgeP;Robert Spano]]
+
+<<6833.56;6841.8;en>>
+Ms. Aziz, may I ask you to conclude rather quickly, please? Thank you.
+
+[[Applicant;AP1]]
+
+<<6841.88;6843.36;en>>
+Okay, sorry.
+
+<<6843.36;6847.64;en>>
+There would have been also programs like anti-aggression training in the jail.
+
+<<6847.64;6849.76;en>>
+He could have worked on his behavior.
+
+<<6849.76;6861.94;en>>
+He would have get all, he could have also received special terms like supervised contacts when he leaves prison or therapy sessions, and then he would be on probation again.
+
+<<6861.94;6865.8;en>>
+So there would have been a lot of possibilities.
+
+<<6867.12;6871.04;en>>
+There was a question to Judge Turkovich.
+
+<<6871.04;6882.24;en>>
+It could have been expected by the authorities to correctly identify the children as endangered persons and therefore include them in the evaluation of necessary measures to be taken.
+
+<<6882.24;6888.84;en>>
+Because if a risk at school would have been discernible to them, they could have taken away the easy access.
+
+<<6888.84;6890.6;en>>
+That's what I explained before.
+
+<<6894.88;6895.72;en>>
+Is there anything?
+
+<<6895.72;6899.76;en>>
+I think there is no question left as I, maybe the last one.
+
+<<6900.9;6905.58;en>>
+Oh yeah, you wanted to know also about who is the applicant?
+
+<<6905.58;6906.98;en>>
+How long is she in Austria?
+
+<<6908.02;6911.02;en>>
+This was from Judge Polakova.
+
+<<6911.02;6914.7;en>>
+She was born, the applicant was born in Turkey.
+
+<<6914.7;6919.46;en>>
+She lived there until 1990.
+
+<<6919.46;6930.14;en>>
+Then she was, she moved to Austria, but her whole school life, she did in Turkey until she was about 14 years old.
+
+<<6930.14;6933.26;en>>
+And in Austria, she only did two years of school.
+
+<<6933.26;6940.3;en>>
+That's where she started learning German, like she was already about 14 years old.
+
+<<6940.3;6945.38;en>>
+She went two years to Hauptschule, which is a very low educational school building.
+
+<<6945.38;6948.62;en>>
+It's not very high level, but she didn't finish it.
+
+<<6948.62;6950.42;en>>
+She only went up to two years.
+
+<<6950.42;6956.94;en>>
+And then she did not have any formal or professional training on the job.
+
+<<6956.94;6960.54;en>>
+She only worked as a nanny.
+
+<<6960.54;6963.34;en>>
+And she never went to a German course.
+
+<<6963.34;6971.66;en>>
+She only learned German from the children because she was the nanny and from her own children later on.
+
+<<6971.66;6976.3;en>>
+With her counselor from the protection center, she was a Turkish woman.
+
+<<6976.3;6986.54;en>>
+She only spoke in Turkish and they offered her this possibility to have a counselor speaking her language because her German was not so good.
+
+<<6986.54;6999.62;en>>
+Despite that, she was questioned by the police in German, which also is a difficult situation we can regard in Austria very often that we have a lack of interpreters, which are available.
+
+<<6999.62;6999.62;en>>
+So this is the situation of the applicant.
+
+[[JudgeP;Robert Spano]]
+
+<<7007.84;7010.8;en>>
+Very much indeed.
+
+<<7010.8;7015.0;en>>
+Are there any follow-up requests from the judges?
+
+<<7015.0;7016.56;en>>
+No?
+
+<<7016.56;7020.96;en>>
+So that means that we have come to an end in our hearing.
+
+<<7020.96;7030.8;en>>
+I would like to thank the parties very much for their submissions, their answers to the judges' question, and also, indeed, for your cooperation this morning.
+
+<<7030.8;7034.6;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<7034.6;7037.34;en>>
+The judgment will be delivered later.
+
+<<7037.34;7041.56;en>>
+And the parties will be informed of the date of delivery.
+
+<<7041.56;7043.26;en>>
+I declare, therefore, the hearing closed.
+

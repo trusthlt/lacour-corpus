@@ -1,0 +1,2310 @@
+[[Announcer;UNK]]
+
+<<13.59;14.31;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<19.78;20.78;en>>
+Good morning.
+
+<<20.78;33.7;en>>
+I welcome all participants to this public hearing organized by the European Court of Human Rights with the use of video conferencing technology, which has been made necessary due to the COVID-19 health crisis.
+
+<<33.7;47.58;en>>
+I wish to begin by thanking the applicant and the respondent government for their cooperation in preparing this hearing on the admissibility and merits in the case of Grzęda versus Poland, which I now declare open.
+
+<<47.58;54.1;en>>
+This hearing is being recorded in its entirety and will be webcast in order to ensure its public character.
+
+<<54.1;59.82;en>>
+It will be available to the public on the court's website from 1430 this afternoon.
+
+<<59.82;69.98;en>>
+The application was lodged with the court on 4 September 2018 under Article 34 of the convention by a Polish national, Mr. Jan Jenda.
+
+<<69.98;78.26;en>>
+The application was allocated to the first section of the court pursuant to Rule 52, paragraph 1 of the rules of court.
+
+<<78.26;83.62;en>>
+The application was communicated to the government on 9 July 2019.
+
+<<83.62;92.38;en>>
+On 9 February 2021, the chamber decided to relinquish jurisdiction in favor of the grand chamber.
+
+<<92.38;105.58;en>>
+The following were granted leave under Article 36, paragraph 2 of the convention, and Rule 44, paragraph 3 of the rules of court to make written submissions to the court as third parties.
+
+<<105.58;140.06;en>>
+The European Network of Councils for the Judiciary, the International Commission of Jurists and Amnesty International jointly, the Helsinki Foundation for Human Rights Poland, the Commissioner for Human Rights of the Republic of Poland, the Polish Judges Association Iustitia, the Judges for Judges Foundation, the Netherlands and Professor Lauren Pech jointly, the UN Special Rapporteur for the Independence of Judges and Lawyers, and the governments of Denmark and the Kingdom of the Netherlands.
+
+<<140.06;154.1;en>>
+The Commissioner for Human Rights of the Republic of Poland was also granted leave to take part in the hearing and to make oral submissions as a third party by virtue of Rule 44, paragraph 3 of the rules of court.
+
+<<154.1;160.46;en>>
+The respondent government are represented by their agent, Mr. Jan Sobczak, and their co-agent,
+
+<<160.46;165.38;en>>
+Ms. Agata Rogalska-Piechota of the Ministry of Foreign Affairs.
+
+<<165.38;169.46;en>>
+The applicant is represented by Mr. Mikołaj Pietrzak
+
+<<169.46;172.18;en>>
+and Ms. Małgorzata Mączka-Pacholak,
+
+<<172.18;177.3;en>>
+counsel assisted by Mr. Adam Płoszka, advisor.
+
+<<177.3;180.06;en>>
+The applicant is also present.
+
+<<180.06;185.5;en>>
+The commissioner, third party intervener, is represented by Mr. Maciej Taborowski,
+
+<<185.5;189.0;en>>
+deputy commissioner, Mr. Mirosław Wróblewski,
+
+<<189.0;198.76;en>>
+director of the Department of Constitutional, International, and European Law at the office of the commissioner, and Mr. Paweł  Filipek, chief specialist
+
+<<198.76;200.78;en>>
+in that department.
+
+<<200.78;205.1;en>>
+I welcome the representatives in the name of the court.
+
+<<205.1;214.72;en>>
+Having consulted the agent of the government and the representative of the applicant and the representative of the third party, I have determined the order of address as follows.
+
+<<214.72;217.98;en>>
+Mr. Sobczak for the government will speak first,
+
+<<217.98;220.72;en>>
+and then Mr. Pietrzak and Ms. Mączka-Pacholak
+
+<<220.72;223.66;en>>
+for the applicant, and finally, Mr. Filipek
+
+<<223.66;226.54;en>>
+for the commissioner.
+
+<<226.54;226.54;en>>
+I now give the floor to Mr. Sobczak, please.
+
+[[Government;GR1]]
+
+<<238.17;242.77;en>>
+Mr. President, distinguished member of the court, ladies and gentlemen,
+
+<<243.53;255.85;en>>
+I have the honor to present the position of the government of the Republic of Poland in the present case concerning the alleged violations of Article 6, Paragraph 1 and Article 13 of the Convention.
+
+<<257.13;268.81;en>>
+At the outset, I should like to recall the legal background of the case related to the reform of the National Council of the Judiciary for the purpose of this application also called the NCJ.
+
+<<269.37;275.65;en>>
+The National Council of the Judiciary is a collegial body composed of 25 members.
+
+<<275.65;281.53;en>>
+21 members, including four deputies of the lower chamber of the parliament.
+
+<<281.53;291.85;en>>
+The same, there's two senators and 15 judges of various branches and levels of the judiciary are elected for a four-year term of office.
+
+<<291.85;307.77;en>>
+In addition, there are four ex officio members of the NCJ, including the Minister of Justice, a representative of the President of the Republic, the first president of the Supreme Court and the president of the Supreme Administrative Court.
+
+<<307.77;320.29;en>>
+At least until 2002, there had been no doubt that the term of office for all the groups of the elected members of the NCJ started and ended at the same time.
+
+<<320.29;334.21;en>>
+In 1999, one of the NCJ's members was appointed a judge of the Supreme Administrative Court, which led to an early ex lega termination of his term of office at the NCJ.
+
+<<334.21;348.93;en>>
+Another judge who was elected to replace him as a member of the NCJ should have held his office for the remainder of his predecessor's term as all other judges members of the NCJ.
+
+<<348.93;364.93;en>>
+However, on 12 February 2002, the NCJ adopted a statement in which it took a position that the term of office of a judge elected as a member of the NCJ should be considered individually.
+
+<<364.93;372.93;en>>
+On this basis, the term of office of the replacing judge was extended until 14 February 2004.
+
+<<372.93;387.17;en>>
+In this way, a discrepancy arose with respect to the joint or individual nature of the term of office of the judges elected members of the NCJ and other elected members of the NCJ.
+
+<<387.17;393.93;en>>
+This practice was subsequently confirmed by the NCJ Act of 2011.
+
+<<393.93;409.93;en>>
+In order to remove the discrepancies, the general public prosecutor lodged an application with the Constitutional Tribunal regarding the procedure of electing judges to the NCJ and the term of office of elected members.
+
+<<409.93;421.93;en>>
+On 20 June 2017, the Constitutional Tribunal ruled that the term of office of all elected members of the NCJ should be considered jointly.
+
+<<421.93;435.93;en>>
+In accordance with Article 190, paragraph 1 of the Constitution, judgments of the Constitutional Tribunal are universally binding and final.
+
+<<435.93;439.93;en>>
+The public authorities are obliged to execute them.
+
+<<439.93;448.93;en>>
+Consequently, the Polish authorities undertook a legislative initiative with a view to amending the respective provisions of the NCJ Act.
+
+<<448.93;460.93;en>>
+One of the aims was to depart from the unconstitutional practice of individual calculation of terms of office of the NCJ's members elected from among the judges.
+
+<<460.93;469.93;en>>
+The other aim was to change and democratize the way of electing judges to the NCJ, which was also found unconstitutional.
+
+<<469.93;479.93;en>>
+The amendment at stake constituted, therefore, a direct implementation of the Constitutional Tribunal's Article 517.
+
+<<479.93;485.93;en>>
+The amendment entered into force on 17 January 2018.
+
+<<485.93;492.97;en>>
+Consequently, the way of electing judges members of the Council of the NCJ was changed.
+
+<<492.97;517.97;en>>
+As regards the term of office, a transitional provision stipulated that the mandate that the term of office of the NCJ's judges members elected on the basis of the previous Act would continue until the day preceding the beginning of the term of office of the new members, not longer than 90 days from the entry into force of the amending Act.
+
+<<517.97;526.93;en>>
+On 6 March 2018, the same elected 15 judges as new members of the NCJ.
+
+<<526.93;540.97;en>>
+On the same date, the term of office of the previous members of the Council was terminated ex legge, pursuant to Article 6 of the 2017 amending Act.
+
+<<540.97;547.97;en>>
+Mr. President, distinguished members of the Court, ladies and gentlemen, I should like to refer now to
+
+<<547.97;556.99;en>>
+the issue of whether the present application concerns a civil right in the meaning of Article 6, paragraph 1 of the Convention.
+
+<<556.99;585.97;en>>
+With respect to the applicant's complaint that he was denied access to a tribunal to contest the allegedly arbitrary and early termination of his mandate as a member of the National Council of the Judiciary, the government submits that the application should be considered rationa materie incompatible with the Convention and therefore rejected in accordance with Article 35, paragraph 4 of the Convention.
+
+<<585.97;612.03;en>>
+Let me recall that according to the well-established case law of the Court, for Article 6, paragraph 1, in its civil limit to be applicable, there must be a dispute over a right which can be said, at least on arguable grounds, to be recognized under domestic law, irrespective of whether that right is protected under the Convention.
+
+<<612.03;616.97;en>>
+The dispute must be also genuine and serious.
+
+<<616.97;627.97;en>>
+In the particular circumstances of the present case, I would like to stress that under the Polish law, there exists no right to exercise public authority.
+
+<<627.97;636.97;en>>
+There is no right for a judge to be appointed to the NCJ or to remain in function as its member.
+
+<<636.97;649.97;en>>
+What is more, there was no genuine and serious dispute in the case at stake concerning the existence of an alleged civil right of the applicant to be a member of the NCJ.
+
+<<649.97;657.95;en>>
+The termination of the applicant's term of office as a judge member of the NCJ was justified and legitimate.
+
+<<657.95;672.97;en>>
+The goal was to implement the Constitutional Court's judgment of 20 June 2017 in as much as it concerned the nature of the term of office of the judges elected members of the NCJ.
+
+<<672.97;679.97;en>>
+The measure was based on transitional provision of Article 6 of the 2017 amending Act.
+
+<<679.97;684.97;en>>
+It was technical, general in nature, and not discriminatory.
+
+<<684.97;694.97;en>>
+What is more, the decision to terminate ex lega the applicant's term of office concerned solely his mandate as the NCJ's member.
+
+<<694.97;704.97;en>>
+It did not touch upon his functions as judge and president of a regional administrative court.
+
+<<704.97;713.99;en>>
+The court should distinguish between the applicant's status as judge and president of a court from his function as a member of the NCJ.
+
+<<713.99;720.99;en>>
+The matter relates exclusively to the sphere of exercise of the public authority.
+
+<<720.99;729.99;en>>
+The NCJ is a constitutional authority tasked with safeguarding the independence and efficiency of the judiciary.
+
+<<729.99;733.99;en>>
+It does not constitute a part of the judiciary itself.
+
+<<733.99;745.99;en>>
+Indeed, the NCJ is a body situated in between the three constitutional powers, and as such it incarnates the balance of powers.
+
+<<745.99;753.99;en>>
+The membership of the NCJ does not constitute an employment within the meaning of the Polish Labour Code.
+
+<<753.99;765.99;en>>
+It is also not equivalent to any relationship under any other comparable legal regulation within the meaning of the court's case law under Article 6 of the Convention.
+
+<<765.99;779.99;en>>
+Let me stress that the present case is not an employment dispute case concerning civil servants, comparable to the circumstances in the cases of Bilo, Eskalin and Olbaka.
+
+<<779.99;790.99;en>>
+Membership of the NCJ is a public function without a formal labour contract being concluded or without a presumption of a labour contract.
+
+<<790.99;800.99;en>>
+This function does not result in any contractual or other obligation of paying a salary in exchange for the work performed.
+
+<<800.99;810.99;en>>
+It does not constitute grounds for any remuneration to be paid to the member or for any other employee rights or benefits.
+
+<<810.99;812.99;en>>
+It does not generate any future pension benefits.
+
+<<812.99;833.99;en>>
+On the contrary, the only financial rewards paid to the members of the NCJ are per diem allowances for taking part in the NCJ's plenary sessions or other work, as well as the reimbursement of travel and accommodation expenses.
+
+<<833.99;840.99;en>>
+By far, they do not constitute a remuneration within the meaning of the labour law.
+
+<<840.99;850.99;en>>
+Consequently, the membership of the NCJ does not reveal any civil character, both under the domestic law and under the Convention.
+
+<<850.99;863.99;en>>
+This pertains exclusively to the sphere of exercise of public authority without any civil rights component within the meaning of Article 6 of the Convention and the Court's case law.
+
+<<863.99;872.99;en>>
+In this context, the governments are of the position that the sphere of public authority actions should not be object to the human rights safeguards.
+
+<<872.99;878.99;en>>
+This applies also to the public status of the members of the NCJ.
+
+<<878.99;906.99;en>>
+The possibility of the term of office of an elected member of the NCJ was established by the legislator not to protect an individual interest of judges or to facilitate their career or self-realization, meant as fulfilment of one's character or personality, but to protect the public interest in ensuring a proper conduct of the NCJ's functions and competencies.
+
+<<906.99;915.99;en>>
+Such guarantees must not be understood as the source of an individual right as a judge member of the NCJ.
+
+<<915.99;922.99;en>>
+Consequently, a member of the NCJ does not have any right in holding his or her function.
+
+<<922.99;937.99;en>>
+An early termination of the term of office pertaining exclusively to the sphere of exercise of the public authority does not constitute an interference with the rights of an individual.
+
+<<937.99;944.99;en>>
+The exercise of the public authority never constitutes an inherent part of a person's individuality.
+
+<<944.99;958.99;en>>
+There exist no safeguards in the Convention and other international human rights treaties guaranteeing an individual the exercise of the public authority or even less a right to remain in office.
+
+<<958.99;973.99;en>>
+To conclude, the termination of the applicant's term of office as a judge member of the NCJ was legitimate and occurred in order to implement the 2017 judgment of the Constitutional Tribunal.
+
+<<973.99;982.99;en>>
+It constituted a technical measure aiming at establishment of a new term of office consonant with the relevant provisions of the Constitution.
+
+<<982.99;991.99;en>>
+The decision to terminate ex lega the applicant's term of office concerned solely his mandate as the NCJ's member.
+
+<<991.99;1001.99;en>>
+It did not touch upon his function as a judge or his role of a president of an administrative court.
+
+<<1001.99;1008.99;en>>
+The membership of the NCJ does not constitute an employment within the meaning of the Polish labor law and the court's case law.
+
+<<1008.99;1018.99;en>>
+The present case does not constitute an employment dispute similar to the cases of Biloeskelinen or Baka.
+
+<<1018.99;1027.99;en>>
+The function is performed pro bono and involves at most a reimbursement of certain costs incurred.
+
+<<1027.99;1033.99;en>>
+The memberships of the NCJ does not reveal any character of a right both under the domestic law and under the Convention.
+
+<<1033.99;1046.99;en>>
+Consequently, in this case there was no genuine and serious dispute concerning the existence of a right of the applicant to remain a member of the National Council of the Judiciary.
+
+<<1046.99;1055.99;en>>
+Mr. President, distinguished judges of the court, should however the court consider otherwise,
+
+<<1055.99;1073.99;en>>
+the government submit that the alleged right claimed by the applicant was not civil within the autonomous meaning of Article 6, Paragraph 1 of the Convention and the criteria developed in the case of Biloeskelinen.
+
+<<1073.99;1091.99;en>>
+According to this criteria, in order for the respondent state to be able to rely before the court on the applicant's status as a civil servant, in excluding the protection embodied in Article 6 of the Convention, two conditions must be fulfilled.
+
+<<1091.99;1102.99;en>>
+First, the state in its national law must have expressly excluded access to a court for the post or category of staff in question.
+
+<<1102.99;1108.99;en>>
+Secondly, the exclusion must be justified on objective grounds in the state's interest.
+
+<<1108.99;1121.99;en>>
+Mr. President, ladies and gentlemen, I would like to focus now on the criterion of whether the national law excluded access to a court for the function held by the applicant.
+
+<<1121.99;1124.99;en>>
+The answer to this question is affirmative.
+
+<<1124.99;1137.99;en>>
+Under the Polish legal system, the applicant was excluded from the right of access to a court in as much as it concerned his capacity as the NCJ's member.
+
+<<1137.99;1144.99;en>>
+This exclusion had been in place already in the date of his election as a member of the NCJ.
+
+<<1144.99;1150.99;en>>
+The amendments introduced in 2017 did not change this fact.
+
+<<1150.99;1155.99;en>>
+Being a member of the NCJ relates to a public function.
+
+<<1155.99;1170.99;en>>
+As such, it constitutes exclusively a public law relation and does not amount to employment within the meaning of the Polish Labour Code or any other comparable legal relationship within the meaning of the court's case law.
+
+<<1170.99;1184.99;en>>
+As I have already stated, the membership of the NCJ is a purely public function without the formal labour contract being concluded or without the presumption of a labour contract.
+
+<<1184.99;1214.99;en>>
+According to Article 14 of the NCJ Act, in the wording applicable at the material time, the mandate of an appointed member of the NCJ could expire before the end of the term of office in the event of death, renunciation of the mandate, expiry of the mandate of the deputy or senator, expiry or termination of the judge's service relationship, retirement of the judge.
+
+<<1214.99;1238.99;en>>
+A transitional provision contained in Article 6 of the 2017 Amending Act stipulated that the mandate of judges members of the NCJ elected on the basis of the previous Act would continue until the day preceding the beginning of the term of office of the new members of the NCJ.
+
+<<1238.99;1252.99;en>>
+The 2011 NCJ Act has never envisaged any form of appeal or remedy in connection with the appointment, election or lack of election as a member of the NCJ.
+
+<<1252.99;1262.99;en>>
+It did not provide for any appeal or remedy in case of the expiry, termination or renunciation of the mandate of a member of the NCJ.
+
+<<1262.99;1280.99;en>>
+Moreover, also the previously binding 2001 NCJ Act envisaged a possibility of dismissal of a NCJ member by the body which that held had elected that member without indicating reasons for that.
+
+<<1280.99;1286.99;en>>
+No form of appeal or remedy has been envisaged in such a case.
+
+<<1286.99;1300.99;en>>
+The exclusion of the NCJ members from the right of access to a court in as much as this capacity is concerned is corroborated on the ground of the NCJ Act.
+
+<<1300.99;1312.99;en>>
+The NCJ Act stipulates that the judge elected member of the NCJ may be appointed upon his or her consent a permanent member of the NCJ's Bureau.
+
+<<1312.99;1328.99;en>>
+In such a situation, according to Article 25, Paragraph 2 of the NCJ Act, provisions of the law and the common code system are to be applied to such a judge accordingly, including a right to salary being paid.
+
+<<1328.99;1344.99;en>>
+Therefore, a judge appointed a permanent member of the NCJ's Bureau is considered to be employed and as such is protected under the law on the common code system and the labor code.
+
+<<1344.99;1358.99;en>>
+In particular, his or her rights pertaining to the employment in the NCJ's Bureau can be brought before a court in a lawsuit according to Article 89 of the law on the common code system.
+
+<<1358.99;1368.99;en>>
+Hence, domestic law expressly provides for the right to a court only in those limited circumstances.
+
+<<1368.99;1381.99;en>>
+A contrario, all circumstances other than this pertaining to the employment in the NCJ's Bureau are excluded from the right to a court rationa materia.
+
+<<1381.99;1396.99;en>>
+I would also like to draw the court's attention to the fact that the applicant, despite his arguments on the civil nature of his right, did not even attempt to subject his claim to a judicial review in order to obtain a court decision.
+
+<<1396.99;1404.99;en>>
+Such a decision could constitute a possible preliminary ruling for the purpose of lodging a constitutional complaint.
+
+<<1404.99;1434.99;en>>
+Regardless of the government's strong position that the right to a court in the applicant's case was generally excluded, the court before which the relevant request could have been brought by the applicant could have made a final assessment of whether there was access to a court in order to seek judicial protection in connection with the shortening of the term of office of a member of the NCJ.
+
+<<1434.99;1442.99;en>>
+The present case differs significantly from the circumstances in the case of Baca against Hungary.
+
+<<1442.99;1453.99;en>>
+Under the Polish law, the applicant's situation as a member of the NCJ substantially differs from the status of the first president or the judges of the Supreme Court.
+
+<<1453.99;1464.99;en>>
+First of all, the act of appointment of the first president to the Supreme Court by the president of Poland constitutes a legal basis for an employment relationship.
+
+<<1464.99;1485.99;en>>
+Consequently, the law of the Supreme Court regulating specifically the first president's status and working and pay conditions, as well as the labor code as a general source of law, are both applicable to a person appointed as first president of the Polish Supreme Court.
+
+<<1485.99;1494.99;en>>
+The judges of the Supreme Court, including the first president, unlike the members of the NCJ, are entitled to a number of rights.
+
+<<1494.99;1498.99;en>>
+The law determines the basic remuneration.
+
+<<1498.99;1503.99;en>>
+A special duty allowance is paid to holders of certain positions at the Supreme Court.
+
+<<1503.99;1517.99;en>>
+They are entitled to a seniority allowance and to a long service bonus, to 12 extra days of annual leave, and to a paid six months health recovery leave.
+
+<<1517.99;1522.99;en>>
+On retirement, the end of service bonus is rewarded.
+
+<<1522.99;1535.99;en>>
+In light of the foregoing, the government submitted the case at stake should be distinguished from the case of Baca against Hungary, in that the applicant's situation as a member of the NCJ did not reveal any civil character.
+
+<<1535.99;1554.99;en>>
+Also, in contrast to the Baca case, the applicant's exclusion from the right to access to a court in the capacity as the NCJ's member did not touch upon his status as judge of the Supreme Administrative Court and his presidential function.
+
+<<1554.99;1570.99;en>>
+To conclude, civil rights do not concern members of the NCJ since being a member of the NCJ pertains in Poland exclusively to the sphere of exercise of the public authority and does not amount under the Polish law to employment.
+
+<<1570.99;1582.99;en>>
+The status of the NCJ member on public law nature of the mandate has never been questioned, both under the 2011 and 2017 NCJ Act.
+
+<<1582.99;1595.99;en>>
+Therefore, it should be concluded that the national law excluded access to a court for an individual claim based on the alleged unlawfulness of the termination of the applicant's mandate.
+
+<<1595.99;1603.99;en>>
+The first condition of the Eskalinan test has therefore been met.
+
+<<1603.99;1616.99;en>>
+Now, I would like to move on to the second condition of the Eskalinan test, that means the justification of the applicant's exclusion from the right to a court.
+
+<<1616.99;1630.99;en>>
+In the circumstances of the present case, the government considers that the applicant's exclusion from his right to access to a court was justified on objective grounds in the public interest.
+
+<<1630.99;1640.99;en>>
+In this context, I would like to note that the subject matter of the applicant's complaint relates exclusively to the exercise of state power, acta iure imperii.
+
+<<1640.99;1654.99;en>>
+This function does not result in any contractual obligation of paying a salary in exchange for any work performed and does not have any other features of employment.
+
+<<1654.99;1667.99;en>>
+The government recalled that the right to a court had been excluded for the above reasons already, and even before the impugned amendment was introduced in 2017.
+
+<<1667.99;1679.99;en>>
+As regards the justification of the amendments introduced in 2017 and on the early termination of the applicant's term of office, the government wished to note the following.
+
+<<1679.99;1710.99;en>>
+Firstly, the amendments made to the method of electing members of the NCJ and termination of the mandate established prior to this amendment were legitimate since they aimed at bringing the election into line with the relevant provisions of the Constitution, as interpreted by the Constitutional Tribunal in the 2017 judgment.
+
+<<1710.99;1723.99;en>>
+The primary aim of the changes was to depart from the practice of individual terms of office of the NCJ's members elected from among the judges that was found to be unconstitutional.
+
+<<1723.99;1733.99;en>>
+The Constitutional Tribunal found that judicial members of the NCJ should be elected for a joint four-year term of office.
+
+<<1733.99;1745.99;en>>
+The amendments fell within the ambit of the legislators' margin of appreciation, limited only by the constitutional provisions pertaining to the NCJ.
+
+<<1745.99;1762.99;en>>
+The Constitution provides for an election of judge members of the NCJ from among judges, yet it does not determine who should elect these judges and how they should be elected.
+
+<<1762.99;1780.99;en>>
+There is no mention of the modalities of the election of judges of the NCJ. These modalities are to be regulated by an Act as envisaged in Article 187, paragraph 4 of the Constitution.
+
+<<1780.99;1797.99;en>>
+As regards who should elect the NCJ, in case of the deputies and senators members of the NCJ, the Constitution clearly stipulates that they should be elected by the same and the Senate respectively.
+
+<<1797.99;1807.99;en>>
+Yet the Constitution does not contain any precise provision with reference to who should elect the judges members of the NCJ.
+
+<<1807.99;1829.99;en>>
+Although the election performed by the representatives of the judiciary is not disqualified, yet a position that the judges assemblies are the only competent electoral bodies is unsubstantiated on the ground of the Polish Constitution.
+
+<<1829.99;1843.99;en>>
+The Constitution does not provide for any particular way of electing judges to the NCJ. The constitutional lawmaker consciously left it to the regulation at the level of a statute.
+
+<<1843.99;1850.99;en>>
+It is legitimate, therefore, that this question should be regulated within the limits of the legislators' margin of appreciation.
+
+<<1850.99;1861.99;en>>
+Nevertheless, the Constitution let down a certain minimum of the fundamental safeguards.
+
+<<1861.99;1872.99;en>>
+Article 187, paragraph 3 of the Constitution provides that the term of elected members of the NCJ shall last four years.
+
+<<1872.99;1891.99;en>>
+The expression elected members undoubtedly refers to 15 members elected from among judges, as well as to four members elected by the same from among the deputies and two members elected by the Senate from among the senators.
+
+<<1891.99;1908.99;en>>
+In accordance with the Directive on Linguistic Interpretation, like a non-distinctwante neg nostrum est distinguere, the lawmaker should treat the term of office of both groups of elected members of the NCJ without discrimination.
+
+<<1908.99;1918.99;en>>
+Therefore, the assumption that only the terms of office of elected judges members of the Council are individual should be considered unconstitutional.
+
+<<1918.99;1935.99;en>>
+The regulation on the early termination of the term of office in question was exceptional and transitional, as it aimed at the suppression of the unconstitutional practice of individual term of office.
+
+<<1935.99;1949.99;en>>
+Against this background, the government considered that the early termination in the applicant's case did not exceed the margin of appreciation vested in the Polish lawmaker.
+
+<<1949.99;1967.99;en>>
+The government also recalled that imposing new obligation or restrictions of persons enjoying the mandate during the term of office is generally not forbidden in accordance with the Constitutional Tribunal's case law dating back to the judgment of 2007.
+
+<<1967.99;1985.99;en>>
+Moreover, the reform at stake aimed at the democratization of the electoral procedure to the NCJ and extended the application of the rule of a democratic state of law in Poland as envisaged in Article 2 of the Constitution.
+
+<<1985.99;1998.99;en>>
+In this context, the provision of Article 6 of the 2017 Amending Act was of an exceptional and transitional character.
+
+<<1998.99;2013.99;en>>
+In view of the significance of the changes at the stake, the Polish legislator decided that the terms of office of the NCJ's members elected on the basis of the previous provisions should expire by virtue of law.
+
+<<2013.99;2027.99;en>>
+As such, this option did not contravene the constitutional rule of a full term of office itself and was proportionate to the far-reaching changes into the method of election of the NCJ's members.
+
+<<2027.99;2035.99;en>>
+The amendments at stake aimed at the democratization of the electoral procedure.
+
+<<2035.99;2053.99;en>>
+And, as explained above, no individual human rights or interests of the applicant or other members of the NCJ concerned could be identified in the present case that should have been taken into consideration in the balancing exercise.
+
+<<2053.99;2067.99;en>>
+The democratization of the NCJ constituted an undoubtedly important public interest, which in turn constituted a premise justifying early termination of the term of office of the judicial members of the NCJ.
+
+<<2067.99;2087.99;en>>
+In view of the unequal beginning of the terms of office of these members that occurred on the basis of unconstitutional practice, it was not possible to avoid early termination of the mandates or to leave this matter to individual rulings of courts in respect of each and every member of the NCJ concerned.
+
+<<2087.99;2098.99;en>>
+In any event, the amended NCJ Act did not deprive its so far members of a possibility to apply for re-election.
+
+<<2098.99;2110.99;en>>
+In light of the foregoing, it should be concluded that the applicant's exclusion from access to a court was justified on objective grounds in the state's interest.
+
+<<2110.99;2117.99;en>>
+Consequently, both criteria set out in the Eskalin and Test have been met.
+
+<<2117.99;2134.99;en>>
+Mr. President, distinguished members of the court, ladies and gentlemen, to sum up, the government of the Republic of Poland upholds their position that the present application should be considered incompatible with the Convention
+
+<<2134.99;2146.99;en>>
+and inadmissible on the account of the lack of significant disadvantage on the part of the applicant and manifestly ill-founded character of the application.
+
+<<2146.99;2153.99;en>>
+Consequently, it should be rejected in accordance with Article 35, Paragraph 4 of the Convention.
+
+<<2153.99;2164.99;en>>
+Alternatively, the government submit that no violation of Article 6, Paragraph 1 and 13 of the Convention occurred in the present case.
+
+<<2164.99;2164.99;en>>
+Thank you very much for your attention.
+
+[[JudgeP;Robert Spano]]
+
+<<2168.53;2170.65;en>>
+Thank you, Mr. Sobczak.
+
+<<2170.65;2179.09;en>>
+I confirm that both video and audio were fine throughout, and your remarks have been noted.
+
+<<2179.09;2183.21;en>>
+I now turn to the representatives of the applicant.
+
+<<2183.21;2183.21;en>>
+Mr. Pietrzak, you have the floor.
+
+[[Applicant;AP2]]
+
+<<2189.96;2192.52;en>>
+Thank you, Mr. President.
+
+<<2192.52;2195.44;en>>
+Mr. President, distinguished members of the Court,
+
+<<2195.44;2204.94;en>>
+it is a great honor to appear before the Grand Chamber of the European Court of Human Rights representing Mr. Jan Grzenda, who is here with me today,
+
+<<2204.94;2217.04;en>>
+in a case which we believe is pivotal not only for the rights of the applicant himself, but for the respect of rule of law throughout the Council of Europe member states.
+
+<<2217.04;2221.04;en>>
+Mr. Jan Grzenda is a renowned and greatly respected
+
+<<2221.04;2225.02;en>>
+Supreme Administrative Court judge.
+
+<<2225.02;2239.36;en>>
+He has devoted his life to the betterment of the Polish state, to strengthening the effectiveness and independence of the judiciary, and thereby the effective protection of rights and freedoms in Poland.
+
+<<2239.36;2253.64;en>>
+It was this path and these values that led to his appointment in 2016 as a member of the National Council of the Judiciary, which I will refer to today using the abbreviation NCJ.
+
+<<2253.64;2260.84;en>>
+This is a constitutional body established to safeguard the independence of the judiciary.
+
+<<2260.84;2278.48;en>>
+During the roundtable discussions following the downfall of communism, the founders of our republic understood that in order for democracy to survive and flourish, the courts must be protected from pressure by the executive and legislative powers.
+
+<<2278.48;2281.56;en>>
+Mr. Jan Grzenda was appointed to this role
+
+<<2281.56;2295.96;en>>
+not by the executive or legislative branches of government, but by his peers, the General Assembly of Judges of the Supreme Administrative Court as their representative in the NCJ.
+
+<<2295.96;2307.8;en>>
+Upon his appointment, he expected to serve the public, the state, and the judiciary in this capacity for a four-year term as provided in the Constitution of Poland.
+
+<<2307.8;2325.38;en>>
+He viewed this role as an extension of his service as a judge with a view to protecting the principles and values which underlie the judicial profession, rule of law, independence of the judiciary, protection of human rights, and fundamental freedoms.
+
+<<2325.38;2344.44;en>>
+But on March 6, 2018, his term, along with the term of 14 other constitutionally and legitimately appointed members of the NCJ, was cut short ex legge as a result of a law passed by Parliament amending the Act on the National Council of Judiciary.
+
+<<2344.44;2351.8;en>>
+We refer to this law in our written pleadings and today as the 2017 Amending Act.
+
+<<2351.8;2359.36;en>>
+This law was not, as a parliamentary law should be, of an abstract and general normative nature.
+
+<<2359.36;2381.12;en>>
+It was intended and drafted as to bring about a singular effect regarding 15 specific people, that is, to remove 15 specific judges from the NCJ and enable the Parliament to fill that void with people who would cooperate with the judicial reform.
+
+<<2381.12;2390.32;en>>
+This was stated expressly by the Minister of Justice, ex post, before the Senate on January 15, 2020.
+
+<<2390.32;2402.48;en>>
+This law was tailored to create a politically subservient NCJ, incapable of safeguarding the independence of the judiciary.
+
+<<2402.48;2405.16;en>>
+This dismissal from the NCJ shattered Mr.
+
+<<2405.16;2417.08;en>>
+Grenda's dreams of professional fulfillment and felt like a slap in the face, given the devotion and dedication he had shown on his path as a judge and a public servant.
+
+<<2417.08;2424.0;en>>
+It violated his right to serve his term in accordance with the Constitution.
+
+<<2424.0;2441.24;en>>
+The dismissal before the elapse of his constitutionally mandated term suggested he had somehow violated the trust of the state and the judicial community that they had placed in him when he was appointed to the NCJ.
+
+<<2441.24;2446.16;en>>
+It was not only unconstitutional, it was insulting both to Mr.
+
+<<2446.16;2457.48;en>>
+Grenda and the Supreme Administrative Court judges who had selected him from amongst their midst to represent them in the NCJ.
+
+<<2457.48;2464.24;en>>
+Now, Polish law did not provide him with any instrument to challenge the termination of his mandate.
+
+<<2464.24;2473.92;en>>
+He could not question this termination before any court, civil, administrative, criminal, or constitutional.
+
+<<2473.92;2480.32;en>>
+Now, to be clear, the premature termination of his constitutional mandate was personally crushing for Mr.
+
+<<2480.32;2480.8;en>>
+Grenda.
+
+<<2480.8;2490.6;en>>
+So if he could have filed any form of complaint against the dismissal to a court in Poland, he surely would have done so.
+
+<<2490.6;2510.92;en>>
+This utter failure of the Polish state to provide access to a court in protection of his civil rights or any remedy to counteract the injustice he faced as a result of the amending act of 2017 led him to file an application to the European Court of Human Rights.
+
+<<2513.56;2521.8;en>>
+The lack of access to a court or to any other domestic instrument to verify the legality and proportionality of the termination of Mr.
+
+<<2521.8;2544.88;en>>
+Grenda's mandate constitute a violation of his right to a fair trial, most specifically, access to a court for the determination of his civil rights, and a violation of the right to an effective remedy, as they are enshrined, respectively, in Articles 6, Section 1, and Article 13 of the European Convention on Human Rights.
+
+<<2544.88;2546.48;en>>
+Polish law provided Mr.
+
+<<2546.48;2557.48;en>>
+Grenda with a civil right to fulfill his mandate as a member of the NCJ and to serve out his entire four-year term in this capacity.
+
+<<2557.48;2585.24;en>>
+This right stems from the joint interpretation of Article 60 of the Polish Constitution, which ensures all Polish citizens access to public office, including the NCJ, on equal terms, and Article 187, Section 3 of the Polish Constitution, which establishes a four-year mandate for NCJ members and prohibits their earlier arbitrary dismissal.
+
+<<2585.24;2608.04;en>>
+Now, his constitutionally protected four-year term of office was shortened in violation of the constitutional norms which guaranteed that he should serve his term of public office on the same conditions as other judges who preceded him as NCJ members and whose mandates had not been cut short by an instrumental act of Parliament.
+
+<<2608.04;2627.8;en>>
+We are dealing here not only with systemic norms of the Constitution regarding, for example, mutual relations between state powers and state bodies, but with norms establishing individual rights, in this case, a civil right as understood in Article 6, Section 1 of the Convention.
+
+<<2627.8;2646.96;en>>
+This is perhaps best illustrated by the fact that Article 60 of the Polish Constitution, which I have just spoken of, is in fact part of the second chapter of the Constitution entitled, Human and Civic Freedoms, Rights and Duties.
+
+<<2646.96;2651.08;en>>
+Now, these violations directly concern Mr.
+
+<<2651.08;2662.32;en>>
+Grzenda's rights and indirectly the rights of all other 14 judges whose mandates were arbitrarily and prematurely terminated by the 2017 Amending Act.
+
+<<2662.32;2665.84;en>>
+However, the removal of Mr. Jan Grzenda
+
+<<2665.84;2692.36;en>>
+and his esteemed colleagues from the NCJ before the elapse of their terms was merely one step, although a critical one on a path of planned and systemic dismantling by the legislative and executive powers in Poland of the rule of law, the democratic separation of powers, the system of checks and balances, and particularly the independence of the judiciary.
+
+<<2692.36;2719.32;en>>
+These violations had a far-reaching impact on the rights and freedoms of all Poles and other people subject to judicial power in Poland by undermining judicial independence and thereby weakening fair trial rights and the procedural aspect of all rights and freedoms enshrined in the Convention, which obviously require an independent court in order to be adequately safeguarded.
+
+<<2719.32;2722.8;en>>
+So the proper assessment of Mr. Grzenda's application
+
+<<2722.8;2733.64;en>>
+and the violation of his rights requires seeing them in the context of the process of dismantling of the rule of law in Poland.
+
+<<2733.64;2746.44;en>>
+This process started in 2015 with the refusal by President Andrzej Duda to accept the oath from three constitutional court judges legitimately elected by the previous parliament.
+
+<<2746.44;2764.28;en>>
+The newly elected parliament elected three judges, commonly referred to as double judges, if you will, to fill the judicial places already occupied by the judges legitimately chosen by the parliament in the previous parliamentary term.
+
+<<2764.28;2782.16;en>>
+These three double judges then took part in issuing many constitutional tribunal rulings further undermining the rule of law and judicial independence rather than acting as a countermeasure, as the constitutional court should, to unconstitutional reforms.
+
+<<2782.16;2794.8;en>>
+This includes the constitutional tribunal rulings invoked by the government in this case in the written pleadings and today to support their argumentation.
+
+<<2794.8;2813.16;en>>
+The European Court of Human Rights recently stated in Xeroflor against Poland that a constitutional tribunal judgment issued with the participation of these double judges cannot be considered to have been issued by a tribunal established by law.
+
+<<2813.16;2829.84;en>>
+In 2016, the government refused to publish judgments of the legitimate constitutional tribunal, which were critical of legislature aimed at introducing these double judges and aimed at paralyzing the work of the constitutional tribunal itself.
+
+<<2829.84;2843.24;en>>
+This opened the door to further violations of rule of law because it eliminated the constitutional tribunal as a robust, legitimate, and independent constitutional control mechanism.
+
+<<2843.24;2858.48;en>>
+It made it possible to pass laws further weakening the independence of the judiciary, laws which never would have passed a legitimate constitutional review by an independent constitutional tribunal.
+
+<<2858.48;2883.68;en>>
+One of the very first laws passed in these circumstances was the 2017 Amending Act, which once again purged an NCJ of 15 of its members appointed by the judicial community and made it possible to stack the entire NCJ with politically obedient members selected by one political formation.
+
+<<2883.68;2903.36;en>>
+The 2017 Amending Act effectively gave the legislative power monopolistic control over the NCJ, a body whose very purpose was to serve as a safeguard for the judiciary against excessive influence of the legislative or executive powers.
+
+<<2903.36;2916.16;en>>
+This guaranteed that the NCJ would vocally support all further reforms aimed at weakening the judiciary rather than criticize such reforms as its true constitutional role would dictate.
+
+<<2919.0;2939.08;en>>
+A law was also passed allowing the Minister of Justice to arbitrarily dismiss the presidents of courts and heads of court divisions and single-handedly appoint new judges in their place, giving the Minister of Justice great control over the day-to-day functioning of the courts and significantly impacting their independence once again.
+
+<<2939.08;2955.48;en>>
+This was followed in late 2017 with the law establishing two new chambers of the Supreme Court, most notably disciplinary chamber, which was granted extensive disciplinary powers against judges, prosecutors, and lawyers.
+
+<<2955.48;2963.12;en>>
+The newly purged and now politically influenced NCJ, from which Mr. Grzenda had just been removed,
+
+<<2963.12;2969.68;en>>
+selected hand-in-hand with the president all the new judges of the disciplinary chamber.
+
+<<2969.68;2982.76;en>>
+The same law of 2017 empowered the Minister of Justice to single-handedly appoint a centralized, politically controlled judicial disciplinary prosecutor and his two deputies.
+
+<<2982.76;3002.88;en>>
+We have now seen many disciplinary proceedings initiated by a politically appointed disciplinary prosecutor and conducted before a politically influenced disciplinary chamber used to target judges who have spoken out or made judicial decisions critical of the reforms.
+
+<<3002.88;3012.16;en>>
+Now, the potential for disciplinary repressions was strengthened by the introduction of what is commonly referred to as the Muzzle Law.
+
+<<3012.16;3026.24;en>>
+This law, in fact, made it a disciplinary offense for a judge to send a rogatory to the Court of Justice of the European Union concerning judicial independence.
+
+<<3026.24;3030.32;en>>
+The new NCJ, of which Mr. Grzenda and his colleagues
+
+<<3030.32;3042.72;en>>
+were no longer members, did not once object to any of these new measures, even though they were manifestly detrimental to the independence of the judiciary.
+
+<<3042.72;3072.04;en>>
+So it is against this backdrop of illiberal democratic backsliding, in this context of undermining of the independence of the judiciary, dismantling of the system of checks and balances, and the continued deterioration of the procedural protection of rights and freedoms in Poland, that the Grand Chamber faces the task of addressing the violations of Mr. Grzenda's rights.
+
+<<3072.04;3074.84;en>>
+These violations not only targeted Mr. Grzenda
+
+<<3074.84;3092.72;en>>
+and his fellow judges, who were dismissed from the NCJ, but also served to subjugate the NCJ to the legislative power and were a critical step in furthering the methodically planned disassembling of the rule of law in Poland.
+
+<<3092.72;3105.08;en>>
+If it pleases the Court, I will now defer to my colleague, Advocate Małgorzata Mączka-Pacholak, to further address the issues specifically raised by the Court in questions to the parties.
+
+<<3105.08;3105.08;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3108.84;3109.88;en>>
+Please, madam, you have the floor.
+
+[[Applicant;AP1]]
+
+<<3111.62;3117.7;en>>
+Mr. President, members of the court, it is my greatest honor to appear before the Grand
+
+<<3117.7;3122.39;en>>
+Chamber of the European Court of Human Rights, representing Mr. Jan Brzęda.
+
+<<3122.39;3129.79;en>>
+I would like now to address the issues raised by the court and questions to the parties.
+
+<<3129.79;3140.74;en>>
+One of the questions raised by the court concerns the relevance of the fact that the applicant's case concerns a member of the National Council of the Judiciary.
+
+<<3140.74;3148.81;en>>
+We believe that the answer to this question is the key in assessing the violation of the applicant's rights.
+
+<<3148.81;3157.18;en>>
+It also places this case in the context of systemic violations of the rule of law in Poland.
+
+<<3157.18;3175.7;en>>
+The relevance of the fact that the present case concerns a member of a constitutional body charged with safeguarding judicial independence is reflected in answers to all of the questions posed by the court.
+
+<<3175.7;3200.47;en>>
+Once elected by the General Assembly of the judges of the Supreme Administrative Court, the applicant had a public, constitutionally guaranteed and a substantive right to serve his full four-year term of office as a judge member of the NCJ under domestic law.
+
+<<3200.47;3225.62;en>>
+This right is based on Article 60 of the Polish Constitution, guaranteeing individuals the right to access to public service on equal terms, read in conjunction with Article 187, Section 3 of the Polish Constitution, stating that the term of office of all elected members of the NCJ is four years.
+
+<<3225.62;3239.47;en>>
+The applicant's term of office was prematurely terminated halfway through in 2018 as a result of entry into force of the 2017 Amending Act.
+
+<<3239.47;3253.83;en>>
+It was the state's obligation to respect the applicant's right to serve his constitutional four-year term of office as a judge member of the NCJ.
+
+<<3253.83;3260.62;en>>
+Rephrasing the words of this court in the judgment delivered in Baca v. Hungary, Mr.
+
+<<3260.62;3278.18;en>>
+Grzenda's entitlement to serve his full term should be supported by constitutional principles regarding the independence of the judiciary, which in this case the NCJ was obliged to safeguard.
+
+<<3278.18;3291.07;en>>
+Jan Grzenda's right to serve his full four-year term of office had a civil character in the autonomous meaning of Article 6 of the Convention.
+
+<<3291.07;3304.43;en>>
+This case concerns the relationship between the applicant and the Polish state, which entrusted him with duties and obligations as a judge member of the NCJ.
+
+<<3304.43;3313.74;en>>
+It concerns the violation of the applicant's individual civil rights vis-à-vis the Polish state.
+
+<<3313.74;3320.03;en>>
+The civil character of Mr. Grzenda's right to serve the constitutionally guaranteed term
+
+<<3320.03;3326.95;en>>
+of office in the NCJ can be decoded in several dimensions.
+
+<<3326.95;3333.62;en>>
+Firstly, Mr. Grzenda's right to serve his full term of office was the fulfillment of
+
+<<3333.62;3339.7;en>>
+his oath as a judge in a personal, inner dimension.
+
+<<3339.7;3346.18;en>>
+Mr. Grzenda perceived his membership in the NCJ as the realization of his calling as a
+
+<<3346.18;3356.03;en>>
+judge, as his personal and his emotional contribution to defending the laws and the independence of the judiciary.
+
+<<3356.03;3363.55;en>>
+The premature shortening of his mandate amounted for him to a demonstration of disrespect.
+
+<<3363.55;3393.07;en>>
+If not a label of infamy, the narrative presented by government officials in the public debate with regard to the adoption of the 2017 Amending Act was that the method and the result of the process of electing judges to the NCJ was defective, was undemocratic, that the judges members of the NCJ weren't fit for their positions and did not deserve the public trust.
+
+<<3393.07;3400.39;en>>
+This narrative was misleading, was hurtful and false.
+
+<<3400.39;3414.99;en>>
+And secondly, having been appointed by his peers as a judge member of the NCJ, the applicant had a right to perform his professional duties throughout his full term of office.
+
+<<3414.99;3421.47;en>>
+The premature termination of his term of office deprived him of that possibility.
+
+<<3421.47;3434.47;en>>
+And finally, the civil character of the applicant's right to serve his full four-year term of office as a judge member of the NCJ had also a pecuniary dimension.
+
+<<3434.47;3445.62;en>>
+The applicant had received significant per diem allowances and reimbursement of costs and expenses for the performance of his official duties.
+
+<<3445.62;3453.24;en>>
+We believe that as a judge member of the NCJ, Mr. Jan Brzęda should be granted equal protection
+
+<<3453.24;3463.43;en>>
+reserved for judges and other civil servants on the grounds of Article 6 of the Convention.
+
+<<3463.43;3481.66;en>>
+According to the Eskalinian test, it is for the government to demonstrate firstly that a civil servant's rights of access to a court under national law was expressly excluded and secondly, that the exclusion of Article 6 rights for the civil servant was justified.
+
+<<3481.66;3490.87;en>>
+In the light of the arguments presented by the government, we would like to comment on the criteria laid down in the Eskalinian test.
+
+<<3490.87;3496.55;en>>
+Mr. Brzęda's term of office in the NCJ was cut short ex legge upon the entry into force
+
+<<3496.55;3499.83;en>>
+of the 2017 Amending Act.
+
+<<3499.83;3506.55;en>>
+At no point did the lawmaker consider granting the dismissed judge any avenue of appeal.
+
+<<3506.55;3508.59;en>>
+It was quite the opposite.
+
+<<3508.59;3530.35;en>>
+The intention of the 2017 Amending Act was to replace with immediate effect all of these 15 judges who were representatives of the judiciary with 15 other people elected by the Parliament who would instead be representatives of the political powers.
+
+<<3530.35;3536.27;en>>
+Although there existed no explicit regulations to this effect, Mr. Brzęda was deprived of
+
+<<3536.27;3546.35;en>>
+the possibility of challenging the premature termination of his term of office before a court or other judicial authority.
+
+<<3546.35;3552.59;en>>
+The shortening of Mr. Brzęda's term of office as a judge member of the NCJ without
+
+<<3552.59;3561.95;en>>
+the possibility of appealing to a court was not based on objective grounds in the state interest.
+
+<<3561.95;3581.14;en>>
+The adoption of the 2017 Amending Act was preceded by the judgment of the now politicized Constitutional Tribunal, issued with the participation of persons unauthorized to adjudicate or, as they are commonly referred to, double judges.
+
+<<3581.14;3596.74;en>>
+This judgment served as a false pretense for the executive and the governing majority to justify the purging of the NCJ and appointment of new judges members of this body.
+
+<<3596.74;3611.62;en>>
+The 2017 Amending Act was subject to far-going criticism by a number of domestic and international authorities, both during the legislative process and thereafter.
+
+<<3611.62;3621.35;en>>
+The exclusion of the applicant's right to access to a court for determination of his civil rights was not justified.
+
+<<3621.35;3633.43;en>>
+The rationale behind this legislation that shortened his term of office did not serve to achieve the declared goal of democratization of the judiciary.
+
+<<3633.43;3648.18;en>>
+It served a real but thinly-veiled goal to subjugate the NCJ and thereby the judiciary to the legislative and executive powers under the control of one political formation.
+
+<<3648.18;3666.43;en>>
+The 2017 Amending Act, together with the other legislation reforming the judiciary, dismantled the system of checks and balances of the Polish state, the independence of the judiciary, and the stability of the Polish legal system.
+
+<<3666.43;3689.78;en>>
+The Court's question on the relevance of the fact that the applicant's case, membership in the NCJ, a constitutional body charged with safeguarding the independence of the judiciary, is crucial for the assessment of the objectivity of the interest of the state the 2017 Amending Act was aimed to pursue.
+
+<<3689.78;3703.18;en>>
+It is impossible to identify a genuine, objective, and legitimate aim in the state interest that would justify the exclusion of Mr. Grzenda's right to a court.
+
+<<3703.18;3711.47;en>>
+The exclusion of the applicant's right to a court was clearly incompatible with the rule of law principle.
+
+<<3711.47;3719.11;en>>
+As Mr. Grzenda's term of office was cut short ex lega, he had at his disposal no domestic
+
+<<3719.11;3726.51;en>>
+remedies, in particular appropriate or effective remedies, to challenge the violation of his rights.
+
+<<3726.51;3730.66;en>>
+Jan Grzenda could not submit an individual constitutional complaint.
+
+<<3730.66;3736.47;en>>
+There were no procedures that would allow him to petition the constitutional tribunal.
+
+<<3736.47;3743.59;en>>
+But also, Mr. Grzenda as an individual had no power to submit an application for abstract
+
+<<3743.59;3745.83;en>>
+constitutional review.
+
+<<3745.83;3757.23;en>>
+The fact that the NCJ has the capacity to file such an application for abstract constitutional review does not mean that Mr. Grzenda could have done so.
+
+<<3757.23;3765.99;en>>
+Firstly, the NCJ is a separate entity from any individual person, including the members of the NCJ.
+
+<<3765.99;3773.97;en>>
+And secondly, Mr. Grzenda as a member of the NCJ could not initiate or decide upon filing
+
+<<3773.97;3778.47;en>>
+by the NCJ of an application to a constitutional tribunal.
+
+<<3778.47;3788.03;en>>
+He would in fact have to remit himself from that decision-making process as the outcome would have concerned his own legal situation.
+
+<<3788.03;3807.82;en>>
+What's more, at the relevant time, which is the time when he was seeking access to a court and looking for an effective remedy, he was no longer a member of the NCJ because his mandate had been extinguished by the 2017 Amending Act.
+
+<<3807.82;3821.18;en>>
+The 2017 Amending Act was one of the crucial acts of legislation that undermined the rule of law and the system of checks and balances in Poland over the last years.
+
+<<3821.18;3840.99;en>>
+The undemocratic and short-sighted reference of the judiciary resulted also in violation of rights of persons who were in their official capacities engaged to the betterment of the Polish state and the protection of the rule of law.
+
+<<3840.99;3848.87;en>>
+Today we respectfully request the Honourable Court to acknowledge the violation of Mr.
+
+<<3848.87;3872.87;en>>
+Grzenda's Convention Rights, manifested in shortening of his constitutionally guaranteed term of office in the NCJ with no right to appeal, and to remedy this wrongdoing in such a way as to send a clear message of support for the rule of law and the independence of the judiciary.
+
+<<3872.87;3872.87;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3873.06;3879.86;en>>
+Thank you very much indeed to the representatives of the applicants.
+
+<<3879.86;3884.96;en>>
+I also confirm that both video and audio were adequate throughout.
+
+<<3884.96;3891.42;en>>
+I now turn to the third party intervener, the Commissioner of Human Rights of the Republic of Poland, Mr. Filipek.
+
+<<3891.42;3891.42;en>>
+You have the floor.
+
+[[ThirdParty;TP1]]
+
+<<3895.46;3899.26;en>>
+Thank you, President, distinguished members of the Court.
+
+<<3899.26;3910.66;en>>
+The Commissioner for Human Rights welcomes the Court's decision to give priority to applications concerning changes in the Polish judicial system and to consider them as a matter of urgency.
+
+<<3910.66;3924.5;en>>
+Indeed, time is of essence to stop and reverse unlawful changes in the judiciary and bring the situation back into line with the rule of law standards of Polish Constitution, Convention and EU law.
+
+<<3924.5;3932.62;en>>
+Although this case is, in concreto, an individual application, it relates to issues of the highest systemic importance.
+
+<<3932.62;3948.1;en>>
+The changes in the National Council of the Judiciary, henceforth the Council, that affected the applicant and subsequent actions taken by domestic bodies have undermined the separation of powers and credibility of judicial nomination procedures.
+
+<<3948.1;3956.5;en>>
+They have impeded effectiveness of judicial review and weakened the protection of human rights.
+
+<<3956.5;3970.86;en>>
+When considering this case, the Court will necessarily be reflecting on judicial independence as basic premise for the rule of law, from which the whole Convention draws inspiration and which is inherent in all the articles of the Convention.
+
+<<3970.86;3977.7;en>>
+I respectfully submit, on behalf of the Commissioner for Human Rights, four specific points for your consideration.
+
+<<3977.7;3985.86;en>>
+My first point refers to the need to ensure Council Judge members' protection against arbitrary removal.
+
+<<3985.86;3997.94;en>>
+The protection of Council Judge members should be derived first from their status as judges as such and second from the crucial function which the Constitution entrusts to the Council.
+
+<<3997.94;4004.98;en>>
+This protection should be equivalent to the protection against removal offered to adjudicating judges.
+
+<<4004.98;4010.16;en>>
+The following elements should, we submit, be jointly taken into account.
+
+<<4010.16;4015.62;en>>
+The Council has been entrusted with the role of guaranteeing the independence of courts and judges.
+
+<<4015.62;4024.86;en>>
+Hence, the status of this body and of its members must ensure that it is capable of carrying out this mission.
+
+<<4024.86;4049.3;en>>
+This has been also articulated in the rulings of the Court of Justice of the European Union, in particular in the AK judgment, paragraph 138 and subsequent, the independence of Supreme Court judgment, para 116, and the suspension decision of the disciplinary chamber of the Supreme Court, para 69 and subsequent.
+
+<<4049.3;4060.94;en>>
+The Constitution requires that the majority of Council members be judges to ensure that persons with attributes of independence have a decisive say in it.
+
+<<4060.94;4067.9;en>>
+For this reason, judges' independence should equally be guaranteed within the Council.
+
+<<4067.9;4071.74;en>>
+The Council directly influences the status of judges.
+
+<<4071.74;4073.86;en>>
+It nominates for judicial positions.
+
+<<4073.86;4078.82;en>>
+It participates in judges' promotion, dismissal, and early retirement.
+
+<<4078.82;4088.54;en>>
+It is therefore essential that there is no gap in the protection of judicial independence at this juncture of the State's structure.
+
+<<4088.54;4091.58;en>>
+The independence of judges must be absolute.
+
+<<4091.58;4096.42;en>>
+It must not be interfered with under any circumstances.
+
+<<4096.42;4099.76;en>>
+The independence of judges is also indivisible.
+
+<<4099.76;4108.32;en>>
+Office holders should be protected in all situations of public activity to which they are assigned as judges.
+
+<<4108.32;4127.22;en>>
+It cannot be assumed that before noon, while adjudicating, a judge is independent, while in the afternoon, when carrying out other public tasks, yet also as a judge, he or she may be subject to pressure or external influence.
+
+<<4127.22;4134.94;en>>
+Were this to occur, participation in the Council of judges would have no added value.
+
+<<4134.94;4141.04;en>>
+And the basic premise upon which the notion of a judicial council is founded would be undermined.
+
+<<4141.04;4147.62;en>>
+It is therefore clear that judge members should not have been removed in the first place.
+
+<<4147.62;4149.68;en>>
+Yet this has happened.
+
+<<4149.68;4152.18;en>>
+And this leads on to my second point.
+
+<<4152.18;4160.42;en>>
+A judge member must have access to a court to challenge the premature termination of his or her mandate.
+
+<<4160.42;4168.24;en>>
+Under national law, judicial members of the Council enjoy a constitutionally guaranteed right to set a four-year term.
+
+<<4168.24;4175.64;en>>
+This four-year term can only be terminated on the grounds set out in the law at the time of the election.
+
+<<4175.64;4192.68;en>>
+The legislature cannot, during the ongoing term of office, introduce new grounds for premature interruption of tenure, which would result in retroactive annulment of the right to a full term, as indicated in Baga, Judgment, paragraph 110.
+
+<<4192.68;4196.86;en>>
+Yet this is exactly what happened in Poland.
+
+<<4196.86;4202.52;en>>
+The mandate of judge members was terminated by a legislative amendment in 2018.
+
+<<4202.52;4208.38;en>>
+It produced ex lega effect and prevented them from having access to judicial review.
+
+<<4208.38;4212.4;en>>
+This cannot be reconciled with your court's case law.
+
+<<4212.4;4219.74;en>>
+For example, as indicated in paragraph 114 in the Kvesny case.
+
+<<4219.74;4227.08;en>>
+My third point concerns the role of the defective, partially captured constitutional tribunal.
+
+<<4227.08;4243.86;en>>
+The government seeks to justify changes to the Council by invoking a ruling of the Constitutional Tribunal of 2017, case K5-17, confirmed in 2019, case K12-18.
+
+<<4243.86;4248.66;en>>
+This argument should be rejected and the rulings disregarded.
+
+<<4248.66;4255.74;en>>
+The current Constitutional Tribunal does not offer a genuine constitutional review of the law.
+
+<<4255.74;4262.86;en>>
+Instead it is used to legitimize action of national authorities which are in breach of the Constitution.
+
+<<4262.86;4268.52;en>>
+It departs from previous rulings with no real justification.
+
+<<4268.52;4278.42;en>>
+Both rulings involve persons appointed in manifest violation of the Constitution, who are unlawfully appointed to positions that have not been vacant.
+
+<<4278.42;4281.5;en>>
+This alone disqualifies these rulings.
+
+<<4281.5;4294.74;en>>
+Your court has already held in Xerof law that participation of such a person in the adjudicating panel violated Article 6 of the Convention, since such a body was not established by law.
+
+<<4294.74;4302.0;en>>
+My fourth point addresses the consequences of changes made to the Council in 2018.
+
+<<4302.0;4313.34;en>>
+The Constitution specifies that although the Council is composed of representatives of all three branches of government, the judiciary forms a large majority within it.
+
+<<4313.34;4320.54;en>>
+17 out of 25 seats are for judges, and 15 judge members are elected by their peers.
+
+<<4320.54;4327.7;en>>
+This was confirmed by the Constitutional Tribunal in 2007, case K25-7.
+
+<<4327.7;4340.68;en>>
+The premature termination of the Council's term of office and the election of new judge members no longer by judges but instead by the same was a manifest breach of the Constitution.
+
+<<4340.68;4343.34;en>>
+This is not only the Commissioner's assessment.
+
+<<4343.34;4348.46;en>>
+It has been jurisprudentially confirmed by the Polish Supreme Court.
+
+<<4348.46;4359.9;en>>
+Indeed, the Court of Justice of the European Union, in two consecutive judgments, pointed to these changes as relevant circumstances assessing the Council's independence.
+
+<<4359.9;4370.5;en>>
+AK judgment para 143 as confirmed in its AB judgment of 2 March this year para 131.
+
+<<4370.5;4380.02;en>>
+These conclusions were also shared by the Supreme Administrative Court in its recent rulings of 6 May 2021.
+
+<<4380.02;4393.78;en>>
+The Court overturned the controversial resolution of 28 August 2018 in the part in which the new Council recommended appointments to the Supreme Court.
+
+<<4393.78;4399.72;en>>
+These changes in the Council's composition are widely considered unconstitutional.
+
+<<4399.72;4419.3;en>>
+Yet these very changes give the ruling majority capacity to reconstitute the Council's composition at will so as to influence the judicial appointment procedure and grant it de facto, the ruling party, a discretionary power to appoint judges in Poland.
+
+<<4419.3;4428.82;en>>
+As a consequence, the political majority has been able to influence the content of judicial decision in a part of the Polish judiciary.
+
+<<4428.82;4441.42;en>>
+The ultimate goal appears to be, first, to exclude any genuine review of the actions of the ruling majority, secondly, to protect arbitrary decisions of the government.
+
+<<4441.42;4460.74;en>>
+In the context of nominations to the Supreme Court, Advocate General Tamczew one month ago concluded in his opinion that the act of appointment by the President of the Republic following a defective procedure before the new Council constituted a flagrant, deliberate breach of law.
+
+<<4460.74;4489.86;en>>
+Moreover, in a series of decisions of 15 July 2020, the Supreme Court itself characterized the new appointment practice of the Council and the President as, and I quote, a special transfer window in the Polish legal system when the appointments to serve in the Supreme Court were handed out in flagrant and manifest violation of the constitutional standard and in full awareness of all parties' concerns.
+
+<<4489.86;4491.26;en>>
+End of quote.
+
+<<4491.26;4497.94;en>>
+My concluding remarks on behalf of the Commissioner for Human Rights, I wish to make three short submissions.
+
+<<4497.94;4506.54;en>>
+First, the proper functioning of the domestic justice system necessitates independence and objectivity of the Council.
+
+<<4506.54;4521.9;en>>
+Crucial for the fulfillment of the Council's mission is the participation of independent judges who must be guaranteed adequate legal protection in the exercise of their function within the body for the entire term for which they were elected.
+
+<<4521.9;4532.96;en>>
+Second, the early termination in 2018 of the term of office of the then judicial members of the Council was an aberration of this general principle.
+
+<<4532.96;4560.74;en>>
+The methodology already adopted by the Court of Justice of the European Union, namely the cumulative assessment of all relevant circumstances, see AK judgment para 152, and the identification of true aims of the ruling majority, see AB judgment para 138, and independence of the Supreme Court judgment para 87, reveal the full picture.
+
+<<4560.74;4574.54;en>>
+The changes in the Council in 2018 were indeed part of a planned strategy to take control of the process of appointing judges and by so doing influence the content of judicial decisions.
+
+<<4574.54;4588.12;en>>
+Third, the set changes violated the Constitution and created a permanent state of unlawfulness, undermining all acts of the Council, including judicial nominations.
+
+<<4588.12;4594.56;en>>
+Attempts to legitimize the changes with rulings of the Constitutional Tribunal remain ineffective.
+
+<<4594.56;4605.96;en>>
+The Tribunal rendered them in an unlawful composition and indeed the Tribunal itself has abdicated its function in upholding the Constitution.
+
+<<4605.96;4605.96;en>>
+I thank the members of the Court for their attention.
+
+[[JudgeP;Robert Spano]]
+
+<<4609.17;4612.13;en>>
+Thank you very much, Mr. Filipek.
+
+<<4612.13;4615.57;en>>
+Again, I confirm that video and audio were fine.
+
+<<4615.57;4622.13;en>>
+I now turn to my colleagues on the bench for questions to the parties.
+
+<<4622.13;4622.13;en>>
+Section President Lemmens.
+
+[[Judge;Paul Lemmens]]
+
+<<4626.74;4628.78;en>>
+Thank you very much, Mr. President.
+
+<<4628.78;4633.18;en>>
+I have questions to both parties.
+
+<<4633.18;4641.82;en>>
+One question about the situation that has nothing to do with the Section 6 of the Act of 2017.
+
+<<4641.82;4648.66;en>>
+The second question is specifically about the situation created by Section 6 of that Act.
+
+<<4648.66;4654.9;en>>
+The first situations before and after the amending Act.
+
+<<4654.9;4665.58;en>>
+And I would like to know more about the possibilities for the premature termination of the mandate of a member of the National Council of the Judiciary.
+
+<<4665.58;4671.06;en>>
+What are the grounds for a premature termination?
+
+<<4671.06;4674.1;en>>
+There are a number of grounds that are listed in the Act.
+
+<<4674.1;4675.46;en>>
+I know them.
+
+<<4675.46;4691.62;en>>
+But I'm wondering whether there are possibilities for other, whether there are other grounds for termination relating, for instance, to the fact that the member is not actively participating or that he has been convicted for a crime or something else.
+
+<<4691.62;4699.62;en>>
+Are there possibilities for a premature termination based on an explicit decision to be taken?
+
+<<4699.62;4703.18;en>>
+And if so, who would take such a decision?
+
+<<4703.18;4717.98;en>>
+And would there be a possibility for a member of the NCJ to contest such a decision before it has been taken and or after it has been taken?
+
+<<4717.98;4727.42;en>>
+So I would like to know how that was before the Section 6 Act, before the Act of 2017, and also how it is now.
+
+<<4727.42;4730.3;en>>
+Maybe it's the same situation.
+
+<<4730.3;4743.18;en>>
+Secondly, Section 6 of the Act of 2017 terminates Mr. Grzęda's term of office and of his colleagues' Ekslege.
+
+<<4743.18;4755.9;en>>
+The applicant twice stated and very clearly here before us that there was no possibility to challenge this provision before the Constitutional Court.
+
+<<4755.9;4763.3;en>>
+And I would like to ask the government whether the government fully agrees with that statement.
+
+<<4763.3;4769.98;en>>
+And I have another question relating to this Section 6 of the Act of 2017.
+
+<<4769.98;4776.34;en>>
+We have heard a lot about the applicability of Article 6, paragraph 1.
+
+<<4776.34;4785.66;en>>
+We have heard that for the applicant, there was a dispute about the unconstitutionality of the Act.
+
+<<4785.66;4792.86;en>>
+The applicant states that the Act violated the Article 6 and 187 of the Constitution.
+
+<<4792.86;4798.06;en>>
+He also states that there was a civil right, a right to serve a mandate for four years.
+
+<<4798.06;4801.26;en>>
+All that I understand, and my question is not about that.
+
+<<4801.26;4805.46;en>>
+But there is also a complaint about Article 13.
+
+<<4805.46;4816.98;en>>
+And here I would like to know what is the alleged violation of the applicant's rights and freedoms as set forth in the Convention.
+
+<<4816.98;4823.7;en>>
+In other words, from the point of view of Article 13, we are not dealing with civil rights anymore.
+
+<<4823.7;4829.74;en>>
+What are the rights and freedoms that the applicant would have invoked?
+
+<<4829.74;4835.34;en>>
+And how would these rights and freedoms exactly have been violated by the Act?
+
+<<4835.34;4835.34;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4837.04;4838.56;en>>
+Thank you very much. Judge Yüksel.
+
+[[Judge;Saadet Yüksel]]
+
+<<4840.12;4841.12;en>>
+Thank you.
+
+<<4841.12;4846.28;en>>
+I have one question for the government, but of course the other party can also comment.
+
+<<4846.28;4858.61;en>>
+In your observations and presentation, you state that the exclusion of the members of the NCJ from the right of access to a court is systematically corroborated on the ground of the act, the acting question.
+
+<<4858.61;4864.09;en>>
+And you provide examples regarding the permanent members of the Council's Bureau.
+
+<<4864.09;4878.57;en>>
+So I would ask if you could elaborate on this argument whether the exclusion is systematically corroborated, but particularly regarding for the judges who are holding the position only as members of the Council, like the applicants.
+
+<<4878.57;4879.07;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4881.64;4883.36;en>>
+Thank you very much. Judge Sabato.
+
+[[Judge;Raffaele Sabato]]
+
+<<4885.45;4887.41;en>>
+Thank you, Mr. President.
+
+<<4887.41;4893.85;en>>
+The case before the court, of course, concerns termination of office of the NCJ member.
+
+<<4893.85;4897.61;en>>
+And my distinguished colleagues have already asked questions concerning that.
+
+<<4897.61;4935.73;en>>
+But indirectly, there is another point which the parties have argued before us today, which is the construction of Article 187 of the Polish Constitution of 1997 in the part in which it does not provide, and I'm quoting, I think, the agent of the government, for any particular way of the judge members to be elected.
+
+<<4935.73;4946.93;en>>
+And therefore, this has been argued, this was left under paragraph four of the same article to a statute.
+
+<<4946.93;4950.17;en>>
+And so the statute was changed, and so on and so forth.
+
+<<4950.17;4961.97;en>>
+Now, my question concerns the intention of the founders of this Polish Constitution on 1997.
+
+<<4961.97;4972.57;en>>
+We have not had an occasion of having any reference to, for example, preparatory works.
+
+<<4972.57;4985.53;en>>
+We have read the constitutional court judgments, and there have been arguments by the parties concerning that, some references to doctrine.
+
+<<4985.53;4989.37;en>>
+But in my opinion, it would be very important for the court to know.
+
+<<4989.37;4995.53;en>>
+And so my question is addressed to both parties.
+
+<<4995.53;5002.89;en>>
+What can be objectively found in the preparatory works to the Constitution?
+
+<<5002.89;5013.37;en>>
+There is one mention in the documents before us that there was an inspiration on the constitutions of Italy, France, and Spain.
+
+<<5013.37;5038.13;en>>
+And objectively, seeing this article, in my opinion, and I wish to be corrected if I'm wrong, is very close to the article, if I'm not wrong, 122 of the Spanish Constitution of 1978, which also doesn't tell the body competent to choose those judges.
+
+<<5038.13;5047.75;en>>
+And there's been a sort of little, if I'm not wrong, a little constitutional crisis in Spain when the method was changed.
+
+<<5047.75;5058.53;en>>
+If I'm not wrong, at this time judges choose a list, and it is submitted to Parliament in that country.
+
+<<5058.53;5063.83;en>>
+So my interest is in preparatory works to your Constitution.
+
+<<5063.83;5064.17;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<5065.31;5066.51;en>>
+Thank you very much, Judge Kūris.
+
+[[Judge;Egidijus Kūris]]
+
+<<5068.85;5070.01;en>>
+Thank you, Mr. President.
+
+<<5070.01;5077.53;en>>
+I have similar questions to both parties, but I will read them separately.
+
+<<5077.53;5080.45;en>>
+A question to the applicant.
+
+<<5080.45;5098.81;en>>
+In your Article 6 complaint, you assert that there had been no national legal provision expressly excluding access to a court for a claim based on the alleged unlawfulness of determination of your mandate as a member of the Council of Judiciary.
+
+<<5098.81;5106.81;en>>
+But at the same time, you allege that there has been a violation of Article 13, so no effective remedy.
+
+<<5106.81;5110.65;en>>
+So how could you reconcile these two assertions?
+
+<<5110.65;5122.37;en>>
+Did you have the right, simply, without much, did you have the right under Polish law to challenge that determination or not?
+
+<<5122.37;5127.61;en>>
+And a very similar but reversed question to the government.
+
+<<5127.61;5142.25;en>>
+Regarding applicant's Article 6 complaint, the government maintains that the Polish law excluded access to court for claims relating to the membership in the National Council of the Judiciary.
+
+<<5142.25;5147.97;en>>
+But you also argue that the remedy had been available for the purposes of Article 13.
+
+<<5147.97;5152.33;en>>
+So how to reconcile these two assertions?
+
+<<5152.33;5155.09;en>>
+Was there a remedy or not?
+
+<<5155.09;5161.41;en>>
+And now, after listening to the discussions, I have one more question.
+
+<<5161.41;5183.69;en>>
+I understand from the submissions of oral, especially oral submissions of the government, that the central or the most crucial significance is attributed to the judgment of the Constitutional Tribunal of 2017.
+
+<<5183.69;5199.41;en>>
+Because it was this judgment which had to be implemented by the follow-up act, statutory amendment, which then had the effect of termination of mandate.
+
+<<5199.41;5203.49;en>>
+So that judgment of the 20th of June of 2017.
+
+<<5203.49;5208.25;en>>
+And the court has been presented with a translation of that judgment.
+
+<<5208.25;5215.97;en>>
+And I would like to cite one paragraph of that judgment, one phrase, actually, of that judgment.
+
+<<5215.97;5234.27;en>>
+But before citing that and asking for a comment on that, I would say that perhaps we all know that there are certain standards, universally accepted, internationally accepted standards, long-standing standards of constitutional interpretation.
+
+<<5234.27;5246.93;en>>
+Such methods are used as method of legislative intent, teleological method, purportive interpretation, linguistic method, systemic methods, historical methods, and so on.
+
+<<5246.93;5251.53;en>>
+So now I will cite that judgment.
+
+<<5251.53;5279.23;en>>
+The constitutional court, in the current composition, does not agree with the constitutional court's position adopted in the judgment of 18th of July 2007, number 25K2507, that the Constitution specifies that judicial members of the NCJ shall be elected by judges.
+
+<<5279.23;5284.29;en>>
+Especially the words, court in the current composition does not agree.
+
+<<5284.29;5286.51;en>>
+Could you please comment?
+
+<<5286.51;5301.01;en>>
+First of all, I ask that to the representative of the government comment on which of the universally accepted standards of constitutional interpretation that thesis relies upon.
+
+<<5301.01;5309.13;en>>
+And I also call for the applicant, the representative of the applicant, to comment on that issue if they wish so.
+
+<<5309.13;5310.01;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<5312.01;5312.53;en>>
+Judge Pavli.
+
+[[Judge;Darian Pavli]]
+
+<<5315.21;5317.21;en>>
+Thank you.
+
+<<5317.21;5320.25;en>>
+I have two questions for the applicant.
+
+<<5320.25;5326.09;en>>
+The first relates to your claim that we're dealing with a civil right in this case.
+
+<<5326.09;5344.45;en>>
+And in making that claim, you seem to rely extensively on the emotional or moral impact of the early termination on the applicant, as there seem to be no financial implications in the ordinary labor law sense of the term.
+
+<<5344.45;5355.85;en>>
+My question is, what is the basis in our case law for your suggestion that the emotional impact is enough to make this a civil right?
+
+<<5355.85;5364.57;en>>
+I suppose a minister fired by the prime minister of parliament would also be quite disappointed, and I assume that's understandable.
+
+<<5364.57;5374.73;en>>
+But I suppose you would not suggest that that would give the minister's civil right in the Article VI sense of the term.
+
+<<5374.73;5400.89;en>>
+My second question relates to the second part of the Eskalinan test, if we get to that point, where, as I understand, you've essentially invited the court to set aside a legislative act of the national legislature because it goes contrary to the rule of law and the systems of checks and balances.
+
+<<5400.89;5405.69;en>>
+But now those are quite broad concepts.
+
+<<5405.69;5426.25;en>>
+Is there a specific rule of law with a small "r" that is universally, or at least in a prevailing way, accepted and applied in the Council of Europe legal space that you can identify that has been violated in the current case?
+
+<<5426.25;5426.25;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<5428.93;5432.21;en>>
+Thank you very much indeed. I have no further questions from my colleagues.
+
+<<5432.21;5438.37;en>>
+Only a final question from myself, which I address to the government, if I may.
+
+<<5438.37;5444.21;en>>
+We are presented in this case with a series of domestic judgments.
+
+<<5444.21;5466.93;en>>
+I'm struck by the fact that the government in their observations to us, written observations in their factual description, paragraph 6 to 24, make no reference at all to judgments rendered by the Supreme Court of 5 December 2019, which follows the ECJ judgment in AK and others.
+
+<<5466.93;5474.45;en>>
+There is no mention of the resolution of the joint formations of the Supreme Court of 20 January 2020.
+
+<<5474.45;5476.29;en>>
+So my question is this, Mr. Sobczak.
+
+<<5476.29;5492.29;en>>
+As you know, one of the underlying principles under the Convention is the principle of subsidiarity, which requires the court to look very closely at the way in which the national courts have reviewed the Convention issue in question.
+
+<<5492.29;5525.41;en>>
+How would you invite the court to deal with the, let me just say it bluntly, the clear clash which is between the Constitutional Tribunal on the one hand, in the judgments of 2017 and 2019 on the one hand, which the government heavily relies upon, and the judgments rendered by the Supreme Court, the resolution of the joint formation, and now most recently of 6 May 2021 of the Supreme Administrative Court?
+
+<<5525.41;5540.21;en>>
+How would you, for the purposes of our examination of this case, how would you invite us to address the tensions between the domestic courts on the underlying issues in question?
+
+<<5540.21;5545.81;en>>
+I would invite both the applicant and the third party interveners to comment on this as well.
+
+<<5545.81;5554.45;en>>
+So now we suspend the hearing until 12 noon, both local time and Warsaw time.
+
+<<5554.45;5558.93;en>>
+So please, we will commence again in just under 30 minutes, 12 noon.
+
+<<5558.93;5558.93;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<5607.69;5608.39;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<5612.24;5614.2;en>>
+Welcome back. The hearing is resumed.
+
+<<5614.2;5616.48;en>>
+I call Mr. Sobczak for the government.
+
+<<5616.48;5616.48;en>>
+You have the floor, please.
+
+[[Government;GR1]]
+
+<<5624.98;5630.22;en>>
+Mr. President, distinguished member of the court,
+
+<<5630.22;5639.56;en>>
+allow me to start my final statement with the answer to the question which were asked by the honorable judges.
+
+<<5639.56;5665.5;en>>
+With request to the questions of Miss of Judge Lemans, and in particular to the first one, the first question concerns related to the issue whether the situation before and after the amending act, whether there was a possibility of premature termination of the term of office on other grounds.
+
+<<5665.5;5675.74;en>>
+In this respect, I would like to note that the mandate of a member of the NCJ is a derivative of his function.
+
+<<5675.74;5685.18;en>>
+So that means that if a judge is dismissed from office, he will also be excluded from his or her membership in the NCJ.
+
+<<5687.94;5694.06;en>>
+This will also be the case when the judge commits a crime.
+
+<<5694.06;5704.02;en>>
+So otherwise, there were not other possibilities beside those which I have already mentioned to dismiss the members of the NCJ.
+
+<<5704.02;5728.82;en>>
+With respect to the second and the third question, I would like to also answer the second and the third question of Judge Lemans and the first question of Judge Kuris jointly, because they refer to Article 13.
+
+<<5728.82;5740.94;en>>
+As I have stated, the applicant, despite his arguments on the civil nature of his right, did not even attempt to subject his claim to judicial review in order to obtain a court decision.
+
+<<5740.94;5752.3;en>>
+If he had done so, the civil or administrative court would have most probably rejected his claim, stating that it did not have jurisdiction to hear it.
+
+<<5752.3;5764.5;en>>
+Such a decision could have constituted a possible preliminary ruling for the purpose of lodging a constitutional complaint, raising the lack of access to a court.
+
+<<5764.5;5771.06;en>>
+The constitutional court would have examined whether this was constitutional or not.
+
+<<5771.06;5798.26;en>>
+Thus, regardless the court's strong position that the right to a court in the applicant's case was generally excluded, the court before which the relevant request could have been brought by the applicant could have made an assessment of whether there was access to a court in order to seek judicial protection in connection with the shortening of the term of office of a member of the NCJ.
+
+<<5798.26;5807.86;en>>
+The situation would have been similar to that in the case of Bosch against Poland, already examined by the Strasbourg court.
+
+<<5807.86;5816.46;en>>
+The applicant's claim in that case were in the first place rejected by the Polish civil and administrative courts as inadmissible.
+
+<<5816.46;5832.66;en>>
+Once the Strasbourg court considered this to be incompatible with the right of access to a court, the Supreme Court reinterpreted the civil law and considered that the subject matter was under jurisdiction of the Polish civil court.
+
+<<5836.46;5852.34;en>>
+I have also mentioned that the NCJ itself could have lodged an application to the constitutional tribunal and questioned thereby constitutionality of the transitional provision of the 2017 amending act.
+
+<<5852.34;5861.38;en>>
+The NCJ was authorized to do so under article 191, paragraph 1.2 of the constitution,
+
+<<5861.38;5867.78;en>>
+also prior to the implementation of the aforementioned provision on 6 March, 2018.
+
+<<5867.78;5884.78;en>>
+The government does note that the applicant neither evades himself of the possibility to lodge a constitutional complaint with the constitutional tribunal, nor requested the NCJ, when he was still a member of the ROF, to do so.
+
+<<5884.78;5909.9;en>>
+As regards Judge Lemon's question with human rights or obligations, which human rights or obligations could the applicant raise under article 13 of the convention, the position of the government is consistent, none as there was no human rights in the meaning of the convention that was violated in the applicant's case.
+
+<<5918.02;5941.86;en>>
+As regards the question of President Spano, I have the honor to stress that in the Polish legal system, it is the constitutional court that is primarily tasked and competent to resolve issues regarding the constitutionality of law and relations between the constitutional authorities.
+
+<<5941.86;5955.38;en>>
+As regards the question of Judge Kuris regarding the methods of constitutional interpretation applied by the constitutional court in 2007, the following principles were used.
+
+<<5955.38;5962.34;en>>
+The principle of relying in the first place on the literal wording of the constitution.
+
+<<5962.34;5970.5;en>>
+Secondly, the principle of interpreting the law in favor of human rights and democracy.
+
+<<5970.5;5979.1;en>>
+Thirdly, the principle of systemic interpretation and interpreting the status in harmony with the constitution.
+
+<<5979.1;5995.5;en>>
+I should also, I would also like to underline that the Polish legal system does not foresee of the doctrine of star diseases, which is applied in the common court system countries.
+
+<<5995.5;6016.26;en>>
+That means that the Polish courts are not bound by the judgments of the previous, by the previous judgments and decide on the each case individually on the basis of the statement of facts and the law.
+
+<<6016.26;6017.9;en>>
+I will leave it here.
+
+<<6017.9;6018.9;en>>
+One more question.
+
+<<6018.9;6019.9;en>>
+I have one more question.
+
+<<6019.9;6021.9;en>>
+I have one more question.
+
+<<6021.9;6023.9;en>>
+I have one more question.
+
+<<6023.9;6025.9;en>>
+Which question was it?
+
+<<6025.9;6064.06;en>>
+And with respect to the question of Jad Sabato, I would like to start with stating that the 1997 constitution was adopted after a long debate and in a political situation incompatible to what we know today with the two leading parties on the political scene of Poland.
+
+<<6064.06;6085.74;en>>
+In this, I can just quote one of the article of 1997, that seven constitution, I mean, of one of the articles published in the newspaper, daily newspaper, that the draft of the new constitution is now ready.
+
+<<6085.74;6093.14;en>>
+The constitutional commission has completed the two and a half year stage of constitutional work.
+
+<<6093.14;6098.18;en>>
+It consisted in developing one text on the basis of seven projects.
+
+<<6098.18;6112.1;en>>
+As the chairman of MP, Marek Mazurkiewicz said, the proposal of the new constitution developed by the commission is of a Republican democratic character.
+
+<<6112.1;6116.74;en>>
+It provides for a parliamentary cabinet system of government.
+
+<<6116.74;6124.5;en>>
+The president's power are relatively smaller than the present one.
+
+<<6124.5;6131.1;en>>
+But the constitution assigns the president the role of an arbiter in the political system.
+
+<<6131.1;6139.54;en>>
+It would therefore play an essential role in the procedure of government formation in crisis situation and threats the country.
+
+<<6139.54;6154.54;en>>
+However, since it was deliberated in a very early period of the post-communistic system on the basis of seven different concepts, some space was left for the parliament to shape the Polish system of law.
+
+<<6154.54;6167.94;en>>
+That was made in respect of the prosecutor's office, no mention in the constitution, which left some space for the future Sejm and Senates to decide how to shape it.
+
+<<6167.94;6177.62;en>>
+That was made in respect of the self-government, as it was not clear whether to choose the two or the three levels of the self-government.
+
+<<6177.62;6184.22;en>>
+It was also clear that the ground level of the self-government would be a municipality.
+
+<<6184.22;6192.3;en>>
+And the same was made in respect of the mode of the election of the judge members of the NCJ.
+
+<<6206.3;6231.02;en>>
+And with respect to the question of the Judge Juksa, I would like to only refer to my statements, which I made previously and confirm that there is a huge difference, distinction between the board member of the, bureau member of the NCJ and the regular judge members to the pecuniary linkage.
+
+<<6231.02;6242.3;en>>
+And now allow me to come back to the final statement.
+
+<<6242.3;6248.94;en>>
+Mr. President, distinguished member of the court,
+
+<<6248.94;6268.5;en>>
+after having examined the statements made by the party and the third party interventions, the government disagree with the concept of using this case as exemplary in order to create a forum for criticizing various aspects of the judicial reform in Poland.
+
+<<6268.5;6277.58;en>>
+Both the applicant and various third parties emphasize the issue of the rule of law or the independence of courts and judges.
+
+<<6277.58;6287.5;en>>
+However, this does not deal with issues related to the guarantees of the independence of courts or the independence of judges.
+
+<<6287.5;6299.02;en>>
+In this regard, they believe that they already extensively explained the reasons behind the NCJ reform and the idea of its democratization.
+
+<<6299.02;6322.06;en>>
+Further, government wish to quote the statement of the United Nations Special Rapporteur on the independence of judges and lawyers, who has noted that in various reports, the Special Rapporteur has acknowledged that the power of the government to undertake reforms to the judiciary cannot be questioned.
+
+<<6322.06;6340.18;en>>
+It is undeniable fact that the judiciary requires to be modernized, strengthened, and subject to some reforms to address contemporary challenges and issues that currently affect the judicial power, operation and outcomes.
+
+<<6340.18;6360.82;en>>
+The government of the view that the case should be evaluated from the perspective of the individual application pending before the court, in particular, focused on the applicant's complaints regarding the lack of access to the court to contest the early termination of his term of office.
+
+<<6360.82;6377.34;en>>
+In this context, it should be also not overlooked that the temporary provisions also related to early termination of the term of office of judges are also accepted and applied at the international level.
+
+<<6377.34;6388.22;en>>
+Indeed, the term of office of certain judges was changed after the implementation of protocol 11 and 14 to the European Convention.
+
+<<6388.22;6397.42;en>>
+In the first case, the term of office was shortened and in the second was partially prolonged.
+
+<<6397.42;6399.9;en>>
+Mr. President, distinguished member of the court,
+
+<<6399.9;6423.7;en>>
+ladies and gentlemen, to sum up, the government of the Republic of Poland uphold the position that the present application should be considered incompatible with the Convention and inadmissible on the account of the lack of significant disadvantage on the part of the applicant and manifest the ill-founded character of the application.
+
+<<6423.7;6432.14;en>>
+Consequently, it should be rejected in accordance with Article 35, paragraph 4 on the Convention.
+
+<<6432.14;6442.42;en>>
+Otherwise, the government considered that there was no violation of Article 6, paragraph 1 and Article 13 of the Convention.
+
+<<6442.42;6443.42;en>>
+Thank you for your attention.
+
+[[JudgeP;Robert Spano]]
+
+<<6444.92;6447.52;en>>
+Thank you very much, Mr. Sobczak, for your submissions.
+
+<<6447.52;6450.36;en>>
+I now turn to the representatives of the applicant, Mr. Pietrzak.
+
+[[Applicant;AP2]]
+
+<<6452.69;6455.65;en>>
+With the permission of the court, Mr. President,
+
+<<6455.65;6460.61;en>>
+my colleague, Advocate Małgorzata Mączka-Pacholak, will commence and I will supplement her comments.
+
+[[JudgeP;Robert Spano]]
+
+<<6460.96;6461.62;en>>
+Please proceed.
+
+[[Applicant;AP1]]
+
+<<6462.96;6468.8;en>>
+Thank you, Mr. President and members of the court. I will deal only with some of the questions
+
+<<6468.8;6473.28;en>>
+that have been asked by the court and then I will defer to my colleague, Advocate Pietrzak.
+
+<<6474.08;6499.6;en>>
+As regards the question asked by the Judge Lemons and the rules governing the expiry of the terms of office of the NCJ members, I would like to underline that the provision of the 2017 Amending Act changed the rules of expiring the terms of office of judges members of the NCJ. To keep it
+
+<<6499.6;6513.28;en>>
+simple, it was an extra basis for determination of term of office that has not been provided at the material time when the applicant was appointed as a judge member of the NCJ. As regards other
+
+<<6513.28;6533.28;en>>
+cases, when the terms of office of judges members of the NCJ could have been terminated, I would refer to Article 14, Section 1.5 of the Act on the NCJ. It says that it provides grants for the
+
+<<6533.28;6543.52;en>>
+expiry in case of expiry or termination of the judges services. This services relationship,
+
+<<6545.52;6556.24;en>>
+in my opinion, this would relate also to implementing disciplinary measures, including criminal convictions of a judge being a member of the NCJ at the relevant time.
+
+<<6556.24;6584.24;en>>
+Answering to the question of Judge Pavli, referring to the moral and financial aspect of the civil rights protector under Article 6 of the Convention, I would like to clarify that the per diem allowances, such as those were received by the applicant, are the very nature of the remuneration for work that has been performed. The national law clearly states that the entitlement
+
+<<6584.24;6601.28;en>>
+to a remuneration referred to as a per diem allowance is for performing certain functions in the state. As in the case of the members of the NCJ, per diem allowance are also paid to other
+
+<<6601.28;6614.96;en>>
+persons holding elected positions, including among others members of the Parliament, senators, senators, members of city councils and members of professional associations.
+
+<<6616.16;6652.8;en>>
+Article 26 of the Act on the NCJ clearly stipulates that members of the NCJ, in connection with performance of their duties in the NCJ, receive per diem allowances for each day of participation in plenary sessions or other work in the amount of 20% of the basis determining, and that's important, the basic salary of a judge and separately reimbursement of travel costs and expenses. I should also add that per diem allowances are relevant from the applicable
+
+<<6653.36;6662.24;en>>
+tax provisions and the applicant had to report them to fiscal authorities. And the allowances
+
+<<6662.24;6678.56;en>>
+that do not generate a strict profit or income remain their pecuniary character within the meaning of Article 6, Section 1 of the Convention. In terms of setting the balance between the private
+
+<<6679.92;6693.84;en>>
+and the pecuniary and non-pecuniary aspects of Article 6, I would refer to the Court's judgment in Bilgin v. Turkey, where the Court clearly stated that a public law dispute may bring the
+
+<<6694.56;6709.04;en>>
+civil limp into play if the private law aspects predominate over the public laws in view of the direct consequences for a civil pecuniary and non-pecuniary right. And lastly, I should
+
+<<6709.04;6717.44;en>>
+underline that we cannot equate public service with executing state power. NCJ members, just
+
+<<6717.44;6723.44;en>>
+like judges, are appointed for public service, not for state power. State power belongs to the bodies,
+
+<<6723.44;6730.08;en>>
+it belongs to the authorities, not to particular members or judges sitting on adjudicating panels.
+
+<<6730.08;6737.76;en>>
+They provide public service rather than holding a state power. And in this case, we deal with the
+
+<<6737.76;6748.96;en>>
+violation of the applicant's right under the Convention, where there is an autonomous meaning of the relationship. That does not have to be a classic employment meaning under domestic law
+
+<<6748.96;6748.96;en>>
+or under labor law. I would defer to my colleague. Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<6757.3;6757.98;en>>
+Mr. Pietrzak?
+
+[[Applicant;AP2]]
+
+<<6759.76;6762.08;en>>
+Yes, we're experiencing a slight technical difficulty.
+
+<<6762.08;6764.08;en>>
+Here we go. Thank you.
+
+<<6764.08;6767.04;en>>
+Mr. President, distinguished members of the court,
+
+<<6767.04;6774.48;en>>
+I would like to thank the members of the court for their very acute questions.
+
+<<6774.48;6778.72;en>>
+First, I refer to Judge Sabato's questions.
+
+<<6778.72;6790.8;en>>
+Judge Sabato noted that the construction of Article 187 of the Constitution of Poland does not provide expressly for a particular way for a judge member to be elected.
+
+<<6790.8;6792.6;en>>
+And that is, of course, true.
+
+<<6792.6;6798.52;en>>
+But when we try to establish norms of the Constitution, we don't just read the text.
+
+<<6798.52;6810.76;en>>
+We seek the norm through jurisprudence, through lengthy practice, and through the filter of the intentions of the authors of the Constitution.
+
+<<6810.76;6822.12;en>>
+So using all these methods of interpretation, which were referred to today, including also by Judge Sabato.
+
+<<6822.12;6840.8;en>>
+And I would state that the norm is that we derive through the filter of constitutional aki, of jurisprudence of the court, and of the practice of the state authorities over the past 30 years.
+
+<<6840.8;6857.6;en>>
+That norm, so Article 187 read through that practice over 30 years, leads us to the conclusion that the actual norm requires that the judges be elected by judicial community, not by the parliament.
+
+<<6857.6;6873.8;en>>
+That is further supported by the very purpose of the presence of these 15 judges in the NCJ, which is reflected in the intention of the founders of the preparatory works of the Constitution.
+
+<<6873.8;6880.52;en>>
+I made reference earlier today to the roundtable discussions following the fall of communism.
+
+<<6880.52;6891.04;en>>
+It was then that these discussions started and came to fruition upon the completion of the drafting of the Constitution.
+
+<<6891.04;6913.8;en>>
+It was during that time, and this was reported in a recent article by former first president of the Supreme Court, Adam Szczembosz, the founders introduced that set of 15 judges so that parliament would have a minority in the NCJ.
+
+<<6913.8;6927.0;en>>
+And that is why parliament was specifically given a set number of representatives to be chosen by the lower house and the upper house of parliament to sit in the NCJ.
+
+<<6927.0;6934.6;en>>
+And they were specifically allotted that number, and that number was smaller than the 15 number judges.
+
+<<6934.6;6943.36;en>>
+The intent was for the judicial community to have a majority selected from amongst the judges by the judges.
+
+<<6943.36;6951.2;en>>
+So this body would not be politically controlled and would in fact be able to serve the independence of the judiciary.
+
+<<6951.2;6958.04;en>>
+That would not be the case if these 15 people were elected, whether they be judges or not, by the parliament.
+
+<<6958.04;6970.72;en>>
+That gives parliament control over the judiciary, which is exactly contrary to the very nature of this constitutional body.
+
+<<6970.72;6992.44;en>>
+Judge Kuris asked about the Article 6 complaint and there being no national legal provision for exclusion and asked whether Article 13, do we have a chance of challenging this violation before a court?
+
+<<6992.44;6994.76;en>>
+And was there a remedy available or not?
+
+<<6994.76;7002.36;en>>
+If I understood Judge Kuris' question correctly, our reasoning was extremely simple.
+
+<<7002.36;7004.0;en>>
+It was extremely simple.
+
+<<7004.0;7013.72;en>>
+To put it short and in human terms, there was nothing Mr. Jan Janda could do to remedy his situation domestically.
+
+<<7013.72;7021.36;en>>
+He could not access a court and he could not access the constitutional tribunal.
+
+<<7021.36;7029.08;en>>
+Now, he could not access a court because there was no provision under statute allowing him to do so.
+
+<<7029.08;7040.24;en>>
+His claim had no reflection in procedural laws under administrative or civil law, labour disputes that would give him access to a court.
+
+<<7040.24;7044.24;en>>
+So that could not be considered effective access.
+
+<<7044.24;7051.92;en>>
+The government seems to suggest that he should have tried to access the court only to be rejected.
+
+<<7051.92;7064.12;en>>
+Well, the government is really expecting the applicant to perform some legal donkey hotari.
+
+<<7064.12;7074.52;en>>
+Access to a court under Article 6 means effective access to a court, not a facade whereby we know there is no legal access, but we do it anyway.
+
+<<7074.52;7078.68;en>>
+That cannot be reasonably expected of any applicant.
+
+<<7078.68;7082.56;en>>
+Now, he had no access to a constitutional court.
+
+<<7082.56;7099.12;en>>
+I think there is a great misunderstanding in this case in the communication of the government, which seems to equate an individual constitutional complaint with an application which can be filed by a constitutional body for abstract constitutional control.
+
+<<7099.12;7107.24;en>>
+These are two separate avenues by which constitutional proceedings are initiated.
+
+<<7107.24;7109.64;en>>
+Constitutional review proceedings are initiated.
+
+<<7109.64;7114.24;en>>
+Now, the first and only mechanism available to any individual, including Mr.
+
+<<7114.24;7117.88;en>>
+Young, that is the constitutional complaint.
+
+<<7117.88;7135.4;en>>
+That or Scarga in Polish, that constitutional complaint is only available if there is a decision or a judgment issued, which we believe is issued for the applicant believes is issued on the grounds of an unconstitutional law.
+
+<<7135.4;7137.04;en>>
+There was no such decision.
+
+<<7137.04;7140.04;en>>
+There was no such judgment in this case.
+
+<<7140.04;7140.48;en>>
+So Mr.
+
+<<7140.48;7147.88;en>>
+Grenda had nothing to base his constitutional claim complaint on.
+
+<<7147.88;7158.0;en>>
+There was no decision or judgment from which the three month deadline would start running for him to file a constitutional complaint because no decision or judgment was made.
+
+<<7158.0;7163.0;en>>
+He didn't even receive a letter stating that his term had elapsed.
+
+<<7163.0;7177.28;en>>
+This was strictly done Xlegge and an act, a normative act of law passed by Parliament does not constitute a decision or a judgment which initiates the term during which an individual may file a constitutional complaint.
+
+<<7177.28;7182.04;en>>
+So that access, that remedy was not available to him.
+
+<<7182.04;7194.16;en>>
+Now, the government spends a lot of time in the written pleadings and today referring to an abstract application to the court to the court constitutional tribunal.
+
+<<7194.16;7201.68;en>>
+Well, that's, of course, is a legitimate mechanism, but it is not a mechanism that can be used by any individual.
+
+<<7201.68;7207.68;en>>
+It is only the power of very specific constitutional bodies.
+
+<<7207.68;7215.56;en>>
+The Human Rights Ombudsman, the prosecutor general, the first president of the Supreme Court and the NCJ.
+
+<<7215.56;7224.48;en>>
+However, the NCJ as a body, as a power can use that abstract application to the constitutional court.
+
+<<7224.48;7231.64;en>>
+Not an individual who happens to be a member of the NCJ in a case concerning his rights and freedoms.
+
+<<7231.64;7250.68;en>>
+Now, even if we accept that a member might have influence on that, there is a difference between an individual's rights and that the pursuit of that individual's vindication of those rights before a constitutional court and an abstract application which can't concern that individual.
+
+<<7250.68;7259.88;en>>
+And he had no power, even if he was a member of the NCJ, no power to make sure that the NCJ would file such an abstract application.
+
+<<7259.88;7262.4;en>>
+This seemed, but even more important.
+
+<<7261.69;7262.73;en>>
+even more important.
+
+[[JudgeP;Robert Spano]]
+
+<<7262.73;7265.53;en>>
+Mr. Pietrzak, you have two to three more minutes, please.
+
+[[Applicant;AP2]]
+
+<<7266.23;7272.31;en>>
+I will follow this up. More importantly, he was no longer a member of the NCJ at the critical time,
+
+<<7272.95;7277.43;en>>
+so he had no influence on whether the NCJ would or would not file such an abstract application.
+
+<<7280.55;7299.51;en>>
+Judge Kuris asked a question regarding central standards of interpretation, constitutional interpretation, and referred to a very specific statement made by the Constitutional Court. The Constitutional Court in the current composition does not agree with the constitutional
+
+<<7299.51;7306.47;en>>
+judgment of 2507, and asked which standard of interpretation applies. I'll say this bluntly.
+
+<<7306.47;7312.15;en>>
+No standard of interpretation applies. There was no legitimate judicial standard of interpretation,
+
+<<7312.15;7317.43;en>>
+no legal reasoning underlying the statement. This was a political statement which
+
+<<7319.27;7338.39;en>>
+demonstrated what we've been saying from the beginning of this case, that the Constitutional Tribunal, including in the case of 2017, was politically motivated and made its decision upon political criteria, not judicial ones. Now, Judge Pavli asked which universal rule of law can
+
+<<7338.39;7345.19;en>>
+it be applied. In short, no one-size-fits-all standard applies everywhere, but the Venice
+
+<<7345.19;7352.47;en>>
+Commission in 2016 created a rule of law checklist. One of the benchmarks was access to justice,
+
+<<7352.47;7357.03;en>>
+which includes independence and impartiality of the judiciary. This is supported by the famous
+
+<<7357.03;7382.55;en>>
+eight principles of the rule of law authored by Lord Bingham, which include the requirements that adjudicative procedures must be provided by the state and should be fair, and that the rule of law requires that the state comply with its obligations in international law, including the European Convention on Human Rights. Finally, Judge Spano made reference to the December 5th
+
+<<7382.55;7405.27;en>>
+judgment of the Supreme Court and the resolution of the three chambers of the Supreme Court of 23rd of January, if I remember correctly, and referred to the clash between the Constitutional Tribunal, the Supreme Administrative Court and the Supreme Court.
+
+<<7407.43;7414.87;en>>
+Mr. President, this clash exists, but it is a clash between legitimate judgments of the Supreme Court
+
+<<7415.67;7460.07;en>>
+and a legitimate resolution of the three combined chambers of the Supreme Court, which undoubtedly constitute courts and tribunals as understood in the Convention, which are in line, in harmony, which this Court seeks to support with the Court of Justice of the European Union rulings, and in contrast with politically motivated decisions made by a politicized Constitutional Tribunal, made with the participation of double judges who delegitimize the Court. I see no clash between judgments. I see legitimate judgments on the one hand,
+
+<<7460.07;7473.99;en>>
+and a politicized decision of a body which does not have the necessary attribute of independence to be considered a court. To close up, Mr. President, I would just like to invoke
+
+<<7473.99;7481.19;en>>
+the oath that Mr. Grzenda made upon becoming a judge. I solemnly vow to serve the Republic of
+
+<<7481.19;7503.67;en>>
+Poland faithfully as an Administrative Court judge, to defend the laws, to fulfill my judicial obligations scrupulously, to administer justice in accordance with the letter of the law, and in an unbiased manner, in accordance with my conscience, to keep legally protected secrets, and to act according to the principles of dignity and honesty. It is this oath that led Mr. Grzenda
+
+<<7503.67;7507.99;en>>
+to serve as a member of the NCJ. It is this oath that brought him here before the Grand
+
+<<7507.99;7513.67;en>>
+Chamber of the European Court of Human Rights. Mr. Grzenda is here serving Poland faithfully,
+
+<<7514.23;7534.95;en>>
+seeking to defend its most important laws, including the Constitution and the European Convention on Human Rights, both of which guarantee him access to a court as part of his fair trial rights and an effective remedy to violation of his rights, both of which are founded on the principle of the rule of law. So we humbly request today that the Court support
+
+<<7534.95;7539.35;en>>
+Mr. Grzenda's defense of these fundamental democratic values and rule in favor of the
+
+<<7539.35;7544.87;en>>
+applicant, determining that the Polish state did in fact violate his rights under Article 6, Section 1, and Article 13 of the European Convention on Human Rights. Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<7550.0;7555.72;en>>
+Thank you very much Mr. Pietrzak. The third party intervener Mr. Filipek, you have two minutes to answer a particular question directed at you, please.
+
+[[ThirdParty;TP1]]
+
+<<7560.77;7563.57;en>>
+Mr. President, distinguished members of the court,
+
+<<7563.57;7568.21;en>>
+as we understood there was the only single question and I will answer it in three parts.
+
+<<7568.93;7573.17;en>>
+What is the situation of the current Constitutional Tribunal provides a partial answer.
+
+<<7573.17;7578.69;en>>
+We already know there are judges duplicates, persons who were unlawfully appointed to the court.
+
+<<7579.65;7593.41;en>>
+There are manipulations with the judicial panels, especially in the case that the government relies on K5 17. There were two judges exchanged. There were two judges exchanged without providing any
+
+<<7593.41;7599.01;en>>
+grounds for that arbitrary decision of the president. The clash that President Spano
+
+<<7599.01;7609.73;en>>
+mentioned is not only between the Constitutional Tribunal of today, but between the Supreme Court, Administrative Court and also the Constitutional Tribunal of before.
+
+<<7609.73;7615.89;en>>
+The today's Constitutional Tribunal actually departs from a key Constitutional of Poland.
+
+<<7616.69;7630.61;en>>
+I would provide four short grounds why the judgment that the government is right on should not be followed on the substance. First, the methods of election of judges members was a
+
+<<7630.61;7638.85;en>>
+logical consequence of the functions assigned to the council. It was to safeguard the judiciary
+
+<<7638.85;7643.81;en>>
+from the influence of the parliament and the executive. The adoption of the current method
+
+<<7646.45;7651.81;en>>
+makes these functions devoid of purpose. It's not possible to carry out this function.
+
+<<7652.93;7658.13;en>>
+Secondly, the parliament's influence on the council is expressly regulated in the Constitution.
+
+<<7658.13;7664.45;en>>
+The parliament elects four members of the same and two members of the senate. So expressly the
+
+<<7664.45;7669.65;en>>
+Constitution provides how the parliament influences the composition. It would be illogical
+
+<<7670.29;7684.21;en>>
+to assume that now there should be any other forms of influence provided in the ordinary legislation. But mainly the arguments are wrong because attempting to rely on the literal
+
+<<7684.21;7696.21;en>>
+interpretation disregards systemic and functional interpretation, especially when we interpret Constitution we should make reference or we should base the argument on systemic principles.
+
+<<7697.33;7704.21;en>>
+So the historic interpretation supports the systemic and functional one because if we remember that the National Council of the Judiciary was negotiated...
+
+[[JudgeP;Robert Spano]]
+
+<<7707.94;7712.34;en>>
+Mr. Filipek, please may I ask you to sum up your answer? Thank you.
+
+[[ThirdParty;TP1]]
+
+<<7713.39;7724.41;en>>
+Okay, so let me give you just the answer to the question, what is the purpose of the Constitutional Tribunal departing from the previous judgment?
+
+<<7724.41;7736.75;en>>
+Two purposes, first, to protect the compositions of the bodies, like the Constitutional Tribunal itself, like the two newly created chambers of the Supreme Court, like the National Council of the Judiciary.
+
+<<7736.75;7744.59;en>>
+And second purpose is to deprive of any effectiveness of any judgment that does not please the government.
+
+<<7744.59;7747.21;en>>
+And this concerns, of course, the Supreme Court.
+
+<<7747.21;7751.05;en>>
+This concerns the judgments of the Court of Justice of the European Union.
+
+<<7751.05;7755.83;en>>
+We could have seen it as far as the Aiken judgment and AP judgment is concerned.
+
+<<7755.83;7759.83;en>>
+And it also starts with the judgments of this tribunal, European Court of Human Rights.
+
+<<7759.83;7778.15;en>>
+Following the Xerof Law judgment, the president of the current Constitutional Tribunal said that the European Court of Human Rights, without a legal basis and beyond its competence, issued a judgment on the composition of the Polish Constitutional Tribunal and the judgment does not have any legal effect.
+
+<<7778.15;7778.15;en>>
+Thank you for your attention.
+
+[[JudgeP;Robert Spano]]
+
+<<7779.72;7781.0;en>>
+Thank you very much, Mr. Filipek.
+
+<<7781.0;7783.4;en>>
+We have now come to the end of the hearing.
+
+<<7783.4;7787.98;en>>
+I thank the parties for their submissions and their answers to the court's questions.
+
+<<7787.98;7791.54;en>>
+The court will now deliberate on the admissibility and merits of the case.
+
+<<7791.54;7794.4;en>>
+The judgment will be delivered at a later date.
+
+<<7794.4;7798.0;en>>
+The parties will be informed of the date of delivery.
+
+<<7798.0;7799.0;en>>
+I declare the hearing closed.
+

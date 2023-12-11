@@ -1,0 +1,1386 @@
+[[Announcer;UNK]]
+
+<<21.42;21.92;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<64.1;65.54;fr>>
+Je vous prie de vous asseoir.
+
+<<71.66;82.34;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds des affaires Vallianatos et Mylonas contre Grèce et CS et autres contre Grèce.
+
+<<82.34;105.5;fr>>
+Les affaires ont été introduites respectivement devant la Cour les 6 et 25 mai 2009 en vertu de l'article 34 de la Convention par deux ressortissants grecs Mr Grigoris Vallianatos et Nikolaos Mylonas pour la première requête et par six autres requérants ayant demandé l'anonymat ainsi que par l'association Sintesi pour la seconde.
+
+<<105.5;110.7;fr>>
+Les requêtes ont été communiquées au gouvernement le 3 février 2011.
+
+<<110.7;142.5;fr>>
+Le 6 mai 2011, la présidente de la première section a autorisé le centre R, la Commission internationale de juristes, la Fédération internationale des ligues des droits de l'homme et la branche européenne de la International Lesbian, Gay, Bisexual, Trans and Intersex Association à soumettre des observations écrites conjointes en tant que tierce partie en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<142.5;151.1;fr>>
+Le 11 septembre 2012, une chambre constituée au sein de la première section s'est dessaisie au profit de la grande chambre.
+
+<<151.1;156.5;fr>>
+Dans ces affaires, aucune des parties ne s'y étant opposées.
+
+<<156.5;173.22;fr>>
+Le gouvernement défendeur est représenté par son agente, Madame Aikaterini Grigoriou, conseillère assistée par Monsieur Dimitrios Kalogiros et Madame Myrto Germani, conseiller.
+
+<<173.22;188.26;fr>>
+Les requérants dans la première affaire sont représentés par Maître Caroline Mécary, conseil, et Monsieur Panayote Dimitras, représentant du Greek Helsinki Monitor, conseiller.
+
+<<188.26;197.1;fr>>
+Les requérants dans la seconde affaire sont représentés par Maître Nicolaos Alivizatos et Evangelos Mallios, conseil.
+
+<<197.1;203.06;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<203.06;211.98;fr>>
+Ayant consulté l'agente du gouvernement et les représentants des requérants, j'ai fixé ainsi l'ordre de parole.
+
+<<211.98;221.78;fr>>
+Nous entendrons successivement Madame Germani pour le gouvernement et Maître Alivizatos et Mécary pour les requérants.
+
+<<221.78;222.78;fr>>
+La parole est à Madame Germani.
+
+[[Government;GR1]]
+
+<<229.65;245.59;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, Dans les affaires qui nous préoccupent aujourd'hui, les requérants ne se plaignent pas d'avoir été empêchés de nouer ni d'entretenir une relation avec le partenaire de leur choix.
+
+<<245.59;255.19;fr>>
+Ils n'allèguent pas non plus qu'ils en courent de poursuites pénales en raison du fait qu'ils entretiennent une relation homosexuelle.
+
+<<255.19;281.29;fr>>
+Ils invoquent une restriction de leur liberté contractuelle du fait qu'ils ne peuvent pas conclure un pacte de vie commune que le droit grec réserve aux partenaires hétérosexuels, ce qu'ils perçoivent comme une atteinte à leur vie privée et familiale et comme une discrimination liée à leur orientation sexuelle.
+
+<<281.29;302.85;fr>>
+Mais les requérants ne précisent nulle part quelle serait la valeur ajoutée que la conclusion de ce contrat pourrait apporter à leur vie et en quoi consiste le bénéfice dont jouissent les partenaires hétérosexuels paxés et dont ils s'estiment privés.
+
+<<302.85;317.85;fr>>
+En ce qui concerne la recevabilité et le bien-fonder des présentes requêtes, tout ce que nous avons mentionné dans nos observations écrites reste bien évidemment valable.
+
+<<317.85;326.01;fr>>
+Nous ne disposons pas d'informations concernant la nature des liens qui unissent les requérants.
+
+<<326.01;333.15;fr>>
+Ainsi, nous ne sommes pas en mesure de repousser de manière motivée leurs allégations sur les faits.
+
+<<333.15;346.75;fr>>
+Nous remarquons cependant que les pièces qu'ils fournissent, et que certains n'en fournissent pas, ne sont pas en même de prouver l'existence d'une relation intime et stable.
+
+<<346.75;378.39;fr>>
+Sur le plan juridique, si nous sommes en désaccord avec les requérants, ce que nous croyons qu'un texte législatif qui fait partie du droit civil, tel que la loi grecque sur le pacte, constitue le fruit d'une réflexion visant à servir à répondre à des besoins sociaux concrets et impérieux auxquels le droit en vigueur n'apporte pas ou n'apporte plus de solutions efficaces.
+
+<<378.39;405.15;fr>>
+Il convient donc de considérer la loi grecque sur le pacte comme un élément d'une mosaïque de dispositions qui régissent les rapports entre particuliers et forment le droit civil, ayant toutes la même valeur, la même place dans la hiérarchie des normes juridiques et qui d'ailleurs ne porte pas de jugement de valeur sur la moralité des individus.
+
+<<405.15;432.65;fr>>
+Nous sommes d'avis que si l'on attribue au pacte grec la place qui lui revient dans le droit civil grec, on s'apercevra aisément que le fait, que l'impossibilité de requérant de conclure un pacte de vie commune n'a rien à voir avec leur orientation sexuelle et n'est finalement d'aucune conséquence pratique sur leur vie.
+
+<<432.65;445.05;fr>>
+La clé pour comprendre la loi grecque sur le pacte et le besoin social auquel cette loi répond est le but poursuivi par le logislateur grec.
+
+<<445.05;456.75;fr>>
+Commençons donc par les origines du pacte grec et par ce qui les distingue nettement de divers partenariats européens.
+
+<<456.75;466.15;fr>>
+Le logislateur grec comprend de deux parts la réalité biologique et une constatation d'ordre social.
+
+<<466.15;474.99;fr>>
+La réalité biologique est que de rapports sexuels entre personnes de sexe différent peuvent naître un enfant.
+
+<<474.99;490.15;fr>>
+La réalité sociale est que l'institution du mariage, qui jusqu'à aujourd'hui permettait d'identifier les parents d'un enfant ou du moins d'établir une présomption de paternité, est en crise.
+
+<<490.15;506.85;fr>>
+Le logislateur constate que cela conduit à une augmentation du nombre d'enfants qui naissent hors mariage et que pour cette raison, la question de l'affiliation reste souvent pendante pour une longue période.
+
+<<506.85;521.49;fr>>
+La raison en est qu'un nombre croissant de couples évitent de se marier parce qu'ils sont réticents à conclure une union qu'ils perçoivent comme une restriction de leur liberté.
+
+<<521.49;544.25;fr>>
+Mais la nécessité d'établir l'affiliation des enfants issus de ces rapports reste impérieuse, tout comme celle de savoir dans quel foyer ces enfants grandiront et de quelle manière leurs deux parents pourront exercer à égalité leur autorité parentale, même s'ils ne sont pas mariés.
+
+<<544.25;552.35;fr>>
+Le logislateur propose donc aux partenaires hétérosexuels une solution de compromis.
+
+<<552.35;582.15;fr>>
+Il consacre dans un texte législatif l'autonomie de leur volonté pour qu'il soit bien clair que la disposition du mariage relative aux rapports personnels et pécuniaires entre époux ne s'applique pas aux contractants d'un pacte et leur permet d'enregistrer leur relation de manière que le lien de filiation puisse être établi à travers une présomption de paternité.
+
+<<582.15;596.55;fr>>
+Voilà quel est le raisonnement qui sous-tend la création de ce contrat spécifique auquel le législateur grec donne le nom de pacte de vie commune qui fait débat aujourd'hui.
+
+<<596.55;616.09;fr>>
+C'est ainsi que la réglementation du pacte grec comporte une présomption de paternité suivant laquelle l'enfant nait pendant la durée du pacte ou dans les 300 jours qui suivent sa résiliation est présumé être de l'homme avec qui la mère est axée.
+
+<<616.09;619.43;fr>>
+Il y a là une originalité du pacte grec.
+
+<<619.43;630.63;fr>>
+Aucun autre partenariat ne contient de présomption de paternité même quand il s'agit de partenaires de sexe différent.
+
+<<630.63;664.05;fr>>
+De plus, la réglementation grecque prévoit que les deux parents, les deux partenaires décident en commun du nom de famille de leur enfant, que le père présumé exerce en commun avec la mère l'autorité parentale et qu'en cas de résiliation du pacte, la question de l'autorité parentale sera réglée suivant les dispositions du Code civil qui régissent la dévolution de l'autorité parentale en cas de divorce.
+
+<<664.05;677.23;fr>>
+En dehors de la question de la filiation, il existe une deuxième différence capitale entre le pacte grec et les divers partenariats européens.
+
+<<677.23;706.29;fr>>
+Dans les lois européennes sur les pactes et les partenariats, on rencontre de manière plus ou moins nuancée des dispositions qui témoignent qu'après la conclusion d'un pacte, les deux partenaires cessent d'être considérés comme des individus isolés et sont désormais soumis à un statut nouveau dans la mesure où ils sont considérés juridiquement comme un couple.
+
+<<706.29;758.05;fr>>
+On rencontre, par exemple, des dispositions qui établissent entre les partenaires une obligation de fidélité et d'assistance mutuelle, des dispositions qui établissent une responsabilité commune des deux partenaires concernant les dettes contractées pour le besoin de la vie courante ou pour les dépenses relatives au logement commun, des dispositions qui soumettent les biens des deux partenaires à un statut d'indivision, des dispositions qui prévoient que le partenaire constitue un foyer fiscal ou que le partenaire d'un principal assuré peut lui aussi bénéficier d'une pension de réversion ou du statut de membre protégé.
+
+<<758.05;763.89;fr>>
+On ne trouve rien de tel dans la réglementation du pacte grec.
+
+<<763.89;783.29;fr>>
+En effet, la loi grecque sur le pacte ne contient pas de dispositions impératives régissant les rapports pécuniaires entre les partenaires ni le versement d'une pension alimentaire ou le sort des acquis en cas de résiliation du pacte.
+
+<<783.29;796.45;fr>>
+Concernant ces questions, la loi grecque prévoit que les deux partenaires peuvent passer des accords particuliers soit au moment de la conclusion du pacte, soit altérieurement.
+
+<<796.45;819.75;fr>>
+En fait, de cette manière, la loi grecque sur le pacte renvoie aux dispositions du Code civil qui consacrent la liberté contractuelle des particuliers et reprend pour l'essentiel des droits qui, en vertu de ces dispositions, appartiennent à toute personne majeure.
+
+<<819.75;827.35;fr>>
+La conclusion d'un pacte grecque ne modifie pas non plus le statut personnel entre des partenaires.
+
+<<827.35;839.63;fr>>
+La loi ne prévoit pas une obligation de fidélité ni une obligation d'assistance mutuelle ni une obligation de cohabitation.
+
+<<839.63;846.23;fr>>
+Pour ce qui est des rapports de partenaires avec les tiers, la loi grecque ne prévoit rien.
+
+<<846.23;857.03;fr>>
+Chaque partenaire est donc tenu responsable uniquement des engagements qu'il assume à son propre nom, tout comme avant la signature du pacte.
+
+<<857.03;870.55;fr>>
+Et enfin, la conclusion d'un pacte grecque n'a aucune incidence en matière de fiscalité de revenus des partenaires ou en matière de sécurité sociale.
+
+<<870.55;888.09;fr>>
+On se rend compte qu'à la différence des divers partenariats européens, la conclusion d'un pacte de vie commune grecque ne confère pas aux contractants un statut de couple ni un statut privilégié par rapport à celui qu'ils avaient auparavant.
+
+<<888.09;902.59;fr>>
+Le pacte grecque n'est pas destiné à régir les rapports de partenaires entre eux ou avec leurs créanciers, mais les rapports de deux personnes, de deux partenaires avec les enfants qu'ils ont en commun.
+
+<<902.59;938.69;fr>>
+Et à juste titre, car ainsi que nous l'avons dit, le pacte grecque ne répond pas à un souhait de partenaire hétérosexuel de voir régler le rapport par le législateur ou de se voir traité comme un couple si tel était le cas, il pourrait se marier, mais tout au contraire, à leur souhait, d'éviter l'ingérence du législateur dans le rapport pécuniaire et personnel autant que fort se peut, tout en se voyant reconnaître le droit d'exercer à égalité leur autorité parentale.
+
+<<938.69;950.75;fr>>
+Il s'agit donc d'une réglementation qui, tant par le besoin social qu'elle sert et par ses finalités, n'est susceptible de s'appliquer qu'à des couples hétérosexuels.
+
+<<950.75;965.45;fr>>
+Cela ne signifie aucunement que dans l'ordre juridique grec il y ait un déficit concernant la protection des partenaires homosexuels.
+
+<<965.45;979.73;fr>>
+Les partenaires homosexuels peuvent aussi régler leur rapport de la manière qui correspond à leur volonté en application des dispositions du Code civil.
+
+<<979.73;999.99;fr>>
+S'ils se préoccupent de leur sécurité matérielle ou de celle de leurs compagnons, rien ne les empêche de passer de contrats particuliers par lesquels ils s'engageront à verser à leurs compagnons une pension alimentaire ou une rente viagère.
+
+<<999.99;1020.33;fr>>
+Concernant le sort de leurs biens après décès, il est reloisible de conclure une donation intravive ou à cause de mort, et ils ont toujours le droit de rédiger un testament, même holographe, sur papier libre, sans l'assistance d'un notaire.
+
+<<1020.33;1035.23;fr>>
+D'ailleurs, dans un certain nombre de partenariats européens, les deux partenaires n'ont pas vocation à la succession l'un de l'autre, à moins que le deux fonds ne les désignent comme héritiers dans son testament.
+
+<<1035.23;1042.83;fr>>
+C'est le cas pour le Luxembourg, la France, la Belgique et la Croatie.
+
+<<1042.83;1074.83;fr>>
+Soulignons ici que pour la résolution de différents qui peuvent surgir lors d'une contestation éventuelle de la validité de ce contrat ou de ces actes unilatéraux, comme le testament, il existe deux voies de recours spécifiques, telles comme l'action en pétition d'hérédité ou l'action visant à l'exécution des obligations contractuelles auxquelles nous nous référons dans nos observations écrites.
+
+<<1074.83;1096.59;fr>>
+D'ailleurs, c'est aux mêmes voies que pourrait recourir également le partenaire hétérosexuel paxé dans le cas où on porterait atteinte à leurs droits successoraux ou à leurs droits émanant des accords particuliers qu'ils auraient éventuellement passé dans le cadre d'un pacte.
+
+<<1096.59;1121.53;fr>>
+Par ailleurs, et cela est également très important, le pouvoir judiciaire grec, par la voie de ses cours suprêmes, quand il a eu à juger de différents qui touchaient à l'homosexualité, a prouvé son absence de préjugés, considérant que dans une société démocratique, les relations homosexuelles doivent être respectées.
+
+<<1121.53;1137.09;fr>>
+Nous nous référons ici notamment aux arrêts de la Cour de cassation et du Conseil d'État que nous avons produits en tant qu'annexes numéro 7 et 13 dans nos observations écrites.
+
+<<1137.09;1161.99;fr>>
+Certes, les requérants ne peuvent pas faire enregistrer leurs relations à l'État civil, mais l'article 8 n'impose pas aux États d'ouvrir des registres spéciaux et de charger du personnel de l'enregistrement des relations intimes des particuliers si ces relations ne mettent pas en cause les intérêts des tiers.
+
+<<1161.99;1183.69;fr>>
+Il ne faut pas voir dans l'enregistrement à l'État civil un soi-disant « privilège » de partenaire hétérosexuel dont seraient prétendument privés les partenaires homosexuels, ni bien évidemment une quelconque approbation de la relation enregistrée par le pouvoir public.
+
+<<1183.69;1224.69;fr>>
+Le Conseil constitutionnel français, dans sa décision du 9 novembre 1999 relative au pacte civil de solidarité, a posé la question de l'utilité d'un enregistrement au greffe d'un tribunal prévu par le droit français dans ses vraies dimensions en expliquant qu'il constituait une formalité visant à la protection des tiers dont les intérêts sont susceptibles d'être affectés par l'existence d'un pacte et non pas une mesure visant à révéler les préférences sexuelles des personnes liées par le pacte.
+
+<<1224.69;1237.09;fr>>
+Dans le droit grec, l'enregistrement à l'état civil s'impose justement en raison de la présomption de paternité mise en jeu par la conclusion d'un pacte.
+
+<<1237.09;1250.69;fr>>
+C'est ce qui justifie le besoin de l'État d'être informé de l'existence d'une relation sexuelle entre deux personnes de sexes différents.
+
+<<1250.69;1318.59;fr>>
+Pour résumer, à partir du moment où aucune disposition de la Convention n'impose aux États l'obligation positive de soumettre les rapports sexuels entre adultes consentants à un régime juridique spécifique déterminé unilatéralement par les législateurs nationaux, à partir du moment où les couples homosexuels, tout comme les couples hétérosexuels paxés, peuvent procéder aux actes juridiques unilatéraux et bilatéraux qu'ils jugent nécessaires à la sauvegarde de leurs intérêts, et enfin, à partir du moment où l'impossibilité des couples homosexuels de faire enregistrer leur relation ne les empêche pas de la rendre publique et de mener sans entrave une vie qui correspond à leur orientation sexuelle, les greffes de requérants concernant une violation de l'article 8 sont de nuée de fondements.
+
+<<1318.59;1359.49;fr>>
+Les requérants ne peuvent pas non plus être considérés comme des victimes d'une violation de l'article 8 en combinaison avec l'article 14, d'abord parce que leur impossibilité de conclure un pacte de vie commune ne les met pas dans une situation défavorable par rapport aux partenaires hétérosexuels paxés, puisque, comme nous l'avons dit, dans les droits grecs, la conclusion d'un pacte de vie commune ne confère pas aux contractants un statut de couple ni même un statut privilégié par rapport à celui qu'ils avaient auparavant.
+
+<<1359.49;1378.89;fr>>
+Ensuite, parce que les dispositions impératives de la loi grecque sur le pacte sont celles qui concernent l'établissement de l'affiliation et l'exercice de l'autorité parentale sur les enfants que les deux partenaires ont en commun.
+
+<<1378.89;1404.69;fr>>
+Donc, l'effet normatif de cette loi, sa valeur ajoutée, ainsi le bénéfice pour ceux qui peuvent conclure un pacte et le préjudice éventuel pour ceux qui en sont empêchés, réside dans des dispositions qui, pour des raisons biologiques et objectives, ne concernent pas les partenaires de même sexe.
+
+<<1404.69;1418.69;fr>>
+La détermination du cercle de personnes habilitées à conclure un pacte de vie commune n'a donc rien à voir avec les considérations tenant aux préférences sexuelles des particuliers.
+
+<<1418.69;1426.99;fr>>
+Elle est liée à l'impact que certaines relations sexuelles peuvent avoir sur la société.
+
+<<1426.99;1431.89;fr>>
+La naissance d'un enfant.
+
+<<1431.89;1445.79;fr>>
+Enfin, parce qu'on ne légifère pas au mépris de besoins sociaux, ni pour réitérer des droits qui, en vertu du droit en vigueur, sont déjà reconnus aux particuliers.
+
+<<1445.79;1451.09;fr>>
+Ce sont des exemples d'un mauvais usage du pouvoir législatif.
+
+<<1451.09;1461.69;fr>>
+Mais dans une société démocratique, l'exercice raisonné du pouvoir législatif constitue une priorité en soi.
+
+<<1461.69;1465.69;fr>>
+On intervient donc dans la vie des particuliers.
+
+<<1465.69;1480.69;fr>>
+Quant à la lumière des besoins sociaux, le droit en vigueur s'avère insuffisant et compte en raison de l'impact que certains rapports entre particuliers peuvent avoir sur la société.
+
+<<1480.69;1490.59;fr>>
+On considère qu'on ne doit pas laisser leur réglementation entièrement à l'autonomie de leur volonté.
+
+<<1490.59;1510.19;fr>>
+Et du point de vue de l'existence d'un besoin social impérieux nécessitant l'intervention du législateur dans la vie des particuliers, les partenaires de même sexe ne se trouvent pas dans une situation analogue au couple hétérosexuel.
+
+<<1510.19;1543.29;fr>>
+Car des rapports entre personnes de sexe différent peuvent naître un enfant, et de plus, l'évolution de ces rapports, des rapports de partenaires hétérosexuels, et notamment leur désaffection pour le mariage, a rendu le droit en vigueur insuffisant pour l'établissement immédiat de l'affiliation et a fait apparaître un nouveau besoin social impérieux auquel répond le pacte grec.
+
+<<1543.29;1578.19;fr>>
+En revanche, concernant les partenaires homosexuels, le droit en vigueur n'a pas prouvé son inefficacité à les protéger, et le législateur grec, à l'instar d'ailleurs de la majorité des États et des législateurs européens, n'a pas ressenti un besoin social impérieux de soumettre les relations homosexuelles à un régime juridique spécifique ou de créer un lien juridique propre au couple homosexuel.
+
+<<1578.19;1611.89;fr>>
+Enfin, à supposer même que l'impossibilité des requérants de conclure un pacte de vie commune constitue une ingérence dans leur vie privée et familiale et ou une discrimination, on doit considérer celle-ci comme proportionnée, étant donné qu'elle est compensée par les dispositions du Code civil qui permettent aux partenaires homosexuels de régler leurs apports sur la base de leur volonté.
+
+<<1611.89;1624.89;fr>>
+Il est donc à tort que les requérants se plaignent d'une discrimination et d'une violation des articles 8 et 14.
+
+<<1624.89;1636.79;fr>>
+Le législateur grec s'éloigne-t-il d'un dénominateur commun européen relatif à la réglementation des relations homosexuelles?
+
+<<1636.79;1644.99;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, à notre avis, un tel dénominateur n'existe pas.
+
+<<1644.99;1654.49;fr>>
+La condition essentielle de l'existence d'un dénominateur commun est l'équivalence de loi comparée.
+
+<<1654.49;1664.49;fr>>
+Mais par équivalence, on doit entendre une équivalence fonctionnelle et une équivalence des buts poursuivis par les législateurs nationaux.
+
+<<1664.49;1669.29;fr>>
+Il ne faut donc pas s'en tenir uniquement aux termes utilisés.
+
+<<1669.29;1690.09;fr>>
+Il est clair que le pacte grec n'est pas l'équivalent de divers pactes et partenariats européens parce qu'il répond à un souci différent, à savoir l'établissement de la filiation dès le jour de la naissance d'un enfant et l'exercice de l'autorité parentale à égalité.
+
+<<1690.09;1698.09;fr>>
+D'ailleurs, il n'y a pas d'équivalence de divers partenariats européens entre eux.
+
+<<1698.09;1704.39;fr>>
+La bibliographie qui se rapporte à cette question est abondante.
+
+<<1704.39;1721.39;fr>>
+Nous nous en tiendrons ici à l'intitulé du rapport général préparé par Mme Macarena-Sáez en 2010 pour le 18e congrès de l'Académie internationale de droits comparés qui portait sur les divers types d'union entre personnes.
+
+<<1721.39;1726.79;fr>>
+Il résume bien la situation.
+
+<<1726.79;1754.99;fr>>
+Likewise, d'un jour à l'autre, la DROI est un pas nucléaire qui est accompagné par les desstoies et les doléances kiplains puis les désastre qui commencent ensuite comme sept deux, les droits d'intermédiaire sont vraiment divers et les problèmes de séparation ambulatoire roent en partie et en partie fini.
+
+<<1754.99;1762.39;fr>>
+relation homosexuelle. Parmi les États qui prévoient une forme de pacte, les divergences
+
+<<1762.39;1769.23;fr>>
+sont profondes. Il y a des États qui prévoient un type de partenariat uniquement au profit
+
+<<1769.23;1776.43;fr>>
+de partenaires homosexuels. Ces États ont introduit cette réglementation à titre de
+
+<<1776.43;1782.31;fr>>
+compensation à l'impossibilité de partenaires homosexuels de se marier.
+
+<<1782.31;1799.19;fr>>
+Ce n'est pas le cas pour les États qui permettent la conclusion d'un pacte ou d'un partenariat tant aux partenaires homosexuels qu'aux partenaires hétérosexuels. Certains de ces
+
+<<1799.19;1813.15;fr>>
+États permettent la conclusion d'un contrat de cohabitation même entre personnes apparentées tout en autorisant aussi le mariage homosexuel. C'est le cas pour la Belgique.
+
+<<1813.15;1831.75;fr>>
+À l'inverse, concernant le degré de parenté autorisé pour la conclusion d'un pacte, il y a des États qui prévoient des empêchements plus stricts que ceux qu'ils prévoient pour la conclusion d'un mariage.
+
+<<1831.75;1839.79;fr>>
+Conclusion. Est-on en droit d'invoquer une communauté de vues parmi les États européens?
+
+<<1839.79;1848.83;fr>>
+Non. Les diverses réglementations européennes concernent des relations qui, pour reprendre
+
+<<1848.83;1863.51;fr>>
+le raisonnement de l'arrêt Burden contre le Royaume-Uni, sont par nature qualitativement différentes. Plus on approfondit l'étude comparée des lois nationales, plus on se
+
+<<1863.51;1868.87;fr>>
+convainc qu'il n'existe pas de consensus sur la fonction des partenariats.
+
+<<1868.87;1893.79;fr>>
+Partons, l'appellation « pacte » que le législateur grec a choisi de donner à son œuvre ne l'obligeait pas à viser les mêmes résultats que ses homologues européens, et ne suffit pas pour conclure qu'il a dépassé la marge d'appréciation dont il dispose concernant la création des liens juridiques en matière familiale.
+
+<<1893.79;1906.51;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, Les recueillants ont saisi directement la Cour européenne de droit de l'homme. Ils
+
+<<1906.51;1926.19;fr>>
+ont percu que l'ordre juridique grec ne leur offre pas de voie de recours contre le refus de notaire auquel ils auraient été confrontés s'ils avaient essayé de conclure un pacte. Les recueillants se trouvent dans une impasse parce qu'ils ont brûlé les
+
+<<1926.19;1933.87;fr>>
+étapes. Que l'on songe aux juridictions internes ou à votre cours, le préalable
+
+<<1933.87;1940.51;fr>>
+de la saisine est de subir un préjudice. À partir du moment où l'on constate le
+
+<<1940.51;1945.33;fr>>
+préjudice, on comprend quelle est la voie de recours qui est à même du remédier.
+
+<<1945.33;1953.71;fr>>
+Mais le refus d'un notaire n'est pas en soi un préjudice. Il pourrait être à l'origine
+
+<<1953.71;1961.07;fr>>
+d'éventuels préjudices. En réalité, cette probabilité n'existe que si le recueillant
+
+<<1961.07;1974.91;fr>>
+ne se donne pas la peine de tirer parti des moyens que l'ordre juridique grec met à leur disposition pour régler leur apport. Dès lors que le recueillant ne prétend pas
+
+<<1974.91;2013.95;fr>>
+que le fait qu'il ne puisse pas conclure un pacte de vie commune ait eu un quelconque effet sur leur vie ou soit susceptible d'influencer leur comportement ou leur mode de vie dans un proche avenir, la simple hypothèse que tel puisse être le cas dans un avenir lointain ne suffit pas pour qu'on le reconnaisse la qualité de victime directe, indirecte ou de victime potentielle. Les recueillants n'ont pas apporté la moindre
+
+<<2013.95;2022.79;fr>>
+preuve de circonstances susceptibles de leur conférer la qualité de victime. Bien au contraire,
+
+<<2022.79;2043.51;fr>>
+il apparaît qu'à ce jour, ils n'ont pas envisagé d'utiliser et encore moins d'épuiser les ressources que le droit grec met à leur disposition pour régler leur apport sur la base de leur volonté. Dans ces circonstances, leur requête s'apparente à une actio popularis
+
+<<2043.51;2057.43;fr>>
+au travers de laquelle ils cherchent à faire contrôler in abstracto au regard de la Convention le pacte grec, la loi grecque sur le pacte. Monsieur le Président, Mesdames et Messieurs
+
+<<2057.43;2071.87;fr>>
+les Juges, le législateur grec n'a pas pris position pour ou contre les relations homosexuelles. Il s'abstient de déterminer lui-même le contenu des droits et des obligations
+
+<<2071.87;2080.07;fr>>
+des partenaires homosexuels. Mais il accorde à leur volonté le pouvoir de produire des
+
+<<2080.07;2089.03;fr>>
+effets de droit. Il érige donc leur volonté en force créatrice de droits et met au service
+
+<<2089.03;2103.15;fr>>
+des partenaires homosexuels des juridictions qui leur garantissent la jouissance effective de leurs droits. Dans ces conditions, l'État grec va même au-delà de la recommandation
+
+<<2103.15;2128.39;fr>>
+des ministres du 31 mars 2010 qui, au paragraphe 25, invite les États dont la législation interne ne prévoit pas de régime spécifique pour les couples homosexuels d'envisager la possibilité de leur fournir de moyens juridiques ou autres pour répondre aux problèmes pratiques liés à la réalité sociale dans laquelle ils vivent.
+
+<<2128.39;2142.55;fr>>
+Nous sommes d'avis que la Grèce a légiféré dans le respect du principe de proportionnalité et dans le respect de la convention. Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2145.58;2150.94;fr>>
+Merci beaucoup Madame Germani. La parole est à Maître Alivizatos.
+
+[[Applicant;AP1]]
+
+<<2155.66;2185.66;fr>>
+Monsieur le Président, Monsieur le Président, Mesdames et Messieurs les juges, bien que conséquent, je dirais même clair dans sa conception des relations humaines, le discours que vous venez d'entendre en faveur de la loi incriminée est dépassé sur le plan du droit comparé et, j'ose dire, inexact sur le plan du droit constitutionnel européen et interne.
+
+<<2185.86;2206.58;fr>>
+Au regard des évolutions législatives des pays européens, il suffit de rappeler qu'à l'heure actuelle, 22 Etats membres du Conseil de l'Europe ont pris en considération les évolutions sociologiques dans le domaine des relations familiales et ont officialisé l'avis en commun des couples du même sexe.
+
+<<2206.58;2212.3;fr>>
+Et ceci sous la voie soit du partenariat enregistré, soit même du mariage.
+
+<<2213.14;2223.74;fr>>
+Il n'y a qu'un Etat membre, la Grèce, qui a créé une forme officielle d'alternative au mariage, et c'est là qu'on fait l'enjeu.
+
+<<2223.9;2238.26;fr>>
+Si on quitte le mariage comme seul moyen de vivre officiellement ensemble, alors la Grèce est le seul Etat qui a créé une forme officielle d'alternative au mariage en excluant les couples de même sexe.
+
+<<2239.3;2256.86;fr>>
+Ainsi, dans un domaine qui affecte plus que tout autre la vie intime et le bonheur des personnes relevant de leur juridiction, la Grèce ignore délibérément les évolutions sociologiques et législatives des pays membres du Conseil de l'Europe.
+
+<<2257.74;2269.1;fr>>
+Mais même sur le plan strictement juridique sur lequel les requérants placent les doiries, le gouvernement fait preuve d'une partialité incompréhensible.
+
+<<2269.98;2288.1;fr>>
+D'une part, en ce qui concerne l'admissibilité de la requête, il surestime grossièrement les incidences d'une jurisprudence des juridictions héléniques, qui restent en réalité très réservées à l'égard des victimes des lois jugées inconstitutionnelles.
+
+<<2289.14;2303.94;fr>>
+D'autre part, sur le fond, le gouvernement minimise l'importance, voire ignore complètement l'évolution significative de la jurisprudence de la Cour au regard du couple du même sexe.
+
+<<2305.34;2315.58;fr>>
+Dans un premier temps, les requérants aborderont les questions d'admissibilité en répondant aux questions numéro un et trois que la Cour a adressées au parti.
+
+<<2316.18;2318.26;fr>>
+Dans un deuxième temps, M. Mekary
+
+<<2318.26;2322.14;fr>>
+plaidera le fond de l'affaire et répondra à la deuxième question.
+
+<<2323.14;2337.22;fr>>
+Qui sont les requérants et pourquoi sont-ils victimes d'une violation de leurs droits reconnus par les articles 8, 13 et 14 de la Convention du seul fait de l'adoption de la loi incriminée?
+
+<<2338.02;2344.74;fr>>
+Les requérants, quatre hommes et quatre femmes sont des couples de personnes de même sexe vivant en Grèce.
+
+<<2345.26;2351.3;fr>>
+Ils se plaignent de ne pas avoir de droits et de ne pas avoir accès au pacte instauré par la loi incriminée.
+
+<<2353.5;2356.62;fr>>
+M. le Président, Mesdames et Messieurs les juges,
+
+<<2356.82;2381.02;fr>>
+dans le domaine de la vie privée et familiale, il me semble que, mieux que toute autre décision, l'arrêt de cette Cour dans l'affaire Marx contre Belgique, rendue en 1979, considère qu'une personne peut se prétendre victime d'une violation par la seule entrée en vigueur d'une loi discriminatoire.
+
+<<2381.86;2392.78;fr>>
+Et ceci, sans qu'il soit nécessaire que cette loi soit entre-temps appliquée directement contre elle par voie administrative ou judiciaire.
+
+<<2393.94;2410.02;fr>>
+Ainsi, la Cour, dans cet arrêt de principe, a considéré que la Convention habilite les particuliers à soutenir qu'une loi viole leurs droits par elle-même en l'absence d'actes individuels d'exécution, s'ils risquent d'en subir, bien entendu, directement les effets.
+
+<<2411.9;2424.78;fr>>
+Cette notion de victime, voire de personne, risquant de subir directement les conséquences d'une législation non encore directement appliquée à son encontre, a été confirmée par la Cour dans ces arrêts d'Adjan, Norris et Modinos.
+
+<<2426.5;2448.1;fr>>
+Dans ces affaires qui, nous le rappelons, concernent la législation britannique de l'époque victorienne, qui pénalisait l'acte homosexuel entre hommes adultes consentants, les requérants ont été considérés comme victimes du fait de la seule existence de la loi incriminée, et ceci dans la mesure où ils étaient obligés de changer de comportement sous peine de poursuite pénale.
+
+<<2449.02;2463.1;fr>>
+Dans la présente affaire, bien entendu, la loi incriminée ne menace pas de poursuite pénale les requérants, elle les prive néanmoins d'un droit, celui de conclure un pacte de vie commune que la même loi reconnaît aux couples hétérosexuels.
+
+<<2464.26;2479.66;fr>>
+Comme dans le cas de l'affaire Burden contre le Royaume-Uni en 2008, les requérants sont exclus du champ d'application d'une loi, bien qu'ils désirent s'y soumettre, et ceci en raison d'un traitement discriminatoire.
+
+<<2480.54;2496.1;fr>>
+Les requérants sont des victimes d'une ingérence certaine, dans la mesure où, en tant qu'adultes consentants, ils ne peuvent pas exercer un droit du seul fait que la loi incriminée reconnaît ce droit en faveur exclusivement des couples hétérosexuels.
+
+<<2497.06;2500.54;fr>>
+Le gouvernement comptait cet argument comme théorique.
+
+<<2501.38;2512.74;fr>>
+Il prétend que les requérants pourraient bénéficier de tous les droits découlants du pacte de vie commune au moyen d'actes séparés, en leur qualité de simples citoyens menant une vie commune.
+
+<<2513.41;2524.41;fr>>
+Par exemple, toujours selon le gouvernement, les requérants auraient pu conclure un contrat de rente voyagere à la place de la pension alimentaire prévue par la loi incriminée.
+
+<<2524.41;2539.74;fr>>
+Ils pourraient, en outre, trouver une solution de substitution à leurs droits de succession au moyen d'un testament et de l'exercice d'une action en pétition d'hérédité par le bénéficiaire dont le droit de succession serait contesté par les héritiers du défunt.
+
+<<2541.14;2546.86;fr>>
+Monsieur le Président, cette action est-elle la plus courante et le plus précis?
+
+<<2546.86;2549.46;fr>>
+Cette action est inexacte.
+
+<<2549.46;2583.82;fr>>
+Hormis les dispositions du Code civil hélénique sur la réserve héréditaire, non mimimira, qui restreint substantiellement le montant de l'héritage, une jurisprudence constante refuse de reconnaître les droits de succession des bénéficiaires qui auraient, selon le langage employé par les jugements héléniques, subi à la Cour par le défendeur, et c'est les mots même que je cite, « abusé des faiblesses sexuelles du défunt » ou qui « reflèterait des situations contraires aux mœurs publiques ».
+
+<<2583.82;2591.58;fr>>
+Dans ces cas, la succession n'est pas reconnue, selon la jurisprudence qui vous a été soumise par le gouvernement grec.
+
+<<2591.58;2598.78;fr>>
+Ces réserves jurispudentielles rendent, pour le moins, aléatoire la succession des biens par les partenaires de même sexe.
+
+<<2598.78;2615.86;fr>>
+Enfin et surtout, aussi bien la rente viagère que la succession telle que présentée par le défendeur sont soumises à une taxation beaucoup plus élevée que celle touchant la pension alimentaire et la succession ambitestate.
+
+<<2615.86;2636.1;fr>>
+Pourtant, dans le même ordre, au-delà de la possibilité pour eux de conclure un pacte de vie commune, les requérants aimeraient insister sur un autre aspect de leur cas, celui de la vie privée et familiale, endroit que leur exclusion du domaine d'application de la loi incriminée restera à un degré inacceptable.
+
+<<2636.1;2654.86;fr>>
+En effet, la notion de vie familiale, selon votre jurisprudence, recouvre la vie des couples de même sexe et ne se limite pas au seul état civil des partenaires, ni à leur droit de faire sans sacrifice des raisonnables choix fondamentaux concernant leur vie en commun.
+
+<<2654.86;2665.98;fr>>
+Est-là, la vie familiale, un aspect matériel qui, en période de crise économique comme celle que nous traversons, acquiert une importance primordiale.
+
+<<2665.98;2682.06;fr>>
+En effet, l'attente, voire la certitude de partager avec son partenaire les fruits d'une propriété et ensuite de la lui transmettre en toute ou en partie dans les mêmes conditions qu'à son conjoint ne relève pas exclusivement du droit de disposer de ses biens.
+
+<<2682.06;2687.38;fr>>
+Elle fait partie intégrante de la vie familiale des personnes concernées.
+
+<<2687.38;2697.82;fr>>
+En conséquence, contrairement aux allégations du défendeur, les requérants sont des victimes d'une atteinte à leur droit protégé par la Convention.
+
+<<2697.82;2708.74;fr>>
+Sur un autre registre, le gouvernement prétend que les requérants n'auraient pas épuisé les lois de recours internes que l'ordre juridique clinique met à leur disposition.
+
+<<2708.74;2720.98;fr>>
+Bien sûr, le gouvernement accepte qu'il n'y a aucun recours constitutionnel au moyen duquel les requérants auraient pu demander un contrôle juridictionnel abstrait de la conscionnalité et de la conventionnalité de la loi incriminée.
+
+<<2720.98;2731.7;fr>>
+Il envoque cependant une série de recours particuliers qui auraient pu, selon lui, aboutir à une satisfaction comparable des requérants.
+
+<<2731.7;2746.98;fr>>
+Il convient en premier lieu, Monsieur le Président, de rappeler votre jurisprudence dans l'affaire Burden, controirium uni déjà cité, dans les pays où il n'existe guère de cours constitutionnels et où le contrôle de l'inconscionnalité des lois par les tribunaux est incident et diffus.
+
+<<2746.98;2751.02;fr>>
+C'est le cas, bien entendu, de la Grèce, la Grande-Bretagne, des Pays-Bas, des pays scandinaves.
+
+<<2751.02;2759.3;fr>>
+Une déclaration d'inconscionnalité qui n'est pas accompagnée d'une obligation légale de modifier la loi incriminée ne peut passer pour un recours effectif.
+
+<<2759.3;2762.82;fr>>
+Une telle obligation n'existe pas en Grèce.
+
+<<2762.82;2775.26;fr>>
+Pourtant, à supposer qu'un ou plusieurs des recours spécifiques suggérés par le défendeur aboutissaient à une telle déclaration d'inconscionnalité, les requérants seraient loin d'obtenir gain de cause.
+
+<<2775.26;2785.45;fr>>
+Leur démarche, dans un litige très prolongé, au vu de la durée excessive des procès civils et administratifs en Grèce, s'avérerait théorique et inefficace.
+
+<<2785.45;2790.78;fr>>
+En réalité, il n'y a pas de recours effectif pertinent dans notre dossier.
+
+<<2790.78;2814.26;fr>>
+Enfin, concernant l'action en réparation que selon le gouvernement, les requérants auraient dû entreprendre contre l'Etat en se fondant sur l'article 105 de la loi d'accompagnement du Code civil hélénique, les requérants rappellent en premier lieu la constatation faite par la Cour dans une décision assez ancienne, les établissements scolaires d'Oka contre Grèce.
+
+<<2814.26;2822.82;fr>>
+Les tribunaux héléniques sont traditionnellement très réticents à juger qu'une prétention indemnitaire puisse naître d'un acte du législateur.
+
+<<2822.82;2831.45;fr>>
+Dans ces observations, le gouvernement s'était forcé de mettre en avant une jurisprudence récente qui, selon lui, renverserait cette image.
+
+<<2831.45;2848.3;fr>>
+Selon cette jurisprudence, l'Etat grec serait désormais tenu comme responsable pour actes ou omissions du législateur dans le cas où celui-ci adopterait des dispositions contraires à des normes supérieures, voire à la Constitution ou à un traité international, comme c'est le cas de la Convention.
+
+<<2848.3;2857.74;fr>>
+Pourtant, les arrêts invoqués par le défendeur ne constituent pas un revirement de la jurisprudence en la matière, de sur quoi ils ne sont aucunement pertinents en l'espèce.
+
+<<2857.74;2860.02;fr>>
+Et ceci pour les raisons suivantes.
+
+<<2860.02;2875.78;fr>>
+Les arrêts invoqués par le défendeur concernent soit des actes administratifs pris en application des lois jugées inconstitutionnelles, soit des omissions d'argent de l'exécutif de se conformer à des obligations imposées à l'Etat par des normes supralégislatives.
+
+<<2875.78;2884.1;fr>>
+Dans le premier cas, il s'agit de permis de construire annulés dans la mesure où ils étaient pris en vertu de lois jugées inconstitutionnelles.
+
+<<2884.1;2894.94;fr>>
+Il s'agit en outre de fiches de paiement concernant des magistrats dont les rémunérations avaient été fixées par le législateur en violation du principe de légalité.
+
+<<2894.94;2906.58;fr>>
+Il en était enfin de même avec la victime d'une inondation qui n'avait pas été indemnisée par la municipalité compétente parce que son nom ne figurait pas dans la liste dressée par le législateur.
+
+<<2906.58;2918.34;fr>>
+Quant aux omissions, elles concernent la négligence toujours d'une municipalité d'éloigner des panneaux publicitaires du bord des voies publiques, conformément à un engagement international de la Grèce.
+
+<<2918.34;2924.78;fr>>
+Tel est le cas aussi de la non-reconnaissance de droits professionnels d'une certaine catégorie de diplômés.
+
+<<2924.78;2932.34;fr>>
+Or, en l'espèce, la loi incriminée ne prévoit aucun acte administratif pour sa mise en application.
+
+<<2932.34;2942.82;fr>>
+En conséquence, les requérants n'avaient et n'ont toujours pas la possibilité de réclamer en justice une réparation pour un acte ou une omission qui ne saurait survenir.
+
+<<2942.82;2954.94;fr>>
+Enfin, dans la mesure où les notaires ne sont pas considérés en Grèce comme des agents de l'Etat, leur acte ou omission ne saurait faire objet d'un recours en annulation devant les juridictions administratives.
+
+<<2954.94;2963.49;fr>>
+Pour conclure, la jurisprudence grecque invoquée par le gouvernement n'a rien de commun avec les faits de la présente affaire.
+
+<<2963.49;2971.9;fr>>
+Les requérants n'avaient à leur disposition aucun moyen de recours interne effectif et propre à le décès, la violation allégée.
+
+<<2971.9;2974.9;fr>>
+Abordons maintenant avec Maître Mekari le fond du dossier.
+
+[[Applicant;AP2]]
+
+<<2981.96;2990.4;fr>>
+Vous l'avez compris, Monsieur le Président, Mesdames, Messieurs de la Cour, les requérants sont des couples homosexuels qui vivent ensemble en Grèce.
+
+<<2990.4;3001.72;fr>>
+Leur requête ne concerne ni le mariage, comme dans l'affaire Schalk-Eckhoff, ni, bien sûr, l'adoption de l'enfant du partenaire, comme dans l'affaire Dubois-Egas.
+
+<<3001.72;3019.68;fr>>
+Les requérants, après l'entrée en vigueur de la loi du 26 novembre 2008, auraient voulu bénéficier de cette nouvelle institution juridique mise en place par le législateur grec, le pacte de vie commune, qui leur aurait permis de protéger juridiquement leur vie de couple.
+
+<<3019.68;3030.16;fr>>
+Mais ils n'ont pas pu conclure ce pacte de vie commune pour la simple et bonne raison qu'ils ne sont pas de sexe différent, comme l'exige l'article 1er de la loi.
+
+<<3030.16;3036.24;fr>>
+Et cette exclusion les prive d'une possibilité juridique de faire respecter leur vie familiale.
+
+<<3036.24;3060.92;fr>>
+Cette nouvelle discrimination, dont le gouvernement grec a été prévenu par la Commission nationale des droits de l'homme en juillet 2008, est manifestement contraire au principe que votre cours a posé dès 2003, c'est-à-dire bien avant 2008, dans l'arrêt Carnet contre Autriche, et n'a aucun précédent, ni en Europe, ni dans aucune société démocratique.
+
+<<3060.92;3073.28;fr>>
+Alors, je vais voir assez rapidement la question de l'applicabilité de l'article 14, pour ensuite aborder la question de la violation de l'article 14, combinée avec l'article 8.
+
+<<3073.28;3087.08;fr>>
+Je pense que sur l'article 14, il ne fait pas de doute que l'article est applicable au fait de la cause, dans la mesure où cela rentre dans le champ d'application de la notion de vie familiale au sens de l'article 8.
+
+<<3087.08;3105.48;fr>>
+Dans votre arrêt Schalk-Eckhoff, au paragraphe 94, votre cours a constaté que la relation qu'entretiennent les requérants, un couple homosexuel cohabitant de fait de manière stable, relève de la notion de vie familiale au même titre qu'un couple hétérosexuel se trouvant dans la même situation.
+
+<<3105.48;3110.16;fr>>
+Eh bien, une telle constatation s'applique à notre affaire.
+
+<<3110.16;3114.96;fr>>
+Les requérants ont une vie de couple depuis plusieurs années, ils ont donc une vie familiale.
+
+<<3114.96;3126.12;fr>>
+Et à côté de cela, le pacte de vie commune est une nouvelle possibilité offerte par le droit grec destinée à protéger la vie familiale des couples.
+
+<<3126.12;3156.2;fr>>
+Selon votre jurisprudence, depuis l'arrêt Abdullaziz contre le Royaume-Uni en 1985, jusqu'à votre arrêt Constantin Marquine contre Russie en 2012, il est établi que même si l'article 8 n'obligeait pas la Grèce à créer une nouvelle institution pour la protection juridique des couples, sa décision de le faire volontairement en 2008 doit être compatible avec l'article 14.
+
+<<3156.2;3177.36;fr>>
+Et dans l'arrêt Abdullaziz contre le Royaume-Uni, la Cour dit très clairement au paragraphe 82, la notion de discrimination englobe les cas dans lesquels un individu ou un groupe se voit, sans justification adéquate, moins bien traité qu'un autre, même si la Convention ne requiert pas de traitement plus favorable.
+
+<<3177.36;3182.84;fr>>
+Ainsi, conformément à votre jurisprudence, l'article 14 est applicable.
+
+<<3182.84;3191.04;fr>>
+Voyons maintenant la violation de l'article 14 combinée avec l'article 8 et l'absence de justification objective et raisonnable.
+
+<<3191.04;3206.04;fr>>
+Comme je le disais, les requérants sont des couples homosexuels, sans enfants, ou avec des enfants nés d'un mariage antérieur, qui aujourd'hui ont entre 20 et 34 ans, c'est-à-dire qui sont majeurs.
+
+<<3206.04;3210.56;fr>>
+Les requérants sont donc dans la même situation qu'un couple hétérosexuel sans enfants.
+
+<<3210.56;3225.08;fr>>
+Aujourd'hui, en Grèce, un couple hétérosexuel sans enfants, et sans intention d'avoir des enfants, a la possibilité, a accès, lui, au pacte de vie commune, alors que, vous l'avez compris, les requérants en sont exclus.
+
+<<3225.08;3235.84;fr>>
+Il y a donc une différence de traitement qui est fondée directement et uniquement sur l'orientation sexuelle entre des personnes placées dans des situations comparables.
+
+<<3235.84;3250.36;fr>>
+Vous avez déjà rappelé dans l'affaire Schalk et Eckhoff, au paragraphe 99, que les couples homosexuels sont, tout comme les couples hétérosexuels, capables de s'engager dans des relations stables.
+
+<<3250.36;3260.0;fr>>
+Les requérants se trouvent donc dans une situation comparable à celle d'un couple hétérosexuel pour ce qui est de leur besoin de reconnaissance juridique et de leur protection de leur relation.
+
+<<3260.0;3276.24;fr>>
+Selon le gouvernement grec, vous l'avez entendu il y a quelques minutes, il n'y aurait pas de différence de traitement car le pacte de vie commune ne serait rien pour un couple sans enfants, de sorte que les requérants, couple homosexuel, ne perdraient rien.
+
+<<3276.24;3278.48;fr>>
+Rien n'est plus faux.
+
+<<3278.48;3281.28;fr>>
+Rien n'est plus faux pour deux raisons.
+
+<<3281.28;3287.2;fr>>
+En premier lieu, les requérants sont symboliquement exclus de la loi commune.
+
+<<3287.2;3291.56;fr>>
+Ils sont dans une zone de non-droit en raison de leur seule orientation sexuelle.
+
+<<3291.56;3296.4;fr>>
+Ils demeurent symboliquement des citoyens de seconde zone, des sous-citoyens.
+
+<<3296.4;3312.36;fr>>
+En second lieu, concrètement, juridiquement, les requérants ont perdu le statut de couple que le pacte permet de mettre en place et que lui seul permet de mettre en place, contrairement à ce qui vous a été affirmé par le gouvernement grec.
+
+<<3312.36;3324.4;fr>>
+Parce que le pacte de vie commune permet la constitution d'un dossier à l'état civil, parce qu'il permet l'organisation matérielle de la vie commune, parce qu'il donne le droit automatiquement de devenir héritier.
+
+<<3324.4;3328.76;fr>>
+Et donc, qu'il permet de devenir héritier.
+
+<<3328.76;3344.04;fr>>
+La Cour a maintes fois rappelé, comme les différences fondées sur le sexe, les différences fondées sur l'orientation sexuelle doivent être justifiées par des raisons particulièrement graves.
+
+<<3344.04;3352.2;fr>>
+Et puisqu'il s'agit d'une différence de traitement entre les couples, il est aussi important de rappeler l'analyse que votre Cour a faite dans l'arrêt Carner contre Autriche.
+
+<<3352.2;3383.8;fr>>
+Dans cet arrêt de 2003, lorsque la marge d'appréciation laissée aux États est étroite, dans le cas par exemple d'une différence de traitement fondée sur le sexe ou l'orientation sexuelle, le principe de proportionnalité oblige à démontrer qu'il était nécessaire pour atteindre ce but, et dans Carner c'était la protection de la famille traditionnelle, donc il était nécessaire pour atteindre ce but d'exclure certaines personnes, en l'occurrence s'il s'agissait de couples homosexuels, du champ d'application de la mesure dont il s'agit.
+
+<<3383.8;3398.32;fr>>
+Et bien ici, tout d'ailleurs comme le gouvernement autrichien dans l'affaire Carner, le gouvernement grec n'a présenté aucun élément pertinent qui pourrait démontrer la nécessité de l'exclusion des couples de personnes de même sexe de la loi du 26 novembre 2008.
+
+<<3398.32;3411.36;fr>>
+Pour la première fois, le gouvernement grec tente de justifier la différence de traitement posée par l'article 1er de la loi en invoquant les articles 8, 9 et 10 de la même loi.
+
+<<3411.36;3416.12;fr>>
+Article 8 présomption de paternité s'il y a un enfant, mais ça n'est pas une obligation.
+
+<<3416.12;3421.04;fr>>
+Article 9 dévolution du nom patrimonial à l'éventuel enfant.
+
+<<3421.04;3426.88;fr>>
+Article 10 partage de l'autorité parentale, là aussi s'il y a éventuellement un enfant.
+
+<<3426.88;3441.8;fr>>
+Ces trois articles seraient l'alpha et l'oméga de la loi de 2008, la raison d'être de cette loi, le besoin social impérieux pour pallier, paraît-il, la diminution du nombre de mariages qui, au passage, n'est évidemment pas démontré dans ce dossier.
+
+<<3441.8;3449.04;fr>>
+Et bien cet argument que le gouvernement grec soutient aujourd'hui devant vous, il le fait pour la première fois devant votre juridiction.
+
+<<3449.04;3453.28;fr>>
+Mais il a un discours qui varie, qui varie selon ses interlocuteurs.
+
+<<3453.28;3465.48;fr>>
+Parce que je me permets de rappeler que le gouvernement grec, en 2012, devant le comité des Nations Unies sur les droits économiques et sociaux, a simplement décrit le contenu de la loi du 26 novembre 2008.
+
+<<3465.48;3475.04;fr>>
+Il n'a absolument pas indiqué que cette loi avait pour seul et unique objet de donner un cadre juridique aux couples non mariés qui concluraient un pacte.
+
+<<3475.04;3491.84;fr>>
+En novembre 2012, cette fois-ci devant le CEDO, le comité des Nations Unies pour l'élimination de la discrimination à l'égard des femmes, le gouvernement grec a été jusqu'à évoquer la possibilité de modifier la loi pour inclure les couples de personnes de même sexe.
+
+<<3491.84;3502.68;fr>>
+Il n'a jamais dit que la loi de 2008 avait pour unique but d'offrir un cadre juridique aux éventuels enfants qui naîtraient de parents hétérosexuels.
+
+<<3502.68;3515.84;fr>>
+Et voilà que devant votre juridiction, il n'hésite pas à prétendre que cette loi de 2008 a pour seul objet de donner un cadre juridique aux enfants qui pourraient naître de parents ayant conclu un pacte de vie commune.
+
+<<3515.84;3523.72;fr>>
+Pour votre information, sachez que depuis 2008, il y a à peine 16 pactes de vie commune qui ont été enregistrés en Grèce.
+
+<<3523.72;3530.4;fr>>
+C'est vous dire que l'invocation des enfants par le gouvernement grec dépend vraiment de son interlocuteur.
+
+<<3530.4;3542.72;fr>>
+Et cela démontre d'une certaine manière que l'invocation des enfants n'est pas une justification objective puisqu'elle est invoquée en fonction des besoins de la cause.
+
+<<3542.72;3554.64;fr>>
+En réalité, le gouvernement grec, en invoquant ces trois articles devant votre institution, eh bien il cherche tout simplement à aiguiller votre cours sur une fausse piste.
+
+<<3554.64;3562.08;fr>>
+Parce que ces trois articles ne sont pas pertinents pour les huit requérants individuels dans cette affaire qui n'ont pas d'enfants.
+
+<<3562.08;3569.12;fr>>
+Ou lorsqu'ils ont des enfants, ce sont des enfants nés d'une union hétérosexuelle antérieure, enfants qui aujourd'hui sont majeurs.
+
+<<3569.12;3571.88;fr>>
+Les requérants ne demandent pas de droits parentaux.
+
+<<3571.88;3575.12;fr>>
+Ils ne demandent pas l'application de la présomption de paternité.
+
+<<3575.12;3579.76;fr>>
+Ils ne demandent pas l'application de l'article 9 ou de l'article 10.
+
+<<3579.76;3590.8;fr>>
+D'ailleurs, la terminologie même de ces articles, qui font référence à l'homme, le père, à la mère, renvoient obligatoirement à un couple hétérosexuel.
+
+<<3590.8;3594.6;fr>>
+Ils ne peuvent pas s'appliquer à un couple homosexuel.
+
+<<3594.6;3599.08;fr>>
+Qu'est-ce que cela veut dire? Cela veut dire que le gouvernement grec aurait pu facilement
+
+<<3599.08;3617.88;fr>>
+supprimer les mots de sexe différents dans l'article 1er et permettre aux couples homosexuels d'accéder au pacte de vie commune tout en excluant l'application des articles 8, 9 et 10 à leur pacte du seul fait de la terminologie utilisée.
+
+<<3617.88;3621.32;fr>>
+C'est une modification très simple à réaliser.
+
+<<3621.32;3624.92;fr>>
+Suppression des termes de sexe différents.
+
+<<3624.92;3645.28;fr>>
+C'est exactement cette modification qui a été proposée par le comité législatif spécialisé pour l'amendement du droit de la famille au ministère de la Justice grecque le 28 décembre 2008 et auquel le gouvernement grec se réfère dans son rapport du 6 novembre 2012 développé devant le CEDAW.
+
+<<3645.28;3657.28;fr>>
+La simplification de la modification qui élimine la discrimination à l'égard des couples homosexuels montre clairement la disproportionnalité de la loi de 2008.
+
+<<3657.28;3665.76;fr>>
+Le gouvernement grec aurait pu exclure les couples homosexuels uniquement des articles 8, 9 et 10 de la loi.
+
+<<3665.76;3675.88;fr>>
+Mais il a choisi de poser dans l'article 1er un principe d'exclusion générale des couples homosexuels de la totalité de la loi.
+
+<<3675.88;3681.64;fr>>
+Pourquoi? Le gouvernement grec vous dit « la société grecque ne serait pas prête à respecter
+
+<<3681.64;3692.96;fr>>
+l'arrêt carnaire qui impose de traiter tous les couples non mariés de la même manière ». A supposer qu'une telle assertion soit étayée, ce qu'elle n'est évidemment
+
+<<3692.96;3702.44;fr>>
+pas, la Cour a rejeté une telle assertion dans par exemple le dossier Constantin Martin au paragraphe 142 dans cette affaire.
+
+<<3702.44;3710.72;fr>>
+Le gouvernement russe disait « la société russe n'est pas prête à accepter une même égalité entre les hommes et les femmes servant dans les forces armées ». Vous n'avez
+
+<<3710.72;3712.4;fr>>
+pas été le ré.
+
+<<3712.4;3722.12;fr>>
+Qu'une société européenne soit prête ou non, un gouvernement doit respecter l'interdiction de discrimination posée par l'article 14 de la Convention.
+
+<<3722.12;3731.76;fr>>
+Sinon nous sommes en présence d'une différence de traitement fondée en l'occurrence sur la seule orientation sexuelle, sans justificatif, objectif et raisonnable.
+
+<<3731.76;3741.64;fr>>
+Est-ce que le consensus européen pertinent renforce la conclusion de l'existence de cette discrimination? La réponse est oui.
+
+<<3741.64;3757.12;fr>>
+Dans votre arrêt, Charles Hecoff, votre Cour a constaté que se fait jour un consensus européen tendant à la reconnaissance juridique des couples homosexuels et que cette évolution s'est en outre produite avec rapidité au cours de la décennie écoulée.
+
+<<3757.12;3762.96;fr>>
+C'est vrai, votre Cour n'a pas conclu à la violation, parce qu'il s'agissait du mariage.
+
+<<3762.96;3764.52;fr>>
+Et dans notre affaire, ce n'est pas la question.
+
+<<3764.52;3778.84;fr>>
+Dans notre affaire, les requérants ne reprochent pas au gouvernement grec de les avoir exclus du mariage ou d'avoir refusé de créer une alternative officielle au mariage comme par exemple un partenariat enregistré.
+
+<<3778.84;3797.2;fr>>
+Dans notre affaire, les requérants reprochent au gouvernement grec d'avoir décidé volontairement de créer volontairement une forme alternative au mariage, le pacte de vie commune, et d'avoir choisi volontairement de les en exclure en raison de leur seule orientation sexuelle.
+
+<<3797.2;3823.4;fr>>
+Or, contrairement à ce qui a été soutenu de l'autre côté de la barre, il y a un consensus européen, unanime, des gouvernements qui ont décidé volontairement de créer une forme alternative au mariage civil pour décider que cette alternative au mariage civil soit au moins ouverte aux couples de personnes de même sexe, si ce n'est ouverte à tous les couples.
+
+<<3823.4;3826.6;fr>>
+Les observations écrites des tiers intervenants sont très claires.
+
+<<3826.6;3840.76;fr>>
+Il y a 22 Etats membres du Conseil de l'Europe qui ont créé une alternative au mariage qui est ouverte au moins aux couples homosexuels et qui ont décidé d'ouvrir le mariage.
+
+<<3840.76;3860.64;fr>>
+Et face à ces 22 Etats membres qui ont donc décidé de donner une protection juridique notamment aux couples de personnes de même sexe, il n'y a qu'un Etat membre, la Grèce, qui a créé une alternative au mariage à destination des seuls couples de sexe différents.
+
+<<3860.64;3864.92;fr>>
+Aucun pays en Europe, ni même dans le monde, ne l'a fait.
+
+<<3864.92;3872.84;fr>>
+On voit bien que le consensus européen renforce la conclusion de l'existence d'une discrimination.
+
+<<3872.84;3874.28;fr>>
+Alors je conclue en quelques mots.
+
+<<3874.28;3892.84;fr>>
+Certains pays en Europe ont suivi le modèle danois de 1989 et offrent un choix aux couples hétérosexuels qui est le mariage civil et puis ils offrent un autre choix aux couples homosexuels qui est le contrat de partenariat enregistré.
+
+<<3892.84;3915.32;fr>>
+D'autres pays ont suivi le modèle français du pacte civil de solidarité qui a été adopté en 1999 et offrent deux choix aux couples hétérosexuels, le mariage civil et le pacte civil de solidarité et puis un choix aux couples homosexuels, le pacte civil de solidarité.
+
+<<3915.32;3933.2;fr>>
+Mais aucun pays en Europe, à l'exception de la Grèce, n'avait encore offert deux choix aux couples hétérosexuels, à savoir le mariage civil et le pacte de vie commune, et aucun choix pour les couples homosexuels.
+
+<<3933.2;3951.0;fr>>
+Ce faisant, la Grèce a choisi de renforcer l'inexistence juridique des couples de même sexe en transformant une seule exclusion, celle du mariage civil, en une double exclusion, celle du mariage civil et en plus celle du pacte de vie commune.
+
+<<3951.0;3968.52;fr>>
+Vous avez en 2012, dans votre décision Vettelande contre Suède, au paragraphe 55, pris le soin de souligner que la discrimination fondée sur l'orientation sexuelle est aussi grave que la discrimination fondée sur la race, l'origine ou la couleur de peau.
+
+<<3968.52;3995.64;fr>>
+Ce que nous disons, c'est que le gouvernement grec aurait dû savoir en 2008, et il devrait le savoir aujourd'hui encore car la violation continue, que limiter une nouvelle institution juridique au seul couple de sexe différent est aussi inadmissible en Europe que de la limiter au seul couple de personnes de race blanche ou au seul couple de personnes de religion chrétienne.
+
+<<3995.64;4015.8;fr>>
+Dans vos arrêts Carnet et Heubé contre France, vous avez jugé que le gouvernement qui décide volontairement de reconnaître les couples non mariés ou bien d'ouvrir l'adoption à une personne célibataire ne peut pas discriminer en raison de l'orientation sexuelle.
+
+<<4015.8;4034.12;fr>>
+Compte tenu des principes dégagés par ces arrêts, les requérants demandent respectueusement à la Cour de déclarer que les gouvernements qui décident volontairement de créer une nouvelle alternative au mariage civil ne peuvent pas exclure les couples de personnes de même sexe.
+
+<<4034.12;4042.92;fr>>
+De sorte que l'exclusion des requérants du pacte de vie commune en Grèce est une solution de l'article 14 combiné avec l'article 8.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4046.57;4049.77;fr>>
+Merci Maître Mekari.
+
+<<4050.45;4053.09;fr>>
+Je me tourne maintenant vers mes collègues juges.
+
+<<4053.69;4055.13;fr>>
+Est-ce qu'il y a des questions?
+
+<<4055.13;4057.13;fr>>
+Monsieur le juge Paulo Pinto de Albuquerque, s'il vous plaît.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<4062.51;4064.76;en>>
+Thank you, Mr. President.
+
+<<4066.47;4087.95;en>>
+Since the question was raised by the two parties and was dealt with with the utmost care by the two parties, I would like to clarify an additional point in regard to this question of admissibility of the complaint.
+
+<<4087.95;4097.07;en>>
+The position of the government is that this is a clear case of axio popularis.
+
+<<4097.07;4106.27;en>>
+The applicants did not raise the issue at the domestic level at any moment.
+
+<<4106.27;4137.8;en>>
+And the government have argued that the courts, the domestic courts, could extend by analogy the special favorable rule in case they had the chance to do it, in case they had the chance to appreciate, to rule on the unconstitutionality of the rule.
+
+<<4137.8;4150.19;en>>
+That is said, and I have confirmed it, on page 7, paragraph 17 of the observations of the government, and it was repeated today.
+
+<<4153.19;4164.19;en>>
+And that assertion, that statement, is based on the case law that is quoted and was repeated today of the court of cassation.
+
+<<4164.19;4168.48;en>>
+My question, my precise question, is the following.
+
+<<4168.48;4214.35;en>>
+Does this mean that the applicants, if the applicants had lodged an action based on section 105 of the introductory law to the civil code, in which they had pleaded the unconstitutionality of the law 3719, the domestic courts could have then determined that this law was and is unconstitutional in as much as it excludes same-sex couples, and subsequently, the domestic laws, the domestic courts, could then extend by analogy the law 3719 to the applicants?
+
+<<4214.35;4215.23;en>>
+That is the question.
+
+<<4215.23;4215.23;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4215.87;4217.31;fr>>
+Merci beaucoup.
+
+<<4217.31;4218.51;fr>>
+Monsieur le juge Pejchal, s'il vous plaît.
+
+[[Judge;Aleš Pejchal]]
+
+<<4222.3;4224.38;en>>
+Thank you, Mr. President.
+
+<<4224.38;4230.84;en>>
+I have a question, a very simple question for the representative of the government.
+
+<<4231.3;4249.94;en>>
+Could you explain us the main different points on one hand and main common points on the other hand among church marriage, civil marriage, and civil union in Greece?
+
+<<4249.94;4250.78;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4254.04;4254.96;fr>>
+Merci beaucoup.
+
+<<4255.56;4258.76;fr>>
+Est-ce qu'il y a d'autres questions?
+
+<<4258.76;4261.22;fr>>
+Tel ne semble pas être le cas.
+
+<<4261.22;4273.5;fr>>
+Donc l'audience est suspendue pendant une quinzaine de minutes pour vous permettre de répliquer et de répondre aux questions des juges.
+
+<<4273.5;4273.5;fr>>
+Donc l'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4302.48;4303.08;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4346.6;4349.24;fr>>
+L'audience est reprise, je vous prie de vous asseoir.
+
+<<4349.24;4351.24;fr>>
+La parole est à Madame Germani, s'il vous plaît.
+
+[[Government;GR1]]
+
+<<4358.91;4367.05;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, J'ai écouté attentivement les plaidoiries des représentants de parties requérantes.
+
+<<4367.05;4372.67;fr>>
+Il est clair qu'il existe entre nous une divergence de point de vue.
+
+<<4372.67;4384.59;fr>>
+Il semble que notre désaccord avec les requérants porte sur ce qu'on doit entendre par reconnaissance juridique.
+
+<<4384.59;4398.43;fr>>
+Selon nous, la reconnaissance juridique d'un rapport ne passe pas nécessairement par la soumission à des lois dont le contenu serait déterminé unilatéralement par le législateur.
+
+<<4398.43;4415.91;fr>>
+La reconnaissance juridique peut également découler de la liberté contractuelle, c'est-à-dire de la reconnaissance de la liberté des particuliers de passer de contrats qui tiennent lieu de loi.
+
+<<4415.91;4441.99;fr>>
+Autrement dit, assujettir les particuliers aux droits objectifs, c'est-à-dire à des règles unilatéralement déterminées par le législateur, n'est pas la seule voie à la reconnaissance juridique et, à notre avis, n'est pas une preuve de libéralisme de la part du législateur, ni même de confiance envers les particuliers concernés.
+
+<<4441.99;4477.99;fr>>
+Dans ces conditions, dans la mesure où le droit grec permet aux couples homosexuels de passer des accords par le biais desquels ils peuvent atteindre leur but, et c'est d'ailleurs par la même voie que les couples hétérosexuels paxés peuvent régler leur rapport, on ne peut pas taxer le législateur grec d'hostilité à l'égard des partenaires homosexuels, ni d'un traitement discriminatoire par rapport aux partenaires hétérosexuels.
+
+<<4477.99;4487.67;fr>>
+Les requérants arguent que la conclusion d'un pacte de vie commune n'est pas liée à un projet d'enfant.
+
+<<4487.67;4517.83;fr>>
+Bien sûr, tous les enfants, tous les couples hétérosexuels n'ont pas d'enfant, soit qu'ils ne le puissent pas, soit qu'ils ne le veuillent pas, mais le fait qu'une relation puisse donner naissance à un enfant justifie la tension particulière du législateur en raison de l'impact que la naissance de cet enfant aura ultérieurement sur la société.
+
+<<4517.83;4530.95;fr>>
+L'impact est si sérieux que sa seule éventualité suffit pour que le législateur veuille à veiller à garantir l'établissement de la filiation le plus tôt que possible.
+
+<<4530.95;4551.39;fr>>
+Ce n'est pas par hostilité à l'égard des partenaires homosexuels, ni parce qu'il approuve les relations hétérosexuelles que le législateur agit, c'est par besoin, par le besoin d'identifier le parent d'un enfant le plus tôt que possible.
+
+<<4551.39;4574.71;fr>>
+Nous avons produit un arrêt de la Cour de cassation qui concerne la succession héréditaire d'une personne homosexuelle. Dans cet arrêt, la Cour de cassation a conclu que les dispositions
+
+<<4574.71;4588.23;fr>>
+testamentaires litigieuses par lesquelles le testateur léguait certains de ses biens à ses partenaires homosexuels étaient frappées de nullité. Mais il ne faut pas s'en tenir
+
+<<4588.23;4592.07;fr>>
+au dispositif de l'arrêt et négliger ces motifs.
+
+<<4592.07;4601.67;fr>>
+Le raisonnement et le considérant de l'arrest sont extrêmement intéressants et importants.
+
+<<4601.67;4644.43;fr>>
+La Cour de cassation énonce d'abord que les dispositions testamentaires par lesquelles une personne homosexuelle lègue des incoméritiers ou lègue ses biens à son partenaire de même sexe n'enfreignent pas le bonheur, sauf si les circonstances dans lesquelles le testament a été rédigé témoignent que celui-ci est le résultat d'une forme de commerce du corps humain. Et dans ce cas précis, la Cour de cassation a jugé qu'effectivement
+
+<<4644.43;4665.67;fr>>
+il s'agissait d'une forme de commerce du corps humain parce que le testateur n'avait jamais eu une relation stable, parce que le bénéficiaire de l'aigle litigieux était des amants professionnels occasionnels dont l'un était aussi marié. C'est le seul
+
+<<4665.67;4678.35;fr>>
+arrêt que l'on ait pu trouver concernant la succession héréditaire d'une personne homosexuelle. Cela ne signifie pas évidemment que les personnes homosexuelles ne se préoccupent
+
+<<4678.35;4689.55;fr>>
+pas de la dévolution successorale de leurs biens ou de la sécurité matérielle de leurs compagnons. Nous en concluons que jusqu'à aujourd'hui, les couples homosexuels ont
+
+<<4689.55;4710.07;fr>>
+pu régler de manière efficace les questions qui se rapportent à leur succession et que le testament ou contrat qui concernent la transmission de leurs biens n'ont pas fait l'objet de contestation. Pour ce qui est de la question de l'appuiesement de voies
+
+<<4710.07;4722.07;fr>>
+de recours internes, notre position est, ainsi que nous l'avons exposé, que les requérants n'ont pas envisagé d'utiliser, et encore moins d'épuiser, les voies de recours internes.
+
+<<4722.07;4730.67;fr>>
+On peut envisager deux types de préjudice, un préjudice matériel et un préjudice moral.
+
+<<4730.67;4737.71;fr>>
+Il est clair que les requérants n'ont pas subi un préjudice matériel. Si un jour les
+
+<<4737.71;4772.15;fr>>
+requérants sont bénéficiaires d'une pension alimentaire devant être versée par leur compagnon ou hérite de lui, ce qui, en l'état actuel des choses, n'est qu'une simple hypothèse, ils pourront demander le versement de cette pension alimentaire ou la restitution des biens qui leur auraient été légués au travers d'actions spécifiques que le droit grec prévoit pour la protection de ces droits. La notion de préjudice moral,
+
+<<4772.15;4778.11;fr>>
+quant à elle, renvoie à une atteinte à la personne. Et pour la protection de la personnalité
+
+<<4778.11;4822.59;fr>>
+de chaque individu, le Code civil grec prévoit, dans l'article 55, qui, en vertu de l'article 105 de la loi de l'accompagnement du Code civil, s'applique également dans le cas où l'atteinte est le fait d'un acte ou d'une omission des autorités étatiques, prévoit le droit de la personne lésée de demander, en dehors d'un dédommagement, qu'il soit mis fin à l'atteinte et que celle-ci ne se reproduise pas dans l'avenir. Il ne s'agit
+
+<<4822.59;4831.07;fr>>
+pas ici, et j'insiste sur ce point, d'une interprétation libre de l'article 57. En
+
+<<4831.07;4851.83;fr>>
+effet, l'article 57 stipule que quiconque subit une atteinte à sa personne est en droit de demander qu'il soit mis fin à cette atteinte et que celle-ci ne se reproduise pas dans l'avenir. Donc, dans le cas de requérant, cela impliquerait une réforme législative.
+
+<<4851.83;4862.47;fr>>
+Deux cas de figure auraient été donc envisageables. Premier cas, les tribunaux auraient rejeté
+
+<<4862.47;4878.03;fr>>
+les allégations de requérant concernant une violation de leur vie privée familiale et une discrimination. Et dans ce cas, les requérants auraient pu s'adresser à la Cour
+
+<<4878.03;4891.67;fr>>
+européenne de droit de l'homme de manière recevable du point de vue de l'appuisement de droits de recours internes. Deuxième cas de figure, les tribunaux grecs auraient donné
+
+<<4891.67;4910.61;fr>>
+raison au requérant, auraient ordonné qu'il soit mis fin à l'atteinte et auraient accordé une indemnisation si cela avait été demandé. À la suite de quoi l'État grec, y compris
+
+<<4910.61;4918.83;fr>>
+le pouvoir législatif, aurait eu l'obligation de se conformer à cette décision. Et donc,
+
+<<4918.83;4949.11;fr>>
+deux choses l'une, soit le législateur grec se serait conformé à la décision judiciaire et aurait pris toutes les mesures nécessaires, y compris la réforme législative exigée, et dans ce cas, le différend aurait été résolu dans l'ordre juridique grec, soit il ne s'y serait pas conformé. Je suis convaincue que le législateur grec se conformerait aux
+
+<<4949.11;4957.03;fr>>
+décisions judiciaires. Mais même si tel n'avait pas été le cas, le requérant aurait
+
+<<4957.03;4964.95;fr>>
+toujours eu le droit de saisir la Cour européenne de droit de l'homme. Mais dans ce cas, suivant
+
+<<4964.95;4979.27;fr>>
+votre jurisprudence, Hornsby contre la Grèce, il ne s'agirait plus d'une violation des articles 8 et 14, mais d'une violation de l'article 6. Et nous pensons que la situation
+
+<<4979.27;5005.31;fr>>
+serait qualitativement très différente qu'elle est aujourd'hui, car dans ce cas, les tribunaux nationaux se seraient prononcés sur le fond des plaintes de requérants pour une question qui touche de si près la société grecque. Concernant la différence entre d'abord le
+
+<<5005.31;5025.55;fr>>
+mariage civil et le mariage religieux, il s'agit d'une différence seulement portant sur la forme. Les effets de deux mariages sont exactement les mêmes. En ce qui concerne
+
+<<5025.55;5047.59;fr>>
+la différence entre le mariage, qu'il soit civil ou religieux, et le pacte de vie commune, il y a des différences, bien sûr. D'abord, concernant le statut personnel des époux,
+
+<<5047.59;5062.71;fr>>
+il existe une obligation de fidélité, une obligation de cohabitation, une obligation des époux de contribuer aux dépenses communes pour le déroulement de la vie familiale.
+
+<<5062.71;5073.51;fr>>
+Alors que dans le cas du pacte, il n'existe pas de telles obligations. Les époux, les
+
+<<5073.51;5080.59;fr>>
+personnes mariées ont le droit aussi d'adopter en couple un enfant. Les personnes pâquées
+
+<<5080.59;5093.59;fr>>
+n'ont pas un tel droit, car le pacte grecque concerne uniquement, le but est d'établir l'affiliation biologique concernant les enfants que les deux partenaires ont en commun.
+
+<<5093.59;5104.19;fr>>
+Et il y a une différence, bien sûr, concernant le mode de dissolution. Le mariage, pour
+
+<<5104.19;5144.83;fr>>
+qu'un mariage soit dissous, il est nécessaire une décision judiciaire, qu'on parle d'un divorce par consentement mutuel ou d'une procédure contradictoire, alors que dans le cas du pacte, le pacte peut être résolu par un accord des partenaires ou même par une déclaration unilatérale de l'une des parties. Et il peut être aussi dissous automatiquement
+
+<<5144.83;5151.59;fr>>
+dans le cas où l'un des partenaires se marie avec une autre personne.
+
+<<5151.59;5163.27;fr>>
+Il y a aussi une différence qui concerne les acquis, la participation aux acquis. Concernant
+
+<<5163.27;5179.47;fr>>
+les époux, il existe une présomption suivant laquelle chaque époux est présumé avoir contribué à l'auteur de un tiers concernant les acquis. Donc, il peut revendiquer le un
+
+<<5179.47;5192.95;fr>>
+tiers et s'il prouve que sa contribution était plus élevée, il peut demander encore plus, alors que dans le cas du pacte, il n'existe pas de présomption. Chaque partenaire
+
+<<5192.95;5208.75;fr>>
+peut demander que lui soit restitué la part de biens qui lui revient, qu'il croit que lui appartienne.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5209.4;5214.48;fr>>
+Madame Germani, est-ce que je pourrais vous demander de conclure?
+
+[[Government;GR1]]
+
+<<5214.37;5217.37;fr>>
+Je crois que ceci. Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5219.58;5224.98;fr>>
+La parole est à Maître Alivizatos.
+
+[[Applicant;AP1]]
+
+<<5226.98;5229.02;fr>>
+Je remercie M. le Président.
+
+<<5229.18;5232.98;fr>>
+Concernant la question de M. Albuquerque
+
+<<5233.14;5242.66;fr>>
+et le juge portugais, en deux mots, nous n'avons pas de cours conscionnels en Grèce, donc il n'y a pas de recours conscionnel.
+
+<<5245.1;5266.02;fr>>
+Les citoyens peuvent attaquer un acte administratif devant le Conseil d'Etat en annulation, comme cette loi ne prévoit pas l'émission d'aucun acte administratif, il est absolument impossible d'attaquer un acte quelconque ou une omission quelconque de l'exécutif.
+
+<<5266.18;5285.74;fr>>
+Comme vous l'avez remarqué, la seule voie théorique serait une action en justice, en indemnité, en réparation, pour omission du législateur d'inclure dans la loi des couples de même sexe.
+
+<<5285.9;5291.46;fr>>
+C'est une éventualité tout à fait théorique.
+
+<<5291.62;5299.26;fr>>
+D'abord, pour, bien entendu, un préjudice moral, pas matériel.
+
+<<5299.42;5317.02;fr>>
+Il n'y a pas de précédent de cours héléniques admettant un préjudice moral du seul fait d'un acte législatif, seulement d'un acte exécutif, pas un seul précédent.
+
+<<5317.18;5324.06;fr>>
+Je parle du préjudice moral créé par l'adoption d'une loi.
+
+<<5324.22;5329.74;fr>>
+Cela n'existe pas, inexistant.
+
+<<5329.9;5333.9;fr>>
+Théoriquement, ça pourrait se passer.
+
+<<5334.06;5348.46;fr>>
+Je pense que le standing, comme auraient dit les Anglais, de tout citoyen de s'opposer à une loi en invoquant son préjudice moral est très difficile à prouver.
+
+<<5348.62;5352.98;fr>>
+Je pense que ce serait la même chose dans tous les pays européens.
+
+<<5353.18;5368.22;fr>>
+Tâchez d'imaginer une loi votée par le Parlement à laquelle s'opposerait un citoyen ou un groupe de citoyens en invoquant le préjudice moral que la loi, pas un acte pris en exécution de cette loi, lui a causé.
+
+<<5368.22;5402.5;fr>>
+Alors, même si ce stade était dépassé, car théoriquement, ça peut être le cas, la question que vous avez posée était de savoir si le tribunal compétent, qui serait le tribunal administratif compétent, premier degré, cour d'appel, Conseil d'Etat, pourrait, du même fait, entrer dans le fond de l'affaire, ne pas rejeter comme inadmissible, ce qui est très, très évident, ce qui va à 99 % se passer, c'est qu'une telle action serait rejetée comme inadmissible.
+
+<<5404.02;5417.18;fr>>
+Mais si, par exemple, le 1 % et ce tribunal entraient dans le fond, ce tribunal, qui jugerait la loi inconstitutionnelle, ne pourrait pas obliger le gouvernement à changer la loi.
+
+<<5417.18;5435.58;fr>>
+Comme dans tous les pays à contrôle constitutionnel décentralisé et diffus, le jugement compte pour la seule affaire portée devant cette cour.
+
+<<5435.58;5452.82;fr>>
+Le gouvernement, théoriquement, et c'est là l'argument essentiel de la partie adverse, pourrait changer la loi à la suite d'un tel jugement confirmé au bout de 10 ans par le Conseil d'Etat, disons la cour suprême en matière administrative.
+
+<<5452.82;5473.94;fr>>
+Alors, je pense qu'il serait superflu d'insister davantage sur le fait que cette loi n'est pas une loi effective, n'est pas un recours effectif des moyens dont les requérants avaient accès en Grèce.
+
+<<5473.94;5479.78;fr>>
+Sur l'argument, si vous me permettez, M. le Président, de la liberté contractuelle
+
+<<5479.78;5510.14;fr>>
+invoquée par la partie adverse, pourrais-je vous dire tout simplement que nous avons une jurisprudence, invoquée d'ailleurs par le défendeur, qui ont annulé un testament entre personnes homosexuelles du fait que l'héritier avait abusé des faiblesses sexuelles du défunt.
+
+<<5510.14;5514.06;fr>>
+Faiblesses sexuelles, c'est un arrêt tout à fait récent.
+
+<<5514.06;5519.78;fr>>
+Ou une disposition testamentaire contraire aux mœurs publiques.
+
+<<5519.78;5534.3;fr>>
+Tâchez de transposer ce débat au niveau d'un contrat qui serait signé entre les partis, entre vivants, et que les courts seraient invités à exécuter par la suite.
+
+<<5534.3;5537.98;fr>>
+Il serait très facile de voir un peu les choses.
+
+<<5537.98;5545.5;fr>>
+Les mentalités ne sont pas telles qu'une telle clause serait admise.
+
+<<5545.5;5549.62;fr>>
+Une remarque supplémentaire.
+
+<<5549.62;5561.98;fr>>
+Le gouvernement a utilisé un terme que j'ai trouvé d'ailleurs assez intéressant, exercice raisonné du pouvoir législatif.
+
+<<5561.98;5569.46;fr>>
+La convention a été invoquée 17 fois pendant le débat devant l'Assemblée plénière de la Chambre.
+
+<<5569.46;5579.82;fr>>
+Le ministre compétent a inclus trois ou quatre députés ont invoqué les incidences européennes de cette loi hélénique.
+
+<<5579.82;5596.46;fr>>
+Et je dois dire que ce n'était pas dit expressément, mais je pense que les législateurs attendaient à ce que l'Europe, bien entendu, très probablement votre cour, donne une solution à ce problème.
+
+<<5596.46;5600.3;fr>>
+Ça, c'est l'exercice raisonné du pouvoir législatif.
+
+<<5600.3;5605.54;fr>>
+Je m'excuse, mais je ne partage pas cette approche.
+
+<<5605.54;5610.06;fr>>
+Et enfin, je passe la parole à Mme Mekary.
+
+<<5610.06;5616.74;fr>>
+Un chiffre a été cité sur lequel je voudrais insister.
+
+<<5616.74;5624.7;fr>>
+Il n'y a que 16 pactes, 16 contrats conclus depuis l'adoption de cette loi en 2008.
+
+<<5624.7;5628.86;fr>>
+C'est là le besoin social évident de la société grecque.
+
+<<5628.86;5632.46;fr>>
+16 contrats, pas 16 000, 16 seulement.
+
+<<5632.46;5632.46;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5635.69;5639.77;fr>>
+Merci Maître Alivizatos, la parole est à Maître Mécary.
+
+[[Applicant;AP2]]
+
+<<5640.71;5644.83;fr>>
+Oui, Monsieur le Président, Mesdames, Messieurs de la Cour, juste quelques petites observations complémentaires.
+
+<<5644.83;5652.75;fr>>
+Vous avez compris que le pacte de vie commune est un statut de couple où la présence de l'enfant n'est pas le centre.
+
+<<5652.75;5654.67;fr>>
+Ça n'est qu'un élément parmi d'autres.
+
+<<5654.67;5658.67;fr>>
+Et d'ailleurs, implicitement, le gouvernement grec vient de le reconnaître.
+
+<<5658.67;5676.79;fr>>
+Je voudrais attirer votre attention sur un rapport explicatif qui avait été élaboré par le gouvernement, donc sur la loi, qui est un rapport du 9 octobre 2008, sur les 10 paragraphes qui expliquent le projet de la loi, l'objectif de la loi, il y a exactement deux mots qui concernent les enfants.
+
+<<5676.79;5691.71;fr>>
+Donc je voulais ajouter cet élément à votre connaissance, outre ce que j'ai déjà indiqué concernant le rapport fait par la Grèce au Comité des Nations Unies sur les droits économiques et sociaux et toujours le rapport de la Grèce au CEDAW.
+
+<<5691.71;5700.99;fr>>
+Le statut de couple mis en place par le pacte de vie commune, contrairement à ce qu'il vous est indiqué, contient des dispositions d'ordre public.
+
+<<5700.99;5706.11;fr>>
+D'abord, il y a une inscription à l'état civil, il y a un dossier qui est constitué à l'état civil.
+
+<<5706.11;5709.23;fr>>
+On a les mêmes empêchements au mariage.
+
+<<5709.23;5722.27;fr>>
+Et puis on a un droit automatique à hériter avec une réserve qui est attribuée au partenaire, ce qui veut dire évidemment la sauvegarde d'une certaine partie du patrimoine.
+
+<<5722.27;5724.99;fr>>
+Il n'est pas nécessaire de faire un testament, donc.
+
+<<5724.99;5729.31;fr>>
+Donc il ne peut pas y avoir de contestation du testament et donc pas de procès.
+
+<<5729.31;5733.23;fr>>
+Donc on a une sécurité juridique avec une fiscalité avantageuse.
+
+<<5733.23;5740.27;fr>>
+Et puis c'est vrai qu'il y a des dispositions qui sont plus souples sur la pension alimentaire, sur l'organisation matérielle de la vie commune.
+
+<<5740.27;5768.99;fr>>
+Mais au fond ça n'a pas tellement d'importance parce que quelle que soit la souplesse d'un contrat de partenariat, et on a une grande variété sur les 22 pays qui ont ouvert des contrats de partenariat à destination soit uniquement des couples homosexuels, soit destinés aux couples homosexuels et hétérosexuels, et bien à partir du moment où un gouvernement décide de créer une alternative au mariage civil, il doit le faire sans discrimination.
+
+<<5768.99;5772.99;fr>>
+Et je crois que le gouvernement grec sait pertinemment qu'il y a une discrimination.
+
+<<5772.99;5798.11;fr>>
+Parce que le rapport explicatif du projet de loi de la commission juridique qui a été établi en décembre 2010, et bien ce rapport que vous avez dans les pièces versées au débat, il explique en long, en large et en travers pourquoi la loi du 26 novembre 2008 est discriminatoire et comment elle constitue en réalité une violation de l'article 14 combinée avec l'article 8.
+
+<<5798.11;5801.47;fr>>
+Je voudrais en terminer avec deux petits points vraiment très rapidement.
+
+<<5801.47;5821.79;fr>>
+Vous voyez quand le gouvernement grec vous dit il n'y a pas de besoin impérieux dans la société grecque de donner un statut juridique aux couples de personnes de même sexe, il vous dit en réalité qu'il n'y a pas de besoin social impérieux d'éliminer la différence de traitement entre les couples hétérosexuels et les couples homosexuels.
+
+<<5821.79;5825.79;fr>>
+Au fond la loi du 26 novembre 2008, elle fait quoi?
+
+<<5825.79;5829.55;fr>>
+Elle renforce la discrimination à l'égard des couples homosexuels.
+
+<<5829.55;5856.83;fr>>
+Et elle est à contre-courant du consensus européen qui, je l'ai dit tout à l'heure, pardonnez-moi de me répéter, à partir du moment où un gouvernement accepte, choisit volontairement de mettre en place une alternative au mariage civil, dont on sait qu'aujourd'hui effectivement les Etats peuvent choisir de ne le réserver qu'aux couples homosexuels.
+
+<<5856.83;5884.03;fr>>
+Mais si un gouvernement accepte, choisit de mettre en place une alternative au mariage civil, et bien ils ont tous admis, les 22 Etats membres ont tous admis que cette alternative devait au moins être ouverte aux couples homosexuels de manière à leur donner un cadre juridique de protection de leur vie de couple qui est, au regard de la jurisprudence de la Cour, une vie familiale.
+
+<<5884.03;5903.87;fr>>
+Et c'est ce que nous vous demandons très simplement et très respectueusement de faire, c'est de dire que le gouvernement grec ne peut pas agir comme il le fait, comme il l'a fait avec cette loi du 26 novembre 2008, qui ne contient pas de justificatif objectif et raisonnable au regard de ce qui a été développé.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5907.01;5913.65;fr>>
+Merci Maître Mekari, nous en arrivons au terme de l'audience.
+
+<<5913.65;5923.57;fr>>
+Je remercie les comparons qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<5923.57;5929.01;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<5929.01;5932.01;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<5932.01;5937.29;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<5937.29;5937.29;fr>>
+L'audience est levée.
+

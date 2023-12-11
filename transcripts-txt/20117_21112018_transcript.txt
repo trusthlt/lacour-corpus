@@ -1,0 +1,1382 @@
+[[Announcer;UNK]]
+
+<<22.32;23.16;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<62.63;63.63;en>>
+Please be seated.
+
+<<74.07;82.47;en>>
+I declare open the public hearing on the merits in the case of Magyar-Kefarkó Kutyapárt versus Hungary.
+
+<<82.47;97.23;en>>
+The application was lodged with the court on 16th December 2016 under Article 34 of the convention by a Hungarian political party, Magyar-Kefarkó Kutyapárt.
+
+<<97.23;107.47;en>>
+The application was allocated to the fourth section of the court, pursuant to Rule 52, paragraph 1 of the rules of the court.
+
+<<107.47;113.75;en>>
+This section delivered its judgment on 23rd January 2018.
+
+<<113.75;124.63;en>>
+On 23 April 2018, the government requested that the case be referred to the ground chamber in accordance with Article 43 of the convention.
+
+<<124.63;131.43;en>>
+And the panel of the ground chamber accepted the request on 28 May 2018.
+
+<<131.43;146.47;en>>
+The applicant political party is represented by Mr. Csaba Tordai, Mr.Tamás Fazekas, and Mr. Balázs Tóth, counsel, assisted by Mr. Daniel Szabó, advisor.
+
+<<146.47;155.95;en>>
+The respondent government are represented by their agent, Mr. Zoltán Tallódi, assisted by Mrs. Mónika Weller, co-agent.
+
+<<155.95;160.63;en>>
+I welcome the representatives in the name of the court.
+
+<<160.63;172.01;en>>
+I also welcome a group of judges from Russia and a delegation of the Italian Judicial Council of Military Justice, who are on study visit to the court.
+
+<<172.01;181.75;en>>
+Having consulted the representatives of the applicant political party and the agent of the government, I have determined the order of addresses as follows.
+
+<<181.75;188.83;en>>
+Mr. Fazekas for the applicant political party will speak first, and then Mr. Tallódi for the government.
+
+<<188.83;205.67;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Russian has been authorized for the benefit of the group of judges from Russia attending this hearing.
+
+<<205.67;215.23;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<215.23;217.09;en>>
+I call Mr. Fazekas, please, you have the floor.
+
+[[Applicant;AP1]]
+
+<<221.48;223.56;en>>
+Thank you, Mr. President.
+
+<<223.56;226.46;en>>
+Mr. President, honorable members of the court,
+
+<<226.46;243.02;en>>
+my name is Tomás Fazekas, and as a representative of the Magyar Kétvarka Kutyapárt, I would like to present you supplementary information to the written contribution of the applicant in four separated but interconnected aspects of the case.
+
+<<243.02;254.5;en>>
+At the heart of the case is the applicant who acted as an intermediary, facilitating highly protected political expression by sharing photographs by a mobile application.
+
+<<254.5;265.36;en>>
+First, I will start with a brief outline of the applicant's understanding of the main questions as to the applicability of Article 10 of the Convention to the present case.
+
+<<265.36;278.36;en>>
+In the second part, I will argue that the mobile phone application corresponded to a social need to show and share voters casting their vote and thus emphasize the importance of democratic participation.
+
+<<278.36;288.76;en>>
+Third, I will describe some important features of the mobile phone application, which made it technologically impossible for anyone to link a voter to his or her vote.
+
+<<288.76;297.16;en>>
+This was the primary reason why the national authorities found no violation of the fairness of the election or voting secrecy.
+
+<<297.16;306.6;en>>
+It is the applicant's opinion that in the absence of these concerns, there was no legitimate aim to curtail the right of free expression of the applicant.
+
+<<306.6;317.5;en>>
+I will finish with a summary of those characteristics of the Hungarian election system, which are also decisive in the present case, and I will put it into international context.
+
+<<317.5;328.8;en>>
+In this part, I will point to the fact that unlike many other states, Hungary's legislation regulates voting secrecy as a favorable right, not an obligation of the voter.
+
+<<328.8;341.22;en>>
+This means that the decision by the court in the present case finding a violation does not necessarily mean that all member states should allow photographs to be taken of ballot papers.
+
+<<341.22;347.6;en>>
+Honorable Court, let me begin with the applicability of Article 10 to the present case.
+
+<<347.6;350.9;en>>
+We live in an age of information society.
+
+<<350.9;356.82;en>>
+Social media allows people to easily share information on every aspect of their lives.
+
+<<356.82;380.76;en>>
+Be it the moving scenes of family life, banal everyday events, or the most pressing issues of public discourse, there is an enormous need in society to impart and receive information, ideas, and feelings directly with their friends, friends of friends, or everyone, and to receive similar content published by others, irrespective of the physical distance between them.
+
+<<380.76;389.42;en>>
+Parallel with the developments of the technical solutions, social media has become an important tool in interaction between people.
+
+<<389.42;393.2;en>>
+All this is true for textual and visual content alike.
+
+<<393.2;400.22;en>>
+Imparting and receiving ideas and information is part of social communication, regardless of their form.
+
+<<400.22;409.66;en>>
+A photograph may express countless aspects of an event that is impossible to describe with short text and makes it easier to comprehend the message.
+
+<<409.66;415.12;en>>
+As we know it for long, a picture is worth a thousand words.
+
+<<415.12;428.76;en>>
+Due to technical limits, publishing pictures used to be a privilege of professionals, but at the advent of smartphones equipped with high-resolution cameras extended direct social communication beyond written text.
+
+<<428.76;439.86;en>>
+Sharing textual and visual content in social media is beyond doubt protected by the right to freedom of expression, both on the side of the publisher and the receiver.
+
+<<439.86;445.76;en>>
+This communication is, however, only possible if intermediary platforms are available.
+
+<<445.76;459.16;en>>
+According to the well-established case law of the court, freedom of expression not only protects the person imparting or receiving the information, but also the platform through which the information is imparted or received.
+
+<<459.16;470.8;en>>
+The publisher of a newspaper or an online news portal and the broadcaster of a TV station may rely on Article 10 of the Convention, in line with the consistent practice of the court.
+
+<<470.8;481.8;en>>
+The applicant sees no reason to conclude otherwise regarding the publisher of a mobile phone application, allowing the distribution of information in social media.
+
+<<481.8;495.9;en>>
+By the development and maintenance of an application which allowed users to share textual and visual content with others, the applicant exercises right falling within the scope of Article 10 of the Convention.
+
+<<495.9;517.0;en>>
+All of this is true, even though the Hungarian Constitutional Court found, with the smallest majority possible and without any reference or consideration of the practice of this court, that not the freedom of expression of the applicants, but that of others and that of users of the application was curtailed.
+
+<<517.0;527.76;en>>
+It is the applicant's position that this finding of the Constitutional Court is incompatible with the Convention and the practice of this court.
+
+<<527.76;532.56;en>>
+As everywhere else, freedom of expression is not an absolute in social media either.
+
+<<532.56;540.56;en>>
+Freedom of expression may be restricted for reasons laid down in paragraph 2 of the Article 10 as interpreted by the court.
+
+<<540.56;550.8;en>>
+It is necessary that these limitations should be prescribed by law based on a legitimate aim and necessary in a democratic society.
+
+<<550.8;564.72;en>>
+Honorable court, at this junction, I would like to turn to the second part of my submission in which I wish to show the contribution of the applicant's mobile phone application to the democratic process.
+
+<<564.72;580.86;en>>
+With the spread of social media and camera-equipped smartphones, the need arose all over the world among voters to share photographs with other members of the body politic, portraying them as casting a vote and sometimes also the content of this vote.
+
+<<580.86;593.7;en>>
+It is enough to look at the popular social media sites during any election to find an enormous number of selfies and pictures with different hashtags on polling stations and ballot papers.
+
+<<593.7;601.42;en>>
+Some of these pictures are shared by celebrities and politicians, but a great number of them are taken by ordinary citizens.
+
+<<601.42;613.82;en>>
+Sharing with others the act of casting a vote and the content of that vote is political speech because it tells the story of an event of contemporary public life and the author's opinion about it.
+
+<<613.82;619.26;en>>
+Political speech is the most protected core of Article 10 of the Convention.
+
+<<619.26;631.9;en>>
+The development and operating of a mobile phone application, expressly allowing political communication through social media, triggers the hate and protection of Article 10 of the Convention.
+
+<<631.9;639.2;en>>
+Democracy becomes stronger if more and more people spend time and effort participating in election and referendums.
+
+<<639.2;644.76;en>>
+And as a result, citizens become more familiar with democratic processes.
+
+<<644.76;658.66;en>>
+The fact that citizens are proud to vote and consider it as an important part of their identity, so important that they wish to show it to others, this is a development which should be welcomed.
+
+<<658.66;667.06;en>>
+This behavior of the voters paint a positive image of participating in public life among family, friends, and the broader public.
+
+<<667.06;674.16;en>>
+This reinforces democracy by encouraging others to take part in election and referendums.
+
+<<674.16;680.36;en>>
+The mobile phone application served to protect the democratic process in one additional way.
+
+<<680.36;690.4;en>>
+Users were allowed to report through the application if they cast an invalid vote and also the country where they cast that vote.
+
+<<690.4;704.1;en>>
+The applicant then was able to compare aggregate number of reported invalid votes to the official numbers on a county level, and therefore, serving as a public watchdog, checked the works of election officials.
+
+<<704.1;710.06;en>>
+This was important because fear of election fraud was widespread among citizens.
+
+<<710.06;721.92;en>>
+Following the referendum, the applicant, after careful analysis of the aggregate data, could confirm that, as to his knowledge, the counting of the votes was correct.
+
+<<721.92;732.52;en>>
+Because this reporting function of the application was broadly publicized before the referendum, it acted as a deterrent and preventive action.
+
+<<732.52;745.46;en>>
+The applicant, by developing and operating the mobile phone application, could alleviate the rumors on election fraud and thus reinforce trust in the democratic process.
+
+<<745.46;752.5;en>>
+As every other act of freedom of expression, taking a photograph of the ballot paper also carries risk with it.
+
+<<752.5;762.56;en>>
+If the photograph's portrait is a citizen and also his or her vote, the secrecy of the vote might be violated, and it may open a door for election fraud.
+
+<<762.56;769.12;en>>
+The fairness of the elections and secrecy as a part of it are closely connected to the right to vote.
+
+<<769.12;778.72;en>>
+This right, as the right of others, can be regarded as a legitimate aim for limiting freedom of expression under paragraph two of article 10.
+
+<<778.72;785.4;en>>
+But in the present case, this is not applicable for reasons discussed in the next part of the pleading.
+
+<<785.4;811.52;en>>
+So, honorable court, in the third part of my contribution, I wish to describe some important features of the mobile phone application, which made it technologically impossible for anyone to link a voter and his or her vote, and consequently, there was no legitimate aim for the interference with the applicant's rights under article 10.
+
+<<811.52;821.96;en>>
+The applicant, as a political party, was aware of the need for sharing photographs of the ballot, and at the same time, of the need of preventing the violation of voting secrecy.
+
+<<821.96;830.6;en>>
+The reason to develop the application was precisely to satisfy this social need by maintaining the secrecy of the vote.
+
+<<830.6;848.6;en>>
+The application was available in Apple's App Store and in Google's Play service, where voters were free to decide whether to download it or not, if they wanted to be a part of this kind of communication, either as a distributor or receiver of images.
+
+<<848.6;859.12;en>>
+The application did not store any information on the voters, which might have been used by the applicant or the technical intermediaries to identify the voter.
+
+<<859.12;868.76;en>>
+No username, no GPS geolocation data, no telephone number, and no IP addresses were stored in the application.
+
+<<868.76;880.44;en>>
+The users of the application could use the back camera of the mobile phone to take pictures, thus discouraging the taking of selfies, that is, pictures of themselves.
+
+<<880.44;889.16;en>>
+The user was then able to place a text on the image, either a text from a predefined selection of phrases, or his or her own thoughts.
+
+<<889.16;896.44;en>>
+This picture, with the text applied on it, then became available to other users via the application.
+
+<<896.44;909.36;en>>
+This technical solution guaranteed, by default, that no pictures were distributed, where the identity of a user and the vote cast was available at the same time.
+
+<<909.36;921.0;en>>
+As a further level of protection, the mobile phone application allowed the applicant to delete pictures if a malevolent user were to upload a picture violating voting secrecy.
+
+<<921.0;924.12;en>>
+There was, however, no need to do so.
+
+<<924.12;934.16;en>>
+Among the 4,000 pictures shared by the application, not a single one allowed the voter and the vote cast to be linked.
+
+<<934.16;951.76;en>>
+This was the reason why the Curia found that the application did violate neither the fairness of the election nor the secrecy of vote, and consequently explicitly overruled the parts of the decision of the National Election Commission finding a violation of these principles.
+
+<<951.76;964.52;en>>
+Moreover, the report of National Election Commission to the police against the application was dismissed on the very same reasons by a decision approved by the prosecutor's office.
+
+<<964.52;981.56;en>>
+As the national authorities and courts find no violation of the fairness of the election or the secrecy of the vote, based on the procedural margin of appreciation granted to states, there is no reason for the court to depart from these findings.
+
+<<981.56;989.52;en>>
+It is even more so because the government also did not question these findings of the national authorities.
+
+<<989.52;1000.08;en>>
+Based on what I have just summarized, neither the fairness of the election nor the secrecy of vote might serve as a legitimate aim to restrict freedom of expression.
+
+<<1000.08;1004.56;en>>
+The national procedure did not establish the violation of these principles.
+
+<<1004.56;1014.16;en>>
+The sanction was based solely on the argument that the purpose of the ballot paper was to cast a vote, not to take a picture of it.
+
+<<1014.16;1019.12;en>>
+The purpose of an object cannot limit what can be said about it.
+
+<<1019.12;1023.74;en>>
+To argue that absurdum, the purpose of fruits in a bowl is to eat them.
+
+<<1023.74;1029.92;en>>
+But this purpose cannot be a legitimate aim for a prohibition of taking photographs of the fruits.
+
+<<1029.92;1040.08;en>>
+A still life painting of fruits cannot be deemed to violate the principle of the proper exercise of rights, regardless of the original purpose of the fruits.
+
+<<1040.08;1042.94;en>>
+The same is true for the ballot paper.
+
+<<1042.94;1050.86;en>>
+The purpose of the ballot cannot influence or make illegal the photograph of it or the debate on it.
+
+<<1050.86;1059.4;en>>
+The applicant believes that its freedom of expression has been, therefore, limited without legitimate aim.
+
+<<1059.4;1072.28;en>>
+Honorable court, in the last part of my argument, I will describe some important characteristics of the Hungarian election legislation and put it into international context.
+
+<<1072.28;1088.72;en>>
+Although the National Court did explicitly rule that the fairness of the election and the secrecy of the vote has not been violated, the applicant is of the opinion that the Hungarian legal regime on the secrecy of the vote is relevant for the determination of this case.
+
+<<1088.72;1097.32;en>>
+As this court has emphasized on several occasions, there are various ways of organizing and running electoral systems.
+
+<<1097.32;1105.72;en>>
+The choice of electoral regime linked to the historical developments of the state closely reflects its vision of democracy.
+
+<<1105.72;1114.72;en>>
+Given the lack of common European approach, states enjoy a wide margin of appreciation in regulating electoral matters.
+
+<<1114.72;1124.48;en>>
+The way a given state regulates electoral procedures inevitably impacts freedom of expression in relation to elections.
+
+<<1124.48;1133.92;en>>
+However, the wide margin of appreciation states enjoy under Article III, Protocol Number 1, does not extend to freedom of expression.
+
+<<1133.92;1143.9;en>>
+They are only entitled to draw the necessary conclusions flowing from their choice of an electoral regime to the exercise of freedom of expression.
+
+<<1143.9;1151.6;en>>
+The protection of Article 10 shall not be diminished with reference to the right to free elections.
+
+<<1151.6;1166.72;en>>
+The Hungarian legislature exercised its wide margin of appreciation when it decided that, like in some European states, the secrecy of the vote will be only a favorable right to the citizen, not an obligation.
+
+<<1166.72;1177.26;en>>
+This was the reason why the Curia ruled in this case that voters are entitled to share the fact that they have cast a vote or even publicize the content of the vote.
+
+<<1177.26;1190.8;en>>
+According to the Curia, taking a photograph of the ballot paper was not illegal because it violated the secrecy of the vote, but merely because the purpose of the ballot paper was not to be the subject of photographs.
+
+<<1197.44;1222.48;en>>
+Hungarian election law does not oblige voters to use a closed polling booth to fill in the ballots, does not prohibit the presence of more than one person in the polling booth, and does not require the use of envelopes for casting the vote, but explicitly allows the voter to ask for help in filling in the ballot from anyone or from the members of the polling station commission.
+
+<<1222.48;1227.26;en>>
+The appropriateness of this regulation may very well be contested.
+
+<<1227.26;1235.04;en>>
+Precisely because of these permissive rules, there were numerous reports in the past on election fraud, mostly among poorer voters.
+
+<<1235.04;1243.44;en>>
+However, the national legislation remained unamended, and the parliament and the government did not wish to change it.
+
+<<1243.44;1260.44;en>>
+In a legal system where the secrecy of the vote is just a right, but not an obligation, the prohibition of taking pictures of the ballot cannot be justified, even if it links the vote with the voter, and would therefore be a waiver of the voter's right to secrecy.
+
+<<1260.44;1273.92;en>>
+To put it otherwise, if a member state does not prohibit the voter to disclose his or her vote in person to anyone, it cannot be necessary to prohibit the photographing of the same ballot paper.
+
+<<1273.92;1283.44;en>>
+Other member states, however, which regulate voting secrecy as an obligation, enjoy wider freedom in sanctioning photographs of the ballot paper.
+
+<<1283.44;1301.08;en>>
+A judgment by the court concluding that in the present case, the Hungarian government, taking into consideration its election system, have violated the applicant's right to freedom of expression, will not imply that all the other member states have to allow photographing of ballot papers.
+
+<<1303.92;1314.42;en>>
+Member states are allowed to limit the free expression and reception of political opinions only if they comply with the convention.
+
+<<1314.42;1330.56;en>>
+Even if the limitations of freedom of expression would have been prescribed by law, and would have served a legitimate aim in this case, neither of these criteria was met, national authorities, including courts, would have had to balance the competing rights.
+
+<<1330.56;1338.22;en>>
+This balancing exercise was not undertaken by the national authorities in the present case at all.
+
+<<1338.22;1355.24;en>>
+Had the balancing exercise been carried out, it would have been clear that when a member state does not deem it necessary to enforce the secrecy of the vote, even against the will of the voter, the communication in pictures about the same vote may not be restricted.
+
+<<1355.24;1365.88;en>>
+Had the balancing exercise been carried out, it would have been obvious and unquestionable that in the present case, nothing jeopardized the fairness or the secrecy of the elections.
+
+<<1369.04;1384.28;en>>
+Honorable Court, an interference with the right to freedom of expression violates the convention if this limitation is not prescribed by law, has not legitimate aim, or was not necessary in a democratic society.
+
+<<1384.28;1391.8;en>>
+As I have shown, the Hungarian government failed to meet all three conditions of the convention's limitation test.
+
+<<1391.8;1396.0;en>>
+The limitation of the applicant's right was not prescribed by law.
+
+<<1396.0;1402.4;en>>
+There are no direct prohibition in the Hungarian law of making photographs on the ballot.
+
+<<1402.4;1411.24;en>>
+An expressly non-binding interpretation of the law by the National Electoral Commission cannot serve as a legal basis of the limitation.
+
+<<1411.24;1417.88;en>>
+Moreover, under Hungarian law, voting secrecy is not an obligation, but a waiveable right of the citizen.
+
+<<1417.88;1434.22;en>>
+If a citizen can freely choose to fill in the ballot paper outside the polling booth in the presence of others, or to show his or her ballot to anyone, the same voter should also be free to take a photograph of it and distribute it on social media.
+
+<<1434.22;1443.08;en>>
+The Hungarian authorities sanctioned the applicant for violating the vague notion of exercising rights in accordance with their purpose.
+
+<<1443.08;1460.46;en>>
+This notion, however, does not fulfill the criteria of law within the meaning of Article 10, because it does not foreseeably prohibit taking photographs of the ballot paper, as we provided a detailed explanation of this in our written submission.
+
+<<1460.46;1466.28;en>>
+For this reason, the limitation of the applicant's rights was not prescribed by law.
+
+<<1466.28;1473.2;en>>
+Second, the sanctioning of the applicants also did not pursue a legitimate aim.
+
+<<1473.2;1482.92;en>>
+Voting secrecy or the fairness of the election might very well serve, as the right of others, a legitimate ground for curtailing freedom of expression.
+
+<<1482.92;1489.56;en>>
+The mobile phone application in the present case, however, made it impossible to link a voter to his or her vote.
+
+<<1489.56;1496.2;en>>
+And consequently, the highest Hungarian court ruled that these principles were not violated.
+
+<<1496.2;1505.64;en>>
+The reasons for the sanction, the purpose of the ballot paper does not correspond to any legitimate aim listed in the paragraph 2 of Article 10.
+
+<<1505.64;1517.3;en>>
+The Hungarian authorities, therefore, had no legitimate ground to limit the right of freedom of expression of the applicant and have violated its right under Article 10 of the convention.
+
+<<1517.3;1531.44;en>>
+Third, the National Election Commission, the Courier, and the Constitutional Court failed to examine properly whether the sanction imposed on the applicant was necessary in a democratic society or not.
+
+<<1531.44;1544.04;en>>
+The Hungarian authorities did not balance the competing right and interest, and their decision show no sign of taking into account the convention or the practice of this court.
+
+<<1544.04;1553.8;en>>
+The Hungarian authorities, moreover, failed to show any hardship or harm caused by the applicant compared to which the sanction would have been proportionate.
+
+<<1553.8;1563.42;en>>
+In fact, they couldn't show this since the mobile phone application was not harmful but helpful for Hungarian democracy.
+
+<<1563.42;1571.96;en>>
+As a consequence, the Hungarian authorities violated Article 10 of the convention for failing to show why the sanction was necessary in a democratic society.
+
+<<1575.0;1583.38;en>>
+Based on all of the arguments previously raised, Hungary has violated the applicant's right under Article 10 of the convention.
+
+<<1583.38;1585.42;en>>
+Honorable Court, thank you for your attention.
+
+<<1585.42;1585.42;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1586.51;1589.51;en>>
+Thank you very much, Mr. Fazekas.
+
+<<1589.51;1590.51;en>>
+I call Mr. Tallódi, please.
+
+<<1590.51;1591.51;en>>
+You have the floor.
+
+[[Government;GR1]]
+
+<<1595.75;1598.27;en>>
+Mr. President, honorable members of the court,
+
+<<1598.27;1610.95;en>>
+ladies and gentlemen, it's a privilege and a pleasure to have the opportunity to appear before the court to explain the most important issues raised by this case in the light of the latest submissions of the applicant.
+
+<<1610.95;1614.6;en>>
+First, we must clarify the scope of the present case.
+
+<<1614.6;1653.75;en>>
+The National Election Commission stated essentially two grounds for their decision sanctioning the applicant for the operation of the mobile phone application at issue, namely that the taking of pictures of the ballot papers was contrary to the relevant guidelines applicable in election proceedings, including referendums, and the application which published uncertified statistics on the number of voters, having cast valid or invalid ballots, or having decided not to turn out at the referendum with a view to ensuring that the referendum results were not forged by the authorities.
+
+<<1653.75;1662.12;en>>
+It was suitable to undermine voters' trust in the functioning of the electoral organs and the electoral IT systems.
+
+<<1662.12;1700.51;en>>
+In respect of the latter ground, the National Election Commission as a body of experts of election law and practice admittedly failed to explain in more detail what was obvious to them, but less obvious to those who are less familiar with the election process, namely how the collection and publication of uncertified data was capable of undermining public trust in the functioning of the electoral organs, that it was not ensured that only ballots actually cast can be included in the shadow statistics, which were intended to serve as a reference point for allegations of ballot fraud by the authorities.
+
+<<1700.51;1710.03;en>>
+As a result of the laconic reasoning, the Courier accepted the applicant's position that the National Election Commission's conclusion in this respect was wrong.
+
+<<1710.03;1717.51;en>>
+In this respect, the Commission's procedural omission was remedied by a judicial decision in favor of the applicant.
+
+<<1717.51;1735.19;en>>
+However, it should be made clear that the judicial decision based on the insufficient reasoning of the Electoral Commission's decision in a specific case cannot be regarded for general purposes as a ruling on the merits or validity of the reasons which have not been properly stated.
+
+<<1735.19;1756.6;en>>
+In the present case, it means that the court should refrain from making any finding that could be interpreted as prohibiting the Hungarian authorities from banning the use of uncertified shadow ballot counting methods aimed at controlling the official data of election results and potentially discrediting the work of the electoral organs.
+
+<<1756.6;1775.75;en>>
+Perseverant to the applicant's submissions in the domestic judicial proceedings, it was the first ground relied upon by the Election Commission's decision, namely that the taking of pictures of the ballot papers was contrary to the relevant guidelines, which became the focus of the domestic proceedings.
+
+<<1775.75;1791.15;en>>
+As regards the issue of ballot selfies, the applicant consistently relied on the voters' freedom of expression, having been impaired by the prohibition of taking a photograph of the ballot paper.
+
+<<1791.15;1815.67;en>>
+The courier examined the issue from this aspect, finding that the voters' freedom of expression was not unduly restricted because they still had the option of expressing their opinion on the issue, besides casting their actual vote by sharing the content of their vote verbally or in writing or in any manner other than by a picture of the ballot paper.
+
+<<1815.67;1821.15;en>>
+The applicant's constitutional complaint was directed against the courier's decision.
+
+<<1821.15;1837.12;en>>
+Accordingly, the constitutional court examined the scope of the case before the courier in the light of the applicant's submissions and found that the case before the courier concerned the voters' freedom of expression and not that of the applicant.
+
+<<1837.12;1852.91;en>>
+Indeed, the applicant's political party did not argue before the courier that it had been an exercise of their freedom of expression to encourage voters to take photos of their ballot papers in defiance of the rules of the election procedure.
+
+<<1852.91;1880.63;en>>
+Neither did they argue before the constitutional court that their sanctioning for the use of a specific campaign tool, namely a mobile phone application aimed at alternative ballot counting and encouraging voters to breach the rules of election law, was a breach of their freedom of expression as a social watchdog aimed at supervising the fairness of the referendum, as they claimed before this court.
+
+<<1880.63;1888.19;en>>
+Had they raised these points in the domestic proceedings, the constitutional court could have given its opinion on the issue.
+
+<<1888.19;1909.36;en>>
+Since they had complained only about an indirect infringement of their freedom of expression by the infringement of the rights of others, the voters, their indirect victim status was not sufficient to bring their complaint within the competence of the constitutional court, and hence it was rejected.
+
+<<1909.36;1926.86;en>>
+The government did not claim that the present application is inadmissible for the lack of the applicant's victim status for the inapplicability rationa materia of Article 10, because the applicant's claims raised in the present proceedings do fall under Article 10.
+
+<<1926.86;1946.39;en>>
+The government only pleaded and maintained that the application was inadmissible for failure to exhaust effective domestic remedies, since the claims revealing the applicant's direct victim status under Article 10 had not been properly brought before the competent domestic authorities.
+
+<<1946.39;1981.19;en>>
+In spite of the fact that the government is confident that the court will find no violation of Article 10 on account of the prohibition of ballot surface in this case, the government emphasized that the court should not continue to take a lenient approach to applicants in respect of fulfillment of the requirement of exhaustion of domestic remedies, because this approach had generated the tendency for applicants' lawyers to make very negligent use of domestic remedies, which doesn't serve the interest of a better protection of the human rights in Europe, what the court is striving for.
+
+<<1981.19;1984.19;en>>
+Mr. President, honorable members of the court,
+
+<<1984.19;1999.27;en>>
+as I mentioned above, the restriction complained of by the applicant originally had two equally important grounds, but the case got sidetracked in the domestic proceedings, and now we are focusing solely on the issue of ballot surface.
+
+<<1999.27;2014.84;en>>
+By a ballot surface, we mean any photograph showing and thereby proving how the photographer cast his or her vote, irrespective of whether the person can actually be seen on the picture, besides the marked ballot paper.
+
+<<2014.84;2026.36;en>>
+In an era of increasing use of social media and increasing availability of smartphones, the phenomenon of taking ballot surface is increasingly widespread all over the world.
+
+<<2026.36;2037.23;en>>
+Different societies have reacted to that phenomenon in different ways, depending on their historical experiences and legal and cultural traditions, even within the same country.
+
+<<2037.23;2060.11;en>>
+The most graphic example of that diversity of reactions is the United States of America, where there being no federal law regarding ballot surface, leaving the matter to the individual states, even in federal actions, some states prohibit ballot surface, imposing fines or jail terms for violations, while other states have no prohibition.
+
+<<2060.11;2077.43;en>>
+Opponents of the prohibition rely on the freedom of expression, while proponents see it as an important safeguard against the reemergence of the buying and selling of votes or potential coercion from employers, union bosses, or others.
+
+<<2077.43;2088.51;en>>
+Some states prohibit not only photos of marked ballots, but the use of any electronic devices at the polling stations or even in their vicinity.
+
+<<2088.51;2093.24;en>>
+Others allow the taking of ballot surface and only prohibits sharing them.
+
+<<2093.24;2099.15;en>>
+It is only about half of the US states were taking pictures of the ballot, and sharing is not illegal.
+
+<<2099.15;2105.11;en>>
+However, in many of them, it is discouraged or maybe prohibited at individual polling stations.
+
+<<2105.11;2114.03;en>>
+It was only in two states, New Hampshire and Indiana, where newly enacted prohibitions were found unconstitutional.
+
+<<2114.03;2135.19;en>>
+In this respect, however, we must not lose sight of the fact that the New Hampshire court decision was delivered in a case where three voters actually faced criminal prosecution for disclosing the pictures taken of their ballots, which were evidently not sold, one of the perpetrators having voted for himself.
+
+<<2135.19;2140.72;en>>
+It is not surprising that the law was found to be overkill under those circumstances.
+
+<<2140.72;2148.95;en>>
+It is not surprising either that the defendant's position was supported by Snapchat, a photo and video sharing app.
+
+<<2148.95;2166.99;en>>
+In contrast, however, the prohibition was upheld by a court in Michigan in a case where the sanction for the violation was simply the annulment of the ballot concerned, as well as in New York State in 2017, as it was seen as an important safeguard against gold buying and coercion.
+
+<<2166.99;2171.99;en>>
+In Canada, the voters also prohibited from showing their ballot to others when marked.
+
+<<2171.99;2181.39;en>>
+That means any of seen taking a photo of their ballot at the polling station will be told not to share it online or show it to anyone.
+
+<<2181.39;2188.68;en>>
+If they do, they could face up to a $1,000 Canadian fine or three months in prison.
+
+<<2188.68;2210.47;en>>
+In the United Kingdom, there is no specific legal provision prohibiting ballot selfies, but it is still discouraged or practically prohibited by no photo signs at polling stations as potentially violating a number of provisions aimed at securing secrecy of the ballot, including revealing the ballot's unique identification number.
+
+<<2210.47;2229.76;en>>
+A noteworthy aspect of the regulation is that while it is not illegal to publish someone's own vote, it is illegal to directly or indirectly induce a voter to display his ballot paper after he has marked it.
+
+<<2229.76;2239.63;en>>
+In Germany, ballot selfies were banned in 2017 at federal elections, while the rules applicable at state elections may differ.
+
+<<2239.63;2242.84;en>>
+In France, ballot selfies are not yet regulated.
+
+<<2242.84;2254.64;en>>
+In Belgium, ballot selfies are prohibited, and anyone found taking or posting a photo showing how they voted risks a fine up to 3,000 euros.
+
+<<2254.64;2274.68;en>>
+In the Netherlands, ballot selfies, so-called stamfies, are not prohibited by law, but human rights NGOs raised their concerns in judicial proceedings when a minister of the Dutch government stated that this fact in a tweet during the 2014 municipal elections.
+
+<<2274.68;2287.64;en>>
+They argued that stamfies violate the voting secrecy because voters can thereby show what they have voted for, and third parties can controllably influence the vote to be cast.
+
+<<2287.64;2300.45;en>>
+These are only a few examples showing the diversity of regulation in some states committed to ensuring freedom of expression, as well as the fairness of the elections and secrecy of the ballot.
+
+<<2300.45;2307.84;en>>
+There is one conclusion which follows for the purposes of this case, there being no general consensus on this issue.
+
+<<2307.84;2318.09;en>>
+The high contracting parties have a wide margin of appreciation in this field, taking into account their historical and legal traditions and social realities.
+
+<<2318.09;2336.39;en>>
+The government also recall in this respect the principle of subsidiarity, according to which the domestic authorities are in a better position to determine certain issues, in the present case, the needs of the society and the existence of a pressing social need than an international tribunal.
+
+<<2336.39;2339.15;en>>
+Mr. President, honorable members of the court,
+
+<<2339.15;2351.57;en>>
+please let me now make some comments on the applicant's written submissions, starting with the alleged societal need of the electorate to share their votes in the form of a photograph.
+
+<<2351.57;2372.68;en>>
+The societal need was demonstrated by about 3,900 photos having been shared via the mobile phone application provided by the applicant, while the number of invalid votes at the referendum was 224,000, and a total of 3.6 million
+
+<<2372.68;2373.86;en>>
+electors voted.
+
+<<2373.86;2377.55;en>>
+It is 44% of the eligible voters.
+
+<<2377.55;2387.15;en>>
+Therefore, it seems that the applicant party confused their own need to create an effective campaign tool with the society's need to have ballot surface published.
+
+<<2387.15;2396.39;en>>
+The society's demand for ballot surface was not demonstrated during the campaign of the 2018 parliamentary elections either.
+
+<<2396.39;2411.19;en>>
+However, the pressing social need to maintain the prohibition of taking the ballot papers outside the polling station, either in the physical or in its virtual form, has proven to be still persisting.
+
+<<2411.19;2417.39;en>>
+The applicant party themselves voiced their distrust and the society's distrust towards the government.
+
+<<2417.39;2425.03;en>>
+We can also add that the distrust of the political parties towards one another and that of the society towards political parties.
+
+<<2425.03;2442.72;en>>
+In such political atmosphere, it is the society's utmost interest to keep in place every rule necessary to preserve the integrity of the elections, to prevent any possible abuses or at least the use of those methods of fraud that we are already familiar with.
+
+<<2442.72;2466.36;en>>
+It was a widely suspected method of vote buying, a so-called method of chain voting, when voters were allegedly paid for smuggling in pre-filled ballot papers and smuggling out blank ballot papers in exchange, which made it necessary in 2006 to issue a guideline on the prohibition of the removal of the ballot paper from the polling station.
+
+<<2466.36;2490.68;en>>
+This interpretation of the proper exercise of the right to cast a vote was later, in 2014, maintained by the National Election Commission, an independent body of experts of election law composed in accordance with the law, with the participation of members delegated by the major political parties as main actors in the election process.
+
+<<2490.68;2512.76;en>>
+Having regard to new technical developments, it was clarified that voters cannot take the ballot paper outside the polling station, even in their virtual form, and thus they cannot make any recording of it with any telecommunication, digital, or other IT devices, in order to show to it a third party for any purpose.
+
+<<2512.76;2523.43;en>>
+It was generally agreed that this rule was necessary to prevent vote buying and to maintain the integrity, fairness, secrecy of the election process.
+
+<<2523.43;2535.86;en>>
+In this context, where public confidence in the democratic institutions is at stake, it is irrelevant whether there have been actual proven cases of election fraud of this type in any event.
+
+<<2535.86;2541.53;en>>
+They would generally be very difficult to prove with the certainty required by incriminating law.
+
+<<2541.53;2558.01;en>>
+In order to establish a pressing social need to take measures for the protection of democratic institutions, public order, it is sufficient that suspicions attain an intensity that can undermine the trust of the voters.
+
+<<2558.01;2560.03;en>>
+This is the case in Hungary.
+
+<<2560.03;2576.43;en>>
+Let us imagine what would happen in the political climate full of distrust, as described above, if the government or any of the distrusted parties suggested that ballot surface were to be allowed so that people can prove to others how they voted.
+
+<<2576.43;2582.18;en>>
+There would be a loud public outcry of suspicions of intended election fraud.
+
+<<2582.18;2607.34;en>>
+Mindful of the court's preferential approach to individual rights and its reluctance to afford equal protection to abstract notions such as public order, I emphasize that the protection of the proper functioning of the democratic institutions ultimately always serves the protection of the rights of others, which these democratic institutions are meant to protect and ensure.
+
+<<2607.34;2629.6;en>>
+In the present case, the applicable law set out various principles of election law serving the same ultimate purpose of ensuring free and democratic elections, namely fairness of the elections, secrecy of the ballot, and requirements of exercise of the rights provided for by the election law in accordance with their intended purpose.
+
+<<2629.6;2636.32;en>>
+These principles do not represent separate aims, but are the means to achieving the same goal.
+
+<<2636.32;2641.8;en>>
+They protect against threats of different kind of intensity to the same democratic institutions.
+
+<<2641.8;2657.65;en>>
+Therefore, the applicant wrongly argue that the principle of the proper exercise of rights is not a legitimate ground for interference under Article 10 when there is no actual violation of the fairness of the elections or the secrecy of the vote.
+
+<<2657.65;2667.68;en>>
+The latter two, the protection of which the applicant accept to be legitimate aims, are not specifically mentioned in the convention either.
+
+<<2667.68;2673.15;en>>
+The applicant also wrongly argued that it was only the ballot paper which was protected.
+
+<<2673.15;2684.07;en>>
+The ballot paper serves the purpose of expressing the opinion of the voter in the election process and to do so without any coercion jeopardizing the freedom of the vote.
+
+<<2684.07;2694.81;en>>
+A rule that serves to ensure that the ballot paper can only be used for its intended purpose does not protect the object, but the purpose, which is in this case.
+
+<<2694.82;2702.56;en>>
+I repeat, the purpose of expressing the opinion of the voter without any coercion jeopardizing the freedom of the vote.
+
+<<2702.56;2718.43;en>>
+It's quite generally agreed that taking pictures of marked ballot papers and showing it to others as proof of how someone voted can undermine the freedom of the vote, or at least can raise doubts about the freedom of the vote.
+
+<<2718.43;2730.56;en>>
+We must also bear in mind that the applicant party was not sanctioned for taking a ballot selfie, but for applying a campaign tool encouraging thousands of voters to disregard the rules of election law.
+
+<<2730.56;2741.27;en>>
+Of course, individually each voter would know whether his ballot selfie served as a proof for a vote, vote by air, or as a means of expressing an opinion.
+
+<<2741.27;2747.26;en>>
+But if caught and asked, all would say it was for the latter purpose.
+
+<<2747.26;2751.43;en>>
+How would the authorities at the polling station know the difference?
+
+<<2751.43;2757.64;en>>
+How would the public know the difference if rumors or parallel vote buying schemes started to spread?
+
+<<2757.64;2763.19;en>>
+What if rumors started to spread that the applicant party was paying for invalid votes?
+
+<<2763.19;2771.6;en>>
+Would the applicant be still comfortable with the idea of ballot selfies if other parties started to use the same campaign method?
+
+<<2771.6;2782.47;en>>
+In this respect, the applicant acted irresponsibly, if not illegally, and it is exactly what the principle of the proper exercise of rights is aimed at preventing.
+
+<<2782.47;2801.56;en>>
+In this context, we should also recall the long forgotten phrase in Article 10, paragraph 2 of the convention that the freedom of expression carries with its duties and responsibilities, which is of special importance in the case of political parties.
+
+<<2801.56;2813.59;en>>
+Article 10 not only affords special protection to political expression, but also imposes special responsibilities on those who strive to influence the public.
+
+<<2813.59;2824.41;en>>
+Finally, let me briefly react to the applicant's latest submissions challenging the legal ground for the measure complained of, which has not been disputed before the chamber.
+
+<<2824.41;2846.72;en>>
+Contrary to the applicant's submissions, the legal ground for the fine imposed upon him was not the guidelines of the National Election Commission, per se, section 2, paragraph 1A of the Act on the Rules of Election Procedure, providing for the requirement of exercise of a right in accordance with its purpose.
+
+<<2846.72;2870.8;en>>
+Moreover, for the purpose of the convention, the notion of law covers not only legislative acts with an ergaumness legally binding effect, but also instruments of authoritative interpretations of legal provisions, such as judicial or administrative decisions or guidelines, as long as they are accessible to the public and comply with the requirements of foreseeability.
+
+<<2870.8;2905.19;en>>
+In this case, the guidelines themselves stated that they were to provide an interpretation of the law, and they concluded that the only electoral conduct that complies with the requirements of protection of the fairness of election and of good face and exercise of a right in accordance with its purpose, when the voter does not remove the ballot paper from the polling station, either in the physical form or virtually, by making any recording of it with any telecommunication, digital, or other device, IT device.
+
+<<2905.19;2924.95;en>>
+This interpretation of law was accessible and made it foreseeable for the applicant that encouraging voters to exercise their right in the election procedure, not in accordance with their purpose, was not in accordance with the purpose of their right to make part in the referendum campaign either.
+
+<<2924.95;2930.65;en>>
+This interpretation was later enforced by a judicial decision in the applicant's case.
+
+<<2930.65;2967.15;en>>
+Contrary to the case before the Budapest Court of Appeal, referred to by the applicant claiming that the breach of the principle of proper exercise of the rights could not be established under domestic law, in this case, the applicant's campaign activity did not simply strive to influence the opinion or will of the potential voters, as the very essence of campaigning, but invited them to breach their own obligation to exercise the right in accordance with its purpose, which does provide the additional element of negative consequences of the activity.
+
+<<2967.15;2987.03;en>>
+It is only in respect of the issue of proportionality of the sanctions that the gravity of those negative consequences matters, whether it remained a threat to the integrity of the voting process, or it had actually undermined the results of the referendum in breach also of other principles of election law.
+
+<<2987.03;3007.55;en>>
+In this context, we must also bear in mind that the small effect of the applicant's conduct was not as much due to its nature, that it would not have been capable of causing more damage if applied by a party with a larger supporter base, but the applicant's comparatively small actual political weight.
+
+<<3007.55;3016.6;en>>
+But the rules of election law must be equally applicable to all parties, large or small, serious or frivolous joke parties.
+
+<<3016.6;3019.84;en>>
+Mr. President, honorable members of the court, in conclusion,
+
+<<3019.84;3026.88;en>>
+let me briefly summarize the government's position on the admissibility and merits of the application.
+
+<<3026.88;3037.95;en>>
+The applicant didn't bring his complaints before the domestic authorities in accordance with the law as required by Article 35, Paragraph 1 of the Convention.
+
+<<3037.95;3051.11;en>>
+They only claim that the prohibition to take and share pictures of ballot papers violated the voters' freedom of expression, which the Courier dismissed with convincing reasoning compatible with Article 10 of the Convention.
+
+<<3051.11;3059.15;en>>
+The applicant did not argue that their freedom of expression covered the right to encourage voters to disregard their obligations under the law.
+
+<<3059.15;3070.91;en>>
+Therefore, the Constitutional Court did not find that the applicant's complaint raised a separate issue other than the restriction of the freedom of expression of the voters dealt with by the Courier.
+
+<<3070.91;3085.23;en>>
+In application of the rule of exhaustion of domestic remedies, the applicant should not be allowed to benefit from their own negligent conduct before the domestic authorities and the application should be declared inadmissible.
+
+<<3085.23;3088.19;en>>
+The application is ill-founded anyway.
+
+<<3088.19;3112.59;en>>
+The applicant party was fined for the breach of the rules of campaigning by a mobile phone application, encouraging voters to disregard their legal obligations while exercising the right to vote and enabling the operation of an uncertified alternative ballot counting mechanism capable of undermining the credibility of the operation of the election organs.
+
+<<3112.59;3122.76;en>>
+The measure complained of had a legal basis in the act of election procedure, which complied with the requirements of accessibility and foreseeability.
+
+<<3122.76;3136.19;en>>
+The restriction at issue had the legitimate aim of protecting public order, the proper functioning, and public trust in democratic institutions, thereby also protecting the rights of others.
+
+<<3136.19;3151.99;en>>
+As regards the necessity of the measure, the diversity of regulation in democratic states shows that the domestic authorities enjoy a wide margin of appreciation, taking into account their historical and legal traditions and social realities.
+
+<<3151.99;3170.95;en>>
+The government repeatedly recalled the principle of subsidiarity and emphasized that assessing the necessity of removing a longstanding institution or of introducing a new institution respectively often require different approaches, as it was made clear by the case of Lausanne versus Italy.
+
+<<3170.95;3179.8;en>>
+The measure complained of was also proportionate to aim pursued both in respect of the voters and the applicant.
+
+<<3179.8;3213.99;en>>
+The voters remained free to express their political opinions in any manner other than publishing the picture of their marked ballots, and the applicant was fined only a small amount of money, about 300 euros, for encouraging thousands of voters to disregard the rules of election law and remind free to encourage voter participation in invalid voting by other methods not involving taking photos of marked ballot papers or pretending to provide reliable alternative ballot counting services to the public.
+
+<<3217.35;3239.64;en>>
+The government considered that having regard to the importance of the fairness of the elections, the potential of undermining the integrity of the voting process was sufficient to justify the interference complained of irrespective of the actually small impact of the applicant's campaign method due to the applicant's comparatively small supporter basis.
+
+<<3239.64;3254.95;en>>
+But the rules of election law must be equally applicable to all parties, even small joke parties cannot be allowed to use campaign methods that would be seen more dangerous if applied by bigger or more serious political forces.
+
+<<3254.95;3257.11;en>>
+Mr. President, that concludes what
+
+<<3257.11;3258.88;en>>
+I wish to say at this stage.
+
+<<3258.88;3262.3;en>>
+May I thank you, Mr. President and members of the court,
+
+<<3262.3;3265.15;en>>
+for listening to me so patiently and attentively.
+
+<<3265.15;3265.15;en>>
+Thank you.
+
+<<3265.15;3265.15;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3266.07;3269.07;en>>
+Thank you very much Mr. Tallódi.
+
+<<3269.07;3273.07;en>>
+I thank both parties for their submissions.
+
+<<3273.07;3280.07;en>>
+And now I invite my colleagues, the judges of the Grand Chamber, who wish to do so, to put their questions to the parties.
+
+<<3280.07;3280.07;en>>
+I see Judge Griţco, please.
+
+[[Judge;Valeriu Griţco]]
+
+<<3285.47;3287.63;en>>
+Thank you, Mr. President.
+
+<<3287.63;3292.91;en>>
+I have a question to the applicant.
+
+<<3292.91;3299.55;en>>
+The question is connected to the paragraph one of your memorial before the Grand Chamber.
+
+<<3299.55;3316.51;en>>
+So in paragraph one of your memorial before the Grand Chamber, it's stated that the promotion by the applicant of the respective mobile application, I'm quoting, in itself was an expression of political opinion.
+
+<<3316.51;3323.51;en>>
+So my question is, what are the reasons for such a statement?
+
+<<3323.51;3332.27;en>>
+And in the same context, what do you mean by saying expression of political opinion?
+
+<<3332.27;3332.27;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3333.64;3335.0;en>>
+Thank you very much.
+
+<<3335.0;3336.0;en>>
+Judge Kjølbro, please.
+
+[[Judge;Jon Fridrik Kjølbro]]
+
+<<3338.02;3339.02;en>>
+Thank you, Mr. President.
+
+<<3339.02;3342.6;en>>
+I do have one question, which is addressed to both parties.
+
+<<3342.6;3352.54;en>>
+The Grand Chamber is called upon to assess two judgments from the Courier, one adopted on the 10th of October, the other one adopted on the 18th of October.
+
+<<3352.54;3365.74;en>>
+In the first one, the Courier upheld a decision of the Election Commission, according to which the applicant was under an obligation to refrain from further unlawful conduct.
+
+<<3365.74;3372.86;en>>
+In the second judgment, the Courier upheld a decision according to which a fine was imposed.
+
+<<3372.86;3382.86;en>>
+When I'm reading the reasoning in both judgments, the Courier said that the applicant had infringed the principle of proper exercise of rights.
+
+<<3382.86;3386.86;en>>
+However, in the second judgment of 18th of October, the Courier added one element.
+
+<<3386.86;3402.7;en>>
+It said the actions of the applicant also amount to unlawful campaign activities during the period foreseen in section 139 of the Electoral Procedure Act, likely to influence voters' choice.
+
+<<3402.7;3409.38;en>>
+And my question is, how am I to understand that this latter element added only in the second judgment of the Courier?
+
+<<3409.38;3418.58;en>>
+Does it imply that they're under Hungarian law is a period during which campaign activities are in general prohibited?
+
+<<3418.58;3425.26;en>>
+And if so, is it a general prohibition, or is it limited to the specific circumstances of this case?
+
+<<3425.26;3430.06;en>>
+In other words, is it limited in time, the means, the geography, the place?
+
+<<3430.06;3437.58;en>>
+So how am I to understand the element added by the Courier in his judgment of 18th of October, 2016?
+
+<<3437.58;3437.58;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3439.37;3441.69;en>>
+Thank you very much. Judge Lemmens, please.
+
+[[Judge;Paul Lemmens]]
+
+<<3444.48;3445.48;en>>
+Thank you very much.
+
+<<3445.48;3461.04;en>>
+I have questions to both parties relating to the, I would say, procedural constraints of our court when dealing with applications or defense arguments by the parties.
+
+<<3461.04;3466.1;en>>
+They touch somewhat on the two questions that have already been raised.
+
+<<3466.1;3481.34;en>>
+First question to the applicant, when in the written observation of the applicant describes why its freedom of expression has been interfered with, it mentions two elements.
+
+<<3481.34;3495.74;en>>
+In the first place, the applicant says that it has provided to the voters a means of dissemination of their opinions, and that is what you argued orally today.
+
+<<3495.74;3509.1;en>>
+The second element is, and that is what my colleague Griţco referred to, is that advancing this app was in itself the expression of a political opinion.
+
+<<3509.1;3517.8;en>>
+The government has argued that this second aspect was not a matter that was being discussed before the domestic courts.
+
+<<3517.8;3521.94;en>>
+My question therefore is, is this also your view?
+
+<<3521.94;3530.1;en>>
+And if so, can this second aspect play a role in the proceedings before our court?
+
+<<3530.1;3546.8;en>>
+The second question is for the government about the legitimate aim being invoked to justify the restriction that has been imposed on the applicant.
+
+<<3546.8;3568.78;en>>
+The government is arguing that the prohibition of publishing photos of ballots, that such a practice can potentially have a huge impact on the integrity of the elections, that the secrecy and the fairness of elections are at stake.
+
+<<3568.78;3614.26;en>>
+However, it has also been argued by the applicant that the Courier, the Supreme Court, in its judgment rejected a number of arguments relating to the secrecy and the fairness of the elections, at least in this case, and that the only justification retained by the Courier was that there was an infringement of the principle of the proper exercise of rights, namely a call to the voters to use the ballots, the ballot papers, for another purpose than for expressing the voters' opinion on the question in the referendum.
+
+<<3614.26;3621.42;en>>
+My question is, I know that you developed this somewhat early, but I would like to ask you a very specific question.
+
+<<3621.42;3638.42;en>>
+In light of the decision of the Courier to reject a number of justifications, can the government come back before our courts and, notwithstanding that decision of the Courier, still rely on a number of these justifications?
+
+<<3638.42;3642.98;en>>
+Or what about the procedural difficulties raised here for us?
+
+<<3642.98;3642.98;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3644.73;3646.49;en>>
+Thank you very much.
+
+<<3646.49;3648.01;en>>
+Judge Schukking, please.
+
+[[Judge;Jolien Schukking]]
+
+<<3650.36;3652.96;en>>
+Thank you, Mr. President.
+
+<<3652.96;3658.8;en>>
+I would like to thank you for your very informative statements, pleadings.
+
+<<3658.8;3669.72;en>>
+My question relates a little bit to the former question as regards the impact and concentrates on the proportionality test.
+
+<<3669.72;3673.08;en>>
+The question is addressed to both parties.
+
+<<3673.08;3686.34;en>>
+When balancing competing rights and making an assessment of the proportionality, one of the factors to be taken into account is the expected impact of that expressive medium.
+
+<<3686.34;3710.26;en>>
+And my question to the government is what was, according to the authorities, the expected impact of the mobile phone application, taken into account that no connection could be made between the voter and the voter, and also the fact that the political party that made available the app is, as you said yourself, a very small one?
+
+<<3710.26;3718.32;en>>
+And the same question, but then a bit differently formulated, I would like to pose to the party.
+
+<<3718.32;3723.14;en>>
+What was, according to the party, the expected impact?
+
+<<3723.14;3728.4;en>>
+And what did the party actually aim at reaching while making this application available?
+
+[[JudgeP;Guido Raimondi]]
+
+<<3734.26;3735.78;en>>
+Thank you very much.
+
+<<3735.78;3736.78;en>>
+Judge Bianku, please.
+
+[[Judge;Ledi Bianku]]
+
+<<3739.38;3741.18;en>>
+Thank you, Mr. President.
+
+<<3741.18;3756.41;en>>
+My first question is related to the applicants, and I'm referring to the first part of your oral submissions today, where you're referring to the possibility of individuals to upload photos in the social media platforms.
+
+<<3756.41;3765.56;en>>
+Is it your case today that by uploading voting ballots in a mobile app enjoys the same level of protection under the convention?
+
+<<3765.56;3773.95;en>>
+The second question, again, is directed to the applicants' representative, but the government can comment if they so wish.
+
+<<3773.95;3779.18;en>>
+If I understand correctly, what I'm about to ask has not been raised at domestic level.
+
+<<3779.18;3783.62;en>>
+However, I'm inclined, for the sake of the argument, to ask the following.
+
+<<3783.62;3790.91;en>>
+What has happened with the disputed mobile app and the related photos after the referendum?
+
+<<3790.91;3792.97;en>>
+Have they been destroyed?
+
+<<3792.97;3794.28;en>>
+When?
+
+<<3794.28;3801.38;en>>
+And is it reasonable to require safeguards on what could potentially happen with such data later?
+
+<<3801.38;3801.38;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3802.54;3804.98;en>>
+Thank you very much.
+
+<<3804.98;3819.34;en>>
+If there are no more questions, the court will now withdraw for 25 minutes, following which the parties will be able to submit brief observations in reply to each other's submissions and reply to questions from the judges.
+
+<<3819.34;3820.34;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4169.53;4170.29;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4204.29;4205.21;en>>
+Please be seated.
+
+<<4218.77;4220.65;en>>
+The hearing is resumed.
+
+<<4220.65;4222.53;en>>
+And I call Mr. Tóth.
+
+<<4222.53;4222.53;en>>
+Please, you have the floor.
+
+[[Applicant;AP2]]
+
+<<4225.05;4229.41;en>>
+Thank you, Mr. President, honorable judges.
+
+<<4229.41;4235.15;en>>
+I try to be as short as possible in answering the questions.
+
+<<4235.15;4251.65;en>>
+And the first question I would like to answer is that why does the applicant hold that also his own opinion has been, political opinion has been expressed by creating this application?
+
+<<4251.65;4257.45;en>>
+And the answer to this question is that the name of the application was cast an invalid vote.
+
+<<4257.45;4271.75;en>>
+So it in its name was calling the voters to cast an invalid vote, which was the political opinion of the applicant as to the correct or right answer in the Hungarian referendum.
+
+<<4271.75;4282.95;en>>
+That's why the applicant holds that this mobile application was also part of its political opinion.
+
+<<4282.95;4298.61;en>>
+But due to the fact that for this activity, I mean, naming or calling this mobile application cast an invalid vote, the applicant has never been sanctioned or this activity has never been questioned.
+
+<<4298.61;4303.71;en>>
+Its lawfulness has never been questioned in the domestic procedures either.
+
+<<4303.71;4333.65;en>>
+That's why when the applicant submitted its appeal to the Courier and to the Hungarian Constitutional Court, the sole basis, the sole legal basis of the applicant's position was that its right to freedom of speech was breached because of banning or sanctioning the use of this application.
+
+<<4333.65;4351.31;en>>
+As to the question, what is the reason behind the two different decisions or two different reasonings of the decisions of the Courier which are subject to this case, I would like to mention three important things.
+
+<<4351.31;4358.21;en>>
+The first one is that both of the decisions have been delivered after the end of the referendum.
+
+<<4358.21;4372.71;en>>
+Second, on the day of the referendum, there was no binding ruling as to whether this application was lawfully applied or used or not.
+
+<<4372.71;4387.11;en>>
+And the third important thing is that there is no prohibition on campaigning on the day of elections or on the day of the referendum under the Hungarian election rules.
+
+<<4387.11;4399.45;en>>
+That's why the applicant was bona fide when using this application also as a campaign tool.
+
+<<4399.45;4418.21;en>>
+Now, the question, of course, arises, and it has been posed to both of the parties, that what is the justification or reasoning or rationale between the two different reasonings of the decisions of the Courier?
+
+<<4418.21;4421.31;en>>
+And I can only give you a formal answer.
+
+<<4421.31;4434.77;en>>
+The reason for the difference between the decisions of the Courier was that the decisions delivered by the national election commissions were different.
+
+<<4434.77;4439.65;en>>
+That's why the ruling of the Courier had to be different.
+
+<<4439.65;4451.67;en>>
+Now, the question comes, what is the reason, what is the legal reason as to the difference between the two national election commissions' decisions?
+
+<<4451.67;4469.71;en>>
+And my answer is I don't know because there is no legal reasoning whatsoever which would explain why the national election committee came to slightly different conclusions in essentially the same matters.
+
+<<4469.71;4481.37;en>>
+The third question I would like to answer is what was the expected impact of the mobile application?
+
+<<4481.37;4488.47;en>>
+And just a second.
+
+<<4488.47;4516.97;en>>
+It must be borne in mind that there was really a lively and vivid public debate about how to react or act in this referendum by people who found the whole question that was posed in this referendum unacceptable, unreasonable, and even immoral.
+
+<<4516.97;4538.95;en>>
+And therefore, many argued that people should cast invalid votes, but also many argued that casting an invalid vote, which was also advocated for by the applicant, also in the name of the mobile application, is risky.
+
+<<4538.95;4553.81;en>>
+As the governing parties dominate the counting of the votes, it is possible, many people said, that the counters would transform invalid votes into valid ones or simply count invalid votes fraudulently as valid ones.
+
+<<4553.81;4569.87;en>>
+So the proponents of this argument consequently called for a boycott where these risks are absent, because if you don't cast a vote, not even an invalid one, then these risks are not present.
+
+<<4569.87;4587.15;en>>
+One of the main reasons for developing this mobile phone application was precisely to allow voters to know on a county level in an aggregated statistical form that minimally how many voters claim to have cast an invalid vote without violating voting secrecy.
+
+<<4587.15;4597.51;en>>
+This allowed the comparison of the numbers of invalid votes reported through the mobile application with the official number of invalid votes.
+
+<<4597.51;4620.81;en>>
+Therefore, essentially the mobile phone application encouraged the voters to freely and honestly cast their votes, which in fact can be proven by the extremely high number of invalid votes which were cast, as it was several times higher than ever before since the political transition in 1989.
+
+<<4620.81;4628.81;en>>
+The overall percentage of invalid votes was more than 6% in this referendum.
+
+<<4628.81;4646.51;en>>
+The average number of invalid votes is around 1% during the past 30 years in Hungary, and there were certain electoral districts where the proportion of invalid votes was 25%.
+
+<<4646.51;4653.07;en>>
+So this was the expected impact of the mobile application.
+
+<<4653.07;4674.67;en>>
+As to the fourth question of whether the applicant believes that the legal conclusion would be the same, so the case would be the same if the voters would have uploaded their photos of their ballots to Facebook or any other social media.
+
+<<4674.67;4679.61;en>>
+Our answer is clearly no, for at least two reasons.
+
+<<4679.61;4696.85;en>>
+One, if one uploads the photos of the ballot paper to the Facebook, then it can be linked to the person easily, there is no other way, actually.
+
+<<4696.85;4701.35;en>>
+Therefore, the secrecy of the votes cannot be ensured.
+
+<<4701.35;4723.11;en>>
+Second, then these sensitive political data would be or would have been processed by a company about which the applicant would not have control, and we know that there have been serious scandals about the Facebook data procession as well.
+
+<<4723.11;4734.91;en>>
+So of course, our answer would be that these two hypothetical cases must be differentiated.
+
+<<4734.91;4791.61;en>>
+As to the question what happened to the data, whether the applicant has deleted them or not, as these data are not personal data, because they cannot be linked to any person, the applicant has not deleted them, but has submitted or given it to a university professor, and these data are now subject to an academic research, as this has been a very unique moment or experience in the Hungarian political history, let's say, of referendums, that so many invalid votes have been cast, then therefore one university professor who is an ethnologist found it interesting and useful to analyze all this data.
+
+<<4791.61;4811.31;en>>
+And I know that I am close to the end of the ten minutes, so I would only like to react on one of the comments by the government agent, Mr. Talodi, which is that creating and
+
+<<4811.31;4828.71;en>>
+advocating a system which is an uncertified ballot-counting system, and so this is unlawful, and it can be prohibited under the standards of the European Convention on Human Rights.
+
+<<4828.71;4878.41;en>>
+The applicant's firm conviction is that this perceptional approach runs clearly contrary to the aim of the Article 10 of the European Convention, if there is a clear and wide-ranging mistrust on the side of the voters in the election system, which is proven also by the OSCE, which has made a mission to Hungary in 2018, and it has established that there are some problems about the Hungarian election system as to the transparency and reliability of the whole system.
+
+<<4878.41;4902.91;en>>
+So when there is such kind of mistrust or distrust in the whole system, we believe that the citizens must have the possibility to use the available technical equipment to make it possible for them to assure or reassure themselves that the election system works well.
+
+<<4902.91;4945.65;en>>
+And my last sentence is that I am also convinced that using this application increased the trust in the election system in the end, because by the numbers stored in this application and comparing them with the official numbers, everyone could see that, in fact, at the end of the day, the national election bodies have done a lawful and great job, because our numbers showed that there were no forged or falsified counting.
+
+<<4945.65;4956.41;en>>
+Therefore, we believe that it was a useful and not harmful means developed and advocated for by the applicant.
+
+<<4956.41;4956.41;en>>
+Thank you for your attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4957.86;4960.14;en>>
+Thank you very much, Mr. Tóth.
+
+<<4960.14;4962.04;en>>
+I call Mr. Tallódi, please, to have the floor.
+
+[[Government;GR1]]
+
+<<4966.84;4969.57;en>>
+Thank you, Mr. President.
+
+<<4969.57;4975.48;en>>
+I would like to answer all the questions and to make some very short comments within 10 minutes.
+
+<<4975.48;4981.84;en>>
+In response to Mr. Kjørbjør's question, I would like to say that the issue of unlawful
+
+<<4981.84;5003.74;en>>
+campaigning activities was raised only in the second Courier decision, because only the second case concerned a fine having been imposed upon the applicant, and the basis for that fine was having carried out unlawful campaign activities by operating the app at issue.
+
+<<5003.74;5014.56;en>>
+It was also a matter of proportionality and graduality that the applicant was first only ordered to refrain from such activities.
+
+<<5014.56;5017.24;en>>
+It is very important.
+
+<<5017.24;5024.88;en>>
+In response to Mr. Lehmann's question on the legitimate aim of the measure, I would like
+
+<<5024.88;5038.88;en>>
+to say that the government didn't bring back arguments that had been rejected by the Courier as regards the breach of the principle of the fairness of the elections.
+
+<<5038.88;5072.48;en>>
+What we argued is that the Courier's decision is to be interpreted that no actual breach of the fairness and secrecy of the elections has occurred, but there remained the potential of that breach by breaching the principle of the proper exercise of rights in accordance with their purpose, which is aimed at protecting the same legitimate aim against the threat of different kind and intensity.
+
+<<5072.48;5093.03;en>>
+We don't argue that the fairness and secrecy of the election were actually breached, and don't even argue that it was the intended or expected impact of the applicant's campaign tool to answer the question to Mrs. Schuching, Judge Schuching, but it had the potential
+
+<<5093.03;5100.76;en>>
+of causing significant damage to the integrity of the election process.
+
+<<5100.76;5123.32;en>>
+It is also important to add concerning the comments of the applicants as well, that in Hungary the ban on ballot selfies is justified by the need to eliminate a possible means of proving how someone has voted, and thereby to prevent possible vote-buying schemes, undermining the integrity of elections.
+
+<<5123.32;5129.72;en>>
+In other states, there may be other reasons for introducing or maintaining the same measure.
+
+<<5129.72;5138.03;en>>
+In some countries, ballot selfies are banned because their publication could breach the ban on campaigning on the day of election.
+
+<<5138.03;5153.8;en>>
+In other countries, concerns have been raised because publication of a ballot selfie on social media could result in lasting effects inasmuch as the data about someone's vote would remain on the Internet for an eternity.
+
+<<5153.8;5167.8;en>>
+The applicant's mobile phone application indeed gave an answer to these concerns, enabling anonymous publication of ballot selfies, but these concerns were not at the core of the Hungarian authorities' measure complained of.
+
+<<5167.8;5187.84;en>>
+Voters and adults, major citizens who are expected to be aware of the consequences of their actions on social media, and they can also avail themselves of the provisions of Hungarian law on data protection, ensuring the right to be forgotten on the Internet.
+
+<<5187.84;5203.6;en>>
+While the applicant explained in detail how their application answered the concerns of anonymity, they didn't argue that their application ensured that no one could use a ballot selfie for the purposes of proving to anyone how they voted.
+
+<<5203.6;5222.48;en>>
+In this context, we must recall that the principle of the secrecy of the ballot is considered in many jurisdictions to cover not only the ballot being made public, but it being made known to even a single third party as a proof of how someone voted.
+
+<<5222.48;5227.3;en>>
+In this sense, the secrecy of the vote must be distinguished from the secrecy of the ballot.
+
+<<5227.3;5237.03;en>>
+The former is not breached by the voters voluntarily sharing information of how they voted, but the ballot itself must be subject to strict secrecy.
+
+<<5237.03;5243.99;en>>
+It's sharing not being at discretion of the voter in order to preserve the integrity of the elections.
+
+<<5243.99;5258.64;en>>
+They have widely argued that while voters are free to express their political opinion by saying how they voted, and even to lie about it, they cannot allow to have recourse to mean of proving how they voted.
+
+<<5258.64;5274.36;en>>
+And in contrast to the new M-SHEAR legislation referred to by the applicant, under Hungarian law, individual voters' code-taking and sharing ballot selfies would not face criminal prosecution, so it is not a consequence.
+
+<<5274.36;5284.91;en>>
+The consequences would depend on various factors, but would essentially remain within the realm of election law, depending on the decision of local election commissions.
+
+<<5284.91;5299.64;en>>
+If the voter is caught taking a ballot selfie before putting his ballot in the ballot box, his ballot might be invalidated, and he might be given another ballot paper instead of his spoiled ballot.
+
+<<5299.64;5309.56;en>>
+If the voter is caught after having put his ballot in the box, the election committee might decide to subtract one vote from each candidate.
+
+<<5309.56;5326.84;en>>
+Only if ballot selfies are detected on a larger scale would the necessity of the involvement of the police arise as raising a suspicion of a ballot-buying scheme and the commission of a criminal offense against the integrity of the elections.
+
+<<5326.84;5338.56;en>>
+Finally, I would like to add that no opinion was published on the applicant's app which required the ballot papers to be included.
+
+<<5338.56;5346.03;en>>
+Anything could have been expressed with the same effect on any piece of paper to be photographed.
+
+<<5346.03;5357.03;en>>
+No contribution to the democratic process was made which could not have been made without the involvement of the picture of a marked ballot.
+
+<<5357.03;5368.84;en>>
+Moreover, no uncertified collection of voting data can constitute to the democratic process or contribute, sorry, to the democratic process.
+
+<<5368.84;5375.44;en>>
+On the contrary, it is suitable to increase distrust against the election organs.
+
+<<5375.44;5394.72;en>>
+An example of 4,000 voters cannot prove or disperse the proper counting of votes by the election organs.
+
+<<5375.44;5394.72;en>>
+Mr. President, honorable members of the court, thank you very much for your listening,
+
+[[JudgeP;Guido Raimondi]]
+
+<<5395.73;5398.85;en>>
+Thank you very much, Mr. Tallódi.
+
+<<5398.85;5402.13;en>>
+We have now come to the end of the hearing.
+
+<<5402.13;5408.93;en>>
+I thank the parties who have assisted the court with their submissions and answers to the court's questions.
+
+<<5408.93;5412.33;en>>
+The court will now deliberate on the merits.
+
+<<5412.33;5415.19;en>>
+The judgment will be delivered later.
+
+<<5415.19;5418.97;en>>
+The parties will be informed of the date of delivery.
+
+<<5418.97;5418.97;en>>
+I declare the hearing closed.
+

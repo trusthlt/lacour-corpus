@@ -1,0 +1,1823 @@
+[[Announcer;UNK]]
+
+<<7.92;8.52;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<52.45;54.17;fr>>
+Je vous prie de bien vouloir vous asseoir.
+
+<<56.77;61.85;fr>>
+Je déclare ouverte l'audience publique sur le fond de l'affaire Bédat contre Suisse.
+
+<<64.38;71.69;fr>>
+L'affaire a été introduite devant la Cour le 7 novembre 2008 par un ressortissant suisse, M. Arnaud Bédat,
+
+<<71.69;75.13;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<75.13;83.17;fr>>
+Elle a été attribuée à la deuxième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<83.17;90.25;fr>>
+Le 3 juin 2014, la Chambre a déclaré la requête recevable et a adopté un arrêt dans cette affaire.
+
+<<90.25;94.25;fr>>
+L'arrêt de la Chambre a été prononcé le 1er juillet 2014.
+
+<<94.25;102.5;fr>>
+Le 29 septembre 2014, le gouvernement a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention.
+
+<<102.5;109.57;fr>>
+Et cette demande a été acceptée par le Collège de la Grande Chambre le 17 novembre 2014.
+
+<<109.57;115.97;fr>>
+Le gouvernement défendeur est représenté par son agent, M. Frank Schürmann, chef de l'Unité Protection Internationale
+
+<<115.97;123.94;fr>>
+des Droits de l'Homme à l'Office fédéral de la Justice, assisté de Mme Dominique Steiger Leuba et de M.
+
+<<123.94;128.06;fr>>
+Folco Galli et Patrick Rohner, conseillers.
+
+<<128.06;131.09;fr>>
+Le requérant est représenté par M.
+
+<<131.09;133.09;fr>>
+Charles Poncet et par M.
+
+<<133.09;135.29;fr>>
+David Hofman, conseil.
+
+<<135.29;138.06;fr>>
+Il assiste également à l'audience.
+
+<<138.06;142.73;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<142.73;150.06;fr>>
+Je salue également la délégation de juges et de procureurs turcs en visite à la Cour.
+
+<<150.06;158.78;fr>>
+Ayant consulté l'agent du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<158.78;160.81;fr>>
+Nous entendrons successivement M.
+
+<<160.81;166.45;fr>>
+Poncet et Hoffman pour le requérant, et puis M. Schürmann pour le gouvernement.
+
+<<166.45;190.21;fr>>
+Je dois expliquer qu'en Suisse, de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en turc et en russe a été autorisée au profit respectivement de la délégation de juges et de procureurs turcs en visite à la Cour, ainsi que d'un groupe de visiteurs du European Human Rights Advocacy Centre London, qui assistent à cette audience.
+
+<<190.22;200.73;fr>>
+Ces interprétations ne sont pas assurées par la Cour et ne feront donc pas partie de l'enregistrement officiel de la procédure.
+
+<<200.73;202.45;fr>>
+Alors la parole est à M. Poncet.
+
+[[Applicant;AP1]]
+
+<<212.41;217.85;en>>
+Mr. President, members of the court,
+
+<<217.85;237.05;en>>
+on January 28, 2015, in this very room, as the case of Perinçek versus Switzerland came to discussion, my learned opponent, Dr. Schuman,
+
+<<237.05;240.41;en>>
+stated the following in his introduction.
+
+<<240.41;242.53;en>>
+I quote from the French original.
+
+<<245.49;265.73;en>>
+During the 40 years since the ratification of the convention, Switzerland has known a significant number, un nombre certain, of findings of violations of freedom of expression, nine final judgments in total.
+
+<<265.73;269.05;en>>
+Then Dr. Schuman continued and said,
+
+<<269.05;282.17;en>>
+these, meaning eight of the nine cases that he was referring to, have always been peculiar or even unique cases.
+
+<<285.49;291.01;en>>
+Members of the court, Dr. Schuman is right.
+
+<<291.01;311.25;en>>
+Switzerland has a complex and difficult history with and relation to freedom of expression, generally speaking, and consequently, Article 10 of the convention.
+
+<<311.25;342.01;en>>
+In no other country than Switzerland would a TV program debating the pros and cons of the country's behavior during the Second World War, 40, 50, 60 years before, be outlawed judicially, because somehow the onlookers would not have been put in a position to make up their own mind by watching the program.
+
+<<342.01;348.41;en>>
+And they took a unanimous decision of this court in 2006.
+
+<<348.41;357.41;en>>
+On September 21, 2006, more precisely, I'm referring to the Monarch case, of course.
+
+<<357.41;397.29;en>>
+In no other country than Switzerland would a government come to this court and submit to the court that an interview broadcast on TV in which the person interviewed couldn't be recognized because his face had been erased, the color of his hair had been changed, his voice had been altered, and the premises on which the interview took place were anonymous, making it impossible to connect him with anything that could help identifying him in the microcosm of Switzerland.
+
+<<397.29;409.37;en>>
+But still, this would somehow have constituted a violation of Article 8 of the convention, the respect for private and family life.
+
+<<409.37;417.05;en>>
+I'm referring to the Haldeman decision of February 24, 2015.
+
+<<417.05;443.77;en>>
+And to conclude this short enumeration, of course, in no other country than Switzerland would some alleged scientist wishing to expose the pros and cons, the benefits and the risks of cooking your food in a microwave oven have to come to the Court of Human Rights twice before being able to do so.
+
+<<443.77;461.85;en>>
+The government sees three issues in the July 1, 2014 decision which, in its view, call for a decision of the Grand Chamber.
+
+<<461.85;468.17;en>>
+The first is an issue of burden of proof.
+
+<<468.17;474.61;en>>
+The second is an issue of the government's freedom to choose its means.
+
+<<474.61;480.97;en>>
+And the third one is an issue of subsidiarity.
+
+<<480.97;500.77;en>>
+Quoting again from the French summary of my learned opponent's presentation of these submissions, the first submission made to this court, the first question asked to this court can be worded as follows.
+
+<<500.77;514.45;en>>
+Do the national authorities have the burden of proving that the information published effectively harmed the interests protected by the secrecy of the criminal investigation?
+
+<<514.45;517.49;en>>
+That's the issue of the burden of proof.
+
+<<517.49;540.49;en>>
+The second issue is, the second question, is to what extent is a state exercising its criminal jurisdiction entitled to choose freely the means by which it seeks to ensure that the defendant is presumed innocent and that his right to private and family life is respected?
+
+<<540.49;558.17;en>>
+And finally, the third issue, the subsidiarity issue, is were there any serious reasons for the court to substitute its own assessment of the necessity of the interference to that of the national court?
+
+<<561.33;576.81;en>>
+Members of the court expressed in this manner the three questions put to you by the Swiss government appear to be eminently reasonable.
+
+<<576.81;583.19;en>>
+However, let us make no mistake here.
+
+<<583.19;619.77;en>>
+What the Swiss government is asking this court to do is to revisit, to change, and to redefine the constant, well-settled, and well-established case law of this court as to the relationship between Article X, on the one hand, and the necessary requirements to protect the authority and the impartiality of the judiciary.
+
+<<619.77;644.61;en>>
+The Swiss government wants you to revisit and change what has been your case law since at least the days of the Sunday-timed decision of April 1979, 26th of April, and a decision, a policy, a jurisprudence that has been confirmed several times.
+
+<<644.61;671.25;en>>
+And with regard to the so-called secret de l'instruction, the confidentiality of criminal investigations in countries that see law countries that have a system of criminal investigation organized in this manner, I am referring, of course, to the Dupuy decision of 2007, and more specifically of June 7, 2007.
+
+<<671.25;674.31;en>>
+So that is what is at issue here.
+
+<<674.31;686.49;en>>
+The issue is whether or not this court wants to take a step back and revisit Sunday times and all the decisions that follow.
+
+<<686.49;711.33;en>>
+The government bases its demonstration on the premise, on the allegation, that what took place on July 8, 2003 in Lausanne was, to quote the words used by the federal tribunal, the Swiss federal tribunal, it was nothing more than a fatal road accident.
+
+<<711.33;722.29;en>>
+Well, with all due respect to our opponents, this view of the essential facts of the case is unpersuasive.
+
+<<722.29;730.81;en>>
+Members of the court, Lausanne is a city with a population of about 150,000 people, a little less.
+
+<<730.81;743.49;en>>
+The Grand Pont, the Great Bridge, the big bridge, as its name suggests, is probably the main architectural feature of the town, with the possible exception of the cathedral.
+
+<<743.49;755.37;en>>
+The Grand Pont crosses the valley of the Fion and makes it possible to drive from the east to the west of the city.
+
+<<755.37;763.43;en>>
+When Mr. Boutifar ran amok on July 8, 2003,
+
+<<763.43;765.79;en>>
+he was on the Grand Pont.
+
+<<765.79;777.77;en>>
+He drove on the curb, and he started knocking down pedestrians, running them over, sending some to plunge to their death at the bottom of the bridge.
+
+<<777.77;784.33;en>>
+And in doing so, he killed three people, and he wounded eight.
+
+<<784.33;797.81;en>>
+Imagine for a second, ladies and gentlemen, the same thing happening in London, which has a population of 8 million instead of the tiny 150,000 of Lausanne.
+
+<<797.81;816.45;en>>
+Imagine what would happen if a driver ran amok, climbed on the curb of London Bridge, and started knocking down pedestrians, killing them, running them over, throwing them to plunge to their death off the bridge.
+
+<<816.45;823.81;en>>
+In the process, killing 160 and wounding more than 400.
+
+<<823.81;838.85;en>>
+Would anybody in the judiciary of the United Kingdom put to this court that this was nothing more than a fatal road accident?
+
+<<838.85;852.65;en>>
+The government case is based on this weak foundation, and it then submits to you the first issue, which is the issue of the burden of proof.
+
+<<852.65;863.69;en>>
+Should the state have the burden to prove that the interference was necessary for the legitimate purposes of Article 10?
+
+<<863.69;872.69;en>>
+Well, expressed in this way, put in this way, the answer to the question is obviously no.
+
+<<872.69;879.13;en>>
+But that is not the issue with all respect to our opponents.
+
+<<879.13;907.05;en>>
+The issue is if and when an infringement has been established, as it clearly has here, then does it behoove the government to show to the satisfaction of this court that the measures taken were indeed necessary to protect the authority and the impartiality of the judiciary?
+
+<<907.05;909.29;en>>
+That is the issue.
+
+<<909.29;929.81;en>>
+And if we apply the proper test, it is absolutely clear that the Swiss judiciary has failed in establishing anything resembling to a demonstration of a social need here.
+
+<<929.81;936.51;en>>
+Please do not forget that Mr. Boutifar was
+
+<<936.51;951.49;en>>
+tried in the ordinary criminal court of Lausanne in November 2005, and that the Court of Appeal, the Court of Cassation of the Canton of Vaux, issued its decision in June 2006.
+
+<<951.49;960.61;en>>
+Well, these two courts reached diametrically opposed conclusions.
+
+<<960.61;968.61;en>>
+The criminal court said it was aggravated murder, assassina, first degree murder, to use the American terminology.
+
+<<968.61;979.37;en>>
+The Court of Appeal said Boutifar could not stand trial because he was incapable of standing trial.
+
+<<979.37;981.47;en>>
+Therefore, he was found irresponsible.
+
+<<981.47;986.81;en>>
+And committed to an asylum where he is to this day.
+
+<<986.81;1000.81;en>>
+Members of the court, that in itself shows how preposterous it would be to claim that Arnaud Bédard's article would have had any influence on the judiciary.
+
+<<1000.81;1003.65;en>>
+It had none.
+
+<<1003.65;1025.05;en>>
+And ad abundant di causa, let me also observe that if you read the article, as I'm sure you have, nothing in that article could conceivably have any impact on the independence, on the authority, on the impartiality of the judiciary.
+
+<<1025.05;1030.21;en>>
+The article talks about how Boutifar wants to make phone calls.
+
+<<1030.21;1031.69;en>>
+He wants to talk to his brother.
+
+<<1031.69;1033.91;en>>
+He wants to change lawyers.
+
+<<1033.91;1036.81;en>>
+He's trying to be released for a couple of days.
+
+<<1036.81;1053.85;en>>
+None of that has any relationship whatsoever with the alleged issue of whether or not the burden of proving that there was an interference justified for the purposes of Article 10 has been established.
+
+<<1053.85;1063.65;en>>
+Now, the government is quite aware of the weakness of the position that the Swiss federal tribunal landed the Swiss government into.
+
+<<1063.65;1068.65;en>>
+And it therefore develops a second argument.
+
+<<1068.65;1086.33;en>>
+The second argument is to ask the court whether or not a government is free to choose the means by which it will ensure that the accused is presumed innocent and that his right to private and family life is respected.
+
+<<1086.33;1095.05;en>>
+Again, phrased in this manner, the answer to the question is obviously in the affirmative.
+
+<<1095.05;1102.93;en>>
+However, again, and again with respect to our opponents, this is not the issue.
+
+<<1102.93;1120.13;en>>
+The issue is whether, after chosen freely the means by which the government seeks to ensure that an accused is presumed innocent until duly proved guilty in a court of law.
+
+<<1120.13;1153.29;en>>
+And on the other hand, in choosing the means by which it will ensure that his right to privacy, private life, family life is protected, the government chooses means that withstand the test of the European Court of Human Rights with regard to the requirements of Article 6 for the presumption of innocence and with regard to Article 8 for the respect for private and family life.
+
+<<1153.29;1202.69;en>>
+Now, the Swiss judiciary invents a theory here that there would be a sort of vested duty in the state not only to make sure that an accused is presumed innocent until proved guilty, but also that there would be a sort of general mandate given to the state to ensure compliance with and respect for the accused's right to the protection of private and family life, even though the person involved does not complain about anything.
+
+<<1202.69;1208.29;en>>
+Members of the court, Boutifar had lawyers.
+
+<<1208.29;1211.57;en>>
+He changed them occasionally.
+
+<<1211.57;1214.69;en>>
+Many of these kinds of criminals do, as you know.
+
+<<1214.69;1217.21;en>>
+But he had lawyers.
+
+<<1217.21;1221.49;en>>
+Arnaud Bédard's article was published in 2003.
+
+<<1221.49;1225.61;en>>
+Boutifar was sentenced in November 2005.
+
+<<1225.61;1241.61;en>>
+He had two years during which he could claim that his rights under Article 8 or the Swiss equivalent, which would be 28th of the Swiss Civil Code, that his rights of privacy were infringed upon.
+
+<<1241.61;1243.53;en>>
+He could sue.
+
+<<1243.53;1246.25;en>>
+He could ask for provisional measures.
+
+<<1246.25;1248.05;en>>
+He did none of this.
+
+<<1248.05;1269.41;en>>
+And all of a sudden, the federal tribunal invents a theory that even though the person involved never complained about anything, still the government has the duty to hit a reporter, sentence him criminally, because allegedly what he wrote would not have been consistent with Article 8 of the convention.
+
+<<1272.13;1276.81;en>>
+In and by itself, the argument appears unpersuasive.
+
+<<1276.81;1279.21;en>>
+But it is even more so.
+
+<<1282.25;1285.65;en>>
+Just checking my time, Mr. President.
+
+<<1285.65;1287.93;en>>
+Just checking my time, Mr. President.
+
+<<1287.93;1330.73;en>>
+It is even more so because on the assumption that there would be, and there isn't, on the assumption that there would be here an issue of Article 8 versus Article 10, or rather Article 10 versus Article 8, assuming this issue to be part of this case, which it is not, then all the elements of the six-fold test developed by this court in the Springer, the Axel Springer versus Germany case of February 7, 2012, all these elements would be met anyway.
+
+<<1330.73;1333.93;en>>
+I was going, Mr. President, I was going to take them all.
+
+<<1333.93;1346.13;en>>
+But in the interest of sticking to the allotted time, allow me to skip the first five requirements, which the court knows better than I do anyway.
+
+<<1346.13;1352.85;en>>
+And let me simply state that by any measurement, all these five requirements are met.
+
+<<1352.85;1389.89;en>>
+In particular, the second requirement that the person involved should be a public figure clearly applies to Boutifar Heer, who met the Swiss, German, and I believe European definition of the so-called relative person derzeit geschichte, the individual who is a public figure, relatively speaking, because of the notoriety that he acquired when he caused, intentionally, the biggest road murder in Switzerland of the century.
+
+<<1389.89;1395.93;en>>
+Be this as it may, I would like to draw the court's attention on the consequences.
+
+<<1395.93;1408.25;en>>
+The sixth element of your Axel Springer test, members of the court, the consequences for the person who comes here asking for the protection of Article 10.
+
+<<1408.25;1421.09;en>>
+Well, the court will remember that the judgment of the federal tribunal that we are debating here was issued on April 29, 2008.
+
+<<1421.09;1437.01;en>>
+In January 2009, Arnaud Bédard published a well-researched, careful, well-balanced article entitled, A Rebel Father Denounces a Pedophile's Perverted Game.
+
+<<1437.01;1445.41;fr>>
+Un père indigné dénonce les jeux pervers d'un pédophile.
+
+<<1445.41;1451.57;en>>
+There was no, of course, the opinion of the person involved had been asked.
+
+<<1451.57;1455.65;en>>
+There was no case brought in the Swiss courts.
+
+<<1455.65;1461.79;en>>
+No judicial action was taken by any of the people mentioned in the article.
+
+<<1461.79;1480.97;en>>
+But lo and behold, in support of some of the points that Arnaud Bédard mentioned in his article, he had to produce copies of the minutes of a couple of hearings at the instruction, confidential minutes, according to the view proposed by the government.
+
+<<1480.97;1482.05;en>>
+What happened?
+
+<<1482.05;1496.97;en>>
+Well, on February 21, 2010, the federal tribunal confirmed the sentence handed down against Arnaud Bédard, a fine of 5,000 francs.
+
+<<1496.97;1508.19;en>>
+But please bear in mind that this fine, if unpaid, will be converted into 50 days in jail.
+
+<<1508.19;1518.29;en>>
+That, of course, is the object of case 2299A-30, which is now pending in front of this court.
+
+<<1518.29;1520.89;en>>
+To conclude, Mr. President, and I
+
+<<1520.89;1526.97;en>>
+will skip the third argument raised by the government in order to leave room for Dr. Hoffman,
+
+<<1526.97;1543.29;en>>
+to conclude the issue or the question raised many times by this court with regard to the risk of additional censorship, in particular the risk of additional judicial censorship.
+
+<<1543.29;1548.97;en>>
+In the case of Arnaud Bédard, I put it respectfully to your court, it is not a risk.
+
+<<1548.97;1550.57;en>>
+It is no longer a risk.
+
+<<1550.57;1568.01;en>>
+It is a fact, and it is a certainty that unless this court steps in, there will be one journalist less, and there aren't that many in French-speaking Switzerland, there will be one journalist less who can still write about controversial issues in Switzerland.
+
+<<1568.01;1569.41;en>>
+I thank the court for its attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1570.92;1574.44;fr>>
+Merci maître Poncet, je donne la parole à maître Hofman.
+
+[[Applicant;AP2]]
+
+<<1596.77;1605.25;fr>>
+Monsieur le Président, mesdames et messieurs les juges, dans le prolongement de la plaidoirie de Maître Ponsey, je me limiterai à attirer votre attention sur cinq points.
+
+<<1605.25;1609.17;fr>>
+Premier point, la question du fardeau de la preuve.
+
+<<1609.17;1615.85;fr>>
+Deuxième point, la relation entre l'article 10 CEDH et la présomption d'innocence.
+
+<<1615.85;1622.45;fr>>
+Troisième point, la relation entre l'article 10 CEDH et la vie privée.
+
+<<1622.45;1628.21;fr>>
+Quatrième point, la question du contenu de l'article de M. Beda.
+
+<<1628.21;1636.53;fr>>
+Et enfin, cinquième point, la question de l'effet dissuasif de la sanction prononcée contre M. Beda.
+
+<<1636.53;1665.85;fr>>
+Premier point, Monsieur le Président, mesdames et messieurs les juges, Maître Ponsey l'a dit, dans le cadre de l'examen de la condition de la nécessité dans une société démocratique, la Cour, dans son arrêt de section du 1er juillet 2014, avait retenu, je cite la dernière phrase du paragraphe 55, le gouvernement n'établit pas en quoi, dans les circonstances de l'espèce, la divulgation de ce type d'informations confidentielles aurait pu avoir une influence négative, etc.
+
+<<1665.85;1675.29;fr>>
+Dans sa demande de renvoi, Maître Ponsey l'a dit, le gouvernement suisse s'est interrogé sur le fardeau de la preuve d'une violation de la CEDH.
+
+<<1675.29;1681.13;fr>>
+Monsieur Beda ne conteste pas la position du gouvernement suisse sur le fardeau de la preuve.
+
+<<1681.13;1689.29;fr>>
+Il l'a dit dans ses observations récapitulatives, c'est au requérant de démontrer qu'il a été victime d'une violation de la Convention.
+
+<<1689.29;1698.41;fr>>
+Ici, Monsieur Beda a subi une condamnation pénale et Monsieur Beda vous démontrera qu'il a subi une violation de la Convention.
+
+<<1698.41;1706.13;fr>>
+Cela me permet de passer au deuxième point, la relation entre l'article 10 CEDH et la présomption d'innocence.
+
+<<1706.13;1711.97;fr>>
+Il faut rappeler ici le calendrier et les quatre dates importantes de ce dossier.
+
+<<1711.97;1714.89;fr>>
+Première date, le 8 juillet 2003.
+
+<<1714.89;1716.73;fr>>
+Cela fait donc 12 ans.
+
+<<1716.73;1720.65;fr>>
+8 juillet 2003, c'est l'accident sur le Grand Pont.
+
+<<1720.65;1723.89;fr>>
+Maître Ponsey vous a donné les circonstances factuelles.
+
+<<1723.89;1728.85;fr>>
+Deuxième date, 15 octobre 2003, l'article de Monsieur Beda dans l'illustré.
+
+<<1728.85;1733.73;fr>>
+C'est trois mois, trois mois seulement après l'accident.
+
+<<1733.73;1739.53;fr>>
+Troisième date, Monsieur le Président, Mesdames et Messieurs les membres de la Cour, c'est le 8 novembre 2005.
+
+<<1739.53;1742.89;fr>>
+C'est l'audience du tribunal correctionnel concernant le chauffeur.
+
+<<1742.89;1752.17;fr>>
+Cela fait donc plus de deux ans après l'article de Monsieur Beda ou plus de 28 mois après l'accident.
+
+<<1752.17;1759.01;fr>>
+La quatrième date est celle du 23 novembre 2005, jour où le chauffeur a été condamné.
+
+<<1759.01;1768.73;fr>>
+La lecture du jugement, Maître Ponsey vous l'a dit, c'était notre pièce 5, permet de voir que l'article de Monsieur Beda n'a pas eu d'impact sur la situation du chauffeur.
+
+<<1768.73;1776.09;fr>>
+C'est cela même si le gouvernement suisse écrit dans ses observations finales, je cite, l'article fait partie du dossier judiciaire.
+
+<<1776.09;1777.33;fr>>
+Fin de citation.
+
+<<1777.33;1781.89;fr>>
+En revanche, ces dates ont un autre impact.
+
+<<1781.89;1784.81;fr>>
+L'impact concerne l'information du public.
+
+<<1784.81;1795.13;fr>>
+En effet, entre l'accident le 8 juillet 2003 et l'audience de jugement du chauffeur le 8 novembre 2005, il s'est passé 28 mois, je vous l'ai dit.
+
+<<1795.13;1814.37;fr>>
+En appliquant la conception du gouvernement suisse qui préconise de donner une importance considérable, si ce n'est excessive, au secret de l'instruction, cela signifierait que pendant les 28 mois, le public, Maître Ponsey vous l'a dit, qui était intéressé et choqué par l'accident, n'aurait pas pu avoir d'information.
+
+<<1814.37;1825.13;fr>>
+Dans ce contexte, c'est oublier la jurisprudence tolle de votre grande chambre du 10 décembre 2007, où je cite la première phrase du paragraphe 131.
+
+<<1825.13;1834.77;fr>>
+L'information, écriviez-vous, est un bien périssable et en retarder la publication, même pour une brève période, risque fort de la priver de toute valeur et de tout intérêt.
+
+<<1834.77;1839.89;fr>>
+Pouvait-on donc attendre 28 mois avant de parler de cet accident?
+
+<<1839.89;1845.85;fr>>
+En résumé, s'agissant du deuxième point, non seulement l'article de M. Bédard n'a pas eu d'impact concret
+
+<<1845.85;1853.45;fr>>
+sur la présomption d'innocence du chauffeur, mais en revanche, elle aurait eu un impact sur l'information du public.
+
+<<1853.45;1858.81;fr>>
+Troisième point, la relation entre 10 CEDH et la vie privée.
+
+<<1858.81;1879.17;fr>>
+Le gouvernement suisse insiste tant dans sa demande de renvoi du 26 septembre 2014 que dans ses conclusions récapitulatives du 6 mars 2015 sur la balance qu'il faudrait faire entre 8 CEDH et 10 CEDH, et fait évidemment pencher la balance en faveur de la vie privée du conducteur.
+
+<<1879.17;1887.65;fr>>
+C'est oublier, Mme Ponsel a signalé, que le conducteur n'a pas fait valoir ses droits, ni au civil, ni au pénal.
+
+<<1887.65;1890.77;fr>>
+La Suisse transforme donc l'objet du litige.
+
+<<1890.77;1894.09;fr>>
+Le litige devant votre grande chambre, M. le Président,
+
+<<1894.09;1903.53;fr>>
+Mesdames et Messieurs les membres de la Cour, devrait être de savoir est-ce que la condamnation pénale de M. Bédard est compatible avec l'article 10 CEDH?
+
+<<1903.53;1905.29;fr>>
+La question devrait être celle-ci.
+
+<<1905.29;1918.49;fr>>
+Or, le gouvernement suisse veut vous faire examiner la pesée des intérêts entre la vie privée du chauffeur, qui ne s'est pas plaint d'une part, et la liberté d'expression et d'information d'autre part.
+
+<<1918.49;1921.13;fr>>
+Ici, je vous l'ai dit, ce n'est pas un litige civil.
+
+<<1921.13;1936.01;fr>>
+Un autre argument, c'est que l'article 293 du Code pénal suisse se trouve dans le titre 15 du Code pénal, et le titre 15 du Code pénal vise à réprimer les infractions contre l'autorité publique.
+
+<<1936.01;1941.09;fr>>
+Ce n'est pas une infraction contre l'honneur ou le domaine secret ou privé.
+
+<<1941.09;1948.17;fr>>
+J'en viens au quatrième point, le contenu de l'article contesté.
+
+<<1948.17;1953.49;fr>>
+La Suisse critique, je cite, la présentation sensationnelle, fin de citation, de l'article de M. Bédard.
+
+<<1953.49;1958.25;fr>>
+C'est le paragraphe 74 des observations récapitulatives.
+
+<<1958.25;1981.97;fr>>
+La Suisse a malheureusement oublié que l'arrêt de section du 1er juillet 2014 et son paragraphe 58 était dans le droit fil de votre jurisprudence, tant s'agissant du contenu que s'agissant du droit pour le journaliste, sa rédaction ou les autres membres de la rédaction en chef de capter l'attention du public.
+
+<<1981.97;2000.69;fr>>
+En effet, s'agissant du contenu, vous venez de réaffirmer, il y a moins de trois semaines, dans l'arrêt Maurice contre France du 23 avril 2015, la jurisprudence applicable depuis Hendyside de 1976, où on disait que la liberté d'expression protège la société démocratique.
+
+<<2000.69;2005.93;fr>>
+Et toutes les idées considérées comme inoffensives ou indifférentes, mais aussi pour celles qui heurt, choquent ou inquiètent, etc.,
+
+<<2005.93;2010.17;fr>>
+vous connaissez cela mieux que moi.
+
+<<2010.17;2019.93;fr>>
+Deuxième élément, s'agissant de capter l'attention du public, mais pensez à citer l'arrêt Axel Springer de février 2012.
+
+<<2019.93;2034.65;fr>>
+Je citerai pour ma part le paragraphe 108, où votre grande chambre a dit que certaines expressions vraisemblablement destinées à capter l'attention du public aient été employées, ne sauraient en soi poser problème au regard de la jurisprudence de la Cour.
+
+<<2034.65;2043.37;fr>>
+Donc, sur ce point aussi, l'arrêt de section concernant M. Bédard du 1er juillet est dans la ligne de votre jurisprudence.
+
+<<2043.37;2050.33;fr>>
+L'arrêt Springer est encore intéressant pour un autre point, puisqu'on parlait de huit CEDH et d'une infraction pénale.
+
+<<2050.33;2062.69;fr>>
+La Cour avait retenu qu'on ne saurait invoquer l'article 8 pour se plaindre d'une atteinte à sa réputation qui résulterait de manière prévisible de ses propres actions, telle une infraction pénale.
+
+<<2062.69;2068.37;fr>>
+Et c'est ce qui est le cas pour le chauffeur qui a fait l'objet de l'article de M. Bédard.
+
+<<2068.37;2073.53;fr>>
+J'en viens à mon cinquième et dernier point, l'effet de la sanction.
+
+<<2073.53;2077.21;fr>>
+M. Bédard avait été initialement condamné à un mois d'arrêt,
+
+<<2077.21;2083.61;fr>>
+certes avec sursis, mais un mois d'arrêt, c'était un mois de détention par le juge d'instruction.
+
+<<2083.61;2091.21;fr>>
+Cette sanction a été remplacée le 22 septembre 2005 par une amende de 4 000 francs suisse.
+
+<<2091.21;2095.05;fr>>
+A l'époque, ça représentait un peu plus de 2 500 euros.
+
+<<2095.05;2101.53;fr>>
+Actuellement, le taux de change fait que l'amende correspondrait à 4 000 euros.
+
+<<2101.53;2108.93;fr>>
+Le gouvernement suisse nous dit que la peine prononcée n'a pas empêché le requérant de s'exprimer, puisque la sanction a été intervenue après.
+
+<<2108.93;2110.49;fr>>
+Mais, M. le Président, Mesdames et Messieurs les juges,
+
+<<2110.49;2116.85;fr>>
+nous sommes 12 ans après l'article et bientôt 11 ans après la condamnation pénale.
+
+<<2116.85;2119.09;fr>>
+M. Bédard n'a pas été empêché de s'exprimer avant,
+
+<<2119.09;2128.89;fr>>
+mais ça fait 11 ans qu'il ne sait pas si, pour son article publié dans l'Illustré, il risque une sanction pénale ou s'il est protégé par la liberté d'expression.
+
+<<2128.89;2143.25;fr>>
+En outre, dans l'arrestole, toujours, vous aviez dit qu'il fallait veiller à ce que la sanction ne constitue pas une espèce de censure tendante à inciter la presse à s'abstenir de s'exprimer des critiques.
+
+<<2143.25;2145.73;fr>>
+J'ai parlé à deux reprises de l'arrestole.
+
+<<2145.73;2150.69;fr>>
+Les principes généraux sont applicables, mutatis mutandis, à ce dossier.
+
+<<2150.69;2153.53;fr>>
+En revanche, la thématique est distincte.
+
+<<2153.53;2156.85;fr>>
+L'article de M. Bédard concernait un accident de la circulation
+
+<<2156.85;2166.85;fr>>
+aux conséquences mortelles, tandis que, vous le savez, l'affaire Stoll concernait la protection des intérêts diplomatiques et des relations extérieures de la Suisse.
+
+<<2166.85;2167.81;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2169.75;2172.35;fr>>
+Merci beaucoup, Maître Hoffmann.
+
+<<2172.51;2174.83;fr>>
+Je donne maintenant la parole à M. Schurmann
+
+<<2174.83;2176.83;fr>>
+pour le gouvernement suisse. M. Schurmann.
+
+[[Government;GR1]]
+
+<<2181.18;2201.82;fr>>
+Monsieur le Président, Mesdames et Messieurs les membres de la Cour, dans sa remarque introductive, Maître pensait à citer l'introduction de Maplédoirie dans l'affaire Perinček, rappelant que la Suisse a connu un nombre certain de violations de l'article 10. C'est correct. Mais j'ai dit aussi que ce nombre relativement élevé
+
+<<2201.82;2208.3;fr>>
+ne signifie pas que notre pays a un problème de principe avec cette garantie fondamentale.
+
+<<2208.3;2213.88;fr>>
+Et l'affaire Beda n'est certainement pas l'affaire qui va mettre en question ce constat.
+
+<<2213.88;2237.0;fr>>
+D'ailleurs, il y a eu aussi des constats de non-violation de l'article 10 dans l'affaire Stoll, jugée en 2007, et c'est aujourd'hui la deuxième fois que la Grande Chambre est appelée à examiner le greffe d'un journaliste suisse qui se dit victime d'une violation de la liberté d'expression. M. Beda, lui aussi, avait publié des informations qui
+
+<<2237.0;2245.62;fr>>
+n'étaient pas destinées au public, ce que, bien évidemment, il n'ignorait pas, ces informations émanant d'une enquête pénale encore pendante.
+
+<<2245.62;2254.26;fr>>
+Il est intéressant de rappeler que le tribunal fédéral, saisi de recours de M. Beda, a suspendu
+
+<<2254.26;2266.86;fr>>
+la procédure pour attendre l'issue de l'affaire Stoll, pendante à l'époque devant la Grande Chambre. Voilà une belle expression du dialogue entre les juges et du principe de la responsabilité
+
+<<2266.86;2273.42;fr>>
+partagée dont on parle beaucoup ces temps. Dans son arrêt Stoll, déjà, la Cour avait
+
+<<2273.42;2286.42;fr>>
+constaté que l'article 293 de notre Code pénal, malgré sa conception formelle du secret, permet une interprétation conforme à la Convention. Et le tribunal fédéral,
+
+<<2286.42;2296.3;fr>>
+dans la présente affaire, a bien procédé à une pese des intérêts en jeu, à la lumière notamment de l'arrêt Stoll. Je me réfère au considérant 7 et 8 de l'arrêt intégralement
+
+<<2296.3;2301.5;fr>>
+repris dans l'arrêt de la Chambre. Vu le sérieux de l'examen, on ne peut que
+
+<<2301.5;2315.18;fr>>
+s'étonner de l'affirmation de la Chambre au paragraphe 54, selon laquelle le tribunal fédéral se serait borné à constater que la publication aurait porté atteinte à la présomption d'innocence et au droit à un procès équitable.
+
+<<2315.18;2339.82;fr>>
+Si la mise en balance, je cite la Cour, par exemple, à l'arrêt von Hannoff, au numéro 2, grande Chambre, a été effectuée dans le respect des critères établis par la jurisprudence de la Cour, il faut des raisons sérieuses pour que celle-ci substitue son avis à celui des juridictions internes. Se basant sur cette jurisprudence, trois juges de la Chambre ont
+
+<<2339.82;2352.1;fr>>
+conclu que les juridictions nationales ont fidèlement suivi et appliqué ces critères dans la présente affaire. Certes, la majorité, elle aussi, rappelle qu'elle n'a point
+
+<<2352.1;2356.7;fr>>
+pour tâche de se substituer aux juridictions internes. Elle ajoute toutefois qu'il ne
+
+<<2356.7;2368.9;fr>>
+s'en suit pas que la Cour doive se borner à rechercher si l'État a usé de son pouvoir d'appréciation de bonne foi, avec soin et de façon raisonnable. Paragraph 46 de l'arrêt.
+
+<<2368.9;2374.06;fr>>
+Voilà, M. le Président, membres de la grande Chambre, la question de principe que nous
+
+<<2374.06;2380.42;fr>>
+avons formulée dans notre demande de renvoi et je me permets de la répéter ici. Selon
+
+<<2380.42;2405.06;fr>>
+quels critères la Cour déclare irrecevable nombre de requêtes pour défaut, manifeste fondement, estimant qu'il n'y a pas de disproportion évident entre les buts poursuivis et les moyens utilisés, c'est un titre du guide sur la recevabilité, paragraph 397, ou alors procède comme en l'espèce un examen libre et entier des jugements internes. Le tribunal
+
+<<2405.06;2428.98;fr>>
+fédéral, à l'instar des deux juridictions inférieures, a rendu un arrêt dûment motivé à la lumière de votre jurisprudence avec un résultat parfaitement défendable, sans apparence aucune d'arbitraire ou d'iniquité, guide sur la recevabilité, paragraphe 390 et suivant. C'est bon signe, la subsidiarité fonctionne.
+
+<<2428.98;2442.2;fr>>
+Nous n'allons toutefois pas nous arrêter à ce constat, mais entrons volontiers dans le débat d'un libre examen. Il nous semble en effet que les trois juridictions internes
+
+<<2442.2;2450.18;fr>>
+ont bien réussi à trouver un juste équilibre des intérêts en jeu. L'accident s'est
+
+<<2450.18;2457.74;fr>>
+produit le 8 juillet 2003, vers midi 30. Une voiture fauche plusieurs piétons avant de
+
+<<2457.74;2463.18;fr>>
+chuter de 11 mètres du Grand-Pont à Lausanne. Trois personnes ont trouvé la mort, neuf ont
+
+<<2463.18;2471.08;fr>>
+été blessés, en partie grèvement. Le conducteur, MB, s'en sort légèrement blessé.
+
+<<2471.08;2477.78;fr>>
+Le jour même, vers 17h, le juge d'instruction s'adresse pour la première fois au public.
+
+<<2477.78;2497.94;fr>>
+Quant à l'identité du conducteur, il indique qu'il s'agit d'un Lausannois de 37 ans, marié, sans davantage de précisions, si ce n'est que le conducteur a déjà connu quelques problèmes. Quant aux causes du drame, aucune des hypothèses n'est exclue à ce
+
+<<2497.94;2504.14;fr>>
+stade précoce. Perte de la maîtrise de la voiture à cause d'un problème de santé,
+
+<<2504.14;2521.98;fr>>
+alcool, drogue, défaut technique de la voiture, suicide, homicide, homicide par négligence, meurtre, assassinat. Il n'est pas difficile de s'imaginer à quel point ce drame a suscité
+
+<<2521.98;2532.78;fr>>
+de l'émotion au sein de la population et a été l'objet de recherches, rapports et commentaires dans les médias. La Chambre nous souligne au paragraphe 48 de son arrêt.
+
+<<2532.78;2548.06;fr>>
+L'objet des discussions dans la presse n'était pas limité à l'incident tragique en tant que tel. Le lendemain, 9 juillet, deux journaux ont publié le nom et une photo de l'inculpé.
+
+<<2548.06;2561.3;fr>>
+Un des deux journaux connaissait déjà les causes du drame, mettant en gros titre « suicidaire et meurtrier ». Cette indiscrétion et ce préjugé ont suscité un débat sur l'éthique
+
+<<2561.3;2568.02;fr>>
+des médias. Le journal Neue Zürcher Zeitung, la NZZ, rappelant les règles déontologiques,
+
+<<2568.02;2578.7;fr>>
+a soulevé la question de soumettre le cas au Conseil suisse de la presse, instance indépendante pour les questions déontologiques. La NZZ rappelle dans ce contexte une autre affaire,
+
+<<2578.7;2588.54;fr>>
+récente à l'époque, où une personne ayant des problèmes psychiques s'est suicidée dans sa cellule après qu'une partie des médias eut republié son nom en toutes lettres.
+
+<<2588.54;2605.66;fr>>
+Rappelons que notre conducteur, après la condamnation par la première instance, notamment pour assassinat et tentative d'assassinat, a été libéré par la Cour de cassation pénale de tous les chefs d'accusation pour cause d'irresponsabilité totale.
+
+<<2605.66;2624.58;fr>>
+Dans un article paru dans l'Hepto, le 17 juillet 2003, on lit que, je cite, « de source sûre, l'Hepto peut affirmer que MB souffre d'un puissant délire de persécution. »
+
+<<2624.58;2630.98;fr>>
+Un de ses proches essayait depuis des semaines de le convaincre d'entreprendre un traitement.
+
+<<2630.98;2643.38;fr>>
+Il est formel, ce proche, il est formel, et il est cité, sans que cela n'enlève rien à l'horreur de ce qu'il a fait, il a perdu les pédales. Et ce n'est pas la première
+
+<<2643.38;2649.58;fr>>
+fois, mais il faut le défendre. C'est un être extrêmement sensible et avec ce qui
+
+<<2649.58;2654.46;fr>>
+s'est dit dans les journaux à son sujet, sa vie est fichue.
+
+<<2654.46;2668.86;fr>>
+L'Hepto Manère illustrée est entrée en scène une semaine après l'incident avec trois articles dans l'édition du 16 juillet, dont deux du requérant. À cette première
+
+<<2668.86;2673.9;fr>>
+occasion déjà, il a pris l'inculpé pour cible. Les préjugés se poursuivent dans
+
+<<2673.9;2685.3;fr>>
+l'édition de la semaine suivante, présentant l'hypothèse fantaisiste d'un meurtre sur commande qu'aurait commis MB. Nous sommes évidemment prêts, M. le Président, à mettre
+
+<<2685.3;2691.0;fr>>
+à la disposition de la Cour l'ensemble des articles de presse que je viens de citer.
+
+<<2691.0;2701.42;fr>>
+Par la suite, l'intérêt pour cette affaire diminue. L'enquête suit son cours. Le juge
+
+<<2701.42;2717.94;fr>>
+d'instruction continue d'informer le public sur d'importantes mesures d'investigation, telles que l'audition des témoins, expertise technique de la voiture, expertise balistique ou les expertises médicales, psychiatriques, toxicologiques du conducteur. La presse en
+
+<<2717.94;2726.42;fr>>
+fait mention de façon plutôt succincte, se limitant à relater les faits. Depuis la
+
+<<2726.42;2729.88;fr>>
+mi-août, l'affaire n'apparaît quasiment plus dans les médias.
+
+<<2729.88;2735.62;fr>>
+Il nous semble important, M. le Président, Mesdames et Messieurs les juges, de rappeler
+
+<<2735.62;2742.86;fr>>
+cette toile de fond pour bien placer la publication litigieuse du 15 octobre dans son contexte.
+
+<<2742.86;2748.34;fr>>
+L'article promet au lecteur en première page des documents exclusifs. Il est vrai,
+
+<<2748.34;2755.18;fr>>
+la promesse a été tenue. L'article contient rien de moins que des citations d'extraits,
+
+<<2755.18;2769.1;fr>>
+de procès-verbaux d'interrogatoire du prévenu, de son épouse et de son médecin, et des copies de lettres écrites à la main du détenu au juge d'instruction. Il est mentionné
+
+<<2769.1;2772.86;fr>>
+en gras le nom en toutes lettres du prévenu et une photographie en gros plan.
+
+<<2772.86;2781.62;fr>>
+Quel était l'intérêt du public à recevoir ces informations? Voilà la question déterminante.
+
+<<2781.62;2794.5;fr>>
+Selon la jurisprudence de la Cour, pour passer outre le caractère confidentiel d'une enquête en cours, il faut un intérêt qualifié des raisons impérieuses d'intérêt du public.
+
+<<2794.5;2800.64;fr>>
+Qu'en était-il en l'espèce? Rappelons d'abord que nous ne sommes en présence
+
+<<2800.64;2811.5;fr>>
+ni d'une affaire d'État, ni d'une affaire mettant en cause le fonctionnement de la justice, ni d'une affaire impliquant une personnalité connue du large public. C'est
+
+<<2811.5;2821.22;fr>>
+ce genre d'affaires qui est à l'origine de la jurisprudence selon laquelle l'article 10 ne laisse guère de place pour des restrictions dans le domaine des questions d'intérêt général.
+
+<<2821.22;2833.54;fr>>
+Rappelons-en de suite qu'il n'y avait pas plus de trois mois après l'incident nécessité de rassurer la population, voire de l'informer plus en détail. C'est avant
+
+<<2833.54;2847.1;fr>>
+tout dans les jours et semaines suivant cet événement tragique et douloureux que l'information était essentielle. Et justement pour répondre à un tel besoin, le Code de procédure pénale
+
+<<2847.1;2857.94;fr>>
+vaudoit prévoyer une exception au principe du secret de l'enquête, notamment lorsqu'il s'agit d'informer le public sur, je cite, « une affaire particulièrement grave ».
+
+<<2857.94;2867.46;fr>>
+On l'a vu, les autorités ont informé sur tous les points qu'elles ont estimés d'intérêt public.
+
+<<2867.46;2872.3;fr>>
+Rappelons troisièmement le contenu de la publication. Les extraits des procès-verbaux
+
+<<2872.3;2887.34;fr>>
+restituent essentiellement des réponses peu concrètes du prévenu, sans apporter une explication sur les causes du drame, ce qui d'ailleurs a conduit le requérant à axer sa présentation sur la personnalité de l'auteur. Quant aux lettres adressées
+
+<<2887.34;2899.34;fr>>
+au juge d'instruction, elles portaient sur les conditions de la détention et la défense d'office. Or, les deux sujets n'avaient aucun lien avec l'incident lui-même et
+
+<<2899.34;2904.74;fr>>
+ne faisaient nullement débat en public. La conclusion du tribunal fédéral selon laquelle
+
+<<2904.74;2915.38;fr>>
+cette publication ne satisfaisait aucun besoin objectif mais relevait, je cite, « tout au plus de la satisfaction d'une curiosité malsaine » n'était donc en rien surprenante.
+
+<<2915.38;2928.04;fr>>
+Pour sa part, la Chambre, outre le constat au paragraphe 48 que l'incident a suscité une vive émotion de la population et un large intérêt de la presse, relève deux éléments.
+
+<<2928.04;2937.78;fr>>
+Le premier, le requérant aurait cherché à comprendre l'animus du prévenu. Le second,
+
+<<2937.78;2949.9;fr>>
+il voulait mettre en exerce la manière dont les autorités traitaient avec une personne qui semblait atteinte de troubles psychiatriques. Paragraphe 49 de l'arrêt. Avec tout mon respect,
+
+<<2949.9;2956.86;fr>>
+il s'agit là d'une vision assez particulière des choses. Concernant l'animus du prévenu,
+
+<<2956.86;2979.22;fr>>
+le but du requérant, comme l'atteste un article, n'était nullement de comprendre ce qui s'est passé à l'intérieur de ce « conducteur fou », comme il l'appelle, mais bien de montrer sous un jour éminemment défavorable sa personnalité et de nourrir la thèse selon laquelle il a délibérément pris des vies humaines. Son souci n'était
+
+<<2979.22;2985.62;fr>>
+pas non plus la manière dont les autorités ont traité M. B. L'article ne dit rien
+
+<<2985.62;2992.34;fr>>
+là-dessus. Il ne contient que les interventions de M. B., mais aucune réaction des autorités.
+
+<<2992.34;3001.46;fr>>
+En plus, si le souci du requérant avait vraiment été le traitement correct de M. B., il n'aurait
+
+<<3001.46;3015.82;fr>>
+à l'évidence pas utilisé un langage tel que je cite de l'article « ces petits tracas quotidiens de tollards ordinaires », et il n'aurait pas qualifié une demande mise en liberté provisoire d'un plan extraordinaire.
+
+<<3015.82;3022.5;fr>>
+De l'autre côté de la balance, le secret de l'enquête. Il poursuit plusieurs débuts
+
+<<3022.5;3027.38;fr>>
+légitimes contenus au paragraphe 2 de l'article 10. La Chambre le reconnaît explicitement
+
+<<3027.38;3033.42;fr>>
+au paragraphe 40 et suivant, et le requérant lui-même ne le conteste pas.
+
+<<3033.42;3045.7;fr>>
+S'agissant d'abord de la protection des intérêts du prévenu, les articles 6, paragraphe 2 et 8 de la Convention entrent en jeu. Il faut en effet que l'interprétation et l'application
+
+<<3045.7;3049.22;fr>>
+de l'article 10 soient en harmonie avec ses garanties.
+
+<<3049.22;3062.46;fr>>
+La Cour a développé une jurisprudence très riche, surtout quant à la relation entre les articles 8 et 10. Les États ont l'obligation de protéger la vie privée de personnes impliquées
+
+<<3062.46;3068.86;fr>>
+dans une procédure pénale, Egeland-Hanseit contre Norvège. Le choix des mesures propres
+
+<<3068.86;3074.18;fr>>
+à garantir cette protection relève en principe des États contractants. La Cour souligne
+
+<<3074.18;3078.98;fr>>
+qu'il existe en effet plusieurs manières différentes d'assurer le respect de la vie privée.
+
+<<3078.98;3087.9;fr>>
+Il en va de même de la protection de la présomption d'innocence. En cas de risque d'atteinte
+
+<<3087.9;3098.26;fr>>
+à cette garantie, la Convention exige des autorités impliquées qu'elles prennent des mesures appropriées, encore une fois Egeland-Hanseit contre Norvège, paragraphe 53.
+
+<<3098.26;3114.26;fr>>
+En l'espèce, les autorités ont ouvert l'enquête pénale contre MB et ont immédiatement ordonné sa détention provisoire. Ce rapport juridique particulier avec le prévenu impliquait l'adoption
+
+<<3114.26;3123.22;fr>>
+de mesures adéquates de protection. Pour citer le tribunal fédéral, considérant 7.3,
+
+<<3123.22;3144.94;fr>>
+le détenu dont la liberté est restreinte dans une mesure importante, même pour des actes de la vie courante relevant de sa sphère privée, voire même intime, peut prétendre de l'autorité qui restreint sa liberté qu'elle protège d'un étalage public des contingences pratiques de sa vie de détenu et de prévenu.
+
+<<3144.94;3170.86;fr>>
+En l'espèce, les autorités vaudoises ont réalisé cette protection d'une part par la manière dont elles ont informé le public, une information à la fois pertinente, succincte, au bon moment et toujours dans le respect de la sphère privée du prévenu et d'autres personnes. Un exemple parmi d'autres, le juge d'instruction a informé sur le fait
+
+<<3170.86;3177.7;fr>>
+qu'une audition de l'épouse a eu lieu, sans donner de détails. Ceux-ci, ces détails,
+
+<<3177.7;3182.94;fr>>
+toutefois, ont été donnés par la suite, par le requérant dans l'article des litigeurs.
+
+<<3182.94;3192.06;fr>>
+D'autre part, les autorités vaudoises ont ouvert une enquête pénale pour violation du secret de l'enquête. Cette mesure, si elle n'a pas pu remédier à la publication
+
+<<3192.06;3204.46;fr>>
+litigeuse, était tout de même susceptible de protéger la vie privée et la présomption d'innocence de MB et de futurs prévenus se trouvant dans une situation semblable.
+
+<<3204.46;3224.02;fr>>
+Sous l'angle de l'article 10, la jurisprudence souligne que les devoirs à responsabilité que comporte la liberté d'expression sont particulièrement importants lorsqu'il y a des informations personnelles qui sont difféminées en relation avec une procédure pénale. L'intérêt
+
+<<3224.02;3238.78;fr>>
+du public à en recevoir ne couvre que les faits qui sont en lien direct avec les charges contre le prévenu. Je cite par exemple l'arrêt Craxi contre Italie. « La presse devrait
+
+<<3238.78;3255.5;fr>>
+s'abstenir de publier des informations qui sont susceptibles de porter préjudice, intentionnellement ou non, au droit au respect de la vie privée et à la correspondance des personnes accusées. » C'est dans ce contexte que la recommandation
+
+<<3255.5;3269.86;fr>>
+de 2003-13 du comité des ministres, ainsi que la déclaration du consensus de la presse des devoirs et des droits des journalistes et les directives relatives ont toutes leur pertinence. Nous en avons parlé dans notre mémoire.
+
+<<3269.86;3284.78;fr>>
+La publication litigeuse fait fi à la fois à la présomption d'innocence et de tout souci de préserver la personnalité du détenu. Ce dernier est présenté comme un fou au
+
+<<3284.78;3290.18;fr>>
+comportement inadéquat dans la procédure dirigée contre lui. L'article parle, je
+
+<<3290.18;3304.38;fr>>
+cite, « d'un mensonge à répétition, d'un mélange de naïveté et d'arrogance, d'amnésie et de douce folie. » Pour conclure avec la question, CMB, je cite, « ne fait
+
+<<3304.38;3307.38;fr>>
+finalement pas tout pour se rendre indéfendable ».
+
+<<3307.38;3314.14;fr>>
+L'article expose nombre de détails de la vie privée d'une personne en détention.
+
+<<3314.14;3343.9;fr>>
+À part son nom et sa photographie, on apprend son origine algérienne, date des lieux de la naissance, informations sur son enfance, son domicile, son titre de séjour, sa situation financière, ses propres dépositions relatives à ses problèmes psychiques, ainsi que des dépositions de son médecin traitant et de son épouse, notamment relatives aux problèmes conjugaux de CMB. La publication relève aussi des éléments de sa relation avec son avocat
+
+<<3343.9;3351.48;fr>>
+d'office, puis son avocat choisi, soit des éléments qui doivent demeurer confidentiels.
+
+<<3351.48;3370.82;fr>>
+Rappelons dans ce contexte que la Cour a élaboré des principes stricts quant à la confidentialité de la correspondance des détenus. Un détenu qui s'adresse au magistrat pour régler des
+
+<<3370.82;3377.9;fr>>
+difficultés de sa défense doit pouvoir compter sur la confidentialité de telle correspondance.
+
+<<3377.9;3391.7;fr>>
+Il en va évidemment de même de toutes les dépositions, du prévenu ou de tiers, faites lors des interrogatoires. Est-ce que le médecin traitant ou l'épouse aurait dit ce qu'ils
+
+<<3391.7;3398.86;fr>>
+ont dit aux autorités de poursuite, s'ils avaient su que leurs dépositions seraient citées par la suite par la presse?
+
+<<3398.86;3410.86;fr>>
+Je me tourne vers le troisième but légitime, à savoir la nécessité de protéger les intérêts de la justice. On vise en particulier un processus serein de formation de l'opinion
+
+<<3410.86;3416.94;fr>>
+des autorités judiciaires, y compris des autorités de poursuite. Ces mêmes intérêts
+
+<<3416.94;3428.7;fr>>
+sont invoqués, en plus de la protection des intérêts des partis, dans la discussion sur le sort de l'article 293 de notre Code pénal et milite en faveur de son maintien.
+
+<<3428.7;3435.2;fr>>
+Cette discussion est toujours en cours. Une majorité de la Commission parlementaire compétente
+
+<<3435.2;3441.06;fr>>
+s'est prononcée contre l'abolition de la disposition. La consultation auprès des
+
+<<3441.06;3454.54;fr>>
+cercles intéressés, y compris canton et partis politiques, démontre qu'une très large majorité s'est prononcée dans le même sens. Nous sommes disposés de mettre
+
+<<3454.54;3470.22;fr>>
+à la disposition de la Cour le résultat de cette consultation, une fois la Commission aura pris connaissance du rapport qui est en train d'être élaboré par les collègues du droit pénal. En résumé, M. le Président, Mesdames et
+
+<<3470.22;3498.34;fr>>
+Messieurs les juges, le contenu de l'information, l'intitulé qui fait sensation, la discréditation de la personne du prévenu, ainsi que le moment de la publication démontrent que celle-ci ne visait pas une information objective sur les circonstances du drame, mais tout simplement a suscité la curiosité des lecteurs. L'intérêt qualifié du public, seul susceptible de justifier
+
+<<3498.34;3500.88;fr>>
+la violation du secret de l'enquête, faisait défaut.
+
+<<3500.88;3507.02;fr>>
+Comment la majorité de la Chambre est-elle arrivée à une conclusion différente? Elle
+
+<<3507.02;3516.34;fr>>
+y arrive sur la base d'une argumentation qui n'est, à notre avis, pas soutenable et qui, en partie, s'éloigne de la jurisprudence établie.
+
+<<3516.34;3526.74;fr>>
+Par contre, la Chambre dit que le gouvernement n'établit pas en quoi la divulgation des informations confidentielles aurait pu avoir une influence négative. Les trois juges minoritaires
+
+<<3526.74;3532.36;fr>>
+le contredisent. Je cite « Une telle exigence viderait d'une grande partie de son sens
+
+<<3532.36;3539.86;fr>>
+le secret de l'instruction ». La minorité se trouve ici sur un terrain solide. Dans
+
+<<3539.86;3561.34;fr>>
+l'affaire Stoll, la Grande Chambre s'est précisément prononcée sur cette question, incluant qu'il convient, je cite, « de vérifier si la divulgation était, au moment de la publication, de nature à causer aux intérêts du pays un préjudice considérable ». Aux intérêts du pays, dans Stoll, « correspondent en l'espèce le droit à la présomption
+
+<<3561.34;3565.46;fr>>
+d'innocence et le bon fonctionnement de la justice pénale ».
+
+<<3565.46;3583.22;fr>>
+Contrairement à ce qu'affirme le requérant, il n'y a pas, en tout cas dans son mémoire inaffirmé, il n'y a pas à cet égard une différence entre les différents buts énumérés au paradraphe 2 de l'article 10. Pas plus que pour les intérêts du pays, le gouvernement
+
+<<3583.22;3594.56;fr>>
+doit apporter la preuve que la divulgation a effectivement porté préjudice à la présomption d'innocence et au bon fonctionnement de la justice. Peu importe donc que la principale
+
+<<3594.56;3619.1;fr>>
+audience ait eu lieu plus de deux ans après la publication, peu importe que finalement des magistrats professionnels se fussent prononcés sur l'affaire, étant entendu que le risque d'être indument influencé n'est pas limité aux juges laïcs, et peu importe finalement l'issue de la procédure pénale. D'ailleurs, concernant cette issue, peut-on être certain
+
+<<3619.1;3624.82;fr>>
+que la publication n'a pas eu d'influence? En lisant l'article, pour son auteur, la
+
+<<3624.82;3630.58;fr>>
+thèse d'un acte intentionnel était la plus probable. N'oublions pas qu'en première
+
+<<3630.58;3637.86;fr>>
+instance, M. B. a été condamné, entre autres, pour assassinat et tentative d'assassinat.
+
+<<3637.86;3655.92;fr>>
+Deuxième ligne d'argumentation de la Chambre concernant l'atteinte à la vie privée, la Chambre dit que le prévenu disposait de recours au niveau interne pour faire réparer cette atteinte, recours qu'il n'aurait pas utilisé. Cette approche d'une soi-disant
+
+<<3655.92;3667.66;fr>>
+autoresponsabilité de l'individu pour la protection de ses droits se heurte, à notre avis, à la conception des obligations positives matérielles telles que la Cour les a développées.
+
+<<3667.66;3679.22;fr>>
+L'incompatibilité paraît d'autant plus évidente qu'il s'agit en l'espèce d'une personne détenue et atteinte dans sa santé psychique. Attendre de sa part de s'insurger
+
+<<3679.22;3685.9;fr>>
+contre le journal n'est pas réaliste. En aucun cas, la possibilité de prendre soi-même
+
+<<3685.9;3697.14;fr>>
+les choses en main ne saurait libérer les autorités de leur devoir d'assumer leurs obligations. Sur ce point également, le gouvernement invite la Grande Chambre à suivre l'opinion
+
+<<3697.14;3703.62;fr>>
+convaincante de la minorité. Et finalement, la gravité de la sanction.
+
+<<3703.62;3714.5;fr>>
+L'argumentation de la majorité mentant de l'amende pas négligeable, la condamnation à être seule peut importer plus que le caractère mineur d'une amende. Si cette argumentation
+
+<<3714.5;3720.82;fr>>
+est pertinente en principe, elle ne convainc pas dans le cas d'espèce. Rappelons d'abord
+
+<<3720.82;3730.58;fr>>
+que le requérant n'a pas fait valoir le remboursement de l'amende, ce qu'il aurait pu faire sous le titre de « dommage matériel ». On s'imagine pourquoi il ne l'a pas
+
+<<3730.58;3734.54;fr>>
+fait. A part cela, on sait que dans une situation
+
+<<3734.54;3755.84;fr>>
+donnée, le risque d'une petite amende ou d'un reproche de violer une règle de droit ou de déontologie n'emporte pas toujours sur la tentation d'augmenter sensiblement le chiffre de vente, ou plus généralement l'audimat TV, radio, Internet. Il y a des
+
+<<3755.84;3763.1;fr>>
+journalistes qui résistent à ces tentations, assumant ainsi leurs devoirs et responsabilités.
+
+<<3763.1;3768.26;fr>>
+D'autres ne résistent pas. Et il y a des affaires dans lesquelles le recours au droit
+
+<<3768.26;3776.7;fr>>
+pénal répond à un besoin social impérieux. De l'avis des trois juridictions internes
+
+<<3776.7;3786.78;fr>>
+du gouvernement suisse et de trois juges de la Chambre, la présente affaire en faisait partie. Le gouvernement invite donc la Grande Chambre
+
+<<3786.78;3798.14;fr>>
+à conclure que les juridictions internes ont bien assumé leur part de responsabilité dans la présente affaire et à dire qu'il n'y a pas eu violation de l'article 10.
+
+<<3798.14;3808.18;fr>>
+Pour ce qui est de l'éventuel octroi d'une satisfaction équitable, seule est en cause le titre des frais et des penses. Concernant la procédure devant la Chambre,
+
+<<3808.18;3816.5;fr>>
+nous renvoyons au paragraphe 85 à 92 de notre mémoire. Il en ressort que toutes les notes
+
+<<3816.5;3835.26;fr>>
+d'honoraires produites par le requérant étaient adressées à son employeur, raison pour laquelle le gouvernement avait conclu, se basant sur la jurisprudence Stoll et Daman, où la situation était analogue, avait conclu qu'aucun mentant n'est dû à cet égard.
+
+<<3835.26;3842.78;fr>>
+Cette même jurisprudence doit s'appliquer à la procédure devant la Grande Chambre.
+
+<<3842.78;3847.86;fr>>
+Le requérant ne prétend pas que c'est à lui de prendre en charge le mentant réclamé.
+
+<<3847.86;3867.9;fr>>
+À titre subsidiaire, nous constatons que le requérant n'a présenté sans décompte les frais que ce matin, soit tardivement, et d'ailleurs, cette note est également adressée à l'éditeur Rangier et non pas au requérant lui-même.
+
+<<3867.9;3878.1;fr>>
+À part ça, pour la seule procédure devant la Grande Chambre, le requérant réclame plus de 32 000 francs suisses, un mentant qui nous paraît largement exagéré.
+
+<<3878.1;3878.1;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3882.54;3883.74;fr>>
+Merci, Monsieur Schürmann.
+
+<<3883.94;3888.58;fr>>
+Je me tourne maintenant vers les juges pour d'éventuelles questions.
+
+<<3888.58;3889.58;fr>>
+Le juge Villiger
+
+[[Judge;Mark Villiger]]
+
+<<3891.3;3892.14;en>>
+Thank you, President.
+
+<<3892.14;3899.06;en>>
+I have two questions about the fine of 4,000 francs imposed on the applicant.
+
+<<3899.06;3900.98;en>>
+The first question is to both parties.
+
+<<3900.98;3904.22;en>>
+How must I imagine this fine?
+
+<<3904.22;3916.38;en>>
+Does it consist of two distinct parts, a fine of 2,000 francs for the offense which we are discussing today and 2,000 francs for a previous offense?
+
+<<3916.38;3924.64;en>>
+Or did the judge, in view of the two offenses, impose a combined lump sum?
+
+<<3924.64;3927.68;en>>
+The second question goes to the applicant.
+
+<<3927.68;3943.78;en>>
+In the case file, a question has been raised by the government as to who has paid the fine of 4,000 francs imposed on the applicant, in particular, whether it was not the newspaper which paid the fine.
+
+<<3943.78;3950.26;en>>
+I would therefore wish to ask the applicant who paid the fine, you yourself or the newspaper for which you were working.
+
+<<3950.26;3950.26;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3951.73;3954.03;fr>>
+Merci le juge López Guerra.
+
+[[Judge;Luis López Guerra]]
+
+<<3958.5;3959.34;en>>
+Thank you.
+
+<<3959.34;3963.34;en>>
+My question is addressed mainly to the government.
+
+<<3963.86;3970.48;en>>
+The proceedings were secret according to the code of criminal procedure of the Canton of Vaud.
+
+<<3971.76;3987.3;en>>
+Article 293 of the Swiss Penal Code establishes a general prohibition under penalty of fine to publish documents, deliberations, or investigations of any authority which are secret by law.
+
+<<3987.3;3998.98;en>>
+In the literal words of the federal court on this case, the present case therefore concerns secrecy imposed by law rather by any official decision.
+
+<<4000.58;4015.7;en>>
+This prohibition is, so to say, an across the board, a blanket prohibition without any reference to the presence of a public interest or to any legitimate reason to inform the public on the matters declared secret.
+
+<<4015.7;4021.86;en>>
+The only exception of Article 293 refers to the secrets of minor importance.
+
+<<4021.86;4062.84;en>>
+Now, my question is, in this case or in any other case which concerns specifically criminal judicial proceedings, differently from Stoll, in this case or in any other case concerning these proceedings, does this prohibition of Article 293 mean that in Swiss law any publication of a matter declared secret by law, in this case by the Code of Criminal Procedure of Canton of Vaud, any matter declared secret by law is automatically a punishable crime in the terms of Article 293 of the Penal Code?
+
+<<4062.84;4071.32;en>>
+The government affirms that the penalty imposed was justified as protecting the presumption of innocence in the private life of the accused person.
+
+<<4071.32;4100.68;en>>
+But my difficulty in the case is how the Swiss courts might have taken adequately account of the presence of a public interest on the information and of the consequences on the legitimate exercise of the freedom of expression when the law does not provide a toll for this aspect and imposes without exception a penalty on the publications of matter expressly defined as secret by law.
+
+<<4100.68;4109.2;en>>
+My question is which are the practice, if any, of the Swiss courts on this matter, if there's any possibility to take into account this aspect.
+
+<<4109.2;4109.2;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4110.2;4112.5;fr>>
+Merci. Maintenant le juge Wojtyczek.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<4114.77;4115.97;fr>>
+Merci, M. le Président.
+
+<<4116.21;4118.89;fr>>
+J'ai une question aux 2 parties.
+
+<<4119.13;4134.89;fr>>
+Je souhaiterais savoir dans quelle mesure l'article publié dans l'illustré rend état de l'ensemble des informations obtenues par la rédaction.
+
+<<4135.13;4153.69;fr>>
+Y a-t-il eu d'autres pièces du dossier qui auraient été obtenues par la rédaction dont le contenu n'a pas été révélé dans l'article et dans ce cas, quel était l'arbitraire de sélection si une telle situation de sélection d'informations a eu lieu?
+
+<<4153.69;4154.69;fr>>
+Merci.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4156.22;4158.34;fr>>
+Merci. Maintenant le juge De Gaetano.
+
+[[Judge;Vincent A. De Gaetano]]
+
+<<4162.99;4164.43;en>>
+Thank you, Mr. President.
+
+<<4164.43;4167.03;en>>
+I have a question for both parties.
+
+<<4167.03;4183.95;en>>
+Could the parties explain to me the difference between paragraph one and paragraph two of article 185A of the criminal procedure of the Canton of Vaud?
+
+<<4183.95;4201.03;en>>
+And how, in particular, and if at all, whether sub-article two of article 185A impacts on article 293 of the criminal code, of the Swiss criminal code?
+
+<<4201.03;4224.51;en>>
+My impression, that I stand to be corrected, is that this point was not argued, well, at least in the papers that we have in front of us, but for the sake of clarity, for the sake of completeness, at least from my own personal knowledge to understand exactly how these two provisions interact, if at all.
+
+<<4224.51;4231.79;en>>
+I would like this clarification, if possible, from one of the parties or from both, if the parties cannot agree on a common ground.
+
+<<4231.79;4231.79;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4233.99;4236.39;fr>>
+Merci beaucoup.
+
+<<4236.39;4240.03;fr>>
+Je propose donc de faire une pause d'une vingtaine de minutes.
+
+<<4240.03;4244.03;fr>>
+On va se revoir à 10h45.
+
+<<4244.03;4247.29;fr>>
+Maître.
+
+<<4247.29;4261.07;fr>>
+Non, on va faire une pause d'abord et ensuite, on reprend l'audience pour les réponses aux questions et aussi pour répondre, répliquer à ce que l'autre partie a présenté.
+
+<<4261.07;4262.07;fr>>
+Donc l'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4567.78;4568.38;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4610.66;4612.14;fr>>
+Asseyez-vous, s'il vous plaît.
+
+<<4612.34;4616.58;fr>>
+L'audience est reprise et je donne la parole à M. Poncet.
+
+[[Applicant;AP1]]
+
+<<4622.12;4626.92;en>>
+Mr. President, members of the court,
+
+<<4626.92;4640.16;en>>
+very briefly the answers to the questions put by the court, and then a quick comment on my learned opponent's submissions.
+
+<<4640.16;4656.0;en>>
+As to the questions, Judge Villiger asked two questions, whether or not the 4,000 fine when pronounced by the Swiss judiciary took into account both offenses, and then who paid?
+
+<<4656.0;4658.6;en>>
+Let me answer the second question first.
+
+<<4658.6;4667.52;en>>
+Arnaud Bédard paid for the fines and for the cost of the court proceedings.
+
+<<4667.52;4689.04;en>>
+Incidentally, since the government made this point, it is true that Arnaud Bédard's employer advanced, let me emphasize, advanced, the necessary financial means for him to be represented in Switzerland and in this court.
+
+<<4689.04;4695.56;en>>
+But this by no means signifies that he would not pay anything when the case is finished.
+
+<<4695.56;4698.82;en>>
+There will be a division of the costs.
+
+<<4698.82;4707.52;en>>
+Be this as it may, Judge Villiger's first question was whether the 4,000 fine was for both offenses.
+
+<<4707.52;4716.16;en>>
+It's a little more complicated than that, and we looked up the relevant dates just in case.
+
+<<4716.16;4748.0;en>>
+On June 23, 2014, Arnaud Bédard was first given one month conditional, that is suspended, of detention, un mois d'arrêt, to use the French terminology, and then this was converted or changed to a 4,000 francs fine by the Misdemeanor Court, the Tribunal de Police de Lausanne, on September 22, 2005.
+
+<<4748.0;4755.92;en>>
+Now, this did take into account a previous offense that has nothing to do with this case.
+
+<<4755.92;4768.16;en>>
+Arnaud, I think, refused to, Arnaud Bédard refused to do his military service or his civil protection service, and I think he may have smoked pot when he was 23 years old.
+
+<<4768.16;4774.72;en>>
+So he had a previous, quote, conviction for smoking a joint some years before.
+
+<<4774.72;4784.42;en>>
+So that was taken into account when setting the first fine in September, on September 29, 2005.
+
+<<4784.42;4807.9;en>>
+Now, then, for the second article, which is the object of the other proceedings pending in this case, in this court, for the second article, he was given this time 5,000 francs, which he also paid out of his own pocket, plus the costs.
+
+<<4807.9;4818.6;en>>
+But this time, the fine was convertible, as we say, in 50 days in jail, in case he didn't pay it.
+
+<<4818.6;4822.22;en>>
+I don't know if that answers your question, Judge.
+
+<<4822.22;4824.12;en>>
+Thank you.
+
+<<4824.12;4834.72;en>>
+Judge Lopez's question was primarily meant for the government, so I will take the liberty not to address it, if I may.
+
+<<4834.72;4851.28;en>>
+As to Judge Volichek's question, whether or not the article revealed everything, or whether there were, or if there were, any other materials that the journalist had, the answer, Judge, is in the affirmative.
+
+<<4851.28;4855.96;en>>
+Of course, Arnaud Bédard had thoroughly investigated the matter.
+
+<<4855.96;4860.76;en>>
+There were all sorts of materials that were not published.
+
+<<4860.76;4897.36;en>>
+And the decision as to whether this would be published or not was made on the basis of his and his editor's assessment of the pertinence of the material for what l'Illustrer, in its somewhat tabloid manner, was trying to do, namely, enlighten the local population and public opinion in French-speaking Switzerland as to the personality of an individual who had committed the road murder of the century in Switzerland.
+
+<<4897.36;4901.84;en>>
+Excellent.
+
+<<4901.84;4922.68;en>>
+As to Judge de Gaetano's question with regard to Article 185A and paragraph 1 and 2 of the then existing code of criminal procedure of the Canton of Vaux, as you know, Judge, the code has now been abolished and has been substituted by a federal code.
+
+<<4922.68;4928.6;en>>
+But the question, nevertheless, deserves, of course, to be answered.
+
+<<4928.6;4949.28;en>>
+The first paragraph of Article 185A imposes a burden of maintaining secret not only on the parties to a criminal proceeding, but also to their families, friends, and, of course, their advisors, lawyers, and so on.
+
+<<4949.28;4978.32;en>>
+The idea is that, since it is postulated that these matters should remain secret, except when the judicial authority decides to inform the public, then the secrecy should extend also to the circle in which a person normally lives, because otherwise it would be too simple to simply whisper it to somebody else, who could then report it or publish it harmlessly.
+
+<<4978.32;4985.96;en>>
+However, Article 2 says, and that refers in particular to a victim, a partie civile.
+
+<<4985.96;5009.44;en>>
+I don't think there's any English equivalent, but a plaintiff in a criminal case, something which is germane and peculiar to civil law, that refers in particular to a partie civile, who would somebody who is the victim of a crime and would explain or tell the story to his wife, for instance, or to her husband, that would not be punishable.
+
+<<5009.44;5027.2;en>>
+So the answer to your question, Judge, is yes, it does institute a specific exit from the scope of it did institute at the time a specific exit from the scope or an exception to the scope of Article 293 of the Swiss Criminal Code.
+
+<<5030.44;5051.92;en>>
+In connection with this, actually not in connection with this, forgive me, I'd like to briefly address one factual point and one legal argument that Dr. Sherman evoked in his pleading, in his oral argument.
+
+<<5051.92;5067.44;en>>
+It has been said that Arnaud Bédard wrote that Boutifar was attempting or was trying to commit murders because somebody had asked him to do that.
+
+<<5067.44;5068.96;en>>
+That's absolutely not the case.
+
+<<5068.96;5074.96;en>>
+I may have misunderstood my learned opponent, but if that's what he said, it's wrong.
+
+<<5074.96;5076.64;en>>
+Arnaud Bédard never wrote this.
+
+<<5076.64;5095.36;en>>
+In a subsequent article published on July 23, 2003, Arnaud quoted one of the victims who had gone through a complicated story with one of the police inspectors involved in the case.
+
+<<5095.36;5105.4;en>>
+And she said that she thought Boutifar may have been induced to try to kill her intentionally.
+
+<<5105.4;5109.2;en>>
+But Arnaud never wrote that it had been intentional.
+
+<<5109.2;5115.14;en>>
+Now, one last point I would like to make, Mr. President, members of the court,
+
+<<5115.14;5122.4;en>>
+came to me as I was listening to Dr. Sherman.
+
+<<5122.4;5127.32;en>>
+Dr. Sherman is a highly respected lawyer in Switzerland.
+
+<<5127.32;5134.8;en>>
+He's a Swiss-German who speaks fluent French, as you've seen, a highly respected jurist.
+
+<<5134.8;5159.84;en>>
+And still, although he's the embodiment of what Swiss legal scholarship can create in its best, still he's here in this court trying to persuade the court that something which never happened would have justified an interference if it had happened.
+
+<<5159.84;5167.28;en>>
+He went as far as saying, I quote, peu importe l'issue de la procédure.
+
+<<5167.28;5170.6;en>>
+It doesn't matter what the outcome of the case was.
+
+<<5170.6;5177.52;en>>
+In other words, the Swiss government admits that the article had no consequence, no impact.
+
+<<5177.52;5186.12;en>>
+But still, in case it might have had some, you should still uphold Arnaud Bédard's criminal conviction.
+
+<<5186.12;5193.96;en>>
+As I was listening to this somewhat contradictory approach, I realized, Mr. President,
+
+<<5193.96;5209.64;en>>
+members of the court, that perhaps unbeknownst to this court, there is an elephant in this room, which the Swiss in this proceedings are well aware of.
+
+<<5209.64;5228.92;en>>
+You may have been struck, if you care to look at statistics, you may have been struck by the fact that since 2006, the Swiss government asked for 23 cases to be reheard in the grand chamber.
+
+<<5228.92;5235.16;en>>
+Whether these petitions were upheld or not is immaterial to the point I'm trying to make.
+
+<<5235.16;5255.56;en>>
+The point I would like to make is that from these 23 requests for resubmission of a case to the grand chamber, 10 were submitted in 2013 and 2014, almost half.
+
+<<5255.56;5259.64;en>>
+13 were submitted since 2006 in eight years.
+
+<<5259.64;5268.56;en>>
+In other words, we have eight requests from the Swiss government in six years, and then 10 requests in two years.
+
+<<5272.2;5281.04;en>>
+Unless we are to assume that the sections suddenly start getting it wrong when Switzerland is involved, there has to be a reason.
+
+<<5281.04;5300.0;en>>
+And the reason, the elephant in the room, is the political pressure being exercised on the Swiss government by a populist right-wing political party known as the SVP, which stands for Schweizer Volkspartei.
+
+<<5300.0;5301.82;en>>
+In itself, the name is significant.
+
+<<5301.82;5307.32;en>>
+For some reason, it's translated into French as UDC, Union Democratique du Centre.
+
+<<5307.32;5309.64;en>>
+It is certainly not from the center.
+
+<<5309.64;5313.04;en>>
+Whether it's democratic or not will be left to debate.
+
+<<5313.04;5321.48;en>>
+The UDC SVP is engaged in a campaign against foreign judges.
+
+<<5321.48;5331.96;en>>
+That means you, and it also means the judges in the Luxembourg Court of the European Union.
+
+<<5331.96;5342.84;en>>
+And I was looking up their website during the break, which I have here if it kindly opens itself.
+
+<<5342.84;5354.2;en>>
+I was looking up their website, which features an initiative in which the following is said.
+
+<<5354.2;5357.52;en>>
+The Office of the Court has the reference to the website.
+
+<<5357.52;5360.16;en>>
+I translate from the French.
+
+<<5360.16;5366.88;en>>
+The Swiss constitution must be the supreme source of law of Switzerland.
+
+<<5366.88;5378.4;en>>
+The decisions of the people must be respected in all cases, and they must not be undermined by reference to mandatory international law.
+
+<<5378.4;5392.64;en>>
+We do not want any foreign judges modeling Swiss law from afar in opposition to the people and to the cantons and in lieu of the Swiss parliament.
+
+<<5392.64;5408.28;en>>
+And if you dig a little bit, foreign judges means foreign judges who by the UDC standards are left wing socialists who are trying to ruin all the qualities and the merits of the Swiss state.
+
+<<5408.28;5419.0;en>>
+This is a strong pressure on the government, and it is understandable that they should pay attention to it because a public initiative is pending.
+
+<<5419.0;5422.08;en>>
+However, Mr. President, members of the court,
+
+<<5422.08;5427.68;en>>
+this is not a reason for you to change anything in your jurisprudence.
+
+<<5427.68;5451.88;en>>
+It was authoritatively made clear to the Swiss parliament in a speech some months ago that Switzerland has nothing to fear from this court, nothing to fear from the European Court of Human Rights, and that whether or not 20% of the Swiss electorate thinks differently is frankly immaterial for the purposes of this court.
+
+<<5451.88;5468.72;en>>
+What I can tell you in conclusion is that assuming you care to hear that or you care to know that, 75% or 80% of the Swiss people live very well with the European Convention of Human Rights.
+
+<<5468.72;5470.44;en>>
+They know of human rights.
+
+<<5470.44;5482.48;en>>
+They know that they should be grateful, and there is at least one journalist and his counsel who are grateful to your court for the job it does and that we hope it shall continue to do.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5485.55;5486.78;fr>>
+Merci, maître Poncet.
+
+<<5486.78;5488.74;fr>>
+Je donne la parole à M. Schürmann.
+
+[[Government;GR1]]
+
+<<5491.29;5492.77;fr>>
+Merci, M. le Président.
+
+<<5493.85;5502.81;fr>>
+On va d'abord essayer de répondre aux questions qui ont été posées par les juges dans la mesure où ils étaient adressés au gouvernement.
+
+<<5502.81;5508.81;fr>>
+Après, j'aimerais faire quelques remarques relatives à la plaidoirie et à la réplique du requérant.
+
+<<5509.85;5513.41;fr>>
+La question de M. Filiger, l'amende de 4 000 francs,
+
+<<5515.05;5521.61;fr>>
+la condamnation était bien de 4 000 francs pour sept infractions qui nous occupent aujourd'hui.
+
+<<5521.61;5540.17;fr>>
+Pour la fixation de ce montant, il est vrai, on a tenu compte d'un antécédent qui date de 1998, pour lequel il a été condamné à 2 000 francs.
+
+<<5541.09;5550.17;fr>>
+Alors, le montant de la peine a été fixé à la lumière de cet antécédent, qui était d'ailleurs un antécédent, une condamnation pour contrainte et diffamation.
+
+<<5550.17;5553.77;fr>>
+Ce n'était pas des petites contraventions.
+
+<<5553.77;5556.57;fr>>
+Contrainte et diffamation.
+
+<<5556.57;5561.45;fr>>
+J'en prends note aussi, nous prenons note aussi que M.
+
+<<5561.45;5573.13;fr>>
+Bédard a prétendu qu'il a payé lui-même les 4 000 francs et qu'il doit rembourser des montants encourus par cette procédure.
+
+<<5573.13;5573.93;fr>>
+On en prend note.
+
+<<5573.93;5582.21;fr>>
+Pour l'instant, on n'a aucune preuve qu'il a payé ses montants, qu'il va payer ses montants.
+
+<<5582.21;5587.65;fr>>
+Nous, nous sommes basés, comme je l'ai dit, à la jurispondance de la Cour dans les affaires Stoll et Dammann.
+
+<<5587.65;5590.25;fr>>
+La situation était analogue.
+
+<<5590.25;5597.41;fr>>
+Les notes honoraires ont été adressées à l'éditeur, Ringier et Tamedia dans l'affaire Stoll.
+
+<<5597.41;5611.29;fr>>
+Et la Cour en a conclu que le requérant n'a pas satisfait aux conditions de l'article 60, alinéa 2 du règlement, c'est-à-dire il doit démonstrer que c'est lui-même qui a supporté les frais.
+
+<<5611.29;5616.93;fr>>
+Et cette démonstration, pour l'instant, elle fait défaut.
+
+<<5616.93;5632.53;fr>>
+La question du juge Lopez-Guerra, article 293, il est vrai, si on lit l'article, c'est la conception formée du secret qu'a retenue le législateur à l'époque.
+
+<<5632.53;5649.77;fr>>
+Mais la jurisprudence a procédé à une interprétation à la lumière de votre jurisprudence et elle ouvre l'examen pour un examen matériel, c'est-à-dire pondération des intérêts en jeu.
+
+<<5649.77;5655.65;fr>>
+Dans l'affaire Stoll, un arrêt publié du tribunal fédéral, c'était encore un obiter dicto.
+
+<<5655.65;5675.41;fr>>
+D'ailleurs, même si on voulait partir d'une conception matérielle du secret, on arrivait à la conclusion que, maintenant, on discute et cette interprétation a été appliquée dans les affaires suivantes, y compris l'affaire présente.
+
+<<5675.41;5682.85;fr>>
+Et on a parlé de la discussion actuelle au sein de la commission des questions juridiques.
+
+<<5682.85;5700.01;fr>>
+Là, la commission s'est prononcée avec une majorité de 15 à 7 pour mettre dans la loi ce qui est aujourd'hui la pratique du tribunal fédéral, c'est-à-dire de dire qu'il faut, à la lumière de l'article 10, la pondération des intérêts en jeu dans chaque cas concret.
+
+<<5706.33;5709.41;fr>>
+La question de M. Wojticek.
+
+<<5709.41;5711.33;fr>>
+On s'est posé la même question.
+
+<<5711.33;5718.05;fr>>
+Est-ce que M. Beda avait d'autres pièces du dossier
+
+<<5718.05;5720.97;fr>>
+qui ont été transmises?
+
+<<5720.97;5728.57;fr>>
+Ma collègue et moi-même, nous nous sommes déplacés à Lausanne pour voir, pour consulter l'intégralité des deux dossiers Pénault.
+
+<<5728.57;5730.37;fr>>
+On n'a pas trouvé la réponse.
+
+<<5730.37;5740.01;fr>>
+Alors, on a connaissance que des pièces du dossier qui sont relatées dans l'article de l'illustré.
+
+<<5740.01;5743.45;fr>>
+Ignorance, il y avait d'autres.
+
+<<5743.45;5747.37;fr>>
+La question de M. le juge Deghaetano.
+
+<<5747.37;5762.73;fr>>
+Il s'est référé à l'article 185A de l'ancien code de procédure pénale du canton de Vaud.
+
+<<5762.73;5765.93;fr>>
+La relation entre les deux alinéas, c'était la première question.
+
+<<5765.93;5782.13;fr>>
+Le premier alinéa dit les parties, leurs proches et familles, leurs conseils, collaborateurs, consultants, employés de ceux-ci, ainsi que les experts et témoins sont tenus de respecter le secret de l'enquête envers quiconque n'a pas accès au dossier.
+
+<<5782.13;5794.89;fr>>
+Et le paragraphe 2 constitue une exception à cette règle parce qu'il dit la révélation faite aux proches ou familiers par la partie où son conseil n'est pas punissable.
+
+<<5794.89;5799.61;fr>>
+Et ça nous amène à la deuxième question posée par M. Deghaetano.
+
+<<5799.61;5812.89;fr>>
+Le code de procédure pénale vaudois prévoyait une propre sanction pénale pour les personnes visées au paragraphe 1 de l'article 185A, c'était les parties, les proches, etc.
+
+<<5812.89;5823.73;fr>>
+Pour les tiers, comme les journalistes, c'est l'article 293 qui s'applique.
+
+<<5823.73;5835.57;fr>>
+Puis, comme j'ai annoncé quelques remarques relatives à la plaidoirie, d'abord l'article de M. Beda
+
+<<5835.57;5838.69;fr>>
+concernant cette histoire meurtre sur commande.
+
+<<5838.69;5845.33;fr>>
+Où est-ce que je l'ai mis?
+
+<<5845.33;5855.17;fr>>
+Alors, on n'a pas inventé cet article.
+
+<<5855.17;5856.61;fr>>
+Attendez.
+
+<<5856.61;5857.77;fr>>
+Voilà.
+
+<<5857.77;5863.93;fr>>
+Tragédie du Grand-Pans, révélation, les nouvelles pistes de l'enquête.
+
+<<5863.93;5868.97;fr>>
+Arnaud Beda, 23 juillet 2003.
+
+<<5868.97;5878.13;fr>>
+Et comme je l'ai dit, on met volontiers à disposition de la Cour l'ensemble des articles de presse.
+
+<<5878.13;5891.69;fr>>
+Une autre observation concernant l'argument qu'il serait impossible pour les journalistes de publier les comptes rendus de procédure pénale jusqu'au moment de l'audience publique.
+
+<<5891.69;5894.89;fr>>
+L'argument nous semble dépourvu de fondements.
+
+<<5894.89;5900.93;fr>>
+Premièrement, il y a la possibilité pour les autorités de poursuite d'informer le public.
+
+<<5900.93;5905.77;fr>>
+On a vu l'exemple de l'ancien code de procédure pénale vaudois.
+
+<<5905.77;5926.81;fr>>
+Et deuxièmement, la présente affaire démontre qu'on peut très bien satisfaire aux besoins du public d'être informé sur la base d'informations qui sont accessibles au public ou peuvent être obtenues par un travail de recherche respectant les règles déontologiques.
+
+<<5926.81;5935.41;fr>>
+Une deuxième remarque concernant les arrêts que je peux penser à citer, les fameux arrêts « Sunday Times » et « Dupuis ».
+
+<<5935.41;5941.61;fr>>
+Il faut bien se rappeler de quoi il s'agissait dans ces deux affaires.
+
+<<5941.61;5951.65;fr>>
+« Sunday Times », il s'agissait d'informations confidentielles émanant d'une procédure encore pendante contre une entreprise pharmaceutique.
+
+<<5951.65;5954.81;fr>>
+C'était la fameuse affaire du « Contergan ».
+
+<<5954.81;5964.89;fr>>
+Le besoin de protection d'une entreprise n'est évidemment pas comparable à celui d'un détenu qui plus est atteint de sa santé psychique.
+
+<<5964.89;5973.13;fr>>
+Et l'affaire « Dupuis » et autres, on se souvient, elle avait pour l'origine le livre de deux journalistes, « Les oreilles du président ».
+
+<<5973.13;5986.57;fr>>
+C'était l'affaire des écoutes de l'Élysée, écoute téléphonique, mettant en cause le fonctionnement de la justice pénale et du cabinet du président de la République qui avait ordonné ces mesures.
+
+<<5986.57;5993.45;fr>>
+Difficile donc de construire une parallèle avec notre affaire.
+
+<<5993.45;6005.93;fr>>
+Une autre remarque, on aimerait citer encore une affaire que la Cour a jugée qui est très proche de la nôtre, peut-être la plus proche de la nôtre.
+
+<<6005.93;6012.17;fr>>
+C'est l'affaire « Tourancho et Julie contre France » du 12 avril 2006.
+
+<<6012.17;6020.09;fr>>
+C'était un article dans le journal « Libération » qui avait publié des extraits de procès-verbaux d'interrogatoire.
+
+<<6020.09;6027.93;fr>>
+Les requérants étaient condamnés sur la base de l'article 38, alinéa 1 de la loi sur la liberté de la presse.
+
+<<6027.93;6033.21;fr>>
+C'est une loi qui date de 1881.
+
+<<6033.21;6035.09;fr>>
+Je me permets de citer cet article.
+
+<<6035.09;6051.77;fr>>
+Il est interdit de publier les actes d'accusation et tous autres actes de procédure, criminels ou correctionnels, avant qu'ils aient été lus en audience publique et ce, sous peine de l'amende.
+
+<<6051.77;6053.21;fr>>
+Le but est clair.
+
+<<6053.21;6062.77;fr>>
+Il s'agit, comme la Cour l'a formulé dans « Sunday Times », d'éviter le spectacle de pseudo-procès dans les médias.
+
+<<6062.77;6073.41;fr>>
+D'ailleurs, dans cette affaire « Tourancho », la Cour a admis que la condamnation des journalistes correspondait bien à un besoin social impérieux.
+
+<<6073.41;6087.13;fr>>
+Je cite cette affaire parce que le requérant avait dit « De toute façon, ces informations relatées, de toute façon, on les aurait connues une fois à l'audience principale a commencé. »
+
+<<6087.13;6099.21;fr>>
+Et je conclue, Monsieur le Président, Mesdames et Messieurs les juges, avec une citation de l'arrêt de la Cour de cassation pénale du canton de Vaud dans notre affaire.
+
+<<6099.21;6105.57;fr>>
+Cette Cour aussi applique le principe de la subsidiarité.
+
+<<6105.57;6131.13;fr>>
+Elle a examiné l'affaire sous l'angle de l'article 10 et elle a dit « On ne saurait admettre, parce qu'une affaire est émotionnelle et médiatisée, qu'un journaliste puisse, à n'importe quel moment, quel que soit le degré d'avancement de la procédure, publier n'importe quel élément d'un dossier parvenu en sa possession par des voies mystérieuses. »
+
+<<6131.13;6132.41;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6135.48;6137.88;fr>>
+Merci, M. Schürmann.
+
+<<6138.08;6142.48;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<6142.68;6151.08;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<6151.28;6153.28;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<6154.24;6156.64;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<6156.84;6160.76;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<6160.76;6160.76;fr>>
+L'audience est levée.
+

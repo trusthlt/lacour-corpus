@@ -1,0 +1,2628 @@
+[[JudgeP;Dean Spielmann]]
+
+<<46.41;48.53;fr>>
+Je vous prie de bien vouloir vous asseoir.
+
+<<50.29;56.49;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire Lambert et autres contre France.
+
+<<58.77;67.33;fr>>
+L'affaire a été introduite devant la Cour le 23 juin 2014 par quatre ressortissants français, M. Pierre Lambert, Mme Viviane Lambert,
+
+<<67.33;71.85;fr>>
+M. David Philippon et Mme Anne Tuarze en vertu de l'article 34 de la Convention.
+
+<<72.65;79.65;fr>>
+Elle a été attribuée à une chambre de la cinquième section de la Cour, conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<80.69;85.17;fr>>
+La requête a été communiquée au gouvernement le 24 juin 2014.
+
+<<86.29;98.17;fr>>
+Le 4 novembre 2014, la Chambre a décidé de se désaisir au profit de la Grande Chambre, aucune des parties n'ayant formulé d'objection contre un désaisissement.
+
+<<98.77;118.69;fr>>
+Par la suite, l'Union nationale des associations de familles de traumatisés crâniens et de cérébraux lésés Amrezo Betel et la Clinique des droits de l'homme de Strasbourg ont été autorisées à soumettre des observations écrites en tant que tierces parties en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<119.85;129.97;fr>>
+En outre, Mme Rachel Lambert, Mme Marie-Geneviève Lambert et M. François Lambert ont été autorisés, eux aussi en tant que tierces parties,
+
+<<129.97;134.33;fr>>
+à soumettre des observations écrites et à prendre part à l'audience.
+
+<<135.49;140.37;fr>>
+Le gouvernement est représenté par son agent, M. François Alabrune,
+
+<<140.37;150.29;fr>>
+directeur des affaires juridiques au ministère des Affaires étrangères, assisté de Mme Elodie Young, M. Rodolphe Feral, Mme Solène Thomas-Rideau,
+
+<<150.29;156.77;fr>>
+Mme Isabelle Erny, Mme Patricia Rouault-Chalier et Mme Marie Lambling, conseillère.
+
+<<156.77;164.01;fr>>
+Les requérants sont représentés par M. Jean Paillot et M. Jérôme Triomphe,
+
+<<164.01;170.45;fr>>
+conseil assisté de M. Grégor Puppinck, du professeur Xavier Ducrocq et du
+
+<<170.45;177.25;fr>>
+docteur Bernard Jeanblanc, conseiller. Les requérants sont aussi présents.
+
+<<177.25;183.69;fr>>
+Les tierces parties qui sont également présentes sont représentées par M.
+
+<<183.69;188.57;fr>>
+Madelaine Munier-Apaire et M. Laurent Pettiti, conseil.
+
+<<188.57;193.81;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<193.81;206.77;fr>>
+Je salue également les auditeurs de l'École nationale de la magistrature grecque en visite à la Cour européenne des droits de l'homme. Ayant consulté l'agent du gouvernement,
+
+<<206.77;221.05;fr>>
+les représentants des requérants et les représentants des tierces parties, j'ai fixé ainsi l'ordre de parole. Nous entendrons successivement M. Alabrune
+
+<<221.05;227.21;fr>>
+pour le gouvernement, puis M. Paillot et M. Triomphe pour les requérants et enfin M.
+
+<<227.21;234.77;fr>>
+Munier-Apaire et M. Pettiti pour les tierces parties.
+
+[[Government;GR1]]
+
+<<241.49;250.65;fr>>
+Monsieur le Président, mesdames et messieurs les juges, l'affaire qui nous réunit aujourd'hui est douloureuse et inédite.
+
+<<252.12;255.37;fr>>
+Douloureuse, cette affaire l'est par les circonstances qui l'entourent.
+
+<<256.61;263.25;fr>>
+À ce titre, je voudrais m'adresser aux membres de la famille de M. Vincent Lambert et les assurer que nous gardons à
+
+<<263.25;266.93;fr>>
+l'esprit le drame humain auquel ils sont confrontés.
+
+<<266.93;271.56;fr>>
+Inédite, cette affaire l'est par la question qu'elle soulève.
+
+<<271.56;290.69;fr>>
+En effet, contrairement au précédent cas dont votre cours a eu à connaître, ce n'est pas une question touchante à une décision visant à provoquer la mort qui est ici en cause, mais la question de l'attitude à adopter à l'égard d'un patient qui est maintenu artificiellement en vie par un traitement médical.
+
+<<290.69;294.52;fr>>
+Ce patient, c'est M. Vincent Lambert.
+
+<<294.52;304.88;fr>>
+Sans revenir en détail sur les faits qui sont présentés dans les observations écrites du gouvernement, je rappellerai qu'il a été victime le 29 septembre 2008 d'un accident de la route.
+
+<<304.88;310.73;fr>>
+Il a subi à cette occasion un traumatisme crânien qu'il a rendu tétraplégique et entièrement dépendant.
+
+<<310.73;320.4;fr>>
+Six ans après, il est toujours hospitalisé dans une unité spécialisée qui accueille des patients en état végétatif ou en état de conscience minimale.
+
+<<320.4;330.69;fr>>
+Il bénéficie d'une hydratation et d'une alimentation artificielle par voie entérale, c'est-à-dire que les nutriments sont directement introduits dans son estomac.
+
+<<330.69;339.64;fr>>
+Aucun des traitements qui lui ont été prodigués depuis six ans, tels que la kinésithérapie ou l'orthophonie, n'ont permis d'amélioration de son état.
+
+<<339.64;345.4;fr>>
+Le 11 janvier 2014, le médecin en charge de M.
+
+<<345.4;353.32;fr>>
+Vincent Lambert a décidé, conformément à la loi du 22 avril 2005, et après avoir consulté la famille de M.
+
+<<353.32;359.05;fr>>
+Vincent Lambert et six médecins, d'interrompre l'alimentation et l'hydratation artificielle.
+
+<<359.05;367.37;fr>>
+La mise en œuvre de cette décision a ensuite été suspendue par le tribunal administratif de Châlons-en-Champagne.
+
+<<367.37;377.56;fr>>
+Saisi en appel, le Conseil d'État a jugé le 24 juin 2014 que la décision médicale du 11 janvier était légale.
+
+<<377.56;381.52;fr>>
+Les parents, la sœur et le demi-frère de M.
+
+<<381.52;385.09;fr>>
+Vincent Lambert vous ont alors saisi.
+
+<<385.09;397.28;fr>>
+La question essentielle qui vous est soumise est de savoir si l'arrêt de l'alimentation et de l'hydratation artificielle de M. Vincent Lambert constitue une atteinte au droit à la vie et un
+
+<<397.28;400.49;fr>>
+traitement inhumain ou dégradant.
+
+<<400.49;415.61;fr>>
+A ce titre, je m'attacherai à montrer, d'une part, que la loi de 2005 comporte les garanties nécessaires pour l'exercice des droits prévus par la Convention, et d'autre part, que l'application qui en a été faite à la situation de M.
+
+<<415.61;421.4;fr>>
+Vincent Lambert est conforme aux exigences conventionnelles.
+
+<<421.4;430.12;fr>>
+S'agissant de la loi, il importe d'en rappeler l'origine, le champ d'application et le contenu.
+
+<<430.12;456.44;fr>>
+En ce qui concerne l'origine de la loi du 22 avril 2005, il convient de rappeler que le débat qui a amené à son adoption est né du constat que les médecins disposent à présent de moyens techniques considérables pour prolonger la survie d'un patient et qu'il arrive un moment où ils sont amenés à se poser la question de l'arrêt de certains traitements qui n'ont d'autre effet que de maintenir artificiellement en vie une personne.
+
+<<456.44;464.4;fr>>
+Cette question se pose de manière légitime au regard de leurs obligations déontologiques de bienfaisance.
+
+<<464.4;469.61;fr>>
+Sur ce point, il n'existe aucun consensus européen.
+
+<<469.61;475.76;fr>>
+Les Etats bénéficient donc d'une large marge d'appréciation en la matière.
+
+<<475.76;484.44;fr>>
+La loi française de 2005 est le résultat d'un large débat démocratique au cours duquel la société civile a été consultée.
+
+<<484.44;491.92;fr>>
+Ainsi, la loi de 2005 a été adoptée à la suite du travail approfondi mené par une mission parlementaire d'information.
+
+<<491.92;508.37;fr>>
+Cette mission d'information avait pour objectif d'appréhender l'ensemble des questions posées par la fin de vie et l'affirmation des droits des malades dans le contexte de la loi du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé.
+
+<<508.37;516.52;fr>>
+Lors de ces travaux, cette mission parlementaire a procédé à l'audition de plus de 80 personnalités d'opinions variées.
+
+<<516.52;524.25;fr>>
+Elle a rendu un rapport intitulé « Accepter la mort, respecter la vie » qui comportait une proposition de loi.
+
+<<524.25;534.4;fr>>
+La loi qui reprend cette proposition a été votée à l'unanimité dès la première lecture à l'Assemblée nationale.
+
+<<534.4;540.04;fr>>
+Son adoption a été confirmée ensuite au Sénat, également en première lecture.
+
+<<540.04;547.4;fr>>
+Ainsi, la loi de 2005 reflète un choix de société sur les questions posées par la fin de vie et les droits des malades.
+
+<<547.4;567.52;fr>>
+Cette loi encadre de manière stricte les conditions de la conciliation entre les deux libertés fondamentales que sont d'une part le droit au respect de la vie et d'autre part le droit de toute personne de ne pas subir un traitement médical contraire à sa volonté ou qui traduirait une obstination des raisonnables.
+
+<<567.52;582.85;fr>>
+En ce qui concerne le champ d'application de cette loi, il convient d'assister sur le fait que la loi de 2005 comporte des dispositions qui s'appliquent non seulement aux patients en fin de vie, mais aussi à l'ensemble des malades.
+
+<<582.85;590.61;fr>>
+Par ailleurs, l'encadrement de la limitation et des arrêts de traitement qu'elle prévoit visent tous les traitements, quels qu'ils soient.
+
+<<590.61;603.92;fr>>
+Tout d'abord, la loi de 2005 ne porte pas seulement sur les patients en fin de vie, mais aussi sur des patients atteints de maladies graves et incurables dans un état avancé de leur maladie, mais qui ne sont pas obligatoirement en fin de vie.
+
+<<603.92;609.85;fr>>
+C'est ce que rappelle très clairement le rapporteur de la loi, M. Leonetti, dans la contribution écrite qu'il a
+
+<<609.85;612.09;fr>>
+adressée au Conseil d'État.
+
+<<612.09;621.44;fr>>
+Formellement, le dispositif sur les droits des patients s'insère dans un ensemble d'articles du Code de la santé publique, issu de la loi du 4 mars 2002.
+
+<<621.44;631.28;fr>>
+Une première section de portée générale régit la situation des malades qui ne sont pas en fin de vie, alors qu'une autre section traite des droits des malades en fin de vie.
+
+<<631.28;647.52;fr>>
+Concernant les conditions de limitation ou d'arrêt des traitements, la loi appréhende les situations de ces deux catégories de patients en envisageant précisément chaque fois l'hypothèse où ils sont conscients et l'hypothèse où ils ne le sont pas.
+
+<<647.52;660.21;fr>>
+Ainsi, les personnes dans un état végétatif ou dans un état de conscience minimale, même si elles ne sont pas en fin de vie, relèvent des dispositions de la loi de 2005.
+
+<<660.21;669.33;fr>>
+Ensuite, tous les traitements sont concernés, y compris l'alimentation et l'hydratation artificielle.
+
+<<669.33;690.73;fr>>
+L'alimentation et l'hydratation artificielle sont apportées aux patients en réponse à une indication médicale, notamment liée à une insuffisance fonctionnelle du patient, telle que la grande difficulté, voire l'impossibilité de déglutir, et supposent la mise en œuvre de techniques médicales intrusives appropriées à la situation et aux patients.
+
+<<690.73;708.12;fr>>
+On distingue l'hydratation et l'alimentation artificielle par voie entérale, qui consiste à introduire directement les nutriments dans l'estomac, et l'alimentation parentérale, qui s'effectue par une voie intraveineuse et s'applique aux personnes dont le système digestif ne fonctionne plus.
+
+<<708.12;720.88;fr>>
+Dans les deux cas, la nutrition et l'hydratation artificielle constituent des traitements dont la mise en œuvre et la poursuite nécessitent à la fois une prescription médicale et le recours à des techniques médicales.
+
+<<720.88;735.93;fr>>
+La prescription médicale est notamment nécessaire pour instituer la nutrition et l'hydratation, puis les adapter, notamment quant à la combinaison des nutriments et à la composition hydroélectrique de l'hydratation.
+
+<<735.93;745.12;fr>>
+L'alimentation et l'hydratation artificielle ne doivent pas être confondues avec des soins visant à assister le patient dans la réalisation de gestes de la vie quotidienne.
+
+<<745.12;753.09;fr>>
+Elles constituent une intervention d'ordre médical destinée à remédier à une fonction vitale défaillante.
+
+<<753.09;760.32;fr>>
+Une telle intervention nécessite d'ailleurs le consentement du patient lorsqu'il est en état de s'exprimer.
+
+<<760.32;776.88;fr>>
+À l'occasion de la procédure parlementaire précédant l'adoption de la loi, un amendement a été présenté lors de la discussion du texte devant le Sénat visant à exclure l'hydratation et l'alimentation artificielle du champ des traitements susceptibles d'être limités ou interrompus.
+
+<<776.88;782.12;fr>>
+Cet amendement a été rejeté lors de son examen en séance publique.
+
+<<782.12;794.16;fr>>
+Ainsi, la question de l'alimentation et de l'hydratation artificielle a été discutée et le législateur a choisi de ne pas les exclure ni de les traiter de manière différente.
+
+<<794.16;811.85;fr>>
+Le rapport remis au président de la République le 18 décembre 2012 par la Commission de réflexion sur la fin de vie en France confirme d'ailleurs que la loi de 2005 donne aux malades la capacité de refuser tout traitement, ce qui intègre notamment la nutrition et l'hydratation artificielle.
+
+<<811.85;818.49;fr>>
+La France n'est pas la seule à qualifier l'alimentation et l'hydratation artificielle de traitement.
+
+<<818.49;828.37;fr>>
+On peut rappeler à ce titre que lors de son audition par la mission d'information sur la fin de vie en 2004, M. Carlos de Sola, alors chef du service de la bioéthique au
+
+<<828.37;836.76;fr>>
+Conseil de l'Europe, avait indiqué que sur le plan européen, l'alimentation et l'hydratation assistées étaient considérées comme un traitement dans la plupart des pays.
+
+<<836.76;844.45;fr>>
+De nombreuses juridictions étrangères ont d'ailleurs qualifié de traitement l'alimentation et l'hydratation artificielle.
+
+<<844.45;854.05;fr>>
+Tel est le cas de la Cour suprême des Etats-Unis dans un arrêt du 25 juin 1990, Crouzon versus Director Missouri Department of Health.
+
+<<854.05;862.52;fr>>
+C'est le cas de la Chambre des Lords dans une décision du 4 février 1993, Airedale NHS Trust versus Bland.
+
+<<862.52;869.0;fr>>
+C'est le cas de la Cour de cassation italienne dans un arrêt de la troisième Chambre civile du 16 octobre 2007.
+
+<<869.0;874.97;fr>>
+C'est le cas du Bundesgerichtshof dans un arrêt du 17 décembre 2014.
+
+<<874.97;879.4;fr>>
+L'alimentation et l'hydratation artificielle sont donc bien des traitements.
+
+<<879.4;887.85;fr>>
+Comme tout traitement, ils peuvent être interrompus dans les conditions prévues par la loi de 2005 en cas d'obstination déraisonnable.
+
+<<887.85;896.64;fr>>
+En ce qui concerne à présent le contenu de la loi, deux points méritent d'être particulièrement relevés.
+
+<<896.64;903.68;fr>>
+Le principe du refus de l'obstination déraisonnable et celui du respect de la volonté du patient.
+
+<<903.68;909.37;fr>>
+La loi de 2005 pose tout d'abord le principe du refus de l'obstination déraisonnable.
+
+<<909.37;914.73;fr>>
+Autrement dit, le refus de l'acharmement thérapeutique pour tout médecin.
+
+<<914.73;927.16;fr>>
+Dans un tel cas, le médecin est autorisé à prendre une décision de limitation ou d'arrêt d'un traitement à condition que soit respectée certaines garanties procédurales sous le contrôle éventuel du juge.
+
+<<927.16;937.57;fr>>
+C'est l'article 1115 du Code de la santé publique qui prévoit que les actes médicaux ne doivent pas être poursuivis avec une telle obstination.
+
+<<937.57;952.25;fr>>
+Cet article précise que c'est lorsqu'ils apparaissent inutiles, disproportionnés ou n'ayant d'autre effet que le seul maintien artificiel de la vie, que ces actes médicaux peuvent être suspendus ou ne pas être entrepris.
+
+<<952.25;963.76;fr>>
+Dès lors, la décision médicale de limitation ou d'arrêt de traitement, même lorsqu'il s'agit de traitement de suppléance vitale, ne constitue pas une décision d'arrêt de vie.
+
+<<963.76;967.73;fr>>
+En effet, la loi française n'autorise pas l'euthanasie.
+
+<<967.73;970.09;fr>>
+Il s'agit là d'un point essentiel.
+
+<<970.09;992.49;fr>>
+La finalité de la décision médicale de limitation ou d'arrêt de traitement n'est pas d'interrompre la vie, mais de mettre un terme à des traitements que le patient refuse ou, si celui-ci ne peut pas exprimer sa volonté, que le médecin estime, au vu d'éléments médicaux et non médicaux, être constitutif d'une obstination déraisonnable.
+
+<<992.49;1009.0;fr>>
+Dans ces conditions, le médecin n'agit pas dans l'intention de donner la mort, mais la loi lui offre la possibilité d'arrêter tout traitement lorsqu'aucune amélioration ne peut plus être attendue, sous réserve néanmoins d'accompagner son malade, en particulier par des soins palliatifs.
+
+<<1009.0;1013.33;fr>>
+La notion d'obstination déraisonnable est clairement définie par la loi.
+
+<<1013.33;1024.49;fr>>
+Celle-ci vise les actes disproportionnés par rapport aux bénéfices attendus, les actes devenus inutiles ou ceux n'ayant d'autre finalité que le maintien artificiel de la vie.
+
+<<1024.49;1046.33;fr>>
+S'agissant plus particulièrement de la notion de traitement n'ayant pas d'autre effet que le maintien artificiel de la vie du patient, le Conseil national de l'ordre des médecins indiquait dans ses observations devant le Conseil d'État que la poursuite d'un traitement trouve une évidente justification si des signes cliniques ou paracliniques entretiennent la perspective d'une évolution favorable.
+
+<<1046.33;1066.24;fr>>
+En revanche, si l'état pathologique devenu chronique entraîne une détérioration physiologique de la personne et une perte de ses facultés cognitives et relationnelles, l'obstination pourra être considérée comme déraisonnable dès lors qu'aucun signe d'amélioration n'apparaîtrait.
+
+<<1066.25;1091.4;fr>>
+Pour apprécier si les conditions d'une limitation ou d'un arrêt de l'alimentation ou de l'hydratation artificielle sont réunies, des éléments médicaux tels que la gravité des lésions, leur caractère durable et irréversible, l'état de souffrance, la perte des facultés cognitives et relationnelles et l'absence de perspectives d'amélioration sont pris en compte.
+
+<<1091.4;1108.53;fr>>
+Ces éléments médicaux doivent être appréciés sur une période suffisamment longue permettant de prendre en compte l'évolution de l'état du patient depuis l'accident ou la maladie, l'évolution de son état clinique, la prise en compte de sa souffrance, de l'évaluation de son pronostic vital.
+
+<<1108.53;1114.92;fr>>
+Mais l'appréciation de l'obstination déraisonnable ne se limite pas à une dimension strictement médicale.
+
+<<1114.92;1128.25;fr>>
+Entre également en compte des éléments non médicaux et tout particulièrement la volonté du patient lorsqu'elle a été exprimée sous quelque forme que ce soit ainsi que la vie de son entourage.
+
+<<1128.25;1138.57;fr>>
+Par le recours à cette notion d'obstination déraisonnable, la loi garantit que soit prise en compte la singularité de la situation de chaque patient.
+
+<<1138.57;1146.73;fr>>
+L'appréciation de cette notion est résumée par le principe internationalement reconnu de bénéfice global qui relève de l'éthique médicale.
+
+<<1146.73;1153.44;fr>>
+Cette appréciation est fondée sur des éléments médicaux et non médicaux propres à chaque patient.
+
+<<1153.44;1172.85;fr>>
+Ainsi, la circonstance qu'une personne soit dans un état irréversible d'inconscience ou de perte d'autonomie, la rendant tributaire d'une alimentation ou d'une hydratation artificielle, ne saurait caractériser à elle seule une situation d'obstination déraisonnable.
+
+<<1172.85;1181.09;fr>>
+D'autres facteurs tenant au premier chef à la volonté de la personne concernée doivent aussi être pris en compte.
+
+<<1181.09;1189.92;fr>>
+En effet, et ce sera mon second point, la loi de 2005 affirme le principe du respect de la volonté du patient.
+
+<<1189.92;1201.73;fr>>
+Dans sa décision du 24 juin 2014, le Conseil d'État a insisté sur le caractère prépondérant et déterminant d'une éventuelle volonté exprimée préalablement par le patient.
+
+<<1201.73;1215.01;fr>>
+Que cette volonté ait été exprimée soit sous la forme de directives anticipées, soit sous une autre forme, y compris verbale, établie par tous moyens, notamment par le témoignage de ses proches.
+
+<<1215.01;1226.29;fr>>
+En revanche, lorsque cette volonté demeure inconnue, elle ne peut être présumée comme traduisante à un refus du patient d'être maintenu en vie.
+
+<<1226.29;1241.73;fr>>
+Par ailleurs, et même lorsque le patient a pris des dispositions alors qu'il était conscient, une procédure collégiale doit être mise en œuvre pour appréhender au mieux sa volonté et consulter ses proches sur la décision à prendre.
+
+<<1241.73;1254.61;fr>>
+À ce titre, le médecin doit prendre en compte l'avis de la personne de confiance lorsqu'elle a été désignée par le patient, l'avis des membres de sa famille ou, à défaut, de l'un de ses proches.
+
+<<1254.61;1265.49;fr>>
+La collégialité de la procédure aboutissant à la décision médicale de limiter ou d'arrêter un traitement constitue une garantie effective et substantielle.
+
+<<1265.49;1277.53;fr>>
+En effet, la loi de 2005 impose d'éclairer la réflexion engagée par le médecin en charge du patient par la concertation avec l'équipe de soins, par le recueil de l'avis d'un autre médecin au moins.
+
+<<1277.53;1284.64;fr>>
+Il ne doit exister d'ailleurs aucun lien de nature hiérarchique entre le médecin en charge du patient et le consultant.
+
+<<1284.64;1291.85;fr>>
+Par ailleurs, l'avis motivé d'un deuxième consultant est demandé par ses médecins si l'un d'eux l'estime utile.
+
+<<1291.85;1310.4;fr>>
+Cependant, afin de ne pas diluer la responsabilité et de respecter l'exigence de transparence qu'une pluralité de décideurs ne permettrait pas, la décision d'interruption ou de limitation du traitement est au final prise par le médecin en charge du patient.
+
+<<1310.4;1323.33;fr>>
+Mais si la décision appartient au médecin, son appréciation et l'application des garanties procédurales entourant la prise de cette décision sont placées sous le strict contrôle du juge.
+
+<<1323.33;1330.72;fr>>
+En effet, la décision de limiter ou d'interrompre le traitement d'un patient est susceptible de faire l'objet d'un recours juridictionnel.
+
+<<1330.72;1341.85;fr>>
+Ce recours peut notamment prendre la forme d'un référé, conduisant le juge des référés, le cas échéant en formation collégiale, à statuer à bref délai sur le recours.
+
+<<1341.85;1350.85;fr>>
+Lorsque le juge administratif est saisi, y compris en référé, il exerce un entier contrôle sur le respect des conditions posées par la loi.
+
+<<1350.85;1364.64;fr>>
+Dès lors, la Cour pourra constater que la législation française entoure la possibilité de limiter ou d'interrompre un traitement de garanties qui sont particulièrement renforcées lorsque le patient est hors d'état d'exprimer sa volonté.
+
+<<1364.64;1376.61;fr>>
+Ces garanties permettent la prise en compte de la singularité de chaque situation par l'appréciation d'éléments médicaux et non médicaux, sans établir de hiérarchie entre eux.
+
+<<1376.61;1388.68;fr>>
+Ainsi, la loi française est parfaitement conforme, notamment aux préconisations du guide du Conseil de l'Europe, sur le processus décisionnel relatif aux traitements médicaux dans les situations de fin de vie.
+
+<<1388.68;1400.12;fr>>
+La loi française concilie de manière équilibrée le droit au respect de la vie et le droit de toute personne de ne plus subir un traitement médical qui traduirait une obstination déraisonnable.
+
+<<1400.12;1408.8;fr>>
+Cette conciliation permet que la loi soit mise en œuvre dans des conditions qui sont conformes aux exigences conventionnelles.
+
+<<1408.8;1413.72;fr>>
+Et j'en viens à ce sujet au cas particulier de M. Vincent Lambert.
+
+<<1413.72;1422.4;fr>>
+L'ensemble des conditions et garanties exigées par la loi ont, dans ce cas, été respectées compte tenu de sa situation propre.
+
+<<1422.4;1431.96;fr>>
+Le Conseil d'État, par sa décision du 24 juin 2014, s'est attaché à vérifier scrupuleusement ces éléments.
+
+<<1431.96;1438.32;fr>>
+S'agissant tout d'abord des éléments médicaux, pris en compte dans l'appréciation de l'obstination déraisonnable.
+
+<<1438.32;1448.2;fr>>
+Le Conseil d'État a ordonné une expertise médicale afin de pouvoir se prononcer à la lumière des informations médicales les plus récentes et les plus précises.
+
+<<1448.2;1470.88;fr>>
+Cette expertise médicale a été confiée à un collège de trois médecins, parmi les meilleurs spécialistes en France de neurosciences, désignés sur proposition, respectivement, du président de l'Académie nationale de médecine, du président du comité consultatif d'éthique et du président du Conseil national de l'ordre des médecins.
+
+<<1470.88;1478.81;fr>>
+Du rapport d'expertise remis par ce collège, il ressort que, je cite, l'état clinique actuel de M. Lambert correspond à un état
+
+<<1478.81;1491.2;fr>>
+végétatif, avec des troubles de la dégludition, une atteinte motrice sévère des quatre membres, quelques signes de dysfonctionnement du tronc cérébral et une autonomie respiratoire préservée.
+
+<<1491.2;1499.16;fr>>
+Le rapport d'expertise constate une dégradation de l'état de conscience de M. Vincent Lambert par rapport au bilan effectué en
+
+<<1499.16;1504.09;fr>>
+juillet 2011 au Coma Science Group du centre hospitalier de Liège.
+
+<<1504.09;1530.48;fr>>
+Le rapport d'expertise relève également que les explorations cérébrales auxquelles il a été procédé ont mis en évidence des lésions cérébrales graves et étendues, se traduisant notamment par une atteinte sévère et irréversible des zones majeures pour le fonctionnement du cerveau, qu'il s'agisse des zones réflexes ou des zones impliquées dans la conscience et de l'absence de toute communication entre ces zones.
+
+<<1530.48;1535.4;fr>>
+À cet égard, M. Vincent Lambert présente des réactions réflexes.
+
+<<1535.4;1540.72;fr>>
+Celles-ci ne sont pas significatives d'une évolution vers un état de conscience.
+
+<<1540.72;1547.8;fr>>
+C'est le cas, par exemple, des signes de déglutition qui ont été observés par les experts désignés par le Conseil d'État.
+
+<<1547.81;1550.73;fr>>
+Je tiens à noter que si M. Vincent Lambert conserve un réflexe
+
+<<1550.73;1558.81;fr>>
+de déglutition, celui-ci est limité et ne lui permet pas de s'alimenter sans recours complémentaire à des moyens artificiels.
+
+<<1558.81;1575.4;fr>>
+Selon le rapport d'expertise, la sévérité de l'atrophie cérébrale et les lésions observées conduisent, avec le délai de plus de cinq ans écoulé depuis l'accident initial, à estimer les lésions cérébrales irréversibles et à conclure à un mauvais pronostic clinique.
+
+<<1575.4;1583.37;fr>>
+Cette conclusion implique l'absence de toute perspective d'évolution favorable compte tenu de l'irréversibilité et de la gravité des lésions.
+
+<<1583.37;1595.0;fr>>
+Au vu de ces éléments, le Conseil d'État a estimé que les conclusions des experts confirmaient celles du médecin en charge du patient en ce qui concerne la gravité, le caractère irréversible des lésions et d'autre part le pronostic clinique.
+
+<<1595.0;1601.68;fr>>
+Le Conseil d'État en a conclu que le médecin en charge du patient avait pu estimer que l'alimentation et l'hydratation artificielle prodiguée à M.
+
+<<1601.68;1606.4;fr>>
+Vincent Lambert n'avaient pas d'autre effet que de le maintenir artificiellement en vie.
+
+<<1606.4;1610.09;fr>>
+Mais outre ces éléments médicaux, le Conseil d'État a recherché si M.
+
+<<1610.09;1614.48;fr>>
+Vincent Lambert avait préalablement exprimé une volonté.
+
+<<1614.48;1621.96;fr>>
+Pour déterminer l'existence d'une telle volonté, le Conseil d'État s'est livré à un examen détaillé d'éléments de fait précisément établis.
+
+<<1621.96;1624.48;fr>>
+Ainsi, le Conseil d'État a pu relever que M.
+
+<<1624.48;1634.96;fr>>
+Vincent Lambert avait clairement et à plusieurs reprises exprimé le souhait de ne pas être maintenu artificiellement en vie dans l'hypothèse où il se trouverait dans un état de grande dépendance.
+
+<<1634.96;1636.44;fr>>
+La teneur des propos de M.
+
+<<1636.44;1642.32;fr>>
+Vincent Lambert a été rapportée de façon précise par son épouse et confirmée par l'un de ses frères.
+
+<<1642.32;1644.24;fr>>
+En outre, plusieurs des frères et sœurs de M.
+
+<<1644.24;1653.56;fr>>
+Vincent Lambert ont indiqué que ses propos correspondaient à la personnalité, à l'histoire et aux opinions personnelles de leurs frères.
+
+<<1653.56;1654.2;fr>>
+Par ailleurs, M.
+
+<<1654.2;1664.44;fr>>
+Vincent Lambert, dans le cadre de son activité professionnelle d'infirmier psychiatrique et à l'occasion de stages en unité de soins palliatifs, s'était occupé de personnes très diminuées.
+
+<<1664.44;1666.05;fr>>
+Dans ces conditions, M.
+
+<<1666.05;1670.61;fr>>
+Vincent Lambert ne pouvait pas ignorer la portée des souhaits qu'il exprimait.
+
+<<1670.61;1671.44;fr>>
+Les propos de M.
+
+<<1671.44;1680.64;fr>>
+Vincent Lambert, datés et circonstanciés, n'ont pas été contredits par les membres de la famille opposés à la décision médicale d'interruption de traitement.
+
+<<1680.64;1694.64;fr>>
+Ainsi, c'est à la lumière de ces éléments de fait convergents et établis avec précision que le Conseil d'État a estimé que la décision d'interruption du traitement ne procédait pas d'une interprétation inexacte des souhaits manifestés par M.
+
+<<1694.64;1697.68;fr>>
+Vincent Lambert avant son accident.
+
+<<1697.68;1706.57;fr>>
+Enfin, le Conseil d'État s'est assuré que le médecin en charge du patient avait correctement pris en considération les avis des membres de la famille de M.
+
+<<1706.57;1711.16;fr>>
+Vincent Lambert, tels qu'ils s'étaient exprimés lors de la procédure collégiale.
+
+<<1711.16;1721.73;fr>>
+À ce titre, le Conseil d'État a pu relever que deux conseils de famille avaient été tenus le 27 septembre et le 16 novembre 2013, réunissant l'épouse de M.
+
+<<1721.73;1725.81;fr>>
+Vincent Lambert, ses parents, ses huit frères et soeurs.
+
+<<1725.81;1726.4;fr>>
+L'épouse de M.
+
+<<1726.4;1737.45;fr>>
+Vincent Lambert et six de ses frères et soeurs se sont prononcés pour l'interruption du traitement, tandis que ses parents ainsi qu'une de ses soeurs et un de ses frères se sont prononcés en sens contraire.
+
+<<1737.45;1744.77;fr>>
+Au vu de tout ce qui précède, la décision d'arrêt de la nutrition et de l'hydratation artificielle de M.
+
+<<1744.77;1753.57;fr>>
+Vincent Lambert ne constitue pas une violation des obligations substantielles découlant de l'article 2 de la Convention.
+
+<<1753.57;1766.2;fr>>
+Le processus décisionnel ayant conduit à cette décision et la procédure qui a suivi ont également parfaitement respecté les obligations procédurales inhérentes à l'article 2 de la Convention.
+
+<<1766.2;1777.0;fr>>
+S'agissant de l'article 3, les requérants estiment que la privation de nourriture et d'hydratation constitue un traitement contraire aux dispositions de cet article.
+
+<<1777.0;1798.44;fr>>
+Sur ce sujet, il convient de rappeler qu'en cas d'arrêt d'un traitement dont la poursuite constituerait une obstination déraisonnable, tant le Code de la santé publique que le Code de déontologie médicale assurent le respect de la dignité du patient et prennent en compte la souffrance morale de ses proches.
+
+<<1798.44;1811.52;fr>>
+Ainsi, le Code de la santé publique prévoit que le médecin sauvegarde la dignité du patient et assure la qualité de sa vie en lui dispensant les soins palliatifs nécessaires.
+
+<<1811.52;1829.25;fr>>
+Cette obligation est complétée par le Code de la déontologie médicale qui impose aux médecins d'assurer par des soins et mesures appropriées la qualité d'une vie qui prend fin, de sauvegarder la dignité du malade et de réconforter son entourage.
+
+<<1829.25;1850.57;fr>>
+Je citerai notamment l'article 37 du Code de déontologie médicale qui prévoit que lorsqu'un arrêt de traitement a été décidé, le médecin, même si la souffrance ne peut pas être évaluée du fait de son état cérébral, met en œuvre les traitements ontalgiques et sédatifs permettant de l'accompagner.
+
+<<1850.57;1867.2;fr>>
+Le rapport d'information de la mission d'évaluation de la loi de 2005 a d'ailleurs précisé que l'obligation de préserver la dignité du patient exclut qu'un arrêt de nutrition et d'hydratation artificielle soit décidé sans que soient immédiatement prodiguées des soins palliatifs.
+
+<<1867.2;1886.12;fr>>
+L'ensemble de ces obligations du médecin envers son patient en cas d'interruption d'un traitement ont été rappelées par le Conseil d'État dans sa décision du 24 juin 2014 et sont parfaitement mises en œuvre dans la décision médicale d'interruption de l'alimentation et de l'hydratation artificielle de M. Vincent Lambert.
+
+<<1886.12;1903.4;fr>>
+Sa décision médicale indique que toutes les mesures seront prises pour éviter l'inconfort et la souffrance éventuelle du patient et prévoir des mesures d'accompagnement pour les proches et les membres de la famille, conformément à ce qu'exige la législation.
+
+<<1903.4;1906.4;fr>>
+M. Vincent Lambert bénéficiera de toute l'expertise des
+
+<<1906.4;1918.73;fr>>
+professionnels de santé de l'unité de soins palliatifs, qui est attenante à l'unité spécialisée dans l'accueil des patients en état végétatif chronique où il est actuellement hospitalisé.
+
+<<1918.73;1923.92;fr>>
+Il bénéficiera de l'ensemble des traitements ontalgiques et sédatifs.
+
+<<1923.92;1927.09;fr>>
+Par ailleurs, la décision indique que les proches de M.
+
+<<1927.09;1941.05;fr>>
+Vincent Lambert seront accompagnés par l'équipe médicale ainsi que par des psychologues et des représentants du culte et qu'une équipe de soins palliatifs d'un autre établissement sera à la disposition des membres de la famille opposés à cette décision.
+
+<<1941.05;1947.05;fr>>
+Par conséquent, la mise en œuvre de la décision d'arrêt de nutrition et d'hydratation artificielle de M.
+
+<<1947.05;1956.01;fr>>
+Vincent Lambert ne constitue pas un traitement contraire aux dispositions de l'article 3 de la Convention.
+
+<<1956.01;1961.61;fr>>
+Pour conclure sur cette affaire douloureuse, et je réitère que toutes nos pensées vont à M.
+
+<<1961.61;1983.2;fr>>
+Vincent Lambert et aux membres de sa famille, je vous invite à considérer que l'État a fait un usage approprié de sa marge d'appréciation et à ménager un juste équilibre entre le droit au respect de la vie et le droit de toute personne de ne pas subir un traitement médical qui traduirait une obstination déraisonnable.
+
+<<1983.2;1983.2;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1986.19;1989.07;fr>>
+Merci, Monsieur Alabrune.
+
+<<1989.07;1990.99;fr>>
+Je donne la parole à Maitre Paillot.
+
+[[Applicant;AP2]]
+
+<<2000.05;2015.89;fr>>
+Monsieur le Président, Mesdames, Messieurs les Juges, je remercie tout d'abord votre cours d'avoir bien voulu retenir cette affaire en urgence et permis que nous plaidions rapidement pour le compte de Vincent et des requérants.
+
+<<2017.89;2032.59;fr>>
+Nous vous demandons que vous constatiez l'existence de graves violations des articles 2, 3, 6 et 8 de la Convention, violations réalisées au détriment de Vincent Lambert et des requérants.
+
+<<2034.31;2056.79;fr>>
+C'est sans doute un des cas les plus graves que vous ayez aujourd'hui à juger concernant la France, car au-delà de la situation de Vincent Lambert, c'est la situation d'environ 1 700 personnes en France qui se trouvent exactement dans le même état de santé que Vincent Lambert qui se joue aujourd'hui.
+
+<<2056.79;2060.31;fr>>
+Vincent Lambert a 38 ans.
+
+<<2060.31;2064.39;fr>>
+Il est doublement handicapé à la suite d'un accident de moto.
+
+<<2064.39;2066.41;fr>>
+Il est tétraplégique.
+
+<<2066.41;2072.79;fr>>
+Il est par ailleurs dans un état dit de conscience altérée du fait de ses lésions au cerveau.
+
+<<2072.79;2076.11;fr>>
+Vincent est sorti du coma.
+
+<<2076.11;2080.79;fr>>
+Il a des phases d'éveil et des phases de sommeil, comme vous et moi.
+
+<<2080.79;2084.91;fr>>
+Il est sensible au son.
+
+<<2084.91;2089.47;fr>>
+Il tourne la tête quand on lui parle.
+
+<<2089.47;2097.79;fr>>
+Il y a un lien qui se crée entre lui et les personnes qui viennent le visiter au quotidien.
+
+<<2097.79;2101.87;fr>>
+Vincent ne reçoit aucun traitement médicamenteux.
+
+<<2101.87;2105.43;fr>>
+Il n'a pas besoin de respirateur artificiel.
+
+<<2105.43;2109.83;fr>>
+Il n'est relié à aucune machine.
+
+<<2109.83;2114.63;fr>>
+La situation de santé de Vincent est stable.
+
+<<2114.63;2118.35;fr>>
+Elle pourrait même s'améliorer.
+
+<<2118.35;2131.35;fr>>
+J'en veux pour preuve le fait que peu avant l'expertise judiciaire ordonnée par le Conseil d'État, Vincent a recommencé à déglutir seul.
+
+<<2131.35;2140.59;fr>>
+Jusqu'alors et depuis cinq ans, Vincent ne pouvait plus déglutir, même pas sa salive.
+
+<<2140.59;2146.03;fr>>
+Or, peu avant le début de cette expertise, il a recommencé à déglutir seul.
+
+<<2146.03;2157.71;fr>>
+Les experts s'en sont rendus compte et ont dit, dans leur rapport, « Vincent déglutit mal », ce qui ne permet pas de reprendre une alimentation normale.
+
+<<2157.71;2161.43;fr>>
+Mais voilà, il a recommencé à déglutir.
+
+<<2161.43;2173.75;fr>>
+Il y a deux jours, sa mère lui a fait goûter un peu de yaourt afin que l'alimentation puisse rester pour lui un plaisir.
+
+<<2173.75;2180.15;fr>>
+La situation des personnes ayant des lésions au cerveau est par ailleurs un petit peu particulière.
+
+<<2180.15;2184.67;fr>>
+Si on vous coupe un bras, c'est définitif à 100%.
+
+<<2184.67;2187.91;fr>>
+Le bras ne peut pas repousser.
+
+<<2187.91;2196.39;fr>>
+Les atteintes au cerveau ne sont, pour leur part, jamais considérées comme définitives.
+
+<<2196.39;2209.99;fr>>
+L'expérience humaine, l'expérience médicale, permet de dire qu'au bout d'un certain temps, les chances de retrouver ses potentialités intellectives se réduisent fortement.
+
+<<2209.99;2214.95;fr>>
+L'accident de Vincent a eu lieu il y a six ans maintenant.
+
+<<2214.95;2224.95;fr>>
+On peut légitimement dire que ces chances de retrouver toutes ces capacités intellectives sont devenues très faibles.
+
+<<2224.95;2230.31;fr>>
+Mais on ne peut pas dire qu'elles sont inexistantes.
+
+<<2230.31;2239.95;fr>>
+Et souvent, sans retrouver toutes ces capacités, une personne dans la situation de Vincent peut en retrouver certaines.
+
+<<2239.95;2248.91;fr>>
+Nous ne sommes, quoi qu'il arrive, pas dans une situation d'irréversibilité à 100%.
+
+<<2248.91;2255.11;fr>>
+Vincent est-il dans un état végétatif ou post-relationnel?
+
+<<2255.11;2259.43;fr>>
+En réalité, on n'emploie plus aujourd'hui ces deux vocables.
+
+<<2259.43;2271.35;fr>>
+On parle désormais plutôt d'éveil sans réponse, l'état végétatif, et l'état de conscience minimale, notre ancien état post-relationnel.
+
+<<2271.35;2277.19;fr>>
+En fait, cette distinction entre ces deux états est extrêmement difficile à poser.
+
+<<2277.19;2287.11;fr>>
+Et la marge d'erreur entre ces deux états est considérée comme étant de l'ordre de 40%.
+
+<<2287.11;2305.79;fr>>
+Notre comité d'éthique français a ici rappelé avec force, dans son rapport, que l'absence de preuve d'une conscience chez une personne ne constitue pas une preuve d'une absence de conscience.
+
+<<2305.79;2313.71;fr>>
+Aucun signe de conscience chez un homme ne signifie pas que cet homme n'a pas de conscience.
+
+<<2313.71;2327.23;fr>>
+C'est pourquoi les personnels médicaux appliquent de la même façon tous leurs soins aux personnes dites en état de conscience altérée, qu'ils soient en état d'éveil sans réponse ou de conscience minimale.
+
+<<2327.23;2339.71;fr>>
+Vous noterez d'ailleurs que le médecin qui a décidé d'arrêter l'alimentation entérale de Vincent l'a fait alors que lui-même considérait Vincent comme étant en état possirelationnel.
+
+<<2339.71;2360.47;fr>>
+Déterminer donc ceux qui mériteraient de vivre les possirelationnels et ceux qui pourraient être supprimés, les végétatifs, n'a absolument aucun sens, parce que la barrière entre ces deux états est une barrière floue et parce que cette barrière peut évoluer.
+
+<<2360.47;2392.71;fr>>
+Notre comité consultatif national d'éthique, quoi qu'il arrive, et si l'on devait considérer Vincent Lambert comme étant en état végétatif, notre comité consultatif national d'éthique l'a dit avec force, les malades en état végétatif sont des êtres humains qui ont d'autant plus droit au respect dû à la personne humaine qu'ils se trouvent dans un état de profonde fragilité.
+
+<<2392.71;2394.79;fr>>
+Vincent est-il en fin de vie?
+
+<<2394.79;2396.59;fr>>
+Non, pas du tout.
+
+<<2396.59;2401.83;fr>>
+Vincent peut continuer à vivre dans l'état dans lequel il est pendant encore de nombreuses années.
+
+<<2401.83;2406.03;fr>>
+Vincent fait partie du monde des vivants.
+
+<<2406.03;2407.91;fr>>
+Vincent est-il malade?
+
+<<2407.91;2411.95;fr>>
+Non, ces handicaps ne sont pas des maladies.
+
+<<2411.95;2416.75;fr>>
+Vincent est une personne handicapée.
+
+<<2416.75;2418.79;fr>>
+Vincent souffre-t-il?
+
+<<2418.79;2420.47;fr>>
+Non plus.
+
+<<2420.47;2422.99;fr>>
+On a dit beaucoup d'erreurs sur le sujet.
+
+<<2422.99;2424.43;fr>>
+Vincent ne souffre pas.
+
+<<2424.43;2430.35;fr>>
+Les experts judiciaires nous l'ont encore confirmé devant le Conseil d'État.
+
+<<2430.35;2437.27;fr>>
+Les handicaps de Vincent ne constituent pas par eux-mêmes des occasions de douleur.
+
+<<2437.27;2446.35;fr>>
+Vincent peut être mal placé dans son lit, il peut être gêné, et c'est tout l'art des personnes qui prennent soin de lui de le soulager.
+
+<<2446.35;2451.75;fr>>
+Mais ces handicaps ne constituent pas des douleurs.
+
+<<2451.75;2456.75;fr>>
+Vincent est alimenté par une sonde gastrique.
+
+<<2456.75;2466.91;fr>>
+On lui a pratiqué une petite opération très simple et placé au niveau de son estomac un clapet qui permet d'insérer et d'enlever une sonde.
+
+<<2466.91;2477.79;fr>>
+Ce système est très pratique car il permet en réalité à une personne handicapée de ne pas être obligée de rester dans un établissement de soins.
+
+<<2477.79;2482.39;fr>>
+Ainsi, Vincent a pu assister au mariage d'une de ses sœurs.
+
+<<2482.39;2491.87;fr>>
+Vincent ou toute autre personne dans son état peut aller en famille, passer des vacances dans sa famille, chez ses parents.
+
+<<2491.87;2497.87;fr>>
+Il peut sortir de cet hôpital dans lequel il se trouve.
+
+<<2497.87;2502.59;fr>>
+L'alimentation entérale suppose un traitement.
+
+<<2502.59;2508.03;fr>>
+Cette petite opération par laquelle on place le clapet.
+
+<<2508.03;2521.75;fr>>
+Tous les soins quotidiens consistant à mettre la sonde et à enlever la sonde ne peuvent pas être considérés comme des traitements, ce sont des soins ordinaires.
+
+<<2521.75;2538.11;fr>>
+Or précisément, le médecin de Vincent a considéré que celui-ci serait dans une situation d'acharnement thérapeutique ou plus précisément d'obstination déraisonnable et a cru pouvoir prendre seul la décision d'arrêter cette alimentation.
+
+<<2538.11;2549.71;fr>>
+Nous contestons que Vincent soit dans une situation d'obstination déraisonnable du seul fait de mettre ou d'enlever cette sonde alimentaire.
+
+<<2549.71;2562.31;fr>>
+Nous estimons que Vincent, handicapé, a le droit d'être soigné et que les soins ordinaires dus à toute personne incluent son alimentation, sa vie, y compris entérale.
+
+<<2562.31;2575.83;fr>>
+Vous noterez ici, on vous l'a rappelé il y a un instant, que le droit français interdit le recours à l'euthanasie, que le droit français, au contraire, encourage l'application des soins palliatifs à toute personne.
+
+<<2575.83;2591.23;fr>>
+Et enfin, on ne vous l'a pas dit, je vous le précise, le droit français oblige à ce qu'un projet de vie soit élaboré pour chaque personne se trouvant dans un établissement de soins en France.
+
+<<2591.23;2596.95;fr>>
+Or, Vincent Lambert ne bénéficie d'aucun de ces points.
+
+<<2596.95;2603.67;fr>>
+Ce qu'on veut pratiquer sur lui, c'est en réalité une euthanasie qui ne dit pas son nom.
+
+<<2603.67;2613.67;fr>>
+On lui refuse certains soins palliatifs, la kinésithérapie, le fait de le sortir de son lit, de le vêtir, de le placer dans un fauteuil adapté.
+
+<<2613.67;2617.23;fr>>
+Cela lui est refusé sans aucune raison.
+
+<<2617.23;2619.83;fr>>
+On n'a pas mis en place un projet de vie.
+
+<<2619.83;2625.71;fr>>
+Le seul projet qui concerne Vincent, c'est un projet de mort.
+
+<<2625.71;2646.87;fr>>
+Je voudrais enfin préciser ici, à titre préalable, que pour certains, il serait justifié de mettre fin à la vie d'un patient en état de conscience altérée parce que celui-ci serait réduit à une simple vie biologique et en réalité ne serait déjà plus un humain.
+
+<<2646.87;2661.63;fr>>
+Monsieur le Président, Mesdames, Messieurs les juges, votre Cours ne peut pas accepter cette idée terrifiante qu'un homme puisse être qualifié d'infrahumain.
+
+<<2661.63;2663.63;fr>>
+Ce n'est déjà plus un homme.
+
+<<2663.63;2668.67;fr>>
+Il est en dessous de la qualité d'humain.
+
+<<2668.67;2688.67;fr>>
+Si nous devions admettre que certains êtres puissent perdre leur qualité de personne ou puissent perdre leur qualité d'humain, alors c'est la dignité de tous les handicapés qui est ici remise en question.
+
+<<2688.67;2696.15;fr>>
+Ce serait une immense régression sociale et dont votre Cours porterait la responsabilité.
+
+<<2696.15;2706.59;fr>>
+Notre société ne peut pas fonctionner comme le fameux jeu télévisé que l'on voit dans notre pays qui s'appelle le maillon faible.
+
+<<2706.59;2712.71;fr>>
+C'est un jeu dans lequel le plus mauvais des candidats est éliminé.
+
+<<2712.71;2723.19;fr>>
+Dans notre société, le maillon faible doit être accompagné, soigné, entouré, porté.
+
+<<2723.19;2735.51;fr>>
+Et c'est tout l'honneur du Conseil de l'Europe que de rappeler régulièrement l'importance et même l'urgence qu'il y a à respecter les droits fondamentaux des personnes handicapées.
+
+<<2735.51;2744.11;fr>>
+Alors quelles sont, en quelques mots, les violations que nous évoquons?
+
+<<2744.11;2751.27;fr>>
+J'en évoquerai quatre et je laisserai le choix à maître Triomphe de terminer leur présentation.
+
+<<2751.27;2757.11;fr>>
+Premier point, l'insécurité juridique qui entoure cette loi Leonetti.
+
+<<2757.11;2761.63;fr>>
+Les principes fondamentaux posés par la loi Leonetti sont bons.
+
+<<2761.63;2763.39;fr>>
+Nous ne les contestons pas.
+
+<<2763.39;2772.59;fr>>
+Il est légitime d'arrêter un traitement qui serait devenu disproportionné, qui serait devenu déraisonnable.
+
+<<2772.59;2777.75;fr>>
+Mais la question n'est pas là en ce qui concerne Vincent Lambert.
+
+<<2777.75;2785.71;fr>>
+Première insécurité, rien ne permettait de dire que la loi Leonetti s'appliquerait aux handicapés.
+
+<<2785.71;2789.71;fr>>
+C'est une loi qui est prévue pour les malades et les personnes en fin de vie.
+
+<<2789.71;2792.07;fr>>
+C'est le titre même de cette loi.
+
+<<2792.07;2797.71;fr>>
+Or, le Conseil d'État a dit, oui, cette loi est applicable aux personnes handicapées.
+
+<<2797.71;2807.47;fr>>
+Il se trouve malheureusement qu'un certain nombre d'éléments et de critères de cette loi ne sont pas adaptés aux handicapés et c'est tout le drame de ce dossier.
+
+<<2807.47;2813.95;fr>>
+Deuxième insécurité, la loi Leonetti a prévu, en réalité, deux types de soins.
+
+<<2813.95;2820.23;fr>>
+Les soins qu'on a tendance à appeler des traitements par simplification de vocabulaire.
+
+<<2820.23;2830.95;fr>>
+Ces soins peuvent être arrêtés selon un certain nombre de critères lorsqu'on estime être en présence d'une situation déraisonnable.
+
+<<2830.95;2832.79;fr>>
+Soins qui peuvent être arrêtés.
+
+<<2832.79;2844.63;fr>>
+Et dans le même article, ce fameux article L1110-5 du Code de la santé publique, on évoque d'autres soins, les soins qui, eux, ne peuvent pas être arrêtés.
+
+<<2844.63;2849.39;fr>>
+Les soins palliatifs, qu'on appelle également les soins ordinaires.
+
+<<2849.39;2863.87;fr>>
+Eh bien, notre loi Leonetti, c'est la deuxième insécurité juridique qu'elle instaure, ne donne aucune définition des soins qui peuvent être arrêtés et des soins qui ne peuvent pas être arrêtés.
+
+<<2863.87;2869.23;fr>>
+Ne trace aucune frontière entre ceux qui peuvent être arrêtés et ceux qui ne le sont pas.
+
+<<2869.23;2871.75;fr>>
+Où place-t-on l'alimentation entérale?
+
+<<2871.75;2875.47;fr>>
+Dans les soins qui peuvent être arrêtés ou dans les soins palliatifs?
+
+<<2875.47;2877.19;fr>>
+La loi n'y répond pas.
+
+<<2877.19;2881.75;fr>>
+Et personne n'est en mesure de le dire, si ce n'est par une interprétation.
+
+<<2881.75;2884.07;fr>>
+C'est une insécurité.
+
+<<2884.07;2886.31;fr>>
+Troisième insécurité.
+
+<<2886.31;2897.67;fr>>
+La loi a prévu trois critères afin de déterminer ce que l'on peut entendre par un soin devenu déraisonnable.
+
+<<2897.67;2909.15;fr>>
+Le troisième critère utilisé, qui est le seul retenu par le Conseil d'État, est le soin qui n'aurait d'autre effet que le maintien artificiel de la vie.
+
+<<2909.15;2919.99;fr>>
+Personne n'est capable de dire aujourd'hui ce que signifie un soin n'ayant d'autre effet que le maintien artificiel de la vie.
+
+<<2919.99;2924.63;fr>>
+Ce maintien artificiel de la vie, personne ne sait ce que cela signifie.
+
+<<2924.63;2943.03;fr>>
+Le Conseil d'État a été obligé de demander au Comité consultatif national d'éthique ce qu'il en pensait, à l'Académie nationale de médecine, au Conseil de l'ordre national des médecins et à M. Leonetti, rapporteur de cette loi dont nous parlons.
+
+<<2943.03;2947.63;fr>>
+C'est bien la preuve que ce critère est en réalité mal rédigé.
+
+<<2947.63;2948.99;fr>>
+Des exemples.
+
+<<2948.99;2959.07;fr>>
+Un pacemaker est un acte de soin, un traitement, qui n'a d'autre effet que le seul maintien artificiel de la vie.
+
+<<2959.07;2965.55;fr>>
+Le fait de donner de l'insuline à une personne n'a d'autre effet que le maintien artificiel de sa vie.
+
+<<2965.55;2972.27;fr>>
+Et on ne va pas arrêter de donner d'insuline à un patient ou on ne va pas enlever le pacemaker d'un patient.
+
+<<2972.27;2973.95;fr>>
+Cela n'aurait aucun sens.
+
+<<2973.95;2984.75;fr>>
+Vous le voyez, il y a là une grande insécurité qui laisse une immense marge d'interprétation aux médecins et ceci n'est pas admissible.
+
+<<2984.75;2988.51;fr>>
+Deuxième point.
+
+<<2988.51;2997.27;fr>>
+L'alimentation est selon nous un soin et son défaut est une maltraitance.
+
+<<2997.27;3014.27;fr>>
+Tout notre droit vient au secours des personnes les plus fragiles, les plus faibles, les personnes incapables, les enfants, les majeurs protégés, les handicapés, les vieillards.
+
+<<3014.27;3020.51;fr>>
+Parmi les besoins fondamentaux de tout être humain, il y a le fait de se nourrir et de s'hydrater.
+
+<<3020.51;3027.15;fr>>
+Ne pas nourrir quelqu'un, ne pas l'hydrater, constitue une maltraitance.
+
+<<3027.15;3032.79;fr>>
+Alors comment protéger au mieux les personnes en état de particulière vulnérabilité?
+
+<<3032.79;3038.75;fr>>
+Et bien précisément, d'obliger à ce que ces personnes soient alimentées.
+
+<<3038.75;3040.35;fr>>
+Comment le faire?
+
+<<3040.35;3053.91;fr>>
+En considérant que l'alimentation et l'hydratation relèvent de la dignité des personnes et par conséquent qu'elles doivent être nécessairement classées parmi les soins palliatifs.
+
+<<3053.91;3062.43;fr>>
+Au demeurant, mettre une sonde, enlever une sonde, ce n'est pas véritablement un acte médical.
+
+<<3062.43;3073.71;fr>>
+De nombreux patients qui sont chez eux, qui sont accueillis par le conjoint ou par des parents ou par des enfants, savent parfaitement mettre et enlever une sonde.
+
+<<3073.71;3075.35;fr>>
+On n'est pas dans le traitement.
+
+<<3075.35;3081.79;fr>>
+On est dans le soin le plus normal et le plus ordinaire.
+
+<<3081.79;3085.91;fr>>
+Je vais prendre une image pour essayer de vous faire comprendre.
+
+<<3085.91;3095.67;fr>>
+Si l'on admettait comme possible le fait que l'alimentation entérale par sonde puisse être arrêtée.
+
+<<3095.67;3105.99;fr>>
+Alors, si on peut enlever une sonde alimentaire, on peut tout aussi bien enlever une sonde urinaire.
+
+<<3105.99;3109.95;fr>>
+Le patient ne pourra plus rejeter ses excréments.
+
+<<3109.95;3111.99;fr>>
+Sa vessie va éclater.
+
+<<3111.99;3117.07;fr>>
+Une infection va se provoquer et le patient va mourir.
+
+<<3117.07;3131.03;fr>>
+Et le médecin va regarder ce spectacle sans rien faire, parce qu'il aura administré au patient, à titre préalable, une sédation profonde.
+
+<<3131.03;3143.55;fr>>
+Monsieur le Président, Mesdames, Messieurs, vous le comprenez facilement, en refusant d'alimenter Vincent, on crée volontairement un traumatisme qui va le tuer.
+
+<<3143.55;3152.03;fr>>
+On n'accompagne pas ici une fin de vie, on provoque cette fin de vie.
+
+<<3152.03;3159.23;fr>>
+Troisième point, l'alimentation artificielle, en réalité, ça n'existe pas.
+
+<<3159.23;3167.11;fr>>
+Ce qui existe, comme le gouvernement français vous l'a rappelé, c'est l'alimentation entérale et l'alimentation parentérale.
+
+<<3167.11;3175.83;fr>>
+L'alimentation parentérale se fait par voie intraveineuse, par une piqûre en intraveineuse de nutriments.
+
+<<3175.83;3185.15;fr>>
+Ce type d'alimentation très particulier peut éventuellement, en effet, être considéré comme un traitement.
+
+<<3185.15;3196.91;fr>>
+Il empêche, il évite au patient la déglutition et tout le système de la digestion, au contraire de l'alimentation entérale.
+
+<<3196.91;3201.83;fr>>
+Il implique un suivi médical extrêmement important.
+
+<<3201.83;3204.11;fr>>
+Ce n'est pas le cas de l'alimentation entérale.
+
+<<3204.11;3220.47;fr>>
+Et donc, faire en sorte que toute alimentation artificielle puisse être considérée comme un traitement est en réalité un jugement sans nuance et qui ne correspond pas à la réalité de la pratique médicale.
+
+<<3220.47;3228.55;fr>>
+Monsieur le Président, Mesdames, Messieurs, qu'est-ce qui empêche aujourd'hui de continuer à soigner Vincent et à l'alimenter?
+
+<<3228.55;3229.91;fr>>
+Rien.
+
+<<3229.91;3231.91;fr>>
+Il est possible d'agir autrement.
+
+<<3231.91;3239.23;fr>>
+De nombreux établissements de soins sont en mesure d'accueillir Vincent et de continuer à le soigner.
+
+<<3239.23;3260.79;fr>>
+Il en existe un juste à côté de chez nous, à 3 km d'ici, à Oberhausbergen, un établissement de soins spécialisé pour personnes en état de conscience altérée, des patients en état végétatif, des patients en état post-relationnel et qui sont alimentés normalement.
+
+<<3260.79;3267.91;fr>>
+Au demeurant, pourquoi ne pas commencer avec Vincent par tenter d'améliorer sa déglutition?
+
+<<3267.91;3274.27;fr>>
+Il déglutit mal, certes, mais il a recommencé à déglutir.
+
+<<3274.27;3278.31;fr>>
+Quatrième et dernier point que je vais évoquer rapidement devant vous.
+
+<<3278.31;3292.59;fr>>
+Si jamais vous deviez considérer l'alimentation entérale comme un traitement, alors pourquoi notre procédure dite collégiale doit-elle encore s'appliquer telle qu'elle est?
+
+<<3292.59;3295.43;fr>>
+Notre procédure n'est en réalité pas collégiale.
+
+<<3295.43;3298.11;fr>>
+Elle est collégiale dans le recueil d'avis.
+
+<<3298.11;3301.19;fr>>
+Elle n'est pas collégiale dans la décision.
+
+<<3301.19;3311.67;fr>>
+Si l'on devait amener à arrêter l'alimentation d'une personne handicapée, cette décision ne peut pas revenir au médecin seul.
+
+<<3311.67;3320.15;fr>>
+Cette décision doit absolument et impérativement être collégiale, prise par le médecin et par la famille.
+
+<<3320.15;3328.27;fr>>
+C'est le seul moyen pour vous d'être sûr d'éviter des procédures à n'en plus finir.
+
+<<3328.27;3334.27;fr>>
+La règle de droit doit avoir pour conséquence de réunir les familles et non de les diviser.
+
+<<3334.27;3340.99;fr>>
+Elle doit avoir pour conséquence d'apaiser et non de créer la discorde.
+
+<<3340.99;3341.99;fr>>
+Je vous remercie.
+
+<<3341.99;3342.99;fr>>
+Je laisse la parole à Maitre Tri.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3347.7;3350.5;fr>>
+Merci, maître Paillot.
+
+<<3350.66;3352.94;fr>>
+Je donne la parole à maître Triomphe.
+
+[[Applicant;AP1]]
+
+<<3353.29;3364.73;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, Ce n'est pas sans émotion que devant vous, pour la quatrième fois, je me lève pour défendre la vie d'un homme, Vincent Lambert.
+
+<<3364.73;3368.05;fr>>
+Trois fois, la justice française nous a donné raison.
+
+<<3368.05;3375.25;fr>>
+Vous avez vous-même, par vos mesures provisoires, sauvé la vie de Vincent Lambert, qui était menacée de manière imminente.
+
+<<3375.25;3380.29;fr>>
+Et par votre décision, nous vous demanderons de la sauver de manière définitive.
+
+<<3380.29;3385.01;fr>>
+En complément de Maître Payot, je ferai trois séries d'observations avant de conclure.
+
+<<3385.01;3391.17;fr>>
+Mes premières observations portent sur l'absence de preuves et de garanties concernant la prétendue volonté de Vincent.
+
+<<3391.17;3404.85;fr>>
+Ce que réclame votre jurisprudence pour faire respecter le principe d'autodétermination, c'est la preuve de la volonté éclairée, exprimée et actuelle de celui qui dit qu'il veut mourir.
+
+<<3404.85;3406.85;fr>>
+Elle n'existe pas ici.
+
+<<3406.85;3417.69;fr>>
+Comme affirmé, Vincent Lambert, pendant dix ans, savait parfaitement que la loi lui permettait de désigner une personne de confiance et de donner des directives anticipées.
+
+<<3417.69;3420.01;fr>>
+Il n'a fait ni l'un ni l'autre.
+
+<<3420.01;3426.17;fr>>
+Pourtant, le Conseil d'État a cru déterminer cette volonté dans les seules déclarations de Rachel, sa jeune épouse.
+
+<<3426.17;3432.93;fr>>
+Ce faisant, la France, avec la loi Léonetti et cette décision du Conseil d'État, n'offre aucune garantie à ses citoyens.
+
+<<3432.93;3434.33;fr>>
+Aucune.
+
+<<3434.33;3449.33;fr>>
+Ainsi, Rachel Lambert est à la fois celle qui demande en justice la mort de Vincent Lambert et celle qui se fait le témoin de ses volontés, au mépris de la règle selon laquelle personne ne peut se créer une preuve à soi-même.
+
+<<3449.33;3454.57;fr>>
+Cela est d'autant plus inacceptable quand le témoignage que l'on retient est incohérent et contradictoire.
+
+<<3454.57;3460.73;fr>>
+Nous l'avons écrit, nous l'avons plaidé, mais le Conseil d'État ne nous a pas répandu.
+
+<<3460.73;3468.05;fr>>
+A titre d'illustration sur ces garanties que vous devez exiger s'agissant de la vie d'un homme, voilà la réalité objective.
+
+<<3468.05;3475.05;fr>>
+Depuis février 2013, Rachel Lambert nous dit que Vincent Lambert n'aurait jamais voulu vivre dans cette situation.
+
+<<3475.05;3481.37;fr>>
+Mais pourquoi, dans ce cas-là, si c'était vrai, a-t-elle attendu cinq ans pour le dire?
+
+<<3481.37;3484.97;fr>>
+C'est le premier doute qui naît à ce moment-là.
+
+<<3484.97;3495.01;fr>>
+Lorsqu'elle a rapporté ses prétendues volontés en 2013, c'était pour valider la décision qui était prise par le Dr Carrigère de faire mourir Vincent Lambert.
+
+<<3495.01;3497.61;fr>>
+Ce sont des propos de circonstance.
+
+<<3497.61;3502.13;fr>>
+C'est là que naît la deuxième suspicion.
+
+<<3502.13;3514.05;fr>>
+Et le Conseil d'État est allé chercher une tentative de confirmation dans une attestation, celle de Joseph, un frère, qui dit « Ah oui, moi, il m'avait dit qu'il ne voudrait pas vivre dans cet état. »
+
+<<3514.05;3519.45;fr>>
+Et comme aucun de nous tous, personne ne veut vivre autrement que de la manière la plus valide possible.
+
+<<3519.45;3521.09;fr>>
+C'est une évidence.
+
+<<3521.09;3532.09;fr>>
+Mais Joseph, dans cette attestation floue, auquel le Conseil d'État n'a pas répondu quand nous l'avons soulevé, dans cette attestation, il n'y a rien.
+
+<<3532.09;3532.77;fr>>
+Il n'y a rien.
+
+<<3532.77;3541.57;fr>>
+Il y a d'autant moins quelque chose que les cinq autres frères qui soutiennent pourtant la demande de mort, aucun n'a entendu de tel propos.
+
+<<3541.57;3543.41;fr>>
+Aucun.
+
+<<3543.41;3550.93;fr>>
+Mais surtout, Rachel a tenu six séries de propos flous et totalement contradictoires les uns avec les autres.
+
+<<3550.93;3562.61;fr>>
+Et vous ne pouvez pas, il est impossible pour un juge d'envoyer quelqu'un à la mort en se contentant d'un témoignage flou et incohérent en avril 2013.
+
+<<3562.61;3566.45;fr>>
+Elle déclarait que Vincent n'aurait pas accepté un maintien en vie artificielle.
+
+<<3566.45;3567.45;fr>>
+C'est une première version.
+
+<<3567.45;3571.61;fr>>
+Huit mois plus tard, il m'avait demandé de le piquer, donc de l'euthanasier.
+
+<<3571.61;3573.29;fr>>
+C'est une deuxième version.
+
+<<3573.29;3576.57;fr>>
+La troisième version, c'était il y a deux mois.
+
+<<3576.57;3591.93;fr>>
+Dans le magazine Téléstar, vous l'aurez retrouvé sur Internet, 14 novembre 2014, Rachel Lambert dit « Vincent souhaitait qu'on le laisse partir comme nous avons décidé de le faire, en lui supprimant son alimentation. »
+
+<<3591.93;3593.85;fr>>
+Comment peut-on croire cela?
+
+<<3593.85;3602.73;fr>>
+Comment peut-on croire qu'alors qu'il est valide, il aurait dit « je veux que tu me supprimes mon alimentation et mon hydratation si je dois être dans cette situation? »
+
+<<3602.73;3605.13;fr>>
+C'est une troisième version.
+
+<<3605.13;3609.69;fr>>
+Et puis nous avons trois nouvelles versions qui ont trois jours.
+
+<<3609.69;3619.37;fr>>
+Dans la presse, Rachel Lambert, à l'agence France Presse, déclare « Cette situation était insupportable pour lui par rapport à ce qu'il était. »
+
+<<3619.37;3623.05;fr>>
+On ne parle plus de propos, on parle de ce qu'il était.
+
+<<3623.05;3624.65;fr>>
+Elle est dans l'interprétation.
+
+<<3624.65;3634.25;fr>>
+Et puis une autre déclaration subjective, le 4 janvier, elle déclare, toujours à l'agence France Presse, « C'était une évidence qu'il n'aurait pas voulu être comme ça. »
+
+<<3634.25;3635.85;fr>>
+Une évidence.
+
+<<3635.85;3637.85;fr>>
+On est dans le subjectif.
+
+<<3637.85;3642.89;fr>>
+Et c'est sur ce seul témoignage que le Conseil d'Etat a envoyé Vincent Lambert à la mort.
+
+<<3642.89;3647.45;fr>>
+Et la dernière, elle date d'il y a deux jours, le 5 janvier 2015.
+
+<<3647.45;3648.65;fr>>
+C'est tout frais.
+
+<<3648.65;3656.25;fr>>
+Dans l'union presse de Reims, que vous retrouverez également sur internet, Vincent préférait partir que de subir cette situation.
+
+<<3656.25;3661.05;fr>>
+On n'est plus dans les propos qu'il aurait tenus, on est dans la préférence.
+
+<<3661.05;3668.49;fr>>
+Comment pouvez-vous accepter qu'on envoie un homme à la mort sur de tels éléments, sur une telle absence de garantie?
+
+<<3668.49;3681.85;fr>>
+La réalité, je ne lui jette pas la pierre, mais il faut bien dire les choses, la réalité c'est que je crois que Rachel Lambert a imaginé ce que serait la volonté de son mari en l'interprétant.
+
+<<3681.85;3686.21;fr>>
+Voici donc ce que la France accepte comme élément de preuve.
+
+<<3686.21;3690.89;fr>>
+Pour envoyer un homme vulnérable et sans défense à la mort.
+
+<<3690.89;3693.53;fr>>
+Aucun écrit, aucun enregistrement.
+
+<<3693.53;3699.81;fr>>
+Aucune autre chose qu'une interprétation de propos, c'est le terme employé par le Conseil d'Etat.
+
+<<3699.81;3705.01;fr>>
+Interprétation, je valide l'interprétation du docteur Carégère.
+
+<<3705.01;3714.45;fr>>
+Différentes versions et des propos vagues qui n'ont rien à voir avec la suppression aujourd'hui qu'on vous demande de l'alimentation et de l'hydratation.
+
+<<3714.45;3717.85;fr>>
+Comment pourriez-vous accepter cela? Cela n'est pas possible.
+
+<<3717.85;3724.29;fr>>
+Vous ne pouvez pas accepter une telle absence de preuve et une telle absence de garantie s'agissant de la vie d'un homme.
+
+<<3724.29;3730.93;fr>>
+À cet égard, je voudrais répondre à la Clinique du droit qui est intervenue volontairement sur votre autorisation.
+
+<<3730.93;3739.33;fr>>
+La Clinique du droit ne s'est pas trompé dans cette affaire en disant qu'il s'agissait d'une affaire d'euthanasie, dont je vous rappelle qu'elle est interdite en France.
+
+<<3739.33;3749.37;fr>>
+Mais la Clinique du droit vous dit qu'il y a beaucoup de règles différentes dans les pays européens dans les modalités de recueil du consentement et de la preuve du consentement.
+
+<<3749.37;3759.57;fr>>
+Donc votre cours, dit la Clinique du droit, doit laisser une large marge d'appréciation aux Etats dans ces modalités de recueil du consentement.
+
+<<3759.57;3761.57;fr>>
+Mais ce n'est pas acceptable.
+
+<<3761.57;3783.41;fr>>
+Autant vous laissez une large marge d'appréciation aux Etats concernant la question de l'euthanasie, autant vous devez réclamer des exigences minimales et en réalité maximales pour être certain de la volonté d'un homme dont on réclame le respect de l'autodétermination.
+
+<<3783.41;3785.61;fr>>
+Vous ne pouvez pas l'accepter.
+
+<<3785.61;3788.93;fr>>
+Vous devez exiger ces garanties.
+
+<<3788.93;3794.61;fr>>
+Ma deuxième série d'observations, qui sera plus rapide, porte sur la question de l'impartialité.
+
+<<3794.61;3802.13;fr>>
+Nous sommes ici devant une décision du Conseil d'État français qui a validé une décision de faire mourir Vincent Lambert, du docteur Carrigère.
+
+<<3802.13;3805.21;fr>>
+Je ne parlerai pas de l'expertise judiciaire.
+
+<<3805.21;3807.53;fr>>
+Nous avons développé cela dans nos écritures.
+
+<<3807.53;3830.53;fr>>
+Mais, et c'est un des nœuds du problème, quand vous avez un médecin qui prend une décision qui concerne la vie d'un homme et que cette décision est permise par la loi française et qu'elle est en plus validée et rendue exécutoire par la justice française, les principes de l'article 6 de la CEDH, évidemment, doivent s'appliquer pleinement.
+
+<<3830.53;3831.73;fr>>
+C'est une évidence.
+
+<<3831.73;3838.09;fr>>
+On doit réclamer du décisionnaire, seul décisionnaire, puisqu'il ne doit rendre de compte à personne.
+
+<<3838.09;3841.65;fr>>
+Le médecin décide seul en application de la loi française.
+
+<<3841.65;3846.05;fr>>
+Il faut exiger de lui une impartialité totale.
+
+<<3846.05;3849.69;fr>>
+Et en l'espèce, cette impartialité fait totalement défaut.
+
+<<3849.69;3868.93;fr>>
+Quand le docteur Carrigère a pris sa première décision de faire mourir Vincent Lambert, en avril 2013, et que cette décision a été annulée le 11 mai 2013, nous étions avec les parents et David, son frère, à l'hôpital pour vérifier, évidemment, que l'alimentation avait été reprise après 31 jours d'arrêt.
+
+<<3868.93;3872.33;fr>>
+Et là, le docteur Carrigère nous a dit « J'étais présent.
+
+<<3872.33;3877.37;fr>>
+De toute manière, je vais recommencer, mais cette fois, j'ai bien compris, je vous écouterai. »
+
+<<3877.37;3878.97;fr>>
+Je vais recommencer.
+
+<<3878.97;3881.81;fr>>
+Et ce ne sont pas les propos que je rapporte.
+
+<<3881.81;3884.69;fr>>
+Il existe un livre qui n'existe pas encore.
+
+<<3884.69;3887.41;fr>>
+Ça s'appelle « Ma vérité sur l'affaire Vincent Lambert ».
+
+<<3887.41;3888.93;fr>>
+Il est rédigé par Éric Carrigère.
+
+<<3888.93;3893.69;fr>>
+Ce livre n'existe pas, car il doit sortir demain, après votre audience.
+
+<<3893.69;3895.61;fr>>
+Je n'aurais jamais dû l'avoir entre les mains.
+
+<<3895.61;3897.25;fr>>
+Et pourtant, je l'ai entre les mains.
+
+<<3897.25;3909.01;fr>>
+Et le docteur Carrigère a fait l'aveu dans ce livre, en page 52, qu'il a effectivement dit le 11 mai 2013 « De toute manière, je vais recommencer ».
+
+<<3909.01;3925.53;fr>>
+C'est-à-dire que vous avez dans la loi française, la loi Leonetti, une obligation de procédure de réflexion collégiale qui est destinée à permettre aux médecins de réfléchir à la meilleure solution avant de prendre sa décision qui peut envoyer un homme à la mort.
+
+<<3925.53;3929.65;fr>>
+Et bien le docteur Carrigère nous a dit « Je reprendrai la même décision ».
+
+<<3929.65;3935.65;fr>>
+Il l'avoue dans ce livre que vous n'auriez jamais dû connaître et que je n'aurais jamais dû connaître avant cette audience.
+
+<<3935.65;3938.13;fr>>
+Et il l'a déclaré dans la presse.
+
+<<3938.13;3952.25;fr>>
+Quatre fois, avant d'engager sa deuxième procédure collégiale, quatre fois, il a dit « Il faut maintenant arrêter, il faut reprendre la même décision » avant d'engager cette procédure collégiale.
+
+<<3952.25;3963.05;fr>>
+C'est ce qu'appelle le Conseil d'État, c'est ce qu'il appelle une procédure parfaitement régulière et une impartialité parfaitement régulière de la part du docteur Carrigère.
+
+<<3963.05;3965.89;fr>>
+Vous sanctionnez des impartialités beaucoup moins manifestes.
+
+<<3965.89;3967.77;fr>>
+Comment pourriez-vous accepter?
+
+<<3967.77;3979.93;fr>>
+Qui pourrait accepter qu'un juge puisse juger un homme alors qu'il annoncerait dans la presse publiquement la décision qu'il va prendre avant que le débat contradictoire ait lieu?
+
+<<3979.93;3981.45;fr>>
+Ce n'est pas acceptable.
+
+<<3981.45;3984.13;fr>>
+Vous ne pouvez pas l'accepter.
+
+<<3984.13;3999.41;fr>>
+J'en viens à la troisième et dernière observation et je conclurai, qui concerne la situation invraisemblable de Vincent Lambert.
+
+<<3999.41;4005.45;fr>>
+Le docteur Carrigère, et j'en ai bientôt terminé, a quitté Reims depuis six mois.
+
+<<4005.45;4007.25;fr>>
+Il n'est plus au hôpital de Reims.
+
+<<4007.25;4011.77;fr>>
+Rachel Lambert, l'épouse de Vincent, a quitté Reims pour la Belgique il y a 18 mois.
+
+<<4011.77;4015.85;fr>>
+Aujourd'hui, ce sont les parents qui sont tous les jours au chevet de Vincent Lambert.
+
+<<4015.85;4017.13;fr>>
+Tous les jours.
+
+<<4017.13;4018.49;fr>>
+C'est eux qui avaient choisi l'hôpital.
+
+<<4018.49;4020.21;fr>>
+Rachel a approuvé ce choix.
+
+<<4020.21;4032.73;fr>>
+Ils ont trouvé cette place, comme on vous a dit, à Aubert Haus Bergen, dans cette unité de vie spécialisée où on s'occupe des patients comme Vincent Lambert.
+
+<<4032.73;4036.37;fr>>
+En 2013, le docteur Carrigère avait refusé ce transfert pour une seule raison.
+
+<<4036.37;4037.65;fr>>
+Rachel était à Reims.
+
+<<4037.65;4039.33;fr>>
+Or, Rachel n'est plus à Reims.
+
+<<4039.33;4041.13;fr>>
+Le docteur Carrigère n'est plus à Reims.
+
+<<4041.13;4048.17;fr>>
+Les parents ont redemandé à partir à Aubert Haus Bergen et l'hôpital refuse.
+
+<<4048.17;4050.29;fr>>
+Mais cela, vous ne pouvez pas l'accepter.
+
+<<4050.29;4056.21;fr>>
+L'hôpital refuse de laisser partir Vincent Lambert en attendant votre décision pour qu'il soit enfin soigné.
+
+<<4056.21;4057.25;fr>>
+De quel droit?
+
+<<4057.25;4058.69;fr>>
+Du droit du plus fort.
+
+<<4058.69;4059.41;fr>>
+Pourquoi?
+
+<<4059.41;4070.29;fr>>
+Parce que la loi française n'a rien prévu et l'hôpital de Reims, aujourd'hui, se comporte comme le propriétaire de Vincent Lambert pour, en attendant, espère-t-il peut-être de le faire mourir.
+
+<<4070.29;4074.49;fr>>
+Vous ne pouvez pas l'accepter alors qu'il y a une solution.
+
+<<4074.49;4078.53;fr>>
+Dans cet hôpital, on soignerait Vincent, on prendrait soin de lui.
+
+<<4078.53;4090.45;fr>>
+Et il existe des cas où des personnes dans son état ont évolué favorablement parce qu'on prenait soin d'eux au premier rang desquels, évidemment, la kinésithérapie qui lui est refusée depuis deux ans.
+
+<<4090.45;4092.69;fr>>
+Je conclue.
+
+<<4092.69;4097.01;fr>>
+Votre tâche est lourde parce qu'elle est grande, mais elle est simple.
+
+<<4097.01;4104.25;fr>>
+Il vous suffit de rappeler un principe selon lequel le doute doit toujours profiter à la vie.
+
+<<4104.25;4106.13;fr>>
+Aujourd'hui, que demande le citoyen?
+
+<<4106.13;4114.33;fr>>
+Il demande qu'on le respecte sa volonté, mais il ne veut surtout pas qu'on décide à sa place et que l'on fasse part de ses prétendues volontés.
+
+<<4114.33;4122.05;fr>>
+Et nous avons eu des multiples témoignages en ce sens des gens qui, aujourd'hui, ont peur.
+
+<<4122.05;4130.49;fr>>
+Lorsqu'un citoyen est victime d'une injustice, il dit j'irai à la Cour européenne parce qu'il a confiance en vous, parce que nous avons confiance en vous.
+
+<<4130.49;4143.37;fr>>
+Si vous rejetiez notre requête, vous condamneriez tout simplement Vincent Amor par la suppression de ce que son corps réclame simplement de manger et d'être hydraté.
+
+<<4143.37;4151.77;fr>>
+Plus personne ne comprendrait votre rôle et l'on se demanderait où pourrais-je enfin chercher refuge alors que vous êtes le dernier des remparts.
+
+<<4151.77;4162.69;fr>>
+Alors je vous le dis aujourd'hui, très solennellement, nous ne nous battons pas pour un légume, nous ne nous battons pas contre la volonté de Vincent que personne ne peut connaître.
+
+<<4162.69;4164.77;fr>>
+Nous nous battons pour un être humain.
+
+<<4164.77;4172.33;fr>>
+Mais certains de ceux qui réclament la mort aujourd'hui se battent pour obtenir la mort de Vincent Lambert parce qu'ils considèrent qu'il n'est plus un être humain.
+
+<<4172.33;4183.33;fr>>
+C'est cette déclaration du docteur Véronique Fournier, médecin-conseil de Rachel, et j'en ai terminé, qui a dit Vincent Lambert n'est plus une personne, il est gommé.
+
+<<4183.33;4201.53;fr>>
+Et bien c'est parce qu'il est un être humain, c'est parce qu'il est vulnérable et sans défense, parce qu'il n'a rien demandé à personne, et parce que vous êtes la Cour des droits de l'être humain, que vous défendrez sa vie et que vous le rendrez à ceux qui veulent l'aimer en prenant soin de lui, ici à Aubert-Ausbergal.
+
+<<4201.53;4201.53;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4202.64;4208.96;fr>>
+Merci, merci maître Triomphe. Je donne maintenant la parole à maître Munier-Apaire.
+
+[[ThirdParty;TP1]]
+
+<<4212.98;4228.66;fr>>
+Monsieur le Président, mesdames, messieurs les juges, je remercie la Cour de donner la parole à une partie de la famille de Vincent Lambert, particulièrement affectée par le drame humain puis judiciaire qui perdure depuis plus d'un an.
+
+<<4228.66;4240.46;fr>>
+Aux côtés de Marie Geneviève et François Lambert, que je représente, cinq frères et sœurs de Vincent se sont associés publiquement, sinon judiciairement, à cette intervention.
+
+<<4240.46;4254.34;fr>>
+Joseph, Marie, Frédéric, Gui-Noël et Dominique vous ont interpellés en juillet 2014 dans une tribune publiée à l'AFP pour vous dire leur accord avec les termes de la décision du Conseil d'État.
+
+<<4254.34;4262.94;fr>>
+Sachez que cette décision, aussi douloureuse soit-elle, ils l'ont lue et reçue avec soulagement.
+
+<<4262.94;4273.94;fr>>
+Car les juges y ont constaté d'une part que Vincent Lambert était en état végétatif, l'expression est certes pénible mais elle est médicalement exacte.
+
+<<4273.94;4280.22;fr>>
+D'autre part, le mauvais pronostic clinique posé unanimement par les experts.
+
+<<4280.22;4295.22;fr>>
+Mais aussi et surtout, ils ont vérifié que la décision de ne pas maintenir en vie artificielle Vincent était conforme à la volonté qu'il avait exprimée plusieurs fois à Rachel, son épouse, et à son frère Joseph.
+
+<<4295.22;4306.86;fr>>
+Et enfin, ils ont recherché et constaté que cette volonté correspondait bien à sa personnalité, son histoire et à ses convictions personnelles.
+
+<<4306.86;4311.78;fr>>
+Autrement dit, la décision du Conseil d'État est unique et singulière.
+
+<<4311.78;4316.98;fr>>
+Elle a été prise dans l'intérêt et pour Vincent Lambert.
+
+<<4316.98;4334.14;fr>>
+Cette décision est pourtant critiquée devant vous, par un recours dont nous contestons le bien fondé, mais surtout l'intérêt et la qualité à agir des requérants, car ce sont leurs propres intérêts et leurs convictions qu'ils défendent ici, et non ceux de Vincent.
+
+<<4334.14;4337.38;fr>>
+Je ferai six observations à cet égard.
+
+<<4337.38;4348.7;fr>>
+En premier lieu, vous avez jugé dans l'affaire Koch contre Allemagne que le droit à décider librement de sa vie est si fondamental et si éminemment personnel qu'il n'est pas transférable.
+
+<<4348.7;4354.86;fr>>
+En conséquence, les requérants ne peuvent pas invoquer ce droit au nom de Vincent Lambert.
+
+<<4354.86;4378.74;fr>>
+En deuxième lieu, ils ne peuvent pas plus invoquer une violation des articles 2, 3 et 8 en leur propre nom ni au nom de Vincent, car le droit à la vie, qui induit celui d'une fin de vie digne, n'est pas transférable et les requérants n'allèguent ni ne prouvent aucune atteinte à leur vie ni aucun traitement inhumain et dégradant qu'ils subiraient personnellement.
+
+<<4378.74;4388.7;fr>>
+En troisième lieu, le seul fait que le recours émane de la famille proche ne suffit pas à caractériser leur qualité et intérêt à agir devant vous.
+
+<<4388.7;4403.62;fr>>
+Selon vos arrêts Salins contre Espagne ou Koch contre Allemagne, les requérants doivent justifier d'une proximité particulière, de liens effectivement étroits avec la victime prétendue.
+
+<<4403.62;4408.18;fr>>
+Or ici, le dossier démontre que Vincent n'était pas proche des requérants.
+
+<<4408.18;4412.82;fr>>
+Il ne partageait ni leurs convictions ni leur mode de vie.
+
+<<4412.82;4421.66;fr>>
+En quatrième lieu surtout, les requérants ne démontrent pas qu'ils agissent conformément à la volonté et à l'intérêt de Vincent.
+
+<<4421.66;4442.58;fr>>
+C'est pourtant capital, car aucun tiers fut-il un père ou une mère ne peut s'accaparer les droits de l'homme d'autrui ni se prétendre victime devant la cour s'il n'établit pas au préalable qu'un de ses proches est ou a été victime directe d'une violation de ses droits fondamentaux.
+
+<<4442.58;4445.7;fr>>
+Cette preuve manque ici.
+
+<<4445.7;4455.46;fr>>
+En cinquième lieu, et c'est tout le paradoxe, ce recours est diamétralement contraire à la position qui aurait été celle de Vincent.
+
+<<4455.46;4467.82;fr>>
+Le dossier et l'arrêt du Conseil d'État démontrent que les droits fondamentaux de Vincent, issus des articles 2, 3 et 8, ont bien été recherchés et respectés par les médecins, puis par les juges.
+
+<<4467.82;4484.98;fr>>
+Qu'il s'agisse du droit de déterminer librement de sa vie, du droit de ne pas subir un maintien en vie artificiel, mais aussi du droit de refuser ce qui constituait, à ses yeux d'infirmier, un traitement dégradant qu'il refusait pour lui-même.
+
+<<4484.98;4494.78;fr>>
+Ainsi, il est clair que jamais Vincent n'aurait reproché à l'État français d'avoir fait respecter ses droits fondamentaux.
+
+<<4494.78;4500.3;fr>>
+Ce que Vincent n'aurait pas fait, ses parents ne peuvent le faire.
+
+<<4500.3;4504.98;fr>>
+Cet obstacle domine, même s'il est invoqué, une atteinte à la vie.
+
+<<4504.98;4521.98;fr>>
+Car vous jugez que l'article 2 n'est pas autonome et doit se combiner avec l'article 8, qui implique le droit de vivre librement sa vie, et donc aussi celle de refuser de subir un maintien en vie artificielle, sans aucun espoir.
+
+<<4521.98;4533.14;fr>>
+En sixième lieu, le Conseil d'État a constaté que Vincent jugeait pour lui-même, dégradant et inhumain, le maintien artificiel dans l'État de dépendance qui est le sien aujourd'hui.
+
+<<4533.14;4542.94;fr>>
+Et il a relevé que les requérants n'avaient jamais allégé le contraire, ni démontré que Vincent leur aurait fait part de souhaits différents.
+
+<<4542.94;4552.3;fr>>
+Dès lors, par ce recours suspensif, ce sont en réalité eux qui méconnaissent les articles 3 et 8.
+
+<<4552.3;4562.62;fr>>
+En vain, ils prétendent à une violation du droit à la vie de Vincent Lambert et par voie de conséquence à leur vie de parent, en soutenant qu'il serait handicapé.
+
+<<4562.62;4565.66;fr>>
+Les conclusions des experts sont formelles.
+
+<<4565.66;4582.46;fr>>
+Vincent est actuellement en état végétatif chronique, avec des lésions cérébrales sévères et irréversibles, une perte du réflexe de la déglutition, qui impose un traitement par hydratation et alimentation artificielle.
+
+<<4582.46;4592.74;fr>>
+Et ils ont conclu à un mauvais pronostic clinique, en excluant par là même qu'il soit victime d'un éventuel Lockheedine syndrome.
+
+<<4592.74;4607.9;fr>>
+Ainsi, malheureusement, Vincent n'est pas seulement handicapé, il est gravement malade et il mourra de ses propres défaillances, corporelles, auxquelles il ne sera plus supplé.
+
+<<4607.9;4613.06;fr>>
+C'est cette réalité que les requérants refusent d'accepter.
+
+<<4613.06;4618.34;fr>>
+C'est faussement qu'ils s'interrogent sur la volonté actuelle de Vincent.
+
+<<4618.34;4624.22;fr>>
+Cette question ne se pose pas, car Vincent n'a plus ni conscience ni volonté.
+
+<<4624.22;4627.82;fr>>
+Il est en état végétatif chronique.
+
+<<4627.82;4638.46;fr>>
+Et même si techniquement il est vrai, le maintien en vie artificielle pourrait encore durer des semaines ou des mois, la loi du 22 avril 2005 lui était bien applicable.
+
+<<4638.46;4650.78;fr>>
+Car cette loi est claire, elle s'applique expressément aux malades et à la fin de vie, et reconnaît à tous le droit de refuser par avance tout acharnement thérapeutique.
+
+<<4650.78;4659.66;fr>>
+Le Conseil de l'Europe en a fait de même dans son guide sur le processus décisionnel relatif aux traitements médicaux dans les situations de fin de vie.
+
+<<4659.66;4674.94;fr>>
+Lui aussi garantit à tout patient atteint d'une maladie chronique ou à progression lente, et qui ne peut pas ou plus participer à la décision, que ses souhaits précédemment exprimés seront intégrés au processus décisionnel.
+
+<<4674.94;4682.78;fr>>
+Ce dernier argument de la fin de vie n'est donc fondé ni en droit interne, ni au regard du guide du Conseil de l'Europe.
+
+<<4682.78;4689.58;fr>>
+Alors certes, on comprend la douleur des parents, mais Vincent est aujourd'hui âgé de 38 ans.
+
+<<4689.58;4693.26;fr>>
+Il a quitté il y a bien longtemps son père et sa mère.
+
+<<4693.26;4696.34;fr>>
+Il est marié à Rachel, qui est ici aujourd'hui.
+
+<<4696.34;4698.02;fr>>
+Il est père d'un enfant.
+
+<<4698.02;4703.34;fr>>
+Sa vie privée n'appartient qu'à lui, et vous êtes les derniers garants de son respect.
+
+<<4703.34;4706.94;fr>>
+Vous êtes les défenseurs de ses droits fondamentaux.
+
+<<4706.94;4713.94;fr>>
+Il est temps que cesse cet acharnement judiciaire qui conduit à un acharnement thérapeutique déraisonnable.
+
+<<4713.94;4721.3;fr>>
+Il est temps de laisser enfin partir Vincent, simplement, dignement, humainement, comme il l'a toujours souhaité.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4726.3;4728.62;fr>>
+Merci, maître Munier-Apaire.
+
+<<4728.62;4730.22;fr>>
+Je donne la parole à maître Pettiti.
+
+[[ThirdParty;TP2]]
+
+<<4731.49;4765.53;fr>>
+Président, Mesdames et Messieurs les juges de la Grande Chambre, Si la pluralité des conceptions entourant la fin de vie dans les États membres du Conseil de l'Europe a été rappelée à juste titre par l'Institut international des droits de l'homme dans ses observations écrites, votre cours a affirmé dans la réasse contre Suisse que le droit à la vie, garantie par l'article 2 de la Convention, valeur suprême dans l'échelle des droits de l'homme, oblige les États à mettre en place une procédure propre, à assurer qu'une décision de mettre fin à sa vie, correspondre bien à la libre volonté de l'intéresser.
+
+<<4765.53;4776.77;fr>>
+L'obligation de protection de la vie de l'article 2 devant être tempérée par l'autonomie personnelle telle que votre cours l'a reconnu au titre de l'article 8.
+
+<<4776.77;4831.45;fr>>
+La nécessité pour l'État de rechercher un équilibre entre le respect d'une obligation de protection de la vie à l'égard de l'individu contre lui-même, y compris, et le respect de l'autonomie personnelle de l'individu à travers son droit de refuser un traitement médical, caractérise les dispositions de la loi française du 22 avril 2005, modifiant l'article 1110-5 du Code de la Santé Publique, disposition que votre cours regardera comme compatible avec les stipulations de l'article 2 de la Convention, au terme desquelles le droit de toute personne à la vie est protégé par la loi, la mort ne peut être infligée à quiconque intentionnellement, ainsi qu'avec celle de son article 8 garantissant le droit au respect de la vie privée et familiale.
+
+<<4831.45;4852.29;fr>>
+Ce droit au refus du traitement, votre cours l'a affirmé dans l'arrêt prétis contre le Royaume-Uni du 29 juillet 2002, au terme duquel une personne peut revendiquer le droit d'exercer son choix de mourir en refusant de consentir à un traitement qui pourrait avoir pour effet de prolonger sa vie.
+
+<<4852.29;4881.25;fr>>
+Dans cette affaire, vous vous êtes référé à un arrêt de la Chambre des Lords qui a été précédemment cité par le représentant du gouvernement français, Erdal contre Blande, qui a donné à la Chambre des Lords l'occasion d'interrompre l'alimentation artificielle d'un jeune homme qui se trouvait dans un état végétatif permanent par suite de blessures subies au cours des meutes survenues pendant un match de football.
+
+<<4881.25;4900.85;fr>>
+Lord de Gauffe soulignait l'euthanasie passive peut être légale dans le cas où le médecin respecte la volonté de son patient en interrompant le traitement ou les soins, ou même dans certains cas où le patient n'est pas en mesure d'accorder ou de refuser son consentement.
+
+<<4900.85;4912.77;fr>>
+Ce droit au refus a été rattaché au droit au respect de la vie privée, un droit qui, selon votre cours, autorise toute personne à décider de quelle manière et à quel moment sa vie doit prendre fin.
+
+<<4912.77;4923.89;fr>>
+L'arrêt Grosse contre Suisse, selon votre jurisprudence actuelle, il est donc nécessaire de s'assurer du consentement du patient à travers une procédure encadrant son expression.
+
+<<4923.89;4927.41;fr>>
+Vincent Lambert est hors d'état d'exprimer sa volonté.
+
+<<4927.41;4929.85;fr>>
+Celle-ci doit alors être déterminée autrement.
+
+<<4929.85;4941.01;fr>>
+Et c'est donc au regard de la façon dont les Etats préservent les droits des personnes, leur marge d'appréciation étant importante dans son domaine, dans ce domaine que votre cours se prononce.
+
+<<4941.01;4949.77;fr>>
+L'Etat ne peut être obligé à maintenir en vie une personne de manière artificielle dans un état végétatif sans perspective d'amélioration.
+
+<<4949.77;4971.05;fr>>
+C'est aujourd'hui le cas de Vincent Lambert et qu'il me soit permis de résumer très brièvement, car cela vient d'être fait par le représentant du gouvernement français, le rapport déposé au mois de mai 2014, afin qu'aucune controverse sur l'état de santé actuel de Vincent ne puisse prospérer et donner lieu à polémiques.
+
+<<4971.05;4993.65;fr>>
+Ce collège des trois experts, et je résume ce rapport, a considéré que la sévérité de l'atrophie cérébrale, jointe au délai de cinq ans et demi depuis l'accident initial, sont des éléments en faveur du caractère irréversible des lésions cérébrales, constituant autant d'éléments en faveur d'un mauvais pronostic clinique.
+
+<<4993.65;5000.53;fr>>
+Vincent Lambert n'est pas en mesure d'établir une communication fonctionnelle avec son entourage.
+
+<<5000.53;5004.53;fr>>
+Ses conclusions sont encore aujourd'hui toujours valables.
+
+<<5004.53;5024.49;fr>>
+La loi du 22 avril 2005 se caractérise par la conciliation du droit de toute personne de recevoir les plus les soins les plus appropriés et celui de ne pas subir un traitement qui traduirait une obstination déraisonnable, ne méconnaissant pas ainsi les stipulations de l'article 2 de la Convention européenne.
+
+<<5024.49;5036.93;fr>>
+Les critères de l'obstination déraisonnable, tels que les législateurs français les a définis, sont des actes de prévention, d'investigation ou de soins et ne doivent pas être poursuivis par une obstination déraisonnable.
+
+<<5036.93;5050.05;fr>>
+Lorsqu'ils apparaissent inutiles, disproportionnés ou n'ayant d'autre effet que le seul maintien artificiel de la vie, ils peuvent être suspendus ou ne pas être entrepris.
+
+<<5050.05;5056.01;fr>>
+Le rapporteur public du Conseil d'État, M. Rémi Keller, rappelait en ces termes le rôle des
+
+<<5056.01;5058.13;fr>>
+juges de la haute juridiction.
+
+<<5058.13;5062.17;fr>>
+Votre rôle est difficile, mais d'une certaine manière plus modeste.
+
+<<5062.17;5065.57;fr>>
+Vous devez veiller à ce que la loi soit respectée.
+
+<<5065.57;5071.93;fr>>
+Vous n'êtes pas les garants de la décision médicale, vous n'êtes pas non plus les gardiens de la vie à tout prix.
+
+<<5071.93;5073.97;fr>>
+Vous êtes les gardiens de la loi.
+
+<<5073.97;5076.33;fr>>
+Il ne vous revient pas d'apprécier si la vie de M.
+
+<<5076.33;5082.69;fr>>
+Vincent Lambert vaut la peine d'être vécue, une question à laquelle aucune réponse ne peut être apportée.
+
+<<5082.69;5086.13;fr>>
+Votre seul moral, c'est votre déontologie.
+
+<<5086.13;5091.73;fr>>
+Quelles que soient vos convictions personnelles, il vous revient seulement de dire si la décision du Dr.
+
+<<5091.73;5096.05;fr>>
+Carriger obéit aux conditions fixées par la loi.
+
+<<5096.05;5107.61;fr>>
+Imposer à l'État d'assurer la continuation d'un État végétatif sans aucun espoir d'amélioration est inconciliable avec les impératifs qui commandent l'autonomie personnelle.
+
+<<5107.61;5118.49;fr>>
+Et si la volonté du patient lui-même ne peut s'exprimer, alors ce sont les proches, sa famille, qui sont à même de rapporter les souhaits antérieurement exprimés.
+
+<<5118.49;5122.85;fr>>
+C'est la préconisation du comité consultatif d'éthique.
+
+<<5122.85;5125.21;fr>>
+M. Vincent Lambert, infirmier de profession,
+
+<<5125.21;5142.09;fr>>
+confronté alors à des situations tout à fait comparables à celles qu'il vit depuis septembre 2008, a exprimé son souhait notamment à son épouse, Mme Rachel Lambert, il y a plusieurs reprises, de ne pas être maintenu dans un état de dépendance si cela devait se produire.
+
+<<5142.09;5144.41;fr>>
+M. le Président, Mesdames et Messieurs les Jus,
+
+<<5144.41;5150.85;fr>>
+permettez-moi de conclure ma pléboirie en citant les propos de Mme Rachel Lambert dans l'ouvrage publié à la fin de l'année dernière.
+
+<<5150.85;5155.53;fr>>
+Je cite, j'ai rendu visite à Vincent quasiment tous les jours pendant cinq ans.
+
+<<5155.53;5158.29;fr>>
+La violence de cette dernière année m'a accablé.
+
+<<5158.29;5161.93;fr>>
+Il faut que je puisse m'étayer un peu plus, me rassembler.
+
+<<5161.93;5164.49;fr>>
+Ma fille n'a plus de papa à ses côtés.
+
+<<5164.49;5166.97;fr>>
+Elle a besoin d'une maman à plein temps.
+
+<<5166.97;5174.05;fr>>
+Et je veux qu'elle soit fière de l'histoire d'amour de ses parents, qu'elle sache que lorsque l'on a des convictions, on doit s'y tenir.
+
+<<5174.05;5176.89;fr>>
+À quoi bon en avoir si elles ne sont pas entendues?
+
+<<5176.89;5181.93;fr>>
+Alors je me bats pour elle, pour lui, pour moi, parce que je l'aime, je veux le laisser mourir.
+
+<<5181.93;5185.21;fr>>
+J'assume ma position parce que c'est sa volonté.
+
+<<5185.21;5191.33;fr>>
+Vincent a toujours répété qu'il ne voulait pas vivre en état de dépendance, mais être libre.
+
+<<5191.33;5196.53;fr>>
+Moi, je souhaite que cesse enfin ce maintien en vie artificielle.
+
+<<5196.53;5199.33;fr>>
+Je suis et je reste celle qui l'a choisi.
+
+<<5199.33;5204.09;fr>>
+C'est pourquoi aujourd'hui, je prends la parole en acceptant de le laisser partir.
+
+<<5204.09;5205.49;fr>>
+Je lui sauve la vie.
+
+<<5205.49;5208.49;fr>>
+Laissez partir Vincent, et ma dernière preuve d'amour.
+
+<<5208.49;5208.49;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5211.29;5213.57;fr>>
+Merci, maître Pettiti.
+
+<<5214.53;5218.01;fr>>
+Je me tourne maintenant vers les juges.
+
+<<5218.01;5219.41;fr>>
+Est-ce qu'il y a des questions?
+
+<<5219.41;5221.41;fr>>
+Le juge De Gaetano.
+
+[[Judge;Vincent A. De Gaetano]]
+
+<<5225.82;5227.66;en>>
+Thank you, Mr. President.
+
+<<5227.66;5235.5;en>>
+I have a number of questions, some for the government, some for the applicants, and a few for both.
+
+<<5235.5;5244.7;en>>
+I will put the questions first, which I think should be answered more by the government.
+
+<<5244.7;5270.42;en>>
+Now, in paragraph 33 of the government's observations in connection with the complaint under Article 2, it is stated, and I quote, as to the questions concerning the end of life, in the absence of any consensus between Council of Europe member states, they, in other words, the states, must be afforded a wide margin of appreciation, unquote.
+
+<<5270.42;5339.5;en>>
+Now, considering that the notion of margin of appreciation was developed in the context where states are allowed under the convention to limit, restrict, or interfere with a fundamental right, such as in Articles 5, 7, 8, 9, et cetera, and since here we are not considering the lawful execution of a sentence of a court following a conviction, how the death penalty would have been executed when it existed, of course, fell within the margin of appreciation, nor are we dealing with a deprivation of life in the circumstances as envisaged in sub-Article 2 of Article 2, could the government elaborate as to how it conceives the application of this principle of the margin of appreciation in circumstances such as the present, that is, where one has a calculated act of omission which would directly and necessarily lead to the death of a patient who would not otherwise die, but for that act of omission?
+
+<<5339.5;5343.82;en>>
+I'm sorry it's a long-winded question, but that is my first question.
+
+<<5343.82;5356.94;en>>
+My second question to the government is, could the government indicate exactly, it may exist in our case file, but to be honest, if it is, I have missed it completely.
+
+<<5356.94;5369.74;en>>
+But could the government indicate exactly which provision of French law provides or states specifically that artificial nutrition or hydration is medical treatment?
+
+<<5373.26;5375.86;en>>
+My questions to the applicant.
+
+<<5378.98;5390.06;en>>
+Now, according to the preliminary draft summary of the procedure and facts, I quote from page 3, the first decision to stop feeding Mr. Lambert
+
+<<5390.06;5405.02;en>>
+was taken after that, and I quote, carers had observed increasing signs in 2012 of what they believed to be resistance on his part to day-to-day care, unquote.
+
+<<5405.02;5413.54;en>>
+Could the applicant's lawyers and perhaps even the parties elaborate as to whether today Mr. Lambert shows
+
+<<5413.54;5428.22;en>>
+signs of excessive distress or excessive pain due either to his condition in general or to the feeding and hydration through enteral intubation in particular?
+
+<<5428.22;5438.18;en>>
+Am I correct in saying that apart from certain parts of the brain and the problems with deglutition reflex, all the other organs of Mr. Lambert
+
+<<5438.18;5438.94;en>>
+are functioning?
+
+<<5443.18;5444.98;en>>
+Another question for the applicants.
+
+<<5448.5;5459.98;en>>
+The applicant's lawyer has stated that Mrs. Lambert, the wife of Mr. Lambert, has left Reims.
+
+<<5459.98;5463.18;en>>
+But before even Dr. Kariger left Reims
+
+<<5463.18;5467.18;en>>
+and before Mrs. Lambert left Reims,
+
+<<5467.18;5473.54;en>>
+what was the legal obstacle, if any, of transferring Mr. Lambert from the medical unit
+
+<<5473.54;5476.82;en>>
+under Dr. Kariger to another medical unit which
+
+<<5476.82;5480.78;en>>
+specializes in long-term care of people in similar condition?
+
+<<5480.78;5482.46;en>>
+What was the legal obstacle?
+
+<<5482.46;5485.5;en>>
+I have not yet understood exactly this point.
+
+<<5488.42;5501.62;en>>
+And my final question to the applicants is, can the applicants clarify paragraph 125 of their written observations, particularly the words that they have underlined?
+
+<<5501.62;5514.78;en>>
+I have not quite understood the significance of that paragraph and the words underlined in the context of Article 3.
+
+<<5514.78;5520.54;en>>
+Now I have three sets of questions, which I think are for both parties.
+
+<<5520.54;5535.38;en>>
+Does French law distinguish, for the purpose of determining whether a treatment is being carried out with unreasonable obstinacy, between ordinary and extraordinary forms of treatment?
+
+<<5535.38;5539.7;en>>
+If it does, and if it exists in our case file, again, I apologize.
+
+<<5539.7;5540.58;en>>
+I may have missed it.
+
+<<5545.18;5548.58;en>>
+In his conclusions, the public rapporteur, Mr. Keller,
+
+<<5548.58;5563.5;en>>
+referring to the debate in the French Parliament, states, and I quote from page 11, treatment should be regarded as futile, where it does not bring about any improvement in the patient's state of health.
+
+<<5563.5;5598.14;en>>
+Assuming that were so, for the sake of argument, what would be the difference, in the opinion of the parties, what would be the difference, if at all, between a patient who requires renal dialysis three times a week, which is a well-known irreversible medical condition where the patient is kept alive only because of the dialysis and his condition can never improve, and the situation of a patient who is being kept alive by being fed and hydrated?
+
+<<5598.14;5606.78;en>>
+My final question to both parties, and this is to make sure that I understood the French law and French procedure.
+
+<<5606.78;5627.06;en>>
+Am I correct in saying that before the collective procedure is undertaken, the doctor in charge of the patient must already have come to the conclusion that the particular treatment is futile or disproportionate, or that it has no other effect than to prolong life artificially?
+
+<<5627.06;5631.98;en>>
+In other words, am I correct that that is the sequence that follows?
+
+<<5631.98;5638.5;en>>
+First, there is the initial decision of the doctor, and then the collective procedure is undertaken.
+
+<<5638.5;5650.22;en>>
+And am I correct also in saying that this collective procedure is merely intended to advise the doctor in charge of the patient, but that he's not bound by any of the opinions he receives?
+
+<<5650.22;5651.42;en>>
+Part of that question.
+
+<<5651.42;5653.7;en>>
+Thank you, and I apologize for the length of those questions.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5655.02;5660.06;fr>>
+Merci. Est-ce qu'il y a d'autres questions?
+
+<<5660.06;5662.46;fr>>
+Tel ne semble pas être le cas.
+
+<<5662.46;5669.26;fr>>
+Donc on va suspendre l'audience pendant une demi-heure et on va se retrouver à 11h20.
+
+<<5669.26;5669.26;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<5738.47;5739.11;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<5781.45;5787.21;fr>>
+Je vais bien vouloir vous asseoir. L'audience est reprise et je donne la parole à M. Alabrune.
+
+[[Government;GR1]]
+
+<<5796.52;5799.52;fr>>
+Merci, M. le Président, mesdames et messieurs les juges.
+
+<<5799.72;5805.6;fr>>
+Je voudrais m'attacher en priorité à répondre aux questions posées par le juge Gaetano.
+
+<<5807.92;5819.04;fr>>
+Question relative tout d'abord à la question de savoir comment appliquer la marge d'appréciation dans le cas d'une omission qui peut avoir pour effet de provoquer le décès.
+
+<<5821.12;5824.36;fr>>
+Nous sommes ici en matière de fin de vie et de droit des malades.
+
+<<5824.36;5833.24;fr>>
+Il n'y a, je le rappelle, pas de consensus au sein des Etats européens sur la manière de traiter cette question.
+
+<<5834.52;5854.32;fr>>
+Il faut donc laisser aux Etats la possibilité de déterminer la manière dont ils concilient la liberté individuelle à travers la volonté du patient de ne pas subir un traitement ou une obstination déraisonnable et le respect du droit à la vie.
+
+<<5855.08;5886.68;fr>>
+Ainsi, dans le cadre d'une omission, dès lors que la loi entoure le processus décisionnel et la mise en oeuvre de la décision sur la limitation ou l'arrêt de traitement de garantie importante, l'Etat doit être regardé comme ayant respecté ses obligations conventionnelles au titre des articles 2 et 3 et tel est bien le cas de la loi française de 2005.
+
+<<5888.04;5906.2;fr>>
+Sur les questions relatives au contenu de la législation française, tout d'abord en ce qui concerne le point de savoir comment la nutrition et l'hydratation artificielle sont traitées par la législation.
+
+<<5906.36;5915.92;fr>>
+Je rappellerai que, je rappellerai que la loi française précise que les traitements au sens des articles L110.5
+
+<<5917.28;5921.36;fr>>
+et L111.4 du Code de la santé publique
+
+<<5922.32;5927.84;fr>>
+peuvent être interrompus si leur poursuite caractérise une obstination déraisonnable.
+
+<<5930.2;5935.6;fr>>
+La loi ne comporte pas une liste de l'ensemble des traitements médicaux possibles.
+
+<<5935.6;5947.68;fr>>
+L'alimentation et l'hydratation artificielle sont à distinguer d'actes consistant simplement à prendre soin d'un malade en le nourrissant et lui donnant à boire.
+
+<<5948.16;5955.8;fr>>
+Il s'agit, comme je l'ai indiqué tout à l'heure, de techniques médicales intrusives nécessitant une évaluation médicale et une prescription.
+
+<<5956.64;5962.08;fr>>
+Ces interventions requièrent le consentement du patient lorsqu'il est conscient.
+
+<<5962.4;5967.12;fr>>
+C'est pourquoi elles répondent dans la pratique médicale à la définition d'un traitement.
+
+<<5968.16;5983.48;fr>>
+Je répondrai également à la question relative à la distinction entre forme ordinaire ou extraordinaire de traitement et à la manière dont cette distinction peut avoir un impact sur les décisions d'arrêt ou de limitation de traitement.
+
+<<5984.12;6003.44;fr>>
+Sur ce point, il convient de relever que la loi française, qui repose sur les notions générales d'indication médicale, de traitement, de traitement approprié et d'obstination déraisonnable, ne fait pas référence aux notions de forme ordinaire ou extraordinaire des traitements.
+
+<<6004.08;6024.32;fr>>
+Plus précisément, la caractérisation de l'obstination déraisonnable suppose la prise en compte par le médecin d'éléments de nature médicale, mais ne se limite pas à cette dimension strictement médicale, rentrant compte des éléments non médicaux et non médicaux, tout particulièrement la volonté du patient.
+
+<<6027.64;6056.16;fr>>
+S'agissant de la question relative à la manière de définir l'utilité du traitement, je rappellerai que pour appréhender l'obstination déraisonnable, la loi française prévoit trois critères qui sont alternatifs, soit un traitement inutile, soit un traitement disproportionné, soit un traitement n'ayant d'autre effet que le seul maintien artificiel de la vie.
+
+<<6056.96;6075.88;fr>>
+En l'espèce, dans le cas de Vincent Lambert, ce qui a été déterminant, c'est que le traitement n'avait pas d'autre effet, compte tenu de l'état irréversible d'inconscience et de la gravité des lésions du patient, que son maintien artificiel en vie.
+
+<<6076.76;6082.24;fr>>
+Ce n'est donc pas le caractère inutile du traitement qui a fondé la décision médicale.
+
+<<6083.0;6097.36;fr>>
+La situation de Vincent Lambert n'est en rien comparable à celle d'un patient conscient, sous dialyse, dont le traitement est utile et n'a pas vocation, à ce titre, à le maintenir artificiellement en vie.
+
+<<6098.04;6120.76;fr>>
+S'agissant de la question relative au point de savoir si le médecin doit avoir formé son jugement et être parvenu à une conclusion sur la notion d'obstination déraisonnable avant que la procédure collégiale ne soit engagée.
+
+<<6121.8;6146.36;fr>>
+Je rappellerai que, sur ce sujet, le médecin en charge du patient, qui a une présomption que la situation du patient caractérise une obstinance, caractérise une obstination déraisonnable, déclenche de façon concomitante la procédure collégiale lorsque la personne est hors d'état d'exprimer sa volonté.
+
+<<6148.2;6161.8;fr>>
+Les avis médicaux, les éventuelles directives anticipées, la consultation de l'entourage du patient visent à éclairer la décision et reconstituer la volonté du patient.
+
+<<6161.8;6173.4;fr>>
+Il n'y a donc pas pour le médecin de conclusion définitive, évidemment, avant que la procédure collégiale ne soit engagée.
+
+<<6177.2;6208.4;fr>>
+S'agissant à présent des arguments qui ont été avancés par les requérants, je pense que les écrits du gouvernement, je pense que l'intervention que j'ai prononcée répond à l'ensemble des arguments avancés, mais je voudrais simplement revenir sur un point qui concerne l'état actuel de Vincent Lambert.
+
+<<6210.72;6226.76;fr>>
+Sur ce point, le gouvernement n'a pas accès au dossier médical de Vincent Lambert et ne peut que se fonder sur l'avis des experts qui ont été mandatés par le Conseil d'Etat et qui ont remis leur conclusion sur ce sujet.
+
+<<6226.92;6231.48;fr>>
+Je voudrais simplement rappeler une partie de leur conclusion.
+
+<<6231.64;6241.72;fr>>
+L'existence de réactions aux soins ou de stimulation douloureuse ne fait aucun doute, mais c'est leur interprétation qui prête à discussion.
+
+<<6241.88;6252.88;fr>>
+L'interprétation de ces manifestations comportementales comme un vécu conscient de souffrance ou l'expression d'une intention ou d'un souhait de Vincent Lambert ne nous semble pas possible.
+
+<<6253.0;6262.64;fr>>
+Vincent Lambert réagit aux soins qui lui sont prodigués, aux stimulations, mais les caractéristiques de ces réactions suggèrent qu'il s'agit de réponses non conscientes.
+
+<<6262.84;6271.08;fr>>
+L'interprétation de ces réactions comportementales comme un vécu conscient de souffrance ou comme l'expression d'une intention ne nous paraît pas possible.
+
+<<6271.08;6275.84;fr>>
+Pour terminer, M. le Président, Mesdames et Messieurs les juges,
+
+<<6276.04;6289.08;fr>>
+je voudrais rappeler que la loi du 22 avril 2005 entoure la possibilité d'interrompre un traitement de très nombreuses garanties, particulièrement renforcées lorsque le patient est hors d'état d'exprimer sa volonté.
+
+<<6289.08;6294.76;fr>>
+Ces garanties permettent la prise en compte de la singularité de chaque situation.
+
+<<6294.76;6304.84;fr>>
+Il faut avoir à l'esprit qu'il n'existe aucune automaticité et que chaque décision repose sur des éléments médicaux et non médicaux propres à chaque patient.
+
+<<6304.84;6307.68;fr>>
+Dans le cas de M. Vincent Lambert,
+
+<<6307.68;6314.64;fr>>
+le médecin en charge du patient a parfaitement respecté ces garanties après une décision motivée d'interrompre les traitements.
+
+<<6314.64;6333.96;fr>>
+Cette décision a fait l'objet d'un recours devant le Conseil d'Etat qui a considéré, après avoir diligenté une expertise, sollicité les avis des spécialistes, vérifié la réunion des éléments à la fois médicaux et non médicaux que la décision du médecin était légale.
+
+<<6333.96;6343.04;fr>>
+Sur les aspects non médicaux, s'agissant du respect de la volonté de M. Lambert, le Conseil d'Etat
+
+<<6343.04;6346.48;fr>>
+ne s'est pas fondé que sur les seules déclarations de Mme Rachel Lambert.
+
+<<6346.48;6359.36;fr>>
+Les déclarations de Mme Rachel Lambert ont joué un rôle essentiel compte tenu de leur caractère précis, adapté et circonstancié, mais ces déclarations étaient en outre corroborées par d'autres éléments.
+
+<<6359.36;6364.84;fr>>
+D'une part, les déclarations de l'un des frères de M. Vincent Lambert et d'autre part,
+
+<<6364.84;6370.52;fr>>
+les opinions, convictions, expériences exprimées par Vincent Lambert.
+
+<<6370.52;6379.2;fr>>
+Je voudrais rappeler que l'arrêt du traitement ne constitue pas une euthanasie.
+
+<<6379.2;6382.76;fr>>
+La mort n'est pas provoquée.
+
+<<6382.76;6394.96;fr>>
+Il ne s'agit pas, par ailleurs, d'un abandon du patient, dès lors que cesser de l'alimenter et de l'hydrater artificiellement va de pair avec la mise en place de soins palliatifs.
+
+<<6394.96;6404.12;fr>>
+Pour terminer, pour conclure, je voudrais à nouveau m'adresser aux membres de la famille de M. Vincent Lambert
+
+<<6404.12;6414.16;fr>>
+et leur dire que nous avons toujours eu à l'esprit le souci de respecter la personne et la dignité de M. Vincent Lambert.
+
+<<6414.16;6414.16;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6417.6;6419.8;fr>>
+Merci, M. Alabrune.
+
+<<6419.8;6423.24;fr>>
+Je donne la parole à M. Paillot.
+
+[[Applicant;AP2]]
+
+<<6424.33;6425.33;fr>>
+Merci, Monsieur le Président.
+
+<<6428.89;6446.45;fr>>
+Monsieur le Président, Mesdames, Messieurs, vous nous avez demandé notre opinion, en premier lieu, sur les signes marqués d'opposition de Vincent Lambert et si celui-ci, depuis lors, avait présenté de nouveaux signes d'opposition.
+
+<<6448.37;6466.73;fr>>
+En réalité, ce qui avait pu être interprété en 2012 comme des signes d'opposition de Vincent à la poursuite de ses soins et notamment d'alimentation, les experts judiciaires ont clairement répondu sur ce point.
+
+<<6467.81;6474.25;fr>>
+Les experts judiciaires ont dit que c'est une surinterprétation de signes qui a été faite.
+
+<<6475.21;6489.97;fr>>
+On ne peut pas tirer de ces éléments de fait que vous nous donnez, le fait par exemple que Vincent glisse du fauteuil, on ne peut pas tirer de ces faits la démonstration que Vincent voudrait que sa vie s'arrête.
+
+<<6490.45;6492.97;fr>>
+On est en présence d'une surinterprétation.
+
+<<6495.25;6509.49;fr>>
+Depuis lors, à aucun moment, les parents ou le frère de Vincent Lambert, qui sont les personnes qui le voient le plus fréquemment, n'ont jamais constaté le moindre signe d'opposition.
+
+<<6509.57;6516.21;fr>>
+Je vous l'ai dit au début de mon propos tout à l'heure, Vincent présente un visage tranquille et apaisé.
+
+<<6516.21;6544.25;fr>>
+Vous nous avez demandé quels étaient les obstacles juridiques pour que Vincent quitte effectivement l'hôpital de Reims et puisse être installé dans un établissement de soins approprié aux personnes dans son état.
+
+<<6544.25;6551.17;fr>>
+En réalité, il n'y a véritablement aucun obstacle juridique.
+
+<<6551.17;6562.89;fr>>
+Toute personne en France a le libre choix de son médecin, a la totale liberté de choisir tel ou tel établissement de soins.
+
+<<6562.89;6567.89;fr>>
+La question qui se pose ici est celle de savoir qui représente Vincent.
+
+<<6567.89;6579.17;fr>>
+Jusqu'à présent, l'hôpital a estimé que le seul véritable représentant légal de Vincent était son épouse.
+
+<<6579.17;6592.93;fr>>
+Mais il n'existe aucune décision de justice qui accorde sur la totalité des éléments de la vie de Vincent une représentation à son épouse.
+
+<<6592.93;6602.45;fr>>
+Par conséquent, aujourd'hui, et je crois l'avoir souligné dans mon mémoire, il n'y a aucun représentant juridique de Vincent.
+
+<<6602.45;6611.41;fr>>
+C'est pourquoi, dans un deuxième temps, l'hôpital nous a dit « mais je ne peux pas accéder à votre demande parce qu'il n'y a pas de consensus familial ».
+
+<<6611.41;6620.21;fr>>
+Alors, en réalité, il y a une réponse juridique qu'on peut apporter parce que le droit français, dans ce cas de figure, en donne une.
+
+<<6620.21;6623.93;fr>>
+C'est malheureusement une réponse que l'hôpital ne veut pas entendre.
+
+<<6623.93;6633.97;fr>>
+Quand il y a une situation de cette façon, on doit en référer aux référents naturels.
+
+<<6633.97;6636.73;fr>>
+Qui sont les référents naturels?
+
+<<6636.73;6640.69;fr>>
+Ce sont les personnes qui entourent au quotidien le patient.
+
+<<6640.69;6650.09;fr>>
+Les personnes qui entourent au quotidien le patient, aujourd'hui et depuis plus d'un an et demi, ce sont les parents de Vincent Lambert.
+
+<<6650.09;6652.41;fr>>
+Ce sont eux, ces référents naturels.
+
+<<6652.41;6660.17;fr>>
+Ce sont donc eux que, théoriquement, l'hôpital devrait entendre et c'est leur opinion qui devrait être prise en compte.
+
+<<6660.17;6664.45;fr>>
+Bien entendu, un consensus familial serait merveilleux.
+
+<<6664.45;6687.05;fr>>
+Et s'il était possible encore de discuter avec la partie adverse, de leur montrer à quel point l'établissement proposé à Oberhaus-Bergen est merveilleux et offre des solutions de vie, des solutions heureuses et bonnes pour Vincent, eh bien, on pourrait retrouver un contact et une occasion de discuter.
+
+<<6687.05;6688.57;fr>>
+Malheureusement, il n'y en a pas.
+
+<<6688.57;6693.29;fr>>
+Le droit français nous donne la possibilité de nous adresser aux référents naturels.
+
+<<6693.29;6694.29;fr>>
+L'hôpital refuse.
+
+<<6694.29;6706.93;fr>>
+Vous nous avez demandé de préciser ce que j'évoque au paragraphe 125 et plus exactement les mots qui étaient soulignés.
+
+<<6706.93;6709.73;fr>>
+Je vous relis ce que j'écrivais au paragraphe 125.
+
+<<6709.73;6716.41;fr>>
+Il ne s'agit pas d'atténuer par sédation un état préexistant de douleur.
+
+<<6716.41;6721.13;fr>>
+Il s'agit de créer cet état de douleur jusqu'à la mort.
+
+<<6721.13;6731.89;fr>>
+Si l'on arrête l'alimentation entérale de Vincent, ceci va conduire Vincent à connaître des douleurs terribles.
+
+<<6731.89;6739.97;fr>>
+Tant au titre de la dénutrition, mais surtout au titre de la déshydratation.
+
+<<6739.97;6747.49;fr>>
+C'est elle qui est la plus épouvantable et c'est elle qui emporterait Vincent ou tout autre patient en quelques jours.
+
+<<6747.49;6752.81;fr>>
+Pour atténuer ces douleurs, on va le sédater.
+
+<<6752.81;6758.41;fr>>
+Mais ce que je dis, moi, c'est qu'on est en train de créer de toute pièce une douleur.
+
+<<6758.41;6770.29;fr>>
+La sédation que l'on se propose de donner à Vincent pour accompagner un arrêt d'alimentation, cette sédation ne vient pas supprimer une douleur qui existe aujourd'hui.
+
+<<6770.29;6773.17;fr>>
+Vincent ne souffre aujourd'hui de rien.
+
+<<6773.17;6779.09;fr>>
+Si vous lui enlevez son alimentation et son hydratation, Vincent va se mettre à souffrir.
+
+<<6779.09;6789.97;fr>>
+Donc, dans ce cas-là, vous créez une souffrance, vous créez un traumatisme et vous mettez le chapeau dessus en disant on va le sédater pour qu'il ne souffre pas.
+
+<<6789.97;6792.53;fr>>
+Mais en réalité, vous créez le traumatisme.
+
+<<6792.53;6797.17;fr>>
+C'est pour ça qu'en réalité, on n'est pas dans un seul arrêt de traitement.
+
+<<6797.17;6801.85;fr>>
+On est véritablement ici dans une euthanasie.
+
+<<6801.85;6813.29;fr>>
+Vous nous avez demandé s'il existait une différence entre les formes ordinaires et les formes extraordinaires de soins en droit français.
+
+<<6813.29;6814.57;fr>>
+Non.
+
+<<6814.57;6817.05;fr>>
+On peut répondre très simplement non.
+
+<<6817.05;6822.77;fr>>
+La loi française ne distingue pas entre des formes ordinaires ou des formes extraordinaires.
+
+<<6822.77;6826.21;fr>>
+Il n'y a aucune base légale à cette distinction.
+
+<<6826.21;6843.29;fr>>
+J'en profite pour vous dire qu'il y a quelques jours seulement, l'Union nationale des associations pour le développement des soins palliatifs a proposé une définition de l'obstination des raisonnables.
+
+<<6843.29;6852.61;fr>>
+Elle nous dit, c'est l'attitude qui consiste à poursuivre une thérapeutique à visée curative et qui n'aurait plus d'effet.
+
+<<6852.61;6862.61;fr>>
+Il y aurait obstination des raisonnables à poursuivre un traitement à visée curative.
+
+<<6862.61;6868.81;fr>>
+Le drame, c'est que l'alimentation entérale n'a aucune visée curative.
+
+<<6868.81;6874.81;fr>>
+Ni pour vous quand vous allez déjeuner, vous n'obéissez pas à un protocole médical.
+
+<<6874.81;6879.81;fr>>
+Vous ne cherchez pas à vous guérir parce que la faim n'est pas une maladie.
+
+<<6879.81;6897.81;fr>>
+Alors, nous sommes entièrement d'accord avec le gouvernement français pour dire qu'il est légitime, dans certaines circonstances, d'arrêter ce que nous appelons le cure, le fait d'améliorer la situation de santé d'un patient.
+
+<<6897.81;6908.61;fr>>
+Mais nous ne sommes pas d'accord quand il ne s'agit que d'arrêter un soin qui relève du care, du fait de s'occuper, de prendre soin du patient.
+
+<<6908.61;6911.81;fr>>
+Il faut faire cette distinction.
+
+<<6911.81;6918.81;fr>>
+Vous nous avez demandé ce qu'est un traitement utile ou inutile au sens de la loi française.
+
+<<6918.81;6925.81;fr>>
+C'est très difficile parce que le droit français ne donne pas de définition du mot inutile.
+
+<<6925.81;6934.81;fr>>
+Il est vrai, le gouvernement français l'a rappelé, ce n'est pas le critère qui a été utilisé par le Conseil d'Etat pour justifier l'arrêt de l'alimentation de Vincent Lambert.
+
+<<6934.81;6937.81;fr>>
+C'est le troisième critère qui a été utilisé.
+
+<<6937.81;6942.81;fr>>
+Mais ce premier critère est tout aussi défectueux que les deux autres.
+
+<<6942.81;6957.81;fr>>
+Il est défini en droit français par le fait qu'un traitement serait inutile s'il n'apportait pas d'amélioration de la situation d'un patient.
+
+<<6957.81;6962.81;fr>>
+L'alimentation de Vincent ne peut pas conduire à une amélioration de sa santé.
+
+<<6962.81;6966.01;fr>>
+On ne se nourrit pas pour améliorer sa santé.
+
+<<6966.01;6969.81;fr>>
+On se nourrit pour se maintenir en vie.
+
+<<6969.81;6978.61;fr>>
+La conséquence qu'on peut quand même en tirer, c'est que l'alimentation de Vincent est une alimentation qui en réalité est utile.
+
+<<6978.61;6981.21;fr>>
+Pourquoi ce soin est utile?
+
+<<6981.21;6984.21;fr>>
+Parce qu'en réalité, il remplit sa finalité.
+
+<<6984.21;6987.21;fr>>
+La finalité de l'alimentation, c'est de nourrir.
+
+<<6987.21;6990.21;fr>>
+Quand on alimente Vincent, il est nourri.
+
+<<6990.21;6992.41;fr>>
+Donc ce traitement est utile.
+
+<<6992.41;7002.61;fr>>
+C'est pourquoi en réalité, la définition ou l'interprétation qu'on donne de ce critère n'est en réalité pas véritablement justifiée.
+
+<<7002.61;7019.81;fr>>
+Vous nous avez demandé de façon toute particulière quelles pourraient être les différences sur ce point avec une dialyse, par exemple, ou d'autres traitements que j'avais cités dans mes conclusions, par exemple, à cause d'un pacemaker.
+
+<<7019.81;7025.61;fr>>
+Un pacemaker n'améliore pas non plus le fonctionnement du cœur.
+
+<<7025.61;7028.61;fr>>
+Il ne fait que maintenir une personne en vie.
+
+<<7028.61;7035.21;fr>>
+Et c'est pourquoi il apparaît comme complètement absurde d'enlever le pacemaker d'une personne.
+
+<<7035.21;7040.41;fr>>
+Et pourtant, il maintient artificiellement en vie cette personne.
+
+<<7040.41;7044.81;fr>>
+Il y a quand même des différences entre, par exemple, la dialyse et l'alimentation.
+
+<<7044.81;7048.41;fr>>
+La dialyse, c'est un traitement qui est lourd.
+
+<<7048.41;7056.01;fr>>
+Une personne dialysée est une personne qui doit subir cette dialyse pendant 3 fois 6 heures par semaine.
+
+<<7056.01;7063.21;fr>>
+18 heures par semaine, elle va être dialysée juste pour se maintenir en vie.
+
+<<7063.21;7065.81;fr>>
+Pour l'alimentation, il n'en est rien.
+
+<<7065.81;7070.61;fr>>
+L'alimentation entérale de Vincent ne pose strictement aucune difficulté.
+
+<<7070.61;7072.41;fr>>
+Je vous l'ai mimé tout à l'heure.
+
+<<7072.41;7078.21;fr>>
+On insère la sonde et on la retire quand l'alimentation est faite.
+
+<<7078.21;7083.61;fr>>
+En revanche, il y a une similitude entre la dialyse et l'alimentation.
+
+<<7083.61;7101.01;fr>>
+C'est que dans les deux cas, les soins ne sont pas procurés pour améliorer la santé, mais pour maintenir la personne en bonne santé, en bon état, parce que ça correspond, en fait, à un besoin essentiel et fondamental.
+
+<<7101.01;7115.21;fr>>
+Vous avez demandé enfin ce qu'il en était de la procédure collégiale et si un médecin doit avoir établi des conclusions médicales avant de lancer cette procédure.
+
+<<7115.21;7117.41;fr>>
+Oui et non.
+
+<<7117.41;7130.21;fr>>
+La procédure collégiale est censée éclairer le médecin sur la situation de santé et sur le fait de savoir si on est dans un stade d'obstination déraisonnable.
+
+<<7130.21;7138.01;fr>>
+C'est la raison pour laquelle, dans le cadre de cette procédure collégiale, le médecin doit s'entourer au moins d'un autre médecin.
+
+<<7138.01;7160.01;fr>>
+Bien sûr, le médecin qui soigne le patient aura un premier avis, mais il doit être suffisamment ouvert, doit être suffisamment à l'écoute pour qu'un autre médecin, qui est nécessairement un médecin spécialisé dans le domaine qui concerne le patient, eh bien, puisse apporter son propre éclairage.
+
+<<7160.01;7180.61;fr>>
+Mais dans un deuxième temps, lorsque la procédure sera ouverte, qu'on tiendra compte de la volonté personnelle de la personne, à savoir ses directives anticipées, si elles ont été rédigées, la personne de confiance, si cette scie a été nommée, et puis enfin, on entendra la famille pour savoir ce qu'il en est.
+
+<<7180.61;7187.01;fr>>
+Donc, l'aspect médical précède la question de la volonté personnelle.
+
+<<7187.01;7199.81;fr>>
+La volonté personnelle peut également entrer en compte au début, puisque c'est également au vu d'éventuelles directives anticipées qui auraient été rédigées, que le médecin doit ouvrir la procédure collégiale.
+
+<<7199.81;7205.81;fr>>
+Donc, les choses, en réalité, sur ce point, au moins théoriquement, vont de pair.
+
+<<7205.81;7226.61;fr>>
+Le drame, c'est que dans notre cas particulier, et vous l'avez bien compris, le médecin avait déjà son opinion toute faite, et sa procédure collégiale a été purement formelle, destinée uniquement à donner un semblant de bonne gestion administrative.
+
+<<7226.61;7233.81;fr>>
+Je conclue simplement en disant que la loi Leonetti, dans ses principes posés, est une bonne loi.
+
+<<7233.81;7249.21;fr>>
+Et c'est aussi une loi qui doit être améliorée sur des points graves, sur des points importants, parce que seule cette amélioration pourrait donner de véritables garanties aux personnes pour lesquelles cette loi est faite.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7253.5;7257.7;fr>>
+Merci, M. Paillot.
+
+<<7258.06;7259.9;fr>>
+Je pose la question aux tierces parties.
+
+<<7259.94;7264.02;fr>>
+Est-ce que vous voulez brièvement répondre à l'une ou l'autre des questions qui a été posée et que vous vous sentirez concerné?
+
+[[ThirdParty;TP1]]
+
+<<7270.43;7272.07;fr>>
+Oui, M. le Président.
+
+<<7272.23;7293.55;fr>>
+Je parlerai au nom de Rachel, de Marie Geneviève et de François, qui voient régulièrement Vincent, et qui voient ce qu'on imagine les rétractions tendineuses qui, malheureusement, le font souffrir, ce que les experts avaient déjà expliqué au Conseil d'Etat.
+
+<<7294.15;7299.95;fr>>
+Mais si j'ai bien compris, ces derniers temps, il y aurait même des complications digestives.
+
+<<7299.95;7313.71;fr>>
+Vincent ne supporterait plus cette alimentation artificielle et ces sources de nombreuses complications, si j'ai bien compris son état aujourd'hui.
+
+<<7313.71;7315.71;fr>>
+Donc voilà ce que je peux dire.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7318.32;7321.32;fr>>
+Merci bien.
+
+<<7322.32;7325.8;fr>>
+Nous en arrivons...
+
+<<7325.8;7327.28;fr>>
+Vous voulez...
+
+<<7327.21;7331.81;fr>>
+Oui, très brièvement, sans s'engager maintenant dans un dialogue.
+
+[[Applicant;AP2]]
+
+<<7332.81;7346.73;fr>>
+Pendant un certain nombre de mois, les parents de Vincent ont constaté qu'en effet, celui-ci avait des problèmes de digestion et ils ont demandé à l'hôpital de réduire son alimentation parce qu'en fait, il recevait trop d'alimentation par sa sonde.
+
+<<7346.73;7351.77;fr>>
+L'hôpital a mis un peu de temps à répondre et finalement a réduit son alimentation.
+
+<<7351.77;7351.77;fr>>
+Aujourd'hui, Vincent va très bien.
+
+[[Applicant;AP1]]
+
+<<7353.69;7356.37;fr>>
+Et Monsieur le Président, si vous permettez, sur le deuxième point.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7356.82;7365.18;fr>>
+Mais j'ai donné la parole à la tierce partie pour répondre à des questions qui ont été posées par le juge De Gaetano.
+
+<<7366.5;7377.58;fr>>
+Je crois que vous avez eu l'occasion de répondre à toutes ces questions, de sorte que nous en arrivons maintenant au terme de l'audience.
+
+<<7377.78;7385.5;fr>>
+Et je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<7385.5;7397.46;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fond, et l'arrêt sera rendu ultérieurement et les parties seront informées de la date dûe prononcée.
+
+<<7397.46;7397.46;fr>>
+L'audience est levée.
+

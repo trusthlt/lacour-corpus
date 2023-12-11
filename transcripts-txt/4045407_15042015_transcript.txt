@@ -1,0 +1,1826 @@
+[[JudgeP;Dean Spielmann]]
+
+<<19.24;20.92;fr>>
+Je vous prie de bien vouloir vous asseoir.
+
+<<29.08;38.6;fr>>
+Je déclare ouverte l'audience publique sur le fonds de l'affaire Couderc and Hachette Filipacchi Associés contre France.
+
+<<38.6;54.92;fr>>
+L'affaire a été introduite devant la Cour le 24 août 2007 par Madame Anne-Marie Couderc, ressortissante française et la Société de droit français Hachette Filipacchi Associés en vertu de l'article 34 de la Convention.
+
+<<54.92;63.28;fr>>
+Elle a été attribuée à la cinquième section de la Cour, conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<63.28;75.24;fr>>
+Le 13 mai 2014, une chambre de cette section a déclaré la requête recevable et adopté un arrêt, lequel a été prononcé le 12 juin 2014.
+
+<<75.24;90.72;fr>>
+Le 11 septembre 2014, le gouvernement a demandé le renvoi de l'affaire devant la grande chambre, conformément à l'article 43 de la Convention, et cette demande a été acceptée par le Collège de la grande chambre le 13 octobre 2014.
+
+<<90.72;111.44;fr>>
+Le 14 janvier 2015, le président de la grande chambre a autorisé le gouvernement princier de Monaco et l'organisation non gouvernementale Media Legal Defense Initiative à soumettre des observations écrites en tant que tierce partie en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<111.44;119.6;fr>>
+Le gouvernement des fondeurs est représenté par son co-agent, M. Géraud de Bergues, directeur adjoint des affaires juridiques du
+
+<<119.6;131.48;fr>>
+ministère des Affaires étrangères et du développement international, assisté de Mme Elodie Jung, Patricia Rouault-Chalier, Cynthia Fabre et Tania Jewcsuk, conseillères.
+
+<<131.48;137.68;fr>>
+Les requérantes sont représentées par M. Marie-Christine de Percin,
+
+<<137.68;139.12;fr>>
+avocate au barreau de Paris.
+
+<<139.12;150.4;fr>>
+Sont également présentes au titre des requérantes Mme Garence Dupuis et Mme Sophie Lançon, directrice juridique chez La Gardère active Hachette Filipacchi.
+
+<<150.4;154.92;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<154.92;169.32;fr>>
+Je salue également la délégation de la Cour de cassation française, la délégation de juges russes et la délégation de juges du Landesarbeitsgericht Niedersachsen en visite à la Cour.
+
+<<169.32;177.6;fr>>
+Ayant consulté l'agent du gouvernement et la représentante des requérantes, j'ai fixé ainsi l'ordre de parole.
+
+<<177.6;182.64;fr>>
+Nous entendrons successivement M. de Percin pour les requérantes,
+
+<<182.64;186.52;fr>>
+puis M. de Bergues pour le gouvernement.
+
+<<186.52;200.2;fr>>
+Je dois expliquer qu'en suce de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en russe a été autorisée au profit des magistrats russes qui assistent à cette audience.
+
+<<200.2;208.88;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<208.88;211.96;fr>>
+La parole est à M. De Percin.
+
+<<211.96;211.96;fr>>
+Merci.
+
+[[Applicant;AP1]]
+
+<<214.66;237.62;fr>>
+Monsieur le Président, Mesdames, Messieurs les Juges, j'ai l'honneur de représenter devant vous la société Hachette-Philippe Acky Associé, donc éditrice du journal Paris Match, et Mme Anne-Marie Coudert, qui était directrice de la publication du journal à l'époque de l'apparition, pour un article incriminé, l'article incriminé, qui s'appelait donc L'Enfant secret.
+
+<<238.06;241.62;fr>>
+Nicole, sa mère, raconte leur longue histoire.
+
+<<241.62;245.26;fr>>
+Cet article est paru le 5 mai 2005.
+
+<<245.26;264.35;fr>>
+Nous sommes ici devant vous à la suite d'un recours formé par le gouvernement de la France contre une décision du 12 mai 2014, de l'ancienne cinquième section de la Chambre, qui a considéré que la France avait violé les dispositions de l'article 10 de la Convention européenne des droits de l'homme.
+
+<<265.14;265.82;fr>>
+Pourquoi?
+
+<<265.87;282.38;fr>>
+Parce qu'elle avait porté indistinctement sur l'entier de l'article et les illustrations, sans distinguer entre l'information principale, qui relevait du départ d'intérêt général, et des circonstances plus particulières, qui relevaient davantage de l'avis privé.
+
+<<283.75;306.35;fr>>
+Pour cette raison, donc, au terme d'une motivation extrêmement circonstanciée et minutieuse, l'ancienne cinquième section a considéré qu'il n'y avait pas de rapport de proportionnalité entre les restrictions imposées à la liberté d'expression et d'information, et le but poursuivi, qui était la protection de l'avis privé du chef de l'État, Monegasque.
+
+<<307.62;330.87;fr>>
+À l'appui de ce recours, devant vous, le 11 septembre 2014, le gouvernement français a prétendu, pour pouvoir être recevable, que cette décision du 12 juin 2014 soulevait une grave insécurité juridique et que c'était une question d'interprétation beaucoup trop large de la notion de débat d'intérêt général.
+
+<<331.94;350.87;fr>>
+Le gouvernement a émis la crainte qu'il foutront, de manière totalement hypothétique et virtuelle, cette décision, qui est une décision manifestement de principe, rendue, encore une fois, je le dis, avec des circonstances extrêmement minutieusement détaillées, que cette décision puisse être considérée comme une décision de principe.
+
+<<352.11;355.59;fr>>
+Évidemment, rien de ces craintes virtuelles n'est fondée.
+
+<<355.59;368.67;fr>>
+La décision du 12 juin 2014 de la Vème chambre, la Vème section, est une décision d'espèce et elle est en tout point conforme, nous allons le voir, à la jurisprudence de votre cours.
+
+<<369.5;386.47;fr>>
+Nous nous attacherons donc, en premier lieu, à montrer que cette décision est une question d'espèce et que, d'aucune manière, elle est un danger pour la protection de la vie privée des personnalités françaises, monégasques, européennes ou de toute autre nationalité.
+
+<<386.47;421.5;fr>>
+Considérant la jurisprudence de votre cours, qui vérifie à la lumière de l'ensemble de l'affaire, s'il existe un besoin social impérieux pour restreindre de cette manière les libertés d'expression, nous nous attacherons, en premier lieu, à rappeler le contexte dans lequel s'inscrit la publication et, en second lieu, nous expliquerons évidemment les motifs pour lesquels nous considérons, comme la décision du 12 juin 2014, qu'il n'y avait pas de besoin social impérieux pour restreindre les libertés d'expression et d'information.
+
+<<421.5;440.02;fr>>
+Et, dans cette affaire particulière, c'est quand même très intéressant de le souligner, pour restreindre aussi, pour faire taire le droit de l'enfant naturel et de sa mère à une revendication parfaitement légitime, protégée par différentes dispositions françaises et internationales qui sont le droit à l'identité.
+
+<<440.02;450.62;fr>>
+Enfin, nous soulignerons l'enjeu de cette décision, de votre décision, qui sera un signe fort pour le droit de la presse et pour la communauté internationale en général.
+
+<<450.62;460.54;fr>>
+Premier point, donc, le rappel du contexte, puisque votre jurisprudence insiste sur l'importance de l'examen à la lumière de l'affaire.
+
+<<460.54;462.5;fr>>
+Quatre points.
+
+<<462.5;470.78;fr>>
+Premier point, contrairement à ce qui a été jugé par les juges français, c'est un point important dans leur motivation.
+
+<<470.78;478.87;fr>>
+L'information n'était pas confidentielle, n'était plus confidentielle à la date de la parution de l'article incriminé.
+
+<<478.87;483.87;fr>>
+C'est important de le souligner parce que ça jouait beaucoup dans leur motivation.
+
+<<483.87;487.82;fr>>
+C'est ce qu'a relevé à juste titre l'ancienne cinquième section.
+
+<<487.82;503.46;fr>>
+En effet, que ce soit en Europe, en France ou aux Etats-Unis, par exemple, le 3 mai et le 4 mai 2005, différents médias, grands médias d'influence nationale et internationale avaient déjà divulgué l'information.
+
+<<503.46;544.07;fr>>
+En Europe, par exemple, le 3 mai 2005, dans le Daily Mail, il y avait un article avec déjà un entretien de Mme Kost, la mère de l'enfant, qui déjà indiquait qu'elle était obligée, elle se pensait, en tout cas, elle était amenée à demander à la connaissance publique de son fils naturel parce que le délai allait expirer au-delà duquel cela ne pourrait plus avoir lieu et que donc, pour cette raison, cet objectif légitime, elle se sentait obligée de devoir faire en sorte que les médias révèlent cette existence de cet enfant naturel.
+
+<<544.07;548.02;fr>>
+Des photos étaient jointes à cet article du Daily Mail.
+
+<<548.02;555.02;fr>>
+De même, Bunte, le 4 mai 2005, un long article avec l'entretien et des photos, pareil.
+
+<<555.02;571.3;fr>>
+Cette importance de Bunte, on reviendra dessus parce qu'il y a eu deux décisions allemandes, le tribunal de Fribourg et la cour de Casseroult, qui ont rendu des décisions parfaitement opposées, symétriquement opposées aux décisions françaises.
+
+<<571.3;587.07;fr>>
+Et ces décisions allemandes, donc, sur le même article, c'est un peu une chance, j'allais dire, aujourd'hui, devant vous, de plaider une affaire qui a été jugée par des juridictions d'une autre nationalité européenne, avec quand même le même droit européen en ligne de mire.
+
+<<587.07;602.46;fr>>
+Eh bien, cet article, quasiment le même, est paru avant nous, eh bien, a été jugé parfaitement légitime, c'est-à-dire que le droit de l'information a été jugé prépondérant par rapport au droit de la protection de l'avis privé d'un chef d'État.
+
+<<602.46;621.11;fr>>
+Ensuite, le 3 mai 2005, le New York Daily News aussi fait paraître l'information, et enfin, en France, RTL, TF1, LCI, qui est une chaîne d'information 24 heures sur 24, donc, qui dit LCI, ça veut dire tous les réseaux sociaux, donc, on fait passer cette nouvelle.
+
+<<621.11;624.26;fr>>
+Premier point, donc, divulgation, antérieure à notre parution.
+
+<<624.26;629.87;fr>>
+Deuxième point, l'impact immédiat dans le monde entier de cette information.
+
+<<629.87;683.99;fr>>
+Je pense que si c'était uniquement une affaire de stars ou de personnalités, comme le gouvernement français, ou Monegasque, essaye de le faire croire, je ne pense pas que des journaux aussi importants que le Times, le Stern, le Mundo, le Matin, en Afrique, le Jeune Afrique Intelligence, au Togo, au Burkina Faso, en Chine, le Quotidien du peuple qui fait 3 millions de lecteurs, au Japon, la Samishin Boob qui fait 12 millions de lecteurs, sans compter les journaux français d'information, le Figaro, Le Monde, Libération, tous ces journaux, tous ces médias dans le monde entier ont répercuté les nouvelles, ce qui montre quand même qu'il est difficile de prétendre, comme le fait le gouvernement français et Monegasque, que cette information était une affaire purement privée, strictement intime, et que ça ne concernait personne.
+
+<<683.99;690.31;fr>>
+Si ça ne concerne personne, je me demande pourquoi tous ces journaux étrangers en ont parlé.
+
+<<690.31;695.66;fr>>
+Troisième point, dans le contexte à voir ce matin, l'apparition dans Paris Match.
+
+<<695.66;705.94;fr>>
+Donc le 5 mai 2005, après l'Angleterre, après l'Allemagne, nous faisons paraître un article où nous changeons notre couverture en dernière minute.
+
+<<705.94;710.87;fr>>
+Nous n'étions pas informés, ce n'était pas un plan orchestré, contrairement à ce que dit le gouvernement français.
+
+<<710.87;722.38;fr>>
+Nous changeons, et je le prouve par une pièce communiquée au débat, notre couverture au dernier moment, et nous publions une interview de la mère de l'enfant avec des photos qu'elle nous remet.
+
+<<722.38;737.07;fr>>
+Nous vérifions dans un délai très court si ces sources sont authentiques, et nous prenons le soin de bien montrer que cette information provient, émane de la mère.
+
+<<737.07;743.11;fr>>
+Le titre, c'est Nicole, sa mère, nous raconte, c'est le fils d'Albert, dit sa mère.
+
+<<743.11;744.83;fr>>
+Nous soulignons plusieurs points.
+
+<<744.83;751.83;fr>>
+La première chose, c'est que l'interview a été faite à la demande, à l'initiative de la mère.
+
+<<751.83;754.78;fr>>
+C'est elle qui vient nous contacter, c'est elle qui nous demande.
+
+<<754.78;758.19;fr>>
+Il n'y a pas d'investigation, il n'y a pas de traque, rien de tout cela.
+
+<<758.19;761.78;fr>>
+Deuxièmement, il n'y a pas de contrepartie financière.
+
+<<761.78;779.42;fr>>
+Troisièmement, le but recherché par Nicole Kost était de rendre public à une date où le prince Albert de Monaco était enfin le souverain, elle n'avait plus de compte à rendre à personne, de rendre public un fait qui ne pouvait plus demeurer davantage caché.
+
+<<779.42;782.18;fr>>
+Pourquoi? Parce que ça faisait deux ans de silence
+
+<<782.18;785.3;fr>>
+et deux ans d'attente selon l'entretien qu'elle donne.
+
+<<785.3;790.62;fr>>
+Je ne défends pas le point de vue de la mère, j'indique ce qu'elle dit dans cet entretien.
+
+<<790.62;794.3;fr>>
+Donc, selon elle, deux ans de silence et d'attente.
+
+<<794.3;799.62;fr>>
+Il y avait une reconnaissance devant notaire dont elle n'arrivait pas à avoir la moindre copie.
+
+<<799.62;809.02;fr>>
+Elle est issue des refus devant le notaire, elle est issue des refus devant la justice, elle n'obtient donc aucune preuve de son connaissance qui est officieuse.
+
+<<809.02;822.38;fr>>
+Et donc, comme elle voit le délai expiré, au-delà duquel son fils naturel ne pourra pas avoir d'état civil, ne pourra plus avoir de père connu, il sera un père inconnu jusqu'à sa majorité.
+
+<<822.38;828.59;fr>>
+Donc, elle se décide à quelques semaines de l'expiration du délai à faire reconnaître l'enfance.
+
+<<828.59;833.75;fr>>
+Et c'est ça le sens et l'objet de l'entretien qu'elle donne à Paris Match.
+
+<<833.75;841.71;fr>>
+Enfin, les photos sont des photos qui ne sont pas prises par le journal, mais par Nicole Kost, la mère, qui les remet au journal.
+
+<<841.71;844.5;fr>>
+Pourquoi? Pour accréditer le récit,
+
+<<844.5;849.5;fr>>
+pour montrer qu'elle est sincère, pour montrer que c'est une histoire, c'est une longue histoire de quatre ans.
+
+<<849.5;858.9;fr>>
+Elle ne veut pas que l'on considère sans doute, elle a peur des accueilles à silence qu'on pourrait lui porter, que c'est une histoire de quelques jours, ou une histoire entre deux avions, ce qui est hôtesse de l'air.
+
+<<858.9;861.42;fr>>
+Non, c'est une longue histoire entre le prince et elle.
+
+<<861.42;863.75;fr>>
+Et ces photos sont là pour le montrer.
+
+<<863.75;866.66;fr>>
+Et elle les prend en différentes circonstances.
+
+<<866.66;870.46;fr>>
+Il veut dire que le prince est parfaitement au courant, ce n'est pas une fois à la semaine, mais plusieurs fois.
+
+<<870.46;873.35;fr>>
+Il est parfaitement conscient de l'existence de ces photos.
+
+<<873.35;876.82;fr>>
+À ce stade, je voudrais dire un mot sur Paris Match.
+
+<<876.82;896.31;fr>>
+En effet, je lis dans les observations du gouvernement français et monégasque des phrases extrêmement dédaigneuses sur le fait que cela soit un journal commercial ou un journal de presse, people, qui n'est là que pour satisfaire la curiosité d'un public attentif à la vie des personnalités.
+
+<<896.31;898.71;fr>>
+À cela, je réponds à deux choses.
+
+<<898.71;906.11;fr>>
+La première, c'est que, n'en déplaise au gouvernement français, qui devrait le savoir pourtant, le journal Paris Match est un journal d'actualité.
+
+<<906.11;909.03;fr>>
+Il fait partie donc du journal d'actualité.
+
+<<909.03;913.55;fr>>
+Il est classé comme tel par l'organisme officiel qui dépend du Premier ministre.
+
+<<913.55;919.26;fr>>
+Et donc, c'est un journal qui ne peut pas d'aucune manière être comparé à un journal people.
+
+<<919.26;925.22;fr>>
+Par ailleurs, il se diversifie, il se caractérise par la diversité de ses sujets.
+
+<<925.22;930.66;fr>>
+Il y a donc des sujets de reportages de guerre, des sujets d'actualité politique, des sujets de faits divers.
+
+<<930.66;937.3;fr>>
+Et seulement 15% de ces sujets sont donc consacrés à la vie des personnalités.
+
+<<937.3;938.62;fr>>
+Donc, c'est une fausse image.
+
+<<938.62;959.66;fr>>
+La seconde chose que je veux dire sur Paris Match, c'est que c'est un journal que demandent les personnalités, les dirigeants, les autorités religieuses de différents pays, les autorités administratives, politiques, demandent à pouvoir passer dans le journal, avoir des interviews, des entretiens qui n'ont rien à voir avec la vie privée, pour des sujets souvent très graves et très sérieux.
+
+<<959.66;966.07;fr>>
+Et je pense que si ce journal était un journal people ou commercial, d'ailleurs, quel journal n'est-il pas commercial?
+
+<<966.07;968.11;fr>>
+Il s'agit bien d'être vendu, sinon on s'arrête de paraître.
+
+<<968.11;972.38;fr>>
+Eh bien, il ne continuerait pas à donner des interviews.
+
+<<972.38;996.23;fr>>
+En ce qui concerne en particulier la famille Grimaldi, je rappellerai quand même que c'est ce journal qui a favorisé la rencontre entre le prince régné et la princesse Grâce, Grèce Kelly, et que ce journal continue à être bien apprécié par Albert de Monaco, puisque Albert de Monaco, récemment encore, le 24 décembre 2014, l'a choisi pour l'exclusivité des photos de ses jumeaux.
+
+<<996.23;999.47;fr>>
+Donc, je ne crois pas qu'il y ait beaucoup de ressentiment à l'égard du journal Paris Match.
+
+<<999.47;1003.19;fr>>
+Dernier point dans le contexte, la reconnaissance tardive par Albert de Monaco.
+
+<<1003.19;1026.9;fr>>
+Ce n'est pas inutile de rappeler dans le débat que Albert de Monaco lui-même, sans doute sous la pression des médias, mais ne l'en connaîtra jamais, quelques semaines seulement après l'intervention dans les médias, a reconnu l'enfant naturel par un plan média particulièrement savant et orchestré, avec une interview préenregistrée sur le plateau de TF1, avec un article dans Le Monde, dans les rales tribunes.
+
+<<1026.9;1032.22;fr>>
+Donc, je pense que c'est la preuve que c'est quelque chose qui dépassait la vie privée.
+
+<<1032.22;1036.7;fr>>
+Dans ce contexte, quelles ont été les décisions internes critiquées?
+
+<<1036.7;1038.38;fr>>
+Donc, trois décisions bien évidemment.
+
+<<1038.38;1043.62;fr>>
+Première décision, tribunal de grande instance de Nanterre du 29 juin 2005.
+
+<<1043.62;1059.83;fr>>
+Ces décisions ont pour point commun ce qu'aura critiqué à juste titre la cinquième chambre, l'ancienne secrétaire de votre cour, c'est de ne faire aucune distinction entre les personnalités privées et les personnalités politiques.
+
+<<1059.83;1067.7;fr>>
+Aucune distinction non plus entre l'article, le sujet principal et éventuellement les circonstances plus de vie privée.
+
+<<1067.7;1073.38;fr>>
+Et d'aucune manière tenir compte de la balance des droits en conflit.
+
+<<1073.38;1075.74;fr>>
+On va voir que c'est le cadre de ces trois décisions.
+
+<<1075.74;1083.7;fr>>
+Donc, le tribunal de grande instance de Nanterre a rejeté, a considéré qu'il n'y avait pas de droit à l'information pour deux raisons.
+
+<<1083.7;1088.11;fr>>
+La première, c'est que selon lui, nous avions comporté de simples rumeurs.
+
+<<1088.11;1088.98;fr>>
+C'est tout.
+
+<<1088.99;1103.7;fr>>
+Et deuxièmement, que je cite, l'entier article et ses illustrations relèvent de la sphère la plus intime de la vie sentimentale et familiale qui ne se prête à aucun débat d'intérêt général.
+
+<<1103.7;1105.62;fr>>
+Donc, aucune mise en balance.
+
+<<1105.62;1112.83;fr>>
+Appel interjeté devant la cour d'appel donc de Versailles, arrêt du 24 novembre 2005.
+
+<<1112.83;1114.62;fr>>
+Que dit la cour d'appel?
+
+<<1114.62;1122.51;fr>>
+Elle dit quelque chose qui vous concerne directement puisqu'elle commence par citer l'article 8 de la Convention européenne.
+
+<<1122.51;1145.83;fr>>
+Et elle dit « La vie sentimentale, familiale, la paternité ou la maternité relève de la vie privée et tombe sous protection de l'article 9 du Code civil comme de l'article 8 de la Convention européenne qui ne distingue pas entre personnes anonymes et personnes publiques, quelles que soient leurs fonctions, civiles, politiques ou religieuses.
+
+<<1145.83;1148.38;fr>>
+C'est totalement le contraire de votre jurisprudence.
+
+<<1148.38;1152.83;fr>>
+Et j'ajoute, c'est le contraire de la jurisprudence française.
+
+<<1152.83;1155.03;fr>>
+Ce n'est pas dans la ligne de jurisprudence française.
+
+<<1155.03;1157.62;fr>>
+Je plaide toutes les semaines devant la 17e chambre.
+
+<<1157.62;1161.59;fr>>
+Aucun magistrat aujourd'hui ne dirait ça.
+
+<<1161.59;1166.43;fr>>
+Deuxième motif de la cour d'appel.
+
+<<1166.43;1168.62;fr>>
+Ce sujet n'est pas intéressant.
+
+<<1168.62;1170.22;fr>>
+RAS, rien à signaler.
+
+<<1170.22;1170.95;fr>>
+Pourquoi?
+
+<<1170.95;1171.95;fr>>
+Parce que 1.
+
+<<1171.95;1173.43;fr>>
+Pas de statut officiel de l'enfant.
+
+<<1173.43;1174.87;fr>>
+Forcément, il n'est pas reconnu.
+
+<<1174.87;1176.78;fr>>
+2. Pas de connaissances publiques,
+
+<<1176.78;1177.7;fr>>
+pour la même raison.
+
+<<1177.7;1178.59;fr>>
+Et 3.
+
+<<1178.59;1182.78;fr>>
+La Constitution ménégasque exclut les enfants qui sont naturels.
+
+<<1182.78;1186.83;fr>>
+Et donc la cour d'appel en conclut avec une phrase, une formule très particulière.
+
+<<1186.83;1191.66;fr>>
+Elle dit il n'y a pas de nécessité inexistante de l'actualité.
+
+<<1191.66;1193.26;fr>>
+Nécessité inexistante de l'actualité.
+
+<<1193.26;1195.7;fr>>
+En fait, la cour d'appel résonne à l'envers.
+
+<<1195.7;1206.66;fr>>
+Au lieu de savoir s'il y a un besoin social, un appareil, une nécessité de restreindre la liberté d'expression, elle va dire dans l'autre sens, il n'y a pas de nécessité de l'actualité.
+
+<<1206.66;1208.11;fr>>
+L'actualité, ce n'est pas nécessaire.
+
+<<1208.11;1210.51;fr>>
+Ça l'est ou ça ne l'est pas.
+
+<<1210.51;1213.66;fr>>
+Et donc on est bien dans la critique fondamentale.
+
+<<1213.66;1217.42;fr>>
+Dès que ce n'est pas reconnu par le père, c'est secret, ça n'existe pas.
+
+<<1217.42;1221.14;fr>>
+Arrêt de cassation, même chose, même discours.
+
+<<1221.14;1222.78;fr>>
+Les trois motifs sont les suivants.
+
+<<1222.78;1225.95;fr>>
+Chacun a un droit au respect de sa vie privée, quelles que soient les fonctions.
+
+<<1225.95;1230.51;fr>>
+Donc pas de distinction, citoyen ordinaire, citoyen politique.
+
+<<1230.51;1237.47;fr>>
+La question de l'existence d'un enfant naturel, d'un souverain n'était pas un sujet d'actualité à la date de l'apparition.
+
+<<1237.47;1240.62;fr>>
+On va voir que c'est intéressant cette phrase à la date de l'apparition.
+
+<<1240.62;1244.55;fr>>
+Et la légitimité d'un sujet est subordonnée à la volonté du père.
+
+<<1244.55;1246.94;fr>>
+C'est intéressant à la date de l'apparition, pourquoi?
+
+<<1246.94;1255.83;fr>>
+Ça veut dire que pour la code de cassation, avant la reconnaissance par l'enfant, de l'enfant par le père, il n'y avait pas d'actualité.
+
+<<1255.83;1257.03;fr>>
+C'était du non droit.
+
+<<1257.03;1261.11;fr>>
+Et pour la formation, pour l'opinion publique, et pour l'enfant, non droit.
+
+<<1261.11;1270.07;fr>>
+Mais à partir du moment où le père va le reconnaître, en juillet 2005, juste quelques semaines après, alors là, tout d'un coup, ça tombe dans le domaine de l'actualité.
+
+<<1270.07;1279.46;fr>>
+C'est donc la volonté du père discrétionnaire, de reconnaître ou de ne pas reconnaître, et à quelle date il va le faire, qui va déterminer si c'est de l'actualité ou de pas l'actualité.
+
+<<1279.46;1290.9;fr>>
+Évidemment, c'est dans le cadre de ces décisions que nous avons formé un recours devant la Cour européenne et qui a rendu l'arrêt que l'on connaît du 14 juin 2014.
+
+<<1290.9;1308.31;fr>>
+Question de droit, donc, violation de l'article 10, est-ce que, comme la jugée à bon droit, selon nous, la cinquième chambre de votre cour, ces restrictions étaient ou pas imposées par un besoin social impérieux?
+
+<<1308.31;1310.18;fr>>
+Est-ce qu'il y a une ingérence?
+
+<<1310.18;1311.66;fr>>
+Est-ce qu'elle est légale et légitime?
+
+<<1311.66;1312.59;fr>>
+Est-ce qu'elle est justifiée?
+
+<<1312.59;1314.27;fr>>
+C'est ce que nous allons voir tout de suite.
+
+<<1314.27;1315.67;fr>>
+Une ingérence, certainement.
+
+<<1315.67;1330.83;fr>>
+Je ne pense pas que c'est contesté qu'une restriction aussi importante qu'une publication judiciaire sur un tiers d'une page de couverture et 50 000 euros au regard de la jurisprince française pour un journal d'actualité est une véritable ingérence.
+
+<<1330.83;1332.23;fr>>
+Est-ce qu'elle est légale et légitime?
+
+<<1332.23;1333.51;fr>>
+Oui et non.
+
+<<1333.51;1335.59;fr>>
+Partiellement légale et légitime. Pourquoi?
+
+<<1335.59;1337.87;fr>>
+Bien sûr, c'est l'article 9 du Code civil.
+
+<<1337.87;1346.71;fr>>
+Bien sûr, c'est l'article 8 de la Convention qui sont mis en avant, et je ne conteste pas l'intérêt légitime de protéger la vie privée d'un chef d'État.
+
+<<1346.71;1362.62;fr>>
+Ce que je dis, et il y a une nuance à cela, une réserve, c'est que telle que c'est appliqué par ces juridictions-là, ça n'a pas été le cas aujourd'hui, encore une fois, de la jurisprince française, eh bien c'est une leçon beaucoup trop extensive et beaucoup trop exclusive.
+
+<<1362.62;1373.47;fr>>
+Beaucoup trop extensive parce qu'elle va au-delà, puisqu'elle refuse, elle tourne le dos à la jurisprince, elle refuse de distinguer entre citoyens ordinaires et personnalités politiques.
+
+<<1373.47;1393.38;fr>>
+C'est un refus, et exclusive parce qu'elle va rejeter toute autre considération de tout autre droit en présence, qui sont le droit à l'information, et dans cette affaire en particulier, le droit de l'enfant naturel à la vie privée et la vie familiale, le droit de la mère de la même manière, et le droit à la liberté d'expression de la mère également.
+
+<<1393.38;1404.27;fr>>
+L'on dira qu'effectivement, il y a des limites et des réserves à cette ingérence égale parce que la jurisprince française n'est pas en conformité avec ces décisions-là.
+
+<<1404.27;1405.27;fr>>
+Je vais donner trois exemples.
+
+<<1405.27;1411.62;fr>>
+Le premier est très intéressant, qui est une arrêt de cassation de 2004, qui est dans les pièces communiquées.
+
+<<1411.62;1416.83;fr>>
+Cette arrêt de cassation qui a été rendue par la Deuxième Chambre aux civils, donc un an avant les faits, elle dit le contraire.
+
+<<1416.83;1417.79;fr>>
+Elle dit quoi?
+
+<<1417.79;1423.03;fr>>
+Elle dit que dans les familles Grimaldi et Hanover, donc les mêmes, eh bien il y a un intérêt légitime.
+
+<<1423.03;1427.51;fr>>
+Est-ce que l'on parle de la naissance de la fille de Caroline de Hanover?
+
+<<1427.51;1428.31;fr>>
+Pourquoi?
+
+<<1428.31;1432.42;fr>>
+Parce que c'est susceptible d'avoir des conséquences politiques et dynastiques.
+
+<<1432.42;1434.03;fr>>
+Alors, c'est quoi la différence?
+
+<<1434.03;1439.19;fr>>
+En 2004, c'est légitime, en 2005, ça ne l'est plus, parce que la seule différence, c'est que l'enfant n'est pas reconnu.
+
+<<1439.19;1444.59;fr>>
+Ça ne paraît pas particulièrement conforme à votre droit européen et au droit de l'homme en particulier.
+
+<<1444.59;1456.23;fr>>
+Donc, surtout que l'on sait qu'à l'extérieur de Hanover, on n'avait aucune chance, aucune chance de succéder au trône dynastique de Hanover, puisque c'est la loi Salic qui s'applique, donc aucune chance.
+
+<<1456.23;1457.66;fr>>
+Donc, c'est purement virtuel.
+
+<<1457.66;1459.11;fr>>
+Les codes de cassation disent ça en général.
+
+<<1459.11;1466.14;fr>>
+Elles ne vérifient même pas, ce n'est pas l'exégèse de la Constitution monégasque, elles disent que c'est susceptible, cela peut être susceptible de conséquences.
+
+<<1466.14;1471.9;fr>>
+Donc, je considère que c'est légitime d'informer de la naissance d'un enfant dans les familles grimaldies de Hanover.
+
+<<1471.9;1487.46;fr>>
+Deuxième décision de 2002, c'est encore la code de cassation, c'est une affaire à Hanover aussi, qui considère qu'il était normal que selon le rang, la profession et la notoriété de ces personnes, il y ait un intérêt légitime à part leur divorce.
+
+<<1487.46;1502.58;fr>>
+Troisième décision, tribunal de la France de Paris, très récent, du 31 octobre 2014, et c'est intéressant parce que c'est à propos d'hommes politiques, Montebourg, Arnaud Montebourg et Aurélie Filippetti, qui sont photographiés dans la rue à San Francisco.
+
+<<1502.58;1518.3;fr>>
+Le tribunal de Paris dit que c'est intéressant, leur relation est intéressante parce qu'elle peut être susceptible d'éclairer les électeurs français sur les raisons pour lesquelles Aurélie Filippetti a démissionné brutalement du gouvernement.
+
+<<1518.3;1548.3;fr>>
+Le terme utilisé, c'est les conséquences d'un lien personnel entre deux ministres à l'occasion de leur départ simultané et très récent du gouvernement, représentant un sujet d'intérêt général en rapport à la capitalité, pouvant justifier la révélation d'une relation en raison du droit public à l'information et du principe de la liberté d'expression, eu égard aux liens révélés dans l'article en cause, il devenait possible de s'interroger sur la dimension personnelle du départ d'Aurélie Filippetti.
+
+<<1548.3;1551.38;fr>>
+C'est exactement comme votre chambre, votre jurisprudence.
+
+<<1551.38;1554.14;fr>>
+Donc le juge français, en 2014, dit la même chose.
+
+<<1554.14;1558.07;fr>>
+C'est possible, ce n'est pas une nécessité, mais dans les circonstances, c'est possible.
+
+<<1558.07;1560.66;fr>>
+Et il n'était plus ministre à l'époque.
+
+<<1560.66;1568.9;fr>>
+Donc je pense que c'est intéressant d'avoir cette réserve et garder en tête que le juge de France française n'est pas conforme à cette décision.
+
+<<1568.9;1571.3;fr>>
+Est-ce que l'ingérence est nécessaire?
+
+<<1571.3;1575.66;fr>>
+À la lumière du contexte de l'affaire, nous regarderons si cette ingérence était nécessaire.
+
+<<1575.66;1578.55;fr>>
+La réponse pour nous est négative.
+
+<<1578.55;1581.83;fr>>
+En effet, on recherche le besoin social et impérieux.
+
+<<1581.83;1582.87;fr>>
+Quel est-il?
+
+<<1582.87;1606.51;fr>>
+Quel est-il, le besoin social et impérieux de cette affaire, qui est de sanctionner lourdement un journal d'actualité pour avoir publié une information qui contribue au débat d'intérêt général, qui était déjà divulguée dans l'agora médiatique, elle existait déjà avant par images, et à laquelle a contribué directement le prince régnant lui-même puisqu'il a lui-même orchestré un vaste plan médiatique.
+
+<<1606.51;1609.15;fr>>
+Donc quel est le besoin social impérieux?
+
+<<1609.15;1616.87;fr>>
+Deuxièmement, on cherche en vain le besoin social impérieux de faire taire les droits d'un enfant, un enfant naturel.
+
+<<1616.87;1624.51;fr>>
+Là, on est vraiment dans le droit fil de votre juste prononce, on a le fort et le faible, le chef d'État et l'enfant naturel.
+
+<<1624.51;1640.42;fr>>
+Quel est le besoin social impérieux d'interdire un enfant naturel de devoir reconnaître publiquement sa filiation sous identité, uniquement pour protéger l'anonymat d'un chef de terre monégasque qui n'a de compte à rendre à personne à l'époque?
+
+<<1640.42;1672.38;fr>>
+Il n'y avait pas de besoin social impérieux, nous montrerons donc en premier lieu que la décision du 12 juin 2014 est en tout point conforme à votre jurispronance en ce que d'une part, elle a sanctionné comme j'ai dit à l'introduction, le fait qu'il n'y avait pas de distinction dans les décisions critiquées entre les droits en présence et entre le contenu de l'article relevant du débat principal des circonstances particulières et deuxièmement, nous relèverons que les critères de votre jurispronance sont réunis en l'espèce.
+
+<<1672.38;1682.7;fr>>
+Donc, premier lieu, premier point qui à lui seul suffit à motiver la condamnation de l'article 10 pour violation de l'article 10.
+
+<<1682.7;1689.18;fr>>
+Premier point, c'est qu'il n'y a eu aucune balance circonstanciée des droits en présence, aucune.
+
+<<1689.18;1693.98;fr>>
+C'est la vie privée du chef de l'État chasse toute autre considération.
+
+<<1693.98;1703.24;fr>>
+Nous l'avons vu dans les formules lapidaires des décisions, nécessité inexistante de l'actualité, absence de tout fait d'actualité comme de tout débat général.
+
+<<1703.24;1706.85;fr>>
+C'est donc les phrases de la Cour de cassation.
+
+<<1706.85;1722.92;fr>>
+Et donc, c'est aucune balance entre le droit à l'information et la vie privée du chef de l'État, mais aussi aucune balance entre la vie privée du chef de l'État et la vie privée et familiale de l'enfant naturel et de sa mère et de la liberté d'expression de sa mère.
+
+<<1722.92;1727.03;fr>>
+En effet, là, c'est clair, l'arrêt du doujour le relève.
+
+<<1727.03;1730.68;fr>>
+Il n'y a même pas d'évocation dans les décisions internes françaises.
+
+<<1730.68;1733.42;fr>>
+On ne parle même pas de la mère ou de l'enfant.
+
+<<1733.42;1734.62;fr>>
+Ça n'existe pas.
+
+<<1734.62;1735.68;fr>>
+C'est du non droit.
+
+<<1735.68;1737.44;fr>>
+Ça ne rentre pas en considération.
+
+<<1737.44;1743.18;fr>>
+Nous avons développé des moyens en ce sens du côté de l'information et bien en expliquant que c'était un triangle finalement.
+
+<<1743.18;1749.18;fr>>
+Il y avait la presse, il y avait l'enfant et sa mère et il y avait Alba de Monaco.
+
+<<1749.18;1769.04;fr>>
+Eh bien, les juges français ne prennent pas ça en considération, alors même que l'enfant, évidemment, naturel, a des droits importants et que la mère d'eux-mêmes a aussi les droits de faire connaître son droit à la dignité et son droit à la vie privée.
+
+<<1769.04;1784.74;fr>>
+Nous relèverons que les juges allemands ont, ont jugé à l'inverse de ce que, effectivement, les droits de la mère et de l'enfant étaient particulièrement importants dans cette affaire et qu'ils devaient être pris en considération.
+
+<<1784.74;1793.44;fr>>
+Nous avons dit que cette absence de balance suffisait en soi à enfreindre les dispositions de la Convention.
+
+<<1793.44;1800.14;fr>>
+Deuxièmement, les critères de appliquer à votre jurisprudence européenne.
+
+<<1800.14;1803.64;fr>>
+Il y a quatre critères.
+
+<<1803.64;1815.85;fr>>
+C'est la contribution au débat intergénéral, le mode d'obtention des informations, des photos et leur véracité, les répercussions sur les personnes et enfin la gravité des sanctions.
+
+<<1815.85;1821.55;fr>>
+Alors, premièrement, le débat intergénéral, c'est le point essentiel de ce sujet.
+
+<<1821.55;1830.79;fr>>
+En quoi est-ce que l'article est contribué ou pas au débat intergénéral et en quoi est-ce qu'il n'y avait pas de besoin social impérieux de le restreindre?
+
+<<1830.79;1832.79;fr>>
+Premier point, votre jurisprudence.
+
+<<1832.79;1834.88;fr>>
+Votre jurisprudence est très claire sur la question.
+
+<<1834.88;1840.09;fr>>
+Vous avez une notion d'intérêt général qui est large et circonstanciée à la fois.
+
+<<1840.09;1842.88;fr>>
+Elle n'est pas étroite, mais elle n'est pas de principe non plus.
+
+<<1842.88;1863.79;fr>>
+Vous considérez qu'il y a un droit du public à être informé dans certaines circonstances et si ça intéresse effectivement l'opinion publique, cela correspond à la position du Conseil de l'Europe, la résolution numéro 1565 du Conseil de l'Europe, qui rappelle que certains faits relevant de la vie privée peuvent avoir un intérêt.
+
+<<1863.79;1868.79;fr>>
+On a toujours la potentialité, c'est possible, ce n'est pas une question de principe, ça dépend des circonstances.
+
+<<1868.79;1886.35;fr>>
+Vous avez aussi dit, et c'est contraire à ce que dit le gouvernement européen à Monegasque, que ces faits de vie privée qui pouvaient relever d'un débat d'intérêt général ne se cantonnaient pas, ne se limitaient pas aux seuls faits ayant un impact direct sur les statuts ou les fonctions politiques.
+
+<<1886.35;1889.23;fr>>
+Ce n'est pas limité, parce que sinon il n'y aura plus de faits de vie privée.
+
+<<1889.23;1902.14;fr>>
+Évidemment, pour que les électeurs ou le public aient une opinion sur le jugement, l'habilité à gouverner, l'honnêteté d'un gouverneur, il ne faut pas que ces faits privés soient totalement exclus.
+
+<<1902.14;1909.55;fr>>
+Vous avez d'ailleurs condamné les décisions nationales qui avaient un contrôle trop strict de cette notion de débat d'intérêt général.
+
+<<1909.55;1919.69;fr>>
+Vous avez considéré que la notion de débat général s'appliquait pour les événements de l'histoire contemporaine, vous l'avez jugé pour l'affaire Régnier III de Monaco dans la décision Hanovre de 2012.
+
+<<1919.69;1948.74;fr>>
+Vous avez considéré que la maladie du prince Régnant était un sujet d'événements de l'histoire contemporaine et vous avez été plus loin en disant que même dans ce contexte-là, la manière dont les enfants réagissaient à la maladie de leur père, la manière dont ils conciliaient les obligations de solidarité familiale avec les intérêts de leur vie privée, dont le désir de partir en vacances par exemple, était légitime et avait une valeur informative.
+
+<<1948.74;1953.94;fr>>
+Et vous avez considéré que les photos de Caroline de Hanovre à Saint-Maurice étaient informatives.
+
+<<1953.94;1962.98;fr>>
+Et dans une affaire runçonnaine du 14 janvier 2014, que cite et dont fait grand cas le gouvernement en face, eh bien vous avez pensé la même chose.
+
+<<1962.98;1974.62;fr>>
+La quatrième section de votre cours a considéré que même, quand bien même un livre était relatif à la vie privée d'un Premier ministre, il comportait des éléments de débat intergénéral.
+
+<<1974.62;1996.54;fr>>
+Et vous avez dit, à la suite de la haute cour finlandaise, que la relation d'un Premier ministre et d'une jeune femme, les circonstances de leur rencontre et la manière dont leur relation s'était nouée rapidement, contribuait à un débat intergénéral parce qu'elle permettait, à la lumière de ses faits, de se porter un jugement sur son honnêteté, son habilité à gouverner et son jugement.
+
+<<1996.54;2000.64;fr>>
+Finalement, comment est-ce qu'on porte dans la vie privée, est-ce que c'est normal qu'il y ait une relation aussi rapide?
+
+<<2000.64;2005.12;fr>>
+Cela nous permet d'avoir un jugement sur son habilité.
+
+<<2005.12;2012.52;fr>>
+Appliqué au cas d'espèce, nous voyons que cet article a contribué au débat intergénéral sur trois points.
+
+<<2012.52;2013.98;fr>>
+Premièrement, le sujet.
+
+<<2013.98;2016.09;fr>>
+Deuxièmement, la prise en compte des intérêts en présence.
+
+<<2016.09;2019.52;fr>>
+Et troisièmement, l'article, la forme de l'article.
+
+<<2019.52;2020.52;fr>>
+Le sujet.
+
+<<2020.52;2022.83;fr>>
+Le sujet, cinq points rapidement.
+
+<<2022.83;2027.88;fr>>
+Personne publique, incontestable, chef d'État, souverain depuis avril 2005.
+
+<<2027.88;2034.59;fr>>
+Donc, il a des obligations à l'égard de l'opinion, de savoir comment il se comporte.
+
+<<2034.59;2036.48;fr>>
+C'est un État de droit souverain à Monaco.
+
+<<2036.48;2040.35;fr>>
+Il est à la Semaine des Nations Unies, président du jeu olympique.
+
+<<2040.35;2041.59;fr>>
+Ce n'est pas contestable.
+
+<<2041.59;2045.85;fr>>
+Deuxième point, droit à l'information du public sur l'État civil du chef d'État.
+
+<<2045.85;2048.35;fr>>
+Ce n'est pas uniquement le problème de l'enfant naturel, c'est son État civil.
+
+<<2048.35;2052.55;fr>>
+Il prend la succession du trône et il se déclare célibataire sans enfant.
+
+<<2052.55;2056.43;fr>>
+Or, il n'est pas sans enfant et il le sait très bien puisqu'il a reconnu l'enfant devant le notaire.
+
+<<2056.43;2058.64;fr>>
+Donc, il y a une sorte de tromperie.
+
+<<2058.64;2064.52;fr>>
+En tout cas, il n'a pas fait part de son État civil et le public a le droit de savoir quel est son véritable État civil.
+
+<<2064.52;2068.14;fr>>
+Troisième point, les incidences politiques et dynastiques.
+
+<<2068.14;2076.78;fr>>
+Ça, c'est un argument qui est un argument évidemment très important qui a été relevé par les juges allemands parce que nous sommes dans une monarchie héréditaire.
+
+<<2076.78;2091.28;fr>>
+Et donc, dans cette monarchie-là, forcément, nous avons besoin, à défaut de légitimes démocratiques, de vérifier, de savoir dans quel ordre, de quelle manière la naissance d'un enfant va bouleverser ou pas la dévolution de succès oral.
+
+<<2091.28;2100.82;fr>>
+Et la naissance d'un enfant est toujours un événement social, mais elle était aussi un événement social et politique au sens large dans une monarchie.
+
+<<2100.82;2104.44;fr>>
+Dès lors, il était légitime pour l'opinion de se poser des questions sur la développement de succès oral.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2105.89;2112.81;fr>>
+Maître de Percin, est-ce que je peux vous demander de conclure le temps qui vous a été imparti est maintenant largement dépassé déjà?
+
+[[Applicant;AP1]]
+
+<<2114.0;2146.4;fr>>
+Donc je conclurai très rapidement pour dire que, selon les critères de votre jurisprudence, nous avons donc pu voir que l'arrêt de 12 juin 2014 avait respecté les critères qui sont la contribution à l'intérêt général, non seulement pour le sujet, mais aussi pour le contenu et la forme de l'entretien et la prise en compte des intérêts de l'enfant naturel qui sont protégés par l'article 3 des Nations Unies et par l'article 8.
+
+<<2146.4;2156.64;fr>>
+La mode d'obtention des informations est aussi très claire puisque nous n'avons fait aucune investigation, aucune traque, nous l'avons obtenue par la volonté de la maire.
+
+<<2156.64;2159.28;fr>>
+Enfin, la sanction est très sévère.
+
+<<2159.28;2169.56;fr>>
+Pour nous, la sanction, en réalité, le fait d'avoir une publication en page de couverture est quelque chose d'extrêmement grave, vexatoire et que nous avons eu comme des cas exceptionnels.
+
+<<2169.56;2190.12;fr>>
+En conclusion sur tous ces points, je dirais que nous attendons de beaucoup de votre décision parce que, comme vous pouvez le voir, nous sommes dans un conflit très particulier, très singulier, et c'est ce qu'a relevé la Vème Chambre de la Cour, un conflit très singulier où ne sont pas uniquement en compte les intérêts d'H.H. de Tamanegas,
+
+<<2190.12;2203.16;fr>>
+mais aussi les intérêts de la vie privée d'un enfant naturel et de sa mère, qui n'ont pas été pris en compte et qui méritaient une protection tout aussi importante que celle du chef de l'État.
+
+<<2203.16;2226.32;fr>>
+En seconde, je dirais que je pense que c'est une chance pour nous, c'est sans doute la première fois que nous avons affaire à une affaire qui a déjà été jugée par des juges, autres juges allemands, dans des circonstances tout à fait similaires et qui, au-delà de la différence de l'élegation nationale, a rendu une décision complètement contraire dans le droit fil de votre jurisprudence en considérant que le droit à l'information était prépondérant.
+
+<<2226.32;2245.12;fr>>
+Enfin, je regrette à titre personnel que la première affaire que le gouvernement français a cru devoir soulever devant vous en recours, en réexamen, est une affaire qui concerne la protection de la vie privée d'un chef d'État.
+
+<<2245.12;2287.92;fr>>
+Je pense que la France, pays des droits de l'homme, avait sans doute d'autres sujets plus intéressants que celui-ci et je pense que votre rôle, quel que soit la marge de manœuvre des États, qui existe évidemment, votre rôle dans le cadre de votre contrôle européen et précisément quand la marge de manœuvre s'estompe parce qu'on ne respecte pas les principes, on ne procède à aucune balance, on impose et on décrète, votre rôle est de favoriser l'harmonisation entre les jurisprudences européennes et de permettre la protection du faible contre le fort en limitant, en posant des limites aux tentatives toujours grandes des États de vouloir protéger les dirigeants politiques.
+
+<<2287.92;2292.92;fr>>
+Donc nous attendons beaucoup, ce sera un signe très fort pour la presse, pour la communauté nationale et internationale.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2295.07;2297.39;fr>>
+Merci beaucoup, maître de Percin.
+
+<<2297.39;2299.39;fr>>
+La parole est à M. de Bergues.
+
+[[Government;GR1]]
+
+<<2301.55;2303.15;fr>>
+Merci, Monsieur le Président.
+
+<<2303.15;2318.35;fr>>
+Monsieur le Président, Mesdames et Messieurs les juges, l'affaire qui nous réunit aujourd'hui concerne un conflit entre la liberté d'expression et la vie privée, deux libertés fondamentales auxquelles la France est particulièrement attachée et qui méritent un égal respect.
+
+<<2318.35;2342.11;fr>>
+Votre cours a eu l'occasion de rappeler à plusieurs reprises que l'issue d'une requête ne saurait varier selon qu'elle a été portée devant elle sous l'angle de l'article 10 de la Convention, par celui qui est à l'origine de la publication litigieuse, ou sous l'angle de l'article 8 de la Convention, par celui ou celle qui constitue l'objet de la publication.
+
+<<2342.11;2352.07;fr>>
+En l'espèce, la requête a été portée devant votre cours sous l'angle de l'article 10 de la Convention, c'est-à-dire sous l'angle de la liberté d'expression.
+
+<<2352.07;2371.87;fr>>
+En effet, c'est l'hebdomadaire Paris Match qui se plaint d'une violation de sa liberté d'expression après qu'il a été condamné à verser des dommages et intérêts et à procéder à une publication judiciaire pour atteinte à la vie privée et à l'image du prince Albert de Monaco.
+
+<<2371.87;2385.39;fr>>
+Pour mémoire, en mai 2005, l'hebdomadaire Paris Match avait publié un article révélant l'existence d'un enfant naturel du prince Albert de Monaco, prince régnant depuis la mort de son père le mois précédent.
+
+<<2385.39;2389.27;fr>>
+Ces publications avaient été faites contre le gré du prince.
+
+<<2389.27;2412.83;fr>>
+C'est pourquoi celui-ci avait, sur le fondement des articles 9 et 1382 du Code civil français, assigné la directrice de publication, Madame Couder, et la société éditrice de Paris Match en réparation de ses préjudices résultant des atteintes portées au droit au respect de sa vie privée et à son image.
+
+<<2412.83;2433.79;fr>>
+Dans son arrêt du 12 juin 2014, la Chambre a considéré que la condamnation des requérantes avait porté indistinctement sur des informations qui relevaient d'un débat d'intérêt général et sur des informations qui concernaient exclusivement des détails de la vie privée du prince Albert de Monaco.
+
+<<2433.79;2455.31;fr>>
+Cependant, la Chambre a estimé qu'il n'existait pas de rapport raisonnable de proportionnalité entre les restrictions qui avaient été imposées aux requérantes, à la liberté d'expression des requérantes et le but légitime poursuivi de protection de la vie privée sur le fondement de l'article 10.
+
+<<2455.31;2461.71;fr>>
+À la suite de cet arrêt, le gouvernement français a demandé le renvoi de l'affaire devant la Grande Chambre.
+
+<<2461.71;2486.55;fr>>
+En effet, il estime que cette affaire, que l'arrêt de Chambre, pardonnez-moi, soulève une question grave relative à l'interprétation et à l'articulation des articles 8 et 10 de la Convention qui mettent en jeu d'un côté le droit d'une personne publique au respect de sa vie privée et de l'autre le respect de la liberté de la presse.
+
+<<2486.55;2499.51;fr>>
+Le gouvernement français considère que la volonté de Madame C de rendre publique la paternité de son enfant afin que celle-ci soit reconnue ne doit pas être prise en compte en espèce.
+
+<<2499.51;2510.31;fr>>
+En effet, ce qui est ici en cause, ce n'est pas la liberté d'expression de Madame C, mais la liberté d'expression de l'hebdomadaire par image.
+
+<<2510.31;2525.79;fr>>
+À cet égard, il convient de rappeler que dans son arrêt, la Chambre a estimé que la présente affaire mette en jeu non seulement les droits et les intérêts des requérantes, mais aussi les intérêts de Madame C et de son enfant.
+
+<<2525.79;2545.67;fr>>
+Ainsi, la Chambre a pris en considération les intérêts de la mère et de l'enfant dans son analyse de l'objet du reportage, dans son appréciation du mode d'obtention des informations et des photos et dans son évaluation des répercussions de la publication.
+
+<<2545.67;2561.03;fr>>
+Selon le gouvernement français, si l'hebdomadaire par image avait entendu se prévaloir des intérêts de Madame C, il aurait dû appeler celle-ci en la cause devant les juridictions françaises, ce qu'il n'a pas fait.
+
+<<2561.03;2591.27;fr>>
+Par conséquent, il faut considérer que, comme l'ont relevé les juges dans leur opinion dissidente, la présente affaire concerne un conflit classique entre les droits et intérêts d'un organe de presse qui invoque son droit à la liberté d'expression, d'un côté, et de l'autre, les droits et les intérêts d'une personne qui a fait l'objet d'un reportage et qui se plaint d'une atteinte à son image et à sa vie privée.
+
+<<2591.27;2606.95;fr>>
+À cet égard, il convient de rappeler que, selon votre cours, les garanties accordées à la presse sont l'une des conditions préalables au bon fonctionnement de la démocratie et l'une des conditions primordiales de son progrès et de l'épanouissement de chacun.
+
+<<2606.95;2622.83;fr>>
+Cependant, si en tant que chien de garde de la démocratie, pour reprendre votre expression célèbre, la presse bénéficie d'un statut et d'une protection particulière, ce n'est que dans la mesure où elle contribue au débat d'intérêt général.
+
+<<2622.83;2631.51;fr>>
+Par ailleurs, votre cours ne néglige pas le droit à la vie privée et familiale, ainsi que le droit à l'image, qui en est une composante.
+
+<<2631.51;2653.91;fr>>
+Ainsi, dans votre arrêt Fohnenhover contre Allemagne du 24 juin 2004, vous avez rappelé, je cite, l'importance fondamentale que revêt la protection de la vie privée pour l'épanouissement de la personnalité de chacun, protection qui va au-delà du cercle familial intime et comporte également une dimension sociale.
+
+<<2653.91;2670.15;fr>>
+Dans ce même arrêt, vous avez également précisé que si la liberté d'expression s'étend également à la publication de photos, il s'agit néanmoins d'un domaine où la protection de la réputation et des droits d'autrui revêt une importance particulière.
+
+<<2670.15;2682.43;fr>>
+En l'occurrence, je vous cite toujours, il s'agit de la diffusion non pas d'idées, mais d'images contenant des informations très personnelles, voire intimes, sur un individu.
+
+<<2682.43;2703.39;fr>>
+Ainsi, pour déterminer si la condamnation des requérantes pour violation du droit au respect de la vie privée du prince Albert de Monaco était justifiée au regard de la Convention, il importe d'abord de vérifier, de déterminer si l'article litigieux contribuait ou non à un débat d'intérêt général.
+
+<<2703.39;2734.19;fr>>
+Selon le gouvernement français, en admettant la divulgation par un organe de presse de la paternité du prince Albert de Monaco, au moyen de nombreux détails et de photos touchant au cœur de sa vie privée, sans lien avéré avec les affaires publiques ou l'avenir de la principauté, la Chambre s'est livrée à une interprétation erronée de la notion de contribution à un débat d'intérêt général et a ouvert la voie à une grande insécurité juridique.
+
+<<2734.19;2747.67;fr>>
+A ce propos, il convient d'ailleurs de relever que Medio Legal Defense Initiative reconnaît elle-même dans sa tierce intervention que la Chambre a adopté une approche large relativement à ce qui constitue un débat d'intérêt général.
+
+<<2747.67;2774.15;fr>>
+Selon le gouvernement français, une interprétation trop extensive de la notion de débat d'intérêt général réduirait à l'extrême la portée du droit au respect de la vie privée des personnes publiques et ouvrirait la voie à une multiplication des atteintes à la vie privée et au droit à l'image de ces personnes à des fins exclusivement mercantiles.
+
+<<2774.15;2787.43;fr>>
+A cet égard, il convient de rappeler que dans votre arrêt Phone and Over Alman de 2004, auquel je me suis déjà référé, votre cours a reconnu que même les personnes publiques ont le droit au respect de leur vie privée.
+
+<<2787.43;2800.31;fr>>
+Or, selon la cour, dans cette affaire, des photos représentant la princesse de Hanover dans des scènes de la vie quotidienne sera portée, selon vous, exclusivement à des détails de sa vie privée.
+
+<<2800.31;2817.91;fr>>
+Toujours dans cet arrêt, votre cours a souligné que le droit au respect de la vie privée comprend le droit à l'image et qu'il existe, je cite, une zone d'interaction entre l'individu et des tiers qui, même dans un contexte public, peut relever de la vie privée.
+
+<<2817.91;2835.55;fr>>
+La cour en a conclu que les éventuelles publications ne sont possibles que si elles contribuent au débat d'intérêt général et que même connue du grand public, une personne va pouvoir bénéficier d'une espérance légitime de respect de sa sphère intime.
+
+<<2835.55;2847.75;fr>>
+Cependant, il est vrai que dans votre arrêt Von Hanover contre Allemagne numéro 2 de 2012, vous avez retenu une conception qui nous paraît singulièrement extensive de la notion de débat d'intérêt général.
+
+<<2847.75;2876.27;fr>>
+En effet, tout en reconnaissant dans cette affaire que les photos de la princesse et du prince de Hanover, prises à leur insu pendant leurs vacances, ne portaient pas sur un événement d'intérêt général, vous avez jugé cependant que la publication de ces photos était possible car elle contribuait au débat d'intérêt général en raison d'un texte faisant état de la santé du prince régné.
+
+<<2876.27;2892.27;fr>>
+Comme la doctrine l'a relevé, ou partie de la doctrine, l'arrêt Von Hanover contre Allemagne numéro 2 marque, sans le dire, une certaine rupture avec l'arrêt Von Hanover contre Allemagne de 2004.
+
+<<2892.27;2898.51;fr>>
+En effet, il ouvre la porte à la publication de photos et d'écrits attentatoires à la vie privée des personnes publiques.
+
+<<2898.51;2915.75;fr>>
+En effet, il semble résulter de cet arrêt de 2012 que pour justifier la publication de photos et d'écrits attentatoires à la vie privée de personnes publiques, il suffit que le magazine glisse une brève référence dans l'article à un débat d'intérêt général.
+
+<<2915.75;2929.99;fr>>
+Si une telle interprétation devait prévaloir, la notion de débat d'intérêt général qui vise à assurer le respect de la vie privée des personnes publiques deviendrait ou pourrait devenir une coquille vide.
+
+<<2929.99;2951.99;fr>>
+Pour en revenir à l'article litigieux de l'hebdomadaire Paris Match, le gouvernement français estime que c'est à tort que dans son arrêt, la Chambre a considéré que l'éventuelle succession d'un enfant naturel sur le trône de la Principauté monégasque constituait, je cite la Chambre, le message central de l'arrêt.
+
+<<2951.99;2955.07;fr>>
+En effet, de l'article, pardonnez-moi, de l'article, pardonnez-moi.
+
+<<2955.07;2964.19;fr>>
+Donc la Chambre a considéré que la succession au trône monégasque constituait le message central de l'article incriminé.
+
+<<2964.19;2969.47;fr>>
+En effet, les deux seules références de l'article à cette question sont les suivantes.
+
+<<2969.47;2975.51;fr>>
+D'une part, Mme C. y indique que le conseil du prince lui a dit que,
+
+<<2975.51;2985.83;fr>>
+je cite, tu te rends compte, si c'est un garçon, on se servira de ça pour qu'Albert ne monte pas sur le trône, l'enfant pourrait le revendiquer.
+
+<<2985.83;2987.95;fr>>
+Et Mme C. ajoute un peu plus loin,
+
+<<2987.95;2993.15;fr>>
+il était clair pour elle qu'un enfant né hors mariage ne peut régner.
+
+<<2993.15;3000.31;fr>>
+Et à un autre endroit de l'article, Mme C. indique qu'elle ne pensait pas une seconde au fait que son
+
+<<3000.31;3004.19;fr>>
+enfant représente un héritier potentiel.
+
+<<3004.19;3012.71;fr>>
+Voilà, j'ai cité exhaustivement les références de l'article à cette question de succession et de la principauté.
+
+<<3012.71;3016.35;fr>>
+Ces huit lignes, huit lignes, dans lesquelles Mme C.
+
+<<3016.35;3034.87;fr>>
+fait référence à la succession au trône monégasque doivent être mises en rapport avec les 500 lignes de l'article qui comportent quatre pages de texte auxquelles s'ajoutent six pages de photos, sans compter la photo de la couverture du magazine.
+
+<<3034.87;3052.35;fr>>
+Par ailleurs, le gouvernement français estime que, comme l'ont jugé le tribunal de grande instance de Nanterre, la cour d'appel de Versailles ainsi que la cour de cassation française, la naissance du fils naturel du prince, qui n'a aucun statut officiel, ne relevait pas d'un débat d'intérêt général.
+
+<<3052.35;3060.39;fr>>
+En effet, il est constant que la constitution monégasque exclue qu'un enfant illégitime puisse accéder au trône.
+
+<<3060.39;3085.99;fr>>
+Ainsi, la cour d'appel de Versailles a considéré, je la cite, dès lors que la paternité d'Albert Grimaldi n'avait été l'objet d'aucune reconnaissance publique, que la constitution monégasque exclue qu'un enfant né hors mariage puisse accéder au trône et qu'Albert Grimaldi n'avait pas consenti à la révélation de sa possible paternité à l'égard de l'enfant de Madame C.
+
+<<3085.99;3093.27;fr>>
+En ayant le 3 mai 2005 signifié à la société, etc., a donc violé, par image, a violé délibérément les
+
+<<3093.27;3121.39;fr>>
+dispositions de l'article 9 du Code civil et celles de l'article 8 de la Convention, sans pouvoir justifier cette infraction par les nécessités inexistantes de l'actualité, la légitimité de l'information ou le droit à l'information des lecteurs dont ne relevait pas la paternité secrète d'Albert Grimaldi, quand bien même il serait devenu le prince souverain après la mort de son père en avril 2005.
+
+<<3121.39;3140.91;fr>>
+Et la Cour de cassation a approuvé la Cour d'appel de Versailles d'avoir retenu, je cite, l'absence de tout fait d'actualité, comme de tout débat d'intérêt général, dont l'information légitime du public aurait justifié qu'il eût rendu compte au moment de la publication existante.
+
+<<3140.91;3159.43;fr>>
+À cet égard, il convient de rappeler que, selon votre Cour, les autorités et les juridictions nationales sont mieux placées pour se livrer à une appréciation de la nécessité et de la proportionnalité des mesures restreignant les droits et libertés garantis par la Convention.
+
+<<3159.43;3174.91;fr>>
+Votre Cour considère également que la marge d'appréciation dont disposent les États peut être plus large lorsque, comme en l'espèce, les autorités nationales doivent concilier des droits concurrents reconnus par la Convention.
+
+<<3174.91;3191.19;fr>>
+En effet, selon votre Cour, et je vous cite, si la mise en balance de deux droits par les autorités nationales s'est faite dans le respect des critères établis par la Cour, il faut des raisons sérieuses pour que la Cour, votre Cour, substitue son avis à celui des juridictions internes.
+
+<<3191.19;3210.03;fr>>
+Certes, en Allemagne, les juridictions internes, comme ça a été rappelé, ont débouté le prince Albert de Monaco, qui avait assigné l'hebdomadaire Bunte pour un article comparable à celui publié par l'hebdomadaire Paris-Match.
+
+<<3210.03;3234.63;fr>>
+En effet, les juridictions allemandes ont estimé que la question d'une descendance masculine dans une monarchie héréditaire avait une importance décisive et qu'il appartenait à la mère de l'enfant et non au prince qui ne l'avait pas reconnu, de décider si la révélation de l'enfant tombait ou non dans le champ protégé de la sphère privée.
+
+<<3234.63;3246.03;fr>>
+Toutefois, les États partis à la Convention ont des traditions différentes en matière de respect de la vie privée, notamment de la vie privée des personnes publiques, par les médias.
+
+<<3246.03;3258.67;fr>>
+Ainsi, il est notoire qu'en France, la législation et la jurisprudence sont plus protectrices de la vie privée que ce n'est, par exemple, le cas en Allemagne ou au Royaume-Uni.
+
+<<3258.67;3273.51;fr>>
+Mais la Convention n'a pas pour objet d'uniformiser les droits des États partis et c'est pourquoi, précisément, votre Cours a reconnu une marge d'appréciation aux autorités et aux juridictions nationales.
+
+<<3273.51;3297.39;fr>>
+Ainsi, selon le gouvernement français, les juridictions françaises étaient en droit de juger, à la différence des juridictions allemandes, que la naissance du fils naturel du prince ou l'existence du fils naturel ne relevait pas d'un débat d'intérêt général dans la mesure où la Constitution monégasque exclut qu'un enfant illégitime puisse accéder au trône.
+
+<<3297.39;3308.95;fr>>
+Il s'agit, selon le gouvernement français, d'une position raisonnable dans la conciliation des droits concurrents que sont la liberté d'expression et le droit au respect de la vie privée.
+
+<<3308.95;3320.51;fr>>
+Et le gouvernement français ne voit pas quelle raison sérieuse aurait votre Cours pour y substituer son propre avis.
+
+<<3320.51;3347.63;fr>>
+À titre subsidiaire, si votre Cours devait considérer que la naissance du fils du prince relevait d'un débat d'intérêt général, la présence dans l'article litigieux de très nombreux détails intimes justifiait ou justifie de toute façon que la protection de la vie privée l'emporte en l'espèce sur la liberté d'expression.
+
+<<3347.63;3382.19;fr>>
+Ainsi, le gouvernement français rejoint l'opinion dissidente des juges quand ceux-ci indiquent que, je les cite, même si l'on estime que la publication litigieuse contenait des éléments qui pouvaient contribuer à un débat d'intérêt général, la divulgation d'un grand nombre de détails relevant du noyau dur de la vie privée du prince permettait de considérer qu'il y avait un besoin social impérieux de restreindre la liberté d'expression des requérantes au fin de protéger la vie privée du prince.
+
+<<3382.19;3384.39;fr>>
+Fin de citation.
+
+<<3384.39;3412.03;fr>>
+D'ailleurs, dans son arrêt, la Chambre a elle-même reconnu que son analyse ne saurait s'appliquer, je cite, à tous les détails sur la vie privée du prince et de Mme C, qui sont mis en avant dans le texte, et notamment les circonstances de leur rencontre et de leur liaison, le comportement du prince à l'annonce de la grossesse et ultérieurement à l'égard de l'enfant.
+
+<<3412.03;3422.79;fr>>
+Mais pour bien mesurer l'ampleur des détails intimes qui figurent dans l'article litigieux, il est nécessaire de citer certains passages de cet article.
+
+<<3422.79;3430.99;fr>>
+Dans ces passages, il est indiqué ce qui suit, et c'est Mme C qui parle donc dans l'article.
+
+<<3430.99;3436.67;fr>>
+Nous avons passé une nuit très tendre l'un contre l'autre, très fleur bleue.
+
+<<3436.67;3439.23;fr>>
+J'avais l'impression qu'il se passait quelque chose.
+
+<<3439.23;3443.15;fr>>
+Il ne disait pas ses sentiments, mais j'entendais battre son cœur.
+
+<<3443.15;3446.63;fr>>
+Il y a des signes qui ne trompent pas quand on est dans les bras de quelqu'un.
+
+<<3446.63;3449.79;fr>>
+Il ne me disait rien et je ne lui demandais rien.
+
+<<3449.79;3457.43;fr>>
+Simplement, il avait des regards et des gestes de tendresse à mon égard, même en public et même devant d'autres jeunes femmes.
+
+<<3457.43;3459.71;fr>>
+Je crois qu'il appréciait mon affection.
+
+<<3459.71;3464.67;fr>>
+Il disait à ses copains que j'étais très, très tendre, qu'il aimait mon côté maternel.
+
+<<3464.67;3468.67;fr>>
+Moi, je le trouvais émouvant.
+
+<<3468.67;3476.63;fr>>
+L'après-midi, il m'a fait sa plus belle déclaration de manière indirecte en disant devant tout le monde à un ami, prends soin de Nicole, elle m'est chère.
+
+<<3476.63;3479.59;fr>>
+Et il m'a embrassé.
+
+<<3479.59;3485.11;fr>>
+Pas mal de filles gravitaient autour de lui et je lui ai fait comprendre que cela ne me plaisait pas.
+
+<<3485.11;3490.67;fr>>
+De retour à l'appartement, nous sommes redevenus amants, ce que je ne souhaitais pas cette nuit-là.
+
+<<3490.67;3494.07;fr>>
+La soirée m'avait énervé.
+
+<<3494.07;3506.71;fr>>
+À une question de Paris Match qui demande à Madame C si c'est à ce moment-là qu'elle est tombée enceinte, celle-ci répond oui et elle ajoute ce n'était voulu ni de lui ni de moi.
+
+<<3506.71;3512.11;fr>>
+Toujours Madame C, lorsque j'ai vu Albert ce 11 décembre, j'avais les seins douloureux.
+
+<<3512.11;3515.35;fr>>
+Je lui ai dit et si j'étais enceinte, qu'est-ce qu'on fait?
+
+<<3515.35;3519.11;fr>>
+Il m'a répondu si tu es enceinte, il faut que tu le gardes.
+
+<<3519.11;3520.51;fr>>
+Cela venait du cœur.
+
+<<3520.51;3526.19;fr>>
+Il s'est tout de suite mis à chercher des prénoms de garçons et moi des prénoms de filles, car des garçons, j'en avais déjà deux.
+
+<<3526.19;3529.75;fr>>
+Il m'a dit je cherche des prénoms de garçons, mais je ne sais faire que ça.
+
+<<3529.75;3534.47;fr>>
+Je n'étais pas vraiment surprise de sa réaction.
+
+<<3534.47;3538.03;fr>>
+Il m'a dit garde-le, je m'en occuperai, vous ne manquerez de rien.
+
+<<3538.03;3545.31;fr>>
+Je ne te promets pas de t'épouser, mais garde-le et ne t'inquiète pas, je le ferai petit à petit entrer dans ma famille.
+
+<<3545.31;3547.91;fr>>
+J'aimerais que cela reste entre nous pour l'instant.
+
+<<3547.91;3556.83;fr>>
+La seule personne à qui je dois le dire, c'est mon conseil et mon ami d'enfance que tu connais bien.
+
+<<3556.83;3559.95;fr>>
+Il posait sa main sur mon ventre et nous avons reparlé des prénoms.
+
+<<3559.95;3562.47;fr>>
+Il aimait bien Eric.
+
+<<3562.47;3568.39;fr>>
+Il m'a dit j'ai tourné tout ça dans ma tête, j'ai demandé conseil, l'enfant est impossible.
+
+<<3568.39;3571.43;fr>>
+Albert m'a aussitôt appelé très fâché, tu m'as piégé.
+
+<<3571.43;3575.27;fr>>
+Il me parlait comme s'il était conditionné.
+
+<<3575.27;3586.95;fr>>
+Un peu plus loin, à la question de Paris Match, qui lui demande quand le prince Albert a vu l'enfant pour la dernière fois, Madame C répond, deux mois et demi après sa naissance, il a attendu un peu avant de le prendre dans ses bras.
+
+<<3586.95;3589.23;fr>>
+Je lui ai demandé s'il ressentait quelque chose.
+
+<<3589.23;3592.83;fr>>
+Il m'a répondu qu'il ne réalisait pas encore.
+
+<<3592.83;3597.67;fr>>
+Lors de l'une de ses visites, je lui ai dit, ce n'est pas parce qu'on a un enfant qu'il faut que tout s'arrête.
+
+<<3597.67;3605.19;fr>>
+Il m'a répondu, pour l'instant, je préfère que ça s'arrête parce que si ça continue, on aura un deuxième enfant.
+
+<<3605.19;3610.67;fr>>
+Enfin, la dernière fois qu'il a vu Alexandre, dit-elle, c'était au mois de février, j'étais alité.
+
+<<3610.67;3613.15;fr>>
+Dans la pièce d'à côté, Albert était avec son fils.
+
+<<3613.15;3614.91;fr>>
+L'enfant a fait une petite chute.
+
+<<3614.91;3616.39;fr>>
+Je ne sais pas faire, je ne suis pas prêt.
+
+<<3616.39;3622.63;fr>>
+A-t-il mieux mûré, désemparé, désolé, visiblement bouleversé?
+
+<<3622.63;3640.51;fr>>
+Si j'ai été un peu long dans mes citations de l'article litigieux, c'est pour faire ressortir la multitude des détails intimes qui figurent dans cet article et auxquels la Chambre, par pudeur sans doute, n'a porté qu'une attention extrêmement discrète.
+
+<<3640.51;3651.71;fr>>
+Vous conviendrez pourtant aisément du caractère particulièrement attentatoire à la vie privée des très nombreux détails que je viens de citer.
+
+<<3651.71;3663.39;fr>>
+Qui souhaiterait, qui souhaiterait, qui d'entre nous souhaiterait que son conjoint, sa compagne ou son compagnon révèlent de telles informations le concernant au public?
+
+<<3663.39;3686.43;fr>>
+C'est pourquoi, en présence d'une telle multitude de détails intimes, qui étaient évidemment destinés à satisfaire la curiosité des lecteurs, la Chambre ne pouvait juger que l'éventuelle accession de l'enfant naturel du prince au trône de la Principauté constituait, je cite la Chambre, le message central de l'article.
+
+<<3686.43;3697.31;fr>>
+À cet égard, le gouvernement français rappelle que l'article litigieux ne comporte que 8 lignes à ce sujet sur 500.
+
+<<3697.31;3718.03;fr>>
+Le gouvernement français rappelle également que selon votre cours, des publications ayant pour objet de satisfaire la curiosité d'un certain public sur les détails de la vie privée d'une personne, quelle que soit la notoriété de cette personne, ne sauraient passer pour contribuer à un quelconque débat d'intérêt général pour la société.
+
+<<3718.03;3730.59;fr>>
+Le gouvernement français ajoute que, en l'espèce, le caractère attentatoire à la vie privée du prince de l'article litigieux est aggravé par les nombreuses photos intimes que cet article comporte.
+
+<<3730.59;3744.23;fr>>
+À cet égard, il convient de préciser que si ces photos ont été prises avec l'accord du prince Albert de Monaco, celui-ci n'a pas donné son accord à leur publication.
+
+<<3744.23;3753.63;fr>>
+Par ailleurs, le fait que les détails intimes que j'ai cités tout à l'heure et que les photos aient été communiquées au magazine par Mme C.
+
+<<3753.63;3762.67;fr>>
+elle-même ne remet pas en cause le caractère attentatoire à la vie privée de l'article litigieux.
+
+<<3762.67;3776.75;fr>>
+En effet, la circonstance qu'une personne soit impliquée dans des situations intimes avec une autre personne ne lui permet pas pour autant de rendre publiques ces situations.
+
+<<3776.75;3796.67;fr>>
+Dans ces conditions, il appartenait à l'hebdomadaire Paris Match, qui a une grande connaissance de la jurisprudence des juridictions françaises en matière de droit au respect de la vie privée, de trier, de faire le tri entre les informations fournies par Mme C. à l'intérieur des informations
+
+<<3796.67;3800.35;fr>>
+en vue d'exclure les détails intimes concernant le prince.
+
+<<3800.35;3807.11;fr>>
+Et en cas de doute, l'hebdomadaire Paris Match pouvait se rapprocher évidemment de ses conseils.
+
+<<3807.11;3837.99;fr>>
+Enfin, le gouvernement français ne conteste pas que comme le soutient Medio Legal Defense Initiative dans sa tierce intervention écrite, les journalistes doivent se voir reconnaître une certaine latitude pour déterminer quels points de détail sont nécessaires pour amplifier et donner de la couleur au message central d'un article et qu'il convient d'accorder tout son crédit au jugement professionnel d'un journaliste.
+
+<<3837.99;3851.19;fr>>
+Cependant, le gouvernement français croit avoir démontré que c'est à tort que dans son arrêt, la Chambre a jugé que l'éventuelle succession au trône de l'enfant naturel constituait le message central de l'article.
+
+<<3851.19;3858.63;fr>>
+Comme je l'ai indiqué chiffre à l'appui, cette question ne fait l'objet que de deux brèves références dans l'article.
+
+<<3858.63;3892.87;fr>>
+Ainsi, s'il faut absolument parler comme Medio Legal Defense Initiative, s'il faut absolument parler de couleur et de coloration, eh bien, ce n'est pas la coloration d'un sujet austère par quelques détails destinés à agrémenter ce sujet qui a été fait, mais nous sommes en présence de la coloration d'une révélation attentatoire à la vie privée du prince Albert de Monaco par deux brèves références à la succession au trône de ce prince.
+
+<<3892.87;3902.11;fr>>
+Enfin, j'en termine avec la condamnation prononcée à l'encontre des requérantes, qui, selon le gouvernement français, respectait l'obligation de proportionnalité.
+
+<<3902.11;3912.51;fr>>
+En effet, les requérantes n'ont été condamnées par la Cour d'appel de Versailles qu'à payer 50 000 euros de dommages et intérêts au prince Albert de Monaco.
+
+<<3912.51;3931.91;fr>>
+Or, comme les juges l'ont indiqué dans leur opinion dissidente, ce montant doit être rapporté aux recettes d'un hebdomadaire comme Paris Match, qui tirait à l'époque autour de 900 000 exemplaires par semaine et qui a même dépassé le million d'exemplaires pour le numéro contenant l'article litigieux.
+
+<<3931.91;3949.07;fr>>
+Par ailleurs, il faut rappeler que la Cour d'appel de Versailles n'a pas condamné les requérantes à occulter l'article litigieux, mais les a seulement condamnées à publier leur condamnation dans le premier numéro de l'hebdomadaire à paraître et seulement sur le tiers de la page de couverture.
+
+<<3949.07;3977.91;fr>>
+A cet égard, il convient de rappeler que, selon votre Cour, la publication d'une condamnation sur la couverture d'un magazine, je cite, s'intègre parfaitement dans les lignes directrices de la résolution de l'Assemblée parlementaire sur le droit au respect de la vie privée et contribue à éviter autant que possible que certains faits relevant de la sphère privée des personnes publiques ne deviennent une marchandise très lucrative pour certains médias.
+
+<<3977.91;3993.11;fr>>
+En conclusion, le gouvernement français vous invite donc à considérer que, en espèce, la France a fait un usage approprié de sa marge d'appréciation et aménagé un juste équilibre entre la liberté d'expression et le droit à la vie privée.
+
+<<3993.11;3993.11;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3996.26;3999.62;fr>>
+Merci beaucoup, M. de Bergues.
+
+<<3999.82;4004.94;fr>>
+Je me tourne maintenant vers les juges pour leur demander s'il y a des questions.
+
+<<4004.94;4004.94;fr>>
+Le juge Silvis.
+
+[[Judge;Johannes Silvis]]
+
+<<4013.64;4017.24;fr>>
+Président, j'ai deux questions à poser au gouvernement.
+
+<<4018.44;4039.14;fr>>
+Un argument majeur du gouvernement français, ayant demandé le renvoi de l'affaire devant la grande chambre, réside dans l'incertitude qui aurait prétendument été créée par la manière dont la Chambre a utilisé le concept du sujet d'un drait général.
+
+<<4039.14;4057.84;fr>>
+Pour expliquer l'absence d'intérêt public à la publication en cause, le gouvernement a indiqué qu'il était impossible qu'Alexandre puisse prétendre au trône au regard de la constitution de principauté de Monaco.
+
+<<4057.84;4072.94;fr>>
+Le gouvernement français, tout comme les juridictions nationales, ont estimé qu'Alexandre Coste ne pouvait prétendre au trône car il était né hors des liens du mariage.
+
+<<4072.94;4081.94;fr>>
+Toutefois, d'un point de vue purement légal, cette circonstance ne semblait pas décisive.
+
+<<4081.94;4115.64;fr>>
+D'un point de vue légal, à la date de la publication litigieuse et au moment où les juridictions internes se sont prononcées, et bien que cette éventualité puisse paraître totalement improbable, le fils de Mme Coste et du prince de Monaco aurait pu être prétendant au trône en cas de légitimation par le mariage de ses parents biologiques, eu égard à la constitution et au code civil de Monaco.
+
+<<4115.64;4125.74;fr>>
+Le gouvernement peut-il expliquer sur quels fondements légaux il parvient à une opinion différente en la matière?
+
+<<4125.74;4127.84;fr>>
+Deuxième question.
+
+<<4127.84;4132.44;fr>>
+La publication dans Paris Match concerne une interview de Mme Coste.
+
+<<4132.44;4140.64;fr>>
+Les juridictions internes ont estimé que la société éditrice et la directrice des publications en étaient responsables.
+
+<<4140.64;4154.44;fr>>
+Selon le gouvernement, cela aurait-il fait une différence si Mme Coste avait publié sa biographie et celle de son fils dans un article qu'elle aurait elle-même rédigé?
+
+<<4154.44;4184.24;fr>>
+En d'autres termes, le contenu de l'interview était-il tel que les devoirs et responsabilités de l'éditeur impliquaient une intervention active, pas seulement au regard du droit du public d'être informé des questions relevant de l'intérêt public, mais également contre le droit à la liberté d'expression de Mme Coste afin de protéger la vie privée du prince Albert II de Monaco?
+
+<<4184.24;4197.04;fr>>
+Les juridictions nationales auraient-elles dû également donner du poids au droit à la liberté d'expression de Mme Coste dans la mise en balance des droits en jeu?
+
+<<4197.04;4197.04;fr>>
+Merci.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4198.73;4201.97;fr>>
+Merci le juge Silvis, maintenant le juge Spano.
+
+[[Judge;Robert Spano]]
+
+<<4204.05;4205.49;en>>
+Thank you very much, Mr. President.
+
+<<4205.49;4211.69;en>>
+Just following up on Judge Silvis's question, I have one question to the government.
+
+<<4211.69;4233.65;en>>
+The government, in its referral request, firstly and foremostly emphasizes that the Fifth Section's judgment wrongly interpreted the concept of a contribution to a debate of generalists and it opened the way for considerable judicial uncertainty, that is the crux of the referral request.
+
+<<4233.65;4268.65;en>>
+May I ask, and the government of course follows this up in its brief and here orally by inviting the court not to substitute its own judgment for the assessment of the domestic courts, namely the court of cassation, referring to our classic expressions in our case law that if the balancing of interest has been performed by the domestic courts in accordance with the criteria in our case law, it is not for this court, unless it has strong reasons, to substitute its assessment.
+
+<<4268.65;4285.93;en>>
+It is on this basis that I would like the government to clarify its statements in paragraph 70 and 71 of the observations, where in paragraph 70, the government refers to the court of cassation's reasoning in the case.
+
+<<4285.93;4301.85;en>>
+This is also developed at paragraph 24 of the chamber judgment, where the court of cassation noted that on the date on which the article was published, the child's existence and his family relationship were unknown to the public.
+
+<<4301.85;4326.13;en>>
+And that the principality's constitution rules out the possibility of his accession to the throne since he was born outside a wedlock, a situation that moreover, and I quote, the company did not allege to be a subject of debate in French or Monegasque society or of examination in the impugned publication.
+
+<<4326.13;4352.81;en>>
+Do I understand the government's pleading correctly as inviting the court then firstly to formulate this concept of what constitutes a contribution to a debate in the public interest or in the general interest in such a way that a debate on this subject matter must be already ongoing, must be already ongoing for the condition to apply?
+
+<<4352.81;4367.05;en>>
+And secondly, that the article in question must primarily or its core feature must be the examination of the issue that is alleged to be forming a contribution in the public interest?
+
+<<4367.05;4371.99;en>>
+Because I understand the government saying it agrees with the assessment of the court of cassation.
+
+<<4371.99;4387.77;en>>
+And if that is the view of the government, may I ask the government kindly to refer to a case of this court that would support that kind of formulation of the issue of the concept of a contribution in the general interest?
+
+<<4387.77;4388.23;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4388.5;4391.32;fr>>
+Merci, Judge Spano, la juge Motoc.
+
+[[Judge;Iulia Antoanella Motoc]]
+
+<<4392.84;4394.8;fr>>
+Merci beaucoup, Monsieur le Président.
+
+<<4394.8;4401.4;fr>>
+Juste une question de suivi et une clarification que, cette fois-ci, s'adresse à la partie requérante.
+
+<<4401.4;4410.72;fr>>
+On sait des pièces de dossier que l'enfant avait été reconnu quatre mois après sa naissance chez le notaire.
+
+<<4410.72;4427.44;fr>>
+Vous avez pourtant invoqué le fait que la reconnaissance de l'enfant, cette fois-ci la reconnaissance, vous dites, publique de l'enfant, aurait des délais dans lesquels elle aurait pu être faite.
+
+<<4427.44;4438.8;fr>>
+Ça veut dire qu'au moment, en 2005, quand Madame Coste avait donné cette interview, on s'approchait d'une certaine façon, selon vous, de ce délai.
+
+<<4438.8;4442.08;fr>>
+De quoi exactement il s'agit?
+
+<<4442.08;4444.64;fr>>
+Est-ce qu'il y a un délai pour ce type de reconnaissance?
+
+<<4444.64;4446.24;fr>>
+Et quelles sont les conséquences?
+
+<<4446.24;4459.76;fr>>
+Est-ce qu'il y a des conséquences juridiques pour ce type de reconnaissance par rapport à la reconnaissance que déjà Albert de Monaco avait fait devant le notaire, comme les pièces de dossier l'ont dit?
+
+<<4459.76;4459.76;fr>>
+Merci beaucoup.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4463.05;4466.21;fr>>
+Bien. Donc, s'il n'y a pas d'autres questions,
+
+<<4466.21;4469.77;fr>>
+on fera maintenant une pause d'une vingtaine de minutes.
+
+<<4469.77;4474.69;fr>>
+On va se retrouver à 11h moins 10.
+
+<<4474.69;4474.69;fr>>
+Et l'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4533.36;4533.96;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4575.24;4576.64;fr>>
+Je vous prie de bien vouloir vous asseoir.
+
+<<4576.64;4579.54;fr>>
+L'audience est reprise.
+
+<<4579.54;4579.54;fr>>
+Maître de Percin, s'il vous plaît.
+
+[[Applicant;AP1]]
+
+<<4588.99;4597.69;fr>>
+Monsieur le Président, Mesdames, Messieurs, je vais répondre à la question qui m'a été posée principalement, et je vais faire rapidement les trois autres questions qui ont été posées par le gouvernement.
+
+<<4597.69;4604.67;fr>>
+La première question qui m'a été posée directement concerne les problèmes de la reconnaissance.
+
+<<4605.27;4608.11;fr>>
+Effectivement, c'est un sujet très important.
+
+<<4608.11;4608.51;fr>>
+Pourquoi?
+
+<<4608.51;4620.15;fr>>
+Parce que la disposition du Code civil français, c'est que la reconnaissance par le père, ou la mère d'ailleurs, le père, se fait dans les deux ans de la naissance.
+
+<<4620.15;4627.43;fr>>
+Donc l'enfant est né en l'espèce en août 2003, il avait jusqu'en août 2005 le père, donc pour reconnaître l'enfant.
+
+<<4627.43;4638.43;fr>>
+Au-delà, peu importe la reconnaissance cachée ou pas, je parle dans l'État civil, officiellement, pour que son fils n'ait pas marqué, dans son État civil, de père inconnu.
+
+<<4638.43;4641.23;fr>>
+La reconnaissance cachée ne vaut rien sur l'État civil.
+
+<<4641.23;4653.11;fr>>
+Donc jusque à la date de la reconnaissance officielle, qui est intervenue fin juillet 2005, dans quelques jours de l'expiration de délai, l'enfant aurait eu mention de père inconnu.
+
+<<4653.11;4654.71;fr>>
+Au-delà, quelles sont les conséquences?
+
+<<4654.71;4666.79;fr>>
+Je dis que vous avez posé comme question, au-delà de ce délai de deux ans, eh bien il faut attendre la majorité de l'enfant pour qu'il puisse, lui, à son tour, revendiquer la reconnaissance.
+
+<<4666.79;4672.43;fr>>
+Donc il aurait vécu pendant 20 ans en ayant sur son État civil de père inconnu.
+
+<<4672.43;4674.39;fr>>
+C'est important de le reconnaître.
+
+<<4674.39;4678.51;fr>>
+Il faut aussi soulever que la mère avait tout essayé.
+
+<<4678.51;4686.99;fr>>
+Elle est venue à la presque en fin de parcours, si je puis dire, puisque un, Alban Manoko avait promis de reconnaître l'enfant.
+
+<<4686.99;4691.75;fr>>
+Ensuite, il a dit que c'était quand il serait souverain, ce qu'il était.
+
+<<4691.75;4699.31;fr>>
+Et enfin, elle a essayé auprès du notaire d'obtenir la copie de l'acte de reconnaissance privée pour pouvoir aller en justice.
+
+<<4699.31;4706.79;fr>>
+Et l'uniotaire lui a refusé, en lui disant que le prince Charles avait bien attendu pendant des années pour épouser Camilla, que c'était pareil pour elle.
+
+<<4706.79;4708.63;fr>>
+C'est ce qu'il dit dans l'entretien.
+
+<<4708.63;4715.35;fr>>
+Et elle a fait un procès devant le tribunal de Paris en mai 2005, à la même époque que l'article qu'elle a perdu.
+
+<<4715.35;4725.75;fr>>
+Parce que le tribunal de Paris a constaté que l'intérêt de l'enfant, selon le père, alors même qu'elle seule était en droit de le demander, voulait que l'enfant soit ignoré des médias.
+
+<<4725.75;4728.75;fr>>
+Alors ils n'ont pas tenu compte de ce qu'elle disait elle.
+
+<<4728.75;4733.87;fr>>
+Elle a dit donc qu'elle ne voulait pas que son enfant grandisse comme Mazarine.
+
+<<4733.87;4740.47;fr>>
+C'est l'exemple qu'elle a donné, puisque le gouvernement nous dit qu'il ne pouvait plus faire comme d'autres personnalités politiques et préserver les naissances.
+
+<<4740.47;4744.59;fr>>
+Et elle répond, je n'ai pas envie qu'il grandisse comme Mazarine, je ne pensais qu'à cela.
+
+<<4744.59;4750.27;fr>>
+Dans mon esprit, en Afrique, un enfant a toujours une joie, il n'est jamais heureux.
+
+<<4750.27;4754.15;fr>>
+Dans mon esprit, la non reconnaissance pour un enfant, cela revient à lui refuser ses choix.
+
+<<4754.15;4757.15;fr>>
+Au Togo, mon pays, cela ne se ferait pas.
+
+<<4757.15;4760.71;fr>>
+Donc dans la culture africaine, on ne peut pas ne pas reconnaître un enfant.
+
+<<4760.71;4762.19;fr>>
+Donc voilà la question.
+
+<<4762.19;4770.15;fr>>
+Rapidement sur les autres questions, sur la constitution monégasque, la question est effectivement importante.
+
+<<4770.15;4775.43;fr>>
+Effectivement, le mariage des parents aurait permis de légitimer l'enfant, mais pas uniquement.
+
+<<4775.43;4786.91;fr>>
+La constitution monégasque avait été modifiée en 2002 par le prince Régnier, donc l'année d'avant la naissance de l'enfant finalement, donc un an avant, et aurait pu être encore l'objet de nouvelles modifications.
+
+<<4786.91;4797.35;fr>>
+Il faut rappeler qu'avant 2002, l'ancien état de la constitution monégasque permettait d'adopter un enfant illégitime, puisque la mère de Régnier était illégitime, de l'essence illégitime.
+
+<<4797.35;4807.51;fr>>
+Donc la constitution a été modifiée à de nombreuses reprises dans le passé pour permettre aux différentes générations de familles grimaldières, selon l'état civil, quelle de dire, de pouvoir accéder au trône.
+
+<<4807.51;4808.39;fr>>
+Donc elle est très souple.
+
+<<4808.39;4813.99;fr>>
+On peut souplement la modifier, et c'est à la main du prince Régnier de la modifier.
+
+<<4813.99;4821.35;fr>>
+Sur la question de la divulgation, je pense qu'effectivement, c'est un point important de soulever que les décisions françaises se sont trompées.
+
+<<4821.35;4827.95;fr>>
+Elles avaient les mêmes faits qu'aujourd'hui, mais elles ont faim d'ignorer que l'affaire avait déjà été dans l'agora.
+
+<<4827.95;4832.23;fr>>
+C'est important de le dire, parce que ça a changé et ça a beaucoup modifié.
+
+<<4832.23;4839.11;fr>>
+Je pense que si elles avaient pris en compte cet élément, que c'était déjà dans le domaine public, donc on ne peut pas ignorer.
+
+<<4839.11;4840.43;fr>>
+Il ne s'agit pas de dire que...
+
+<<4840.43;4841.99;fr>>
+On n'a pas besoin de dire que c'est un débat intergénéral.
+
+<<4841.99;4843.55;fr>>
+Un débat, c'est un débat.
+
+<<4843.55;4845.67;fr>>
+Et ça existe, les gens, c'est une réalité.
+
+<<4845.67;4855.31;fr>>
+L'actualité, elle existe, quelle que soit la reconnaissance officielle ou pas, elle existe, la reconnaissance, mais c'est important de dire qu'évidemment, quand c'est dans l'agora, ça existe encore plus.
+
+<<4855.31;4863.95;fr>>
+Et enfin, sur la question sur l'entretien, la forme de l'entretien, la liberté de l'éditeur, je pense que c'est une très bonne question aussi.
+
+<<4863.95;4869.07;fr>>
+Je pense qu'effectivement, on peut imaginer que si ça avait été un livre, il y aurait eu moins de procès.
+
+<<4869.07;4877.87;fr>>
+On voit aussi que c'est important de souligner que le prince Albert de Monaco a accepté les décisions allemandes.
+
+<<4877.87;4883.15;fr>>
+Il l'a accepté, il est allemand, il aurait pu aller jusque devant vous, il ne l'a pas fait.
+
+<<4883.15;4885.59;fr>>
+Et donc, c'est important.
+
+<<4885.59;4892.91;fr>>
+Je pense que l'entretien est quelque chose de très significatif et qui n'est pas neutre dans la manière dont on a rendu compte de l'information.
+
+<<4892.91;4893.75;fr>>
+Pourquoi?
+
+<<4893.75;4895.19;fr>>
+Parce que ça prouve deux choses.
+
+<<4895.19;4902.31;fr>>
+La preuve, c'est que le journal a pris de la distance par rapport à l'événement, malgré le délai très court à partir.
+
+<<4902.31;4905.47;fr>>
+Le journal dit que c'est la longue histoire de Nicole Kost.
+
+<<4905.47;4907.79;fr>>
+C'est elle qui parle, c'est sa vérité.
+
+<<4907.79;4909.51;fr>>
+Ce n'est pas le journal qui raconte ça.
+
+<<4909.51;4911.19;fr>>
+Elle donne des éléments.
+
+<<4911.19;4915.07;fr>>
+Et donc, ça prouve qu'on ne peut pas censurer un entretien.
+
+<<4915.07;4919.71;fr>>
+Bien sûr qu'on fait attention qu'il n'y ait pas de choses illicites, mais on ne peut pas censurer, c'est sa vérité.
+
+<<4919.71;4929.63;fr>>
+Elle a pensé, c'est sa liberté d'expression, qu'il était nécessaire pour donner du crédit à son histoire, notamment parce qu'elle disait qu'elle en avait assez de mentir.
+
+<<4929.63;4933.07;fr>>
+Elle dit, je ne peux plus supporter de mentir.
+
+<<4933.07;4936.03;fr>>
+Je n'en peux plus de mentir, de me cacher.
+
+<<4936.03;4938.67;fr>>
+À cause de ce silence, je n'ai plus d'identité.
+
+<<4938.67;4940.31;fr>>
+Je vis dans l'illégalité.
+
+<<4940.31;4945.23;fr>>
+Je veux rétablir la vérité pour que ces deux frères aînés aient une image digne de leur mère.
+
+<<4945.23;4946.87;fr>>
+Donc, ça, c'est dans l'entretien.
+
+<<4946.87;4953.27;fr>>
+On ne vous a cité que les questions qui fâchent, mais il y a des tas de phrases très fortes où la mère indique pourquoi elle le fait.
+
+<<4953.27;4959.51;fr>>
+C'est pour sa dignité, pour le respect, pour sa culture togolaise, pour la famille, pour les enfants, pour ses autres enfants.
+
+<<4959.51;4961.91;fr>>
+Et donc, l'entretien a un sens.
+
+<<4961.91;4965.03;fr>>
+Et je ne peux pas le censurer, moi, l'éditeur de presse, je ne peux pas.
+
+<<4965.03;4968.03;fr>>
+Et ce n'est pas une question de couleur, c'est une question de crédit.
+
+<<4968.03;4973.63;fr>>
+Elle a considéré que sans ces éléments, certains éléments de vie privée, on ne pourrait pas la croire.
+
+<<4973.63;4976.91;fr>>
+On croira que c'est, encore une fois, une hôtesse de l'air qui a trouvé une bonne aubaine.
+
+<<4976.91;4982.51;fr>>
+Elle a voulu montrer par là que c'était une vraie histoire pour que son fils soit fier ou en tout cas n'ait pas honte.
+
+<<4982.51;4984.51;fr>>
+Et ce n'est pas, moi, l'éditeur, de le censurer.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4988.77;4993.01;fr>>
+Merci beaucoup, maître de Percin, monsieur de Bergues.
+
+[[Government;GR1]]
+
+<<4994.38;4996.42;fr>>
+Merci, Monsieur le Président.
+
+<<4996.42;4999.62;fr>>
+Je réponds tout d'abord aux deux questions de Monsieur le juge Sylvis.
+
+<<4999.62;5010.26;fr>>
+Votre première question, Monsieur le juge, oui, l'enfant aurait sans doute effectivement été en droit d'accéder au trône si le prince et Madame C.
+
+<<5010.26;5012.82;fr>>
+s'étaient mariés.
+
+<<5012.82;5025.98;fr>>
+Mais il faut relever que l'hypothèse d'un tel mariage n'a jamais été évoquée, soit dans l'article par Paris Match, soit devant les juges français, ensuite par Paris Match.
+
+<<5025.98;5031.06;fr>>
+Donc, on doit considérer que ce débat est sans pertinence.
+
+<<5031.06;5037.58;fr>>
+Votre deuxième question, Monsieur le juge, si Madame C. avait publié un livre dans lequel elle aurait
+
+<<5037.58;5040.82;fr>>
+fait les révélations qui figurent dans l'article.
+
+<<5040.82;5055.58;fr>>
+Alors, Monsieur le juge, toutes les questions des juges sont justifiées, mais celle-ci l'est particulièrement parce que, comme je l'ai dit, Paris Match n'est pas en droit de se prévaloir aujourd'hui du droit à la liberté d'expression de Madame C.
+
+<<5055.58;5059.02;fr>>
+ou de l'intérêt supérieur de l'enfant pour les raisons que j'ai indiquées tout à l'heure.
+
+<<5059.02;5065.5;fr>>
+Il aurait fallu qu'il appelle en la cause, devant les juridictions françaises, Madame C. ce qu'il n'a pas fait.
+
+<<5065.5;5072.82;fr>>
+Donc, on est bien dans un débat classique entre un organe de presse et une personne qui a fait l'objet d'un article.
+
+<<5072.82;5079.14;fr>>
+Alors, pour répondre à votre deuxième question, Monsieur le juge, Madame C. aurait été en droit
+
+<<5079.14;5089.58;fr>>
+de révéler dans un livre qu'elle aurait écrit l'affiliation paternelle de son enfant au nom de l'intérêt supérieur de celui-ci.
+
+<<5089.58;5095.82;fr>>
+Très probablement, elle aurait fait, parce que c'est l'intérêt supérieur de l'enfant à connaître ses origines.
+
+<<5095.82;5113.3;fr>>
+Cependant, et ceci fait écho à la deuxième partie de ma plaidoirie, cet intérêt supérieur de l'enfant n'aurait en aucun cas pu justifier l'abondance des détails intimes sur la vie privée de Madame C.
+
+<<5113.3;5117.3;fr>>
+et du prince qui figurent dans cet article.
+
+<<5117.3;5118.5;fr>>
+Voilà.
+
+<<5118.5;5123.18;fr>>
+J'en viens maintenant à la question de Monsieur le juge Spano.
+
+<<5123.18;5128.02;fr>>
+Vous avez plusieurs questions, Monsieur le juge.
+
+<<5128.02;5135.94;fr>>
+La question de savoir si le débat d'intérêt général doit nécessairement exister au moment de la publication.
+
+<<5135.94;5137.54;fr>>
+La réponse est non.
+
+<<5137.54;5148.1;fr>>
+Le débat d'intérêt général ne doit pas nécessairement exister au moment où la publication peut susciter le débat d'intérêt général.
+
+<<5148.1;5170.3;fr>>
+Cependant, ce qui a été considéré en l'espèce par les juridictions françaises, je le rappelle, c'est que l'accession de l'enfant au trône qui aurait constitué un débat d'intérêt général, eh bien que cette question ne se posait pas pour les raisons qu'on a indiquées de la constitution monégasque.
+
+<<5170.3;5177.26;fr>>
+Donc la réponse est oui, mais qu'en l'espèce, il ne s'agissait pas de savoir si Paris Match avait la primeur ou pas.
+
+<<5177.26;5193.3;fr>>
+Le point essentiel, c'est que les juridictions françaises ont considéré que l'éventuelle accession au trône de l'enfant qui aurait constitué un débat d'intérêt général, cette question ne se posait pas compte tenu de la constitution monégasque.
+
+<<5193.3;5215.38;fr>>
+Autre question, monsieur le juge, l'article veut-il avoir principalement pour objet un débat d'intérêt général ou, au fond, exclusivement un débat d'intérêt général pour pouvoir être conforme à la Convention?
+
+<<5215.38;5220.34;fr>>
+Alors la réponse est oui, selon le gouvernement français.
+
+<<5220.34;5230.86;fr>>
+Oui, l'article, un article, nous parlons d'un article en général, si vous voulez, un article doit avoir principalement pour objet un débat d'intérêt général.
+
+<<5230.86;5258.46;fr>>
+En effet, si un article, si on admet qu'un article qui porte touche à la vie privée ou la vie intime d'une personne, eh bien serait compatible avec la Convention parce que, eh bien, parce qu'il y a de toute façon une petite partie de l'article qui est consacrée à un débat d'intérêt général, eh bien vous ouvrez la porte à tous les contournements possibles.
+
+<<5258.46;5270.66;fr>>
+Il suffira de quelques lignes sur un débat d'intérêt général dans un article pour justifier des pages et des pages sur la vie intime et des pages et des pages de photos.
+
+<<5270.66;5287.06;fr>>
+Donc la réponse c'est oui, il faut qu'un article qui touche à la vie intime, eh bien, doit principalement porter sur un débat d'intérêt général pour être, pour pouvoir être justifié, y compris au regard de la protection de la vie privée.
+
+<<5287.06;5311.22;fr>>
+C'est vrai que dans votre harlefon à 9h contre Allemagne de 2004, vous avez relevé au point 76, je vous cite, que force est de constater qu'en l'espèce, cette contribution au débat d'intérêt général fait défaut, la requérante ne remplissant pas de fonctions officielles, donc la princesse de Hanover, et les photos et articles litigieux se rapportant exclusivement à sa vie privée.
+
+<<5311.22;5327.98;fr>>
+Mais nous ne pensons pas, nous n'avons pas d'arrêt en tête par rapport à la question que vous nous avez posée, monsieur le juge, mais c'est vrai que dans cet arrêt font à 9h contre Allemagne de 2004, vous relevez que l'article se rapportait exclusivement à la vie privée de la princesse.
+
+<<5327.98;5334.34;fr>>
+Mais vous savez, nous le savons tous, il ne faut surtout se méfier des interprétations a contrario.
+
+<<5334.34;5363.9;fr>>
+Et il est évident que dans cette affaire, c'est une remarque d'espèce, vous avez relevé que l'article en question portait exclusivement sur la vie privée de la princesse, mais selon le gouvernement français, vous n'avez pas voulu dire par un a contrario, qui aurait été tout de même très implicite, mais un a contrario, que si l'article avait porté principalement sur la vie privée, eh bien, dans ce cas, la solution de l'arrêt aurait été tout autre.
+
+<<5363.9;5363.9;fr>>
+Voilà, je vous remercie, Monsieur le député.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5367.2;5370.6;fr>>
+Merci, merci beaucoup, M. de Bergues.
+
+<<5371.04;5376.32;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<5376.32;5384.04;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<5384.92;5388.28;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<5388.28;5394.96;fr>>
+L'arrêt sera rendu ultérieurement et les partis seront informés de la date du prononcé.
+
+<<5394.96;5396.84;fr>>
+L'audience est levée.
+

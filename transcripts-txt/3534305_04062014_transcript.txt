@@ -1,0 +1,1556 @@
+[[Announcer;UNK]]
+
+<<0.0;0.28;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<42.26;43.2;en>>
+Please be seated.
+
+<<51.26;58.74;en>>
+I declare open the public hearing on the admissibility and merits in the case of Vasiliauskas against Lithuania.
+
+<<58.74;71.18;en>>
+The application was lodged with the court on the 30th of July, 2005, under Article 34 of the Convention by Lithuanian national, Mr. Vytautas Vasiliauskas.
+
+<<71.18;78.38;en>>
+It was allocated to the second section of the court, pursuant to Rule 52, Paragraph 1 of the Rules of Court.
+
+<<78.38;84.32;en>>
+The application was communicated to the government on the 16th of June, 2009.
+
+<<84.32;91.82;en>>
+On the 17th of September, 2013, the chamber decided to relinquish jurisdiction in favor of the Grand Chamber.
+
+<<91.82;107.76;en>>
+On the 12th of March, 2014, the president of the Grand Chamber granted leave to the government of the Russian Federation to submit written comments as a third party by virtue of Rule 44, Paragraph 3 of the Rules of Court.
+
+<<107.76;118.0;en>>
+The respondent government are represented by their acting agent, Miss Karolina Bubnytė, assisted by Mr. William A. Schabas, professor
+
+<<118.0;127.48;en>>
+at Middlesex University Council, and by Miss Lina Urbaitė, chief expert at the Ministry of Justice Advisor.
+
+<<127.48;132.56;en>>
+The applicant is represented by Mr. Šarūnas Vilčinskas,
+
+<<132.56;133.28;en>>
+counsel.
+
+<<133.28;138.44;en>>
+I welcome the representatives in the name of the court.
+
+<<138.44;147.76;en>>
+I would also like to welcome the delegations of Albanian judges, Polish judges, Russian judges, and Serbian magistrates.
+
+<<147.76;157.96;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<157.96;160.76;en>>
+Miss Bubnytė and Mr. Schabas for the government
+
+<<160.76;166.28;en>>
+will speak first, and then Mr. Vilčinskas for the applicant.
+
+<<166.28;181.56;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Russian has been authorized for the benefit of a group of judges from the Russian Federation who are on a study visit to the court.
+
+<<181.56;191.44;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<191.44;192.7;en>>
+I call Miss Bubnytė.
+
+[[Government;GR2]]
+
+<<196.08;200.68;en>>
+Thank you, Mr. President.
+
+<<200.68;204.32;en>>
+Mr. President, honorable judges of the court,
+
+<<204.32;222.28;en>>
+the applicant in the present case, Vytautas Vasilauskas, was tried and convicted by the Lithuanian courts for the crime of genocide, the gravest of all crimes, for deliberate participation in the planned operation of liquidation of two Lithuanian partisans in 1953.
+
+<<222.28;235.68;en>>
+The applicant claims that the Lithuanian criminal law defines the notion of genocide in wider terms than the Convention on the Prevention and Punishment of the Crime of Genocide, as it includes social and political groups.
+
+<<235.68;245.04;en>>
+The applicant believes that his conviction for the crime of genocide was incompatible with Article 7 of the European Convention on Human Rights.
+
+<<245.04;256.12;en>>
+The Lithuanian government, in order to demonstrate that guarantees enshrined in Article 7 of the Convention were respected in the applicant's case, will address two principal aspects.
+
+<<256.12;265.6;en>>
+First, whether a definition of genocide and its interpretation comprising national particularities was consistent with the essence of the crime of genocide.
+
+<<265.6;275.72;en>>
+And second, whether such an interpretation could have reasonably been foreseen by the applicant at the material time in 1953.
+
+<<275.72;292.04;en>>
+Aiming to provide a thorough explanation of the Lithuanian legislator's intent when enacting the crime of genocide into Lithuanian law and the Lithuanian court's interpretation of this crime, the historical context is of utmost importance.
+
+<<292.04;301.36;en>>
+I will not repeat here what the Soviet occupation meant for the Lithuanian state and what insurmountable sufferings it brought to its people.
+
+<<301.36;307.84;en>>
+The government's written submissions contain relevant well-established historical facts and figures.
+
+<<307.84;317.48;en>>
+The evaluation given by the international community upon the atrocities committed by the Soviet authorities is also presented therein.
+
+<<317.48;321.84;en>>
+Still, may I remind the Grand Chamber of some relevant circumstances.
+
+<<321.84;341.76;en>>
+First of all, I refer to the report of the Political Affairs Committee of the Parliamentary Assembly of the Council of Europe, and I quote, the important feature of communist crimes has been repression directed against whole categories of innocent people whose only crime was being members of these categories.
+
+<<341.76;355.88;en>>
+In this way, in the name of ideology, the regimes have murdered tens of millions of rich peasants, kulaks, nobles, bourgeois, Cossacks, Ukrainians, and other groups of repressed nations.
+
+<<355.88;382.44;en>>
+Second, I refer to the findings of the historians who have in detail investigated the Soviet repressive structures, finding that the Lithuanians, together with their neighbors, Latvians and Estonians, as well as other nationalities within the Soviet Union, for example, Germans, Ukrainians, Crimea Tatars, Chechens, Ingush, were treated as unreliable nations, doomed to destruction.
+
+<<382.44;399.8;en>>
+Third, I refer to the finding of the Lithuanian Constitutional Court that the crimes against Lithuanians were a part of the targeted and systematic totalitarian policy pursued by the USSR, which aimed to destroy the basis of the political nation of Lithuania.
+
+<<399.8;418.52;en>>
+It was directed against the most active political and social groups, both resisting occupation and their supporters, civil servants and officials, public figures, intellectuals, and the academic community, farmers, priests, and their families.
+
+<<418.52;438.56;en>>
+The Criminal Code of the Republic of Lithuania, read in context with other relevant Lithuanian laws, reinforces the conclusion that overall historical, national, and international context has been taken into consideration by the legislator when drafting the composition of a crime of genocide therein.
+
+<<438.56;445.34;en>>
+At the same time, the legislator's intent to observe the requirements of international law is obvious.
+
+<<445.34;477.04;en>>
+For example, Article 2 of the Law on Liability for Genocide of Residents of Lithuania of 1992, which is still in force today, states that, and I quote, killing or torturing of people of Lithuania, deportation of its residents, which were carried out in Lithuania during the years of the occupation and annexation by the Nazi Germany of the USSR, correspond to the features of the genocide provided for in the norms of international law, end of quoting.
+
+<<477.04;503.32;en>>
+These facts speak for themselves in explaining that the Lithuanian legislator, by including social and political groups in the definition of genocide in the Criminal Code, referred to the qualitative genocide of the Lithuanian nation, rather than extending the definition of genocide in the 1948 Genocide Convention to additional forms of political genocide or social genocide, properly so-called.
+
+<<503.32;511.2;en>>
+This conclusion is valid first and foremost to a particular group of people, the Lithuanian partisans.
+
+<<511.2;516.5;en>>
+Labeling the Lithuanian partisans as merely a political group would be far too narrow.
+
+<<516.5;530.22;en>>
+To substantiate this, let me draw your attention to the most important statements and conclusions made by the Lithuanian Constitutional Court in its recent ruling of 18th March, 2014.
+
+<<530.22;543.76;en>>
+First, according to the universally recognized norms of international law, the organized armed resistance to the Soviet occupation is to be regarded as a lawful self-defense of the state of Lithuania.
+
+<<543.76;554.62;en>>
+Second, according to the Lithuanian laws, the participants of the armed resistance are declared as volunteer servicemen, and their military ranks and the votes are recognized.
+
+<<554.62;571.52;en>>
+Third, service to the state of Lithuania was possible during the years of Soviet occupation, only in the structures of the organized armed resistance against the occupation, inter alia, in the movement of the struggle for freedom of Lithuania.
+
+<<571.52;587.8;en>>
+And fourth, at the time of the occupation, the Council of the Movement of the Struggle for Freedom of Lithuania constituted the supreme political and military structure and was the sole legal authority within the territory of occupied Lithuania.
+
+<<587.8;616.06;en>>
+Against this background, the conclusion was made by the Constitutional Court that in the course of the qualification of the actions against the participants of the resistance to the Soviet occupation as a political group, one should take into account the significance of this group for the entire national group, the Lithuanian nation, which is covered by the definition of genocide according to the universally recognized norms of international law.
+
+<<616.06;623.76;en>>
+This is what has been actually done by the Lithuanian courts of general jurisdiction in the applicant's case.
+
+<<623.76;646.8;en>>
+In this regard, the decision of the Court of Appeal adopted in the applicant's case is particularly illustrative, and I quote, the chamber also draws attention to the fact that the definition of the Lithuanian partisans, particularly as a political group, like it was defined in the judgment of the first instance court, is in fact debatable and not precise enough.
+
+<<646.8;651.92;en>>
+Members of this group also represented the Lithuanian nation, national group.
+
+<<651.92;660.16;en>>
+So the genocide was performed according to the criteria of nationality, ethnicity, end of quoting.
+
+<<660.16;667.04;en>>
+Overall, the government contend that this case is not about a wider national definition of a crime of genocide.
+
+<<667.04;687.2;en>>
+This case is about a specific interpretation of a crime of genocide related to attacks against very specific groups of persons, the Lithuanian partisans, who could be labeled as a political group just because of their common objective to fight for the restoration of Lithuanian independence.
+
+<<687.2;701.76;en>>
+The repressive structures of the Soviet Union were aimed at the destruction of this group for its huge significance for the entire Lithuanian nation, so huge that it might have had an impact on the survival of the entire Lithuanian nation.
+
+<<701.76;707.04;en>>
+Thus, it should be regarded as covered by the essence of the crime of genocide.
+
+<<707.04;719.32;en>>
+Ideas say that the Lithuanian courts would have disregarded the requirements of international law had they not convicted the applicant and let him remain unpunished.
+
+<<719.32;738.28;en>>
+While assessing whether the Lithuanian court's interpretation of the crime of genocide could have reasonably been foreseen by the applicant at the material time in 1953, as required under Article VII of the Convention, the case-specific historical context is again of decisive weight.
+
+<<738.28;769.64;en>>
+It would be beyond all comprehension to state that the applicant at the material time serving in one of the Soviet repressive organs as an operational agent was not aware that his acts aimed at killing the Lithuanian partisans fit well within the Soviet repression policies directed against Lithuanian nation's resistance to occupation, officially describing such an activity as destruction of bandits, terrorists, bourgeois nationalists, and Nazi collaborators.
+
+<<769.64;783.32;en>>
+Given the shortage of time, let me abstain from responding to similar, if not identical, accusations expressed by the Russian Federation participating as the third party in the case, also by the applicant's lawyer.
+
+<<783.32;791.48;en>>
+Responses to similar accusations have been given long ago by historians, politicians, and Lithuanian courts.
+
+<<791.48;815.52;en>>
+Aiming to answer whether the domestic court's interpretation of the crime of genocide could have reasonably been foreseen by the applicant at the material time, the government note that even if the acts committed by the applicant could have been regarded as lawful under the Soviet law, they nevertheless constituted the crime of genocide under international law at the time of their commission.
+
+<<815.52;826.64;en>>
+After a few minutes, Professor Schabers will discuss the state of international law at the time in order to demonstrate the forcibility of criminal prosecution of the applicant's conduct.
+
+<<826.64;837.12;en>>
+While I would like to address one more aspect of the present case, I refer to the principle of subsidiarity that underpins the whole convention system.
+
+<<837.12;841.36;en>>
+International law sets minimum standards for human rights.
+
+<<841.36;855.52;en>>
+The convention system is cherished for its ability to take into consideration diverse social, political, cultural, and legal traditions, moral convictions, historical experience, peculiar to each member state.
+
+<<855.52;872.52;en>>
+Instead of blindly imposing uniform European standards of human rights, we believe that Lithuanian courts should not be reproached for the interpretation of a concept of genocide, taking into consideration Lithuanian peculiar context either.
+
+<<872.52;878.84;en>>
+In any event, it was not the Lithuanian authorities which had widened the concept of genocide.
+
+<<878.84;889.32;en>>
+As David Narcissian has put it in his authoritative study, genocide of political groups, the perpetrator labels the group in order to destroy it.
+
+<<889.32;894.08;en>>
+The partisans constituted a group to be destroyed by the Soviet authorities.
+
+<<894.08;902.44;en>>
+The applicant in the present case served as one of the tools to assist them in committing the international crime of genocide.
+
+<<902.44;916.96;en>>
+To deny this would not only mean a distortion of historical truth, but also a justification by the international community of the atrocities committed by the Soviet authorities against Lithuania and its people.
+
+<<916.96;929.96;en>>
+It would be likewise incompatible with the underlying values of the convention, that of common heritage of political traditions, ideals, freedom, and the rule of law to which the preamble refers.
+
+<<929.96;933.6;en>>
+Mr. President, now I kindly ask you
+
+<<933.6;942.44;en>>
+to give the floor to Professor William Schabas, who will complete Lithuanian submissions and who does not need any wider introduction, I believe.
+
+<<942.44;942.44;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<943.55;944.35;en>>
+Thank you very much.
+
+<<944.35;945.63;en>>
+Mr. Schabas, please.
+
+[[Government;GR1]]
+
+<<951.33;952.91;en>>
+Thank you very much, Mr. President,
+
+<<952.91;954.69;en>>
+members of the court.
+
+<<954.69;959.97;en>>
+It is an honor to appear before the Grand Chamber once again in this case.
+
+<<959.97;962.09;en>>
+May it please the court.
+
+<<962.09;966.49;en>>
+The word genocide was invented by Raphael Lemkin.
+
+<<966.49;974.97;en>>
+It appeared for the first time in his book, Access, Rule, and Occupy Europe, which was published in November 1944.
+
+<<974.97;978.21;en>>
+The term rapidly gained currency.
+
+<<978.21;986.73;en>>
+It was used by the American jurist Robert Jackson in negotiating the London Agreement that provided the legal framework for the Nuremberg trial.
+
+<<986.73;994.45;en>>
+And the word was used on several occasions by prosecutors during the proceedings, but not in the final judgment.
+
+<<994.45;1005.01;en>>
+The Nazi defendants were convicted of crimes against humanity, an expression that designated a broad range of atrocities perpetrated against any civilian population.
+
+<<1005.01;1011.81;en>>
+The acts included extermination and persecutions on political, racial, or religious grounds.
+
+<<1011.81;1021.17;en>>
+The judgment described in considerable detail how the Nazi regime persecuted and destroyed its political opponents.
+
+<<1021.17;1032.43;en>>
+In the weeks following the Nuremberg judgment, in late 1946, the United Nations General Assembly adopted Resolution 96 on the crime of genocide.
+
+<<1032.43;1041.85;en>>
+Resolution 96 was proposed by the Cuban delegate to the General Assembly in a speech that was apparently written by Rafael Lemkin.
+
+<<1041.85;1053.33;en>>
+The Cuban representative explained that the Nuremberg trials had precluded punishment of certain crimes of genocide because they had been committed before the war had begun.
+
+<<1053.33;1069.51;en>>
+Fearing that they might remain unpunished owing to the principle of nullum crimine sine legae, the representative of Cuba asked that genocide be declared an international crime, adding that this was the purpose of the resolution.
+
+<<1069.51;1083.49;en>>
+For the purposes of this case, the relevant portion of the resolution is its definition of the crime of genocide, extending to, and I quote, racial, religious, political, or other groups.
+
+<<1083.49;1094.61;en>>
+Resolution 96 mandated the United Nations to prepare a convention on genocide, and the 1948 convention is the result.
+
+<<1094.61;1105.89;en>>
+The applicant, in this case, has not contested the fact that genocide was an international crime in January 1953, when the acts that he perpetrated took place.
+
+<<1105.89;1123.65;en>>
+He has not argued that Article 7 of the European Convention precluded public prosecution or precludes prosecution of genocide committed in January 1953, even if this may not have been provided for in the domestic law at the time.
+
+<<1123.65;1135.13;en>>
+And he has not contended that the act of intentional physical destruction of a political group did not constitute an international crime in 1953.
+
+<<1135.13;1152.25;en>>
+His only argument is that genocide of political groups or on political grounds, these are terms taken from the General Assembly Resolution 96, that they are not comprised within the 1948 convention.
+
+<<1152.25;1162.97;en>>
+As the Grand Chamber can see, genocide based upon political grounds or of political groups was certainly contemplated by the General Assembly Resolution of 1946.
+
+<<1162.97;1176.41;en>>
+Furthermore, persecutions on political grounds were also considered as crimes against humanity since 1945, when they were so declared in the Charter of the International Military Tribunal.
+
+<<1176.41;1190.53;en>>
+As early as December 1946, it could not be disputed that persecutions on political grounds and destruction or extermination of political groups were crimes under international law.
+
+<<1190.53;1203.09;en>>
+Nobody can claim from that point on that this prohibition under international law was not accessible and that punishment was not foreseeable.
+
+<<1203.09;1205.53;en>>
+Mr. President, members of the Grand Chamber,
+
+<<1205.53;1219.25;en>>
+it is a mistake to view the definition in the 1948 convention as an attempt to repeal or amend the definition in the 1946 resolution.
+
+<<1219.25;1222.81;en>>
+The two instruments had different purposes.
+
+<<1222.81;1227.77;en>>
+The 1946 resolution was essentially declaratory.
+
+<<1227.77;1236.41;en>>
+It was to dispel any doubts or objections about the content of international law concerning the criminality of genocide.
+
+<<1236.41;1241.05;en>>
+The General Assembly was not legislating because it was not a legislative body.
+
+<<1241.05;1246.17;en>>
+It was confirming the existence of law, not creating it.
+
+<<1246.17;1258.09;en>>
+The purpose of the resolution, as its proposer explained to the General Assembly, was to answer those who questioned whether the prohibition it set out was accessible and foreseeable.
+
+<<1258.09;1272.03;en>>
+The 1948 convention, on the other hand, was adopted in order to impose major and unprecedented legal obligations upon states, intruding deeply into their sovereign space.
+
+<<1272.03;1284.85;en>>
+They were required to prevent and punish genocide, to cooperate in extradition, and they accepted the competence of the International Court of Justice to adjudicate disputes.
+
+<<1284.85;1299.65;en>>
+And this explains compromises during the negotiations of the convention, including the decision to exclude political groups from the definition applicable to the convention obligations.
+
+<<1299.65;1313.13;en>>
+Please note that no similar convention existed at the time for the other international atrocity crimes punished at Nuremberg, crimes against peace, crimes against humanity, and war crimes.
+
+<<1313.13;1321.07;en>>
+And yet the absence of such a convention for these other crimes does not mean they were not punishable under international law at the time.
+
+<<1321.07;1324.85;en>>
+The crimes existed nevertheless.
+
+<<1324.85;1348.53;en>>
+In 1950, the drafters of the European convention did not believe a codified conventional definition was required for a crime to be deemed a criminal offense under international law, or criminal according to the general principles of law recognized by civilized nations, to use the terms of Article VII of the convention.
+
+<<1348.53;1361.13;en>>
+The persecution and destruction of political groups was criminal under general principles of law before 1948, prior to adoption of the Genocide Convention.
+
+<<1361.13;1373.85;en>>
+That the Genocide Convention adopted a narrower definition does not in any way change the foreseeability and accessibility of the criminality of the underlying act.
+
+<<1373.85;1376.93;en>>
+Mr. President, the great international lawyer,
+
+<<1376.93;1397.81;en>>
+Jacques Tyraudin, in his oral submissions to the International Court of Justice in the Genocide Advisory Opinion in 1951, said that the decision to exclude political groups from the 1948 convention did not mean genocide of political groups was not a crime under international law.
+
+<<1397.81;1410.13;en>>
+He said, and I quote from page 338 of the published proceedings of the International Court of Justice, what it does mean is that they are not crimes for the purposes of the convention.
+
+<<1410.13;1426.63;en>>
+That is to say, the contractual bargains between the parties to the convention, which are intended to facilitate international cooperation in the prevention and punishment of the crime of genocide, do not go so far as to cover them.
+
+<<1426.63;1433.61;en>>
+During the drafting of the Genocide Convention, there was much support for the inclusion of political groups.
+
+<<1433.61;1440.41;en>>
+In other words, to continue what had been in the 1946 resolution.
+
+<<1440.41;1454.41;en>>
+In its initial decision on the issue, the Sixth Committee of the General Assembly decided by 29 votes to 13, with nine abstentions, to include political groups within the enumeration.
+
+<<1454.41;1457.21;en>>
+This decision was subsequently reversed.
+
+<<1457.21;1467.17;en>>
+And some delegations said that they had changed their position because of concerns that including political groups might hinder ratification.
+
+<<1467.17;1470.33;en>>
+The Soviet Union spoke to the point.
+
+<<1470.33;1474.21;en>>
+It said it favored excluding political groups from the convention.
+
+<<1474.21;1485.57;en>>
+But it also said, and I quote, it was in complete agreement with the view that physical destruction for political opinions was an inadmissible crime.
+
+<<1485.57;1492.49;en>>
+And it added, the Soviet Union said it had stated this in the General Assembly as well in 1946.
+
+<<1492.49;1502.25;en>>
+It was only saying that it didn't want political groups to be in the obligations comprised within the Genocide Convention.
+
+<<1502.25;1522.81;en>>
+When they incorporated the crime of genocide within their national legal systems, in compliance with their obligations under international law, many states have enlarged the list of protected groups, enumerated in Article II of the Convention, adding political groups either explicitly or by implication.
+
+<<1522.81;1535.05;en>>
+And the recent study by David Nersessian, published by Oxford University Press, lists 20 such states, including eight members of the Council of Europe.
+
+<<1535.05;1540.57;en>>
+Subsidiarity is not a notion reserved to the implementation of human rights treaties.
+
+<<1540.57;1546.89;en>>
+It also applies in a very similar manner to international criminal law.
+
+<<1546.89;1555.45;en>>
+When states introduce international crimes in domestic legislation, some variation in the definitions is quite common.
+
+<<1555.45;1568.69;en>>
+In the case of genocide, enlargement of the protected groups, so as to include political groups, is one feature of this, as Lithuania's implementing legislation confirms.
+
+<<1568.69;1580.65;en>>
+The applicant is in a position analogous to that in the Jorgic versus Germany case, decided by a unanimous chamber of this court in 2007.
+
+<<1580.65;1589.49;en>>
+The Jorgic case concerned prosecution for genocide based upon an understanding of the crime adopted by the courts of Germany.
+
+<<1589.49;1604.75;en>>
+The applicant in that case claimed that the majority position of international courts and academic commentators had confirmed a narrower scope for the crime of genocide than that adopted by the German courts.
+
+<<1604.75;1623.77;en>>
+And the European Court of Human Rights rejected his contention, although it acknowledged the debate about the scope of the crime of genocide, something that had been confirmed really only a few months before the chamber decision in the ruling of the International Court of Justice in the Bosnia versus Serbia case.
+
+<<1623.77;1646.19;en>>
+And the chamber of this court said that the conviction was compatible with, quote, the essence of the crime, close quote, and that the applicant, quote, if need be, would the assistance of a lawyer could reasonably have foreseen that he risked being charged with and convicted of genocide for the acts he had committed, close quote.
+
+<<1646.19;1651.57;en>>
+A familiar statement in the jurisprudence of this court.
+
+<<1651.57;1655.37;en>>
+The question then, Mr. President, members of the court,
+
+<<1655.37;1668.89;en>>
+is whether the applicant in this case in 1953, if necessary with proper legal advice, could reasonably have foreseen being charged and convicted for crimes under international law.
+
+<<1668.89;1676.41;en>>
+The authoritative 1946 resolution of the General Assembly provides a clear answer to this question.
+
+<<1676.41;1689.49;en>>
+The Soviet Union had itself confirmed the international criminality of the destruction of political groups in statements in the General Assembly in 1946 and again in 1948.
+
+<<1689.49;1703.29;en>>
+We also add to this the debates in the third committee during the, I'm sorry, the sixth committee during the drafting of the convention when a majority of member states initially favored the inclusion of political groups.
+
+<<1703.29;1715.77;en>>
+And finally, the punishment of Nazi defendants at Nuremberg for persecution and destruction of political groups under the rubric of crimes against humanity.
+
+<<1715.77;1727.61;en>>
+Do acts of persecution and even destruction of political groups fit more appropriately under the rubric of crimes against humanity rather than genocide?
+
+<<1727.61;1729.53;en>>
+Perhaps.
+
+<<1729.53;1733.89;en>>
+The two categories of international crime are cognates.
+
+<<1733.89;1744.57;en>>
+They overlap considerably, genocide being usually considered as an aggravated form of crime against humanity.
+
+<<1744.57;1753.09;en>>
+Lithuania submits that this question cannot be significant in a determination under Article VII of the European Convention.
+
+<<1753.09;1774.53;en>>
+The issue before the grand chamber is whether the acts of the applicant constituted a crime under international law or contrary to general principles of law, one that was foreseeable and accessible, and not whether these acts might have better been described as crimes against humanity.
+
+<<1774.53;1799.61;en>>
+This would be like quarreling about whether an act of sexual violence should be labeled as rape rather than sexual assault, or an act of homicide labeled as murder rather than intentional killing, or to move to the international sphere, whether a war crime should be called a grave breach of the Geneva Conventions or a violation of the laws and customs of war.
+
+<<1799.61;1806.81;en>>
+The court has specifically requested that the relevance of paragraph two of Article VII be addressed.
+
+<<1806.81;1815.01;en>>
+In the case law of the convention organs, paragraph two of Article VII has long been overshadowed by paragraph one.
+
+<<1815.01;1821.89;en>>
+It may nevertheless prove helpful here in applying Article VII as a whole.
+
+<<1821.89;1833.89;en>>
+The court's interpretation to date has been influenced by early case law of the European Convention that was itself based on a reading of the Travaux.
+
+<<1833.89;1838.53;en>>
+The Grand Chamber might take another look at the Travaux.
+
+<<1838.53;1850.49;en>>
+In our view, they indicate that paragraph two was not added as an exception aimed at sheltering the post-Second World War prosecutions from challenge under paragraph one.
+
+<<1850.49;1867.89;en>>
+Rather, it was a message that an excessively positivistic assessment of the scope of international law is to be avoided when offenses that strike at the heart of human dignity are concerned.
+
+<<1867.89;1884.89;en>>
+Such an interpretation of the Travaux is reinforced by the modern day emphasis on addressing impunity for serious human rights violations, something confirmed most recently by the Grand Chamber only a week ago in Margas versus Croatia.
+
+<<1884.89;1896.89;en>>
+In this sense, paragraph two of Article VII is helpful to Lithuania, but it is hardly essential because this case can be resolved entirely within the frame of paragraph one.
+
+<<1896.89;1899.97;en>>
+I reach my conclusions, Mr. President.
+
+<<1899.97;1906.85;en>>
+This is not about criminal liability for acts perpetrated during the war, as was the case in Kononov.
+
+<<1906.85;1911.87;en>>
+It's about behavior that took place many years after the Second World War.
+
+<<1911.87;1934.33;en>>
+After the Nuremberg judgment, after the General Assembly resolution on genocide, after the Soviet statements in the General Assembly acknowledging international criminality of the destruction of political groups, and after the adoption and entry into force of the Genocide Convention, the law was undoubtedly accessible.
+
+<<1934.33;1951.09;en>>
+The only thing that might not have been foreseeable to the applicant at the time he perpetrated the acts in question was that the impunity he enjoyed in the Soviet Union under Stalin and his successors would not last a lifetime.
+
+<<1951.09;1952.29;en>>
+Respectfully submitted.
+
+<<1952.29;1952.29;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1956.54;1961.38;en>>
+Thank you, Mr. Schabas. I call Mr. Vilčinskas, please.
+
+<<1961.38;1961.38;en>>
+You have the floor.
+
+[[Applicant;AP1]]
+
+<<1968.81;1984.65;en>>
+Your Majesties, the judges of the European Court of Human Rights, I have a great honor to be here in this Guy Court and represent to Mr. Vytautas Vassiljauskas,
+
+<<1984.65;1987.65;en>>
+hereafter the applicant.
+
+<<1987.65;1994.29;en>>
+I do not know what decision the Guy Court will be done in this case.
+
+<<1994.29;2014.33;en>>
+However, I firmly believe that Vassiljauskas' application is reasonable and should be satisfied because the Republic of Lithuania, hereafter the government, Lithuanian courts, violated the Article No.
+
+<<2014.33;2026.45;en>>
+7 of the European Convention for the Protection of Human Rights and Fundamental Freedoms in full scope.
+
+<<2026.45;2045.13;en>>
+I also feel that the echo of death and broken destinies of millions of innocent people accompanies that case now, and it will accompany in the archives after hearings.
+
+<<2045.13;2065.41;en>>
+The government is right when it writes about the historical background and the world disorder during 1939, 1940, five years period and beyond.
+
+<<2065.41;2075.77;en>>
+If to be more precise, it is possible to remember the situation before the beginning of the Second World War.
+
+<<2075.77;2088.57;en>>
+Germany and the Soviet Union at that time had very close and friendly economic, military and other relations.
+
+<<2088.57;2105.57;en>>
+There are no secrets that overall victory parade was held in order to mark victory against Poland.
+
+<<2105.57;2111.61;en>>
+Both countries had declared as defenders of the working people.
+
+<<2111.61;2127.17;en>>
+It might be the people and the governments of the other countries, including Lithuania, could not understand the real goals, Nazi Germany and Soviet Union.
+
+<<2127.17;2141.57;en>>
+The relationship between those countries was so nice that they had divided secretly the territories of sovereign states, including Lithuania.
+
+<<2141.57;2151.17;en>>
+It would not be news if any experience for people first, or evidence exchanged.
+
+<<2151.17;2163.69;en>>
+Individual actions or remarks of some state about inhuman nature of authorities in Germany and the Soviet Union remained unnoticed.
+
+<<2163.69;2193.13;en>>
+For example, the Lithuanian military court had announced on 26th March, 1935, their judgment for 87 most active Nazis for various committed crimes, including murder in Klaipeda region, and fined various penalties.
+
+<<2193.13;2200.61;en>>
+Four to death, two to life imprisonment, and others various time in prison.
+
+<<2200.61;2203.89;en>>
+35 persons were acquitted.
+
+<<2203.89;2214.17;en>>
+Unfortunately, this trial did not become a model for preventing the spread of Nazism.
+
+<<2214.17;2242.73;en>>
+This brief digression, supplementing of the government and partly of the third party of the Russian Federation, year after Russia, observations is significant that the brothers, Jonas Ostrowskas and Antonis Ostrowskas, year after the brothers, had, and the applicant, might be influenced to their choice at that time.
+
+<<2242.73;2254.21;en>>
+However, in no way there is not an indulgence of liability for the crime if it has been committed.
+
+<<2254.21;2261.97;en>>
+I refer such observations regarding the last government and third party Russia reviews.
+
+<<2261.97;2325.41;en>>
+The first, the Constitutional Court of Republic of Lithuania on 18th March of this year, in its ruling on the compliance of certain provisions of the Criminal Code of Republic of Lithuania that are related to criminal liability for genocide with the Constitution of Republic of Lithuania, yet constituted that provisions of the article number 99 of Criminal Code about social and political groups was and is in the conflict with the paragraph, the fourth of article 31st of the Constitution of Republic of Lithuania and the constitutional principle of state under the law, under the rule of law.
+
+<<2325.41;2330.17;en>>
+The law could not be retroactive.
+
+<<2330.17;2341.21;en>>
+So it is written in the part number one of the article number seven of the convention.
+
+<<2341.21;2346.41;en>>
+And then a crime and liability can't be.
+
+<<2346.41;2352.77;en>>
+The applicant was held guilty by Lithuanian courts unlawfully.
+
+<<2352.77;2361.89;en>>
+Moreover, the constitutional court confirmed what the applicant said and wrote from the beginning.
+
+<<2361.89;2376.33;en>>
+These actions at that time in 1953 was not a crime, were not a crime according to law and according to facts.
+
+<<2376.33;2390.85;en>>
+Legally, it means that any mind of the hearings, court judgments and motives about actions of the applicant have no legal significance.
+
+<<2390.85;2417.25;en>>
+The Lithuanian Constitution, article number 107, part one states that since the entry into force of the ruling of the constitutional court, the law declared in contrary to the Constitution cannot be applied.
+
+<<2417.25;2429.09;en>>
+I know that the constitutional court ruling removing the liability of the applicant is not a newly discovered circumstance.
+
+<<2429.09;2431.49;en>>
+It is a mistake.
+
+<<2431.49;2447.69;en>>
+I understand that the situation in which a public power with dozens of different types of professionals makes the mistake of being a nuisance.
+
+<<2447.69;2457.45;en>>
+And it is particularly unpleasant when it is possible related to ignorance of the law in some state institutions.
+
+<<2457.45;2465.65;en>>
+The applicant did not hide anything, neither the facts or neither reasoning about law.
+
+<<2465.65;2480.41;en>>
+He argued in all courts that the concept of genocide, of Lithuanian criminal law, is in contrary to the international law and to the Constitution of Lithuania.
+
+<<2480.41;2482.21;en>>
+The applicant is right.
+
+<<2482.21;2486.61;en>>
+No facts were known to have emerged.
+
+<<2486.61;2530.69;en>>
+The government, though acknowledging that the applicant cannot be held responsible for the crime of genocide, leaving the same facts, is trying now to take the opinion that the applicant has made perhaps another serious crimes against humanity, or maybe the war crimes, or argue that the brothers have been killed because they were as part as group of Lithuanian nation.
+
+<<2530.69;2541.25;en>>
+Yes, they might be Lithuanian nationality, and possibly Baltic tribe or white race could depend on.
+
+<<2541.25;2544.93;en>>
+Probably, still, they were Catholics.
+
+<<2544.93;2557.53;en>>
+The applicant of these brothers' roles and for these features has not been tested.
+
+<<2557.53;2573.09;en>>
+There is no evidence that the destruction of Lithuanian people was done according any program orders for their destruction for the fact that they are Lithuanians, white race, Catholics, and so on.
+
+<<2573.09;2583.45;en>>
+Objections are due to the fact that the applicant himself is Lithuanian, possibly Baltic tribe and white race.
+
+<<2583.45;2592.93;en>>
+Also, more of Soviet activists were born as Lithuanian members of Baltic tribe and white race.
+
+<<2592.93;2606.09;en>>
+Therefore, according to the law, any consistent pattern of the other groups of genocide after the Constitutional Court's decision to the applicant cannot be applied to that.
+
+<<2606.09;2615.65;en>>
+The government should not speculate what other crime find for the applicant during hearings in this High Court.
+
+<<2615.65;2624.89;en>>
+The rule, if it is not a crime of genocide, then it might be other one does not exist.
+
+<<2624.89;2646.05;en>>
+The convention has a term that everyone charged with criminal offense has the right to be informed promptly of the nature and course of the accusation against him to have adequate time and facilities for the preparation of his defense and so on.
+
+<<2646.05;2651.29;en>>
+Article number five, sixth of the convention.
+
+<<2651.29;2671.61;en>>
+I consider that using the principle of the puzzle, if this it is unacceptable and it cannot be applied, then it is other crime.
+
+<<2671.61;2677.89;en>>
+The international and national law do not know such rules.
+
+<<2677.89;2701.89;en>>
+If the government is already talking about crime against humanity or anyone else according to the general principles of law recognized by civilized nations, then the government should at least describe about what principles and their attributes discussion may be.
+
+<<2701.89;2711.49;en>>
+Then the government has to inform the applicant as international and national law provides.
+
+<<2711.49;2733.77;en>>
+It cannot be even a hint of any applicant's action in relation to crimes against humanity, as it unquestionably is denied by the fact that their brothers were armed more than 10 years without any break and vacation.
+
+<<2733.77;2744.01;en>>
+This fact means that they were not as part of the civilian population.
+
+<<2744.01;2749.77;en>>
+At the same time, being armed, they get a chance to stay alive.
+
+<<2749.77;2758.93;en>>
+They chose a gun themselves without physical or mental pressure from outside.
+
+<<2758.93;2761.97;en>>
+And their solution was free.
+
+<<2761.97;2779.57;en>>
+I think that neither international law nor the Lithuanian national law discussing about civilians not armed people in mind, whether they occupy power or enslave the human point of view.
+
+<<2779.57;2787.49;en>>
+It's clear by looking at the criminal law of Lithuania, Article Number 100.
+
+<<2787.49;2794.37;en>>
+There, the actions against civilians are prosecuted.
+
+<<2794.37;2799.17;en>>
+The applicant did not commit such actions.
+
+<<2799.17;2814.93;en>>
+Although the applicant has complied with reasonable position that their brothers have been persecuted lawfully because of their potential participating in genocide during the Nazi occupation.
+
+<<2814.93;2824.81;en>>
+And their brothers were killed after their decision five years from partisan squad.
+
+<<2824.81;2830.45;en>>
+Therefore, the action of the applicant subjectively is not crime.
+
+<<2830.45;2836.41;en>>
+The applicant agrees that the government may brothers' partisans hold.
+
+<<2836.41;2847.49;en>>
+But in this case, there are several aspects which eliminate any applicant's criminal activities and liability for that.
+
+<<2847.49;2865.45;en>>
+The government and Russia recognize that in Lithuania, military political resistance was organized against Soviet Union occupation, covering the entire territory of Lithuania.
+
+<<2865.45;2879.53;en>>
+The concept of resistance must be based not on the Soviet authorities view, what called it with fascist and nationalist elements of the movement.
+
+<<2879.53;2888.25;en>>
+But according to text and soul declared in resistance movements documents.
+
+<<2888.25;2893.73;en>>
+The first of all, there was an armed struggle for the will.
+
+<<2893.73;2897.29;en>>
+Lithuania would be democratic state.
+
+<<2897.29;2906.81;en>>
+These combatants and the international law, regardless or whether or not recognized by the Soviet Union.
+
+<<2906.81;2912.65;en>>
+Yes, and yet to be protected by international law.
+
+<<2912.65;2924.41;en>>
+For example, the Hague Convention and the other rules relating to the war for liberty.
+
+<<2924.41;2933.53;en>>
+I refer, there is not important what kind of Soviet troops participate against partisans.
+
+<<2933.53;2963.05;en>>
+If the government says about war law, then according to that rules, the government's provided archival documents about brothers and others must be called as a result of military's intelligence with the information about everything about partisans.
+
+<<2963.05;2976.53;en>>
+It should be noted that the brothers of different solutions were assessed and to do their own recruiting if it fails to destroy.
+
+<<2976.53;2984.13;en>>
+Even the amnesty was announced for partisans if they should stop their activity.
+
+<<2984.13;2996.21;en>>
+These facts are also by war rules, but not as killing of civilians as such.
+
+<<2996.21;3004.01;en>>
+If there is a law of war, it is necessary to evaluate the applicant's actions before brother's death.
+
+<<3004.01;3012.17;en>>
+The applicant gave the order to protect the woman and he did not involve in the armed encounter.
+
+<<3012.17;3018.69;en>>
+The woman confirmed that all the other soldiers participated in the conflict.
+
+<<3018.69;3024.33;en>>
+The applicant complied with the order and the woman was protected.
+
+<<3024.33;3037.85;en>>
+Under military rules, he did not participate in the battle because the applicant's commanders had not ordered to him participate there.
+
+<<3037.85;3058.61;en>>
+I have to notice that the state must prove their guilt based on applicable laws and evidence rather than abstract reasoning or disagreement with the applicant's assertions.
+
+<<3058.61;3074.01;en>>
+For instance, the government brothers' collaboration with the Nazis is denied a one-page statement rather than a serious investigation.
+
+<<3074.01;3083.13;en>>
+However, the sheer number of people killed civilians exceeded more than 1,000 victims.
+
+<<3083.13;3106.25;en>>
+Finally, neither the government nor anyone else can challenge the thousands of Lithuanian young men and women who have fought for Lithuania's and its people's freedom and purpose, that Lithuania should be a democratic state.
+
+<<3106.25;3120.53;en>>
+They really did not want any alliance whose politicians responsible for the destruction and suffering of their citizens was revered as saints.
+
+<<3120.53;3131.77;en>>
+I think they had hoped that in Lithuania, human rights and freedoms, including the applicants, would be respected.
+
+<<3131.77;3139.25;en>>
+No one can be convicted without law and not according to the law.
+
+<<3139.25;3154.61;en>>
+Therefore, the application of the applicant, Mr. Vasiliauskas, against Lithuania, dated on 26 July 2005,
+
+<<3154.61;3165.69;en>>
+is reasonable, and I hereby request to satisfy it because Lithuania violated the Article No. 7
+
+<<3165.69;3171.97;en>>
+of the European Convention on Human Rights.
+
+<<3171.97;3174.93;en>>
+The damage must be compensated.
+
+<<3174.93;3184.41;en>>
+The damage, according to applicants' claims, must be compensated from the Republic of Lithuania.
+
+<<3184.41;3196.41;en>>
+If I've done any mistake, these mistakes are mine, but not my clients.
+
+<<3196.41;3196.41;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3201.36;3205.82;en>>
+Thank you Mr. Vilčinskas, as I turn now to the judges, are there any questions?
+
+<<3205.82;3209.18;en>>
+Judge Power-Forde.
+
+[[Judge;Ann Power-Forde]]
+
+<<3210.48;3212.62;en>>
+Thank you, President.
+
+<<3212.62;3216.04;en>>
+I have a question to put to the representatives of the government.
+
+<<3216.04;3221.11;en>>
+And of course, the applicant is free to comment by way of reply.
+
+<<3221.11;3234.0;en>>
+I appreciate the distinction that was drawn between the resolution number 96 adopted by the United Nations in 1946 and the subsequent UN Convention on Genocide two years later.
+
+<<3234.0;3241.68;en>>
+The former being declaratory, as you say, and the latter imposing major legal obligations upon states.
+
+<<3241.68;3252.8;en>>
+I also appreciate the number of incidents or the number of instruments that you cited in terms of what had already transpired by the time this applicant had committed the acts in question.
+
+<<3252.8;3269.12;en>>
+But what I would like your observations on, I'd like you to address the court on the applicability, if at all, of international case law on the meaning of the phrase within Article 2 of the 48 Convention, in whole or in part.
+
+<<3269.12;3277.94;en>>
+We see from the court of appeal's judgment that it regarded the partisans as part of a protected group, namely the nation.
+
+<<3277.94;3290.11;en>>
+And I would like to if you could address the court on the international case law and its applicability, if any, to the facts of this case in terms of the phrase in whole or in part.
+
+<<3290.11;3290.32;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3295.34;3296.62;en>>
+Judge Ziemele.
+
+[[Judge;Ineta Ziemele]]
+
+<<3299.33;3301.53;en>>
+Thank you, Mr. President.
+
+<<3301.53;3311.33;en>>
+Indeed, a question to the government, but the applicant also is welcome to express his position.
+
+<<3311.33;3321.21;en>>
+It is a follow-up to Judge Power-Forde's question, and it concerns the fact that we have two victims in the case.
+
+<<3321.21;3339.97;en>>
+And the question is, indeed, from the case file, it doesn't clearly transpire in what manner the domestic courts, if at all, address the quantitative aspect of the circumstances.
+
+<<3339.97;3360.25;en>>
+Or am I right in understanding the government's submissions that there was, in the legal reasoning, a switch to the qualitative aspect, meaning the belonging to the protected group?
+
+<<3360.25;3368.37;en>>
+So what difference did it make that there were attacks on two, allegedly on two partisans?
+
+<<3368.37;3374.97;en>>
+And if you would maybe present, from the reasoning of the domestic courts, how this was addressed.
+
+<<3374.97;3374.97;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3375.38;3376.22;en>>
+Thank you, Judge Pinto de Albuquerque.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<3380.98;3381.98;en>>
+Thank you, Mr. President.
+
+<<3381.98;3391.02;en>>
+A question addressed to Professor Schabas, and of course, the applicant can also reply to this.
+
+<<3391.02;3409.22;en>>
+You have presented to us evidence that in 1953, there was already a principle of criminalization, of persecution and extermination of political groups.
+
+<<3409.22;3430.42;en>>
+And that evidence cited by you was the declaration of the United Nations General Assembly in 1946 and the position of the Soviet Union in that same General Assembly in 1946 and 1948.
+
+<<3430.42;3478.46;en>>
+My question is, having in account that political genocide is not included in the Genocide Convention, the ICTR statute, the ICTY statute, the Rome Treaty of the International Criminal Court, the statute of the Special Panel for East Timor, and the extraordinary chambers in Cambodia, having in account all this history of criminal international law, can we still say, can we still argue that there is a customary norm of criminalization of political genocide?
+
+<<3478.46;3495.86;en>>
+My second question addresses the ethnic genocide, the other perspective under which the case can be dealt with.
+
+<<3495.86;3502.74;en>>
+In fact, it is the position of the respondent government and the domestic courts.
+
+<<3502.74;3513.5;en>>
+The Court of Appeal has stated clearly in its judgment that the facts can be understood as a form of ethnic genocide.
+
+<<3513.5;3516.7;en>>
+The Supreme Court accepted that point of view.
+
+<<3516.7;3522.18;en>>
+And recently, the Constitutional Court confirmed that point of view.
+
+<<3522.18;3523.94;en>>
+My question is the following.
+
+<<3523.94;3557.46;en>>
+Can you, Professor Schabas, envisage the killing of these two brothers as a part of this selective ethnic genocide insofar that it targeted groups of people, partisans, farmers, small property owners, intellectual elite, priests, public officials, which were selected for the impact that their disappearance would have upon the survival of the lithuanian  nation as such?
+
+<<3560.64;3573.02;en>>
+So my question does not address the development of case law as Judge Power's question.
+
+<<3573.02;3590.06;en>>
+Mine is a little bit different, is on your views about the assessment of this case under ethnic genocide, under the perspective of an ethnic genocide.
+
+<<3590.06;3590.06;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3592.0;3593.36;en>>
+Thank you, Judge Sajó.
+
+[[Judge;András Sajó]]
+
+<<3595.94;3599.14;en>>
+Thank you, Mr. President.
+
+<<3599.14;3608.68;en>>
+My question concerns basically specific intent.
+
+<<3608.68;3618.92;en>>
+The International Court of Justice, among others, in the Bosnia-Herzegovina versus Serbia-Montenegro case refers to the requirement of specific intent.
+
+<<3618.92;3631.48;en>>
+My first question is whether the government is of the view that this is a constitutive element of the crime of genocide.
+
+<<3631.48;3644.8;en>>
+Secondly, in the domestic judgment, there is an expression which is translated as direct intent.
+
+<<3644.8;3650.7;en>>
+Allow me to quote the original "tiesioginė tyčia".
+
+<<3650.7;3666.26;en>>
+I wonder whether this is the same as specific intent, and if not, what is the relation between the two?
+
+<<3666.26;3680.08;en>>
+I ask this with a specific background assumption in mind, or actually I don't have an assumption, but I would like a specific clarification.
+
+<<3680.08;3706.46;en>>
+The applicant claimed that on the one hand, the action, the impound action, cannot be genocide because this was an action against members of a partisan army, and there can be no genocide of a partisan army.
+
+<<3706.46;3710.62;en>>
+This is a question that requires answer.
+
+<<3710.62;3736.94;en>>
+And secondly, if this was the intention of the MGB operation or the Soviet occupying forces, then how is this satisfying the requirement of specific intent required in the context of genocide?
+
+<<3736.94;3748.78;en>>
+Moreover, is specific genocide a matter of personal knowledge, or is this a specific intent of the group of which the applicant was part of?
+
+<<3748.78;3768.7;en>>
+The applicant claims that the MGB actions were directed against fascists and nationalists, and I think it's fair to say that it was also part of what the Soviet authorities called a class war.
+
+<<3768.7;3793.46;en>>
+So I wonder whether the activities of the MGB were referring to specific intent to carry out action to satisfy these goals, or these goals fall under specific intent required by a certain interpretation of the Genocide Convention.
+
+<<3793.46;3810.9;en>>
+A very technical question, completely unrelated, just to be on the safe side, the Constitutional Court judgment gives reference to a number of applications.
+
+<<3810.9;3828.42;en>>
+I assume that none of these applications, or none of the applicants to the Constitutional Court is the applicant present here.
+
+<<3828.42;3828.42;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3831.75;3837.19;en>>
+Thank you. I have two questions, one to both parties and one to Mr. Schabas.
+
+<<3838.95;3845.36;en>>
+First to both parties, we know that the applicant has been convicted of genocide.
+
+<<3845.36;3853.03;en>>
+My question would be, could the applicant have been prosecuted for any other offence?
+
+<<3853.03;3863.43;en>>
+And if you could also give some explanations as to the effect of time limits, potential time limits, prescription periods.
+
+<<3865.36;3875.36;en>>
+My second question is directed to Professor Schabas, and it's a follow-up question to Judge Paulo Pinto de Albuquerque's question.
+
+<<3875.36;3900.95;en>>
+Is it your submission, Professor Schabas, that the presence of political groups within the 1946 definition, I refer to the General Assembly Resolution 96, suggests the existence of a broader concept of genocide under customary law than that expressed in the 1948 Convention?
+
+<<3900.95;3909.75;en>>
+So if there are no other questions, I would suggest that we have a break until another question.
+
+<<3909.75;3917.75;en>>
+Yes, Judge Turković, yes please.
+
+[[Judge;Ksenija Turković]]
+
+<<3922.99;3925.75;en>>
+My question is directed to Professor Schabas.
+
+<<3925.75;3949.09;en>>
+If I have understood correctly, your presentation, your claim, basically was that for the applicant, it was sufficient for the foreseeability to realize that at the time when he was acting, this was some type of international crime.
+
+<<3949.09;3954.79;en>>
+It was not important that was in particular a genocide.
+
+<<3954.79;3973.09;en>>
+Do you think that this would be sufficient to satisfy the requirement of Article 7 if we are taking into consideration that not only fair notice is important, but also the limitation of the discretion of the government?
+
+<<3973.09;3993.71;en>>
+And this is also in continuation to the question posed by our president to what extent war crimes and crimes against humanity are actually applicable in this case, since two applicants were not civilians, or at least I understood that they are not civilians from the presentation today.
+
+<<3993.71;3999.63;en>>
+And at the time when they were killed, there was no war in Lithuania.
+
+<<3999.63;3999.63;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4004.07;4005.07;en>>
+Judge Vučinić.
+
+[[Judge;Nebojša Vučinić]]
+
+<<4007.97;4009.81;en>>
+Yes, thank you, Mr. President.
+
+<<4009.81;4023.69;en>>
+I have one question concerning to Professor Schabas, concerning the definition, or better to say, a notion of political group as a possible object of the protection under the Genocide Convention.
+
+<<4023.69;4050.29;en>>
+Actually, do we have more closer criteria or elements to define, to determine what is the political group as an object of protection on the Genocide Convention, specifically in the context of the recent case law of international courts and tribunals concerning application of Genocide Convention?
+
+<<4050.29;4051.05;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4056.02;4062.42;en>>
+Thank you. So we will have a break of 20 minutes and we will resume the hearing at 10.45.
+
+[[Announcer;UNK]]
+
+<<4629.24;4629.88;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4668.83;4671.23;en>>
+Please be seated, the hearing is resumed.
+
+<<4672.67;4676.11;en>>
+Who wants to take the floor on behalf of the government?
+
+<<4676.11;4678.11;en>>
+Yes, Ms. Bubnytė.
+
+[[Government;GR2]]
+
+<<4682.5;4685.88;en>>
+Thank you, Mr. President.
+
+<<4685.88;4710.0;en>>
+Now, answering to the question put by Honorable Judge Ziemelle as regards quantitative aspect in present case, I would like to note that, in general, no requirement on the large number of victims is contained in the construction of genocide.
+
+<<4710.0;4721.88;en>>
+But still, the line of the case law of Lithuanian courts is very clear to approach these cases from the perspective of qualitative approach.
+
+<<4721.88;4737.2;en>>
+And the Constitutional Court, actually, in approving such a perspective followed by the national courts, it referred to some numbers.
+
+<<4737.2;4748.92;en>>
+And if you are interested, you can find them in the ruling of the Constitutional Court of 18th March, 2014, in close to our observations.
+
+<<4748.92;4761.04;en>>
+And I wanted to stress that this line, this qualitative argumentation, is visible in the applicant's case, was further developed by the Lithuanian courts.
+
+<<4761.04;4779.36;en>>
+And now, the actions addressed against the partisans are qualified like actions aimed against national ethnic political group.
+
+<<4779.36;4783.24;en>>
+So that's it for that question.
+
+<<4783.24;4845.16;en>>
+Now, turning to the question posed by Honorable Judge Sajo, what's the relation between direct intent and specific intent required for genocide, I would like to answer that direct, it is clear from the argumentation of the national courts in the applicant's case that direct intent covered the specific intent, because it was not only established that the applicant had that direct intent for his participation in MGB structure as an operational agent, but also his personal intent was established very clearly as well, because he participated in the planning of that operation.
+
+<<4845.16;4859.04;en>>
+And it is very clear from the argumentation, maybe it is not formulated legally very precisely, but it's very clear that direct intent covers specific intent in the applicant's case.
+
+<<4859.04;4886.84;en>>
+And as regards these references that acts were aimed against fascist and nationalists, I would like to note that it was usual practice of Soviet repressive institutions to use actions, to justify their actions as aimed against fascists and Nazis.
+
+<<4886.84;4914.44;en>>
+But it appears from the archives and other documental material analyzed by Lithuanian courts, it was established very clearly that the brothers killed in the present case belonged to the partisans, and they acted as the participants of the resistance against occupation of Lithuania and as fighters for restoration of its independence.
+
+<<4914.44;4935.4;en>>
+And as regards to the technical question of Judge Tsayo, yes, one of the five cases which were stopped and in which the case, the courts addressed the Lithuanian constitutional court, one of these cases was against the applicant in the present case.
+
+<<4939.12;4950.44;en>>
+Now I would like to turn to the question posed by Mr. President and Honorable Judge Turkovic.
+
+<<4950.44;4960.08;en>>
+And where were other possibilities of the applicant's conviction for some other crimes?
+
+<<4960.08;4973.08;en>>
+And technically, from legal point of view, yes, his acts could be qualified as crimes against humanity, for example.
+
+<<4973.08;4980.48;en>>
+And no prescription period is provided in Lithuanian law for such crimes.
+
+<<4980.48;5006.64;en>>
+But I would like to draw the attention of the Honorable Court that there is not a single case before the Lithuanian courts where some criminal actions aimed against partisans would be qualified under some other article of criminal code, except from that of genocide.
+
+<<5006.64;5011.36;en>>
+You can call it a matter of criminal justice policy.
+
+<<5011.36;5023.96;en>>
+But of course, technically, yes, there is a possibility to qualify both criminal acts and other crimes.
+
+<<5023.96;5023.96;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5028.4;5030.0;en>>
+Thank you, Professor Schabas.
+
+[[Government;GR1]]
+
+<<5033.4;5035.32;en>>
+Thank you, Mr. President.
+
+<<5035.32;5036.88;en>>
+I have only a few minutes.
+
+<<5036.88;5042.24;en>>
+I don't think I've had more questions since I defended my doctoral thesis.
+
+<<5042.24;5047.82;en>>
+The, let me turn to your first question, Mr. President,
+
+<<5047.82;5059.84;en>>
+because I think in many ways it goes to the heart of the issue and it's, it raises issues that also were part of the questions of Judge Pinto, Nelbeckert, and Judge Turcovich.
+
+<<5059.84;5072.86;en>>
+And that's the, this fascinating relationship between Resolution 96 of 1946 of the General Assembly and the subsequent codification in 1948.
+
+<<5072.86;5096.7;en>>
+And although the question is one of great interest and has been written about a fair amount, the only discussion in a court that I found actually was Judge, was Shabtai Rosen before the International Court of Justice in the advisory opinion proceedings in 1951, which I quoted in my submissions.
+
+<<5096.7;5100.48;en>>
+The, you asked, Mr. President, can we talk
+
+<<5100.48;5103.66;en>>
+about customary law prior to 1946?
+
+<<5103.66;5111.58;en>>
+Of course, the Genocide Convention itself in the preamble talks about how genocide was committed at all periods of history.
+
+<<5111.58;5121.54;en>>
+So there's the notion that genocide could have been committed long before, this is Judge Turcovich's question as well, is it, does it have the specificity?
+
+<<5121.54;5127.08;en>>
+Can you charge someone with a crime that is not precise or vague?
+
+<<5127.08;5139.46;en>>
+And of course, charging people with genocide before 1946 or let's say 1944 when the word was invented, how can you charge someone with genocide before 1944 when the word didn't even exist?
+
+<<5139.46;5141.28;en>>
+And yet you can.
+
+<<5141.28;5153.56;en>>
+And there were many of the proceedings, the post-Second World War trials, not the International Military Tribunal, but the subsequent proceedings by the American Military Tribunals.
+
+<<5153.56;5161.3;en>>
+There were several times when people were convicted of genocide for acts committed before the word even existed.
+
+<<5161.3;5164.76;en>>
+And this was also the case in some of the domestic prosecutions.
+
+<<5164.76;5172.88;en>>
+There were prosecutions in Poland by Polish courts for genocide in 1945 and in 1946.
+
+<<5172.88;5175.84;en>>
+And they dealt with acts committed before the word existed.
+
+<<5175.84;5182.6;en>>
+It's a bit like asking whether you could die of smallpox before 1820 when the disease was discovered.
+
+<<5182.6;5184.72;en>>
+Of course, you could always die of it.
+
+<<5184.72;5188.36;en>>
+It's just wasn't codified in a sense.
+
+<<5188.36;5200.16;en>>
+And so now we get to this problem of the two codifications, if you want, Resolution 96 and the Convention of 1948.
+
+<<5200.16;5207.76;en>>
+I wrote something in my book on genocide in international law that the Russian Federation quite ably cited on this.
+
+<<5207.76;5222.32;en>>
+And looking back on it, I think I could have been perhaps more precise in talking about customary law and its application in a case involving Article 7 and the Nullum-Crimmon issue.
+
+<<5222.32;5239.24;en>>
+And that's because the codifications of international crimes in the specific treaties, like the Genocide Convention, while a useful guide to the legal prohibitions that existed before they were adopted, is also in some ways an imperfect guide.
+
+<<5239.24;5243.92;en>>
+And we can see that in the Genocide Convention.
+
+<<5243.92;5248.52;en>>
+There was a wide catalog of international crimes recognized at Nuremberg.
+
+<<5248.52;5256.28;en>>
+But there were not a lot of treaties that followed Nuremberg to codify these in a way that would be of general application.
+
+<<5256.28;5260.48;en>>
+There's the Genocide Convention, which is much narrower in scope.
+
+<<5260.48;5263.56;en>>
+It doesn't include crimes against humanity in a broad sense.
+
+<<5263.56;5276.56;en>>
+There are the Geneva Conventions of 1949 that codify war crimes, but a much narrower category than what were prosecuted at Nuremberg.
+
+<<5276.56;5282.96;en>>
+And so the codification is not always the most helpful guide in the treaty.
+
+<<5282.96;5292.68;en>>
+I can give a recent example where we can see this, that states are prepared to accept obligations with respect to certain international crimes or offenses and not others.
+
+<<5292.68;5296.88;en>>
+Think of the United Nations Torture Convention of 1984.
+
+<<5296.88;5297.8;en>>
+Defines torture.
+
+<<5297.8;5300.12;en>>
+It sets out a series of obligations for torture.
+
+<<5300.12;5305.64;en>>
+And then at the very end, it also refers to cruel, inhuman, or degrading treatment or punishment.
+
+<<5305.64;5310.44;en>>
+But the same obligations don't all apply to cruel, inhuman, or degrading treatment or punishment.
+
+<<5310.44;5311.56;en>>
+States are reluctant.
+
+<<5311.56;5313.72;en>>
+They're nervous in this area.
+
+<<5313.72;5317.76;en>>
+And I think this is how we have to explain what happened with the Genocide Convention.
+
+<<5317.76;5340.6;en>>
+The real question that the court has to ask, I think, is whether the persecution and destruction of political groups was prohibited as an international crime, whether it was contrary to international law, Article 7, Paragraph 1, or whether it was contrary to general principles of law, Article 7, Paragraph 2, at the time it was perpetrated.
+
+<<5340.6;5349.52;en>>
+And of course, the difference in this case that we have with respect to Nuremberg or Kononov or the earlier cases is that we have the codifications.
+
+<<5349.52;5360.24;en>>
+The issue of the accessibility and foreseeability is much simpler because you have these messages that are sent, even though we have these debates that follow about where they fit.
+
+<<5360.24;5373.92;en>>
+And Judge Pinto d'Albacore referred to the fact that the definition in the 48 Convention has become very entrenched in modern day law, in all of the different instruments that you cited, Judge.
+
+<<5373.92;5388.08;en>>
+And I absolutely agree with that, except that the part that's not included, the destruction of political groups, is also included in those codifications under another rubric, which is crimes against humanity.
+
+<<5388.08;5397.72;en>>
+The danger of taking an overly positivistic approach to the acts committed in the 1940s and 1950s is that some of them may escape criminality.
+
+<<5397.72;5404.48;en>>
+And that cannot be the result that is intended by the Convention.
+
+<<5404.48;5410.28;en>>
+That's probably why Article 7, Paragraph 2 is there, to make sure that doesn't happen.
+
+<<5410.28;5411.92;en>>
+I think my time is up, Mr. President.
+
+<<5411.92;5415.32;en>>
+If you'd give me two more minutes, I'll speak to the other questions.
+
+<<5415.32;5417.04;en>>
+Thank you.
+
+<<5417.04;5426.76;en>>
+The question of in whole or in part was raised in questions by Judge Simile, Judge Powerford, and Judge Pinto d'Albacore.
+
+<<5426.76;5435.84;en>>
+The term in whole or in part, of course, doesn't require, obviously, that individual perpetrators have to kill a large part of the group.
+
+<<5435.84;5443.92;en>>
+The term in whole or in part has been interpreted in the case law as if there is an additional adjective which is substantial part.
+
+<<5443.92;5458.4;en>>
+And most of the case law requires that the overall intent of the genocidal policy is to destroy a substantial part of the group.
+
+<<5458.4;5463.4;en>>
+The case law is not entirely clear on this, by the way.
+
+<<5463.4;5468.4;en>>
+It's not 100% foreseeable, even today, where the case law goes.
+
+<<5468.4;5476.36;en>>
+Because we have different approaches at the International Criminal Court than at the International Criminal Tribunal for the former Yugoslavia.
+
+<<5476.36;5484.44;en>>
+A recent decision by the International Criminal Tribunal for the former Yugoslavia, by a trial chamber, the Tolomir case, decided last year.
+
+<<5484.44;5495.88;en>>
+Tolomir holds that the killing of three officials in a town, the town of Zepa, near Srebrenica, amounted to a crime of genocide.
+
+<<5495.88;5497.28;en>>
+That case is under appeal.
+
+<<5497.28;5505.24;en>>
+But that case is authority for the idea that it can also be the significant part, the part that threatens the existence.
+
+<<5505.24;5511.56;en>>
+As for specific intent, I don't know that I can add a great deal.
+
+<<5511.56;5517.0;en>>
+It's obvious that the specific intent is required according to the case law.
+
+<<5517.0;5520.92;en>>
+The term specific is not in the definition in the convention.
+
+<<5520.92;5526.2;en>>
+The specific has been added by the case law of the Yugoslavian and the Rwanda tribunals, essentially.
+
+<<5526.2;5538.28;en>>
+And at the International Criminal Court, there's another notion that's introduced through the elements of crimes, which is a manifest pattern of similar acts, which has the foreseeable possibility of actually destroying the group.
+
+<<5538.28;5540.6;en>>
+That's in the elements of crimes.
+
+<<5540.6;5547.4;en>>
+And I would just remind the court that this is not a fourth instance proceeding ruling on all of the facts.
+
+<<5547.4;5552.32;en>>
+But this is an Article VII case dealing with the principle of legality.
+
+<<5552.32;5557.36;en>>
+And finally, Judge Butinich asked about the definition of political groups.
+
+<<5557.36;5565.18;en>>
+Of course, there have not been prosecutions and a lot of case law of the political group part of genocide.
+
+<<5565.18;5567.16;en>>
+That's what this case is about, obviously.
+
+<<5567.16;5571.8;en>>
+But there aren't a lot of authorities on that that I can point the court to.
+
+<<5571.8;5578.76;en>>
+The issue has been considered in case law dealing with crimes against humanity.
+
+<<5578.76;5580.12;en>>
+And it was at Nuremberg.
+
+<<5580.12;5592.32;en>>
+And there's a discussion of this in the judgment of the International Military Tribunal, because the Nazis did persecute and destroy political groups, socialists, communists, liberals, religious groups, and so on.
+
+<<5592.32;5593.68;en>>
+So there's some authority for it.
+
+<<5593.68;5599.14;en>>
+But in a way, it's as vague, I have to say, Mr. President, members of the court,
+
+<<5599.14;5604.58;en>>
+as the definitions of things like a racial group or a national group.
+
+<<5604.58;5609.46;en>>
+We have some of the same problems that arise with this as we do with a political group.
+
+<<5609.46;5614.08;en>>
+I can't suggest more than a common sense approach to it.
+
+<<5614.08;5614.4;en>>
+Thank you very much, Mr. President.
+
+<<5614.4;5615.0;en>>
+Thank you.
+
+<<5615.0;5615.06;en>>
+You too.
+
+<<5615.06;5615.06;en>>
+Goodbye.
+
+<<5615.06;5615.06;en>>
+Thank you.
+
+<<5615.06;5615.06;en>>
+Thank you very much.
+
+<<5615.06;5615.06;en>>
+Thank you.
+
+<<5615.06;5615.06;en>>
+Thank you All.
+
+<<5615.06;5615.06;en>>
+Thank you for listening.
+
+<<5615.06;5615.06;en>>
+I appreciate it.
+
+<<5615.06;5615.06;en>>
+Thank you for taking your time.
+
+<<5615.06;5615.06;en>>
+Thank you for listening to these talks.
+
+<<5615.06;5615.06;en>>
+And actually, I want to address one other thing.
+
+<<5615.06;5615.06;en>>
+Just to note that today we were looking into extreme fundamental issues, and this space is divided into districts, and at your request, variations, and districts.
+
+<<5615.06;5615.06;en>>
+That's all within the scope of the case law, Thanks.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5616.06;5621.56;en>>
+Thank you, Professor Schabas. I give the floor to Mr. Vilčinskas.
+
+[[Applicant;AP1]]
+
+<<5626.24;5656.1;en>>
+The answer to the questions of the Judge Zemel, your honor, I say that in the courts about partisan resistance and movement, there was no investigation in the first instance in the upper lieutenant of the Supreme Court, in all courts of the union.
+
+<<5656.1;5661.36;en>>
+The courts get written only that brothers were partisans.
+
+<<5661.36;5662.52;en>>
+And that's all.
+
+<<5666.0;5676.16;en>>
+Fathers for the President questions, your honor, the first question, the first answer.
+
+<<5676.16;5685.8;en>>
+The applicant's actions could not be either crimes then and cannot be now.
+
+<<5685.8;5696.36;en>>
+As I think from these materials, one of those who were in the National Courts of Lithuania.
+
+<<5696.36;5707.96;en>>
+His mistake might be that he was an officer of the Soviet Union in that times.
+
+<<5707.96;5710.2;en>>
+The answer, the second.
+
+<<5710.2;5722.2;en>>
+According to the constitutional law of the Republic of Lithuania, the citizen can be a party in the hearings of the Constitutional Court.
+
+<<5722.2;5733.36;en>>
+And he, my client, did not participate in the mentioned hearings of the Constitutional Court.
+
+<<5733.36;5744.96;en>>
+And I don't know more than it was published by constitutional law in its ruling.
+
+<<5744.96;5744.96;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5748.18;5751.58;en>>
+Thank you very much. We have now come to the end of the hearing.
+
+<<5751.58;5756.98;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<5756.98;5760.53;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<5760.53;5764.62;en>>
+The parties will be informed of any decision in due course.
+
+<<5764.62;5768.34;en>>
+I declare the hearing closed.
+

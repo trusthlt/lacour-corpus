@@ -1,0 +1,1978 @@
+[[Announcer;UNK]]
+
+<<21.41;22.09;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<72.96;74.96;fr>>
+Je vous en prie, asseyez-vous.
+
+<<83.4;91.16;fr>>
+Je déclare ouverte l'audience publique sur le fonds de l'affaire Regner contre la République tchèque.
+
+<<91.36;99.16;fr>>
+L'affaire a été introduite devant la Cour le 25 mai 2011 par le ressortissant tchèque M. Václav Regner
+
+<<99.36;101.96;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<101.96;109.96;fr>>
+Elle a été attribuée à la 5e section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<110.36;114.96;fr>>
+La requête a été communiquée au gouvernement le 6 janvier 2014.
+
+<<115.76;129.56;fr>>
+Le 26 novembre 2015, une chambre de la 5e section a rendu un arrêt par lequel elle a déclaré la requête recevable et a conclu à la non-violation de l'article 6, paragraphe 1 de la Convention.
+
+<<129.56;138.68;fr>>
+Le 22 février 2016, le requérant a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention.
+
+<<138.88;145.16;fr>>
+Et cette demande a été acceptée par le collège de la Grande Chambre le 2 mai 2016.
+
+<<145.96;159.76;fr>>
+Le 14 juin 2016, le gouvernement slovak a été autorisé à soumettre des observations écrites en tant que 3e parti en vertu de l'article 44, paragraphe 3 du règlement de la Cour.
+
+<<159.96;167.16;fr>>
+Le gouvernement est représenté par son agent, M. Vít Alexander Schorm, assisté de M. Vladimír Pysk,
+
+<<167.76;181.96;fr>>
+du bureau de l'agent du gouvernement, de Mme Lenka Zahradnická, conseillère auprès de l'Autorité de sécurité nationale, et de Mme Helena Bončková, conseillère auprès de la Cour administrative suprême.
+
+<<181.96;187.76;fr>>
+Le requérant est représenté par M. Marek Bilej,
+
+<<188.56;193.36;fr>>
+Dominika Káňová et Anna Kukrálová, avocats à Prague.
+
+<<194.16;200.96;fr>>
+A la demande de la partie requérante, celle-ci a été autorisée à s'exprimer en langue tchèque à l'audience.
+
+<<201.88;204.36;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<205.16;214.96;fr>>
+Je salue également le groupe de magistrats de juridiction du ressort de la Cour d'appel de Colmar, ainsi que les groupes de juges turcs et azerbaïdjanais en visite d'études à la Cour.
+
+<<215.16;222.96;fr>>
+Ayant consulté l'agent du gouvernement et le représentant du récréant, j'ai fixé ainsi l'ordre de parole.
+
+<<223.16;227.56;fr>>
+Nous entendrons successivement M. Bilej pour le requérant
+
+<<227.76;230.76;fr>>
+et puis M. Schorm pour le gouvernement.
+
+<<230.96;246.56;fr>>
+Je dois expliquer qu'en sus de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en turc et en azerbaïdjanais a été autorisée au profit des délégations des juges turcs et azerbaïdjanais qui assistent à cette audience.
+
+<<246.76;255.16;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<255.36;256.76;fr>>
+La parole est à M. Bilej.
+
+[[Applicant;AP1]]
+
+<<271.52;275.7;en>>
+Dear Mr. President, honorable judges,
+
+<<275.7;283.72;en>>
+we are aware of the complexity and sensitivity of the case heard, but we would like to start with a simple example.
+
+<<283.72;286.92;en>>
+Mr. Smith, a holder of a certificate
+
+<<286.92;302.24;en>>
+for dealing with classified information and an employee of a ministry in an office that requires a security clearance, regularly walks his dog in a park.
+
+<<302.24;308.4;en>>
+He starts to meet a person, B, who also walks his dog.
+
+<<308.4;311.6;en>>
+At first, they don't talk to each other.
+
+<<311.6;313.08;en>>
+They do not greet each other.
+
+<<313.08;323.52;en>>
+Then, after some time, they start to greet each other and complain about the weather and exchange information on their pets.
+
+<<323.52;336.12;en>>
+They do not know each other's name, and they do not know where the other lives, what the other does.
+
+<<336.12;339.28;en>>
+The usual thing, we guess.
+
+<<339.28;343.56;en>>
+This could be the end of our example, but it continues.
+
+<<343.56;352.08;en>>
+Subsequently, the certificate for dealing with classified information is withdrawn from Mr. Smith
+
+<<352.08;358.92;en>>
+without the security authority stating reasons for the withdrawal.
+
+<<358.92;364.52;en>>
+After many years spent as a public servant, Mr. Smith loses eligibility
+
+<<364.52;377.76;en>>
+to perform his office at the ministry, and of course, this also significantly affects his further professional and private life.
+
+<<377.76;387.6;en>>
+If you ask whether walking dogs relates to the withdrawal of the security certificate, we do.
+
+<<387.6;388.88;en>>
+We feel it does.
+
+<<388.88;398.96;en>>
+According to the findings of the intelligence services, person B, who Mr. Smith was meeting,
+
+<<398.96;402.12;en>>
+represents a security risk to the state.
+
+<<406.92;411.4;en>>
+The security certificate was withdrawn from Mr. Smith
+
+<<411.4;416.64;en>>
+for the reason of having contact with person B.
+
+<<416.64;419.84;en>>
+Mr. Smith is not informed of the reasons
+
+<<419.84;429.8;en>>
+for the withdrawal of the certificate based on a reference to the need of protecting national security.
+
+<<429.8;434.28;en>>
+The life of Mr. Smith is fundamentally changed
+
+<<434.28;438.44;en>>
+due to the withdrawal of the certificate.
+
+<<438.44;444.92;en>>
+Mr. Smith would like to describe his contacts with person B
+
+<<444.92;448.88;en>>
+to the security authority, but he could not.
+
+<<448.88;463.88;en>>
+He could not because he did not know that reasons for the withdrawal of the certificate are based on contacts with person B.
+
+<<463.88;466.8;en>>
+Mr. Smith searches to no avail
+
+<<466.8;488.2;en>>
+to find how he could have compromised the security interest of the state, and he does not know that the reason he lost an important job in the administration is, in fact, walking a dog.
+
+<<488.2;492.32;en>>
+We would like to use this story in the following minutes.
+
+<<492.32;498.72;en>>
+The story is linked with following questions.
+
+<<498.72;503.92;en>>
+Why has Mr. Regner's case gone before the Grand Chamber?
+
+<<503.92;508.4;en>>
+Because Mr. Regner believes that Article VI of the Convention
+
+<<508.4;510.76;en>>
+was breached.
+
+<<510.76;515.52;en>>
+Therefore, Mr. Regner's right to a fair trial was breached.
+
+<<515.52;519.96;en>>
+What happened in Mr. Regner's case?
+
+<<519.96;524.32;en>>
+In short, Mr. Regner needed a security clearance
+
+<<524.32;531.28;en>>
+in order to perform his office at the Ministry of Defense of the Czech Republic, and he received such clearance.
+
+<<531.28;537.96;en>>
+However, this clearance was subsequently withdrawn from him by the security authority.
+
+<<537.96;541.12;en>>
+The applicant defended Mr. Regner,
+
+<<541.12;543.92;en>>
+the applicant defended against this order.
+
+<<543.92;555.72;en>>
+The applicant defended against this withdrawal before the director of national security authority at first, and then before three national courts.
+
+<<555.72;568.96;en>>
+Despite his repeated petitions, none of these authorities permitted him to learn key evidence on which the decision of the security authority was based.
+
+<<568.96;573.68;en>>
+Mr. Regner was only informed that key evidence
+
+<<573.68;584.08;en>>
+was some classified report of the security service not identified in detail.
+
+<<584.08;590.08;en>>
+Mr. Regner doesn't know the content of this report to date.
+
+<<590.08;593.88;en>>
+What is the basis of the state's wrongdoing?
+
+<<593.88;601.48;en>>
+The state's wrongdoing is based on the fact that Mr. Regner was denied defense him
+
+<<601.48;618.56;en>>
+within the principle of equality of arms and the principle of an adversarial procedure that attributes of the right to a fair trial on at least on two levels.
+
+<<618.56;621.96;en>>
+The first level, Mr. Regner was not permitted
+
+<<621.96;643.16;en>>
+to learn the content of the report prepared by the security service that served as a supporting document for the withdrawal of the certificate and not even to see this report, or at least to see the conclusions stated in the said report.
+
+<<643.16;667.08;en>>
+The second level, another independent entity, and we guess in our case, the state, and we guess in our case, it should be the court, did not sufficiently review the facts decisive for the withdrawal of the security clearance.
+
+<<667.08;680.28;en>>
+Thus, the court did not provide sufficient defense to the applicant before the arbitrariness of the National Security Authority and intelligence services.
+
+<<680.28;684.88;en>>
+This poses the following questions.
+
+<<684.88;689.08;en>>
+Could Mr. Regner have been permitted
+
+<<689.08;694.28;en>>
+to see the report of the intelligence service?
+
+<<694.28;698.96;en>>
+We believe it should have been permitted to Mr. Regner
+
+<<698.96;705.28;en>>
+to see the report while respecting national security.
+
+<<705.28;724.08;en>>
+Not all information should have been disclosed to him, namely if said information related to operational activities or investigations procedures of intelligence services or the police.
+
+<<724.08;738.76;en>>
+But nevertheless, he could have been provided with at least the conclusions of the investigation of this mysterious intelligence service.
+
+<<738.76;753.92;en>>
+Therefore, interests of the state would have been protected and the applicant would be permitted to defend himself within a court review.
+
+<<753.92;762.48;en>>
+If this has been the case, Mr. Regner would not have felt the injustice experienced
+
+<<762.48;767.76;en>>
+by Mr. Smith from our story.
+
+<<767.76;798.24;en>>
+If we accept that the applicant should not have been permitted to see the report, who else should have been there to protect him against the arbitrariness of the intelligence service or National Security Authority and that his rights and position of the applicants would be sufficiently protected?
+
+<<798.24;815.88;en>>
+As it may be concluded from the previous decision of this court, primarily it should have been the national court that should have acted as an independent supervisor of the public administration.
+
+<<815.88;840.32;en>>
+We do not identify with this conclusion and we state from the very beginning that if the court should be independent, it may not be Mr. Regner defends counsel at the same time.
+
+<<840.32;855.8;en>>
+Why do we believe that courts insufficiently protected applicants' interests and thus breached the principle of a fair trial?
+
+<<855.8;861.44;en>>
+There are several facts that led us to following.
+
+<<861.44;874.48;en>>
+The first fact is the failure to observe the principle of a review within the framework of full jurisdiction.
+
+<<874.48;891.68;en>>
+According to case law of the Czech Supreme Administrative Court, in proceedings on the review of decisions of the national security in which one participant, in our case Mr. Regner, is not permitted
+
+<<891.68;913.84;en>>
+to learn all evidence, courts must review all steps and reasons of the contestant decision in its entirety, including any additional evidence beyond the scope of the claimant's defense.
+
+<<913.84;921.12;en>>
+And this should outweigh the imbalance of participants.
+
+<<921.12;923.52;en>>
+However, in the case of Mr. Regner,
+
+<<923.52;936.28;en>>
+the courts clearly failed to observe this procedure as it follows from the judgment of the municipal court in Prague dated 1st September 2009.
+
+<<936.28;959.56;en>>
+On page two of this decision, it is expressly stated that, quote, the municipal court in Prague reviewed the contestant decision as well as the proceeding that was held prior to its issue to the extent of plea objections made by Mr. Regner, end quote.
+
+<<959.56;977.64;en>>
+Therefore, the court itself, the Czech court itself, expressly states that it did not deal with anything else except for objections of Mr. Regner as the claimant.
+
+<<977.64;986.96;en>>
+However, that they could not have been complete if Mr. Regner, exclaimant, did not
+
+<<986.96;995.4;en>>
+know key evidence that served as the basis of the contestant decision.
+
+<<995.4;1002.56;en>>
+The very same court, the very same Czech court, denied access to the applicant to this evidence.
+
+<<1002.56;1014.64;en>>
+It clearly failed to perform its role as a guarantor of a fair trial pursuant to Article VI of the Convention.
+
+<<1014.64;1043.12;en>>
+When the court breached the applicant's right to procedural defense, and the court itself did not ensure such a defense, we are of opinion this fundamental procedural error was not remedied by the Supreme Administrative Court and not even by the Constitutional Court.
+
+<<1046.2;1059.58;en>>
+The second fact demonstrating deficiencies in activities of the court is the failure to observe the requirement for increased procedural activities of courts.
+
+<<1062.72;1088.0;en>>
+If the courts were to substitute activities of the applicant in a proceeding, they should have tested evidence presented to them with the test of veracity and content accuracy to the same extent as Mr. Regner would do.
+
+<<1088.0;1100.12;en>>
+Instead, they believed findings stating just in the report of the intelligence service, despite Mr. Regner's objections, who repeatedly
+
+<<1100.12;1111.56;en>>
+warned of potential information rigging by intelligence services, namely regarding the military intelligence.
+
+<<1111.56;1125.2;en>>
+We believe that applicants' objections should have and must have cast doubts on the content of the report of the intelligence service.
+
+<<1125.2;1136.52;en>>
+Despite this fact, the courts did not request any additional information confirming the accuracy and veracity of this report.
+
+<<1139.2;1165.68;en>>
+For example, original documents that served as the basis of the report or information related to the applicant, his employment, his personal life, that would enable them to critically assess the subject of the report in the light of this additional information.
+
+<<1165.68;1175.96;en>>
+The passive approach of the court does not correspond to acts made by the applicant if he had such opportunity.
+
+<<1175.96;1185.64;en>>
+The third significant fact that leads us to the conclusion that the courts did not sufficiently protect the interest of Mr. Regner
+
+<<1185.64;1194.24;en>>
+is simply the fact that at least two documents existed related to the applicant.
+
+<<1194.24;1202.44;en>>
+But National Security Authority came to the conclusion of security unfitness of Mr. Regner
+
+<<1202.44;1208.08;en>>
+only on the basis of one of them.
+
+<<1208.08;1215.56;en>>
+Therefore, the other document dated 7th October, 2005 should have been disclosed.
+
+<<1215.56;1219.68;en>>
+But also this did not happen.
+
+<<1219.68;1241.16;en>>
+And the final fact or opinion is that the formal repetition of the reasoning and indecision of the municipal court in Prague, Czech Supreme Administrative Court, and the Constitution Court.
+
+<<1241.16;1257.12;en>>
+In the reasoning of their decisions, all courts stated only vague formulations and transcribed provisions of the law that are repeated over and over.
+
+<<1257.12;1269.48;en>>
+Basically, the only reason given by the courts for the withdrawal of the security clearance is the applicant's behavior, which was not specified in detail.
+
+<<1269.48;1276.32;en>>
+And said alleged behavior affects the credibility of a person.
+
+<<1276.32;1283.8;en>>
+And it may affect his ability to classify information.
+
+<<1283.8;1298.4;en>>
+It means the court merely quoted the section 143D of the Act on Protection of Classified Information and Security Eligibility.
+
+<<1298.4;1303.48;en>>
+It is clear that such reasoning is only a formal one.
+
+<<1303.48;1313.4;en>>
+And due to the absence of any specific facts, it may not be reviewed at all.
+
+<<1313.4;1331.48;en>>
+And this clearly breaches the principle of equality of participants as one of the attributes of the right to a fair trial pursuant to Article VI of the Convention.
+
+<<1331.48;1346.2;en>>
+Moreover, the specific reasoning for non-disclosure of some evidence to the applicant is missing in court decision as well, despite the fact that this is also the obligation of the court.
+
+<<1349.76;1368.36;en>>
+Therefore, it is clear that while the applicant's rights were restricted, steps of the court that should have been balanced restrictions on the part of the applicant within a court review were only formal.
+
+<<1368.36;1373.16;en>>
+And the courts do not even hide this fact at all.
+
+<<1377.44;1391.36;en>>
+In relation to the above, we have to ask whether the national court could have taken other steps in this case.
+
+<<1391.36;1405.36;en>>
+And we guess the answer is if the court had to guarantee the right to a fair trial to the applicant, it should have taken other steps.
+
+<<1405.36;1411.6;en>>
+And what steps could have or should have been taken by the court?
+
+<<1411.6;1454.24;en>>
+Regardless of, in our opinion, other mistakes of the court, for example, the breach of the principle of a review in full jurisdiction, the non-critical acceptance of the content of the report, the insufficient reasoning of decisions, we believe the court should have permitted the applicant to learn the content of the report prepared by intelligence service, simply because the courts may not replace procedural activities of one of the participants with their activities.
+
+<<1454.24;1487.2;en>>
+If the court came to the conclusion that it is not possible to disclose the report, despite the fact that it is the report classified, on the lowest level, the court should have duly justified this decision and disclosed to the applicant all information, except for information that actually could have jeopardized or seriously disrupted activities of intelligence services.
+
+<<1487.2;1523.96;en>>
+Then the court should have objectively assessed evidence presented to court, and in order to protect the applicant's rights, actively verified its veracity and content accuracy, and also find information to the applicant and compare the connection of this information with other evidence, as well as the relevance of individual information in relation to the applicant's security eligibility.
+
+<<1523.96;1536.0;en>>
+The decision of the court, including the decision on the classification, should have been duly justified in such a manner that it could have been reviewed.
+
+<<1537.0;1550.08;en>>
+Therefore, the court was obliged to state specific facts and considerations on the basis of which it decided.
+
+<<1550.08;1556.2;en>>
+Why do we consider that the court should have taken other steps?
+
+<<1556.2;1574.88;en>>
+We are of the opinion simply in order to meet requirements of Article 6, Paragraph 1 of the Convention.
+
+<<1574.88;1599.08;en>>
+But if we avoid the question whether courts could replace procedural activities of one of the participants to the proceeding without breaching the principle of adversarial procedure or equality of arms.
+
+<<1599.08;1604.6;en>>
+And what may happen if the court does not take such steps?
+
+<<1607.0;1613.24;en>>
+And with this last question, we are coming back, we get back to our original story of Mr. Smith
+
+<<1613.24;1614.24;en>>
+on the walking dog.
+
+<<1616.64;1634.12;en>>
+With this example, we wanted to demonstrate that the security clearance could have been also withdrawn for reasons that could not have existed at all and they did not have to affect the applicant's security eligibility at all.
+
+<<1634.12;1647.64;en>>
+However, the security authority and the courts could have not found this fact because they did not permit the applicant, Mr. Wagner,
+
+<<1647.64;1665.04;en>>
+to make a statement on the content of the report and at the same time, they themselves, the courts, did not do anything in order to verify information provided by intelligence services.
+
+<<1665.04;1677.04;en>>
+We believe that if the Czech Republic follows its current practice, as in Mr. Wagner's case,
+
+<<1677.04;1696.04;en>>
+activities of intelligence services in relation to the withdrawal of a security clearance will not be de facto subject to any control.
+
+<<1696.04;1708.04;en>>
+And the balance of non-disclosure of information to the relevant person through an independent court will not be effectively ensured.
+
+<<1708.04;1731.04;en>>
+Therefore, the state could continue with a selective personnel policy if it is not possible to effectively defend people against untrue, distorted, or rigged information demonstrating alleged security risk.
+
+<<1731.04;1738.04;en>>
+However, it may result in jeopardizing its own interests.
+
+<<1738.04;1745.04;en>>
+Nobody, not even Mr. Wagner, asked for the security
+
+<<1745.04;1756.04;en>>
+clearance for his own private need, but in order to ensure the security of the state on the basis of rules stipulated by the state.
+
+<<1756.04;1766.04;en>>
+If those rules are not objective, their observance may not be effectively controlled.
+
+<<1766.04;1776.04;en>>
+And we feel that this would result in a clear and present threat to national security.
+
+<<1776.04;1801.04;en>>
+The disclosure of classified information to an individual clearly represents a lesser risk than the existence of secret service activities which are not subject to any factual, accurate, fair, and reviewed control of the state.
+
+<<1801.04;1819.04;en>>
+In brief, we would like to comment on the government's submission that keep repeating an argument on a criminal proceeding held against Mr. Wagner.
+
+<<1819.04;1825.04;en>>
+This criminal proceeding absolutely does not relate to the proceeding before this court.
+
+<<1825.04;1841.04;en>>
+If it related to it in any manner whatsoever, it would clearly mean that the right to penal defense was not ensured to Mr. Wagner to the full extent
+
+<<1841.04;1859.04;en>>
+in the relevant Czech criminal proceeding when alleged information related to the criminal prosecution has not been disclosed to the applicant to date.
+
+<<1859.04;1869.04;en>>
+And it is also quite surprising that the Czech Republic is brave enough to present the argument of a criminal proceeding that has lasted more than 10 years.
+
+<<1869.04;1882.04;en>>
+And it can be qualified as a breach of the right to a fair trial because this criminal proceeding has not been finalized yet.
+
+<<1882.04;1889.04;en>>
+And it can be anticipated that it will be reviewed by the European Court of Human Rights.
+
+<<1889.04;1891.04;en>>
+But this is a different story.
+
+<<1891.04;1896.04;en>>
+To sum up, the applicants, Mr. Wagner,
+
+<<1896.04;1904.04;en>>
+insist that he has deprived of the right to a fair trial for the following reasons.
+
+<<1904.04;1929.04;en>>
+The report classified with a lower level of classification reserved was not disclosed to the applicant despite the fact at the time of its disclosure the applicant had the security clearance to a higher level of classification secret.
+
+<<1929.04;1944.04;en>>
+Second, the courts did not permit the applicant to assess his report despite the fact its disclosure could have been only disadvantageous to the interest of the Czech Republic.
+
+<<1944.04;1957.04;en>>
+And the courts restricted the applicant's procedure rights, and did not observe condition of a review in full jurisdiction.
+
+<<1957.04;1963.04;en>>
+And at the end I would like to add one more.
+
+<<1963.04;1978.04;en>>
+Maybe the objections we made were presented too much in the light of national law and national case law, and lack of uniqueness and lack of clarity.
+
+<<1978.04;1996.04;en>>
+But isn't the non-disclosure of key evidence and insufficient court protection simply enough to conclude that such a state approach is not in accordance with the Article VI of the Convention?
+
+<<1996.04;1999.04;en>>
+We believe it.
+
+<<1999.04;2002.04;en>>
+Yes, it should be enough.
+
+<<2002.04;2014.04;en>>
+Therefore, in view of all stated arguments, Mr. Ragner proposed that after reviewing the above stated facts,
+
+<<2014.04;2032.04;en>>
+the Grand Chamber of the Court should decide that Article VI, Paragraph 1 of the Convention, for the protection of human rights and fundamental freedoms may be applied to the case heard, and that this article was breached.
+
+<<2032.04;2038.04;en>>
+The Grand Chamber of the Court should award justified satisfaction to Mr. Ragner.
+
+<<2038.04;2038.04;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<2039.59;2042.11;fr>>
+Merci beaucoup, Maître Bilej.
+
+<<2042.11;2044.31;fr>>
+Maintenant, la parole est à M. Schorm.
+
+[[Government;GR1]]
+
+<<2047.62;2050.06;en>>
+Mr. President, distinguished judges,
+
+<<2050.06;2059.86;en>>
+my esteemed colleagues, once again, it's a great honor for me to appear before the Gane Chamber and present my government's position on an application.
+
+<<2059.86;2067.9;en>>
+But before doing so, allow me to remind what precisely lies at the heart of the case awaiting your decision.
+
+<<2067.9;2077.76;en>>
+From the applicant's description of relevant facts, one might easily gain the impression that he must have become a victim of gross procedural injustice.
+
+<<2077.76;2081.42;en>>
+And yet, quite the opposite is true.
+
+<<2081.42;2086.88;en>>
+That is why I would like to supplement this story with other highly relevant circumstances.
+
+<<2086.88;2097.16;en>>
+As a matter of fact, on the 27th of May, 2016, the applicant was convicted by a court of appeal of the following criminal acts.
+
+<<2097.16;2109.18;en>>
+Participation in an organized crime group and aiding in the offenses of abuse of power, skimming in public tendering, and breach of compulsory rules of economic relations.
+
+<<2109.18;2116.78;en>>
+This verdict is the outcome of large-scale criminal proceedings conducted against nearly 50 persons.
+
+<<2116.78;2124.78;en>>
+They systematically influenced the wording of public procurement at the Ministry of Defense between 2005 and 2007.
+
+<<2124.78;2141.66;en>>
+Specifically, and here I will borrow the words of the judgment, the applicant, under pretense of ordinary work activity, directly influenced and managed other members of this crime group in the whole course of criminal events, there is one date which deserves increased attention.
+
+<<2141.66;2153.9;en>>
+On the 3rd of August, 2006, the applicant handed over to other accomplices the list of companies whose bids should have been chosen by lot in a prefix public tender.
+
+<<2153.9;2165.98;en>>
+On the 5th of August, 2006, which is nearly two days later, the applicant's security clearance was invalidated by the National Security Authority, the NSA.
+
+<<2165.98;2169.02;en>>
+Could this temporal linkage be a mere coincidence?
+
+<<2169.02;2171.5;en>>
+Of course not.
+
+<<2171.5;2185.02;en>>
+This connection not only sheds different light on the overall background to the case, and I will come back to it later, it demonstrates the legitimate aim pursued and the necessity for non-disclosure of the disputed piece of evidence.
+
+<<2185.02;2189.46;en>>
+It also shows that the measure was in no way arbitrary or abusive.
+
+<<2189.46;2193.3;en>>
+The fair balance was struck between the two competing interests.
+
+<<2193.3;2207.38;en>>
+Indeed, the public interest in non-disclosure to ensure smooth investigation of an organized crime group and the protection of methods and sources used by the intelligence service must have outweighed the applicant's procedural rights.
+
+<<2207.38;2215.62;en>>
+I have requested the director of the intelligence service concerned to consider whether its report in question could be nowadays declassified.
+
+<<2215.62;2222.22;en>>
+The reply which I hold in my hand contains three points worth mentioning.
+
+<<2222.22;2228.22;en>>
+Firstly, there is no longer a real threat that the applicant could frustrate ongoing investigations.
+
+<<2228.22;2233.5;en>>
+But other grounds for non-disclosure mentioned also by the domestic courts do persist.
+
+<<2233.5;2244.44;en>>
+The relevant parts of the report contain information about concrete persons who came in contact with the applicant in the past and later provided information about his criminal conduct.
+
+<<2244.44;2252.54;en>>
+To reveal their identities could give rise to a hazardous precedent capable of compromising the intelligence service's primary mission.
+
+<<2252.54;2259.9;en>>
+If they desisted from protecting their agents and people acting on their behalf, they would irreversibly lose their trust.
+
+<<2259.9;2270.26;en>>
+The flow of vital information to prevent and eliminate threats to state security and economic interests in democratic order and civil liberties would be greatly constrained.
+
+<<2270.26;2279.06;en>>
+Hence, a basic precondition for gathering information effectively is to keep the identities of sources secret.
+
+<<2279.06;2286.46;en>>
+Secondly, the intelligence service was willing to disclose, and now I quote, the nature of Mr. Ragner's activities
+
+<<2286.46;2297.82;en>>
+described in the report, mainly in its parts age and die, corresponds to the description of illegal acts for which he had been found guilty and convicted in the criminal proceedings.
+
+<<2297.82;2304.94;en>>
+Specifically, these activities consisted in the influencing and manipulation of public procurement at the Ministry of Defense.
+
+<<2304.94;2306.86;en>>
+Unquote.
+
+<<2306.86;2314.34;en>>
+After being apprised of its contents, I may personally confirm the verity of this statement.
+
+<<2314.34;2323.78;en>>
+And thirdly, the director of the intelligence service consented that the report or its relevant parts may be provided to the Green Chamber upon its request.
+
+<<2323.78;2330.02;en>>
+To that effect, there are obviously some requirements prescribed by check law, but nothing insurmountable.
+
+<<2330.02;2336.02;en>>
+The most important is the presence of assurances that the report will be made available to judges only.
+
+<<2336.02;2337.98;en>>
+On this proviso, we are in your hands.
+
+<<2340.62;2344.42;en>>
+There is one more essential fact which I would like to put straight.
+
+<<2344.42;2351.3;en>>
+It brings me to a first objection of inadmissibility, which the government has raised in substance already before the chamber.
+
+<<2351.3;2360.7;en>>
+The applicant suggests that both the transfer to other position and termination of his employment were inevitable consequences of the loss of his clearance.
+
+<<2360.7;2366.62;en>>
+Let me now direct your attention to several documents which the government included in the case file.
+
+<<2366.62;2373.54;en>>
+First of them shows that the applicant himself requested to be removed from his office for reasons of poor health.
+
+<<2373.54;2382.02;en>>
+By a letter on his removal, he was informed that, as the law stood, his removal did not automatically terminate his employment.
+
+<<2382.02;2387.46;en>>
+After transfer to a different post, the applicant's salary remained practically unaffected.
+
+<<2387.46;2390.58;en>>
+The attached pay slips illustrate this.
+
+<<2390.58;2400.14;en>>
+And finally, the employment relationship was terminated by a mutual agreement of both parties, so again, with his explicit consent.
+
+<<2400.14;2408.54;en>>
+Importantly, the applicant has never complained of being exposed to mental coercion and thus reacting under duress.
+
+<<2408.54;2419.46;en>>
+Nor did he ever challenge the circumstances surrounding the termination of his employment by effective remedy available, an action for annulment of employment contract termination.
+
+<<2419.46;2427.9;en>>
+Under these circumstances, the applicant can hardly be regarded as a direct victim for the purposes of Article 34 of the Convention.
+
+<<2427.9;2436.3;en>>
+Therefore, the Green Chamber should consider rejecting the application for being incompatible ratione personae with the Convention.
+
+<<2436.3;2442.06;en>>
+I will now move on to our second objection, that of incompatibility ratione materie.
+
+<<2444.82;2447.26;en>>
+It raises a serious question.
+
+<<2447.26;2455.54;en>>
+Should Article 6 under its civil limb be interpreted so extensively as to apply also to proceedings under review?
+
+<<2455.54;2458.54;en>>
+The way I would answer it is not.
+
+<<2458.54;2463.02;en>>
+In support of this position, I will give you the voice three main points.
+
+<<2463.02;2478.46;en>>
+The object of the dispute was exclusively the applicant's security reliability, no right to be trusted from security perspective can be derived from check law, and a privilege to hold clearance is not civil in nature.
+
+<<2478.46;2483.62;en>>
+Admittedly, there was a dispute between the applicant and the NSA.
+
+<<2483.62;2501.22;en>>
+But what precisely constituted its subject matter, in similar cases such as Sternovskis versus Latvia or Miljana Petrova versus Bulgaria, the decision not to grant or to withdraw clearance directly resulted in the applicant's dismissal, not in the present case.
+
+<<2501.22;2506.74;en>>
+The chamber confirmed this by observing that it is not confronted with the labor dispute.
+
+<<2506.74;2512.02;en>>
+In reality, the withdrawal of the applicant's clearance had no bearing on his employment.
+
+<<2512.02;2513.86;en>>
+I beg your pardon for repeating myself.
+
+<<2513.86;2520.3;en>>
+It was solely the applicant's own and voluntary decision which affected his employment.
+
+<<2520.3;2531.82;en>>
+Regrettably, I cannot equally share the chamber's finding that instead there was a dispute over a procedural right to have a decision in validating one's clearance scrutinized by courts.
+
+<<2531.82;2541.34;en>>
+Neither the NSA nor the government has ever attempted to question the existence of such a procedural right, because they deem it unquestionable.
+
+<<2541.34;2545.26;en>>
+The judicial review was the realization of this otherwise undisputed right.
+
+<<2545.26;2555.82;en>>
+But what was clearly and exclusively at stake in the proceedings, and here comes my answer, was the applicant's security reliability.
+
+<<2555.82;2559.22;en>>
+My second point concerns a delicate matter.
+
+<<2559.22;2568.42;en>>
+As a rule, the court should refrain from creating by way of interpretation a substantive right that has no legal basis in the domestic legal order.
+
+<<2568.42;2574.42;en>>
+The check law, however, does not provide for a right to be trusted in terms of security.
+
+<<2574.42;2581.54;en>>
+Accordingly, there is no right to be granted clearance so as to enjoy a privilege of accessing confidential information.
+
+<<2581.54;2586.42;en>>
+Both the Constitutional Court and the Supreme Administrative Court have repeatedly confirmed this.
+
+<<2586.42;2603.3;en>>
+In their opinion, and now I quote, the assurance of a clearance is a grant of an extraordinary privilege by the NSA, and it is exclusively up to its discretion to consider whether or not to grant this privilege to the person concerned, unquote.
+
+<<2603.3;2609.34;en>>
+I would deem it illogical to draw the opposite conclusion as regards the withdrawal of one's clearance.
+
+<<2609.34;2614.14;en>>
+The grant of this privilege is made on conditional basis only.
+
+<<2614.14;2620.1;en>>
+Once a holder fails to satisfy requirements prescribed by law, he can no longer enjoy it.
+
+<<2620.1;2627.06;en>>
+Still, the chamber held that check law sets out a relative certain criteria to be satisfied throughout the validity of a clearance.
+
+<<2627.06;2637.98;en>>
+To my mind, it ignores the legislation intention to couch these requirements in highly vague terms so as to provide the NSA with a wide discretion.
+
+<<2637.98;2642.66;en>>
+By way of example, we may take a look at the requirement of security reliability.
+
+<<2642.66;2646.7;en>>
+A person is not reliable when he presents a security risk.
+
+<<2646.7;2651.42;en>>
+This indefinite notion is interpreted very broadly by domestic courts.
+
+<<2651.42;2664.5;en>>
+It covers any reasonable doubts about one's reliability, or even a mere suspicion, if it is not manifestly unsubstantiated, that the security risk obtains.
+
+<<2664.5;2666.3;en>>
+Why is it so important?
+
+<<2666.3;2678.46;en>>
+Because the court's case law admits, and now I quote again, not only unfettered discretion, but even a wide one indicates that no right is recognized under domestic law, unquote.
+
+<<2678.46;2691.1;en>>
+If the NSA enjoys latitude in assessing which conduct constitutes a security risk, in fact, it exercises an extensively wide discretion to decide whose clearance shall be invalidated.
+
+<<2691.1;2700.66;en>>
+This only supports my submission that check law does not recognize the right to keep a clearance once it has been issued.
+
+<<2700.66;2708.58;en>>
+As a next step, I wish to explain why the criteria developed in Vilho Eskerinen versus Finland are not relevant in our case.
+
+<<2708.58;2713.46;en>>
+The recent case of Baca versus Hungary may be of a particular inspiration.
+
+<<2713.46;2727.5;en>>
+While the Green Chamber interpreted labor disputes broadly as including issues such as recruitment, transfer, or dismissal from service, it still affirmed the Eskerinen criteria are applicable to civil servants' labor disputes only.
+
+<<2730.58;2738.98;en>>
+However, as the chamber acknowledged, this case is not a labor dispute, nor even in disguise.
+
+<<2738.98;2747.7;en>>
+The applicant's clearance had not been invalidated by his employer, but by the NSA, not involved in their employment relationship.
+
+<<2747.7;2754.02;en>>
+Thus, it remains to discuss the nature of the right or, more appropriately, the privilege concern.
+
+<<2754.02;2755.74;en>>
+Was it civil or not?
+
+<<2755.74;2764.22;en>>
+I'm in agreement here with the opinion your colleague Judge Ederbronge expressed in her partly dissenting opinion annexed to the chamber's judgment.
+
+<<2764.22;2774.38;en>>
+Whether a state should trust a person employed within central administration touches upon the hard core of public authority prerogatives and state sovereignty.
+
+<<2774.38;2783.58;en>>
+The special bond of trust and loyalty, how the court called it recently in Spuris and Vaskevic versus Letnia, may hardly have a civil nature.
+
+<<2783.58;2796.3;en>>
+I also share Judge Ederbronge's opinion that it has no relevance if any civil rights could have been indirectly or hypothetically affected by the result of the proceedings.
+
+<<2796.3;2802.82;en>>
+Only those civil rights that constituted their object may bring them within the scope of Article VI.
+
+<<2802.82;2805.22;en>>
+The court's case law supports her opinion.
+
+<<2805.22;2816.18;en>>
+For instance, in Bourouilly versus Luxembourg, the Green Chamber reminded us that a tenuous connection or remote consequences for civil rights do not suffice.
+
+<<2816.18;2821.18;en>>
+The outcome of the proceedings must be directly decisive for these rights.
+
+<<2821.18;2824.98;en>>
+In my humble opinion, the chamber failed to respect these principles.
+
+<<2824.98;2831.46;en>>
+It did not examine whether the privilege to be trusted so as to keep a clearance is either civil or public nature.
+
+<<2831.46;2839.74;en>>
+Instead, it dealt with civil rights that were not central to the proceedings, like the right not to be dismissed unfairly.
+
+<<2839.74;2848.14;en>>
+In this regard, it rightly held that it is not confronted with the labor dispute having direct impacts on the applicant's employment.
+
+<<2848.14;2861.78;en>>
+But still, it found Article VI applicable because the result of those proceedings was likely to have negative repercussions on his financial interests, professional reputation, and limited his possibility to occupy certain public posts.
+
+<<2861.78;2870.26;en>>
+However, the applicant has never claimed, let alone prove, that the invalidation of his clearance would have anyhow affected his rights.
+
+<<2870.26;2879.02;en>>
+It is not for this Court to speculate whether the result of these proceedings might have hypothetically affected such rights.
+
+<<2879.02;2890.1;en>>
+If the opposite logic was upheld today, I'm afraid that Article VI would have to be applied by analogy also to other proceedings falling traditionally outside its scope.
+
+<<2890.1;2895.82;en>>
+In particular, I have in mind the disputes over taxation, asylum, or political rights.
+
+<<2895.82;2903.58;en>>
+In all these, despite their public nature, it could be argued that their outcome may negatively affect civil rights of those concerned.
+
+<<2903.58;2911.62;en>>
+Admittedly, a tax-related dispute will often have perceptible repercussions on a taxpayer's financial interests.
+
+<<2911.62;2917.66;en>>
+A decision ordering expulsion of an alien may interfere with his private sphere or even family ties.
+
+<<2917.66;2924.34;en>>
+So it could provoke conflicts with various provisions of the Convention, but not to make Article VI applicable.
+
+<<2924.34;2933.78;en>>
+Likewise, a politician who was prevented from taking part in elections may naturally sustain damage if he already invested considerable means into his campaign.
+
+<<2933.78;2938.06;en>>
+Moreover, he loses a reasonable chance for increased income if elected.
+
+<<2938.06;2945.02;en>>
+Without prejudice to all this, the Green Chamber has explicitly rejected the applicability of Article VI to these proceedings.
+
+<<2945.02;2953.78;en>>
+Obviously, it was not enough that civil rights could have been indirectly and especially, if only hypothetically, affected.
+
+<<2953.78;2961.66;en>>
+So for the first time, the Green Chamber may consider excluding these types of proceedings entirely from the scope of Article VI.
+
+<<2961.66;2968.62;en>>
+Their purely public nature, as I believe, would justify such an exception to be made.
+
+<<2968.62;2973.82;en>>
+To summarize her position concerning admissibility, I will repeat its essentials.
+
+<<2973.82;2983.26;en>>
+In our submissions, the applicant is not a direct victim of a violation claimed, so the application should be regarded in compatibile razione persone.
+
+<<2983.26;2994.94;en>>
+In the alternative, it may be rejected for being in compatibile razione materie, because the direct object of the proceedings was not a right recognized under the domestic law, let alone a civil one.
+
+<<2998.28;3012.22;en>>
+Turning to the merits of the case, I will gradually address the following issues, the specific nature of the security proceedings, the grounds justifying the non-disclosure of evidence, and the procedural safeguards available to perfect the applicant's interest.
+
+<<3016.74;3023.36;en>>
+So both the principle of adversarial proceedings and the right to equality of arms do not have an absolute nature.
+
+<<3023.36;3029.46;en>>
+Accordingly, their extent may vary depending on the nature of the proceedings concerned.
+
+<<3029.46;3043.18;en>>
+Whereas once guilt and punishment are at stake, as in cases cited in our written observations, it makes perfect sense to insist on their complete adherence, but not in the security proceedings.
+
+<<3043.18;3054.1;en>>
+In Spuris and Vaskevic, the court applied the Eskelian test to similar proceedings in which two state employees were involuntarily dismissed after losing their clearances.
+
+<<3054.1;3058.2;en>>
+Under those circumstances, I can understand that approach.
+
+<<3058.2;3062.26;en>>
+But what I dare regard as highly controversial is the following.
+
+<<3062.26;3072.7;en>>
+The court observed that in response to the Ternovsky's judgment, the Latvian legislator, according to the first Eskelian criterion, excluded access to courts in these matters.
+
+<<3072.7;3081.74;en>>
+It also conceded that such exclusion was reasonable and objectively justified, given the specific nature and subject matter of these proceedings.
+
+<<3081.74;3087.78;en>>
+Hence, it declared the application incompatible ratione materie with the convention.
+
+<<3087.78;3097.94;en>>
+As a result, we have states, such as Latvia, where the court tolerates the total absence of guarantees of a fair trial against the decisions of the executive.
+
+<<3097.94;3109.38;en>>
+But there are also states, such as the Czech Republic, which did not wish to deprive those concerned of judicial protection en bloc, only if it is deemed strictly necessary.
+
+<<3109.38;3112.88;en>>
+They limit some procedural rights on a case-by-case basis.
+
+<<3112.88;3120.7;en>>
+Correct me if I'm wrong, but I find the latter approach more fair from the human rights perspective.
+
+<<3120.7;3129.74;en>>
+The court should not discourage these states in their efforts to respect procedural rights to the fullest possible extent.
+
+<<3129.74;3140.78;en>>
+Where national security concerns prove to play a vital role in the limitation of parties' rights, the court's examination should be more lenient and lower the standard of protection allowed.
+
+<<3140.78;3153.86;en>>
+By contrast, applying the requirements of Article VI with the traditional rigor and stringency might lead to a domino effect of denying access to courts in these types of disputes to the ultimate detriment of those concerned.
+
+<<3153.86;3162.46;en>>
+The proceedings under review are not designed to sanction previous illicit conduct, casting doubt on one's reliability.
+
+<<3162.46;3171.38;en>>
+Their purpose is purely preventive, to eliminate any potential risk to state secrets with effects pro futuro.
+
+<<3171.38;3173.06;en>>
+The time factor is cardinal.
+
+<<3173.06;3178.78;en>>
+Any delays increase risk that confidential information may be abused.
+
+<<3178.78;3181.86;en>>
+They are also built on a lower standard of proof.
+
+<<3181.86;3191.3;en>>
+The commencement of most types of other proceedings may be postponed until sufficient evidence has been gathered and facts reliably ascertained.
+
+<<3191.3;3193.08;en>>
+Not here.
+
+<<3193.08;3204.78;en>>
+When intelligence services find out that a holder of a clearance is engaged in illegal activities, there is no room for gathering enough evidence to prove his guilt beyond reasonable doubts.
+
+<<3204.78;3210.38;en>>
+This task is for the prosecuting authorities, and it may take time to them.
+
+<<3210.38;3219.34;en>>
+However, the NSA must adopt an immediate preventive measure to protect classified information from irreversible harm.
+
+<<3219.34;3231.7;en>>
+This explains why a mere suspicion of a security risk, if it is not manifestly unsubstantiated, suffices under the domestic case law to invalidate one's clearance.
+
+<<3231.7;3238.02;en>>
+Should it later prove unreasonable, the person concerned may again ask for a clearance.
+
+<<3238.02;3244.98;en>>
+In his further considerations, the court should be mindful of these special characteristics inherent to the security proceedings.
+
+<<3248.74;3257.86;en>>
+In his submissions, the applicant contends that these proceedings permit the non-disclosure of evidence whenever it was designated as confidential.
+
+<<3257.86;3259.26;en>>
+I cannot agree.
+
+<<3259.26;3268.86;en>>
+As a general rule, the authorities are required by law to disclose all classified material in their position intended to be used as evidence.
+
+<<3268.86;3286.18;en>>
+The party's right to consult such evidence may be denied only under strictly exceptional circumstances if its disclosure could, and I quote, jeopardize or seriously disrupt the intelligence services or police's activities, unquote.
+
+<<3286.18;3296.54;en>>
+Contrary to what the applicant suggests, the provision I have cited does not tie the possibility of denying access to classified piece of evidence to a minimum security level.
+
+<<3296.54;3302.38;en>>
+He was informed of this by both the Supreme Administrative Court and the Constitutional Court.
+
+<<3302.38;3308.94;en>>
+The statutory condition for non-disclosure of evidence was indeed satisfied in the applicant's case.
+
+<<3308.94;3319.26;en>>
+Aware of his suspicious activities, the authorities must have acted with utmost caution and in a manner not endangering the ongoing investigations.
+
+<<3319.26;3326.14;en>>
+This was particularly true when they were monitoring activities of a large organized crime group.
+
+<<3326.14;3331.14;en>>
+The report in question does contain a description of these activities.
+
+<<3331.14;3341.02;en>>
+If information about investigations leaked, it could easily frustrate their results, for instance, by way of collusion amongst members of the group.
+
+<<3341.02;3350.86;en>>
+In the words of law, the disclosure of the report to the applicant could jeopardize or seriously disrupt the intelligence services and police's activities.
+
+<<3350.86;3360.18;en>>
+Under those circumstances, the non-disclosure of the report must be regarded as completely justified, proportionate, and devoid of arbitrariness.
+
+<<3360.18;3368.86;en>>
+The existence of a solid legal basis permitting the non-disclosure of evidence distinguishes the present case from the one invoked by the applicant.
+
+<<3368.86;3377.14;en>>
+In Ushukauskas versus Lithuania, the domestic law proscribed the use of classified material as evidence in absolute terms.
+
+<<3377.14;3382.94;en>>
+And yet, the authorities resorted to its use to the applicant's detriment.
+
+<<3382.94;3387.38;en>>
+Not surprisingly, the court was not insensitive to such gross disrespect of domestic law.
+
+<<3389.98;3402.9;en>>
+Well, in the remaining time, I will attempt to make an overview of various procedural safeguards incorporated into Czech law that, as I believe, sufficiently counterbalanced any difficulties posed to the applicant.
+
+<<3407.78;3414.14;en>>
+First, a judicial review itself constitutes a significant safeguard.
+
+<<3414.14;3422.7;en>>
+As the Green Chamber acknowledged in Rotaru versus Romania, judicial control affords the best guarantees of independence, impartiality, and proper procedure.
+
+<<3422.7;3430.94;en>>
+Needless to remind, the applicant's case was considered at three levels of jurisdiction by nine judges in total.
+
+<<3430.94;3438.86;en>>
+Secondly, the domestic law provides for unrestricted access of all judges to any classified information needed.
+
+<<3438.86;3452.66;en>>
+Unlike in Tarnowskis, where the appellate court did not have the classified report at its disposal, the administrative court's judges deciding the applicant's case benefited from full knowledge of the report.
+
+<<3452.66;3461.22;en>>
+Third, if the applicant had any doubts about some judges' impartiality, he could have alleged their bias.
+
+<<3461.22;3467.26;en>>
+In spite of explicit advice to that effect, he did not avail himself of this opportunity.
+
+<<3467.26;3480.82;en>>
+In the fourth place, an ultimate decision as to whether there existed compelling reasons envisaged by law for non-disclosure of evidence was made by the judiciary, not the NSA or the intelligence service.
+
+<<3480.82;3490.66;en>>
+All the judges admitted that the disclosure of the report to the applicant could jeopardize or seriously disrupt intelligence services or policies activities.
+
+<<3490.66;3499.7;en>>
+As the chamber observed, especially the Prague Municipal Court made a thorough assessment of the need to keep the report secret.
+
+<<3499.7;3510.9;en>>
+Fifth, if the statutory grounds for non-disclosure had not been satisfied, the disputed item of evidence would have been adduced so as to fully observe the applicant's procedural rights.
+
+<<3510.9;3521.54;en>>
+In the sixth place, the scope of review carried out by the courts was not limited to complaints raised by the applicant in his statement of claim.
+
+<<3521.54;3528.42;en>>
+Naturally, the party may hardly protect its interests effectively without having knowledge of all relevant evidence.
+
+<<3528.42;3541.14;en>>
+This is why the courts are obliged to act on their own initiative and review duly and critically not only the previous procedure, but also the grounds for the decision-making.
+
+<<3541.14;3550.14;en>>
+In the seventh place, the administrative courts can review not only the questions of law, but also those related to facts.
+
+<<3550.14;3554.98;en>>
+In its judgment, the chamber fittingly marked it as full jurisdiction.
+
+<<3554.98;3562.9;en>>
+Indeed, the scope of review administered in the judicial stage of these proceedings goes beyond a mere test of legality.
+
+<<3562.9;3568.06;en>>
+It also covers a scrutiny of grounds behind the decision in validating one's clearance.
+
+<<3568.06;3578.54;en>>
+The Supreme Administrative Court requires these grounds to be always examined entirely, thoroughly, and with great caution.
+
+<<3578.54;3587.26;en>>
+The courts must make a complex assessment of whether the conclusions reached by the NSA can be truly derived from the evidence gathered.
+
+<<3587.26;3595.86;en>>
+In practice, the case file kept by the NSA, including all classified material, is commonly being provided to judges.
+
+<<3595.86;3606.74;en>>
+The applicant claims that judicial review cannot be considered objective, independent, and unbiased unless the court can test the evidence in terms of its authenticity and accuracy.
+
+<<3606.74;3614.54;en>>
+He suggests that courts should have access also to case files kept by the intelligence services.
+
+<<3614.54;3623.02;en>>
+Primarily, I have to voice objection, since the applicant has never come up with such a specific demand before the administrative courts.
+
+<<3623.02;3631.06;en>>
+It would run counter the principle of subsidiarity if the court enabled him to introduce new complaints which were not raised at the domestic level.
+
+<<3631.06;3638.62;en>>
+It is true that the intelligence services case files or their relevant parts are usually not submitted to courts.
+
+<<3638.62;3648.22;en>>
+The rationality behind this practice lies in an effort to protect the secrecy of methods, techniques, and sources used by the intelligence services.
+
+<<3648.22;3657.66;en>>
+However, the contents of the files are summarized in details in the reports on the outcomes of the investigations.
+
+<<3657.66;3674.78;en>>
+Importantly, domestic courts are aware that if they blindly trusted these reports without verifying that their contents are based on real and probably true information, it could equal resignation on their supervisory function.
+
+<<3674.78;3680.66;en>>
+Hence, the case law enumerates very specific requirements for these reports.
+
+<<3680.66;3689.04;en>>
+In particular, the courts critically examine credibility, balance, relevance, and coherence of information gathered.
+
+<<3689.04;3696.66;en>>
+Precisely this complex assessment has been carried out in the applicant's case, especially by the Supreme Administrative Court.
+
+<<3696.66;3701.98;en>>
+You may find a detailed analysis in our written submissions.
+
+<<3701.98;3710.42;en>>
+Another important safeguard, already eighth in turn, is the opportunity to provide judges with the presumed version of events.
+
+<<3710.42;3715.74;en>>
+It ensures that they have full knowledge of all concerns of the party.
+
+<<3715.74;3717.38;en>>
+The applicant did so.
+
+<<3717.38;3724.54;en>>
+He elaborated extensively about possible motivation of the intelligence service for invalidating his clearance.
+
+<<3724.54;3734.18;en>>
+Against this background, the Supreme Administrative Court assured him that in no case did the withdrawal relate to his vision of events.
+
+<<3734.18;3741.92;en>>
+And finally, the Constitutional Court's review was an additional guarantee protecting the applicant's interests.
+
+<<3741.92;3756.42;en>>
+It was primarily the cumulative effect of all these safeguards which is a major factor distinguishing the present case from otherwise similar cases, be that Ushukov's, Sternovsky's, and the like.
+
+<<3756.42;3761.1;en>>
+Mr. President, honorable judges, in conclusion,
+
+<<3761.1;3768.22;en>>
+I should like to reiterate that the applicant is not a poor victim of procedural injustice.
+
+<<3768.22;3777.22;en>>
+The application of exceptional measure denying the access to key piece of evidence was instigated by his own criminal conduct.
+
+<<3777.22;3786.12;en>>
+It pursued a legitimate aim and was wholly proportionate to secure the effectiveness of ongoing investigations.
+
+<<3786.12;3792.5;en>>
+Moreover, his interests were still protected by numerous procedural safeguards.
+
+<<3792.5;3802.18;en>>
+And for all these reasons, I respectively propose you holding that there was no violation of Article VI of the Convention.
+
+<<3802.18;3802.18;en>>
+Thank you very much for your attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3804.66;3808.42;fr>>
+Merci beaucoup, monsieur Schorm.
+
+<<3809.06;3816.66;fr>>
+Maintenant, j'invite mes collègues juges de la grande chambre qui le souhaitent, à poser leurs questions au parti.
+
+<<3816.66;3818.7;fr>>
+Judge Sajó, please.
+
+[[Judge;András Sajó]]
+
+<<3822.16;3825.16;en>>
+Thank you, Mr. President.
+
+<<3825.16;3835.32;en>>
+I would like to ask the government regarding the evidence in front of the Court of First Instance.
+
+<<3835.32;3865.54;en>>
+The judgment of the Court of First Instance refers to a document marked with sequential number 77, which contains the report, I quote from the judgment, the report in the result of the investigation, which consists, among other things, of Part H and I containing information about the plaintiff.
+
+<<3865.54;3892.52;en>>
+I would like to ask you whether you can disclose anything about the content of this security file 77, and if you are in the position to explain whether this was a summary of an investigation or it contained original reports which were part of the investigation.
+
+<<3892.52;3908.68;en>>
+In other words, was this a secondary summary information or was it an information file that contained the full dossier regarding reports, et cetera, et cetera?
+
+<<3908.68;3917.56;en>>
+My second related question is that you did show us a document.
+
+<<3917.56;3925.46;en>>
+Is this document the one that is referred to under number 77 in its totality?
+
+<<3925.46;3940.84;en>>
+You also were kind enough to mention that with certain understandable restrictions, this document can be made available to the Court.
+
+<<3940.84;3945.96;en>>
+So may I assume that this is now part of the file?
+
+<<3945.96;3952.86;en>>
+And if so, is it accessible to the applicants' lawyers?
+
+<<3952.86;3963.2;en>>
+If not, could you explain the legal reasons why this is not accessible to the Court?
+
+<<3963.2;3963.2;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3964.41;3965.81;en>>
+Thank you very much.
+
+<<3965.81;3966.81;en>>
+Judge Wojtyczek, please.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<3970.31;3974.35;en>>
+Thank you. I have two questions to both parties.
+
+<<3974.35;3993.81;en>>
+The first one concerns the details of the labour law contract between the applicant and the ministry. What was the description of the position of the applicant in this contract?
+
+<<3993.81;4011.77;en>>
+What were his duties and has there been in the contract a clause providing for the obligation to get a security clearance to fulfil those duties?
+
+<<4011.77;4022.69;en>>
+And has there been any specific clause concerning determination of this contract included in the labour law contract?
+
+<<4022.69;4031.81;en>>
+And then the second question. There are positions within the Ministry of Defence which require
+
+<<4031.81;4045.25;en>>
+a security clearance. How this issue is regulated in domestic law? Is there a general regulation
+
+<<4045.25;4055.59;en>>
+within the ministry which lists those positions or is this decided on an ad hoc basis but individual decisions?
+
+<<4055.59;4061.05;en>>
+I would like to have more details on this issue of internal regulation within the ministry.
+
+<<4061.05;4065.57;en>>
+How is the list of these positions requiring security clearance established?
+
+<<4065.57;4066.67;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4067.4;4068.8;en>>
+Thank you very much, judge Spano, please.
+
+[[Judge;Robert Spano]]
+
+<<4073.56;4074.84;en>>
+Thank you very much, Mr. President.
+
+<<4074.84;4083.8;en>>
+I have also two questions, which mainly go to the government, but I invite the representatives for the applicant to comment if they so wish.
+
+<<4083.8;4091.04;en>>
+The first one is as to the government's pleadings on admissibility.
+
+<<4091.04;4110.32;en>>
+It's prompted by argumentation made by the agent before us today, which echoes paragraph 67 of your written brief, where you state that the present case does not concern a labor dispute having direct impacts on the applicant's employment at the Ministry of Defense.
+
+<<4110.32;4119.12;en>>
+And it is, I think, an argument inviting the court not to apply the VO Escaline and presumption of Article VI applicability.
+
+<<4119.12;4123.5;en>>
+I would like a bit of a clarification on this.
+
+<<4123.5;4131.52;en>>
+On 5th September 2006, the National Security Authority withdraws the security clearance.
+
+<<4131.52;4151.22;en>>
+Now, I see from this decision, which is in the file, that it is explicitly stated that as to its legal effects, it did not have suspensive effect were the applicant, as he did to administratively appeal the decision to the director of the agency.
+
+<<4151.22;4156.28;en>>
+And I assume, therefore, judicial review proceedings did not have suspensive effect.
+
+<<4156.28;4170.96;en>>
+So may I ask, on that date, 5th September 2006, when the decision took immediate effect, what impact did it have on the applicant's position?
+
+<<4170.96;4175.36;en>>
+I appreciate that he resigned himself a month later.
+
+<<4175.36;4185.6;en>>
+But was he able, de facto, to exercise his post in the ministry due to the fact that the security clearance was revoked?
+
+<<4185.6;4220.96;en>>
+The reason I also ask this, and I want to draw the attention of the government to the Prague Municipal Court's decision in the case, the judgment of 1st December 2009, where it states, and this is on page 4, and this is an argument by the applicant, the applicant objected that he exercised the office of deputy defense minister and director of the property administration department of the Ministry of Defense, and as a consequence of the annulment of the certificate, he had to resign from his office.
+
+<<4220.96;4249.32;en>>
+May I ask the government to comment that this is a pleading made by the applicant at domestic level and on the next page, the Prague Municipal Court views and examines this argument on the merits, referring to your constitutional provision on the right to exercise a profession, and states that but that right is subject to limitations under domestic law.
+
+<<4249.32;4263.2;en>>
+May I ask you to comment on the context of these factual elements and the domestic court's assessment on your claim that it did not have an impact on the applicant's employment situation?
+
+<<4263.2;4266.2;en>>
+My second question is on the merits.
+
+<<4266.2;4306.36;en>>
+Just a clarification, under domestic law, I appreciate the National Security Authority was unable under domestic law in its decision to give reasons, but was under domestic law the administrative courts, were they, would it have been a possibility for them, assuming that they accepted that disclosure of the actual physical document was not possible, could they have obliged the National Security Authority to furnish the applicant with at least the gist or the essence of the reasons upon which the revocation of the certificate was based on?
+
+<<4306.36;4315.16;en>>
+I make there a distinction between the actual document itself and the reasons so as to give the applicant an opportunity to present this case.
+
+<<4315.16;4316.0;en>>
+Thank you very much, Mr. President.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4316.39;4317.75;en>>
+Thank you very much.
+
+<<4317.75;4319.43;en>>
+Now President López Guerra, please.
+
+[[Judge;Luis López Guerra]]
+
+<<4321.92;4325.26;en>>
+Yeah, my question is this, both parties.
+
+<<4325.54;4332.5;en>>
+The applicant became an employee of the Ministry of Defense by a labor contract.
+
+<<4333.36;4347.3;en>>
+And then within this labor contract, first he was director of the administration of the ministry's assets, and then later, afterward, he was appointed deputy to the first vice minister of defense.
+
+<<4347.96;4361.92;en>>
+Now, my question is concerning this last appointment, I would appreciate to know whether it was, this appointment was a free decision, that is to say, a decision at will of the appointed authority.
+
+<<4361.92;4364.32;en>>
+I don't know whether it was the minister or the vice minister.
+
+<<4364.32;4366.24;en>>
+Was it a free decision?
+
+<<4367.52;4380.66;en>>
+And consequently, he was appointed for a fixed term in months or years, or could he be dismissed at will by this appointed authority?
+
+<<4380.66;4404.66;en>>
+I say that because I would appreciate some clarification on the affirmation made by the government in paragraph 70 of his observation, because the government says, in accordance with the law, a public official could be removed from such an office at will by the holder of the power to appoint him or her.
+
+<<4404.66;4410.82;en>>
+So this was a political appointment, that's my question.
+
+<<4410.82;4410.82;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4411.71;4415.43;fr>>
+Maintenant, Monsieur le Juge Sicilianos.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<4423.4;4425.2;en>>
+Thank you, Mr. President.
+
+<<4425.2;4433.28;en>>
+I have two questions, one to both parties, in relation to the question raised before by judges Wojtyczek, Spano, and López Guerra.
+
+<<4433.28;4439.8;en>>
+And I would like to know what was the exact status of the applicant under the law applicable at the relevant time.
+
+<<4439.8;4444.0;en>>
+Was he a civil servant, technically speaking?
+
+<<4444.0;4446.96;en>>
+The second question goes to the government.
+
+<<4446.96;4452.36;en>>
+The relevant report of the intelligence service was classified as reserved.
+
+<<4452.36;4456.44;en>>
+So apparently, it had a low level of classification.
+
+<<4456.44;4471.86;en>>
+So in view of this, I am wondering whether it was possible to disclose the report in a redacted form, so as to protect the interests of the national security, while at the same time give a sense to the applicants, so as for him to prepare his defense.
+
+<<4471.86;4471.86;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4473.23;4474.63;fr>>
+Thank you very much.
+
+<<4474.63;4476.03;fr>>
+Le juge Ravarani.
+
+[[Judge;Georges Ravarani]]
+
+<<4478.44;4480.52;fr>>
+Merci, M. le Président.
+
+<<4480.72;4494.36;fr>>
+J'ai des questions qui doublent les cas échéants, celles déjà posées par mes collègues, et c'est des questions et aussi des demandes de clarification parce que les représentants ont déjà abordé les questions.
+
+<<4494.36;4496.96;fr>>
+Ma première question s'adresse plutôt au gouvernement.
+
+<<4496.96;4505.32;fr>>
+Est-ce que le gouvernement peut préciser la relation entre le retrait de l'attestation de sécurité et les poursuites pénales engagées dans la suite contre le requérant?
+
+<<4505.32;4514.88;fr>>
+Et plus précisément, ces poursuites sont-elles la conséquence de l'enquête menée par les services secrets ayant donné lieu au retrait de l'attestation de sécurité?
+
+<<4514.88;4523.52;fr>>
+J'ai une question ensuite aux deux partis, et qui sont dans la ligne de ce que mes collègues ont chaque fois abordé.
+
+<<4523.52;4544.12;fr>>
+Est-ce que les partis peuvent confirmer que sous l'empire de la législation, en vigueur au moment des faits ayant donné lieu aux présents litiges, il n'existait pas un droit de chèque de fonction publique au sens traditionnel ou technique du terme, avec des droits et obligations particuliers pour les fonctionnaires, et que le statut des agents travaillant dans la fonction publique relevait du droit privé?
+
+<<4544.12;4556.72;fr>>
+Y avait-il néanmoins des obligations particulières pesant sur les agents travaillant pour des entités de droit public, et notamment découlant des spécificités de leurs fonctions?
+
+<<4556.72;4558.88;fr>>
+La troisième question s'adresse au requérant.
+
+<<4558.88;4570.96;fr>>
+Est-ce que le requérant peut fournir, et elle est aussi dans la ligne de ce que mon collègue Spano a dit, est-ce que le requérant peut fournir des détails sur l'évolution de la carrière, et surtout la fin de celle-ci?
+
+<<4570.96;4578.52;fr>>
+Peut-il en particulier livrer des explications sur ses soucis de santé qui l'ont empêché de continuer à travailler dans la fonction publique?
+
+<<4578.52;4588.44;fr>>
+Peut-il confirmer ou infirmer qu'après le retrait de l'attestation de sécurité, le ministère a cherché à lui trouver un autre emploi dans l'administration gouvernementale?
+
+<<4588.44;4596.52;fr>>
+Et que s'est-il passé au juste entre le retrait de l'attestation de sécurité et la résiliation d'un commun accord de la relation de travail?
+
+<<4596.52;4600.08;fr>>
+Car il y a eu une certaine période entre ces deux événements.
+
+<<4600.08;4601.08;fr>>
+Je vous remercie.
+
+<<4601.08;4602.08;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4607.8;4610.6;fr>>
+maintenant monsieur le juge Pastor Vilanova.
+
+[[Judge;Pere Pastor Vilanova]]
+
+<<4612.6;4614.32;fr>>
+Merci, M. le Président.
+
+<<4614.52;4616.76;fr>>
+Tout d'abord, 2 questions adressées au gouvernement.
+
+<<4617.0;4623.48;fr>>
+Le gouvernement a insisté à maintes fois en relation avec la gravité du comportement de M. Regner.
+
+<<4623.76;4624.92;fr>>
+Ma question est la suivante.
+
+<<4625.12;4628.44;fr>>
+Pourquoi est-ce qu'il n'a jamais été suspendu, voire licencié?
+
+<<4629.6;4632.4;fr>>
+2e question, également destinée au gouvernement.
+
+<<4632.6;4642.68;fr>>
+Est-ce que le juge instructeur ou l'autorité juridictionnelle compétente en République tchèque, est-ce qu'il a jamais déclaré le secret de l'instruction?
+
+<<4643.6;4645.52;fr>>
+Et 3e question, donc dirigée aux 2 partis.
+
+<<4645.72;4648.08;fr>>
+Quel est l'état actuel de la procédure pénale?
+
+<<4648.08;4649.68;fr>>
+Merci beaucoup, M. le Président.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4649.71;4652.03;fr>>
+Merci beaucoup.
+
+<<4652.03;4657.83;fr>>
+S'il n'y a pas d'autres questions, la Cour va maintenant se retirer pour un peu plus de 20 minutes.
+
+<<4657.83;4661.63;fr>>
+On reprend à 11h moins 10.
+
+<<4661.63;4671.35;fr>>
+Donc après quoi, les partis pourront présenter des brèves observations en réponse aux plaidoiries adverses et répondre aux questions formulées par les juges.
+
+<<4671.35;4671.35;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<5163.99;5164.72;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<5205.81;5208.89;fr>>
+Je vous en prie, prenez place.
+
+<<5208.89;5213.17;fr>>
+L'audience est reprise.
+
+<<5213.17;5215.49;fr>>
+Et je donne la parole à maître Bilej.
+
+[[Applicant;AP1]]
+
+<<5224.42;5227.38;en>>
+Dear Mr. President, Honorable Judges,
+
+<<5227.38;5236.96;en>>
+I'd like to follow what the representative of Czech Republic said.
+
+<<5236.96;5239.86;en>>
+He mentioned the criminal proceedings.
+
+<<5239.86;5252.1;en>>
+We still do not see any relationship between the criminal proceedings and this proceeding and the withdrawal of the certificate.
+
+<<5252.1;5261.78;en>>
+Unless, and I'm not happy I have to say it, unless the representatives of the Czech Republic know the content of the report.
+
+<<5261.78;5264.52;en>>
+We don't know the content of the report.
+
+<<5264.52;5272.62;en>>
+So we have absolutely no idea if there is any relationship between the report and the criminal proceedings.
+
+<<5272.62;5286.9;en>>
+If the representatives of the Czech Republic are repeatedly reminding us there is a criminal proceedings held against Mr. Regner,
+
+<<5286.9;5289.86;en>>
+we have doubts if they don't know it.
+
+<<5294.1;5306.62;en>>
+We heard that there is no right to get certificate to access to classified information according to national law.
+
+<<5306.62;5308.1;en>>
+We do not agree.
+
+<<5308.1;5324.5;en>>
+We think once the conditions stipulated in the national law are fulfilled, then the applicant has right to get the certificate, to obtain the certificate to access classified information.
+
+<<5324.5;5331.82;en>>
+And it can be, according to national law, subject of a court control.
+
+<<5331.82;5342.58;en>>
+We feel that in case the state wants to declare there is no right to a certain right, then it stipulates clearly in the national law.
+
+<<5342.58;5343.78;en>>
+And this is not the case.
+
+<<5346.9;5378.74;en>>
+Regarding his voluntary termination of the contract, of labor contract and his position, he got in a position when he, regarding his function, regarding his position, he could not work anymore without certificate to access certified information.
+
+<<5378.74;5380.9;en>>
+And in that moment, he knew it.
+
+<<5380.9;5382.34;en>>
+Mr. Regner knew it.
+
+<<5382.34;5392.98;en>>
+And in that moment, I think we all know how life is in these situations.
+
+<<5392.98;5418.66;en>>
+And I think it's not relevant whether or not he formally, voluntarily terminated his position or he simply followed what was expected from the state in that moment or what he can expect it from the state.
+
+<<5422.38;5428.42;en>>
+So we do not feel any relationship between the voluntary termination and withdrawal of the certificate.
+
+<<5432.06;5443.86;en>>
+Regarding the questions, so far we understood, there was nothing in a labor contract regarding the access to the classified information.
+
+<<5446.5;5462.2;en>>
+And so far we know this is not praxis in the Czech Republic, that in the labor contract for the state clerks, that there would be something regarding the access to the classified information.
+
+<<5465.62;5475.86;en>>
+So far we know there is no national law that specify which information should be classified.
+
+<<5475.86;5489.86;en>>
+It's the national security authority that specifies or make a list of information that should be classified.
+
+<<5489.86;5497.94;en>>
+And the government of the Czech Republic accept this.
+
+<<5497.94;5503.62;en>>
+And in case of Mr. Regner, from his position,
+
+<<5503.62;5515.84;en>>
+position of a deputy or representative of the deputy of the Ministry of Defense, he was, I would say, something like a facility manager.
+
+<<5515.84;5520.34;en>>
+He got in touch with information of the property of the Ministry of Defense.
+
+<<5520.34;5536.34;en>>
+And such information is in itself secret information or classified information, because the state decided to have such information as classified.
+
+<<5536.34;5545.62;en>>
+And it means when he got in a position where he was, he simply needed to have the certificate.
+
+<<5545.62;5551.14;en>>
+Otherwise, he would not be entitled to be in his position.
+
+<<5551.14;5554.42;en>>
+And state would not appoint him.
+
+<<5554.42;5561.26;en>>
+But we are not aware that this is somewhere in the national law.
+
+<<5561.26;5585.54;en>>
+And one of the, in his position, he was also responsible for the property of Army, when we say Army, Army services.
+
+<<5585.54;5598.86;en>>
+I hope you can imagine information on the property of Army services itself is classified information.
+
+<<5598.86;5627.34;en>>
+I think nobody would be interested in an employee that would not have certificate to access this classified information in case that he should be dealing as a kind of, let's say, facility manager with the property and that the information on property itself is classified information.
+
+<<5627.34;5641.74;en>>
+Regarding the criminal proceeding, the Court of Appeal changed the decision of the Court of First Instance in favor of Mr. Regner.
+
+<<5641.74;5647.98;en>>
+But until these days, there is no written decision.
+
+<<5647.98;5652.86;en>>
+It means, according to national law, Mr. Regner,
+
+<<5652.86;5662.62;en>>
+for the moment, it's not entitled to file an extraordinary appeal to the Czech Supreme Court.
+
+<<5668.54;5674.1;en>>
+Well, without that certificate, he could not.
+
+<<5674.1;5678.78;en>>
+I think that's the answer for your last question.
+
+<<5678.78;5683.98;en>>
+Without the certificate, he could not stay in his position.
+
+<<5683.98;5693.18;en>>
+His position or the relationship with the Ministry of Defense in debt would have been or must have been terminated anyway.
+
+<<5693.18;5705.14;en>>
+So if it was voluntary or if it was voluntary, we do not think it's that important.
+
+<<5705.14;5705.94;en>>
+That's everything.
+
+<<5705.94;5706.82;en>>
+Thank you for your attention.
+
+<<5706.82;5706.82;en>>
+you
+
+[[JudgeP;Guido Raimondi]]
+
+<<5707.72;5712.24;fr>>
+Merci beaucoup Maître Bilej. Maintenant la parole est à M. Schorm.
+
+[[Government;GR1]]
+
+<<5714.34;5716.38;en>>
+Thank you, Mr. President.
+
+<<5716.38;5731.06;en>>
+Well, I would like to thank you for the questions, which are interesting and, in reality, turn around the issue of compatibility, razione, persone, with the convention.
+
+<<5731.06;5739.18;en>>
+I will now try to address all these questions, but I would also refer to my statement.
+
+<<5739.18;5743.22;en>>
+And if you wish to have it in written form, it does exist in written form.
+
+<<5743.22;5748.78;en>>
+So the government can provide it to the case file.
+
+<<5748.78;5765.11;en>>
+As to the contents of the disputed report used as evidence in the judicial review of security proceedings, all I can say today is what I have stated in my speech.
+
+<<5765.11;5776.02;en>>
+That is that the nature of the applicants' activities described in the report corresponds to the description of illegal acts for which he had been found guilty and convicted in the criminal proceedings.
+
+<<5779.26;5799.82;en>>
+But as I have already said also, the government is willing to provide you the report, but it must be kept within the court, not disclosed to the public and to the applicant nor to his lawyers, because Czech law does not allow for that.
+
+<<5799.82;5815.22;en>>
+If we are to provide you that classified information, then of course we have to ensure ourselves that it will be treated with, let's say, equivalent caution as if it would have been treated at national level.
+
+<<5815.22;5817.57;en>>
+And yes, it is a redacted document.
+
+<<5817.57;5831.78;en>>
+It's a secondary source, because you can hardly expect an intelligence service to provide other authorities with original files, with original documents.
+
+<<5831.78;5833.53;en>>
+They always issue reports.
+
+<<5833.53;5844.94;en>>
+They give information, intelligence, but not their files, because the way the files are made has to be kept secret as well.
+
+<<5844.94;5869.06;en>>
+I would like to underline the fact that this situation which occurred in the applicant's case is quite exceptional, because there are hardly a couple of cases a year where classified information plays a role in the subsequent judicial review of the withdrawal of a security clearance.
+
+<<5873.3;5884.69;en>>
+So normally, the normal system is that the person concerned has everything at his disposal.
+
+<<5884.69;5890.14;en>>
+As far as the labor contract is concerned, we do not have it with us.
+
+<<5890.14;5895.57;en>>
+But I can imagine that the contract in itself is relatively short and concise.
+
+<<5895.57;5908.94;en>>
+And the habit is to define the positions within an administration with reference to the usual activities carried out by the person.
+
+<<5908.94;5911.45;en>>
+And it's a matter of internal regulation.
+
+<<5911.45;5927.57;en>>
+Of course, as it has been said by the applicant's party, normally there is a list of types of confidential information which is submitted by the NSA for approval to the government.
+
+<<5927.57;5930.3;en>>
+So there is not a law.
+
+<<5930.3;5939.49;en>>
+But it's not unusual that there are implementing provisions adopted by different sources of law.
+
+<<5939.49;5941.3;en>>
+This is by law in this case.
+
+<<5944.1;5956.77;en>>
+As far as the suspensive effect of the NSA's decision to withdraw the security clearance, I can only refer to the preventive nature of this step.
+
+<<5956.77;5960.26;en>>
+And so it has to be without suspensive effect.
+
+<<5960.26;5964.65;en>>
+And so it has to be immediately applicable.
+
+<<5964.65;5988.1;en>>
+As to the possibility for the applicant to work still in the Ministry of Defense and maybe still in the same position, one has to bear in mind that if you have access to classified information, it does not necessarily mean that you exceed classified information on a day-to-day basis.
+
+<<5988.1;5991.41;en>>
+So you can do some functions.
+
+<<5991.41;6003.38;en>>
+But of course, I don't think, and also with reference to what I said, that there wasn't a linkage between the position and the need to have a clearance.
+
+<<6003.38;6006.18;en>>
+There clearly was a linkage between them.
+
+<<6006.18;6009.02;en>>
+So he needed to have the clearance.
+
+<<6009.02;6023.18;en>>
+As to the municipal court's considerations about the right to the free choice of profession, I can only say that the municipal court dismissed that line of argumentation.
+
+<<6023.18;6057.06;en>>
+And it is supported by the constitutional court's case law, which, and I can quote, says, the right to the free choice of profession does not incorporate the right of all individuals to engage in a specific profession, the performance of which is, moreover, strictly constrained in the state's interest, and for which it is therefore necessary to satisfy, in addition to the other relevant statutory conditions, certain very specific requirements relating to the candidate, such as to hold a security clearance, unquote.
+
+<<6057.06;6064.57;en>>
+I can also respond to the question relating to the nature of the position.
+
+<<6064.57;6068.69;en>>
+At that time, it's different from today.
+
+<<6068.69;6076.61;en>>
+But at that time, it was a nomination, an appointment, and, of course, revocation as well, at free will.
+
+<<6076.61;6087.26;en>>
+Today, we have a law on the loi sur le service public, which fits very well in French.
+
+<<6087.26;6090.18;en>>
+So there is a different status for state employees.
+
+<<6090.18;6092.86;en>>
+And today, it would have been different.
+
+<<6092.86;6099.94;en>>
+But at the time, it was a labor law contract constituted by appointment.
+
+<<6099.94;6104.41;en>>
+And that appointment could have been withdrawn at every moment.
+
+<<6104.41;6111.02;en>>
+So he could have been revoked from his function at every moment without any reasons being given.
+
+<<6111.02;6117.98;en>>
+But this does not mean that the employment in itself is ended.
+
+<<6117.98;6123.38;en>>
+Because instead, the person should normally be offered a substitute employment.
+
+<<6123.38;6128.41;en>>
+But this is for this nature of labor law contract.
+
+<<6128.41;6132.86;en>>
+This was, I believe, but I don't have it in my hand.
+
+<<6132.86;6141.53;en>>
+But usually, it would be a contract at indefinite time, so without limitation, I suppose.
+
+<<6141.53;6146.53;en>>
+If you have such a position, you are appointed without time limitation.
+
+<<6146.53;6158.74;en>>
+But of course, when it is a political nomination, then it can be ended at every moment from political, for political reasons.
+
+<<6158.74;6178.41;en>>
+And as far as the nature of the documents still of the report of the intelligence service used by the NSA, I can say that notwithstanding the relatively low level of confidentiality, it is still a confidential document.
+
+<<6178.41;6183.38;en>>
+And it has to be dealt with in this manner.
+
+<<6183.38;6198.45;en>>
+And as I already also explained in my speech, it would have been difficult for the courts to reveal the nature of the information being given.
+
+<<6198.45;6204.6;en>>
+Because then it would mean that the sources would have to be revealed.
+
+<<6204.6;6221.69;en>>
+Because the sources are what makes the report more or less reliable and is something which can be relied upon as correct.
+
+<<6224.9;6243.4;en>>
+As to the linkage between these investigations by the intelligence service and the criminal proceedings, I have to say that it was probably, or it was triggered by these investigations by the intelligence service.
+
+<<6243.4;6248.69;en>>
+But the nature of these investigations, as I've explained in my speech, is different.
+
+<<6248.69;6251.94;en>>
+It's not together evidence.
+
+<<6251.94;6255.94;en>>
+It's very different from what you need to have in criminal proceedings.
+
+<<6255.94;6262.95;en>>
+And so this means that you have an information about something happening, something wrong, illegal.
+
+<<6262.95;6266.82;en>>
+And you have to investigate on your own.
+
+<<6266.82;6278.99;en>>
+And the fact is that the pre-phase, the investigative phase before the applicant was charged, took quite a while.
+
+<<6278.99;6283.22;en>>
+Because I think he was charged only in November 2007.
+
+<<6283.22;6289.45;en>>
+So you can see that there was a difference in time.
+
+<<6289.45;6298.45;en>>
+And normally, these files in the pre-charging stage are classified or are protected.
+
+<<6298.45;6301.9;en>>
+I cannot say whether that file was protected formally.
+
+<<6301.9;6303.82;en>>
+But I can imagine it was.
+
+<<6303.82;6309.82;en>>
+Because if it is a case of certain importance, and this case was quite important.
+
+<<6309.82;6324.74;en>>
+This was a large-scale criminal activity and one of the largest in the Czech Republic, then I can well imagine that it was protected under the security law.
+
+<<6324.74;6334.26;en>>
+As to the state of the criminal proceedings, I can only say, I would repeat, in fact, what the applicant has said.
+
+<<6334.26;6343.86;en>>
+We nonetheless know the operative part of the judgment given by the Court of Appeal.
+
+<<6343.86;6350.86;en>>
+So we know with certainty how the applicant was convicted.
+
+<<6350.86;6370.1;en>>
+And as to the fact that these proceedings, these criminal proceedings, have already lasted quite a while, I can only say that he was given a conditional punishment because of the fact that these proceedings have taken so much time.
+
+<<6370.1;6371.3;en>>
+I don't know.
+
+<<6371.3;6375.26;en>>
+I still feel that I may have skipped something.
+
+<<6375.26;6387.22;en>>
+But I believe that this must be more or less all to address.
+
+<<6387.22;6404.22;en>>
+I would say finally that the applicant has submitted additional requests for just satisfaction on the basis under the head of costs and expenses.
+
+<<6404.22;6413.69;en>>
+And I would like to ask the Green Chamber to give the government the opportunity to comment on this request for just satisfaction.
+
+<<6413.69;6413.69;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<6420.18;6424.78;fr>>
+Merci beaucoup, M. Schorm.
+
+<<6426.18;6429.5;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<6429.74;6435.86;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<6436.1;6439.02;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<6439.26;6441.9;fr>>
+L'arrêt s'a rendu ultérieurement.
+
+<<6442.14;6445.46;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<6445.46;6445.46;fr>>
+L'audience est levée.
+

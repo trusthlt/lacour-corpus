@@ -1,0 +1,1825 @@
+[[Announcer;UNK]]
+
+<<5.96;6.58;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<51.16;52.16;en>>
+Please be seated.
+
+<<57.36;64.98;en>>
+I declare open the public hearing on the merits in the case of Mustafa Tunç and Fecire Tunç against Turkey.
+
+<<64.98;74.48;en>>
+The application was lodged with the court on the 24th of June 2005 under Article 34 of the Convention by two Turkish nationals, Mr. Mustafa Tunç
+
+<<74.48;77.24;en>>
+and Mrs. Fecire Tunç.
+
+<<77.24;82.94;en>>
+The applicant, Mustafa Tunç, died on the 9th of February 2006.
+
+<<82.94;95.96;en>>
+His son, Yüksel Tunç, informed the court by a letter of the 10th of March 2006 that as the deceased's hair, he intended to pursue the application before the court.
+
+<<95.96;103.44;en>>
+The application was allocated to the second section of the court, pursuant to Rule 52, Paragraph 1 of the Rules of Court.
+
+<<103.48;113.08;en>>
+On the 25th of June 2013, a chamber of the second section delivered its judgment on the admissibility and merits of the case.
+
+<<113.08;123.64;en>>
+On the 25th of September 2013, the government requested that the case be referred to the Grand Chamber in accordance with Article 43 of the Convention.
+
+<<123.64;130.44;en>>
+And the panel of the Grand Chamber accepted the request on the 4th of November 2013.
+
+<<130.44;134.16;en>>
+The government represented by Mr. Şener Dalyan,
+
+<<134.16;142.32;en>>
+head of the Human Rights Department at the Ministry of Justice Council, by Ms. Nurdan Okur, Director General for International Law
+
+<<142.32;150.72;en>>
+and Foreign Affairs at the Ministry of Justice, Mr. Mehmet Öncü, Mr. Okan Taşdelen, and Ms. Nazlı Bulut
+
+<<150.72;162.84;en>>
+from the Ministry of Justice, by Colonel Hüseyin Çeken and Colonel Levent Tiftik from the Ministry of Defense, as well as by Ms. Ayşen Emüler from the Ministry of Foreign
+
+<<162.84;165.12;en>>
+Affairs Advisors.
+
+<<165.12;169.24;en>>
+The applicants are represented by Mr. Mark Muller QC,
+
+<<169.24;171.8;en>>
+Ms. Catriona Vine, and Ms. Michelle Butler,
+
+<<171.8;176.64;en>>
+a counsel assisted by Mr. Kerim Yildiz and Ms. Saniye Karakaş,
+
+<<176.64;177.86;en>>
+advisors.
+
+<<177.86;183.52;en>>
+The applicant, Yüksel Tunç, and his brother, Mehmet Tunç, are also present.
+
+<<183.52;189.52;en>>
+I welcome the representatives of the parties in the name of the court.
+
+<<189.52;198.2;en>>
+I would also like to welcome a delegation of Russian judges who are on a study visit to the court and attend the hearing today.
+
+<<198.2;205.48;en>>
+Having consulted the representatives of the parties, I have determined the order of addresses as follows.
+
+<<205.48;210.28;en>>
+Mr. Muller QC and Ms. Michelle Butler for the applicants
+
+<<210.28;215.14;en>>
+will speak first, and then Ms. Şener Dalyan for the government.
+
+<<215.14;228.68;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Russian has been authorized for the benefit of the group of judges from Russia.
+
+<<228.68;239.44;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<239.44;239.44;en>>
+I call Mr. Mark Muller QC.
+
+[[Applicant;AP1]]
+
+<<243.65;250.93;en>>
+Mr. President, I will address you on the law and the broader implications of this case,
+
+<<250.93;256.33;en>>
+while Ms. Butler will address you in more detail on evidence and admissibility.
+
+<<256.33;265.65;en>>
+But before I do so, let me say a few words about how we put our case and what we say is agreed and not agreed.
+
+<<265.65;275.49;en>>
+Mr. President, it is common ground that at 5.50 a.m. on the morning of 13 February 2005,
+
+<<275.49;289.93;en>>
+my client, Cihan Tunç, a postgraduate engineer, was shot in the neck five and a half days after being posted as a conscript to a remote gendarmerie station in southeast Turkey.
+
+<<289.93;300.93;en>>
+He was just 21 years of age and, by all accounts, was a happy young man with a loving family and a great future ahead of him.
+
+<<300.93;319.63;en>>
+In its observations, the government accepts, and I quote, the entire content of the file shows that Cihan Tunç, during his integration in the military service until 13 February 2004, presented a normal behavior.
+
+<<319.63;327.23;en>>
+It is therefore agreed between the parties that there is no evidence of a propensity to commit suicide.
+
+<<327.23;333.21;en>>
+It follows that Cihan was either murdered or killed accidentally.
+
+<<333.21;345.01;en>>
+Yet just two or three hours after Cihan was killed, his family was officially informed by the district gendarme commander that he had committed suicide.
+
+<<345.01;352.29;en>>
+This before the military prosecutor had even begun his forensic examination.
+
+<<352.29;362.91;en>>
+On any view, this initial finding was premature, evidentially unsupported, and based upon a cursory inspection lacking any vigor.
+
+<<362.91;378.09;en>>
+But more importantly, it tainted the nature of the later investigation, both substantively and in terms of perceptions concerning its independence, not least because the commander went on to take evidence himself.
+
+<<378.09;391.29;en>>
+More disturbingly, a few hours after his death, Cihan was sent back to his grieving parents cargo style, without military honors or the Turkish flag on his coffin.
+
+<<391.29;406.33;en>>
+No explanation has ever been offered for this conduct, but it is perhaps not without import that Cihan was from the Alevi sect and occurred from Tangelli, a place synonymous with Kurdish resistance movement.
+
+<<406.33;411.85;en>>
+I don't need to tell this court about the treatment of Kurds and Alevis in Turkey.
+
+<<411.85;418.75;en>>
+Did his ethnicity have some bearing on the commander's actions and the subsequent investigation?
+
+<<418.75;423.13;en>>
+Due to its limited nature, we shall never know.
+
+<<423.13;436.13;en>>
+What we do know, however, is that since 1999, there has been an increasing number of deaths of young men in suspicious circumstances whilst carrying out military service.
+
+<<436.13;441.17;en>>
+Internet searches reveal more than 37 in 2013 alone.
+
+<<441.17;449.25;en>>
+In many cases, the deceased were shot while making plans for the future and or had felt threats from fellow conscripts.
+
+<<449.25;456.69;en>>
+Such cases also featured irregularities in autopsies and shootings that were not typical of self-inflicted injuries.
+
+<<456.69;466.41;en>>
+Yet despite these evidential consistencies, the official explanation was almost always suicide or self-inflicted incident.
+
+<<466.41;468.17;en>>
+Many were Kurds.
+
+<<468.17;481.53;en>>
+The existence of this phenomenon was recognized by the UN Special Rapporteur on Extradjudicial Summary and Arbitrary Executions, Christopher Haynes, in his 2013 report following his mission to Turkey.
+
+<<481.53;495.69;en>>
+He expressed concern in relation to 45 apparent suicides by soldiers and law enforcement officials in 2012, where he determined that the pronouncement of suicide may have been falsified or forced.
+
+<<495.69;510.49;en>>
+In his expert view, and I quote, formal investigations were either never brought or else quickly stalled in nearly all cases and did not result in the identification of perpetrators or subsequent prosecution.
+
+<<510.49;526.97;en>>
+Because investigations were conducted in a closed manner within the police or military's internal justice system, it is impossible for families and civil society to know whether these are in fact cases of unlawful killing and to ensure accountability.
+
+<<526.97;533.69;en>>
+In some cases, they do not even know whether a full and impartial investigation was conducted.
+
+<<533.69;547.57;en>>
+This phenomenon should have put the military prosecutor in this case on notice to ensure that no stone was left unturned when determining whether Cihan was murdered or accidentally killed.
+
+<<547.57;549.21;en>>
+But it did not.
+
+<<549.21;555.81;en>>
+The investigation proceeded on the operating assumption that Cihan was accidentally shot.
+
+<<555.81;564.45;en>>
+A fingerprint analysis of the weapon and discarded bullets and of Cekak was never carried out.
+
+<<564.45;578.73;en>>
+We say the military prosecutor, who was assisted by investigators from the Jondam station involved, did not take all the necessary steps in order to identify the person or persons responsible.
+
+<<578.73;584.45;en>>
+That this is so is in fact an agreed fact between the parties.
+
+<<584.45;598.93;en>>
+Because on 14 October 2004, the Diyarbakir military court held the investigation to be inadequate as it failed to effectively explore inferences implicating Mehmet Cicek.
+
+<<598.93;602.49;en>>
+Mr President, these findings have never been overturned.
+
+<<602.49;613.37;en>>
+Thus, despite the tenor of the second chamber's judgment, it is an agreed fact that the initial investigation was not executed effectively.
+
+<<613.37;620.47;en>>
+The real bone of contention concerns the quality of the review that followed that domestic ruling.
+
+<<620.47;626.69;en>>
+We say that review was hopelessly compromised by the early investigation.
+
+<<626.69;642.61;en>>
+The failure to preserve the crime scene, conduct fingerprint analysis on the weapon used, or examine the deceased's clothing while conducting an autopsy meant any murder-manslaughter theory could not be properly tested later.
+
+<<642.61;661.13;en>>
+No amount of reenactment at the scene could save the later review from the flaws of the first investigation as by this time the crime scene had altered, the swab samples compromised, and 13 out of 15 witnesses had left the military service.
+
+<<661.13;673.65;en>>
+As the court jurisprudence makes clear, an investigation will be considered ineffective where crucial forensic evidence or the crime scene has not been preserved or sealed.
+
+<<673.65;679.89;en>>
+The review concluded the available evidence was consistent with an accidental shooting.
+
+<<679.89;681.79;en>>
+That is unsurprising.
+
+<<681.79;687.21;en>>
+It could do little else since it had nothing to forensically work with.
+
+<<687.21;696.91;en>>
+The fact remains, however, that inferences of foul play existed at the outset of the investigation which was never properly explored.
+
+<<696.91;707.65;en>>
+As a result, vital evidence was lost or not secured or tested, thereby conveniently leaving evidence consistent with a finding of accidental death.
+
+<<707.65;712.81;en>>
+Whether this was done by design or thought makes little difference.
+
+<<712.81;725.29;en>>
+Our complaint, in a nutshell, is not that there was not a prompt investigation of circumstances of the death that could possibly support a finding of accidental death.
+
+<<725.29;736.33;en>>
+It is that there was not a corresponding effective investigation into the possibility of foul play or of an accidental killing by Mehmet Sıçak.
+
+<<736.33;757.09;en>>
+That the operating assumption of the investigation was predicated upon a self-inflicted shooting is exemplified by the opening question posed by the district gendarmerie commander, tell us what you know regarding Ceyhan Cunç who shot himself.
+
+<<757.09;761.01;en>>
+Even then, one fact remains incontrovertible.
+
+<<761.01;770.41;en>>
+The review by the military court was heard by a three-member panel which included a serving officer who remained subject to military discipline.
+
+<<770.41;778.81;en>>
+That officer's independence and impartiality was irreparably compromised for the reasons set out by the second chamber.
+
+<<778.81;783.93;en>>
+Mr. President, we say that the lack of an independent investigation into the death of
+
+<<783.93;800.37;en>>
+Ceyhan is reflective of a wider endemic problem in Turkey where inadequate investigations which are wholly lacking in independence and impartiality are routinely carried out where conscripts have died in suspicious circumstances.
+
+<<800.37;815.41;en>>
+There is a widespread culture of impunity among military officials, a failure of accountability for killings perpetrated by state actors, and a lack of effectiveness and impartiality in the Turkish judicial system at the time.
+
+<<815.41;828.25;en>>
+One need look no further than to the protests at the moment concerning an 11-year-old Alevi boy resulting from the Gezi protests to see what happens when impunity is allowed to reign supreme.
+
+<<828.25;834.43;en>>
+But to be clear, the strict adherence to Article 2 goes way beyond the shores of Turkey.
+
+<<834.43;849.09;en>>
+In the United Kingdom, my own country, families have fought long and hard to reopen inquiries concerning deaths of loved ones in suspicious circumstances or where state agents acted unlawfully or owed a higher duty of care.
+
+<<849.09;857.09;en>>
+Hillsborough, Bloody Sunday, the Iraq War inquiries, and the deep-cut barrack inquiries are just four examples.
+
+<<857.09;863.27;en>>
+That is why this Court cannot permit impunity to thrive within the convention machinery.
+
+<<863.27;879.65;en>>
+It is duty-bound to ensure that states conduct effective and independent investigations of deaths in which state agents may be implicated, and above all to ensure the accountability that is so critical to the maintenance of the European public order.
+
+<<879.65;882.89;en>>
+It is why this case is a paradigm case.
+
+<<882.89;902.49;en>>
+Turning quickly to the law, Article 2 imposes a procedural obligation on Member States to initiate an effective public investigation, and I quote, by an independent official body, into any death which it appears that state agents of states may be implicated.
+
+<<902.49;924.77;en>>
+It is essential in any society holding itself out, complying with the rule of law, to ensure full facts are brought to light, culpable and discreditable conduct is exposed or brought to public justice, suspicion of deliberate wrongdoing, if unjustified, is allayed, and dangerous practices and procedures are rectified.
+
+<<924.77;940.41;en>>
+The Court requires that any investigation be sufficiently independent from those who are implicated in the events under investigation, not only in terms of lack of hierarchical or institutional connection, but also practical independence.
+
+<<940.41;942.65;en>>
+That did not happen here.
+
+<<942.65;948.17;en>>
+Callis v. Turkey makes clear investigations should not be carried out, and I quote, by
+
+<<948.17;959.49;en>>
+members of the armed forces into the actions of other members of the same armed forces, it is the same body to which those implicated in the events belong.
+
+<<959.49;977.97;en>>
+The Romanian case is established that it is impermissible for investigations to be undertaken and discontinued by military officials belonging to the military structure who are answerable to military discipline where those investigations concern the actions of other serving officers.
+
+<<977.97;994.33;en>>
+It is not a question of analysing the chain of command of a unit, but rather whether those concerned with the investigation and those implicated in the events are active service personnel who are subject to military discipline.
+
+<<994.33;997.21;en>>
+Shevchenko v. Ukraine.
+
+<<997.21;1000.25;en>>
+That is why the Second Chamber was right to apply Gherkin.
+
+<<1000.25;1015.41;en>>
+A military court determining criminal charges cannot be regarded as independent and impartial within the meaning of Article 6 when one of its judges is insufficiently independent of its military superiors.
+
+<<1015.41;1019.17;en>>
+Now there are two aspects to the question of impartiality.
+
+<<1019.17;1033.49;en>>
+The tribunal has to be subjectively free of personal prejudice or bias, but also impartial from an objective viewpoint in that it has to offer sufficient guarantees to exclude any legitimate doubt in that respect.
+
+<<1033.49;1041.61;en>>
+And in that sense, I raise the issue of the phenomenon that I described earlier about deaths in military service.
+
+<<1041.61;1053.17;en>>
+In this case, the military officer who acted as a judge remained in the service of the army, was subject to military discipline, and was appointed as a judge by a hierarchical superior.
+
+<<1053.17;1063.89;en>>
+He did not enjoy the same constitutional safeguards provided to other two military judges and cannot therefore be considered to have been independent or impartial.
+
+<<1063.89;1082.85;en>>
+And I look forward to my learned friends arguing why in actual fact it is not unconstitutional here, when in actual fact the constitutional court in Turkey has already ruled this basic arrangement to be unconstitutional in the domestic arena.
+
+<<1082.85;1100.25;en>>
+We say that even if the procedural protections in Article 6 are not directly applicable, the Grand Chamber should look to the standards associated with 6 when judging the sufficiency of the investigations for the reasons canvassed in Bobbins v. United Kingdom.
+
+<<1100.25;1102.29;en>>
+Let me just give you five reasons.
+
+<<1102.29;1112.93;en>>
+First, the sufficiency of the domestic inquiry into violations of Article 2 is itself an aspect of the state's obligations under Article 2.
+
+<<1112.93;1125.57;en>>
+Second, fair trial principles have developed not only to promote a perception of sufficient fairness, but also to promote the highest quality of forensic inquiry, which is crucial in this case.
+
+<<1125.57;1139.93;en>>
+Third, the court has rightly become consistently more concerned with the increased sensitivity of the public to the fair administration of justice, as did the constitutional court in Turkey.
+
+<<1139.93;1157.73;en>>
+Fourth, it is incongruous that standards envisaged under Article 6 in relation to a fair trial should be more exacting than standards required for a full and effective inquiry that concerns a deprivation of the right to life.
+
+<<1157.73;1171.09;en>>
+Fifth, this court has laid particular emphasis on the fact that stringent inquiries into the deprivation of life were not only central to Article 2, but also the wider obligation of Article 1.
+
+<<1171.09;1185.43;en>>
+Finally, the government's argument that Gherkan is not applicable to the present case, on the basis that this case related only to a decision not to prosecute rather than a criminal trial, amounts to a legal error.
+
+<<1185.43;1212.49;en>>
+This court has very clearly stated that when considering a charge for the purposes of Article 6, its protections may apply to other measures prior to the laying of formal charges, as long as those measures carry implications of such an allegation and would substantially affect the situation of the suspect or were decisive for the determination of a criminal charge within the meaning of Article 6.
+
+<<1212.49;1220.97;en>>
+Applying this reason, it would be absurd for a decision to stop proceedings to not attract the protective safeguards concerning independence.
+
+<<1220.97;1227.97;en>>
+Now, I turn to my lawyer friend, Ms Butler, to address you further on the evidence and proceedings.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1232.83;1236.35;en>>
+Thank you Mr. Muller. I give the floor to Ms. Butler.
+
+[[Applicant;AP2]]
+
+<<1237.63;1243.39;en>>
+Mr. President, it's the applicant's case that the investigation into the death of Jihan
+
+<<1243.39;1250.61;en>>
+Tunc was not sufficiently independent and was in fact irretrievably flawed from the outset.
+
+<<1250.61;1258.19;en>>
+This is because members of the gendarmerie itself undertook all of the critical first steps in the investigation.
+
+<<1258.19;1264.47;en>>
+Almost immediately after Jihan's shooting at 5.50am, his own line commanders undertook
+
+<<1264.47;1267.41;en>>
+a brief investigation of the scene.
+
+<<1267.41;1276.87;en>>
+The gendarmerie investigation team from Dierbekeer only arrived at 9am to draw sketches and take photographs and video footage.
+
+<<1276.87;1283.91;en>>
+However by that time, critical decisions had already been made as to the cause of death.
+
+<<1283.91;1296.43;en>>
+Before the investigative team could even start their investigation, Jihan's division commander phoned his brother, informing him that Jihan had committed suicide.
+
+<<1296.43;1309.39;en>>
+Just after that, and prior to a proper ballistics examination being undertaken, it was decided that Jihan's gun was the one which had been fired, rather than the gun belonging to Mermak Sijak.
+
+<<1309.39;1321.39;en>>
+This was another fundamental error, as it is the applicant's case that given the circumstances of the shooting, Sijak ought to have been regarded as the main suspect in the case.
+
+<<1321.39;1344.79;en>>
+However, even at that very early stage of the investigation, several hours before the public prosecutor's investigative team arrived on site, there was already a predetermined mindset amongst the investigators that the only possible explanation was that Jihan had shot himself.
+
+<<1344.79;1351.03;en>>
+Indeed by the time the public prosecutor's team arrived, grave errors had taken place.
+
+<<1351.03;1354.23;en>>
+No one had forensically sealed the scene.
+
+<<1354.23;1359.59;en>>
+Crucial evidence, including both weapons and the body, had been moved.
+
+<<1359.59;1364.27;en>>
+The main suspect in the case had attended the autopsy.
+
+<<1364.27;1369.23;en>>
+Members of the gendarmerie had conducted significant witness interviews.
+
+<<1369.23;1377.15;en>>
+And gendarmerie officers had taken away the deceased's clothes before the coroner could even view the body.
+
+<<1377.15;1388.79;en>>
+Even once the case was taken over by the military prosecutor, he relied heavily on information provided by the gendarmerie personnel who were involved in the incident.
+
+<<1388.79;1395.47;en>>
+Most worryingly, this involved placing principal reliance upon Sijak's account.
+
+<<1395.47;1407.75;en>>
+This approach is consistent with what the UN special rapporteur has described as the deferential relationship of the military prosecutor to his fellow armed forces personnel.
+
+<<1407.75;1420.29;en>>
+It is yet another example of the widespread lack of political will to hold state officials accountable in Turkey, which has been recognized by international observers.
+
+<<1420.29;1433.03;en>>
+This is unsurprising given that military prosecutors in Turkey are structurally a part of the military courts and are therefore dependent upon the Turkish Ministry of Defense.
+
+<<1433.03;1448.35;en>>
+Despite their theoretical independence in Article 145 of the Turkish Constitution, military prosecutors work on behalf of the ministry and are hierarchically related both to the executive and to the military.
+
+<<1448.35;1466.23;en>>
+Although the Diyarbakir military court initially upheld the applicant's appeal against the decision to close the investigation, the applicants submit that this fact alone cannot be regarded as proof of the independent and impartial nature of that judicial body.
+
+<<1466.23;1476.31;en>>
+Given the manifest inadequacy of that initial investigation, a refusal to reopen it would have been not only legally wrong but perverse.
+
+<<1476.31;1488.95;en>>
+The court rightly ordered the case to be reopened but wrongly permitted the very same military prosecutor who had led the flawed investigation to conduct the widened investigation.
+
+<<1488.95;1503.19;en>>
+This error was compounded by the fact that the widened investigation consisted merely of a reconstruction of the bullet's trajectory at the scene, which by then had been fundamentally altered.
+
+<<1503.19;1516.67;en>>
+To add insult to injury, the reports of this widened investigation from 24 November 2008 to 8 December 2004 can at best be characterized as sparse.
+
+<<1516.67;1533.19;en>>
+They make no proper attempt to analyze the fundamental inconsistencies in the forensic and witness evidence or to conduct the wholesale review of the entire investigation, which by then was so desperately warranted.
+
+<<1533.19;1542.87;en>>
+The inadequacies of the widened investigation were then brushed under the carpet by the appellate decision of the Diyarbakir military court.
+
+<<1542.87;1548.91;en>>
+Its 17 December 2004 decision was also manifestly inadequate.
+
+<<1548.91;1554.59;en>>
+Its a mere two-page document comprised mostly of procedural formalities.
+
+<<1554.59;1574.27;en>>
+Its conclusion, that there was insufficient evidence for a public prosecution, is set out in one sentence and is entirely unsupported by any analysis of the evidence or any reasoning at all as to why the evidence which was gathered was insufficient for a prosecution.
+
+<<1574.27;1588.47;en>>
+The only hint as to what might be the basis for the Court's decision is a reference to the statement of the military prosecutor dated 17 December 2004, in which it is opined that the appeal should be refused.
+
+<<1588.47;1598.11;en>>
+But that statement has never been provided to the applicants, and nor does it appear in the materials relied upon by the Government before this Court.
+
+<<1598.11;1620.47;en>>
+Even if one puts the substantive inadequacies of the investigation and the appeal procedure to one side, it is in fact agreed between the parties that in December 2004, Turkish military courts were comprised of only two independent judges, as the third judge was a serving military officer.
+
+<<1620.47;1626.31;en>>
+That officer need not have been a lawyer and need not have been legally qualified.
+
+<<1626.31;1635.39;en>>
+They were appointed to the Court temporarily by their military superiors and continued to perform their other duties during their service.
+
+<<1635.39;1657.31;en>>
+As the Turkish Constitutional Court itself recognised in abolishing this set-up on 7 May 2009, the serving officer will have been mindful of the fact that they were still subject to military discipline and that their prospects for promotion and reappointment were being actively assessed throughout their time as a judge.
+
+<<1657.31;1662.97;en>>
+These military officers were therefore under the direct influence of their military superiors.
+
+<<1662.97;1676.23;en>>
+They would naturally have been reticent to give decisions contrary to their superiors' interests, as they would naturally have had an adverse effect on their own careers.
+
+<<1676.23;1691.11;en>>
+For these reasons, the Turkish Constitutional Court rightly concluded that Turkey's military courts could not be regarded as judicially independent due to the presence of the serving military officer on them.
+
+<<1691.11;1699.81;en>>
+Unfortunately, the investigation did not only lack independence but also cannot be regarded as comprehensive.
+
+<<1699.81;1707.37;en>>
+As well as the irregularities at the scene, serious flaws in the witness evidence were obtained.
+
+<<1707.37;1724.87;en>>
+Several important witnesses were never interviewed at all, including, for example, the doctor who pronounced Cihan dead, the soldier who took him to hospital, and the applicant who could have attested to his positive state of mind before his killing.
+
+<<1724.87;1742.53;en>>
+Furthermore, the investigators made no attempt to resolve the major inconsistencies between witness statements given by certain witnesses, including the conflicting accounts given by Cijak as to the position of the gun when he entered the tower.
+
+<<1742.53;1747.09;en>>
+The expert evidence was also superficial at best.
+
+<<1747.09;1757.13;en>>
+The autopsy report failed to itemize the damage given to Cihan's left lung or to properly consider the trajectory of the bullet.
+
+<<1757.13;1768.33;en>>
+This is perhaps no surprise given that the autopsy was performed by Lokman Ilmez, whose professionalism has been questioned by this Court in at least three other Turkish cases.
+
+<<1768.33;1782.09;en>>
+Likewise, the chemical and ballistics examinations were wrongly based on the prevailing assumption that Cihan had shot himself and therefore have limited evidential value.
+
+<<1782.09;1792.49;en>>
+And investigative resources were devoted to whether or not there could have been another explanation for the extremely strange upwards trajectory of the bullet.
+
+<<1792.49;1808.57;en>>
+But a common-sense approach shows that given the length of the gun and the fact that the shot entered his body from a short distance away, Cihan must have been holding the gun well over one metre away from the right side of his neck.
+
+<<1808.57;1824.29;en>>
+It would have required an extraordinary feat of contortion for Cihan to have pulled the trigger in order for the bullet to have exited his body through his back below his left shoulder blade before hitting a 2.3-metre high ceiling.
+
+<<1824.29;1832.81;en>>
+Cihan being shot by another person provides a much simpler and more compelling explanation for the bullet's trajectory.
+
+<<1832.81;1839.49;en>>
+However, this possibility does not appear to have been considered by the investigative team.
+
+<<1839.49;1850.49;en>>
+The investigation also failed to properly analyse whether the presence of waste products on the hands of Cijak were indicative of his firing the gun.
+
+<<1850.49;1862.39;en>>
+No comparative analysis was made of the residue on Cijak's hands compared to that on the hands of the other soldiers who had assisted in Cihan's first aid and transfer to hospital.
+
+<<1862.39;1877.25;en>>
+This was the bare minimum which was required to test the veracity of Cijak's account in circumstances where he had admitted that just prior to the shooting he had had a heated exchange with the deceased.
+
+<<1877.25;1885.49;en>>
+Mr President, the investigation into the death of Cihan was also not conducted sufficiently promptly.
+
+<<1885.49;1892.37;en>>
+The military prosecutor did not inspect the scene of the incident until nine months after Cihan's death.
+
+<<1892.37;1902.95;en>>
+As a result, crucial evidence was not obtained which may well have supported a finding of foul play or accidental killing by Cijak.
+
+<<1902.95;1913.25;en>>
+By the time this evidence was sought, forensic details which could disprove the theory of suicide or self-inflicted shooting no longer existed.
+
+<<1913.25;1929.31;en>>
+Finally, neither the public nor Cihan's family members were able to properly scrutinise either the original investigation, the subsequent widened investigation or the judicial reviews of both investigations.
+
+<<1929.31;1939.29;en>>
+Critical documents such as the autopsy report and photographs of the body were either unavailable or provided too late to be of assistance.
+
+<<1939.29;1949.97;en>>
+A request to visit the scene by a family member was denied and no explanation has ever been provided as to why there was insufficient evidence for a prosecution.
+
+<<1949.97;1966.29;en>>
+It is simply not good enough for a judicial body which is lacking in independence and impartiality from military organs to rule without reasons or explanation that an appeal has been refused and that the investigation will be closed.
+
+<<1966.29;1976.93;en>>
+Such an approach is not consistent with the high thresholds of public and family engagement with the investigative process which have been set down by this court.
+
+<<1976.93;1991.47;en>>
+Mr President, I will now turn to the issue of admissibility which was challenged by the Government in these proceedings for the very first time in February 2014, more than seven years after this case commenced.
+
+<<1991.47;2000.59;en>>
+Given the time that we have left, I will address this issue very briefly and may return to it if there is time in our opportunity to reply.
+
+<<2000.59;2012.77;en>>
+In essence, the Government argues that the applicants brought a remedy claim against the Ministry of Interior which was granted by the Supreme Military Administrative Court in 2007.
+
+<<2012.77;2019.19;en>>
+On that basis, it suggests that the applicants should be deprived of their victim status before this court.
+
+<<2019.19;2022.49;en>>
+This is vigorously opposed by the applicants.
+
+<<2022.49;2028.01;en>>
+The applicants themselves never received any compensation from the Ministry of Interior.
+
+<<2028.01;2035.37;en>>
+Prior to reading the Government's recent submissions, they never even knew that a negligence claim had been brought on their behalf.
+
+<<2035.37;2043.53;en>>
+The applicants have since tried to contact the Turkish lawyer who made the claim for them but have been unsuccessful in doing so.
+
+<<2043.53;2054.33;en>>
+However, even if the applicants had received compensation from the Administrative Court, we suggest that that would not deprive them of victim status in these proceedings.
+
+<<2054.33;2056.37;en>>
+This is for several reasons.
+
+<<2056.37;2066.65;en>>
+First, the Government should be stopped from raising the payment of compensation as a bar to admissibility at this very late stage of proceedings.
+
+<<2066.65;2076.49;en>>
+Second, the Administrative Court's judgment finds institutional negligence on the basis that Zihan was at fault for accidentally shooting himself.
+
+<<2076.49;2079.65;en>>
+They do not find that he was shot by another.
+
+<<2079.65;2096.49;en>>
+Third, in Echelon, Germany, this Court has made clear that compensation under domestic law may only result in the loss of victim status where the national authorities have expressly or in substance acknowledged that there has been a breach of the Convention.
+
+<<2096.49;2106.89;en>>
+Nowhere in the Administrative Court's judgment is there even a mention of the procedural component of Article 2, let alone a finding of its breach.
+
+<<2106.89;2114.57;en>>
+To conclude, Mr President, the Government's objections to admissibility, like their submissions on the merits, are ill-founded.
+
+<<2114.57;2134.93;en>>
+The unique circumstances of this case show that the initial investigation into Zihan's death, the widened investigation which followed, and the appellate judgment upholding the decision not to prosecute by the Military Court together amount to a violation of the procedural limb of Article 2 of the Convention.
+
+<<2134.93;2139.81;en>>
+The only just disposal of this case would therefore be a finding for the applicants.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2141.61;2145.01;en>>
+Thank you, Ms Butler. I call Mr Şener Dalyan.
+
+[[Government;GR1]]
+
+<<2156.05;2163.71;en>>
+Mr. President, members of the Grand Chamber, ladies and gentlemen, good morning.
+
+<<2163.71;2180.91;en>>
+In the present case, the applicants allege that the authorities failed to carry out an effective investigation into the circumstances surrounding the death of their son in the course of his military service, and they particularly argue that the investigation was not sufficiently independent.
+
+<<2180.91;2184.93;en>>
+The government's position regarding this allegation is, however, opposite.
+
+<<2184.93;2192.75;en>>
+We believe the investigation carried out was in full conformity with the standards set out in Article 2 of the Convention.
+
+<<2192.75;2198.23;en>>
+I'll begin to explain the reasons underlying our observations in a couple of minutes.
+
+<<2198.23;2210.14;en>>
+Before discussing the merits of the application, let me say a few words about the admissibility of the case, which was not examined by the Chamber, as it had not been brought to its attention by the applicants.
+
+<<2210.14;2219.55;en>>
+We have felt obliged to bring it to the consideration of the Grand Chamber, as it is of important importance in the context of the application.
+
+<<2219.55;2227.27;en>>
+Mr. President, on 13 January 2005, the applicants brought a full remedy action against the Minister
+
+<<2227.27;2233.97;en>>
+of Interior for the death of their son on the basis of objective liability of the Administration.
+
+<<2233.97;2247.39;en>>
+On 10 January 2007, the Supreme Military Administrative Court held the Administration responsible for the negligence in the training, education, supervision, and monitoring of the personnel.
+
+<<2247.39;2254.55;en>>
+The amount of compensation paid to the applicants as a result of this ruling was approximately 13,000 euros.
+
+<<2254.55;2261.11;en>>
+Necessary papers documenting the payment submitted to the Grand Chamber in annex to the government's observations.
+
+<<2261.11;2268.71;en>>
+A further 3,000 euros was also paid to the applicants by the Mehmetcik Foundation of the Turkish Armed Forces.
+
+<<2268.71;2281.62;en>>
+In the light of some of the recent judgments of the Court, we believe the applicants should be regarded as having lost their victim status upon the judgment of the Supreme Military Administrative Court.
+
+<<2281.62;2289.03;en>>
+We have referred to the Court's relevant case law in our written observations, which should also apply in the instant case.
+
+<<2289.03;2301.79;en>>
+While assessing the government's arguments in this regard, one should keep in mind that the responsibility of the authorities in the death of the applicant's son was clearly acknowledged by the Supreme Military Administrative Court.
+
+<<2301.79;2308.79;en>>
+Secondly, a sufficient and appropriate redress was afforded to the applicants.
+
+<<2308.79;2317.66;en>>
+Government therefore considers that the applicant's complaint is incompatible rationa personae with the provisions of the Convention.
+
+<<2317.66;2322.87;en>>
+Mr. President and distinguished members of the Grand Chamber, now I would like to turn
+
+<<2322.87;2325.23;en>>
+to the merits of the case.
+
+<<2325.23;2336.03;en>>
+In the first place, the government fully shares the conclusions of the Chamber that there has been no violation under the substance of Article 2 of the Convention.
+
+<<2336.03;2348.62;en>>
+As to the procedural aspect of Article 2, the Second Chamber accepted in its judgment of 25 June 2013 that the reasonable investigative steps had been taken by the authorities.
+
+<<2348.62;2361.33;en>>
+The Chamber, however, found a violation on the sole grant that the Military Court had not had the requisite independence in its capacity as the judicial body responsible for the final review of the investigation.
+
+<<2361.33;2371.83;en>>
+Accordingly, I wish to focus first on the question of whether the investigation in the present case met the requirements of the procedural aspect of Article 2 of the Convention.
+
+<<2371.83;2376.66;en>>
+Then I will come to the most important issue before the Grand Chamber.
+
+<<2376.66;2385.35;en>>
+Apart from the independence of the investigative authorities for an effective investigation, Article 2 of the Convention requires the following procedural obligations.
+
+<<2385.35;2399.31;en>>
+Firstly, the responsible investigative authorities must act ex officio and take all reasonable steps with a view to making an objective analysis of the evidence related to the events at stake.
+
+<<2399.31;2403.07;en>>
+Secondly, the investigation must be reasonably prompt and expeditious.
+
+<<2403.07;2409.95;en>>
+Thirdly, it must be accessible to the next of kin to secure their legitimate interests.
+
+<<2409.95;2419.47;en>>
+Lastly, the investigation should be capable of leading to the identification of those responsible and, where necessary, punishment of them.
+
+<<2419.47;2436.27;en>>
+Clearly examining the circumstances surrounding the unfortunate death of Jehan Tunj and the investigation process as a whole, the Chamber rightly came to the conclusion that the investigative authorities had taken adequate and reasonable steps as required by Article 2 of the Convention.
+
+<<2436.27;2442.87;en>>
+The Turkish Government completely agrees with the findings of the Chamber in this regard.
+
+<<2442.87;2451.62;en>>
+To demonstrate this, let me allow shortly to summarize these investigative steps taken by the authorities in the light of the Court's principles.
+
+<<2451.62;2458.23;en>>
+Mr. President, the incident took place on the 13th of February 2004, while Jehan Tunj
+
+<<2458.23;2461.23;en>>
+was performing his compulsory military service.
+
+<<2461.23;2467.47;en>>
+He was fatally injured at around 5.50 a.m. in the morning when he was being inside the
+
+<<2467.47;2472.91;en>>
+tower where his fellow soldier, Mehmet Sijak, had been on duty.
+
+<<2472.91;2475.71;en>>
+Then he was immediately taken to the hospital.
+
+<<2475.71;2483.87;en>>
+After having been informed by the hospital of the death, the military prosecutor launched the investigation ex officio.
+
+<<2483.87;2495.99;en>>
+The military prosecutor instructed the crime scene investigation team to be present at the hospital during the autopsy and at the incident scene to take requisite investigative measures.
+
+<<2495.99;2502.99;en>>
+Two separate teams arrived at the hospital and at the scene within the shortest period of time.
+
+<<2502.99;2511.59;en>>
+Under the supervision of the military prosecutor, a thorough post-mortem examination and autopsy were carried out.
+
+<<2511.59;2522.11;en>>
+The autopsy clearly established the cause of the death and detected the entry and exit holes on the body, as well as the probable firing range.
+
+<<2522.11;2531.07;en>>
+The autopsy report further noted that the absence of any bodily injuries caused by battery, physical coercion, or any sharp object.
+
+<<2531.07;2544.15;en>>
+That being so, the government rejects the allegations of the applicants about the alleged deficiencies in the autopsy as they are unsubstantiated and do not reflect the real situation.
+
+<<2544.15;2559.15;en>>
+At the beginning of the autopsy, the military prosecutor instructed the crime investigation team to take fingerprints and hand swabs, both from the deceased and Mehmet Sijak, who was seen as the initial suspect of the incident.
+
+<<2559.15;2563.66;en>>
+In addition, photographs of the body were taken by the team.
+
+<<2563.66;2573.59;en>>
+Although the applicants argue otherwise, photographs of the entry and exit holes on the body were also taken.
+
+<<2573.59;2582.59;en>>
+Following the autopsy, the prosecutor took the statements of Arslan Aykel and Mehmet Sijak, who came to the hospital in the same vehicle with Cihan Tunç.
+
+<<2582.59;2597.07;en>>
+Due to the long distance between Diyarbakir and Kocaköy district, and in order to secure evidence, the military prosecutor asked from the civilian Kocaköy public prosecutor to take urgent investigative steps and measures.
+
+<<2597.07;2606.73;en>>
+Accordingly, the crime scene investigation team carried out its examination under the supervision and orders of the civilian prosecutor.
+
+<<2606.73;2618.75;en>>
+At this point, the Turkish government to some extent acknowledges the applicants' arguments that the scene of the incident was not the same as at the time of its initial statute.
+
+<<2618.75;2627.83;en>>
+As claimed by the applicants, it is true that several soldiers went to the scene upon the gunshot and Cihan Tunç was given first aid.
+
+<<2627.83;2631.07;en>>
+He was carried to the dining hall by the soldiers.
+
+<<2631.07;2646.2;en>>
+However, the government shares the view of the Second Chamber that the requirement to render first aid to a seriously wounded person should outweigh the requirement of the scene of incident to be as the same as its initial condition.
+
+<<2646.2;2648.66;en>>
+This was the case in the present application.
+
+<<2648.66;2661.33;en>>
+In addition, it should be noted that although the place of the weapons was changed, they were secured and subjected to a thorough ballistic examination.
+
+<<2661.33;2665.79;en>>
+The civilian prosecutor took the statements of some witnesses at the scene.
+
+<<2665.79;2675.31;en>>
+On the 16th of February, he took statements of other two witnesses and then transmitted the file to the authorized military prosecutor.
+
+<<2675.31;2690.51;en>>
+After receiving the scene investigation report, the ballistic and chemical reports in February 2004, the military prosecutor rendered the decision of non-prosecution on the 30th of June 2004.
+
+<<2690.51;2698.87;en>>
+The prosecutor had regard to all the existing evidence and provided a detailed explanation as to how the incident had occurred.
+
+<<2698.87;2708.23;en>>
+He concluded that the incident had been an accidental one and that there had been no negligence and omission attributable to third persons.
+
+<<2708.23;2720.95;en>>
+Subsequently, additional investigative steps were taken in accordance with the order of the appellate court, which ordered the expansion of the investigation upon the objection of the applicants.
+
+<<2720.95;2736.27;en>>
+After carrying out an on-site scene investigation, including restructuring the incident with the assistance of the experts, once again the prosecutor came to the conclusion that the applicant's son must have accidentally fired his gun.
+
+<<2736.27;2753.87;en>>
+Based on the new information submitted by the prosecutor, the military court on this occasion rejected the applicant's objection to the non-prosecution decision on the 17th of December 2004, and thus the investigation ended.
+
+<<2753.87;2760.51;en>>
+Following facts demonstrate that the investigation was duly accessible to the applicants in accordance with the court's case law.
+
+<<2760.51;2770.27;en>>
+First of all, the decision of non-prosecution was served on the applicants and they could enjoy their right to objection effectively to that decision.
+
+<<2770.27;2779.83;en>>
+Furthermore, in the course of the investigation, the applicants could obtain necessary documents on several occasions upon their requests.
+
+<<2779.83;2795.59;en>>
+The fact that the prosecutor didn't take statements from the family members shouldn't be seen as a deficiency in the context of the present case as claimed by the applicants, because they couldn't have any substantial information as to how the incident had occurred.
+
+<<2795.59;2801.39;en>>
+Lastly, the investigative authorities considered all possibilities in the investigation.
+
+<<2801.39;2812.39;en>>
+Contrary to the applicants' allegations, they never acted on the basis of a predetermined presumption that the cause of the death was a self-inflicted accident.
+
+<<2812.39;2824.19;en>>
+Some of the steps clearly show that the prosecutors took into account the possible involvement of Mehmet Sijak in the death of Cihan Tunç from the very beginning of the investigation.
+
+<<2824.19;2834.15;en>>
+While taking the statements of Mehmet Sijak and other witnesses, they sought to identify the level of relationship between Cihan and Mehmet.
+
+<<2834.15;2844.39;en>>
+To this end, scientific examinations of the weapon and hand swabs of Mehmet Sijak were also carried out.
+
+<<2844.39;2855.95;en>>
+All in all, we believe the investigative authorities took all reasonable and appropriate measures and collected all necessary evidence to establish the exact circumstances of the death.
+
+<<2855.95;2869.31;en>>
+The minor deficiencies in some of the evidence, as argued by the applicants, cannot overshadow the effectiveness of the entire investigation carried out by the authorities.
+
+<<2869.31;2875.07;en>>
+Mr. President, I will now turn to the most important issue that the Grand Chamber needs
+
+<<2875.07;2888.11;en>>
+to deal with in the present case, which is the question of whether the investigation was sufficiently independent in the context of the procedural component of Article 2.
+
+<<2888.11;2896.47;en>>
+Unfortunately the Turkish government couldn't share the Chamber's findings in its judgment of 25 June 2013.
+
+<<2896.47;2911.27;en>>
+It is an established principle stemming from the numerous case law of the Court that for an effective investigation, the persons responsible for carrying out the investigation must be independent from those implicated in the events.
+
+<<2911.27;2922.43;en>>
+The main reference of the Chamber in holding the breach of Article 2 in the instant case seems to be the Court's Gürkan v. Turkey judgment of 3 July 2012.
+
+<<2922.43;2932.11;en>>
+The government underlines that it is the first judgment of the Court where it found the violation of Article 6 due to the composition of Turkish military courts.
+
+<<2932.11;2941.19;en>>
+The Court's approach to the independence of military courts in the previous judgment of Hakan Önem v. Turkey of 2004, however, was contrary to its approach followed in the
+
+<<2941.19;2943.31;en>>
+Gürkan case.
+
+<<2943.31;2948.11;en>>
+The Turkish government has never questioned the findings of the Court in the Gürkan judgment.
+
+<<2948.11;2964.47;en>>
+I would like to point out that even before the Gürkan judgment, upon the annulment of the relevant article by the Constitutional Court in 2009, Turkey amended its law on the composition and functioning of military courts in 30 June 2010.
+
+<<2964.47;2969.28;en>>
+Since then there has been no military officer sitting at the benches of the military courts.
+
+<<2969.28;2976.74;en>>
+It appears that the Court gave a particular weight to the Constitutional Court's decision in its Gürkan v. Turkey judgment.
+
+<<2976.75;2983.15;en>>
+Mr. President, in the government's opinion, Gürkan v. Turkey judgment does not apply
+
+<<2983.15;2991.39;en>>
+to the present case since the role of the military court was limited only to the examination of the lawfulness of the non-persecution decision.
+
+<<2991.39;3001.11;en>>
+This examination does not fall into the scope of determination of applicant's civil rights and obligations or of criminal charge against applicants in the meaning of Article 6.
+
+<<3001.11;3009.62;en>>
+The independence of military court in question should therefore be assessed from the standpoint of Article 2 of the Convention.
+
+<<3009.62;3028.47;en>>
+The main issue that needs to be clarified by the Grand Chamber in the instant case is whether or to what extent the presence of a military officer at the military court, which had a limited role, do affect the independence of the investigation as required by Article 2 of the European Convention.
+
+<<3028.47;3035.31;en>>
+Looking into the case law, the Court appears to have pursued a fully consistent approach on this matter.
+
+<<3035.31;3049.03;en>>
+According to the Court, a procedural obligation would be violated only if any deficiency in the proceedings negatively affects the entirety of the investigation in a way to impair the establishment of conditions of death.
+
+<<3049.03;3055.47;en>>
+The Court examined a similar issue in its Tanrıbiler v. Turkey judgment in 2000.
+
+<<3055.47;3065.19;en>>
+In this case, the Court stated that the administrative investigation conducted by bodies whose independence was open to doubt had weakened the effectiveness of the investigation.
+
+<<3065.19;3076.03;en>>
+Nevertheless, the Court concluded that the judicial investigation into the responsibility of the relevant officers met the requirements set out in Article 2 of the Convention.
+
+<<3076.03;3090.55;en>>
+While the Court followed the same approach in some of its judgments against Romania, the Second Chamber considered the matter in the present case differently without, in our opinion, providing sufficient and convincing argument.
+
+<<3090.55;3098.07;en>>
+Both in its Mantok v. Romania and Stefan v. Romania judgments of 2007 and 2011, respectively,
+
+<<3098.07;3108.27;en>>
+the Court clearly noted that the level of independence of an investigative organ must be assessed according to the particular circumstances of each case.
+
+<<3108.27;3119.79;en>>
+In view of the domestic legislation enforced at the material time, the Court stated that doubt may be casted upon the independence of the military prosecutors investigating the police officers.
+
+<<3119.79;3133.11;en>>
+Considering however the measures undertaken in the course of the investigation, it concluded in these cases that the investigations were in conformity with the requirements of Articles 2 and 3 of the Convention.
+
+<<3133.11;3140.95;en>>
+Let me bring your attention now to the existence of numerous inadmissibility decisions that the Court rendered in favor of Turkey.
+
+<<3140.95;3146.75;en>>
+The facts of those applications appear to resemble to that of the present case.
+
+<<3146.75;3157.55;en>>
+The applicants in those cases alleged the ineffectiveness of investigations on account of inter alia the presence of military officer at the military court.
+
+<<3157.55;3167.39;en>>
+The Court, however, having regard to the reasonable measures taken in the investigations, seems to have found these complaints manifestly ill-founded.
+
+<<3167.39;3176.31;en>>
+Without wishing to discuss here and now each and relevant case, I would just like to give a few examples of those inadmissibility decisions.
+
+<<3176.31;3183.91;en>>
+Sittikakayar v. Turkey, Seyfi Karam v. Turkey, and Hemet Recep Ergur and others v. Turkey
+
+<<3183.91;3187.35;en>>
+are only some of them that I can name here.
+
+<<3187.35;3201.83;en>>
+At this point, it is clear from the case law that the Court has not applied the independence requirement to the procedural component of Articles 2 and 3 of the Convention as strictly as applied under Article 6.
+
+<<3201.83;3209.79;en>>
+To hold otherwise in the instant case will inevitably amount to a fundamental change in the Court's approach.
+
+<<3209.79;3216.11;en>>
+Mr. President and Honorable Judges of the Grand Chamber, returning to the instant case,
+
+<<3216.11;3229.43;en>>
+the Turkish Government believes that there is no issue that has arisen in practice which will cast doubt on the independence and impartiality of the investigation of the military prosecutor's office.
+
+<<3229.43;3248.24;en>>
+The personnel in the criminal investigation team neither had any hierarchical connection with the officers of the relevant military unit and with other persons, including Mehmet Sijak, who was the initial suspect of the incident, nor were the investigation personnel the fellow colleagues of these persons.
+
+<<3248.24;3261.23;en>>
+I will particularly stress here that from the very beginning, the investigation was conducted by the military prosecutor, who was assisted at some points by the civilian prosecutor.
+
+<<3261.23;3274.66;en>>
+Moreover, the persons assigned for the investigation performed scientific proceedings, such as taking samples from the scene of the incident and performing the ballistic and chemical examination.
+
+<<3274.66;3282.03;en>>
+Because of the technical nature of these actions, it cannot be alleged that the investigation was not impartial.
+
+<<3282.03;3294.78;en>>
+To accept otherwise from the beginning would unacceptably restrict the prosecutor's capability to assign security personnel that has the requisite expertise in a particular case.
+
+<<3294.78;3309.99;en>>
+In addition, the Government underlines that the scope of the Diyarbakir Military Court's supervision over the decision of non-prosecution shouldn't be equated with that of the investigation, entirely carried out by the military prosecutor.
+
+<<3309.99;3324.11;en>>
+I would like to draw the Grand Chamber's attention to the fact that the military court examining the prosecutor's decision isn't the one under which the military prosecutor is serving, but the one located nearest to that court.
+
+<<3324.11;3331.43;en>>
+More importantly, the scope of the examination of the military court is limited to the lawfulness of the prosecutor's decision.
+
+<<3331.43;3346.43;en>>
+In the present case, while the investigation carried out by the prosecutor serving under the Diyarbakir Military Court of Land Forces Command, the military court that examined the objection was the Diyarbakir Military Court of Air Forces Command.
+
+<<3346.43;3352.35;en>>
+The military court accepted the first objection made by the applicants in the instant case.
+
+<<3352.35;3367.51;en>>
+With a view to examining the reliability of the conclusion reached as to how the unfortunate death of John Tunis had occurred, the military court, whose involvement is challenged by the applicants, even decided to expand the investigation.
+
+<<3367.51;3377.43;en>>
+It is therefore clear that the military court helped to increase effectiveness of the impugned proceedings rather than casting doubt on them.
+
+<<3377.43;3388.27;en>>
+Secondly, the military court gave its decision unanimously, which reveals that the military officer at the bench did not have any negative impact in the proceedings.
+
+<<3388.27;3403.74;en>>
+Taking into account the investigation process as a whole, the government considers that there exist no facts that will give rise to any hesitation on the efforts of the military prosecutor and military court to shed light on the incident.
+
+<<3403.74;3408.35;en>>
+Before concluding, Mr. President, I would like to touch upon the reference made by the
+
+<<3408.35;3424.31;en>>
+applicants in their written observations and in their pleadings to the report of the UN special rapporteur on extrajudicial summary or arbitrary executions, dated 18th of March 2013.
+
+<<3424.31;3442.19;en>>
+The government believes that this report cannot be a reference document for the present case because during his visit, the rapporteur didn't look into the administration of military justice system, although there is a minor part where he touches upon suicides in the military.
+
+<<3442.19;3448.31;en>>
+Particularly on the basis of his bilateral talks with the civil society.
+
+<<3448.31;3453.39;en>>
+In conclusion, Mr. President, I would like to reiterate that in the present case, all
+
+<<3453.39;3461.39;en>>
+the obligations stemming from the procedural component of Article 2 of the Convention were duly fulfilled.
+
+<<3461.39;3470.87;en>>
+In other words, a timely, speedy, complete, and proper investigation was conducted by the authorities into the death of Cihan Tunç.
+
+<<3470.87;3491.95;en>>
+In the light of the court's case law that I mentioned earlier, the presence of a military officer at the court that was in charge only of the examination of the objection against the non-prosecution decision at the end of a thorough investigation shouldn't be seen as having any negative impact on the independence and effectiveness of the entire investigation.
+
+<<3491.95;3503.99;en>>
+Therefore, we consider the investigation that was carried out in the instant case was sufficiently independent in the context of the requirements of Article 2 of the Convention.
+
+<<3503.99;3527.83;en>>
+The fundamental issue in this application that needs to be clarified by the Grand Chamber is the question of whether or to what extent the requirements of Article 6 as to the independence and impartiality of military tribunals impact the court's assessment regarding the independence of an investigation in the context of the procedural component of Article 2 of the Convention.
+
+<<3527.83;3536.55;en>>
+The position of the government in the light of the court's case law regarding this question differs from the positions of the Second Chamber and the applicants.
+
+<<3536.55;3549.07;en>>
+The notion of independence of the military tribunals as interpreted in the Gülkan's case shouldn't have the same meaning and weight when assessing the independence of the investigation in the instant application.
+
+<<3549.07;3559.23;en>>
+Instead, whether the composition of military courts has any negative impact over the effectiveness of the entire investigation should be taken into account.
+
+<<3559.23;3565.95;en>>
+Therefore, the government will be pleased to have the Grand Chamber clarify its case law on this matter.
+
+<<3565.95;3565.95;en>>
+I thank you very much for your attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3570.53;3573.3;en>>
+Thank you very much Mr. Dalyan.
+
+<<3574.34;3576.82;en>>
+Thank you for your interventions.
+
+<<3576.82;3586.89;en>>
+I would now like to invite the judges of the Grand Chamber to put any questions they may have to the parties.
+
+<<3586.89;3586.89;en>>
+Judge Wojtyczek.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<3591.36;3593.32;en>>
+Thank you, Mr. President.
+
+<<3593.32;3597.12;en>>
+I have one question to both parties.
+
+<<3597.12;3605.76;en>>
+It concerns the Gendarmerie unit, which carried out the investigation under the prosecutor's supervision.
+
+<<3605.76;3616.12;en>>
+I would like to have some more information about the statute of this Gendarmerie investigative unit.
+
+<<3616.12;3635.28;en>>
+It's stated within the armed forces, and the relationship, the links between this investigative unit and the military unit, which guarded the industrial site belonging to this private oil company.
+
+<<3635.28;3639.44;en>>
+Were there any institutional links, any personal links?
+
+<<3639.44;3650.68;en>>
+And was there any joint command for both the investigative unit and the guarding unit?
+
+<<3650.68;3650.68;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3652.2;3655.16;en>>
+Thank you, Judge Karakaş.
+
+[[Judge;Işıl Karakaş]]
+
+<<3661.84;3664.14;fr>>
+Oui, merci, M. le Président.
+
+<<3664.14;3669.6;fr>>
+J'ai des questions, surtout au gouvernement, tout d'abord.
+
+<<3669.6;3704.8;fr>>
+À la suite de l'arrêt du 18 octobre 2009 de la Cour constitutionnelle, qui concerne l'aléation de certaines dispositions de la loi sur les juges militaires, après cette décision de la Cour constitutionnelle, quelles sont les normes depuis lors concernant les questions de l'imprépendance et l'impartialité des juges militaires, à part la présence d'un officier, ce n'est pas le cas d'un officier siégeant au sein du tribunal militaire.
+
+<<3704.8;3707.46;fr>>
+C'est une autre décision.
+
+<<3707.46;3710.86;fr>>
+Ma deuxième question concerne les procureurs militaires.
+
+<<3710.86;3722.9;fr>>
+En ce qui concerne les procureurs militaires, quelles sont les normes légales et administratives à l'établissement de leur fichier de l'appréciation d'officier?
+
+<<3722.9;3728.86;fr>>
+Cet fichier est établi par le supérieur hiérarchique.
+
+<<3728.86;3735.26;fr>>
+Ensuite, je veux poser aussi trois questions concernant l'enquête.
+
+<<3735.26;3751.4;fr>>
+Premièrement, est-ce que les procureurs militaires sont tenus d'informer officiellement les proches de la victime ou de leur avocat de l'ouverture, du déroulement et de la clôture d'une enquête pénale?
+
+<<3751.4;3759.66;fr>>
+Et si c'est le cas, à quel moment précis et sur quelle base doivent-ils le faire?
+
+<<3759.66;3773.6;fr>>
+Deuxièmement, toujours dans le même cadre, alors quelles sont les règles et les formalités concernant l'accès aux pièces de dossier d'une telle enquête par les proches de la victime ou bien sûr de leur avocat?
+
+<<3773.6;3779.6;fr>>
+Est-ce qu'il y a des situations où pareil accès est restreint ou interdit?
+
+<<3779.6;3786.02;fr>>
+Et si c'est le cas, pour quels motifs et sur quelle base légal?
+
+<<3786.02;3790.9;fr>>
+Et troisièmement, cette question concerne aussi les requérants.
+
+<<3790.9;3815.1;fr>>
+Est-ce que pendant une enquête en cours, les proches de la victime ou leur avocat sont habilités à participer efficacement, par exemple, en procédant à la réinterrogation des témoins ou à l'examen des éléments matériels ou demandant des expertises ou contre-expertises pertinentes?
+
+<<3815.1;3817.66;fr>>
+Voilà, ce sont mes questions au parties.
+
+<<3817.66;3817.66;fr>>
+Merci beaucoup.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3818.96;3821.72;fr>>
+Merci beaucoup le juge López Guerra.
+
+[[Judge;Luis López Guerra]]
+
+<<3825.44;3827.48;en>>
+Thank you, Mr. President.
+
+<<3827.48;3832.1;en>>
+My question refers to the one posed by Judge Karakaş.
+
+<<3832.1;3853.8;en>>
+As I understand, the Constitutional Court ruling of 18th October 2009 established that the lack of independence of judges in military courts affected all the judges in these courts as they depended for their promotion to the favorable opinions and report of superior military officers or judges.
+
+<<3853.8;3861.76;en>>
+It seems also that the prosecutors at the time were subject to the same requisites for promotion as military judges.
+
+<<3861.76;3869.8;en>>
+However, in this Constitutional Court ruling, there was not a direct pronouncement on the independence of prosecutors.
+
+<<3869.8;3885.08;en>>
+However, later, a law of 12 May 2012 suppressed the requisites for promotion of favorable opinion reports both for judges and for prosecutors.
+
+<<3885.08;3907.2;en>>
+Then my question is for both parties, because I think it would be of interest, did the ruling of the Constitutional Court of October 2009 imply not only the lack of independence of military judges, but also, taking into account the posterior legislation, if implied also the lack of independence of military prosecutors?
+
+<<3907.2;3909.96;en>>
+I would appreciate some comments on this point.
+
+<<3909.96;3910.46;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3911.16;3914.68;fr>>
+Merci beaucoup, Juge De Gaetano.
+
+[[Judge;Vincent A. De Gaetano]]
+
+<<3919.18;3925.98;en>>
+Thank you. Just a minor point of clarification, if I could ask counsel for the applicants.
+
+<<3925.98;3949.06;en>>
+In connection with this application which was brought before the Supreme Military Administrative Court, is it the applicant's contention, if I understood correctly, that this application for a remedy was brought without their knowledge by someone else? If I understood the submission
+
+<<3949.06;3957.98;en>>
+by Ms. Butler correctly, or has any follow-up, have the applicants followed this up to see
+
+<<3957.98;3964.82;en>>
+what actually happened in this particular instance? I would welcome some clarification
+
+<<3964.82;3967.9;en>>
+on this point. This, of course, relates to the question of admissibility. Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3969.41;3971.09;en>>
+Thank you, Judge Spano
+
+[[Judge;Robert Spano]]
+
+<<3973.48;3974.48;en>>
+Thank you, Mr. President.
+
+<<3974.48;3978.48;en>>
+I have one question to the applicants.
+
+<<3978.48;3982.68;en>>
+It's a question on the clarification of the scope of their legal arguments.
+
+<<3982.68;4001.2;en>>
+They say on paragraph 16 in their observations, the Grand Chamber, and I quote, should look to the standards associated with Article VI in order to judge the sufficiency of the investigation when considering an alleged violation of the procedural component of Article II.
+
+<<4001.2;4016.68;en>>
+I want to ask, does the applicant argue that the standards that you refer to, are they both standards as regards to what we can call formal or regulatory independence?
+
+<<4016.68;4023.62;en>>
+Or are they also or mainly dealing with the criteria of impartiality?
+
+<<4023.62;4026.6;en>>
+That's the first one.
+
+<<4026.6;4045.8;en>>
+Are the applicants also here inviting the court to apply these standards associated with Article VI only in cases where there is a possibility of judicial review of investigatory measures in the member states, which is not always the case?
+
+<<4045.8;4049.36;en>>
+Or is this argument of a general application?
+
+<<4049.36;4057.68;en>>
+So then these independence and impartiality requirements would be directed at investigatory authorities, not of a judicial nature.
+
+<<4057.68;4063.92;en>>
+And lastly, is the applicant's argument limited to the military context?
+
+<<4063.92;4075.36;en>>
+Or is it an argument that has general application in all instances where the procedural component is triggered by a death in the member states?
+
+<<4075.36;4075.92;en>>
+Thank you.
+
+<<4075.92;4075.92;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4076.95;4079.45;en>>
+Thank you. Thank you very much.
+
+<<4079.45;4080.45;en>>
+No other questions.
+
+<<4080.45;4098.65;en>>
+The court will now rise for 20 minutes, following which the parties will return for a second round of short pleadings to respond to the submissions in the first round and to the judges' questions.
+
+[[Announcer;UNK]]
+
+<<4157.03;4157.67;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4200.21;4206.71;en>>
+Please be seated, the hearing is resumed and I call Mr. Muller.
+
+[[Applicant;AP1]]
+
+<<4209.39;4218.83;en>>
+Mr. President, if I can take the questions in the order they came, save for the question
+
+<<4218.83;4222.59;en>>
+from the Lerner judge from Malta.
+
+<<4222.59;4236.63;en>>
+As regard the question from the judge from Poland, I will leave it to the government to provide the information concerning the status of gendarmerie units.
+
+<<4236.63;4245.27;en>>
+We are unclear exactly as to their status and I don't wish to speculate.
+
+<<4245.27;4287.95;en>>
+As regards the series of questions from the judge from Turkey, first of all, if I can combine it with an answer to the Lerner judge from Spain concerning the 2009 Turkish constitutional rulings and whether or not that judgment implied not only a lack of independence in relation to the military officer but also military prosecutors, I can perhaps do no better than to read from the English translation that we have of that ruling and obviously we can offer it to the court if the court is not in possession of it.
+
+<<4287.95;4317.91;en>>
+It held, and I quote, it is not possible to think that the military judge is going to act independently, his feeling and opinion that would have negative records, after his evaluation based on rank, promotion, seniority and progress, other than the conventional criteria expected of judges, the ability to cooperate and work well as a team, persuasion, training, energy, creativity, leadership and command ship and other similar criterias.
+
+<<4317.91;4326.19;en>>
+When the judge makes a decision, he must be independent, the presence of anything which may alter, influence his decision is sufficient.
+
+<<4326.19;4334.03;en>>
+Even if the presence of these do not affect the decision that is being made, it still does not mean that the judge is acting independent.
+
+<<4334.03;4339.15;en>>
+The presence of this threat is alone sufficient to undermine independence.
+
+<<4339.15;4350.67;en>>
+And I emphasize this, this is exactly why judges and the ruling says and prosecutors should be kept away from any form of influence or threats of promotion.
+
+<<4350.67;4368.19;en>>
+Being subject to the same criteria as the employees of the executive function in terms of record, appointment, promotion and progression in the profession may prevent military judges to give their decisions in clear conscience and it will make them fall into the thoughts incompatible with justice.
+
+<<4368.19;4385.99;en>>
+And to go on, there is a further reference where the court says this, one of the ways to guarantee the independency of the judges and prosecutors will show itself in the assignments.
+
+<<4385.99;4396.69;en>>
+By whom and how is assignment is done within the profession is a measurement which establishes whether judges and prosecutors thereby the courts are independent.
+
+<<4396.69;4412.27;en>>
+So we submit that that constitutional ruling plainly had in mind the position of military prosecutors as well and applied the same standards to them.
+
+<<4412.27;4427.11;en>>
+The learned judge from Turkey asked about the status of the law concerning judges and prosecutors following the constitutional ruling.
+
+<<4427.11;4445.31;en>>
+We would say that it is clear that the constitutional ruling and then the legislative annulments annulled the military judge arrangement not simply for the purposes of Article 6 but completely.
+
+<<4445.31;4458.11;en>>
+And so therefore the position of Turkish domestic law is clear that that arrangement is an anathema to the concept of an independent and impartial judiciary.
+
+<<4458.11;4467.83;en>>
+It follows as night follows day that that must apply across the board and therefore applies in relation to Article 2 and Article 6.
+
+<<4467.83;4482.83;en>>
+There is, for example, no caveat in relation to the fact that this arrangement continues for the purposes of, if you like, judicial reviews concerning deaths in military service.
+
+<<4482.83;4499.51;en>>
+So we submit that to hold otherwise would be for this court to impose a lower standard of independence and impartiality than is the case already in Turkey.
+
+<<4499.51;4522.95;en>>
+Now while that might be permissible if that didn't contravene the jurisprudence of this court it would be wholly undesirable now that the domestic courts and indeed the legislature have made their position clear in Turkey which we say is wholly in accordance with the standards expected within Europe.
+
+<<4522.95;4534.35;en>>
+Just dealing with the Turkish judge's third question because I think the other two questions relate to the government concerning victims' rights.
+
+<<4534.35;4558.11;en>>
+Even if the law had offered protections concerning the ability of victims to cross-examine witnesses during the course of an investigation or to call expert evidence it certainly wasn't offered in this case and that is the point that we need to rely upon.
+
+<<4558.11;4590.35;en>>
+And just dealing with Melanie Friend's point about the minor deficiencies of the investigation we would say in this respect that had we been given the opportunity to cross-examine or to provide expert evidence then we would have provided the expert evidence we did later on in the context of these proceedings namely an autopsy report which drew attention to very worrying deficiencies in the original autopsy.
+
+<<4590.35;4608.39;en>>
+Not least the fact also that not only were the clothes not examined in relation to the autopsy examination but every single piece of forensic evidence that could have pointed in the direction of a deliberate killing was not followed up.
+
+<<4608.39;4619.75;en>>
+Now I asked my son for example what would he have done in these circumstances being a minor detective sleuth.
+
+<<4619.75;4624.93;en>>
+Well he said he would have checked the fingerprints on the gun.
+
+<<4624.93;4628.99;en>>
+He would have checked the fingerprints on the cartridges.
+
+<<4628.99;4630.87;en>>
+And think about it for a minute.
+
+<<4630.87;4647.99;en>>
+We have a situation here where actually the final review says that he shot himself and in the most extraordinary position because in some senses he was trying to use the gun as a way of getting up.
+
+<<4647.99;4654.57;en>>
+Well how does that account for two other cartridges on the floor?
+
+<<4654.57;4657.03;en>>
+There is no explanation for that.
+
+<<4657.03;4679.15;en>>
+So therefore had we had the opportunity, had the victims' relatives had the opportunity to make representations during the course of this investigation particularly in relation to the forensics, particularly in relation to the lack of fingerprints and analysis of the crime scene then it certainly would have done so.
+
+<<4679.15;4708.03;en>>
+Particularly in relation to the learned judge's questions from Iceland, yes we say that our submissions concerning Article 6 and its relevance for Article 2 relate not simply to the formal regulatory independence jurisprudence but also to subjective and objective impartiality.
+
+<<4708.03;4709.91;en>>
+That must be the case.
+
+<<4709.91;4720.23;en>>
+But we do not have to go so far as to turn around and speculate as to whether this should be applied beyond that of judicial review.
+
+<<4720.23;4724.19;en>>
+This is a case concerning judicial review.
+
+<<4724.19;4729.35;en>>
+And I don't need to go any further than to simply say that it applies in this case.
+
+<<4729.35;4734.25;en>>
+Whether others want to speculate whether it has a wider remit is a matter for them.
+
+<<4734.25;4742.35;en>>
+I suggest it's not a matter for us and it may not be a matter for this Court unless it wants to set out more general standards.
+
+<<4742.35;4751.99;en>>
+And so forgive me if I don't specifically answer that question because it's not necessary in the context of the submissions that we make.
+
+<<4751.99;4757.45;en>>
+And if I may, I just turn to Ms Butler to deal with the position in respect of admissibility.
+
+[[Applicant;AP2]]
+
+<<4760.19;4763.19;en>>
+Mr. President, to clarify in relation to the question
+
+<<4763.19;4775.85;en>>
+by Judge Gaetano, although the applicants did give a general power of attorney to a Turkish lawyer to pursue domestic remedies on their behalf, they personally had no knowledge of this negligence claim being brought.
+
+<<4775.85;4781.15;en>>
+We've sought express clarification on that point from the applicants over the break.
+
+<<4781.15;4791.11;en>>
+Now they accept that their father, Mustafa Tang, who sadly passed away in 2006, was principally dealing with their Turkish lawyer prior to his death.
+
+<<4791.11;4795.35;en>>
+And so it is possible that he knew of this claim being made.
+
+<<4795.35;4807.64;en>>
+But what is in fact certain is that nobody else in the family knew of the claim being made, and certainly no family member has received any compensation from the Ministry of Interior.
+
+<<4807.64;4815.07;en>>
+Now the family did receive a one-off payment of approximately 5,000 Turkish lira in 2004.
+
+<<4815.07;4821.03;en>>
+That was outlined by the government, and that was a death benefit from the Memekcik Foundation.
+
+<<4821.03;4825.77;en>>
+But that payment has not linked at all to the relative's cause of death.
+
+<<4825.77;4835.1;en>>
+It's merely a payment from a charitable body, which was set up to provide economic support to families of soldiers who were killed during their military service.
+
+<<4835.1;4846.14;en>>
+Now although the government mentioned this charitable payment in their pleadings, they don't appear to argue that that particular donation deprives the applicants of their victim status.
+
+<<4846.14;4857.18;en>>
+We've also taken steps to follow up with the applicants as to the documentary evidence which is relied upon by the government as to the compensation payment which was made.
+
+<<4857.18;4867.35;en>>
+Now those materials do appear to show that a payment of 23,000 lira was paid to the Burkiakoy Enforcement Office in 2007.
+
+<<4867.35;4875.55;en>>
+And we've managed to follow up that those funds do appear to have been collected by the applicant's legal representative in Turkey at the time.
+
+<<4875.55;4886.43;en>>
+However, despite the applicant's repeated and insistent attempts to contact that legal representative since discovering this information, they have been absolutely unable to do so.
+
+<<4886.43;4893.47;en>>
+This is a matter plainly that the applicants will need to follow up and may need to seek redress for in their own domestic legal system.
+
+<<4893.47;4914.51;en>>
+But whatever the position is with that payment of compensation, even if it had been paid to the applicants, which it certainly was not, there's simply no proper legal basis for suggesting that the administrative court's judgment has any impact on the applicant's victim status in these proceedings for the reasons that I've already outlined.
+
+<<4914.51;4924.11;en>>
+We also say that it's simply not right for the government to complain that their own late objection is due to the fault of the applicants.
+
+<<4924.11;4930.39;en>>
+If the applicants themselves didn't know of the negligence claim, how could they raise it at an earlier juncture?
+
+<<4930.39;4939.72;en>>
+Finally, the applicants would like to touch upon the series of cases relied upon by the government in paragraph 22 of its observations.
+
+<<4939.72;4951.8;en>>
+We say that those cases are irrelevant to the present case as they relate to deaths caused by medical negligence, where that medical negligence has been expressly acknowledged by the domestic court.
+
+<<4951.8;4967.27;en>>
+We say that they bear no application to a case where an inadequately investigated death during military service has taken place, and particularly in circumstances where the independence of that investigation is itself in question.
+
+[[Applicant;AP1]]
+
+<<4971.78;4977.78;en>>
+Mr. President, I just have one comment, and that is in relation to the issue of the independence of military prosecutors,
+
+<<4977.78;5003.14;en>>
+I've given the answer in respect of the position as far as the Constitutional Court is concerned, but I would obviously remind this Court that throughout Europe there are various guidelines in all jurisdictions which press upon the issue of independence, and namely of prosecutors, to present the evidence and make investigations in a fair-minded way.
+
+<<5003.14;5007.06;en>>
+And of course that does also apply in relation to this particular issue.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5013.01;5014.05;en>>
+Thank you very much, Mr. Dalyan.
+
+[[Government;GR1]]
+
+<<5023.0;5026.32;en>>
+Thank you very much, Mr. President.
+
+<<5026.32;5038.28;en>>
+The questions raised in general by the distinguished and honorable judges in general require a more comprehensive work and analysis.
+
+<<5038.28;5044.8;en>>
+And if you allow, Mr. President, we would like to provide our replies in writing at
+
+<<5044.8;5047.24;en>>
+a later stage in a more comprehensive manner.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5047.3;5059.3;en>>
+Yes, I will grant you two weeks to file answers to the question if you need to reflect on it.
+
+<<5059.3;5071.8;en>>
+Of course, your answers will be communicated also to the other party, as we always do in such circumstances when you need time to answer to questions of judges.
+
+[[Government;GR1]]
+
+<<5073.08;5073.58;en>>
+Thank you.
+
+<<5073.58;5076.12;en>>
+Thank you very much, Mr. President.
+
+<<5076.12;5088.4;en>>
+But at this stage, we would like to shortly reply to these questions in the light of information that are available to us at the moment.
+
+<<5088.4;5108.08;en>>
+The questions of obligation to inform the applicants and the rules governing relatives' access to the file, and legal and administrative provisions governing the position of military prosecutors will be replied by Mr. Hussein Chekhan, who
+
+<<5108.08;5113.6;en>>
+was used to be a military prosecutor and judge.
+
+<<5113.6;5118.08;en>>
+He's, of course, in the best position to reply to these questions.
+
+<<5118.08;5131.92;en>>
+He will also reply to the question as to the rules governing the right to access of applicants to the investigation in the military justice system.
+
+<<5131.92;5134.84;en>>
+If you allow, Mr. President, I would
+
+<<5134.84;5143.84;en>>
+like to give some information while keeping our right to give more comprehensive answer in writing.
+
+<<5147.4;5169.64;en>>
+My answer to the question of asking information about the gendarmerie units intervening in the incident, in the investigation, and their position within the armed forces, hierarchical structure within the armed forces.
+
+<<5169.64;5195.92;en>>
+As I presented in our written observation and in my oral presentation, the technical investigative team, the scene investigation team was serving under the Diyarbakir military command, where the prosecutor is based.
+
+<<5195.92;5218.36;en>>
+And as soon as the Diyarbakir public prosecutor was informed of the incident, he immediately ordered the Diyarbakir gendarmerie incident investigation team to go to the hospital and to the incident scene.
+
+<<5218.36;5220.8;en>>
+And the team divided into two groups.
+
+<<5220.8;5226.68;en>>
+One went to the hospital, and the other one went to the incident scene.
+
+<<5226.68;5238.76;en>>
+And both teams performed their tasks under the order and supervision and monitoring of the relevant prosecutors.
+
+<<5238.76;5271.08;en>>
+I should stress that nobody involved from the Kocaköy provincial gendarmerie command, which was guarding the private oil company where the incident occurred, nobody involved from that command in the investigation process, including one of the possible suspects, as seen at the beginning of the investigation, who is Mehmet Sıcak.
+
+<<5271.08;5286.68;en>>
+And those who were involved in the incident only provided the first aid to Cihan Tunç, who was seriously wounded in the place.
+
+<<5286.68;5296.72;en>>
+And these soldiers carried the body to the dining hall, and then two of them took the body to the hospital in Diyarbakir.
+
+<<5300.92;5314.72;en>>
+As I said, only the Diyarbakir incident examination team went to the scene and went to the hospital for performing judicial tasks.
+
+<<5314.72;5328.72;en>>
+So when they were acting, performing judicial tasks, they were under the command, under the order, and under the monitoring of the military prosecutor.
+
+<<5328.72;5335.08;en>>
+This is the requirement of criminal procedural code.
+
+<<5335.08;5365.16;en>>
+Of course, when we looked at the Kocaköy gendarmerie command, the officers from that Kocaköy gendarmerie command and the scene investigative team, they were both under the command of Diyarbakir gendarmerie command for their administrative and military tasks.
+
+<<5365.16;5370.48;en>>
+They are not under the command of Diyarbakir gendarmerie command.
+
+<<5370.48;5376.16;en>>
+They were under the order and monitoring of the public prosecutors.
+
+<<5381.12;5386.88;en>>
+Mr. President, this is my question to that question,
+
+<<5386.88;5388.32;en>>
+my answer to that question.
+
+<<5388.32;5395.36;en>>
+And we will provide more comprehensive information to that question.
+
+<<5395.36;5400.8;en>>
+Please now give the floor to my colleague, Mr. Hüseyin Çeker.
+
+[[Government;GR2]]
+
+<<5404.07;5408.15;en>>
+Mr. President, distinguished members of the Grand Chamber,
+
+<<5408.15;5409.51;en>>
+my name is Hüseyin Çeken.
+
+<<5409.51;5413.39;en>>
+I am a military judge at the rank of colonel.
+
+<<5413.39;5418.99;en>>
+During my military career, I served as both military prosecutor and military judge.
+
+<<5418.99;5425.67;en>>
+At the moment, for the last eight years, I've been working for the legal division of the Turkish Ministry of Defense.
+
+<<5425.67;5432.23;en>>
+First of all, I would like to give some brief information about the status and independence of the military prosecutors.
+
+<<5432.23;5438.03;en>>
+And then we'll try to give some answers to your questions.
+
+<<5438.03;5441.31;en>>
+Mr. President, the status of the military prosecutors
+
+<<5441.31;5448.03;en>>
+is governed by the law number 357 on the status of the military judges.
+
+<<5448.03;5454.63;en>>
+Although the law says the military judges, it covers both the judges and the prosecutors.
+
+<<5454.63;5462.15;en>>
+And that means that the prosecutors have the same constitutional status and safeguards like judges.
+
+<<5462.15;5470.55;en>>
+The military prosecutors, they are selected, trained, appointed in line with the procedures applicable to the judges.
+
+<<5470.55;5476.21;en>>
+They cannot be appointed to another post before a duration of four years.
+
+<<5476.21;5499.11;en>>
+In accordance with the Article 95 of the law number 353, which is on the establishment of the military courts and their trial procedures, in cases where there is a person's death, the military prosecutor can directly engage into a criminal investigation ex officio.
+
+<<5499.11;5509.39;en>>
+Furthermore, no one can give orders or canalize him to one direction, the military prosecutor, related to the conduct of an investigation.
+
+<<5509.39;5527.83;en>>
+As regards to the questions, in particular, the one relating to the constitutional court's latest decision about the non-judge member of the military courts, let me first say that this is only for the non-professional member of the military courts.
+
+<<5527.83;5536.23;en>>
+It only covers the field officers who were at that time ordered by the commanders to sit on the panel.
+
+<<5536.23;5543.27;en>>
+But in the last three years, we have abolished this provision of the court.
+
+<<5543.27;5550.43;en>>
+And at the moment, the military courts in Turkey, they are established by three professional judges.
+
+<<5550.43;5552.15;en>>
+None of them are field officers.
+
+<<5552.15;5558.43;en>>
+And those military judges are educated through law schools.
+
+<<5558.43;5564.43;en>>
+They join the armed forces after an apprenticeship period.
+
+<<5564.43;5572.35;en>>
+And during that apprenticeship period, in the training period, they also take some time in the civilian courts.
+
+<<5572.35;5576.83;en>>
+They are professional attorneys, actually.
+
+<<5576.83;5582.91;en>>
+And military prosecutors are evaluated in three dimensions.
+
+<<5582.91;5587.75;en>>
+First, the superiors who are military prosecutors can evaluate them.
+
+<<5587.75;5591.67;en>>
+But the commanders cannot evaluate the military prosecutors.
+
+<<5591.67;5597.39;en>>
+In the military prosecutor's office, most probably we have more than one military prosecutor.
+
+<<5597.39;5601.43;en>>
+And the most senior one is the chief military prosecutor.
+
+<<5601.43;5604.75;en>>
+And the others are assistant military prosecutors.
+
+<<5604.75;5609.51;en>>
+The assistant military prosecutors are evaluated by the chief military prosecutor.
+
+<<5609.51;5615.67;en>>
+Even the chief military prosecutor, they are not evaluated by the commanders.
+
+<<5615.67;5625.67;en>>
+The second dimension of their evaluation process is vesting with the Supreme Military Court of Cassation's evaluations.
+
+<<5625.67;5631.11;en>>
+As you know, the military prosecutors, they write indictments to the court, military courts.
+
+<<5631.11;5646.23;en>>
+And in case those case files are referred to the Court of Military Supreme Cassation, the evaluators in that high military court, they make some evaluations about the military prosecutors.
+
+<<5646.23;5655.87;en>>
+And not only the indictment, but also the investigative steps they must have taken during that investigation period is also overviewed.
+
+<<5655.87;5661.51;en>>
+And the third dimension of their evaluation process is with the Ministry of Defense.
+
+<<5661.51;5666.03;en>>
+We have a special branch under the command of the Ministry of Defense.
+
+<<5666.03;5681.19;en>>
+And within that branch, we have senior military judges who are sent annually to the military courts to review the case files and also the military prosecutors' decisions of non-prosecution of an investigation.
+
+<<5681.19;5697.39;en>>
+And at the end of this evaluation, if they find any failure with the decisions of military prosecutors concerning the decisions of non-prosecution, they might argue this and bring the case file, investigation file, to the Ministry of Defense.
+
+<<5697.39;5704.39;en>>
+And then they may ask, by way of the Ministry of Defense, to further investigative steps.
+
+<<5704.39;5721.63;en>>
+And in this particular case, we see that the inspectors coming from Ministry of Defense Legal Division, they found no failure with the particular investigative investigation file.
+
+<<5721.63;5736.39;en>>
+As regards to the right information about the investigation in question, the military criminal investigations are also confidential, like their counterparts in the civilian life.
+
+<<5736.39;5738.23;en>>
+They are confidential.
+
+<<5738.23;5753.31;en>>
+But the commanders next to which the military court is established might have some chances to ask the military prosecutor to give him some information about the course of the investigation.
+
+<<5753.31;5759.15;en>>
+And the applicants, they might make use of this opportunity.
+
+<<5759.15;5762.23;en>>
+They might consult to the commander.
+
+<<5762.23;5771.87;en>>
+And then the commander might request some information regarding the course of the criminal investigation.
+
+<<5771.87;5786.99;en>>
+In case such a bad occurrence take place within the army, this is notified to the relatives of the people or the people who are badly influenced by the event.
+
+<<5786.99;5790.15;en>>
+They are very fastly notified by the administration.
+
+<<5790.15;5794.35;en>>
+It is not the prosecutor who notifies the relatives.
+
+<<5794.35;5805.07;en>>
+It's the administration, the commander, and its staff who notifies the relatives of the people who are badly affected in the event.
+
+<<5805.07;5808.27;en>>
+And this doesn't take more than 24 hours.
+
+<<5808.27;5813.15;en>>
+It comes usually in a couple of hours.
+
+<<5813.15;5824.99;en>>
+At the end, the result of the investigation is formally passed and announced to the relatives of the people who are affected.
+
+<<5824.99;5832.99;en>>
+And they have the right to rebut the decisions made by the military prosecutors within a time limit of 15 days.
+
+<<5837.35;5845.43;en>>
+And also, the military prosecutor's assignment process is independent from the administration.
+
+<<5845.43;5859.71;en>>
+The military prosecutors, like military judges, they are assigned to further posts by way of a governmental degree prepared and signed by the Ministry of Defense, the prime minister, and the president.
+
+<<5859.71;5874.19;en>>
+The lower levels, the land forces command or the brigadiers, the corps commanders, they have no influence and right to make an influence on the assignment process of the military prosecutor.
+
+<<5874.19;5875.63;en>>
+Thank you very much for your attention.
+
+<<5875.63;5875.63;en>>
+Thank you.
+
+<<5875.63;5875.63;en>>
+And again, brother Sergeant General, I would like to offer my thanks and congratulations especially for the military prosecutor's assignment process that has amounts of  Lands Forces Command, for his supreme ability to pursue the mission in 1,000 people who were killed, but whose stories are remains of PTSD.
+
+<<5875.63;5875.63;en>>
+We are pleased that you are dedicated to this committee that has long over 100.
+
+<<5875.63;5875.63;en>>
+And in addition, Mr. Gupta for thanking hisльjik four
+
+<<5875.63;5875.63;en>>
+thousand with this very wonderful contribution that you
+
+[[JudgeP;Dean Spielmann]]
+
+<<5881.95;5890.19;en>>
+Thank you very much. We have now come to the end of the hearing. I thank the parties for
+
+<<5890.19;5898.59;en>>
+their interventions and answers to the court's questions. The court will now deliberate on
+
+<<5898.59;5904.43;en>>
+the merits. The judgment will be delivered later. The parties will be informed of the
+
+<<5904.43;5908.43;en>>
+date of delivery. I declare the hearing closed.
+

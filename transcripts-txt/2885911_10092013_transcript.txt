@@ -1,0 +1,1852 @@
+[[Announcer;UNK]]
+
+<<21.14;21.9;fr>>
+La Cour!
+
+[[JudgeP;Mark Villiger]]
+
+<<64.67;71.67;en>>
+Please be seated.
+
+<<80.77;91.39;en>>
+I declare open the public hearing on the admissibility and merits in the cases of Dubská and Krejzová against the Czech Republic.
+
+<<91.39;111.65;en>>
+The cases were lodged on 4 May 2011 and 7 May 2012, respectively, with the Court under Article 34 of the Convention by Czech nationals Ms. Šárka Dubská and Ms. Alexandra Krejzová.
+
+<<111.65;120.47;en>>
+The applications were allocated to the fifth section of the Court, pursuant to Rule 52, paragraph 1 of the Rules of Court.
+
+<<120.47;127.51;en>>
+The applications were communicated to the Government on 3 September 2012.
+
+<<127.51;133.67;en>>
+The Government are represented by the agent Mr. Schorm from the Ministry of Justice,
+
+<<133.67;143.51;en>>
+assisted by Ms. Kopková, Ms. Köhlerová, Mr. Hlinomaz, Ms. Jančá rková,
+
+<<143.51;149.67;en>>
+Mr. Feyereisl and Mr. Velebil as advisors.
+
+<<149.67;154.11;en>>
+The first applicant is represented by Mr. Zahumenský,
+
+<<154.11;162.37;en>>
+attorney from the League of Human Rights, assisted by Ms. Zuzana Candigliota, counsel.
+
+<<162.37;167.67;en>>
+The second applicant is represented by Mr. Hořejší, attorney,
+
+<<167.67;174.07;en>>
+assisted by Ms. Hořejší and Ms. Pavlíková, counsels.
+
+<<174.07;179.47;en>>
+I welcome the representatives in the name of the Court.
+
+<<179.47;189.67;en>>
+Having consulted the agent of the Government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<189.67;193.47;en>>
+Mr. Schorm for the Government will speak first,
+
+<<193.47;199.03;en>>
+and then Mr. Zahumenský and Mr. Hořejší for the applicants.
+
+<<199.03;205.75;en>>
+Should there be questions from the judges, they will be put to the relevant party following the interventions.
+
+<<205.75;217.31;en>>
+The Government and then the applicants will have ten minutes in the second round in which to respond to the judges' questions and to the submissions of the other party.
+
+<<217.31;217.31;en>>
+I call Mr. Schorm.
+
+[[Government;GR1]]
+
+<<221.66;224.1;en>>
+Thank you, Mr. President.
+
+<<224.1;227.28;en>>
+Mr. President, honorable judges, thank you
+
+<<227.28;232.86;en>>
+for the opportunity to present the position of the Czech government on the two applications.
+
+<<232.86;238.98;en>>
+I refer the outset to our previous written observations and add the following key remarks today.
+
+<<238.98;258.74;en>>
+The applications under review concern primarily the question of whether Article 8 of the convention can be interpreted so extensively as to oblige the state party to change the current legislation and the health care system in the Czech Republic in order to establish a regulatory framework for allowing the provision of health care at home birth.
+
+<<258.74;267.3;en>>
+The government are convinced that the Czech Republic does not violate Article 8 when it does not provide and does not support assistance at home birth.
+
+<<267.3;273.5;en>>
+I will now substantiate this view by answering the six questions posed by the court.
+
+<<273.5;280.82;en>>
+The first question as to whether the two applications come within the scope of private life can be answered in the negative.
+
+<<280.82;289.82;en>>
+The applicants had turned to the court before they gave birth and had claimed that their right to give birth at home with assistance had been violated.
+
+<<289.82;302.5;en>>
+However, international human rights law does not even implicitly suggest that there is any established obligation of the state to ensure assistance at home birth or even to establish a framework allowing for such practice.
+
+<<302.5;321.06;en>>
+UN treaty bodies tend to mention only obligations related to certain individual circumstances of giving birth, such as unnecessary separation of the mother from the child and unnecessary medical interventions, but not assistance at birth with no restriction as to the place where such assistance can be provided.
+
+<<321.06;327.58;en>>
+Neither the EU law does require states to establish a framework providing for health care at home birth.
+
+<<327.58;349.02;en>>
+My government believe that the right claimed by the applicants is a too extensive interpretation of Article 8 and that their complaints fall outside the scope of private life, since obligations to respect individual circumstances of giving birth and privacy for the mother must be distinguished from the obligation to establish a framework to allow assistance at home birth.
+
+<<349.02;356.74;en>>
+My government, therefore, suggests declaring the applications inadmissible for incompatibility ratio ne materia with the Convention.
+
+<<356.74;374.38;en>>
+Although the court has not always strictly distinguished the ambit of private life from the content of the state's obligation to respect private life, I will from now on, for the sake of legal discussion, assume that the court decides that the applicants' complaints do fall within the ambit of private life.
+
+<<374.38;379.98;en>>
+And I will further focus on the content of the state's presumed obligations under Article 8.
+
+<<379.98;392.1;en>>
+Even then, I am firmly convinced that the interest claimed by the applicants is not within the inner core of the right to respect for private life, but rather at its outer limit.
+
+<<392.1;402.46;en>>
+On the second question of the court as to whether the complaints should be examined under positive or negative obligations, my government submitted two alternatives.
+
+<<402.46;422.74;en>>
+Either the court should examine the present applications from the perspective of positive obligations, or alternatively, the court should not find it necessary to determine whether the state's positive or negative obligations are at stake, since in both contexts, regard must be had to a fair balance to be struck between the competing interests.
+
+<<422.74;427.86;en>>
+These cases are clearly distinguishable from the court's judgment in Ternovsky.
+
+<<427.86;438.54;en>>
+Unlike the Czech Republic, Hungary had legislation in place that, in principle, allowed for assisted home birth and set a legal basis for the provision of health care at home birth.
+
+<<438.54;446.98;en>>
+By doing so, the Hungarian government themselves defined the extent of health care they would provide, which, in their view, included home birth.
+
+<<446.98;457.86;en>>
+In that case, one could have indeed taken the interference approach, because it addressed the state's need to refrain from interfering with the exercise of a protected choice.
+
+<<457.86;462.82;en>>
+Such a scenario is, however, very different from the situation in the Czech Republic.
+
+<<462.82;468.3;en>>
+The extent of health care provided in the Czech Republic does not include assistance at home birth.
+
+<<468.3;476.26;en>>
+The Czech Republic has in place regulations it finds necessary for the protection of both the child's and mother's life and health.
+
+<<476.26;492.38;en>>
+The cases, therefore, concern the issue of the extent to which the state is obliged to alter its obligations, its regulations, and provide health care that it finds force within the standard necessary, primarily for the protection of the life and health of the child.
+
+<<492.38;496.86;en>>
+This is, therefore, clearly a question of the state's positive obligations.
+
+<<496.86;502.54;en>>
+Also based on the court's case law, such as Evans v. UK and SH v. Austria,
+
+<<502.54;515.74;en>>
+in which the applicant sought to secure increased positive involvement by the authorities, in particular the enactment of new legislation, the court should look at the present cases from the perspective of positive obligations.
+
+<<515.74;529.3;en>>
+In other words, since the applicants claim that the state should broaden the extent of health care provided in the Czech Republic, the application should not be examined from the perspective of negative obligations.
+
+<<529.3;551.26;en>>
+As regards question three of the court on the tension between the right claimed by the applicants and other international human rights obligations of the Czech Republic, my government are convinced, in light of Article 53 of the convention and the court's case law, that since other international commitments are at stake here, they must be taken into account when striking a fair balance under Article 8 of the convention.
+
+<<551.26;558.66;en>>
+In fact, the state must coordinate and harmonize the effects of its various obligations stemming from international human rights instruments.
+
+<<558.66;569.18;en>>
+The government crafted the birth policy in an effort to ensure an appropriate balance of all its obligations under international law towards both the child and the mother.
+
+<<569.18;585.54;en>>
+This morning, the court considers a rather unique situation from the perspective of the provision of health care, because the process of giving birth involves two human beings at the same time, who both have fundamental human rights, the child and the mother.
+
+<<585.54;594.98;en>>
+The child, who is, pardon my French, halfway through, is more than a fetus or an unborn child, according to the court's case law.
+
+<<594.98;605.06;en>>
+States have a wide margin of appreciation in determining the question of whether or when an unborn child is a person protected by fundamental human rights.
+
+<<605.06;610.58;en>>
+The Czech constitutional order provides that human life is worthy of protection even before birth.
+
+<<610.58;618.86;en>>
+And importantly, the Czech criminal law defines a newborn as a child not only immediately after, but also during birth.
+
+<<618.86;631.82;en>>
+From the perspective of international human rights law, the Committee on the Rights of the Child stated in general comment number seven that children at birth shall be covered by the definition of early childhood when considering the rights of the child.
+
+<<631.82;643.86;en>>
+The court should take into consideration the fact highlighted by UN treaty bodies that a child is during and immediately after birth extremely vulnerable and not capable of protecting themselves.
+
+<<643.86;664.34;en>>
+The Committee on the Rights of the Child underscored that the child's rights to health is central in assessing the best interest of the child, and that, I quote, an adult's judgment of a child's best interests cannot override the obligation to respect all the child's rights under the Convention on the Rights of the Child, unquote.
+
+<<664.34;670.9;en>>
+When sudden pathological progress of delivery occurs, assistance of a midwife at home birth may be insufficient.
+
+<<670.9;679.78;en>>
+In such cases, complications must be recognized by a midwife in time, and an immediate intervention by a qualified obstetrician must be ensured.
+
+<<679.78;695.22;en>>
+According to experts in obstetrics, the home environment is not an appropriate environment for such purposes, since adequate equipment is missing, and a midwife is not qualified to deal with consequences of acute complications.
+
+<<695.22;698.38;en>>
+This may similarly happen immediately after birth.
+
+<<698.38;701.94;en>>
+That is, when the newborn is entirely outside mother's body.
+
+<<701.94;715.14;en>>
+In such cases, the denial of adequate medical assistance to a newborn could be imminent at mother's home, and the presence of a midwife would not substitute an appropriate response to possible acute complications.
+
+<<715.14;729.94;en>>
+The right to health under the Convention on the Rights of the Child and the International Covenant on Economic, Social, and Cultural Rights includes obligations, and here I quote from the text of the conventions and from the relevant general comments of the respective treaty bodies.
+
+<<733.06;740.14;en>>
+First, to take all possible measures to reduce infant mortality with particular attention to neonatal mortality.
+
+<<740.14;745.18;en>>
+Second, to intervene to ensure safe delivery services and good quality health services.
+
+<<745.18;753.54;en>>
+Third, to regulate the quality of the provision of health care, also of private health service providers, so that children's rights are protected.
+
+<<753.54;767.14;en>>
+And fourth, to ensure in the area of health that the institution, services, and facilities responsible for the care or protection of children shall conform with the standards established by competent authorities.
+
+<<767.14;768.1;en>>
+Unquote.
+
+<<768.1;776.82;en>>
+The current legal framework regulating the provision of assistance at birth in the Czech Republic guarantees the observance of all these obligations.
+
+<<776.82;789.62;en>>
+Let me also underline that both the UN Child Rights and Economic, Social, and Cultural Rights committees in their general comments on the right to health made clear that retrogressive measures taken in relation to the right to health are not permissible.
+
+<<789.62;804.82;en>>
+If my government are forced to take steps to allow assistance of midwives at home birth, such steps will lead to a decrease in the high standard of health care provided in the Czech Republic, because the existing necessary requirements for the provision of such care will have to be lowered.
+
+<<804.82;810.86;en>>
+Such steps will clearly be retrogressive, and therefore in breach of the right to health obligations.
+
+<<810.86;835.18;en>>
+All these obligations must be seen in light of paragraph 53 of the general comment number 14 of the UN Committee on Economic, Social, and Cultural Rights, according to which, and I quote again, the most appropriate feasible measures to implement the right to health will vary significantly from one state to another, while every state has a margin of discretion in assessing which measures are most suitable to meet its specific circumstances, unquote.
+
+<<835.18;847.46;en>>
+To sum up, strong tensions between the right claimed by the applicants and the mentioned obligations of the Czech Republic under the right to health needs to be reflected in the Court's assessment of a fair balance in the present cases.
+
+<<847.46;859.26;en>>
+Those are other possible tensions described in the initial observations of my government, such as those between the right claimed by the applicants and positive obligations under the right to life.
+
+<<859.26;889.3;en>>
+All these tensions undoubtedly support my government's view that the right to respect for private life cannot be so extensively interpreted as to require the state to establish a framework to allow the provision of health care at home birth, when it has determined, bearing in mind the wide margin of appreciation the state should enjoy, that the best policy for the state is to provide free, accessible care for birthing in places with adequate medical equipment and an ability to respond to emergencies.
+
+<<895.38;906.9;en>>
+With regard to question four, I have decided for the sake of clarity and comprehensiveness to group this question in the first three portions of question five.
+
+<<906.9;911.46;en>>
+There should be no doubt that the state is guarantor of the level and quality of health care.
+
+<<911.46;918.58;en>>
+The state shall set out the requirements where and how health care can be provided, including health care of private nature.
+
+<<918.58;923.14;en>>
+Neither an obstetrician nor a midwife can provide health care just anywhere.
+
+<<923.14;931.94;en>>
+It must be, by its very nature, regulated by the state, including in respect to the premises where various types of health care can be provided.
+
+<<931.94;945.06;en>>
+Czech legislation makes entirely clear that a health professional, that is, an obstetrician or a midwife, regardless of whether they provide health care on a private or public basis, cannot assist at planned home birth.
+
+<<945.06;976.02;en>>
+A relevant point to be made is not whether a health professional works in a state hospital or on a private basis, but rather that the current legislation on health care, that is, the 2011 Act on Health Services, and similarly, also its predecessor, the amended 1966 Act on Public Health Care, clearly and foreseeably provide that health care, including assistance at birth, can be provided only in health care facilities which must be materially and technically equipped for the respective type and scope of health care.
+
+<<976.02;983.18;en>>
+There are certain exceptions to this rule, such as emergency care and care in the patient's own social environment.
+
+<<983.18;998.1;en>>
+However, the Act on Health Services clearly stipulates that health care in one's own social environment, that is at home, can only be provided when the legislation does not require the respective type of care to be provided in adequately equipped premises.
+
+<<998.1;1013.58;en>>
+As explicitly required by the two mentioned acts, the relevant decrees of the Ministry of Health, indeed, specify the necessary requirements, including those for the minimum equipment, which must be fulfilled so that the respective authorization can be issued to a midwife.
+
+<<1013.58;1020.18;en>>
+Only after that, and in such adequately equipped premises, a midwife is allowed to assist at planned birth.
+
+<<1020.18;1029.14;en>>
+These requirements cannot be fulfilled at someone's home, and no authorization has therefore been issued to a midwife to allow her to assist at planned home birth.
+
+<<1031.98;1048.02;en>>
+Concerning the second part of question five on the criminal and administrative proceedings against midwives, to the knowledge of my government, two midwives have been tried in criminal proceedings and have been found guilty of errors made prior to and during delivery.
+
+<<1048.02;1059.42;en>>
+I emphasize that these two midwives were not convicted on the basis of the fact that they had conducted birth at home, but for the errors which had led to the deaths of the two newborns.
+
+<<1059.42;1064.7;en>>
+The proceedings in neither of the two criminal cases have come to an end as of yet.
+
+<<1064.7;1068.98;en>>
+The case of midwife Susanna Stromerova is pending before the Supreme Court.
+
+<<1068.98;1079.46;en>>
+As regards midwife Ivana Konigsmarkova, the Constitutional Court has recently quashed all three criminal court decisions in her case, but only for procedural shortcomings.
+
+<<1079.46;1086.54;en>>
+This recent judgment of the Constitutional Court does not provide any legal basis for the right to give birth at home with assistance.
+
+<<1086.54;1094.66;en>>
+It is only an individual decision regarding the question of certain specific fair trial guarantees in criminal proceedings.
+
+<<1094.66;1102.54;en>>
+I should say on a side note that the alleged differences in criminal liability of midwives as compared to obstetricians are simply inaccurate.
+
+<<1102.54;1105.92;en>>
+The criminal code does not differentiate between professions.
+
+<<1105.92;1111.22;en>>
+Criminal liability for an erroneous course of action is the same for all health professionals.
+
+<<1111.22;1121.56;en>>
+There have been several cases of obstetricians convicted for errors made during and prior to hospital delivery who were subjected to similar penalties as the two midwives.
+
+<<1121.56;1128.58;en>>
+Furthermore, to my government's knowledge, no midwife has been subjected to any administrative sanctions to date.
+
+<<1128.58;1146.78;en>>
+In the margins, I should recall that the potential of a fine under the Act on Health Services being imposed on a midwife who provides health service without authorization or with a limited authorization excluding assistance at home birth is only a logical and necessary element of guaranteeing the required standard of health care.
+
+<<1146.78;1154.44;en>>
+It is not a measure directed against midwives, but a systemic measure targeted at anyone who provides health services without the necessary authorization.
+
+<<1158.18;1168.68;en>>
+Answering the first part of question six, I must say that the Czech Republic pursues legitimate aims of the protection of health and of the rights of others.
+
+<<1168.68;1185.74;en>>
+The mentioned key regulations serve the purpose of setting minimum standards for health professionals, including midwives, and aim to ensure an adequate safety and quality health care for the child and for the mother, particularly when unpredictable complications occur during delivery.
+
+<<1185.74;1195.02;en>>
+As I said earlier, these regulations also reflect international human rights obligations, particularly those related to the right to health.
+
+<<1195.02;1205.46;en>>
+My government are of the view that setting the appropriate regulations regarding requirements for the provision of specific health care, this being assistance at birth, is not an issue for this court to examine.
+
+<<1205.46;1209.98;en>>
+These are extremely technical questions for experts in the field of obstetrics.
+
+<<1209.98;1216.7;en>>
+It is therefore for the states to set up the necessary requirements for the provision of health care in consultation with these experts.
+
+<<1216.7;1222.94;en>>
+The legislation regulating assistance at birth was indeed consulted with leading experts in the field of obstetrics.
+
+<<1222.94;1228.18;en>>
+And there is a wide consensus on the set necessary requirements among them.
+
+<<1228.18;1231.32;en>>
+One of them, Dr. Vellabil, will present the reasons
+
+<<1231.32;1233.1;en>>
+for such requirements shortly.
+
+<<1233.1;1237.1;en>>
+He will show that the risks for the child are real and not only illusory.
+
+<<1242.22;1249.82;en>>
+The results of the Czech Republic in international statistics also confirm the legitimacy of the existing regulatory framework.
+
+<<1249.82;1268.02;en>>
+Leaving aside the hotly debated issue of statistics comparing the safety of home births with births in health care facilities, my government wished to highlight that according to widely recognized Europe HISTAT and WHO statistics, the Czech Republic has conclusively one of the lowest perinatal mortality rates in the world.
+
+<<1268.02;1274.5;en>>
+There is no doubt that the reason for such a result lies primarily in the top quality of Czech obstetrics.
+
+<<1274.5;1286.38;en>>
+As regards the second part of question six, let me repeat that the salient issue in this case is precisely whether a fair balance has been struck regarding head to the state's wide margin of appreciation.
+
+<<1286.38;1300.58;en>>
+If the applicants request assistance provided by a midwife or another health professional, and considering that in the medical context, the regulation of the state is the default, the choice of the place of birth must certainly be limited.
+
+<<1300.58;1312.02;en>>
+As I have already explained, in the Czech Republic, assistance of a midwife or other health professionals during delivery is limited to places adequately equipped in line with the relevant legislation.
+
+<<1312.02;1317.14;en>>
+It is certainly not reasonable to request the state to guarantee medical care anywhere.
+
+<<1317.14;1328.58;en>>
+The court has, in fact, confirmed such view in Tarnowski when it stated that the choice of giving birth at a particular location would normally entail the involvement of health professionals.
+
+<<1328.58;1336.66;en>>
+The word normally is not absolute, and leaves the state discretion as to whether the provision of such care will be allowed.
+
+<<1336.66;1353.62;en>>
+There are certainly various places where the state cannot secure professional assistance during delivery, such which the court certainly did not have in mind when examining the choice of the place of birth in Tarnowski, such as buildings difficult to reach or buildings with inadequate hygiene conditions.
+
+<<1353.62;1355.42;en>>
+Where is then the balance?
+
+<<1355.42;1359.34;en>>
+What place is safe and what already crosses the line?
+
+<<1359.34;1365.06;en>>
+By the very nature of this issue, there must be a wide margin of appreciation afforded to the state.
+
+<<1365.06;1374.98;en>>
+My government believe that a fair balance can be achieved when the state allows assistance in planned birth to be provided only in premises adequately equipped for such purpose.
+
+<<1374.98;1379.46;en>>
+That is in health care facilities broadly defined, including, for example, birth centers.
+
+<<1379.46;1389.42;en>>
+And of course, upon the condition that privacy and the possibilities to choose various individual circumstances of giving birth are guaranteed there.
+
+<<1389.42;1399.18;en>>
+My government have documented to the court that privacy and possibilities to choose various circumstances of giving birth are indeed secured in numerous maternity hospitals in the Czech Republic.
+
+<<1399.18;1421.1;en>>
+This is clear not only from the extensive list of rights enshrined in the Act on Health Services and programs aimed at arranging the home-like environment in maternity hospitals, but also from the concrete information on the choices of circumstances of giving birth in maternity hospitals in close proximity to the applicants' permanent residencies.
+
+<<1421.1;1427.9;en>>
+The government recall having also submitted pictures of the home-like environment in these maternity hospitals.
+
+<<1427.9;1462.42;en>>
+Very briefly, individual circumstances of giving birth secured in a variety of Czech maternity hospitals, including those in close proximity to the applicants' permanent residencies, including, for example, the choice of a method of delivery and of a position during delivery, refusal of interventions during the childbirth process based on the woman's free and informed consent enshrined in the national legislation, avoiding unnecessary separation of the mother from the child, grooming in, presence of relatives during delivery, and also having a midwife-led delivery in maternity hospitals.
+
+<<1462.42;1471.58;en>>
+It is worth noting that the UNICEF WHO baby-friendly hospital status has already been granted to nearly 70 maternity hospitals in the Czech Republic.
+
+<<1471.58;1481.54;en>>
+In this regard, I should reiterate that mothers have no restrictions in choosing which maternity hospital they wish to give birth in.
+
+<<1481.54;1487.14;en>>
+In fact, mothers who wish to give birth at home call precisely for the choices just listed.
+
+<<1487.14;1496.18;en>>
+If the state can arrange for a home-like environment in a health care facility, the differences between such environment and home are simply blurring.
+
+<<1496.18;1500.98;en>>
+By doing so, the government managed to satisfy both sides of the coin.
+
+<<1500.98;1505.34;en>>
+That is privacy for the mother and safety for both the child and the mother.
+
+<<1505.34;1512.38;en>>
+My government believes that this constitutes a fair balance in the Czech Republic, as required by the court.
+
+<<1512.38;1523.42;en>>
+Should some of the mentioned individual circumstances of giving birth not be provided in health care facilities, their lack in an individual case could raise issues under Article 8 of the Convention.
+
+<<1523.42;1539.1;en>>
+The applicant's core complaint is, however, different, namely whether the state is under an obligation to provide assistance at home birth or to establish a framework allowing for such assistance to be provided by midwives at home birth.
+
+<<1539.1;1545.54;en>>
+Let me conclude by assuring you that my government do not question the fact that birth is a natural process.
+
+<<1545.54;1553.7;en>>
+To the contrary, my government strive to ensure that the individual circumstances of giving birth be respected in health care facilities in the Czech Republic.
+
+<<1553.7;1559.7;en>>
+However, birth can unexpectedly turn into a fight for the rescue of the child.
+
+<<1559.7;1570.5;en>>
+In order to minimize the inherent risks, and based on the level of development of European states, assisting at birth has become the provision of health care regulated by the state.
+
+<<1570.5;1581.86;en>>
+European states have undertaken the obligation to put in place security mechanisms to control the practice of assistance at birth so as to meet the public interest regarding safety.
+
+<<1581.86;1588.18;en>>
+Such regulation varies considerably among European states without any existing consensus on this issue.
+
+<<1588.18;1598.96;en>>
+The present cases raise sensitive moral and ethical issues with various entirely contradictory opinions on the correct answer, if such correct answer ever exists.
+
+<<1598.96;1607.78;en>>
+It is thus up to the state to decide on requirements for the provision of such specific health care in a developed European state and to find a fair balance.
+
+<<1607.78;1621.42;en>>
+The court consistently holds that matters of health care are within the margin of appreciation of the domestic authorities who are best placed to assess priorities, use of resources, and social needs.
+
+<<1621.42;1627.38;en>>
+For all these reasons, my government are convinced that a fair balance has been struck in the cases at hand.
+
+<<1627.38;1647.2;en>>
+And as the court noted in the Hristosov case and other case law in Article 8, although a fair balance might have been arguably struck, the Czech authorities are of the view that they did not exceed the wide margin of appreciation and that there was thus no violation of Article 8 of the Convention.
+
+<<1647.2;1650.18;en>>
+Mr. President, honorable judges, thank you for your attention.
+
+<<1650.18;1655.86;en>>
+And let me, with your permission, now introduce Dr. Veladiel, one of the leading experts
+
+<<1655.86;1660.82;en>>
+in Czech obstetrics, who will briefly present you the reasons for the existing legal framework.
+
+[[JudgeP;Mark Villiger]]
+
+<<1663.49;1664.61;en>>
+I call Mr. Velebil.
+
+[[Government;GR2]]
+
+<<1672.65;1674.97;en>>
+Mr. President, Honorable Judges,
+
+<<1674.97;1689.21;en>>
+in the previous presentations we've heard that when sudden change in delivery occurs and turns into pathological progress, an assistance of a midwife at home birth may be insufficient.
+
+<<1689.21;1690.53;en>>
+I would go even further.
+
+<<1690.53;1705.93;en>>
+I would say that assistance of any health care provider may be insufficient, just because of the fact that their tools and measures are insufficient in that particular environment.
+
+<<1705.93;1725.33;en>>
+In life-threatening situation, threatening to either or both mother and child, happen, the proximity of adequately equipped facility and proximity of other trained health care workers could make a difference between death and life.
+
+<<1725.33;1755.01;en>>
+The imperative requirement for safer environment cannot be downplayed by the fact that we do provide thorough prenatal care or excellent screening of risk, simply because certain acute situations may occur, and they do occur, without any previously identifiable risk signs or symptoms, which would normally allow us to timely react.
+
+<<1755.01;1769.29;en>>
+When a sudden abruption of oxygen supply to the fetus occur during labor, an immediate delivery, and I mean delivery within few minutes, is the only measure to save the baby.
+
+<<1769.29;1782.41;en>>
+If profuse bleeding occurs during labor or shortly after a baby was born, you may lose the mother, the baby, or both.
+
+<<1782.41;1798.13;en>>
+If the health status of a newborn deteriorates, changes abruptly shortly after delivery, and adequate measures must be undertaken without a delay to minimize possible health consequences.
+
+<<1798.13;1806.65;en>>
+Such situations, they do require not only presence of competent people, but also a competent environment.
+
+<<1806.65;1814.85;en>>
+Any unnecessary delay in such situations could have possibly devastating health consequences.
+
+<<1814.85;1833.69;en>>
+The ability to provide health care in properly equipped environment is achievement of a particular society, and it comes from many resources, including organization, structure, and content of health care, together with economic tools to ensure sustainability of that process.
+
+<<1833.69;1843.89;en>>
+The Czech Republic has an extensive network of obstetrical units with excellent system of referral and readiness for prenatal transport.
+
+<<1843.89;1866.45;en>>
+However, underlined, any place of delivery must be ready to provide emergency care and must comply with the requirements for material and technical equipment, as well as personal staffing, in order to prevent the acute situation which I have mentioned.
+
+<<1868.93;1885.77;en>>
+This systematic approach of the Czech Republic in organizing and evaluating health care in that segment resulted in excellent results of prenatal care in the Czech Republic, one of the best in the world which could be documented.
+
+<<1885.77;1913.97;en>>
+While considering the state's rights or obligations to regulate private lives in many other fields in order to protect health of a person, we always should have in mind that in case of delivery, we safeguard at least two people at one time.
+
+<<1913.97;1914.97;en>>
+Mr. President, honorable judges, thank you for your attention.
+
+[[JudgeP;Mark Villiger]]
+
+<<1918.86;1920.6;en>>
+Thank you, Mr. Velebil.
+
+<<1920.6;1924.6;en>>
+I now call Mr. Zahumenský, please.
+
+[[Applicant;AP1]]
+
+<<1927.31;1930.59;en>>
+Mr. President, Honorable Judges,
+
+<<1930.59;1942.55;en>>
+this case concerns violation of fundamental rights of women and families regarding childbirth, which is still present in the Council of Europe post-Soviet countries.
+
+<<1942.55;1949.63;en>>
+The applicants are two educated women who consciously opted for an assisted home birth.
+
+<<1949.63;1954.03;en>>
+This decision was not based on a whim of their own comfort.
+
+<<1954.03;1966.73;en>>
+This was a responsible and informed choice for a safe delivery, as confirmed by the international data, and also a choice intended to avoid Czech abusive childbirth system.
+
+<<1966.73;1974.29;en>>
+In the former communist Czechoslovakia, women were subject to invasive procedures without their consent.
+
+<<1974.29;1977.88;en>>
+Babies were removed from mothers after delivery.
+
+<<1977.88;1986.39;en>>
+The court is familiar with the sterilization of women without their consent due to an alleged risk of further deliveries.
+
+<<1986.39;1989.63;en>>
+Certainly, the situation has improved.
+
+<<1989.63;2000.95;en>>
+However, Czech women still face paternalistic system where human rights are infringed upon the alleged interest of scientific approach.
+
+<<2000.95;2010.83;en>>
+The court held in the past that women may decide on the circumstances of the delivery and root in favor of the applicant in case Tarnovsky.
+
+<<2010.83;2016.88;en>>
+We will show that women in the Czech Republic find themselves in a very similar situation.
+
+<<2016.88;2022.38;en>>
+I will focus on answers to questions 1, 2, and 3, and 5.
+
+<<2022.38;2026.51;en>>
+Mr. Horisci will provide more detailed answer to question 2
+
+<<2026.51;2031.47;en>>
+and will answer the rest of the questions of the court.
+
+<<2031.47;2033.91;en>>
+Mrs. Dupska gave birth to her first child
+
+<<2033.91;2040.23;en>>
+in 2007 in Ostrava Hospital, which was a traumatic experience to her.
+
+<<2040.23;2048.19;en>>
+In 2010, the applicant became pregnant again and decided to give birth to her child at home.
+
+<<2048.19;2058.71;en>>
+Due to the legislation in the Czech Republic, the applicant was denied medical care and the possibility to give birth at home with an assistance of a health professional.
+
+<<2058.71;2064.76;en>>
+Due to her experience, the applicant opted for an unassisted child delivery.
+
+<<2064.76;2074.32;en>>
+The denial of medical care in home delivery resulted in much greater risk of health complication of the applicant and her son.
+
+<<2074.32;2089.63;en>>
+The applicant was also subject to a stressful decision of whether to undergo the delivery in a hospital with the possibility of all negative procedures she had undergone before, or opt for a home delivery alone and without assistance.
+
+<<2089.63;2092.84;en>>
+Mrs. Krejzova gave birth to two children at home
+
+<<2092.84;2095.67;en>>
+with the assistance of a midwife.
+
+<<2095.67;2105.47;en>>
+She was unable to find a midwife because under the new legislation, there is heavy fines as regarding her third child.
+
+<<2105.47;2109.8;en>>
+So the applicant was forced to give birth at hospital.
+
+<<2109.8;2113.99;en>>
+In the hospital, she was forced to stay there longer than she wanted.
+
+<<2113.99;2120.47;en>>
+She was separated from her child, and she was not able to deliver her third child.
+
+<<2120.47;2129.51;en>>
+In a way, she perceived the safest for her child, but caused a lot of stress to her.
+
+<<2129.51;2135.91;en>>
+Both applicants believed that their situation are in violation of the right to private life.
+
+<<2135.91;2146.55;en>>
+The court repeatedly held that private life is a broad term, and it incorporates the right to respect for both the decision to become and not to become a parent.
+
+<<2146.55;2154.39;en>>
+The right concerning the decision to become a parent includes the right of choosing the circumstances of becoming a parent.
+
+<<2154.39;2163.36;en>>
+Pregnancy and giving birth presents the most vulnerable and fundamental period in the lives of both women and their child.
+
+<<2163.36;2170.59;en>>
+Therefore, giving birth inconstantly forms part of one's private life.
+
+<<2170.59;2179.47;en>>
+The court in Ternovsky case rejected the difference proposed by the government between the choice of home delivery and assisted home delivery.
+
+<<2179.47;2185.91;en>>
+In its judgment, the court held that the choice for home deliveries entailed the involvement of health professionals.
+
+<<2185.91;2192.95;en>>
+Therefore, the applicant answer in the positive to the first questions raised by the court.
+
+<<2192.95;2202.84;en>>
+The court invited the applicant to express their opinion whether the complaints should be examined under the positive obligation or negative obligation of the state.
+
+<<2202.84;2207.43;en>>
+The applicant believed that both obligations are in stake.
+
+<<2207.43;2216.15;en>>
+First of all, similarly to the conclusion reached by the court in the Ternovsky judgment, there was violation of the negative obligation in the present case.
+
+<<2216.15;2224.95;en>>
+As I will explain in detail later, Czech legislation has been unpredictable and inconsistent.
+
+<<2224.95;2230.43;en>>
+Violation of the rights of private life has no legitimate aim.
+
+<<2230.43;2236.84;en>>
+In addition, the applicant believed that there has been a violation of the positive obligation of the state.
+
+<<2236.84;2243.91;en>>
+According to the case law of the court, the states have a general obligation to regulate the provisions of medical services.
+
+<<2243.91;2253.39;en>>
+In the Czech Republic, due to regulation or lack thereof, midwives are discriminated from practicing their profession.
+
+<<2253.39;2268.91;en>>
+The state seeks ways to regulate the equipment of health care facility in such a way that deliveries are possible only in hospitals, make the assistance of midwives financially unavailable, and otherwise restrict their profession.
+
+<<2268.91;2271.95;en>>
+The present situation is de facto impossible to change.
+
+<<2271.95;2278.95;en>>
+And midwives are not allowed to influence the system of childbirth delivery and care in the Czech Republic.
+
+<<2278.95;2288.55;en>>
+This is evidenced by the makeup of the task force for deliveries commissioned by the Ministry of Health in 2013.
+
+<<2288.55;2300.45;en>>
+After a few introductory meetings, both midwives and parents' representatives were dismissed, which left only those members of the group unwilling to change anything about the present system.
+
+<<2300.45;2318.67;en>>
+The applicant concludes that for an effective exercise of the right to home delivery, as part of the right to influence the circumstances of delivery, the state should cancel the penalization of midwives and ensure the equality of medical services provided in hospital and in home deliveries.
+
+<<2318.67;2325.91;en>>
+The government states that the rights claimed by the applicants are in conflict with other international obligations of the Czech Republic.
+
+<<2325.91;2330.99;en>>
+The applicant believes that this conflict is not real and it's artificially created.
+
+<<2330.99;2334.76;en>>
+This statement is supported by the following reasons.
+
+<<2334.76;2343.39;en>>
+First of all, the applicants need to underline that they are not aware of any binding international treaty granting legal protection to fetus.
+
+<<2343.39;2354.19;en>>
+As regarding the rights of mothers, the government did not present any data providing that assistant home birth provides any additional risk to low-risk women.
+
+<<2354.19;2380.32;en>>
+Secondly, if we accept the argument that the alleged dangerous assistant home deliveries are in violation of the international obligations, we would have to conclude that these international obligations are also violated by such countries as Germany, Austria, United Kingdom, or Sweden, as assistant home deliveries are legal and common practice in these countries.
+
+<<2380.32;2389.63;en>>
+If these countries violated their international obligation, the institutions responsible for enforcing the conventions would undoubtedly raise this issue.
+
+<<2389.63;2392.8;en>>
+The government, however, failed to present any such evidence.
+
+<<2392.8;2396.55;en>>
+And according to the applicants, this has never happened.
+
+<<2396.55;2404.88;en>>
+Thirdly, the government conveniently omits the fact that some women will always opt for home delivery.
+
+<<2404.88;2415.71;en>>
+This is evidenced by the experience from other countries between 1% and 3% of deliveries are planned home deliveries in Germany, United Kingdom, Ireland, and France.
+
+<<2415.71;2422.19;en>>
+This number is even higher in the countries where deliveries outside hospitals are common and supported.
+
+<<2422.19;2430.11;en>>
+As well as from the Czech Republic, where a significant number of women, despite government restrictions, opt for home delivery.
+
+<<2430.11;2435.67;en>>
+Are these women and children also protected by international obligations of the Czech Republic?
+
+<<2435.67;2448.15;en>>
+The government present contrasting arguments when it emphasizes the safety of unborn children, but it refuses to provide medical care for children both at home.
+
+<<2448.15;2466.63;en>>
+And while the international obligations of the countries where assisted home deliveries is possible have not been questioned, the situation in the Czech Republic was already commented by the Committee on the Elimination of Discrimination Against Women, CEDAW, which watches over the obligation of the state according to the UN Convention.
+
+<<2466.63;2477.27;en>>
+Besides urging the Czech Republic to consider steps to ensure the availability of assisted home deliveries, it also emphasized the violation of the rights of women in hospitals.
+
+<<2477.27;2503.31;en>>
+Finally, as regarding to access to the health care services, the applicants want to bring the court's attention to the wording of the second paragraph of Article 12 of the Condemnation on the Elimination of Discrimination Against Women, stating that, state parties shall ensure to women appropriate services in connection with pregnancy, confinement, and postnatal period, granting free services where necessary.
+
+<<2503.31;2512.31;en>>
+The applicants thus conclude that their request to ensure assisted home deliveries is not in conflict with any international obligations of the Czech Republic.
+
+<<2512.31;2522.27;en>>
+On the contrary, all the international conventions mentioned by the government fully support the right of women to assistance during the home delivery.
+
+<<2522.27;2528.99;en>>
+The applicants are pleased to provide additional information regarding Czech legislation regulating home deliveries.
+
+<<2528.99;2538.03;en>>
+The government stated that the relevant legislation was specific, foreseeable, and consistent, both before April 2012 and after.
+
+<<2538.03;2549.47;en>>
+The applicant disagreed with this statement and will show that particularly until September 2010, the legislation was far from specific and failed to be foreseeable.
+
+<<2549.47;2561.36;en>>
+After September 2010, the legislation became stricter for the practice of midwives as they were effectively dissuaded from providing assistance in home deliveries.
+
+<<2561.36;2565.72;en>>
+When Mrs. Dubska's child was conceived in April 2010,
+
+<<2565.72;2571.15;en>>
+there was no regulation on childbirth officially published in a collection of acts.
+
+<<2571.15;2579.84;en>>
+The analysis of the Public Defender of Rights from 2010 showed that there are significant differences regarding the practice.
+
+<<2579.84;2599.88;en>>
+Although the Ministry of Health claimed that midwives are not allowed to perform an assisted home delivery, the Public Defender's office found that in three of the regions of the Czech Republic, South Bohemia, Visočina, and Olomouc, there are private health care facilities legally allowed to perform physiological birth at home.
+
+<<2599.88;2610.91;en>>
+The Public Defender criticized the ministry for an insufficient legislative effort as the regulation published in the Ministry bulletin fails to replace the missing legislation.
+
+<<2610.91;2626.27;en>>
+Since 2010, there is a regulation on the equipment of the health care facilities, which includes the facilities of midwives where deliveries are not performed, and the facilities where physiological births are performed at childbirth houses.
+
+<<2626.27;2630.91;en>>
+However, there is still no regulation on home deliveries.
+
+<<2630.91;2644.91;en>>
+The regional offices issue licenses to midwives with an explicit prohibition of performing physiological births, or they issue licenses for the facilities of midwives where no deliveries are performed.
+
+<<2644.91;2655.68;en>>
+In addition, there are still some midwives who have the registration according to the old, prior 2010 legislation without any restrictions.
+
+<<2655.68;2659.32;en>>
+Thus, the legislation is still unpredictable and unclear.
+
+<<2659.32;2676.39;en>>
+In our opinion, the major change after 2010 is that all midwives with their different types of registration are being systematically threatened by the regional offices that should they assist with home deliveries, they will be subject to severe penalties.
+
+<<2676.39;2686.76;en>>
+The regional court in Brno in May 2012 stated that midwives face severe financial penalties in the Czech Republic.
+
+<<2686.76;2692.15;en>>
+The court concluded that the situation is very similar to the matters in the case of Tarnovsky.
+
+<<2692.15;2703.59;en>>
+The regional court rejected the application of a woman for assisted home delivery with the opinion that the court cannot replace the missing legislation on home deliveries.
+
+<<2703.59;2722.99;en>>
+It is apparent that midwives face penalty of up to almost 400,000 euro, which, together with the fact that two leading representatives of natural birth movement were convicted in criminal proceedings, effectively dissuades midwives from practicing home delivery assistance.
+
+<<2722.99;2722.99;en>>
+Thank you for your attention.
+
+[[JudgeP;Mark Villiger]]
+
+<<2730.23;2734.31;en>>
+Thank you very much, Mr. Zahumenský. I call Mr. Hořejší.
+
+[[Applicant;AP2]]
+
+<<2737.9;2741.36;en>>
+Dear Mr. President, Honorable Members of the Court,
+
+<<2741.36;2747.94;en>>
+I would like to extend the argumentation of my colleague, Mr. Zalomensky, with the answers to queries number two,
+
+<<2747.94;2751.8;en>>
+four, and six as previously circulated by the Court.
+
+<<2751.8;2757.66;en>>
+Therefore, I will focus on the query relating to the assessment of Mrs. Krajewa's complaint under the positive
+
+<<2757.66;2764.24;en>>
+and negative obligations of the state, and a query relating to the funding of midwives' care in the Czech Republic.
+
+<<2764.24;2777.5;en>>
+The last but not least, I will address my comments to the issue of interest pursued by the current Czech legislation, as well as to the issue of a fair balance between the private rights of the applicant and the public interest of the state.
+
+<<2777.5;2786.96;en>>
+The applicant has been invited to express her opinion whether her complaint is to be examined under the positive or the negative obligations of the state under Article 8 of the Convention.
+
+<<2786.96;2791.8;en>>
+In order to do so, the applicant is going to draw the Court's attention to the following areas.
+
+<<2791.8;2797.0;en>>
+First, the applicant is going to outline certain factual and legal circumstances of her case.
+
+<<2797.0;2804.0;en>>
+Second, the applicant is going to outline the underlying principles of both the positive and negative obligations of the state.
+
+<<2804.0;2811.5;en>>
+Third, the applicant is going to present a reasoning supporting the conclusion that the complaint should be examined under the positive obligations of the state.
+
+<<2811.5;2821.1;en>>
+And finally, the applicant is going to introduce a reasoning why the complaint should be examined from the perspective of the negative obligations of the state at the same time.
+
+<<2821.1;2833.92;en>>
+As to the domestic law, until April 2012, the Czech legislation did not contain, on a statutory level, any restrictions as to the places at which midwives could provide their assistance at planned home births.
+
+<<2833.92;2842.26;en>>
+Therefore, until April 2012, expectant mothers, including the applicant, technically could use the care of midwives at home births.
+
+<<2842.26;2856.4;en>>
+That said, the possibility to use such a care was highly unclear, insecure, and unpredictable for expectant mothers due to the governmental and ministerial decrees and the administrative practices of health care public authorities.
+
+<<2856.4;2867.16;en>>
+The SAT, substantive legislation, imposed additional obligations to midwives, mainly in the field of mandatory technical, material, and personal requirements.
+
+<<2867.16;2878.36;en>>
+The nature and extent of these operational requirements has corresponded to the operational requirements of hospitals, and therefore could not be satisfied by standalone midwives.
+
+<<2878.36;2885.9;en>>
+Imposing such extensive requirements to midwives, the provision of their care was effectively suspended.
+
+<<2885.9;2893.76;en>>
+The legal circumstances changed rapidly as of 1 April 2012, when the Act on Health Care Services came into force.
+
+<<2893.76;2906.06;en>>
+This Act contains a statutory ban from all medical personnel to provide medical care outside medical facilities, allowing only for a fairly limited amount of exemptions, such as the first-aid rescue.
+
+<<2906.06;2915.96;en>>
+Therefore, since April 2012, it has become legally impossible for any midwife to assist at births taking place outside maternity hospitals.
+
+<<2915.96;2923.66;en>>
+As to the facts of the case, the applicant became pregnant in August 2011 and delivered her child in May 2012.
+
+<<2923.66;2933.72;en>>
+Therefore, during the prevailing part of her pregnancy, the applicant's rights and obligations were governed by the legal regulation, which was highly unclear, unforeseeable, and arbitrary.
+
+<<2933.72;2944.4;en>>
+In such legally unclear environment, the applicant found herself in a substantial uncertainty as to whether she could enjoy the care of a midwife at the planned home delivery or not.
+
+<<2944.4;2956.72;en>>
+Such uncertainty led her to address her concerns and requirements for a clarification of her position to several health care public authorities, as well as to an appropriate public health care insurance company.
+
+<<2956.72;2965.7;en>>
+Upon these inquiries, she was informed that there is no midwife authorized by the state that could provide her with the requested assistance.
+
+<<2965.7;2986.36;en>>
+Speaking about the underlying principles for rights protected under Article 8 of the Convention, the applicant would like to emphasize that although there are different prerequisites for coming down to the conclusion whether the positive or the negative obligations of the states were breached, the underlying principles of all these obligations are the same as already ruled by the court.
+
+<<2986.36;3004.06;en>>
+Therefore, the state is obliged to strictly comply with the requirements of legality, legitimacy, and proportionality, both when establishing a framework allowing individuals to exercise their right for private and family life, as well as when limiting this right in justified cases.
+
+<<3004.06;3016.12;en>>
+In this particular case, these principles were substantially interfered into as the government prevented the applicant to enjoy her right to choose the circumstances of her delivery.
+
+<<3016.12;3023.42;en>>
+Assessing the applicant's complaint under the positive obligations of the states, the positive obligations need to be identified first.
+
+<<3023.42;3037.12;en>>
+In its elementary extent, Article 8, Subsection 1 of the Convention, imposes an obligation on the high states through the Convention to procure that right for family and private life of persons under their jurisdictions is observed.
+
+<<3037.12;3048.32;en>>
+Such an obligation includes an obligation of the state to procure that such right of persons for physical and psychical integrity is protected in a way that allows its effective exercise.
+
+<<3048.32;3062.32;en>>
+Moreover, such an obligation does not entail only the establishment of the appropriate framework, but also, as previously ruled by the Court, includes adoption of all other measures that are necessary to procure the same.
+
+<<3062.32;3073.92;en>>
+The set regulations shall also apply in relation to the right of an expectant mother to decide on the circumstances of her delivery, which falls within the category of private and family life.
+
+<<3073.92;3094.04;en>>
+The applicant, therefore, summarizes that the government is, in line with Article 8, Subsection 1 of the Convention, obliged to establish an appropriate legislative framework, as well as to procure adoption of all other measures in order to allow prospective mothers a real and effective free choice of the circumstances of their delivery.
+
+<<3094.04;3111.58;en>>
+It clearly follows from the previous decisions of the Court, namely from the Ternovsky against Hungary decision, that it is usual, expectable, and reasonable that a woman does not give birth to her child alone without an assistant, but does so subject to an assistance of a qualified person.
+
+<<3111.58;3128.14;en>>
+Consequently, an effective opportunity to exercise the choice of circumstances of delivery requires that such choice involves a set of places defined by the law in advance at which expectant mothers may legitimately benefit from the state-guaranteed health care during the delivery.
+
+<<3128.14;3136.78;en>>
+The applicant is strongly convinced that such set of places cannot be, a priori, limited only to maternity hospitals.
+
+<<3136.78;3152.06;en>>
+In relation to specifying the positive obligations of the states, the applicant finds highly inspiring the joint concurrent opinion of the Honorable Judges Sajó and Tulkens under the Ternovsky against Hungary decision, which defines the principle of these obligations.
+
+<<3152.06;3157.86;en>>
+The concurrent joint opinion sets forth the following two requirements to be met.
+
+<<3157.86;3166.34;en>>
+First, the appropriate legal framework must allow the expectant mother to decide on the delivery circumstances in the broadest possible extent.
+
+<<3166.34;3185.34;en>>
+Second, such choice may be, in the least extent possible and always in a reasoned way, restricted so that a justifiable balance between such expectant mother's choice, her health, her child's health, and objective capabilities of the state to procure the adequate health care is established.
+
+<<3185.34;3200.58;en>>
+Subject to certain simplification, the court rules that while finding a justifiable balance between the concurrent rights, the primary right of a woman to decide on the circumstances of her delivery may be reasonably restricted in the minimum extent possible.
+
+<<3200.58;3208.9;en>>
+The legal regulation of check obstetrics, however, annuls such choice entirely, doing so on two levels of legal regulation.
+
+<<3208.9;3222.02;en>>
+On the statutory level, the regulation sets forth that the assistant's birth may occur only in medical facilities, hence entirely preventing the expectant mother's to enjoy assistance at home birth.
+
+<<3222.02;3240.26;en>>
+Moreover, on the substituary level of governmental and ministerial decrees, the existence of midwife centers is in fact excluded too, due to the excessive requirements concerning the technical, material, and personal requirements, which may be in fact compiled with only in maternity hospitals.
+
+<<3240.26;3249.14;en>>
+Due to this restrictive regulation, in the Czech Republic there is neither a single midwife assistant at home births, nor there is a single midwife center.
+
+<<3249.14;3264.18;en>>
+By way of result, as the applicant was prevented from enjoying an assistance of a qualified medic at home, and at the same time she could not have delivered her child in a midwife center, she was forced to deliver her child in a maternity hospital.
+
+<<3264.18;3275.3;en>>
+Finally, the applicant is going to provide an overview of reasons supporting the conclusion that the state failed to comply with its negative obligations under Article 8, Subsection 2 of the Convention.
+
+<<3275.3;3287.74;en>>
+As already mentioned before, any justifiable intervention of the state in the applicant's rights for private and family life must comply with the requirements of legality, legitimacy, and proportionality.
+
+<<3287.74;3299.1;en>>
+The applicant believes that during her pregnancy before the adoption of the new legal regulation in April 2012, the prerequisites of legality and proportionality were not satisfied.
+
+<<3299.1;3304.54;en>>
+As the lack of satisfaction of these requirements were described in detail by Mr. Zalhansky,
+
+<<3304.54;3306.94;en>>
+the applicant will only refer to these.
+
+<<3306.94;3315.38;en>>
+That said, the lack of proportionality will be further addressed by the applicant when providing a reply to Query Number 6 of the Court.
+
+<<3315.38;3352.1;en>>
+By means of ending her comments to Query Number 2, the applicant summarizes that her complaints should be evaluated both under the positive obligations of the state, as she was forced to deliver her child in maternity hospital under the new legal regulation, clearly allowing only for maternity hospital births, and under the state's negative obligations, as during the major part of her pregnancy, the state in fact restricted her right on a qualified assistance at home birth by means of substituted real legal regulation and unforeseeable and arbitrary procedures of the health care public authorities.
+
+<<3352.1;3365.1;en>>
+The applicant has been further invited to provide the court with the information on whether any assistance of midwives at delivery at home is available on a private basis that is outside the public health insurance scheme.
+
+<<3365.1;3369.34;en>>
+First of all, the applicant indicates that there are two separate questions involved.
+
+<<3369.34;3376.22;en>>
+First, is there any possibility for expectant mothers to enjoy an assistance of a midwife at planned home delivery?
+
+<<3376.22;3389.26;en>>
+The second, if so, are expectant mothers entitled either to recover their costs for the midwife's assistance from the public insurance scheme or to fund such assistance on a private basis?
+
+<<3389.26;3393.74;en>>
+The answer to the first question undoubtedly answers also the other.
+
+<<3393.74;3404.5;en>>
+Expectant mothers in the Czech Republic are entirely prevented from delivering at home births with the assistance of midwives, and neither they can opt for a delivery in midwife centers.
+
+<<3404.5;3418.7;en>>
+The assistance home birth is directly banned by the Act on Health Care Services, while the assisted births in midwife centers is also obstructed and in fact banned by the excessive operational requirements of the substitute regulation.
+
+<<3418.7;3428.78;en>>
+There are no licensed midwives in the Czech Republic providing assistance at home births, and until now, there have been any midwife centers either.
+
+<<3428.78;3443.18;en>>
+In order to have the possibility to enjoy a qualified medical assistance at birth at all, expectant mothers are forced to give birth exclusively in maternity hospitals with absolutely no possibility of an opt-out.
+
+<<3443.18;3449.98;en>>
+These conclusions were also confirmed by the government in its previous observation submitted to the court.
+
+<<3449.98;3459.74;en>>
+Although it may be superfluous under the circumstances, the applicant will also address a short reply also to the query of funding the cost of home deliveries.
+
+<<3459.74;3466.74;en>>
+The legal regulation of recovery medical services in the Czech Republic is primarily based on a public health insurance scheme.
+
+<<3466.74;3480.06;en>>
+Notwithstanding the above, the scheme also allows that medical performances, mostly the above standard care, are also provided for remuneration paid directly by patients on a private basis.
+
+<<3480.06;3493.52;en>>
+In the end of the day, due to the current legal regulation, there is no assistance of a midwife that could be enjoyed by an expectant mother, neither on a basis of a public insurance scheme nor on a private basis.
+
+<<3497.72;3504.62;en>>
+Turning to query number six, as implied by the court's query, there are two separate fields of answers.
+
+<<3504.62;3523.54;en>>
+While the first question targets the interests aimed by the current Czech legislation in the field of obstetrics, the other question focuses on whether there is, or whether there is not, a fair balance between the interests allegedly protected by the states through its regulation and the private interests of the applicant.
+
+<<3523.54;3533.16;en>>
+Answering the first question, the applicant would like to point out that it is rather the government to allege and prove the interests and rights protected by the said regulation.
+
+<<3533.16;3544.78;en>>
+From the applicant's point of view, the interests claimed by the government to be protected under the current legislation are of a virtual nature, generated by the recent historic experience and inertia.
+
+<<3544.78;3565.1;en>>
+The current legislation set up in the field of obstetrics is only a relic of a regime that was based on a disgrace to human rights, that was dependent on a society resigning on the elementary values of Western civilization, and that encouraged its citizens to refrain from showing any sign of individuality in order to keep the power over them.
+
+<<3565.1;3574.66;en>>
+These principles are inconsistent with the principles of a modern democratic legal state, which observes the elementary human rights and human dignity.
+
+<<3574.66;3591.74;en>>
+However, some of the said principles unfortunately still apply in the expectant mother-doctor relationship, which is characterized by the vulnerability of the expectant mother, and which tends to be based on a principle of subordination.
+
+<<3591.74;3598.9;en>>
+Moving forward to the issue of a fair balance between the applicant's private rights and public interests, the applicant holds as follows.
+
+<<3598.9;3608.9;en>>
+In order to determine a fair balance between concurrent private rights and public interests, there must be a real private right and a real public interest that are, at some point, concurrent.
+
+<<3608.9;3625.78;en>>
+In case where there is either no actual private right, which could be interfered or threatened by the state, or, respectively, there is no actual public interest that could be interfered or threatened by the exercise of the respective private right, there can be, ipso facto, no fair balance.
+
+<<3625.78;3633.54;en>>
+The appropriate private right for the appropriate public interest, as the case may be, shall then automatically apply.
+
+<<3633.54;3648.7;en>>
+In this regard, the court's practice has already established that finding such a fair balance, all rights coming to the test of proportionality must be real and effective rights, not only rights that are theoretically all illusionary.
+
+<<3648.72;3664.1;en>>
+Therefore, in the given case of the applicant, it is necessary, prior to assessing the individual concurrent rights and interests within the SAT test of proportionality, to determine first whether these concurrent rights and interests are indeed real and actual rights.
+
+<<3664.1;3680.7;en>>
+While the right of a woman to decide on the circumstances of her delivery has been already ruled by the court to be a real right, falling within the scope of the right for private and family life under the convention, the public interest on protection of health of mother and child, claimed by the government, is virtual only.
+
+<<3680.7;3698.58;en>>
+The applicant has presented numerous academic researches, analyses, and meta-analyses, which have proved, without reasonable doubt, that the levels of risk for newborns and mothers relating to spontaneous deliveries are fully comparable, both for the home deliveries and deliveries in medical hospitals.
+
+<<3698.58;3704.3;en>>
+Moreover, a home birth, surprisingly, represents even a safer option for mother.
+
+<<3704.3;3716.82;en>>
+Assuming that levels of risk at home births do not exceed the risks level of a delivery in maternity hospitals, a restriction of assisted home births cannot represent a legitimate protection of the health for mother and child at delivery.
+
+<<3716.82;3729.24;en>>
+Consequently, the public interest on health of mothers and child, alleged by the state, is virtual in this case, and as such, cannot serve as legitimate benchmark for the test of proportionality.
+
+<<3729.24;3743.86;en>>
+For sake of completeness, and on top of the above, the applicant believes that a test of proportionality could be carried out only if the risks level associated with home birth would be higher than the risks level of deliveries in maternity hospitals.
+
+<<3743.86;3755.62;en>>
+Only in such theoretical situation, it will be possible to assess whether the private right of the expected mother would or would not outweigh the high risk associated with the home births.
+
+<<3755.62;3768.14;en>>
+Given the above, the applicant is convinced that a current legal regulation, which is also applicable at the time of her delivery, unjustifiably strikes the fair balance of her private rights and public interests.
+
+<<3768.14;3771.06;en>>
+Dear Mr. President, honorable members of the court,
+
+<<3771.06;3791.58;en>>
+we have met in this institution that has been established as the ultimate beacon of human rights as a reaction to the world's greatest and global tragedies, since the applicants' human rights were interfered into by the high state of convention, by the state of the convention, which gave oath to respect these rights and to provide them with appropriate protection.
+
+<<3791.58;3799.86;en>>
+The state has deliberately prevented the applicants from exercising their choice on the circumstances of delivery by preventing them to enjoy the care of the midwives.
+
+<<3799.86;3808.98;en>>
+Midwives in the Czech Republic are subject to continuous repression by the state, which has been happening in the level of legislation and administrative practices.
+
+<<3808.98;3817.38;en>>
+As a leading principle, the respective international treaties observe the premise that it is parents who know the best the needs and welfare of their child.
+
+<<3817.38;3824.66;en>>
+It is certainly the parents who respect such needs and welfare, also in a delicate period of pregnancy and birth.
+
+<<3824.66;3836.58;en>>
+On the contrary, the government dares to deny this principle and to introduce an argumentation based on the assumption that a woman opting for home birth acts in a contrary to the needs and benefits of her child.
+
+<<3836.58;3840.5;en>>
+The applicants feel this underlying argumentation as highly offensive.
+
+<<3840.5;3851.26;en>>
+In a situation in which a woman intends to exercise her right, which should be protected by the state, putting a woman against her child represents a pure perversion of a post-tolerance state.
+
+<<3851.26;3858.82;en>>
+Similarly, the state enterprises the right of an expectant mother to choose the circumstances of her delivery, i.e. as a right that is contravented.
+
+[[JudgeP;Mark Villiger]]
+
+<<3859.09;3863.24;en>>
+Excuse me, Mr. Hořejší, could you please round off your submissions?
+
+[[Applicant;AP2]]
+
+<<3862.75;3868.91;en>>
+Mr. President, Honourable Members of the Court,
+
+<<3868.91;3878.43;en>>
+Once a catalogue of human rights was established as the fundament of a legal state and was summarized in the proclamation of liberty, equality and brotherhood. After more than
+
+<<3878.43;3887.55;en>>
+two centuries of rapid development, human rights have firmly established as leading principles of modern democracies. There are only a few areas in which the content of human
+
+<<3887.55;3892.51;en>>
+rights has not yet been fully accomplished. Therefore, I stand here right before you at
+
+<<3892.51;3898.83;en>>
+this very moment with a kind but urgent request to satisfy the modern-wide proclamation, liberty, equality and brotherhood. Thank you.
+
+[[JudgeP;Mark Villiger]]
+
+<<3904.82;3906.98;en>>
+Thank you Mr. Hořejší.
+
+<<3906.98;3911.62;en>>
+Do judges have any questions for the parties?
+
+<<3911.62;3912.62;en>>
+Judge Nußberger please.
+
+[[Judge;Angelika Nußberger]]
+
+<<3914.53;3915.93;en>>
+Yes, please.
+
+<<3915.93;3922.97;en>>
+The government has mentioned the recently published judgment of the Czech Constitutional Court.
+
+<<3922.97;3928.25;en>>
+And actually, you said that it's more a procedural violation that was found.
+
+<<3928.25;3935.09;en>>
+I just want to quote a small paragraph out of this judgment and ask the government to comment on it.
+
+<<3935.09;3948.89;en>>
+I quote, a modern democratic state founded on the rule of law is based on the protection of individual and inalienable freedoms, the delimitation of which closely relates to human dignity.
+
+<<3948.89;3957.49;en>>
+That freedom, which includes freedom to personal activities, is accompanied by a certain degree of acceptable risk.
+
+<<3957.49;3967.21;en>>
+The right of parents to a free choice of place and mode of a delivery is limited only by the interest of safe delivery and health of the child.
+
+<<3967.21;3975.65;en>>
+That interest cannot be, however, interpreted as an ambiguous preference for deliveries in hospital.
+
+<<3975.65;3980.93;en>>
+So please, I would like to ask you to comment on this part of the judgment.
+
+<<3980.93;3986.25;en>>
+And my second question would be also to the government.
+
+<<3986.25;3999.81;en>>
+Are there any secondary aims of the legislation in protecting especially vulnerable women who might not be able to arrange safe birth at home properly?
+
+<<3999.81;4009.17;en>>
+And in this regard, I would also like to know from the applicants why they emphasized that the women were highly educated.
+
+<<4009.17;4013.57;en>>
+So is there a risk for women who are not that highly educated?
+
+<<4013.57;4019.29;en>>
+And my last question would concern the statistics.
+
+<<4019.29;4030.81;en>>
+The expert of the government has mentioned the risks that can occur, even if there was no risk visible in advance.
+
+<<4030.81;4048.01;en>>
+So I would like to know, if you have any data, how often a normal birth has to be interrupted and the mother or the child given emergency aid in cases where no such risk was visible before.
+
+<<4048.01;4048.01;en>>
+Thank you.
+
+[[JudgeP;Mark Villiger]]
+
+<<4050.31;4052.75;en>>
+Thank you, Judge Nußberger.
+
+<<4052.75;4052.75;en>>
+Judge Power, please.
+
+[[Judge;Ann Power-Forde]]
+
+<<4055.29;4064.01;en>>
+Thank you. We heard evidence today from the government, from an expert obstetrician, gynecologist,
+
+<<4064.01;4070.01;en>>
+and I would be interested in hearing the applicant's response to the evidence that was produced today.
+
+<<4070.01;4090.33;en>>
+The evidence was, if I understood it correctly, that at times an unanticipated risk can occur, such as an abruption during pregnancy, which requires delivery of the baby within minutes, if I understood correctly. For example, I think the example given was where there was
+
+<<4090.33;4101.73;en>>
+a lack of oxygen to the baby, and perhaps in circumstances a baby may need to be delivered by a caesarean section. I would be interested in hearing the applicant's response to such
+
+<<4101.73;4135.81;en>>
+evidence through the prism of a question, how would the best interests of the child be weighed in circumstances where such an emergency occurred, even where midwifery or medical care had been afforded by a state, but where such care was inadequate because, for example, it would take too long to get the baby to a hospital, the baby could suffer, I think it was either catastrophic or devastating consequences, if delivery was not effected within minutes. Thank you. How would the best interests of the child be served in the balance
+
+<<4135.81;4135.81;en>>
+in those circumstances?
+
+[[JudgeP;Mark Villiger]]
+
+<<4137.74;4139.94;en>>
+Thank you, Judge Power.
+
+<<4139.94;4139.94;en>>
+Judge Lemmens.
+
+[[Judge;Paul Lemmens]]
+
+<<4143.09;4144.65;en>>
+Thank you, Mr. President.
+
+<<4144.65;4155.69;en>>
+Actually, I would like to continue somewhat on that question, but then more a question to the government, also focusing on the public interest that it is invoking.
+
+<<4155.69;4161.25;en>>
+And I indeed heard Mr. Velebil referring to the need for urgent action
+
+<<4161.25;4163.77;en>>
+in life-threatening situations.
+
+<<4163.77;4180.37;en>>
+But my question is, having regard to that aim of the legislation, which arguably is a very legitimate one, why then does the law not go so far as to prohibit altogether deliveries at home?
+
+<<4180.37;4186.85;en>>
+Why are mothers still allowed to give birth at home?
+
+<<4186.85;4196.17;en>>
+And in the present situation, that means allowed and obliged to give birth at home in an unassistant way.
+
+<<4196.17;4202.17;en>>
+In other words, why doesn't the state bring its reasoning to its logical end?
+
+<<4202.17;4205.77;en>>
+Why does it stop somewhere before getting to that point?
+
+[[JudgeP;Mark Villiger]]
+
+<<4207.13;4208.81;en>>
+Thank you, Judge Lemmens.
+
+<<4208.81;4208.81;en>>
+Judge Potocki, please.
+
+[[Judge;André Potocki]]
+
+<<4212.06;4213.58;fr>>
+Merci, M. le Président.
+
+<<4213.74;4216.9;fr>>
+Ma question est dirigée vers le gouvernement.
+
+<<4218.14;4224.74;fr>>
+Je comprends bien sûr toute l'importance que représente l'objectif de la santé de l'enfant.
+
+<<4226.54;4234.26;fr>>
+Le gouvernement a choisi la voie d'une prohibition indirecte, mais presque absolue.
+
+<<4235.62;4241.46;fr>>
+Certains Etats, à l'inverse, ont préféré la régulation à la prohibition.
+
+<<4242.7;4254.3;fr>>
+Cela signifie concrètement qu'ils ont établi une liste de conditions matérielles et médicales pour autoriser l'accouchement à domicile.
+
+<<4254.46;4270.9;fr>>
+Quelles observations le gouvernement fait-il à l'égard de tel système de régulation, d'une part au regard de l'objectif de l'intérêt de l'enfant, de la santé de l'enfant, et d'autre part au regard du principe de proportionnalité?
+
+[[JudgeP;Mark Villiger]]
+
+<<4272.94;4276.94;en>>
+Thank you, Judge Potocki.
+
+<<4276.94;4277.94;en>>
+Nobody else?
+
+<<4277.94;4279.94;en>>
+The court will now rise.
+
+<<4279.94;4292.94;en>>
+Proceedings will resume in 15 minutes, when the parties will return for a second round of short pleadings to respond to the submissions in the first round and to judges' questions.
+
+<<4292.94;4292.94;en>>
+Thank you.
+
+[[Announcer;UNK]]
+
+<<4346.11;4346.71;fr>>
+La Cour!
+
+[[JudgeP;Mark Villiger]]
+
+<<4380.62;4381.34;en>>
+Please be seated.
+
+<<4381.34;4389.82;en>>
+I call Mr. Schorm.
+
+[[Government;GR1]]
+
+<<4396.23;4404.35;en>>
+I would comment very briefly to the speech of the other party and try to answer some of the questions.
+
+<<4404.35;4409.39;en>>
+And then I would once more ask you to pass the floor to Dr. Bellabile
+
+<<4409.39;4415.87;en>>
+in order to complement my remarks.
+
+<<4415.87;4436.39;en>>
+As to individual circumstances of deliveries of the applicants, I would like to point out that should there be any discontent with the way this was conducted in a maternity hospital, there should have been civil proceedings against the hospital in order to establish the facts.
+
+<<4436.39;4445.55;en>>
+Because otherwise, these are only information provided by one party and not verified.
+
+<<4445.55;4461.35;en>>
+As far as the ideas that in some countries there is a violation of human rights obligations, for example, in Germany, the UK, the Netherlands, or Austria, because of allowing home deliveries, I think it's a sophisticated argument.
+
+<<4461.35;4479.25;en>>
+And the same is valid for the supposedly unprotected children who are born at home when there is prohibition to pay assistance to women in labor.
+
+<<4479.25;4489.19;en>>
+And as far as the CEDAWs comments, there was never a comment saying that mothers should be allowed to be born at home.
+
+<<4494.87;4509.07;en>>
+We do not believe that the maternity centers or birth centers, which do not exist in the Czech Republic but which may exist, are subjected to requirements which are higher or significantly higher than in other countries.
+
+<<4509.07;4519.17;en>>
+As far as the foreseeability of legal regulation, I think one has to place the two cases in the relevant period.
+
+<<4519.17;4533.55;en>>
+If there was a decree of the Ministry of Health specifying exactly the requirement for equipment in September 2010, then it was clear from then on what the requirements are.
+
+<<4533.55;4541.57;en>>
+So it should have not had a bearing on the applicant's choices.
+
+<<4541.57;4554.23;en>>
+We believe that the fetus has also some rights and that these children to be born needs to be protected as well.
+
+<<4554.23;4561.55;en>>
+I would also like to point out that these two cases are not about persecution of midwives.
+
+<<4561.55;4564.23;en>>
+This is something completely different.
+
+<<4564.23;4580.19;en>>
+As far as your respective questions are concerned, I would say first in response to Judge Nussberger that certainly the Constitutional Court has commented very recently upon the issue which we are discussing today.
+
+<<4580.19;4592.59;en>>
+But it was an obiter dictum clearly in proceedings whose core of discussion was not precisely whether to permit or not home births.
+
+<<4592.59;4603.27;en>>
+And it's also taken out of a context if we just point out, single out this particular paragraph from the Constitutional Court's judgment.
+
+<<4603.27;4618.11;en>>
+In our opinion, should there be any decision of the Constitutional Court, and the Constitutional Court did have an opportunity to do so at its plenary level, should there be any Constitutional Court decision at the domestic level?
+
+<<4618.11;4626.31;en>>
+Obviously, there is Article 53 of the Convention allowing for high level of respect for human rights.
+
+<<4626.31;4635.27;en>>
+But such a decision should be taken after a thorough discussion of all the arguments, which was not the case in Mrs. Klinic's Markova
+
+<<4635.27;4638.67;en>>
+particular affair.
+
+<<4638.67;4656.91;en>>
+As far as vulnerable women, I would say that there is a large net of gynecological practices, and that there is care in order to avoid various risks any vulnerable women can face.
+
+<<4656.91;4663.27;en>>
+And this is obviously paid by public health insurance.
+
+<<4663.27;4668.87;en>>
+Obviously, if there is any problem, there is still the possibility to call for emergency.
+
+<<4668.87;4677.59;en>>
+And the woman could be either secured in an emergency situation in place or taken to hospital, or both, finally.
+
+<<4680.27;4694.11;en>>
+As far as Judge Lemens' question, it concerns, in reality, the ban on mothers to deliver anywhere else than in hospital.
+
+<<4694.11;4697.35;en>>
+Well, there are obviously always emergency situations.
+
+<<4697.35;4704.35;en>>
+Some children are born at a filling station at the highway.
+
+<<4704.35;4707.63;en>>
+And we cannot rule out these situations.
+
+<<4707.63;4713.97;en>>
+But the core of the question is whether we should really go so far to criminalize mothers.
+
+<<4713.97;4719.91;en>>
+Because it's about that if we introduce a prohibition that there should be a sanction.
+
+<<4719.91;4722.19;en>>
+We do not believe that it is necessary.
+
+<<4722.19;4728.55;en>>
+And we also believe in a sense of responsibility of the mother and of parents.
+
+<<4728.55;4745.15;en>>
+As far as Judge Potocki's question about the possibility to introduce regulation by, let's say, requirements attached to an individual case, we simply think that it's not sufficient.
+
+<<4745.15;4752.23;en>>
+And we believe that it's within the margin of appreciation of the state to make a general prohibition of this kind.
+
+<<4752.23;4756.63;en>>
+And we also find a certain support for that in the court's case law.
+
+<<4756.63;4769.23;en>>
+For example, it was mentioned in the Grand Chamber's judgment in SH versus Austria that there is still the possibility to decide a question of proportionality at the level of legislation.
+
+<<4769.23;4775.83;en>>
+And the legislator, in the broader sense of the term, decided that.
+
+<<4775.83;4786.79;en>>
+So we simply believe that for the sake of every life, it is good, it is imperative to minimize the risks.
+
+<<4786.79;4803.51;en>>
+And this level of sensitivity to this issue might be different in the Czech Republic, or in Germany, or in Ireland, or in other countries, in the Netherlands, for example, which is known for a higher rate of home deliveries.
+
+<<4803.51;4810.31;en>>
+But this rate is very sharply decreasing during the last years.
+
+<<4810.31;4817.71;en>>
+I would now, with your permission, ask Dr. Pellebiel to supplement information provided by myself.
+
+<<4817.71;4817.75;en>>
+Thank you.
+
+[[JudgeP;Mark Villiger]]
+
+<<4819.9;4821.66;en>>
+Thank you, Mr Schorm. Mr Velebil, please.
+
+[[Government;GR2]]
+
+<<4826.49;4829.09;en>>
+Mr. President, Honorable Judges,
+
+<<4829.09;4842.77;en>>
+I was asked to give some information about the data, how frequently the normal birth could turn into something which is not normal or something which would require an emergency attention.
+
+<<4842.77;4845.61;en>>
+In my previous presentation, I mentioned three situations.
+
+<<4845.61;4856.37;en>>
+First one is the premature separation of placenta that I called the sudden abruption of oxygen supply to the fetus during labor.
+
+<<4856.37;4860.01;en>>
+It's really difficult to get hard and precise data.
+
+<<4860.01;4887.17;en>>
+However, in the Czech Republic, where we have approximately 100,000 births, and overall among term babies, we experience 100 deaths of a baby during first week of life, which is the period which can be attributable to complications during labor, is 100.
+
+<<4887.17;4898.29;en>>
+In the Czech Republic, we have those premature separations of placenta in year 2011, over 150.
+
+<<4898.29;4912.49;en>>
+If I say that at least two-thirds are occurring among term babies, and if those deliveries are occurring at the home environment, there is no way for the baby to survive.
+
+<<4912.49;4929.49;en>>
+If you weight those individual cases of sudden abruption of oxygen supply to the overall early neonatal mortality in the country, that would double the outcome, the adverse outcome.
+
+<<4929.49;4940.33;en>>
+The second condition was profuse bleeding during labor or shortly after delivery of a child.
+
+<<4940.33;4945.33;en>>
+Again, it's a matter of measure, how we measure the outcome.
+
+<<4945.33;4954.37;en>>
+But Czech data, they show that 4% of deliveries are experiencing heavy bleeding.
+
+<<4954.37;4975.97;en>>
+If we talk about other cause for sudden abruption of oxygen supply to the baby, there's a situation when the umbilical cord gets before the presenting part, in case of home delivery, probably the present baby's head, and the baby's head is actually terminating the blood flow in the umbilical cord.
+
+<<4975.97;4985.37;en>>
+We have usually in between 30 to 50 in the country in absolute terms.
+
+<<4985.37;4997.73;en>>
+Talking about the international data and international experience, again, there are studies of small extent which are hardly conclusive.
+
+<<4997.73;5002.89;en>>
+And again, it's a matter of how we do measure adverse outcome.
+
+<<5002.89;5013.49;en>>
+If we are talking about mortality of the baby, which can be possibly attributable to the course of labor, we are talking about almost rare events.
+
+<<5013.49;5020.17;en>>
+Among term babies, it's less than half per 1,000.
+
+<<5020.17;5028.13;en>>
+And therefore, if we use that measure, we need huge numbers to say what's better and what's worse.
+
+<<5028.13;5060.61;en>>
+Therefore, I would like to brought your attention to recently published studies in June and August this year, which are actually dealing with millions of births in the United States, and which are actually describing the period of the one week after delivery, and documenting that those babies who are born in the home environment, they have higher early neonatal mortality under those conditions.
+
+<<5060.61;5091.05;en>>
+I would also like to turn your attention to the fact that even if you do very thorough selection of women with uncomplicated physiological pregnancy, in large extent, even in countries with higher proportion of home births, you have to transfer emergently the mother in labor to the hospital, sometimes exceeding the level of 40%.
+
+<<5091.05;5093.85;en>>
+And last remark is that the question is...
+
+[[JudgeP;Mark Villiger]]
+
+<<5093.42;5096.74;en>>
+Mr. Villabil, you have exceeded your time. Could you please come to an end?
+
+[[Government;GR2]]
+
+<<5097.17;5098.01;en>>
+Okay.
+
+<<5099.03;5107.69;en>>
+I would like to mention the recent data of EuroPeristat, published in May 2013, representing European data for 2010.
+
+<<5107.69;5110.55;en>>
+And let me cite two sentences only.
+
+<<5110.55;5114.89;en>>
+In most European countries, less than 1% of births took place at home.
+
+<<5114.89;5117.37;en>>
+In England, this figure was 2.5%.
+
+<<5117.37;5119.03;en>>
+In Wales, 3.7.
+
+<<5119.03;5120.83;en>>
+In Iceland, 1.8.
+
+<<5120.83;5123.03;en>>
+And Scotland, 1.4.
+
+<<5123.03;5132.75;en>>
+In the Netherlands, where home births have been a usual option for women, with uncomplicated pregnancies, 16.3% of all births occurred at home.
+
+<<5132.75;5139.93;en>>
+This is, however, a substantial change from 2004, when this proportion exceeded 30%.
+
+<<5139.93;5141.89;en>>
+And the very last sentence.
+
+<<5141.89;5156.29;en>>
+I would like to brought your attention to the fact that Czech Republic, according to EuroPeristat data, has that relevant early neonatal mortality, 1 per 1,000.
+
+<<5156.29;5160.19;en>>
+England and Wales, 1.9.
+
+<<5160.19;5164.69;en>>
+And the Netherlands, 2.5 in the year 2010.
+
+<<5164.69;5165.69;en>>
+Thank you.
+
+[[JudgeP;Mark Villiger]]
+
+<<5167.66;5171.9;en>>
+Thank you Mr Velebil. I now call Mr Zahumenský.
+
+[[Applicant;AP1]]
+
+<<5175.25;5178.73;en>>
+I would like to directly pass the floor to Mr. Hrishi.
+
+[[Applicant;AP2]]
+
+<<5184.14;5190.22;en>>
+Dear Mr. President, honourable members of the court, first of all, in reply to queries
+
+<<5190.22;5203.66;en>>
+of the court and in reply to the governmental observations and their findings presented at this very moment, I would first of all pass the word to Ms. Pavlikova to answer all
+
+<<5203.66;5210.34;en>>
+the questions relating to medical statistics and the expert data. Then I will refer to
+
+<<5210.34;5221.88;en>>
+you back with replies to the question of Judge Nussbauger and with some of other points which were raised by the government. So I feel part of the word to Ms. Pavlikova first.
+
+[[JudgeP;Mark Villiger]]
+
+<<5224.39;5224.89;en>>
+Please.
+
+[[Applicant;AP3]]
+
+<<5224.89;5226.67;en>>
+Thank you.
+
+<<5226.67;5228.43;en>>
+Dear Mr. President, honorable judges,
+
+<<5228.43;5238.59;en>>
+I'd like to point out some discrepancies or complement the data provided by Mr. Bellebill.
+
+<<5238.59;5261.91;en>>
+First of all, I want to state that those discussed adverse situations, like abruption of placenta or prolapse of the nuchal cord, were also documented very meticulously by a German organization who is collecting data for almost 12 years of home birth.
+
+<<5261.91;5275.55;en>>
+And out of this data, it is completely clear that these adverse effects, adverse situations, occur at home in one half or in one third of situations than documented in the Czech Republic.
+
+<<5275.55;5289.75;en>>
+So in absence of different interventions, which is also proved by international studies, those adverse situations occur much rarely.
+
+<<5289.75;5296.67;en>>
+And there is plenty of time to assess the risks and transfer the woman to the hospital.
+
+<<5296.67;5300.51;en>>
+It is true that there is a lot of transfers during home birth.
+
+<<5300.51;5304.59;en>>
+It's higher for a primipare, for the women who will give birth for the first time.
+
+<<5304.59;5310.11;en>>
+It's very low for women who give birth for a second or higher time.
+
+<<5310.11;5313.67;en>>
+On the other hand, most of the transfers are not in a hurry.
+
+<<5313.67;5319.11;en>>
+They are normally performed by a car of the family or of the midwife.
+
+<<5319.11;5323.51;en>>
+And based on this German data, only 5% of these transfers are urgent.
+
+<<5326.23;5332.79;en>>
+And they occur in 10 to 20 minutes to the hospital, where there is good communications with the hospital.
+
+<<5332.79;5338.47;en>>
+And the hospital is prepared for receiving the woman in need.
+
+<<5338.47;5349.79;en>>
+And so the time between the situation and between the medical intervention is not much higher than if it occurred in the hospital.
+
+<<5349.79;5356.31;en>>
+Secondly, I'd like to point out three points from the article of Mr. Valleville, which
+
+<<5356.31;5358.07;en>>
+was published last year.
+
+<<5358.07;5368.07;en>>
+And it states that consensual acceptance of home birth is conditioned by the exclusion of individual risks, presence of qualified personnel, and availability of emergency transfer to a hospital.
+
+<<5368.07;5376.31;en>>
+And those three points are an integrated part and working part of many health systems, many health care systems.
+
+<<5376.31;5383.27;en>>
+And a lot of those are presenting similar perinatal results as the Czech Republic.
+
+<<5383.27;5392.75;en>>
+Let me state also that the perinatal results are not, well, the home births are not the only thing that contributes to perinatal results.
+
+<<5392.75;5398.19;en>>
+There is a lot of different aspects, like the homogeneity of the society.
+
+<<5398.19;5410.75;en>>
+In the states where there is a lot of immigrants who have problems understanding and getting to the health care, the perinatal results are higher just by this situation.
+
+<<5410.75;5419.71;en>>
+Also, the Czech Republic prides in very extensive perinatal screening for anomalies in babies.
+
+<<5419.71;5439.19;en>>
+And while the numbers of invasive perinatal tests is almost double than, for example, in UK or Sweden, all those numbers affect the perinatal results, not only the allowance or forbidden of the home births.
+
+<<5439.19;5443.87;en>>
+Let me state that there is no thing such as the unique best health care system.
+
+<<5443.87;5448.43;en>>
+Very different systems can provide similar perinatal results.
+
+<<5448.43;5465.63;en>>
+And there is no need for fear that the change of system, the change of allowing the women to give birth at home with the regulations, court regulations, would lead to worsening of the Czech perinatal results.
+
+[[JudgeP;Mark Villiger]]
+
+<<5471.76;5473.08;en>>
+Thank you, Mr. Pavlíková.
+
+<<5473.08;5474.68;en>>
+Mr. Hořejší, please.
+
+[[Applicant;AP2]]
+
+<<5476.27;5479.83;en>>
+Mr. President, on behalf of the applicants,
+
+<<5479.83;5489.79;en>>
+I will now refer to the additional query of Judge Nussberg regarding the higher education of the applicants.
+
+<<5489.79;5497.75;en>>
+First of all, we need to point out that that's rather high education, which was at the university level in the case of the applicants.
+
+<<5497.75;5503.27;en>>
+It's not a must in Czech Republic for women to opt for home delivery.
+
+<<5503.27;5507.11;en>>
+On the other hand, in Czech Republic, this is quite logical.
+
+<<5507.11;5517.99;en>>
+The thing is that a usual woman, irrespective of her education, is confronted with a health care system which provides care during the woman's pregnancies.
+
+<<5517.99;5524.35;en>>
+And in such first contact, they meet an obstetrician.
+
+<<5524.35;5533.39;en>>
+And therefore, the first clinch with the system occurs on the woman and obstetrician level.
+
+<<5533.39;5549.51;en>>
+Therefore, at this point, and I believe in all Western countries, the obstetrician, as a qualified medic, is to provide unbiased and all informations regarding possibilities for the woman to give her birth.
+
+<<5549.51;5566.59;en>>
+Therefore, such a woman, irrespective of any level of education, should be informed at all about her possibilities as to deliver at maternity hospital or midwife center or perhaps even at home, subject to an assistant or midwife.
+
+<<5566.59;5581.59;en>>
+However, this works only on a formal level in Czech Republic where there is an obligation of all medical personnel to provide informed consent and to ask for informed consent from patients.
+
+<<5581.59;5583.63;en>>
+This doesn't happen in Czech Republic.
+
+<<5583.63;5597.43;en>>
+And therefore, women in Czech Republic are not informed about their possibilities, about risks, and about all other aspects of their pregnancies and their birth given.
+
+<<5597.43;5601.51;en>>
+That's the question regarding the education.
+
+<<5601.51;5606.67;en>>
+Next, I would like to follow Mr. Shorm's comments regarding
+
+<<5606.67;5613.49;en>>
+to finding of the Constitutional Court regarding the case of Ivana Kerens-Marková.
+
+<<5613.49;5616.63;en>>
+Incidentally, I was defendant, Mrs. Kerens-Marková,
+
+<<5616.63;5621.15;en>>
+and therefore, I guess I'm quite qualified to give a reply.
+
+<<5621.15;5632.47;en>>
+I agree with the government that the proceedings at a constitutional court deal primarily with procedures, procedures fault of common courts.
+
+<<5632.47;5640.51;en>>
+And basically, they deal with the question whether a fair trial requirement was observed or not.
+
+<<5640.51;5666.39;en>>
+On the other hand, it's quite extraordinary that while dealing basically with the formal aspects of a fair trial, the constitutional court found it necessary also to give a word regarding the possibilities of enjoying assisted home birth or not, because it was for the first time when such a question appeared at so high a level of Czech judicial system.
+
+<<5666.39;5686.91;en>>
+As was already said by the court, the answer to ask whether the choice of mothers should be limited to maternity hospitals only or whether there should be broader margin of options for women to choose is quite clear and was quoted by the court.
+
+<<5686.91;5702.63;en>>
+I will end by a few remarks regarding safety in general, because I understand that that's an underlying question for all two cases and is also emphasized by the government.
+
+<<5702.63;5723.51;en>>
+It needs to be said that question of child and woman safety during pregnancy and delivery is basically a question of the whole system set up, of the whole health care provision system, and that there may be several systems of such health care provision.
+
+<<5723.51;5751.15;en>>
+However, given that there are, namely in the Western Europe, systems that allow the mothers to choose home birth or birth in midwife centers or in maternity hospitals with similar results or even better results in case of Iceland than Czech Republic, it clearly shows that allowing for an assisted home birth does not represent any additional risks.
+
+<<5751.15;5765.11;en>>
+By means of an end, I would like to point out to a certain criteria which may be found in splitting those states allowing for home birth and those who do not.
+
+<<5765.11;5775.47;en>>
+It's quite similar at this very court that a similar type of complaints come from countries of the former Soviet Union bloc.
+
+<<5775.47;5793.87;en>>
+Therefore, it's not a question of the Soviet Union but of the former Soviet Union bloc, therefore, from countries which are still transferring from the post-authoritarian set up of legal system and requirements to the values of the democratic Western states.
+
+<<5793.87;5816.95;en>>
+Therefore, what the applicants see is that basically it is the post-authoritarian states who tend to refrain from providing women with a possibility of choice while the Western states do that without any problems and without any adverse impacts on the safety both for mother and child.
+
+<<5816.95;5816.95;en>>
+Thank you.
+
+[[JudgeP;Mark Villiger]]
+
+<<5819.33;5822.13;en>>
+Thank you, Mr. Hořejší.
+
+<<5822.13;5825.15;en>>
+We have now come to the end of the hearing.
+
+<<5825.15;5831.75;en>>
+I thank the parties for their interventions and for their answers to the Court's questions.
+
+<<5831.75;5835.43;en>>
+The Court will now deliberate on the admissibility and merits.
+
+<<5835.43;5837.71;en>>
+The judgment will be delivered later.
+
+<<5837.71;5842.03;en>>
+The parties will be informed of the date of the delivery.
+
+<<5842.03;5843.23;en>>
+I declare the hearing closed.
+

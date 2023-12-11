@@ -1,0 +1,1692 @@
+[[Announcer;UNK]]
+
+<<29.73;30.23;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<76.19;78.95;fr>>
+Je vous prie de bien vouloir vous asseoir.
+
+<<81.23;89.35;fr>>
+Je déclare ouverte l'audience publique sur le fond de l'affaire Fernández Martínez contre Espagne.
+
+<<91.51;101.59;fr>>
+L'affaire a été introduite devant la Cour le 11 décembre 2007 par un ressortissant espagnol, M. José Antonio Fernández Martínez
+
+<<101.59;105.59;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<105.59;114.71;fr>>
+Elle a été attribuée à la troisième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<114.71;123.83;fr>>
+Le 15 mai 2012, une chambre de la troisième section a rendu son arrêt dans l'affaire.
+
+<<123.83;139.87;fr>>
+Le 18 juillet 2012, le requérant a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention et cette demande a été acceptée par le Collège de la Grande Chambre du 24 septembre 2012.
+
+<<139.87;148.11;fr>>
+Le gouvernement est représenté par son agent, M. Sanz Gandásegui.
+
+<<148.11;154.91;fr>>
+Le requérant est représenté par M. Mazón Costa, assisté de M.
+
+<<154.91;160.95;fr>>
+Martínez Segado, tous deux conseils.
+
+<<160.95;166.15;fr>>
+Le requérant est lui aussi présent.
+
+<<166.15;171.15;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<171.15;179.63;fr>>
+Ayant consulté l'agent du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<179.63;184.07;fr>>
+Nous entendrons successivement M. Mazón Costa et M.
+
+<<184.07;193.51;fr>>
+Martínez Segado pour le requérant, puis M. Sanz Gandásegui pour le gouvernement.
+
+<<193.51;195.23;fr>>
+La parole est à M. Mazón Costa.
+
+[[Applicant;AP1]]
+
+<<200.28;233.56;es>>
+Señor Presidente, señoras y señores jueces, todo en el caso de Fernández y sus 16 años de litigio recorrido está ligado a un único elemento, la fatídica fotografía que publicó el diario La Verdad de Murcia el lunes 11 de noviembre de 1996, que recogía al demandante y su familia acudiendo a una reunión del Movimiento Procerivato Opcional, MOCEOP.
+
+<<233.56;238.56;es>>
+Esto le costó el empleo al demandante como profesor de religión.
+
+<<238.56;247.44;es>>
+Se había producido a los ojos del obispo escándalo porque se hizo público lo que todo el mundo sabía.
+
+<<247.44;274.96;es>>
+La jurisprudencia de esta gran sala ha interpretado que en los casos de reenvío ante ella la Corte conserva, como en los casos de inhibición o de sesisemán, la jurisdicción plena para revisar todos los aspectos del fondo del asunto y no únicamente aquellos aspectos que fueron objeto de la petición de reenvío ante el colegio de cinco jueces de la gran sala.
+
+<<274.96;281.16;es>>
+Así lo dice la sentencia KIT contra Finlandia de julio de 2001.
+
+<<281.16;292.08;es>>
+Afirma el juez Seid Arnaiz, juez ad hoc, en su opinión disidente a la sentencia de 15 de mayo, que la sentencia es claramente desproporcionada.
+
+<<292.08;298.24;es>>
+Decir claramente desproporcionada es un buen sinónimo de claramente injusta.
+
+<<298.24;311.6;es>>
+Los motivos del despido del demandante quedaron fijados y cerrados por la nota oficial del obispo y por el relato de hechos de la sentencia del juzgado de trabajo 3 de Murcia.
+
+<<311.6;332.48;es>>
+En este último relato se establece que el demandante, profesor de religión católica, pagado y empleado por el Estado, no por la Iglesia, prestaba servicios a la Iglesia en liceos públicos desde 1991, con propuesta anual del obispado.
+
+<<332.48;349.16;es>>
+En noviembre de 1997 José Antonio fue despedido por el obispado, porque un año antes, en 1996, como hemos dicho, apareció en prensa de forma fortuita esa foto fatídica con su mujer e hijos.
+
+<<349.16;364.32;es>>
+El obispo alegó que era escándalo que se supiese públicamente que el demandante estaba casado y que había sido cura hasta 1984, en que pidió la dispensa del celibato.
+
+<<364.32;382.44;es>>
+La denominación de cura casado para alguien que perdió sus derechos y obligaciones como sacerdote o cura en 1984, al momento de presentar la solicitud de dispensa del celibato, es más bien un teoricismo.
+
+<<382.44;396.6;es>>
+El demandante dejó la vida eclesiástica por completo en 1984, dejó materialmente de formar parte del clero, no era un cura casado, sino más realmente un escura casado.
+
+<<396.6;412.32;es>>
+La conducta profesional del demandante, como profesor de religión, era absolutamente intachable, como lo recoge la sentencia del juez Laboral III y resalta el juez Saiz Arnaiz en su opinión disidente.
+
+<<412.32;427.92;es>>
+Voto en el que se hace eco del apoyo recibido por el demandante de parte de profesores, padres y alumnos de los centros donde enseñó religión, cuando supieron de su despido.
+
+<<427.92;438.56;es>>
+Hasta la audiencia de 22 de noviembre de 2011 ante la Sala, los hechos estaban bastante claros.
+
+<<438.56;444.52;es>>
+José Antonio fue despedido por hacerse pública su condición familiar y personal de cura casada.
+
+<<444.52;459.48;es>>
+Sin embargo, en materia de hechos, la sentencia de la sección tercera de 15 de mayo de 2012 contiene declaraciones contradictorias acerca de los motivos de despido del demandante.
+
+<<459.48;485.48;es>>
+Por un lado, los parágrafos 14, 15, 17 y 48 de la sentencia siguen el relato de hechos del juez Laboral III, declarando que el motivo del despido es el que recoge la nota oficial del obispado sobre el despido, es decir, la conocida publicidad de la vida familiar del demandante derivada de la foto en prensa.
+
+<<485.48;497.52;es>>
+Pero en otros parágrafos de la sentencia, 84 y 86, se sostiene de forma sorpresiva otro punto de vista sobre los motivos del despido opuesto a lo anterior.
+
+<<497.52;510.44;es>>
+En estos 84 y 86 se introducen como motivos de despido supuestas críticas del demandante hacia las posturas de la Iglesia, que nunca el obispo escribió en su nota.
+
+<<510.44;523.2;es>>
+La sentencia de 15 de mayo importa o extrae estos nuevos motivos de despido de creaciones fácticas que introduce la sentencia del Tribunal Constitucional Español.
+
+<<523.2;535.04;es>>
+El tribunal que nosotros dijimos que estaba dominado por los obispos cuando recusamos a dos de sus integrantes jueces por católicos.
+
+<<535.04;541.64;es>>
+Un tribunal que en contra de una prohibición de su propia ley orgánica, artículo 44.1b,
+
+<<541.64;553.08;es>>
+que le impide revisar los hechos, los modificó en contra del demandante y en beneficio de los obispos que ni siquiera eran recurrentes en el caso.
+
+<<553.08;559.08;es>>
+Sabemos que existe una guerra entre parágrafos de la sentencia.
+
+<<559.08;586.12;es>>
+Los parágrafos 14, 15, 17 y 48 sí que respetaron los hechos fijados en el debate interno, pero el 84 y el 86 contradicen a los anteriores, tomando como causas de despido hechos diferentes de la aparición en prensa de la foto, a saber, unas críticas o supuestas críticas atribuidas al demandante, como hemos dicho, nunca debatidas en el proceso laboral.
+
+<<586.12;591.72;es>>
+Vamos a examinar sumariamente cada uno de los parágrafos acerca de los motivos del despido.
+
+<<591.72;608.32;es>>
+En el 14, la sentencia de la sala de siete jueces reconoce que el obispo no renueva el contrato en su nota de noviembre de 1997 debido meramente a la publicidad de la foto en prensa que dice que ha causado rescate.
+
+<<608.32;611.68;es>>
+Dijo literalmente entre comillas el 14.
+
+<<611.68;636.56;es>>
+La publicidad dada por el demandante a su situación personal había conllevado un incumplimiento a este deber de evitar el escándalo, lo que impedía a las autoridades eclesiásticas de proponerle para el curso siguiente para proteger la sensibilidad de los padres de los niños que frecuentaban el centro escolar donde el demandante era profesor.
+
+<<636.56;645.68;es>>
+Recordemos que este parágrafo 14 no incluye ninguna referencia a críticas del demandante contra posturas de la iglesia.
+
+<<645.68;656.8;es>>
+Desde la nota del abispado, la falta que había cometido el demandante era la publicidad, el dichoso poder de la foto.
+
+<<656.8;684.68;es>>
+En el parágrafo 15 de la misma sentencia se alude a la sentencia dictada por el juez de laboral 3 recogiendo que los argumentos utilizados por el obispado para justificar el despido eran –leo literalmente– el hecho de que el demandante había hecho pública su condición de cura casado y de padre de familia, así como la necesidad de evitar los escándalos para proteger la sensibilidad de los padres o de los alumnos.
+
+<<684.68;704.04;es>>
+En el parágrafo 17 de la sentencia se hace referencia a que la sentencia del juez de Murcia establece que la situación de cura casado y padre de familia del demandante era conocida por los padres, por los alumnos y los directores de los centros escolares donde José Antonio había trabajado.
+
+<<704.04;711.8;es>>
+Es decir, el demandante no ocultó ni engañó al obispo ni a nadie.
+
+<<711.8;734.8;es>>
+En el parágrafo 48 de la sentencia de la Sala se establece –leo entre comillas– que la Corte, dueña de la calificación jurídica de los hechos de la causa, siguiendo al juez de trabajo 3 de Murcia, estima que la no renovación del contrato del interesado se ha producido en razón de la publicidad dada al Estado civil del demandante y a su modo de vida familiar.
+
+<<734.8;751.8;es>>
+En efecto, –sigo leyendo el texto– su situación de cura casado y padre de varios hijos era ya conocida por las autoridades eclesiásticas desde 1991, cuando el demandante comienza a impartir los cursos de religión y moral católicas.
+
+<<751.8;783.88;es>>
+No es sino –continúo con la lectura del parágrafo– a partir de la publicación por el diario La Verdad del artículo litigioso, ilustrado con una foto en la cual aparecía el demandante con su familia, que el obispado decide no renovar el contrato del demandante para el año escolar siguiente, bajo el motivo de que la publicidad, dada su situación personal, constituía escándalo entre padres y alumnos. Estos son los parágrafos de la sentencia
+
+<<783.88;798.0;es>>
+de la sección tercera de 15 de mayo de 2012 que siguen al juez de trabajo y atestiguan que el demandante es despedido por la foto. Ahora procedemos a examinar los parágrafos
+
+<<798.0;809.3;es>>
+que se apartan del relato del juez social 3 y siguen al tribunal constitucional, que son los parágrafos 84 y 86 de la sentencia de 15 de mayo. Estos parágrafos crean discordia
+
+<<809.3;815.12;es>>
+bajo mi punto de vista en el seno de la sentencia de la sección tercera.
+
+<<815.12;835.4;es>>
+Según estos parágrafos 84 y 86, que están formando parte de la sección antjoa o fundamentos de derecho y no de la sección anfé o hechos, se hace ahora un nuevo examen de los hechos, distinto al de los anfé y contrapuesto al juez de los hechos. En estos parágrafos y
+
+<<835.4;848.28;es>>
+a estas alturas se dice que el demandante ha hecho críticas contra las posturas de la Iglesia. Toda una sorpresa para la defensa del demandante. La alquimia jurídica de esta
+
+<<848.28;861.28;es>>
+atribución obedece a que en estos parágrafos 84 y 86 ya no se sigue al juez de trabajo, se está siguiendo la sentencia del tribunal constitucional. Y se centra la causa del despido
+
+<<861.28;887.0;es>>
+ya no en la nota del obispo ni en el relato de hechos del juez de trabajo 3, sino en el análisis en el contenido de la noticia publicada por la verdad, donde aparecía la foto, para interpretar esta noticia ahora de un modo distinto a como lo hizo el propio obispo y lo hizo el propio juez de trabajo número 3. Esto, bajo nuestro punto de vista, es como
+
+<<887.0;899.2;es>>
+si en un duelo deportivo, cuando va ganando uno de los equipos, limpiamente se cambiaran las reglas del juego, haciendo que el equipo que va perdiendo ganara. En este artículo
+
+<<899.2;918.8;es>>
+del diario La Verdad se recogían declaraciones periodísticas que nunca eran del propio demandante, que no habló con los periodistas, mantuvo la boca cerrada ante los periodistas, pero sí eran de otros miembros de celibato opcional. Críticas con las posturas de la Iglesia sobre
+
+<<918.8;925.88;es>>
+temas de interés público, celibato, natalidad, divorcio, etcétera. Las declaraciones de
+
+<<925.88;943.84;es>>
+otros miembros de procelibato opcional se consideran para el Tribunal Constitucional también de la responsabilidad del demandante, porque no se marchó ni salió huyendo del sitio. Inaudito. En la sentencia pro obispos que hizo el Tribunal Constitucional se alteraban
+
+<<943.84;958.04;es>>
+las causas de despido eximida por el obispado en contra del demandante y de sus propias reglas. En el parágrafo 84 hay un discurso sobre las causas de despido opuesto al del
+
+<<958.04;966.76;es>>
+parágrafo 48 diametralmente. 48 y 84 son parágrafos que están en guerra. Insistimos
+
+<<966.76;984.24;es>>
+que el obispo no alegó en su comunicación de despido críticas ni acusaciones antieclesiásticas ni contra el movimiento celibato opcional al que pertenecía el demandante, por lo que no existió debate en el proceso laboral a este respecto. Pero es que, suponiendo que
+
+<<984.24;996.28;es>>
+las tales críticas fueran ciertas y se hubieran hecho, si no estaban recogidas en la carta de despido, ¿cómo se iban a examinar posteriormente? Estrasburgo no puede actuar como un tribunal
+
+<<996.28;1008.44;es>>
+de primera instancia, cambiando los hechos del proceso y, menos aún, en beneficio del Estado. Es obvio que los hechos del juez de trabajo 3, seguidos por el parágrafo 48,
+
+<<1008.44;1021.42;es>>
+nunca podían ser modificados ante el propio tribunal constitucional si el único que recurría era el propio demandante, porque rige la denominada prohibición de la reformatio impeius.
+
+<<1021.42;1027.96;es>>
+Examinemos ahora el parágrafo 86. En el 86 de la sentencia de la sala de 15 de mayo se
+
+<<1027.96;1039.84;es>>
+lanzan críticas contra la lealtad profesional del demandante, repito, nunca tratadas en el proceso laboral. Leemos un extracto. Hace notar a este respecto la Corte que el interesado
+
+<<1039.84;1064.2;es>>
+no se ha ocultado de la prensa y que formaba parte del grupo de miembros del movimiento que permanecieron en la reunión, incluso después de percatarse de la presencia de los medios en el lugar, y que estos han expresado abiertamente su desacuerdo con las políticas de la Iglesia en varios aspectos. Cerramos la cita. Es decir, este párrafo
+
+<<1064.2;1087.84;es>>
+está sancionando o criminalizando que el demandante no se ocultase de la prensa, que no saliera huyendo de ella, que sus compañeros, que no él, expresaran diferencias con posturas de la Iglesia, el demandante salía contagiado porque otros que estaban allí habían expresado esas opiniones. Recordemos que en el párrafo 48 se dice que el demandante ha sido despedido
+
+<<1087.84;1091.84;es>>
+por hacer pública su situación personal y familiar. No se menciona la existencia de
+
+<<1091.84;1096.6;es>>
+ninguna crítica. El juez Sajd Arnaiz, cuya opinión decidiente,
+
+<<1096.6;1133.44;es>>
+bajo nuestro punto de vista, puede ser vista como la sentencia correcta que en el ámbito del artículo 8 debió ser emitida por la Corte, sigue en su voto discrepante también los párrafos 14, 15, 17 y 48, que en suma recogen los hechos probados del juez de trabajo 3 de Murcia, y afirma el voto disidente del juez Sajd Arnaiz que el demandante ha sido despedido por hacerse pública su situación familiar y personal de cura casado, y no por ninguna crítica que nunca se hizo valer por el obispo. Extractamos un fragmento del voto
+
+<<1133.44;1139.76;es>>
+particular del juez Sajd Arnaiz. Resulta, dice el voto particular, el voto
+
+<<1139.76;1163.02;es>>
+disidente, de los hechos declarados probados en la sentencia del juez de trabajo 3 de Murcia que tanto la dirección de los dos centros donde el demandante impartía la docencia como los profesores, los alumnos y los padres conocían su condición de cura casado sin que hubiera queja alguna a este respecto. En ningún momento, añade el voto disidente,
+
+<<1163.02;1174.56;es>>
+se dijo que el demandante hiciese proselitismo o que se hubiese pronunciado en clases contra los postulados de la iglesia, incluido el celibato de los sacerdotes.
+
+<<1174.56;1179.48;es>>
+El proceso equitativo del artículo 6.1 de la convención es obvio que se viola si se
+
+<<1179.48;1194.8;es>>
+produce un cambio de debates de los hechos que no fueron establecidos por el órgano que tenía la potestad para establecerlos de forma incontrovertida, en este caso el juez laboral de Murcia. Resulta interesante saber que el fiscal ante
+
+<<1194.8;1217.48;es>>
+el Tribunal Constitucional, en su informe, pidió la estimación del recurso de amparo y consideró que los hechos establecidos –lo dice la página 25 de la sentencia del Tribunal Constitucional remitiéndose a este informe del fiscal– eran los fijados por el juez de trabajo 3 de Murcia. Más datos de interés. De los seis jueces que integraban la sala
+
+<<1217.48;1232.2;es>>
+del Tribunal Constitucional, dos, el señor Sala, que hoy es presidente del Tribunal Constitucional, y la señora Pérez, que ya no está en el Tribunal Constitucional, votaron a favor del demandante incluyendo sus opiniones separadas. Más datos de interés.
+
+<<1232.2;1251.64;es>>
+En la lista de cuestiones para la audiencia ante la sala de siete jueces de 22 de noviembre de 2011, preparada por la propia Corte, había cuatro preguntas delimitando el objeto del debate. Ninguna de las preguntas que delimitaban el objeto del debate se refería a críticas
+
+<<1251.64;1257.88;es>>
+del demandante contra la iglesia. Y en la misma audiencia del 22 de noviembre, en el
+
+<<1257.88;1277.64;es>>
+turno de réplica, denuncié la absoluta incorrección de las acusaciones del entonces agente del Gobierno, donde estaba presente el abogado general del Estado de España, cuando ponía en tela de juicio la conducta de José Antonio, que siempre fue ejemplar.
+
+<<1277.64;1302.72;es>>
+En resumen, sobre esta primera cuestión, debe de resolverse la contradicción interna de la sentencia, armonizando los hechos para que se concrete que la única causa de despido por el obispado y examinada por el juez de trabajo 3 de Murcia fue la publicidad dada a la situación familiar y personal del demandante al aparecerle a fondo en prensa.
+
+<<1302.72;1314.12;es>>
+La segunda cuestión que planteamos es que, como dice el voto particular, el voto disidente del juez Sáenz Arnaiz, la sentencia es claramente desproporcionada. Consideramos que la sentencia
+
+<<1314.12;1330.32;es>>
+está elevando en realidad la mera libertad de contratación de las entidades religiosas al rango de derecho o contenido implícito en el artículo 9 de la Convención sobre la Libertad Religiosa. Esta elevación de rango de la libertad de contratación al de
+
+<<1330.32;1349.04;es>>
+contenido del artículo 9 es contraria a la jurisprudencia del propio Tribunal Europeo y convierte en absoluto el derecho a la libertad de despido, a la vez que en papel ha rugado el derecho a la vida privada y familiar del demandante.
+
+<<1349.04;1367.8;es>>
+La sentencia Hassani-Czauwosz contra Bulgaria, de 26 de octubre del año 2000, en el parágrafo 60, dice que la libertad religiosa no comprende cualquier acto inspirado o movido por una religión o una convicción religiosa. Pero si se respetan los hechos del juez laboral
+
+<<1367.8;1402.56;es>>
+3 y descartamos las acusaciones añadidas o introducidas por el Tribunal Constitucional cuando ya no lo podía hacer a la nota del despido del obispo, el despido del demandante, simplemente por hacerse pública su situación de hombre casado y con hijos, militante de una asociación reivindicativa, que de todo el mundo era sabido esto, queda vacío de contenido de justificación racional y constituye, en definitiva, un acto de clara arbitrariedad que choca con el respeto a la vida privada, tal y como lo reconoce la Convención.
+
+<<1402.56;1414.2;es>>
+La Corte ha resuelto casos análogos de empleados de entidades religiosas despedidos, el caso Lombardi, el caso Schull. En todos esos casos la Corte ha dado la razón, por ejemplo, a
+
+<<1414.2;1420.88;es>>
+Lombardi, que era laico, tan laico como es el demandante. El demandante había abandonado
+
+<<1420.88;1426.0;es>>
+el quebrero en el año 84, ya no tenía vinculación de ningún tipo con la Iglesia Católica.
+
+<<1426.0;1444.58;es>>
+En Lombardi, la Corte amparó al profesor Lombardi, profesor de filosofía del derecho en la Iglesia Católica de Milán, por la libertad de expresión, porque había sido despedido por críticas hacia discrepancias con la Santa Sede. En Schull amparó por la vida privada
+
+<<1444.58;1458.8;es>>
+a un trabajador de una entidad católica, una parroquia católica, porque había iniciado una relación extraconjugal. El señor Fernández, en 1997, cuando es despedido,
+
+<<1458.8;1464.6;es>>
+es tan laico como el señor Lombardi. Los profesores de religión en los centros públicos
+
+<<1464.6;1478.28;es>>
+españoles son fundamentalmente o exclusivamente laicos, no hay sacerdotes ahí, no son personas consagradas a la Iglesia, como era el demandante en 1991, cuando empezó a trabajar. El profesor
+
+<<1478.28;1488.44;es>>
+Fernández, a diferencia del profesor Lombardi, nunca ha hecho críticas por discrepancias contraposturadas de la Iglesia. En fin, para concluir sobre esta cuestión,
+
+<<1488.44;1504.7;es>>
+la sentencia no ha respetado el principio de justo equilibrio entre derechos, dando una dimensión exagerada o absorbente a la autonomía religiosa de la Iglesia católica, dotándola de contenidos nuevos, como la libre contratación en detrimento de la vida privada.
+
+<<1504.7;1515.52;es>>
+Y la última cuestión que analizo yo, antes de dejar paso a mi compañera, es la misma que plantea el juez Saíd Arnede en su opinión disidente. La sala no ha valorado que el empleo
+
+<<1515.52;1526.2;es>>
+del profesor Fernández era pagado con dinero del Estado y no de la Iglesia, lo que significa una mayor vinculación a los derechos fundamentales de la persona. El juez Saíd, en su opinión
+
+<<1526.2;1547.08;es>>
+disidente, plantea, además, que existe una novedad en este caso sobre otros precedentes vinculados a entidades religiosas, que el sueldo y empleo del profesor Fernández al servicio de un liceo está financiado por los presupuestos del Estado. La Corte ha establecido
+
+<<1547.08;1555.4;es>>
+desde sus primeros tiempos el principio de justo equilibrio entre derechos de la convención.
+
+<<1555.4;1566.56;es>>
+Los antiguos egipcios manejaban un concepto que podría ser extrapolable al caso, el juicio del denominado pesado del corazón de la diosa Mat. En el juicio de la diosa Mat, de pesado
+
+<<1566.56;1578.84;es>>
+del corazón, Mat, que era patrona de la justicia, ponía en una balanza una pluma de apertruz que siempre llevaba con ella. En la otra se debía colocar el corazón del recién difunto.
+
+<<1578.84;1585.04;es>>
+Si el corazón era justo, su peso no excedía el de la pluma, y el alma del difunto se salvaba.
+
+<<1585.04;1595.76;es>>
+En el caso del demandante, el peso de su vida privada ha sido empequeñecido, reducido a la magnitud de la pluma de Mat. En cambio, el derecho de la Iglesia a hacer su voluntad
+
+<<1595.76;1604.4;es>>
+o su autonomía religiosa sin límites ha sido un corazón pesado por una trayectoria injusta. El justo equilibrio de Mat tampoco ha sido respetado.
+
+<<1604.4;1605.68;es>>
+Muchas gracias, señor presidente.
+
+[[Applicant;AP2]]
+
+<<1615.41;1656.17;es>>
+Señor presidente, señoras y señores jueces, puesto que esta gran sala ha declarado inadmisible la cuestión relativa a la imparcialidad expuesta en el punto cuarto de nuestras alegaciones, pasamos a exponer el punto quinto de las alegaciones escritas.
+
+<<1656.17;1668.73;es>>
+Y versa sobre las alegaciones escritas del Gobierno ante la gran sala.
+
+<<1668.73;1731.17;es>>
+El Gobierno se acoge al pronunciamiento contenido en la sentencia del juez laboral 3 de Murcia que dice textualmente, y leo entre comillas, «Efectivamente, a la luz de los hechos reiterados, el señor Fernández Martínez ha sido discriminado por razón de su estado civil y por su pertenencia a una asociación, movimiento pro celibato opcional…», es su aparición en la prensa, el detonante de su cese. Y cierro la cita de la sentencia del juez
+
+<<1731.17;1743.77;es>>
+laboral 3. Esas alegaciones de 26 de noviembre de 2012,
+
+<<1743.77;1758.63;es>>
+de entrada, ignoran la contradicción interna de la sentencia acerca del motivo del despido del demandante. Ignoran, o más bien niegan, que la verdadera
+
+<<1758.63;1773.17;es>>
+causa del despido expresada en la nota del obispo y en la sentencia del juez laboral 3 de Murcia nada tuvo que ver con críticas del demandante hacia su iglesia.
+
+<<1773.17;1827.97;es>>
+El Gobierno, en sus alegaciones, sigue el truco de adherirse a la alteración de los hechos que hace el Tribunal Constitucional y pretende equiparar, al igual que el Tribunal Constitucional, la mera y pasiva pertenencia del demandante al movimiento pro celibato opcional con las críticas declaraciones periodísticas que efectuaron otros miembros de celibato opcional, nunca él, tal y como, por otra parte, se pone de manifiesto en el voto particular discrepante de la propia sentencia del Tribunal Constitucional de los magistrados señor Sala, actual presidente del Tribunal Constitucional, y doña Elisa Pérez Vega.
+
+<<1827.97;1836.57;es>>
+Recordemos muy brevemente lo que dice el voto particular a este respecto. Dice «No puede
+
+<<1836.57;1860.09;es>>
+ser impedimento para la continuidad en la prestación del servicio el hecho de pertenecer a una asociación que defiende la concepción de la convivencia que el recurrente había puesto en práctica con conocimiento de la autoridad religiosa, sin que ello impidiera a lo largo de los años la declaración de idoneidad del mismo».
+
+<<1860.09;1865.93;es>>
+Cerramos la cita del voto discrepante de la sentencia del Tribunal Constitucional.
+
+<<1865.93;1898.85;es>>
+Bien, pues el Gobierno pasa por alto esa importante circunstancia de la contradicción y solo usa la sentencia de la Sala de 15 de mayo en cuanto atribuye motivo de despido contra el demandante que nunca fueron invocados por el obispo en su nota, ni examinados por el juez laboral 3, esto es, haber hecho críticas a la doctrina de la Iglesia por el demandante que nunca se hicieron tal y como ha alegado ya mi compañero Letrado Mazón.
+
+<<1898.85;1913.05;es>>
+Junto con el Gobierno, ante la Corte se ha autorizado a efectuar alegaciones escritas a otras tres organizaciones, todas ellas contrarias al demandante.
+
+<<1913.05;1930.41;es>>
+La Conferencia Episcopal, el Centro para el Derecho y la Justicia, nombre que encubre a una ONG del Vaticano, y ante la Gran Sala, por vez primera, a un Departamento Jurídico de la Universidad Católica de Lovaina.
+
+<<1930.41;1942.47;es>>
+Esta lucha resulta un tanto desigual, es de uno, el demandante, contra cuatro, que le obligan a realizar mayores esfuerzos.
+
+<<1942.47;1980.45;es>>
+Es curioso que, aunque el obispo sólo despidió al demandante por hacerse pública su situación familiar y personal, ahora la Conferencia de los Obispos, que encuadra al obispado del demandante, quiere extender el despido ante Estrasburgo poniendo el énfasis en la militancia del demandante en el movimiento Procelivato Opcional Moceop, de la cual quiere hacer, en contra de la nota oficial de despido de 1997, caballo de batalla de la no renovación del contrato.
+
+<<1980.45;1994.17;es>>
+Ya no es el escándalo de ser cura casado, sino que ahora es que el Moceop mantiene posturas contrarias a la Iglesia.
+
+<<1994.17;2007.29;es>>
+Los obispos se han olvidado de la nota de despido del obispo, quieren cambiar el debate ante Estrasburgo y se han olvidado del Antiguo Testamento.
+
+<<2007.29;2010.01;es>>
+No levantarás falsos testimonios.
+
+<<2010.01;2011.49;es>>
+Muchas gracias, señor presidente.
+
+<<2011.49;2011.49;es>>
+Muchas gracias, señoras y señores jueces.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2017.75;2020.75;fr>>
+Merci beaucoup.
+
+<<2020.75;2026.59;fr>>
+Je donne maintenant la parole à M. Sanz Gandásegui, s'il vous plaît.
+
+[[Government;GR1]]
+
+<<2029.24;2031.64;fr>>
+Merci beaucoup, M. le Président,
+
+<<2031.84;2035.4;fr>>
+mesdames et messieurs, juges de la Cour.
+
+<<2035.6;2048.96;fr>>
+L'affaire Fernandez-Martinez contre l'Espagne peut se résumer au défi de trancher sur le conflit entre les 2 droits reconnus par la Convention.
+
+<<2049.12;2065.48;fr>>
+D'une part, les droits à la vie privée du récréant, reconnus dans l'article 8 de la Convention, et d'autre part, les droits à la liberté religieuse, spécialement dans son volet d'organisation de l'Eglise catholique.
+
+<<2065.68;2082.84;fr>>
+Nous sommes d'accord avec l'arrêt de la section du 15 mai 2012 sur le fait qu'il y a eu une ingérence dans les droits à la vie privée du récréant à cause de la non-proposition de l'EBG pour un nouveau contrat de travail.
+
+<<2082.84;2094.2;fr>>
+Mais cette ingérence n'est pas une violation du droit parce qu'elle se trouve justifiée et qu'elle est proportionnée.
+
+<<2094.4;2104.72;fr>>
+La justification provient du respect dû au droit à la liberté religieuse en l'aspect de l'Eglise catholique.
+
+<<2104.92;2114.96;fr>>
+Dans la résolution de ce conflit, l'arrêt de la Cour a confirmé les procédures des autorités administratives et juridicières espagnoles.
+
+<<2115.16;2126.76;fr>>
+En effet, l'Etat espagnol s'est acquitté de ses obligations positives de protéger les droits fondamentaux déculant de la Convention.
+
+<<2126.96;2141.8;fr>>
+Eh bien, étant celle-ci la question de fond, et comme il ne s'agit pas ici de réitérer les contenus de ces observations déjà formulées, j'aimerais évoquer maintenant certains points qui me semblent fondamentaux.
+
+<<2142.0;2155.52;fr>>
+Je commencerai par une brève exposition du système espagnol pour l'enseignement de la religion catholique à l'époque afin que l'affaire puisse se comprendre dans son contexte léral.
+
+<<2155.72;2182.24;fr>>
+Ensuite, et puisque les requérants, tant lors de l'audience tenue devant la 3e section que les observations qu'ils formulent devant la Rue Chambre et maintenant aussi contestent les faits qui amènent à la décision de ne pas lui proposer en tant que professeur de religion catholique, j'exposerai les dits faits tels qu'ils ont été appréciés par les tribunaux espagnols.
+
+<<2182.44;2192.96;fr>>
+En 3e lieu, je plaiderai la procédure des autorités administratives et judiciaires espagnoles confirmée par l'arrêt de la section du 15 mai 2012.
+
+<<2193.16;2212.84;fr>>
+Et étant donné qu'une partie de la demande de renvoi devant la Grande Chambre est basée sur l'opinion séparée de l'arrêt de la section, j'avais avancé les arguments pour lesquels je crois respectueusement que cette opinion séparée n'est pas correcte.
+
+<<2213.04;2232.84;fr>>
+Finalement, même si j'entends que la violation allérée à l'égide de l'article 8 constitue la partie essentielle du cas d'espèce, étant donné que les requérants alléraient en temps voulu à la bifraction des articles 14 et 10 de la Convention, je ferai finalement une brève référence à ceci.
+
+<<2233.04;2242.16;fr>>
+Il faut remarquer que dans l'écrit de demande de renvoi devant la Grande Chambre, uniquement la violation de l'article 8 de la Convention a été développée.
+
+<<2243.64;2259.08;fr>>
+En 1er lieu, il convient de faire une brève exposition du système espagnol de l'enseignement de la religion au moment des faits, en soulignant la relation qu'il y ait l'Etat aux requérants en tant que professeur de religion.
+
+<<2259.28;2265.28;fr>>
+Eh bien, les caractéristiques essentielles de ce système sont les suivantes.
+
+<<2265.52;2285.92;fr>>
+En vertu de l'accord souscrit le 3 janvier 1979 entre l'Etat espagnol et la française, l'enseignement de la religion catholique dans l'installement public est une matière intégrée dans le programme éducatif et qui est dispensée par des professeurs proposés annuellement par l'Eglise catholique.
+
+<<2286.12;2296.92;fr>>
+Cette matière est optative pour les élèves qui étudient l'enseignement obligatoire, mais doit être offerte obligatoirement par l'administration.
+
+<<2297.12;2312.6;fr>>
+Ces accords qui ont été posthumés conclus en termes similaires avec les confessions évangéliques et la musulmane se justifient tant dans le respect de la liberté religieuse que dans le droit des parents de choisir l'enseignement religieux de leur enfant.
+
+<<2312.8;2324.6;fr>>
+Ce sont les articles 16 et 27 de la Constitution espagnole équivalents aux articles 9 et 11 de la Convention et l'article 2 du protocole additionnel.
+
+<<2327.04;2367.72;fr>>
+Cette matière est dispensée par des professeurs de religion, dont la caractéristique particulière qui démerde depuis le début jusqu'à moment actuel est que, bien qu'ils soient engagés par l'administration sous un régime de travail différent à celui du reste des professeurs, qui, eux, sont des fonctionnaires publics, sont engagés pour vous que l'Eglise catholique ait fait sa proposition et ait autorisé le recrutement pour exercer l'enseignement de la religion catholique et que l'ex certificat d'attitude de lauréaté soit délivré par l'autorité ecclésiastique.
+
+<<2369.16;2398.88;fr>>
+En conséquence, ces professeurs n'ont pas été recrutés conformément aux critères suivants lesquels sont engagés les professeurs d'autres matières, à savoir par la méthode des concours ouverts et publics, mais sont été dessignés par l'Eglise catholique qui les choisit librement parce qu'elle les considère aptes pour l'enseignement de la religion catholique et ils ont été proposés à l'autorité civile.
+
+<<2400.48;2405.08;fr>>
+On doit préciser ce qu'on veut dire quand on parle du non-rénouvelement des contrats.
+
+<<2405.92;2414.6;fr>>
+Dans le cas d'Espèce, les contrats n'étaient pas s'adhérer à un déterminé, mais s'associent-ils au renouvellement annuel.
+
+<<2415.92;2419.48;fr>>
+Au moment des faits, les contrats étaient signés pour chaque cours scolaire.
+
+<<2419.48;2433.96;fr>>
+La jurisprudence espagnole a décrit le type de relations de travail qui liait les professeurs de religion avec l'administration comme étant une relation de travail limitée aux cours scolaires.
+
+<<2434.76;2440.16;fr>>
+La durée de validité du contrat coïncidait avec les cours scolaires.
+
+<<2440.64;2463.4;fr>>
+Une fois que celle-ci est arrivée à terme, le contrat s'éteint à tous les effets, de sorte que s'il intéressait et proposait et nommait pour dispenser l'enseignement pour les cours suivants, il devra nécessairement entendre qu'une nouvelle relation fut jugée complètement déragée de l'antérieure, déjà finie.
+
+<<2463.6;2475.68;fr>>
+Ainsi, l'absence de proposition de l'évêque de la nomination pour les cours suivants n'équivalait pas à un nécessaire ément, étant donné la nature particulière de la relation.
+
+<<2477.12;2498.08;fr>>
+Pendant ces années, des aspects importants ont varié, tel que la nature juridique de la relation de travail de ces professeurs, les droits à la sécurité sociale, le paiement de leurs salaires, d'abord par la liste, financée par une soumission publique, comme il se passait à l'époque, et actuellement, directement par l'administration.
+
+<<2499.48;2518.2;fr>>
+Mais la condition de la relation pour que la proposition pour dispenser l'enseignement, ainsi que la délibérance d'un certificat d'aptitude soit émise par l'Eglise catholique, n'a jamais été modifiée, et c'est là pour la signature de ces contrats à chaque année scolaire.
+
+<<2518.6;2528.0;fr>>
+Tout ce système fait partie de la marge d'appréciation qui doit être reconnue aux états pour l'organisation de leur système éducatif.
+
+<<2528.12;2551.8;fr>>
+La détermination des questions de la détermination de que ce soit l'administration de l'éducation compétente qui assume la fonction d'employeur sous son régime spécial, ou c'est la confession religieuse, celle qui propose et autorise le professeur à enseigner, a son origine dans la besoin de pouvoir et sécurité juridiques à la relation civile du professeur après beaucoup d'années de litiges devant le tribunal de justice.
+
+<<2551.8;2563.4;fr>>
+L'effet de la dépendance du professeur de religion du système éducatif public n'a jamais été nié par le revenu.
+
+<<2563.6;2593.4;fr>>
+En effet, quoiqu'il existe une relation civile entre le professeur et l'administration de l'éducation avec ses propres droits et devoirs, cette relation juridique vient procéder d'une relation canonique entre le professeur et l'Eglise qui fait la proposition et qui délivre au professeur des certificats d'aptitude pour l'enseignement de la religion catholique sans lesquels la dite relation civile ne peut pas être constituée ni le cas échéant subsister.
+
+<<2593.4;2613.0;fr>>
+L'appéroratif des confessions religieuses pour proposer et autoriser les professeurs de religion et pour ne plus proposer leur nomination a son fondement sous le principe de neutralité religieuse de l'Etat et au caractère strictement religieux des certificats d'aptitude.
+
+<<2613.0;2622.8;fr>>
+Il revient exclusivement à l'autorité religieuse de délivrer les certificats d'aptitude en virtu de la liberté religieuse au terme des articles 9 et 11 de la Convention.
+
+<<2622.8;2647.6;fr>>
+Tout cela justifie la légitimité de juger que les dix professeurs n'étant publiquement de position contraire au fondement doctrinaux de la confession religieuse respectif et les droits de celles-ci en n'est pas sévoir dans l'obligation de proposer en tant que professeur de religion à ceux qui s'écartent publiquement de sa doctrine.
+
+<<2647.6;2669.0;fr>>
+Quand l'Eglise catholique considère que les professeurs ne se réunissent pas pour des raisons extrêmement religieuses, les conditions qui les font idoines pour enseigner la religion catholique ou qui ne les réunissent plus, l'Etat doit s'abstenir de recruter cette personne pour l'enseignement de la dite matière.
+
+<<2669.0;2682.2;fr>>
+Néanmoins, et comme élément final, mais non pas de moindre importance, cette décision n'est absolument pas discrétionnaire.
+
+<<2682.2;2696.8;fr>>
+L'Etat, et spécialement ses autorités judiciales, peuvent contrôler que la révocation de l'autorisation pour dispenser l'enseignement ne porte pas attente aux droits fondamentaux.
+
+<<2696.8;2710.2;fr>>
+C'est ainsi dans les cas d'espèce où la décision adoptée a été contrôlée par des instances judiciaires internes et par les tribunaux constitutionnels en Suisse.
+
+<<2710.2;2713.8;fr>>
+En deuxième lieu, on doit parler des faits.
+
+<<2713.8;2731.0;fr>>
+Exceptionnellement, nous devons nous référer aux faits parce que, tant lors de l'audience devant la section et dans les observations formulées devant la Chambre, les récurrents se plaint que les faits décrits dans la règle ne sont pas vrais.
+
+<<2731.0;2744.0;fr>>
+Ils considèrent que la règle de la session s'est empruntée des faits qui, selon lui, n'avaient pas été déclarés pour vrai par les instances judiciaires espagnoles.
+
+<<2744.0;2753.0;fr>>
+Eh bien, cela n'est pas ainsi, et pour les confirmer, nous allons nous appuyer sur les prononcés des autorités judiciaires espagnoles.
+
+<<2753.0;2773.0;fr>>
+En effet, nous croyons pertinent de renforcer ce qui constitue, sans doute, la question factuelle la plus importante de l'affaire, c'est-à-dire les faits qui ont déclenché la décision de l'EVG de Cartagena de ne pas renouveler les certificats d'aptitude pour l'enseignement de la religion catholique à M. Fernández Martínez,
+
+<<2773.0;2781.4;fr>>
+tel que sont exposés dans la note officielle de l'EVG, qui était substantiellement reprise dans la rate par le RAF 11 de la section.
+
+<<2781.4;2786.6;fr>>
+Eh bien, ces faits furent déclarés privés par le tribunal espagnol.
+
+<<2786.6;2805.6;fr>>
+Ainsi, dans la rate du tribunal constitutionnel concernant cette affaire, les faits sont rapportés, tels qu'ils se sont déroulés, et il attribue à ces faits la réaction de l'EVG, exprimée au moyen de sa note officielle.
+
+<<2805.6;2837.6;fr>>
+Et ce qui concerne la description des faits, selon la rate que nous citons littéralement, pas la rate de la section, mais la rate de la Cour constitutionnelle espagnole, la publicité de la notoriété de la situation du demandeur d'un paro rapportée dans la note transcrite, telle qu'il a été manifestée dans les jugements du juste des affaires sociales et la rate du tribunal supérieur de justice, est concatisée dans l'information publiée dans le journal La Verda, du 11 novembre 1996.
+
+<<2837.6;2853.5;fr>>
+La dite information, intitulée « Les monastères de la Luz affirmaient ses portes aux prêtres mariés qui voulaient célébrer une messe », est graphiquement complétée avec une photo du demandeur d'un paro et de sa famille avec le texte suivant.
+
+<<2853.5;2860.3;fr>>
+Dans l'image, l'un des prêtres mariés qui s'est présenté hier à la Luz avec toute sa famille.
+
+<<2860.3;2874.1;fr>>
+Dans le texte d'article, on raconte que le dialogue déliré d'Iocessant n'avait pas autorisé les membres du mouvement Procélibat Optionnel à célébrer une messe à l'intérieur des monastères de la Luz.
+
+<<2874.1;2884.8;fr>>
+La publicité, on ajoute, les jugements, on ajoute, la publicité de l'événement dans la presse avait dissuadé un grand nombre de membres du mouvement d'assister au rassemblement.
+
+<<2884.8;2896.6;fr>>
+D'autres s'étaient approchés à des endroits convenus, mais au vu de la présence des médias, on est tant limité à saluer les colères sans descendre de voiture pour repartir tout de suite après.
+
+<<2896.6;2905.2;fr>>
+Celles indiscentes de prêtres que s'est colorisée dont le récréant était resté sur place avec les familles.
+
+<<2905.2;2912.3;fr>>
+Ensuite, l'information recueille l'opinion des septembres présentes du mouvement sur des jugés déterminés dans les thèmes suivants.
+
+<<2912.3;2915.1;fr>>
+L.E.U.B., Pedro H.C.,
+
+<<2915.1;2918.9;fr>>
+Grisanto H. et José Antonio Fernández-Martínez
+
+<<2918.9;2925.6;fr>>
+qui a été cité par son ancienne fonction expressement des ex-directeurs du séminaire.
+
+<<2925.6;2940.9;fr>>
+Ce sont des prêtres mariés qui se sont présentés hier à la Luz et qui ont demandé un salivaire optional et une église démocratique non théocratique dans laquelle les laïcs participent à l'élection de l'EQE et de l'EBEC.
+
+<<2940.9;2947.2;fr>>
+Ils font aussi d'autres déclarations contre la doctrine catholique.
+
+<<2947.2;2971.3;fr>>
+En d'autres lieux, le tribunal constitutionnel constate qu'il est évident que l'information journalistique publiée dans le journal La Verda a été celle qui a déchaîné la communication officielle du bureau d'information diocésaine de l'EVG de Cartagena et mise en relation avec les motifs qui ont déterminé la cessation définitive du récréant en tant que professeur de religion.
+
+<<2971.3;2985.1;fr>>
+La situation de publicité et de notoriété rapportée dans l'information précisée, je continue avec la citation littérale, a commencé à être connue par l'opinion publique que M. Fernandez-Martinez avait en cours
+
+<<2985.1;2989.5;fr>>
+la demande de dispense de célibat sacerdotale.
+
+<<2989.5;2990.8;fr>>
+Encore en cours.
+
+<<2990.8;2998.0;fr>>
+Après avoir apparu photographié avec sa femme et ses enfants, s'était marié civilement et qu'il était père de cinq enfants.
+
+<<2998.0;3014.5;fr>>
+Les juges des affaires sociales, les tribunaux supérieurs de justice, les instances judiciaires espagnoles, considèrent que la note d'information réfère cette notoriété et cette publicité à l'appartenance du demandeur d'un paro au mouvement pour célibat optionnel.
+
+<<3014.5;3017.9;fr>>
+Donc, je continue avec la cite.
+
+<<3017.9;3045.7;fr>>
+La publication d'une de mes circonstances personnelles du récréant, sa situation familiale de prêtre marié avec des enfants et l'appartenance à un mouvement opposé à l'orthodoxie catholique, c'est des choses seulement, et ce qui constitue, je continue avec la cite de la Cour constitutionnelle, et ce qui constitue la base factuelle qui, dans la communication de l'évêché de Cartagena, est considérée comme une cause de scandale selon la doctrine de la religion catholique.
+
+<<3045.7;3047.7;fr>>
+Fin de la citation.
+
+<<3047.7;3057.8;fr>>
+Ces faits ont été reconnus par le récréant dans sa requête dans le tribunal constitutionnel comme il le soumettait dans la règle.
+
+<<3057.8;3061.0;fr>>
+La juridiction, ce sont les faits.
+
+<<3061.0;3082.0;fr>>
+La juridiction espagnole elle-même l'a souligné, et pour renforcer cette affirmation, on peut apporter finalement la décision du tribunal des affaires sociales de Murcia de 28 septembre 2000, un unique jugement qui accueille les prétentions du récréant et qui est littéralement libellé comme suit.
+
+<<3082.0;3088.5;fr>>
+En effet, à la lumière des faits réitérés, M. Fernandez-Martinez a subi une discrimination
+
+<<3088.5;3094.5;fr>>
+en raison de son état civil et de son appartenance à l'association Mouvement Procéduire Optionnel.
+
+<<3094.5;3103.7;fr>>
+Son apparition, on souligne, son apparition dans la presse, qui déclare prouver, éteint le déclenchement de son renvoi.
+
+<<3103.7;3109.2;fr>>
+Il y a une fidélité aux causes exprimées par la note de l'évêché.
+
+<<3109.2;3117.6;fr>>
+Il est donc clair par conséquence que l'arrêt de la section ne fait qu'apprécier ce que le tribunal espagnol avait déjà apprécié.
+
+<<3117.6;3132.7;fr>>
+Il semble donc que ce que le récréant recherche est que la Grande Chambre révise les faits déclarés prouver par l'assistant judiciaire espagnol, ce qui, selon la jurisprudence de la Cour, ne peut pas se faire.
+
+<<3132.7;3142.3;fr>>
+En troisième lieu, on doit apprécier ces faits sous l'angle des articles 8 et 10 de la Convention.
+
+<<3142.3;3163.8;fr>>
+Par conséquent, les motifs de la non-signature d'un nouveau contrat en tant que professeur de religion catholique se déduisent aux faits déclenchés par le récréant lui-même, en premier lieu en donnant publicité volontaire dans les médias à sa condition de primarier, en deuxième lieu à sa participation dans les mouvements prosélytaires optionnels.
+
+<<3163.8;3171.1;fr>>
+Ces déclarations publiques sont celles qui brisent le lien de confiance entre l'Église catholique et M. Fernandez-Martinez.
+
+<<3171.1;3179.6;fr>>
+Eh bien, de ces faits, on peut déduire clairement que la motivation de la non-signature d'un nouveau contrat a été purement religieuse.
+
+<<3179.6;3188.6;fr>>
+La question qui se pose en l'aspect n'est pas celle de décider si ces propos sont légitimes et s'ils peuvent être exprimés en public.
+
+<<3188.6;3194.4;fr>>
+Bien sûr, ils sont légitimes et peuvent sans doute être exprimés en public.
+
+<<3194.4;3209.8;fr>>
+Ce qui est en jeu, c'est de savoir dans quel messire une organisation religieuse est obligée de récruiter en tant que professeur de religion une personne qui a tenu publiquement des propos contraires à sa doctrine.
+
+<<3209.8;3218.3;fr>>
+En l'aspect, les raisons de la non-signature d'un nouveau contrat ont déjà été exposées, lorsque les faits ont été fixés.
+
+<<3218.3;3230.3;fr>>
+L'appréciation de ces éléments et en particulier de la notion de scandale évoquée par le BEC révélent un caractère religieux et moral indubitable.
+
+<<3232.9;3248.3;fr>>
+On doit entrer maintenant dans l'appréciation de l'opinion séparée de l'ARRE, sur laquelle s'ébasse le requérant qui considère qu'il ne s'est pas produit un équilibre adéquat entre les droits en conflit.
+
+<<3248.3;3260.8;fr>>
+Dans l'opinion séparée, l'on affirme qu'il n'est pas ainsi et que, étant donné les circonstances de l'espèce, dans les conflits entre les droits concurrents, les droits du requérant auraient dû prévaloir.
+
+<<3260.8;3274.4;fr>>
+Cette opinion est fondée sur le fait que la conduite du requérant était connue des autorités ecclésiastiques qui n'ont aucune obsession à ce que les requérants travaillassent en tant que professeurs de religion, mariés et avec les enfants.
+
+<<3274.4;3292.6;fr>>
+Ils considèrent que les raisons de l'Eglise alléguant que la publicité de sa conduite produisit du scandale ne sont pas admissibles, compte tenu de la connaissance personnelle du requérant, pour conclure que les autorités de l'État n'auraient pas dû admettre la thèse du scandale et que celle-ci n'a pas existé.
+
+<<3292.6;3299.0;fr>>
+Or, tel qu'il a été recueilli dans l'arrêt de la section, il ne passe ainsi.
+
+<<3299.0;3313.0;fr>>
+L'Église catholique elle-même reconnaît dans ses observations en tant que tierce intervenante devant la troisième section que la proposition et les certificats d'aptitude n'ont pas été révoqués à M. Fernandez-Martinez
+
+<<3313.0;3317.6;fr>>
+au motif d'être un prêtre marié avec des enfants.
+
+<<3317.6;3338.6;fr>>
+Les raisons qui ont mené à la non-signature d'un nouveau contrat, force est d'insister, sont dues à la manifestation publique de sa condition de prêtre marié avec des enfants, au fait qu'il apparaît volontairement dans la photographie du journal accueillant dans l'entourage de l'Assemblée les mouvements prosélytas optionnels.
+
+<<3338.6;3388.1;fr>>
+Il est évident que ces faits font partie du droit à sa liberté d'expression, mais à partir, comme l'a fait l'arrêt, du plus absolu respect au principe de neutralité et au seul effet de vérifier si l'article 8 de la Convention a été violé, il s'avère que les motivations pour la non-signature d'un nouveau contrat sont d'une nature strictement religieuse et touchent le devoir de loyauté et cohérence que le requérant doit maintenir dans le travail qu'il a librement choisi, lequel, force est d'insister, n'est pas l'enseignement des mathématiques, de l'histoire ou de la philosophie, ni donné des cours d'histoire de la religion, mais dispensé l'enseignement de la doctrine et de la morale de la religion catholique.
+
+<<3388.1;3400.3;fr>>
+Et sans besoin d'en rentrer dans l'appréciation de ce qui se dit, il est évident qu'il existe une contradiction entre les actes et les propos tenus par le requérant et la doctrine de l'Eglise catholique.
+
+<<3400.3;3412.2;fr>>
+Le scandale est en termes utilisé par les droits canoniques de celui qui fait une démonstration de mauvaise conduite et qu'il y a à voir avec la cohérence entre la vie privée et la vie publique.
+
+<<3412.2;3424.4;fr>>
+Ce concept de scandale peut ne pas se comprendre en dehors de l'Eglise catholique, mais doit être respecté, au moins qu'il soit disproportionné ou contraire aux valeurs de la Convention.
+
+<<3424.4;3433.4;fr>>
+Dans le rationnement de l'opinion séparée, la motivation religieuse de la décision églisestique est complètement sous-estimée.
+
+<<3433.4;3447.5;fr>>
+Face à ce rationnement, on doit pondérer la transcendance du fait que le requérant ait manifesté publiquement sa situation de prêtre marié et son adhésion au mouvement prosélybat optionnel.
+
+<<3447.5;3466.9;fr>>
+L'effet que ces propos furent tenus publiquement fait la différence du cas d'espèce avec la règle du tribunal constitutionnel qui, dans ses observations, le requérant déprésentait à tort comme irrévélément de la rupture de la prudence et avourgeait les critères utilisés en l'espèce.
+
+<<3466.9;3482.6;fr>>
+Le tribunal considérait dans cette arrête que le non-rénouvelement du contrat d'un professeur de religion catholique dans un lycée public et la raison de son mariage civil avec un divorcé avait porté atteinte à ses droits et à l'intimité personnelle et familiale.
+
+<<3482.6;3487.8;fr>>
+Ce jugement n'implique pas un révélement de la jurisprudence précédente.
+
+<<3487.8;3498.7;fr>>
+Contrairement au requérant, le professeur et une question n'avaient en aucun moment rendu publique sa situation ni fait du prosélytisme en faveur du divorce.
+
+<<3498.7;3507.8;fr>>
+Cette arrête confirme aussi, n'est pas que le système de contrôle judiciaire en Espagne est effectif pour ce type des affaires.
+
+<<3507.8;3525.2;fr>>
+A plus fort raison, nous devons ajouter que la décision du Vatican de dispenser du célibat au mois de septembre 1997, demandée par le requérant, conditionne à l'absence de scandale la possibilité de que le requérant puisse dispenser les cours de religion catholique.
+
+<<3525.2;3540.3;fr>>
+D'après les droits canoniques, la dispense de l'obligation du célibat entraîne la limitation de la possibilité d'enseigner la religion catholique en attribuant à l'évêque le prérogatif de l'autorisation de cette activité.
+
+<<3540.3;3546.8;fr>>
+Pour vous, il n'y a aucune possibilité de scandale.
+
+<<3546.8;3561.5;fr>>
+En l'espèce, l'évêque a considéré une raison d'effet citée à main de reprise que les conditions pour autoriser le requérant à enseigner la religion catholique ne se remplissaient pas.
+
+<<3561.5;3568.9;fr>>
+Il s'agit d'une décision qui appartient au milieu religieux et, en tant que telle, doit être respectée par les autorités civiles.
+
+<<3568.9;3572.6;fr>>
+Cette décision ne viole pas la Convention.
+
+<<3572.6;3593.8;fr>>
+Finalement, en ce qui concerne le second argument de l'opinion séparée, nous devons aborder la question de savoir s'il existe une différence quelconque dans l'application de l'article 8 du fait que, tel que signale l'opinion séparée, l'employeur soit l'administration publique.
+
+<<3593.8;3608.9;fr>>
+Évidemment, l'administration n'a pas décidé le non-renouvellement du contrat au motif d'avoir considéré l'état civil du requérant ou à cause de son appartenance au mouvement pour solidarité optionnelle.
+
+<<3608.9;3623.3;fr>>
+Ce n'est pas de son propreérêt que l'administration n'a pas renouvelé le contrat au requérant, mais parce que l'Eglise lui a communiqué la perte de sa confiance étant donnée le devoir d'électoralité de l'Etat par rapport à l'Eglise.
+
+<<3623.3;3641.5;fr>>
+La nouveauté du cas d'espèce que l'opinion dissidente proclame par rapport au précédent invoqué se vulnérait au fait qu'il n'exigeait pas de personnes qui travaillent dans le champ d'organisation professionnelle, mais des personnes engagées par l'administration.
+
+<<3641.5;3646.4;fr>>
+Nous entendons que l'administration n'engage que des professeurs de religion.
+
+<<3646.4;3663.8;fr>>
+Ce fait est un fait neutre dont la raison d'être a été préalablement expliquée et qui fait partie de la marche d'appréciation de cet état au fait de l'application de la Convention.
+
+<<3663.8;3695.4;fr>>
+Ce qui est nouveau, ce qui est une nouveauté par rapport au précédent invoqué, c'est qu'il s'agit d'un professeur de religion, en effet, face au licenciement d'une organiste d'une paroisse à faire Schultz contre l'Allemagne, à une personne qui s'occupe des enfants dans une école confessionnelle à faire Sibbenha, à un directeur du département de relations publiques d'une église hobste.
+
+<<3695.4;3732.7;fr>>
+En l'espèce, il s'agit d'un professeur de religion avec un contrat dont la validité coïncidait avec les cours écoliers, il n'y a pas eu de licenciement, où le lien de loyauté avec l'institution qui les propose et l'enseignement qu'ils dispensent est, sans un grand doute, plus fort que dans les affaires précédentes où les fonctions de requérants ne touchaient pas à une manifestation essentielle de l'institution religieuse comme l'enseignement de son credo.
+
+<<3732.7;3751.4;fr>>
+Tel qu'il est exprimé dans l'arrêt, en l'espèce, l'intéressé était ou devait être conscient lors de l'assignature de son contrat de travail de particularité de relation de travail pour ce type de poste et du droit de l'LBG de proposer ou de ne pas proposer les candidats.
+
+<<3751.4;3760.3;fr>>
+Pour le reste, et comme le recueil l'arrêt, la Cour considère que les requérants étaient soumis à des obligations de loyauté accrues.
+
+<<3760.3;3771.4;fr>>
+Et finalement, si la violation de ces articles 10 et 14, il convient de faire un bref commentaire et nous nous adhérons aux critères disposés dans l'arrêt de la section.
+
+<<3771.4;3781.5;fr>>
+En ce qui concerne l'article 10 de la Convention relative à la liberté d'expression, il convient de rajouter à tout ce qui précède qu'il n'a qu'un moment le requérant était privé de ses droits.
+
+<<3781.5;3792.3;fr>>
+Les conséquences de la non-signature d'un nouveau contrat doivent être considérées comme l'héritium des mains qui l'arrivent avec l'allégé violation du droit à la vie privée.
+
+<<3792.3;3799.5;fr>>
+En ce qui concerne la violation du droit de réalité, aucun terme de comparaison ne passe à portée.
+
+<<3799.5;3817.4;fr>>
+La non-proposition du requérant en tant que professeur de religion ne réussit pas à une tentative discriminatoire du fait de son état civil, puisque, concourant à sa condition de père marié, il avait été susceptiblement proposé comme professeur de religion et d'homoire catholique depuis l'année 1991.
+
+<<3817.4;3834.3;fr>>
+On ne peut pas non plus adopter comme critère de comparaison, tel que le requérant allait indignant des statuts juridiques dans quelque chose de notre matière, comme la mathématiques ou l'histoire, sans avoir besoin de réitérer ce qui a déjà été dit.
+
+<<3834.3;3837.8;fr>>
+Il est évident que les circonstances sont différentes.
+
+<<3837.8;3845.3;fr>>
+En conclusion, la requête doit être déboutée et l'arrêt de la troisième section confirmée.
+
+<<3845.3;3855.4;fr>>
+Par conséquent, le gouvernement sollicite qu'un arrêt déclarant qu'il n'y a eu violation d'accord droit du requérant soit rendu.
+
+<<3855.4;3857.6;fr>>
+Je termine ici mon intervention.
+
+<<3857.6;3857.6;fr>>
+Merci beaucoup, Monsieur le Président.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3859.84;3863.56;fr>>
+Merci beaucoup. Je me tourne maintenant vers mes collègues juges.
+
+<<3863.56;3866.4;fr>>
+Est-ce qu'il y a des questions?
+
+<<3866.4;3868.4;fr>>
+Madame la juge Nußberger, s'il vous plaît.
+
+[[Judge;Angelika Nußberger]]
+
+<<3870.45;3874.45;en>>
+Yes, I would have some questions concerning the facts.
+
+<<3874.45;3890.45;en>>
+So my first question is, when did the church know about the fact that the applicant adhered or was a member of this movement for optional celibacy?
+
+<<3890.45;3901.45;en>>
+Was it known already before the publication of the article or was this information only known by the publication of the article?
+
+<<3901.45;3910.45;en>>
+My second question is, I understand that the applicant consented in being photographed together with his family.
+
+<<3910.45;3918.49;en>>
+Did he know that this photo would be used for a report on the meeting of the movement for optional celibacy?
+
+<<3918.49;3921.49;en>>
+Was he conscious of this fact?
+
+<<3921.49;3937.49;en>>
+And third question, after the civil marriage of the applicant between 1984 and 1997, it's not clear to me what was his clerical status.
+
+<<3937.49;3959.49;en>>
+As he got the dispensation only in 1997 with the consequence of losing the rights of obligations, I understand that in theory he still had these rights between 1984 and 1997, that is during the period when he was teaching religion at the secondary school.
+
+<<3959.49;3959.49;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3963.54;3964.7;fr>>
+Merci beaucoup.
+
+<<3964.7;3966.78;fr>>
+Madame la juge Ann Power, s'il vous plaît.
+
+[[Judge;Ann Power-Forde]]
+
+<<3969.71;3971.33;en>>
+Thank you, Mr. President.
+
+<<3971.33;3973.51;en>>
+I have two questions.
+
+<<3973.51;3976.85;en>>
+The first is a question for clarification, merely.
+
+<<3976.85;3980.23;en>>
+And the second is also a question of fact.
+
+<<3980.23;3983.79;en>>
+And they're directed towards the government.
+
+<<3983.79;3996.27;en>>
+There's quite a lot in the government's submissions in relation to the nature of the financial arrangements and the salary arrangements, and indeed the history of those arrangements within Spain.
+
+<<3996.27;4018.99;en>>
+And there's reference to the 79 agreement, the 93 agreement, but the government observations state that the 1982 decision or agreement was the one that was in force and applicable at the time, and that the applicant was paid directly by the authority out of the relevant contributions.
+
+<<4018.99;4032.71;en>>
+Could you clarify whether or not in any way there was a contribution, direct or indirect, from the Episcopal conference to the state, even though the state paid the salary of the applicant directly?
+
+<<4032.71;4035.87;en>>
+That's the first question.
+
+<<4035.87;4059.03;en>>
+The second question that I have relates to the dispute between the parties as to the cause of the decision not to renew, and whether that decision was based purely on the publicity, which may not always be under a person's control, or the voiced criticisms of the group of which the member was an applicant.
+
+<<4059.03;4084.99;en>>
+And in its submissions before the chamber, and indeed again today, the government has relied upon the Spanish constitutional court's decision of the 14th of April, 2011, to show that in that case the court found that the non-renewal of that particular teacher's contract breached her rights to family privacy, because she had never made her situation public.
+
+<<4084.99;4088.43;en>>
+She had never campaigned.
+
+<<4088.43;4093.83;en>>
+And my question is the follow-up to that judgment.
+
+<<4093.83;4097.27;en>>
+How did the respondent state deal with that judgment?
+
+<<4097.27;4105.59;en>>
+Was the applicant in that case, was she re-nominated by the church despite its original first decision not to re-nominate her?
+
+<<4105.59;4114.55;en>>
+Or was the contract renewed in any event by the state, regardless of the church's position, but in compliance with the constitutional court's judgment?
+
+<<4114.55;4120.71;en>>
+So that's a question of fact in the context of how the state dealt with that constitutional court judgment decision.
+
+<<4120.71;4120.71;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4125.35;4127.43;fr>>
+Merci beaucoup, M. le juge Lemmens.
+
+[[Judge;Paul Lemmens]]
+
+<<4132.07;4134.31;en>>
+Merci, Monsieur le President.
+
+<<4134.31;4157.89;en>>
+I would like to ask two questions, one relating to the situation under canon law before the applicant was not renewed, and the other question relating to the situation under purely civil law relating to the decision not to renew his position.
+
+<<4157.89;4165.75;en>>
+First, about the situation under canon law, and it follows up somewhat on one of the questions that was posed by my colleague.
+
+<<4165.75;4170.01;en>>
+We heard from Mr. Mazón Costa that the applicant,
+
+<<4170.01;4178.75;en>>
+once he got married, was in fact no longer a priest, that he was, under canon law, an ex-priest.
+
+<<4178.75;4181.59;en>>
+Could that be confirmed?
+
+<<4181.59;4193.15;en>>
+And the question is, what was his situation under canon law as long as he did not receive dispensation?
+
+<<4193.15;4199.55;en>>
+And I'm also interested in knowing why the applicant was interested in obtaining a dispensation.
+
+<<4199.55;4203.85;en>>
+What was the advantage of a dispensation?
+
+<<4203.85;4214.71;en>>
+And finally, still with respect to the dispensation, he finally received the dispensation through a rescript of 1997.
+
+<<4214.71;4225.59;en>>
+And if I understand it well, it's a decision that has been taken upon a request made in 1984, 13 years before.
+
+<<4225.59;4229.49;en>>
+Can this long delay be explained?
+
+<<4229.49;4239.95;en>>
+And is it a coincidence that the rescript was granted half a year after the publication of the article?
+
+<<4239.95;4255.35;en>>
+My second question is about the reaction of the state purely under civil law after it received the request by the bishop not to renew the contract of the applicant.
+
+<<4255.35;4266.81;en>>
+Did the state simply transmit that request or the non-renewal of the certificate or in whatever form it was made to the applicant?
+
+<<4266.81;4274.33;en>>
+Or did the state at that time take any other action with respect to the applicant?
+
+<<4274.33;4286.69;en>>
+To be more clear, did the state examine the request of the bishop, and was it concerned with the situation of the applicant in the educational system?
+
+<<4286.69;4295.93;en>>
+Did it, for instance, look whether there was another possibility to make use of the applicant's qualifications as a teacher?
+
+<<4295.93;4297.19;en>>
+Thank you for your answer.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4298.31;4301.63;fr>>
+Merci beaucoup, M. le juge Šikuta.
+
+[[Judge;Ján Šikuta]]
+
+<<4305.26;4310.38;en>>
+Thank you. I do have a question to both parties or particularly to the government,
+
+<<4310.38;4320.14;en>>
+because in this case that was not renewal of the contract and not dismissal from the post of the teacher.
+
+<<4320.14;4324.38;en>>
+My question is relating to this renewal.
+
+<<4324.38;4336.62;en>>
+Were there any particular reasons why the contract was concluded every time for one year only?
+
+<<4336.62;4340.62;en>>
+What were the reasons if there were some or any?
+
+<<4340.62;4347.62;en>>
+Was there, existed there obligation to renew the contract after one year?
+
+<<4347.62;4354.12;en>>
+If yes, under which condition or if there was no obligation to renew the contract?
+
+<<4354.12;4357.12;en>>
+And whether there are any statistics?
+
+<<4357.12;4360.12;en>>
+I am sure that it was not the first case.
+
+<<4360.12;4375.12;en>>
+I'd like to know when there was not renewal in other cases, what most usually were the reasons for not renewal.
+
+<<4375.12;4375.62;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4377.99;4380.91;fr>>
+Merci beaucoup, M. le juge Sajó.
+
+[[Judge;András Sajó]]
+
+<<4390.13;4393.49;en>>
+Thank you, Mr. President.
+
+<<4393.49;4409.77;en>>
+My first question concerns the conditions or aptitude required in case of employment as a teacher of religion.
+
+<<4409.77;4419.01;en>>
+Is this reserved to priests or is this something accessible to lay people?
+
+<<4419.01;4432.29;en>>
+Are there specific professional qualifications related to this activity?
+
+<<4432.29;4458.97;en>>
+Second question, I understand the government arguing that scandal is a concept of the religious organization and there was made reference in the submissions and in the presentation to bad conduct, as one of the grounds for finding a scandal.
+
+<<4458.97;4473.61;en>>
+I just wonder whether and to what extent scandal is a concept foreseeable through precedence in canon law.
+
+<<4473.61;4488.13;en>>
+So in other words, are there comparable positions taken in specific cases where a similar concept of scandal was applied?
+
+<<4488.13;4515.49;en>>
+And if so, given the relationship, although this is disputed, relationship of the applicant to the church, was he in the position to understand those possibly existing precedents?
+
+<<4515.49;4535.93;en>>
+I have a specific question to the government because I still don't understand the position regarding the statement made or not made by the applicant at the time of the taking of the picture.
+
+<<4535.93;4546.89;en>>
+Is the government of the opinion that he made a specific statement or is the government of the opinion that this was not the case or was not proven?
+
+<<4546.89;4555.29;en>>
+If I understand correctly, the applicant denies that he made a statement which was then quoted in La Verdad.
+
+<<4555.29;4568.29;en>>
+And the question to the applicant, I understand that he was unemployed, although he received a severance payment and then he got a job.
+
+<<4568.29;4577.25;en>>
+Now, could you explain to us in which regard his vocation was affected?
+
+<<4577.25;4584.21;en>>
+Is he claiming that this dismissal denied him of continuing a vocation?
+
+<<4584.21;4588.49;en>>
+Is he claiming that he couldn't teach at all?
+
+<<4588.49;4601.33;en>>
+It's simply not made clear what is his loss resulting from the non-renewal in regard to his profession, which was again not clear.
+
+<<4601.33;4610.65;en>>
+If I understand correctly, he's not claiming that he wants to exercise a priestly function, but I leave this to the applicant to clarify.
+
+<<4610.65;4610.65;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4611.83;4612.83;fr>>
+Merci beaucoup.
+
+<<4612.83;4618.83;fr>>
+Madame la juge Turković, s'il vous plaît.
+
+[[Judge;Ksenija Turković]]
+
+<<4620.68;4621.68;en>>
+Thank you very much.
+
+<<4621.68;4625.6;en>>
+I would like to follow up on the issue of dispensation.
+
+<<4625.6;4650.68;en>>
+Since the dispensation was granted after the article was published, my question is whether it is regularly put in dispensations that the person who is granted the dispensation is not allowed to be a religious teacher if he or she is, or he, actually, if he is connected to the scandal.
+
+<<4650.68;4669.36;en>>
+And then, following to that, whether scandal would be the reason to dismiss any religious teacher, not just somebody who was the ex-priest but a layman who is the religious teacher.
+
+<<4669.36;4687.48;en>>
+And then, whether the agreement between the state and the Vatican states that the scandal is a proper reason for dismissal or the reasons for dismissal are understood in a more narrower sense.
+
+<<4687.48;4687.76;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4689.19;4690.19;fr>>
+Merci beaucoup.
+
+<<4690.19;4704.77;fr>>
+Moi également, j'ai quelques questions à vous poser qui concernent principalement les faits, étant donné que les faits semblent être du moins en partie contestés.
+
+<<4705.69;4713.34;fr>>
+Alors, je voudrais tout d'abord articuler une question qui se réfère au paragraphe 1 de 5 de l'arrêt de chambre.
+
+<<4714.23;4723.27;fr>>
+On lit au paragraphe 1 de 5 de l'arrêt de chambre que le requérant aurait été à l'origine de la parution de l'article.
+
+<<4723.27;4724.81;fr>>
+Ma question est toute simple.
+
+<<4724.81;4725.72;fr>>
+Est-ce vrai?
+
+<<4725.72;4731.72;fr>>
+Je voudrais que les deux parties prennent position concernant ce point précis.
+
+<<4731.72;4734.59;fr>>
+Deuxième question.
+
+<<4734.59;4744.19;fr>>
+Je voudrais des précisions concernant les circonstances de la manifestation et de l'article en question.
+
+<<4744.19;4755.77;fr>>
+Quelles ont été les circonstances exactes et précises, premièrement, de la manifestation à laquelle le requérant aurait pris part?
+
+<<4755.77;4769.95;fr>>
+Deuxièmement, des propos apparemment tenus par le requérant à l'occasion de cette manifestation et ou à l'occasion de la publication de l'article?
+
+<<4769.95;4778.99;fr>>
+La troisième question, le gouvernement a déjà pris position, mais je voudrais qu'on réitère ou qu'on précise ce qui a été dit.
+
+<<4778.99;4783.23;fr>>
+Qu'est-ce qui en l'espèce constituait le scandale?
+
+<<4783.23;4787.76;fr>>
+Et ma question fait suite aussi à la question qui a été posée par le juge Sajó.
+
+<<4787.76;4807.55;fr>>
+Est-ce que c'est le fait que la condition de prêtre ou d'ancien prêtre marié est devenu public et ou le fait que le requérant aurait fait des déclarations à l'occasion de la manifestation à laquelle j'ai déjà fait référence?
+
+<<4807.55;4811.99;fr>>
+Ensuite, dernière question qui s'adresse plutôt au gouvernement.
+
+<<4811.99;4831.72;fr>>
+Le représentant du gouvernement s'est, pour ce qui est des faits, référé à la décision du tribunal constitutionnel en insistant sur la publicité et la notoriété de la situation du requérant publié dans le journal.
+
+<<4831.72;4849.51;fr>>
+Le gouvernement s'est également référé à la photo et s'est référé à un fait, notamment que des prêtres mariés se seraient présentés pour célébrer, si j'ai bien compris, une messe dans un monastère, respectivement d'autres déclarations.
+
+<<4849.51;4859.95;fr>>
+Ce matin, on vient d'entendre le représentant du requérant que le requérant n'était pas un prêtre marié, mais un ancien prêtre marié.
+
+<<4859.95;4869.27;fr>>
+Je voudrais avoir des précisions également concernant ce point qui semble donner lieu à controverses.
+
+<<4869.27;4874.47;fr>>
+Voilà, et avec cela, je propose de suspendre l'audience pour un quart d'heure.
+
+<<4874.47;4881.35;fr>>
+Donc, on va se revoir à 10h50 précise pour la suite de l'audience.
+
+<<4881.35;4882.35;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<5049.01;5049.57;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<5089.28;5091.28;fr>>
+Je vous prie de vous asseoir.
+
+<<5096.68;5103.4;fr>>
+Donc, je vous rappelle que les deux parties ont exactement 10 minutes pour répondre aux questions et éventuellement répliquer.
+
+<<5103.6;5126.64;fr>>
+Et sans tarder, je donne la parole aux représentants du requérant, s'il vous plaît.
+
+<<5126.64;5127.64;fr>>
+Mettre le microphone, s'il vous plaît.
+
+[[Applicant;AP1]]
+
+<<5128.96;5153.36;es>>
+Bien, sobre las alegaciones que ha hecho el abogado, el agente del Gobierno, nosotros nos remitimos a nuestra exposición, porque en ella ya se han refutado, con carácter preventivo, las imputaciones que hace para la confirmación de la sentencia.
+
+<<5153.36;5165.96;es>>
+Respecto a la pregunta de los jueces, como han sido muchas, reconocemos que nos hemos visto muy limitados a la hora de hacer un resumen de las mismas. Una parte de ellas,
+
+<<5165.96;5171.96;es>>
+lo que nos concierne a nosotros, la voy a contestar yo y otra la va a contestar mi compañera.
+
+<<5171.96;5194.04;es>>
+La jueza Noseper nos preguntaba sobre la reunión del Moceop, si el obispo se enteró de que José Antonio era miembro o participaba en el Moceop antes o después del artículo en prensa. El Moceop es un movimiento de sacerdotes, de miembros de la Iglesia católica, que postula
+
+<<5194.04;5198.96;es>>
+el celibato opcional. Es una asociación admitida dentro de la Iglesia católica, no es una
+
+<<5198.96;5208.08;es>>
+asociación perseguida o declarada ilegal o contraria al derecho canónico, se puede participar libremente. José Antonio no era miembro el día en que aparece en la foto,
+
+<<5208.08;5220.24;es>>
+me acaba de contar que él simplemente asistía a una reunión donde amigos suyos le habían invitado a participar en esa reunión. Después del despido sí que se hizo miembro del movimiento
+
+<<5220.24;5226.2;es>>
+celibato opcional. ¿Cuál es el concepto de escándalo? ¿Qué
+
+<<5226.2;5231.52;es>>
+es lo que produce el escándalo? Yo creo que esta duda está muy bien resuelta en la nota
+
+<<5231.52;5244.88;es>>
+del obispo sobre las circunstancias del despido, fechada el 11 de noviembre de 1997, que contiene cinco puntos, y aquí el obispo deja claro cuál es su concepto de escándalo. Para nada
+
+<<5244.88;5258.2;es>>
+ninguna crítica del demandante como consecuencia de su simpatía, ya no pertenencia, al movimiento celibato opcional. Todo es la foto y que se sabe que, por la foto, que José Antonio,
+
+<<5258.2;5272.28;es>>
+señor de la Legión, en un instituto público, resulta que está casado y que tiene hijos, cosa que bien sabía el obispo desde 1991 y bien sabían los padres y los alumnos de los centros. En el punto 3 de la nota oficial del obispo
+
+<<5272.28;5295.84;es>>
+se dice que, una vez que se hizo pública y notoria la situación de don José Antonio Fernández Martínez, este hecho impide al obispo de la diócesis hacer uso de las facultades que le concede el reescripto, por lo que no firmó el documento que le acreditaba para impartir religión y moral católicas a partir del presente curso académico.
+
+<<5295.84;5317.76;es>>
+En la parte final se dice, en el punto 5, que es muy aclarador, que para la Iglesia el sacramento del orden sacerdotal tiene un carácter que rebasa el ámbito meramente laboral o profesional. Es decir, lo que motiva el escándalo es que se sabe que, públicamente,
+
+<<5317.76;5337.64;es>>
+por una aparición en prensa de la foto de José Antonio con su familia, que José Antonio, que pidió la despensa en 1984 pero que no la conseguía, no la tenía todavía en 1996, era cura y casado. Ese es el concepto de escándalo que se debate en el documento del obispo.
+
+<<5337.64;5344.72;es>>
+¿Cuál es el estado clerical? También se ha preguntado si el demandante sabía si iban
+
+<<5344.72;5355.64;es>>
+a publicar o no. El demandante acude como invitado a esta reunión en una ermita y él,
+
+<<5355.64;5361.08;es>>
+desde luego, desconoce que van a publicar nada. El demandante no habla con los periodistas,
+
+<<5361.08;5365.44;es>>
+ni habla ni ningún periodista se dirige a él. Él no tiene ningún tipo de contacto
+
+<<5365.44;5371.0;es>>
+con los periodistas. Es verdad que otros miembros del MOCEO –entonces, repito, que él no
+
+<<5371.0;5382.6;es>>
+era miembro, sino asistía como simpatizante– sí hablaron con los periodistas de aquella reunión que no se pudo hacer. Él se entera de la aparición en prensa porque un alumno
+
+<<5382.6;5388.04;es>>
+le ha dicho, José Antonio, ha salido en el periódico. Esto había ocurrido un domingo,
+
+<<5388.04;5398.12;es>>
+pero el lunes apareció en prensa la fotografía de José Antonio con su familia.
+
+<<5398.12;5406.24;es>>
+¿Cuál era el estado clerical 1984-1997? Le acabo de volver a preguntar a José Antonio
+
+<<5406.24;5412.68;es>>
+cuál era su estado. Dice que a partir de 1984, en que pido el celibato, se desliga
+
+<<5412.68;5418.76;es>>
+todo de toda obligación con la Iglesia católica. La Iglesia católica a veces, cuando pide
+
+<<5418.76;5424.32;es>>
+la dispensa del celibato, se desliga. El rescripto puede tardar dos meses, un año o, en su caso,
+
+<<5424.32;5429.44;es>>
+tardó trece años. Se prolongó un tiempo exagerado. Pero durante ese tiempo él no
+
+<<5429.44;5434.6;es>>
+tenía ninguna…, no cobraba el sueldo de sacerdote, no tenía funciones de sacerdote.
+
+<<5434.6;5441.0;es>>
+Era ya en la práctica absolutamente un laico. Pero para la mentalidad del obispo de la Iglesia
+
+<<5441.0;5451.32;es>>
+todavía no había perdido ese carácter sagrado, porque el Vaticano no le había autorizado el rescripto. Y no le había autorizado el rescripto al Vaticano porque no quiso autorizar
+
+<<5451.32;5472.72;es>>
+el rescripto hasta 1997, en que posiblemente desde el obispado de Cartagena Murcia se llamó al Vaticano para justificar el despido en 1997 de la foto de 1996. La jueza Power ha
+
+<<5472.72;5501.56;es>>
+preguntado si la conferencia de los obispos, si la Iglesia católica paga en los acuerdos de 1900…, el concordato, que es la palabra que se reúsa en los acuerdos de 1979, pero que es el nombre propio de un acuerdo entre el Estado y la Iglesia, todo la aportación económica de los profesores de religión corre exclusivamente con cargo al Estado.
+
+<<5501.56;5508.92;es>>
+No hay ninguna participación, por módica, que sea de la Iglesia o de los obispos.
+
+<<5508.92;5514.24;es>>
+Se ha preguntado también la causa real, si fue la foto o criticar. La causa real ya lo
+
+<<5514.24;5520.08;es>>
+ha explicado el comunicado del obispo, el mismo obispo lo explica. El escándalo es
+
+<<5520.08;5532.92;es>>
+que se sabe que, sin haber obtenido todavía la dispensa que había pedido en 1984, aparece públicamente como cura, casado y profesor de religión.
+
+<<5532.92;5558.36;es>>
+La sentencia del caso Galera, un caso prácticamente gemelo, pero posterior al del demandante, una sentencia del Tribunal Constitucional, donde el Pleno del Tribunal Constitucional cambió el criterio ya a una profesora de religión y moral católicas como el demandante, que tenía una relación matrimonial no amparada en el derecho canónico. El Tribunal Constitucional
+
+<<5558.36;5565.96;es>>
+la amparó por violación del derecho a la vida privada. En la sentencia Galera se cambió
+
+<<5565.96;5578.44;es>>
+la jurisprudencia por parte del Tribunal Constitucional y se ejecutó lo que yo sé por los medios de comunicación, que es cuando ella tuvo que ser readmitida a la fuerza en su trabajo.
+
+<<5578.44;5594.24;es>>
+El obispo ni el Estado podían, porque la no renovación del contrato o el despido, que es lo mismo, tenía un origen ilícito radical, que era la violación del derecho fundamental de la persona a la vida privada, al artículo 18 de la Constitución española.
+
+<<5594.24;5606.6;es>>
+Por tanto, no he conocido el futuro avatar de la profesora del caso Galera, pero sí tuvo que ser readmitida. ¿Cómo tendría que ser readmitido, o por lo menos nosotros
+
+<<5606.6;5614.24;es>>
+lo intentaríamos si una sentencia de la gran sala amparara nuestra pretensión? Ya que
+
+<<5614.24;5623.6;es>>
+él tuvo que apartarse del trabajo mucho antes de la edad de jubilación.
+
+<<5623.6;5633.8;es>>
+El juez Lemens ha preguntado si el matrimonio le hacía laico. Desde luego, él, cuando
+
+<<5633.8;5646.68;es>>
+hace la petición de dispensa del celibato en 1984, ya puede casarse por lo civil y lo hace. Y cuando en 1991 el obispo le dice, José Antonio, necesitamos profesores de calidad,
+
+<<5646.68;5655.96;es>>
+tenemos profesores que no son de buena calidad y necesitamos que cooperes con nosotros trabajando de profesor de religión. Para ser profesor de religión en el Estado
+
+<<5655.96;5661.92;es>>
+español no hace falta nada más que el obispo haga una declaración de idoneidad. No se
+
+<<5661.92;5667.6;es>>
+necesita un título universitario específico para ser profesor. Por eso, cuando José Antonio
+
+<<5667.6;5681.48;es>>
+es expulsado de la enseñanza de moral y religión católicas ya no puede vincularse con la enseñanza, porque él estaba allí en función exclusivamente de esa materia. No podía ser traspasado a
+
+<<5681.48;5687.68;es>>
+otras materias porque los acuerdos entre el Estado y la Iglesia no permiten esa solución.
+
+<<5687.68;5703.0;es>>
+El juez Lehmann también nos ha preguntado por qué tardaron tanto tiempo. Yo creo que
+
+<<5703.0;5707.56;es>>
+un poco lo he explicado. Tardaron tanto tiempo, no tardaron dos meses o un año, porque le
+
+<<5707.56;5721.44;es>>
+convino al Vaticano y porque en el año 96 retrasaron la dispensa del celibato para justificar mejor el tema del despido. ¿Por qué el demandante estaba interesado
+
+<<5721.44;5726.12;es>>
+en pedir la dispensa? Se nos pregunta también, profesor Lehmann. Pues quería casarse y la
+
+<<5726.12;5731.88;es>>
+condición de clérigo era incompatible con esa situación. Por tanto, para abandonar
+
+<<5731.88;5736.28;es>>
+el celibato necesitaba hacer una petición de dispensa del celibato.
+
+<<5736.28;5742.6;es>>
+Si el Estado cuando recibe la no renovación se limita a ejecutarla. Sí. El Estado no
+
+<<5742.6;5749.52;es>>
+tiene en los acuerdos concordato de 1979 ninguna potestad de impedir el despido del demandante.
+
+<<5749.52;5755.24;es>>
+Es un convidado de piedra que se diría en una expresión española. Es decir, el Estado
+
+<<5755.24;5768.6;es>>
+ante el despido de la Iglesia católica, pese a que son sus centros públicos, está maniatado por los acuerdos de 1979. El señor Sicuta ha preguntado por qué estos
+
+<<5768.6;5775.88;es>>
+contratos se renuevan cada año. Estadísticas de la no renovación. Muy profundamente yo
+
+<<5775.88;5780.48;es>>
+no conozco los entre sí los acuerdos. Los concordatos son cinco o seis acuerdos que
+
+<<5780.48;5785.44;es>>
+se hicieron en el año 79 y hay uno con ellos. Posiblemente es porque es el mecanismo que
+
+<<5785.44;5800.84;es>>
+la Iglesia ha exigido que haya una renovación anual, aunque la práctica –le he preguntado a José Antonio– es que de un año a otro vayan pasando los profesores, salvo en algunos casos excepcionales en que el obispo ha decido no hago la renovación. A lo mejor es porque
+
+<<5800.84;5808.44;es>>
+no le gusta el profesor, pero no es lo habitual. Le he preguntado también si los profesores
+
+<<5808.44;5813.6;es>>
+son sacerdotes. Dice que los hay sacerdotes, pero los hay también laicos. ¿Él dónde
+
+<<5813.6;5819.72;es>>
+estaba? Él estaba en el grupo de los laicos. Él no era sacerdote, aunque nominarlo teóricamente
+
+<<5819.72;5831.96;es>>
+podía mantener la condición de sacerdote porque el rescripto no se había emitido, pero realmente su vida y sus obligaciones eran de laico.
+
+<<5831.96;5840.88;es>>
+El señor Sayo preguntaba si en estas condiciones de aptitud se pide a cualquier persona o hay que tener unos requisitos. Yo le he preguntado al demandante y dice que el único requisito
+
+<<5840.88;5846.88;es>>
+es que el obispo te acepte, te haga la declaración de idoneidad. Suelen ser los laicos licenciados
+
+<<5846.88;5861.24;es>>
+en teología. La señora Sayo, si estas condiciones de aptitud
+
+<<5861.24;5870.64;es>>
+se piden a cualquiera o lo que hay que hacer. Sí, eso es lo que he contestado anteriormente.
+
+<<5870.64;5876.28;es>>
+Va a continuar mi compañera con la pregunta.
+
+<<5876.32;5876.96;es>>
+Muchas gracias. Continúe.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5877.0;5886.0;fr>>
+Est-ce que je peux vous demander d'être bref parce que le temps qui vous est imparti est déjà largement dépassé? Merci.
+
+[[Applicant;AP2]]
+
+<<5887.03;5895.43;es>>
+Bueno, jevia, creemos que preguntó el señor Sayo qué se entiende por escándalo. Le acabamos
+
+<<5895.43;5907.15;es>>
+de preguntar a José Antonio y nos dice que por escándalo se entiende, y citación, a otros a pecar. Si el demandante perdió la…, preguntaba también el señor Sayo, perdió
+
+<<5907.15;5913.35;es>>
+la vocación de profesor. No, él no perdió la vocación de profesor de religión que
+
+<<5913.35;5918.79;es>>
+le daba. Contestando a la señora Turkovich, pregunta
+
+<<5918.79;5928.87;es>>
+si en todas las dispensas se hace mención al escándalo. Lo desconocemos, no lo sabemos.
+
+<<5928.87;5941.47;es>>
+Pregunta también si el escándalo se le aplica al demandante por haber sido sacerdote o si también le afectaría a cualquier otra persona que no fuera sacerdote. Y se le aplica por
+
+<<5941.47;5946.79;es>>
+haber sido sacerdote, efectivamente. A otra persona no se le aplica.
+
+<<5946.79;5993.95;es>>
+Quizás sería interesante para saber la noción de escándalo, aparte de lo que dice la nota del obispo, que es el hecho de que se conozca…, aparezca el hecho de que es cura casado y con hijos, pero en la sentencia del Tribunal Superior de Justicia de Murcia, de 27 de febrero de 2001, sentencia que no puede modificar los hechos y que no los modifica, de hecho, dice que, haciendo referencia al rescripto de dispensa, en el que dice que se hace constar particularmente por lo que se refiere a la celebración del matrimonio canónico deben ser aplicadas las normas establecidas en código de derecho canónico. El obispo cuide de que
+
+<<5993.95;5997.15;es>>
+todo se desarrolle con cautela, sin boato ni publicidad.
+
+<<5997.15;6009.31;es>>
+Y ya, terminando, respondemos a las preguntas del señor presidente. Respecto a las preguntas,
+
+<<6009.31;6029.63;es>>
+sí es cierto lo que dice el párrafo 25 de la sentencia de la sala, en donde dice la publicación del artículo en la prensa siendo el mismo demandante el causante, es decir, si era el demandante el causante de la aparición en prensa. Y ha contestado mi compañero que
+
+<<6029.63;6041.39;es>>
+no, rotundamente no, no era el causante de su aparición, fue absolutamente involuntaria y, además, desconocía incluso el demandante que en la prensa estaba allí presente.
+
+<<6041.39;6058.23;es>>
+Si habló o no habló, si el demandante sí posó o no posó, también contestada, no habló y no posó. Se ve con la fotografía en donde es una dinámica. Y contestando a
+
+<<6058.23;6066.07;es>>
+qué provocó el escándalo, si fue solo la publicidad del matrimonio o las manifestaciones.
+
+<<6066.07;6084.19;es>>
+Por la nota del obispo se ve claramente que fue la publicidad del matrimonio, tal y como estableció además los hechos declarados probados del juez laboral 3, y esa fue la única causa que se examinó. Hemos terminado, creo, ¿no?, de responder.
+
+<<6084.19;6086.23;es>>
+Muchas gracias.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6087.22;6089.22;fr>>
+Merci beaucoup, madame.
+
+<<6089.41;6091.82;fr>>
+Je donne la parole à M. Sanz Gandásegui,
+
+<<6091.82;6092.9;fr>>
+s'il vous plaît.
+
+[[Government;GR1]]
+
+<<6093.61;6095.73;fr>>
+Merci beaucoup, M. le Président.
+
+<<6095.93;6105.57;fr>>
+Je vais arrêter les questions que vous avez posées, parce qu'elles sont beaucoup pour répondre en particulier.
+
+<<6105.57;6110.41;fr>>
+Mais pour encadrer tout ça, je vais souligner 2 ou 3 choses.
+
+<<6110.41;6120.61;fr>>
+En premier lieu, je voulais souligner le principe de neutralité de l'Etat qui se manifeste dans la proposition des professeurs de religion.
+
+<<6120.61;6140.37;fr>>
+Ça appartient à l'Eglise catholique, à la confession religieuse, de proposer aux professeurs de religion, l'Etat, sauf s'il y a une violation des droits fondamentaux, doit respecter, dit au principe de neutralité, doit respecter la décision de l'Eglise.
+
+<<6140.37;6141.81;fr>>
+Nous ne sommes pas...
+
+<<6141.81;6144.37;fr>>
+Ce n'est pas un Etat théocratique.
+
+<<6144.37;6150.77;fr>>
+C'est une première question que je voudrais souligner.
+
+<<6150.77;6182.81;fr>>
+La deuxième, c'est que peut-être en insistant sur le principe de neutralité, qu'il n'appartient pas à l'Etat d'apprécier les possibles disputes en termes de l'Eglise, qui aient raison, qui ont raison, qui n'ont pas raison de les éliver sur la terre satélite totale, de mettre des jugements sur l'adéquation et la conformité des actes, d'opinion, de témoignage des personnes décidées par l'Eglise.
+
+<<6182.81;6193.13;fr>>
+Ça n'appartient pas, parce que ça va contre la neutralité de l'Etat.
+
+<<6193.13;6195.13;fr>>
+L'Etat, bien sûr, a un rôle.
+
+<<6195.13;6214.61;fr>>
+C'est de constater la nature strictement religieuse des raisons dans lesquelles l'autorité religieuse a fondé, dans ces cas, la non-proposition du requérant comme professeur de religion et moral catholique.
+
+<<6214.61;6233.61;fr>>
+Et un deuxième lieu, que le droit fondamental, dans ces cas de la vie privée du requérant, soit seulement affecté et modulé dans l'homéstie est strictement nécessaire pour sauver la compatibilité de ces droits avec la liberté religieuse de l'Eglise catholique.
+
+<<6233.61;6240.61;fr>>
+Je voudrais simplement encadrer mes réponses dans ces deux principes fondamentaux qui me semblent importants.
+
+<<6240.61;6257.97;fr>>
+En ce qui concerne les questions, je vais couper comme je vous l'ai dit, sur les actes ainsi, sur le rassemblement du mouvement Fosse et Libard, sur quoi on peut dire que c'est prouvé que M. Fernandez-Martinez faisait partie
+
+<<6257.97;6265.37;fr>>
+et participait à l'arrivée du mouvement Fosse et Libard au Sénat, tel qu'il a été exprimé dans les jugements de la Cour constitutionnelle.
+
+<<6265.37;6272.73;fr>>
+Et selon la base, bien sûr, les données que nous avons, ce sont les informations de presse.
+
+<<6272.73;6303.37;fr>>
+Dans cette information, on peut constater qu'il ne se cache pas, comme le furent d'autres personnes, lorsque les médias étaient en train de faire le travail, et on peut résumer qu'il apparaît sur la photo avec sa famille, avait une importance suffisante dans le mouvement pour être cité expressement dans l'article par son nom, et même en incluant sa annonciation en fonction des lecteurs des séminaires.
+
+<<6303.37;6313.01;fr>>
+Je ne sais pas, je ne peux pas fournir d'informations sur s'il était la personne qui était à l'origine de cet événement, ça, je ne le connais pas.
+
+<<6313.01;6333.93;fr>>
+Je crois que ce qu'on peut constater, on peut prouver ici, c'est qu'il a participé à cet événement d'une manière active, comme prouvé par l'information de presse, telle que vous savez, ce qui est souligné dans la règle de la Cour constitutionnelle espagnole et d'autres instances judiciaires espagnoles.
+
+<<6333.93;6343.17;fr>>
+Si la question est plus concrète, quand est-ce que l'Eglise connaît l'appartenance du Messier Fernandez-Martinez au mouvement pour celui-là optionnel?
+
+<<6343.17;6387.41;fr>>
+On peut déduire de l'information que nous avons, que c'est après la participation dans le monastérium de la Luz, à son participation, où il fait publique sa condition de prêt de mariée, qui n'était pas connue du point de vue public, bien sûr, mais il aussi fait des propos, il s'aligne, il assume les propos aussi tenus par le mouvement pour celui-là optionnel, qui est un mouvement qui n'appartient pas à l'autorité catholique, qui n'appartient pas à l'autorité catholique, qui est contre l'autorité catholique.
+
+<<6387.41;6406.73;fr>>
+Sur la photo, je ne sais pas, il est dans la photo, mais je souligne ce que je viens de dire sur la participation du Messier Fernandez-Martinez prouvée tel qu'il est décrit dans la presse.
+
+<<6406.73;6426.53;fr>>
+Sur le financement au moment de la cesse de la religion catholique, selon l'accord avec la Sanchez de l'Etat espagnol en 1979, bien sûr, l'enseignement de la religion catholique était financé par l'Etat espagnol.
+
+<<6426.53;6450.29;fr>>
+Sur les cas qui ont évoqué la récidivité espagnole, qui se mariaient avec un divorcé, je veux dire qu'ici, il n'y a pas eu de révérend au juge prudentiel, parce que dans ce cas, le tribunal constitutionnel appréciait qu'il n'y avait pas de publicité.
+
+<<6450.29;6462.45;fr>>
+Le révérend ne faisait pas aucune publicité de savoir marier avec un divorcé.
+
+<<6462.45;6488.57;fr>>
+Et ce qui s'est passé après, pour l'exécution du jugement de la cour, je peux vous fournir plus d'informations, mais je crois qu'on a essayé, après l'arrêt de la cour constitutionnelle, de remettre à son poste, à sa fonction, à la professeure, mais comme le poste était occupé, on l'a rembassé, on l'a payé son salaire.
+
+<<6488.57;6493.69;fr>>
+Mais vous pouvez donner plus d'informations si vous voulez.
+
+<<6493.69;6498.85;fr>>
+Qu'est-ce que fait l'Etat quand l'Eglise ne propose pas à un professeur?
+
+<<6498.85;6511.57;fr>>
+Bien sûr, tel que nous avons dit, l'Etat doit respecter en principe ses décisions de l'Eglise, sauf s'il y a une vulnération des droits des fondamentales.
+
+<<6511.57;6515.45;fr>>
+Je vais poser des exemples, parce qu'on a demandé des exemples.
+
+<<6515.45;6521.37;fr>>
+Il y a eu d'autres affaires dans lesquelles la décision de l'Eglise n'a pas été suivie.
+
+<<6521.37;6530.13;fr>>
+Par exemple, le cas où l'évêque n'a pas proposé à un professeur, étant donné que le professeur participait dans une grève.
+
+<<6530.13;6538.53;fr>>
+Et l'autre cas, les affaires dans lesquelles un professeur participait dans une association de type, de caractère syndical.
+
+<<6538.53;6557.37;fr>>
+Dans ces cas, les autorités espagnoles, l'Autorité administrative et judiciaire espagnole, ont annulé la décision ou la proposition de l'évêque et le professeur a pu continuer son travail.
+
+<<6557.37;6560.85;fr>>
+Pourquoi les contrats individuels terminés?
+
+<<6560.85;6563.33;fr>>
+C'était comme ça au moment de l'espèce.
+
+<<6563.33;6568.89;fr>>
+C'était le commencement, nous parlons 1990-96.
+
+<<6568.89;6587.53;fr>>
+Si, dans mes observations, vous pouvez lire l'évolution de la situation de ces professeurs qui étaient au début dans le gouvernement, une situation qui n'était pas très claire.
+
+<<6587.53;6604.05;fr>>
+On a essayé d'éclaircir avec toute la normative espagnole de 1979 jusqu'à présent le statut du professeur de religion pour qu'il soit un statut plus respectueux avec les droits des travailleurs.
+
+<<6604.05;6617.05;fr>>
+Au moment des faits, les contrats étaient, comme je viens de le dire, à durée déterminée par un an, par un cours scolaire, mais ces contrats pouvaient se renouveler.
+
+<<6617.05;6627.05;fr>>
+Et maintenant, après le décret royal 2007, le contrat a un caractère indéfini et il peut se renouveler automatiquement.
+
+<<6627.05;6641.97;fr>>
+Mais il y a une condition qui est toujours présente, c'est l'accord, la proposition ou la non-opposition de l'Eglise catholique au renouvellement des contrats.
+
+<<6641.97;6649.81;fr>>
+Sur les conditions pour être professeur de religion, je ne sais pas, ça dépend de l'Évêque, ça dépend de l'Eglise catholique.
+
+<<6649.81;6659.85;fr>>
+Ce qui est jugé du point de vue civil, c'est que le professeur doit être en possession d'un diplôme universitaire.
+
+<<6659.85;6667.57;fr>>
+Bien sûr, si le concept de scandale dépend du droit canonique, ça ne peut pas vous apporter beaucoup de choses.
+
+<<6667.57;6694.09;fr>>
+Ici, ce qui est vrai, c'est que l'expression publique de la part d'une personne dont il n'existe aucune obligation de loyauté envers l'Eglise catholique de propos absolument contraires à sa doctrine et l'annonce publique de sa condition a été considérée par l'Eglise comme un scandale parce qu'il a déclenché la réaction de l'Eglise catholique de ne pas renouveler sa confiance.
+
+<<6694.09;6736.69;fr>>
+Je crois qu'ici, il n'y a eu aucune violation des droits fondamentaux, c'est le droit de l'Eglise à faire comme ça, parce que d'autre part, on ne peut pas comprendre qu'une personne qui est récrutée en vertu de la liberté et de la volonté de la profession de l'Evêque, grâce au grand processus de sélection, pour atteindre à acquérir par la suite un droit dédié à déterminer l'estabilité de sa relation de travail, fait sa nastration de la volonté de l'Evêque qu'il avait proposée, et n'attaquant avec ses propos la doctrine de l'Eglise.
+
+<<6736.69;6740.17;fr>>
+Je crois que c'est plus ou moins toutes les choses que je voudrais répondre.
+
+<<6740.17;6740.17;fr>>
+Merci beaucoup, Monsieur le Président.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6742.99;6744.99;fr>>
+Merci beaucoup.
+
+<<6744.99;6749.39;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<6749.39;6757.71;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<6757.71;6760.63;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<6760.63;6764.03;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<6764.03;6769.63;fr>>
+Les parties seront informées de la date du prononcé.
+
+<<6769.63;6772.55;fr>>
+L'audience est levée.
+

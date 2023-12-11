@@ -1,0 +1,1595 @@
+[[Announcer;UNK]]
+
+<<22.89;23.69;fr>>
+La Cour!
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<77.66;79.06;fr>>
+Prenez place, s'il vous plaît.
+
+<<94.9;102.98;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire Mugemangango contre Belgique.
+
+<<102.98;112.98;fr>>
+L'affaire a été introduite devant la Cour le 22 décembre 2014 par un ressortissant belge, M. Germain Mugemangango,
+
+<<112.98;116.18;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<116.18;125.18;fr>>
+Elle a été attribuée à la deuxième section de la Cour, conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<125.18;130.98;fr>>
+La requête a été communiquée au gouvernement le 27 novembre 2017.
+
+<<130.98;136.98;fr>>
+Le 11 juin 2019, la Chambre a décidé de se désaisir au profit de la Grand-Chambre.
+
+<<136.98;153.98;fr>>
+Le 5 juillet 2019, la Commission européenne pour la démocratie par le droit, la Commission de Venise, a été invitée à soumettre des observations écrites en tant que tierce partie en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<153.98;164.98;fr>>
+Le 6 septembre 2019, le gouvernement danois a été autorisé à soumettre, lui aussi, des observations écrites en tant que tierce partie.
+
+<<164.98;185.98;fr>>
+Le gouvernement défendeur est représenté par son agente, Mme Isabelle Niedlispacher du Service public fédéral de la justice, assistée par Mme Isabelle Leclercq et Sandrine Salmon, M. Fréderic Janssens et Gaël Lambison, conseillers,
+
+<<185.98;190.98;fr>>
+ainsi que M. Jean-Claude Marcourt, président du Parlement wallon.
+
+<<190.98;197.98;fr>>
+Le requérant est représenté par M. Marianne Pétré et Olivier Stein, avocats,
+
+<<197.98;202.98;fr>>
+assistés de M. Ivo Flachet, Selma Benkhelifa et Julie Laurent,
+
+<<202.98;207.98;fr>>
+ainsi que Mme Kristien  Van den Brande, conseillers.
+
+<<207.98;210.98;fr>>
+Le requérant est également présent.
+
+<<210.98;213.98;fr>>
+Je salue les comparants en nom de la Cour.
+
+<<213.98;226.98;fr>>
+Je salue également les délégations de magistrats slovaks, de magistrats russes et de magistrats du réseau européen de formation judiciaire, ainsi qu'une délégation de la Cour constitutionnelle ukrainienne en visite à la Cour.
+
+<<226.98;243.98;fr>>
+Je dois expliquer qu'en Sud, de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en slovak et en russe a été autorisée au profit des délégations slovak et ukrainiennes qui assistent à cette audience.
+
+<<243.98;251.98;fr>>
+Ces interprétations ne sont pas assurées par la Cour et ne feront donc pas partie de l'enregistrement officiel de la procédure.
+
+<<251.98;258.98;fr>>
+Ayant consulté l'agent du gouvernement et les représentants du requérant, je fixai ainsi l'ordre de parole.
+
+<<258.98;267.98;fr>>
+Nous entendrons successivement Mme Niedlispacher pour le gouvernement, puis M. Pétré et Stein pour le requérant.
+
+<<267.98;269.98;fr>>
+La parole est à Mme Niedlispacher.
+
+[[Government;GR1]]
+
+<<272.96;275.32;fr>>
+Je vous remercie.
+
+<<275.32;290.96;fr>>
+Monsieur le Président, Mesdames et Messieurs les juges, la Chambre a décidé de se dessaisir de l'affaire qui nous occupe au profit de la Grande Chambre pour préciser la jurisprudence énoncée dans l'arrêt Grozaru contre Roumanie.
+
+<<290.96;304.98;fr>>
+Dans cet arrêt, votre Cours avait constaté le manque de clarté de la loi électorale et l'absence de garantie suffisante d'impartialité des organes chargés d'examiner les contestations.
+
+<<304.98;319.82;fr>>
+Nous allons vous démontrer que, lors de l'examen des contestations électorales en cause, les garanties étaient suffisantes pour respecter le droit aux élections libres et le recours effectif.
+
+<<319.82;324.86;fr>>
+À cette fin, j'articulerai mon raisonnement en trois points.
+
+<<324.86;334.62;fr>>
+Tout d'abord, cette question dépasse l'aspect purement juridique et nous ramène au fondement de nos États modernes.
+
+<<334.62;343.02;fr>>
+Il s'agit en effet d'une question de philosophie politique qui ressort du pouvoir d'appréciation des États.
+
+<<343.02;355.98;fr>>
+Ensuite, dans le cadre de cette marche d'appréciation, le requérant a bénéficié de garanties minimales qui ont permis d'écarter les risques d'arbitraire ou d'abus de droit.
+
+<<355.98;365.88;fr>>
+Enfin, malgré l'examen attentif de ces prétentions, il n'a pu démontrer de préjudice réel.
+
+<<365.88;377.88;fr>>
+La question que pose votre cours dépasse le cadre purement juridique par des éléments de philosophie politique qui touchent au fondement de nos États modernes.
+
+<<377.88;386.42;fr>>
+La Constitution belge énonce que tous les pouvoirs émanent de la Nation et sont exercés de la manière qu'elle établit.
+
+<<386.42;389.92;fr>>
+Les membres des deux Chambres représentent cette Nation.
+
+<<389.92;402.74;fr>>
+Autrement dit, la souveraineté n'émane pas du peuple, la somme de tous les individus, mais de ses représentants, légitimés par l'élection au suffrage universel.
+
+<<402.74;411.24;fr>>
+Les fondateurs de l'État belge ont choisi Montesquieu plutôt que Jean-Jacques Rousseau.
+
+<<411.24;431.18;fr>>
+Dans les régimes de souveraineté parlementaire inspirés par Montesquieu, la question qui se pose est de savoir qui doit contrôler le pouvoir du Parlement, car s'il est souverain, rien ne doit venir limiter son pouvoir législatif, sauf lui-même.
+
+<<431.18;453.02;fr>>
+Or, selon Montesquieu, l'abus de pouvoir n'est empêché que si, par la disposition des choses, le pouvoir arrête le pouvoir, ce qui suppose non pas que chaque pouvoir soit unique et concentré, mais une fragmentation et une certaine distribution des pouvoirs séparés qui forment un équilibre.
+
+<<453.02;465.08;fr>>
+Pour éviter le paradoxe selon lequel le principe de souveraineté parlementaire pourrait conduire à l'abus de pouvoir, les démocraties parlementaires se sont dotées d'outils pour l'encadrer.
+
+<<465.08;480.68;fr>>
+En droit belge, il s'agit notamment de la Constitution et du corpus constitutionnel des lois spéciales qui l'entourent, et surtout de la Convention européenne des droits de l'homme et des garanties essentielles qu'elle accorde aux citoyens.
+
+<<480.68;489.82;fr>>
+Selon la Convention, cette question, liée à la façon dont les États-partis s'organisent, est laissée à leur appréciation.
+
+<<489.82;498.52;fr>>
+Les États se voient accordés par votre cours une marge d'appréciation très large pour assurer le droit aux élections libres.
+
+<<498.52;516.48;fr>>
+Il s'agit d'apprécier le cas d'espèce à la lumière de l'évolution politique du pays, ce qui implique que des caractéristiques difficilement acceptables dans le cadre d'un système peuvent se justifier dans le contexte d'un autre.
+
+<<516.48;537.48;fr>>
+Le système politique belge se caractérise par un héritage historique fondé sur la philosophie de Montesquieu, ainsi qu'un contexte institutionnel complexe fait de justes équilibres entre institutions et entités, et conditionné par la lourdeur des procédures de révision du corpus constitutionnel.
+
+<<537.48;550.64;fr>>
+Il manquait au requérant 14 voies pour atteindre le seuil permettant à son parti de bénéficier de l'apparentement, ce qui, selon lui, lui aurait permis d'être élu du Parlement wallon.
+
+<<550.64;563.02;fr>>
+Il se plaint que sa réclamation a été traitée par les députés récemment élus, qui auraient manqué de l'impartialité voulue.
+
+<<563.02;578.42;fr>>
+La procédure initiée en l'espèce avait toutefois pour objectif légitime de lui faire bénéficier immédiatement d'un recours effectif pour se plaindre de sa non-élection, tout en préservant l'indépendance du législatif.
+
+<<578.42;596.98;fr>>
+Dans le contexte institutionnel belge, l'examen de ce recours par un organe qui peut apparaître à la fois comme juge et parti ne constitue pas une restriction disproportionnée au droit de recours effectif en matière électorale.
+
+<<596.98;611.98;fr>>
+Or, selon votre cours, le droit de se porter candidat à une élection peut être librement restreint par l'État dans un but légitime, compatible avec la prééminence du droit et des objectifs de la Convention.
+
+<<611.98;631.62;fr>>
+Sur cet aspect passif du droit aux élections libres, la marge d'appréciation de l'État est particulièrement large et votre cours se limite à établir si la décision rendue par l'organe interne avait ou non un caractère arbitraire ou manifestement déraisonnable.
+
+<<631.62;638.18;fr>>
+Dans l'espèce, la décision rendue par le Parlement wallon, suite à la réclamation de M. Mugemangango,
+
+<<638.18;646.88;fr>>
+quant à sa non-élection, n'était ni arbitraire ni manifestement déraisonnable.
+
+<<646.88;658.88;fr>>
+En vue d'éviter tout abus de droit, le Parlement wallon a veillé à assurer aux requérants les garanties procédurales essentielles prévues par la Convention.
+
+<<658.88;677.32;fr>>
+Selon votre cours, le droit de se porter candidat aux élections, garantie par l'article 3 du protocole 1 et inhérent à la notion de régime véritablement démocratique, ne serait qu'illusoire si l'intéressé pouvait à tout moment en être arbitrairement privé.
+
+<<677.32;694.32;fr>>
+Le processus décisionnel concernant la contestation des résultats électoraux doit donc être entouré de garanties contre l'arbitraire, parmi lesquelles la précision des règles qui délimitent le pouvoir de l'organe décideur.
+
+<<694.32;713.86;fr>>
+Dans son arrêt gros à roux contre Roumanie, votre cours a notamment souligné que le manque de clarté des dispositions légales en matière électorale imposait aux autorités concernées d'être prudentes dans l'interprétation qu'elles en faisaient, en vue d'éviter tout risque d'arbitraire.
+
+<<713.86;722.96;fr>>
+Le Parlement wallon, lors de sa création, a hérité des procédures historiques prévues dans le cadre de l'État unitaire.
+
+<<722.96;733.02;fr>>
+Une réclamation relative à la validité des élections n'a jamais été introduite devant lui avant 2014.
+
+<<733.02;736.82;fr>>
+Dès la réception de la réclamation de M. Mugemangango,
+
+<<736.82;752.92;fr>>
+la Commission du Parlement wallon a fait le constat que ni la loi spéciale ni le règlement du Parlement ne prévoyaient de procédures précises en vue d'introduire une réclamation relative à la validité des élections.
+
+<<752.92;788.82;fr>>
+Dès lors, animé par le souci de maintenir l'intégrité et l'effectivité de la procédure électorale, ainsi que par la volonté de rendre les exigences de la Convention concrètes et effectives, le Parlement a mis en place une procédure assurant les garanties essentielles aux requérants en interprétant avec prudence les règles existantes dans le respect des principes généraux énoncés par votre Cours et dans un souci d'assurer la sécurité juridique.
+
+<<788.82;800.22;fr>>
+Ces précautions ont permis d'assurer aux requérants le bénéfice de garantie procédurale issu de principes généraux qu'ils ne pouvaient ignorer.
+
+<<800.22;816.16;fr>>
+Ensuite, le Parlement wallon a endossé ces règles pour le futur en les inscrivant dans un règlement spécifique à la procédure d'examen des réclamations contre son élection.
+
+<<816.16;823.86;fr>>
+Nous allons reprendre brièvement cette procédure et les garanties qu'elle a octroyées aux requérants.
+
+<<823.86;827.32;fr>>
+M. Mungemangango a pu facilement,
+
+<<827.32;837.28;fr>>
+à l'instar de n'importe quel candidat, déposer sa réclamation au Parlement wallon, conformément aux exigences de simplicité de la Commission de Venise.
+
+<<837.28;849.36;fr>>
+Son cas a ensuite été instruit par la Commission de vérification des pouvoirs du Parlement wallon, dont les membres avaient été tirés au sort dans le respect de certaines garanties.
+
+<<849.36;855.26;fr>>
+La séance de la Commission a été publique, conformément aux prescrits de la Commission de Venise.
+
+<<855.26;865.02;fr>>
+Le requérant et son Conseil ont été entendus et ont pu faire valoir de leurs arguments, ce qui respecte une des règles procédurales fondamentales.
+
+<<865.02;878.18;fr>>
+Les membres de la Commission ont pu poser des questions aux réclamants, se faire produire des pièces ou entendre des témoins dans le respect du contradictoire.
+
+<<878.18;893.52;fr>>
+Après une délibération à huit clots, la Commission de vérification des pouvoirs a rendu une proposition de décision motivée au Parlement qui visait à déclarer cette réclamation recevable et fondée.
+
+<<893.52;903.08;fr>>
+Cette proposition était assortie d'une note analysant l'impact d'une distribution différente des voix sur la dévolution des sièges.
+
+<<903.08;913.58;fr>>
+Aucun membre de la circonscription sur laquelle portait la réclamation n'a participé ni aux délibérations ni au vote.
+
+<<913.58;924.22;fr>>
+Le Parlement a examiné cette proposition de révision et la note qui l'accompagnait en séance plénière et publique.
+
+<<924.22;931.82;fr>>
+Il a décidé, après examin de ses éléments, de déclarer la réclamation recevable et non fondée.
+
+<<931.82;940.06;fr>>
+La décision du Parlement a été motivée et il a été répondu de manière détaillée aux arguments du requérant.
+
+<<940.06;953.42;fr>>
+Le Parlement a la compétence d'annuler le scrutin et de décider du recontage des voix, même de façon partielle, conformément aux exigences de la Commission de Venise.
+
+<<953.42;961.52;fr>>
+L'ensemble de cette procédure s'est déroulé dans un délai très court, conformément, une nouvelle fois, aux exigences de la Commission de Venise.
+
+<<961.52;969.58;fr>>
+La décision ici est tombée sept jours après l'introduction du recours.
+
+<<969.58;983.62;fr>>
+Malgré ces garanties essentielles, dont tout réclament bénéficie désormais devant le Parlement wallon, tant le requérant que la Commission de Venise maintienne certaines critiques quant à cette procédure.
+
+<<983.62;991.36;fr>>
+L'instance décisionnelle serait juge et parti, et partant, suspecte de partialité.
+
+<<991.36;1003.18;fr>>
+Seul un recours devant une instance judiciaire permettrait d'éviter cette apparence de partialité et de limiter le risque de décision politique.
+
+<<1003.18;1024.72;fr>>
+Dans son arrêt Gros-Arou contre Roumanie, votre recours était d'avis qu'un individu, dont la nomination à une fonction de député a été refusée, avait des raisons légitimes de craindre que la grande majorité des membres de l'Assemblée, ayant examiné la légalité des élections, ait un intérêt contraire au sien.
+
+<<1024.72;1032.72;fr>>
+C'est précisément pour pallier cette crainte légitime que des garanties procédurales essentielles sont prévues.
+
+<<1032.72;1050.02;fr>>
+D'ailleurs, le requérant note de manière significative que malgré le manque flagrant d'impartialité qu'il lui impute, la Commission de validation des pouvoirs lui a tout de même donné raison.
+
+<<1050.02;1055.18;fr>>
+Revenons un peu à Montesquieu et à l'équilibre des pouvoirs qu'il recherche.
+
+<<1055.18;1066.18;fr>>
+Montesquieu ne visait pas trois pouvoirs figés, hiérarchisés, mais bien trois pouvoirs imbriqués qui se contrôlent l'un l'autre de façon complexe.
+
+<<1066.18;1071.68;fr>>
+Ces pouvoirs sont sur le même pied.
+
+<<1071.68;1081.28;fr>>
+L'existence d'un organe judiciaire dans le cadre de la validation des pouvoirs n'est pas par nature garante de l'impartialité de la décision.
+
+<<1081.28;1092.04;fr>>
+Ce n'est pas le type d'organe qui prend la décision qui importe, mais bien les garanties qu'il octroie afin de lutter contre l'arbitraire.
+
+<<1092.04;1109.14;fr>>
+En effet, ces garanties procédurales font partie des éléments qui fondent la confiance du citoyen dans l'organe qui prend la décision, comme le précise la Commission de Venise pour ce qui est de la publicité de l'audience, de la motivation et de la publicité de la décision.
+
+<<1109.14;1119.08;fr>>
+À ce sujet, la Commission de Venise met également en avant l'importance d'impliquer les cours constitutionnels dans le contentieux post-électoral.
+
+<<1119.08;1133.02;fr>>
+Récemment, en Belgique, certains ont pourtant mis en doute l'indépendance de la Cour constitutionnelle belge lors d'un débat portant sur la procédure de nomination de cet organe judiciaire.
+
+<<1133.02;1137.82;fr>>
+Personne ici ne conteste l'indépendance de cette juridiction.
+
+<<1137.82;1151.48;fr>>
+Mais cette expérience illustre l'idée que, dans une démocratie, c'est l'image que l'on peut avoir d'une institution qui fonde la confiance qu'on lui accorde.
+
+<<1151.48;1167.18;fr>>
+Le requérant s'appuie, quant à lui, sur une doctrine pléthorique et cite abondamment les principaux constitutionnalistes belges pour qui la messe serait dite quant au litige qui nous occupe aujourd'hui.
+
+<<1167.18;1176.88;fr>>
+Cependant, si le requérant et le gouvernement se présentent devant vous aujourd'hui, c'est parce qu'ils ne croient pas en cette affirmation.
+
+<<1176.88;1182.04;fr>>
+Le requérant aurait pu contester l'indépendance de votre cours créée par les États-partis.
+
+<<1182.04;1183.28;fr>>
+Il n'en est rien.
+
+<<1183.28;1197.64;fr>>
+Tant le gouvernement belge que le requérant se présente devant vous, car ils savent que la décision que votre cours prendra se basera sur un examen attentif du cas d'espèce.
+
+<<1197.64;1204.18;fr>>
+Leur confiance fondera l'acceptation de la décision quelle qu'elle soit.
+
+<<1204.18;1224.28;fr>>
+Elle est basée sur votre indépendance, notamment grâce aux garanties procédurales essentielles accordées aux partis, ainsi qu'à une longue expérience en commun, et non pas de façon purement formelle, parce que vous êtes un organe judiciaire.
+
+<<1224.28;1232.08;fr>>
+Dans une démocratie, c'est l'équilibre entre les différents pouvoirs à différents niveaux qui construit le droit.
+
+<<1232.08;1234.98;fr>>
+Ce n'est pas la doctrine qui décide.
+
+<<1234.98;1248.28;fr>>
+Fustelle abondante, elle est là pour conseiller, éclairer, parfois de manière créative, mais nullement pour prédire.
+
+<<1248.28;1266.32;fr>>
+Si le Parlement wallon a pu être suspecté par certains de partialité dans l'examen de la validité des élections le désignant, le soin qu'il a mis à accorder des garanties procédurales minimales doit permettre de fonder la confiance des citoyens en cette procédure.
+
+<<1266.32;1273.48;fr>>
+Un constat de non-violation par votre cours permettrait de renforcer cette confiance.
+
+<<1273.48;1290.14;fr>>
+Le désavantage que constitue la validation des élections par les députés eux-mêmes était proportionné aux objectifs légitimes d'assurer l'indépendance du législatif ainsi que des garanties procédurales immédiates aux requérants.
+
+<<1290.14;1297.24;fr>>
+Au regard de ces garanties, la décision du Parlement wallon n'était ni arbitraire ni manifestement déraisonnable.
+
+<<1297.24;1307.92;fr>>
+Malgré ces garanties et l'examen attentif de sa réclamation, le requérant n'a pu démontrer de préjudice réel.
+
+<<1307.92;1318.68;fr>>
+Le refus du Parlement wallon de faire procéder au recontage des votes blancs nuls et contestés de la circonscription de Charles Roy n'a pas méconnu le droit de M. Mungemangango
+
+<<1318.68;1322.12;fr>>
+de se porter candidat à des élections.
+
+<<1322.12;1337.34;fr>>
+En effet, si cette décision était dépourvue de caractère arbitraire et manifestement déraisonnable, elle était également fondée sur une appréciation acceptable et proportionnée d'effets pertinents.
+
+<<1337.34;1353.72;fr>>
+Les erreurs et irrégularités alléguées n'étaient pas d'une ampleur et d'une gravité anormales qui auraient pu entacher la fiabilité des résultats des élections et entraver la libre expression du peuple.
+
+<<1353.72;1364.82;fr>>
+Le requérant met en cause des modalités propres au système électoral belge en général et a demandé un réexamen des votes blancs nuls ou contestés dans la circonscription concernée.
+
+<<1364.82;1375.54;fr>>
+Or, en Belgique, les principes généraux de transparence, d'impartialité et d'indépendance de l'administration des élections sont respectés.
+
+<<1375.54;1386.78;fr>>
+Selon votre cours, même une simple erreur ou irrégularité ne devrait dès lors pas révéler un manque d'équité des élections.
+
+<<1386.78;1393.68;fr>>
+En l'espèce, le requérant a estimé que des erreurs s'étaient produites au cours du processus électoral.
+
+<<1393.68;1403.58;fr>>
+En Belgique, chaque parti, dont le sien, a la possibilité de désigner des témoins qui assistent aux opérations de vote et de dépouillement.
+
+<<1403.58;1410.58;fr>>
+Ces témoins ont la possibilité de constater leurs observations dans un procès verbal.
+
+<<1410.58;1414.88;fr>>
+Et ils n'ont pas utilisé ce droit.
+
+<<1414.88;1425.68;fr>>
+Monsieur Mungemangango se base notamment sur le nombre de voix de préférence attribuées à deux candidats de sa liste qui seraient surréalistes et incohérents.
+
+<<1425.68;1435.04;fr>>
+Il estime également que le nombre de bulletins de vote déclarés blancs nuls ou contestés dans la circonscription de Charles Roy est spectaculaire.
+
+<<1435.04;1450.12;fr>>
+Étant donné ces éléments, il souhaite vérifier si les 14 voix qui lui font défaut pour atteindre le seuil permettant d'accéder à l'apparentement et partant obtenir son siège de député manquent effectivement.
+
+<<1450.12;1466.52;fr>>
+Ces arguments sont bien résumés dans la décision du Parlement, mais cela ne signifie en aucune façon que le Parlement endosse cette description, à l'inverse de ce que le requérant affirme dans ses observations.
+
+<<1466.52;1478.32;fr>>
+Au contraire, le Parlement wallon a, comme le recommande votre cours, commencé par évaluer la gravité et l'ampleur des irrégularités alléguées.
+
+<<1478.32;1484.52;fr>>
+Après un examen attentif des faits, il a constaté que M. Mungemangango ne pouvait apporter
+
+<<1484.52;1497.84;fr>>
+aucun élément probant étayant des irrégularités d'une gravité ou d'une ampleur anormale, ce qui est pourtant possible à différentes étapes de la procédure électorale.
+
+<<1497.84;1516.38;fr>>
+Il a notamment précisé que le nombre de bulletins contestés blancs ou nuls était inférieur à celui recensé dans la même circonscription lors du scrutin régional précédent, et n'était donc pas de nature en soi, a éveillé la suspicion.
+
+<<1516.38;1525.52;fr>>
+Il a ensuite défini les effets que pouvaient avoir les irrégularités alléguées sur le résultat de l'élection.
+
+<<1525.52;1533.22;fr>>
+Le Parlement wallon est parti, conformément aux pratiques de la Chambre des représentants fédérales, d'une hypothèse extrême.
+
+<<1533.22;1544.04;fr>>
+La totalité des votes déclarés blancs ou nuls lors du dépouillement sont valablement exprimés et favorables à la liste du requérant.
+
+<<1544.04;1558.78;fr>>
+La conclusion en est que, dans cette hypothèse extrême, mais également dans des hypothèses plus modestes, la répartition des sièges dans la circonscription de Charleroi était susceptible d'être modifiée.
+
+<<1558.78;1575.18;fr>>
+Cependant, cette modification aurait également affecté la répartition des sièges dans d'autres circonscriptions, épartant le seuil d'apparentement, lui permettant d'obtenir éventuellement un siège.
+
+<<1575.18;1580.24;fr>>
+Le requérant n'aurait donc pas pu être élu.
+
+<<1580.24;1587.18;fr>>
+Il n'a dès lors pu démontrer de préjudice réel quant à l'issue du scrutin.
+
+<<1587.18;1598.72;fr>>
+Aucun indice ne laissant penser que des irrégularités ou des erreurs d'une particulière ampleur se sont produites dans la circonscription concernée.
+
+<<1598.72;1612.98;fr>>
+Il eût été discriminatoire vis-à-vis des autres candidats de cette circonscription ou d'autres circonscriptions de décider du recontage au motif qu'il lui manquait 14 voix.
+
+<<1612.98;1620.52;fr>>
+Il est sans doute décevant pour un candidat de se dire que sa non-élection s'est jouée à quelques voix près.
+
+<<1620.52;1630.52;fr>>
+Cela ne constitue pas pour autant un motif suffisant pour reconter certains bulletins à l'exclusion des autres.
+
+<<1630.52;1638.48;fr>>
+On le voit, le Parlement wallon a pris sa décision sur la base d'une appréciation raisonnable et proportionnée des faits pertinents.
+
+<<1638.48;1647.78;fr>>
+Il a aussi motivé sa décision de façon détaillée et l'a fait transmettre personnellement au requérant.
+
+<<1647.78;1653.48;fr>>
+Le droit du requérant de participer à des élections libres n'a pas été méconnu.
+
+<<1653.48;1661.88;fr>>
+Le Parlement wallon a mis à sa disposition un recours interne effectif devant un organe compétent pour connaître de ses griefs.
+
+<<1661.88;1672.14;fr>>
+Ce moyen était la façon la plus efficace et pragmatique de faire bénéficier immédiatement le requérant des droits qui lui sont reconnus.
+
+<<1672.14;1694.18;fr>>
+Vu ses contraintes historiques et l'évolution du système institutionnel belge vers une complexité croissante, son autonomie parlementaire a permis au Parlement wallon de garantir au requérant actuel, mais aussi au requérant futur, un recours propre à assurer le droit à des élections libres.
+
+<<1694.18;1699.94;fr>>
+Ce faisant, il a répondu aux exigences de la Convention.
+
+<<1699.94;1718.42;fr>>
+En résumé, votre court a constaté la violation de la Convention dans l'affaire Grozarou contre Roumanie en raison du manque de clarté des dispositions législatives pertinentes et de l'absence de garantie suffisante d'impartialité des organes chargés d'examiner les réclamations.
+
+<<1718.42;1737.08;fr>>
+À l'inverse de ce cas, le Parlement wallon a interprété les règles existantes de façon prudente et a octroyé au requérant les garanties essentielles permettant d'assurer l'impartialité des organes traitant sa réclamation.
+
+<<1737.08;1752.88;fr>>
+Pour respecter la variété des traditions historiques du continent, le gouvernement belge estime que la validation des élections par les assemblées législatives elles-mêmes peut se concevoir à certaines conditions.
+
+<<1752.88;1765.08;fr>>
+Le contexte de l'État, notamment son évolution historique et l'équilibre fragile de sa structure institutionnelle, doit être pris en considération.
+
+<<1765.08;1775.84;fr>>
+Et bien évidemment, des garanties procédurales suffisantes doivent être données aux réclamants éventuels afin de lever toute suspicion de partialité.
+
+<<1775.84;1785.38;fr>>
+Dans le cas d'Espèces, les pouvoirs du Parlement ont été et sont toujours encadrés par les garanties procédurales qui découlent de la Convention.
+
+<<1785.38;1798.08;fr>>
+Ces garanties permettent de lever toute suspicion de partialité en maintenant l'indépendance du pouvoir législatif, fondement de l'État belge, tel que pensé par Montesquieu.
+
+<<1798.08;1809.48;fr>>
+Monsieur le Président, Mesdames et Messieurs les membres de la Cour, ce que le gouvernement belge vous demande aujourd'hui, en paraphrasant le journaliste Bertrand N., c'est de ne pas tuer Montesquieu.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<1815.74;1818.58;fr>>
+Merci beaucoup. La parole est à maître Petré.
+
+[[Applicant;AP3]]
+
+<<1822.34;1837.42;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, dans l'affaire qui nous occupe, le 25 mai 2014, se sont tenues en Belgique des élections régionales pour permettre l'élection des députés au Parlement Wallon, siégeant à Namur.
+
+<<1837.42;1852.78;fr>>
+Il s'agit d'un scrutin manuel avec des bulletins de vote à remplir par les électeurs dans des bureaux de vote et qui impliquent ensuite le dépouillement de ces bulletins de vote papier remplis par les électeurs par des bureaux de dépouillement.
+
+<<1852.78;1857.82;fr>>
+Ce sont deux instances différentes qui s'occupent de ces deux phases de la procédure.
+
+<<1857.82;1868.82;fr>>
+Le requérant a été candidat tête de liste pour la liste PTB Go pour l'élection des députés de ce Parlement Wallon dans la circonscription de Charleroi.
+
+<<1868.82;1883.14;fr>>
+Il est apparu dès l'annonce des résultats du dépouillement des bulletins de vote dans cette circonscription de Charleroi que de gros problèmes s'étaient posés dans ce dépouillement.
+
+<<1883.14;1894.82;fr>>
+Les critères de validation de nombre de bulletins de vote étant tout à fait flou, différents d'un bureau à l'autre et portant des difficultés.
+
+<<1894.82;1905.14;fr>>
+Ces difficultés ont abouti à ce que 21 385 bulletins de vote ont été déclarés blancs, nuls ou contestés.
+
+<<1905.14;1917.54;fr>>
+Et ce constat a amené le PTB Go à effectuer un véritable parcours de combattants pour demander un recontage de ces bulletins.
+
+<<1917.54;1925.38;fr>>
+En effet, le PTB Go a fait les démarches suivantes afin d'obtenir le recontage de ces bulletins.
+
+<<1925.38;1947.38;fr>>
+D'abord, entre le 26 et le 28 mai 2019, il a d'abord tenté d'obtenir de pouvoir consulter les PV des bureaux de dépouillement pour comprendre les critères qui avaient été appliqués pour déclarer des bulletins blancs, nuls ou contestés, et pour voir si un recontage des bulletins était possible.
+
+<<1947.38;1955.46;fr>>
+Et ensuite, face à une impossibilité d'obtenir cela, a eu de nombreux contacts avec le ministère de l'Intérieur.
+
+<<1955.46;1974.18;fr>>
+Toutes ces démarches étant restées totalement infructueuses, le 6 juin 2014, le requérant a sérisi le Parlement wallon d'une réclamation sur pied de l'article 31 de la loi spéciale de réformes institutionnelles du 8 août 1980.
+
+<<1974.18;1999.62;fr>>
+Par cette réclamation, le requérant sollicitait du Parlement wallon, dans le cadre de sa mission de vérification des opérations électorales du 25 mai 2014, le réexamen des 21 385 bulletins de vote déclarés blancs, nuls ou contestés au sein de la circonscription électorale de Charleroi.
+
+<<1999.62;2002.06;fr>>
+Pourquoi cette réclamation?
+
+<<2002.06;2016.86;fr>>
+Parce qu'effectivement, il avait manqué 14 voix à la liste PTBGO pour avoir un élu dans le cadre de la circonscription électorale de Charleroi, à savoir le requérant.
+
+<<2016.86;2034.34;fr>>
+Et qu'un tel recontage pouvait donc changer le nombre de votes valables et, en conséquence, entraîner une nouvelle répartition des sièges entre les partis qui s'étaient présentés aux élections et éventuellement permettre l'élection du requérant.
+
+<<2034.34;2058.22;fr>>
+Suivant la procédure établie par le règlement d'ordre intérieur du Parlement wallon, tel qu'applicable en 2014 à l'époque de l'introduction de la réclamation, celui-ci, donc le Parlement wallon, composé des nouveaux élus sortis du scrutin du 25 mai 2014, a constitué en son sein une commission de vérification des pouvoirs.
+
+<<2058.22;2063.93;fr>>
+C'est prévu dans le règlement d'ordre intérieur du Parlement.
+
+<<2063.93;2081.45;fr>>
+Cette commission est chargée de vérifier les pièces justificatrices des élections, de prendre connaissance des éventuelles réclamations introduites et de fournir au Parlement des conclusions à propos des réclamations dont il aura eu connaissance.
+
+<<2081.45;2089.49;fr>>
+Dans le cas présent, la commission de vérification des pouvoirs a effectivement reçu connaissance de la réclamation du requérant.
+
+<<2089.49;2096.18;fr>>
+Elle a siégé cette commission de vérification des pouvoirs le 10 juin 2014.
+
+<<2096.18;2106.62;fr>>
+C'est à cette date que, effectivement, le requérant et son avocat ont été entendus par cette commission de vérification des pouvoirs et uniquement par elle.
+
+<<2106.62;2150.14;fr>>
+Et ensuite, elle a siégé à huis clos le 10 juin, le 11 juin, le 12 juin, pour finalement aboutir à la conclusion proposée au Parlement wallon, seule instance décisionnelle en cette matière, on y reviendra tout à l'heure, a proposé donc de déclarer la réclamation du requérant, a proposé de la déclarer recevable et fondée et a proposé au Parlement wallon de faire recompter les bulletins blancs, nuls et contestés dans la circonscription de Charleroi, cette fois-ci par le ministère de l'Intérieur, puisque les bureaux de dépouillement, à ce moment-là, n'existent plus.
+
+<<2150.14;2158.14;fr>>
+Ils s'arrêtent évidemment dès que les dépouillements papiers sont terminés et ça irait alors au ministère de l'Intérieur.
+
+<<2158.14;2164.7;fr>>
+Donc ça, c'est la conclusion prise par la Commission de vérification des pouvoirs le 12 juin 2014.
+
+<<2164.7;2192.7;fr>>
+Le 13 juin 2014, le Parlement wallon, seule autorité décisionnelle sur cette réclamation, la Commission n'a absolument pas une autorité décisionnelle, sans entendre le requérant, sans lui avoir fourni aucune pièce, sans lui avoir notamment fourni, en tous les cas, le document sur lequel elle allait prendre sa décision et lui permettre éventuellement d'apporter des arguments, puisque c'était l'instance décisionnelle.
+
+<<2192.7;2204.62;fr>>
+Sans tout cela, le Parlement wallon, au complet, là, a décidé de rejeter la réclamation du requérant, pas la disant recevable, mais non fondue.
+
+<<2204.62;2221.66;fr>>
+Ensuite, nous nous sommes interrogés pour savoir si nous pouvions contester, le requérant s'est demandé s'il pouvait contester cette décision du Parlement wallon éminemment politique, bien entendu, mais aucun recours en Belgique n'existe pour contester cette décision.
+
+<<2221.66;2231.93;fr>>
+Dans cette hypothèse, le requérant a donc saisi votre recours pour lui expliquer le souci qui se pose dans ce dossier.
+
+<<2231.93;2236.22;fr>>
+Alors, ça, c'était pour vous expliquer très rapidement le contexte.
+
+<<2236.22;2250.93;fr>>
+Alors, suite à la réclamation et aux différents actes de procédure qui ont eu lieu, votre recours a posé différentes questions au requérant, enfin, au parti, et nous allons y répondre de manière alternative, maître Stein et moi.
+
+<<2250.93;2272.26;fr>>
+La première question que vous nous avez posée est de savoir si le requérant avait eu la possibilité d'avoir un droit effectif et réel d'être candidat à des élections, parce que cela implique un recours effectif sur le processus électoral lui-même.
+
+<<2272.26;2275.41;fr>>
+Alors, la réponse que nous vous avons apportée est la suivante.
+
+<<2275.41;2291.26;fr>>
+En Belgique, en vertu de l'article 3 du protocole numéro 1 de la Convention, une obligation positive d'organiser des élections libres existe et est acquis.
+
+<<2291.26;2315.53;fr>>
+Votre recours n'a cessé de souligner l'importance des principes démocratiques qui sous-tendent l'interprétation et l'application de la Convention et a souligné que les droits garantis par l'article 3 du protocole numéro 1 sont essentiels pour rétablir et maintenir les fondements d'une démocratie effective et significative régie par l'État de droit.
+
+<<2315.53;2334.06;fr>>
+C'est dans cette perspective que l'objet et le but de la Convention exigent que les garanties consacrées par l'article 3 du protocole numéro 1 soient interprétées et appliquées de manière à ce qu'elles ne soient pas théoriques ou illusoires, mais pratiques et effectives.
+
+<<2334.06;2342.38;fr>>
+C'est ce que votre cours a expliqué dans un arrêt Kérimova contre Azerbaïdjan du 30 septembre 2010.
+
+<<2342.38;2358.62;fr>>
+Ainsi, le droit de requérant de se porter candidat n'aurait été effectif et réel que si des instances adéquates avaient pu vérifier que son droit avait été respecté tout au long du processus électoral, ce qui ne fut pas le cas.
+
+<<2358.62;2367.02;fr>>
+C'est aussi ce qu'a rappelé votre cours dans un arrêt Huskiesh contre Lituanie du 20 décembre 2016.
+
+<<2367.02;2388.41;fr>>
+Le droit de requérant de se porter candidat à des élections n'est pas respecté si les griefs tirées de la méconnaissance de cet article, code en espèces, sont traités par un organe que s'ils sont traités par un organe compétent, ils sont capables d'examiner ces griefs de façon effective.
+
+<<2388.41;2406.58;fr>>
+Et ici, nous estimons que, nous l'avons rappelé, malgré le constat de l'existence d'une situation problématique et contre l'avis de sa commission de vérification, le Parlement wallon a rejeté la requête du requérant.
+
+<<2406.58;2424.78;fr>>
+Il a basé sa décision, ce Parlement wallon, sur un calcul tout à fait absurde de notre point de vue, qui part de l'idée non étayée selon laquelle toutes les listes qui se sont présentées aux élections auraient été lésées de façon égale par les problèmes rencontrés.
+
+<<2424.78;2448.18;fr>>
+Alors intellectuellement, ça peut être agréable de mettre en place une telle hypothèse, mais c'est complètement absurde parce que ça n'a rien à voir avec ce qui aurait pu être le résultat d'un recontage des voix qui avaient été déclarées, des bulletins de vote qui avaient été déclarés blancs, nuls ou contestés.
+
+<<2448.18;2491.89;fr>>
+Ce processus, cette argumentation du Parlement wallon ne peut donc être retenue comme valable et le requérant se réfère sur ce point à un arrêt de votre cours qui est parti travailliste géorgien contre géorgie du 8 juillet 2008, dans lequel votre cours a déjà écarté des considérations mathématiques en soulignant que ce qui est en jeu dans le cadre d'un recours tel que celui, ou d'une réclamation telle que celui du requérant, ce n'est pas le droit qu'aurait eu la partie requérante de remporter l'élection parlementaire, mais son droit de s'y présenter effectivement et librement.
+
+<<2491.89;2496.26;fr>>
+Le lien entre les deux est donc clairement fait dans votre arrêt.
+
+<<2496.26;2511.14;fr>>
+Il faut constater dans ce dossier que, comme le reconnaît le Parlement wallon lui-même, un recontage des bulletins était susceptible d'avoir un effet sur l'élection ou non du Parlement.
+
+<<2511.14;2526.06;fr>>
+Le raisonnement tenu et très peu sérieux, le raisonnement absurde mathématique que je viens de vous expliquer, ce qu'aurait été le nombre de voix dans une situation fictive, ne remet pas en cause le constat.
+
+<<2526.06;2540.38;fr>>
+De ce fait, le requérant estime qu'il peut aussi se prévaloir d'un arrêt Kovacs contre Ukraine du 7 février 2008, qui se fondait sur la notion d'ingérence dans la libre expression du peuple.
+
+<<2540.38;2555.06;fr>>
+En effet, nous estimons que le fait que les bulletins de vote blancs, nuls ou contestés n'aient pas été recontés a créé une incertitude à propos de ce que les électeurs ont pu vouloir exprimer.
+
+<<2555.06;2566.66;fr>>
+Et ça, c'est évidemment fondamental dans le processus de vérification jusqu'au bout et jusqu'à son ultime expression du processus électoral.
+
+<<2566.66;2578.82;fr>>
+En l'espèce, nous estimons donc que le requérant n'a pas eu un recours effectif et réel qui a permis de garantir ses droits.
+
+<<2578.82;2584.14;fr>>
+Je passe maintenant la parole à maître Stein pour répondre à votre deuxième question.
+
+<<2584.14;2584.98;fr>>
+Merci.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<2585.26;2588.38;fr>>
+Merci beaucoup. La parole est à Maître Stein.
+
+[[Applicant;AP1]]
+
+<<2588.45;2589.77;fr>>
+Merci, M. le Président.
+
+<<2589.97;2592.25;fr>>
+Mesdames, Messieurs les juges, je vais être très bref sur cette 2e question.
+
+<<2592.89;2596.25;fr>>
+Je prendrai peut-être par la suite un peu plus de votre temps sur la question 4.
+
+<<2596.41;2611.33;fr>>
+Alors, en ce qui concerne l'existence d'un recours interne, le requérant souhaite souligner que la commission de vérification des pouvoirs dont le gouvernement belge fait grand cas n'est qu'une commission consultative composée de parlementaires élus lors des élections dont la validation est contestée.
+
+<<2611.53;2617.81;fr>>
+Cette commission n'avait évidemment pas l'impartialité nécessaire puisque les députés y étaient jugés partis.
+
+<<2617.81;2620.05;fr>>
+Ceci est déjà tout à fait inacceptable.
+
+<<2620.21;2622.65;fr>>
+Mais pourtant, le plus important n'est pas là.
+
+<<2622.85;2636.05;fr>>
+Le gouvernement belge fait tant d'efforts pour créer la confusion qu'on en oublierait presque que cette commission n'a fait que rendre un avis et que cet avis n'a pas été suivi par l'instance qui prenait effectivement la décision, le parlement wallon.
+
+<<2636.29;2640.89;fr>>
+Nous sommes incontestablement face à une procédure de validation purement parlementaire.
+
+<<2641.09;2650.09;fr>>
+Il n'existait donc pas de recours interne effectif puisque si bien votre recours que la commission de Venise a déjà constaté que cette situation présente d'évidents problèmes d'impartialité.
+
+<<2650.33;2670.33;fr>>
+Pour citer votre recours dans la règle Rosaru, de l'avis de la Cour, un individu dont la nomination à une fonction de député a été refusée a des raisons légitimes de craindre que la grande majorité des membres de l'organe ayant examiné la légitimité des élections, plus concrètement les membres représentant les autres partis politiques du bureau central ait un intérêt contraire au sien.
+
+<<2670.53;2678.85;fr>>
+Les règles de composition de cet organe, constituées d'un grand nombre de membres représentant les partis politiques, ne paraissaient donc pas de nature à fournir un gage suffisant d'impartialité.
+
+<<2679.33;2682.69;fr>>
+La même conclusion voit fortiori pour la commission de validation de la Chambre des députés.
+
+<<2683.45;2684.61;fr>>
+C'est tout ce que j'avais à dire pour la question 2.
+
+<<2684.61;2685.61;fr>>
+Je repasse la parole à Maître Pétré.
+
+[[Applicant;AP3]]
+
+<<2690.23;2695.95;fr>>
+Je vais maintenant m'attacher à répondre à votre troisième question, qui était la suivante.
+
+<<2695.95;2704.25;fr>>
+Le requérant a-t-il bénéficié de garanties procédurales adéquates et suffisantes au cours de la procédure de réclamation devant le Parlement ou allant?
+
+<<2704.25;2728.89;fr>>
+Alors, en effet, comme vient déjà de l'expliquer mon confrère, la partie adverse, le gouvernement belge, tente de faire croire à la Cour que ce serait la Commission de vérification des pouvoirs, qu'elle prétend être un organe juridictionnel qui a garanti un recours effectif au requérant et qui a pris la décision concernant la réclamation du requérant.
+
+<<2728.89;2731.11;fr>>
+Ce n'est absolument pas le cas.
+
+<<2731.11;2738.19;fr>>
+Première constatation, la Commission de vérification des pouvoirs n'est en aucun cas un organe juridictionnel.
+
+<<2738.19;2756.35;fr>>
+C'est une commission du Parlement tirée effectivement au sort en son sein, mais avec des élus nouvellement élus, fraîchement élus, sortis du scrutin ici du 25 mai 2014, appartenant à des partis politiques opposés à celui du requérant.
+
+<<2756.35;2781.31;fr>>
+Alors, dans le cas d'espèce, et c'est parfaitement illustré par le cas d'espèce dans lequel nous sommes, on ne peut pas dire autre chose, il est certain que l'instance appelée à se prononcer sur la réclamation du requérant n'est pas la Commission de vérification des pouvoirs, mais le Parlement lui-même.
+
+<<2781.31;2807.95;fr>>
+Et dans ce cas-ci, il ne peut même pas être fait, à mon avis, de confusion par le gouvernement, puisque la conclusion de la Commission de vérification des pouvoirs était de déclarer la réclamation fondée et demander un recontrage des voix, et la décision réelle de l'organe qui a pris la décision a été de ne pas faire reconter ses voix et de rejeter la réclamation du requérant.
+
+<<2807.95;2823.75;fr>>
+Il n'y a donc aucune confusion possible, il n'y a absolument aucun indice qui pourrait faire croire à la Cour que la Commission de vérification des pouvoirs est non seulement une instance juridictionnelle, mais en plus aurait été l'instance qui a pris la décision.
+
+<<2823.75;2857.55;fr>>
+On doit donc revenir sur le fait que c'est bien les élus eux-mêmes réunis en Parlement et ayant un intérêt direct et personnel aux litiges, puisque leur propre élection aurait pu être remise en cause en fonction du recontage des voix qui aurait eu lieu, qui devait prendre la décision et qui a pris d'ailleurs la décision de ne pas faire ce recontage.
+
+<<2857.55;2876.75;fr>>
+Puisque ce sont ces élus qui ont été désignés par la Constitution belge pour faire l'autovalidation de leurs pouvoirs, les personnes déposant une réclamation comme le requérant ne bénéficient évidemment d'aucune garantie procédurale.
+
+<<2876.75;2880.15;fr>>
+Alors, trois choses de manière précise.
+
+<<2880.15;2884.55;fr>>
+Le requérant n'a pas été entendu par l'instance décisionnelle.
+
+<<2884.55;2901.15;fr>>
+Le requérant n'a pas bénéficié de cette possibilité d'être entendu par l'autorité compétente, on l'a expliqué déjà et je vous le répète, ni lui ni son conseil n'ont eu la possibilité d'être entendu par le Parlement ou à l'ONU.
+
+<<2901.15;2920.75;fr>>
+C'est à tort, une fois de plus, et pour semer la confusion, que le gouvernement vous explique que le requérant a été entendu par l'instance décisionnelle alors que c'est faux, il a été entendu par la Commission et uniquement par cette Commission qui n'est donc pas l'instance décisionnelle.
+
+<<2920.75;2928.35;fr>>
+Deuxième chose, le requérant n'a pas bénéficié d'une procédure contradictoire.
+
+<<2928.35;2941.45;fr>>
+Effectivement, je vous l'ai déjà expliqué, les exigences procédurales requises pour que le droit à un procès équitable soit acquis comportent celles d'une procédure contradictoire.
+
+<<2941.45;2956.45;fr>>
+En l'espèce, l'instance décisionnelle n'a pas permis au requérant de prendre connaissance des pièces sur base desquelles la décision a été prise par ce propre Parlement.
+
+<<2956.45;2985.35;fr>>
+Le Parlement n'a pas entendu le réclament, le Parlement n'a pas entendu son conseil, le Parlement ni la Commission d'ailleurs, personne n'a fourni au réclament quelques documents, quelques pièces que ce soit sur base desquelles une argumentation complémentaire à celle qui avait été évoquée dans la requête aurait pu être développée et défendue par le requérant, ni devant la Commission ni devant le Parlement.
+
+<<2985.35;3000.43;fr>>
+Nous n'avons absolument pas eu de possibilité de comprendre les arguments sur base desquels le Parlement ou Alon allaient éventuellement prendre sa décision.
+
+<<3000.43;3007.95;fr>>
+Il n'y a donc eu aucun principe, aucun respect du principe du contradictoire dans cette procédure.
+
+<<3007.95;3025.79;fr>>
+Alors, la troisième chose c'est, est-ce que l'instance décisionnelle, maintenant ça me paraît très clair pour tout le monde, c'est bien le Parlement ou Alon, présentait des garanties d'impartialité? Peut que vous répondre non, bien évidemment.
+
+<<3025.79;3068.27;fr>>
+Le requérant, le réclament souligne que la composition de l'instance décisionnelle présentée comme juridictionnelle, mais qui ne l'est en aucun cas le Parlement ou Alon, qui a pris la décision, était composée uniquement des nouveaux élus sortis du scrutin du 25 mai 2014, à l'exclusion de tout autre, tout un et chacun de ces parlementaires pouvant légitimement d'ailleurs estimer qu'ils pouvaient légitimement se sentir en cause par rapport à la réclamation et avaient donc un intérêt direct et certain à l'issue du litige.
+
+<<3068.27;3088.37;fr>>
+On sait d'ailleurs bien pourquoi la décision du Parlement a été de refuser la réclamation du Parlement, au contraire de la Commission qui elle, avait estimé quand même, malgré son caractère aussi impartial, avait quand même décidé qu'il fallait faire droit à la réclamation du requérant.
+
+<<3088.37;3106.83;fr>>
+Dès lors, il nous paraît que les élus, les nouveaux élus du Parlement ou Alon qui ont pris la décision concernant la réclamation du requérant ont incontestablement été jugés partis, ce qui leur a ôté tout caractère d'impartialité.
+
+<<3106.83;3128.31;fr>>
+Dès lors, il faut constater, la Cour devra constater, ça me paraît tout à fait flagrant en l'espèce, que le requérant n'a pas bénéficié des garanties procédurales adéquates et suffisantes pour lui garantir un procès équitable lors de la procédure de réclamation qu'il avait introduite devant le Parlement ou Alon.
+
+<<3128.31;3133.11;fr>>
+Je vais repasser la parole à Maître Stein qui va vous exposer notre réponse sur la question 4.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<3134.44;3137.12;fr>>
+Merci beaucoup. La parole est à nouveau à Maître Stein.
+
+[[Applicant;AP1]]
+
+<<3137.83;3138.83;fr>>
+Merci, M. le Président.
+
+<<3138.83;3141.43;fr>>
+Mme la Messieure les juges, je veux aussi vous parler de Montesquieu.
+
+<<3141.47;3151.11;fr>>
+À l'occasion de ma réponse à la question 4, je vais parler de l'argument relatif à la longue tradition démocratique de la Belgique et aussi de la séparation des pouvoirs.
+
+<<3151.11;3156.19;fr>>
+L'intégralité de l'argumentation du gouvernement danois est résumée au point 29 de ses observations.
+
+<<3156.19;3170.07;fr>>
+Il estime qu'une procédure de validation purement parlementaire, adoptée par un Etat membre pour des motifs politiques ou historiques, ne viole pas nécessairement l'article 3 du protocole 1 si cet Etat a une longue tradition démocratique.
+
+<<3170.07;3190.79;fr>>
+Le gouvernement danois se réfère ici à l'arrêt gross-à-route de votre recours, arrêt dans lequel votre recours mettait pourtant en garde des pays comme la Belgique et le Danemark, en précisant que la Commission de Venise se montre toutefois réservée de manière générale quant à l'effectivité de ce type de recours, l'impartialité de tels organes paraissant sujets à caution.
+
+<<3190.79;3206.75;fr>>
+Pour reformuler la position du gouvernement danois, Michel Husty estime que ce qui constituerait un manquement dans le chef de la Roumanie, par exemple, n'en est pas un dans son cas, parce que son histoire, sa tradition démocratique le rendrait moins suspect de basculer dans des pratiques antidémocratiques.
+
+<<3206.75;3216.39;fr>>
+Pour le dire encore autrement, comme le Danemark et la Belgique seraient à l'évidence des démocraties, les garde-fous nécessaires pour d'autres ne le seraient pas pour eux.
+
+<<3216.39;3223.51;fr>>
+C'est aussi le raisonnement du gouvernement belge quand il insiste sur le fait qu'il devrait bénéficier d'une large marge de manoeuvre.
+
+<<3223.51;3235.15;fr>>
+Immédiatement, la partie requérante se demande, ne serait-ce pas justement aux démocraties qui se considèrent comme les plus stables, les plus avancées, de montrer l'exemple et de s'astreindre à des exigences plus élevées.
+
+<<3235.15;3243.19;fr>>
+Votre cours admet que des limitations puissent être apportées à la démocratie quand cette démocratie est récente et menacée.
+
+<<3243.19;3258.07;fr>>
+Par contre, le raisonnement directement inverse qui imposerait moins d'exigences aux pays où la démocratie est la plus forte et qui donc, normalement, pourrait justement rencontrer ces exigences avec le plus de facilité, est difficilement justifiable.
+
+<<3258.07;3274.91;fr>>
+Ne serait-il pas au contraire enthousiasmant de voir cette longue tradition démocratique non pas comme un point d'arrêt, mais comme un élan qui oblige la Belgique à perfectionner son système avec exemplarité et encore plus de rigueur que d'autres pour garantir que toute élection soit pleinement démocratique?
+
+<<3274.91;3283.35;fr>>
+Un deuxième grave problème que pose le raisonnement des gouvernements adverses et qui rejoint ce qui vient d'être dit est relatif à l'égalité entre États membres.
+
+<<3283.35;3295.63;fr>>
+Comment expliquer que des règles sont fondamentales pour garantir le caractère démocratique des élections en Roumanie, par exemple, si on considère que ces mêmes règles ne s'imposent pas à d'autres pays?
+
+<<3295.63;3299.87;fr>>
+Quelle serait alors la légitimité de ces règles?
+
+<<3299.87;3311.51;fr>>
+Comment des États comme la Belgique pourront agir sur le plan international en faveur de la démocratie si leurs propos consistent en fait à dire, faites ce que je dis, ne faites pas ce que je fais?
+
+<<3311.51;3318.19;fr>>
+Les règles les plus fondamentales qui garantissent le caractère démocratique des élections doivent être les mêmes dans tous les États membres.
+
+<<3318.19;3334.83;fr>>
+Un troisième problème distinct mais complémentaire que posent l'idée que les exigences en matière électorale pourraient être moins importantes pour les pays qui jouissent d'une longue tradition démocratique tient au fait que la démocratie est un idéal et une lutte permanente plutôt qu'un état de fait, qu'une situation achevée.
+
+<<3334.83;3343.19;fr>>
+Ainsi, il est inexact de dire, comme le font les gouvernements adverses, puisque nous sommes des démocraties depuis longtemps, vous pouvez nous faire confiance pour le rester.
+
+<<3343.19;3346.11;fr>>
+Aucun État ne constitue une véritable démocratie.
+
+<<3346.11;3358.23;fr>>
+On peut se trouver dans une situation où les institutions démocratiques sont fortes et peu contestées, mais c'est l'objet d'une lutte permanente avec des progrès et des reculs vers un idéal qui ne sera jamais parfaitement achevé.
+
+<<3358.23;3364.51;fr>>
+Pour illustrer ce propos, je pourrais ainsi proposer de chercher à identifier les débuts de cette tradition démocratique en Belgique.
+
+<<3364.51;3371.79;fr>>
+S'agit-il de la naissance du pays ou bien s'agit-il du moment où il a été mis fin au vote censitaire?
+
+<<3371.79;3376.47;fr>>
+Ou encore, on pourrait considérer que c'est l'obtention du droit de vote par les femmes?
+
+<<3376.47;3386.59;fr>>
+Il n'existe pas de réponse unique à cette question parce que la démocratisation est un processus progressif, parce que la démocratie se mesure plus par degré que de façon binaire.
+
+<<3386.59;3390.43;fr>>
+Il n'y a pas d'ordre juridique définitivement abouti.
+
+<<3390.43;3393.67;fr>>
+Il n'y a pas de société et d'institution parfaitement démocratiques.
+
+<<3393.67;3404.31;fr>>
+Il y a des évolutions vers plus ou moins de démocratie, des sociétés en lutte permanente, lutte lors desquelles la démocratie progresse ou régresse constamment.
+
+<<3404.31;3416.39;fr>>
+Il n'y a pas de régime aussi démocratique qu'il soit dans ses principes et sa constitution qui ne soit la proie des stratégies de pouvoir, des intérêts particuliers dès ses commencements et dans ses prolongements.
+
+<<3416.39;3422.15;fr>>
+La démocratie est un idéal toujours à construire, toujours à déconstruire, jamais réalisé.
+
+<<3422.15;3428.79;fr>>
+Le philosophe Alain disait que la démocratie est une lutte perpétuelle des gouvernés contre les abus du pouvoir.
+
+<<3428.79;3436.83;fr>>
+C'est sur cette conception de la démocratie, à la fois comme un processus et comme un idéal, que la partie requérante veut insister.
+
+<<3436.83;3451.99;fr>>
+Ainsi, la question n'est plus de savoir si on peut faire confiance à la Belgique et lui autoriser ce qui constituerait des manquements, des violations de la Convention pour d'autres, mais d'identifier ce qui constitue un progrès ou un recul du processus démocratique.
+
+<<3451.99;3468.43;fr>>
+Il serait contraire à cette compréhension de la démocratie d'admettre qu'elle sabote un de ses fondements, un contrôle impartial de la légitimité des élus, imposé avec raison comme une exigence fondamentale à d'autres, parce que par ailleurs le processus démocratique serait perçu comme en cours depuis plus longtemps.
+
+<<3468.43;3480.43;fr>>
+Un quatrième problème que pose la référence des gouvernements adverses à leur longue tradition démocratique et qu'ils souhaitent, du fait de cette tradition, bénéficier d'une confiance plus grande que d'autres États.
+
+<<3480.43;3491.83;fr>>
+La partie requérante estime qu'un système démocratique ne doit jamais trouver une quelconque de ses assises dans une confiance issue du passé, que ce soit en faveur d'une personne ou d'institution.
+
+<<3491.83;3501.23;fr>>
+Montesquieu, dans L'Esprit des lois, explique que c'est une expérience éternelle, que tout homme qui a du pouvoir est porté en abusé, il va jusqu'à ce qu'il trouve des limites.
+
+<<3501.23;3509.35;fr>>
+C'est pour cela qu'il considère que pour qu'un État soit démocratique, il faut que par la disposition des choses, le pouvoir arrête le pouvoir.
+
+<<3509.35;3524.91;fr>>
+Ce ne sont pas les qualités morales ou le passé des personnes ou des institutions qui protègent la démocratie, mais l'équilibre structurel des pouvoirs et contre-pouvoirs qui empêchent que le pouvoir soit trop concentré, ce qui compromettrait nécessairement la démocratie.
+
+<<3524.91;3535.35;fr>>
+Ainsi, une démocratie saine aurait tort d'estimer que des institutions devraient bénéficier d'une confiance plus grande et donc d'une tolérance plus grande à l'égard de leur manquement en raison de leur histoire.
+
+<<3535.35;3545.59;fr>>
+En passant, nous remarquons que cet argument selon lequel il faut que le pouvoir arrête le pouvoir est aussi un argument central contre la validation uniquement par les parlementaires de leur propre pouvoir.
+
+<<3545.59;3555.47;fr>>
+Enfin, et pour conclure à propos de cette tradition démocratique, il faut noter que dans une démocratie, ce ne sont pas toujours les mêmes personnes et partis qui sont à la tête des institutions.
+
+<<3555.47;3566.03;fr>>
+Quel que soit leur passé, les institutions doivent présenter suffisamment de garde-fous pour protéger le processus démocratique, quels que soient les personnes et partis qui arriveront au pouvoir.
+
+<<3566.03;3570.03;fr>>
+Je conclue maintenant avec la question de la séparation des pouvoirs.
+
+<<3570.03;3577.07;fr>>
+Les gouvernements adverses estiment que la validation purement parlementaire serait une mise en oeuvre de la séparation des pouvoirs.
+
+<<3577.07;3586.07;fr>>
+Tous les plus éminents constitutionnalistes belges, que nous citons par ailleurs dans nos observations écrites, estiment que ce raisonnement n'a plus de pertinence à l'heure actuelle.
+
+<<3586.07;3600.43;fr>>
+Tous, et l'argument de manière détaillée, c'est nouveau dans nos observations écrites, estiment qu'il n'est pas pertinent de se référer à la notion de séparation des pouvoirs et plusieurs indiquent explicitement qu'ils estiment que la Belgique viole aujourd'hui l'article 3 du protocole 1.
+
+<<3600.43;3605.23;fr>>
+Ces nombreux constitutionnalistes voient aussi leur position confirmée par la Commission de Venise.
+
+<<3605.23;3609.15;fr>>
+Votre arrêt grosse à roux nous semble aussi régler clairement la question.
+
+<<3609.15;3617.11;fr>>
+Et je vous cite, le contrôle juridictionnel n'empêche pas de fait l'existence d'une validation par le Parlement dans la mesure où les buts de l'un et l'autre restent distincts.
+
+<<3617.11;3620.99;fr>>
+Dans un cas, il s'agit d'un contrôle judiciaire visant à régler d'éventuels contentieux.
+
+<<3620.99;3624.51;fr>>
+Dans l'autre, il s'agit d'un contrôle politique visant à valider les mandats.
+
+<<3624.51;3632.31;fr>>
+L'existence de ce type de validation repose sur une reconnaissance de la spécificité et de l'indépendance du pouvoir législatif par rapport tant au pouvoir exécutif qu'au pouvoir judiciaire.
+
+<<3632.31;3640.47;fr>>
+Donc, on voit que du point de vue de votre cours, dans cet exposé, le problème de la séparation des pouvoirs ne se pose pas.
+
+<<3640.47;3641.47;fr>>
+Mais j'irai même plus loin.
+
+<<3641.47;3649.15;fr>>
+On voit ici dans la logique de votre cours qu'il y a une distinction qui est faite entre le contrôle judiciaire et le contrôle de type politique.
+
+<<3649.15;3656.83;fr>>
+Or, si finalement, on se trouve dans une situation où le législatif se trouve à régler des contentieux, il empiète en fait sur la compétence du juge.
+
+<<3656.83;3663.27;fr>>
+Et donc, la violation purement parlementaire est justement la situation qui viole la séparation des pouvoirs.
+
+<<3663.27;3667.79;fr>>
+On a entendu l'autre parti dire que le Parlement doit pouvoir exercer le pouvoir législatif.
+
+<<3667.79;3670.15;fr>>
+Mais ici, il exercerait en fait un pouvoir.
+
+<<3670.15;3678.15;fr>>
+Il exerce en fait un pouvoir judiciaire quand il se comporte de cette manière en voulant régler des contentieux.
+
+<<3678.15;3682.19;fr>>
+La partie requérante considère donc que l'argument de la séparation des pouvoirs ne peut être retenu.
+
+<<3682.19;3688.67;fr>>
+Elle considère même que la séparation des pouvoirs impose un contrôle juridictionnel de la vérification des pouvoirs.
+
+<<3688.67;3694.55;fr>>
+Si on veut un Parlement fort et indépendant, ne faut-il pas aussi que sa légitimité soit indubitable?
+
+<<3694.55;3701.43;fr>>
+Ne faut-il pas qu'il ne fasse aucun doute que les élus ont bien été élus conformément aux règles de droit, conformément aux règles démocratiques?
+
+<<3701.43;3707.51;fr>>
+Et n'est-il pas évident qu'un juge est mieux placé pour faire preuve d'indépendance que les élus qui vérifient leur propre élection?
+
+<<3707.51;3709.43;fr>>
+Cela nous paraît incontestable.
+
+<<3709.43;3715.43;fr>>
+Perfectionner le processus démocratique renforce la séparation des pouvoirs pour ces raisons.
+
+<<3715.43;3720.19;fr>>
+Pour quelles raisons alors maintient-on le système de contrôle purement parlementaire en Belgique et au Danemark?
+
+<<3720.19;3722.35;fr>>
+Qu'en disent les gouvernements de ces pays?
+
+<<3722.35;3727.83;fr>>
+À les lire, ils ne prétendent pas qu'un contrôle juridictionnel des élections aurait des conséquences graves.
+
+<<3727.83;3740.15;fr>>
+Ils ne prétendent pas que le législatif serait menacé par un judiciaire qui manquerait d'indépendance, ou même que le processus démocratique belge serait de quelque façon que ce soit affaibli par une telle mesure.
+
+<<3740.15;3749.91;fr>>
+Tout au plus explique-t-il qu'ils ont une histoire, je dirais plutôt des habitudes en l'espèce, et l'Etat belge insiste-t-il sur la lourdeur de la procédure de révision constitutionnelle?
+
+<<3749.91;3767.31;fr>>
+La partie requérante estime que le gouvernement belge demande à être autorisé à maintenir un système dont les carences sont notoires et soulignées dans l'arrêt Grossaru, non pas parce qu'il défend une conviction raisonnée, mais par volonté de s'épargner les désagréments d'un changement dans la Constitution.
+
+<<3767.31;3775.27;fr>>
+Elle est confirmée dans cette conviction par les constitutionnalistes belges du Mont-et-Van-Drogonbroek, qui relèvent ceci.
+
+<<3775.27;3795.59;fr>>
+Malgré la batterie impressionnante d'arguments contre la validité de l'article 48 de notre Constitution, ce mécanisme a été étendu aux députés régionaux, sans la moindre discussion, par atavisme, et non sur base d'une quelconque conviction raisonnée et positivement exprimée quant à la perfection supposée de la solution.
+
+<<3795.59;3811.43;fr>>
+En conclusion, si aujourd'hui les démocraties belges et danoises paraissent bien établies, cela ne peut être qu'un motif pour amplifier le processus démocratique, et certainement pas une raison pour se complaire dans les habitudes et abandonner les exigences et les efforts pour consolider la démocratie.
+
+<<3811.43;3816.47;fr>>
+Le philosophe Alain l'a rappelé, tout peuple qui s'endort en liberté se réveille en servitude.
+
+<<3816.47;3816.47;fr>>
+J'y ai dit et je vous remercie.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<3819.17;3825.21;fr>>
+Merci pour vos interventions. J'invite maintenant les juges de la grande chambre qui le souhaitent
+
+<<3825.21;3829.53;fr>>
+à poser leurs questions au parti. Le juge Griţco.
+
+[[Judge;Valeriu Griţco]]
+
+<<3831.95;3833.87;fr>>
+Merci, M. le Président.
+
+<<3834.07;3838.11;fr>>
+J'ai une question au gouvernement belge.
+
+<<3838.31;3853.63;fr>>
+Dans le paragraphe 11 des observations du gouvernement, il est mentionné qu'en Belgique, le scrutin est encadré par une législation précise laquelle est conforme aux recommandations de la Commission du Venice.
+
+<<3853.63;3859.71;fr>>
+Et la référence, en ce sens, est faite au point 30.2
+
+<<3859.91;3865.31;fr>>
+du code des bons conduites en matière électorale élaboré par cette commission.
+
+<<3865.55;3876.75;fr>>
+A cet égard, je voudrais connaître le point de vue du gouvernement concernant les exigences mentionnées au point 3.3
+
+<<3876.95;3887.75;fr>>
+du même code, selon laquel l'instance de recours en matière électorale, je cite, doit être soit une commission électorale, soit un tribunal.
+
+<<3887.95;3895.59;fr>>
+Un recours devant le Parlement peut être prévu en dernière instance en ce qui concerne les élections du Parlement.
+
+<<3895.83;3902.19;fr>>
+Dans tous les cas, un recours devant un tribunal doit être possible en dernière instance.
+
+<<3902.39;3912.35;fr>>
+Vous pouvez trouver la référence à cette norme à la page 7 de l'avis de la Commission du Venice dans la ferme d'aujourd'hui. Merci.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<3911.95;3914.95;fr>>
+Merci beaucoup, le juge Spano.
+
+[[Judge;Robert Spano]]
+
+<<3914.95;3919.89;en>>
+Thank you very much, Mr. President.
+
+<<3919.89;3925.83;en>>
+I want to thank both parties for invoking Montesquieu in their pleadings.
+
+<<3925.83;3929.41;en>>
+It has created an unusual philosophical flair to this hearing.
+
+<<3929.41;3933.47;en>>
+I'm not going to ask a question on Montesquieu, however.
+
+<<3933.47;3942.83;en>>
+One question that I want to pose is basically an informative question about Belgian constitutional doctrine.
+
+<<3942.83;3979.99;en>>
+To what extent is it understood that Parliament, either at the federal level or at the regional level, is itself entitled, when it decides on the procedures for the verification of credentials, to create an internal system which, for example, would require a supermajority of parliamentarians to decide, or even the inverse, that the commission, in this case the Commission on Verification, would itself have binding decision-making authority?
+
+<<3979.99;4018.16;en>>
+So could Parliament itself internally delegate the decision on validation to a small group chosen in particular on the basis of certain formal criteria so as to minimize the risk of impartiality, excluding certain parliamentarians from certain constituencies which would be implicated by, or would that kind of internal procedure not be in conformity with the Constitution, with Article 48 or the special laws as they are now formed?
+
+<<4018.16;4024.45;en>>
+I have a second question, if I may, to the applicants.
+
+<<4024.45;4040.81;en>>
+The applicants' core argument, as I understand it is, Article 3 of Protocol 1 in principle excludes that Parliament itself validates credentials.
+
+<<4040.81;4043.75;en>>
+There must be an external remedy.
+
+<<4043.75;4052.29;en>>
+And I understood your argument, the core argument to be that this remedy should necessarily be judicial.
+
+<<4052.29;4054.53;en>>
+You may correct me if I'm wrong.
+
+<<4054.53;4066.41;en>>
+So I want you in that respect, and the government may also comment on this, none of the pleadings in this case bring forward an issue which I want to ask you about.
+
+<<4066.41;4075.05;en>>
+Ever since 1997, this Court has said the right to stand for elections is a political right.
+
+<<4075.05;4082.97;en>>
+Therefore a parliamentarian does not have a right to access a court under Article 6.
+
+<<4082.97;4085.93;en>>
+There is a particular reason for that.
+
+<<4085.93;4121.12;en>>
+May I ask you, is it then the argument of the applicants that although the Court has excluded judicial review under Article 6, which is the actual provision on right of access to court, that the Court can in any event interpret into Article 3 of Protocol 1 that same right to access a court or have access to a court, to invoke the same political right, which the Court has considered not to allow or permit or access courts under Article 6?
+
+<<4121.12;4129.77;en>>
+Could I ask you just to comment a bit on this interplay and how you see that playing out in a case like this?
+
+<<4129.77;4129.77;en>>
+Thank you very much.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4132.03;4133.03;fr>>
+Merci beaucoup.
+
+<<4134.79;4136.59;fr>>
+Je ne vois pas d'autres collègues.
+
+<<4137.27;4139.95;fr>>
+Donc je remercie les comparants.
+
+<<4140.79;4152.67;fr>>
+La cour va maintenant se retirer pour 20 minutes, après quoi les partis pourront présenter de brèves observations en réponse aux plaidoiries adverses et répondre aux questions des juges.
+
+<<4152.67;4152.67;fr>>
+La séance est levée.
+
+[[Announcer;UNK]]
+
+<<4223.42;4224.18;fr>>
+La Cour!
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4262.29;4264.01;fr>>
+Prenez place, s'il vous plaît.
+
+<<4279.13;4281.25;fr>>
+L'audience est reprise.
+
+<<4282.25;4284.33;fr>>
+La parole est à Mme Niedlispacher.
+
+<<4284.85;4284.85;fr>>
+Vous avez la parole.
+
+<<4284.85;4284.85;fr>>
+Ce sera vous.
+
+<<4284.85;4284.85;fr>>
+D'accord.
+
+<<4284.85;4289.33;fr>>
+Je vous voudrais en prie.
+
+<<4289.33;4289.33;fr>>
+Oui.
+
+<<4289.33;4289.33;fr>>
+Madame Leclercq.
+
+<<4293.25;4296.25;fr>>
+Madame Leclerc, allez-y.
+
+[[Government;GR2]]
+
+<<4296.25;4299.25;fr>>
+Monsieur le Président, merci.
+
+<<4299.25;4306.99;fr>>
+Je vais réaliser mon intervention en trois points.
+
+<<4306.99;4320.95;fr>>
+Je vais commencer par répondre à vos questions, ensuite répondre à certains arguments du requérant, et terminer par conclure.
+
+<<4320.95;4346.59;fr>>
+En ce qui concerne la première question, relative aux codes de bonne conduite, nous avons déjà répété dans notre plaidoirie que pour nous, un recours devant le Parlement tel qu'il est est suffisant dans la mesure où des garanties procédurales effectives sont octroyées aux réclamants.
+
+<<4346.59;4358.63;fr>>
+Et effectivement, conformément à la jurisprudence Grozarou, le Parlement wallon a veillé à rendre les exigences de la Convention concrètes et effectives, et pas théoriques et illusoires.
+
+<<4358.63;4368.49;fr>>
+Il a endossé ces règles en application du principe de souveraineté parlementaire, et aucun texte n'exige un double degré de juridiction.
+
+<<4368.49;4370.43;fr>>
+Aucun texte liant.
+
+<<4370.43;4374.89;fr>>
+Il ne s'agit même pas d'un principe général de droit.
+
+<<4374.89;4395.79;fr>>
+Certaines considérations tirées de la bonne administration de la justice peuvent au contraire justifier que le double degré de juridiction puisse être exclu, par exemple, lorsque l'importance accrue du litige justifie qu'il prenne définitivement fin dans les meilleurs délais, ce qui est le cas en matière électorale.
+
+<<4395.79;4411.83;fr>>
+En effet, la Commission de Venise souligne que les décisions à un autre endroit que celui dont vous avez parlé, elle souligne que les décisions relatives aux résultats d'élection ne doivent pas tarder, car l'assemblée concernée ne doit pas être déstabilisée par des remises en cause tardives.
+
+<<4411.83;4424.13;fr>>
+Il s'agit ici, une fois encore, d'un juste équilibre à trouver entre les garanties octroyées et les objectifs légitimes recherchés, dont nous avons démontré qu'ils étaient rencontrés.
+
+<<4424.13;4430.33;fr>>
+Ce qui compte, c'est que la plainte du requérant soit effectivement examinée, ce qui a été le cas.
+
+<<4430.33;4446.03;fr>>
+Ainsi, il a notamment été répondu à l'ensemble des moyens invoqués par le réclamant, et la décision du Parlement wallon a été motivée de façon détaillée et maître Pétré l'a d'ailleurs reconnue.
+
+<<4446.03;4464.23;fr>>
+Alors, quant à votre question sur, je veux dire, le fait, est-ce qu'un petit groupe pourrait désigner lui-même, non, est-ce que le Parlement pourrait désigner un petit groupe conformément à l'article 48 de la Constitution?
+
+<<4464.23;4474.03;fr>>
+Alors, il pourrait éventuellement désigner un petit groupe pour instruire, mais l'article de la Constitution est très clair.
+
+<<4474.03;4481.13;fr>>
+C'est l'Assemblée qui décide, qui prend la décision.
+
+<<4481.13;4494.93;fr>>
+Je vais passer maintenant à quelques arguments du requérant qui ont attiré notre attention.
+
+<<4494.93;4502.03;fr>>
+Alors, le premier argument, c'est l'exemplarité des vieilles démocraties.
+
+<<4502.03;4507.33;fr>>
+Nous sommes tout à fait d'accord avec cet argument.
+
+<<4507.33;4515.03;fr>>
+On n'a pas, c'est pour cette raison que nous n'avons pas utilisé l'argument de la tradition démocratique.
+
+<<4515.03;4523.23;fr>>
+Notre argumentaire est que ce sont les garanties procédurales qui permettent de lever toute suspicion de partialité.
+
+<<4523.23;4527.83;fr>>
+Ce qui compte, ce n'est pas le qui, c'est le comment.
+
+<<4527.83;4533.73;fr>>
+Nous ne demandons pas à la Cour un blanc-seing pour les vieilles démocraties.
+
+<<4533.73;4552.43;fr>>
+Nous vous avons présenté les garanties procédurales et vous rappelons que des recontages ont eu lieu, pas devant le Parlement wallon parce qu'effectivement, c'est un des seuls cas qui s'est présenté devant lui, mais devant d'autres parlements, notamment devant le Parlement flamand en 2014.
+
+<<4552.43;4563.23;fr>>
+Et donc, d'où l'argument des récurrents selon lequel être juge et parti signifierait qu'il n'y aurait jamais de recontage, n'est pas juste.
+
+<<4563.23;4570.43;fr>>
+Le fait que les parlements décident n'est pas un obstacle au recontage.
+
+<<4570.43;4573.63;fr>>
+Alors, quelques éléments factuels.
+
+<<4573.63;4584.23;fr>>
+Donc, si un recontage avait eu lieu, il aurait été réalisé par le Parlement et pas par le ministère de l'Intérieur.
+
+<<4584.23;4592.73;fr>>
+Les requérants se plaignent que les documents n'étaient pas accessibles, mais ils étaient en consultation.
+
+<<4592.73;4601.33;fr>>
+Et ensuite, le respect du contradictoire n'implique pas d'être réentendu automatiquement par l'Assemblée.
+
+<<4601.33;4606.53;fr>>
+En effet, en fait, ce qui se passe, c'est que c'est la Commission qui instruit.
+
+<<4606.53;4612.73;fr>>
+Et le respect du contradictoire, ça veut dire effectivement se prononcer sur les faits.
+
+<<4612.73;4621.93;fr>>
+Et donc, la Commission entend le requérant afin d'examiner les faits.
+
+<<4621.93;4625.73;fr>>
+Et puis, l'instruction est transmise à l'Assemblée plénière.
+
+<<4625.73;4634.23;fr>>
+Et l'Assemblée plénière garde la faculté d'entendre le réclament si elle l'estime ne pas être suffisamment informée sur les faits.
+
+<<4634.23;4637.73;fr>>
+Et dans le cas d'Espèce, il n'a pas demandé à être réentendu.
+
+<<4637.73;4645.53;fr>>
+S'il y avait un tel doute sur la façon dont ça se passait, il aurait pu le faire.
+
+<<4645.53;4651.63;fr>>
+Alors, je voulais revenir ensuite sur...
+
+<<4651.63;4660.23;fr>>
+Le requérant se réfère à l'arrêt Parti travailliste géorgien contre Géorgie, considérant que cet arrêt appuie sa thèse.
+
+<<4660.23;4671.03;fr>>
+Or, dans cette affaire, des bureaux de vote ont été fermés dans certains districts, ce qui a eu pour conséquence que les électeurs de ces régions n'ont pas pu voter.
+
+<<4671.03;4677.83;fr>>
+Selon votre cours, priver ces électeurs du droit de vote portait atteinte au principe de suffrage universel.
+
+<<4677.83;4685.53;fr>>
+Et effectivement, Mme Pétré l'a dit, pouvait faire obstacle au droit pour un candidat de se présenter aux élections.
+
+<<4685.53;4693.23;fr>>
+Bien sûr, dans ce cas, les voix qui n'ont pas pu être exprimées ne peuvent être considérées comme des voix perdues.
+
+<<4693.23;4706.33;fr>>
+Mais dans l'affaire qui nous occupe ici, aucun électeur n'a été empêché de se rendre dans un bureau et, partant, tous les citoyens ont eu des chances égales d'exprimer leur suffrage.
+
+<<4706.33;4719.73;fr>>
+Mais ainsi que votre cours a déjà eu l'occasion de le répéter à plusieurs reprises, aucun système ne saurait éviter le phénomène des voix perdues, ce qui signifie que toutes les voix ne doivent pas avoir un poids égal quant au résultat du scrutin.
+
+<<4719.73;4722.23;fr>>
+C'est inhérent à la démocratie représentative.
+
+<<4722.23;4726.83;fr>>
+En fait, seul un système de démocratie directe pourrait l'empêcher.
+
+<<4726.83;4741.73;fr>>
+Et donc, dans notre cas, on parle d'un seuil et le critère du seuil pour l'attribution des sièges en fonction des résultats des élections ont déjà été acceptés par votre cours sur la base de cette motivation.
+
+<<4741.73;4745.73;fr>>
+Et donc, dans l'affaire qui nous occupe, il manquait 14 voix à M. Mugemangango
+
+<<4745.73;4749.43;fr>>
+pour atteindre le seuil lui permettant de bénéficier de l'apparentement.
+
+<<4749.43;4762.03;fr>>
+Mais cet élément seul ne peut justifier que l'on recompte ce qui est essentiel, c'est de démontrer qu'il y a eu des erreurs ou des irrégularités d'une ampleur anormale, ce qui n'a pu être démontré ici.
+
+<<4762.03;4769.23;fr>>
+En effet, en Belgique, c'est le procès-verbal du bureau de dépouillement qui fait foi de son contenu.
+
+<<4769.23;4779.73;fr>>
+Il y a des témoins de parti, et ça signifie que dans la mesure où il ne contient aucune réserve ni observation, les opérations de dépouillement sont présumées s'être déroulées régulièrement.
+
+<<4779.73;4791.13;fr>>
+Cette présomption ne peut être renversée que par des éléments suffisamment précis et concordants pour faire suspecter la régularité et l'exactitude du procès-verbal, et ce n'a pas été le cas en l'espèce.
+
+<<4791.13;4811.13;fr>>
+Et donc, d'ailleurs, pour revenir à l'arrêt parti-travailliste géorgien contre Géorgie, votre cours a précisé à un autre endroit de l'arrêt qu'on ne pouvait conclure à une violation de l'article 3 du protocole 1 sur le seul fondement d'une allégation aussi plausible soit-elle, selon laquelle le système a créé des possibilités de fraude électorale.
+
+<<4811.13;4822.33;fr>>
+Il eût fallu, dans cette affaire, que le parti requérant communique des preuves d'incidents précis démontrant les violations alléguées, et dans notre cas, M. Mugemangango
+
+<<4822.33;4827.43;fr>>
+n'a également pas pu le démontrer.
+
+<<4827.43;4845.23;fr>>
+Et donc, pour conclure, en ce qui concerne le droit aux élections libres, le Parlement ou allons-à, comme exigé par votre cours, dans un premier temps évaluer la réalité des irrégularités, et dans un second temps, le répercussion éventuelle sur la répartition des sièges entre les listes.
+
+<<4845.23;4857.23;fr>>
+Un faible écart entre le nombre de voix obtenues par une liste et le nombre de voix nécessaire pour obtenir un siège n'est pas à lui seul suffisant pour que soit ordonné un recontage des votes.
+
+<<4857.23;4865.43;fr>>
+Quant aux irrégularités, comme a expliqué l'administration, la preuve de leur existence obéit à des exigences déterminées.
+
+<<4865.43;4881.13;fr>>
+Par ailleurs, il ne saurait être question d'annuler une élection ni d'ordonner un nouveau recensement des suffrages s'il n'est pas démontré que ces irrégularités dénoncées auraient à ce point modifié les chiffres électoraux que sans elles, la distribution des sièges entre ces listes aurait été différente.
+
+<<4881.13;4886.13;fr>>
+Et cette démonstration n'a pu être réalisée ici.
+
+<<4886.13;4897.63;fr>>
+En ce qui concerne le recours effectif dans le cadre des élections libres, le gouvernement belge a démontré que la décision prise par le Parlement wallon n'était ni arbitraire, ni manifestement déraisonnable.
+
+<<4897.63;4905.03;fr>>
+De ce fait, votre cours ne peut que constater que la Convention n'a pas été violée.
+
+<<4905.03;4917.53;fr>>
+Ces éléments, à la lumière de l'évolution politique et du contexte institutionnel belge, démontrent qu'il n'y a pas eu atteinte à la libre expression du peuple.
+
+<<4917.53;4929.15;fr>>
+Vu l'ensemble des éléments portés à la connaissance de votre cours, le gouvernement belge vous demande de déclarer la requête du requérant non fondé et de rejeter ses autres prétentions.
+
+<<4929.15;4929.15;fr>>
+Je vous remercie.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4931.86;4934.66;fr>>
+Merci beaucoup. La parole est au requérant. Maître Stein.
+
+[[Applicant;AP1]]
+
+<<4936.3;4937.74;fr>>
+Merci, M. le Président, M. les juges.
+
+<<4937.94;4940.94;fr>>
+J'ignorais qu'on refaisait la plaidoirie après la plaidoirie. C'était pas notre perspective.
+
+<<4941.14;4944.26;fr>>
+Nous nous étions contentés de prévoir de répondre aux questions.
+
+<<4944.46;4947.78;fr>>
+Je vais quand même faire une réponse sur tout ce que je viens d'entendre à la volée.
+
+<<4948.1;4952.9;fr>>
+Mais d'abord, peut-être répondre aux questions, puisque c'était ça l'objet de mon intervention.
+
+<<4953.1;4954.94;fr>>
+La toute 1re question, elle nous était pas adressée.
+
+<<4955.14;4961.62;fr>>
+On la salue, puisqu'on pense qu'elle souligne un point très important, mais puisqu'elle nous est pas adressée, c'est pas à celle-là que nous allons répondre.
+
+<<4961.82;4966.18;fr>>
+Quant à la 2e question, celle de savoir ce que dit l'article 48 de la Constitution, je pense qu'il est temps de le citer.
+
+<<4966.18;4971.1;fr>>
+Chaque chambre vérifie les pouvoirs de ses membres et juge les contestations qui s'élèvent à ce sujet.
+
+<<4979.3;4981.66;fr>>
+prennent la décision à la place du Parlement lui-même.
+
+<<4981.86;4985.3;fr>>
+La Constitution attribue clairement ce pouvoir au Parlement.
+
+<<4986.34;5000.06;fr>>
+Maintenant, pour être encore plus précis, si le Parlement devait créer, malgré tout, en violation de la Constitution, une commission et qu'il la crée en son sein, nous estimons qu'elle n'aurait pas l'impartialité nécessaire.
+
+<<5000.46;5013.46;fr>>
+Et nouveau, on se réfère à l'arrêt Gros-Sarrault et aux raisons légitimes de craindre que la majorité des membres représentant d'autres partis politiques ait, à l'évidence, un intérêt contraire à celui de notre client.
+
+<<5014.7;5017.3;fr>>
+Donc ça, c'est notre réponse à cette 2e question.
+
+<<5018.74;5027.22;fr>>
+Sur ce qui nous a paru comme la 3e question, j'espère que je l'ai bien comprise, est-ce que nous souhaitons nous référer à l'article 6 de la Convention européenne des droits de l'homme?
+
+<<5027.42;5028.42;fr>>
+A l'évidence, pas.
+
+<<5028.86;5034.62;fr>>
+Mais ce dont nous partons, c'est évidemment l'article 3 du protocole 1.
+
+<<5035.1;5042.78;fr>>
+Il s'agit d'assurer l'effectivité des droits consacrés par l'article 3 du protocole 1.
+
+<<5043.18;5045.38;fr>>
+Et pour assurer cette effectivité, il n'y a pas...
+
+<<5045.98;5047.46;fr>>
+Les méthodes ne sont pas si nombreuses que cela.
+
+<<5047.66;5050.02;fr>>
+Il y a plusieurs critères qui vont être effectivement importants.
+
+<<5050.18;5054.66;fr>>
+Donc votre jurisprudence constate qu'il n'y a pas de droits consacrés par l'article 3 du protocole 1.
+
+<<5054.98;5057.34;fr>>
+Elle reconnaît aussi la nécessité d'en assurer l'effectivité.
+
+<<5057.5;5060.18;fr>>
+Et sur cette base, quelles sont les méthodes qu'on peut adopter?
+
+<<5060.34;5062.54;fr>>
+Eh bien, ce sont celles qu'on a énoncées.
+
+<<5062.74;5070.3;fr>>
+Et donc, on ne prétend pas qu'on devrait avoir le même niveau d'exigence ou les mêmes exigences que celles de l'article 6 CEDH.
+
+<<5070.86;5082.58;fr>>
+Mais effectivement, il n'est pas anormal que puisqu'on cherche à obtenir l'effectivité ou à permettre l'effectivité de cet article 3, que certaines exigences procédurales s'en rapprochent.
+
+<<5082.74;5087.94;fr>>
+Et de ce point de vue-là, de nouveau, on s'aligne totalement sur ce que dit la Commission de Venise en son point 49.
+
+<<5088.1;5093.86;fr>>
+Elle précise, les exigences procédurales mentionnées ci-dessus se rapprochent de celles de l'article 6 CEDH.
+
+<<5094.18;5098.38;fr>>
+Mais il faut tenir compte du contexte spécifique des élections.
+
+<<5098.54;5103.5;fr>>
+Par exemple, la durée et l'étendue des auditions doivent être mises en balance avec l'intérêt à résoudre rapidement les litiges électoraux.
+
+<<5103.66;5109.42;fr>>
+Donc, vous voyez, on est tout à fait dans la continuité de la position de la Commission de Venise sur laquelle nous nous alignons.
+
+<<5109.62;5125.66;fr>>
+Et alors, enfin, quand on nous dit finalement que notre client n'avait aucune raison de s'inquiéter de la manière dont les dépouillements avaient été faits, déjà, donc ça, c'est le seul point sur lequel je répondrais, puisque, comme je vous le disais, je ne m'attendais pas à ce qu'on se retrouve dans une situation ping-pong où on se répond mutuellement.
+
+<<5125.9;5140.06;fr>>
+Mais sur ce point-là, précisément, je voudrais dire que le requérant, il est arrivé avec toute une série d'arguments devant la Commission de vérification instaurée par le Parlement et a montré que dans certains bureaux électoraux, le fait d'avoir utilisé ou non le crayon rouge était déterminant.
+
+<<5140.22;5148.42;fr>>
+Dans un autre, ça ne l'était pas, que des critères très variables avaient été choisis par les présidents du bureau de vote pour décider qu'un bulletin était nul ou pas.
+
+<<5148.62;5160.06;fr>>
+Et on a eu l'impression que ça pouvait avoir été fait d'une manière qui pouvait avoir une certaine dimension arbitraire ou, en tout cas, le fait même que les mêmes règles ne soient pas appliquées à tous nous semblait poser problème.
+
+<<5160.22;5165.86;fr>>
+Et la Commission de vérification, donc cette Commission de vérification créée par le Parlement Moislon, nous a donné raison là-dessus.
+
+<<5165.86;5175.86;fr>>
+Donc, manifestement, elle, elle a estimé aussi qu'il y avait des motifs pour estimer qu'il fallait recompter pas l'ensemble des votes, mais les votes nuls et pour les recompter selon des critères similaires.
+
+<<5176.1;5183.5;fr>>
+Donc, je ne reviens pas sur les faits, mais j'ai l'impression qu'une partie de ce qu'a dit l'Etat belge contredit les faits et contredit ce que la Commission de vérification du Parlement...
+
+<<5183.66;5189.5;fr>>
+Ce sur quoi la Commission de vérification du Parlement Moislon, pourtant trop peu indépendante, nous avait donné raison.
+
+<<5189.5;5189.5;fr>>
+J'ai dit je vous remercie.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<5193.37;5195.09;fr>>
+Merci beaucoup, Maître Pétré.
+
+[[Applicant;AP3]]
+
+<<5195.65;5204.09;fr>>
+Monsieur le Président, je vous demanderai l'autorisation de donner la parole au requérant ici présent.
+
+<<5204.09;5210.69;fr>>
+Je lui ai bien expliqué que cela devait être court et précis, et je suis certaine qu'il respectera ces exigences si vous lui permettez de prendre la parole, ce que je vous demande.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<5213.76;5215.6;fr>>
+Merci. La parole est au requérant.
+
+[[Applicant;AP2]]
+
+<<5223.44;5224.84;fr>>
+Merci, M. le Président.
+
+<<5225.04;5226.64;fr>>
+Merci d'abord du temps que vous avez consacré à ce dossier.
+
+<<5226.84;5231.48;fr>>
+Merci à toute l'équipe et merci aussi au public qui a consacré du temps à ce dossier.
+
+<<5231.68;5243.08;fr>>
+Il me paraît évident que si nous voulons une démocratie, il nous faut un processus électoral transparent et démocratique, et qui dit un tel processus électoral dit aussi un système de contrôle qui soit effectivement transparent.
+
+<<5243.32;5247.72;fr>>
+On ne saurait se satisfaire d'un système de contrôle où les personnes qui contrôlent sont partie prenante aux résultats électoraux.
+
+<<5247.92;5252.52;fr>>
+Je pense que c'est vraiment le cœur du dossier, parce que dans ce cas-là, évidemment, elles sont juges et parties.
+
+<<5252.52;5257.16;fr>>
+Ce combat, nous ne le menons pas, je ne le mène pas uniquement pour mon cas personnel.
+
+<<5257.36;5261.04;fr>>
+Nous le menons parce que nous voulons aussi approfondir et élargir cette démocratie.
+
+<<5261.28;5268.84;fr>>
+On ne doit pas oublier que le but de l'élection, c'est que les résultats électoraux, finalement, reflètent l'intention des électeurs de la manière la plus fidèle possible.
+
+<<5269.0;5274.04;fr>>
+Et il nous semble que ce processus n'est pas de manière transparente et totale garantie en Belgique.
+
+<<5274.04;5274.04;fr>>
+Je vous remercie.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<5275.69;5276.69;fr>>
+Merci beaucoup.
+
+<<5276.89;5282.81;fr>>
+J'invite maintenant les juges qui ont déjà posé des questions à demander le qu'échéant des clarifications supplémentaires.
+
+<<5284.73;5285.73;fr>>
+Tel n'est pas le cas.
+
+<<5285.93;5289.41;fr>>
+Alors, dans ce cas, on arrive au terme de l'audience.
+
+<<5289.61;5295.49;fr>>
+Je remercie les comparants qui ont assisté la Cour par leur intervention et leur réponse à ces questions.
+
+<<5296.01;5299.81;fr>>
+La Cour va maintenant délibérer sur la recevabilité le fonds.
+
+<<5300.41;5302.69;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<5302.69;5305.69;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<5305.69;5307.69;fr>>
+L'audience est levée.
+

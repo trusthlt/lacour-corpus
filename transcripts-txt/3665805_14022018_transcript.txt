@@ -1,0 +1,1827 @@
+[[Announcer;UNK]]
+
+<<24.27;24.95;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<74.35;81.71;en>>
+I declare open the public hearing on the merits in the case of Murtazaliyeva versus Russia.
+
+<<81.71;94.71;en>>
+The application was lodged with the Court on 16 September 2005 under Article 34 of the Convention by Russian national Mrs. Zara Kazanovna Murtazaliyeva.
+
+<<94.71;103.79;en>>
+The application was allocated to the Third Section of the Court, pursuant to Rule 52, paragraph 1 of the Rules of the Court.
+
+<<103.79;119.71;en>>
+On 9 May 2017, a chamber of the Third Section delivered a judgment in which it declared the application admissible regarding the applicant's complaints under Article 6 of the Convention and inadmissible as to remainder.
+
+<<119.71;132.61;en>>
+It found that there had been no violation of Article 6, paragraphs 1 and 3d as regards the absence of a witness, A., and as regards the absence of two attesting witnesses.
+
+<<132.61;145.49;en>>
+It also found that there had been no violation of Article 6, paragraphs 1 and 3b concerning the alleged ineffective examination of a videotape at the applicant's trial.
+
+<<145.49;162.67;en>>
+On 9 August 2017, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the Convention, and the panel of the Grand Chamber accepted the request on 18 September 2017.
+
+<<162.67;168.59;en>>
+The governments are represented by their agent, Mr. Galperin, the representative of the Russian
+
+<<168.59;176.67;en>>
+Federation to the European Court of Human Rights, assisted by Mrs. Borisova and Mrs. Ocheretyanaya, advisors.
+
+<<176.67;180.89;en>>
+The applicant is represented by Mr. Koroteev, counsel.
+
+<<180.89;183.53;en>>
+The applicant is also present.
+
+<<183.53;187.59;en>>
+I welcome the representatives in the name of the Court.
+
+<<187.59;195.65;en>>
+I also welcome the national magistrates participating in a program of the European Judicial Training Network.
+
+<<195.65;204.75;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<204.75;210.31;en>>
+Mr. Koroteev for the applicant will speak first, and then Mr. Galperin for the government.
+
+<<210.31;211.31;en>>
+I call Mr. Koroteev.
+
+<<211.31;212.31;en>>
+You have the floor, please.
+
+[[Applicant;AP1]]
+
+<<213.14;214.86;en>>
+Thank you, Mr. President.
+
+<<214.86;217.78;en>>
+Mr. President, judges of the court,
+
+<<217.78;227.86;en>>
+this case concerns a conviction of the applicant on two counts of terrorist offenses in what we say was an unfair trial.
+
+<<227.86;252.34;en>>
+The applicant was not able to question a key witness, police officer Said Akhmaev, who, as the facts of this case suggest, played a central role in the undercover police operation against the applicant, which eventually resulted in the applicant's arrest and alleged installation of explosive devices in her bag following the arrest.
+
+<<252.34;256.38;en>>
+The court has not put any specific questions for this hearing.
+
+<<256.38;271.77;en>>
+Accordingly, I will deal with the question as to whether there has been a violation of Article VI, Paragraph 3D, because of the applicant's inability to confront Mr. Akhmaev at the trial.
+
+<<271.77;275.31;en>>
+Mr. Akhmaev was referred to as Witness A
+
+<<275.31;277.72;en>>
+in the Chambu judgment.
+
+<<277.72;285.81;en>>
+I will firstly argue that the court's case law regards Mr. Akhmaev both as a defense
+
+<<285.81;288.38;en>>
+and as a prosecution witness.
+
+<<288.38;301.13;en>>
+Then I will elaborate on the applicable convention test and demonstrate that the applicant provided convincing reasons for calling Akhmaev to testify at the trial.
+
+<<301.13;312.92;en>>
+I will further argue that there were no good reasons to justify his absence, and the national courts failed to take any steps to ensure his attendance.
+
+<<312.92;322.27;en>>
+In turn, the applicant was not offered such counterbalancing measures that could compensate Mr. Akhmaev's non-attendance.
+
+<<322.27;333.63;en>>
+In particular, she was unable to question the attesting witnesses of the search in her bag and to effectively review videotapes of her conversations with her flatmates.
+
+<<333.63;337.38;en>>
+Mr. President, I start with the issue
+
+<<337.38;341.08;en>>
+regarding the nature of Witness Akhmaev.
+
+<<341.08;347.48;en>>
+At the pretrial stage of criminal proceedings against the applicant, Mr. Akhmaev admitted
+
+<<347.48;355.94;en>>
+that as a police officer acting under instructions of his superiors, he had taken initiative in conducting the applicant.
+
+<<355.94;363.48;en>>
+He assisted the applicant when she was detained by the police in late 2003 on unknown grounds.
+
+<<363.48;368.92;en>>
+He provided the applicant with accommodation filled with surveillance devices.
+
+<<368.92;382.68;en>>
+The conversations the applicant had with her flatmates were recorded, and it is largely on the basis of the interpretation of the records of the surveillance that the applicant was convicted.
+
+<<382.68;386.68;en>>
+The prosecution relied on Mr. Akhmaev's statement
+
+<<386.68;396.12;en>>
+and listed him both as a prosecution and as a defense witness in the indictment of 7 December 2004.
+
+<<396.12;404.27;en>>
+It was only during the concluding days of the trial that the prosecution decided not to call Mr. Akhmaev to testify.
+
+<<404.27;410.27;en>>
+Instead, the prosecutor asked the court to read his pretrial statement.
+
+<<410.27;415.77;en>>
+It was the applicant's defense who insisted on securing Mr. Akhmaev's attendance,
+
+<<415.77;418.98;en>>
+and this is how he became a defense witness.
+
+<<418.98;423.77;en>>
+The qualification of Mr. Akhmaev as solely a defense witness
+
+<<423.77;432.88;en>>
+is thus merely a result of the decision of the trial prosecutor not to call him as a prosecution witness.
+
+<<432.88;449.18;en>>
+The criteria under Article VI for calling prosecution and defense witnesses vary significantly, so the application of the Convention in the case like the present one heavily dependent on the decision of a prosecutor at a trial.
+
+<<449.18;464.08;en>>
+We say Article VI rights should not be abandoned to the discretion of a trial prosecutor, but understood and applied in accordance with the autonomous interpretation of the court.
+
+<<464.08;471.07;en>>
+Therefore, we ask the court to take into account that Mr. Akhmaev is to be regarded
+
+<<471.07;482.38;en>>
+as a prosecution and as a defense witness so that the Convention test for calling such witnesses should be akin to those of the prosecution witnesses.
+
+<<482.38;500.77;en>>
+However, as I will demonstrate further, regardless of the test the court decides to apply to the circumstances of the present case, the national authorities fail to take sufficient steps to secure the applicant's rights under Article VI of the Convention.
+
+<<500.77;506.07;en>>
+Mr. President, I now turn to the applicable Convention test.
+
+<<506.07;512.67;en>>
+The court's case law is considerably dependent on which party calls a witness.
+
+<<512.67;519.88;en>>
+The defense should, as a rule, be able to question a witness for the prosecution during the trial.
+
+<<519.88;531.58;en>>
+Should the prosecution want to present a pretrial statement of an absent witness as evidence, they must demonstrate good reasons for his non-attendance.
+
+<<531.58;547.58;en>>
+The standard of overall fairness requires that, in such cases, the defense is provided with counterbalancing measures to compensate for its handicaps, regardless of whether the statement of the absent witness is sole or decisive evidence.
+
+<<547.58;566.88;en>>
+This was initially set out as a step-by-step test in Al-Khawaja and Tahrir against the United Kingdom and redefined in Shachashvili against Germany as factors to be taken into account when assessing the overall fairness of proceedings.
+
+<<566.88;586.48;en>>
+Importantly, in an attempt to abandon the sole or decisive test in Al-Khawaja and Tahrir, the Grand Chamber reasoned that its inflexible application would run counter to the Court's ability to examine the fairness of proceedings as a whole.
+
+<<586.48;592.77;en>>
+The situation is fundamentally different where the defense calls a witness.
+
+<<592.77;613.17;en>>
+Under the criteria set out in Perna against Italy and summarized in paragraph 84 of the Chamber Judgment, in this case, the Court shall consider, first, whether the defense request to call a witness was sufficiently reasoned and relevant to the subject matter of the accusation.
+
+<<613.17;622.78;en>>
+The threshold is that the witness statement can arguably strengthen the defense position or even lead to the applicant's acquittal.
+
+<<622.78;636.48;en>>
+The second question would then be whether the trial court, by not securing attendance of a certain witness to testify on behalf of the defendant, breached his or her rights under Article VI.
+
+<<636.48;652.48;en>>
+However, as the cases that followed Perna show, it is for the applicant to prove that the defense witness was of such importance as to warrant an acquittal in the case against him or her.
+
+<<652.48;668.67;en>>
+Thus, in Popov against Russia and Poliakov against Russia, the Court found violations of Article VI on account of the domestic court's failure to secure the attendance of alibi witnesses.
+
+<<668.67;683.88;en>>
+In Guillory against France, the same failure concerned a witness who was able to testify about the defendant's recourse to violence, a constituent element of the offense in that case.
+
+<<683.88;698.08;en>>
+Likewise, overturning acquittal on appeal and entering a conviction without rehearing witnesses was held to violate Article VI in Deterrem against France and Vidal against Belgium.
+
+<<698.08;709.38;en>>
+However, where the witnesses were not testifying to alibi or to a constituent element of the offense, no violation of Article VI was established.
+
+<<709.38;715.67;en>>
+This happened in Perna and in Dorokhov against Russia.
+
+<<715.67;727.08;en>>
+This approach amounts to maintaining the robust application of the sole or decisive evidence test for defense witnesses, abundant for the prosecution witnesses.
+
+<<727.08;741.08;en>>
+Under Perna, the defendants have the right to call witnesses if they are to a sufficient extent aware of the nature and role that the witness statement is able to play in their cases.
+
+<<741.08;758.91;en>>
+Therefore, the obvious deficiency of the Perna approach is that it is silent on cases like the applicants, where the involvement of witnesses, such as undercover police agents, is unspecified or unknown to the defense prior to confrontation.
+
+<<758.91;762.67;en>>
+This is a perfect catch-22.
+
+<<762.67;772.63;en>>
+In order to be able to justify the right to call a witness for questioning, the defense has to be able to question that witness first.
+
+<<772.63;788.28;en>>
+The defense doesn't have access to the prosecution evidence until the end of the investigation, and the evidence produced at the trial may differ from that collected by the investigation, as happened in the case of the applicant.
+
+<<788.28;798.41;en>>
+So we submit that the appropriate and sufficient measure to ensure the fairness of proceedings is confrontation at trial.
+
+<<798.41;805.97;en>>
+The respondent government suggested to keep the Perna test as it was formulated by the chamber in the present case.
+
+<<805.97;816.82;en>>
+We respectfully submit that it is unduly restrictive in its application, and it doesn't account for witnesses like police officer Akhmeyev in the present case.
+
+<<816.82;830.02;en>>
+Rather, the criteria akin to those elaborated in Al-Khawaja and Shachashvili should apply to witnesses which are state agents called to testify on the initiative of the defense.
+
+<<830.02;841.32;en>>
+But even if the Perna criteria are maintained by the grand chamber, we submit that the applicant presented convincing reasons for calling Mr. Akhmeyev to testify,
+
+<<841.32;845.32;en>>
+and that there was no good reason for his failure to attend.
+
+<<845.32;851.34;en>>
+We further submit that the trial court had the powers to ensure Mr. Akhmeyev's attendance,
+
+<<851.34;861.56;en>>
+but failed to exercise them, and the applicant had no access to any procedural safeguards that would have sufficiently compensated Mr. Akhmeyev's
+
+<<861.56;863.76;en>>
+non-attendance.
+
+<<863.76;867.56;en>>
+Mr. President, I move to the question
+
+<<867.56;871.15;en>>
+of relevance of the examination of Mr. Akhmeyev
+
+<<871.15;873.28;en>>
+to the defense case.
+
+<<873.28;876.47;en>>
+It relates to the first step of the Perna test.
+
+<<876.47;891.51;en>>
+I will demonstrate that the applicant requested to call witness Akhmeyev for questioning during the investigation, and then during trial, each time providing ample reasons for her request.
+
+<<891.51;897.95;en>>
+The applicant requested the interrogation of Mr. Akhmeyev at the pretrial stage of proceedings
+
+<<897.95;909.63;en>>
+on the first reasonably available occasion, that is, just after the notification of the charges against her on 12 October 2004.
+
+<<909.63;923.41;en>>
+In the motion to the investigator, she wrote that, I quote, the evidence that I'm innocent and not involved in this case has never been collected, end of quote.
+
+<<923.41;929.67;en>>
+She referred, in particular, to the facts that Mr. Akhmeyev had known her and her flatmates,
+
+<<929.67;942.99;en>>
+that he had spoken to her during her detention in December 2003, and to the police officers who arrested her on 4 March 2004.
+
+<<943.0;955.63;en>>
+The investigator was not bound by the applicant's questions, but on 13 October 2004, he interrogated Mr. Akhmeyev, who testified that he had taken part
+
+<<955.63;961.6;en>>
+in a covert operation against the applicant on the instructions of his superiors.
+
+<<961.6;969.39;en>>
+The prosecution relied on his statement in the indictment of 7 December 2004.
+
+<<969.39;976.71;en>>
+But even at the end of the pretrial investigation, the extent of Mr. Akhmeyev's involvement in the case
+
+<<976.71;989.47;en>>
+could not be evident to the applicant, because witnesses, most importantly her flatmates, considerably departed from their pretrial statements later in court.
+
+<<989.47;996.47;en>>
+I will now set out the applicant's reasons to confront Mr. Akhmeyev at the trial.
+
+<<996.47;1011.84;en>>
+In a recent judgment in the Duma against Russia, the court confirmed that the defendant's version of events presented to the trial court is important for the European Court's adjudication under Article VI.
+
+<<1011.84;1025.86;en>>
+In the present case, on 13 January 2005, before the trial court, the applicant gave a detailed account of Officer Akhmeyev's role in the collection of evidence against her.
+
+<<1025.86;1031.45;en>>
+He found her flat where she moved with her friends and covered the accommodation costs.
+
+<<1031.45;1038.95;en>>
+He also asked her not to move out of Moscow, because the police had a file on a young Chechen woman.
+
+<<1038.95;1042.19;en>>
+She said she would receive phone calls from Mr. Akhmeyev
+
+<<1042.19;1048.52;en>>
+on a daily basis, asking about the applicant's and her flatmates' daily life.
+
+<<1048.52;1062.95;en>>
+The applicant described in much detail at the pretrial investigation and in her depositions at the trial the conversation she had with Officer Akhmeyev at the moment of her arrest on 4 March 2004.
+
+<<1062.95;1074.8;en>>
+Importantly, and this is not in dispute between the parties, the applicant was arrested for an offense of not possessing a valid residence registration in Moscow.
+
+<<1074.8;1082.51;en>>
+It was punishable by a fine of 100 rubles, that is, three euros at the time.
+
+<<1082.51;1093.32;en>>
+And therefore, the provisions of the Code on Administrative Offenses did not allow the police to arrest or search the applicant.
+
+<<1093.32;1103.12;en>>
+Thus, Police Officer Akhmeyev's advice that the applicant followed the policeman was in obvious contradiction with the law.
+
+<<1103.12;1110.39;en>>
+The applicant followed the advice was taken to the police station, where explosives were found in her bag.
+
+<<1110.39;1113.56;en>>
+Given the incompatibility of Mr. Akhmeyev's advice
+
+<<1113.56;1121.88;en>>
+with the law, it can be said that he was aware of the police operation to arrest the applicant and was part of it.
+
+<<1121.88;1132.6;en>>
+It follows from the evidence in this case that Officer Akhmeyev turned out to have been the only person fully aware of the scale of the operation against the applicant.
+
+<<1132.6;1144.12;en>>
+It did not then require a lengthy justification for the defense request made on the same day of 13 January 2005 that Mr. Akhmeyev had to be questioned.
+
+<<1144.12;1149.0;en>>
+The defense request was not dismissed for the lack or weakness of reasoning.
+
+<<1149.0;1153.08;en>>
+We emphasize it was not dismissed at all.
+
+<<1153.08;1166.58;en>>
+However, of its own motion and on the basis of information never disclosed to the defense, the trial court decided not to take any steps to secure Mr. Akhmeyev's attendance
+
+<<1166.58;1171.71;en>>
+because he was on a duty mission outside Moscow.
+
+<<1171.71;1177.67;en>>
+The chamber found the lack of reasons provided to the trial court by the applicant.
+
+<<1177.67;1191.99;en>>
+We respectfully submit that the applicant's motion at the pretrial stage of proceedings and the evidence she gave at the trial only lead to the conclusion that she provided sufficient reasons for the request.
+
+<<1191.99;1203.08;en>>
+The chamber also found that it was only in Strasbourg proceedings that the applicant referred to Officer Akhmeyev as a possible agent provocateur.
+
+<<1203.08;1208.47;en>>
+Again, the trial record clearly leads to an opposite conclusion.
+
+<<1208.47;1217.88;en>>
+The applicant's lawyers relied on the entrapment defense during their concluding statements made on 17 January 2005.
+
+<<1217.88;1227.28;en>>
+It was the first occasion where the defense was able to present its overall theory of the case, and it did.
+
+<<1227.28;1240.76;en>>
+The trial court was empowered under Article 294 of the Code of Criminal Procedure to revert to hearing the evidence having heard the closing submissions.
+
+<<1240.76;1255.12;en>>
+The allegation of entrapment was again raised in the applicant's lawyers' appeals together with the complaint that the trial court had failed to ensure Mr. Akhmeyev's attendance.
+
+<<1255.12;1268.0;en>>
+To sum up, as the three dissenting judges in the chamber did, it was upon Officer Akhmeyev's intervention that the applicant was released from the custody of the police in December 2003.
+
+<<1268.0;1280.92;en>>
+Under the instructions of his superiors, he helped the applicant to find work in the flat equipped with video tapping and audio tapping devices and visited her several times.
+
+<<1280.92;1284.82;en>>
+As the applicant had started to trust Mr. Akhmeyev,
+
+<<1284.82;1293.48;en>>
+she immediately telephoned him when she was stopped on the evening of 4 March 2004 by a police patrol.
+
+<<1293.48;1310.64;en>>
+The applicant's defense thus implicated Officer Akhmeyev, given that if the explosives had been planted, he would have laid the groundwork for a later conviction based on the alleged evidence collected in her video and audio tapped flat.
+
+<<1310.64;1324.36;en>>
+Therefore, witness Akhmeyev's testimony was so clearly part of the applicant's evidence and defense that the applicant would have stated the obvious when arguing in detail while Mr. Akhmeyev had
+
+<<1324.36;1327.24;en>>
+to be treated as a key witness.
+
+<<1327.24;1334.88;en>>
+Finally, on no occasion did the domestic authorities find the reasons advanced by the applicant for calling Mr.
+
+<<1334.88;1338.47;en>>
+Akhmeyev to testify insufficient.
+
+<<1338.47;1346.95;en>>
+We invite the Grand Chamber not to review these findings of the domestic authorities in accordance with the principle of subsidiarity.
+
+<<1346.95;1350.39;en>>
+The investigator interrogated Mr. Akhmeyev,
+
+<<1350.39;1354.52;en>>
+though not having been bound by the applicant's questions.
+
+<<1354.52;1361.12;en>>
+The trial court also did not dismiss as unfounded the applicant's motion to call Mr. Akhmeyev,
+
+<<1361.12;1366.12;en>>
+but informed the parties of the impossibility to call him to court.
+
+<<1366.12;1380.8;en>>
+Preposterous impossibility, we say, with regard to the court's case law, finding that the absence in the place of a trial does not absolve a witness from attending, an issue to which I now turn.
+
+<<1380.8;1384.04;en>>
+Mr. President, the respondent government
+
+<<1384.04;1390.63;en>>
+submitted that Officer Akhmeyev's due to mission was a good reason for his non-attendance.
+
+<<1390.63;1396.43;en>>
+The government referred to the court's judgment in Pauchik against Ukraine.
+
+<<1396.43;1403.15;en>>
+However, in that case, the court was struck by the reasons for non-attendance of witnesses.
+
+<<1403.15;1408.67;en>>
+That is, holiday outside the region covered by the relevant police department.
+
+<<1408.67;1412.12;en>>
+That's paragraph 40 of the judgment in Pauchik.
+
+<<1412.12;1416.88;en>>
+The government's submission is thus entirely without foundation.
+
+<<1416.88;1436.12;en>>
+What is more, already in a 2008 judgment in Vladimir Romanov against Russia, the court decided not to qualify a several days absence of a witness from Russia as, I quote, insuperable hindrance to the expediency of the proceedings, end of quote.
+
+<<1436.12;1439.72;en>>
+No such hindrance could be argued in the present case as well.
+
+<<1439.72;1445.08;en>>
+And no good reason existed for Mr. Akhmeyev's absence.
+
+<<1445.08;1450.5;en>>
+Mr. President, we further say that the trial court's failure
+
+<<1450.5;1453.0;en>>
+to ensure Mr. Akhmeyev's attendance
+
+<<1453.0;1459.92;en>>
+and reading out his pretrial statement were not compatible with the provisions of Russian law.
+
+<<1459.92;1471.28;en>>
+On 17 December 2004, after the conclusion of the preliminary hearing, the trial judge ordered Mr. Akhmeyev be called for questioning as witness.
+
+<<1471.28;1485.52;en>>
+But there is no indication in the case file that the trial court took steps to summon or compel him to attend, even though ample means were at the presiding judge's disposal.
+
+<<1485.52;1488.23;en>>
+She was able to wait for his return.
+
+<<1488.23;1498.32;en>>
+There was no urgency to finish the trial because she easily adjourned the hearings to allow parties to prepare for the closing submissions.
+
+<<1498.32;1509.3;en>>
+She could have ordered witness Akhmeyev be brought forcibly by the police, as provided for in Article 56, Paragraph 7 of the Code of Criminal Procedure.
+
+<<1509.3;1517.62;en>>
+Such an attempt to ensure his attendance would have been consistent with the court's judgment in Dorset against the Netherlands.
+
+<<1517.62;1521.88;en>>
+Forcing witness to attend is thus of utmost importance.
+
+<<1521.88;1535.39;en>>
+But alternatively, the trial judge could impose a financial sanction on the absent witness, Article 111 of the Code of Criminal Procedure stipulated for this power.
+
+<<1535.39;1544.08;en>>
+The respondent government submitted that the applicant and her defense agreed to reading out of witness Akhmeyev's statement.
+
+<<1544.08;1547.84;en>>
+This argument isn't consistent with the domestic law.
+
+<<1547.84;1572.47;en>>
+Firstly, Article 281, Paragraph 1 of the Code of Criminal Procedure allowed for reading out the statements of absent witnesses, that is, those who were summoned but failed to appear after the trial court has taken all necessary steps to ensure their attendance, as provided for by law.
+
+<<1572.47;1575.71;en>>
+The present case contains no summonses to Mr. Akhmeyev
+
+<<1575.71;1581.56;en>>
+and no traces of attempts to locate him and compel to attend the court.
+
+<<1581.56;1591.51;en>>
+So the trial judge could not even proceed to seeking the party's opinion on reading out the pretrial statement of Mr. Akhmeyev.
+
+<<1591.52;1604.76;en>>
+Secondly, the applicant only agreed to reading his statement out when the presiding judge informed the defense that they would not be able to confront Mr. Akhmeyev.
+
+<<1604.76;1609.28;en>>
+So the applicant had no other option available.
+
+<<1609.28;1625.23;en>>
+Finally, the respondent government did not rely on the exceptions set out in Article 281, Paragraph 2 of the Code of Criminal Procedure, which allow reading out the witness statements without parties' consent.
+
+<<1625.23;1634.12;en>>
+Such exceptions should amount to death or natural disaster and are obviously irrelevant to the present case.
+
+<<1634.12;1639.54;en>>
+Mr. President, we submit there were no counterbalancing factors
+
+<<1639.54;1643.23;en>>
+to compensate for non-attendance of witness Akhmeyev.
+
+<<1643.23;1659.92;en>>
+Neither a pretrial confrontation, as government argued, nor the court's references to other evidence, as the chamber held in this case, could compensate the applicant's inability to question Mr. Akhmeyev before the trial court.
+
+<<1659.92;1667.0;en>>
+The respondent government suggested that the applicant should have moved for confrontation at the pretrial stage.
+
+<<1667.0;1674.12;en>>
+In our submission, the alternative suggested by the government has no basis in the court's case law.
+
+<<1674.12;1683.63;en>>
+Pretrial confrontation can only substitute interrogation at the trial, where the witness may have reasons to fear the defendant.
+
+<<1683.63;1693.04;en>>
+This was the case in the 2017 decision of Ponomarev against Russia, but not in the present case.
+
+<<1693.04;1701.76;en>>
+The chamber found that the counterbalancing factor in this case was the availability of other evidence against the applicant.
+
+<<1701.76;1711.32;en>>
+We say that, firstly, all this body of evidence was collected by or on instigation of Officer Akhmeyev.
+
+<<1711.32;1726.72;en>>
+His activity included establishing and maintaining contact with the applicant, providing her assistance with finding a flat that was being tapped, advising to subject herself to the police arresting her ultra-virus.
+
+<<1726.72;1734.26;en>>
+Both the trial and the appeal courts failed to examine and elucidate the role of Mr. Akhmeyev
+
+<<1734.26;1750.64;en>>
+to resolve the contradictions in evidence given by the witnesses and by the applicant, and to give reasons for dismissing the allegations of entrapment beyond mere statements of denial, as we say the courts should have done.
+
+<<1750.64;1771.6;en>>
+Judicial control and reasoning, setting out objective criteria and verifiable evidence, are fair trial requirements in the cases like the present one, as confirmed by this court in Khudobin against Russia and by the Inter-American Court of Human Rights in Noreen Qatriman and others against Czech.
+
+<<1771.6;1776.56;en>>
+This is the case which we referred to in our written submissions.
+
+<<1776.56;1782.56;en>>
+Secondly, the evidence presented to the domestic courts was highly inconclusive.
+
+<<1782.56;1806.36;en>>
+It is precisely the applicant's inability to argue that the explosives had been planted in her bag and the inability to challenge the prosecution's interpretation of her talks with her flatmates caused by perfunctory examination of videotapes that failed to counterbalance witness Akhmeyev's absence.
+
+<<1806.36;1814.43;en>>
+Throughout the proceedings, the applicant contended that the explosives the policeman found in her bag had been planted on her.
+
+<<1814.44;1824.52;en>>
+Testimony from attesting witnesses B and K, who had been called by the police to observe the legality of the search, would have resolved the matter.
+
+<<1824.52;1829.28;en>>
+But the applicant's request to summon B and K was denied.
+
+<<1829.28;1845.48;en>>
+As a result, she had been deprived of the chance or opportunity to elicit directly or indirectly through questioning of these witnesses the only evidence which might possibly be able to support her allegations that the explosives had been planted.
+
+<<1845.48;1850.96;en>>
+The investigation never even tried to trace the origins of the explosives.
+
+<<1850.96;1856.39;en>>
+No fingerprints were taken from the foil that covered the explosives.
+
+<<1856.39;1874.12;en>>
+With regard to the recording of the tapped conversations, we know that the trial court briefly reviewed only one tape out of 10 days of covered recording without comprehensive review in adequate arrangements, allowing the applicant to fully participate in the review.
+
+<<1874.12;1879.13;en>>
+She was not able to effectively present her case.
+
+<<1879.13;1890.41;en>>
+So while the trial court did indeed refer to evidence other than witness Akhmayev's statement to the investigator, it was strained with ambiguity and doubt.
+
+<<1890.41;1902.51;en>>
+It could not counterbalance the applicant's inability to confront in court the principal police agent in the case against her.
+
+<<1902.51;1907.63;en>>
+Mr. President, police officer Akhmayev
+
+<<1907.63;1911.71;en>>
+was central to the applicant's trial and conviction.
+
+<<1911.71;1923.03;en>>
+To provide the applicant with an opportunity to confront witness Akhmayev was what the Russian law and the convention required the trial court to do.
+
+<<1923.03;1937.56;en>>
+It would have come at no cost for the state, whereas a lengthy prison term affecting the whole life of the applicant and the whole of her family was at stake for her.
+
+<<1937.56;1944.68;en>>
+Concealing witness Akhmayev from questioning by the defense rendered the whole trial unfair.
+
+<<1944.68;1953.62;en>>
+We invite the court to find a violation of Article 6 of the convention and to award just satisfaction as claimed.
+
+<<1953.62;1954.47;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1955.37;1958.37;en>>
+Thank you very much, Mr. Koroteev.
+
+<<1958.37;1959.83;en>>
+Now I call Mr. Galperin.
+
+<<1959.83;1959.83;en>>
+Please, you have the floor.
+
+[[Government;GR1]]
+
+<<1962.56;1966.44;en>>
+Thank you, Mr. President and honorable judges of the court.
+
+<<1966.44;1980.16;en>>
+The present case raising the issue of fairness of the criminal proceeding against the applicant involves the constant principle of the court, which was also mentioned by the counsel of the opposite party, the principle of subsidiarity.
+
+<<1980.16;1987.96;en>>
+And the government are deeply convinced that the clear chamber's judgment serves as a natural example of such subsidiarity.
+
+<<1987.96;1998.2;en>>
+So I wouldn't tie the Grand Chamber with the long submissions, also taking into account that contrary to the counsel allegation, there was a question put into the parties.
+
+<<1998.2;1999.44;en>>
+And it was the sole question.
+
+<<1999.44;2003.48;en>>
+It wasn't a question about the apprehension of the applicant or search of her back.
+
+<<2003.48;2006.64;en>>
+But it was only the question of Mr. A's appearance
+
+<<2006.64;2008.24;en>>
+in the court.
+
+<<2008.24;2029.24;en>>
+It appears that the genuine purpose of lodging the present application and also trying subsequent challenging of the chamber's judgment is to eliminate shortcomings and passiveness of the applicant's lawyers 13 years ago in the domestic court, and also including Russian Supreme Court, which considered this case.
+
+<<2029.24;2039.92;en>>
+In order to achieve this purpose, the applicant's representative used any means, including those misleading the court, and in fact encouraged it to go beyond subsidiarity principle.
+
+<<2039.92;2047.26;en>>
+In this case, they submit new complaints and arguments which they failed to raise in the domestic proceedings.
+
+<<2047.26;2053.16;en>>
+They misrepresent facts and confuse the court's case law and Russian legislation.
+
+<<2053.16;2063.34;en>>
+Moreover, trying to win the court's sympathy, the applicant's representative brings the issue of the applicant's conviction for crimes of terrorism.
+
+<<2063.34;2082.76;en>>
+It is true that the advancing case secured in the period when Russia suffered a surge of terrorist attacks and involving at least nine suicide bombers, with more than 500 killed and 1,000 wounded in only two years, or 2002 and 2003, and a lot of them in Moscow.
+
+<<2082.76;2091.8;en>>
+However, Russian law guarantees the right to fair trial to all defendants, irrespective of their origin and crime committed.
+
+<<2091.8;2105.4;en>>
+Domestic courts are bounded by an obligation to consider all cases impartially, securing adversity of the proceedings, and carefully assessing any evidence provided by the parties.
+
+<<2105.4;2111.76;en>>
+The applicant's principal complaints in this case is that Mr. A was not called by the domestic court
+
+<<2111.76;2122.72;en>>
+to give evidence so that she could question him, and also the applicant's counsel trying to show Mr. A as a central witness in this proceeding.
+
+<<2122.72;2129.88;en>>
+In this regard, I submit that the applicant's rights were not violated by inability to question Mr. A.
+
+<<2129.88;2133.8;en>>
+First, as Mr. A was the witness for defense,
+
+<<2133.8;2139.64;en>>
+therefore, the applicant and her team of lawyers should have justified reasons for summoning Mr. A, which
+
+<<2139.64;2141.2;en>>
+wasn't done.
+
+<<2141.2;2147.36;en>>
+Second, applicants' attempt to challenge this court practice in this regard is misleading.
+
+<<2147.36;2157.2;en>>
+Third, even if the grand chamber in this particular case accepts the approach proposed by the applicant, her right to fair trial wasn't breached anyway.
+
+<<2157.2;2163.76;en>>
+Contrary to the applicant's representative allegation, Mr. A was the witness for defense only.
+
+<<2163.76;2167.4;en>>
+The chamber also shared the same view in its judgment.
+
+<<2167.4;2172.8;en>>
+I respectfully agree with this finding of the chamber, which is supported by the following.
+
+<<2172.8;2178.32;en>>
+First, it was the defense who filed the motion to question Mr. A on the pretrial stage
+
+<<2178.32;2182.48;en>>
+on the proceeding and drafted question answered by him.
+
+<<2182.48;2185.84;en>>
+Second, as it follows from the contents of Mr. A's
+
+<<2185.84;2192.28;en>>
+interrogation, he didn't provide any information incriminating the applicant.
+
+<<2192.28;2199.76;en>>
+Third, the prosecutor didn't request the court to summon Mr. A when introducing witnesses against the applicant,
+
+<<2199.76;2207.04;en>>
+and he didn't in any way rely on his statements as a confirmation of the applicant's guilt in the court.
+
+<<2207.04;2218.56;en>>
+According to both the requirements of the Russian Court of Criminal Proceedings and these court principles, highlighted in particular in the judgments in the cases of Perna v. Italy and Palchik v. Ukraine,
+
+<<2218.56;2229.0;en>>
+it is the defense obligation to explain to the domestic court importance and necessity to examine a particular witness testifying on the defendant's behalf.
+
+<<2229.0;2247.38;en>>
+However, in the present case, defense has failed to do so, and the applicant's representative acknowledged this fact in paragraph 9 of his written submissions to the grand chamber by stating that there were no specific grounds for applicant's lawyer's request to examine witness A before the trial court.
+
+<<2247.38;2251.28;en>>
+Thus, defense failed to justify the need to call Mr. A
+
+<<2251.28;2253.96;en>>
+to the stand in the domestic proceeding.
+
+<<2253.96;2267.48;en>>
+Along with that, contrary to applicant's counsel allegations today, there were a number of counterbalancing measures available to them for ensuring their right to adversarial and fair proceedings in Russian court.
+
+<<2267.48;2271.2;en>>
+However, the defense has failed to use even a single one.
+
+<<2271.2;2276.12;en>>
+For instance, they haven't filed new motions to summon Mr. A to the court.
+
+<<2276.12;2283.2;en>>
+They haven't requested to postpone the court proceedings until Mr. A's return from a duty mission.
+
+<<2283.2;2288.24;en>>
+They haven't challenged the information that he actually was on duty mission.
+
+<<2288.24;2293.82;en>>
+They haven't stated that such duty mission wasn't sufficient for his absence from the court.
+
+<<2293.82;2297.68;en>>
+They haven't requested the courts to compel him to appear.
+
+<<2297.68;2303.8;en>>
+They haven't sought court's assistance in ensuring his participation at the hearing.
+
+<<2303.8;2311.8;en>>
+And the only thing they did is giving the explicit consent during the trial to reading out of Mr. A's testimony
+
+<<2311.8;2316.04;en>>
+is given at the pretrial stage without objecting to it.
+
+<<2316.04;2323.6;en>>
+All of this returned us to the general principle that a judge doesn't act either a prosecutor or defense.
+
+<<2323.6;2342.04;en>>
+This trial's court activism and expressed initiative with respect to collection of evidence, summoning particular witnesses and other similar procedural actions in absence of relevant motions from the parties would constitute flagrant impartiality and prejudice.
+
+<<2342.04;2357.88;en>>
+So should we really blame the domestic court for the applicant's representative's failure to reason their request to call a witness and undertake at least one of the simple procedural steps in order to insist on Mr. A's attendance on the trial?
+
+<<2357.88;2365.64;en>>
+Somehow, reasoned request to call a witness for the first time in the course of the whole proceedings was made only in front of this court.
+
+<<2365.64;2370.68;en>>
+This approach evidently breaches the principle of subsidiarity.
+
+<<2370.68;2382.84;en>>
+Respected judges, now I would like to turn to the evaluation of the applicant's attempts to challenge this court's approach to the defense obligation to justify the importance of proposed witnesses.
+
+<<2382.84;2395.52;en>>
+In particular, the applicant's representative insists that the grand chamber should apply to the present case the principle set forth in the Hawaiian Tahirih case and Shachashvili case versus Germany.
+
+<<2395.52;2407.52;en>>
+However, it should be borne in mind that these cases concerned witnesses who acted on behalf of prosecution and have given discriminating testimonies against their applicants.
+
+<<2407.52;2412.76;en>>
+In the present case, on the contrary, Mr. A didn't make any statements pointing
+
+<<2412.76;2415.48;en>>
+to the guilt of the applicant.
+
+<<2415.48;2418.0;en>>
+There are no reasons to consider Mr. A as a witness
+
+<<2418.0;2419.52;en>>
+against the applicant.
+
+<<2419.52;2424.32;en>>
+Thus, approach of these cases cannot be applied in the present situation.
+
+<<2424.32;2433.88;en>>
+However, should this court decide otherwise and apply such an approach, it would find that the applicant's right to fair trial wasn't breached anyway.
+
+<<2433.88;2448.08;en>>
+In the mentioned cases, the court has developed a test ascertaining whether there has been a violation of the convention when statements of a witness who hadn't been present and questioned during the trial were used as evidence.
+
+<<2448.08;2462.44;en>>
+Following this established test, the chamber should examine, first, whether there was a good reason for non-attendance of the witness and consequently for admission of absent witnesses and tested statements as evidence.
+
+<<2462.44;2470.92;en>>
+Second, whether evidence of the absent witness was the sole or decisive basis for the defendant's conviction.
+
+<<2470.92;2483.12;en>>
+And third, whether there were sufficient factors to compensate for the defense's inability to question certain witnesses and to ensure that the trial judged as a whole was fair.
+
+<<2483.12;2495.0;en>>
+With regard to the first criterion, as it was established in the course of the national court proceedings, on the day when the defense filed a motion to examine Mr. A, he was on duty mission out of Moscow
+
+<<2495.0;2497.28;en>>
+and thus couldn't appear in the court.
+
+<<2497.28;2506.92;en>>
+It is important to note that neither the applicant nor her lawyers contested this fact and didn't insist on examining of Mr. A in the court.
+
+<<2506.92;2514.08;en>>
+Moreover, both the prosecution and the defense expressed their mutual consent to reading out of Mr. A's
+
+<<2514.08;2515.84;en>>
+pretrial statements.
+
+<<2515.84;2527.34;en>>
+In this connection, I point out that announcements of the witness statements was conducted in according to section 1 of Article 281 of the Court of Criminal Proceedings.
+
+<<2527.34;2530.28;en>>
+This article has really two sections.
+
+<<2530.28;2542.52;en>>
+First, states that reading out of the testimonies given in the course of preliminary investigation or at the court hearing is only possible upon the mutual consent of the parties.
+
+<<2542.52;2546.32;en>>
+And such interpretation was approved by the Supreme Court of Russia.
+
+<<2546.32;2554.32;en>>
+Section 2 of this article applies only when there is no mutual consent and therefore is irrelevant for the present case.
+
+<<2554.32;2569.16;en>>
+Finally, as it follows from the court's judgment in the case of Shachashvili, also the absence of good reason for the non-attendance of a witness is a very important factor to be weighed in the balance when assessing the overall fairness of a trial.
+
+<<2569.16;2573.64;en>>
+It cannot of itself be conclusive of unfairness.
+
+<<2573.64;2590.84;en>>
+Regarding the second criterion in Al-Khawai case, whether evidence of an absent witness was the sole or decisive basis for the defendant's conviction, the court reiterated that sole evidence is to be understood as the only evidence against accused.
+
+<<2590.84;2602.64;en>>
+In this term, decisive evidence should be interpreted as indicating evidence of such significance or importance as is likely to be determinative of the outcome of the case.
+
+<<2602.64;2609.12;en>>
+Turning to the judgment of the Moscow City Court of 7th of January 2005, Mr. Ace's testimonies
+
+<<2609.12;2613.44;en>>
+were neither sole nor decisive evidence of applicant's guilt.
+
+<<2613.44;2616.88;en>>
+And applicant's conviction wasn't built around these testimonies at all.
+
+<<2616.88;2626.44;en>>
+And if you will have a look on this judgment of a Russian court, it was just two lines from several pages judgments which really mentioned Mr. Ace.
+
+<<2626.44;2629.2;en>>
+When assessing contents of Mr. Ace's testimonies,
+
+<<2629.2;2638.88;en>>
+it becomes obvious that information provided by this witness didn't contain evidence incriminating the applicant or confirming her innocence.
+
+<<2638.88;2646.48;en>>
+His statements were, in fact, irrelevant for the outcome of the case since Mr. Ace simply clarified the facts about how
+
+<<2646.48;2651.52;en>>
+he established a contact with the applicant and helped her find housing.
+
+<<2651.52;2656.6;en>>
+Nothing in his testimonies had any relation to the charges against the applicant.
+
+<<2656.6;2664.6;en>>
+Thus, the probative value of such testimonies was extremely low, and they definitely cannot be considered decisive.
+
+<<2664.6;2669.88;en>>
+On top of that, applicants and her lawyers didn't challenge the credibility of Mr. Ace
+
+<<2669.88;2678.16;en>>
+by, for example, pointing out any incoherence or inconsistency with statements of the applicant herself or other witnesses.
+
+<<2678.16;2681.52;en>>
+Moreover, the applicant acknowledged them in general.
+
+<<2681.52;2685.76;en>>
+So the applicant failed to justify reasons why Mr. Ace should have been
+
+<<2685.76;2689.66;en>>
+considered by the domestic court as a relevant witness.
+
+<<2689.66;2692.96;en>>
+She agreed to reading out of Mr. Ace's testimonies,
+
+<<2692.96;2704.12;en>>
+didn't challenge any information contained in them, and now her lawyer and making a complaint that domestic courts has breached her right to a fair trial by not calling Mr. Ace
+
+<<2704.12;2707.36;en>>
+is not just one more unreasonable request.
+
+<<2707.36;2734.6;en>>
+The applicant's conviction was based on abundant evidence against her, such as the testimonies of other witnesses, according to which the applicant affirmed her participation in military actions with the armed bandit groups against Russian army, influenced her inmates by inspiring to kill Russians and to give their lives for struggle against them, told her inmates about the jihad and suicide bombers.
+
+<<2734.6;2744.04;en>>
+Her own statements, as she acknowledged the subject matter of the conversations, and didn't deny her intentions and willingness to kill Russians.
+
+<<2744.04;2762.92;en>>
+The applicant's handwritten paper note of clear content endorsing terrorist acts in Russia found in the applicant's place of living and saying, and I quote, every time you Russians ask yourselves what moves us, what are we fighting for, why do we explode ourselves?
+
+<<2762.92;2771.4;en>>
+And you will not understand that people live and dream for death at Shahids that can people blow themselves up.
+
+<<2771.4;2782.72;en>>
+Numerous photos of the escalators in the Moscow shopping center, near the Red Square in the very center of Moscow, made by the applicant, which testified to preparation of the terrorist act.
+
+<<2782.72;2794.56;en>>
+And it should be noted that the violent terrorist acts occurred in the same mall in 1999, and near it just a few months before the applicant's apprehension.
+
+<<2794.56;2807.52;en>>
+The videotapes showing her expressing deep satisfaction with Shahid bombings occurred in Moscow in 2003 and 2004, and saying that Russians should be killed and sliced up.
+
+<<2807.52;2818.32;en>>
+And finally, the explosive found in the applicant's purse, as well as traces of the explosives found in the pockets of her jacket and inside the purse.
+
+<<2818.32;2821.46;en>>
+Mr. A, in his turn, had no involvement
+
+<<2821.46;2824.56;en>>
+in the act of arrest of the applicant's offense at all.
+
+<<2824.56;2831.56;en>>
+In fact, he wasn't there when she incited her flightmates V and Q to terrorism.
+
+<<2831.56;2835.88;en>>
+He wasn't at the shopping center while she was making photos.
+
+<<2835.88;2839.18;en>>
+He wasn't present during the applicant's apprehension.
+
+<<2839.18;2845.58;en>>
+And he was not in police station where she alleged that explosives were planted in her bag.
+
+<<2845.58;2849.32;en>>
+So the statements of Mr. A had no or very little value
+
+<<2849.32;2856.16;en>>
+in comparison with other evidences exactly on which conviction of the applicant was based.
+
+<<2856.16;2871.44;en>>
+Turning to the third point of Al-Khawaiya case and Shachashvili case, as it was already specified, the defense was afforded plenty of counterbalancing factors to compensate for inability to examine Mr. A in the court.
+
+<<2871.44;2877.0;en>>
+In particular, the applicant's request to have Mr. A interrogated at the pretrial stage
+
+<<2877.0;2884.2;en>>
+was granted, and she posed questions before him to which the letter gave detailed answers.
+
+<<2884.2;2889.8;en>>
+She could also have filed a motion to carry out an additional interrogation of Mr. A
+
+<<2889.8;2895.16;en>>
+or to have a cross-examination with him during the pretrial stage of the proceedings.
+
+<<2895.16;2898.72;en>>
+Her lawyers could have objected to reading out of Mr. A
+
+<<2898.72;2905.52;en>>
+testimony in a court requesting to postpone the hearing until he had returned from a duty mission.
+
+<<2905.52;2912.24;en>>
+They could have requested that his testimony is given at the pretrial stage be excluded from the case file.
+
+<<2912.24;2920.12;en>>
+The domestic courts shouldn't be liable for defense failure to make use of any of these procedural possibilities.
+
+<<2920.12;2932.64;en>>
+So even if this case is to examine from the standpoint of the principle of Al-Khawaiya and Shachashvili case, there still wouldn't be violation of the applicant's right under Article 6 of the Convention.
+
+<<2932.64;2939.94;en>>
+Distinguished judges, proceedings further, I would cover the applicant's allegation that Mr. A was an agent provocateur.
+
+<<2939.94;2946.44;en>>
+I would like to emphasize that for the first time, the applicant referred to Mr. Aroll as the agent provocateur
+
+<<2946.44;2954.64;en>>
+in her complaint, not to the court of the first instance, not to the appeal to the Russian Supreme Court, but to this international court.
+
+<<2954.64;2964.68;en>>
+At the same time, this court has stressed that an entrapment complaint must be formulated clearly and in good time in the domestic proceedings.
+
+<<2964.68;2970.08;en>>
+The applicant never stated in the course of domestic proceedings that Mr. A had somehow incited her
+
+<<2970.08;2972.44;en>>
+to commit any crimes.
+
+<<2972.44;2988.6;en>>
+The applicant's lawyer first time made the brief comment that the whole criminal case against the applicant was a provocation by the officers of law enforcement bodies and without any clarification which and whose actions exactly resulted in such a provocation.
+
+<<2988.6;2994.84;en>>
+It was done only when the Russian court had already finished examination of all evidences.
+
+<<2994.84;2999.12;en>>
+The applicant and her lawyers, if alleged that Mr. A acted as an agent provocateur,
+
+<<2999.12;3006.0;en>>
+should have taken sufficient procedural measures to state it clear before the domestic court.
+
+<<3006.0;3016.28;en>>
+Therefore, contrary to the court's case law, in particular the case of Khudobin versus Russia, which was mentioned today, there was no arguable plea of entrapment in the domestic proceedings.
+
+<<3016.28;3022.62;en>>
+Nothing said now could render proceedings in the Russian court retrospectively unfair.
+
+<<3022.62;3032.16;en>>
+Even if the court decides to nevertheless examine the agent provocateur ill-founded argument, it would conclude that no breach of Article VI acute.
+
+<<3032.16;3044.82;en>>
+According to the court case law, police entrapment accused when the officers incite the person to commission of an offense that would otherwise not have been committed.
+
+<<3044.82;3054.52;en>>
+Turning to the circumstances of the present case, as it follows from the applicant's own testimonies, after Mr. A gave his mobile phone number to her,
+
+<<3054.52;3059.08;en>>
+it was she who called him seeking help in her rein statement at work.
+
+<<3059.08;3062.92;en>>
+It was she who told him that she was looking for a flat.
+
+<<3062.92;3068.76;en>>
+And it was she who called him immediately after her arrest on 4th of March, 2004.
+
+<<3068.76;3076.44;en>>
+Thus, the most important applicant's interaction with Mr. A accused solely on the initiative of the applicant,
+
+<<3076.44;3078.56;en>>
+but not Mr. A.
+
+<<3078.56;3085.84;en>>
+The applicant further acknowledged to have been aware from the very beginning that Mr. A was a policeman.
+
+<<3085.84;3089.1;en>>
+Neither pretrial testimonies of Mr. A himself,
+
+<<3089.1;3095.62;en>>
+nor the testimonies of other witnesses examined in the court, including witnesses of Mrs. V and Mrs. Khoo,
+
+<<3095.62;3103.24;en>>
+contained any information long to conclude that Mr. A inspiring the applicant to commit any crimes.
+
+<<3103.24;3107.0;en>>
+Vice versa, Mr. A activities as a policeman
+
+<<3107.0;3110.26;en>>
+do not in itself constitute the entrapment.
+
+<<3110.26;3122.84;en>>
+On the contrary, in the case of Romanowskos versus Lithuania, the courts had stressed that police are increasingly requested to make use of undercover agents, informers, and covert practices.
+
+<<3122.84;3130.04;en>>
+The court has thus consistently accepted the use of undercover investigative techniques in combating crime.
+
+<<3130.04;3139.44;en>>
+This court has on several occasions held that undercover operation per se didn't interfere with the right to a fair trial under Article VI.
+
+<<3139.44;3145.92;en>>
+Therefore, the findings of the chamber expressed in paragraph 87 of the judgment are accurate.
+
+<<3145.92;3173.68;en>>
+And I quote, when the applicant's lawyers requested the court to summon A, they didn't explain even briefly why his attendance was important for their line of the defense, whether his actions has amounted to entrapment, or whether he had expected any pressure on the applicant, and finally, whether his testimony would have served no exonerate the applicant or at minimum to strengthen her position in any way.
+
+<<3173.68;3179.6;en>>
+In fact, they didn't explain in all why they wished to have Mr. A summoned.
+
+<<3179.6;3181.32;en>>
+And it's the end of the quote.
+
+<<3181.32;3186.0;en>>
+And I respectfully ask the grand chamber to affirm these findings.
+
+<<3186.0;3194.44;en>>
+Now I will turn to the applicant's other complaint concerning her inability to question attesting witnesses Mr. B and Mrs. K. They were present
+
+<<3194.44;3197.4;en>>
+in the course of her personal search in police station.
+
+<<3197.4;3208.6;en>>
+It follows from the case file that the examination of these witnesses was requested by the defense in order to shed light on the alleged planting of explosive in the applicant's bag.
+
+<<3208.6;3212.2;en>>
+Attesting witnesses are not witnesses on the merits.
+
+<<3212.2;3216.2;en>>
+They are invited by the investigator to act as a neutral observers.
+
+<<3216.2;3222.88;en>>
+They do not testify concerning the circumstances of the case or the defendant's guilt or innocence.
+
+<<3222.88;3234.56;en>>
+On numerous occasions, the applicant explicitly stated in the court that she didn't have any complaints about her personal search itself, that it had been conducted in accordance with the procedural law.
+
+<<3234.56;3242.32;en>>
+What is more, she further stated that she didn't insist on summoning Mrs. B and Mrs. K as the explosives had been
+
+<<3242.32;3247.64;en>>
+allegedly planted in her bag prior to her personal search.
+
+<<3247.64;3256.56;en>>
+According to the national law, the applicant had the right to insist on the exclusion of evidence allegedly obtained by entrapment.
+
+<<3256.56;3260.32;en>>
+However, no motions were filed in this respect.
+
+<<3260.32;3270.14;en>>
+Only persons that could have clarified the facts around the applicant's allegations were police officers who apprehended and searched her.
+
+<<3270.14;3274.92;en>>
+All of them gave testimonies under the oath in the national court.
+
+<<3274.92;3281.84;en>>
+Policewoman who searched applicant's bag was also cross-examined with applicant on the pretrial stage.
+
+<<3281.84;3289.68;en>>
+Thus, the inability of the applicant to question attesting witnesses hasn't violated her rights to a fair trial.
+
+<<3289.68;3305.72;en>>
+With all stated, it becomes clear that the applicant's representative encourages the court to go beyond its subsidiary competence in making a naked attempt to raise the interest of this court in points of some legal principles.
+
+<<3305.72;3309.08;en>>
+However, there is one more fundamental principle.
+
+<<3309.08;3317.36;en>>
+Before any witness is summoned to a court to give evidence, there must be a sensible reason to hear from that witness.
+
+<<3317.36;3325.08;en>>
+The party wanting attendance of the witness must obviously demonstrate why justice requires his attendance.
+
+<<3325.08;3330.6;en>>
+This involves showing that the witness can give relevant and important evidence.
+
+<<3330.6;3334.16;en>>
+The applicant and her lawyers have failed to do that.
+
+<<3334.16;3347.16;en>>
+This honorable court wasn't designed to act as a fourth instance court, and it shouldn't serve as a place for attempting to make up for mistakes and omissions of the applicant's lawyers on the domestic level.
+
+<<3347.16;3354.24;en>>
+Therefore, the government asked to upheld the chamber's judgment and to dismiss all applicant's complaints.
+
+<<3354.24;3362.68;en>>
+Concluding my submissions, I would like, with all due respect to the court and the applicant, to raise final point deserving attention.
+
+<<3362.68;3388.64;en>>
+In my modest opinion, significant questions of combating terrorism and now concern, which will now concern all member states of the Council of Europe, could have been decided in not such clear and ill-founded cases as the present one, but in sophisticated situations which nevertheless hasn't been referred to the ground chamber, as for example, Tagaeva versus Russia case that relates to the murderous terrorist acting Beslan in the same year, 2004.
+
+<<3388.64;3389.56;en>>
+Thank you for your attention.
+
+<<3389.56;3389.56;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3390.43;3393.43;en>>
+Thank you very much, Mr. Galperin.
+
+<<3393.43;3397.19;en>>
+I thank both parties for their submissions.
+
+<<3397.19;3404.51;en>>
+And now I invite my colleagues, the judges of the Grand Chamber, who wish to do so, to put their questions before the parties.
+
+<<3404.51;3404.51;en>>
+I see Judge Vehabović, please.
+
+[[Judge;Faris Vehabović]]
+
+<<3408.97;3410.97;en>>
+Thank you, Mr. President.
+
+<<3410.97;3417.49;en>>
+I have several questions for the government.
+
+<<3417.49;3439.77;en>>
+My first question is why the applicant was put in custody in December 2003, for the first time when she was put in custody, and why she was kept for several days in custody for identity verification.
+
+<<3439.77;3453.27;en>>
+Is that a regular procedure when you perform identity verification to keep someone in custody for several days?
+
+<<3453.27;3467.21;en>>
+Second question, what happened to the remaining 15 videotapes, and why they never heard at the trial?
+
+<<3467.21;3479.85;en>>
+And third question, how it's possible, how come that the police failed to test the applicant's hand for residue?
+
+<<3479.85;3490.45;en>>
+As far as I know, that is a standard procedure to prove connection between subject and object.
+
+<<3490.45;3499.45;en>>
+And why witnesses of her search in a police station were never heard at the trial before the court? Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3500.0;3502.96;en>>
+Thank you very much. Now Judge Griţco, please.
+
+[[Judge;Valeriu Griţco]]
+
+<<3504.36;3505.67;en>>
+Thank you, Mr. President.
+
+<<3505.67;3509.47;en>>
+I have a question for the applicant.
+
+<<3509.47;3522.84;en>>
+In paragraph 48 of applicant's observations to the grand chamber, it stated the following.
+
+<<3522.84;3534.84;en>>
+I quote, the applicant's motion to examine witness A. as the trial was not dismissed by the trial court.
+
+<<3534.84;3538.63;en>>
+Please explain the grounds for this statement.
+
+<<3538.63;3538.63;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3540.05;3542.29;en>>
+Thank you very much. Judge Harutyunyan.
+
+[[Judge;Armen Harutyunyan]]
+
+<<3547.57;3548.77;en>>
+Thank you, Mr. President.
+
+<<3548.77;3553.01;en>>
+I have a question for both sides.
+
+<<3553.01;3561.85;en>>
+What were the procedural mechanisms available to the defense to ensure presence of witness A. at trial and his examination?
+
+<<3561.85;3565.09;en>>
+And did the defense make use of all these mechanisms?
+
+[[JudgeP;Guido Raimondi]]
+
+<<3570.18;3571.59;en>>
+Thank you.
+
+<<3571.59;3572.95;en>>
+Judge Pinto de Albuquerque.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<3574.32;3576.4;en>>
+Thank you, Mr. President.
+
+<<3577.68;3583.4;en>>
+My question is addressed to the government, but of course the applicant may also comment on it.
+
+<<3588.92;3599.2;en>>
+I would like to know why the fingerprints on the packages, alleged packages of explosives were not taken.
+
+<<3599.2;3610.56;en>>
+It seems that these packages and the alleged explosives were destroyed, no sample was taken.
+
+<<3612.16;3623.36;en>>
+So is it a practice that the material evidence is destroyed by police before the trial takes place?
+
+<<3623.36;3638.56;en>>
+Why is it that witnesses B. and K. were not included in the list of witnesses to be summoned to the trial?
+
+<<3638.56;3646.06;en>>
+They were not even included in the list of witnesses to be summoned to the trial hearing.
+
+<<3646.06;3657.26;en>>
+Is this the practice that these so-called attesting witnesses are not even called to the court?
+
+<<3657.26;3671.52;en>>
+And the final point is the one that was raised by the applicant with regard to the interpretation in the light of the Russian case law, the Russian Supreme Court's case law of Article 281.
+
+<<3673.16;3695.36;en>>
+If I understood correctly, I'm not sure that I understood correctly what was proposed to us by the applicant, but if I understood correctly, he was arguing or she was arguing, the applicant, that Article 281 was not even applicable because the witnesses were not even summoned.
+
+<<3695.36;3708.3;en>>
+So for the purposes of this article, they could not and should not even be considered as absent because they were not even summoned.
+
+<<3708.3;3709.96;en>>
+Is this so?
+
+<<3709.96;3714.84;en>>
+Is this in line with the Russian Supreme Court's case law?
+
+<<3714.84;3720.52;en>>
+Because then we are talking about a totally different legal scenario.
+
+<<3720.52;3721.6;en>>
+So these are my questions.
+
+<<3721.6;3722.44;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3722.44;3722.96;en>>
+Thank you.
+
+<<3723.05;3724.05;en>>
+Thank you very much.
+
+<<3724.05;3725.05;en>>
+Judge Yudkivska, please.
+
+<<3725.05;3725.05;en>>
+Thank you.
+
+[[Judge;Ganna Yudkivska]]
+
+<<3727.8;3728.8;en>>
+Thank you very much.
+
+<<3728.8;3732.0;en>>
+I have one question to the applicant.
+
+<<3732.0;3745.76;en>>
+Apart from the fact that Mr. A, according to your submissions, organized video surveillance of the applicant, what other his actions, if any, could qualify his role as agent provocateur?
+
+<<3745.76;3745.76;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3746.84;3748.12;en>>
+Thank you very much.
+
+<<3748.12;3749.22;en>>
+Thank you. Judge Eicke please.
+
+[[Judge;Tim Eicke]]
+
+<<3750.91;3751.75;en>>
+Thank you very much.
+
+<<3751.75;3754.39;en>>
+This is a question to the applicant.
+
+<<3754.39;3776.91;en>>
+The government in its written observations to the Grand Chamber in paragraphs 41 and 44, and again in paragraph 104, suggested that the record shows that the acceptance by the applicant's lawyers and by the applicant herself for the record of the statement of witness A. to be read amounts to a waiver.
+
+<<3776.91;3780.43;en>>
+Are there any further submissions you want to make in response of that?
+
+<<3780.43;3789.57;en>>
+And also address the point why the Grand Chamber should not take as a point of admissibility and therefore declare this case inadmissible?
+
+<<3789.57;3790.45;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3790.45;3790.95;en>>
+Thank you.
+
+<<3790.59;3810.99;en>>
+Thank you very much. There are no futher questions so the court will withdraw for 20 minuts. Following which the parties will be able to submit brief observations in replies to eachtotherse submisson and reply to the questions of the judges. The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4172.69;4173.29;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4207.65;4209.01;en>>
+Please be seated.
+
+<<4219.19;4223.05;en>>
+The hearing is resumed and I call Mr. Koroteev.
+
+<<4223.05;4223.05;en>>
+Please, you have the floor.
+
+[[Applicant;AP1]]
+
+<<4224.5;4226.34;en>>
+Thank you, Mr. President.
+
+<<4226.34;4235.82;en>>
+I will firstly make some brief comments on the government submissions and then move to the judges' questions.
+
+<<4235.82;4247.72;en>>
+Firstly, with regard to nature of witness Akhmayev as only a defense witness, the responding government submitted that persecution never relied on his evidence.
+
+<<4247.72;4258.26;en>>
+But that is not correct, as his statement is entered as part of the indictment of 7 December 2004.
+
+<<4258.26;4267.26;en>>
+And also, it was persecution who moved to read his statement out.
+
+<<4267.26;4273.58;en>>
+And finally, it was relied upon both by the trial and the appeal courts.
+
+<<4273.58;4290.74;en>>
+Secondly, the responding government said that it is the role of the defense, not the court, to ensure Akhmayev's presence for the reason that the court doesn't act for persecution or for defense.
+
+<<4290.74;4297.7;en>>
+But we say it was the trial court who had the obligation to compel witness to attend.
+
+<<4297.7;4305.34;en>>
+And that is because Russian Code of Criminal Procedure provides for active role of the judge in the conduct of the trial.
+
+<<4305.34;4311.58;en>>
+And for her powers to make multiple procedural decisions of her own motion.
+
+<<4311.58;4327.42;en>>
+And that includes powers to hold preliminary hearing, to refer case back to prosecutor, to amend the charges, to obtain forensic expert report, to put questions to witness, and importantly, to decide to read out the statement of an absent witness.
+
+<<4327.42;4337.06;en>>
+So the court is, under Russian law, is also a body that produces evidence.
+
+<<4337.06;4352.1;en>>
+Now, the responding government said the defense has never challenged the witness's absence on duty mission.
+
+<<4352.1;4360.6;en>>
+Well, it is impossible to do so in the absence of disclosure of documents that justify that mission.
+
+<<4360.6;4364.5;en>>
+These documents are in sole possession of authorities.
+
+<<4364.5;4374.3;en>>
+And it is the state who controls the missions and generally the agenda of a policeman who witness a vaults.
+
+<<4374.3;4380.26;en>>
+So the state controlled where he was at which point in time.
+
+<<4380.26;4390.86;en>>
+Now, the government's reference to our paragraph 9 of written submissions is obviously taken out of the context.
+
+<<4390.86;4399.26;en>>
+Because the reasons for the request to call Mr. Akhmayev at the trial
+
+<<4399.26;4402.14;en>>
+were not entered in the trial record.
+
+<<4402.14;4413.7;en>>
+And that was because the motion was just after the applicant concluded, given her evidence, which set out Akhmayev's role in detail.
+
+<<4413.7;4428.98;en>>
+And also, Article 259 of the Code of Criminal Procedure obliges the court to record evidence in detail, but doesn't require the court to enter every reason of every motion in the trial record.
+
+<<4428.98;4439.42;en>>
+Anyway, it is the applicant's evidence that she gave that was the decisive grounds for her motion to call Mr. Akhmayev.
+
+<<4439.42;4441.34;en>>
+I now turn to judge's question.
+
+<<4441.34;4457.0;en>>
+And I start with question of Judge Icke concerning the waiver argument, whether the applicant waived her rights by agreeing to reading out Mr. A's statement.
+
+<<4457.0;4458.52;en>>
+We say that was not the case.
+
+<<4458.52;4462.94;en>>
+And this issue was raised by the chamber in the communication.
+
+<<4462.94;4467.66;en>>
+And it was subsequently dismissed, and for a reason.
+
+<<4467.66;4482.12;en>>
+The applicant only agreed to reading out the statement when she was informed, and her defense was informed, of the impossibility to question witness A in person.
+
+<<4482.12;4490.5;en>>
+So first, the judge says, well, it won't be possible to call A for questioning because he's on a duty mission.
+
+<<4490.5;4495.74;en>>
+And then, prosecutor proposes to read his statement out.
+
+<<4495.74;4503.42;en>>
+So when agreeing to that, the applicant, as we said earlier today, had no other option available.
+
+<<4503.42;4508.74;en>>
+She was not able to compel Mr. A to attend when the presiding
+
+<<4508.74;4511.14;en>>
+judge told she wouldn't be.
+
+<<4511.14;4517.62;en>>
+So this is not a waiver, unlike Vozhigov against Russia.
+
+<<4517.62;4524.02;en>>
+And this also relates to Judge Spinter, the Albuquerque question.
+
+<<4524.02;4539.52;en>>
+We indeed said that Article 281, paragraph 1, requires the judge to seek opinion concerning reading out the absent witness's statements.
+
+<<4539.52;4547.46;en>>
+So it requires first that the witness be properly summoned, and that attempts to bring him by force fail.
+
+<<4547.46;4551.38;en>>
+Then the judge may put such question to the parties.
+
+<<4551.38;4559.54;en>>
+So that is what Article 281 is about, and it was not respected.
+
+<<4559.54;4567.94;en>>
+Now, I move to question of Judge Grichko concerning the failure to enter a decision.
+
+<<4567.94;4574.34;en>>
+Well, in the trial record, there is a record of the motion of the applicant's lawyer, Mr.
+
+<<4574.34;4577.38;en>>
+Suvorov, to call Mr. A for questioning.
+
+<<4577.38;4588.18;en>>
+Now, the Code of Criminal Procedure obliges the judge to take a decision on the motion, which is also recorded in the trial record.
+
+<<4588.18;4595.7;en>>
+Now, what we see in the trial record is that there is no decision saying the motion is denied.
+
+<<4595.7;4599.3;en>>
+There is no decision saying motion is granted.
+
+<<4599.3;4609.3;en>>
+But what follows the applicant's lawyer's motion is a statement from a trial judge saying that Mr. A is on duty mission,
+
+<<4609.3;4616.7;en>>
+and it is impossible to call him for questioning.
+
+<<4616.7;4633.3;en>>
+Now, I move to the question of Judge Arutunyan about the procedural mechanisms available to the applicant.
+
+<<4633.3;4641.82;en>>
+And this, the only mechanism we say, is filing a motion to call the witness for questioning.
+
+<<4641.82;4649.9;en>>
+This is exactly what defense did after the applicant gave evidence on 13 of January 2005.
+
+<<4649.9;4663.86;en>>
+And then the court informed the parties of the impossibility to call the witness A, and the defense was not able to do anything more.
+
+<<4663.86;4668.3;en>>
+The defense, by the way, complained about this in the appeals.
+
+<<4668.3;4677.78;en>>
+And the applicant's lawyer, Suvorov, raised in his appeal these points in detail.
+
+<<4677.78;4692.18;en>>
+And we say the role of the court is, of course, to provide parties with accurate information, whereas any deceit is, especially on the defendant, is impossible.
+
+<<4692.18;4699.58;en>>
+We may refer here to the Court of Appeals of England and Wales in Regina and Mason.
+
+<<4699.58;4710.82;en>>
+Now, moving to the Judge Utkivska's question, we say that the, well, that Mr. A established
+
+<<4710.82;4713.14;en>>
+contact with the applicant.
+
+<<4713.14;4714.94;en>>
+He met her several times.
+
+<<4714.94;4716.7;en>>
+He gave her a book.
+
+<<4716.7;4723.5;en>>
+He arranged for the flat that was videotaped and audiotaped.
+
+<<4723.5;4737.7;en>>
+And importantly, he gave her advice on 4 March 2004 to follow the policeman who arrested her on the grounds that she had no residence registration.
+
+<<4737.7;4746.7;en>>
+This advice was in clear violation of Russian law from a policeman who is supposed to know the law.
+
+<<4746.7;4753.94;en>>
+The police had no powers to arrest the applicant, but it did then the explosives were found in her bag.
+
+<<4753.94;4756.94;en>>
+And that is because of his advice.
+
+<<4756.94;4764.42;en>>
+Now, finally, I would like to comment on Judge Zvihabovich's question to the government.
+
+<<4764.42;4771.06;en>>
+And that relates to the applicant's arrest in 2003.
+
+<<4771.06;4777.86;en>>
+It was a massive roundup of persons of Chechen ethnic origin.
+
+<<4777.86;4786.98;en>>
+And the applicant was questioned in detail about her family, about her family members that were living in Moscow.
+
+<<4786.98;4791.58;en>>
+And, well, eventually she was released without charges.
+
+<<4791.58;4812.42;en>>
+And I also point out to the trial record in this case, which say that the police located the applicant, they say, the policeman who arrested her, because she was looking as a person whose origins are from the Caucasus.
+
+<<4812.42;4821.66;en>>
+So such police actions were not unheard of at the time in Moscow.
+
+<<4821.66;4826.1;en>>
+So this concludes the applicant's oral submissions.
+
+<<4826.1;4830.66;en>>
+And unless we can, of course, assist the court any further.
+
+<<4830.66;4830.66;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4831.4;4833.88;en>>
+Thank you very much, Mr. Koroteev.
+
+<<4833.88;4835.34;en>>
+Now I call Mr. Galperin.
+
+<<4835.34;4835.34;en>>
+Please, you have the floor.
+
+[[Government;GR1]]
+
+<<4837.85;4838.61;en>>
+Thank you.
+
+<<4838.61;4839.41;en>>
+Thank you very much.
+
+<<4839.41;4844.91;en>>
+And first, I would like to comment on some opponent counsel's allegations.
+
+<<4844.91;4851.89;en>>
+First, surely the court in Russia should be active, but it's not the medieval court.
+
+<<4851.89;4856.65;en>>
+So it has no authority to call witnesses by its own initiative.
+
+<<4856.65;4859.29;en>>
+It is not about Russian court at all.
+
+<<4859.29;4872.85;en>>
+And secondly, and I now understand why we have some misrepresentations and confusing from the opponent counsel part since I think that we use different texts of Russian criminal procedure codes.
+
+<<4872.85;4878.69;en>>
+And now from the permission of the court, I will quote this article 281.
+
+<<4878.69;4880.17;en>>
+And it is rather short.
+
+<<4880.17;4886.53;en>>
+The first, the name of the article is just the reading out of the witness statements.
+
+<<4886.53;4889.07;en>>
+It's not about absent witnesses at all.
+
+<<4889.07;4891.61;en>>
+And first point is a general rule.
+
+<<4891.61;4911.01;en>>
+It says that reading out of the witness statements which were made before on the investigation stage or during the court proceedings is permissible upon the agreement of the both parties in case the witness is absent.
+
+<<4911.01;4913.69;en>>
+So there is no any special reasons for that.
+
+<<4913.69;4919.13;en>>
+Unless it is the minor witness, which is under 18 years, but it's not the case.
+
+<<4919.13;4925.57;en>>
+And unless it is part two of article 281.
+
+<<4925.57;4949.21;en>>
+And the clause two of the article, it is the special rule which says that there are circumstances, for example, the death of the witness or it's heart disease or whatever, when court can do that without consent of both parties, but upon the motion from one party or under the court's own initiative.
+
+<<4949.21;4953.37;en>>
+So that's the article 281.
+
+<<4953.37;4961.65;en>>
+And from the permission of court, I will now go to answering the honorable judge's questions.
+
+<<4961.65;4968.33;en>>
+And first, questions from the Judge Vyhabovich about the custody on December 2003.
+
+<<4968.33;4979.49;en>>
+And it is not relates to the maybe to the present proceeding since it was not article 5 consideration here, but under the witness statements.
+
+<<4979.49;4985.97;en>>
+And it's a witness statement of what was the mother of one of the applicant's flatmates.
+
+<<4985.97;4987.89;en>>
+She stayed there only for one day.
+
+<<4987.89;4990.97;en>>
+So it wasn't several days when she stayed there.
+
+<<4990.97;5001.17;en>>
+And I would like to point the court's attention that this apprehension was never objected by the applicant in Russian court.
+
+<<5001.17;5010.05;en>>
+And also, according to the letter to the Grand Chamber, the subject matter of the present proceeding concerns the issue of right of Mr. A.
+
+<<5010.05;5019.53;en>>
+Regarding the other videotapes, I would like to point out that all transcripts of all videotapes were in a case file.
+
+<<5019.53;5032.89;en>>
+But the prosecutors referred only to the video scribes from only one videotape, which was used as the prosecutor's evidences.
+
+<<5032.89;5042.85;en>>
+But all videotapes, scribes were in a case file and they are in a case file.
+
+<<5042.85;5065.97;en>>
+As regard to the question of witnesses, including the attesting witnesses which were not had, it is important to understand that also, according to the adversarial nature of Russian criminal procedure, it only that witnesses who are called by the defense or by the prosecutors aside could be had and would be had in the court.
+
+<<5065.97;5077.01;en>>
+And since no defense, no prosecutors asked for the attesting witnesses to be had in the court, they were dismissed that they were not called to the court at all.
+
+<<5077.01;5089.41;en>>
+And in particular, they were not also asked on the investigation stage and pretrial stage because there was no objection or motion from the parties on that.
+
+<<5089.41;5104.01;en>>
+And therefore, also by failing to amend the list of witnesses on pretrial stage and by failing to ask the court to summon them attesting witnesses, the applicant has explicitly waived her right to question those witnesses.
+
+<<5104.01;5109.33;en>>
+And the court may not decide this issue on its own initiative.
+
+<<5109.33;5118.17;en>>
+And in any event, these attesting witnesses were not questioned in the pretrial stage, as I said, and no one from the party decided to do that.
+
+<<5118.17;5128.81;en>>
+And also, it was unreasonable to ask them since there was no objection from the applicant's part about the procedure of the search of her bag.
+
+<<5128.81;5145.01;en>>
+And as I also mentioned in my presentation, the policemen who really participated in that, all of them were examined in the court and asked the question who were present during the search of the bag.
+
+<<5145.01;5156.25;en>>
+Regarding Judge Arutyunyan's question, what possibilities could be used by the applicant and applicant lawyers, and I think I have listed them in my speech.
+
+<<5156.25;5159.65;en>>
+And it is really plenty of possibilities for them.
+
+<<5159.65;5162.53;en>>
+They could file new motions to summon Mr. A.
+
+<<5162.53;5165.09;en>>
+They could request to postpone the hearing.
+
+<<5165.09;5168.77;en>>
+They could challenge the information that he was on a mission.
+
+<<5168.77;5188.01;en>>
+And I would remind the Honorable Court that it was the defense witness and the defense had an address and telephone of this witness and could ensure by themselves to put him to the court, as the defense did with other defense witnesses.
+
+<<5188.01;5201.21;en>>
+Regarding Judge Albuquerque's questions about the fingerprints, which were not taken, it is also hardly understandable which exactly resonated to this matter.
+
+<<5201.21;5208.97;en>>
+But the fingerprints were not taken since the applicant herself took her belongings from her bag during the search.
+
+<<5208.97;5212.45;en>>
+And that is why they were there.
+
+<<5212.45;5215.81;en>>
+There were clearly her fingerprints were on that things.
+
+<<5215.81;5226.17;en>>
+And the same situations appears, for example, in the airport when the passenger by himself put his belongings from the bag.
+
+<<5226.17;5236.57;en>>
+And also that is why there were no fingerprints uprooted in this case.
+
+<<5236.57;5238.61;en>>
+So if there is no any further question, thank you very much for your attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5240.95;5243.45;en>>
+Thank you very much Mr. Galperin.
+
+<<5243.45;5245.95;en>>
+We have now come to the end of the hearing.
+
+<<5245.95;5251.95;en>>
+I thank the parties for their submissions and answers to the court's questions.
+
+<<5251.95;5256.45;en>>
+The court will now deliberate on the merits.
+
+<<5256.45;5263.45;en>>
+The judgment will be delivered later and the parties will be informed of the date of delivery.
+
+<<5263.45;5264.45;en>>
+I declare the hearing closed.
+

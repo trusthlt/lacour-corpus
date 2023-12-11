@@ -1,0 +1,988 @@
+[[Announcer;UNK]]
+
+<<21.1;21.86;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<64.11;65.23;en>>
+Please be seated.
+
+<<74.43;85.23;en>>
+I declare open the public hearing on the admissibility and merits in the case of Nicolae Virgiliu Tănase versus Romania.
+
+<<85.23;101.19;en>>
+The application was lodged with the court on 21 June 2013 under Article 34 of the Convention by a Romanian national, Mr. Nicolae Virgiliu Tănase.
+
+<<101.19;115.35;en>>
+The application was allocated first to the third section of the court and subsequently to its fourth section, pursuant to Rule 52, Paragraph 1 of the rules of the court.
+
+<<115.35;125.39;en>>
+The application was communicated to the government on 17 April 2014 and on 2 June 2015.
+
+<<125.39;129.51;en>>
+They were invited to address further questions.
+
+<<129.51;139.43;en>>
+On 18 May 2017, the chamber decided to relinquish jurisdiction in favor of the Grand Chamber.
+
+<<139.43;143.83;en>>
+The governments are represented by their agent, Mrs.
+
+<<143.83;151.45;en>>
+Catrinel Brumar of the Ministry of Foreign Affairs, assisted by Mrs. Manuela Ludușan of the same Ministry,
+
+<<151.45;153.99;en>>
+Council, and by Mr. Liviu Bleoca,
+
+<<153.99;159.47;en>>
+Deputy Permanent Representative of Romania to the Council of Europe.
+
+<<159.47;164.19;en>>
+The applicant is represented by Mr. Doru Iulian Tănase,
+
+<<164.19;165.15;en>>
+Council.
+
+<<165.15;168.03;en>>
+The applicant is not present.
+
+<<168.03;172.39;en>>
+I welcome the representatives in the name of the court.
+
+<<172.39;193.75;en>>
+I also welcome the delegations of judges from the Supreme Court of Justice of Moldova, of members of the Belgian Council of State and of the Turkish Council of State, of judges from France, Norway, and Poland, of judges and prosecutors from the former Yugoslav Republic of Macedonia.
+
+<<193.75;214.11;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Turkish, Macedonian, and Polish has been authorized for the benefit of the groups of Turkish, Macedonian, and Polish judges and prosecutors attending this hearing.
+
+<<214.11;224.03;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<224.03;232.83;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<232.83;235.87;en>>
+Mrs. Brumar, followed by Mrs. Ludușan,
+
+<<235.87;240.55;en>>
+for the government will speak first, and then Mr. Tănase for the applicant.
+
+<<240.55;241.71;en>>
+I call Mrs. Brumar.
+
+<<241.71;241.71;en>>
+Please, you have the floor.
+
+[[Government;GR2]]
+
+<<246.7;251.38;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, je vous remercie pour m'avoir donné la parole.
+
+<<251.7;259.58;fr>>
+Comme chaque fois, c'est un honneur pour nous de comparaître devant la Grande Chambre en tant que représentant du gouvernement romain pour présenter sa position.
+
+<<260.5;271.58;fr>>
+Pour ma part, je soumettrai à votre attention les éléments les plus importants relatifs aux particularités de la présente affaire, ainsi que nos arguments sur la question de l'appuieusement de votes de recours inter.
+
+<<272.1;295.18;fr>>
+Ma collègue me succédera, présentant les aspects pertinents dans l'analyse de l'applicabilité des articles 2 et 3 de la Convention, pris sous leur volet procédural en ce qui concerne l'enquête pénale menée suite à l'accident impliqué le récréant, respectivement de l'article 3, pris sous son volet matériel en ce qui concerne l'allégation de mauvais traitements subis de la part des organes d'enquête.
+
+<<296.1;305.5;fr>>
+Nous restons conscientes du fait que notre plaidoirie ne couvre pas tous les aspects soulevés par les questions transmises afin de guider nos observations écrites.
+
+<<305.7;313.38;fr>>
+Les limites de temps empêchent une démarche plus exhaustive, mais les arguments du gouvernement développés dans le cadre de ces observations restent valables.
+
+<<314.7;331.62;fr>>
+Mesdames, Messieurs les juges, la présente affaire fut portée à votre attention suite à un dessaisissement de la chambre constituée au sein de la 4e section et trouve son origine dans un accident de la route où le récréant fut impliqué en tant que conducteur et qui lui produisit des lésions.
+
+<<331.62;346.94;fr>>
+Avant de plonger dans la substance des arguments développés par le gouvernement, permettez-moi d'apporter quelques précisions préliminaires afin de bien calibrer tant les faits que l'étendue de l'analyse que le cas présente demande à notre avis de la grande chambre.
+
+<<347.62;349.5;fr>>
+M. le Président, en premier lieu,
+
+<<349.7;351.5;fr>>
+un bref rappel de faits s'impose.
+
+<<351.9;363.18;fr>>
+Le 3 décembre 2004, le récréant fut impliqué dans un accident de la route qui lui produisit des lésions traumatiques nécessitant entre 200 et 250 jours de soins médicaux.
+
+<<363.78;369.66;fr>>
+En court temps, après l'occurrence de l'accident, les organes judiciaires ont procédé à une enquête sur le lieu.
+
+<<370.26;382.94;fr>>
+Le déroulement de l'enquête montre que déjà en septembre 2005, des poursuites pénales furent initiées in arrem pour ce qui est de la commission de l'infraction d'attentes involontaires graves à l'intégrité corporelle.
+
+<<383.54;390.18;fr>>
+Les conducteurs de véhicules impliqués dans l'accident et les témoins oculaires furent auditionnés dans le plus bref des possibles.
+
+<<390.38;394.14;fr>>
+Des expertises techniques et médico-légales furent administrées.
+
+<<394.34;403.58;fr>>
+Les spécifications techniques et les modalités d'usage du véhicule en panne, qui par son stationnement paraissait avoir déclenché l'accident, furent vérifiées.
+
+<<404.14;406.22;fr>>
+Le récréant participa à la procédure.
+
+<<406.42;410.54;fr>>
+Étant donné son état de santé, son audition immédiate ne fut pas possible.
+
+<<410.74;419.14;fr>>
+Mais le 6 juin 2005, il donna une courte déclaration précisant son intention de participer à la procédure en tant que parti civil.
+
+<<419.34;423.74;fr>>
+Son avocat participa au déroulement de plusieurs actes de procédure.
+
+<<423.94;431.34;fr>>
+Le gouvernement admet que la procédure connut plusieurs reprises, ordonnées par les instants judiciaires, sur recours du récréant.
+
+<<431.54;443.82;fr>>
+En même temps, ces reprises permirent que tout l'avantage des preuves pertinentes pour une meilleure compréhension de la dynamique de l'accident et des comportements des personnes impliquées soient administrées.
+
+<<443.82;448.18;fr>>
+Dans le déroulement de cette enquête, deux éléments sont à souligner.
+
+<<448.38;469.02;fr>>
+Le premier tient à l'étendue que prit l'investigation après le 30 septembre 2011, quand le tribunal de première instance de Bucarest décida que les poursuites devraient continuer seulement par rapport aux faits commis par le chauffeur du véhicule qui avait projeté la voiture conduite par le récréant sur le camion stationné.
+
+<<469.22;472.98;fr>>
+Le deuxième élément vise la solution apportée à l'enquête.
+
+<<472.98;491.94;fr>>
+Par un jugement de 21 décembre 2012, le tribunal de première instance de Ploiești confirma que, par rapport à la peine prévue pour l'infraction d'attente involontaire grave à l'intégrité corporelle, le délai de prescription était de 5 ans et que ce délai avait été dépassé par sa moitié.
+
+<<492.18;518.82;fr>>
+Des informations à notre disposition, après la finalisation de l'enquête pénale, à cause de l'intervention de la prescription de la responsabilité pénale, le récréant a été le premier à choisir de ne pas ententer une action en responsabilité civile délictuelle contre la personne que le tribunal de première instance de Bucarest avait indiqué comme avoir contribué de manière coupable à la collision entre son véhicule et le véhicule conduit par le récréant.
+
+<<520.46;534.5;fr>>
+Mesdames, messieurs les juges, il ressort de cet exposé factuel reduit à l'essentiel qu'aucun comportement des personnes impliquées dans l'événement mal reproduit n'a eu un élément d'intention ni même en direct, ni même de passé.
+
+<<535.14;553.18;fr>>
+En 2e lieu, bien que le récréant ait souffert des lésions traumatiques sérieuses que le gouvernement ne nie pas, et bien que ces lésions eussent un potentiel de risque pour sa vie, elles n'ont pas provoqué de conséquences qui puissent les qualifier de porteuses d'un danger évident de décès.
+
+<<554.7;572.22;fr>>
+Nous allons en revenir sur ces aspects, mais toujours à ce stade, il faut mettre en évidence que le récréant, même suite à la demande expresse de la Grande Chambre, n'a présenté aucun document médical de date récente qui puisse attester l'impact actuel de l'accident de la route sur son état de santé.
+
+<<572.86;581.5;fr>>
+Qui plus est, le récréant a été encadré en tant que personne avec un handicap grave à partir du 26 janvier 2006.
+
+<<582.5;589.3;fr>>
+En considération des suivantes souffrances, asthme, état de mal asthmatique et tumeurs malignes du larynx.
+
+<<589.3;599.7;fr>>
+Aucun problème médical et aucun lien de causalité établi par rapport à l'accident n'est mentionné dans l'évaluation du grade d'handicap que présente le récréant.
+
+<<600.66;608.42;fr>>
+Un dernier aspect qui nécessite des commentaires à ce stade préliminaire vise l'objet de la requête tel que décrit par le récréant lui-même.
+
+<<609.18;630.02;fr>>
+Les lettres versées par celui-ci, assistées d'un avocat, indiquent clairement que celui-ci n'entend pas se plaindre des violations de l'article 2, ni même de l'article 3 sous le volet procédural, mais seulement d'une allégée existence d'un traitement inhumain résultant de la modalité dans laquelle l'enquête pénale s'était déroulée.
+
+<<630.7;641.82;fr>>
+Pour citer ses propres mots, la préoccupation principale des organes et des institutions de l'Etat n'a pas été d'établir la vérité, mais de dénaturer la réalité et de cacher la vérité.
+
+<<642.42;647.98;fr>>
+Tout ça, c'est simplement humiliation et traitement dégradant inhumain. Fin de la citation.
+
+<<649.9;660.46;fr>>
+Le gouvernement n'entend d'aucune manière mettre en doute la maîtrise qu'à votre cours pour donner la qualification juridique la plus appropriée au crié formulé par une partie requérante.
+
+<<661.34;672.22;fr>>
+Ce faisant, l'intention du requérant exprimée dans sa requête introductive, ainsi que dans son mémoire de 25 février 2015, a été claire dans l'expression des limites de sa plainte.
+
+<<672.22;686.5;fr>>
+Comme votre cours même le précise dans son arrêt faute et autre contre l'Italie, le système international de sauvegarde instauré par la Convention fonctionne sur les bases de requêtes gouvernementales ou individuelles alléguant des violations.
+
+<<687.06;706.66;fr>>
+Il n'habilite pas la Cour à se saisir d'un cas dont elle aurait eu vent par une source quelconque, ni même à la faveur d'une instance engagée devant elle à s'emparer des faits non signalés par le demandeur, état ou sample particulier, et à en vérifier la compatibilité avec la Convention.
+
+<<706.86;743.86;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, en me tournant maintenant vers la question de l'appuie de mots de voix de recours en terre, tel que la Grand-Chambre l'a réaffirmé dans son arrêt de 25 mars 2014 dans l'affaire Vukovic et autres contre Serbie, à la lumière du caractère subsidiaire du mécanisme de sauvegarde instauré par la Convention, il est absolument nécessaire que les autorités nationales aient la possibilité de veiller, en tant que premier gardien de la Convention, à ce que les droits et les libertés fondamentaux y consacrés soient respectés et protégés au niveau interne.
+
+<<744.06;758.58;fr>>
+Mais quelle est la voix interne que peut emprunter une personne afin de faire valoir ses griefs relatifs à une allégée attente à son intégrité physique, en l'absence de toute intention volontaire des auteurs présumés de ce comportement?
+
+<<758.58;783.58;fr>>
+La réponse constante qu'apporte votre recours dans pareil contexte indique que si l'attente au droit à la vie ou à l'intégrité physique n'est pas volontaire, l'obligation positive de mettre en place un système judiciaire efficace n'exige pas nécessairement dans tous les cas un recours donateur pénal et qu'il peut y être satisfait par l'offre de recours donateurs civils, administratifs ou même disciplinaires.
+
+<<783.82;784.98;fr>>
+Fin de la citation.
+
+<<784.98;813.38;fr>>
+Or, dans la présente affaire, face à l'opposition de la prescription de la responsabilité pénale, le requérant avait à sa disposition la voix d'une action à responsabilité délictuelle contre la personne identifiée ayant contribué à la production de l'accident de la route afin de se voir dédommagée pour le préjudice matériel et moral causé par l'accident du 3 décembre 2004, proportionnel avec la contribution coupable de cette personne.
+
+<<813.38;835.18;fr>>
+Le gouvernement est d'avis qu'une telle démarche était ouverte au requérant en plan interne et que ni sa constitution en tant que parti civil dans la procédure pénale, ni le constat visant la prescription de la responsabilité pénale, ni même le temps écoulé entre la date de l'accident et la finalisation de l'enquête pénale ne rendent ineffective ou inutile un tel recours.
+
+<<835.18;859.18;fr>>
+En conformité avec le droit interne en vigueur à l'époque des faits, le requérant, se considérant victime d'une infraction, avait la possibilité soit de se constituer parti civil contre l'accusé, l'inculpé ou la partie civilement responsable dans le procès pénal, soit de saisir les juridictions civiles d'une action en dommage intérêt pour la réparation du préjudice causé par le délit.
+
+<<859.18;879.18;fr>>
+Le but de deux démarches était le même, à savoir obtenir réparation pour les préjudices soufferts et les deux voies d'action ouvraient le même type d'analyse de la part des instances nationales, à savoir la réunion des conditions pour l'engagement de la responsabilité civile délictuelle. Toutefois, la poursuite d'une action civile
+
+<<879.18;891.18;fr>>
+dans le cadre d'un procès pénal, l'action civile étant accessoire à la procédure principale de nature criminelle, dépendait, et dépend toujours dans certains cas, de la solution apportée à l'action pénale.
+
+<<891.18;919.18;fr>>
+Ainsi, si en règle générale, l'instance pénale saisit par un requisitoire et qui décide de la condamnation, de la quittement ou de la relaxe, devait solutionner par la même décision l'action civile en dommage intérêt, il existait aussi quelques exceptions empêchant le tribunal pénal de se prononcer sur le volet civil, exception qui ne prévenait pas la partie laissée de saisir avec une action séparée l'instance civile.
+
+<<919.18;947.18;fr>>
+En même temps, il est à souligner que cette obligation qui pèse en règle générale sur l'instance pénale, de solutionner l'action civile accessoire à l'action pénale, n'intervient que dans le cas où l'instance 1 est saisie par l'intermédiaire du requisitoire ou dans le cas de l'admission d'une plainte contre une solution d'honneur en voie à jugement, si elle décide, dans les limites de la loi, de retenir l'affaire pénale pour analyse.
+
+<<947.18;967.18;fr>>
+Par contre, dans la procédure de la plainte contre la solution de procureur d'honneur en voie à jugement, qui a pour seul but le contrôle de la légalité du bien fondé de la solution apportée par rapport au volet pénal, le règlement d'une éventuelle action civile excéder l'objet de la plainte prévue par le Code de procédure pénale.
+
+<<967.18;992.18;fr>>
+Toutefois, à partir des dispositions reproduites en résumé d'un appelé doré, appliqué par analogie dans le cas d'une solution d'honneur en voie à jugement, il ressort avec évidence que la partie lésée avait la possibilité de saisir l'instance civile avec une action séparée dans le cas d'une solution d'honneur en voie à jugement fondée sur les motifs suivants. Le fait n'était pas prévu par la loi pénale
+
+<<992.18;996.18;fr>>
+ou ne présentait pas le décret de danger social d'une infraction.
+
+<<996.18;1007.18;fr>>
+Le fait ne remplissait pas tous les éléments constitutifs d'une infraction, l'existence d'une cause qui enlevait le caractère pénal des faits ou l'intervention de l'amnistie ou de la prescription de la responsabilité pénale.
+
+<<1007.18;1015.18;fr>>
+La doctrine considérait également qu'il n'y avait aucun obstacle dans l'analyse de l'action civile dans ces cas. En effet, les seuls cas
+
+<<1015.18;1026.18;fr>>
+qui pourraient être interprétés comme un obstacle pour l'exercice d'une action civile séparée sont l'inexistence de faits reprochés ou le constat que le fait n'a pas été commis par l'inculpé.
+
+<<1026.18;1038.18;fr>>
+Dans la présente affaire, comme déjà précisé, le requérant n'a pas introduit une action à responsabilité civile délictuelle devant les instances civiles. Toutefois, une telle démarche était accessible et utile.
+
+<<1038.18;1066.18;fr>>
+Son accessibilité est montrée, outre les dispositions légales, par la pratique des instances nationales, qui considèrent que, dans le cas où le requérant avait participé en tant que parti civil dans un procès pénal finalisé par une solution de non-lieu, la formulation d'une action civile dans le procès pénal déterminait l'interruption du délai de prescription du droit de saisir de manière séparée de l'instance civile. Un nouveau délai de prescription commençait
+
+<<1066.18;1070.18;fr>>
+à courir à partir de la date de la finalisation de l'enquête relance.
+
+<<1070.18;1095.18;fr>>
+La jurisprudence des instances internes versées au dossier de la présente affaire couvre une période contemporaine au fait de l'affaire, de manière que le requérant, de formation magistrale et aux besoins entourés de conseils éclairés, ne pouvaient pas ignorer le fait qu'il se trouvait encore dans les limites temporelles antérieures à l'échéance du délai de prescription. Cette pratique des instances nationales
+
+<<1095.18;1115.18;fr>>
+qui considéraient que le délai de prescription du droit de saisir l'instance civile était interrompu pendant l'enquête pénale était majoritaire à l'époque et a trouvé sa consécration législative expresse dans le nouveau Code civil, aspect qui témoigne de sa constance et de sa cohérence.
+
+<<1115.18;1147.18;fr>>
+La Cour a eu, elle aussi, la possibilité d'observer la pratique pertinente de l'instance roumaine dans des affaires telles que l'affaire Kodar Tchakonkri-Roumani, où l'action en responsabilité civile délictuelle formulée par le requérant en 2004, après le constat de l'intervention de la prescription de la responsabilité pénale pour des préjudices issus d'une intervention chirurgicale ayant eu lieu en 1996, a été accueillie de manière irrévocable en 2008.
+
+<<1147.18;1174.18;fr>>
+Bien sûr, sur ce point, le problème réel n'est pas représenté par l'impossibilité de l'instance pénale, saisie du contrôle de la légalité ou bien fondée de la solution de non-renvoi à jugement, de solutionner une action civile, mais par le délai nécessaire pour la solution de l'action civile dans le cas d'un non-lieu justifié par la prescription de la responsabilité pénale. Pourtant, dans un tel cas, le même délai,
+
+<<1174.18;1189.18;fr>>
+le même retard serait applicable dans le cas de la solution de l'action civile par l'instance pénale, suite au constat de l'intervention de la prescription de la responsabilité pénale par le procureur.
+
+<<1189.18;1212.18;fr>>
+Et en tant que circonstances particulières de cette espèce, la complexité de l'enquête, ainsi que les efforts des autorités afin d'éclaircir les circonstances dans lesquelles l'accident s'était produit, indiqueront qu'il n'aurait pas été excessif de solliciter au requérant d'engager une action civile séparée, même huit ans après la date de l'accident. Pour ce qui est de la charge que le requérant devait supporter
+
+<<1212.18;1220.18;fr>>
+dans la formulation et la continuation de l'action civile, une telle action est exemptée du paiement du droit de timbre. De toute manière,
+
+<<1220.18;1230.18;fr>>
+le droit interne prévoit un mécanisme d'aide judiciaire qui prévoit la réduction, l'échalonnement ou l'exemption du paiement de ces droits en fonction de la situation matérielle d'un requérant.
+
+<<1230.18;1239.18;fr>>
+Son effectivité fut confirmée par la Cour, le plus récent exemple étant la décision Roe et Galla. Pour ce qui est des règles concernant
+
+<<1239.18;1252.18;fr>>
+l'admission des preuves et leur appréciation, l'analyse de la pratique judiciaire déjà versée au dossier montre que les preuves recueillies pendant le procès pénal peuvent être utilisées par l'instance civile saisie d'une action séparée.
+
+<<1252.18;1264.18;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, le simple fait d'avoir des doutes ne dispense pas à un requérant de tenter d'utiliser un vote de recours donné. C'est pour cette raison que nous invitons
+
+<<1264.18;1271.18;fr>>
+la Grande Chambre à déclarer la présente requête irrecevable pour défaut d'épuisement du vote de recours inter.
+
+<<1271.18;1275.18;fr>>
+Monsieur le Président, pour la seconde partie de notre intervention, je vous prie de bien vouloir donner la parole à ma collègue.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1279.62;1281.12;fr>>
+Madame Ludușan.
+
+[[Government;GR1]]
+
+<<1282.66;1302.06;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, la Grand-Chambre est appelée aujourd'hui à répondre à une question grave contre l'interprétation de la Convention en ce qui concerne l'applicabilité des articles 2 ou 3 et leur interaction dans le cas où il n'y a ni décès de la victime, ni comportement, ou criminel volontaire.
+
+<<1302.06;1312.22;fr>>
+Pourtant, la Grand-Chambre a eu déjà l'occasion d'analyser d'autres affaires qui posaient des questions similaires et a donné des réponses qui peuvent servir comme un point de départ dans cette analyse.
+
+<<1312.22;1329.18;fr>>
+Ainsi, en 2000, dans l'affaire de Grand-Chambre, Ilhan contre Turquie, celle-ci a analysé la situation du recueurant qui avait subi un dommage au cerveau à la suite d'un coup par la tête assené au moyen d'une crosse de fusil par des gendarmes qui lui donnèrent aussi des coups de pied et de coups de poigne.
+
+<<1329.18;1335.34;fr>>
+Deux rapports médicaux contemporains aux faits qualifièrent la blessure à la tête de potentiellement mortelle.
+
+<<1335.34;1339.38;fr>>
+Cette blessure entraîna pour l'intéressé une perte fonctionnelle durable.
+
+<<1339.38;1354.22;fr>>
+En l'absence de circonstances, la Grand-Chambre n'a été toutefois pas persuadée que la force utilisée par les gendarmes était d'une nature ou d'un dégré propre à emporter violation de l'article 2 de la Convention et a analysé l'affaire sous l'angle de l'article 3.
+
+<<1354.22;1372.14;fr>>
+En 2004, dans l'affaire Macarazzi contre Grèce, la Grand-Chambre souligna que « c'est uniquement dans des circonstances exceptionnelles que des services corporels infligés par des agents de l'État peuvent s'analyser en une violation de l'article 2 de la Convention lorsque il n'y a pas d'essai de la victime ».
+
+<<1372.14;1391.06;fr>>
+Dans la même affaire, la Cour a jugé que l'article 2 était applicable ayant en vue que le recueurant avait été la victime d'une conduite, des tirs répétés visant sa voiture et à la suite desquels il avait été blessé au niveau de la poitrine, des bras et des pieds, conduite qui, par sa nature même, a mis sa vie en danger, même s'il a finalement survécu.
+
+<<1391.06;1412.22;fr>>
+En même temps, aspect sur lequel le gouvernement va revenir, la Cour a considéré, en ce qui concerne les mauvais traitements interdits par l'article 3, que l'on ne serait en aucun cas déduire du comportement des policiers que ceux-ci avaient l'intention d'infliger des douleurs ou des souffrances aux recueurants, de l'humilier ou de la vilir.
+
+<<1412.22;1426.94;fr>>
+La différence entre les deux affaires réside de l'avis du gouvernement, dans le potentiel meurtrier des actions visées, de leur possibilité effective de causer la mort et dans le fait que dans l'affaire Macarazzi, c'était pur hasard si le recueurant a eu la vie sauve.
+
+<<1426.94;1463.34;fr>>
+Ainsi, la jurisprudence de la Cour distingue à présent entre, d'une part, l'utilisation des armes à feu par les agents de l'État et même par des particuliers, telles que dans l'affaire Buczynska contre l'Ukraine, actions avec un évident potentiel meurtrier, situation dans laquelle l'article 2 de la Convention est applicable, et, d'autre part, d'autres actions violentes, des coups de pied et même des coups avec des objets contondants, tels que dans l'affaire Gheorghe Dima contre Roumanie, dont le potentiel meurtrier est réduit, même si en effet l'avis des victimes a été mis en danger, cas dans lesquels l'article 2 n'est pas applicable.
+
+<<1463.34;1479.14;fr>>
+Faisant l'application des principes qui résultent des deux arrêts de la Grand Chambre, dans le cas des accidents de la route, on est amené à constater que le potentiel meurtrier de la circulation sur les rues publiques ne peut en aucun cas être comparé au potentiel meurtrier de l'usage des armes à feu.
+
+<<1479.14;1496.7;fr>>
+Cette activité n'implique pas un évident risque de décès, élément qui doit être pris en considération ensemble avec l'absence de toute intention de provoquer un résultat fatal, pour conclure sur l'inapplicabilité de l'article 2, dans le cas des accidents de la route, qui n'ont pas été suivis par le décès de la victime.
+
+<<1496.7;1509.78;fr>>
+Dans le cas en présence, comme déjà présenté par ma collègue, cette conclusion s'impose avec d'autant plus d'évidence, vu que le recourant n'a présenté aucun document médical qui puisse attester l'impact actuel de l'accident de la route sur son état de santé.
+
+<<1509.78;1515.98;fr>>
+Certes, le gouvernement ne conteste pas la gravité des lésions du recourant et exprime son regret pour sa souffrance.
+
+<<1515.98;1535.3;fr>>
+Toutefois, nous devons souligner que le rapport d'expertise médicale dressé au niveau de l'année 2005 indiquait que la nécessité de procéder à une nouvelle évaluation du recourant après l'épuisement des traitements recommandés, afin de clarifier l'existence d'une « infirmité », évaluation qui n'a jamais eu lieu.
+
+<<1535.3;1548.26;fr>>
+De son côté, le certificat délivré au recourant, en attestant son degré de handicap, indique des maladies qui, en l'absence d'explications et examens médicaux supplémentaires, n'entretiennent pas de lien avec l'accident de la route.
+
+<<1548.26;1573.02;fr>>
+Or, de l'avis du gouvernement, la persistance dans le temps des lésions souffertes et l'existence de ce que on droit ou non constitue « infirmité », ont été les éléments principaux qui ont déterminé la Cour à conclure à l'application de l'article 2 de la Convention dans des affaires telles que Igor Shevchenko contre Ukraine, où le recourant, après avoir été trois ans en coma profond suite à un accident, est resté complètement paralysé.
+
+<<1573.02;1581.5;fr>>
+Monsieur le Président, l'absence du même élément intentionnel ne détermine de plaider pour l'inapplicabilité de l'article 3 dans la présente affaire.
+
+<<1581.5;1596.06;fr>>
+Au moment de la rédaction des premières observations du gouvernement dans le cas en présence, la jurisprudence de votre Cour semblait favoriser une extension de l'application de l'interdiction des mauvais traitements, même aux situations d'attente corporelle non intentionnelle.
+
+<<1596.06;1612.3;fr>>
+Toutefois, avec l'adoption de l'arrêt de la Grande Chambre dans l'affaire Bouyde contre Belgique, cette jurisprudence a connu une évolution, en clarifiant la définition des traitements inhumains ou dégradants, qui déterminent avec nécessité le champ d'application de l'article 3 de la Convention.
+
+<<1612.3;1643.74;fr>>
+La Grande Chambre souligna dans les affaires Bouyde contre Belgique ou Selmouni contre France l'importance de l'élément intentionnel en montrant que, dès lors que le traitement humilie ou avilie un individu, témoignant d'un manque de respect pour sa dignité humaine ou la diminuant, ou qu'il suscite chez l'intéressé des sentiments de peur, d'angoisse ou d'infériorité, propres à briser sa résistance morale et physique, il peut être qualifié de dégradant et tomber ainsi également sous le coup de l'interdiction énoncée à l'article 3.
+
+<<1643.74;1656.1;fr>>
+Comme l'a remarqué la Commission en 1993 dans l'affaire Yagis contre Turquie, toute torture constitue en même temps un traitement inhumain et dégradant, et tout traitement inhumain est nécessairement dégradant.
+
+<<1656.1;1676.1;fr>>
+En même temps, la Commission a décrit le traitement inhumain comme un traitement qui provoque volontairement de graves souffrances mentales et physiques d'une intensité particulière, tandis qu'un traitement appliqué à un individu peut être dit dégradant si l'on l'humilie grossièrement devant autrui ou le pousse à agir contre sa volonté ou conscience.
+
+<<1676.1;1689.14;fr>>
+Ayant en vue la définition du traitement dégradant et du traitement inhumain, on ne peut que se demander en accord avec les auteurs de l'opinion concurrente dans l'affaire Kraulaidis où est le mauvais traitement dans le cas d'un accident négligent de la route.
+
+<<1689.14;1699.5;fr>>
+Et encore, est-ce qu'il y a une obligation de mener une enquête effective dans le cas où la personne qui a initié l'investigation peut s'avérer la seule responsable de l'accident?
+
+<<1699.5;1718.14;fr>>
+Nous ne contestons pas l'obligation des États de garantir à toute personne, rélevant de leur juridiction, les droits et libertés consacrées par la Convention qui leur commandent de prendre des mesures propres à empêcher que les dites personnes ne soient soumises à des tortures ou à des peines ou traitements inhumains ou dégradants, même administrés par des particuliers.
+
+<<1718.14;1733.58;fr>>
+En même temps, nous opinons que dans le contexte des attentes involontaires à l'intégrité corporelle, ces desidératas peuvent être attendus par la mise à la disposition de la partie intéressée d'un système juridique efficace, sans que ce système soit nécessairement le système pénal.
+
+<<1733.58;1749.74;fr>>
+Que telle est la situation, il ressorte avec certitude de la jurisprudence de la Cour quand on voit qu'il doit être ouvert aux personnes qui sont victimes d'attentes involontaires à leur intégrité corporelle, la Cour apprécie en comme suffisant les recours de nature civile, administrative ou même disciplinaire.
+
+<<1749.74;1760.06;fr>>
+Dans le même sens, a été la décision de Choban contre Roumanie qui traitait d'un décès survenu suite à un accident routier causé par négligence en l'absence de circonstances aggravantes.
+
+<<1760.06;1777.78;fr>>
+De notre avis, la conclusion qui se dégage de l'inexistence d'une obligation de mettre à la disposition de la victime d'une attente involontaire aux droits de la vie ou à l'intégrité physique en recours pénal est dans le sens de l'inexistence de l'obligation de mener une enquête effective au sens de l'article 3 de la Convention.
+
+<<1777.78;1788.74;fr>>
+Dans cette optique, l'existence en recours de nature civile reste suffisante pour protéger les droits garantis par la Convention dans le cadre offert par les articles 6 et 8 de la Convention.
+
+<<1788.74;1797.86;fr>>
+En ce sens, l'article 8 de la Convention couvre les questions liées à l'intégrité morale et physique des individus et exige aussi des garanties procédurales.
+
+<<1797.86;1813.46;fr>>
+D'autre part, l'article 6, proclamant une prérogative procédurale par sa nature, garantit le droit de la personne qui prétend avoir subi des préjudices suite à un accident routier d'avoir accès en tribunal ainsi que son droit à juir des garanties prévues par l'article indiqué.
+
+<<1813.46;1828.74;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, dans la dernière partie de mon intervention, je voudrais me pencher sur la question des mauvais traitements que le recourant allègue avoir subi de la part des organes de poursuite pénale en don et du fait de la manière dont ils ont conduit l'enquête.
+
+<<1828.74;1838.18;fr>>
+En effet, le recourant invoque l'attitude des autorités qui n'ont pas voulu éclaircir les circonstances de l'accident mais de dénaturer et de cacher la vérité.
+
+<<1838.18;1840.06;fr>>
+Une première remarque s'impose.
+
+<<1840.06;1843.9;fr>>
+Le recourant n'a pas détaillé sur le comportement des autorités.
+
+<<1843.9;1859.3;fr>>
+Au contraire, les dossiers internes indiquent que plusieurs offres de preuves provenant de l'avocat du recourant ont été acceptées, que tout régime d'offres supplémentaires a été motivé et soumis au contrôle judiciaire, que les demandes visant l'accélération formulée par le recourant ont trouvé écho.
+
+<<1859.3;1871.62;fr>>
+Dans l'absence de tout élément intentionnel, la manière dont les organes de poursuite pénale conduisent une investigation ne peut pas tomber dans le champ d'application de l'article 3 de la Convention, plus de son volet matériel.
+
+<<1871.62;1887.34;fr>>
+Les carences d'une investigation, qu'elles soient liées à la durée, au respect des dispositions données par les instances judiciaires, aux preuves recueillies, sont analysées comme l'exige la Convention et son interprétation et la rapporte aux garanties procédurales contenues par plusieurs droits.
+
+<<1887.34;1909.46;fr>>
+L'attente de l'adoption d'une solution dans une procédure interne ne peut en aucun cas équivaloir à l'angoisse ressentie par une personne qui devrait attendre 6 à 8 ans dans les couloirs de la mort ou à la situation du parent d'une personne disparue dans des circonstances non éclairées dont les accusations relatives au meurtre de son fils en détention n'ont pas été investiguées par les autorités.
+
+<<1909.46;1937.18;fr>>
+Dans des circonstances normales, telles que celles de la présente espèce, la conduite des organes de poursuite pénale est suffisamment couverte par l'obligation de l'Etat, sous l'article 8, de mettre en place un système judiciaire apte à identifier la cause et la personne responsable d'une éventuelle attente involontaire au droit à la vie ou à l'intégrité corporelle ou par l'obligation des autorités de solutionner les affaires qui leur sont présentées dans un délai raisonnable, conformément à l'article 6 de la Convention.
+
+<<1937.18;1952.22;fr>>
+De l'avis du gouvernement, aucune circonstance exceptionnelle ne peut être décelée dans la présente affaire qui soit apte à justifier une extension du champ d'application du volet matériel de l'article 3 de la Convention dont les sons suggérés par le recueillant.
+
+<<1952.22;1952.22;fr>>
+Je vous remercie pour votre attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1954.96;1960.96;en>>
+Merci beaucoup Madame Ludușan. I call now Mr. Tănase, please, here on the floor.
+
+[[Applicant;AP1]]
+
+<<1969.61;1973.25;en>>
+Mr. President, honorable judges, distinguished government
+
+<<1973.25;1991.67;en>>
+representatives, distinguished audience, before referring to the merits of the case, I will make a brief presentation of the aspects of the applicant's person and profession, as well as the context in which the event of 3rd of December 2004 took place.
+
+<<1991.67;1993.67;en>>
+The applicant is my father.
+
+<<1993.67;2013.49;en>>
+He was considered in the communist regime as having an unhealthy social origin and as an enemy of the communist regime because his father was a gender officer and because he refused to join the Romanian Communist Party and to be obedient in general and especially to prosecutors.
+
+<<2013.49;2038.39;en>>
+He worked as a judge from 1972 to 1978 when he was expelled from the magistracy for political reasons, as a lawyer from 1978 to 1992, as a judge between 1992 and 2004 when he stopped working as a result of the road accident.
+
+<<2038.39;2050.13;en>>
+He was constantly pursued, investigated, and again in 2001, the justice minister wanted his exclusion from the magistracy.
+
+<<2050.13;2060.65;en>>
+Thus, on 4th of May 2001, the former minister of justice, Mrs. Radica Mihaila Stanoiu, who cooperated
+
+<<2060.65;2086.73;en>>
+with the communist security, has finally decided in 2014 that the judges of the High Court of Cassation and Justice of Romania notify the Superior Council of Magistrate in order to judge the so-called disciplinary misconduct committed by the applicant, then judge of the Dembovica Court.
+
+<<2086.73;2105.13;en>>
+On 19th of September 2001, by decision number four, the Superior Council of Magistrate rejected the disciplinary action exercised by the minister of justice.
+
+<<2105.13;2107.29;en>>
+And now on the merits.
+
+<<2107.29;2126.19;en>>
+The applicant, Nascenicu Evrgiliu, was a victim of a road accident on 3rd of December 2004, accused being two drivers, one of them being the driver of a military truck with special characteristics, being classified as military combat technique.
+
+<<2126.19;2139.27;en>>
+The accident resulted in the applicant serious bodily injury, which suffered life-threatening injuries and required 200 to 215 days of medical care.
+
+<<2139.27;2149.85;en>>
+On 22nd of June 2005, the applicant was constituted as a civil party in the criminal proceedings.
+
+<<2149.85;2159.37;en>>
+The reopening of the prosecution was ordered twice, in 2007 and 2012, by national court's decisions.
+
+<<2159.37;2168.05;en>>
+And in 2008, the prosecutor ordered the return of the case to the police for the continuation of the investigations.
+
+<<2168.05;2203.01;en>>
+The first solution of the removal from criminal prosecution was maintained by the general prosecutor or the prosecutor's office attached to the Polish Court of Appeal, a former graduate of the SEPECA school of the Stefan Gheorghiu Romanian Communist Party Academy, the former communist school for the training of the leading cadres from justice of the former Socialist Republic of Romania, as revealed in the local press in 2006, from which I submitted copies in this file.
+
+<<2203.01;2217.23;en>>
+He remained still in charge into the judicial system of Romania in 2005, but almost 16 years after the 1989 anti-communist revolution.
+
+<<2217.23;2229.89;en>>
+The prosecutor resolved the case in the absence of any scientific evidence, an aspect acknowledged by the government in its comments of 5th of September 2014.
+
+<<2229.89;2235.93;en>>
+Since 2005, the applicant knew he would not have a fair trial.
+
+<<2235.93;2241.45;en>>
+The applicant has always been considered to be the only guilty party in the road accidents.
+
+<<2241.45;2248.93;en>>
+The prosecutors have always sought to hide the truth and to remove the two accused drivers from criminal prosecution.
+
+<<2248.93;2251.91;en>>
+The evidence was defined.
+
+<<2251.91;2258.53;en>>
+The applicant was accused of failing to brake and driving under the influence of alcoholic beverages.
+
+<<2258.53;2268.45;en>>
+There were 15 meters of traces of brake from the applicant's car, which the investigators did not want to take into account.
+
+<<2268.45;2298.45;en>>
+On the other hand, by the second and last forensic alcohol expertise of 17th of February 2009, carried out the request of the applicant, the Superior Committee of the National Institutes of Legal Medicine of Bucharest concluded that the data presented raised great questions about the belonging of the blood collected and analyzed as being of Tanase Nicolae.
+
+<<2298.45;2306.77;en>>
+No other expertise has been disposed of, the authorities ceased to refer to the applicant's alleged alcoholism.
+
+<<2306.77;2316.09;en>>
+The observations of the Romanian government do not refer to these forensic conclusions, which are kept under absolute silence.
+
+<<2316.09;2321.61;en>>
+In 2007, three years after the road accident occurred, a technical expertise was made.
+
+<<2321.61;2332.25;en>>
+On 30th of March 2009, the police ordered a new technical expertise at the National Institute of Forensic Expertise as a request of the applicant.
+
+<<2332.25;2350.39;en>>
+The expert report was drafted in September 2010 after one and a half years, and the conclusions were that the circumstances in which the accident occurred cannot be established certainly.
+
+<<2350.39;2360.97;en>>
+The applicant filed a criminal complaint against the prosecutors and the police officers, who ordered on 2nd of February 2011 the removal from criminal prosecution of the two accused.
+
+<<2360.97;2382.77;en>>
+The prosecutor general of the prosecutor's office attached to the Polish Court of Appeal rejected the complaint, claiming that it is obviously improper and expresses, in fact, the petitioner's desire for revenge against those who handled and solved the criminal case.
+
+<<2382.77;2410.67;en>>
+For judgment of the complaint against removal from the prosecution of the accused from 2nd of February 2011, the applicant requested the High Court of Cassation and Justice to transfer the file and argued that the prosecutors who gave the resolutions in question cannot be impartial, and all they do is against him.
+
+<<2410.67;2426.17;en>>
+The High Court of Cassation and Justice, based on the data submitted by the applicant, appreciated that his fears were founded, and the case was sent from Polish Court to the 6th District Court of Bucharest.
+
+<<2426.17;2457.61;en>>
+A final solution, 3rd, for the removal from criminal prosecution was disposed on 3rd of May 2012, and on 21st of December 2012 by criminal sentence number 2414, the Polish Court rejects this complaint against the solution for the reason that the term of a criminal liability prescription was fulfilled on 3rd of June 2012 during the criminal prosecutions.
+
+<<2457.61;2459.89;en>>
+The criminal sentence was final.
+
+<<2459.89;2462.77;en>>
+There was no way to appeal against it.
+
+<<2462.77;2475.97;en>>
+On 21st of December 2012, eight years had passed since 3rd of December 2004, the date of the road accident in which the applicant was involved.
+
+<<2475.97;2478.09;en>>
+The criminal investigation was not effective.
+
+<<2478.09;2484.07;en>>
+Three solutions of removal from criminal prosecution have been given during the criminal prosecution.
+
+<<2484.07;2488.05;en>>
+The applicant has repeatedly complained and gave these solutions.
+
+<<2488.05;2499.01;en>>
+As soon as the appeal has been effective, showing diligence, and without abusing the remedies available to him by law, then these complaints were all admitted.
+
+<<2499.01;2513.55;en>>
+The court stated in case Voiculescu versus Romania and Dumitru Popescu versus Romania that the factual nature of the investigation must be provided by the authorities and not based on the vigilance of the civil party.
+
+<<2513.55;2518.19;en>>
+The Romanian state has never offered the victim any kind of reparation for the damages suffered.
+
+<<2518.19;2530.49;en>>
+The applicant was a civil party in the criminal proceedings, but in the face of the abuses committed by the state authorities and their official tolerance, it had no effect.
+
+<<2530.49;2548.87;en>>
+In the case of Toncev versus Bulgaria, the court found that the failure to dissolve the civil aspect in the case of criminal liability infringed the applicant's right of access to justice provided by Article VI of the Conventions.
+
+<<2548.87;2556.65;en>>
+The purpose of the state's obligations as shown in Kotelniko versus Russia has not been fulfilled.
+
+<<2556.65;2562.53;en>>
+No liability has been established, and no compensation has been granted to the victim.
+
+<<2562.53;2571.61;en>>
+As the applicant claim improved, in this case, the authorities behaved abusive, defying the law, not respecting the applicant's rights.
+
+<<2571.61;2591.89;en>>
+National courts have demonstrated professionalism, but they have been unable to do anything to find out the truth and punish the guilty, because no national court has been invested with the merits by the indictment that the government has shown to be legal and normally in the annexed case law.
+
+<<2591.89;2596.29;en>>
+The applicant also addressed to the state institutions at all times.
+
+<<2596.29;2611.21;en>>
+The Ministry of Justice, the General Prosecutor's Office, the Superior Counsel of Magistrate made dozens of complaints and memos showing the abuses and injustices committed by the authorities in the criminal investigation they carried out.
+
+<<2611.21;2615.49;en>>
+The state institutions have had no reaction.
+
+<<2615.49;2651.71;en>>
+In this case, the authorities have pursued, thought, and acted for the cessation of the criminal trial, either by removing from criminal prosecution of suspects, which was not possible due to the fight, the vigilance of the applicant, or by passing a long period of time so as to the term of prescription of criminal liability to be fulfilled, which was possible after an eight-year period against all efforts of the applicant.
+
+<<2651.71;2660.31;en>>
+Regarding the case law submitted by the government, I showed that none of the 127 judgments is similar to the applicant's case.
+
+<<2660.31;2671.45;en>>
+In all these national court decisions, without exception, the circumstances of the offense were established, and the guilt was established.
+
+<<2671.45;2679.21;en>>
+In the prosecution phase, the criminal investigation was completed before the criminal liability prescription.
+
+<<2679.21;2689.13;en>>
+I would like to refer to a very important aspect of establishing guilt, also related to the civil action as set out in the case law of the government.
+
+<<2689.13;2725.17;en>>
+Thus, in decision number 901, for 9th of December, 2004, file number 5697 by 62, by 2013 of the Brasov Court of Appeal, annex G, the national court ruled that the guilt in the conditions of a road accident with victims and bodily injuries is established by the organs of criminal prosecution and not by the party, the injured person.
+
+<<2725.17;2730.17;en>>
+Thus, in the present case, the criminal investigation was not established. The applicant
+
+<<2730.17;2739.43;en>>
+could not promote civil action for compensation for the damage because the condition knowing the culprit was not fulfilled.
+
+<<2739.43;2750.77;en>>
+The only thing the applicant could do was to file a civil complaint and get an insurance company and the leasing company for the vehicle he was driving, which was totally destroyed in the road accident.
+
+<<2750.77;2752.85;en>>
+He initially won the case.
+
+<<2752.85;2755.57;en>>
+Indemnity and moral damages were paid.
+
+<<2755.57;2762.53;en>>
+But in the last appeal, the court upheld the appeal of the two companies and ordered a retrial.
+
+<<2762.53;2779.85;en>>
+In the retrial, the view of the courts changed in the sense that they considered that civil action do not derive from a criminal offense and forced the applicant to pay a large sum of money representing a stamp duty.
+
+<<2779.85;2783.69;en>>
+Requests for tax re-examination were rejected.
+
+<<2783.69;2788.97;en>>
+The complainant was unable to play the stamp duty, and the complaint was rejected.
+
+<<2788.97;2794.61;en>>
+The applicant was forced to return the sums of money received by previous court decisions.
+
+<<2794.61;2808.69;en>>
+In case law attached by the government, it can be noticed that in the case of a road accident where the victim's car was completely destroyed, the insurance companies have paid the indemnity.
+
+<<2808.69;2815.33;en>>
+Therefore, the contrast created by this case law with regard to the applicant's case is absolute.
+
+<<2815.33;2824.01;en>>
+The applicant did not have any chance of legality or normality, but it is shown in the case law of the government.
+
+<<2824.01;2833.25;en>>
+At present, the applicant is a seriously affected person, having suffered from injuries caused by the road accident and multiple surgical interventions.
+
+<<2833.25;2836.17;en>>
+The displaced fractures have not been resolved.
+
+<<2836.17;2841.65;en>>
+A portion of the intestine was dissected, and the trachea section was also dissected.
+
+<<2841.65;2860.69;en>>
+The applicant is mentally affected by the accident and its consequences, but also by the behavior of the authorities, as evidenced by the psychiatric forensic expertise of 2007 and the psychiatric certificate of 2017.
+
+<<2860.69;2876.17;en>>
+Mental suffering is also accentuated by the fact that the applicant was a judge, a professional of law, and every abuse, each violation of his rights deeply affected him because he knew the law.
+
+<<2876.17;2879.93;en>>
+Finally, I would like to refer to the speech of Mr. Emmanuel
+
+<<2879.93;2903.45;en>>
+Macron, the president of France, to the European Court of Human Rights, which I appreciate very clearly, very firmly, and which marks, in my opinion, the beginning of a new stage of evolution in the work of the court in particular, but also of the European institutions in general in defending and respecting human rights.
+
+<<2903.45;2906.49;en>>
+I cite, respect for human rights is being undermined.
+
+<<2906.49;2917.05;en>>
+They are considered a weakening by those who seek to fight them or reduce them while they are a force, a specificity, while they are universal.
+
+<<2917.05;2921.53;en>>
+They are presented as an option while they are an obligation.
+
+<<2921.53;2924.97;en>>
+Respect for human rights is a legal obligation.
+
+<<2924.97;2928.81;en>>
+Their defense is a political diplomatic act.
+
+<<2928.81;2936.09;en>>
+It is a fight with weapons, frighteningly effective of the dialogue.
+
+<<2936.09;2942.53;en>>
+Angeles in this matter as a renunciation are often only the other names of impotence.
+
+<<2942.53;2944.49;en>>
+I end at this site.
+
+<<2944.49;2950.17;en>>
+For Romania, the respect of human rights was, in this case, an option.
+
+<<2950.17;2968.09;en>>
+I invite the court to hold that there has been a violation of Article 2, Article 3, Article 6, Paragraph 1, Article 8, and Article 13 of the Convention for the Protection of Human Rights and Fundamental Freedoms in procedural terms and to admonish this application.
+
+<<2968.09;2968.09;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<2969.62;2976.18;en>>
+Thank you very much Mr. Tănase. I thank both parties for their submissions.
+
+<<2976.18;2983.62;en>>
+And now I invite my colleagues, the judges of the Grand Chamber, who wish to do so, to put their questions to the parties.
+
+<<2983.62;2983.62;en>>
+Are there any questions? Yes, Judge Nußberger, please.
+
+[[Judge;Angelika Nußberger]]
+
+<<2990.32;2991.8;en>>
+Thank you very much, President.
+
+<<2991.8;3004.0;en>>
+I would just want to ask a question to the applicant concerning what he told us about the insurance company and the trial, the procedure against the insurance company.
+
+<<3004.0;3011.8;en>>
+So, I understand the complaint was brought on 28th November 2006, so that is two years after the accident.
+
+<<3011.8;3016.28;en>>
+I would like to know, was this insurance obligatory or voluntary?
+
+<<3016.28;3018.48;en>>
+And what exactly was insured?
+
+<<3018.48;3032.04;en>>
+Was it an insurance that covered both the possibility that the applicant was guilty or not guilty in the accident and only the damages, his own damages, or also the damages of the other parties?
+
+<<3032.04;3034.68;en>>
+So, what kind of insurance was it?
+
+<<3034.68;3044.16;en>>
+And why was this complaint brought only in 2006, and that is two years after the accident and not immediately?
+
+<<3044.16;3044.16;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3045.81;3049.01;en>>
+Thank you very much. Judge Lemmens, please.
+
+[[Judge;Paul Lemmens]]
+
+<<3051.96;3052.88;fr>>
+Merci beaucoup.
+
+<<3053.68;3063.08;fr>>
+Je voudrais poser une question spécialement au gouvernement, mais si le requérant peut donner des réponses, je l'apprécierai aussi.
+
+<<3064.04;3073.96;fr>>
+Le gouvernement nous invite à dire que ni l'article 2, ni l'article 3 dans son volet procédural sont applicables dans le cas d'espèce.
+
+<<3076.28;3096.28;fr>>
+Mais il a dit quelque part, quand il a plaidé la question du traitement, enfin l'absence d'un traitement inhumain ou dégradant, que l'espèce pourrait être couverte par l'article 8, si j'ai bien compris, l'article 8 dans son volet procédural.
+
+<<3097.36;3110.2;fr>>
+Alors, à supposer que l'article 8 s'applique, que cet article exige des garanties procédurales, quelles seraient alors ces garanties procédurales?
+
+<<3111.0;3117.32;fr>>
+Est-ce que ces garanties procédurales ont été offertes par le système roumain?
+
+<<3118.96;3125.64;fr>>
+Est-ce dans la procédure pénale ou exclusivement dans la possibilité d'une procédure civile?
+
+<<3125.64;3125.64;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3129.9;3137.02;en>>
+Judge Eicke, please.
+
+[[Judge;Tim Eicke]]
+
+<<3138.57;3148.95;en>>
+Thank you very much. I have one question for the applicant, really to ask directly why
+
+<<3148.95;3170.39;en>>
+the applicant decided not to bring a civil claim under what I understand was the old Article 998 and 999 of the old civil code for damages in tort against the two drivers allegedly responsible for the accident. The second question I have is for both parties
+
+<<3170.39;3177.83;en>>
+and it's this. In assessing whether remedies have been exhausted, is it relevant for this
+
+<<3177.83;3197.83;en>>
+court to consider the fact that the applicant was a judge and a practicing lawyer for some time and therefore knew or ought to have known what the relevant available remedies and their respective benefits or limitations would be? Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3199.1;3201.18;en>>
+Thank you very much.
+
+<<3201.18;3219.96;en>>
+If there are no more questions, the court will now withdraw, say, until half past ten, following which the parties will be able to submit brief observations in reply to each other's submissions and reply to the questions from the judges.
+
+<<3219.96;3222.14;en>>
+So the hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<3287.97;3288.89;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<3329.39;3331.39;en>>
+Please be seated.
+
+<<3341.39;3343.71;en>>
+The hearing is resumed.
+
+<<3343.71;3343.71;en>>
+I give the floor to Mrs. Brumar.
+
+[[Government;GR2]]
+
+<<3349.02;3351.18;fr>>
+Je vous remercie.
+
+<<3352.18;3361.14;fr>>
+Afin de répondre aux questions posées par les membres de cette honorable grande chambre, je...
+
+<<3363.42;3408.26;fr>>
+vais commencer par réitérer un aspect déjà mentionné dans notre plaidoirie, à savoir que l'action civile accessoire à une procédure de nature criminelle et l'action civile introduite de manière séparée devant l'instinct civil ont le même but, à savoir obtenir une analyse sur la réunion des conditions de la responsabilité civile délectuelle et si la réponse à cette analyse est affirmative dans le sens où il y a toutes les conditions réunies, d'obtenir des dommagements matériels et moraux pour le préjudice souffert.
+
+<<3409.82;3458.94;fr>>
+Ainsi, de notre avis, en plaidant sur l'inapplicabilité des articles 2 ou 3 de la Convention, vu le manque de tous éléments intentionnels, nous nous positionnons dans le même cadre-figure que celui retenu par la Cour dans un arrêt contre la Roumanie, SB, où la Cour a confirmé sa jurisprudence constante en indiquant que sur le terrain de l'article 8, on doit être en présence d'une voie de recours non pénale qui permet à la partie récurrente d'identifier et de sanctionner la personne responsable d'une attente involontaire à l'intégrité physique.
+
+<<3458.94;3484.9;fr>>
+Dans cet arrêt, la Cour a examiné l'effectivité d'une procédure non pénale sous l'aspect des preuves et de l'implication de la récurrente dans la procédure afin d'évaluer l'existence d'un voie de recours utile.
+
+<<3484.9;3512.7;fr>>
+Alors, la réunion des garanties procédurales qui vise à assurer l'existence d'une voie adéquate pour permettre à la partie désirante l'identification et, le cas échéant, la sanction de la personne responsable d'une attente involontaire à l'intégrité physique et la voie civile.
+
+<<3512.7;3514.26;fr>>
+A notre opinion.
+
+<<3514.94;3550.3;fr>>
+De plus, une note supplémentaire, notre nouveau code de procédure, notre nouveau code pénal prévoit que les attentes involontaires à l'intégrité corporelle qui déterminent des législations nécessitant moins de 90 jours de soins médicaux ne sont plus pénalement sanctionnées.
+
+<<3550.5;3560.46;fr>>
+Alors, la voie civile est celle qu'une victime d'une telle attente doit emprunter.
+
+<<3561.98;3564.3;fr>>
+La question de...
+
+<<3564.3;3602.58;fr>>
+La question des conséquences de la qualité de requérants sur la connaissance des lois est, dans notre opinion, un élément supplémentaire dans l'analyse de l'accessibilité de l'obligation de connaître l'état d'évolution du cadre normatif et de la pratique des instances internes en la matière.
+
+<<3603.06;3636.9;fr>>
+Et c'est dans ce sens que nous avons apprécié que le requérant, ancien magistrat, et s'entourant des conseils éclairés ne pouvaient pas ignorer le fait que la pratique interne confirmait l'ouverture d'une telle voie de recours civil pour les victimes d'attentes corporelles involontaires afin de faire valoir leurs prétentions de réparation.
+
+<<3637.98;3697.66;fr>>
+Bien sûr qu'il serait difficile d'identifier un cadre-figure qui présente tous les mêmes éléments que le cadre d'espèce, mais de la plénitude de la pratique interne versée au dossier, il résulte sans aucun doute l'approche des instances qui considéraient que le délai de prescription afin d'introduire une action en responsabilité civile délictuelle pourrait, à partir du moment de la finalisation de la procédure pénale, dans des cas qui ressemblent aux cas d'espèce et qui visent des accidents de la route, mais aussi dans d'autres cas.
+
+<<3697.66;3709.94;fr>>
+Le principe est celui qui compte dans l'évaluation de la qualité, de la constance de la pratique interne.
+
+<<3715.78;3744.22;fr>>
+Monsieur le Président, après avoir répondu aux questions et entendu le fait que l'intervention des représentants du requérant n'a pas apporté, à notre avis, des aspects nouveaux par rapport à ceux déjà traités dans nos observations écrites et dans notre plaidoirie d'aujourd'hui, je vous remercie pour m'avoir donné la parole.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3747.39;3749.71;en>>
+Merci, merci beaucoup Madame Brumar.
+
+<<3749.71;3751.55;en>>
+I'm going to call now Mr. Tănase please.
+
+[[Applicant;AP1]]
+
+<<3765.99;3769.55;en>>
+The car was bought in Leasing.
+
+<<3769.55;3775.31;en>>
+It was also insured with an insurance company.
+
+<<3775.31;3780.91;en>>
+The plaintiff continued to pay for a good that did not exist anymore.
+
+<<3780.91;3795.47;en>>
+The insurance company did not want to pay the insurance because it invoked an exception clause, namely the presence of alcohol was a cause of exemption for the payment of the indemnity.
+
+<<3795.47;3802.95;en>>
+The applicant was wrongly accused of leaking alcohol, as I have shown.
+
+<<3802.95;3817.03;en>>
+The civil complaint was made in 2006 because the plaintiff hoped that his civil action would be resolved in the criminal trial.
+
+<<3817.03;3827.47;en>>
+What – this is never happened.
+
+<<3827.47;3832.27;en>>
+The accident took place under the old civil court.
+
+<<3832.27;3852.23;en>>
+The old regulation contained in Article 1998 civil court on civil tort liability enforced at the time of the road accident explicitly conditioned the engagement of civil liability on the fault of the author.
+
+<<3852.23;3857.07;en>>
+The condition of knowing the culprit was not accomplished.
+
+<<3857.07;3892.31;en>>
+Unlike the old regulation containing Article 998 civil code, the new regulation, Article 1349, new civil code, enforced in 2011, no longer explicitly makes the assumption of civil liability on the fault of the author, limiting the finding that there has been a violation by action or inaction of the rights and legitimate interests of others, blaming the fault presumed.
+
+<<3892.31;3899.59;en>>
+The plaintiff was entitled to dissolve the civil action in the criminal trial according to the law.
+
+<<3899.59;3910.23;en>>
+This has never happened, and after eight years, the cessation of the criminal trial was ordered because the term of the criminal liability prescription was fulfilled.
+
+<<3910.23;3922.31;en>>
+Relevant for dissolving the civil aspects of this case is the court's jurisprudence represented by Tončev versus Bulgaria.
+
+<<3922.31;3926.67;en>>
+I cite, the court does not find anything in the facts of the present case.
+
+<<3926.67;3935.43;en>>
+What's only material difference is that it's concerned privately rather than publicly prosecutable offense.
+
+<<3935.43;3943.59;en>>
+I make a bracket, in this case, it's about a publicly prosecutable offense.
+
+<<3943.59;3944.59;en>>
+I continue.
+
+<<3944.59;3967.55;en>>
+To prompt to vary this conclusion, it reiterates that where the domestic legal order provides litigants with an abnormal redress, such as civil party claim in the context of criminal proceedings, the state is under an obligation to ensure that they enjoy the fundamental guarantees laid down in Article VI, Paragraph 1.
+
+<<3967.55;3998.55;en>>
+Thus, in the court's view, the applicant could not be expected to wait for the extinction of the criminal liability of the alleged perpetrator of the offense of which his son was the victim many years after making his original civil party claim, and even longer after the important events to bring a fresh claim before the civil courts, Katanasova and Dikenev also.
+
+<<3998.55;4007.09;en>>
+This conclusion is not altered by the fact he could have opted to bring a separate civil claim for the outset.
+
+<<4007.09;4015.21;en>>
+His preference for seeking damages in the context of criminal proceedings does not appear unjustified in the circumstances.
+
+<<4015.21;4030.47;en>>
+Having chosen this remedy, he was entitled to have his claim determined and not required to try the alternative avenue of redress available under Bulgarian law, or same Romanian law as I show.
+
+<<4030.47;4030.47;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4032.86;4035.54;en>>
+Thank you very much.
+
+<<4035.54;4039.46;en>>
+We have now come to the end of the hearing.
+
+<<4039.46;4045.18;en>>
+I thank the parties for their submissions and answers to the court's questions.
+
+<<4045.18;4050.26;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<4050.26;4052.98;en>>
+The judgment will be delivered later.
+
+<<4052.98;4056.22;en>>
+The parties will be informed of the date of delivery.
+
+<<4056.22;4057.22;en>>
+I declare the hearing closed.
+

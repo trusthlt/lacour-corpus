@@ -1,0 +1,1809 @@
+[[Announcer;UNK]]
+
+<<20.39;21.07;fr>>
+La Cour!
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<64.28;64.88;en>>
+Please be seated.
+
+<<79.08;91.16;en>>
+I declare open the public hearing on the admissibility and merits in the cases of Gestur Jónsson versus Iceland and Ragnar Halldór Hall versus Iceland.
+
+<<91.16;104.44;en>>
+The applications were lodged with the court on 16 October 2014 under Article 34 of the Convention by two Icelandic nationals, Mr. Gestur Jónsson and Mr. Ragnar
+
+<<104.44;106.08;en>>
+Halldór Hall.
+
+<<106.08;115.44;en>>
+The applications were allocated to the second section of the court, pursuant to Rule 52, Paragraph 1 of the Rules of Court.
+
+<<115.44;123.58;en>>
+The applications were communicated to the government on 2 and 3 March 2016, respectively.
+
+<<123.58;131.52;en>>
+On 30 October 2018, a chamber of the second section delivered its judgment in the case.
+
+<<131.52;145.72;en>>
+It declared unanimously that there had been no violation of Article 6 and 7 of the Convention and that the complaint raised under Article 2 of Protocol Number 7 to the Convention was inadmissible.
+
+<<145.72;164.32;en>>
+On 25 January 2019, the applicants requested that the cases be referred to the Grand Chamber in accordance with Article 43 of the Convention, and the panel of the Grand Chamber accepted the request on 6 May 2019.
+
+<<164.32;171.44;en>>
+The respondent government are represented by their agent, Mr. Einar Karl Hallvarðsson,
+
+<<171.44;176.2;en>>
+and my Mrs. Fanney Rós Þorsteinsdóttir,
+
+<<176.2;180.72;en>>
+assisted by Mrs. Guðrún Sesselja Arnardóttir
+
+<<180.72;184.34;en>>
+and Mrs. María  Thejll's advisors.
+
+<<184.34;189.0;en>>
+The applicants are represented by Mr. Geir Gestsson's counsel
+
+<<189.0;193.08;en>>
+and Mrs. Védís Eva Guðmundsdóttir advisor.
+
+<<193.08;196.32;en>>
+The applicants are also present.
+
+<<196.32;201.84;en>>
+I welcome the representatives and the applicants in the name of the court.
+
+<<201.84;216.6;en>>
+I also welcome the delegations of judges from the French Court of Cassation and from the Russian Federation who are on a study visit to the court and a delegation of judges from European Union member states.
+
+<<216.6;225.32;en>>
+Having consulted the agent of the government and the representatives of the applicants, I have determined the order of addresses as follows.
+
+<<225.32;229.88;en>>
+Mr. Geir Gestsson for the applicants will speak first,
+
+<<229.88;233.42;en>>
+and then Mrs. Fanney Rós Þorsteinsdóttir
+
+<<233.42;235.32;en>>
+for the government.
+
+<<235.32;251.04;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Russian has been authorized for the benefit of the group of judges from the Russian Federation attending the hearing.
+
+<<251.04;256.28;en>>
+This interpretation is organized by the Council of Europe Interpretation Department.
+
+<<256.28;258.74;en>>
+I call Mr. Geir Gestsson.
+
+[[Applicant;AP1]]
+
+<<275.64;282.48;en>>
+Mr. President, distinguished members of the Court,
+
+<<282.48;292.28;en>>
+it is an honor to address the Grand Chamber here today on behalf of the applicants, Mr. Johnson and Mr. Hall.
+
+<<292.28;301.72;en>>
+From the perspective of the applicants, the main facts of the case may be summarized as follows.
+
+<<301.72;316.0;en>>
+The applicants were convicted for contempt of court without trial by a court of first instance in Iceland, the Reykjavik District Court.
+
+<<316.0;328.76;en>>
+They were convicted by a first-instance judge, Sigvaldason, that never met them in person in the context of the case.
+
+<<328.76;340.16;en>>
+The judge assessed, without meeting them in person, whether they were guilty or innocent.
+
+<<340.16;351.56;en>>
+The judge also decided on the appropriate sentencing in the case without ever meeting them in person.
+
+<<351.56;356.84;en>>
+The applicants then appealed their convictions to the Supreme Court of Iceland.
+
+<<356.84;363.76;en>>
+Those proceedings were the only proceedings available to them domestically.
+
+<<363.76;376.16;en>>
+They had to litigate in those proceedings from a position of having already been convicted by a court of law.
+
+<<376.16;380.04;en>>
+And the same applied before the Icelandic Supreme Court.
+
+<<380.04;388.52;en>>
+They were never offered the chance to appear before that court in person.
+
+<<388.52;419.16;en>>
+The end result of the domestic litigation as a whole was, therefore, that the applicants were convicted in two separate instances without ever being offered the right to appear before either court in person for the purposes of assessing their guilt or innocence or for the purposes of sentencing.
+
+<<419.16;423.64;en>>
+Mr. President and distinguished members of the court,
+
+<<423.64;430.92;en>>
+the case before the court today gives it the opportunity to clarify its case law on a few key issues.
+
+<<434.48;443.8;en>>
+First, the requirement of rights under the convention being practical and effective.
+
+<<443.8;452.52;en>>
+Second, the principle on direct assessment of oral evidence.
+
+<<452.52;460.34;en>>
+And third, the fundamental right to presumption of innocence.
+
+<<460.34;471.44;en>>
+For other matters that are not covered in these pleadings, the applicants refer to their written submissions.
+
+<<471.44;480.76;en>>
+But first, it should be assessed whether the criminal limb of Article 6 of the convention is applicable in the case.
+
+<<480.76;494.72;en>>
+In its written submissions to the Grand Chamber, the government of Iceland, for the first time, disputes the applicability of the criminal limb of Article 6.
+
+<<494.72;515.2;en>>
+The government now argues that the Supreme Court did not take any position on the first angle criteria in its judgment and, therefore, that the offense has not been classified as criminal under Icelandic law in the Supreme Court judgment.
+
+<<517.96;531.48;en>>
+The applicants submit that any fair reading of the Supreme Court judgment in their case will show that this argument of the government is incorrect.
+
+<<534.66;548.4;en>>
+First, Your Excellencies, the judgment refers to Article 222 of the Icelandic Act on Criminal Procedure.
+
+<<548.4;579.9;en>>
+That article reads, if there is further punishment pursuant to other laws for offenses subject to the provisions of this chapter, claims to that effect can be made in a separate case, regardless of rulings on procedural fines.
+
+<<579.9;614.96;en>>
+What this provision means is that if there is, for example, contemptuous behavior in the courtroom that breaches several different laws, that conduct can be subject to criminal punishment, both under Chapter 35 of the Act on Criminal Procedure and also subject to other punishment under other legal provisions, for example, the general penal code in Iceland.
+
+<<614.96;635.18;en>>
+This wording, further and punishment, therefore shows that contempt of court fines, according to Chapter 35 of the Act on Criminal Procedure, that they are classified as criminal under domestic law.
+
+<<635.18;653.44;en>>
+Second, the Supreme Court judgment itself also explicitly explained that there were two types of criminal cases under the Act that could be brought for contempt of court.
+
+<<653.44;672.0;en>>
+First, those cases that are brought by the prosecution and second, those criminal cases initiated by the court themselves, ex proprio motu.
+
+<<672.0;687.76;en>>
+And the Supreme Court judgment then explained that criminal case defendants should enjoy the same fair trial rights in both types of criminal cases.
+
+<<687.76;697.6;en>>
+With respect to the government, this could not be much clearer on the offense being classified as criminal under domestic law.
+
+<<701.04;726.2;en>>
+Third, as is further described in the written submissions of the applicants, the appeal case before the Supreme Court of Iceland was litigated from start to finish as a criminal case under the provisions of the Act on Criminal Procedure.
+
+<<726.2;737.44;en>>
+Just to name one example, the state prosecutor was the counterparty of the applicants before the Supreme Court.
+
+<<737.44;740.2;en>>
+The state prosecutor does not handle civil cases ever.
+
+<<740.2;757.64;en>>
+The government's main argument under this heading is that similar provisions on procedural fines for contempt of court are also to be found in the domestic Act on civil procedure.
+
+<<760.88;764.72;en>>
+Mr. President, fines handed down according
+
+<<764.72;785.36;en>>
+to the Act on Civil Procedure are also considered actual criminal punishment under Icelandic law, according to the textbook submitted to the court at attachment 25 to the applicant submissions.
+
+<<785.36;793.12;en>>
+And the author of that textbook is the ex-president of the Supreme Court of Iceland.
+
+<<793.12;800.52;en>>
+This argument of the government is therefore entirely without merit in the view of the applicants.
+
+<<800.52;815.76;en>>
+The applicants submit that this alone, that the offense is clearly classified as criminal under domestic law, should be sufficient for the criminal limb of Article 6 of the Convention to apply in this case.
+
+<<815.76;824.8;en>>
+Nevertheless, the government's claim is that the application is not sufficient for the criminal limb of Article 6 of the Convention to apply in this case.
+
+<<824.8;828.32;en>>
+Nevertheless, the applicants will address the two other Engel criteria shortly.
+
+<<830.12;843.84;en>>
+On the second criteria, the government argues in its written submissions that contempt of court fines can only be directed at attorneys under Icelandic law.
+
+<<843.84;853.92;en>>
+The applicants were fined for breaching two separate sections of Article 2.2.3 of the Act
+
+<<853.92;861.68;en>>
+on Criminal Procedure, subparagraphs A on the one hand and D on the other.
+
+<<861.68;869.08;en>>
+It is true that under subparagraph A, fines can be directed at members of the legal profession.
+
+<<869.08;886.0;en>>
+But there is also a requirement of intent to delay a court hearing that indicates that the offense is nevertheless of a criminal nature.
+
+<<886.0;896.82;en>>
+However, under subparagraph D, fines can be directed at other people than just the legal profession.
+
+<<896.82;906.88;en>>
+It catches witnesses and the accused, and both are members potentially of the general public.
+
+<<906.88;919.44;en>>
+The applicants also refer to the fact that there is another domestic legal statute in force that governs disciplinary measures solely against attorneys that do not reach the status of criminal punishment.
+
+<<919.44;929.24;en>>
+That is the Domestic Act on Attorneys, which has been submitted to the court as attachment 26.
+
+<<929.24;938.16;en>>
+On the third angle criteria, the applicants would just like to make two quick points.
+
+<<938.16;960.0;en>>
+First of all, that the fines for contempt of court are paid to the Icelandic State Treasury under Article 222 of the Act on Criminal Procedure, just like all other criminal fines.
+
+<<960.0;968.88;en>>
+They are therefore not intended to cover any financial damage incurred.
+
+<<968.88;981.28;en>>
+The fines are punitive and deterrent in nature, as opposed to being compensation for damage incurred.
+
+<<981.28;996.28;en>>
+But the most fundamental point here, Your Excellencies, is that the severity of the fines was unlimited by any domestic legal provision.
+
+<<996.28;1001.16;en>>
+The fines could have been, in theory, of any amount at all.
+
+<<1001.16;1006.0;en>>
+1 million ISK, 10 million ISK, 100 million ISK.
+
+<<1006.0;1012.72;en>>
+That is the fundamental point here on the severity of the fines.
+
+<<1012.72;1016.76;en>>
+The severity was entirely unrestricted.
+
+<<1016.76;1047.44;en>>
+As regards the other arguments provided by the government in its written submissions on the angle criteria, the applicants would simply refer to this court's judgment in the case of Lauko versus Slovakia at paragraph 58, wherein it was stated that whether the offense is punishable by imprisonment or whether it is entered into a criminal record is not decisive.
+
+<<1050.84;1064.72;en>>
+In the interest of time, the applicants object to the other arguments of the government on the angle criteria as incorrect and unproven and reserve the right to answer them further in rebuttal.
+
+<<1067.88;1071.92;en>>
+I will now turn to the issue of presumption of innocence.
+
+<<1071.92;1079.84;en>>
+Your Excellencies, the applicants were convicted entirely without trial in the first instance.
+
+<<1079.84;1094.6;en>>
+They had to litigate on appeal in the only proceedings available to them from a position of having already been convicted by a court of law.
+
+<<1094.6;1103.4;en>>
+They were never given formal suspect status at any stage of the domestic proceedings.
+
+<<1103.4;1123.24;en>>
+And this is unlike the defendants in the cases of Satovich versus Italy and the case of Petrina versus Croatia, which are both judgments which deal with in absentia convictions.
+
+<<1126.16;1136.84;en>>
+This meant that the applicants did not enjoy any of the rights usually afforded to an accused person.
+
+<<1136.84;1155.44;en>>
+Before being convicted, they, for example, did not have the right to counsel before being convicted that could advise them on how to respond to charges.
+
+<<1155.44;1170.04;en>>
+They did not either enjoy the right to not incriminate themselves until after they had already been found guilty by a court of law.
+
+<<1170.04;1192.56;en>>
+The first issue here is, therefore, simply whether this fact alone that the applicants were never given formal suspect status at the stage of the domestic proceedings is in itself sufficient to find that a violation of the right to presumption of innocence has occurred.
+
+<<1192.56;1220.04;en>>
+The second fundamental issue, which is, of course, connected to the first, is whether a notification of criminal charges on the one hand and a conviction judgment that can be appealed on the other hand can be considered similar documents from the perspective of the citizen.
+
+<<1220.04;1231.68;en>>
+The government argues that it does not matter whether a case is initiated with a notification of charges or a conviction judgment that can be appealed.
+
+<<1231.68;1237.72;en>>
+The applicants disagree with this argument.
+
+<<1237.72;1243.56;en>>
+They submit that there is a clear difference between a notification of charges and the conviction judgment.
+
+<<1243.56;1259.44;en>>
+One document presents accusations that have not been established under fact or law, whereas the other presents accusations that a court of law has already confirmed on both facts and law.
+
+<<1259.44;1280.76;en>>
+In other words, in the only trial available to the applicants, they had to contend, for example, with a state prosecutor who neither had to find a way to prove the facts of the case, nor to take those facts and apply them to the correct legal provisions.
+
+<<1280.76;1287.72;en>>
+The district court of Reykjavik had done all that work for the prosecutor when it convicted the applicants.
+
+<<1287.72;1294.8;en>>
+This is, of course, quite different to a regular criminal case in the first instance.
+
+<<1294.8;1326.52;en>>
+The third fundamental question in the view of the applicants is whether it is in itself consistent with the right to presumption of innocence to make a citizen have to take positive action to initiate appeal proceedings themselves, to disprove his guilt.
+
+<<1326.52;1351.42;en>>
+The applicants would also like to underline, Your Excellencies, that the appeal proceedings were inevitably colored by the fact that the applicants had already been convicted, and therefore that the appeal proceedings did not remedy the first instance proceedings.
+
+<<1351.42;1356.12;en>>
+The conviction damns the applicants' credibility.
+
+<<1356.12;1358.4;en>>
+Mr. President, members of the court,
+
+<<1358.4;1366.72;en>>
+I will now move on to the right to oral testimonies before the Icelandic Supreme Court.
+
+<<1366.72;1376.0;en>>
+The government's arguments on the right to oral testimonies being complied with under Article 6 are threefold.
+
+<<1376.0;1384.52;en>>
+The Icelandic government argues that the right was practical and effective.
+
+<<1384.52;1396.16;en>>
+The government also argues that there was no factual dispute in the case, and therefore that testimonies were not necessary.
+
+<<1396.16;1412.8;en>>
+And finally, it argues that as the applicants were convicted without oral testimonies in the first instance, that it was unnecessary to offer the applicants oral testimonies on appeal.
+
+<<1412.8;1415.64;en>>
+These are the three main arguments.
+
+<<1415.64;1417.36;en>>
+I will now cover each argument in turn.
+
+<<1425.16;1435.4;en>>
+Article 205 of the Act on Criminal Procedure states the following.
+
+<<1435.4;1455.78;en>>
+The Supreme Court can decide that oral presentation of evidence should be submitted as deemed necessary by the court.
+
+<<1461.08;1480.78;en>>
+The provision does not say that the parties may request oral testimonies if they deem it necessary, or that the Supreme Court may permit requests from parties for oral testimonies, for example.
+
+<<1480.78;1496.36;en>>
+The wording of the provision does not refer to this as a right of the parties, but as a decision for the court to make in any given criminal case if the court itself deems it necessary.
+
+<<1496.36;1522.2;en>>
+Furthermore, the government has not provided to this court a single piece of evidence to show that a case party to a criminal case has ever made a request to the Supreme Court for oral testimonies, or of the Supreme Court ever granting such a request from a case party.
+
+<<1522.2;1535.56;en>>
+The question for the court on the effectiveness of these rights has therefore become very simple.
+
+<<1535.56;1561.86;en>>
+Can the applicants be expected to avail themselves of rights that are not apparent from the wording of the article, and when there is no evidence of any criminal case defendant in Icelandic legal history, either even requesting these rights or being granted those rights?
+
+<<1561.86;1567.38;en>>
+And the applicants submit that the answer is a clear no.
+
+<<1567.38;1572.24;en>>
+The rights are not practical and effective for convention purposes.
+
+<<1572.24;1589.8;en>>
+Now, before this court, there are two reports from expert committees in Iceland on the direct provision of oral evidence, submitted to this court as attachments 13 and 14.
+
+<<1589.8;1607.36;en>>
+Both expert reports confirm that there were grave concerns within Iceland, that the complete lack of oral testimonies on appeal before the Supreme Court violated Article VI of the Convention.
+
+<<1607.36;1623.96;en>>
+The ex-president of the Supreme Court is, for example, quoted in one of the reports as saying that if the right was effective, a new courthouse would have to be constructed, and a lot more judges would have to be appointed because of increased workload.
+
+<<1626.74;1634.48;en>>
+This clearly shows that according to court practice within Iceland, the rights were not effective either.
+
+<<1637.36;1662.36;en>>
+Furthermore, attachments 27 and 28 to the applicant's submissions to the court show that the conclusion of the two expert reports do indeed reflect the views of the government on the issue, contrary to what it now argues in its written submissions to this court.
+
+<<1662.36;1679.6;en>>
+The documents show that a new court of appeals was established in Iceland, specifically to provide for the possibility of oral testimonies on appeal for the first time.
+
+<<1679.6;1687.84;en>>
+In 2016, the Minister of the Interior in Iceland proposed a legislative bill to the Icelandic Congress.
+
+<<1687.84;1694.88;en>>
+And you can see the explanatory notes to that bill on attachment 27.
+
+<<1694.88;1710.96;en>>
+The explanatory notes refer to the two expert reports, on it being necessary to establish a new court of appeals to provide for oral testimonies for the first time.
+
+<<1710.96;1719.6;en>>
+The applicants have also submitted the speech of the Minister of Interior in 2016 to the Parliament on presenting the bill.
+
+<<1719.6;1723.88;en>>
+And you can see that document on attachment 28.
+
+<<1723.88;1739.92;en>>
+That document clearly reflects that it was the view of the government that oral testimonies were unavailable before the Supreme Court, and it being necessary to establish a whole new court for that reason.
+
+<<1739.92;1760.76;en>>
+Further, the documents show that there was a broad consensus within the Icelandic legal community on it being necessary to establish a new appeal court to make oral testimonies on appeal available to criminal case defendants for the first time.
+
+<<1760.76;1776.6;en>>
+The views were backed by, for example, the Icelandic Bar Association, the Icelandic Lawyers Association, the Icelandic Association of Judges, and the Icelandic Association of Prosecutors.
+
+<<1776.6;1786.92;en>>
+And notably, there was not a single expert that provided the contrary view in those two expert reports and argued that testimonies could be taken before the Supreme Court.
+
+<<1794.84;1807.04;en>>
+Your Excellencies, it should therefore be concluded that there is no doubt that the rights to oral testimonies before the Supreme Court were not practical and effective.
+
+<<1807.04;1816.96;en>>
+Now, the government argues in its written submissions that as there was no disagreement on facts, it was not necessary to take oral testimonies before the Supreme Court.
+
+<<1816.96;1825.0;en>>
+This is, in the view of the applicants, incorrect, as is explained at length in the written brief of the applicants to the Grand Chamber.
+
+<<1825.0;1834.8;en>>
+The applicants, for example, never accepted that they intended to delay the trial in the first instance.
+
+<<1834.8;1844.72;en>>
+They never accepted that they had caused offense to the presiding judge in the case or that they had harmed their clients by resigning from the case.
+
+<<1844.72;1853.66;en>>
+But there was also a disagreement on various legal terms that had subjective and factual elements to them.
+
+<<1853.66;1861.64;en>>
+For example, like intentional delay of a court hearing.
+
+<<1861.64;1867.2;en>>
+Whether there is intent in any given case is, of course, subjective and factual.
+
+<<1867.2;1872.14;en>>
+Or whether the applicants had violated the dignity of the court.
+
+<<1872.14;1880.24;en>>
+Whether a violation of dignity occurs is, of course, both subjective and factual.
+
+<<1880.24;1905.6;en>>
+But the fundamental point here, Your Excellencies, is that even if there had been no disagreement on facts, a violation of Article VI has still occurred, as it is a fundamental right of a criminal case defendant to appear in person before the court determining his guilt or innocence and decides on the appropriate sentencing.
+
+<<1905.6;1910.16;en>>
+And this is quite irrespective of whether there was a factual dispute or not.
+
+<<1910.16;1918.64;en>>
+In this case, there were many fundamental reasons for why it was necessary to offer the applicants the chance to testify in person before the Supreme Court.
+
+<<1918.64;1922.76;en>>
+In the interest of time, I will name just three in particular.
+
+<<1922.76;1927.52;en>>
+First, that the domestic law did not impose a maximum penalty amount.
+
+<<1927.52;1938.72;en>>
+Sentencing, therefore, depended particularly heavily on a court's subjective evaluation of the applicant's credibility and their personality.
+
+<<1938.72;1944.84;en>>
+Second, the case was extremely damaging to their professional reputations as attorneys.
+
+<<1944.84;1951.4;en>>
+Third, the first instance court did not take oral testimonies in the case.
+
+<<1951.4;1958.34;en>>
+The applicants have a right to appear before the domestic court handling their case in person at least once in the domestic proceedings.
+
+<<1962.72;1976.68;en>>
+Now, the government has argued that the right to testify is only applicable before the Supreme Court when first-instance acquittals are overturned on appeal and testimonies were taken in the first instance.
+
+<<1976.68;1990.96;en>>
+So what the government is really arguing here is that it should benefit from having unlawfully convicted the applicants without trial in the first instance and without testimonies.
+
+<<1990.96;2003.16;en>>
+That the fact that they were convicted without testimonies in the first instance means that no testimonies were necessary on appeal either.
+
+<<2003.16;2013.6;en>>
+In other words, Your Excellency, the Icelandic state is relying on its own breach of Article 6 in the first instance, and it should not be allowed to do that.
+
+<<2016.5;2027.72;en>>
+To put it another way, the Supreme Court should have offered the applicants the right to oral testimonies precisely because the district court deprived them of those rights in the first instance.
+
+<<2027.72;2041.76;en>>
+Further, the principle on direct provision of oral testimonies from the defendants being required, even when a conviction is confirmed, can be seen in the court's judgment in Ekpattani versus Sweden.
+
+<<2041.76;2049.8;en>>
+In that case, the defendant was convicted both in the first and in the second instance, just like the applicants in this case.
+
+<<2049.8;2056.36;en>>
+But he was only allowed to appear before the court in person in the first instance, but not on appeal.
+
+<<2056.36;2066.8;en>>
+The Swedish appeal court had full jurisdiction to re-examine whether he was guilty or innocent and to decide on the appropriate sentencing, just like the Icelandic Supreme Court.
+
+<<2066.8;2069.24;en>>
+This court found that Mr. Ekpattani
+
+<<2069.24;2077.16;en>>
+had the right to appear in person before the Swedish court at appeal, despite being convicted in the first instance.
+
+<<2077.16;2080.88;en>>
+So if the twice convicted Mr. Ekpattani
+
+<<2080.88;2094.56;en>>
+had the right to appear twice before domestic courts, the applicants submit that they should be entitled to such rights at least once.
+
+<<2094.56;2102.6;en>>
+Not least because the charges in this case are much more serious than in the case of Mr. Ekpattani.
+
+<<2102.6;2111.44;en>>
+And you can also see this general rule in the recent case of Sigurdsson versus Iceland at paragraph 33.
+
+<<2114.4;2126.18;en>>
+Finally, Your Excellencies, this argument of the government, if accepted, would set a very dangerous precedent for the protection of human rights within Europe.
+
+<<2126.18;2135.16;en>>
+Contracting states would then have an incentive for depriving accused persons of oral testimonies in the first instance without trial.
+
+<<2135.16;2140.12;en>>
+To justify depriving them again of oral testimonies on appeal.
+
+<<2140.12;2146.76;en>>
+That simply cannot and should not be accepted as a matter of precedent.
+
+<<2146.76;2150.84;en>>
+Mr. President and distinguished members of the court,
+
+<<2150.84;2158.68;en>>
+the conclusion should be that the government has failed to meet its burden of showing that the rights to oral testimonies are practical and effective.
+
+<<2158.68;2163.48;en>>
+And that a breach of Article 6 of the convention has occurred.
+
+<<2163.48;2165.0;en>>
+Thank you for your time, Mr. President,
+
+<<2165.0;2167.32;en>>
+and distinguished members of the court.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<2170.82;2172.22;en>>
+Thank you very much.
+
+<<2172.22;2175.02;en>>
+I call Mrs. Fanney Rós Þorsteinsdóttir.
+
+[[Government;GR1]]
+
+<<2189.32;2192.56;en>>
+Mr. President, members of the court,
+
+<<2192.56;2200.24;en>>
+the case before the court today concerns alleged violations of Article 6 and 7 of the Convention.
+
+<<2200.24;2218.78;en>>
+It further touches up on the application of Article 6 under its criminal head and where the rights of the Convention can be applied to situations where a defense counsel is fined for contempt of court in the context of processing a case before domestic courts.
+
+<<2218.78;2231.38;en>>
+It touches up on the issue where there has been a gradual broadening of the criminal head of Article 6 to cases not strictly belonging to the traditional categories of criminal law.
+
+<<2231.38;2239.28;en>>
+The government submits that the present case is a typical case that should not fall there under.
+
+<<2239.28;2256.2;en>>
+In any event, the government disputes that the absence of a hearing before the district court of Reykjavik and the fact that the applicants gave no statements before the Supreme Court or witnesses were heard gave rise to any breach of Article 6 or 7.
+
+<<2256.2;2262.94;en>>
+The government is of the view that no such violations took place.
+
+<<2262.94;2278.76;en>>
+The applicants are two respected lawyers who claim that their rights under the Convention were violated when they were fined in accordance with the Criminal Procedure Act, which will be referred to as the CPA.
+
+<<2278.76;2286.98;en>>
+The government is aware that it's departing from its previous position before the chamber by contesting the applicability of Article 6.
+
+<<2286.98;2297.06;en>>
+However, when looking at the facts, it's impossible to maintain that the case is a criminal case for the purpose of applying Article 6.
+
+<<2297.06;2303.74;en>>
+This is simply a case where two defense counsels were fined due to their behavior in court.
+
+<<2303.74;2306.1;en>>
+This was a disciplinary measure.
+
+<<2306.1;2316.58;en>>
+It becomes obvious that the present case is not a criminal case if the court's criteria, the so-called Engel criteria, is followed.
+
+<<2316.58;2322.9;en>>
+The first step is to view the legal classification of the offense under domestic law.
+
+<<2322.9;2339.7;en>>
+The applicants were fined under Chapter 35 of the CPA for offending the court and causing unnecessary delay of the case by not attending the main trial and thereby jeopardizing their clients' and other defendants' interests.
+
+<<2339.7;2341.92;en>>
+The CPA is a procedural act.
+
+<<2341.92;2344.38;en>>
+It is not part of criminal law.
+
+<<2344.38;2351.9;en>>
+It does not describe offenses such as are described in the general penal code or special criminal law.
+
+<<2351.9;2359.62;en>>
+Moreover, Chapter 35 of the act is set out in Part 6, along with provisions on litigation cost.
+
+<<2359.62;2365.06;en>>
+The provisions are more or less the same as are in Chapter 22 of the Civil Procedure Act.
+
+<<2365.06;2369.06;en>>
+Both have the same heading, procedural fines.
+
+<<2369.06;2376.62;en>>
+Article 222 of the CPA is almost identical to Article 134 of the Civil Procedure Act.
+
+<<2376.62;2389.3;en>>
+And Article 223 of the former act describes more or less the same offenses as Article 135 of the Civil Procedure Act, as can be seen in Document 24.
+
+<<2389.3;2395.34;en>>
+The applicants were fined for causing unnecessary delay of the case and offending the court.
+
+<<2395.34;2407.14;en>>
+Article 223, Paragraphs A and D of the CPA, offenses that occurred in a criminal trial where the applicant's clients and two others were being prosecuted.
+
+<<2407.14;2422.98;en>>
+The same could happen in a civil proceeding where a counsel could be fined for offending the court and causing unnecessary delay of a case in accordance with Article 135, Paragraphs C and F of the Civil Procedure Act.
+
+<<2422.98;2456.9;en>>
+It does not seem logical that the former offense, where a counsel is fined in accordance with the CPA, should be classified as criminal simply because it took place during a criminal trial and the provision defining the offense is found in the CPA, while the latter, where a counsel is fined according to the Civil Procedure Act, would not be classified as criminal if it took place during a proceeding in a civil case and the provision describing that same offense is part of the Civil Procedure Act.
+
+<<2456.9;2459.14;en>>
+The two provisions are almost identical.
+
+<<2459.14;2462.22;en>>
+Their aim is to protect proceedings in court.
+
+<<2462.22;2468.82;en>>
+A court can fine counsels, both in criminal and civil cases, in accordance with these procedural rules.
+
+<<2468.82;2477.94;en>>
+It is for the court sitting in a particular case to examine of its own motion whether there has been an offense under these provisions.
+
+<<2477.94;2486.78;en>>
+Therefore, it cannot be concluded that Article 223 of the CPA belongs to Icelandic criminal law.
+
+<<2486.78;2499.82;en>>
+As to the nature of the offense, the government points to the fact that according to Article 223 of the CPA, only the prosecutor, a defense counsel, or a legal advisor may be fined.
+
+<<2499.82;2505.5;en>>
+The article does not define offenses that can be committed by the population at large.
+
+<<2505.5;2523.9;en>>
+It defines offenses that a very limited group of people can commit in very specific surroundings, only by those participating in court proceedings, therefore making it an internal court matter and no criminal offense.
+
+<<2523.9;2537.86;en>>
+The court in its case law seems to distinguish between offenses applicable to persons under a specific regime or a group with a special status and those with the potential to affect the whole population.
+
+<<2537.86;2549.18;en>>
+The court has in several cases listed lawyers as a typical group with such a status that their offense during court proceedings would fall outside of the scope of Article 6.
+
+<<2549.18;2562.7;en>>
+The court has even acknowledged that rules enabling a court to sanction disorderly conduct in proceedings before it are a common feature of legal systems of the contracting states.
+
+<<2562.7;2574.94;en>>
+And finally, as to the nature and degree of the penalty severity, the government is aware that the fines in the present case were higher than in previous Icelandic judgments on procedural fines.
+
+<<2574.94;2580.14;en>>
+However, that does not make it a criminal punishment.
+
+<<2580.14;2588.06;en>>
+The fact that a fine is significant does not in itself imply that an offense can be qualified as a criminal offense.
+
+<<2588.06;2604.34;en>>
+The court has even mentioned disciplinary proceedings against lawyers and doctors as an example of offenses that will not become criminal were confined to a central disciplinary context, even where the fine can be described as punitive.
+
+<<2604.34;2608.26;en>>
+In the decision of the court in Irving Brown v. UK,
+
+<<2608.26;2613.74;en>>
+a solicitor was fined with 10,000 pounds in the year 1996.
+
+<<2613.74;2619.5;en>>
+That is considerably higher than the applicant's fines.
+
+<<2619.5;2634.06;en>>
+The government points to document E, a statement from the Office of the Public Prosecutor, confirming that fines imposed under Article 223 of the CPA are not to be entered on criminal records.
+
+<<2634.06;2645.86;en>>
+That indicates that fines in question are more of a disciplinary nature rather than criminal, as fines in general are to be entered on criminal records.
+
+<<2645.86;2657.82;en>>
+Finally, the government points out that there is no possibility to convert these fines into prison term, as was the case, for example, in Roundsburg v. Sweden.
+
+<<2657.82;2663.42;en>>
+Despite that, the court did not find the fines to be of a criminal nature.
+
+<<2663.42;2673.98;en>>
+In light of this, the government submits that Article 6 does not apply under its criminal head to the proceedings in question.
+
+<<2673.98;2683.06;en>>
+In the event that the court considers Article 6 applicable, the government points to the unique circumstances of the case.
+
+<<2683.06;2689.02;en>>
+This is not a typical criminal case and does not carry any significant degree of stigma.
+
+<<2689.02;2703.42;en>>
+It must be borne in mind that the criminal head guarantees will not necessarily apply with their full stringency in all cases, in particular those that do not belong to the traditional categories of criminal law.
+
+<<2703.42;2707.42;en>>
+Let us contemplate what are the main concerns of the case.
+
+<<2707.42;2712.9;en>>
+The answer is the basic protocol between the courts and councils.
+
+<<2712.9;2726.94;en>>
+Two lawyers with decades of experience as defense counsel deliberately did not attend the main hearing in one of the most complicated, extensive, and serious criminal cases before Icelandic courts.
+
+<<2726.94;2734.1;en>>
+It was a high-profile case, one of those large cases resulting from the financial collapse in 2008.
+
+<<2734.1;2738.42;en>>
+The applicant's clients were charged along with two other defendants.
+
+<<2738.42;2751.8;en>>
+As defense counsels, the applicants made all possible requests and motions regarding the procedure of the case on behalf of their clients, as, of course, they were entitled to according to the CPA.
+
+<<2751.8;2761.88;en>>
+In their letters to the district court, the applicants mentioned examples of what they considered to be violations against their clients' rights.
+
+<<2761.88;2769.94;en>>
+The applicants concluded by stating that these alleged violations made them unable to perform their role.
+
+<<2769.94;2777.76;en>>
+A Supreme Court's judgment was rendered in the case of the applicants' clients on 12th of February, 2015.
+
+<<2777.76;2785.54;en>>
+The clients filed an application and complained to this court, among other things, about alleged violations of Article 6.
+
+<<2785.54;2796.54;en>>
+Some of the complaints regarded the same procedural issues that the applicants listed as the reasons for their resignation from the case.
+
+<<2796.54;2818.5;en>>
+In short, the court held in its judgment from 4th of June this summer, the case of Einarsson and others, that there had been no violation of Article 6 in respect of the alleged denial of access to data and the alleged failure to summon witnesses, which were the main reasons given by the applicants for their resignation.
+
+<<2818.5;2825.42;en>>
+In light of this, the government submits that the reason the applicants gave for their resignation simply had no foundation.
+
+<<2829.54;2845.98;en>>
+It is a special consideration how these two competent defense counsels could believe that they were fulfilling their duties towards their clients by resigning three days before the main hearing, although with their client's acceptance.
+
+<<2845.98;2863.02;en>>
+The obvious answer is that the applicants were fully aware of their duties to appear in court and raise these procedural issues in the main hearing in defense for their clients, as was confirmed in the Supreme Court's judgment.
+
+<<2863.02;2872.14;en>>
+The applicants decided not to do so and ignored the judge's ruling on the matter, apparently to obtain a postponement of the main hearing.
+
+<<2872.14;2882.72;en>>
+However, the defense counsels of the two other defendants in the case saw no reason to resign and attended the main hearing as the judge had decided.
+
+<<2885.78;2897.7;en>>
+In the event that Article 6 is considered applicable to the present case, the proceedings, both in the District Court and the Supreme Court, must be viewed as a whole.
+
+<<2897.7;2908.02;en>>
+The question that lies before the court is, therefore, whether the Supreme Court was capable of remedying the defects of the proceedings before the District Court.
+
+<<2908.02;2924.02;en>>
+It should be emphasized that an alleged procedural defect in the District Court's handling of the case does not by itself constitute a violation of Article 6, paragraph 1, if the defect was remedied on appeal.
+
+<<2924.02;2933.18;en>>
+According to the case of Die Kapper versus Belgium, this is the reason for the existence of the rule of exhaustion of domestic remedies.
+
+<<2933.18;2940.42;en>>
+The result is that defects at one level may be put right at a higher level.
+
+<<2940.42;2950.18;en>>
+This depends mainly on two things, the nature of the flaws and the power and scope of review on appeal.
+
+<<2950.18;2964.94;en>>
+The government agrees with the chamber that the flaws were limited to defects in the proceeding at lower level, therefore, not of such nature as to call into question the Supreme Court's ability to remedy the defects on appeal.
+
+<<2964.94;2976.22;en>>
+This is very different from the Die Kapper case, where a fundamental defect involving the actual composition of a national court could not be cured on appeal.
+
+<<2976.22;2988.58;en>>
+According to the CPA, the Supreme Court's scope of view is very wide, since it has the jurisdiction to examine both questions of law and facts.
+
+<<2988.58;2997.98;en>>
+The right of the applicants to defend themselves at the appellant level was not subject to any limitation according to law.
+
+<<2997.98;3005.44;en>>
+And they themselves were able to state all their views during the oral deliberations of the case.
+
+<<3005.44;3015.66;en>>
+The Supreme Court's scope of review was therefore no hindrance for the applicants to resort to all the same defenses as they could before the district court.
+
+<<3015.66;3022.82;en>>
+The wide scope of review made it possible for the Supreme Court to remedy any procedural defect at first instance.
+
+<<3026.26;3030.78;en>>
+The facts of the case are both simple and undisputed.
+
+<<3030.78;3043.62;en>>
+The applicants' absence from the court in the main hearing is a fact, and the communication between the applicants and the district court was conducted with letters and emails.
+
+<<3043.62;3050.54;en>>
+Before the Supreme Court, the applicants never presented any arguments which were beyond its scope of review.
+
+<<3050.54;3064.06;en>>
+In particular, there was no disagreement between the parties as to the facts of the case, as can be seen in the applicants' oral pleadings before the Supreme Court in documents C1 and 2.
+
+<<3064.06;3081.7;en>>
+The applicants' arguments before the Supreme Court concerned the procedural defects at the first instance, the alleged rightfulness of their resignation from the case, and finally, the lawfulness of the presiding judge's action in regard to the relevant provisions of the CPA.
+
+<<3081.7;3097.02;en>>
+The applicants' briefs to the Supreme Court do not reveal any disagreement on the facts, and certainly not a disagreement which a witness testimony, or indeed the testimony of the applicants themselves, would have been necessary to resolve.
+
+<<3097.02;3106.86;en>>
+The applicants have not argued what their own testimonies or witnesses should have demonstrated, as the facts of the case were undisputed.
+
+<<3106.86;3116.54;en>>
+In this respect, it should be pointed out that the Icelandic procedure does not allow character witnesses or witnesses to demonstrate credibility.
+
+<<3116.54;3129.74;en>>
+However, according to the Supreme Court's judgment in the applicants' case, there were means, according to the CPA, that the applicants could have resorted to if they thought this necessary.
+
+<<3129.74;3141.82;en>>
+They could have examined witnesses in a special witness examination procedure at the district court for the purpose of the appeal, in accordance with Article 141 of the CPA.
+
+<<3141.82;3150.86;en>>
+Such witness examination has often been exercised for the purpose of an appeal, and is not subject to the Supreme Court's authorization.
+
+<<3150.86;3155.66;en>>
+So it is the parties themselves who can decide to use this provision.
+
+<<3155.66;3172.62;en>>
+Furthermore, the Supreme Court's judgment states that the applicants could have requested the Supreme Court's permission to examine witnesses and or give statements themselves in accordance with Article 205, paragraph 3 of the CPA.
+
+<<3172.62;3179.38;en>>
+This conclusion of the Supreme Court has been met with profound criticism from the applicants.
+
+<<3179.38;3195.58;en>>
+It is, however, clear that according to the rule of subsidiarity, the court, being an international court, is not in a position to disregard the Supreme Court's interpretation of domestic law unless it can be deemed arbitrary or manifestly unreasonable.
+
+<<3195.58;3206.18;en>>
+The government agrees with the chamber, where it found the Supreme Court's interpretation of domestic law not to be arbitrary or manifestly unreasonable.
+
+<<3206.18;3221.54;en>>
+The applicants argue that these resources are neither effective nor practical, despite the fact that the highest court in Iceland has presented a clear statement in its judgment that these resources were indeed available to them.
+
+<<3221.54;3229.24;en>>
+The government objects to the applicants' claim that only the Supreme Court itself may request testimonies.
+
+<<3229.24;3243.7;en>>
+Indeed, it is subject to the Supreme Court's permission, but that does not exclude the possibility that it is available to case parties as well as the court itself, as stated in the case of Jysylla v. Finland.
+
+<<3243.7;3252.58;en>>
+It is undisputed, however, that the Supreme Court has only once exercised the possibility to take testimonies, and that was ex proprio motu.
+
+<<3252.58;3263.78;en>>
+That in itself does not change the fact that this possibility was available to the applicants according to the CPA and the Supreme Court's judgment.
+
+<<3263.78;3273.86;en>>
+The applicants refer to two reports from administrative committees written in preparation for the establishment of an appeal court in Iceland.
+
+<<3273.86;3287.82;en>>
+The government points out that legal experts agreed for years that it was essential to establish an appeal court, mainly so testimonies on appeal would become the principle instead of the exception.
+
+<<3287.82;3295.64;en>>
+Therefore, it is no surprise that domestic experts emphasize the rarity of testimonies before the Supreme Court.
+
+<<3295.64;3305.9;en>>
+This purpose and motive of these reports should therefore be borne in mind when deciding on their importance for this case.
+
+<<3305.9;3317.34;en>>
+It must be submitted that they cannot be looked upon as binding declaration for the government, contrary to the clear statements in the Supreme Court's judgment.
+
+<<3317.34;3329.1;en>>
+The government agrees with the Chamber that Article 6 did not require the Supreme Court to act ex proprio motu and summon the applicants and witnesses to give oral statements.
+
+<<3329.1;3336.5;en>>
+In relation to this, the cases of Artnarson and Bragasson versus Iceland are not precedents.
+
+<<3336.5;3342.5;en>>
+In both of these cases, the court found that Article 6 had been violated.
+
+<<3342.5;3352.26;en>>
+The Supreme Court had overturned the district court's acquittal and convicted the applicants without summoning them and relevant witnesses.
+
+<<3352.26;3359.7;en>>
+But in the case at hand, the Supreme Court upheld the decision of the district court to fine the applicants.
+
+<<3359.7;3367.92;en>>
+The government emphasizes that overturning from acquittal to conviction seems to be an operating argument in Artnarson and Bragasson.
+
+<<3367.92;3380.26;en>>
+Furthermore, the defendants in those cases were charged with serious offenses against the general penal code and faced long prison sentences unlike the applicants.
+
+<<3380.26;3392.18;en>>
+The government maintains that the Supreme Court also had the possibility to invalidate the district court's judgment regarding the court fines and refer the case back to the district court.
+
+<<3392.18;3403.82;en>>
+The government has strong reservations about the applicants' arguments that everyone involved at the Supreme Court's trial were of the opinion that there was no possibility of a retrial in the first instance.
+
+<<3403.82;3406.1;en>>
+This is simply not the case.
+
+<<3406.1;3414.1;en>>
+The applicant's case regarding the court fines was appealed separately to the Supreme Court and given a separate case number.
+
+<<3414.1;3425.18;en>>
+The case of the applicant's clients was also appealed to the Supreme Court, where it received a different case number and the judgment in that case was rendered almost nine months later.
+
+<<3425.18;3435.94;en>>
+Therefore, the applicant's case was a separate case that could be invalidated and referred back, like in any other case before the Supreme Court, if considered necessary.
+
+<<3435.94;3441.14;en>>
+This has been done on many occasions on the grounds of general rules.
+
+<<3441.14;3447.62;en>>
+The Supreme Court did not state that this was a procedural impossibility.
+
+<<3447.62;3458.22;en>>
+It simply did not find it necessary because it was able to render its judgment based on the case files, the applicant's written observations, and the oral pleadings.
+
+<<3461.54;3471.1;en>>
+As stated by the chamber in the present case, it is for the appealed court to provide a forum for fresh factual and legal determination of the merits of the charge.
+
+<<3471.1;3480.5;en>>
+But it's then for the applicants to avail themselves of the remedies for their defense that are provided for by domestic law.
+
+<<3480.5;3488.96;en>>
+The government points out that both the applicants were represented by legal counsel throughout the proceedings before the Supreme Court.
+
+<<3488.96;3499.34;en>>
+Furthermore, as repeatedly stated, the applicants themselves are very experienced defense counsels with decades in the fields of criminal law and criminal procedure.
+
+<<3499.34;3508.52;en>>
+In light of the resources available to them, the applicants and their counsels should have been familiar with the appropriate defenses before the Supreme Court.
+
+<<3508.52;3520.54;en>>
+From the government's point of view, the applicants argue that they did not present their strongest defense according to the CPA because they were not invited to do so by the Supreme Court.
+
+<<3520.54;3525.3;en>>
+The government cannot agree with this kind of reasoning coming from such experienced counsels.
+
+<<3525.3;3533.38;en>>
+It should be expected that they would avail themselves to every possible defense stipulated in the CPA.
+
+<<3533.38;3545.74;en>>
+As to Article 6, paragraph 2, the government asserts that the applicants enjoyed the same position before the Supreme Court as any other appellant.
+
+<<3545.74;3557.66;en>>
+When judgments from the first instance are appealed, they are not final, and the appellant still has the status of an innocent person pending the procedure before the higher court.
+
+<<3557.66;3568.22;en>>
+The applicants were therefore presumed innocent in the proceedings before the Supreme Court in accordance with the Icelandic Constitution and Article 6.2 of the Convention.
+
+<<3568.22;3575.26;en>>
+Flaws in the process at first instance did not affect this right.
+
+<<3575.26;3585.6;en>>
+The government argues that the entirety of the proceedings was, as a whole, fair and complied with the requirements of Article 6.
+
+<<3585.6;3596.58;en>>
+The government agrees with the Chimpe that assessment of the overall fairness of the proceedings under Article 6, paragraph 1, is according to the court's jurisprudence.
+
+<<3596.58;3613.14;en>>
+The applicants' allegations according to paragraph 2 and 3 were directed at the lack of fairness of being found in absentia by the district court, and then the alleged failure of the Supreme Court to remedy the procedural flaws at the lower level.
+
+<<3613.14;3627.02;en>>
+In such cases, the court has confined itself to examine whether proceedings, as a whole, can be considered fair within the meaning of paragraph 1 of Article 6.
+
+<<3627.02;3629.94;en>>
+The applicants refer to the case of Gurs v. Turkey.
+
+<<3629.94;3645.46;en>>
+The government points out that the case is not a precedent for the present case, as the higher court in Gurs had not full jurisdiction to substitute its own view of the amount of compensation awarded to by the applicants by the first instance court.
+
+<<3645.46;3655.9;en>>
+In the present case, the situation is quite different, as the Supreme Court had the full jurisdiction to substitute its own view on the amount of the fines.
+
+<<3655.9;3662.14;en>>
+The argument of the Chimpe for an overall assessment under paragraph 1 of Article 6 are therefore sound.
+
+<<3662.14;3667.62;en>>
+Now we have come to the question whether there was a breach of Article 7.
+
+<<3667.62;3679.02;en>>
+Although it would be established that Article 6 was applicable under its criminal head in this case, the government submits that there was no breach of Article 7.
+
+<<3679.02;3688.42;en>>
+The applicants disagree with the reasoning of the Chimpe and claim that they could not have foreseen that the fines would be higher than in previous judgments.
+
+<<3688.42;3689.9;en>>
+The government disagrees.
+
+<<3689.9;3712.62;en>>
+The government would like to point out, firstly, that it's obvious that Icelandic councils respect the courts and behave accordingly, as can be seen since there are only 10 Supreme Court judgments regarding court fines for councils in the period of six decades in the years 1954 to 2014.
+
+<<3712.62;3724.94;en>>
+Thereof, only two of them concerns councils, failing to attend the main hearing, the applicant's case, and the case of Stefan Karl Kristiansson pending before this court.
+
+<<3724.94;3734.66;en>>
+The Kristiansson case is different from the applicant's case, since the council's non-attendance was not deliberate, but due to an alleged mistake on his behalf.
+
+<<3737.22;3745.06;en>>
+It is simply not correct, as maintained by the applicants, that it is not particularly unusual not to attend the main hearing.
+
+<<3745.06;3747.74;en>>
+And thereby causing a delay in court proceedings.
+
+<<3747.74;3751.54;en>>
+Deliberate non-attendance does not at all happen on a regular basis.
+
+<<3751.54;3756.34;en>>
+Icelandic jurisprudence shows just the opposite.
+
+<<3756.34;3773.46;en>>
+Secondly, the government submits that the court has, when examining Article 7, focused on each individual case and whether the interpretation and application in that certain case has been foreseeable for the particular person at hand.
+
+<<3773.46;3796.1;en>>
+Therefore, the government considers as to the foreseeability of the relevant provisions of the CPA and the amount of fines accordingly, that with the benefit on the basis of the applicant's knowledge, being practicing lawyers, they could reasonably be expected to be able to appreciate that they ran a real risk of being fined for contempt of court.
+
+<<3796.1;3810.18;en>>
+The government also maintains, in the light of the case, of Icelandic jurisprudence and the scale of the case at hand, that the applicants could reasonably have foreseen fines being relatively higher than before.
+
+<<3810.18;3817.18;en>>
+As previously stated, the case in which the applicants did not attend the main hearing was very complicated and extensive.
+
+<<3817.18;3819.62;en>>
+The duration of the trial was two weeks.
+
+<<3819.62;3826.66;en>>
+And in few cases, if any, there have been submitted more evidentiary documents.
+
+<<3826.66;3833.62;en>>
+In addition, there were four accused, who all faced very serious charges and many years of imprisonment.
+
+<<3833.62;3846.38;en>>
+It can therefore be argued that the overall scale and complexity of the case was much more compared to other cases where fines had been imposed.
+
+<<3846.38;3854.3;en>>
+In the case of CR versus the UK, the court also stated that the consequences need not be foreseeable.
+
+<<3854.3;3858.98;en>>
+That the consequences need not be foreseeable with absolute certainty.
+
+<<3858.98;3862.46;en>>
+Experience shows this to be unattainable.
+
+<<3862.46;3870.7;en>>
+Although certainty is highly desirable, the law must be able to keep pace with the changing circumstances.
+
+<<3870.7;3885.58;en>>
+This is in total conformity with the chamber judgment, where it is established that the consistent case law does not outlaw the gradual clarification of the rules of criminal liability through judicial interpretation from case to case.
+
+<<3885.58;3895.38;en>>
+The chamber also confirms that provisions of domestic law with no maximum amounts do not run counter to the requirements of Article 7.
+
+<<3895.38;3906.38;en>>
+Therefore, the amount of fines was not arbitrary, as it was consistent with the essence of the conduct and could have been reasonably foreseen by the applicants.
+
+<<3906.38;3915.18;en>>
+The applicants have argued that the fine amounts are much higher, not only according to domestic jurisprudence, but also in international comparison.
+
+<<3915.18;3928.3;en>>
+The government rejects this and points out that the offenses in the five cases cited by the applicants are not comparable as to the nature and gravity of these actions and the consequences thereof.
+
+<<3928.3;3934.5;en>>
+The applicants omitted, however, to cite Irving Brown versus the UK, referred to by the government earlier.
+
+<<3934.5;3946.22;en>>
+In that case, a fine of 10,000 pounds for offenses of a disciplinary nature were not criminal in nature, and the complaint did therefore not fall within the scope of Article 7.
+
+<<3949.54;3952.86;en>>
+Mr. President, members of the court,
+
+<<3952.86;3969.02;en>>
+in addition to this deliberation, the government relies on its written observations and for all these reasons submits that there has been no violation of Article 6 and 7 of the Convention.
+
+<<3969.02;3969.02;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<3972.13;3974.17;en>>
+Thank you for your submissions.
+
+<<3974.17;3981.87;en>>
+I now invite the judges of the Grand Chamber wishing to do so to put their questions to the parties, Judge Pere Pastor Vilanova.
+
+[[Judge;Pere Pastor Vilanova]]
+
+<<3985.33;3987.25;fr>>
+Merci beaucoup, M. le Président.
+
+<<3988.33;3996.41;fr>>
+J'ai deux questions adressées aux deux partis et qui se focalisent notamment sur l'article 7 de la Convention.
+
+<<3997.89;4000.13;fr>>
+En ce qui intéresse, la première, la voilà.
+
+<<4001.69;4019.09;fr>>
+Le fait que l'article 223 du Code de procédure pénale ne prévoit aucune limite à l'amende imposée, peut-il poser un problème au titre du principe fondamental de l'état de droit, notamment celui de la séparation des pouvoirs?
+
+<<4022.33;4024.93;fr>>
+Et en ce qui concerne la deuxième question, c'est la suivante.
+
+<<4026.29;4043.37;fr>>
+En matière purement pénale, est-ce que les peines, qu'il s'agisse de prison ou d'amende, sont-elles fixées clairement dans la loi islandaise au titre de la jurisprudence de la Grande Chambre établie dans Del Río Prada?
+
+<<4043.37;4045.69;fr>>
+Je vous remercie, Monsieur le Président.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4048.22;4050.82;fr>>
+Merci beaucoup, Judge Nußberger.
+
+[[Judge;Angelika Nußberger]]
+
+<<4053.17;4053.93;en>>
+Thank you very much.
+
+<<4053.93;4058.97;en>>
+I would just have a question concerning the foreseeability of the sanction.
+
+<<4058.97;4072.17;en>>
+And I wanted to know, is this fine or what is fine fix in relation to the potential gain of the lawyers in the case or in relation to the real gain?
+
+<<4072.17;4074.65;en>>
+Or in relation to other factors?
+
+<<4074.65;4083.45;en>>
+I understand that you mentioned also the complexity of the case or perhaps also the potential damages caused by the delay.
+
+<<4083.45;4087.19;en>>
+In which relation was the sanction fixed?
+
+<<4087.19;4087.19;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4089.38;4091.38;en>>
+Thank you very much, Judge Pavli.
+
+[[Judge;Darian Pavli]]
+
+<<4094.07;4095.39;en>>
+Thank you.
+
+<<4095.39;4102.55;en>>
+I have a question for the applicant with respect to the third angle criterion.
+
+<<4102.55;4120.31;en>>
+Now, if I understood correctly, your submission today was that in terms of the severity of the fine, the fact that it is unlimited in theory is sufficient to bring the criminal limbo of Article VI into play.
+
+<<4120.31;4136.27;en>>
+And my question there is that our case law tends to judge the severity of a sanction based on the actual fine, not the theoretical possibility of a fine.
+
+<<4136.27;4157.59;en>>
+And secondly, if you could address the government's submission that in at least some similar cases, with respect to the actual fine applied in this case, the court has found that even higher amounts do not necessarily or automatically trigger the criminal limbo of Article VI.
+
+<<4157.59;4158.15;en>>
+Thank you.
+
+<<4158.15;4160.74;en>>
+And of course, the government, if they wish to comment, might do so.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4163.51;4165.61;en>>
+Thank you very much, Judge Schukking.
+
+[[Judge;Jolien Schukking]]
+
+<<4170.9;4172.72;en>>
+Thank you, Mr. President.
+
+<<4172.72;4180.54;en>>
+I have a follow-up question to the question which were already posed by the colleagues Pastor Vilanova and Nußberger.
+
+<<4180.54;4183.46;en>>
+It concerns Article 7.
+
+<<4183.46;4199.82;en>>
+One of the complaints by the applicants was that the amount of the fine imposed had not been foreseeable, as no maximum amount was stipulated in domestic law, moderate and statute law, or case law.
+
+<<4199.82;4207.26;en>>
+As you know, in many European countries, maximum penalties are set in law as a guarantee against arbitrary punishment.
+
+<<4207.26;4212.76;en>>
+And making it foreseeable that punishment will never exceed that maximum.
+
+<<4212.76;4226.7;en>>
+Iceland being a country not having set such limits in law, my question is, what are the procedural safeguards in place in Iceland against arbitrary punishment?
+
+<<4226.7;4226.7;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4228.95;4230.87;en>>
+Thank you very much, Judge Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<4234.99;4238.75;en>>
+I have a question on Article 6 first.
+
+<<4238.75;4252.27;en>>
+On Article 6, I have a question whether under the domestic criminal procedure, there are any regulations that are defining trial in absentia.
+
+<<4252.27;4256.59;en>>
+So how you have to act when there was a trial in absentia.
+
+<<4256.59;4260.71;en>>
+Do you have any provisions regulating that?
+
+<<4260.71;4278.71;en>>
+Then we have heard something of that, but I would like to be explained when and in which way the applicants became aware that contempt proceedings have been instituted against them.
+
+<<4278.71;4281.63;en>>
+At which point and how they became aware of that.
+
+<<4281.63;4293.11;en>>
+And then for the Article 7, how is fine defined in criminal code itself?
+
+<<4293.11;4305.23;en>>
+So are there limits to the fines in criminal code, offenses that are defined in criminal code, and the fine is envisaged for the offense?
+
+<<4305.23;4309.03;en>>
+Is that fine defined in criminal code?
+
+<<4309.03;4312.11;en>>
+And the fine is envisaged for the offense.
+
+<<4312.11;4315.27;en>>
+Is that fine limited?
+
+<<4315.27;4315.39;en>>
+Is there the maximum?
+
+<<4315.39;4315.39;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4318.91;4319.79;en>>
+Thank you very much.
+
+<<4323.03;4341.07;en>>
+I don't see other judges asking for the floor, so we shall now withdraw for 20 minutes, following which the parties will be able to submit brief observations in reply to each other's submissions and reply to questions from the judges.
+
+<<4341.07;4341.07;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4850.54;4851.3;fr>>
+La Cour!
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4897.82;4899.42;en>>
+Please be seated.
+
+<<4911.34;4913.58;en>>
+The hearing is resumed.
+
+<<4913.58;4917.86;en>>
+I call Mr. Geir Gestsson.
+
+<<4917.86;4917.86;en>>
+You have the floor.
+
+[[Applicant;AP1]]
+
+<<4943.98;4948.18;en>>
+Mr. President, distinguished members of the court,
+
+<<4948.18;4963.26;en>>
+I will now endeavor on behalf of the applicants to answer the questions posed by the members of the court, and if I have the time and the 10 minutes afforded to me, to reply to the government's submissions to the extent possible.
+
+<<4963.26;4968.14;en>>
+I will now answer the questions in no particular order.
+
+<<4968.14;4980.51;en>>
+There was a question from the court on when and how the applicants became aware of the case being initiated against them.
+
+<<4980.51;4994.26;en>>
+The applicants became aware of this after the first instance judgment was handed down on 12 December 2013.
+
+<<4994.26;5000.14;en>>
+During recess, I asked the applicants themselves on how they actually found out.
+
+<<5000.14;5009.26;en>>
+The applicant Johnson heard about it from the media that he had been convicted, and the applicant Hall heard about it from his ex-client.
+
+<<5014.06;5033.22;en>>
+There was a question on whether the fines were fixed in relation to gain, and whether there were any procedural safeguards for imposition of such fines in absentia judgments.
+
+<<5033.22;5042.84;en>>
+Your Excellencies, there are no in absentia provisions in Icelandic law that provide for such safeguards.
+
+<<5042.84;5065.14;en>>
+Further, there are no limits to the fines, no maximum amounts to the fines anywhere, and there are no hard-set procedural rules on how to handle such in absentia cases in the act on domestic procedure, on the act on criminal procedure.
+
+<<5068.42;5086.78;en>>
+So it could be said that the amount of the fines is entirely discretionary, and the judge that fined them in this case, in the first instance, he of course did not witness the alleged criminal conduct himself.
+
+<<5089.66;5101.98;en>>
+There was a question from the court on the amount of the fines, the real amount of the fines, and whether that mattered with regards to the third angle criteria.
+
+<<5101.98;5117.26;en>>
+That is, of course, correct, that the amount of the fines, the real amount, and the possible amount are both relevant.
+
+<<5117.26;5126.06;en>>
+And there is an overall assessment on whether this catches the criminal limb of Article VI.
+
+<<5126.06;5138.12;en>>
+As regards whether there are higher fines that have not been considered criminal, I would argue on behalf of the applicants that the converse is also true.
+
+<<5138.12;5147.12;en>>
+That, for example, in Weber versus Switzerland, the fine was of 300 Swiss francs, which is a much lower real amount.
+
+<<5147.12;5153.28;en>>
+In T versus Austria, the fine was of the amount of 30,000 Austrian shillings.
+
+<<5153.28;5158.48;en>>
+It's of course also a much lower real amount than in this case.
+
+<<5158.48;5163.8;en>>
+And in the case of Cipriano versus Cyprus, the fine was only 130 euros.
+
+<<5166.48;5170.09;en>>
+I would also point to one other fact, Your Excellencies.
+
+<<5170.09;5185.05;en>>
+Under Icelandic law, fines as low as 50,000 ISK, 1 20th of the amount here, have been considered criminal.
+
+<<5185.05;5193.02;en>>
+Under domestic law, as the potential amount of the fine was unlimited.
+
+<<5193.02;5204.88;en>>
+And the applicants referred to attachment 20B, the case of prosecution, versus Stefan Karl Christensen.
+
+<<5204.88;5215.28;en>>
+While I'm on that subject, the subject of that judgment, I would also like to rebut some of the arguments of the government in relation to this judgment.
+
+<<5215.28;5233.97;en>>
+In the case of Stefan Karl Christensen versus the prosecution, that attorney was fined a total of 50,000 ISK for non-attendance at a court hearing under the same provisions as the applicants, subparagraphs A and D.
+
+<<5233.97;5240.28;en>>
+He was fined for intentionally delaying a hearing with non-attendance, not once, but four times.
+
+<<5240.28;5249.12;en>>
+And the government has argued that these four non-attendances were by mistake of that attorney.
+
+<<5249.12;5255.01;en>>
+I don't know how that is possible to not attend by mistake four times.
+
+<<5255.01;5259.72;en>>
+But in any case, under subparagraph A, there is a requirement of intent.
+
+<<5262.64;5272.6;en>>
+It is therefore clear that that attorney was fined for an intentional breach, and not a mistake, as the government argues.
+
+<<5272.6;5288.16;en>>
+On the factual observations of the government, I would also like to point out two separate points.
+
+<<5288.16;5296.84;en>>
+The government observed that they were fined for damaging interests of other people than their ex-clients in the Supreme Court judgment.
+
+<<5296.84;5298.2;en>>
+That is, of course, not correct.
+
+<<5298.2;5303.76;en>>
+They were fined for damaging the interests of their clients, ex-clients.
+
+<<5303.76;5315.01;en>>
+The government also argued that they only notified the court of first instance of the resignation with letters or emails.
+
+<<5315.01;5317.88;en>>
+I don't think that is correct either.
+
+<<5317.88;5331.32;en>>
+You can see on attachment 5A, the brief of the applicants to the Supreme Court, that they met the first presiding judge in the case in chambers prior to resigning.
+
+<<5331.32;5334.05;en>>
+That's on page 5 of that document.
+
+<<5334.05;5343.44;en>>
+They met the judge in chambers, expressed their disappointment with how the trial was going, expressed that their clients were being subjected to fair trial violations.
+
+<<5343.44;5351.56;en>>
+And at the end of that meeting, they handed the letter of resignation to the first presiding judge.
+
+<<5351.56;5355.92;en>>
+And it was not their impression that the judge intended to fine them or was at all authentic.
+
+<<5362.4;5372.36;en>>
+The government has also argued that the applicants could have foreseen that they would be fined in criminal proceedings.
+
+<<5372.36;5386.8;en>>
+Your Excellencies, it is important to note here that the decision on whether to fine an attorney for non-attendance is entirely discretionary for the presiding judge.
+
+<<5386.8;5391.68;en>>
+The judge may decide to fine or not to fine.
+
+<<5391.68;5394.44;en>>
+There's also a third option available to the judge.
+
+<<5394.44;5406.92;en>>
+A judge may admonish an attorney for acting contemptuously if he considers the contempt to be minor.
+
+<<5406.92;5412.6;en>>
+So there's nothing in the case that indicates specifically that they could have expected to be fined.
+
+<<5412.6;5416.28;en>>
+The fundamental point here is that they were not notified of any charges.
+
+<<5416.28;5426.09;en>>
+They were not notified after the 11 April 2013 hearing in the first instance that a criminal case could be initiated against them.
+
+<<5426.09;5427.44;en>>
+That never happened.
+
+<<5427.44;5432.55;en>>
+The first they knew about the case was when the district court of Reykjavik fined them.
+
+<<5432.55;5435.09;en>>
+That was the first moment.
+
+<<5435.09;5450.97;en>>
+The government also argued that the Icelandic Supreme Court could have referred the case back to the district court of Reykjavik for retrial.
+
+<<5450.97;5453.76;en>>
+The applicants disagree with this.
+
+<<5453.76;5468.6;en>>
+Article 224 of the Act on Criminal Procedure states that it is only possible to fine defense counsel a procedural fine and a final judgment against their clients.
+
+<<5468.6;5479.24;en>>
+That judgment was handed down on 12 December 2013, when the first instance judgment was handed down.
+
+<<5479.24;5488.09;en>>
+So any retrial after that in the district court could not have led to the imposition of any fine against them.
+
+<<5488.09;5492.28;en>>
+So retrial would have been pointless procedurally.
+
+<<5492.28;5500.74;en>>
+And I think it is clear that both the majority of the Supreme Court and the minority of the Supreme Court agreed with this.
+
+<<5500.74;5509.32;en>>
+It is established case law in Iceland that when an Article 6 violation occurs in the first instance, the Supreme Court refers it back for retrial.
+
+<<5509.32;5510.82;en>>
+They did not in this case.
+
+<<5510.82;5519.64;en>>
+And the inference must be drawn that they agreed that it would not be procedurally impossible to retrial it.
+
+<<5519.64;5529.28;en>>
+And of course, the minority opinion specifically addressed this issue and said there was no procedural possibility for retrial for fines against attorneys.
+
+<<5533.92;5541.92;en>>
+There was a question on, there was the first question asked by the court.
+
+<<5541.92;5558.8;en>>
+There was a question on whether there were generally provisions in Icelandic law on maximum fine amounts and how long the prison sentence could be for offenses.
+
+<<5558.8;5560.72;en>>
+The answer is yes.
+
+<<5560.72;5568.44;en>>
+The provisions are generally like this.
+
+<<5568.44;5584.09;en>>
+Offenses, according to this chapter, can be subject to fines up to when there is a maximum amount or imprisonment of up to X years.
+
+<<5584.09;5589.32;en>>
+That is generally how it was done in Icelandic law.
+
+<<5589.32;5603.78;en>>
+But in the case of contempt of full court fines for attorneys, there is no maximum amount set out for the fines, which is, of course, a bit special under Icelandic law.
+
+<<5613.14;5625.55;en>>
+Your Excellencies, I have now addressed what I wish to address, both in the government's pleadings and the questions that are noted down from the court.
+
+<<5625.55;5630.82;en>>
+But if Your Excellencies want to ask any further questions, I would be happy to answer them.
+
+<<5630.82;5637.24;en>>
+Or if not, I would also thank you for your time and thank you for this opportunity.
+
+<<5637.24;5637.24;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<5641.15;5642.65;en>>
+Thank you very much.
+
+<<5642.65;5645.93;en>>
+I call Mrs. Fanney Rós Þorsteinsdóttir.
+
+[[Government;GR1]]
+
+<<5652.89;5659.57;en>>
+Mr. President, members of the court, I will now, on behalf of the government, answer the
+
+<<5659.57;5662.97;en>>
+questions of the court.
+
+<<5662.97;5678.49;en>>
+Regarding the first question, it was a question about the fact that Article 223 of the CPA does not have any limits and whether it is problematic for the separation of powers.
+
+<<5678.49;5683.07;en>>
+The answer would be no.
+
+<<5683.07;5687.37;en>>
+The courts are completely independent according to Article 2 of the Constitution.
+
+<<5687.37;5695.37;en>>
+However, they must, of course, follow jurisprudence and their decisions must not be arbitrary.
+
+<<5695.37;5712.81;en>>
+This can be seen, for example, in the Supreme Court's judgment in the current case, where it, for example, lists up the details of the applicant's conduct and they measure it to the amount of the fines in accordance.
+
+<<5712.81;5716.65;en>>
+So that would not be problematic.
+
+<<5716.65;5718.85;en>>
+But this also applies to question 2.
+
+<<5718.85;5728.85;en>>
+There was a question about the foreseeability and in which relation the fines were fixed.
+
+<<5728.85;5739.01;en>>
+And there were some examples of criteria if it was fixed in relation to the gain and so on.
+
+<<5739.01;5748.33;en>>
+The fines were not in relation to potential gain of the applicants or the real gain.
+
+<<5748.33;5758.11;en>>
+They were rather fixed in relation to the complexity of the case, as was addressed earlier today.
+
+<<5758.11;5764.05;en>>
+And also fixed in relation to the damages to the case.
+
+<<5764.05;5765.77;en>>
+For example, of the delay to the case.
+
+<<5765.77;5770.37;en>>
+The case was delayed for seven months and there were many people participating.
+
+<<5770.37;5772.73;en>>
+There were four defendants and so on.
+
+<<5772.73;5782.01;en>>
+So it was quite obvious that the damages of these decisions of the applicants were quite much.
+
+<<5782.01;5788.25;en>>
+This can also be seen, for example, in another judgment that was mentioned here today.
+
+<<5788.25;5800.09;en>>
+The case of Stefan Karl Kristiansson, which is pending before the court, where the counsel in that case was also absent during the main hearing.
+
+<<5800.09;5803.37;en>>
+That was a minor case.
+
+<<5803.37;5811.57;en>>
+There was one person prosecuted in that case and it was quite a minor case.
+
+<<5811.57;5820.25;en>>
+And the Supreme Court actually lowered the fines there to the amount of 50,000 Icelandic kronas, which is not much.
+
+<<5820.25;5826.67;en>>
+The fine was also, in the current case, was also in balance with the overall litigation cost.
+
+<<5826.67;5831.45;en>>
+This is explained thoroughly in the government's written submissions.
+
+<<5831.45;5844.49;en>>
+And so that was the main way how the Supreme Court measured the fines.
+
+<<5844.49;5854.21;en>>
+Question three was addressed to the applicants and it has already been thoroughly answered in the written submissions of the government and earlier today, so I'm not going to address that.
+
+<<5854.21;5861.61;en>>
+As to question four, there was a question about safeguards against arbitrary fines.
+
+<<5861.61;5871.53;en>>
+Well, all fines, they can be appealed in one way or another.
+
+<<5871.53;5873.81;en>>
+They can always be reviewed.
+
+<<5873.81;5879.95;en>>
+So it can be seen that court fines in Iceland, they have not been excessive.
+
+<<5879.95;5897.11;en>>
+And in relation to the effect to the case at hand, just as was done in the applicant's case, where the fines were in accordance with the gravity to the case, as mentioned earlier.
+
+<<5897.11;5906.37;en>>
+One can also mention that there is a special, and that actually also applies to the fifth question.
+
+<<5906.37;5916.09;en>>
+There was a question about whether there are any limits for fines in criminal law in general.
+
+<<5916.09;5923.97;en>>
+And the government points to Article 51 of the General Penal Code, where there is a guidance to the amount of fines, for example.
+
+<<5923.97;5931.59;en>>
+There is an income base and the property of the accused and other aspects that affect his cost of living expense.
+
+<<5931.59;5941.33;en>>
+So this can be seen that there is a general provision in the General Penal Code for limits in criminal law.
+
+<<5941.33;5950.47;en>>
+The fifth question was also about whether there are any provisions regulating to trial in absentia.
+
+<<5950.47;5960.65;en>>
+There are certain provisions regarding, for example, bankruptcy and some other cases where the accused has admitted in some less significant cases.
+
+<<5960.65;5969.63;en>>
+So there are special procedures regarding such cases, where there is often trial in absentia.
+
+<<5969.63;5979.55;en>>
+But otherwise, all cases can be appealed to a higher court and get an extra review.
+
+<<5979.55;5984.35;en>>
+So that would be the main safeguards.
+
+<<5984.35;5992.59;en>>
+So there was a question about when the applicants knew that the fines would be imposed.
+
+<<5992.59;6007.91;en>>
+The Applicants' Council has answered that, but the government must also mention again that the applicants are very familiar with the provisions in Article 222 and 223 of the CPA.
+
+<<6007.91;6014.49;en>>
+So they must have been aware that this was very probable.
+
+<<6014.49;6030.75;en>>
+And as it always is, there has never been any case where there's, we don't know of any case where special proceedings have been initiated according to Article 222, paragraph 1 and fine of the CPA.
+
+<<6030.75;6037.79;en>>
+So all cases have been according to its judge's decision.
+
+<<6037.79;6046.41;en>>
+So it has been the judge on its own motion when it has decided on court fines.
+
+<<6046.41;6054.27;en>>
+So they must have been aware that this was a great possibility.
+
+<<6054.27;6083.03;en>>
+I think I have covered most of the questions, but at last, we'd like to address one thing that was in the speech of the Council for the Applicants, where he mentioned that the applicants, that fines in accordance with the Civil Procedure Act would also be regarded as criminal.
+
+<<6083.03;6097.55;en>>
+The applicants, but at the same time, the applicants claim that this case belongs to criminal law since it was appealed to the Supreme Court in accordance with the CPA, and their counterpart was the prosecutor.
+
+<<6097.55;6111.11;en>>
+But if a procedural fines, if they were imposed in a civil case, the case would be appealed according to proceedings in the Civil Procedure Act, as has been mentioned earlier today.
+
+<<6111.11;6120.45;en>>
+A council would therefore not enjoy the same procedural rights as an accused person according to the Criminal Procedure Act, if it would go to a higher court.
+
+<<6120.45;6128.71;en>>
+It would be very difficult to maintain that the council's offence that resulted in a fine could therefore be classified as criminal under Icelandic law.
+
+<<6128.71;6145.03;en>>
+And the counterpart at a higher level would be the same party as it was in the civil case, on a lower level, just some person or an entity, but not the prosecutor.
+
+<<6145.03;6167.63;en>>
+So it doesn't, it seems to indicate that procedural fines according to the civil procedure law are in fact not criminal, and the same must apply to procedural fines according to the CPA.
+
+<<6167.63;6181.45;en>>
+Mr President, members of the court, to conclude, the government would like to emphasise that the main issue of this case concerns the protocol in court proceedings between councils and the courts.
+
+<<6181.45;6186.53;en>>
+The government quotes the court in the case of Petrinja v. Croatia, where it states that
+
+<<6186.53;6197.97;en>>
+it is essential for the proper administration of justice that dignity, order and decorum be observed in the courtroom as the hallmarks of judicial proceedings.
+
+<<6197.97;6211.07;en>>
+The government is of the view that a flagrant disregard by anyone participating in court proceedings of elementary standards of proper conduct neither can nor should be tolerated.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6214.0;6215.12;en>>
+Thank you very much.
+
+<<6215.12;6225.68;en>>
+I now invite the judges who have put questions to ask for further clarification if they so wish, yes, Judge Turković, please.
+
+[[Judge;Ksenija Turković]]
+
+<<6226.4;6235.12;en>>
+You have said that you have, in rare cases, example, you have given bankruptcy cases, these special provisions in absentia.
+
+<<6235.12;6238.28;en>>
+So what these special provisions in absentia, what special guarantee they entail?
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6243.98;6245.62;en>>
+This is a question for the government.
+
+[[Judge;Ksenija Turković]]
+
+<<6245.81;6252.73;en>>
+This is a discretion of the government because the government said that there are sometimes special provisions for the trials in absentia.
+
+<<6252.73;6256.93;en>>
+So what that could be then?
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6270.79;6272.95;en>>
+If the applicants would comment, it is possible.
+
+<<6278.07;6279.03;en>>
+Just a moment.
+
+<<6279.03;6310.39;en>>
+First the government, and then if you so wish, we'll give you the floor.
+
+<<6310.39;6310.87;en>>
+Yes, please.
+
+[[Government;GR1]]
+
+<<6311.51;6316.99;en>>
+Mr. President, members of the court, if it's possible, the government would like to answer
+
+<<6316.99;6320.99;en>>
+this thoroughly in written observation in a few days, as allowed.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6323.14;6326.06;en>>
+Thank you very much.
+
+<<6326.06;6328.54;en>>
+The applicant may wish to comment at this stage.
+
+[[Applicant;AP1]]
+
+<<6334.01;6337.05;en>>
+Yes. Thank you, Mr. President.
+
+<<6337.05;6351.21;en>>
+Just to address this issue, there are no rules governing in absentia criminal cases for procedural fines against attorneys.
+
+<<6351.21;6354.49;en>>
+It's absolutely clear under Icelandic law.
+
+<<6354.49;6372.05;en>>
+Referring to in absentia proceedings in bankruptcy law under Icelandic law or similar provisions, those provisions do not apply in cases like the ones at hand.
+
+<<6372.05;6375.79;en>>
+It's entirely irrelevant.
+
+<<6375.79;6375.79;en>>
+Your Excellencies, thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6379.8;6380.8;en>>
+Thank you very much.
+
+<<6380.8;6383.32;en>>
+We have now come to the end of the hearing.
+
+<<6383.32;6388.2;en>>
+I thank the parties for their submissions and answers to the court's questions.
+
+<<6388.2;6391.44;en>>
+The court will now deliberate on the merits.
+
+<<6391.44;6394.08;en>>
+The judgment will be delivered later.
+
+<<6394.08;6397.52;en>>
+The parties will be informed of the date of delivery.
+
+<<6397.52;6399.52;en>>
+I declare the hearing closed.
+

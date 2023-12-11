@@ -1,0 +1,1687 @@
+[[Announcer;UNK]]
+
+<<8.55;9.23;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<52.71;53.75;en>>
+Please be seated.
+
+<<57.19;63.99;en>>
+I declare open the public hearing on the merits in the case of Hämäläinen against Finland.
+
+<<63.99;75.63;en>>
+Until recently, before the applicant decided to waive the anonymity granted to her, the case was called H against Finland.
+
+<<75.63;87.63;en>>
+The case was lodged on the 8th of July, 2009, with the court under Article 34 of the convention by a Finnish national, Heli Maarit Hannele Hämäläinen.
+
+<<87.63;109.51;en>>
+On the 13th of November, 2012, a chamber of the fourth section delivered its judgment in the case, finding that there had been no violation of Articles 8 and 14 of the convention, and that there was no need to examine the case under Article 12 of the convention.
+
+<<109.51;129.77;en>>
+On the 13th of February, 2013, the applicant requested that the case be referred to the grand chamber in accordance with Article 43 of the convention, and the panel of the grand chamber accepted the request on the 29th of April, 2013.
+
+<<129.77;165.75;en>>
+On the 26th of August, 2013, the president of the grand chamber granted leave to the following non-governmental organizations to submit written comments as third parties by virtue of Rule 44, paragraph 3 of the rules of the court, Amnesty International, Transgender Europe, and acting jointly, the Transgender Law Center, Gay and Lesbian Advocates and Defenders, the National Center for Lesbian Rights, as well as the Transgender Legal Defense and Education Fund.
+
+<<165.75;171.41;en>>
+The Finnish government are represented by their agent, Mr. Arto Kosonen,
+
+<<171.41;175.35;en>>
+director at the Ministry of Foreign Affairs Council.
+
+<<175.35;178.21;en>>
+He is assisted by Ms. Salla Silvola
+
+<<178.21;182.17;en>>
+from the Ministry of Justice, Ms. Maija Faurie
+
+<<182.17;189.59;en>>
+from the Ministry of Social Affairs and Health, and Ms. Katja Fokin from the Ministry of Foreign Affairs
+
+<<189.59;191.95;en>>
+Advisors.
+
+<<191.95;196.39;en>>
+The applicant is represented by Mr. Constantin Cojocariu,
+
+<<196.39;200.43;en>>
+counsel, and Ms. Vesselina Vandova, advisor.
+
+<<200.43;203.55;en>>
+The applicant is also present.
+
+<<203.55;208.79;en>>
+I welcome the representatives in the name of the court.
+
+<<208.79;233.63;en>>
+I also welcome the following groups who are visiting the court, the group of Polish judges and prosecutors, the group of Belgian judges, the Supreme Court of Norway, the registry of the German Federal Constitutional Court, the group of Ukrainian judges, and a group of future judges from Luxembourg.
+
+<<233.63;249.71;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Polish has been authorized for the benefit of the delegation of Polish judges and prosecutors attending this hearing.
+
+<<249.71;261.95;en>>
+This interpreting is not arranged by the court and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<261.95;273.07;en>>
+Having consulted the agent of the government and the representatives of the applicant, I have determined the order of addresses as follows.
+
+<<273.07;276.63;en>>
+The representative of the applicant, Mr. Cojocariu,
+
+<<276.63;281.67;en>>
+will speak first, and then Mr. Kosonen for the government.
+
+<<281.67;283.11;en>>
+I call Mr. Cojocariu.
+
+[[Applicant;AP1]]
+
+<<285.84;287.04;en>>
+Thank you.
+
+<<287.04;292.6;en>>
+Mr. President, honorable judges, Mrs. Hamalainen, the applicant,
+
+<<292.6;303.68;en>>
+is a transsexual woman, a person whose gender identity does not correspond to the sex assigned to her at birth, and who had undertaken gender reassignment surgery.
+
+<<303.68;306.44;en>>
+Currently, although Mrs. Hamalainen
+
+<<306.44;319.52;en>>
+has lived for many years openly as a woman and has been allowed to change her first name to a female name, her personal documents continue to identify her as a man.
+
+<<319.52;322.48;en>>
+Mrs. Hamalainen requested that her personal documents
+
+<<322.48;331.2;en>>
+be changed in order to reflect her gender identity, a right that is recognized under Finnish and international law.
+
+<<331.2;339.16;en>>
+However, the authorities refused to change her documents unless she agreed to end her marriage.
+
+<<339.16;341.76;en>>
+Mrs. Hamalainen and her spouse have been happily
+
+<<341.76;346.64;en>>
+married for 17 years and have an 11-year-old daughter.
+
+<<346.64;349.76;en>>
+They are determined to keep their marriage.
+
+<<349.76;352.28;en>>
+The authorities therefore forced Mrs. Hamalainen
+
+<<352.28;372.84;en>>
+to choose between two rights which would not be mutually exclusive, and both of which are enjoyed by anybody without question, the right to live in accordance with one's self-identified gender identity and the right to protection of one's existing marriage.
+
+<<372.84;383.12;en>>
+The government claims that compulsory divorce legislation is necessary in order to preserve marriage as an institution reserved for different sex couples.
+
+<<383.12;396.4;en>>
+It makes before the court the paradoxical proposal that the class of marriages, those involving transgender people, have to be destroyed so that the institution of marriage can be protected.
+
+<<396.4;406.96;en>>
+However, we will demonstrate that the forced divorce requirement is a disproportionate and unjustified interference with Mrs. Hamalainen's rights.
+
+<<406.96;416.08;en>>
+Transgender marriages may and have been distinguished for legal purposes from same-sex marriages in different jurisdictions.
+
+<<416.08;424.2;en>>
+A favorable ruling in this case would not necessarily entail extending marriage rights to same-sex couples.
+
+<<424.2;430.56;en>>
+It follows that our complaint is not as such concerned with the issue of same-sex marriage.
+
+<<430.56;434.0;en>>
+Mrs. Hamalainen only seeks to protect her marriage
+
+<<434.0;438.88;en>>
+and at the same time live in accordance with her self-identified gender identity.
+
+<<438.88;444.84;en>>
+I will focus mostly on the balancing test operated to determine compliance with Article 8.
+
+<<444.84;449.74;en>>
+This includes, on the one hand, the interference with Mrs. Hamalainen's right to family life
+
+<<449.74;457.2;en>>
+and to legal gender recognition, as well as the public interest in ensuring that viable marriages are protected.
+
+<<457.2;463.08;en>>
+And on the other hand, the state's interest to safeguard the traditional institution of marriage.
+
+<<463.08;466.28;en>>
+Finally, I will also discuss Mrs. Hamalainen's claims
+
+<<466.28;469.92;en>>
+under Articles 12 and 14 of the Convention.
+
+<<469.92;478.08;en>>
+I will talk first about the applicant's right to family life and the impact of the forced divorce requirement on her immediate family.
+
+<<478.08;482.3;en>>
+Marriage is specifically protected under Articles 8 and 12 of the Convention.
+
+<<482.3;491.64;en>>
+The Court has emphasized that marriage has a special status in our societies, warranting differential treatment under the law.
+
+<<491.64;509.64;en>>
+Thus, marriage remains, I quote, an institution which is widely accepted as conferring a special status on those who enter it, unquote, and is characterized by the existence of a public undertaking, carrying with it a body of rights and obligations of contractual nature.
+
+<<509.64;518.92;en>>
+Marriages that are valid must be protected in the interest of legal certainty, described by the Court as an underlying value of the Convention.
+
+<<518.92;526.2;en>>
+The Court has attached significance in the past to many of the attributes that characterize Mrs. Hamalainen's marriage.
+
+<<526.2;531.68;en>>
+Its longstanding character, the presence of a child, mutual commitment, and support.
+
+<<531.68;533.88;en>>
+Mrs. Hamalainen and her spouse's marriage,
+
+<<533.88;538.52;en>>
+therefore, benefits from a high level of protection under the Convention.
+
+<<538.52;543.4;en>>
+And any interference must be subject to strict scrutiny.
+
+<<543.4;546.8;en>>
+The government insisted that Mrs. Hamalainen is not
+
+<<546.8;549.72;en>>
+technically required to divorce her spouse.
+
+<<549.72;552.12;en>>
+As a matter of fact, Mrs. Hamalainen
+
+<<552.12;561.44;en>>
+can only achieve legal gender recognition if she terminates her marriage by divorce or by turning it into a registered partnership.
+
+<<561.44;564.12;en>>
+Either way, marriage is terminated.
+
+<<564.12;565.72;en>>
+It ceases to exist.
+
+<<565.72;567.68;en>>
+Mrs. Hamalainen and her spouse do not
+
+<<567.68;581.52;en>>
+have a free choice on the matter, as the state makes access to legal gender recognition, the legal recognition of her gender reassignment, dependent on the termination of marriage.
+
+<<581.52;584.6;en>>
+Mrs. Hamalainen wishes to be recognized as a woman
+
+<<584.6;586.8;en>>
+and stayed married at the same time.
+
+<<586.8;590.84;en>>
+But this is not possible under Finnish law.
+
+<<590.84;605.84;en>>
+The government also claimed that the legal relationship continues as a registered partnership in the applicants' case, with only a change of title to the relationship and only minor changes to the content thereof.
+
+<<605.84;608.96;en>>
+This factor is immaterial, as Mrs. Hamalainen and her spouse
+
+<<608.96;618.72;en>>
+categorically oppose the forceful termination of their marriage, regardless of what the relationship is called afterwards.
+
+<<618.72;627.12;en>>
+The government's claim is also disingenuous, as it reduces the significance of marriage to the legal benefits attached to it.
+
+<<627.12;635.88;en>>
+It is on the social, religious, and personal consequences of marriage that we would like to focus this Court's attention.
+
+<<635.88;641.56;en>>
+Heli Hamalainen and her spouse have lived together in marriage during most of their adult lives.
+
+<<641.56;642.92;en>>
+And they have a daughter.
+
+<<642.92;651.6;en>>
+As deeply religious persons, they strongly believe in the biblical dictum that, I quote, what God has joined together, let man not separate.
+
+<<651.6;658.4;en>>
+They want to live together until the end of their lives and are not willing, under any circumstances, to relinquish their marriage.
+
+<<658.4;669.68;en>>
+In addition, registered partnership as an institution reserved for same-sex couples that is very similar to marriage but is not marriage is a marker of second-class citizenship.
+
+<<669.68;675.96;en>>
+This arrangement, based on separate but equal doctrine, is inherently unequal.
+
+<<675.96;682.8;en>>
+The government asserted that legal distinctions between marriage and registered partnership are, I quote, minor.
+
+<<682.8;683.6;en>>
+That is not true.
+
+<<683.6;690.6;en>>
+The most significant distinction is that registered partners are not allowed to adopt jointly.
+
+<<690.6;694.0;en>>
+This is a right that Mrs. Hamalainen and her spouse
+
+<<694.0;699.44;en>>
+currently have and which they would have to forego if they accepted to terminate their marriage.
+
+<<699.44;723.0;en>>
+The Grand Chamber has actually acknowledged that this is the right to adopt by homosexuals is a serious question affecting the interpretation and application of the convention, having heard two cases recently on the matter, EB versus France and X and others versus Austria.
+
+<<723.0;728.64;en>>
+We call upon the court to consider the impact of the forced divorce requirement on Mrs. Hamalainen's
+
+<<728.64;730.76;en>>
+family.
+
+<<730.76;738.8;en>>
+Her spouse and child suffer from the intolerable strain placed on the family life by Mrs. Hamalainen's inability
+
+<<738.8;742.48;en>>
+to secure legal gender recognition for many years.
+
+<<742.48;744.24;en>>
+In particular, Mrs. Hamalainen's spouse,
+
+<<744.24;755.16;en>>
+whose consent is required for the convention to register partnership to take place, is forced to make an impossible choice, which is at odds with her right to family.
+
+<<755.16;758.28;en>>
+Should she choose to support Mrs. Hamalainen's desire
+
+<<758.28;770.8;en>>
+to live in accordance with her self-identified gender identity, she would have to agree to a registered partnership, thus terminating their marriage with all negative consequences that flow from that.
+
+<<770.8;781.4;en>>
+If, however, she refuses to have their marriage converted to a registered partnership, she would perhaps risk alienating Mrs. Hamalainen, who
+
+<<781.4;790.56;en>>
+would in these circumstances not be able to achieve legal gender recognition, and their relationship may suffer as a result.
+
+<<790.56;800.04;en>>
+State interference with marriage that was valid ab initio, as exemplified in this case, is a unique and extraordinary measure.
+
+<<800.04;815.32;en>>
+The only other recent example we can think of that dates back to the racist policies of Nazi Germany, which adopted the legislation providing incentives to Aryan spouses in mixed marriages to divorce from their Jewish partner.
+
+<<815.32;825.48;en>>
+Marriages that are valid, existing, and intact benefit from a presumption of legality and an expectation of protection by the state from any interference.
+
+<<825.48;846.24;en>>
+The divorce requirement also goes against trends across Europe, including the simplification of divorce procedures, with a focus on mutual consent and personal choice, reflecting modern notions of marriage as a personal and private relationship with very little opportunity for interference by the state.
+
+<<846.24;852.92;en>>
+I will now turn to the unjustified intrusion of Finland into Mrs. Hamalainen's private life in breach of Article VIII
+
+<<852.92;855.28;en>>
+of the Convention.
+
+<<855.28;861.92;en>>
+Gender identity is a fundamental aspect of human personality, specifically protected under Article VIII.
+
+<<861.92;873.4;en>>
+In Van Kook versus Germany, this court stated that freedom to define oneself as a female or a male is, I quote, one of the most basic essential of self-determination.
+
+<<873.4;880.72;en>>
+And transsexuals have a right to self-determination, which is one aspect of their right to private life.
+
+<<880.72;890.0;en>>
+By conditioning legal gender recognition on divorce, the Finnish Transsexual Act interfered substantially with Mrs. Hamalainen's private life.
+
+<<890.0;902.16;en>>
+Having undertaken legal gender reassignment surgery, she has assumed the appearance of a woman, yet her documents identify her as a man.
+
+<<902.16;911.28;en>>
+This causes substantial difficulties on a daily basis, from using the identity card in the public transport to booking holidays or business trips abroad.
+
+<<911.28;932.88;en>>
+In Christine Goodwin versus the United Kingdom, this court has acknowledged that lack of legal gender recognition constituted a serious interference with private life, arising where the state of domestic law conflicts with an important aspect of human personality, which may engender feelings of vulnerability, humiliation, and anxiety.
+
+<<932.88;941.04;en>>
+Unless the government abandons the divorce requirement, Mrs. Hamalainen is likely to live her entire life
+
+<<941.04;949.82;en>>
+with documents that do not reflect her gender identity, as she is not willing, under any circumstances, to forgo her marriage.
+
+<<949.82;958.76;en>>
+According to this course, jurisprudence states have a duty of consistency with respect to regulations concerning the legal status of transgender people.
+
+<<958.76;964.96;en>>
+Administrative and legal practices on legal gender recognition must be coherent and consistent.
+
+<<964.96;972.04;en>>
+In the present case, Finland has permitted and facilitated Mrs. Hamalainen gender reassignment treatment,
+
+<<972.04;975.24;en>>
+and has allowed her to change her first name.
+
+<<975.24;986.36;en>>
+In light of the position this court has adopted previously in cases such as Christine Woodwin versus United Kingdom, it appears illogical to deny Mrs. Hamalainen legal gender
+
+<<986.36;995.2;en>>
+recognition at this juncture, leaving her stranded in the territory between the two sexes for a potentially indeterminate period.
+
+<<995.2;1008.12;en>>
+According to information submitted by third-party intervener Transgender Europe, as well as from our own findings, a broad trend exists in Europe towards the simplification of legal gender recognition procedures.
+
+<<1008.12;1017.2;en>>
+This trend includes eliminating unduly intrusive requirements, such as compulsory medical treatment or dissolution of marriage.
+
+<<1017.2;1024.8;en>>
+Currently, only a small minority of Council of Europe states have an explicit forced divorce requirement in their legislation.
+
+<<1024.8;1034.44;en>>
+Six countries, besides Finland, also Bulgaria, Czech Republic, Hungary, Italy, and Turkey, plus parts of the United Kingdom.
+
+<<1034.44;1047.0;en>>
+Of these countries, Hungary has adopted the legislation abolishing the divorce requirement, expected to come into force in 2014, whereas Scotland plans to legalize same-sex marriage.
+
+<<1047.0;1055.52;en>>
+In Italy, the Supreme Administrative Court has recently referred the divorce requirement under Italian law to the country's constitutional court.
+
+<<1055.52;1060.88;en>>
+Recent developments in Finland are part of this European-wide trend.
+
+<<1060.88;1076.0;en>>
+In March 2012, the Finnish Ombudsman for Equality stated the divorce prerequisite for the purposes of legal gender recognition may not be considered compatible with fundamental rights in the area of family life.
+
+<<1076.0;1085.48;en>>
+In June 2012, the Council of Europe Commissioner for Human Rights called on Finland to abolish the divorce requirement for the legal recognition of gender reassignment.
+
+<<1085.48;1101.2;en>>
+In response, the Finnish government established very recently, at the beginning of September 2013, a working group tasked with looking at the possibility to revise the Transsexual Act by removing, amongst others, the requirements of forced divorce and infertility.
+
+<<1101.2;1116.92;en>>
+These developments also indicate that, contrary to the government's assertions, the protection of the institution of marriage does not require the rigid imposition of forced divorce requirement when one's spouse applies for legal gender recognition.
+
+<<1116.92;1124.16;en>>
+The state argued, on the other hand, that the divorce requirement was necessary in order to preserve the traditional institution of marriage.
+
+<<1124.16;1131.92;en>>
+We reiterate that we do not seek the legalization of same-sex marriage in this case, which debate is beyond the scope of this case.
+
+<<1131.92;1138.62;en>>
+Our position is that forced divorce is unnecessary and disproportionate means to achieve the state's objective.
+
+<<1138.62;1145.42;en>>
+The government failed to substantiate its argument that transgender marriage would necessarily lead to equal marriage rights.
+
+<<1145.42;1154.92;en>>
+Transgender marriages may be and have been distinguished from same-sex marriage for the purposes of the law in countries such as Germany, Austria, and Switzerland.
+
+<<1154.92;1157.56;en>>
+The situation in the United States is also relevant.
+
+<<1157.56;1178.98;en>>
+Although many states in the United States have clearly stated legislation against same-sex marriage, and while nearly every state permits the legal recognition of a change in gender, no state or federal law requires or allows the automatic dissolution of a valid marriage simply because one's spouse has transitioned to a different gender.
+
+<<1178.98;1181.84;en>>
+Mrs. Hamerlein claims a right to stay married,
+
+<<1181.84;1187.08;en>>
+an already acquired right, and not the right to contract a new marriage, a prospective right.
+
+<<1187.08;1192.38;en>>
+Should she be allowed to stay married, she would still not be allowed to contract a new same-sex marriage.
+
+<<1192.38;1200.52;en>>
+The government's objective to preserve marriage as an institution reserved for different sex couples is also undermined as things currently stand.
+
+<<1200.52;1203.02;en>>
+Mrs. Hamerlein and her spouse already
+
+<<1203.02;1206.76;en>>
+create the public appearance of same-sex marriage.
+
+<<1206.76;1209.04;en>>
+Since they are legally married, then Mrs. Hamerlein
+
+<<1209.04;1211.24;en>>
+presents as a woman.
+
+<<1211.24;1229.12;en>>
+In addition, removing the divorce requirement from the law would only have had a marginal impact on the public perception of marriage as a whole, considering the tiny number of viable transgender marriages, well under 1% according to some data.
+
+<<1229.12;1240.68;en>>
+The government has made a rather abstract statement that I quote, prevailing, longstanding, and deep-seated cultural, religious, and moral conceptions oppose the legal recognition of transgender marriages.
+
+<<1240.68;1247.42;en>>
+However, public opinion polls conducted recently in Finland show consistently increasing support for same-sex marriage.
+
+<<1247.42;1252.58;en>>
+In December 2006, 45% of the population supported same-sex marriage.
+
+<<1252.58;1255.04;en>>
+In August 2010, 54%.
+
+<<1255.04;1261.44;en>>
+And more recently, in March 2013, 58% of the population in Finland supported same-sex marriage.
+
+<<1261.44;1270.0;en>>
+Same-sex marriage may soon become a reality in Finland in any event, removing the underlying objection to the legal recognition of transgender marriages.
+
+<<1270.0;1277.4;en>>
+In February 2013, the Legal Affairs Committee of the Finnish Parliament narrowly voted on a draft same-sex marriage bill.
+
+<<1277.4;1283.7;en>>
+The same bill has been reintroduced in the parliament recently and is awaiting a vote in the plenary.
+
+<<1283.7;1293.2;en>>
+While there may well be some religious and moral opposition to same-sex marriage in Finland, it is not clear that this extends to transgender marriage.
+
+<<1293.2;1301.84;en>>
+This is because equally strong religious and ethical principles shared by Mrs. Hamelin and her spouse
+
+<<1301.84;1309.04;en>>
+themselves surrender abhorrent to any interference with marriage seen as a lifelong partnership.
+
+<<1309.04;1316.72;en>>
+I also want to refer briefly to the margin of appreciation available to states to regulate legal gender recognition procedures.
+
+<<1316.72;1336.08;en>>
+The classic position adopted by the court, this court in cases such as Christine Goodwin versus United Kingdom, has been that the state has discretion to decide the requirements that individuals have to fulfill in order to secure the legal recognition of their gender identity.
+
+<<1336.08;1346.28;en>>
+We submit that this position is out of step with the court's jurisprudence more generally and trends across Europe concerning transgender people and the right to marry.
+
+<<1346.28;1360.68;en>>
+The margin of appreciation cannot be as wide as to allow the state to deny fundamental rights, such as the right to family life or the right not to be discriminated against on the basis of gender identity.
+
+<<1360.68;1372.76;en>>
+Furthermore, the margin of appreciation has to be narrow, where fundamental characteristics of human personhood are at stake, such as their gender identity or their civil status.
+
+<<1372.76;1385.68;en>>
+We therefore fully endorse the chamber's approach in this case, which refused to fall back on the margin of appreciation doctrine and instead engaged in a balancing exercise of the rights and interests involved in this case.
+
+<<1388.48;1390.64;en>>
+I will now turn to Mrs. Hamelin and its claim
+
+<<1390.64;1392.88;en>>
+under Article 12.
+
+<<1392.88;1418.56;en>>
+In Johnston and others versus Ireland, this court made it clear that the words right to marry in Article 12 are to be interpreted under their ordinary meaning, in the sense that they cover the formation of marital relationships, but not their dissolution, and that a more expansive meaning could not be deduced on the basis of the doctrine of evolutive interpretation.
+
+<<1418.56;1420.92;en>>
+Turning to Mrs. Hamelin's case, the chamber
+
+<<1420.92;1435.84;en>>
+appeared to apply this restrictive interpretation, stating clearly that Article 12 only referred to the foundational act of marriage and was not concerned with what happened subsequently to that initial event.
+
+<<1435.84;1445.94;en>>
+At the same time, however, the chamber in this case relied on a number of occasions on Article 12 in order to buttress its analysis under Articles 8 and 14.
+
+<<1445.94;1454.8;en>>
+In particular, the chamber repeatedly referred to the definition of marriage, included in Article 12, as a union between a man and a woman.
+
+<<1454.8;1463.72;en>>
+And also, the chamber mentioned relied on the deference due to national lawmakers to regulate marriage, which is an element of Article 12.
+
+<<1463.72;1470.72;en>>
+Similarly, in other legal gender recognitions, such as Perry v. United Kingdom, and Christine Goodwin v. United
+
+<<1470.72;1482.38;en>>
+Kingdom, the Court found that Article 12 was applicable in cases concerning the effect of legal gender recognition on existing marriages.
+
+<<1482.38;1491.28;en>>
+The chamber, therefore, appeared to suggest in this case that Article 12 applied and did not apply to the same facts at the same time.
+
+<<1491.28;1499.08;en>>
+This, we submit, is a manifest contradiction in the way in which the Court interprets Article 12 in relation to the issue of transgender marriage.
+
+<<1499.08;1502.2;en>>
+One of the reasons why Mrs. Hamerlein asked for this case
+
+<<1502.2;1512.28;en>>
+to be referred to the grand chamber was in order to secure an authoritative interpretation of the suspects of the Court's jurisprudence.
+
+<<1512.28;1518.08;en>>
+We respectfully suggest that there are two ways in which this tension may be resolved.
+
+<<1518.08;1532.6;en>>
+On the one hand, the Court may opt for a restrictive interpretation of Article 12, which would apply solely to the foundational act of marriage as per the case Johnston v. Allen.
+
+<<1532.6;1538.8;en>>
+In this case, Article 12 as a whole would not represent an obstacle to the survival of Mrs.
+
+<<1538.8;1540.48;en>>
+Hamerlein's marriage.
+
+<<1540.48;1550.4;en>>
+Subsequently to her legal gender recognition, at the time when their marriage was contracted, the applicant and her spouse were a different sex couple.
+
+<<1550.4;1559.96;en>>
+It also follows that Article 12 could not be used to inform the interpretation of Article 8 insofar as marriage was defined as a different sex union.
+
+<<1559.96;1569.28;en>>
+Article 12 would ultimately have nothing to say on the validity of a marriage where one spouse transitions to a different gender.
+
+<<1569.28;1593.52;en>>
+The second possibility, and the one that the applicant is advocating for, is that the Court settled for a cautiously expensive interpretation of Article 12 to cover the continued existence of marriage, at least insofar as the exceptional situation of interferences with transgender marriages is concerned, a unique situation, as I emphasized before.
+
+<<1593.52;1604.16;en>>
+In all likelihood, transgender marriages were not an issue that the drafters of the Convention considered when Article 12 was adopted.
+
+<<1604.16;1610.8;en>>
+Furthermore, the men and women language need not necessarily prevent the legal recognition of transgender marriages.
+
+<<1610.8;1617.52;en>>
+After all, this Court has recognized in Schalk and Kopp v. Austria that as a matter of principle,
+
+<<1617.52;1633.84;en>>
+it, I quote, would no longer consider that the right to marry enshrined in Article 12 must in all circumstances be limited to marriage between two persons of the opposite gender, leaving open the possibility of equality of interpretation.
+
+<<1633.84;1650.84;en>>
+As the meaning of Article 12 as applied to transgender marriages is not immediately obvious from its wording or its legislative history, we submit that it should be interpreted in the light of the Convention as a whole and in light of the general principles of interpretation employed by the Court.
+
+<<1650.84;1667.48;en>>
+Article 8 protecting family life and Article 14 protecting discrimination, including on the basis of gender identity, as well as the principle that the Convention guarantees rights that are practical and effective and not theoretical and illusory, are particularly relevant.
+
+<<1667.48;1683.96;en>>
+At the same time, the forced divorce requirement would have to satisfy the Article 12 test involving an examination whether the State regulation forcing the applicant to divorce injures, I quote, the very substance of the right to marry.
+
+<<1683.96;1702.16;en>>
+On the basis of these principles and considering the applicable test, the only conclusion that follows in our view is that by ending marriage and the best case scenario, turning it into a registered partnership, the transsexual act in Finland clearly deprives Mrs. Hamalainen of the very substance of her right
+
+<<1702.16;1703.56;en>>
+to marry.
+
+<<1703.56;1710.44;en>>
+Marriage cannot be possibly deemed to subsist in the guise of a registered partnership.
+
+<<1710.44;1711.88;en>>
+The fact that Mrs. Hamalainen would
+
+<<1711.88;1722.12;en>>
+be able to marry a male person would be of no consolation to her because she is in an existing marriage with her spouse and would not want to marry somebody else.
+
+<<1722.12;1740.04;en>>
+Summing up, regardless of whether Article 12 is interpreted narrowly or more expansively, we submit that the outcome should be the same, in that legislation forcing transgender people to divorce before they can be recognized in their self-identified gender is in breach of the Convention.
+
+<<1740.04;1742.0;en>>
+I will now turn to Mrs. Hamalainen's claim
+
+<<1742.0;1745.4;en>>
+under Article 14.
+
+<<1745.4;1769.84;en>>
+We maintain that she has been discriminated in breach of Article 14 in conjunction with Articles 8 and 12 of the Convention on two grounds, first on the basis of her gender identity as a transgender person, where gender identity is seen as an intrinsic aspect of human personhood, and second on the basis of a medical condition or health status.
+
+<<1769.84;1771.48;en>>
+Mrs. Hamalainen submits that she has
+
+<<1771.48;1778.28;en>>
+been discriminated on the basis of her gender identity when compared to married, non-transgender individuals.
+
+<<1778.28;1793.76;en>>
+Insofar as her right to legal recognition of her gender identity is concerned, she has to comply with the additional requirement of terminating her marriage in order to achieve legal gender recognition.
+
+<<1793.76;1805.2;en>>
+At the same time, non-transgender individuals achieve legal recognition of their gender identity automatically at birth, without additional requirements.
+
+<<1805.2;1807.72;en>>
+Since Mrs. Hamalainen is not willing to sacrifice
+
+<<1807.72;1822.24;en>>
+her marriage, she has to face difficult situations on a daily basis, deriving from the incongruence between the gender inscribed in her personal documents and her appearance, which non-transgender people do not have to face.
+
+<<1822.24;1836.96;en>>
+We already argued under Article 8, the Article 8 part of my submission, that protection of marriage may not constitute an objective and reasonable justification for the discriminatory treatment in this case.
+
+<<1836.96;1840.12;en>>
+At the same time, Mrs. Hamalainen
+
+<<1840.12;1856.76;en>>
+was discriminated insofar as she suffered the automatic threat of forceful termination of her marriage due to experiencing gender identity disorder, a medical condition that, as the Court highlighted, is universally recognized.
+
+<<1856.76;1858.6;en>>
+We emphasize that Mrs. Hamalainen is not
+
+<<1858.6;1864.24;en>>
+a transsexual by choice, and that, therefore, she should not be punished by depriving her of her marriage.
+
+<<1864.24;1882.04;en>>
+This Court has also recognized that the manifest determination to undergo complicated medical treatment associated with gender reassignment demonstrates that there is nothing arbitrary and capricious about a person's decision to undergo such treatment.
+
+<<1882.04;1906.24;en>>
+The fact that she has undergone gender reassignment treatment and is asking for legal gender recognition cannot be held against her, and may not, therefore, constitute the ground for differential treatment when compared to married non-transgender couples.
+
+<<1906.24;1914.76;en>>
+Non-transgender marriages do not entail the real and serious risk of forced termination, which the marriage of Mrs. Hamalainen entailed due
+
+<<1914.76;1917.28;en>>
+to her transgender condition.
+
+<<1917.28;1924.76;en>>
+This case is similar to cases such as Kiyutin versus Russia and I.B. versus Greece, decided very recently
+
+<<1924.76;1927.24;en>>
+this last one, I.B. versus Greece,
+
+<<1927.24;1939.96;en>>
+where HIV-positive individuals lost their permission to reside on the territory of the defendant's state in Kiyutin versus Russia, or respectively, their job in I.B. versus Greece, on account of stereotypes
+
+<<1939.96;1942.92;en>>
+associated with their health status.
+
+<<1942.92;1955.32;en>>
+In this case, the Finnish authorities conflate two different grounds of discrimination that operate in very different ways, sexual orientation and gender identity, also on the basis of stereotypes.
+
+<<1955.32;1964.6;en>>
+The distinction between marriage and registered partnership is based on the sexual orientation of the partners involved.
+
+<<1964.6;1974.24;en>>
+This transforms sexual orientation into the defining characteristic of a relationship for the purposes of preferential treatment under the law.
+
+<<1974.24;1985.92;en>>
+However, insofar as transgender marriages are concerned, the sexual orientation of the parties is more or less immaterial and somewhat difficult to define.
+
+<<1985.92;1988.48;en>>
+The past of Mrs. Hohmein and her spouse
+
+<<1988.48;1990.56;en>>
+is clearly heterosexual.
+
+<<1990.56;1996.96;en>>
+To the extent that we assume the sexual orientation is an immutable characteristic, they remain so.
+
+<<1996.96;2005.4;en>>
+This being so, what could the possible justification be for downgrading the relationship from marriage to registered partnership?
+
+<<2005.4;2028.04;en>>
+How justified can it be to elevate sexual orientation to the principal marker of a relationship to the detriment of, as in this case, the fact that the applicant and her spouse had been in a committed, loving, mutually supportive, 17-year-old relationship and that they have a child together?
+
+<<2028.04;2041.96;en>>
+The authorities of the respondent state have given priority to a legal presumption over social reality without regard to both established facts and the wishes of those concerned and without clear benefits for anyone.
+
+<<2041.96;2043.36;en>>
+Mrs. Hohmein and her spouse's marriage
+
+<<2043.36;2052.92;en>>
+has passed the test of life despite all adversities in circumstances where many other relationships would have collapsed.
+
+<<2052.92;2056.28;en>>
+Mrs. Hohmein and her spouse have remained committed to each other
+
+<<2056.28;2064.32;en>>
+in a loving, mutually supportive, 17-year-long relationship and are determined to stay married until the end of their lives.
+
+<<2064.32;2081.52;en>>
+This, we submit, should be the primary consideration in determining the continued legal status of their marriage and not seemingly random, stereotypical views related to their sexual orientation or physiological sexual characteristics.
+
+<<2081.52;2088.8;en>>
+Instead of undermining them, the state's mission should be to protect and nurture such a relationship.
+
+<<2088.8;2089.96;en>>
+Thank you for your attention.
+
+<<2089.96;2089.96;en>>
+And I hope you have a great day.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2095.33;2098.15;en>>
+Thank you, Mr. Cojocariu.
+
+<<2098.15;2099.15;en>>
+I call Mr. Kosonen.
+
+<<2099.15;2099.15;en>>
+Thank you.
+
+[[Government;GR1]]
+
+<<2105.12;2109.2;en>>
+Mr. President, distinguished members of the court,
+
+<<2109.2;2115.04;en>>
+the present case concerns the applicant's request for confirmation of her gender.
+
+<<2115.04;2136.56;en>>
+According to the relevant legislation, namely the 2002 Act on Confirmation of Sex of a Transsexual, it shall be established that a person belongs to the opposite sex if this person inter alia provides the necessary medical clarifications and is not married or in a registered partnership.
+
+<<2136.56;2161.92;en>>
+If a person is married or in a registered partnership, the gender may, however, be confirmed if the spouse or partner, after being informed that as a result of their marriage, turns automatically its liege into a registered partnership or the registered partnership correspondingly to marriage personally at the local registrar's office, gives his or her consent to this.
+
+<<2161.92;2174.52;en>>
+In the present case, the applicant's spouse has not consented to the transformation of their marriage into registered partnership.
+
+<<2174.52;2181.16;en>>
+Also, the applicant herself is unwilling to have the relationship changed.
+
+<<2181.16;2190.84;en>>
+Prior to the said act, there were no provisions in legislation on the preconditions of the confirmation of the new gender.
+
+<<2190.84;2202.64;en>>
+According to the current proposal for the Act 2001, the aim of the proposed legislation was to create a procedure for the confirmation of the new gender.
+
+<<2202.64;2214.56;en>>
+Even though in practice, transgender persons were able to obtain inter alia a new identity number if they were unmarried, but Mr. T's practices varied.
+
+<<2214.56;2224.76;en>>
+Consequently, it was important to enact the legislation that clearly set out the preconditions for the legal gender recognition.
+
+<<2224.76;2246.24;en>>
+Indeed, as your court held in 2002 in Christine Goodwin against the UK judgment, the coherence of the administrative practices within domestic systems must be regarded as an important factor in the assessment carried out under Article 8.
+
+<<2246.24;2266.84;en>>
+The current proposal, taking into account the relevant case law of your court to that date, included a provision on the condition of not being married or in a registered partnership, but did not mention the possibility of continuation of the relationship in another legally recognized form.
+
+<<2266.84;2295.36;en>>
+Then the Parliamentary Legal Affairs Committee in its statement on the said proposal considered that the suggested proposal was appropriate from the viewpoint of the consistency of the regulation of the personal rights enforced at the time, according to which a marriage was a legal relationship between a man and a woman, and registered partnership a legal relationship between same-sex partners.
+
+<<2295.36;2312.04;en>>
+However, according to the committee, the said condition was unreasonable for those already married or in a registered partnership who wanted to continue their relationship, even though their spouse was requesting legal gender recognition.
+
+<<2312.04;2335.6;en>>
+The same approach was taken by the Parliamentary Social Affairs and Health Committee in its report on the said proposal 2002, thereby adding an explicit provision on a marriage, turning upon consent of the spouse automatically into a registered partnership and a registered partnership correspondingly into a marriage.
+
+<<2335.6;2354.92;en>>
+According to the information received from 10 out of a total of 11 local registrar's offices, since the entry into force of the act, at least 15 marriages have been turned into registered partnerships and 16 registered partnerships into marriages.
+
+<<2354.92;2371.08;en>>
+The 2001 Act on registered partnership passed one year earlier provides that the registration of partnership shall have the same legal effects as the conclusion of marriage, unless otherwise provided.
+
+<<2371.08;2384.96;en>>
+According to the government proposal for the said Act 2000, the aim of the Act was to give same-sex couples the possibility to officially recognize their relationship as a legal institution.
+
+<<2384.96;2393.32;en>>
+Marriage would remain an institution between a man and a woman as regulated by the Marriage Act.
+
+<<2393.32;2414.36;en>>
+In the present case, the local registered office, the governmental administrative authority, found in 2007 that even if all the other conditions laid down in the act of confirmation of the sex of a transsexual were fulfilled, the applicant's wife had not given her consent.
+
+<<2414.36;2421.48;en>>
+And consequently, the applicant's new gender could not be introduced in the population register.
+
+<<2421.48;2435.46;en>>
+The administrative court found in 2008 that the case concerned those legal grounds on which applicant's new gender can be confirmed and on which she be given a female identity number.
+
+<<2435.46;2451.42;en>>
+The administrative court noted that same-sex partners have a possibility to benefit from family law protection through registered partnership in a manner partially comparable to marriage, if they so wish.
+
+<<2451.42;2472.56;en>>
+The Supreme Administrative Court found in 2009 that by adopting the said Act, the legislator aimed to maintain marriage as a legal institution between a man and woman while allowing legal gender confirmation by turning marriage into registered partnership by consent of the spouse.
+
+<<2472.56;2501.96;en>>
+The Supreme Administrative Court stated, after thoroughly examining the applicant's request and taking into account inter alia the case law of your court, that when assessing a fair balance between the private life of a transsexual person, on the one hand, and the state's interests and values regarding the notion of family, on the other hand, the current legislation does not go beyond the margin of appreciation left to the state under the convention.
+
+<<2501.96;2525.2;en>>
+The government notes that your court has communicated the present case to the government in respect of Articles 8 and 14 in conjunction with Article 8 and not Article 14 as is not Article in conjunction of Article 12 as argued by the applicant in her new submissions.
+
+<<2525.2;2532.84;en>>
+And ex officio, the chamber, also under Article 12, has declared these complaints admissible.
+
+<<2532.84;2537.48;en>>
+And they are now those articles we are dealing with here.
+
+<<2537.48;2547.76;en>>
+But the applicant has originally complained also under Article 3, prohibition of torture, and under Article 2 of the Protocol Number 4, freedom of movement.
+
+<<2547.76;2551.64;en>>
+No questions regarding these articles were put to the government.
+
+<<2551.64;2561.8;en>>
+And the government notes also that no complaint was introduced by the applicant under Article 9 concerning freedom of thought, conscience, and religion.
+
+<<2561.8;2570.24;en>>
+And the chamber unanimously found that there was no violation of any provisions of the convention.
+
+<<2570.24;2578.12;en>>
+As a general remark, the government, of course, reiterates what has been said earlier in the government's written submissions.
+
+<<2578.12;2590.04;en>>
+The government notes that the applicant stated in her written submission that her object in her application is not to extend marriage rights to same-sex couples.
+
+<<2590.04;2608.4;en>>
+The government notes, as a further remark, that the applicant has referred to several cases of your court in her submissions relating, for instance, to the rights of child, criminalization of homosexuality, religious or philosophical convictions.
+
+<<2608.4;2617.72;en>>
+Some of those references are inaccurate or to have been taken out of context and therefore do not as such apply to the present case.
+
+<<2617.72;2632.44;en>>
+As regards to the violation of Article 8 of the convention, the applicant alleges that the legislation forces her to choose between her right to sexual determination and her right to marriage.
+
+<<2632.44;2640.64;en>>
+However, as the court stated, the applicant has a real possibility to change the state of affairs.
+
+<<2640.64;2647.92;en>>
+Her marriage can be turned at any time ex lege into a single partnership with the consent of the spouse.
+
+<<2647.92;2667.8;en>>
+In this regard, the government wishes to emphasize that the legislation on registered partnerships aims to support the institution of marriage so that the idea of commitment and responsibility enshrined in entering into a marriage is extended to relationships other than those between men and women.
+
+<<2667.8;2676.2;en>>
+This was expressed by the Parliamentary Legal Affairs Committee in the statement on the government proposal for the Act of Registered Partnerships.
+
+<<2676.2;2687.4;en>>
+The applicant alleges that the chamber's approach in the present case may be contrasted with that adopted by a court in previous compulsory divorce cases.
+
+<<2687.4;2693.6;en>>
+She also refers to the legal certainty of protecting her marriage, a bidgini initia.
+
+<<2693.6;2702.0;en>>
+The government notes that the Finnish legislation imposes neither a choice nor a compulsory divorce on the applicant.
+
+<<2702.0;2714.28;en>>
+Rather, the legislation offers her the possibility to reconcile both rights, her right to sexual determination and her right to legal protection of her relationship.
+
+<<2714.28;2726.48;en>>
+The continuity of the legal relationship was emphasized by the Parliamentary Legal Affairs Committee in its statement on the proposed Act on the Confirmation of Sex of a Transsexual.
+
+<<2726.48;2745.16;en>>
+In proposing the condition whereby marriage would turn into a registered partnership and vice versa, the committee stated that the continuity of the legal relationship was essential for the preservation of certain derived rights, as the widow's pension.
+
+<<2745.16;2756.72;en>>
+The continuity also implied that the change does not create a right or obligation to the division of property unlike in a divorce.
+
+<<2756.72;2765.8;en>>
+Furthermore, the duration of the partnership is calculated from the beginning of the relationship, not from the change of the title thereof.
+
+<<2765.8;2771.24;en>>
+The affirmation was reasserted by the Parliamentary Committee on Social and Health Affairs.
+
+<<2774.28;2785.88;en>>
+In this connection, the applicant refers, for instance, to Paris against the United Kingdom.
+
+<<2785.88;2800.92;en>>
+The government wishes to note that in that case, the disputed legislation in force at the time required annulment or dissolution of marriage as prerequisite for a full gender recognition certificate.
+
+<<2800.92;2827.8;en>>
+Still, the court found no violation, holding that the UK had not failed to give legal recognition to gender reassessment and that the fact that applicants in that case could continue their relationship through a civil partnership, which carried almost all the same rights and obligations as marriage contributed to the proportionality of the gender recognition regime complained of.
+
+<<2827.8;2837.4;en>>
+This is substantially different from the legislation in force in Finland, which doesn't impose annulment or dissolution of marriage.
+
+<<2837.4;2862.34;en>>
+As regards to proportionality in the present case, the chamber considered that there are two competing rights which need to be balanced against each other, namely the applicant's rights to respect for her private life by obtaining a new female identity number and the state's interest to maintain the traditional institution of marriage intact.
+
+<<2862.34;2875.78;en>>
+The chamber considered that the effects of the Finnish system had not been shown to be disproportionate and that a fair balance had been struck between the competing interests.
+
+<<2875.78;2886.08;en>>
+The applicant alleges that the chamber inaccurately assumed that the state's interest laid in protecting the heterosexual marriage.
+
+<<2886.08;2903.48;en>>
+The applicant repeatedly re-distinguishes between gender identity and sexual orientation in her submissions and claims that she wishes to avoid the stigma attached to the registered partnerships as an institution reserved for homosexual couples.
+
+<<2903.48;2921.9;en>>
+The government acknowledges that gender identity is not synonymous with sexual orientation, as was highlighted in the third party interventions by Amnesty International and Transgender Europe, and that the present case does not deal with sexual orientation, but rather with gender.
+
+<<2921.9;2926.52;en>>
+The government notes that the relevant legislation is based on gender.
+
+<<2926.52;2936.88;en>>
+Furthermore, the applicant claims that a registered partnership is inferior to marriage and would constitute a downgrade in her relationship.
+
+<<2936.88;2949.56;en>>
+The government emphasizes in this connection that registered partnership is recognized as an official legal institution, as stated in the government proposal for the Act on Registered Partnerships 2000.
+
+<<2949.56;2966.52;en>>
+According to that proposal, the aim of the act was to give same-sex couples the possibility to officially recognize their partnership and to give them the same rights and duties as married couples, with minor exceptions.
+
+<<2966.52;2972.0;en>>
+Your court, too, has found civil partnership to be comparable to marriage.
+
+<<2972.0;2992.94;en>>
+For instance, in Burden against the United Kingdom, your court stated that the absence of a legally binding agreement between the applicants, who are siblings living together, renders their relationship of cohabitation fundamentally different to that of a married or a civil partnership couple.
+
+<<2992.94;3012.5;en>>
+The only differences between marriage and registered partnership under the Finnish legislation relate to family name of the spouse under the NAMES Act, the establishment of paternity on the basis of marriage under the Paternity Act, and on joint external adoption under the Adoption Act.
+
+<<3012.5;3025.16;en>>
+The differences according to the Parliamentary Constitutional Committee in 2002 were not considered as unconstitutional as they fell within the margin of appreciation left to the legislator.
+
+<<3025.16;3044.04;en>>
+As regards the differences between the legal implications of marriage on the one hand and registered partnerships on the other hand, the government notes what was held by your court in Salk and Kopf versus Austria in 2010 on the matter.
+
+<<3044.04;3057.24;en>>
+In that case, your court observed that the registered partnership gave the applicants a possibility to obtain a legal status equal or similar to marriage in many respects.
+
+<<3057.24;3070.36;en>>
+While your court noted some substantial differences to remain in respect of parental rights, it was of the view that this corresponded on the whole to the trend in other member states.
+
+<<3070.36;3078.68;en>>
+Moreover, your court held that it was not called upon in the present case to examine each of these differences.
+
+<<3078.68;3099.32;en>>
+In that case, of course, each of these differences, and for instance, as the applicants had not claimed that they were directly affected by the remaining restrictions concerning artificial insemination or adoption, it would go beyond the scope of the application to examine whether those differences were justified.
+
+<<3099.32;3103.72;en>>
+And this is also the case in the present case.
+
+<<3103.72;3112.16;en>>
+Similarly, in the present case, the applicant has not shown to be directly affected by the restrictions of the registered partnership vis-a-vis marriage.
+
+<<3112.16;3122.76;en>>
+Rather, the applicant is able to keep her family name and her legal relationship with her child does not change, as the government will demonstrate.
+
+<<3122.76;3130.24;en>>
+Firstly, the government notes that the change of gender is not a ground for annulment of paternity according to the Paternity Act.
+
+<<3130.24;3147.88;en>>
+Moreover, as the Parliamentary Legal Affairs Committee noted in statement on the proposed act on the confirmation of sex of a transsexual 2002, that the rights and obligations pertaining to parenthood do not depend on the gender of the parent.
+
+<<3147.88;3166.52;en>>
+According to the Paternity Act, paternity is established either when a child is born into marriage, where the presumption of paternity applies, or by confirming the paternity afterwards.
+
+<<3166.52;3185.8;en>>
+Whatever mechanism has been used to confirm the parent-child relationship, the official change of a gender has no effect on parenthood obligation to provide maintenance, care, visiting rights, or inheritance rights.
+
+<<3185.8;3197.2;en>>
+Secondly, as mentioned earlier, so far 50 marriages have been turned into registered partnerships and 60 registered partnerships into marriages.
+
+<<3197.2;3204.4;en>>
+According to local register offices, in nine of these 31 cases, the spouses had children together.
+
+<<3204.4;3212.44;en>>
+None of these cases involved changes to the affiliation between a child and a parent.
+
+<<3212.44;3221.4;en>>
+The government concludes that the affiliation between the applicant and her child doesn't change if the marriage is turned into a registered partnership.
+
+<<3221.4;3226.36;en>>
+The same applies if a registered partnership is turned into a marriage.
+
+<<3226.36;3232.68;en>>
+The paternity of the applicant towards her child has already been established.
+
+<<3232.68;3239.36;en>>
+There would be no legal change in the child's position, which is considered to be in the child's best interests.
+
+<<3243.64;3258.26;en>>
+The government is therefore of the view that it's not disproportionate to turn the applicant's marriage into a registered partnership, as the change has no concrete legal implications for the applicant or her child in the circumstances of the present phase.
+
+<<3261.0;3270.68;en>>
+As regards the stigma to her spouse alleged by the applicant, the government reiterates that the relevant legislation is based on gender.
+
+<<3270.68;3288.68;en>>
+And as was stated in the separate, which means concurring opinion, according to your court, opinion in the decision of the Supreme Administrative Court, giving her consent does not imply by law that the spouse is at the same time admitting that she's homosexual.
+
+<<3288.68;3303.84;en>>
+According to the Parliamentary Legal Affairs Committee 2002, it was out of proportion to demand a divorce when people want to continue their relationship after the confirmation of the new gender.
+
+<<3303.84;3314.4;en>>
+And therefore, a provision was introduced which allowed the continuation of legal relationship, albeit in a different form.
+
+<<3314.4;3323.12;en>>
+The consent of the spouse for the change was, however, deemed necessary by the committee due to the significance of the issue.
+
+<<3323.12;3330.56;en>>
+The Parliamentary Social Affairs and Health Committee in 2002 reaffirmed this stand.
+
+<<3330.56;3359.64;en>>
+In her submissions, the applicant refers to the difficulties which she experiences in her everyday life with documents revealing her legal male gender and claims that she finds herself in a more precarious position than that of the applicant in the Paris versus United Kingdom, who was able to obtain a passport in her female gender prior to legal gender recognition.
+
+<<3359.64;3379.0;en>>
+The government notes that the system in Finland is inherently different to that of the United Kingdom, as the Finnish identity number which is used in official documents, such as a passport, as a means of identification automatically includes the specification of gender.
+
+<<3379.0;3394.72;en>>
+Therefore, entering the new gender, for instance, into a passport before the person has obtained a new personal number would result in two conflicting gender entries in the document in question.
+
+<<3394.72;3404.48;en>>
+While the government acknowledges that the applicant experiences some difficulties, it is not convinced of the extent of the difficulties claimed by the applicant.
+
+<<3404.48;3419.8;en>>
+For instance, the applicant claims in her written submissions and also here that she is forced to disclose her transsexual condition each time she uses the municipal public transport system.
+
+<<3419.8;3433.52;en>>
+The government notes that in major cities in Finland, the municipal transport system is automated, and the inspection of personal information only takes place occasionally in connection with ticket controls.
+
+<<3433.52;3438.04;en>>
+And now concerning margin of appreciation.
+
+<<3438.04;3450.32;en>>
+Regarding the margin of appreciation, the applicant argues that in this case, it should be narrow, particularly considering that the fundamental aspects of her existence and identity are at stake.
+
+<<3450.32;3460.64;en>>
+Furthermore, the applicant argues that the margin of appreciation cannot extend as far as to allow states to terminate a marriage at their discretion.
+
+<<3460.64;3468.64;en>>
+The government reiterates that the Finnish legislation leaves the possibility of divorce at the applicant's own discretion.
+
+<<3468.64;3486.56;en>>
+Also, your court concluded in the cases of Paris versus United Kingdom and R&F versus United Kingdom that it fell within the state's margin of appreciation how to regulate the effects of the change of gender on pre-existing marriages.
+
+<<3486.56;3500.68;en>>
+In Salkenkopf versus Austria, your court stated that the question whether or not to allow a same-sex marriage is left to the regulation by the national law of the contracting states.
+
+<<3500.68;3516.84;en>>
+In that connection, your court observed that marriage has deep-rooted social and cultural connotations which may differ largely from one society to another.
+
+<<3516.84;3530.32;en>>
+Therefore, your court stated that it should not rush a substitute its own judgment in place of that of the national authorities who are the best place to assess and respond to the need of society.
+
+<<3530.32;3544.16;en>>
+The applicant refers to Christian Goodwin versus United Kingdom and to the trends in Europe towards removing the divorce requirement in the legal gender recognition context.
+
+<<3544.16;3556.64;en>>
+The government notes that the situation in the present case is far from that of the Christian Goodwin versus United Kingdom, as in that case the applicant was not able to get her gender recognized at all.
+
+<<3556.64;3595.08;en>>
+In Slump, however, a few years later in SH and others, the case also referred by the applicant, your court held that where there was no consensus with the member states from the Council of Europe, either as to the importance of the interest at stake or as to the best means of protecting it, particularly where the case rises sensitive moral or ethical issues, the margin being wider.
+
+<<3595.08;3612.68;en>>
+The applicant alleges that there is a clear trend at the international and national level towards simplifying the gender recognition process by allowing transgender marriages to subsist post-legal gender recognition or by legalizing the same-sex marriage.
+
+<<3615.32;3627.56;en>>
+According to the information submitted by the applicant, 13 out of 45 contracting states currently allow transgender marriages to subsist post-legal gender recognition.
+
+<<3627.56;3638.24;en>>
+Of these 13 countries, three countries allow transgender marriages, while at the same time they do not extend marriage rights to same-sex couples.
+
+<<3638.24;3648.28;en>>
+The remaining 10 countries have extended same-sex marriage rights to same-sex couples, which the government reiterates is not the object of the application.
+
+<<3648.28;3660.52;en>>
+The government concludes that there is still no European consensus on allowing transgender marriages to subsist post-legal gender recognition or allowing same-sex marriage.
+
+<<3660.52;3676.48;en>>
+Consequently, the margin of appreciation in this case should be wider and should fall with the state's margin of appreciation how to regulate the effects of the change of gender on the pre-existing marriages.
+
+<<3676.48;3690.56;en>>
+The government acknowledges the comparative overview provided by Transgender Europe on the legal situation in the contracting parties regarding the legal gender recognition for transgender persons and legal institutes for the same-sex couples.
+
+<<3690.56;3702.04;en>>
+Transgender Europe does not elaborate further on the situation regarding Finland, but places Finland incorrectly in the same category as the Czech Republic and Scotland and Northern Ireland.
+
+<<3702.04;3714.2;en>>
+According to the information, the civil code in the Czech Republic states that marriage and civil partnership cease to exist if trans partner is granted legal gender recognition.
+
+<<3714.2;3726.48;en>>
+In Scotland and Northern Ireland, the situation today, according to Transgender Europe, demands determination of the marriage or civil partnership as a prerequisite for granting legal gender recognition.
+
+<<3726.48;3738.16;en>>
+This is, however, not the case in Finland, where obligatory divorce is not required by legislation and legal relationships are allowed to subsist, albeit under different title.
+
+<<3738.16;3756.0;en>>
+As to the judgment of the Italian constitutional court, contrary to the Italian system, the system adopted in Finland does not impose an automatic ex legge divorce on married couples as a consequence of the change of sex of one of the spouses.
+
+<<3756.0;3770.72;en>>
+In fact, the Italian court specifically refers in its judgment to the chamber judgment, this chamber judgment in the present case, stating that the Italian system does not impose an automatic ex legge divorce on married couples.
+
+<<3770.72;3782.4;en>>
+The court also states, stating that the affirmation differences between the Finnish and Italian legal orders are the key components rendering the Italian provision in question unconstitutional.
+
+<<3790.4;3798.2;en>>
+In Finland, as the applicant has pointed out, there is a working group which has been working on the issue for a long time.
+
+<<3798.2;3809.92;en>>
+The government notes that the review and possible subsequent legislative reforms form part of the state's continuous efforts to improve its legislation beyond the requirements of the convention.
+
+<<3809.92;3813.76;en>>
+Finally, the government notes that there is no violation of Article 8.
+
+<<3816.6;3840.42;en>>
+As regards Article 14, the government notes firstly that the chamber, the government note emphasizes the discretion of the parliament that refers to what was stated by the Supreme Administrative Court in that question of transforming the marriage institution into gender-neutral one.
+
+<<3840.42;3848.88;en>>
+It is to be solved by an act of parliament rather than making case by case allowances regardless of how you such cases may be.
+
+<<3848.88;3869.84;en>>
+Your court, too, has stated in parry against you and Kingdom and R and F versus UK that the contracting state cannot be required to make allowances for the small number of marriages where both partners wish to continue, notwithstanding the change of gender, one of them.
+
+<<3869.84;3891.96;en>>
+However, the chamber observed that the issue in the present case does not as such involve any issue under Article 12 which guarantees right to marry, but the issue at stake rather concerns the consequences of the applicant's change of gender for the existing marriage between her and her spouse, which was already examined under Article 4.
+
+<<3891.96;3895.92;en>>
+The government shares in this respect the chamber's view.
+
+<<3895.92;3920.2;en>>
+As regards finally, violation of Article 14 in conjunction with Article 8, the applicant alleges that she has been discriminated on the basis of gender identity when compared to cisgender individuals in breach of Article 14 in conjunction with Article 8 and developed, which is not the case here.
+
+<<3920.2;3923.34;en>>
+We are not examining that now.
+
+<<3923.34;3933.36;en>>
+In her submissions, she now claims that her relationship with her spouse and child receives less legal protection when compared to cisgender married marriages.
+
+<<3933.36;3941.96;en>>
+She also claims to be discriminated in so far as her right to legal recognition of a gender is concerned.
+
+<<3941.96;3963.32;en>>
+The government notes, firstly, concerning this that the applicant cannot have been treated differently from cisgender persons on the basis of her gender identity because the procedure in question is an essence and integral part of the confirmation of the applicant's gender, which is now only applicable to transgender persons.
+
+<<3963.32;3972.72;en>>
+Further, the government notes that cisgender individuals are not in a similar situation as the applicant because they are not applying for the change of their gender.
+
+<<3972.72;3993.6;en>>
+And secondly, as regards for the legal protection, the government refers to what has been stated earlier and reiterates that the registered partnership would provide the same legal protection to the applicant and her family currently enjoined by them, taking into account the circumstances of the present case.
+
+<<3993.6;4032.6;en>>
+Were your court to have a different view, the government notes that there is a reasonable relationship of proportionality between, on the one hand, requiring the applicant's marriage to be turned automatically upon consent of her spouse in the registered partnership, while at the same time ensuring the legal continuity and stability of the applicant's relationship within the limits of Finnish legislation, which currently does not provide for the same sex marriage, and on the other hand, preserving marriage as a legal institution between a man and woman.
+
+<<4032.6;4037.28;en>>
+So there is no violation of Article 14 in conjunction with Article 8 either.
+
+<<4037.28;4067.4;en>>
+And finally, concerning Article 41 claims by the applicant very quickly, if there will be found a violation on some part of the law, the government notes that the applicant should be given a compensation for pecuniary damages which should not exceed 3,000 euros.
+
+<<4067.4;4084.84;en>>
+And as regards the proceedings before the chamber, the country refers to its further observations and costs and expenses and notes that the chamber should not exceed 1,300 euros.
+
+<<4084.84;4088.84;en>>
+But of course, that 3,000 euros covers everything.
+
+<<4088.84;4094.92;en>>
+And what was said before the chamber does not apply here.
+
+<<4094.92;4104.88;en>>
+As regards the cost of expenses, the government has already, well, that was 1,300 euros.
+
+<<4104.88;4106.48;en>>
+The government accepts that.
+
+<<4106.48;4119.24;en>>
+And as regards cost and expenses, before your Court, the government notes that in the counsel's invoice, the undertaken measures have not been itemized in detail.
+
+<<4119.24;4122.68;en>>
+The same applies to travel expenses of the applicant's representatives.
+
+<<4122.68;4130.16;en>>
+Thus, the applicant's cost and expenses do not appear to include such documentation as is required by the rules of the Court.
+
+<<4130.16;4137.28;en>>
+The government leaves to your Court consideration whether this is the case and what will be the consequences.
+
+<<4137.28;4140.28;en>>
+Should they be rejected and to what extent?
+
+<<4140.28;4153.6;en>>
+In the government's view, the government should not be at the cost of expenses of the travel of the applicant's family, and this should also be requested or rejected, this claim.
+
+<<4153.6;4175.4;en>>
+And finally, at any rate, in the government's view, if compensation, some compensation costs and expenses will be allowed by your Court, the claim is excessive in its quantum and total amount of compensation should not exceed 9,000 euros, inclusive of the tax.
+
+<<4175.4;4176.4;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4184.8;4186.64;en>>
+Thank you, Mr. Kosonen.
+
+<<4187.56;4189.76;en>>
+Are there any questions? Judge Hirvelä.
+
+[[Judge;Päivi Hirvelä]]
+
+<<4192.92;4196.92;en>>
+Thank you, Mr. President. I have some questions to both parties.
+
+<<4196.92;4204.16;en>>
+And to the applicant. First, as a clarification of the facts and this question, since the
+
+<<4204.16;4210.96;en>>
+applicant herself raised this aspect. When the applicant filled the application for confirmation
+
+<<4210.96;4218.9;en>>
+of gender, the requirements were not fulfilled, since there was not the consent of the spouse.
+
+<<4218.9;4228.56;en>>
+And my question is, did the spouse object to the legal recognition of the current gender of the applicant?
+
+<<4228.56;4240.8;en>>
+My second question is the following, and this again, since the applicant herself raised this question. It's quite true that there are certain differences between marriage and
+
+<<4240.8;4248.8;en>>
+same-sex partnership in Finland. The establishment of paternity on the basis of marriage, adoption
+
+<<4248.8;4256.96;en>>
+right outside the family, and name of the spouse. And my question is, would these differences
+
+<<4256.96;4280.2;en>>
+have any practical effect to the applicant's life, taking into account, for example, that there is age limit for adoption outside the family for everyone, and the applicant's child was born in wedlock, and the parenthood and paternity does not change if the marriage is converted to same-sex partnership.
+
+<<4280.2;4294.48;en>>
+And my last third question to the applicant concerns the statistical information she refers to. The applicant in her referral requested to the Grand Chamber refers to the Rainbow
+
+<<4294.48;4310.64;en>>
+Index, and that in that was said that 24 states transgender persons are permitted to remain married. My question is, what is the basis for this interpretation? Does it base on the
+
+<<4310.64;4320.24;en>>
+idea that the states where there are no regulations at all for this situation have permitted same-sex marriages?
+
+<<4320.24;4328.36;en>>
+And then I have two questions to the government. My question is, what effect does the turning
+
+<<4328.36;4343.16;en>>
+marriage into same-sex partnership have in the population register to the child born in wedlock, born in marriage? Does it change something in his or her information in the
+
+<<4343.16;4352.32;en>>
+population register? Will it mean that he or she is born out of wedlock, or if not born
+
+<<4352.32;4360.9;en>>
+out of wedlock, will there be some other change in his or her status in that respect?
+
+<<4360.9;4369.16;en>>
+And then I have a bit hypothetical question. Since same-sex marriages are permitted in
+
+<<4369.16;4391.36;en>>
+the other Nordic states, and it might be quite possible that the same-sex marriage couple might move permanently to Finland, where same-sex marriages are not possible, how would they be registered into the population register? As a married couple or as a same-sex partnership?
+
+<<4391.36;4391.36;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4393.81;4394.85;en>>
+Thank you.
+
+<<4394.85;4396.53;en>>
+Judge Sajó.
+
+[[Judge;András Sajó]]
+
+<<4398.63;4400.73;en>>
+Thank you, Mr. President.
+
+<<4400.73;4405.69;en>>
+May I ask the applicants two facts-related questions?
+
+<<4405.69;4416.81;en>>
+First, there was reference to religious convictions, and I would like to know whether they contracted a religious marriage, and if so, when.
+
+<<4416.81;4434.53;en>>
+And secondly, I see in the various applications and observations references to certain disadvantages of the current status.
+
+<<4434.53;4437.65;en>>
+And I would like to have more information on this.
+
+<<4437.65;4445.25;en>>
+I understand that you cannot change the number as long as you are married.
+
+<<4445.25;4451.33;en>>
+I still have difficulties understanding the specific consequences.
+
+<<4451.33;4457.67;en>>
+You referred to a travel card and also a passport problem.
+
+<<4457.67;4461.03;en>>
+Is there no way to solve this problem?
+
+<<4461.03;4468.07;en>>
+Is there no way to put in the passport the gender you would like to have maintaining the number?
+
+<<4468.07;4476.07;en>>
+And are there any other consequences of the current status that are not mentioned here?
+
+<<4476.07;4476.11;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4478.06;4480.46;en>>
+Thank you Judge Sajó. Any other questions?
+
+<<4480.46;4482.46;en>>
+Judge Lemmens.
+
+[[Judge;Paul Lemmens]]
+
+<<4485.48;4486.68;en>>
+Thank you, Mr. President.
+
+<<4486.68;4493.28;en>>
+I would like to ask a small question about Article 14.
+
+<<4493.28;4507.76;en>>
+We have heard and we could read a lot about an argument of the applicant stating that there is here an unequal treatment of persons in relevantly similar situations.
+
+<<4507.76;4511.2;en>>
+The applicant says that there are similar situations.
+
+<<4511.2;4517.06;en>>
+The government denies that there are similar situations to make a comparison.
+
+<<4517.06;4536.76;en>>
+But in the observations of the applicant, and more specifically in paragraph 60 of the observations, it is also said that the two situations are sufficiently different in order to justify distinct regulation.
+
+<<4536.76;4546.2;en>>
+I would like to ask the applicant to explain what is meant by this, because suddenly we have here different situations.
+
+<<4546.2;4548.96;en>>
+Which situations could be meant here?
+
+<<4548.96;4552.5;en>>
+And could we also have the government views on this?
+
+<<4552.5;4552.5;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4553.34;4555.9;en>>
+Thank you, Judge Lemmens.
+
+<<4555.9;4557.06;en>>
+Any other questions?
+
+<<4557.06;4558.98;en>>
+We will have a break of 20 minutes.
+
+[[Announcer;UNK]]
+
+<<4608.0;4610.12;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4651.25;4653.45;en>>
+Please be seated, the hearing is resumed.
+
+<<4653.45;4657.77;en>>
+Mr. Cojocariu, please.
+
+[[Applicant;AP1]]
+
+<<4665.45;4668.13;en>>
+First, I will take Judge Hervé's questions.
+
+<<4673.93;4683.53;en>>
+To the fact whether the applicant's spouse has objected or her attitude to this whole process.
+
+<<4683.53;4693.41;en>>
+So the applicant's spouse has objected before the magistrates of the courts in domestic proceedings in this case to having her marriage turned into registered partnership.
+
+<<4693.41;4707.17;en>>
+And her objection is mainly due to her religious beliefs, religious and personal beliefs that have to do with the sanctity of marriage and inviolability of marriage.
+
+<<4707.17;4718.41;en>>
+The applicant strongly supports, well, the applicant's spouse strongly supports her wife, the applicant in this case, in the process of transition.
+
+<<4718.41;4737.21;en>>
+And with respect to the second question, what are the practical consequences of the differences in status, in legal status between marriage and registered partnership, we acknowledged all the time that the differences are not substantial.
+
+<<4737.21;4742.53;en>>
+But at least one difference is very significant to the applicant.
+
+<<4742.53;4744.89;en>>
+And it's actually a right that she would lose.
+
+<<4744.89;4746.01;en>>
+She had.
+
+<<4746.01;4759.25;en>>
+And she would lose if the applicant and her spouse would accept turning marriage into registered partnership, namely the right to adopt jointly, which they would lose under a registered partnership regime.
+
+<<4763.97;4781.17;en>>
+With respect to the third question regarding the rainbow table, the so-called rainbow table published by the ILGA Europe, which we invoked in our request for referral to the Green New Deal, our request for referral to the Green New Deal, we do not take responsibility for the information in that table.
+
+<<4781.17;4794.65;en>>
+But basically, ILGA Europe is known as a very reliable, possibly the most reliable source of information with respect to legal rights or legal status of LGBT people, lesbian, gay, bisexual, and transgender people in Europe.
+
+<<4794.65;4798.93;en>>
+In any event, this information is more or less hard to come by.
+
+<<4798.93;4808.81;en>>
+Because on the one hand, not all countries specifically regulate in detail the legal status of transgender people.
+
+<<4808.81;4838.33;en>>
+But basically, with respect to those countries that do not have regulations on the effects of a sex change on pre-existing marriages, unless there is a specific provision in the law that requires the transgender person to divorce, we may assume that the marriage in that case will survive, because any reason for the dissolution of marriage has to be specifically provided in the law.
+
+<<4838.33;4843.01;en>>
+And this is the situation in many countries is fluid.
+
+<<4843.01;4863.05;en>>
+But anyways, as I iterated in my initial address to the courts, only six countries currently have, six countries and parts of the United Kingdom, Scotland, and Northern Ireland have specific divorce requirement books.
+
+<<4863.05;4875.97;en>>
+Now, with respect to questions asked by Judge Shio, the applicant has contracted a religious marriage on 27th of July, 1996.
+
+<<4875.97;4889.21;en>>
+Actually, in Finland, as far as I know, the priest also acts as a civil officer for the purposes of recording marriages in the population registry.
+
+<<4889.21;4891.73;en>>
+So yes, she did have a religious marriage.
+
+<<4895.85;4921.17;en>>
+Concerning the question regarding the specific consequences of or disadvantages that the applicant has to suffer as a result of the incongruence between her personal documents and her appearance, we have detailed these consequences in our written submissions in the court.
+
+<<4921.17;4933.65;en>>
+One of the most important consequences has to do with the fact that the applicant is prevented to fully do his job.
+
+<<4933.65;4942.67;en>>
+The applicant works as a customs officer, which job had involved lots of traveling prior to his gender reassignment.
+
+<<4942.67;4964.45;en>>
+But because the incongruence that is immediately visible in her passport between the gendered information, within the gendered information included in the passport, she has had to reduce her traveling substantially since undergoing gender reassignment treatment.
+
+<<4964.45;4973.17;en>>
+And this is very, actually, it is a very important element of her job specification.
+
+<<4973.17;4982.45;en>>
+Concerning then other consequences, we have discussed and the government has challenged the daily difficulties that the applicant faces.
+
+<<4982.45;4991.85;en>>
+For example, when traveling using public transport, she does use public transport every day going to work.
+
+<<4991.85;5012.29;en>>
+And these difficulties, they may seem trivial, but they're quite important and they're illustrative of the very real impact that this incongruence has on the applicant's daily life, leading to embarrassment on a daily basis.
+
+<<5012.29;5019.73;en>>
+So basically, when using the passport, the public transport, there are frequent checks.
+
+<<5019.73;5027.53;en>>
+The ticket inspectors check her pass to see her traveling document.
+
+<<5027.53;5035.97;en>>
+And it is immediately obvious when they scan the document that the information doesn't match.
+
+<<5035.97;5046.13;en>>
+And actually, on a few occasions, the ticket inspector has accused her that she had a false document, that she presented a false document.
+
+<<5046.13;5051.85;en>>
+And this has led to specific litigation before the ombudsman, Finnish ombudsman.
+
+<<5051.85;5060.85;en>>
+She has filed a complaint to the Finnish ombudsman alleging exactly this fact, exactly this unpleasant daily realities of her life.
+
+<<5060.85;5070.65;en>>
+And we ask for permission from the court to submit these documents at the earliest opportunity.
+
+<<5070.65;5076.97;en>>
+These are just illustrative of the sort of problems that she faces.
+
+<<5076.97;5086.17;en>>
+She cannot, the applicant cannot change her passport to separate from changing her gender.
+
+<<5086.17;5103.45;en>>
+So there is not, it's not, there isn't a different process whereby she can only change her passport so that the information contained, the gendered information contained in that passport is, aligns itself or corresponds to her appearance.
+
+<<5103.45;5112.77;en>>
+Finally, with respect to Judge Lemens' question, the paragraph that you cited is consensual different.
+
+<<5112.77;5115.73;en>>
+So it's not as far as I remember.
+
+<<5115.73;5120.33;en>>
+It does not, it is not part of our Article 14 submission.
+
+<<5120.33;5132.45;en>>
+And there we simply want to emphasize that some countries have disconnected the regulations concerning transgender marriages from the regulations concerning homosexuality.
+
+<<5132.45;5142.33;en>>
+And there we simply want to emphasize that some countries have disconnected the regulations concerning transgender marriages from regulations concerning same-sex marriage.
+
+<<5142.33;5146.33;en>>
+So for example, Germany, Switzerland, and Austria.
+
+<<5146.33;5150.33;en>>
+Germany following a judgment by the Constitutional Court.
+
+<<5150.33;5155.65;en>>
+Austria following a judgment by the High Administrative Court, if I'm not mistaken.
+
+<<5155.65;5159.13;en>>
+And Switzerland following a change, legislative change.
+
+<<5159.13;5168.97;en>>
+And that does not regulate transgender marriages differently, allowing marriage to subsist past legal gender recognition.
+
+<<5168.97;5180.93;en>>
+And not, which does not necessarily endanger marriage as a traditional marriage, the traditional institution of marriage.
+
+<<5180.93;5192.17;en>>
+So this observation which I made was outside our submissions to Article 14, which we continue to argue.
+
+<<5192.17;5203.89;en>>
+And we fully, I wish to reiterate that yes, the applicant and her spouse are in a similarly situated position with non-transgender couples.
+
+<<5210.05;5223.21;en>>
+Finally, I would like to address one of the aspects of my esteemed colleague from the government, namely their observations concerning just satisfaction costs and expenses.
+
+<<5223.21;5240.37;en>>
+And I would like to ask for permission from the Court for us to submit the documentation related to our travel to Strasbourg for this grand chamber, which we were not able to submit previously.
+
+<<5240.37;5240.37;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5245.57;5255.37;en>>
+Thank you very much. You have two weeks to submit this document which will of course be communicated to the Governor.
+
+<<5255.37;5255.37;en>>
+Mr Kosonen.
+
+[[Government;GR1]]
+
+<<5258.02;5259.94;en>>
+Thank you, Mr. President.
+
+<<5259.94;5266.14;en>>
+Concerning the first question by Chatsviravela, I would like to give the floor to my advisor, Madam Sallis-Eagler.
+
+[[Government;GR2]]
+
+<<5270.9;5280.1;en>>
+Mr. President, as regards the questions presented by Judge Päivi Hirvelä,
+
+<<5280.1;5286.9;en>>
+the first question was about the effects on the child on the population register.
+
+<<5286.9;5304.7;en>>
+The Finnish government replies that no changes into the remarks made on the population register would be made if the legal gender was changed in the applicant's case.
+
+<<5304.7;5323.9;en>>
+If a person was marked as a child's father in the population register and subsequently that person would change gender into female, the marking would be still father in the child's records.
+
+<<5323.9;5332.6;en>>
+The second question concerned recognition of same-sex marriages concluded abroad.
+
+<<5332.6;5343.4;en>>
+For example, if in another country or in a Nordic country where same-sex marriage is allowed, would move to Finland, how they would be treated.
+
+<<5343.4;5362.2;en>>
+According to the Finnish Marriage Act, recognition of marriages concluded abroad can only be recognized if they are concluded between a man and a woman, and there are no exceptions in the Nordic Convention on this matter.
+
+<<5362.2;5385.1;en>>
+However, there is a practice which states that if the couple so agrees, they can be recognized as a registered partnership in the population register and thereby get their relationship recognized also legally in Finland.
+
+<<5385.1;5403.3;en>>
+However, as you can see, the situation is similar to the Transsexual Act, whereas the relationship status is turned from marriage into registered partnership in this case.
+
+<<5403.3;5411.6;en>>
+Thirdly, I would like to make a mark on the adoption issue.
+
+<<5411.6;5418.8;en>>
+It is true that this is one of the differences between marriage and registered partnership.
+
+<<5418.8;5438.3;en>>
+However, we would like to point out that the applicant is soon to turn 50, and this age limit in itself would prevent adoption procedures in Finland due to the applicant's age, not due to her gender.
+
+<<5438.3;5438.3;en>>
+Thank you.
+
+[[Government;GR1]]
+
+<<5450.95;5453.75;en>>
+Mr. President, I should start the question
+
+<<5453.75;5456.85;en>>
+concerning passports and travel cards.
+
+<<5458.75;5483.51;en>>
+The passport, according to the Act on the Population Information System and Certificate Services of the Population Register Center, according to those, that information, the personal identity code is an individual number that distinguishes persons with the same date of birth from each other and shows the gender of the holder.
+
+<<5483.51;5494.83;en>>
+And therefore, distinguishing between an official gender and the personal identity code is not, according to the current legislation in Finland, possible.
+
+<<5494.83;5505.45;en>>
+According to the Passport Act, both the gender and the person's personal identity code are information which is included in the passport.
+
+<<5507.95;5523.55;en>>
+Therefore, entering a new gender before the person has obtained a new personal identity code and following the legal gender recognition would result in two deconflicting gender entries in the passport, as I said before.
+
+<<5523.55;5536.87;en>>
+I would like to ask you, as regards to the question of Article 14 by Judge Lemons, whether the two situations are similar or different.
+
+<<5536.87;5554.91;en>>
+The government reiterates its view that cisgender individuals are not in a similar situation as the applicant, as they are not applying for this legal confirmation of a changed gender, which is only applicable to transgender persons.
+
+<<5554.91;5569.83;en>>
+And the government also recalls that a registered partnership would provide the same legal protection to the applicant and her family currently enjoined by them, taking into account the circumstances of the present case.
+
+<<5569.83;5579.71;en>>
+And concerning still the travel card, there are various cards.
+
+<<5579.71;5589.71;en>>
+There are, let's say, playing cards, and anybody can use such, and then personal cards.
+
+<<5589.71;5597.67;en>>
+And personal cards are usually used by those persons who go to work all the time or something like that.
+
+<<5597.67;5600.79;en>>
+And for instance, myself, I'm using that.
+
+<<5600.79;5631.31;en>>
+A personal card includes information on its holder, and it's for the reason, of course, that if somebody, if this kind of card has been stolen from somebody and there is a different sex person, for instance, having these cards in a tram, for instance, of course the inspector has to ask what is the situation and these cases might happen.
+
+<<5631.31;5643.15;en>>
+But the inspectors, these inspections, they are indeed occasional and a couple of times per year, perhaps, you might see them.
+
+<<5643.15;5647.79;en>>
+Of course, it might differ where you are moving.
+
+<<5647.79;5659.03;en>>
+And as regards the inspectors, they are trained to various situations, for instance, these kind of situations.
+
+<<5659.03;5667.47;en>>
+And they try to handle the situation with all delicacy it requires.
+
+<<5667.47;5710.91;en>>
+And as regards the applicant's reference to federal constitutional court and its judgment, and that has also been in your observations, the government notes that according to that judgment, the government notes that according to that judgment, a married transgender person could not, according to German law at the time, obtain legal gender recognition without getting divorced, resulting in the termination of all legal safeguards of their marriage.
+
+<<5710.91;5729.67;en>>
+However, that court came to the conclusion that it is left to the legislator to ensure that the community of responsibility between a married transsexual or his or her spouse can continue and not to be terminated.
+
+<<5729.67;5747.43;en>>
+And the constitutional court said that as such, the legislature could provide for the conversion of the marriage into a registered partnership, effectively from the date of legal recognition of the gender status of the transsexual spouse.
+
+<<5747.43;5747.63;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5750.35;5754.69;en>>
+Thank you very much. We have now come to the end of the hearing.
+
+<<5754.69;5760.31;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<5760.31;5767.51;en>>
+The court will now deliberate on the merits and the judgment will be delivered later.
+
+<<5767.51;5771.63;en>>
+The parties will be informed of the date of delivery.
+
+<<5771.63;5771.63;en>>
+I declare the hearing closed.
+

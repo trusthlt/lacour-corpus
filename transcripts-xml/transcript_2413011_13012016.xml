@@ -1,0 +1,3913 @@
+<?xml version="1.0" ?>
+<transcript_2413011_13012016>
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Announcer</Role>
+        <Name>UNK</Name>
+        <TimestampBegin>15.16</TimestampBegin>
+        <TimestampEnd>15.8</TimestampEnd>
+        <Language>fr</Language>
+      </meta_data>
+      <text>La Cour!</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>55.23</TimestampBegin>
+        <TimestampEnd>57.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Please be seated.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>66.83</TimestampBegin>
+        <TimestampEnd>77.39</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I declare open the public hearing on the admissibility and merits in the case of Friesvold and Flom Jacobsen v. Norway.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>77.47</TimestampBegin>
+        <TimestampEnd>91.03</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The first application was lodged with the court on 28 March 2011 under article 34 of the Convention by Mr Hans Friesvold.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>91.11</TimestampBegin>
+        <TimestampEnd>101.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The second application was lodged on 26 April 2011 by Mr Harald Flom Jacobsen.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>101.59</TimestampBegin>
+        <TimestampEnd>105.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They are both Norwegian nationals.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>105.51</TimestampBegin>
+        <TimestampEnd>116.67</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applications were allocated to the first section of the court pursuant to Rule 52, paragraph 1 of the Rules of the Court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>116.75</TimestampBegin>
+        <TimestampEnd>129.63</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>On 26 November 2013, the Chamber decided to join the applications and to communicate the case to the Norwegian government.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>129.71</TimestampBegin>
+        <TimestampEnd>138.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>On 7 July 2015, the Chamber decided to relinquish jurisdiction in favour of the Grand Chamber.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>138.99</TimestampBegin>
+        <TimestampEnd>168.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>On different dates between 17 September and 22 October 2015, the governments of Bulgaria, the Czech Republic, Greece, France, Moldova and Switzerland were granted leave to submit written comments and as third parties by virtue of article 44, paragraph 3 of the Rules of the Court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>168.55</TimestampBegin>
+        <TimestampEnd>189.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The governments are represented by their agent, Mr Marius Emberland, assisted by Mrs Jenny Sandvig and Mr Christian Reusch, counsel, and by Mr Arnulf Tverberg, Mr Lars Stoltenberg and Mr David  E. Eilertsen, advisors.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>190.07</TimestampBegin>
+        <TimestampEnd>194.39</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicants are represented by Mr Kjeldahl, counsel.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>194.47</TimestampBegin>
+        <TimestampEnd>197.79</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr Friesvold is also present.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>197.79</TimestampBegin>
+        <TimestampEnd>202.99</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I welcome the representatives in the name of the Court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>203.07</TimestampBegin>
+        <TimestampEnd>215.79</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I also welcome the groups of judges from the Constitutional Court of South Africa and the French Administrative Courts who are on a study visit to the Court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>215.87</TimestampBegin>
+        <TimestampEnd>226.39</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Having consulted the agents of the government and the representative of the applicant, I have determined the order of addresses as follows.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>226.39</TimestampBegin>
+        <TimestampEnd>232.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr Kjeldahl for the applicants will speak first and then Mr Sandvig for the government.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>232.51</TimestampBegin>
+        <TimestampEnd>234.23</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I call Mr Kjeldahl. You have the floor, please.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>243.86</TimestampBegin>
+        <TimestampEnd>247.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. President, distinguished members of the court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>251.78</TimestampBegin>
+        <TimestampEnd>270.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Initially, as for the summary of facts and circumstances, I have no substantial or significant objections to the Attorney General's introduction in his memorial.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>270.02</TimestampBegin>
+        <TimestampEnd>280.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And I refer also to the separate lists of facts on page 2 to 4 in our memorandum.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>280.86</TimestampBegin>
+        <TimestampEnd>291.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Following more information about the circumstances of these facts and merits regarding both applicants on page 4 to 9.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>294.58</TimestampBegin>
+        <TimestampEnd>301.24</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I see no special reasons to go further into this, because I assume that everything is known.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>309.42</TimestampBegin>
+        <TimestampEnd>325.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But I am asked to mention on behalf of my client and both the clients that they still believe that they are wrongly convicted.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>325.9</TimestampBegin>
+        <TimestampEnd>331.04</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And they are both still affected by this mentally.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>331.04</TimestampBegin>
+        <TimestampEnd>337.44</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But this question of guilt, of course, is not the subject of any discussions today.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>341.84</TimestampBegin>
+        <TimestampEnd>355.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Furthermore, I refer to our arguments regarding relevant domestic law on page 10 to 17 in our memorandum.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>355.14</TimestampBegin>
+        <TimestampEnd>365.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And I see no need to run into details here on these allegations, but confirming what we maintain, all submissions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>370.78</TimestampBegin>
+        <TimestampEnd>404.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>However, we believe to see factors in our esteemed counterparties' facts preparation, that should be commended.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>404.94</TimestampBegin>
+        <TimestampEnd>424.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>On the bottom of page 1 in this memorandum, maybe it's not too important, but it might turn up as important details as the case develops.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>424.82</TimestampBegin>
+        <TimestampEnd>437.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But it says that it's informed that there were in total eight other persons in addition to the applicants.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>437.1</TimestampBegin>
+        <TimestampEnd>442.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We don't know about any others than eight people in total, including the applicants.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>442.66</TimestampBegin>
+        <TimestampEnd>443.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We wonder who they might be.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>447.3</TimestampBegin>
+        <TimestampEnd>454.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We have never been informed about more persons involved in this case than a total of eight people.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>454.52</TimestampBegin>
+        <TimestampEnd>459.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So we would like to know if this may have any substantial meaning in the case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>459.94</TimestampBegin>
+        <TimestampEnd>477.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Next on page 2, it says that some of them, that are the applicants, some of them were convicted prior to Solotukin.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>481.02</TimestampBegin>
+        <TimestampEnd>494.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As far as we can see, only one of them was convicted prior to Solotukin, but none of the applicants in our case, none of our two applicants, not Friesvold, not Flom Jacobsen.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>500.1</TimestampBegin>
+        <TimestampEnd>527.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>On the other hand, both Friesvold and Flom Jacobsen, both applicants, they were imposed text search us that became final and the res judicata on respectively the 17th and 26th of December 2008, which obviously is prior to the Solotukin judgment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>527.7</TimestampBegin>
+        <TimestampEnd>545.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That was stated 10th of February 2009.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>545.22</TimestampBegin>
+        <TimestampEnd>554.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So our impression is that this information in the Attorney General's memorandum is wrong.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>554.14</TimestampBegin>
+        <TimestampEnd>572.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So on page 5, same memorandum or memorial, text search us do not constitute punishment under Norwegian law, it says.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>575.78</TimestampBegin>
+        <TimestampEnd>578.38</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It's on the top of the slide.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>578.38</TimestampBegin>
+        <TimestampEnd>584.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As text search us do not constitute punishment under Norwegian law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>584.1</TimestampBegin>
+        <TimestampEnd>620.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We disagree because due to the Supreme Court's case law in Norway, and I think we wrote about this in section 10-2, in the assessment act, our assessment act should be considered as a panel provision in our special legislations like section 2, sorry, 12-2 in the same act.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>620.1</TimestampBegin>
+        <TimestampEnd>628.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As it seems undisputed in this case that additional text is classified as punishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>628.98</TimestampBegin>
+        <TimestampEnd>637.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As a matter of fact, this is, as far as I can see, all what this case is about.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>637.18</TimestampBegin>
+        <TimestampEnd>646.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Double jeopardy and violation of the prohibition against the double jeopardy in the P7-4 rule.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>654.1</TimestampBegin>
+        <TimestampEnd>665.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Many laws contain panel provisions with information about which actions are punishable and what sentence one can get.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>665.22</TimestampBegin>
+        <TimestampEnd>672.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Search information may be in the same paragraph or in divided sections.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>672.14</TimestampBegin>
+        <TimestampEnd>677.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And the panel provision may be available or complete in one paragraph or divided in other sections.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>686.02</TimestampBegin>
+        <TimestampEnd>694.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The text assessment act, section 10-2, contains both description of the offense and punishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>694.86</TimestampBegin>
+        <TimestampEnd>703.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And it's a panel provision like section 12-2 in the same act.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>703.62</TimestampBegin>
+        <TimestampEnd>712.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Both applicants, they're imposed tax surcharges and convicted to imprisonment for tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>712.74</TimestampBegin>
+        <TimestampEnd>727.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. President, it looks like I was lending out my documents</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>727.74</TimestampBegin>
+        <TimestampEnd>730.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>in order to get copies for the interpreters.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>730.42</TimestampBegin>
+        <TimestampEnd>736.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And it looks like I got just half the documents.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>736.22</TimestampBegin>
+        <TimestampEnd>736.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I have to ask for an intermission if that's OK.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>744.89</TimestampBegin>
+        <TimestampEnd>746.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>No, sorry, I got it.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>746.89</TimestampBegin>
+        <TimestampEnd>748.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Do you need one minute?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>748.89</TimestampBegin>
+        <TimestampEnd>749.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Could you manage?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>749.89</TimestampBegin>
+        <TimestampEnd>749.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Okay.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>771.1</TimestampBegin>
+        <TimestampEnd>777.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Both applicants were imposed tax surges and convicted to imprisonment for tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>778.52</TimestampBegin>
+        <TimestampEnd>788.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They were both punished for violating both Section 10-2 and 12-2 in our Tax Assessment Act.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>788.56</TimestampBegin>
+        <TimestampEnd>801.28</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Both these sections, they are penal provisions and they are working independent from each other.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>801.28</TimestampBegin>
+        <TimestampEnd>819.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So in this case, we experience two different criminal cases, in this case, two criminal cases and two different penal frame, the one and identical offence.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>819.16</TimestampBegin>
+        <TimestampEnd>827.24</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And in that sense, they obviously, as far as we can see, they were victims of double jeopardy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>827.24</TimestampBegin>
+        <TimestampEnd>837.64</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>For the very same act, they were convicted by two different penal provisions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>837.64</TimestampBegin>
+        <TimestampEnd>855.12</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And two different authorities, the tax authorities made a tax decision and the court sentenced them to one year in prison for exactly the same identical offence.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>855.12</TimestampBegin>
+        <TimestampEnd>869.96</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is hard for us to understand this as anything else but a classic example of double jeopardy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>869.96</TimestampBegin>
+        <TimestampEnd>880.92</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And this obvious case of double jeopardy cannot be compared with cases referred to, as we saw in the Attorney General's Memorial.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>880.92</TimestampBegin>
+        <TimestampEnd>910.44</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>For instance, and I like to quote this, confiscation of driving licence for drunk or careless driving, disqualification pursuant to bankruptcy legislation, loss of right to husbandry, losing right to keep animals, suspension of licensia practicandi, duty practice like the Harvig v. Norweg case,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>910.44</TimestampBegin>
+        <TimestampEnd>926.04</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the doctor who lost his licensia practicandi, revocation of a lawyer's licence, compulsive placement in child welfare institution, et cetera, et cetera.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>926.04</TimestampBegin>
+        <TimestampEnd>930.28</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We consider these sanctions, they are not punishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>930.28</TimestampBegin>
+        <TimestampEnd>949.24</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They are not penal provisions, but precautions in order to protect the community against individuals disqualified, temporary or permanently.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>949.24</TimestampBegin>
+        <TimestampEnd>976.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Although these sanctions may be experienced like punishment for those affected, none of them are penal provisions as they do not describe the prospective criminal offence and do not fulfil the second or the Engel criteria, the nature of the offence.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>976.8</TimestampBegin>
+        <TimestampEnd>1033.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They are closely connected to the fact that other circumstances must have happened, like criminal offences, different kinds, like for instance drunk driving, maybe misusing drugs, et cetera, for the doctor who lost his licence or maybe a lawyer, he is committing fraud, for instance, and loses, these, I mean, these licences called back are totally dependent on other kind of activities to put them into force.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1033.74</TimestampBegin>
+        <TimestampEnd>1057.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But back to our clients, the provisions they have been convicted for, they contain completely both a description of the criminal offence, like number two, Engel criteria, and the punishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1057.34</TimestampBegin>
+        <TimestampEnd>1063.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So that's the way how we see it.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1063.06</TimestampBegin>
+        <TimestampEnd>1072.92</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And I know about this parallel, alleged parallel proceedings.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1072.92</TimestampBegin>
+        <TimestampEnd>1105.38</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We don't feel, in general, we don't feel too comfortable allowing parallel proceedings because by using parallel proceedings, maybe make the easiest way in this world to avoid, to avoid, to violate the prohibition of double jeopardy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1105.38</TimestampBegin>
+        <TimestampEnd>1121.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Like in this case, where the prosecution authorities and the tax authorities coordinate, the prosecution coordinating the investigation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1121.6</TimestampBegin>
+        <TimestampEnd>1144.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It may be useful for the sake of the investigation of a criminal offence, for instance, but it's rather risky business as we see it because it may lead to double jeopardy, like in this case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1144.14</TimestampBegin>
+        <TimestampEnd>1170.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Of course, I second that meaning from the Attorney General in his memorial, stating that these prosecutions from the police and the tax office were closely connected in substance and time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1170.9</TimestampBegin>
+        <TimestampEnd>1219.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Naturally, because there have been meetings, they coordinated this closely in order, as we can see, I think, I wouldn't say it's intended, but it looks like it was coordinated closely to open the possibility of avoiding the prohibition of double jeopardy and to succeed in getting both applicants punished twice for the same, the only activity.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1219.14</TimestampBegin>
+        <TimestampEnd>1229.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I think I will end my procedure there, just by referring to all statements in the oral memorandum.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>1229.9</TimestampBegin>
+        <TimestampEnd>1229.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>1231.42</TimestampBegin>
+        <TimestampEnd>1234.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much, Mr. Kjeldahl.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>1234.62</TimestampBegin>
+        <TimestampEnd>1238.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now I call Ms. Sandvig. Please.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1244.36</TimestampBegin>
+        <TimestampEnd>1250.0</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. President, members of the court,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1250.0</TimestampBegin>
+        <TimestampEnd>1258.64</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the applicants took part in one of the largest tax fraud schemes ever exposed in Norway.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1258.64</TimestampBegin>
+        <TimestampEnd>1277.76</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Through companies established in tax havens with the sole purpose of concealing income and wealth from taxation, the applicants and six others withheld more than 15 million euros.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1282.56</TimestampBegin>
+        <TimestampEnd>1293.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicants were charged and convicted to prison in one year for aggravated tax fraud with criminal intent.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1293.8</TimestampBegin>
+        <TimestampEnd>1307.76</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>While the criminal proceedings were pending, they were levied 30% surtax by tax authorities regardless of guilt.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1307.76</TimestampBegin>
+        <TimestampEnd>1313.96</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The applicants refrained from challenging these decisions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1313.96</TimestampBegin>
+        <TimestampEnd>1325.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Contrary to what has been claimed in the applicants' memorial, the second applicant has never paid the surtax imposed or the tax he owes.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1325.8</TimestampBegin>
+        <TimestampEnd>1345.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Both applicants claim nonetheless that the surtax shielded them from continuation of the foregoing and ongoing criminal proceedings for tax fraud by virtue of Article 4 of Protocol 7 to the Convention.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1349.06</TimestampBegin>
+        <TimestampEnd>1353.76</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government disputes this claim on three grounds.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1353.76</TimestampBegin>
+        <TimestampEnd>1368.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First and principally, the government invites the court to consider the administrative proceedings to fall outside the ambit of Article 4.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1368.36</TimestampBegin>
+        <TimestampEnd>1379.4</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Second, and in the alternative, the government invites the court to affirm that parallel proceedings are permissible under Article 4.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1379.4</TimestampBegin>
+        <TimestampEnd>1396.4</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Third, and at any rate, we invite the court to hold the proceedings in compliance with Article 4 as they were closely connected in substance and time, forming part of the sanctions under Norwegian law for the offenses in question.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1400.32</TimestampBegin>
+        <TimestampEnd>1401.68</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I will present these arguments in turn.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1401.68</TimestampBegin>
+        <TimestampEnd>1409.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>To each of the applicants, I will present these arguments in turn.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1409.8</TimestampBegin>
+        <TimestampEnd>1418.44</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>To fully consider the significance of this case, it is necessary, however, to start by zooming out.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1418.44</TimestampBegin>
+        <TimestampEnd>1436.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In three preliminary points, the government will explain why the court should seize this opportunity to interpret Article 4 in a stringent and coherent manner.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1436.36</TimestampBegin>
+        <TimestampEnd>1460.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As a first point, the government is of the firm view that to interpret Article 4 as to require discontinuation of parallel proceedings upon finality of one proceedings would transform the court's longstanding res judicata rule to become, in practice, a lispendence rule.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1460.72</TimestampBegin>
+        <TimestampEnd>1468.96</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Authorities would have but the choice to commence either administrative or criminal proceedings, as only one of them may conclude.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1471.96</TimestampBegin>
+        <TimestampEnd>1486.08</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Article 4 would thus merge two different legal concepts, res judicata and lispendence, which are separate under national law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1486.08</TimestampBegin>
+        <TimestampEnd>1498.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As a second point, the approach favored by the applicants will have far-reaching and unforeseeable ramifications.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1498.36</TimestampBegin>
+        <TimestampEnd>1515.0</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This mode of interpretation will affect regulatory areas such as environment, social security, finance, competition, fisheries, child welfare, to mention but a few.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1515.0</TimestampBegin>
+        <TimestampEnd>1529.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It would hamper the widespread and well-established existence of parallel administrative and criminal proceedings in contracting states, described by some as a common constitutional tradition in Europe.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1533.6</TimestampBegin>
+        <TimestampEnd>1545.24</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The acknowledgment of similar concerns prompt the US Supreme Court to disavow previous case law and reserve the double jeopardy clause to essentially criminal law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1549.02</TimestampBegin>
+        <TimestampEnd>1567.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Chief Justice Rehnquist held in Hudson that it had been ill-considered and proved unworkable to apply the strictures of double jeopardy also to civil penalties with deterrent purposes.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1567.72</TimestampBegin>
+        <TimestampEnd>1576.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>He argued, and I quote, it would severely undermine government's ability to engage in effective regulation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1576.6</TimestampBegin>
+        <TimestampEnd>1583.84</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Moreover, individuals were at any rate adequately protected in those proceedings through fair trial.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1583.84</TimestampBegin>
+        <TimestampEnd>1597.04</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As a last preliminary point, the court should consider the many factors suggesting a wide margin of appreciation in this case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1597.04</TimestampBegin>
+        <TimestampEnd>1604.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, there is a considerable lack of agreement in Europe on Article 4.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1604.8</TimestampBegin>
+        <TimestampEnd>1623.12</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is telling that several states have not ratified Protocol 7 or declared that Article 7 is a violation of Article 7 or declared that it only relates to criminal offenses under national law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1623.12</TimestampBegin>
+        <TimestampEnd>1637.96</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The number of states having chosen to intervene in support of Norway testifies to the lack of consensus that parallel surtax and tax fraud proceedings violate Article 4.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1637.96</TimestampBegin>
+        <TimestampEnd>1648.2</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The provision of criminal and administrative systems is left within the margin of appreciation of the contracting states.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1648.2</TimestampBegin>
+        <TimestampEnd>1654.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the field of taxation, this margin is particularly wide.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1654.52</TimestampBegin>
+        <TimestampEnd>1671.96</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>With this in mind, the court should consider that the Norwegian parliament has carefully considered the obligations flowing from Article 4 and has carefully voted to maintain parallel proceedings in this field.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1671.96</TimestampBegin>
+        <TimestampEnd>1690.64</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Parliament considers surtax necessary to ensure the proper functioning of the taxation system and compensate the costs of control, while it considers criminal punishment indispensable to tackle tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1690.64</TimestampBegin>
+        <TimestampEnd>1698.96</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In addition, Norwegian courts have dealt extensively with Article 4 since 2000.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1698.96</TimestampBegin>
+        <TimestampEnd>1701.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The margin of appreciation should accordingly be wide.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1706.96</TimestampBegin>
+        <TimestampEnd>1719.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I turn now to the government's first and principal argument that ordinary surtax, 30%, is not criminal for Article 4 purposes.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1719.54</TimestampBegin>
+        <TimestampEnd>1728.32</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>To substantiate this position, it is necessary to shed light on the diverging approaches in the court's case law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1728.32</TimestampBegin>
+        <TimestampEnd>1748.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is well established that penal procedure in Article 4 must be interpreted in light of the general principles concerning the corresponding words criminal charge and penalty in Article 6 and 7.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1748.94</TimestampBegin>
+        <TimestampEnd>1754.92</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>From here, two diverging approaches have emerged.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1754.92</TimestampBegin>
+        <TimestampEnd>1769.64</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The first, seen for instance in Nikanen and Lekki Dev, implies that the assessment is based solely on the Engel criteria, formulated with reference to Article 6 and criminal charge.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1769.64</TimestampBegin>
+        <TimestampEnd>1773.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Surtax would be criminal under this expansive approach.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1773.1</TimestampBegin>
+        <TimestampEnd>1785.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The second approach, applied for instance in Nilsson, Storbrotten, Mjelde, and Harvig, resembles the assessment of penalty under Article 7.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1785.86</TimestampBegin>
+        <TimestampEnd>1802.38</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It takes into account a wider range of criteria than the Engel criteria, considering in an overall cumulative assessment also the purpose, nature, and degree of severity of the measure, and the extent of the penalty.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1802.38</TimestampBegin>
+        <TimestampEnd>1819.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is also important to consider its national legal classification, whether the measure was imposed following conviction for a criminal offence, and the procedures involved in the making and implementation of the measure.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1819.06</TimestampBegin>
+        <TimestampEnd>1827.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In Gucton, for instance, the court assumed the criminal notion in Article 4 to equal penalty under Article 7.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1827.42</TimestampBegin>
+        <TimestampEnd>1841.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is also important to consider the fact that the measure was imposed following conviction for a criminal offence, and the procedures involved in the making and implementation of the measure.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1841.98</TimestampBegin>
+        <TimestampEnd>1848.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the government's view, the measure should not be seen as conclusive on this divergence.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1848.06</TimestampBegin>
+        <TimestampEnd>1852.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We refer here to the memorial paragraphs 44 to 45.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1852.06</TimestampBegin>
+        <TimestampEnd>1858.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government invites the Grand Chamber in this view.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1858.3</TimestampBegin>
+        <TimestampEnd>1865.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government is supported by several contracting states to have intervened in this case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1865.82</TimestampBegin>
+        <TimestampEnd>1875.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There are a number of reasons why the penalty assessment is more compelling for Article 4 purposes than the criminal charge mode of inquiry.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1875.58</TimestampBegin>
+        <TimestampEnd>1883.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government will mention three reasons why the court will be well advised to follow this approach.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1883.18</TimestampBegin>
+        <TimestampEnd>1899.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, the wording of the provision implies the criminal notion to be confined to criminal law stricto sensu, as it refers to punishment, conviction, and penal procedure of the state.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1899.9</TimestampBegin>
+        <TimestampEnd>1903.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Article 6 is worded more openly.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1903.3</TimestampBegin>
+        <TimestampEnd>1915.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As this court held in Perinček, differences in the terms used must normally be presumed to denote a variation in the meaning.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1915.42</TimestampBegin>
+        <TimestampEnd>1921.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This presumption is supported in our case by the explanatory report to Protocol 7.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1921.82</TimestampBegin>
+        <TimestampEnd>1928.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It shows that Article 4 was construed narrowly.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1928.66</TimestampBegin>
+        <TimestampEnd>1942.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The contracting states considered further specification of the criminal notion unnecessary, as the provision already contained references to penal procedure and criminal proceedings.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1942.66</TimestampBegin>
+        <TimestampEnd>1953.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The contracting states also held that proceedings of a different character were not subject to the provision.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1953.18</TimestampBegin>
+        <TimestampEnd>1959.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Next, the purposes of Article 4 and Article 6 differ.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1959.06</TimestampBegin>
+        <TimestampEnd>1967.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>An expensive interpretation of criminal charge is justified to promote due process guarantees.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1967.06</TimestampBegin>
+        <TimestampEnd>1972.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The purpose of Article 4 is another and more specialized.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1972.02</TimestampBegin>
+        <TimestampEnd>1989.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It protects against the burden of being exposed to new criminal proceedings after one has gained security that society, through its criminal law machinery, has finally acquitted or convicted the person.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>1992.78</TimestampBegin>
+        <TimestampEnd>2006.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>For this purpose, the wider range of criteria under the penalty assessment, with its emphasis on the procedures involved in the making and implementation of the measure, is more apt than the Angler criteria.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2011.06</TimestampBegin>
+        <TimestampEnd>2019.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Third, Article 4, like Article 7, is non-derogable and absolute.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2019.62</TimestampBegin>
+        <TimestampEnd>2028.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It does not lend itself to the relative assessment applied to surtax under Article 6.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2028.42</TimestampBegin>
+        <TimestampEnd>2036.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In USILA, the Grand Chamber stated that surtax differ from the hardcore of criminal law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2036.74</TimestampBegin>
+        <TimestampEnd>2045.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Consequently, the criminal head guarantees will not necessarily apply with their full stringency.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2045.94</TimestampBegin>
+        <TimestampEnd>2057.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As Article 4 is absolute, this distinction could hardly be respected otherwise than by confining the criminal notion to hardcore criminal law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2064.22</TimestampBegin>
+        <TimestampEnd>2073.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Individuals facing proceedings outside the court would, in any event, be adequately protected through the fair trial guarantees.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2073.94</TimestampBegin>
+        <TimestampEnd>2096.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the event the court agrees for the government in the correctness of applying the second approach, rather than a criminal charge approach, the government submits that 30% surtax is not penal for the purposes of Article 4.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2096.5</TimestampBegin>
+        <TimestampEnd>2105.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The measure is regarded administrative under national law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2105.78</TimestampBegin>
+        <TimestampEnd>2113.26</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Its purpose is to compensate the costs of control while also serving deterrent purposes.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2113.26</TimestampBegin>
+        <TimestampEnd>2118.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Surtax is not imposed following conviction for a criminal offence.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2118.42</TimestampBegin>
+        <TimestampEnd>2125.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And the procedures, it is imposed in connection with tax reassessments.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2125.14</TimestampBegin>
+        <TimestampEnd>2132.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And the procedures involved in the making and implementation of surtax are purely administrative.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2132.58</TimestampBegin>
+        <TimestampEnd>2143.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Tax authorities do not dispose of coercive measures in the discovery or in the enforcement of the measure.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2143.7</TimestampBegin>
+        <TimestampEnd>2157.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is telling that if the taxpayer fails to pay the surtax imposed, as the second applicant has done in our case, tax authorities have no penal means to enforce it.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2157.86</TimestampBegin>
+        <TimestampEnd>2163.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Surtax is not sanctioned by imprisonment or marked in any criminal record.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2163.62</TimestampBegin>
+        <TimestampEnd>2169.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And may I add, surtax is imposed in confidential decisions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2169.98</TimestampBegin>
+        <TimestampEnd>2173.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They are not public-like convictions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2173.86</TimestampBegin>
+        <TimestampEnd>2181.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thus, the general preventive effect of surtax is limited.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2181.7</TimestampBegin>
+        <TimestampEnd>2198.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And the stigmatising effect, similarly low.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2198.34</TimestampBegin>
+        <TimestampEnd>2209.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the event the court considers surtax as criminal, I turn now to the government's second main argument.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2209.86</TimestampBegin>
+        <TimestampEnd>2217.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There has been no violation of Article 4 in our case, as the parallel proceedings were permitted.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2217.82</TimestampBegin>
+        <TimestampEnd>2224.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>All six states to have intervened in this case supports this position.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2224.62</TimestampBegin>
+        <TimestampEnd>2235.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government is of the firm view that Article 4 only relates, prohibits commencement of subsequent proceedings.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2235.18</TimestampBegin>
+        <TimestampEnd>2244.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And as such, does not apply to the conclusion of concurrent proceedings, like in our case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2244.58</TimestampBegin>
+        <TimestampEnd>2263.38</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As the Grand Chamber stated in Solotukin, the guarantee enshrined in Article 4 becomes relevant on commencement of a new prosecution, where a prior acquittal or conviction has already gained the force of res judicata.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2263.38</TimestampBegin>
+        <TimestampEnd>2269.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This is also evident from the wording of the provision and from the explanatory report.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2269.62</TimestampBegin>
+        <TimestampEnd>2281.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It states that the principle of nebis in idem applies only after the person has been finally acquitted or convicted.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2281.34</TimestampBegin>
+        <TimestampEnd>2295.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This is further supported by the object and purpose of the provision, which is to prohibit the repetition of criminal proceedings that have been concluded by a final decision.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2295.98</TimestampBegin>
+        <TimestampEnd>2305.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The provision does not, therefore, apply before new proceedings have been opened, as the court held in both Gradinger and Gaudi.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2310.02</TimestampBegin>
+        <TimestampEnd>2317.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This understanding accords with how the principle of nebis in idem is understood in national and international law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2317.82</TimestampBegin>
+        <TimestampEnd>2343.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We recall, for instance, the European Court of Justice in Orchiba de Franco, which held that it is only if the tax penalty is criminal in nature for the purposes of Article 50 of the Charter and has become final, that that provision precludes criminal proceedings in respect of the same act from being brought against the same person.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2343.06</TimestampBegin>
+        <TimestampEnd>2350.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thus, the commencement of tax proceedings while criminal proceedings were pending raised no issue.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2350.62</TimestampBegin>
+        <TimestampEnd>2358.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As this court emphasized in Lucky Dev, Article 4 does not protect against multiple proceedings or less pendants.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2362.34</TimestampBegin>
+        <TimestampEnd>2380.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government contends that it does not and cannot follow that the mere continuation of criminal proceedings upon the conclusion of concurrent tax proceedings will result in a breach of the provision.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2380.1</TimestampBegin>
+        <TimestampEnd>2390.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This continuation would not only be meaningless for society at large, it could also be disadvantageous to the individual.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2390.86</TimestampBegin>
+        <TimestampEnd>2404.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>He may wish for an acquittal in the pending criminal track to clear his name from a criminal charge which the administrative decision will not have settled.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2404.34</TimestampBegin>
+        <TimestampEnd>2421.26</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It makes more sense, therefore, as stated in Sulu-Turkin, that Article 4 provides a safeguard against being tried or being liable to be tried again in new proceedings rather than a prohibition on a second conviction or acquittal.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2429.02</TimestampBegin>
+        <TimestampEnd>2443.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The recent chamber decisions which appear to require such discontinuation, for instance, Nikkanen and Glantz, seem to depart from Sulu-Turkin and the court's otherwise consistent case law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2443.82</TimestampBegin>
+        <TimestampEnd>2450.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In view of the government, this departure from Sulu-Turkin is not supported by way of legal argument.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2450.94</TimestampBegin>
+        <TimestampEnd>2456.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is also not warranted by policy considerations.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2456.7</TimestampBegin>
+        <TimestampEnd>2458.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There are four points to be made.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2462.02</TimestampBegin>
+        <TimestampEnd>2477.22</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, the aim of Article 4 is to protect against the burden of being exposed to a new set of proceedings after one has gained security that the offense has been sanctioned res judicata.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2477.22</TimestampBegin>
+        <TimestampEnd>2488.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the event of parallel proceedings, the individual could have no expectation that the offense is finally sanctioned of a conclusion of one proceeding.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2488.18</TimestampBegin>
+        <TimestampEnd>2499.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Rather, the first conclusion would bring clarity and reduce the burden compared to the prior situation of having two pending proceedings with uncertainty in both ends.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2504.26</TimestampBegin>
+        <TimestampEnd>2512.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thus, in the event of continued parallel proceedings, there seems to be no renewed burden to protect against.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2517.38</TimestampBegin>
+        <TimestampEnd>2525.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Second, discontinuation would run counter to the principle of equal treatment before the law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2525.58</TimestampBegin>
+        <TimestampEnd>2533.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Progress of proceedings varies from case to case, depending, for instance, on whether the individual choose to appeal.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2533.86</TimestampBegin>
+        <TimestampEnd>2545.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As such, persons A and B may end up with different sanctions for the same offense due to mere coincidences.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2545.06</TimestampBegin>
+        <TimestampEnd>2552.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court recognized this concern in Newconin and Glantz.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2552.42</TimestampBegin>
+        <TimestampEnd>2577.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Person A could get away with surtax, while person B would end up in prison simply because B cooperates with police, ensuring a swift conviction, or appeals to surtax, which A does not.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2577.86</TimestampBegin>
+        <TimestampEnd>2590.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Third, a requirement to break off parallel proceedings might in practice often mean that only one set of proceedings is ever applied.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2590.14</TimestampBegin>
+        <TimestampEnd>2601.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thus, the advantages of the other set of proceedings, either criminal or administrative, would not be attained.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2601.42</TimestampBegin>
+        <TimestampEnd>2618.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>If solely administrative proceedings are commenced, contracting states would in practice be precluded from investigating the criminal offense, which may reveal the offense to be more severe than the administrative authorities have competence to uncover.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2618.46</TimestampBegin>
+        <TimestampEnd>2625.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This would favor complex crime and international tax fraud in particular.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2625.06</TimestampBegin>
+        <TimestampEnd>2635.54</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In our case, for instance, the applicant's tax fraud would never have been discovered.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2635.54</TimestampBegin>
+        <TimestampEnd>2649.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>On the other hand, if solely criminal proceedings are pursued, this would burden the judicial system with more criminal cases without the time-saving interplay of administrative authorities.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2649.78</TimestampBegin>
+        <TimestampEnd>2654.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This could prolong proceedings beyond reasonable time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2654.74</TimestampBegin>
+        <TimestampEnd>2671.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As such, parallel proceedings promoting efficiency, equality, and proportionate reactions may better serve the interests of individuals and society at large.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2671.5</TimestampBegin>
+        <TimestampEnd>2687.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Fourth, administrative and criminal proceedings serve different purposes, which cannot be fully attained or safeguarded in only one set of proceedings before one authority.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2687.82</TimestampBegin>
+        <TimestampEnd>2709.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This could be illustrated by two examples from regulatory areas where the Supreme Court of Norway has found the administrative sanctions, revocation of a license to fish, and compulsory placement in a child welfare institution to be criminal pursuant to the Engel criteria.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2709.06</TimestampBegin>
+        <TimestampEnd>2727.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In fisheries, it is difficult to envisage a system whereby the prosecuting authority decides on whether a license to fish is to be revoked to safeguard a maritime ecosystem from damage.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2727.56</TimestampBegin>
+        <TimestampEnd>2739.18</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In child welfare, it is equally difficult to envisage the child welfare service safeguarding the public interest in prosecuting manslaughter allegedly committed by a minor.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2739.18</TimestampBegin>
+        <TimestampEnd>2748.7</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Or police deciding on compulsory placement in a child welfare institution to safeguard as its foremost consideration the best interests of the child.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2752.06</TimestampBegin>
+        <TimestampEnd>2761.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Should continuation of parallel proceedings be prohibited by Article 4, these different purposes would not be attained as they are today.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2766.3</TimestampBegin>
+        <TimestampEnd>2780.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In sum, the government invites the Grand Chamber to stay with its interpretation in Solotukin and hold that parallel proceedings, and hence their conclusion, fall outside the ambit of Article 4.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2788.62</TimestampBegin>
+        <TimestampEnd>2792.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the event, the court should hold otherwise.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2792.42</TimestampBegin>
+        <TimestampEnd>2804.14</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government submits as its third and final argument that the proceedings in our case did not violate Article 4, as they were sufficiently connected in substance and time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2804.14</TimestampBegin>
+        <TimestampEnd>2810.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This test was developed by the court in Nilsson, with reference to RT versus Switzerland.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2810.06</TimestampBegin>
+        <TimestampEnd>2814.86</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It has been affirmed in Nikanen and subsequent cases.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2814.86</TimestampBegin>
+        <TimestampEnd>2824.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The Supreme Court of Norway has correctly and in good faith applied this test in conformity with the criteria laid down in the court's case law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2824.94</TimestampBegin>
+        <TimestampEnd>2836.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Indeed, in the first applicant's case, Justice Mercer concluded that it is rare for administrative and criminal proceedings to be interwoven to this extent.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2839.14</TimestampBegin>
+        <TimestampEnd>2840.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This should call for deference.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2845.22</TimestampBegin>
+        <TimestampEnd>2853.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As regards the substantial connection, the court should recognize the following six points.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2853.1</TimestampBegin>
+        <TimestampEnd>2863.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>First, traces of the scheme were initially discovered by tax authorities by chance during a tax audit of a connected company.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2863.9</TimestampBegin>
+        <TimestampEnd>2871.82</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Their filing of a substantiated police report enabled police to take swift, precise action.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2871.82</TimestampBegin>
+        <TimestampEnd>2881.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Second, police investigation led to the discovery of the applicants, of which the tax authorities were then informed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2881.58</TimestampBegin>
+        <TimestampEnd>2886.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Tax proceedings began as a result.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2886.42</TimestampBegin>
+        <TimestampEnd>2893.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Third, progress of the tax proceedings depended on the police investigation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2893.72</TimestampBegin>
+        <TimestampEnd>2906.78</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Tax authorities were granted access to evidence obtained by police through international police cooperation in seven jurisdictions on different continents, examinations, and police actions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2906.78</TimestampBegin>
+        <TimestampEnd>2918.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Fourth, police faced the indictments for tax fraud on the administrative authorities' calculation of the complex tax offenses.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2918.9</TimestampBegin>
+        <TimestampEnd>2923.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This avoided duplication of efforts and saved time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2923.46</TimestampBegin>
+        <TimestampEnd>2932.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Fifth, there were frequent interactions, meetings, and correspondence between the authorities from the start.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2932.34</TimestampBegin>
+        <TimestampEnd>2939.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Sixth, the police were not aware of the existence of a tax fraud in the system.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2939.34</TimestampBegin>
+        <TimestampEnd>2948.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Sixth, surtax was taken into account by courts when sentencing for tax fraud, as statutory law demands.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2951.82</TimestampBegin>
+        <TimestampEnd>2961.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>These connection points set our cases apart from Nikkanen and Glantz, where the proceedings were not in any way connected.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2961.06</TimestampBegin>
+        <TimestampEnd>2974.26</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Turning to the closeness in time, the courts were not able to make a decision on the validity from the imposition of surtax until these decisions were final.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2974.26</TimestampBegin>
+        <TimestampEnd>2983.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>They became final as the applicants allowed the three-week and six-month time limit for administrative and judicial appeal to lapse.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2983.42</TimestampBegin>
+        <TimestampEnd>2996.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This aligns our cases with Hakka, where proceedings also overlapped and where the applicant allowed the time limits until the appeal to expire.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>2996.42</TimestampBegin>
+        <TimestampEnd>3002.74</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court, accordingly, found no violation in that case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3002.74</TimestampBegin>
+        <TimestampEnd>3010.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Finally, the court should recognize one additional consideration emphasized by the Supreme Court.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3010.5</TimestampBegin>
+        <TimestampEnd>3020.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Justice Mercer concluded that the object and purpose of Article 4 did not indicate that the provision had been violated.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3020.58</TimestampBegin>
+        <TimestampEnd>3029.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It did not have a legitimate expectation that they would be only subject to one set of proceedings.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3029.1</TimestampBegin>
+        <TimestampEnd>3038.58</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Both applicants testified in court that they never expected the criminal case to be dropped.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3038.58</TimestampBegin>
+        <TimestampEnd>3050.26</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The circular issued by the general prosecutor did not and could not give rise to legitimate expectations that the criminal case would be discontinued.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3050.26</TimestampBegin>
+        <TimestampEnd>3067.5</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It was intended for prosecutors and civil servants, and while it introduced a general new routine for simplification purposes, it clearly preserved the right to proceed with parallel proceedings in individual cases.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3067.5</TimestampBegin>
+        <TimestampEnd>3076.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As our cases show, coordinated proceedings from both authorities are essential to tackle complex tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3076.94</TimestampBegin>
+        <TimestampEnd>3082.94</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In a situation of this kind, the Supreme Court concluded, &quot;...considerations of effective proceedings must carry weights.&quot;</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3084.52</TimestampBegin>
+        <TimestampEnd>3088.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Sandvig, I apologize for interrupting you, but may I ask you to conclude, please?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3088.72</TimestampBegin>
+        <TimestampEnd>3088.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Yes. Thank you.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3090.91</TimestampBegin>
+        <TimestampEnd>3092.23</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This brings me to the conclusion.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3092.23</TimestampBegin>
+        <TimestampEnd>3094.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>If the court's allowed, just a final paragraph.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3097.25</TimestampBegin>
+        <TimestampEnd>3109.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>To summarize, the court is invited to take into account the wider range of criteria to assess the criminal notion under Article 4, having regard also to the penalty criteria under Article 7 in an overall cumulative assessment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3109.55</TimestampBegin>
+        <TimestampEnd>3116.83</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>This would confirm a duly reasoned approach in case law, which finds comparative support in the Supreme Court of the United States.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3116.83</TimestampBegin>
+        <TimestampEnd>3121.27</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government submits that ordinary surtox is not criminal under this approach.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3121.27</TimestampBegin>
+        <TimestampEnd>3133.11</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the alternative, the court is invited to confirm that parallel proceedings are outside the ambit of Article 4, as the principle only prohibits commencement of new proceedings after a final conviction or acquittal.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3133.11</TimestampBegin>
+        <TimestampEnd>3138.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court would confirm Zulu-Turkin on this point and be aligned with the European Court of Justice.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3138.55</TimestampBegin>
+        <TimestampEnd>3149.47</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In the event the court considers parallel proceedings may fall within the ambit, the government strongly suggests that the proceedings are sufficiently closely connected to comply with Article 4.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>3149.47</TimestampBegin>
+        <TimestampEnd>3150.47</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you for your attention.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3151.31</TimestampBegin>
+        <TimestampEnd>3158.91</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much Mrs. Sandvig and I thank both parties for their interventions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3158.91</TimestampBegin>
+        <TimestampEnd>3167.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now I should like to invite judges of the Grand Chamber to put to the parties the questions they may have.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3167.17</TimestampBegin>
+        <TimestampEnd>3168.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Judge Nußberger please.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3171.56</TimestampBegin>
+        <TimestampEnd>3176.4</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I would have a question concerning the Norwegian law.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3176.4</TimestampBegin>
+        <TimestampEnd>3178.32</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We are here, we have two laws.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3178.32</TimestampBegin>
+        <TimestampEnd>3187.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We have Article 10.2 of the Tax Assessment Act and we have Chapter 12 on tax fraud of</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3187.52</TimestampBegin>
+        <TimestampEnd>3189.28</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the Penal Code.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3189.28</TimestampBegin>
+        <TimestampEnd>3204.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And in the case at hand, we have learned that the courts, when assessing the criminal punishment, they took into account the administrative tax surcharges.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3204.9</TimestampBegin>
+        <TimestampEnd>3212.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I wonder, and the government argued that this was, as it was said, a statutory law demand.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3212.6</TimestampBegin>
+        <TimestampEnd>3224.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I would like to understand was that discretionary or is there a duty in the law to take into account the administrative punishment that has been before?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3224.42</TimestampBegin>
+        <TimestampEnd>3244.68</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And if the procedure had been vice versa, so if there had been first criminal punishment and then the conclusion of the administrative procedure, I read that in the event that the conditions imposing a tax surcharge are fulfilled, the surcharge will normally be assessed at 30%.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3244.68</TimestampBegin>
+        <TimestampEnd>3254.92</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Would that mean that this normally that we would have an exception if there had been already a high criminal punishment to reduce the administrative sanction?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Angelika Nußberger</Name>
+        <TimestampBegin>3254.92</TimestampBegin>
+        <TimestampEnd>3255.84</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>That would be my question, thank you.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3256.93</TimestampBegin>
+        <TimestampEnd>3261.33</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much Judge Nußberger. Now Judge Paulo Pinto de Albuquerque, please.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3262.65</TimestampBegin>
+        <TimestampEnd>3268.13</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you Mr. President. My question goes to the government, but of course the applicants</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3268.13</TimestampBegin>
+        <TimestampEnd>3278.29</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>may also take a position on this question. In fact, I have two questions to the government.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3278.29</TimestampBegin>
+        <TimestampEnd>3295.29</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I would like the government to elaborate on the consequences, the negative consequences for a Norwegian citizen who does not pay the tax surcharge. The government pleads that</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3295.29</TimestampBegin>
+        <TimestampEnd>3302.09</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>there are no penal means to impose the tax surcharge. No imprisonment, no criminal record,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3302.09</TimestampBegin>
+        <TimestampEnd>3311.93</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>no publicity. Are there any negative consequences for someone who does not pay the surcharge</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3311.93</TimestampBegin>
+        <TimestampEnd>3330.91</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>in whatever form, as a fine or any other form of negative consequence that may arise from the fact of not having paid the tax surcharge? And my second point is related to the interaction</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3330.91</TimestampBegin>
+        <TimestampEnd>3339.39</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>between the administrative and the criminal procedures. In what measure is the tax surcharge</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3339.39</TimestampBegin>
+        <TimestampEnd>3353.17</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>applied in the administrative procedure taken into account in the conviction and sentencing in the criminal procedure? Are the facts established in the administrative procedure binding for</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3353.17</TimestampBegin>
+        <TimestampEnd>3361.89</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>the criminal procedure? Is the tax surcharge considered in order to diminish the criminal</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3361.89</TimestampBegin>
+        <TimestampEnd>3375.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>penalty? And these questions could be put as an alternative seen from the perspective</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3375.19</TimestampBegin>
+        <TimestampEnd>3382.21</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>of the criminal procedure seen from the other side of the coin. Are the facts established</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3382.21</TimestampBegin>
+        <TimestampEnd>3387.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>in the criminal procedure binding for the administrative procedure? Is the criminal</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3387.81</TimestampBegin>
+        <TimestampEnd>3393.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>penalty considered in order to lower the tax surcharge? So I would like the government</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Judge</Role>
+        <Name>Paulo Pinto de Albuquerque</Name>
+        <TimestampBegin>3393.87</TimestampBegin>
+        <TimestampEnd>3402.71</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>to elaborate on this interaction, possible interaction between the effects of each of these procedures in one another. Thank you very much.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3406.96</TimestampBegin>
+        <TimestampEnd>3410.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much, Judge Pinto de Albuquerque  .</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3410.16</TimestampBegin>
+        <TimestampEnd>3430.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So if there are no more questions, now the court will rise for, say, 20 minutes, so we will resume at half past 10, following which the parties will return for a second round of short pleadings to respond to the submissions in the first round and to the judges' questions.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Announcer</Role>
+        <Name>UNK</Name>
+        <TimestampBegin>3720.73</TimestampBegin>
+        <TimestampEnd>3721.45</TimestampEnd>
+        <Language>fr</Language>
+      </meta_data>
+      <text>La Cour!</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3760.6</TimestampBegin>
+        <TimestampEnd>3763.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Please be seated.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3763.6</TimestampBegin>
+        <TimestampEnd>3766.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The hearing is now resumed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3766.6</TimestampBegin>
+        <TimestampEnd>3768.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And I call Mr. Kjeldahl.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3768.42</TimestampBegin>
+        <TimestampEnd>3769.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Do you have the floor, please, Mr. Kjeldahl?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>3789.2</TimestampBegin>
+        <TimestampEnd>3796.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. Kjeldahl, please, you have the floor for 10 minutes for the second round and to reply to the questions of the judges, please.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3807.99</TimestampBegin>
+        <TimestampEnd>3814.65</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. President, distinguished members of the court,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3814.65</TimestampBegin>
+        <TimestampEnd>3825.21</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>there are lots of aspects in this case we would like to proceed with, but it would take much time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3825.21</TimestampBegin>
+        <TimestampEnd>3853.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But some of the issues here is there is a development in the Norwegian law system, trending to what we understand is the majority of decisions from European court in similar cases.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3853.73</TimestampBegin>
+        <TimestampEnd>3888.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Instead of this dual prosecution system, it looks like they move over from decisions from tax audit, tax authorities, to find the suspects for an amount corresponding to what they should have paid in tax.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3888.87</TimestampBegin>
+        <TimestampEnd>3921.39</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But this method, we don't believe in it because it causes unequal treatment, because the way they are following up that section in the penalty law, there is a special section number 27, it lists up all the factors to be assessed when they decide the size of the fine.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3921.39</TimestampBegin>
+        <TimestampEnd>3924.81</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So there are other interests in mind.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3924.81</TimestampBegin>
+        <TimestampEnd>3937.51</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So therefore, first, they won't get the same amount as if the tax office make a decision, like in this case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3937.51</TimestampBegin>
+        <TimestampEnd>3966.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Secondly, the result may differ because of other aspects that have nothing to do with aspects in this case, like for instance, the individual situation, financial situation, social aspects, cultural aspects, and so on.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3966.43</TimestampBegin>
+        <TimestampEnd>3984.87</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So we don't believe in anything else than following up the practice we have seen until now in the European Court of Human Rights.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>3984.87</TimestampBegin>
+        <TimestampEnd>4002.43</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The only thing that may be a topic of discussion is whether we should allow or whether we should not allow an approach like dual persecution, double persecution.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4002.43</TimestampBegin>
+        <TimestampEnd>4033.37</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But I think by maintaining the dual persecution procedure, I think it makes it very risky to end up with double jeopardy anyway, because it's so easy to go around or to avoid the prohibition against double jeopardy.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4033.37</TimestampBegin>
+        <TimestampEnd>4082.73</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As for instance, in this case, there have been, and this is stated by the Attorney General in the memorial, that there have been a close connection in substance and time that is solely because there have been lots of meetings arranged in order to obtain double jeopardy, both this decision from the tax office, which is by a Supreme Court stated as punishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4082.73</TimestampBegin>
+        <TimestampEnd>4099.41</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And the Norwegian Taxation Act, Section 10.2, is by Supreme Court finally stated as punishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4099.41</TimestampBegin>
+        <TimestampEnd>4105.13</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And so it will be.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4105.13</TimestampBegin>
+        <TimestampEnd>4133.11</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I think the only way in the future, I think the European Court of Human Rights should maintain the practice as they have today and make this decision in the Grand Chamber to put an end, once for good, for any discussion and any difference in practice between the nations.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4133.11</TimestampBegin>
+        <TimestampEnd>4152.53</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I think it would be a national problem or a challenge to develop their own law system so the practice, the national practice can be more pursuant or more equal, pursuant to equal treatment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4152.53</TimestampBegin>
+        <TimestampEnd>4159.21</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>If, no, I wouldn't say that.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4159.21</TimestampBegin>
+        <TimestampEnd>4160.77</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I withdraw.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Applicant</Role>
+        <Name>AP1</Name>
+        <TimestampBegin>4160.77</TimestampBegin>
+        <TimestampEnd>4163.33</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Okay, thank you very much for the attention.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4164.75</TimestampBegin>
+        <TimestampEnd>4168.19</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much, Mr. Kjeldahl.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4168.19</TimestampBegin>
+        <TimestampEnd>4170.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Now I call Mrs. Sandvik, please.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4170.75</TimestampBegin>
+        <TimestampEnd>4170.75</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>You have the floor.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4189.34</TimestampBegin>
+        <TimestampEnd>4194.34</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Mr. President, members of the court,</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4194.34</TimestampBegin>
+        <TimestampEnd>4198.84</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>thank you for the interesting questions posed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4198.84</TimestampBegin>
+        <TimestampEnd>4206.2</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>We will try to answer them as fully as possible within the available time.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4206.2</TimestampBegin>
+        <TimestampEnd>4237.9</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As regards the first question from Judge Nussberger, the first question I recall was whether in the event that surtax is imposed prior to the criminal conviction, whether it is discretionary, whether courts take surtax into account discretionary or according to law-bound duty.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4237.9</TimestampBegin>
+        <TimestampEnd>4245.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The answer to this today would be perhaps a bit complex.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4245.56</TimestampBegin>
+        <TimestampEnd>4264.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Today, in order to ensure a mass operational practice which is clearly within the limits of Article 4, one in most cases would choose between surtax or reporting tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4264.36</TimestampBegin>
+        <TimestampEnd>4266.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So that would not be an issue.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4266.56</TimestampBegin>
+        <TimestampEnd>4293.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But prior to this self-imposed safety margin, it is pursuant to Norwegian case law not doubtful that courts take into account surtax imposed when they sentence for the tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4293.16</TimestampBegin>
+        <TimestampEnd>4318.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It is a general principle of sentencing under Norwegian law that one has regard to the aggregate reaction in order to ensure a fair and adequate sanction.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4318.56</TimestampBegin>
+        <TimestampEnd>4328.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The government also refers to its memorial on this point.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4328.16</TimestampBegin>
+        <TimestampEnd>4343.4</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The second question from Judge Nussberger appears to rely on the premise that the surtax is imposed after the criminal conviction.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4343.4</TimestampBegin>
+        <TimestampEnd>4354.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>However, the normal progress of proceedings will be that surtax is imposed before the criminal conviction.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4354.66</TimestampBegin>
+        <TimestampEnd>4370.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As our cases show, prosecuting authorities will await the tax authorities' calculation of the tax fraud, which the tax authorities are competent to do.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4370.42</TimestampBegin>
+        <TimestampEnd>4380.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And moreover, the nature of administrative proceedings entail that surtax is imposed swiftly.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4380.8</TimestampBegin>
+        <TimestampEnd>4396.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So the normal situation will be that when courts are to decide on sentencing for tax fraud and there is a surtax proceeding, the surtax will have been imposed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4396.3</TimestampBegin>
+        <TimestampEnd>4405.62</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Of course, if the taxpayer has appealed the surtax, the surtax may not be final at the moment the court sentenced for tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4405.62</TimestampBegin>
+        <TimestampEnd>4412.3</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But then the surtax will, at any event, be taken into account in the sentencing.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4412.3</TimestampBegin>
+        <TimestampEnd>4435.32</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thus, it would indeed be an extraordinary incident if surtax were not imposed or not even warned of in prior notices before courts decide on sentencing for tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4435.32</TimestampBegin>
+        <TimestampEnd>4460.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The guarantee on reasonable time under Article 6 could also be seen as a possible barrier for such a situation, because then, of course, the criminal proceedings, which, presumed of their nature, are complex and resource draining and takes time, will probably have advanced for a certain period of time before then the surtax decisions would be imposed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4460.42</TimestampBegin>
+        <TimestampEnd>4476.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So we are not aware of such a situation, such a chronology of sanctions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4476.56</TimestampBegin>
+        <TimestampEnd>4495.06</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But if the court is interested in this, we may submit, of course, additional observations if the court would wish for such explanations.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4495.06</TimestampBegin>
+        <TimestampEnd>4518.66</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As concerns the two questions from the Portuguese judge Albuquerque, the first question concerns whether there are any negative consequences for a taxpayer who fails to pay surtax imposed.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4518.66</TimestampBegin>
+        <TimestampEnd>4524.46</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And we recall there are no penal consequences of this failure.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4527.98</TimestampBegin>
+        <TimestampEnd>4532.6</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The only consequence will, of course, be forced recovery of death.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4532.6</TimestampBegin>
+        <TimestampEnd>4548.64</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>But as our case shows, these administrative measures are not in every case sufficient to settle the surtax.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4548.64</TimestampBegin>
+        <TimestampEnd>4563.28</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As concerns the second applicant, an attachment of earnings, two attachment of earnings orders have been issued, one of them in Wayne.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4563.28</TimestampBegin>
+        <TimestampEnd>4579.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The other resulted in forced payments of 575 euros, which is marginal, very marginal, to the 3.5 million Norwegian crowners in taxes, interest</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4579.16</TimestampBegin>
+        <TimestampEnd>4589.52</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>rates, and then 30% surtax, which has accumulated since 2009 and the failure to pay until today.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4592.24</TimestampBegin>
+        <TimestampEnd>4609.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Surtax imposed was 403,843 Norwegian crowners in surtax.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4609.36</TimestampBegin>
+        <TimestampEnd>4626.84</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There has later been filed a petition against the second applicant, a bankruptcy petition, but this has been withdrawn as he is no longer considered to have legal domicile in Norway.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4626.84</TimestampBegin>
+        <TimestampEnd>4629.84</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>He has emigrated to the United States.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4629.84</TimestampBegin>
+        <TimestampEnd>4637.04</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So as of 2014, his payment case has been suspended.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4637.04</TimestampBegin>
+        <TimestampEnd>4645.42</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>As tax authorities do not consider it possible to obtain settlement of these 3.5 million Norwegian</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4645.42</TimestampBegin>
+        <TimestampEnd>4653.88</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>crowners in tax areas and surtax and interest rates owed by the applicant to be settled, it is suspended.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4657.72</TimestampBegin>
+        <TimestampEnd>4667.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Concerning the second question from Judge Albar Kirk, in what measure are the surtax taken into account?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4669.8</TimestampBegin>
+        <TimestampEnd>4676.84</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Whether the facts in the tax surcharge proceedings are binding on the criminal proceedings or vice versa?</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4681.68</TimestampBegin>
+        <TimestampEnd>4685.48</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The simple answer is that they are not binding.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4685.48</TimestampBegin>
+        <TimestampEnd>4688.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>These are separate assessments.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4688.56</TimestampBegin>
+        <TimestampEnd>4703.44</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>However, as we've seen, prosecuting authority will base the indictments on the calculation of the taxes withdrawn on the tax authorities' calculations of the offenses.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4712.36</TimestampBegin>
+        <TimestampEnd>4725.48</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So in that matter, it is the same subject concerning the objective elements of the provision, which is subject to the court's assessment in the criminal case.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4725.48</TimestampBegin>
+        <TimestampEnd>4737.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In addition, the court considers the guilt criterion, which is not subject to an ordinary surtax case, which is objectively imposed regardless of guilt.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4737.16</TimestampBegin>
+        <TimestampEnd>4758.32</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Moreover, another complicating factor, as this court has acknowledged in Løkke Dev, for surtax, the burden of proof is significantly lower than the burden of proof for tax fraud criminal proceedings.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4758.32</TimestampBegin>
+        <TimestampEnd>4768.32</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Tax fraud criminal proceedings, as any criminal proceedings before courts, require that facts have been established beyond reasonable doubt.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4768.32</TimestampBegin>
+        <TimestampEnd>4786.44</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>In Løkke Dev versus Sweden, this court accepted that the burden of proof was that it was most likely that the facts establishing the surtax offense had been established.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4786.44</TimestampBegin>
+        <TimestampEnd>4797.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Under Norwegian law, we demand a clear probability for surtax, which is at any event lower than the burden of proof in criminal cases.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4797.36</TimestampBegin>
+        <TimestampEnd>4804.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So this may be, I hope, this for the answers.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4804.36</TimestampBegin>
+        <TimestampEnd>4811.8</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And what concerns the vice versa situation, as I answered Judge Nesbøge, this is not a practical situation.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4816.76</TimestampBegin>
+        <TimestampEnd>4833.16</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Let me just round up by two last remarks, as pointed to by the applicants in their prepared statements.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4833.16</TimestampBegin>
+        <TimestampEnd>4839.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There is a question of whether there are in total 10 or 8 persons involved in the complex tax fraud.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4839.72</TimestampBegin>
+        <TimestampEnd>4843.56</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>There are 8 persons, including the applicants, so 6 others.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4843.56</TimestampBegin>
+        <TimestampEnd>4847.04</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Then there are two more persons, which are more remotely connected.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4847.04</TimestampBegin>
+        <TimestampEnd>4850.12</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And these cases are distinguishable on the facts.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4850.12</TimestampBegin>
+        <TimestampEnd>4860.72</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>So the relevant number is then 6 others, in addition to the applicants.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4860.72</TimestampBegin>
+        <TimestampEnd>4882.68</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The last remark would be from this government that the court should recognize what the wording of Article 4, the Travaux Preparatoires and Zollotuken makes perfectly clear, that double jeopardy protects against successive proceedings, not successive punishment.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4882.68</TimestampBegin>
+        <TimestampEnd>4894.84</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Article 4 is an essential and absolute criminal law guarantee, which may not be derogated from under Article 15.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4894.84</TimestampBegin>
+        <TimestampEnd>4902.36</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>It should be confined to hardcore criminal law if it is to remain effective.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>Government</Role>
+        <Name>GR1</Name>
+        <TimestampBegin>4902.36</TimestampBegin>
+        <TimestampEnd>4906.64</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you for your attention.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+  <SpeakerSegment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4908.7</TimestampBegin>
+        <TimestampEnd>4913.02</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>Thank you very much, Mrs. Sandvig.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4913.02</TimestampBegin>
+        <TimestampEnd>4916.59</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>And we have now come to the end of the hearing.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4916.59</TimestampBegin>
+        <TimestampEnd>4922.98</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I thank the parties for their interventions and answers to the court's questions.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4922.98</TimestampBegin>
+        <TimestampEnd>4928.1</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The court will now deliberate on the admissibility and merits.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4928.1</TimestampBegin>
+        <TimestampEnd>4931.35</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The judgment will be delivered later.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4931.35</TimestampBegin>
+        <TimestampEnd>4934.55</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>The parties will be informed of the date of delivery.</text>
+    </Segment>
+    <Segment>
+      <meta_data>
+        <Role>JudgeP</Role>
+        <Name>Guido Raimondi</Name>
+        <TimestampBegin>4934.55</TimestampBegin>
+        <TimestampEnd>4937.15</TimestampEnd>
+        <Language>en</Language>
+      </meta_data>
+      <text>I declare the hearing closed.</text>
+    </Segment>
+  </SpeakerSegment>
+  
+
+</transcript_2413011_13012016>

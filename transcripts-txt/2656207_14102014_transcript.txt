@@ -1,0 +1,2038 @@
+[[Announcer;UNK]]
+
+<<11.18;11.78;fr>>
+La Cour!
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<53.28;54.28;fr>>
+S'il vous plaît, asseyez-vous.
+
+<<60.92;69.76;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds des affaires Tagayeva et autres contre la Fédération de Russie.
+
+<<71.32;83.88;fr>>
+Les sept requêtes ont été introduites devant la Cour entre 2007 et 2011 par 447 ressortissants russes en vertu de l'article 34 de la Convention.
+
+<<85.04;93.44;fr>>
+Elles ont été attribuées à la première section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<94.52;99.56;fr>>
+Les requêtes ont été communiquées au gouvernement le 10 avril 2012.
+
+<<101.6;129.96;fr>>
+Le gouvernement défendeur est représenté par son agent, Monsieur Georgy Matyushkin, représentant de la Fédération de Russie auprès de la Cour européenne des droits de l'homme, et assisté de Madame Tatyana Korolkova, Madame Yana Tsimbalova, Monsieur Dmitriy Gurin, Monsieur Mikhail Lomov, Monsieur Stanislav Kovpak, Madame Yuliya Kotsba et Monsieur Andrey Legoshin, conseillers.
+
+<<131.92;144.72;fr>>
+Les requérants sont représentés par Monsieur Koroteyev, conseil, et Maître Mikhail Trepashkin et Sergey Kniazkin, avocats, assistés de Maître Jessica Gavron.
+
+<<144.72;148.08;fr>>
+Certains requérants sont aussi présents.
+
+<<148.08;152.36;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<152.36;161.24;fr>>
+Ayant consulté l'agent du gouvernement et les représentants des requêts rangs, j'ai fixé ainsi l'ordre de parole.
+
+<<161.24;172.04;fr>>
+Nous entendrons successivement Monsieur Matyushkin pour le gouvernement, puis Maître Gavron, Monsieur Koroteyev et Maître Kniazkin pour les requêts rangs.
+
+<<172.04;194.6;fr>>
+Je dois expliquer qu'en suce de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation à partir du russe sera assurée pour les représentants qui auront été autorisés, en vertu de l'article 34, paragraphe 4 du règlement de la Cour, à employer la langue russe dans leur plaidoire.
+
+<<194.6;199.8;fr>>
+La parole est à Monsieur Matyushkin.
+
+[[Government;GR1]]
+
+<<212.22;222.88;ru>>
+Уважаемый суд, на сегодняшнем заседании мы рассматриваем трагические события, происшедшие больше 10 лет назад в Беслане.
+
+<<224.16;233.82;ru>>
+Беспрецедентная по своему масштабу и характеру террористическая атака была направлена на самую беззащитную и уязвимую часть населения – детей.
+
+<<235.58;242.88;ru>>
+Эта бесчеловечная акция затронула каждого гражданина нашей страны и многих людей за ее пределами.
+
+<<244.16;254.64;ru>>
+После сентября 2004 года мы узнали качественно иное проявление терроризма, мы увидели новый предел его жестокости.
+
+<<256.8;277.68;ru>>
+Принимая во внимание невероятный трагизм событий, о которых сегодня идет речь, я должен сразу сказать, что в данных устных слушаниях я выступаю не столько в качестве процессуального оппонента, сколько в качестве лица, уполномоченного на предоставление суду иной точки зрения по рассматриваемым обстоятельствам.
+
+<<280.0;286.56;ru>>
+Я не считаю уместным для себя вступать в юридическую полемику с заявителями, присутствующими в этом зале.
+
+<<288.64;298.24;ru>>
+Тем более, что позиция российских властей по существу жалобы и по вопросу ее приемлемости неоднократно заявлялась в меморандумах по настоящему делу.
+
+<<300.24;309.6;ru>>
+Хочу подчеркнуть, что рассматриваемое дело и все обстоятельства, с ним связанные, кардинальным образом отличаются от того, с чем мы имели дело ранее.
+
+<<311.76;322.0;ru>>
+Как известно, террористы игнорируют демократические процедуры, не считаются с нормами морали и права и отвергают возможность цивилизованной дискуссии.
+
+<<322.88;337.44;ru>>
+Они выражают свои идеи исключительно при помощи насилия, пытаясь утвердить страх в обществе, создать атмосферу незащищенности, подорвать уверенность общества в государственных институтах.
+
+<<338.56;347.6;ru>>
+Не секрет, что террористические акты и особенно захваты заложников являются труднопрогрозимым событием.
+
+<<347.6;364.56;ru>>
+Печальный опыт показывает, что даже самые сильные и благополучные государства с высоким уровнем общественной безопасности не застрахованы от подобных случаев и зачастую не могут что-либо противопоставить террористической угрозе.
+
+<<366.32;383.2;ru>>
+Однако едва ли международный опыт может дать нам примеры столь масштабных захватов заложников, как в Чечне, Дагестане, Ставропольском крае в 90-х годах, в театре на Дубровке в Москве в 2002 году и особенно в Беслане.
+
+<<384.32;396.24;ru>>
+В связи с этим, в контексте разрешения кризисных ситуаций, связанных с захватом заложников, перед властями Российской Федерации возникли задачи, беспрезидентные по своей сложности.
+
+<<396.24;416.56;ru>>
+Обращаясь к примерам террористических актов и захватов заложников в Европе и в мире в целом, можно отметить, что речь, как правило, идет о захвате относительно небольшого числа заложников силами нескольких человек, не имеющих тяжелого, а иногда и какого-либо вооружения.
+
+<<418.32;431.28;ru>>
+Но даже в таких ситуациях, куда меньших по размеру, чем теракт в Беслане, государства зачастую не могли ни предотвратить захват заложников, ни разрешить кризис без жертв.
+
+<<432.72;460.0;ru>>
+Достаточно вспомнить чудовищный теракт в Норвегии в 2011 году, унесший десятки детских жизней, или захват заложников в 1988 году в Германии, когда в Берлине, в Берлине, в 1988 году в Германии, когда двое вооруженных преступников захватили автобус с 32 пассажирами и после предъявления ультиматума умышленно убили нескольких из них.
+
+<<460.0;470.96;ru>>
+При этом власти Нидерландов, на чьей территории в итоге оказались террористы, отказались вести переговоры до тех пор, пока среди заложников находятся дети.
+
+<<470.96;476.72;ru>>
+К сожалению, известны и другие примеры непредотвращенных террористических акций.
+
+<<476.72;489.2;ru>>
+В 1988 году захват заложников на острове Уэя Французской республики, среди которых тогда оказались 26 жандармов, прокурор и 7 парламентариев.
+
+<<489.2;493.2;ru>>
+Этот кризис был разрешен в результате спланированного штурма.
+
+<<493.2;498.0;ru>>
+В 1980 году захват посольства Ирана в Лондоне.
+
+<<498.0;501.04;ru>>
+Кризис также был разрешен в результате штурма.
+
+<<501.04;513.04;ru>>
+В 1977 году двойной захват заложников в поезде и захват свыше 100 учащихся начальной школы в Нидерландах четырьмя преступниками, вооруженными пистолетами.
+
+<<513.04;531.36;ru>>
+Эти террористические атаки не были предотвращены, несмотря на то, что за два года до этого в Нидерландах имел место аналогичный захват поезда с 50 пассажирами и группой детей порядка 40 человек, которых более двух недель удерживали в здании консульства Индонезии в Амстердаме.
+
+<<531.36;542.8;ru>>
+В 1975 году захват заложников представителями ирландской республиканской армии в Лондоне после 40 взрывов бомб, устроенных в городе в течение предшествующих 14 месяцев.
+
+<<542.8;547.44;ru>>
+В 1975 году захват участников съезда ОПЕК в Вене.
+
+<<547.44;551.84;ru>>
+Захват посольства Западной Германии в Стокгольме в том же году.
+
+<<551.84;560.4;ru>>
+Преступниками были убиты двое сотрудников посольства, а взрывчатка, которую преступники принесли с собой, с самопроизвольностью тонировала.
+
+<<560.4;567.44;ru>>
+В 1972 году захват и последующие убийства членов Олимпийской сборной Израиля в Мюнхене.
+
+<<567.44;582.08;ru>>
+Этот список можно продолжать, однако и приведенные примеры вполне убедительно доказывают, что предотвратить или бескромно разрешить захват заложников невозможно.
+
+<<582.08;595.04;ru>>
+Кроме того, следует учитывать, что во всех этих случаях террористические акты проводились в крупных городах, где уровень безопасности априори выше, чем в иных, менее населенных местах.
+
+<<595.04;614.8;ru>>
+В случае с Бесланом власти имели дело с вооруженным, хорошо обученным, многочисленным отрядом наемников, которому не составило большого труда успешно скрываться в лесах и горах Северного Кавказа, готовя террористическую акцию.
+
+<<614.8;634.72;ru>>
+Захват заложников в Беслане был беспрецедентным еще и потому, что ранее целями террористических атак становились преимущественно транспортные объекты, в том числе пассажирские автобусы, поезда, метрополитен, самолеты, а также места массового скопления людей.
+
+<<634.72;648.64;ru>>
+Так, например, только в период с 1990 по 2004 год имели место более 80 актов так называемого бомбового терроризма и захвата заложников на транспорте.
+
+<<648.64;662.08;ru>>
+Целями избирательных атак преимущественно становились военнослужащие, сотрудники правоохранительных органов, должностные лица, публичные, общественные и религиозные деятели.
+
+<<662.08;674.64;ru>>
+За аналогичный период было совершено более 20 таких нападений, включая широкомасштабные атаки, как, например, это было в Ингушетии со 2 месяца до событий в Беслане.
+
+<<674.64;681.44;ru>>
+Тогда только в течение двух дней было убито несколько сотен сотрудников правоохранительных органов.
+
+<<681.44;703.28;ru>>
+Поэтому даже при наличии ориентировок о росте активности боевиков сложно было представить, что целью атаки станет школа и более того, что акция выразится в захвате заложников детей, а не будет относиться к значительно более распространенному так называемому бомбовому терроризму.
+
+<<703.28;729.84;ru>>
+Даже при наличии приблизительных ориентировок о возможном теракте 1 сентября, поступивших за 3 дня до событий, следует отметить, что школа номер 1 в Беслане являлась одним из нескольких сотен образовательных учреждений, каждый из которых потенциально могли подвергнуться террористической атаке.
+
+<<729.84;749.52;ru>>
+И это не говоря уже о тысячах других социальных учреждениях, детских садах, больницах, высших и средних специальных учебных заведениях. В материалах национального расследования отсутствуют какие-либо доказательства того,
+
+<<749.52;754.72;ru>>
+что объект нападения был определён террористами заранее.
+
+<<754.72;765.52;ru>>
+Подобная неопределённость относительно потенциального объекта атаки безусловно делала невозможным его предотвращение.
+
+<<765.52;781.2;ru>>
+Более того, ничто не позволяет утверждать, что в случае усиления охраны образовательных учреждений террористы не выбрали бы иной объект или не реализовали бы запланированную акцию в другой день.
+
+<<781.2;800.72;ru>>
+В частности, даже если бы регион был переведён на чрезвычайное положение и возле каждого образовательного учреждения было бы выставлено оцепление, упорство и подготовка террористов убедительно показали, что теракт был бы всё равно совершён позже после снятия мер либо в соседних регионах.
+
+<<800.72;814.64;ru>>
+Ещё раз хочу напомнить, что эти события относятся к 2004 году, то есть ко времени, когда противостояние правоохранительных органов и незаконных вооружённых формирований было очень интенсивным.
+
+<<814.64;839.12;ru>>
+Необходимо иметь в виду, что в отличие от большинства случаев захвата заложников в странах Европы, захват заложников в Театре на Дубровке в Москве и в Беслане были проведены хорошо подготовленными боевиками и профессиональными наёмниками, вооружёнными различными видами огнестрельного оружия и имевшими значительное количество взрывчатки.
+
+<<839.12;861.28;ru>>
+Спецслужбы многих стран Европы, столкнувшихся с терактами, знают, что уровень специальной подготовки террористов, а главное их безразличное отношение к собственной жизни, фанатизм, изощрённость и абсолютная готовность умереть во время террористического акта существенно осложняют как предотвращение атаки, так и проведение спасательной операции.
+
+<<861.28;879.92;ru>>
+Учитывая количество вооружения, наличие террористов-смертниц и минирование школы подобным образом, в частности использование специальных устройств, так называемых «педалей смертника», едва ли можно предположить, что в Беслане террористы рассматривали возможность разрешения ситуации без жертв.
+
+<<879.92;893.36;ru>>
+Все эти факторы снижали вероятность успеха переговоров. Напомню, что почти сразу же после захвата заложников, то есть в 11 часов утра 1 сентября,
+
+<<893.36;912.08;ru>>
+террористы передали записку, в которой сообщались их требования и угрозы убить 50 заложников за каждого убитого террориста, 10 заложников за каждого раненого, либо отключение электричества, за 5 убитых террористов взорвать школу.
+
+<<912.08;927.28;ru>>
+Позже один из них сообщил, что лично застрелил 10 заложников и взорвал 20 из них. В этой ситуации спецслужбы и вооруженные силы были вынуждены воздерживаться от каких-либо активных действий.
+
+<<927.28;957.36;ru>>
+Оперативный штаб всячески старался организовать переговоры и добиться обеспечения хотя бы минимальных гуманитарных условий для заложников, в том числе, чтобы передать им воду, пищу и необходимые медикаменты, на что террористы ответили издевательским отказом, сообщив, что заложники, среди которых, напомню, были маленькие дети, объявили голодовку в знак поддержки требований захватчиков и отказываются от пищи и воды.
+
+<<957.36;975.84;ru>>
+Первые же попытки переговоров срывались с самими террористами по различным причинам. Так, например, когда для участия в переговорах был приглашен местный муфтий, террористы открыли по нему огонь.
+
+<<975.84;997.36;ru>>
+Оперативный штаб и сотрудники ФСБ России предлагали различных представителей для проведения переговоров, предлагали захватчикам денежные средства, предлагали повести обмен заложников детей на взрослых добровольцев, предлагали возможность неконтролируемо покинуть здание школы.
+
+<<997.36;1017.68;ru>>
+Однако преступники отказывали в удовлетворении практически всех просьб и отвергали поступившие предложения. При этом власти пытались повлиять на террористов напрямую в ходе переговоров и косвенно, свяжавшись с разыскиваемыми лидерами незаконных вооруженных формирований.
+
+<<1017.68;1037.36;ru>>
+Не повлияло на поведение террористов и то обстоятельство, что двое из четырех должностных лиц, в присутствии которых они требовали, прибыли на место событий. При этом террористы дополнительно оказывали давление на заложников, постоянно лгали им о том, что переговоры не ведутся и что они никому не нужны.
+
+<<1037.36;1056.32;ru>>
+С одной стороны, в результате переговоров удалось добиться некоторых результатов, в частности на второй день захвата некоторые заложники были освобождены. На третий, террористы позволили забрать тела убитых заложников, сваленные в школьном дворе.
+
+<<1056.32;1084.16;ru>>
+С другой стороны, и что более важно, террористы категорически отказывались принять воду и пищу и позволить оказать медицинскую помощь заложникам. В показаниях свидетелей, данных в ходе последующего уголовного судопроизводства, содержатся ссылки на то, что главарь группы террористов обещал лично пристрелить любого боевика, который даст воду или еду заложникам.
+
+<<1084.16;1099.12;ru>>
+О том, что переговоры не могли привести к положительному результату, о намерении террористов умереть вместе с заложниками, свидетельствует и последний телефонный разговор во время освобождения заложников.
+
+<<1099.12;1114.08;ru>>
+В частности, через 2-3 минуты после взрыва переговорщик ФСБ в очередной раз связался с террористами и спросил, зачем они произвели взрыв и попросил освободить детей. Это зафиксировано документально.
+
+<<1114.08;1124.72;ru>>
+В ответ боевик сообщил, что он выполняет приказ своего командира, что из школы никого не выпустят, он исполнит свой долг и выполнит этот приказ.
+
+<<1124.72;1143.68;ru>>
+Некоторые свидетели при рассмотрении уголовного дела в суде отмечали, что слышали, как главарь группы террористов настраивал их на то, чтобы в случае начала перестрелки они отстреливались до последнего, а в случае неудачи взорвали заложников в спортивном зале.
+
+<<1143.68;1154.72;ru>>
+Немаловажным является и то, что сами требования, выраженные террористами, были заведованы невыполнимыми, тем более в короткие сроки.
+
+<<1154.72;1183.92;ru>>
+Россия имеет негативный опыт выполнения требований террористов в 1994-96 годах, а также инспирированный в том числе массовыми терактами опыт заключения соглашения и вывода войск из Чечни в 1996 году, который не только не прекратил или даже не сократил количество терактов, захватов, заложников и похищений, но наоборот увеличил их число и привел к интенсивному распространению религиозного экстремизма.
+
+<<1183.92;1198.4;ru>>
+Но даже в такой ситуации, столкнувшись в Беслане с фанатиками, заявлявшими неисполнимые требования, власти предпочли вести переговоры и последовательно придерживались выбранной линии поведения.
+
+<<1198.4;1204.08;ru>>
+Штурм в принципе не рассматривался в качестве допустимого варианта разрешения кризиса.
+
+<<1204.08;1216.48;ru>>
+В то же время, сознавая, что террористы настроены крайне агрессивно и их поведение непредсказуемо, власти стянули города и непосредственно к школе подразделения специального назначения, армии и внутренних войск.
+
+<<1216.48;1223.12;ru>>
+При этом танки и тяжелое вооружение были отодвинуты из зоны видимости террористов с тем, чтобы их не провоцировать.
+
+<<1223.12;1231.68;ru>>
+И уж тем более, никто не мог даже допустить мысли о том, чтобы открыть огонь из тяжелого вооружения по школе, полной захваченных детей.
+
+<<1231.68;1245.44;ru>>
+Подобные действия в любом случае не остались бы незамеченными и вызвали бы однозначную реакцию со стороны военных, милиции и, что самое главное, родственников, заложников, находящихся поблизости от места событий.
+
+<<1245.44;1254.96;ru>>
+Я напомню, что родственники заложников круглосуточно пребывали рядом со школой и находились в самом напряженном состоянии, многие из них были вооружены.
+
+<<1254.96;1261.44;ru>>
+И любое применение силы со стороны военных или представителей правоохранительных органов встретили бы отпор.
+
+<<1261.44;1268.16;ru>>
+Подобных конфликтов не возникало. Люди на месте трагедии хорошо понимали, кто является их врагом.
+
+<<1268.16;1280.72;ru>>
+Следует напомнить, что во время первых взрывов подразделения спецназа ФСБ и армии проводили совместную подготовку на полигоне в 30 километрах от Беслана.
+
+<<1280.72;1284.24;ru>>
+Взрыв в школе стал неожиданностью для всех.
+
+<<1284.24;1294.56;ru>>
+Боевым подразделениям спецназа, срочно выдвижавшимся в школе, пришлось вступить в бой с террористами с марша без подготовки.
+
+<<1294.56;1299.04;ru>>
+Преследовалась лишь одна цель – спасти как можно больше заложников.
+
+<<1299.04;1306.32;ru>>
+По свидетельским показаниям, некоторые бойцы спецназа даже не успели надеть бронежилеты.
+
+<<1306.32;1312.72;ru>>
+Применение силы таким образом было вынужденной мерой после того, как ситуация стала критической.
+
+<<1312.72;1320.8;ru>>
+У властей не было выбора, и подразделения вооруженных сил пришлось вступить в бой, чтобы спасти оставшихся в жилых заложников.
+
+<<1320.8;1330.24;ru>>
+Потери, понесенные элитным спецподразделением ФСБ «Альфа» в данном бою, были и остаются самыми большими за 40-летнюю историю его существования.
+
+<<1330.24;1338.96;ru>>
+Власти до последнего надеялись на мирное разрешение кризиса, хотя террористы неоднократно давали понять, что не остановятся ни перед чем.
+
+<<1338.96;1350.24;ru>>
+Достаточно вспомнить их браваду перед видеокамерой на взрывном устройстве, убийство более 20 взрослых мужчин в первые часы захвата и подрыв одной из смертниц.
+
+<<1350.24;1358.72;ru>>
+Восстановить картину происшедшего, особенно после хаоса и паники, наступивших после взрыва в бомбшколе, было крайне непростой задачей.
+
+<<1358.72;1376.16;ru>>
+Однако следственные и судебные органы предприняли все возможные усилия для сбора максимального количества доказательств, проведения всех необходимых экспертиз и детального исследования всех возможных версий происшедшего.
+
+<<1376.16;1395.52;ru>>
+Подобная информация о работе следственных органов и судебных разбирательствах уже предоставлялась суду властями, и сейчас я лишь вновь подтверждаю, что внутригосударственное судопроизводство по данному делу было проведено самым эффективным образом.
+
+<<1395.52;1415.68;ru>>
+В связи с этим я бы хотел подчеркнуть, что выводы, к которым пришло внутригосударственное расследование, были основаны на непосредственном исследовании многочисленных доказательств, показаниях свидетелей и потерпевших, экспертных заключениях и материалах осмотров места происшествия.
+
+<<1415.68;1440.0;ru>>
+Особого внимания заслуживает тот факт, что в ходе расследования неоднократно допрашивали все должностные лица, от рядовых до высокопоставленных руководителей, так или иначе связанные с рассматриваемыми событиями, в том числе члены оперативного штаба и лица, ответственные за руководство и исполнение спасательной операции.
+
+<<1440.0;1464.0;ru>>
+Власти осознают, что никто и ничто уже не сможет вернуть погибших супругов, детей, родственников, не сможет излечить полушенчанные душевные травмы и полностью устранить вред, нанесенный террористами.
+
+<<1464.0;1488.8;ru>>
+Вместе с тем, власти на протяжении многих лет оказывали пострадавшим необходимую медицинскую помощь и реабилитационные процедуры, предоставили жертвам теракта многочисленные денежные компенсации и социальные гарантии, стараясь всячески помочь им в налаживании дальнейшей жизни.
+
+<<1488.8;1507.2;ru>>
+В частности, из федерального и регионального бюджетов заявителям и членам их семей было выплачено в качестве компенсации в связи с террористическим актом более 30 миллионов евро.
+
+<<1507.2;1532.8;ru>>
+В соответствии с распоряжениями правительства России, начиная с 2009 года, всем пострадавшим компенсируются расходы на связь, транспорт и жилищно-коммунальные услуги, а это более 3 тысяч человек.
+
+<<1532.8;1549.2;ru>>
+Кроме того, пострадавшим семьям, в которых рождаются дети, оказывается ежемесячная материальная помощь. К настоящему времени на эти цели израсходовано около 4 миллионов евро.
+
+<<1549.2;1574.8;ru>>
+Понимая важность социальной адаптации, физического и психологического оздоровления пострадавших детей и их родственников, власти организовали соответствующее лечение и реабилитацию в лучших медицинских учреждениях России с привлечением в том числе специалистов из Франции, Германии, Китая и других стран.
+
+<<1574.8;1599.6;ru>>
+Все пострадавшие были обеспечены бесплатными медикаментами. Государственными медицинскими учреждениями организованы регулярные проверки состояния здоровья пострадавших. В отношении каждого из них была разработана индивидуальная программа реабилитации, реализованная за счет государственных средств.
+
+<<1599.6;1618.8;ru>>
+Многие из пострадавших были обеспечены новым жильем. Я хочу подчеркнуть, что помощь и поддержка пострадавшим со стороны государства оказывается уже в течение 10 лет и будет продолжена далее.
+
+<<1618.8;1636.4;ru>>
+Я еще раз обращаю внимание сюда, что трагедия 2004 года легла страшным грузом на всех граждан России, тяжело переживавших за судьбу детей, захваченных террористами.
+
+<<1636.4;1650.4;ru>>
+Я могу утверждать с полной ответственностью, что в те трагические события все российское общество, все граждане и все государственные институты были сплочены вокруг пострадавших.
+
+<<1650.4;1672.0;ru>>
+В завершении я хочу сказать, что сегодня Европейский суд рассматривает обстоятельства, являющиеся прямым следствием акта терроризма, происшедшего в Российской Федерации. Но, к сожалению, Россия может быть не единственной страной, испытавшей на себе ужас массового террора.
+
+<<1672.0;1682.4;ru>>
+Сегодня, в условиях накалившейся обстановки на Ближнем Востоке, подобная беда может коснуться многих стран, в том числе европейских.
+
+<<1682.4;1700.8;ru>>
+Мы видим уже сейчас, что боевики так называемого Исламского государства Ирака и Леванта публично угрожают проведению масштабных террористических актов во Франции, Великобритании, Италии и ряде других стран, вступивших в военное противостояние с террористами.
+
+<<1700.8;1715.2;ru>>
+Благодаря средствам массовой информации мы все в полной мере убедились, что эти религиозные фанатики, холоднокровно казнящие тысячи человек, не остановятся ни перед чем для достижения своих целей.
+
+<<1715.2;1727.68;ru>>
+В этой связи мы просим сегодня суд внимательно, извешенно подойти к оценке баланса интересов личности, общества и государства в вопросе противодействия терроризму.
+
+<<1727.68;1727.68;ru>>
+Большое спасибо.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<1736.34;1738.18;fr>>
+Je vous remercie, Monsieur Matyushkin.
+
+<<1738.18;1740.9;fr>>
+La parole est à Maître Jessica Gavron.
+
+[[Applicant;AP1]]
+
+<<1742.57;1747.21;en>>
+Madam President, I will respond to the court's questions 1 and 3.
+
+<<1747.21;1750.05;en>>
+Mr. Korotev will respond to question 2,
+
+<<1750.05;1752.45;en>>
+and Mr. Kinyazkin will present submissions
+
+<<1752.45;1756.03;en>>
+on behalf of the applicants in Dudeeva and others.
+
+<<1756.03;1774.81;en>>
+Question 1 relates to the positive obligation to protect life under Article 2, specifically whether the government knew or ought to have known of a real and immediate threat to the lives of people of North Ossetia on the Day of Knowledge, 2004, and whether it took reasonable measures to avert that threat.
+
+<<1774.81;1787.93;en>>
+In Osmond, the court interpreted Article 2 to imply a positive obligation on the authorities to take preventive operational measures to protect an individual whose life is at risk from the criminal acts of another individual.
+
+<<1787.93;1797.25;en>>
+That the government knew of a real and immediate threat to life on the Day of Knowledge that included school number one, Beslan, as a potential target is not contested.
+
+<<1797.25;1801.21;en>>
+The government admits its knowledge of such a threat in its observations.
+
+<<1801.21;1816.65;en>>
+The investigative procedures rely on by the government, expert forensic report number one, the criminal trials of the local police department, the Parliament Torshin report also acknowledge the considerable information available to the authorities.
+
+<<1816.65;1819.15;en>>
+Let us look at the level of detail known.
+
+<<1819.15;1833.13;en>>
+The telex of the 18th of August from the North Ossetian Ministry of Interior to local departments specifies movement of a large group of militants from the plains of Ingushetia to a wooded area on the border of North Ossetia.
+
+<<1833.13;1837.29;en>>
+A meeting in mid-August conceiving a plan to commit a terrorist act.
+
+<<1837.29;1842.09;en>>
+That the act would be on the scale of the Budyonnovsk hospital crisis.
+
+<<1842.09;1852.01;en>>
+It would be in North Ossetia, and the intention would be to demand withdrawal from Chechnya, and it was financed by a large sum of money already transferred from Turkey.
+
+<<1852.01;1859.37;en>>
+The telex of the 25th of August specified the Day of Knowledge and educational institutions as the likely target.
+
+<<1859.37;1876.37;en>>
+These and further telexes and orders of 24th, 27th, 28th, and 30th of August set out an extremely high level of threat, specific as to date, target institutions, area, terrorist intention, activity, and capability.
+
+<<1876.37;1881.39;en>>
+It is likely the telexes were sanitized versions of the intelligence available.
+
+<<1881.39;1892.89;en>>
+Further, this unusual level of detail suggests at the very least there was technical interception of communications, if not covert human intelligence source, with access to the militant group.
+
+<<1892.89;1903.69;en>>
+We therefore submit it is incontrovertible that the Russian authorities knew of a real and immediate threat of an attack intended to cause terror and loss of life on a large scale.
+
+<<1903.69;1912.09;en>>
+Madam President, I will now turn to whether the government took reasonable preventive measures in the light of this threat, as required by Article 2.
+
+<<1912.09;1924.25;en>>
+In Osman, the court has stated that this obligation should not place an impossible or disproportionate burden on the authorities in view of the operational choices that must be made in terms of priorities and resources.
+
+<<1924.25;1929.29;en>>
+Such choices should be decided in the light of the severity and scale of the risk.
+
+<<1929.29;1935.89;en>>
+In this case, it was known that a large group of militants had been planning and training for weeks to carry out a large scale attack.
+
+<<1935.89;1944.81;en>>
+The likely date and target were known, as therefore was the particular vulnerability of the intended hostages, being predominantly school children.
+
+<<1944.81;1951.91;en>>
+The authorities were also aware of the capabilities in terms of training, weaponry, and ruthless intent of the militants.
+
+<<1951.91;1957.15;en>>
+The government today has set out the particularly horrifying nature of this threat.
+
+<<1957.15;1966.77;en>>
+Under the federal anti-terror law, the FSB and Ministry of Interiors have direct responsibility and extensive powers to avert terrorist threats.
+
+<<1966.77;1971.41;en>>
+The action taken by the government is set out in its observations.
+
+<<1971.41;1983.57;en>>
+The FSB and the Federal Ministry of Interior provided the regional and local authorities with detailed information about the intended attack and required them to undertake numerous preventive measures.
+
+<<1983.57;1996.21;en>>
+The government concedes that the unimpeded seizure of the school was the result of deficiencies and failings of the regional interior departments and of the local police, who, notwithstanding, have not been held accountable.
+
+<<1996.21;2005.17;en>>
+We submit that the relaying of information and instruction to the regional bodies was not sufficient to discharge the government's obligation to protect life under Article II.
+
+<<2005.17;2014.81;en>>
+All the TELEXs require the Preveh Berejni and local districts to take steps to suppress and prevent the Terrorist Act and provide security on the target date.
+
+<<2014.81;2020.73;en>>
+This devolvement of responsibility is elucidated in Forensic Report Number 1.
+
+<<2020.73;2035.89;en>>
+The leadership, it states, the leadership of the Preveh Berejni District Internal Affairs Office was instructed to assume direct control over the organization and securing of public order and safety in the areas hosting Day of Knowledge events.
+
+<<2035.89;2040.25;en>>
+A number of the TELEXs acknowledge the paucity of local resources.
+
+<<2040.25;2050.53;en>>
+The TELEX of the 27th of August to the Preveh Berejni District refers to the reduced district force as unacceptable given the deterioration of the operational situation.
+
+<<2050.53;2063.73;en>>
+TELEX 1825 of the 28th of August requires the district department, among other measures, to recruit private security firms and public organizations of a law enforcement nature to provide assistance.
+
+<<2063.73;2075.89;en>>
+This entirely passive approach represents a startling abdication of responsibility by the federal bodies tasked by law to conduct and lead the fight against terrorism.
+
+<<2075.89;2086.13;en>>
+It is important to note that the Ministry of Interior and the Republics are administrative units subordinate to and an integral part of the Federal Ministry of Interior.
+
+<<2086.13;2094.73;en>>
+Given the foreseeability and magnitude of this threat, we submit it would have been reasonable to deploy a wide range of the resources of the Russian state.
+
+<<2094.73;2100.69;en>>
+This was clearly not a threat that local police and their limited resources were capable of dealing with.
+
+<<2100.69;2103.69;en>>
+The authorities had experience of such terror attacks.
+
+<<2103.69;2105.09;en>>
+We've heard from the government.
+
+<<2105.09;2109.07;en>>
+Budyonnovsk Hospital, in which up to 2,000 people were taken hostage.
+
+<<2109.07;2112.85;en>>
+Dubrovka Theater, again 900 people taken hostage.
+
+<<2112.85;2116.29;en>>
+This time, they had prior and specific warning.
+
+<<2116.29;2127.21;en>>
+In Makan, the court noted as relevant that the authorities had prior warning of an appending attack and thus time to plan, coordinate, and take measures to foil the attack.
+
+<<2127.21;2134.65;en>>
+The failures in conduct and planning of the operation to avert the terrorist attack amounted to a violation of Article 2.
+
+<<2134.65;2143.93;en>>
+In Turkish cases, Kilic, Akoc, and Mahmetkaya, the court held that the authorities failed to take reasonable preventive measures to avert threats to life.
+
+<<2143.93;2149.05;en>>
+Reasonable options we submit could have been taken include intervention.
+
+<<2149.05;2153.61;en>>
+The visible deployment of security forces to search, locate, and arrest the militants.
+
+<<2153.61;2167.37;en>>
+In Makan, the court observed that the danger to the population of Gibraltar arising from the failure to arrest the terror suspects should have outweighed the possible consequences of having insufficient evidence to warrant their detention and trial.
+
+<<2167.37;2172.57;en>>
+Target denial, postponing the opening of the school year in a defined area.
+
+<<2172.57;2182.13;en>>
+Security, heavily manned regular checkpoints on main and back routes and outside target towns, as well as additional security at schools in a defined area.
+
+<<2182.13;2192.03;en>>
+Beslan is within 20 kilometers of the Malgobek district and is the first and most strategic town directly south into North Ossetia.
+
+<<2192.03;2197.89;en>>
+Such measures could potentially have deterred, disrupted, or minimized the impact of the attack.
+
+<<2197.89;2202.17;en>>
+In fact, there was no ownership or containment of the threat.
+
+<<2202.17;2209.27;en>>
+No counter-terrorist operation was set up despite the prior warning until after the attack had been carried out.
+
+<<2209.27;2217.45;en>>
+Consequently, there were no plans in place to adequately address either the threat or the immediate aftermath of the successful attack.
+
+<<2217.45;2231.37;en>>
+The result of the government's striking lack of action, for which it has provided no explanation, was that this large group of militants were able to train undisturbed and on the day of knowledge carry out a devastating terrorist attack unchallenged.
+
+<<2231.37;2240.49;en>>
+Instead of heightened security, there was unaccountably not only less security than a normal school day, but no security at all.
+
+<<2240.49;2248.21;en>>
+The truck or trucks carrying over 30 terrorists and weapons encountered only one checkpoint manned by a single officer.
+
+<<2248.21;2256.37;en>>
+The usual traffic police in Beslan were absent, apparently diverted on verbal orders to provide protection for a high-ranking official.
+
+<<2256.37;2264.97;en>>
+The usual armed police at the school gates were absent, and there was just one unarmed youth liaison officer without a mobile phone.
+
+<<2264.97;2273.05;en>>
+There was no reaction from police for the first 15 minutes after the attack, despite the police station being located next door to the school.
+
+<<2273.05;2281.29;en>>
+There were insufficient, and by some accounts, no firearms available to armed police when it became apparent the school had been seized.
+
+<<2281.29;2285.77;en>>
+The government today has said it was not possible to prevent this attack.
+
+<<2285.77;2289.21;en>>
+We submit they failed to even try.
+
+<<2289.21;2299.97;en>>
+The failure by the federal authorities to take any active operational measures to avert this real and immediate threat to life amounts to a violation of their obligation to protect life under Article 2.
+
+<<2299.97;2315.45;en>>
+Further, the basic and uncontested failings of the local police departments constitute failings of subordinate state agents acting in their official capacity and are therefore attributable to the state in violation of its obligation under Article 2.
+
+<<2319.97;2333.13;en>>
+Madam President, I will now answer the court's third question regarding the functioning of the operative headquarters, which I will refer to as the OH, with respect to Article 2 obligations.
+
+<<2333.13;2345.77;en>>
+In assessing whether the use of force is compatible with Article 2, the court's practice is to scrutinize whether the security operation was planned and controlled by the authorities so as to minimize recourse to lethal force and human losses.
+
+<<2345.77;2347.69;en>>
+McCann and Erge.
+
+<<2347.69;2360.33;en>>
+Once the authorities had failed to prevent the attack on school number one, no one disputes that they were confronted with an extremely challenging scenario in which more than 1,000 hostages were embedded with terrorists.
+
+<<2360.33;2367.41;en>>
+For this reason, the careful planning and control of the operation was particularly critical.
+
+<<2367.41;2376.25;en>>
+In this case, unlike Finoginev, the authorities had prior warning of an attack of this nature on this date and therefore had time to coordinate a plan.
+
+<<2376.25;2380.93;en>>
+They had two days from the moment of the attack to prepare a rescue operation.
+
+<<2380.93;2390.17;en>>
+They were also aware of the particular vulnerabilities of these hostages, mainly children, weak and exhausted from lack of food and drink.
+
+<<2390.17;2399.77;en>>
+The applicants submit it is evident from the testimonies of OH members that there were no clear lines of command, control, or communication throughout the siege.
+
+<<2399.77;2409.97;en>>
+It took a day and a half for the official OH, as opposed to the spontaneously created informal structure under President Zasovov, to be established.
+
+<<2409.97;2414.01;en>>
+And even then, we submit, it was established in name only.
+
+<<2414.01;2423.11;en>>
+Half the officials named by the government as OH members testified they were unaware of their appointment and or took no part in meetings or decisions.
+
+<<2423.11;2425.89;en>>
+The North Ossetian Minister of Interior, Mr. Ziantiev,
+
+<<2425.89;2433.75;en>>
+stated he was not informed he had been appointed deputy head of the OH until after the siege was over and was excluded from the meetings.
+
+<<2433.75;2445.93;en>>
+The four members responsible for evacuation and provision of EMERCOM services stated they received no information or guidance from the OH beyond the misleading figure of 354 hostages.
+
+<<2445.93;2467.29;en>>
+Two deputy directors of the federal FSB, Pronechev and Anisimov, who were not members of the OH, acted throughout as key conduits of information and gave significant verbal orders concerning the operation to, for example, Gutseriev about negotiations and Ziantiev, outside the structure of the OH, contributing to the lack of coherence.
+
+<<2467.29;2481.53;en>>
+Further, the absence of any written records of orders or decisions is deeply unsatisfactory, considering the gravity of the situation and the significance of the decisions made and has hampered an effective investigation.
+
+<<2481.53;2482.97;en>>
+Ms. Ayeva.
+
+<<2482.97;2495.01;en>>
+Whilst the extent of negotiations with terrorists may be within a state's margin of appreciation, we submit that the coordination of the strategy as part of the planning and control of the operation is within the court's purview.
+
+<<2495.01;2503.49;en>>
+In this case, the conduct of negotiations appears to have been uncoordinated, with various strategies pursued simultaneously by different people.
+
+<<2503.49;2506.01;en>>
+Mr. Ziantiev, FSB negotiator, has
+
+<<2506.01;2512.03;en>>
+stated he was unaware of parallel negotiation attempts by Mr. Rochal and Mr. Gutseriev,
+
+<<2512.03;2518.25;en>>
+the latter at the behest and supervision of Mrs. Pronyshev and Anisimov.
+
+<<2518.25;2522.57;en>>
+Mr. Zasovov and General Aushar, apparently acting independently,
+
+<<2522.57;2527.97;en>>
+made attempts to contact Zakhaev and Masadov as potential negotiators.
+
+<<2527.97;2545.13;en>>
+The lack of a coherent command structure meant that operational decisions were made on an ad hoc basis, independently of other OH members whose expertise could have contributed to the available intelligence, constituting a failure to ensure appropriate decisions were taken and communicated.
+
+<<2545.13;2550.17;en>>
+Madam President, I will now turn specifically to the planning and use of lethal force.
+
+<<2550.17;2554.05;en>>
+Mr. Andrea, head of the OH, has admitted, and I quote,
+
+<<2554.05;2558.97;en>>
+that no plan consisting of resolving the situation by force had been considered.
+
+<<2558.97;2566.09;en>>
+That this was the case three days into a highly unpredictable siege is a fundamental failing of his leadership.
+
+<<2566.09;2575.97;en>>
+It was likely, given the hostages' deteriorating condition, that intervention might be required at any point and incumbent on the OH to devise a plan.
+
+<<2575.97;2592.75;en>>
+This lack of foresight was exacerbated by the fact, as we have heard from the government today, that FSB special forces, Wimphel and Alpha, were simultaneously away training in Vladikavkaz at the moment of the storming, leaving the operation without specialist units.
+
+<<2592.75;2604.41;en>>
+Such a plan should have included a comprehensive evaluation into the limits and constraints of the use of combat weapons on a civilian hostage population, as required by the court in Issyk-Keva.
+
+<<2604.41;2612.17;en>>
+Under Article 2, the use of lethal force must be no more than absolutely necessary and strictly proportionate to the aim.
+
+<<2612.17;2626.05;en>>
+The UN basic principles on the use of force require states to develop a range of weapons for differentiated use, including non-lethal incapacitating weapons to minimize endangering uninvolved persons.
+
+<<2626.05;2628.57;en>>
+Surely this was such a situation.
+
+<<2628.57;2638.53;en>>
+Article 11 of the domestic anti-terror law allows use of weapons and specialist hardware, but does not indicate the types of weapons nor the circumstances in which they can be used.
+
+<<2638.53;2643.09;en>>
+In this case, there is no evidence that such an evaluation was undertaken.
+
+<<2643.09;2646.57;en>>
+Mr. Andreev, solely responsible under Article 2
+
+<<2646.57;2666.57;en>>
+of the anti-terror law for decisions on the use of force and resources, and to whom specialist units were explicitly subordinate, admitted that he had no authority in this regard, and decisions on the types and use of special weapons were solely within the competence of the Special Task Center under General Tikhonov.
+
+<<2666.57;2679.69;en>>
+General Sobolov, commander of the 58th Army, confirmed in court that heavy military weaponry was transferred to the FSB because the army does not have the right to use heavy machinery during peacetime.
+
+<<2679.69;2684.37;en>>
+The government has conceded that it deployed both tank explosives and flamethrowers.
+
+<<2684.37;2695.69;en>>
+The RPO Bumblebee, also known as a fuel air or thermobaric weapon, is intended for military use to destroy personnel undercover in buildings and installations.
+
+<<2695.69;2700.61;en>>
+I refer the court to the statement of Mr. Tomchik, the government's explosives expert, who
+
+<<2700.61;2708.53;en>>
+details its devastating destructive impact in confined spaces of up to 80 square meters.
+
+<<2708.53;2711.81;en>>
+These weapons were used by the Russian military in Chechnya.
+
+<<2711.81;2720.45;en>>
+There is ample credible evidence from hostages, witnesses, and police to conclude that both tanks and flamethrowers were used while hostages were in the building.
+
+<<2720.45;2733.21;en>>
+More than 50 witnesses, including trained tank officers, gave evidence at the Kulayev trial that they saw tanks fire on the canteen and the school when women and children were visible in the windows.
+
+<<2733.21;2737.15;en>>
+Some of these witnesses tried vainly to stop the shelling.
+
+<<2737.15;2744.77;en>>
+Police officers Kucherov, Friyev, Mertesov, and Bitsilov testified to the use of RPO flamethrowers between 2 and 4 PM.
+
+<<2744.77;2747.25;en>>
+These are not exhaustive lists.
+
+<<2747.25;2758.29;en>>
+The government has provided no evidence to indicate that the numerous international law prohibitions on carrying out indiscriminate attacks have been taken into account.
+
+<<2758.29;2763.77;en>>
+The burden of proof of absolute necessity rests with the government, Orhan against Turkey.
+
+<<2763.77;2768.95;en>>
+The government has provided no adequate explanation as to the need for the use of indiscriminate combat weapons.
+
+<<2768.95;2775.53;en>>
+Section 2 of the Anti-Terror Act requires that specific technical methods of such operations be kept secret.
+
+<<2775.53;2779.69;en>>
+And it is notable no testimony from General Tikhanov has been disclosed.
+
+<<2779.69;2791.13;en>>
+In this case, the vagueness of the domestic legal framework and lack of regulation of the use of force is directly relevant to the court's considerations with regard to the proportionality of the attack.
+
+<<2791.13;2793.01;en>>
+Isayeva.
+
+<<2793.01;2800.29;en>>
+The failure of the OH leadership to make a comprehensive assessment of the dangers entailed by the use of such combat weapons.
+
+<<2800.29;2815.77;en>>
+The use of these weapons in circumstances when hostages, 800 children, were in the building or at all, and the lack of supervision and regulation of the use of lethal force constitute serious operational violations of Article 2.
+
+<<2815.77;2820.49;en>>
+Madam President, I will now address the coordination and provision of EMICOM services.
+
+<<2820.49;2829.17;en>>
+The court stated in Phnogenet that the planning and conduct of the rescue operation can be subjected to a more thorough scrutiny than the political and military aspects of the operation.
+
+<<2829.17;2833.03;en>>
+It noted first that the rescue operation was not spontaneous.
+
+<<2833.03;2838.77;en>>
+Second, the authority should have been in a position to rely on some generally prepared emergency plan.
+
+<<2838.77;2842.59;en>>
+Third, they had some control of the situation outside the building.
+
+<<2842.59;2849.33;en>>
+Finally, the court stated that the more predictable a hazard, the greater the obligation to protect against it.
+
+<<2849.33;2853.49;en>>
+All these considerations apply equally in the present case.
+
+<<2853.49;2868.07;en>>
+We submit that the accurate assessment of the number of hostages should have been a priority for the OH from the outset, vital to ascertaining the level of the threat to life and facilitating adequate preparation of medical and evacuation resources.
+
+<<2868.07;2871.23;en>>
+Mrs. Goncharov, Dzhai Goev, and Soplivenko,
+
+<<2871.23;2882.85;en>>
+responsible for EMICOM and evacuation, only learned the correct number of hostages on the 2nd of September, either from General Aushev after he'd been into the school or from the released nursing mothers.
+
+<<2882.85;2890.61;en>>
+They took no part in OH meetings, received no centralized coordination or guidance, and worked independently.
+
+<<2890.61;2901.25;en>>
+General Sobolev has confirmed that the lack of organization of assistance in evacuation and delivery of the wounded as causing repeated outrage amongst medical staff and subordinate units.
+
+<<2901.25;2903.39;en>>
+Further, according to Mr. Goncharov,
+
+<<2903.39;2912.61;en>>
+the failure of the OH to ensure the integrity of the scene made it difficult to maintain security around the school and the hospital and facilitate access.
+
+<<2912.61;2919.45;en>>
+With respect to the response to the fire in the gymnasium, we rely on the evidence of EMICOM Minister Mr. Dzhai Goev
+
+<<2919.45;2925.13;en>>
+and at least 10 interior officers that the fire broke out shortly after the first explosion at around 115.
+
+<<2925.13;2933.11;en>>
+And by the time the firefighters arrived on the scene at about 320, the roof had started to collapse, and there were no living hostages in the gym.
+
+<<2933.11;2941.13;en>>
+Despite requests, General Tikhonov refused to deploy the fire service until 310 PM, two hours after the fire started.
+
+<<2941.13;2945.69;en>>
+Lack of clear command and coordination again appears to have contributed to inadequate planning.
+
+<<2945.69;2960.97;en>>
+Neither Dzhai Goev nor Romanov, his subordinate in charge of firefighting, appear to have taken responsibility for basic preparatory steps, such that despite two days to prepare and the high forcibility of fire resulting from explosions, no fire engines were on standby.
+
+<<2960.97;2966.01;en>>
+No reconnaissance of the area had been undertaken to ascertain the availability of water hydrants.
+
+<<2966.01;2970.53;en>>
+No provision of protective clothing had been made as required by the firefighting manual.
+
+<<2970.53;2972.45;en>>
+The route was blocked by parked cars.
+
+<<2972.45;2976.11;en>>
+There was a shortage of water and delays in laying down supply lines.
+
+<<2976.11;2979.13;en>>
+A fire engine broke down, blocking access to a hydrant.
+
+<<2979.13;2983.33;en>>
+The number of fire engines deployed was seriously inadequate.
+
+<<2983.33;2986.53;en>>
+Witnesses testify seeing between one and three.
+
+<<2986.53;2991.09;en>>
+In any event, they were deployed too late to save anyone in the gym.
+
+<<2991.09;2996.29;en>>
+116 adults and children were burnt beyond recognition in the gym.
+
+<<2996.29;2999.21;en>>
+Their cause of death remains unknown.
+
+<<2999.21;3015.53;en>>
+The issue for this court is whether the state as a whole complied with its obligations to take all feasible precautions in the choice and means and methods of a security operation mounted against an opposing group with a view to avoiding, and in any event, minimizing incidental loss of life.
+
+<<3015.53;3016.45;en>>
+Ergie.
+
+<<3016.45;3018.77;en>>
+The applicants submit for the reasons outlined.
+
+<<3018.77;3020.19;en>>
+It did not.
+
+<<3020.19;3021.05;en>>
+Thank you.
+
+<<3021.05;3023.41;en>>
+I now hand over to Mr. Korotayev, who will
+
+<<3023.41;3023.41;en>>
+answer the court's question two.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<3026.65;3027.65;en>>
+Thank you, Mrs. Gavron.
+
+<<3027.65;3029.65;en>>
+I give the floor to Mr. Koroteyev.
+
+[[Applicant;AP2]]
+
+<<3031.69;3032.29;en>>
+Thank you.
+
+<<3032.29;3040.05;en>>
+Madam President, I will deal with the court's second question on concerning the effectiveness of the investigation under Article 2.
+
+<<3040.05;3050.29;en>>
+With regard to the court's question 2A, we submit that the investigation failed to determine the causes and circumstances of the deaths and injuries incurred.
+
+<<3050.29;3067.73;en>>
+Internally against Turkey, the court unequivocally ruled that an autopsy should provide a complete and accurate record of possible signs of untreatment and injury and an objective analysis of clinical findings, including the cause of death.
+
+<<3067.73;3073.73;en>>
+In this case, firstly, as confirmed by the evidence of Ms. Olenik, head of the forensic
+
+<<3073.73;3081.27;en>>
+laboratory, only external examination was conducted, and the causes of death were not established.
+
+<<3081.27;3097.53;en>>
+She testified before the Promotional District Court of Vladikavkaz that an external examination would have been capable of confirming the cause of death and distinguishing between those who died in fire and those who received post-mortem burns.
+
+<<3097.53;3110.77;en>>
+However, the investigators only requested the experts to undertake a general external overview of the bodies and to establish the identity of the dead, not the causes of death.
+
+<<3110.77;3119.45;en>>
+She also confirmed that the experts lacked information about the events at the school regarding the fire, explosions, or shooting.
+
+<<3119.45;3134.25;en>>
+As a result, the cause of death of 116 persons found in the gym remains unknown, and the government assertion of massive post-mortem burns is not founded upon credible forensic examination.
+
+<<3134.25;3140.09;en>>
+The authorities justified this by the urgent need to identify and bury the bodies.
+
+<<3140.09;3147.33;en>>
+We submit that such a justification is inadequate and violates the USSR autopsy rules applicable at the time.
+
+<<3147.33;3154.93;en>>
+Those rules unequivocally require that internal examination be conducted and the cause of death be established.
+
+<<3154.93;3161.57;en>>
+So do, by way of comparison, the UN Model Autopsy Protocol and the UK Autopsy Guidelines.
+
+<<3161.57;3172.09;en>>
+Conclusions that the victims died from explosion or gunshot wounds were also reached without conducting full autopsies, as confirmed by expert Tekhov.
+
+<<3172.09;3179.45;en>>
+He further failed to explain why a number of the expert reports drawn up by him were identical.
+
+<<3179.45;3192.17;en>>
+According to the forensic expert reports, no bullets, shells, or shrapnel were extracted from the bodies for identification, preventing the attribution of responsibility for the deaths.
+
+<<3192.17;3196.49;en>>
+The bodies were buried with spent ammunition inside.
+
+<<3196.49;3205.29;en>>
+Secondly, the applicants were not given opportunity to put questions to the forensic experts about the cause of death of their relatives.
+
+<<3205.29;3215.69;en>>
+Investigator Malov justified this by the fact that when the reports were commissioned, the applicants had not yet been granted formal victim status in criminal proceedings.
+
+<<3215.69;3218.13;en>>
+This is wholly inadequate.
+
+<<3218.13;3225.17;en>>
+Thirdly, the difference in the way the bodies of victims and those of the terrorists were treated is striking.
+
+<<3225.17;3229.73;en>>
+With respect to the bodies of terrorists, full autopsies were conducted.
+
+<<3229.73;3238.61;en>>
+The cause of death was established, and even parts of their stomachs were examined to ascertain whether they were under influence of toxic substances.
+
+<<3238.61;3242.61;en>>
+Nothing of the kind for the victims.
+
+<<3242.61;3252.45;en>>
+The failure of forensic experts to establish the causes of death of the hostages led to other implorable conclusions made by the investigation.
+
+<<3252.45;3268.13;en>>
+The decisions not to charge any firefighting officers, or any member of the OH, or any military and security officers with any crime were based on the assumption that no hostage died in the fire or was killed by the agents of the Russian state.
+
+<<3268.13;3274.17;en>>
+In exactly the same circumstance as the Grand Chamber found a violation of Article 2 in Salmon and Turkey.
+
+<<3274.17;3278.97;en>>
+Madam President, I now move to the court's question 2B.
+
+<<3278.97;3286.69;en>>
+We submit that the investigation did not sufficiently establish the use of indiscriminate weapons upon the school building.
+
+<<3286.69;3302.49;en>>
+The government's contention that heavy weaponry, tanks and flame throwers, was used only after 6 PM to neutralize the terrorists, and after the release of all hostages, does not stand up even on its own evidence.
+
+<<3302.49;3312.97;en>>
+Firstly, there is no evidence that any actual assessment was undertaken to check that no one of the 1,200 hostages remained alive in the building.
+
+<<3312.97;3325.29;en>>
+Secondly, General Tikhonov testified before the Parliamentary Commission that flame throwers and grenade launchers were first used at the school at 3.05 PM.
+
+<<3325.29;3339.77;en>>
+Thirdly, the government's submissions are rebutted by the credible testimony of numerous hostages, for example, those of Jean Natsirikhov, present here today, witnesses, and police, as you have heard from Ms. Gavin.
+
+<<3339.77;3343.93;en>>
+Their detailed statements, as well as Mr. Savelyev's report,
+
+<<3343.93;3347.09;en>>
+were entirely disregarded by the investigation.
+
+<<3347.09;3364.97;en>>
+It also follows from the statements of Private Kharasov and Captain Jogin, made to the domestic investigation, that at least two APCs, numbers 824 and 832, fired at the school from the Comintern Street between 1.50
+
+<<3364.97;3367.33;en>>
+PM and 2.30 PM.
+
+<<3367.33;3381.05;en>>
+According to the ammunition reports of the 58th Army, these APCs were armed not only with machine guns, but with cannons, firing the same high explosive fragmentation shells as tank cannons.
+
+<<3381.05;3391.65;en>>
+Furthermore, although the use of combat weaponry was within the sole authority of General Tikhonov, the applicants had no opportunity to question him, because his testimony was secret.
+
+<<3391.65;3400.01;en>>
+It was not referred to in any decision taken by the investigation, and the government failed to disclose it to this court.
+
+<<3400.01;3409.33;en>>
+The applicants also note the actions of AmeriCom on the 4th of September hampered assessment of the use of indiscriminate weapons.
+
+<<3409.33;3419.13;en>>
+In sum, it cannot be said that all the circumstances of the use of indiscriminate heavy weapons were sufficiently considered and established.
+
+<<3419.13;3431.09;en>>
+Madam President, turning to the court's question 2C, we note that the investigation's approach to the compilation of a list of weapons and ammunitions is strikingly inadequate.
+
+<<3431.09;3448.13;en>>
+The court ruled on numerous occasions that the investigation must locate spent cartridges of ammunition used in security operation, record their locations, and order a ballistic examination that would establish the trajectories in which the weapons were fired.
+
+<<3448.13;3456.05;en>>
+We refer in particular to Onan against Turkey on the obligation to properly record spent cartridges.
+
+<<3456.05;3465.97;en>>
+In the present case, the government has failed to produce one single document listing all the weapons used by the security forces in the course of the military operation.
+
+<<3465.97;3474.57;en>>
+The records of use of flamethrowers and tank cannons can be found in the reports of the military regiments produced by the government.
+
+<<3474.57;3484.65;en>>
+The decision not to charge military and security forces lists several dozen Kalashnikov rifles and machine guns, but not any weapon heavier than that.
+
+<<3484.65;3494.49;en>>
+The decision merely notes that heavier weapons, including indiscriminate ones, had been used in conformity with applicable legislation.
+
+<<3494.49;3498.07;en>>
+No assessment of this conformity was given, though.
+
+<<3498.07;3513.09;en>>
+Madam President, as regards the events at the school site on 4 September 2004, we submit that the site inspection report was unspecific as to the detail of damage to the building and location and state of the victims' bodies.
+
+<<3513.09;3523.29;en>>
+Further, the examination of the site occurred simultaneously with Amercom clearing debris with forklift trucks, severely compromising the investigation.
+
+<<3523.29;3541.45;en>>
+As evidenced by the statement on page 23 of the site inspection report about the southern wing, I quote, the said wing is almost destroyed, and the Amercom servicemen are clearing the debris, as a result of which no examination of this wing is carried out, end of quote.
+
+<<3541.45;3553.97;en>>
+No persons involved in the operations on the school site were questioned by the investigation, and at no point did the investigation rebut the serious allegation of mishandling the school site.
+
+<<3553.97;3567.37;en>>
+Madam President, in reply to the court's question 2E, the applicant submitted that the decision not to persecute military and security officers was not taken after thorough and effective investigation.
+
+<<3567.37;3580.45;en>>
+First, the court found in Finoganov that the speed of taking a decision of no case to answer is a relevant consideration, and was not satisfied that such a decision had been taken less than two months after the events.
+
+<<3580.45;3593.09;en>>
+In the present case, in which the number of victims is twice that of Finoganov, and the circumstances of the storm are highly contested, it took the investigation only two months to rule there was no case to answer.
+
+<<3593.09;3608.89;en>>
+Secondly, this decision was taken before many of the key witnesses were interrogated, including the victims, police, military and security personnel, firefighters, and members of the OAH, who testified between 2005 and 2006.
+
+<<3608.89;3627.09;en>>
+Thirdly, the two main forensic reports concerning the functioning of the OAH and the firefighting operations were commissioned to the institutions and experts dependent on or employed by the agencies implicated in the events, Ministries of Defense in Ontario and the FSB.
+
+<<3627.09;3641.73;en>>
+This, together with the fact that the FSB officers were interrogated by the FSB investigators and military servicemen by military investigators, cast doubt, as in Finoganov, on the independence of the investigation.
+
+<<3641.73;3654.21;en>>
+Fourthly, the focus and remit of the investigation in the case number 20-849 was on the actions of terrorists, not on those of the Russian military and security forces.
+
+<<3654.21;3663.49;en>>
+This consideration is crucial to the assessment of the effectiveness of the investigation as it was established, again, in Finoganov.
+
+<<3663.49;3674.93;en>>
+Accordingly, the decision that the military and security officers had no case to answer was not taken after an investigation in compliance with the requirements of Article 2 of the Convention.
+
+<<3674.93;3705.25;en>>
+Madam President, turning to the state of proceedings against the officers of military forces and the applicants accessed to the investigation, since 2007, on at least six occasions, the latest in 2011, the Leninsky District Court and another set in Supreme Court on appeal dismissed the applicants' applications for judicial review of investigation decision not to grant access to the case file or to specific documents.
+
+<<3705.25;3715.25;en>>
+The courts referred to Article 161 of the Code of Criminal Procedure, which prevents making the investigation file public before the investigation is concluded.
+
+<<3715.25;3730.65;en>>
+However, the use of this provision to justify withholding the case file or parts of it from victims and criminal proceedings or in the proceedings before this court has been condemned in a number of judgments, including Bteva and Dix against Russia.
+
+<<3730.65;3744.25;en>>
+The applicants were not informed of any substantive decision taken by the investigators in the case number 20-849, such as decisions not to prosecute military officers.
+
+<<3744.25;3752.93;en>>
+Some of the forensic reports contained in this case were only published as attachments to the opinion of Mr. Yuriy Svelev,
+
+<<3752.93;3757.05;en>>
+who dissented from the report of the Parliamentary Commissions.
+
+<<3757.05;3773.09;en>>
+To conclude, the investigation into the deaths of more than 300 innocent people, parents and children, fell far short of the requirements of Article 2 of the Convention under its procedural limit.
+
+<<3773.09;3788.05;en>>
+The investigation failed to conduct full autopsies to take into account victims' statements and to ensure accountability, which only adds to the suffering of the victims.
+
+<<3788.05;3789.89;en>>
+I now hand over to Mr. Knyazkin,
+
+<<3789.89;3794.41;en>>
+who will expose the views of the applicants in Bteva and other applications against Russia.
+
+<<3794.41;3796.09;en>>
+He will address the court in Russian.
+
+<<3796.09;3796.09;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<3799.48;3801.4;en>>
+Thank you, Mr. Koroteyev.
+
+<<3801.4;3802.84;en>>
+Thank you, Mr. Kniazkin. Please.
+
+[[Applicant;AP3]]
+
+<<3805.09;3811.05;ru>>
+Мадам Президент, уважаемые судьи, я полностью согласен с моими коллегами и хочу остановиться на некоторых моментах.
+
+<<3811.05;3821.05;ru>>
+Ответ на вопрос 1b. Власти не предприняли никаких мер для того, чтобы избежать угрозы террористического акта 1 сентября в День знаний.
+
+<<3821.05;3824.05;ru>>
+Об этом подробно сказала моя коллега Джессика Гавран.
+
+<<3824.05;3836.51;ru>>
+Я хочу лишь подчеркнуть следующее, что указанные выводы о том, что власти не предприняли необходимых мер для обеспечения жизни людей в День знаний, подтверждены на высшем государственном уровне.
+
+<<3836.51;3846.01;ru>>
+Указанные факты халатности и бездействия власти подтверждены в заключении парламентской комиссии Государственной думы Российской Федерации под председателем Александра Толшина.
+
+<<3846.01;3858.51;ru>>
+В этом отчёте указано, что до террористического акта меры по безопасности, связанные с праздным Дня знаний, не были приняты местными органами власти и полиции в Северной Осетии и Ингушетии.
+
+<<3858.51;3867.51;ru>>
+Поведение полиции в районе Молговек было описано как профессиональная небрежность, а действия полиции в Ингушетии вообще как держащиеся в стороне от других.
+
+<<3867.51;3881.01;ru>>
+Это страница 107-108 отчёта. МВД Республики Северная Осетия, Алания, даже не обеспечила поступление приказа номер 500 в правобережный отдел внутренних дел, который находился рядом со школой номер 1.
+
+<<3881.01;3887.01;ru>>
+Указанные обстоятельства наглядно подтверждают нарушение властями пункта 1 статьи 2 Конвенции.
+
+<<3887.01;3896.51;ru>>
+Властями не было выполнено позитивное обязательство государства в части принятия должных мер по обеспечению безопасности жизни тех, кто находится под их юрисдикцией.
+
+<<3896.51;3905.01;ru>>
+Это дело ЛСБ против Соединённого Королевства, дело Осман против Соединённого Королевства и дело Маккан против Соединённого Королевства.
+
+<<3905.01;3914.51;ru>>
+Ответ на вопрос 2а, тоже отрицательный. Следствие не предприняло достаточных мер, чтобы определить причины и обстоятельства смертей и иных травм.
+
+<<3914.51;3919.51;ru>>
+Следствием не были проведены стандартные процессуальные действия, которые применяются в подобных случаях.
+
+<<3919.51;3927.01;ru>>
+Не были проведены тросологические и баллистические экспертизы в отношении погибших, включая детей.
+
+<<3927.01;3932.51;ru>>
+Вот показания Сусаны Дудевой, одной из заявительниц, пострадавших в ходе теракта. Она сейчас находится в зале суда.
+
+<<3932.51;3943.51;ru>>
+Она утверждает, согласно заключению судебной медицинской экспертизы, смерть моего сына, Заура, наступила в результате осколочных ранений в голову и грудь.
+
+<<3943.51;3948.51;ru>>
+Баллистическая экспертиза не проводилась. Следователи, проводя допрос, не разъяснили мне мои права.
+
+<<3948.51;3952.51;ru>>
+Я не знал, что могу ставить перед экспертами, интересующие меня вопросы.
+
+<<3952.51;3957.51;ru>>
+Показания заявительницы Анеты Гадевой. Она тоже сейчас в зале суда.
+
+<<3957.51;3963.51;ru>>
+Смерть моей дочери наступила в результате осколочного ранения головы с повреждением головного мозга.
+
+<<3963.51;3970.51;ru>>
+Из тела моего ребенка не были извлечены осколки и не было проведено баллистическое исследование.
+
+<<3970.51;3975.51;ru>>
+Следствием так и не были установлены причины смерти 116 детей.
+
+<<3975.51;3978.51;ru>>
+Никакие экспертизы по этим погибшим не проводились.
+
+<<3978.51;3988.51;ru>>
+Меры, предпринятые следствием, не были достаточными, чтобы подтвердить выводы следствия о том, что представители государства не несут ответственность за смерть заявителей.
+
+<<3988.51;4002.51;ru>>
+Уничтожение улик и доказательств на месте теракта в течение 11 часов с момента начала работы следователей свидетельствует о том, что в дальнейшем следствие не обладало возможностью провести полные и эффективные расследования.
+
+<<4002.51;4013.51;ru>>
+Для сравнения можно привести пример, когда после теракта 11 сентября 2001 года в США такое расследование на месте проводилось 6 месяцев.
+
+<<4013.51;4017.51;ru>>
+В данном случае такое расследование проводилось всего лишь 11 часов.
+
+<<4017.51;4024.51;ru>>
+Потом экскаватором все улики и доказательства были уничтожены властями и свалены в кучу, в яму.
+
+<<4024.51;4037.51;ru>>
+Это свидетельство о том, что власти осознавали и понимали, что применение оружия неизбирательного действия, такие как танки, гранатометы и огнеметы, по помещению школ, где находились террористы и заложники, может стать причиной гибели заложников.
+
+<<4037.51;4041.51;ru>>
+И таким образом власти пытались скрыть и уничтожить улики.
+
+<<4041.51;4049.51;ru>>
+Это подтверждается и последовательностью действий следствия, когда не были проведены стандартные процедуры, баллистических и тросологических экспертиз.
+
+<<4049.51;4057.51;ru>>
+Такие экспертизы могли показать, что часть заложников, включая детей, погибли от применения властями оружия неизбирательного действия.
+
+<<4057.51;4069.85;ru>>
+Это свидетельствует о нарушении властями статьи «Две конвенции», в части не исполнения позитивного обязательства государства по проведению всестороннего расследования в обстоятельстве гибели людей.
+
+<<4069.85;4076.95;ru>>
+Применительные практики Европейского суда предусматривают обязанность государства по проведению всестороннего расследования в случае гибели людей.
+
+<<4076.95;4083.34;ru>>
+В данном случае это подробно описано в деле «Салман против Турции».
+
+<<4083.34;4084.97;ru>>
+Ответ на вопрос 2б.
+
+<<4084.97;4099.64;ru>>
+Следствие не стало устанавливать «обстоятельства применения властями оружие неизбирательного действия, таких как выстрелы из танков, применение огнемётов и гранатомётов в направлении зданий школы, в частности перед 18.00 3 сентября, хотя
+
+<<4099.64;4107.11;ru>>
+это подтверждается показаниями более 50 свидетелей и самих военных, которые подтверждают применение такого оружия.
+
+<<4107.11;4109.88;ru>>
+Вот показания военнослужащего Кингеева.
+
+<<4109.88;4121.8;ru>>
+2 числа с моего полка по приказу в Беслан прибыли три танка, и уже 3 числа я получил задачу от командующего армии передать танки в оперативное управление ФСБ.
+
+<<4121.8;4127.35;ru>>
+Танками и выстрелами, и точным прицелением руководил офицер, который находился в танке.
+
+<<4127.35;4129.43;ru>>
+Показания свидетеля Гассиевой.
+
+<<4129.43;4135.76;ru>>
+Я видела, как дети стояли на окнах и махали занавесками, и в этот момент вдруг выстрелил танк.
+
+<<4135.76;4138.91;ru>>
+Я стал кричать, что там дети.
+
+<<4138.91;4140.99;ru>>
+Показания заложницы Цириховой.
+
+<<4140.99;4144.91;ru>>
+Они зашли вглубь столовой, с улицы стреляли танки.
+
+<<4144.91;4149.68;ru>>
+Когда произошел очередной выстрел, с окна вылетели решетки и упали на стол.
+
+<<4149.68;4154.11;ru>>
+Это протокол судебного заседания по делу Кулаева, страница 100.
+
+<<4154.11;4155.51;ru>>
+Ответ на вопрос 2С.
+
+<<4155.51;4161.55;ru>>
+Следствие не составило полный перечень орудий и боеприпасов, использованных силовыми службами в направлении здания школы.
+
+<<4161.55;4169.99;ru>>
+Следствие так и не ответило на ряд вопросов, которые поставила сама парламентская комиссия перед следствием.
+
+<<4169.99;4184.69;ru>>
+Какова была необходимость использования огнемётов, по каким конкретно целям и с каких позиций наносились удары с огнемётов и гранатомётов, и в какое время, в течение 3 сентября, применялись огнемёты и гранатомёты.
+
+<<4184.69;4192.35;ru>>
+Указанные обстоятельства по практике Европейского суда свидетельствуют о том, что власти не провели эффективного расследования обстоятельств смерти заложников.
+
+<<4192.35;4197.43;ru>>
+Дело Салман против Турции и дело Маккан против Соединённого Королевства.
+
+<<4197.43;4204.64;ru>>
+При применении оружия неизбирательного действия, таких как гранатомёты, огнемёты и танки по зданию школы до 18.00, где в замкнём
+
+<<4204.64;4216.43;ru>>
+пространстве находилось несколько сотен человек, всё это подтверждает, что не было никакой возможности вести прицельный огонь по террористам, не причиняя вред жизни и здоровью заложников.
+
+<<4216.43;4227.59;ru>>
+Тактико-технические характеристики огнемёта «Шмель», который применялся в ходе штурма, он уничтожает всё живое в радиусе до 80 квадратных метров.
+
+<<4227.59;4237.8;ru>>
+Радиус поражения живой силы от применения ручного противотанкового гранатомёта, который применялся, уничтожение живой силы от 10 до 150 квадратных метров.
+
+<<4237.8;4246.27;ru>>
+Выстрел танка Т-72, который применялся в это время, также радиус поражения живой силы более 100 метров.
+
+<<4246.27;4252.64;ru>>
+Всё это свидетельствует, что вести прицельный избирательный огонь из такого орудия по замкнутому пространству школы просто невозможно.
+
+<<4252.64;4264.07;ru>>
+В соответствии с правоприменительной практикой Европейского суда такое чрезмерное применение смертоносной силы без наличия избирательной возможности является нарушением статьи 2 Конвенции.
+
+<<4264.07;4287.23;ru>>
+Ответ на пункт «Д» второго вопроса также отрицательный, поскольку следствие не могло провести тщательно и эффективно расследование в связи с тем, что не были проведены стандартные процедуры баллистических и террористических экспертиз в отношении погибших, а место совершения преступления с имеющимися уликами и доказательствами преступления было убрано в течение 11 часов после окончания штурма с школы.
+
+<<4287.23;4295.88;ru>>
+Ответ на вопрос 2 пункта «Ф» – это также свидетельство о нарушении властями статьи 2 Конвенции.
+
+<<4295.88;4306.68;ru>>
+Ответ на пункт «Е» второго вопроса – нет, следствие не могло провести тщательно и эффективно расследование в связи с тем, что не были проведены стандартные процедуры баллистических и террористических экспертиз.
+
+<<4306.68;4316.51;ru>>
+Место совершения преступления с имеющимися уликами и доказательствами преступления было, как я уже заявил, убрано в течение 11 часов после окончания штурма школы.
+
+<<4316.51;4318.31;ru>>
+Ответ на вопрос 3.
+
+<<4318.31;4335.23;ru>>
+На всем этапе предварительного следствия у заявителей не было ни одного защитника и они не могли знакомиться с материалами дела, заверять ходатайство и осуществлять иные права своей защиты в течение 4 месяцев – с февраля 2005 года по май 2005 года.
+
+<<4335.23;4342.8;ru>>
+Это свидетельствует о нарушении прав заявителей на судебную защиту по статье 6.3.
+
+<<4342.8;4346.76;ru>>
+Относительно третьего вопроса необходимо сказать следующее.
+
+<<4346.76;4358.35;ru>>
+В соответствии со статьями 12 и 13 Федерального закона о противодействии терроризму, руководство контртеррористической операции возлагается на представителей Центрального органа Федеральной службы безопасности России.
+
+<<4358.35;4366.67;ru>>
+Иные лица в силу отсутствия полномочий не имеют никаких возможностей эффективно управлять штабом контртеррористической операции.
+
+<<4366.67;4371.88;ru>>
+Такой человек не сможет координировать действия военных, ФСБ, полиции и других служб.
+
+<<4371.88;4375.43;ru>>
+Эти службы просто не будут ему подчиняться.
+
+<<4375.43;4384.19;ru>>
+По настоящему делу такой руководитель штаба контртеррористической операции господин Андреев был назначен только через полтора дня с момента захвата заложников.
+
+<<4384.19;4390.59;ru>>
+Именно поэтому штаб практически бездействовал в эти самые критические и важные полтора дня.
+
+<<4390.59;4397.03;ru>>
+Это свидетельство о том, что власти не предприняли должных эффективных мер по обеспечению безопасности жизни заложников.
+
+<<4397.03;4403.84;ru>>
+Я хочу возвратиться к вопросу применения властями оружия неизбирательного действия, таких как танки, гранатометы и огнеметы.
+
+<<4403.84;4416.51;ru>>
+Мы утверждаем, что использование указанных средств свидетельствует о том, что главной задачей властей при проведении спецоперации явилось не освобождение заложников, а уничтожение всех террористов.
+
+<<4416.51;4425.47;ru>>
+Такое же поведение властей наблюдалось и по аналогичному делу теракта в Москве при захвате террористами теракта на Дубровке в 2002 году.
+
+<<4425.47;4428.47;ru>>
+Это дело финогенов и другие против России.
+
+<<4428.47;4436.88;ru>>
+Заявители по этому делу также заявили, что главная задача власти явилась не освобождение заложников, а уничтожение террористов.
+
+<<4436.88;4445.34;ru>>
+Подобные действия властей можно назвать тенденцией, которые придерживаются власти России и которые не должно быть вместо в современном цивилизованном обществе.
+
+<<4445.34;4457.91;ru>>
+Именно поэтому власти не стали проводить эффективные расследования и практически уничтожили все доказательства и улики преступления, когда не были проведены трассологические и баллистические экспертизы тел погибших.
+
+<<4457.91;4465.06;ru>>
+Власти понимали и боялись, что проведение этих экспертиз докажет, что много заложников погибло от оружия, которое использовалось властями.
+
+<<4465.06;4475.77;ru>>
+Именно поэтому в течение 11 часов после окончания активных действий по освобождению заложников как раз и было прекращено расследование на месте преступления.
+
+<<4475.77;4481.19;ru>>
+И все, что осталось, было экскаватором собрано в кучу и вывезено в город из брошенного врага.
+
+<<4481.19;4488.56;ru>>
+Именно в этом овраге матери погибших находили одежду, обувь своих детей и даже фрагменты тел.
+
+<<4488.56;4493.56;ru>>
+Мы просим суд не только признать факты нарушения прав заявителей предусмотренных конвенцией.
+
+<<4493.56;4502.64;ru>>
+Мы просим указать на недопустимость подобных действий властей, которые для поддержания своего авторитета пошли на то, чтобы жертвовать жизнями заложников.
+
+<<4502.64;4504.72;ru>>
+Чтобы жертвовать жизнями детей.
+
+<<4504.72;4511.64;ru>>
+Просим дать правовую оценку действий власти, чтобы общество в будущем не позволило властям действовать подобным образом.
+
+<<4511.64;4520.27;ru>>
+Государство не может иметь будущего, если для поддержания своего авторитета оно начинает жертвовать самым дороги incoming что у него есть, жертвовать жизнями детей.
+
+<<4520.27;4521.49;ru>>
+И последнее.
+
+<<4521.49;4539.93;ru>>
+Я прошу обратить внимание на то, какой колоссальный моральный вред был нанесен властями, когда при таких чудовищных нарушениях прав человека власти не захотели проводить эффективное расследование и не был наказан ни один чиновник, не понес ответственности ни один человек.
+
+<<4539.93;4548.14;ru>>
+И таким образом весь груз вины и ответственности за гибель своих детей и по сей день уже 10 лет несут только сами матери Беслана.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<4553.73;4555.65;fr>>
+Je vous remercie, Monsieur Kniazkin.
+
+<<4555.77;4560.18;fr>>
+Je me tourne maintenant vers mes collègues pour savoir s'ils souhaitent poser des questions.
+
+<<4560.18;4560.18;fr>>
+La juge Laffranque.
+
+[[Judge;Julia Laffranque]]
+
+<<4576.5;4580.46;en>>
+The question is mainly addressed to the respondent government.
+
+<<4580.46;4604.3;en>>
+Could you please explain the court the current situation concerning the proceedings in the case file 20-849, especially in respect of following the decision of 12th of September from 2005 to quash the previous decision of 3rd of December 2004.
+
+<<4604.3;4619.38;en>>
+And in this respect also explain how the applicants have and their representatives have been granted or afforded access to the materials of the investigation file in this case.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<4623.99;4625.15;fr>>
+le juge Sicilianos.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<4629.63;4631.23;en>>
+Thank you, Madam President.
+
+<<4631.23;4634.35;en>>
+I have two questions.
+
+<<4634.35;4640.39;en>>
+The first one concerns the investigation.
+
+<<4640.39;4648.07;en>>
+According to the statement by the Ossetian EMERCOM Minister Sikoyev, at 7 a.m. on 4
+
+<<4648.07;4652.31;en>>
+September, the EMERCOM team started the clearance operation.
+
+<<4652.31;4659.37;en>>
+They worked in parallel with the staff of the FSB, Army SAPES, and the Prosecutor's Office.
+
+<<4659.37;4663.55;en>>
+They collected the remains of 323 hostages.
+
+<<4663.55;4667.91;en>>
+31 terrorist bodies were also found.
+
+<<4667.91;4675.51;en>>
+During the day, the EMERCOM staff cleared the debris with the use of cranes, bulldozers, and excavators.
+
+<<4675.51;4681.11;en>>
+EMERCOM had finished the clearance work at 7 p.m. – that is in 12 hours, more or less
+
+<<4681.11;4686.11;en>>
+– after which the building was rendered to the local administration.
+
+<<4686.11;4697.95;en>>
+So my question is, what was the impact of this clearance operation on the possibility to investigate on exactly what happened the previous days, and especially during the rescue operation?
+
+<<4697.95;4704.99;en>>
+The applicants briefly referred to this issue, so my question goes mainly to the government.
+
+<<4704.99;4710.35;en>>
+My second question is purely legal, and it goes to both parties.
+
+<<4710.35;4714.77;en>>
+It concerns the planning and control of the rescue operation.
+
+<<4714.77;4720.83;en>>
+If I got it right, Mr. Matyushkin, you said, and I quote, the use of force was a forced
+
+<<4720.83;4725.53;en>>
+measure when the situation became critical.
+
+<<4725.53;4745.27;en>>
+In other words, you seem to implicitly refer to the international law concept of the state of necessity as a circumstance precluding wrongfulness codified by the UN International Law Commission in Article 25 of the Articles on State Responsibility.
+
+<<4745.27;4752.83;en>>
+My question is whether this concept of state of necessity is legally relevant in our case.
+
+<<4752.83;4752.83;en>>
+Thank you very much.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<4757.19;4759.43;fr>>
+Merci, juge Sicilianos, juge Dedov.
+
+[[Judge;Dmitry Dedov]]
+
+<<4762.85;4765.53;en>>
+Thank you, Madam President.
+
+<<4765.53;4770.3;en>>
+I have two questions to the government and one question to the applicants.
+
+<<4770.3;4774.13;en>>
+Apart from victim status, as we heard from Mr. Matyushkin,
+
+<<4774.13;4783.21;en>>
+do the government support the previous observation on admissibility and whether they want to clarify something on this issue?
+
+<<4783.21;4790.3;en>>
+Second question is about the criminal case against the terrorist.
+
+<<4790.3;4803.49;en>>
+What does it give the understanding, a full understanding, what kind of understanding of circumstances of this case?
+
+<<4803.49;4813.38;en>>
+And the question to the applicants, did the terrorist use indiscriminate weapons except bombs during this operation?
+
+<<4813.38;4813.38;en>>
+And do the government support the previous observation?
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<4816.77;4822.37;fr>>
+Bien, s'il n'y a pas d'autres questions, nous allons donc faire une pause de 20 minutes.
+
+<<4822.37;4825.85;fr>>
+Il est actuellement 10h24-25.
+
+<<4825.85;4830.53;fr>>
+Donc je vous propose de reprendre l'audience à 10h45.
+
+<<4830.53;4830.53;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4875.26;4875.84;fr>>
+La Cour!
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<4909.43;4911.59;fr>>
+L'audience est reprise. Je vous prie de vous asseoir.
+
+<<4911.59;4919.59;fr>>
+Monsieur Matyushkin, je vous donne la parole.
+
+[[Government;GR1]]
+
+<<4925.82;4960.02;ru>>
+Уважаемый суд, отвечая на первый вопрос судила Франк, я хочу сказать, что в настоящее время продолжается расследование по уголовному делу 2849 в связи с тем, что не установлены до сих пор личности шести террористов, которые принимали участие в данном террористическом акте.
+
+<<4960.02;4977.62;ru>>
+В частности, проводятся генетические экспертизы, и национальное расследование будет продолжено до тех пор, пока не будут установлены личности всех лиц, которые принимали участие в данном террористическом акте.
+
+<<4977.62;4992.22;ru>>
+Я должен сказать, что отчет о текущем состоянии данного уголовного расследования есть в материалах дела и предоставлялся российскими властями Европейскому суду.
+
+<<4992.22;5007.82;ru>>
+Также мы предоставили суду таблицу о доступе всех потерпевших к материалам уголовного дела, заявителей доступа.
+
+<<5007.82;5029.42;ru>>
+Я напомню, что многие из них отказались от своих процессуальных прав, о чем в материалах дела есть собственноручные расписки, и они также нами были предоставлены суду.
+
+<<5029.42;5062.42;ru>>
+Также я должен сказать, отвечая на этот вопрос, что на определенном этапе уголовное дело в части правомерности используемой силы было прекращено, после этого было возобновлено, и в 2006 году было вновь вынесено постановление, мотивированное об отказе в возбуждении уголовного дела. Копия также нами Европейскому суду, где указаны мотивы, почему это было сделано,
+
+<<5062.42;5078.42;ru>>
+почему был сделан вывод о правомерном применении силы, была предоставлена Европейскому суду и находится в материалах дела. Отвечая на вопрос судей Сицилианоса,
+
+<<5078.42;5109.42;ru>>
+я должен сказать, что проведение работы по расчистке этой площадки никоим образом не повлияло на эффективность национального расследования, потому что к этому времени все доказательства были собраны, была осуществлена видеосъемка, закрепление доказательств, трупы потерпевших были освидетельствованы первоначально и была выкладка во двое произведена.
+
+<<5109.42;5144.42;ru>>
+И было приостановление этих процедур по осмотру места происшествия в связи с тем, что поступила подтвердившаяся информация о том, что террористы заложили взрывные устройства, которые не позволяли осуществлять осмотр места происшествия, он был прекращен, а потом возобновлен после того, как саперы отработали и устранили источник опасности для проведения этих следственных мероприятий по расчистке.
+
+<<5144.42;5174.42;ru>>
+Что касается применения концепции, о которой спросил уважаемый судья Сицилиас, я должен сказать, что у нас на национальном уровне в России есть концепция крайней необходимости, и мы считаем, что власти, действуя в подобной ситуации, и этому было в существенной части посвящено мое выступление, действовали в состоянии крайней необходимости.
+
+<<5174.42;5206.42;ru>>
+Вообще, строго говоря, вот эта операция по освобождению заложников не была штурмом, это была спасательная операция, которая началась спонтанно после взрыва первых взрывных устройств, начиная с 13.05.03 и разворачивалась, собственно, в целях минимизации вреда и с целью спасти максимальное количество заложников.
+
+<<5206.42;5216.42;ru>>
+Опять же, повторяю, власти действовали в состоянии крайней необходимости в связи со сложившейся обстановкой, как следует из материалов дела.
+
+<<5216.42;5254.42;ru>>
+Отвечая на вопросы судьи Дедова, я должен сказать, что, безусловно, невзирая на экстраординарность данного дела и обстоятельств, и чувствительность затронутых всех вопросов, об этом я говорил сегодня неоднократно, тем не менее, я считаю, что рассмотрение данного дела должна быть подчинена строгим правилам регламента, в том числе и правил, касающихся приемлемости жалоб.
+
+<<5254.42;5278.42;ru>>
+Власти Российской Федерации неоднократно говорили в своих меморандумах, и это и есть в материалах дела, о тех проблемах, которые есть у большого количества заявителей в плане выполнения тех строгих условий, предусмотренных статьей 35-й конвенции, о приемлемости жалоб.
+
+<<5278.42;5302.42;ru>>
+Причем эти недостатки носят, во-первых, массовый характер по этим жалобам, обвинённым в однопроизводство, и, во-вторых, касаются различных аспектов, как исчерпания внутренних средств, защиты национальных, так и соблюдения установленного шестимесячного срока на подачу жалобы.
+
+<<5302.42;5329.42;ru>>
+Поэтому я должен сказать, что мы настаиваем на том, чтобы еще раз при рассмотрении были, я за недостатком времени не хочу перечислять те обстоятельства, связанные с неприемлемостью большого количества заявлений, но на чем я настаиваю, на том, чтобы каждое заявление и вопрос о его приемлемости был рассмотрен отдельно.
+
+<<5329.42;5334.42;ru>>
+Потому что ситуация по каждому заявителю в рамках объемных групп, она везде своя.
+
+<<5334.42;5359.42;ru>>
+Какие-то заявители нарушили шестимесячный срок, какие-то заявители потеряли интерес к рассмотрению дела, но, тем не менее, продолжали, как бы, у них затребоваться информация, какие-то заявители не справились с требованиями о предоставлении доверенности или заполнении формуляров.
+
+<<5359.42;5368.42;ru>>
+Достаточно обратиться к тем меморандумам, которые мы направляли в Европейский суд, чтобы все стало достаточно очевидно с вопросами приемлемости.
+
+<<5368.42;5389.42;ru>>
+Что касается ответа на второй вопрос, уважаемого судья Дедова, в отношении того, было ли национальное расследование полным, мы считаем, что да, национальное расследование было полным.
+
+<<5389.42;5401.42;ru>>
+В рамках дела Кулаева со всеми материалами были ознакомлены и в рамках дела о халатности сотрудников Молгобецкого РОВД.
+
+<<5401.42;5422.42;ru>>
+Все версии события были установлены в деталях, и в данном случае, отвечая на этот вопрос, мне хотелось бы также сделать несколько комментариев в отношении того, что я услышал сегодня на выступлении уважаемых представителей и заявителей.
+
+<<5422.42;5443.42;ru>>
+Хотел бы кратко, пользуясь возможностью, откомментировать. Во-первых, что касается возможности предотвращения теракта и о наличии оперативного сообщения о том, что такой теракт 1 сентября готовится.
+
+<<5443.42;5471.92;ru>>
+Я должен сказать, что существует такое понятие оперативного фона. Иными словами, правоохранительные органы получают огромные объемы, любые спецслужбы, российские или европейские, постоянно получают огромный объем оперативной информации по различным направлениям и касающейся различной преступной активности и террористической активности в том числе.
+
+<<5471.92;5484.92;ru>>
+Эта информация сотни, тысячи противоречивой, разноречивой, совершенно разной по объектам, целям нападения. И вот эта информация, она была всего лишь одна из.
+
+<<5484.92;5511.92;ru>>
+И в этом смысле не было и отсутствует разумное доказательство того, и я об этом говорил в своей речи, что власти могли сделать вывод, исходя из имеющей информации, что объектом террористической атаки была школа номер 1 в Беслане, потому что не было в этой оперативной информации информации о населенном пункте, информации о том, что это была школа, такой информации тоже не было.
+
+<<5511.92;5521.92;ru>>
+И объектов социальных, я еще раз хочу повторить, тысячи. Их невозможно априори было взять себе под защиту.
+
+<<5521.92;5545.92;ru>>
+Далее, что касается организации работы оперативного штаба и отсутствия письменных приказов, которые с точки зрения представителей и заявителей демонстрировали бы эффективность работы штаба. Военнослужащие, вооруженные силы руководствуются нормативным актом, являющимся основным для них это уставом военной службы,
+
+<<5545.92;5566.92;ru>>
+который предусматривает в ситуации чрезвычайной и срочной возможность управления устными приказами. В этом смысле управление оперативным штабом отдачей устных приказов было абсолютно в рамках национальной процедуры и законодательства.
+
+<<5566.92;5577.92;ru>>
+И ничего, как бы это было вызвано экстраординарностью событий и не требовало национального законодательства оформления письменных приказов о функционировании оперативного штаба.
+
+<<5577.92;5599.92;ru>>
+Дальше. Неоднократно сегодня в выступлениях представителей и заявителей звучали утверждения о том, что не проводились экспертизы, в частности не проводились судебно-медицинские экспертизы, другие виды экспертиз.
+
+<<5599.92;5614.92;ru>>
+Я хотел бы сказать, что мы настаиваем на том, что экспертизы проводились, в том числе баллистические, в том числе судебно-медицинские. Они есть в материалах, предоставленных российскими властями в Европейский суд.
+
+<<5614.92;5630.92;ru>>
+Здесь я хочу процитировать, например, что из материалов, предоставленных в Европейский суд, что согласно судебно-медицинской экспертизе погибших и пострадавших, она проводилась под руководством директора российского центра судебно-медицинской экспертизы профессора Клевно.
+
+<<5630.92;5651.92;ru>>
+По состоянию на 17 декабря уже 2004 года была проведена экспертиза 329 трупов, из них 181 детского. Опознано 328, из них 178 детских. Родственниками опознано 254 трупа, в том числе 120 детских.
+
+<<5651.92;5665.92;ru>>
+Под ДНК опознано 74 трупа, в том числе 51 детских. Выдано для захоронения 327 трупов, из них детских 181. Установлены экспертизы следующей причины смерти погибших.
+
+<<5665.92;5688.92;ru>>
+Огнестрельные пулевые ранения 51 случай, осколочные ранения 148 случаев, повреждения тупыми предметами 4 случаев, термические ожоги 10 случаев. А в 116 случаях установить непосредственную причину смерти не представляется возможным, из-за посмертного поражения тел открытым пламенем.
+
+<<5688.92;5703.92;ru>>
+Я хотел бы обратить внимание сюда на слове «посмертное поражение открытым пламенем». Это касается вопросов возникновения пожара, организации работы МЧС.
+
+<<5703.92;5722.92;ru>>
+Иными словами, уже от пожара возникшего, который исходя из материалов дела уголовного национального расследования, только в 14.30 возникло. И утушение пожара началось фактически через 30 минут, одновременно с боем, который шел.
+
+<<5722.92;5738.92;ru>>
+Потому что не могли МЧС подойти туда, из-за того, что еще шел бой с террористами. Два сотрудника МЧС погибли, судя по материалам дела. Тем не менее, началась спасательная операция.
+
+<<5738.92;5762.92;ru>>
+Но смерть от огня и вообще отсутствует в материалах дела какие-либо сведения, например, от поражения потерпевших продуктами горения. Потому что обычно при любом пожаре первоначальной, первой причиной и самой распространенной причиной смерти является отравление угарным газом.
+
+<<5762.92;5778.92;ru>>
+Но в данном судебно-медицинской экспертизе ни один из погибших не погиб от продуктов горения. Все повреждения от огня носят посмертный характер, опять же, исходя из экспертизы.
+
+<<5778.92;5795.92;ru>>
+Или, например, что касается неизбирательного применения силы, уважаемый представитель заявителя говорил о том, что ввелся огонь из БТР, из орудий, подобных орудиям, существующим на танке Т-72.
+
+<<5795.92;5808.92;ru>>
+Но не оборудованы таким орудием БТР вообще. БТР оборудованы пулемётами. Не могли они стрелять того, чем они просто не оборудованы.
+
+<<5808.92;5825.92;ru>>
+Что касается использования танков, то я должен сказать, что исходя из материалов дела, 8 свидетелей говорят о том, что танки применялись, причём их показания носят противоречивый характер. 8 человек.
+
+<<5825.92;5841.92;ru>>
+Их примерно 90 с лишним свидетелей, 295, говорят о том, что танки не применялись до 18 часов, когда уже гарантированно в здании школы заложников не было.
+
+<<5841.92;5862.92;ru>>
+Началась стадия спецопераций, связанной с уничтожением террористов, которые заминировали подходы и не собирались сдаваться. И в этом смысле перед властями стоял выбор, или жертвовать жизнями сотрудников правоохранительных органов и военных, или уничтожить террористов.
+
+<<5862.92;5873.92;ru>>
+И был сделан правомерный, как национальное расследование пришло к выводу, решение было принято уничтожить террористов. Они все были уничтожены.
+
+<<5873.92;5885.92;ru>>
+В том числе стрелял по ним танк, потому что они не сдавались и продолжали вести огонь на поражение сотрудников правоохранительных органов.
+
+<<5885.92;5910.92;ru>>
+Вот кратко я хотел бы таким образом ответить на вопросы и прокомментировать выступление заявителей. Если у уважаемого суда какие-то еще вопросы возникнут, российские власти открыты и готовы представить материалы, ответы на эти вопросы, если такая необходимость возникнет. Спасибо.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<5915.27;5917.27;fr>>
+Je vous remercie beaucoup, M. Matyushkin.
+
+<<5918.87;5920.99;fr>>
+Qui veut prendre la parole pour les requérants?
+
+[[Applicant;AP1]]
+
+<<5920.99;5922.83;fr>>
+Madame la Gouverneure,
+
+<<5922.41;5930.57;en>>
+Madam President, I will respond to Judge Sicilianos's question and Mr. Corretera will respond to
+
+<<5930.57;5934.57;en>>
+the questions of Judge LaFranc and Judge Dedov.
+
+<<5934.57;5946.85;en>>
+In response to the question on the relevance of necessity under Article 25, we do not contend that any use of force would have been a violation of the Convention.
+
+<<5946.85;5958.49;en>>
+We challenge the lack of a plan and an evaluation of the appropriate use of force and the consequent use of indiscriminate weapons in the circumstances.
+
+<<5958.49;5973.65;en>>
+We submit that Article 25 cannot be used to justify what is prohibited under Article 2 of the Convention and other international law provisions, in other words, an indiscriminate attack such as found by the court in Isaeva.
+
+<<5973.65;5988.93;en>>
+In this case, the methods and means of force used by the State did seriously impair an essential interest of the State to which it owed a primary obligation of protection, that is, the most vulnerable section of its population.
+
+<<5988.93;6004.73;en>>
+We also refer the Court to Article 24 of the Articles, the Article on Distress, that explicitly rejects State action justified on the principle of distress that leads to a comparable peril to the one sought to being averted.
+
+<<6004.73;6019.09;en>>
+We submit that the use of military combat weapons, including flamethrowers intended to destroy all personnel within an installation, created such a comparable peril in this case.
+
+<<6019.09;6026.05;en>>
+I would briefly like to respond to the Government's replies about the nature of the threat.
+
+<<6026.05;6035.85;en>>
+Of course Governments receive information that can be vague and unspecific on terrorist threats which would therefore be difficult to take action on.
+
+<<6035.85;6043.45;en>>
+As the telexes show, this threat was neither vague nor unspecific.
+
+<<6043.45;6057.37;en>>
+The further contention that there was no evidence that the threat was targeted against a school, we simply refer to the telexes specifying educational institutions as targets of attack and the day of knowledge as a target date.
+
+<<6057.37;6064.17;en>>
+The day of knowledge in Russia is the day when schools go back to school after the summer.
+
+<<6064.17;6067.73;en>>
+These are schools for 6 to 16 year old children.
+
+<<6067.73;6069.77;en>>
+I will now hand over to my colleague Mr Korotev.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<6074.46;6075.58;en>>
+Thank you, Mrs. Gavron, Mr. Koroteyev.
+
+[[Applicant;AP2]]
+
+<<6076.58;6078.74;en>>
+Thank you, Madam President.
+
+<<6078.74;6085.9;en>>
+I will first comment on the Judge LaFranc's question to the government.
+
+<<6085.9;6095.7;en>>
+This concerns the proceedings that followed the 2005 quotient of the 2004 decision that the military had no case to answer.
+
+<<6095.7;6115.06;en>>
+And we know that this 2004 decision was quotient for the reason that it failed to take into account the forensic experts' reports relating to the functioning of the operative headquarters and the firefighters that had already been commissioned.
+
+<<6115.06;6123.62;en>>
+So those experts' reports found no irregularities in the storming operation of 3 September 2004.
+
+<<6123.62;6132.26;en>>
+And if a new decision had only to take those into account, the decision would have been the same.
+
+<<6132.26;6141.38;en>>
+This is confirmed by the April 2006 decision that the members of the operative headquarters had no case to answer.
+
+<<6141.38;6150.0;en>>
+When the government refers to the decision taken in 2006, it is not the decision concerning the military.
+
+<<6150.0;6155.1;en>>
+It was a different decision concerning members of the operative headquarters.
+
+<<6155.1;6168.9;en>>
+So the government failed to produce a fresh decision concerning precisely the military officers, but the experts' reports were not capable of altering the conclusions reached in 2004.
+
+<<6168.9;6192.06;en>>
+With regard to the government's contention that a number of victims refused to get acquainted with the case file, we note that this does not justify withholding the case file from those who wished to get acquainted.
+
+<<6192.06;6202.26;en>>
+And the domestic courts confirmed those decisions not to allow access of victims to the case file on, as we said, no less than six occasions.
+
+<<6202.26;6207.3;en>>
+The government did not challenge those decisions.
+
+<<6207.3;6227.5;en>>
+With regard to Judge Siciliano's question on clearing the debris, we would also note the report of Mr. Yuri Sevelyev, who stated that clearing the debris on 4 September 2004
+
+<<6227.5;6240.7;en>>
+did not allow the investigation to collect the necessary traces of explosives in particular from the walls of the gymnasium.
+
+<<6240.7;6254.86;en>>
+This would have allowed the investigation to make conclusions as to the nature of the first explosions, which is also an issue in the parties, between the parties in the present case.
+
+<<6254.86;6257.74;en>>
+It was dealt with in the written proceedings.
+
+<<6257.74;6278.9;en>>
+We submit that the government failed to collect necessary evidence, like traces of explosives, and to reach a convincing conclusion as to who was responsible for the first explosion in the gymnasium.
+
+<<6278.9;6301.38;en>>
+With regard to the government's objections to the admissibility and the question of Judge Dedov in that respect, we submit that, as regards the compliance with the six-month rule, is concerned.
+
+<<6301.38;6306.34;en>>
+Our position is that the six months have not yet started to run.
+
+<<6306.34;6316.86;en>>
+Only the proceedings, the completion of the proceedings that would be capable of determining the responsibility of State agents would amount to triggering the six-month rule.
+
+<<6316.86;6324.9;en>>
+In the present case, such proceedings are pending, and the government confirmed this in their replies.
+
+<<6324.9;6341.18;en>>
+Also, given the trauma caused by the consequences of the terrorist attack and the storming operation in Beslan, it was reasonable to assume that the applicants expected that the authorities' response would be proportionate to the gravity of their complaints and the number of victims.
+
+<<6341.18;6349.58;en>>
+This was the Court's finding in Abueva, which concerned a bombardment in which just under 100 civilians lost their lives.
+
+<<6349.58;6353.1;en>>
+The figures in this case are three times higher.
+
+<<6353.1;6362.54;en>>
+Applying Varnava and Abueva, we submit that the applicants complied with the requirement to apply to the Court within a matter of a very few years.
+
+<<6362.54;6372.46;en>>
+The government's reference in their written observations in Abueva to support their objection to the admissibility of the present applications isn't founded.
+
+<<6372.46;6377.5;en>>
+We submit that in the present case, the applicants are in a similar situation to each other.
+
+<<6377.5;6385.9;en>>
+They are a group of former hostages and close relatives of the hostages who died in the terrorist attack and the storming operation.
+
+<<6385.9;6393.36;en>>
+The applicants in the present case are in an illegal situation to the applicants in Abueva.
+
+<<6393.36;6414.18;en>>
+Although not all the applicants were parties to all the proceedings, it is submitted that these differences are irrelevant because none of the sets of proceedings was capable of reaching the objectives of Article II of the Convention, that is, identification and punishment of those responsible.
+
+<<6414.18;6470.56;en>>
+With regard to Judge Dedov's questions about the terrorists and their arms, we acknowledge that it is clear that the terrorists were equipped with grenade launchers, but we note, and it's our position, that this case is about the use of force by the government, and even given that the terrorists were equipped with grenade launchers, we refer the Court to the judgment in Ergi and Turkey, where the Court explicitly held that it is for the government in the planning and conduct of the operations, of the security operations, to account also for the unpredictability of fighters, of those they are fighting with, so as to protect civilian life.
+
+<<6470.56;6483.96;en>>
+I will make also four short points in reply to the government's first round of submissions this morning.
+
+<<6483.96;6502.92;en>>
+Given that the government invited the Court to take into account the balance of different interests under Article II, we submit that the Article II cases are concerned not with the balance of interests, but with the issue of absolute necessity of the use of lethal force.
+
+<<6502.92;6516.32;en>>
+This was the Court's constant position since McCann at the very least, and we invite the Court to follow the absolute necessity test and not the one suggested by the government.
+
+<<6516.32;6532.8;en>>
+Secondly, the government argued that it was impossible to imagine that Russian security forces fired indiscriminate weapons at the school building while the hostages were inside.
+
+<<6532.8;6562.56;en>>
+It may have been impossible to imagine, but these are the facts, and there are more than 50 witnesses among the victims who confirmed this, policemen and other officers, including the most high-ranked, including General Tikhonov, who oversaw the use of force and weapons in the security operation, and he so testified before the Parliamentary Commission.
+
+<<6562.56;6571.72;en>>
+So we say that the facts have been submitted by the applicants.
+
+<<6571.72;6573.76;en>>
+The applicants are here.
+
+<<6573.76;6585.68;en>>
+Some of them are direct witnesses of the use of those weapons, and should the Court so require, they are able to confirm their testimony, including here today.
+
+<<6585.68;6592.32;en>>
+I would also note the government's reference to the compensation provided to the victims.
+
+<<6592.32;6609.24;en>>
+We submit that although these steps are welcomed, compensation is not enough, and compensation does not substitute accountability for the use of force.
+
+<<6609.24;6623.2;en>>
+Such accountability is something the government has yet been unable to provide to the victims, and that would constitute a violation of Article 2.
+
+<<6623.2;6632.92;en>>
+Finally, three points raised by the government in their second round of observations.
+
+<<6632.92;6655.64;en>>
+As regards oral orders, we agree that in the situation as was developing on September 2004, it might have been unreasonable to require every officer to maintain a written record of the orders he or she gave.
+
+<<6655.64;6665.28;en>>
+However, that doesn't mean that it was not possible to keep a record of the decisions made.
+
+<<6665.28;6668.76;en>>
+For example, record them on tape.
+
+<<6668.76;6676.36;en>>
+That's one of the clearest ideas that should have been employed.
+
+<<6676.36;6688.24;en>>
+Secondly, the government referred to autopsies having been conducted and attributed to us the statement that they were not.
+
+<<6688.24;6727.52;en>>
+We submit, to be clear, that what the government called autopsies were only a general external overview of the bodies, whereas a full autopsy under whatever applicable legislation, the applicable legislation in Russia, the UN autopsy protocol, or, for example, UK autopsy guidelines adopted by the Royal Pathologist Society, autopsies should include not only external overview, but internal examination, and internal examination capable of establishing the cause of death.
+
+<<6727.52;6738.04;en>>
+And the government say, as the domestic investigation said on a number of occasions, that there is no evidence that hostages died of fire.
+
+<<6738.04;6748.16;en>>
+This is because the causes of death of 116 hostages died in the gymnasium was not established.
+
+<<6748.16;6763.48;en>>
+And it is on the record in the domestic cases, the proceedings in March 2008 before the Provisional District Court of the Dikovkaz, that the experts said it was possible for them to establish the causes of death.
+
+<<6763.48;6767.6;en>>
+However, they were instructed not to do this.
+
+<<6767.6;6780.56;en>>
+And finally, as regards the use of force, well, APCs may carry tank weapons that follows from the documents submitted by the government.
+
+<<6780.56;6796.36;en>>
+And the government says there are only eight witnesses against 295, and those 295 submit that tank weapons were not used before 6 p.m. on 3 September.
+
+<<6796.36;6801.28;en>>
+What the government doesn't say is who these witnesses are.
+
+<<6801.28;6808.56;en>>
+And the government disclosed far less than 295 witness statements to this court.
+
+<<6808.56;6816.36;en>>
+And in any event, most of those who say that the weapons were used after 6 p.m. are military
+
+<<6816.36;6827.48;en>>
+officers, are the FSB officers, that is, those who may have been implicated in the use of such weapons.
+
+<<6827.48;6842.72;en>>
+Police officers, for example, who testified on numerous occasions before the courts in Russia and before the investigation confirmed many of them who saw that weapons, indiscriminate weapons were used before 6 p.m.
+
+<<6842.72;6849.72;en>>
+Most importantly, Mr. Andreev's testimony, head of the operative headquarters, referred
+
+<<6849.72;6857.2;en>>
+to FSB servicemen holding a minute of silence in the school building at 5.25 p.m.
+
+<<6857.2;6863.96;en>>
+This would have not been possible without terrorists having been neutralized.
+
+<<6863.96;6868.4;en>>
+He also referred to 40 officers receiving barotrauma.
+
+<<6868.4;6876.0;en>>
+So finally, the government entirely disregarded the evidence given by Mr. Tikhonov to the
+
+<<6876.0;6877.76;en>>
+Parliamentary Commission.
+
+<<6877.76;6893.4;en>>
+And he was the main person responsible for the use of force, and he said that flamethrowers and grenade launchers were first used at 5 minutes past 3 p.m. on 3 September at the
+
+<<6893.4;6895.28;en>>
+school.
+
+<<6895.28;6901.88;en>>
+Unless we can assist the Court any further, this concludes the applicants' observations.
+
+<<6901.88;6907.72;en>>
+In Togaev, I would, though, give the floor to Mr. Kniaskin, who will reply on behalf
+
+<<6907.72;6912.48;en>>
+of the applicants in the cases of the D.U. and others against Russia.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<6914.6;6921.52;fr>>
+Monsieur Koroteyev, monsieur Kniazkin, je me permets de vous faire observer que le temps de 15 minutes est déjà dépassé.
+
+<<6921.74;6928.12;fr>>
+Donc, monsieur Kniazkin, je vous demande juste de conclure avec une ou deux phrases, mais pas plus.
+
+<<6928.12;6928.12;fr>>
+Merci beaucoup.
+
+[[Applicant;AP3]]
+
+<<6929.51;6937.03;ru>>
+Да, я буквально акцентирую на несколько моментов.
+
+<<6937.03;6949.31;ru>>
+Действительно, по делу 20 гроб 849 дело не было закрыто, никаких процессуальных действий не проводится и даже было ходатайство Страны защиты о проведении новых допросов, они также не были проведены.
+
+<<6949.31;6958.19;ru>>
+Еще раз я подчеркиваю, что доступ к материалам дела действительно получили заявители только по делу Кулаева и у них не было 4 месяца адвоката.
+
+<<6958.19;6965.99;ru>>
+Это показывает, что они не были в возможности эффективной защиты, не имели по самому процессу дела.
+
+<<6965.99;6972.03;ru>>
+Я хочу обратить внимание, что вопрос планирования контроля операции.
+
+<<6972.03;6995.07;ru>>
+Есть выступление господина Торшина, руководителя парламентской комиссии Государственной думы, который открыто и даже в пресс-конференции заявил, что в штабе творился бардак, никаких координационных действий не предпринималось и первые действия штаба стали наносить ущерб самим заявителям.
+
+<<6995.07;7011.63;ru>>
+В частности, заявление о том, что в заложниках только 120 человек, 354 человека вместо 1127, это сразу же ухудшило положение заложников, когда террористы им стали даже угрожать, что мы просто сейчас сократим количество заложников до того количества, которое заявляют власти.
+
+<<7011.63;7023.11;ru>>
+Еще раз хочу сказать, что есть более 50 свидетелей, которые подтверждают, что танки, огнеметы, гранатометы использовались до 18.00.
+
+[[JudgeP;Isabelle Berro-Lefèvre]]
+
+<<7026.65;7029.45;fr>>
+Merci beaucoup, M. Kniazkin.
+
+<<7029.65;7033.01;fr>>
+Nous arrivons donc au terme de l'audience.
+
+<<7033.21;7040.89;fr>>
+Je tiens tout d'abord à remercier les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<7041.81;7052.01;fr>>
+La Cour va maintenant délibérer sur la recevabilité et sur le fonds, et les partis seront informés en temps utile de toute décision qui sera prise.
+
+<<7052.01;7053.45;fr>>
+L'audience est levée.
+

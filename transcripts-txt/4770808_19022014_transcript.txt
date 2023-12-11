@@ -1,0 +1,2845 @@
+[[Announcer;UNK]]
+
+<<11.94;12.62;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<58.12;60.76;en>>
+Please be seated.
+
+<<60.76;70.36;en>>
+I declare open the public hearing on the admissibility and merits in the case of Jaloud against the Netherlands.
+
+<<70.36;81.2;en>>
+The application was lodged with the court on the 6th of October, 2008, under Article 34 of the Convention by an Iraqi national, Mr. Sabah Jaloud.
+
+<<81.2;89.84;en>>
+The application was allocated to a chamber of the third section of the court, pursuant to Rule 52, Paragraph 1 of the Rules of Court.
+
+<<89.84;96.12;en>>
+It was communicated to the government on the 6th of December, 2011.
+
+<<96.12;107.04;en>>
+On the 9th of July, 2013, the chamber decided to relinquish jurisdiction in favor of the Grand Chamber, none of the parties having objected to the relinquishment.
+
+<<107.04;122.2;en>>
+On the 15th of October, 2013, leave was granted to the United Kingdom government to submit written comments and take part in the hearing of the third party by virtue of Rule 44, Paragraph 3 of the Rules of Court.
+
+<<122.2;128.88;en>>
+The respondent government are represented by their agent, Mr. Roeland Böcker
+
+<<128.88;135.16;en>>
+of the Ministry of Foreign Affairs, assisted by Dr. Martin Kuijer of the Ministry of Security
+
+<<135.16;140.72;en>>
+and Justice, Mr. Bas Van Hoek of the Public Prosecution Service,
+
+<<140.72;148.12;en>>
+and Commander Henk Warnar of the Ministry of Defense Military Staff Advisors.
+
+<<148.12;152.06;en>>
+The applicant is represented by Ms. Liesbeth Zegveld,
+
+<<152.06;158.86;en>>
+counsel assisted by Mr. Anne Willebrord Eikelboom, counsel.
+
+<<158.86;163.96;en>>
+The United Kingdom government third party are represented by their agent, Ms. Ruth Tomlinson
+
+<<163.96;169.6;en>>
+of the Foreign and Commonwealth Office, assisted by Mr. James Eadie QC counsel,
+
+<<169.6;173.6;en>>
+and by Mr. Jonathan Benson of the Foreign and Commonwealth
+
+<<173.6;177.4;en>>
+Office and Ms. Megan Addis, advisors.
+
+<<177.4;183.28;en>>
+I welcome the representatives of the parties in the name of the court.
+
+<<183.28;192.26;en>>
+I also welcome a delegation of judges and prosecutors from the Turkish High Council on a study visit to the court.
+
+<<192.26;203.8;en>>
+Having consulted the agent of the government, the representative of the applicant, and the agent of the third party government, I have determined the order of addresses as follows.
+
+<<203.8;208.72;en>>
+Mr. Böcker for the Netherlands government will speak first.
+
+<<208.72;212.96;en>>
+And then Mr. Eikelboom and Ms. Zegveld for the applicant.
+
+<<212.96;217.02;en>>
+And finally, Mr. Eadie for the United Kingdom government.
+
+<<217.02;231.72;en>>
+I would explain that in addition to interpretation between the two official languages of the court, English and French, interpretation to Turkish has been authorized for the benefit of the group of judges and prosecutors from Turkey.
+
+<<231.72;236.12;en>>
+That interpretation has not been arranged by the court.
+
+<<236.12;244.84;en>>
+And no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<244.84;245.94;en>>
+I call Mr. Böcker.
+
+[[Government;GR1]]
+
+<<249.35;255.75;en>>
+Mr. President, members of the Grand Chamber, Mr. Vice-Registrar, ladies and gentlemen,
+
+<<255.75;258.35;en>>
+good morning.
+
+<<258.35;264.15;en>>
+Mr. Jaloud alleges a violation by the government of the Netherlands of one of the most fundamental
+
+<<264.15;273.95;en>>
+rights enshrined in the European Convention on Human Rights, the right to life set out in Article 2 of the Convention.
+
+<<273.95;279.95;en>>
+There is no disagreement between the parties about the fact that Mr. Jaloud's son Azar
+
+<<279.95;290.43;en>>
+died tragically nearly 10 years ago in the close proximity of Dutch troops in the Iraqi province of Al-Mutana.
+
+<<290.43;302.09;en>>
+Nor is there any dispute about the fact that it cannot be excluded that Azar died from one or more bullets fired by Dutch military personnel.
+
+<<302.09;310.83;en>>
+The parties do, however, fundamentally disagree on the applicability of the Convention to those circumstances.
+
+<<310.83;325.11;en>>
+More specifically, they disagree on the preliminary question of whether Azar could be considered to be within the jurisdiction of the Netherlands as required by Article 1 of the Convention.
+
+<<325.11;329.79;en>>
+The government's firm answer to that question is in the negative.
+
+<<329.79;338.97;en>>
+I will first of all explain the reasons underlying our position before discussing the merits of the application.
+
+<<338.97;350.87;en>>
+In doing so, I wish to refer the Grand Chamber to our written memorial of 19 November 2013, which includes numerous references to the Court's relevant case law.
+
+<<350.87;364.31;en>>
+Likewise, I refer to the written observations of 22 November 2013 of the Government of the United Kingdom on the issue of jurisdiction, which point in the same direction.
+
+<<364.31;372.67;en>>
+My presentation today is intended to amplify, not to replace, our written comments.
+
+<<372.67;378.39;en>>
+Mr. President, the Court's case law on the question of extraterritorial jurisdiction
+
+<<378.39;384.63;en>>
+is, frankly speaking, not always easy to grasp.
+
+<<384.63;396.19;en>>
+Only in recent years, scholars and others have frequently crossed swords with one another on the issue, and many shades of grey may be distinguished in the debate.
+
+<<396.19;409.59;en>>
+Central to this debate are the concepts of authority and control, either over a territory or over a person, and the question of how these concepts relate to one another.
+
+<<409.59;419.47;en>>
+One principle, however, stands firmly beyond discussion, both in the Court's case law itself and in scholarly publications.
+
+<<419.47;429.15;en>>
+The term jurisdiction, as it appears in Article I, has an essentially territorial meaning.
+
+<<429.15;441.35;en>>
+Extraterritorial interpretation is the exception to the rule, and must therefore at all times be demonstrated by the existence of exceptional circumstances.
+
+<<441.35;447.05;en>>
+Failing such circumstances, the rule of territoriality applies.
+
+<<447.05;455.35;en>>
+Obviously, opinions differ about the criteria for assuming the existence of exceptional circumstances.
+
+<<455.35;458.87;en>>
+One thing, however, should be clear.
+
+<<458.87;467.95;en>>
+Extraterritorial jurisdiction cannot simply be equated to any state activity performed abroad or producing effects abroad.
+
+<<467.95;477.55;en>>
+To hold otherwise would render the term jurisdiction meaningless and the first article of the Convention superfluous.
+
+<<477.55;503.73;en>>
+As the Court rightfully acknowledged in its decision in the case of Bankovic and others versus Belgium and others, should the high contracting parties to the Convention have had in mind a concept of jurisdiction without territorial limits, they could simply have used language similar to the first article of the four Geneva Conventions, which were adopted merely a year before the European Convention on Human Rights.
+
+<<503.73;515.79;en>>
+By not doing so, they expressed reluctance to globalizing through legal means the primarily regional nature of the human rights instrument they were about to create.
+
+<<515.79;521.67;en>>
+This reluctance is still key to the Government's position today.
+
+<<521.67;532.71;en>>
+Unilateral and unlimited export of the Convention's standards stands more chance of weakening the European human rights system than strengthening its global counterpart.
+
+<<532.71;549.31;en>>
+In the course of many years, the Court and its predecessors have therefore scrupulously introduced and maintained a watershed between situations which were capable of engaging jurisdiction for conventional purposes and situations that were not.
+
+<<549.31;587.23;en>>
+Without wishing to discuss here and now each and every relevant case, I think it is safe to conclude that in all of these cases specific elements may be distinguished which, either by themselves or taken together with other such elements, may qualify as exceptional circumstances justifying the existence of extraterritorial jurisdiction, be it overall control by a respondent state over foreign territory resulting from its military presence, the status of occupying power under international law, or detention of the applicant by the respondent state on foreign territory or on the high seas.
+
+<<587.23;602.63;en>>
+Also other cases in which extraterritorial jurisdiction was accepted, such as acts of diplomatic and consular agents when they exert authority and control over others, are far removed from the present case.
+
+<<602.63;610.65;en>>
+The Government submits that no such exceptional circumstances existed in the present case.
+
+<<610.65;623.41;en>>
+The mere presence of Dutch troops at the relevant location and their narrowly defined role are, in the light of all precedents, clearly insufficient to establish jurisdiction.
+
+<<623.41;633.97;en>>
+The ensuing chain of events, tragic as its outcome undoubtedly was, is not in itself capable of establishing jurisdiction.
+
+<<633.97;643.29;en>>
+Any different conclusion would weaken the watershed emanating from the Court's case law and disturb the balance it represents.
+
+<<643.29;651.39;en>>
+Let's have a closer look at the circumstances of this case in order to determine whether they meet this test of exceptionality.
+
+<<651.39;659.25;en>>
+There is hardly any reason for me now to provide a detailed description of the international law background of the multinational presence in Iraq.
+
+<<659.25;666.05;en>>
+In its judgment in the case of al-Skaini and others versus the United Kingdom, the Court has already done so.
+
+<<666.05;686.05;en>>
+Suffice for me to remind at this juncture that the Security Council, acting under Chapter 7 of the Charter of the United Nations, on 22 May 2003 adopted Resolution 1483, which provided the legal basis for the subsequent presence of international forces in Iraq.
+
+<<686.05;699.57;en>>
+This resolution specifically designated the United States and the United Kingdom as occupying powers acting under unified command, referred to as the coalition provisional authority.
+
+<<699.57;707.57;en>>
+Other states working under that authority were expressly qualified as states that are not occupying powers.
+
+<<707.57;711.25;en>>
+This is where the present case comes into play.
+
+<<711.25;723.77;en>>
+The Netherlands was one such state since, at the relevant time, April 2004, it had a contingent of some 1,300 military personnel deployed in southeast Iraq.
+
+<<723.77;740.93;en>>
+Operational control over these forces was transferred to the British commander of the multinational division southeast of the stabilization force in Iraq, who was himself subordinate to the United States military authorities in Baghdad and Tampa, Florida.
+
+<<740.93;747.69;en>>
+The Dutch forces were thus subordinates to British and American commanders, respectively.
+
+<<747.69;753.25;en>>
+Arrangements were laid down in a memorandum of understanding, including rules of engagement.
+
+<<753.25;762.41;en>>
+For ease of understanding, the latter rules were reproduced by the Dutch Ministry of Defense in an ad memoir for commanders and a soldier's card.
+
+<<762.41;768.97;en>>
+The Netherlands made a number of specific reservations to the task formulated for the multilateral force.
+
+<<768.97;773.61;en>>
+It made clear that it was for the U.S. and the U.K. to undertake civil administrative
+
+<<773.61;787.81;en>>
+tasks, that it was for the Iraqi authorities to develop executive law enforcement, including arrest for purposes of criminal prosecution and seizure of goods, and that the Netherlands would not detain people.
+
+<<787.81;801.69;en>>
+It follows from what I have just said that the Netherlands was in a fundamentally different position from the United Kingdom, the respondent state in the Al-Skaini case, in which the Grand Chamber accepted the existence of extraterritorial jurisdiction.
+
+<<801.69;809.73;en>>
+Certainly, both states had troops deployed in the area, working for the same goal and under the same umbrella.
+
+<<809.73;816.17;en>>
+But this is where the comparison stops.
+
+<<816.17;822.13;en>>
+In contrast to the U.K., the Netherlands was not designated as an occupying power, neither
+
+<<822.13;824.53;en>>
+in law nor in fact.
+
+<<824.53;833.09;en>>
+The Netherlands lacked operational control, which it had expressly transferred to the British commander of the multinational division Southeast.
+
+<<833.09;841.13;en>>
+The number of Dutch troops was far more limited than the British troops, 1,300 as opposed to 8,600.
+
+<<841.13;849.53;en>>
+And on top of that, the powers of the Dutch troops were further limited by a number of reservations as to their task.
+
+<<849.53;859.97;en>>
+In order to avoid any misunderstanding, let me stress that the transfer of operational control to foreign command does not mean that all links with the Netherlands were severed.
+
+<<859.97;870.87;en>>
+Just as it had taken a sovereign decision to contribute troops, the Netherlands retained the prerogative to withdraw its troops from the multinational force, if it so wished.
+
+<<870.87;885.53;en>>
+A national contingent commander was deployed with the forces as representative of the Dutch chief of defense in order to verify whether the instructions given by the operational command remained within the boundaries of the mandate and national reservations.
+
+<<885.53;889.49;en>>
+But he operated strictly outside the chain of command.
+
+<<889.49;903.77;en>>
+Furthermore, since the court raised this issue in its letter to the parties of 4 September 2013, I should observe that criminal and disciplinary jurisdiction remained with the Dutch authorities as usual.
+
+<<903.77;918.55;en>>
+As the UK government rightly concludes in its written observations, this exclusively concerns the relation between the individual serviceman and his employer and does not engage the relationship between the Netherlands and the applicant.
+
+<<918.55;925.81;en>>
+These perfectly normal circumstances in no way weaken the conclusion that the Netherlands was not an occupying power.
+
+<<925.81;944.93;en>>
+We find further support for that conclusion in the Al-Skaini judgment at paragraph 143, where the court first recalls that the United States, the United Kingdom and their coalition partners entered Iraq, and then goes on to qualify only the former two states as occupying powers.
+
+<<944.93;975.17;en>>
+The fact that the court specifically refers to a state other than the respondent state, namely the United States, which obviously was not a party to the case and which is under no circumstance bound by the court's judgment, confirms that the court had in mind a limitative list of occupying powers here and expressly did not address coalition partners, even though its judgment might potentially be of great legal importance to the European states among them.
+
+<<975.17;979.89;en>>
+Mr. President, the conclusion so far is that the position of the Netherlands in Iraq in
+
+<<979.89;989.93;en>>
+general terms was in no way indicative of the existence of extraterritorial jurisdiction with regard to situations such as in the present case.
+
+<<989.93;999.93;en>>
+I recall that, failing such indication, the normal rule of territorial jurisdiction applies.
+
+<<999.93;1006.77;en>>
+So let's now focus on the particular circumstances surrounding the events that led to Azar Jaloud's death.
+
+<<1006.77;1017.89;en>>
+One of the tasks of the Dutch contingent was, within capabilities, to support the organization and training of the Iraqi Civil Defense Corps, the ICDC.
+
+<<1017.89;1028.01;en>>
+In the fulfillment of this and other tasks, the use of force was permitted only if strictly necessary and as a means of last resort.
+
+<<1028.01;1042.27;en>>
+It is worth noting that the instructions referred, in so many words, to an attack by a car as an example of a situation in which the use of force may be permitted, provided, of course, the test of strict necessity is met.
+
+<<1042.27;1051.49;en>>
+It was in the fulfillment of the task of support to the ICDC that the Dutch patrol of six soldiers led by Lieutenant A, or is it Lieutenant A?
+
+<<1051.49;1055.65;en>>
+I'm never sure if it's Lieutenant or Lieutenant.
+
+<<1055.65;1073.25;en>>
+In any case, on a mission monitoring ICDC vehicle checkpoints near the town of Ar-Ramayta was requested by the ICDC to come and help investigate shooting from a car at one such checkpoint, only minutes after the incident had happened.
+
+<<1073.25;1084.85;en>>
+In the course of this investigation, a second car appeared, which hit the barrels forming the checkpoint and then continued in the direction of the lieutenant and others.
+
+<<1084.85;1093.13;en>>
+Shots were fired at the vehicle, including 28 rounds by the lieutenant, who was under the impression of being attacked.
+
+<<1093.13;1099.13;en>>
+After the car had stopped, it was discovered that the passenger, Azar Jalut, was injured.
+
+<<1099.13;1103.09;en>>
+He died one hour later from his injuries.
+
+<<1103.09;1131.59;en>>
+Now I'm keeping this resume deliberately short, not only because the Grand Chamber has been meticulously informed by both parties about any relevant details, but also because my intention at this point is to determine whether the situation on the ground would justify the conclusion, different from the overall picture I discussed before and in contrast to the general rule, that the Netherlands, through the operation of its troops in this particular event, exercised extraterritorial jurisdiction.
+
+<<1131.59;1134.21;en>>
+We submit that this is not the case.
+
+<<1134.21;1140.09;en>>
+The Dutch role vis-à-vis the ICDC was one of monitoring and support.
+
+<<1140.09;1154.81;en>>
+Precisely in the supporting role, a handful of Dutch military personnel assisted in the investigation of an incident, only to find that they got caught in what appeared to be a continuation of the hostilities that had been reported to them.
+
+<<1154.81;1163.03;en>>
+Their response inevitably occurred instantaneous and remained fully within the instructions concerned the use of force.
+
+<<1163.03;1175.21;en>>
+The fact that the lieutenant apparently erred on the intentions of those driving the vehicle is, although tragic, not decisive in engaging jurisdiction.
+
+<<1175.21;1181.17;en>>
+Mr. President, from all perspectives, the answer to the question whether the case includes
+
+<<1181.17;1189.09;en>>
+exceptional circumstances justifying the departure from the rule of extraterritorial jurisdiction remains negative.
+
+<<1189.09;1192.95;en>>
+The Netherlands had limited presence and powers in southeast Iraq.
+
+<<1192.95;1195.97;en>>
+It had no control over any part of Iraq.
+
+<<1195.97;1208.85;en>>
+It did not detain the victim or exercise any other measure of authority or control over his actions, nor did it plan, initiate, or even foresee any action against the victim.
+
+<<1208.85;1214.09;en>>
+The encounter of the Dutch and Azar Jaloud was the result of pure coincidence.
+
+<<1214.09;1219.45;en>>
+An unfortunate coincidence, yes, certainly, but still a coincidence.
+
+<<1219.45;1226.73;en>>
+As such, this case is clearly different from any other case the court and its predecessors have judged upon.
+
+<<1226.73;1250.17;en>>
+Applying the extraterritorial exception to the present case would, therefore, not only jeopardize the whole meaning of the first article of the Convention, but also affect the ability of the international community to cooperate effectively under Chapter 7 of the United Nations Charter and the willingness of states to contribute to such cooperation.
+
+<<1250.17;1254.89;en>>
+Mr. President, let me then turn to the merits of the application.
+
+<<1254.89;1265.17;en>>
+Obviously my comments are without prejudice to our view on jurisdiction, which logically implies that no duty to investigate under Article 2 of the Convention arises.
+
+<<1265.17;1272.25;en>>
+Our position regarding the merits of the application hinges on two premises.
+
+<<1272.25;1275.69;en>>
+I apologize.
+
+<<1275.69;1283.21;en>>
+First, the investigation was in full conformity with the requirements of Article 2.
+
+<<1283.21;1286.01;en>>
+I hope to demonstrate this in a moment.
+
+<<1286.01;1300.97;en>>
+Second, and closely related to the absence of jurisdiction, which I have amply discussed, an investigation in Iraq in 2004 by Dutch authorities cannot simply be equated with any investigation in the domestic sphere.
+
+<<1300.97;1319.99;en>>
+The Royal Dutch Constabulary, the Koninklijke Maritie-Gesellschaft, or K-MAR, as I will call it as of now, was responsible for the on-the-spot investigation in order to assess whether the use of force by Dutch military personnel was contrary to the applicable rules of engagement and led to criminal responsibility.
+
+<<1319.99;1330.17;en>>
+The K-MAR lacked the authority to investigate the conduct of anyone other than Dutch troops and had to respect Iraqi laws and customs at all times.
+
+<<1330.17;1338.93;en>>
+As a result, the K-MAR was very often dependent on the cooperation of Iraqi authorities, police, judicial and other.
+
+<<1338.93;1350.53;en>>
+In this atmosphere of mutual cooperation, it was often possible to conduct investigative measures which, strictly speaking, fell outside the competencies of the K-MAR.
+
+<<1350.53;1358.13;en>>
+However, the K-MAR was never in a position to enforce investigative measures pertaining to others than the Dutch military personnel.
+
+<<1358.13;1365.69;en>>
+It did not have the power to seize or to take custody of any goods not belonging to Dutch military personnel.
+
+<<1365.69;1372.99;en>>
+In the present case, the ICDC sergeant was willing to temporarily hand over his weapon.
+
+<<1372.99;1380.89;en>>
+The Iraqi police officers acquiesced in the transport of the Mercedes for investigative purposes.
+
+<<1380.89;1390.53;en>>
+Different from what the applicant suggests in his written submissions, the driver of the car was not apprehended and kept in custody on the Dutch Camp Smitty.
+
+<<1390.53;1394.73;en>>
+The Dutch did not have the power to take such measures.
+
+<<1394.73;1403.57;en>>
+As far as the government knows, the driver did himself come to the camp the next day to inform about his car.
+
+<<1403.57;1413.65;en>>
+Apart from all of this, the investigation had to be carried out in a volatile environment and taking into account the interests of an ongoing military operation.
+
+<<1413.65;1424.73;en>>
+The first stages of the investigation took place at a spot which shortly beforehand had been the object of an armed attack and might well come under further attack.
+
+<<1424.73;1432.53;en>>
+Furthermore, in the spring of 2004, there was a rise of violent attacks on Dutch military personnel.
+
+<<1432.53;1443.05;en>>
+Camp Smitty, where the blue K-MAR was located, came repeatedly under mortar attack, including during the night of the 21st to the 22nd of April.
+
+<<1443.05;1450.21;en>>
+The ensuing investigations had an impact on the availability of interpreters and investigators.
+
+<<1450.21;1455.93;en>>
+An investigator actually died a couple of months later in the line of duty.
+
+<<1455.93;1467.53;en>>
+The applicant attaches no weight to these circumstances and refers to case law set in purely domestic circumstances, notably the court's judgment in the case of Kaya v. Turkey.
+
+<<1467.53;1471.13;en>>
+A misleading comparison, as I have just explained.
+
+<<1471.13;1476.85;en>>
+The Kaya judgment was concerned with the security situation in southeast Turkey, i.e. within
+
+<<1476.85;1479.57;en>>
+the territory of the respondent state.
+
+<<1479.57;1485.97;en>>
+The Turkish authorities were empowered to conduct all necessary investigative measures.
+
+<<1485.97;1491.49;en>>
+It is precisely this aspect which is lacking in the present case.
+
+<<1491.49;1502.37;en>>
+As I said before, the K-MAR did not have the formal competencies to conduct an overall investigation besides assessing the use of force by Dutch military personnel.
+
+<<1502.37;1511.03;en>>
+Given these limitations, we submit that the investigation was fully in line with the benchmarks developed in the court's case law.
+
+<<1511.03;1515.89;en>>
+I refer in particular to the court's judgment in the case of Ramzahei and others v. The
+
+<<1515.89;1517.21;en>>
+Netherlands.
+
+<<1517.21;1536.57;en>>
+Not because we feel that an investigation in the southeast of Iraq is similar to an investigation in the southeast of Amsterdam, I have just explained why it is not, but simply because the Grand Chamber drew attention to that judgment in its letter to the parties of 4 September 2013.
+
+<<1536.57;1553.33;en>>
+In Ramzahei, the Grand Chamber confirmed that an investigation is effective if it is capable of leading to a determination of whether the use of force was or was not justified in the circumstances and to the identification and punishment of those responsible.
+
+<<1553.33;1559.21;en>>
+The Grand Chamber specifically adds that this is not an obligation of result, but one of means.
+
+<<1559.21;1566.29;en>>
+The authorities must have taken the reasonable steps available to them when conducting the investigation.
+
+<<1566.29;1573.13;en>>
+Applying these rules to the present case, it may first be concluded that the investigation was taken up promptly.
+
+<<1573.13;1582.05;en>>
+The lieutenant immediately reported the incident, and K-Mar officers arrived at the scene a mere two hours after the incident.
+
+<<1582.05;1593.13;en>>
+Furthermore, the investigation was carried out independently by persons who were fully independent from the military chain of command and responsible to the public prosecutor only.
+
+<<1593.13;1603.41;en>>
+The public prosecutor was informed of the investigation at the earliest possible stage and was thus able to give directions, which in fact he did. Contrary to the applicant's
+
+<<1603.41;1614.21;en>>
+statements, the K-Mar operated from Camp Smitty in As-Samawa and not from the Dutch base in Arumaita, where the lieutenant and his troops resided.
+
+<<1614.21;1620.45;en>>
+Nor does the investigation raise any suspicion of bias. The results were, moreover, assessed
+
+<<1620.45;1627.37;en>>
+by the public prosecutor in Arnhem and, eventually, by the Arnhem Court of Appeal.
+
+<<1627.37;1638.59;en>>
+Thus, one is of the opinion that a decision not to prosecute in this case can only be the fruit of biased investigation, which obviously is not the government's opinion. We conclude
+
+<<1638.59;1649.05;en>>
+that the independence of the investigation into the death of Azar Jalut was by no means jeopardized and met with the requirements of the Convention.
+
+<<1649.05;1655.01;en>>
+The investigation was also carried out thoroughly. The investigators immediately made a descriptive
+
+<<1655.01;1659.53;en>>
+sketch of the scene and secured the trace evidence. They photographed shell casings
+
+<<1659.53;1666.69;en>>
+and cartridges. All officers and interpreters, including some 10 ICDC members, were interviewed.
+
+<<1666.69;1677.53;en>>
+The driver of the Mercedes was interviewed for an hour, not for mere 10 minutes, as the applicant suggests. The car was examined for points of impact, the size of the bullet holes,
+
+<<1677.53;1685.05;en>>
+gunshot residue, and the trajectory of the bullets. It was thus established that shots
+
+<<1685.05;1692.23;en>>
+had been fired both by Dutch and Iraqi soldiers. An autopsy was performed under Iraqi responsibility
+
+<<1692.23;1697.73;en>>
+by a forensic pathologist at the local hospital in Assamawa.
+
+<<1697.73;1708.29;en>>
+It may very well be, as the applicant alleges at great length in his written submissions, that certain aspects of the investigation could have been performed in a different manner.
+
+<<1708.29;1718.99;en>>
+Generally those differences may be explained by the context of the investigation, which I described earlier. Moreover, diverging views on procedural steps are almost inherent in
+
+<<1718.99;1731.93;en>>
+any criminal investigation. Nevertheless, even considering the difficult
+
+<<1731.93;1742.53;en>>
+circumstances surrounding the investigation, the Government acknowledges that matters could and should have been treated differently in two respects. The autopsy report should have
+
+<<1742.53;1754.45;en>>
+been translated and the provision of information towards the victims next of kin should have been more forthcoming. These deficiencies, however, do not lead to the conclusion that
+
+<<1754.45;1760.97;en>>
+Article 2 of the Convention was violated. The legal relevance of the autopsy report,
+
+<<1760.97;1781.69;en>>
+which in the meantime has been translated into English and which is in the Court's file, its legal relevance was limited in the light of the KMAR's task to establish whether the Lieutenant had acted in a reprehensible manner. Since it was established that he could reasonably
+
+<<1781.69;1793.73;en>>
+have assumed to have been under attack and that he acted in self-defence, it was irrelevant whether he had in fact fired the fatal bullet. This approach was later confirmed by the Court
+
+<<1793.73;1798.37;en>>
+of Appeal in Arnhem. As to the involvement of the victims next of
+
+<<1798.37;1811.81;en>>
+kin, the Court has found that it cannot be regarded an automatic requirement under Article 2 that the deceased victim surviving next of kin be granted access to the ongoing investigation.
+
+<<1811.81;1827.57;en>>
+Access of the public or the victim's relatives may be provided for in other stages of the procedure, such as the initiation of complaint proceedings in accordance with Section 12 of the Code of Criminal Procedure. The applicant was given access to the information yielded
+
+<<1827.57;1838.33;en>>
+by the investigation to a degree sufficient for him to challenge the decision not to prosecute the Lieutenant. That being said, our task here today, and
+
+<<1838.33;1860.89;en>>
+what is more important, your task, the task of the Court, is not to assess each and every detail of the procedure, but to establish whether the procedure was capable of determining who was responsible for the use of force and whether the use of force was or wasn't justified under the circumstances. The answers found as a result of the investigation
+
+<<1860.89;1877.13;en>>
+were that the Lieutenant was responsible for the use of force, leaving aside any participation of Iraqi troops in the shooting, which the KMAR was not authorised to investigate, and that the use of his weapon was justified in an act of self-defence.
+
+<<1877.13;1904.57;en>>
+The Lieutenant's apparent error as to the intentions of those driving the car was considered excusable, having regard to the preceding car attack, the fact that shots were fired from the back of that car, the shots fired by others which the Lieutenant took to be shots directed at him from the Mercedes, as well as the fact that the Mercedes, after hitting the checkpoint, did not stop immediately but continued in his direction. I stress once
+
+<<1904.57;1911.45;en>>
+again, the Government's obligation in this regard is one of means, not of result.
+
+<<1911.45;1921.61;en>>
+Mr President, having nearly arrived at the end of my presentation, I should say a few words on the applicants' claims for just satisfaction, costs and expenses. Of course, my comments
+
+<<1921.61;1929.77;en>>
+only apply in case the Court should be of the view that the Convention is applicable and that a violation of Article 2 has occurred.
+
+<<1929.77;1941.85;en>>
+The applicant first of all requests the Ground Chamber to order the Government to carry out a fresh investigation into the death of Azar Jalut. Our primary response would be that
+
+<<1941.85;1956.65;en>>
+it is nearly, if not utterly, unrealistic to expect any additional outcome from an investigation in Iraq conducted from the Netherlands ten years after the facts. Furthermore, we recall
+
+<<1956.65;1975.41;en>>
+that one important principle underlying the Convention and the Court's case law is that it is up to the respondent state to choose the means by which it will discharge its legal obligation under Article 46, paragraph 1 of the Convention, provided such means are compatible with the conclusions set out in the Court's judgment.
+
+<<1975.41;1986.69;en>>
+It falls to the Committee of Ministers of the Council of Europe, acting under Article 46, paragraph 2 of the Convention, to supervise compliance with the judgment. The Government
+
+<<1986.69;2004.81;en>>
+is well aware of case law in which the Court has nevertheless indicated to the respondent Government the means by which to execute its judgment, but this was restricted to cases which either were repetitive in nature or left no room for any alternative measure.
+
+<<2004.81;2011.09;en>>
+Both situations, we submit, are not at issue here. The applicant furthermore claims an
+
+<<2011.09;2018.01;en>>
+amount of €25,000 in compensation for non-pecuniary damage suffered. In this respect, the Government
+
+<<2018.01;2028.29;en>>
+will refer itself to the Grand Chamber's judgment, while merely recalling that the sum awarded to the applicants in the Al-Skyni case amounted to €17,000 each.
+
+<<2028.29;2039.05;en>>
+Finally, as the Grand Chamber has been informed by the Applicants' Council in her written submissions, the applicant is provided with legal aid under domestic law. No further financial
+
+<<2039.05;2042.41;en>>
+issue would appear to arise in this regard.
+
+<<2042.41;2042.41;en>>
+Mr President, Distinguished Members of the Grand Chamber, I thank you for your attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2049.31;2054.31;en>>
+Thank you, Mr. Böcker. I give the floor to Mr. Eikelboom.
+
+[[Applicant;AP1]]
+
+<<2059.14;2061.82;en>>
+Mr. President, members of the Court,
+
+<<2061.82;2067.64;en>>
+when he was shot dead, there was a jurisdictional link between Mr. Gelut and the Netherlands.
+
+<<2067.64;2081.76;en>>
+This logically flows from Article 1 of the Convention, and it sits comfortably with the Court's case law on the matter of extraterritorial jurisdiction, in particular the already mentioned case of El Skaini, which bears so much resemblance to this case.
+
+<<2081.76;2085.48;en>>
+We believe that it is essential to view the matter on three levels.
+
+<<2085.48;2088.12;en>>
+First, the formal legal framework.
+
+<<2088.12;2091.86;en>>
+Second, the factual situation on the ground in general.
+
+<<2091.86;2097.56;en>>
+And third, the actual situation at the checkpoint at the moment of the shooting.
+
+<<2097.56;2101.3;en>>
+I will start with the legal framework.
+
+<<2101.3;2104.84;en>>
+At the relevant time, Iraq was not an independent, sovereign state.
+
+<<2104.84;2111.24;en>>
+The regime of Saddam Hussein had been toppled by a multilateral coalition consisting of several states.
+
+<<2111.24;2119.52;en>>
+And at the time of issue, April 2004, the war had ended, and the land of Iraq was under occupation.
+
+<<2119.52;2131.34;en>>
+Civilian authority was exercised by the coalition provisional authority, and meanwhile, a military force, or SFIR, was established, tasked with maintaining public order and security.
+
+<<2131.34;2137.28;en>>
+This was a multinational force, and the Netherlands was part of this force.
+
+<<2137.28;2144.5;en>>
+The deployment of Dutch troops to post-war Iraq was subject to heated domestic, public, and political debate.
+
+<<2144.5;2148.62;en>>
+Historically, occupation is a very sensitive subject to the Dutch.
+
+<<2148.62;2157.28;en>>
+And for this reason, the government have always emphatically denied that the Dutch troops would take part in any occupation of Iraq.
+
+<<2157.28;2175.14;en>>
+The distinction in the preamble of Security Council Resolution 1483 between occupying and non-occupying powers, which can be considered public law novelty, was something for which the Dutch government had particularly strived.
+
+<<2175.14;2183.06;en>>
+However, in international humanitarian law, the concept of occupation is a question of fact rather than law.
+
+<<2183.06;2187.38;en>>
+The Netherlands may not have formally declared itself an occupying power.
+
+<<2187.38;2194.7;en>>
+It may even have publicly pronounced that it was not an occupying power as it has done and as it maintains.
+
+<<2194.7;2200.16;en>>
+Security Council Resolution may have stated that only the United States and the United Kingdom were occupying powers.
+
+<<2200.16;2202.82;en>>
+But all of this is not decisive.
+
+<<2202.82;2207.34;en>>
+Decisive is the factual situation.
+
+<<2207.34;2212.3;en>>
+A territory is considered occupied when it is actually placed under the authority of an army.
+
+<<2212.3;2222.7;en>>
+And as we shall see, the factual situation was such that at the relevant point in time in the relevant territory, the Netherlands had such authority.
+
+<<2222.7;2226.68;en>>
+The United Kingdom was the so-called lead nation in southern Iraq.
+
+<<2226.68;2230.14;en>>
+But it had no troops in the province of Al-Muthana.
+
+<<2230.14;2238.94;en>>
+This was where the Dutch were stationed, over 1,300 soldiers in a province of around 450,000 inhabitants.
+
+<<2238.94;2246.58;en>>
+The Asper mandate in Al-Muthana was thus for the Netherlands to carry out.
+
+<<2246.58;2251.74;en>>
+The Dutch government itself was worried that it might de facto be considered an occupying power.
+
+<<2251.74;2261.86;en>>
+And this was the reason why, according to the official evaluation report of the mission, which is in your file, a number of caveats were made.
+
+<<2261.86;2267.76;en>>
+Caveats to the memorandum of understanding, which was signed with the United Kingdom.
+
+<<2267.76;2277.62;en>>
+For reasons we can only guess, the government have chosen not to share the contents of this MOU or of the caveats, either with us or with the court.
+
+<<2277.62;2284.38;en>>
+We would have thought that it would have been important for the government to share the contents of these documents.
+
+<<2284.38;2300.14;en>>
+Since we're the mandate of the military force in which the Netherlands took part, included clear public tasks, such as public order and stability, and where the government claim an exception in this regard, we believe that the obligation is on the government to prove this exception.
+
+<<2300.14;2307.98;en>>
+Not having shared the relevant documents in this respect, the government, we believe, has not met with this obligation.
+
+<<2307.98;2312.58;en>>
+Fortunately, a great deal of information has become apparent from other sources.
+
+<<2312.58;2319.64;en>>
+For example, the letter by which the Dutch government informed its own parliament about the military mission.
+
+<<2319.64;2322.78;en>>
+This letter lists the tasks to be performed by the Dutch troops.
+
+<<2322.78;2326.22;en>>
+And these tasks include the following.
+
+<<2326.22;2330.84;en>>
+The restoration and maintenance of security and stability in the country.
+
+<<2330.84;2338.78;en>>
+The support of coalition activities relating to the protection and dismantling of the then presumed weapons of mass destruction.
+
+<<2338.78;2342.62;en>>
+The removal of the remains of the regime of Saddam Hussein.
+
+<<2342.62;2345.46;en>>
+Securing police stations and public utilities.
+
+<<2345.46;2349.26;en>>
+And generally maintaining public order.
+
+<<2349.26;2353.46;en>>
+It is clear that these are all functions of public authority.
+
+<<2353.46;2361.58;en>>
+The letter to parliament also makes clear that while the United Kingdom was the lead nation in Southeastern Iraq, the Dutch troops acted as an independent unit.
+
+<<2361.58;2367.54;en>>
+And that the Netherlands retained at all times full command over the Dutch military.
+
+<<2367.54;2375.42;en>>
+The UK commander may have issued general policy, but it was the national commander to decide, independently from the British, how to implement this in practice.
+
+<<2378.06;2396.62;en>>
+I would like to point out that in the court's judgment in Al-Jadda, paragraph 80, it is stated that the court does not consider that as a result of the authorization contained in resolution 1511, the acts of soldiers within the multinational force cease to be attributable to the troop contributing nations.
+
+<<2396.62;2404.02;en>>
+These troop contributing nations clearly does not just refer to the United States and the United Kingdom, but to all nations involved.
+
+<<2404.02;2405.42;en>>
+And this includes the Netherlands.
+
+<<2407.82;2415.1;en>>
+It is also notable that the Netherlands have formally declared that it would abide by the obligations under the law of occupation.
+
+<<2415.1;2419.06;en>>
+Something which would be unnecessary if it was indeed not an occupying power.
+
+<<2422.18;2424.9;en>>
+Indeed, this was how it worked out in practice.
+
+<<2424.9;2428.42;en>>
+Indeed, this was how it worked out in practice.
+
+<<2428.42;2440.54;en>>
+The government have even acknowledged, with so many words, that the Dutch troops were involved in law enforcement, at least until an unspecified moment in the course of 2004.
+
+<<2440.54;2443.54;en>>
+Throughout the mission, civilians were arrested.
+
+<<2443.54;2446.62;en>>
+They were detained, and sometimes interrogated.
+
+<<2446.62;2448.42;en>>
+These are all public powers.
+
+<<2448.42;2450.94;en>>
+This is law enforcement.
+
+<<2450.94;2454.06;en>>
+Mr. President, I will now turn to the third level
+
+<<2454.06;2458.4;en>>
+mentioned earlier, the situation at the checkpoint at the time of the shooting.
+
+<<2461.06;2468.14;en>>
+In that night of 24 April 2004, the Dutch soldiers were at the checkpoint in an official capacity.
+
+<<2468.14;2477.7;en>>
+In the words of Lieutenant A himself, they were there to view and instruct the members of the ICDC, the Iraq Civil Defense Corps.
+
+<<2477.7;2486.22;en>>
+This was more than monitoring and support, which is how the government attempted to downplay the role of the Dutch soldiers at the checkpoint.
+
+<<2486.22;2496.06;en>>
+But all available information points in one direction, which is that the ICDC members were subordinate to the Dutch troops.
+
+<<2496.06;2499.86;en>>
+The Dutch would decide where a checkpoint was to be put up.
+
+<<2499.86;2503.98;en>>
+The Dutch would deploy ICDC units to those checkpoints.
+
+<<2503.98;2508.78;en>>
+The Dutch were responsible for the ICDC ammunition supply.
+
+<<2508.78;2516.9;en>>
+And indeed, Lieutenant A himself has stated that he was the functional commander of the ICDC team.
+
+<<2516.9;2527.1;en>>
+Therefore, when the victim drove into the checkpoint, he was effectively under the authority and control of the Netherlands.
+
+<<2527.1;2534.86;en>>
+And the role of the Dutch at the checkpoint is perhaps most clearly illustrated by the actions of the Dutch after the shooting incident had occurred.
+
+<<2534.86;2540.5;en>>
+This was where the royal constable, or Kmar, entered the scene to investigate.
+
+<<2540.5;2544.46;en>>
+As my colleague will explain, this investigation was wholly inadequate.
+
+<<2544.46;2554.58;en>>
+But it has to be acknowledged that something was done and that what was done in terms of investigation and law enforcement was done by the Netherlands.
+
+<<2554.58;2562.94;en>>
+And in doing so, the royal constable exercised a number of powers which only a public authority possesses.
+
+<<2562.94;2569.74;en>>
+Witnesses were questioned, not just the Dutch soldiers, but also ICDC members and Iraqi civilians.
+
+<<2569.74;2573.84;en>>
+The weapon of the Iraqi ICDC commander was seized.
+
+<<2573.84;2576.72;en>>
+The vehicle belonging to the driver was seized.
+
+<<2576.72;2583.02;en>>
+And the remains of the victim were taken to the Dutch base and kept there, despite considerable opposition from the Iraqi police.
+
+<<2585.7;2594.78;en>>
+After the investigation had been finalized, finally, the constable, in his own words, released the location to the public.
+
+<<2594.78;2604.18;en>>
+Naturally, all these actions could only be performed if the Netherlands had the necessary authority to do so, which, it must be concluded, it had.
+
+<<2604.18;2611.58;en>>
+In El Skainy, the court found that there was a jurisdictional link between the victims and the United Kingdom for the following reasons.
+
+<<2611.58;2624.5;en>>
+First, the United Kingdom was found to have assumed in Iraq the exercise of some of the public powers normally to be exercised by a sovereign government, in particular for the maintenance of security of a portion of the country.
+
+<<2624.5;2636.14;en>>
+Under those circumstances, the court found that the United Kingdom, through its soldiers, exercised authority and control over individuals killed in the course of security operations.
+
+<<2636.14;2644.9;en>>
+We respectfully submit that the situation in the present case is sufficiently similar to that in El Skainy in order to come to the same conclusion.
+
+<<2644.9;2648.4;en>>
+As we have argued, the Netherlands were, in fact, an occupying power.
+
+<<2648.4;2655.9;en>>
+But even if that position is not shared, the Netherlands did exercise some of the public powers normally to be exercised by a sovereign government.
+
+<<2655.9;2660.78;en>>
+And these were exercised in particular in the maintenance of security.
+
+<<2660.78;2663.1;en>>
+And this in itself, we believe, is sufficient.
+
+<<2665.74;2679.66;en>>
+For if it were not sufficient and it was deemed that only the formal occupier could have extraterritorial jurisdiction through the acts of its soldiers, this would leave an unacceptable vacuum in the protection offered by the Convention.
+
+<<2679.66;2695.02;en>>
+To the present case, it would mean that the formal occupier, the United Kingdom, could subcontract part of its powers and responsibilities to another contracting state, the Netherlands, which would then declare itself a non-occupying force, as is actually done in the present case.
+
+<<2695.02;2707.82;en>>
+But because neither state would both have the formal status of occupier and have carried out the operation in practice, neither contracting party could be held accountable under the Convention.
+
+<<2707.82;2714.06;en>>
+It is for this reason that the Court has rightly found that the status of occupier is not determining.
+
+<<2714.06;2721.54;en>>
+By applying the right criterion in Alskany of exercise of a public power, the Court has justly avoided this vacuum.
+
+<<2724.14;2726.62;en>>
+Mr. President, it is amply established
+
+<<2726.62;2733.0;en>>
+that the Netherlands exercised public powers, and that they did so independently from the United Kingdom.
+
+<<2733.0;2735.86;en>>
+Since Mr. Julloet was killed in the course of an operation
+
+<<2735.86;2742.66;en>>
+by Dutch soldiers, this creates a jurisdictional link between him and the Netherlands.
+
+<<2742.66;2749.58;en>>
+It is not so that such jurisdiction can only exist if the victim is detained, as the government have argued.
+
+<<2749.58;2757.94;en>>
+One merely needs to look at the situation of the third applicant in Alskany to realize that this argument cannot be sustained.
+
+<<2757.94;2765.42;en>>
+After all, that third applicant was sitting at a dinner table in her own home when she was fatally hit by a bullet.
+
+<<2765.42;2776.3;en>>
+That fact, or even the fact that it was unclear whether a UK soldier had even fired the fatal bullet, did not prevent the Court from finding that there was a jurisdictional link.
+
+<<2776.3;2783.06;en>>
+We would submit that the Dutch soldiers had a far larger degree of control over Mr. Julloet at the checkpoint
+
+<<2783.06;2788.26;en>>
+than the UK soldiers did over the accidental victim in Alskany.
+
+<<2791.54;2799.7;en>>
+This is also not a matter of jurisdiction following the bomb or following the bullet, a notion which was rejected in Bankovic.
+
+<<2799.7;2803.46;en>>
+Mr. Julloet was not suddenly hit by a deadly force from the sky,
+
+<<2803.46;2807.7;en>>
+as he was within his own country under control of his own government.
+
+<<2807.7;2818.9;en>>
+He was deliberately shot at while he was in the area of authority and control of the Netherlands for the reason that he did not timely comply with the order by the Dutch army to stop the vehicle.
+
+<<2818.9;2829.64;en>>
+The bullets themselves did not create jurisdiction, but the firing of the bullets was a result of the authority and control which establishes this jurisdiction and the responsibility which comes with it.
+
+<<2833.06;2836.34;en>>
+Mr. President, Mr. Julloet was in the province of Almatana,
+
+<<2836.34;2840.1;en>>
+where the multinational force was represented by the Dutch.
+
+<<2840.1;2845.04;en>>
+He was at the checkpoint, which was installed and supervised by Dutch soldiers.
+
+<<2845.04;2849.34;en>>
+Dutch soldiers and Iraqis supporting it to the Dutch were present.
+
+<<2849.34;2851.46;en>>
+In that context, Mr. Julloet was fired
+
+<<2851.46;2857.86;en>>
+at by the highest officer at the scene, a Dutch officer.
+
+<<2857.86;2863.32;en>>
+The required jurisdictional link was clearly established, and the application must be deemed admissible.
+
+<<2863.32;2865.46;en>>
+I will now hand the floor to my colleague, who will discuss the merits of the case.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2869.78;2873.3;en>>
+Thank you, Mr. Eikelboom.
+
+<<2873.3;2874.9;en>>
+Ms. Zegveld.
+
+[[Applicant;AP2]]
+
+<<2876.49;2880.25;en>>
+Thank you, Mr. President, members of the court.
+
+<<2880.25;2883.49;en>>
+I would like to address two propositions today.
+
+<<2883.49;2896.77;en>>
+First, that the investigation into the fatal shooting was deficient, particularly in that it failed to investigate the alleged shooting by the ICDC members, the Iraqi Civil Defense members.
+
+<<2896.77;2903.77;en>>
+And second, that the investigation was also ineffective in the sense that it failed to involve in any respect the applicants.
+
+<<2903.77;2909.97;en>>
+We, of course, maintain all our other propositions that were submitted to you in the written rounds.
+
+<<2909.97;2916.05;en>>
+But for today, we would like to focus on these two core propositions.
+
+<<2916.05;2926.53;en>>
+This case concerns two young Iraqi civilians who drove into a vehicle checkpoint on the main supply route Jackson.
+
+<<2926.53;2933.01;en>>
+Now, when you read the file, and when you listened this morning to Mr. Bucker, you may have thought
+
+<<2933.01;2944.61;en>>
+that these two young Iraqi men ignored the checkpoint, that they failed to stop while they were required to do so, and that for that reason, they were shot at.
+
+<<2944.61;2947.69;en>>
+But that, and I wish to emphasize, that is not the case.
+
+<<2947.69;2952.45;en>>
+Cars were not required to stop at this particular checkpoint.
+
+<<2952.45;2957.97;en>>
+The checkpoint consisted of a few barrels that were not blocking the road.
+
+<<2957.97;2961.85;en>>
+They were not placed across the road, obstructing the traffic.
+
+<<2961.85;2971.85;en>>
+Cars could pass freely until they were given a signal to stop, a signal not given in this particular case.
+
+<<2971.85;2975.93;en>>
+And indeed, apart from a few barrels, the checkpoint was not even indicated.
+
+<<2975.93;2978.09;en>>
+It was not even lit.
+
+<<2978.09;2981.29;en>>
+And so Mr. Jalut and his friends were suddenly confronted
+
+<<2981.29;2985.37;en>>
+with barrels, and they hit two of them.
+
+<<2985.37;2992.61;en>>
+The Dutch soldier, Lieutenant A, emptied his full cartridge on the car, 28 bullets.
+
+<<2992.61;2998.69;en>>
+He only stopped, as he declared, he only stopped firing as he had no ammunition left.
+
+<<2998.69;3002.33;en>>
+Mr. Jalut was hit in his left and middle chest,
+
+<<3002.33;3007.21;en>>
+his left hip, his left arm, his left lower arm.
+
+<<3007.21;3010.21;en>>
+Lieutenant A was on the left side on the road.
+
+<<3010.21;3014.21;en>>
+He died on the scene one hour later.
+
+<<3014.21;3018.25;en>>
+Mr. President, it goes without saying that firing 28 bullets
+
+<<3018.25;3024.49;en>>
+at two innocent men is entirely disproportionate and unnecessary.
+
+<<3024.49;3035.49;en>>
+Yet the Dutch prosecutor decided that Lieutenant A's conduct was legitimized as putative and excessive self-defense.
+
+<<3035.49;3040.37;en>>
+Now, Dutch criminal law knows this concept in theory.
+
+<<3040.37;3048.81;en>>
+But in practice, however, it has never been accepted by the Dutch Supreme Court as a justification of a fatal incident.
+
+<<3048.81;3052.17;en>>
+Putative and excessive self-defense means two things.
+
+<<3052.17;3054.77;en>>
+First, that the use of force was excessive.
+
+<<3054.77;3059.73;en>>
+And second, that it was prompted by a wrongful belief that there was a threat.
+
+<<3059.73;3068.05;en>>
+In other words, when the Dutch prosecutor qualified the shooting as putative and excessive self-defense, he recognized as well that the use of force was unnecessary.
+
+<<3068.05;3076.33;en>>
+And I add to it that the unnecessary use of violence is by definition outside the rules of engagement.
+
+<<3076.33;3082.61;en>>
+Yet the prosecutor single-handedly decided that there was enough justification for the act.
+
+<<3082.61;3086.17;en>>
+And he decided not to prosecute.
+
+<<3086.17;3093.73;en>>
+I submit that for the prosecutor to make such a decision on his own is quite far-reaching.
+
+<<3093.73;3098.33;en>>
+The Dutch appeals court could only marginally review this decision.
+
+<<3098.33;3101.49;en>>
+It did so in the context of an Article 12 procedure.
+
+<<3101.49;3109.53;en>>
+Now, the Article 12 procedure is a regular procedure in the Netherlands used to trigger a criminal investigation.
+
+<<3109.53;3114.53;en>>
+It entails a marginal review of the prosecutor's decision not to prosecute.
+
+<<3115.57;3125.33;en>>
+The Dutch appeal court accepted without much question the prosecutor's view that Lieutenant A had acted in mistakenly.
+
+<<3125.33;3129.53;en>>
+He had acted in mistaken self-defense.
+
+<<3129.53;3135.61;en>>
+Now, the appeals court made this decision on the basis of a deficient investigation.
+
+<<3135.61;3141.73;en>>
+An investigation, we submit, that by no means met the standard of Article 2.
+
+<<3141.73;3147.85;en>>
+Please allow me to explain this a bit further.
+
+<<3147.85;3155.29;en>>
+It's undisputed that Lieutenant A was the only Dutch soldier who fired.
+
+<<3155.29;3161.05;en>>
+Now, it's also undisputed that no shots were fired from the car.
+
+<<3161.05;3164.41;en>>
+Indeed, no weapons were found in the car.
+
+<<3164.41;3170.57;en>>
+However, Lieutenant A claimed that he believed he was under fire.
+
+<<3170.57;3172.97;en>>
+And therefore, he responded in self-defense.
+
+<<3172.97;3179.37;en>>
+So, the question is, in addition to Lieutenant A, could anyone else have fired?
+
+<<3179.37;3187.69;en>>
+Is it probable that someone else fired and indeed fired first?
+
+<<3187.69;3202.21;en>>
+The checkpoint was manned not only by Dutch military, but also by the ICDC, the Iraqi Civil Defense Corps.
+
+<<3202.21;3207.77;en>>
+As we've seen, the ICDC was established by the Coalition Provisional Authority, the CPA.
+
+<<3207.77;3212.53;en>>
+Lieutenant A supervised the ICDC.
+
+<<3212.53;3223.29;en>>
+Now, the government have always assumed and only assumed that the Iraqi officers fired and that they fired first.
+
+<<3223.29;3231.89;en>>
+And it's on the basis of this presumption that Lieutenant A legitimately returned fire, so the government argues.
+
+<<3231.89;3234.37;en>>
+He acted in mistaken self-defense.
+
+<<3234.37;3239.77;en>>
+And so, he should not be considered a suspect and no criminal prosecution should be initiated.
+
+<<3239.77;3244.41;en>>
+The appeals court judgment in the Article 12 procedure was built on the very same assumption.
+
+<<3244.41;3255.37;en>>
+And I quote from the ruling of the appeals court, based on the investigation, the appeals court finds that the Mercedes in which Mr. Jalut was a passenger
+
+<<3255.37;3259.81;en>>
+was first fired upon by the ICDC.
+
+<<3259.81;3263.21;en>>
+End of quote.
+
+<<3263.21;3265.81;en>>
+Mr. President, the appeal court does not explain
+
+<<3265.81;3269.81;en>>
+how the investigation supported this finding.
+
+<<3269.81;3274.17;en>>
+And so, the crucial question is, does the investigation indeed warrant this conclusion?
+
+<<3278.05;3289.97;en>>
+Was the investigation effective in the sense that it could lead to the determination that the force used by Lieutenant A was indeed justified in the circumstances?
+
+<<3289.97;3291.61;en>>
+We submit that it was not.
+
+<<3291.61;3293.85;en>>
+I'll explain this a bit further.
+
+<<3293.85;3301.25;en>>
+The investigation consists of a few things, witness statements, the autopsy, and the examinations of the victim's car.
+
+<<3301.25;3316.05;en>>
+Now, when we look at the witness statements, it were only the ducts, Sergeant Tonison and Soldier Quist that claimed that they heard shooting, and I quote them, from the direction of the VCP, the vehicle checkpoint.
+
+<<3316.05;3317.41;en>>
+End of quote.
+
+<<3317.41;3320.73;en>>
+They did not say that the Iraqi officers fired.
+
+<<3320.73;3327.21;en>>
+They merely said that they heard shooting from the direction of the checkpoint.
+
+<<3327.21;3330.37;en>>
+No one else confirmed their statements.
+
+<<3330.37;3335.73;en>>
+Other evidence does not support the statements of the Dutch soldiers either.
+
+<<3335.73;3339.61;en>>
+Rather, in my view, it points in the opposite direction.
+
+<<3339.61;3342.25;en>>
+The driver of the car, for example, Mr. Khadem,
+
+<<3342.25;3347.25;en>>
+declared that his vehicle was shot at by Dutch soldiers only.
+
+<<3347.25;3358.25;en>>
+A significant detail is that he claims that he had been asked by the interpreter of the Dutch military to say that the Iraqis had fired and not the Dutch.
+
+<<3358.25;3364.81;en>>
+Apparently, the Dutch military have tried to pressure him in not saying the truth.
+
+<<3364.81;3372.25;en>>
+The file also contains a letter sent by the Iraqi Civil Defense Corps, the ICDC headquarters, to the Dutch military.
+
+<<3372.25;3375.01;en>>
+It was sent one day after the shooting incident.
+
+<<3375.01;3388.61;en>>
+In the original English version, it reads, and I quote, he, that is the driver of the vehicle, was carelessness and the ICDC soldiers shouting on him and calling to stop.
+
+<<3388.61;3390.73;en>>
+End of quote.
+
+<<3390.73;3398.09;en>>
+Now, tellingly, in the Dutch translation, we see that shouting has been changed into shooting.
+
+<<3398.09;3411.33;en>>
+And it was this wrong translation that was then copied in all the reports of the Dutch constabulary investigating the case, giving the wrongful impression that the ICDC had acknowledged that it had fired at the vehicle.
+
+<<3415.13;3420.21;en>>
+In the case file, we also find an autopsy report.
+
+<<3420.21;3424.09;en>>
+As we know, it has only been available in Arabic.
+
+<<3424.09;3430.25;en>>
+Also, we know that the Dutch police choose not to perform its own autopsy, but instead left it to the Iraqis.
+
+<<3430.25;3435.93;en>>
+The Dutch were not even present when the autopsy was performed.
+
+<<3435.93;3442.49;en>>
+As recent as only one month ago, the government provided a Dutch translation of the autopsy report.
+
+<<3442.49;3447.81;en>>
+I've asked so many times for a translation, but now one month ago, we finally received it.
+
+<<3447.81;3459.33;en>>
+What we also find in the file is an investigation of the metal pieces that were retrieved from the victim's body, also only recorded in Arabic.
+
+<<3459.33;3460.81;en>>
+Mr. President, clearly, those reports
+
+<<3460.81;3472.13;en>>
+could not be taken into account by the prosecutor when it took its decision that Lieutenant A acted in mistaken self-defense, as our prosecutor does not read Arabic.
+
+<<3472.13;3474.41;en>>
+Finally, the inspection of the car.
+
+<<3474.41;3480.01;en>>
+It does not allow for the government's contention that Iraqis fired first either.
+
+<<3480.01;3489.75;en>>
+A provisional, and that's a quote from the file, a provisional conclusion was drawn that the car was fired upon by more than one person.
+
+<<3489.75;3507.65;en>>
+But significant issues were left unanswered, such as was all the damage to the car caused in one and the same shooting incident, the position of the gunman could not be determined by the police, and the remnants of ammunition that were found in the car, notably on the chair of Mr. Jalut, were left unexamined.
+
+<<3507.65;3508.41;en>>
+They were secured.
+
+<<3508.41;3513.01;en>>
+They were sent to the prosecutor, but they were not examined.
+
+<<3513.01;3527.01;en>>
+Now, having looked at all these facts and circumstances, there's very little that can support a suggestion that the ICDC fired first before Lieutenant A or even that they fired at all.
+
+<<3527.01;3532.81;en>>
+The government's contention that Lieutenant A returned fire to defend himself really cannot be reconciled with the file.
+
+<<3535.65;3540.45;en>>
+Now, evidence of quite some significance emerged recently.
+
+<<3540.45;3547.57;en>>
+In the second round of written submissions before your court, the government suddenly produced the statements of all the ICDC members.
+
+<<3550.09;3561.21;en>>
+Up until then, and it's an important point, up until then, the file had only contained the statement of the commander of the ICDC, Sergeant Hussam S.
+
+<<3561.21;3570.73;en>>
+He does not mention firing by his staff, but his staff had also been interviewed themselves at the time.
+
+<<3570.73;3575.33;en>>
+These statements were never included in the file that was presented to us.
+
+<<3575.33;3588.93;en>>
+The criminal file merely reads, and I quote, that these interviews yielded no relevant information regarding the investigation, end of quote, a conclusion that the appeals court accepted at face value.
+
+<<3588.93;3594.89;en>>
+We asked for the ICDC statements over and over again, but to no avail.
+
+<<3594.89;3601.61;en>>
+Why the government has chosen to produce these statements only now, we fail to understand.
+
+<<3601.61;3610.53;en>>
+The government writes that they found the statements in the police file, but that means that the prosecutor must have been aware of them as well.
+
+<<3610.53;3615.21;en>>
+The significance of these statements cannot have gone unnoticed to them.
+
+<<3615.21;3623.85;en>>
+None of the Iraqi officers confirm the government's claim that they fired first when the car with Mr. Jalut passed.
+
+<<3623.85;3626.17;en>>
+Some say so explicitly.
+
+<<3626.17;3628.69;en>>
+Others say implicitly.
+
+<<3628.69;3634.29;en>>
+Some of them say that they fired during an unrelated shooting which occurred earlier that night.
+
+<<3634.29;3639.45;en>>
+But none of them say that they fired at Jalut's car, let alone that they fired first.
+
+<<3639.45;3645.73;en>>
+And yet the government deliberately chose to exclude these statements.
+
+<<3645.73;3648.29;en>>
+It enabled the government to pass the buck to the Iraqis.
+
+<<3651.49;3654.37;en>>
+Mr. President, the suggestion that Lieutenant A responded
+
+<<3654.37;3661.85;en>>
+to ICDC fire and thus acted in mistaken self-defense simply does not follow from the records.
+
+<<3661.85;3674.65;en>>
+The fact that the investigation started from this presumption, and indeed, we find it in every record of the Khmer, the presumption was leading throughout the entire investigation is a serious shortcoming.
+
+<<3674.65;3688.69;en>>
+In the case of Romsa Hai versus the Netherlands, the court has ruled that any deficiency in investigation which undermines its ability to identify the perpetrator will risk falling foul of the standard in Article 2.
+
+<<3688.69;3695.81;en>>
+We submit that leaving out the statements of the ICDC is, among other things, such a deficiency.
+
+<<3695.81;3704.21;en>>
+It has seriously affected the appeals court's ability to assess who should be held accountable for the victim's death.
+
+<<3704.21;3711.21;en>>
+We're even prepared to go one step further and claim that the Dutch appeal court has been misinformed.
+
+<<3711.21;3717.09;en>>
+We seriously doubt that this court had issued the same ruling if it had been fully informed by the prosecutor.
+
+<<3721.93;3729.69;en>>
+Finally, I would like to draw your attention to one and other important shortcoming, and that concerns the failure to involve the applicants.
+
+<<3744.45;3750.85;en>>
+After the killing of his son, the applicants immediately went to the Dutch base.
+
+<<3750.85;3754.85;en>>
+There, he declared his wish for prosecution.
+
+<<3754.85;3760.05;en>>
+I quote the father of Mr. Jalut, the applicant.
+
+<<3760.05;3769.93;en>>
+He said, I consulted the command of the Dutch troops in the region, Al-Mutana, on several occasions, but did not achieve a single result.
+
+<<3769.93;3777.85;en>>
+They talked to me one time at the entrance of the camp through an Iraqi translator and told me that they would contact me.
+
+<<3777.85;3784.29;en>>
+But since the day of the accident until today, they have not contacted me a single time.
+
+<<3784.29;3787.17;en>>
+End of quote, the applicant.
+
+<<3787.17;3796.71;en>>
+The government were well aware of the fact that the victim had a family, and a family that was understandably quite keen to learn about the developments.
+
+<<3796.71;3802.45;en>>
+Nevertheless, the government made never an attempt to contact them.
+
+<<3802.45;3809.89;en>>
+The decision not to prosecute was taken on 29 July 2004, roughly one and a half months after the incident.
+
+<<3809.89;3817.13;en>>
+Yet nobody bothered to inform the applicant of this.
+
+<<3817.13;3825.57;en>>
+Only after the applicant initiated a procedure under Article 12, the government first contacted him through his counsel.
+
+<<3825.57;3830.01;en>>
+And that was three years after the death of his son.
+
+<<3830.01;3836.89;en>>
+The failure to provide the applicant with any information is another violation of Article 2 of the convention we submit.
+
+<<3836.89;3846.21;en>>
+I come to a conclusion.
+
+<<3846.21;3848.73;en>>
+Mr. President, members of the court,
+
+<<3848.73;3855.41;en>>
+it was the Netherlands that participated in the occupation of Iraq.
+
+<<3855.41;3865.33;en>>
+It was the Netherlands that was essentially the only military force in Al-Mutana, independent of the United Kingdom.
+
+<<3865.33;3877.29;en>>
+It were Netherlands soldiers that erected vehicle checkpoints, arrested and detained people, and at times used force.
+
+<<3877.29;3879.53;en>>
+When a Dutch soldier killed Mr. Jalut,
+
+<<3879.53;3883.93;en>>
+it was against the Netherlands that investigated the case.
+
+<<3883.93;3888.73;en>>
+It was the Netherlands that decided that Lieutenant A had legitimately responded in self-defense.
+
+<<3892.41;3905.81;en>>
+This undisputable exercise of public powers at all levels must lead to the inevitable conclusion that the deficiencies of the investigation are then also the responsibility of the Netherlands.
+
+<<3905.81;3906.97;en>>
+I thank you for your attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3909.79;3911.79;en>>
+Thank you, Ms. Zegveld.
+
+<<3911.79;3912.79;en>>
+Mr. Eadie.
+
+[[ThirdParty;TP1]]
+
+<<3913.25;3918.21;en>>
+Mr. President, Members of the Court, the United Kingdom is very grateful for the opportunity
+
+<<3918.21;3923.49;en>>
+to address you on issues of principle raised by this case. I intend to restrict my submissions
+
+<<3923.49;3928.77;en>>
+to submissions about the issue of jurisdiction.
+
+<<3928.77;3943.87;en>>
+The basic approach to the principle of jurisdiction in Article 1 is clear and well established by this Court's case law. We emphasise four features. Firstly, Article 1 jurisdiction
+
+<<3943.87;3959.13;en>>
+is primarily or essentially territorial, with the consequence that extra-territorial jurisdiction is exceptional. That has been repeatedly acknowledged by the Grand Chamber. The requirement of exceptionality
+
+<<3959.13;3965.61;en>>
+sets, we submit, a high threshold. It means that most acts of contracting states performed
+
+<<3965.61;3975.07;en>>
+outside their territories do not constitute an exercise of jurisdiction by them within the meaning of Article 1.
+
+<<3975.07;3981.37;en>>
+The second feature flows from the first. There must be very powerful reason, we submit, for
+
+<<3981.37;3994.21;en>>
+concluding that an existing exception should be applied to new circumstances, and no good reason not to. Adopting the language of the Grand Chamber, a determination that exceptional
+
+<<3994.21;4005.69;en>>
+circumstances exist, such as to justify a finding by the Court that the state was exercising jurisdiction extra-territorially, requires special justification.
+
+<<4005.69;4035.69;en>>
+Third, the need for a tight containment of these exceptional situations is given added emphasis because, as properly recognised by the Grand Chamber in Bankovic and nowhere subsequently questioned in the Court's jurisprudence, the living instrument metaphor does not apply to jurisdiction. That principle, we submit, must be given full force. The concept of jurisdiction
+
+<<4035.69;4043.69;en>>
+under Article 1 is not one which the Court can expand incrementally from case to case.
+
+<<4043.69;4054.81;en>>
+Nor should the principle of exceptionality be used simply as a device or a mechanism towards an ever-expanding notion of jurisdiction.
+
+<<4054.81;4062.61;en>>
+Fourth, jurisdiction is not a doctrine of effects. The cause-and-effect notion of jurisdiction
+
+<<4062.61;4069.73;en>>
+has rightly and squarely been rejected by the Grand Chamber, notably in the Bankovic case.
+
+<<4069.73;4075.89;en>>
+The applicant in this case contends that exceptional extra-territorial jurisdiction is established.
+
+<<4075.89;4096.13;en>>
+Its three claimed bases are, first, the exercise of public powers by State agents abroad, secondly, the use of force by State agents abroad, and thirdly, effective control of an area.
+
+<<4096.13;4116.93;en>>
+As to the exercise of public powers, in Al-Skhaini the Grand Chamber considered that the UK had jurisdiction because of a combination of two circumstances in the highly unusual situation in Iraq. First, at the relevant time, the UK had assumed full authority and responsibility
+
+<<4116.93;4127.73;en>>
+as an occupying power for the exercise of a public power which would ordinarily have been exercised by the government of Iraq. And secondly, the deaths of the applicant's
+
+<<4127.73;4139.41;en>>
+relatives in the Al-Skhaini case occurred in the course of those security operations by British forces exercising that assumed public power.
+
+<<4139.41;4153.57;en>>
+The principle we submit cannot and does not extend to any and all military activities conducted abroad by a contracting State. That will be to part company entirely from any
+
+<<4153.57;4160.37;en>>
+of the recognised legal bases for jurisdiction. The specific and tightly confined principle
+
+<<4160.37;4174.17;en>>
+in cases like Drodds and Janusek would be stretched beyond breaking point to a place that cannot conceivably have been contemplated by the framers of the Convention. Any semblance
+
+<<4174.17;4180.81;en>>
+of extra-territorial jurisdiction being exceptional would have been left well behind. It would
+
+<<4180.81;4194.57;en>>
+be replaced by an unprincipled and expansive basis on a broad principle that in effect all military operations anywhere in the world are covered by the concept of jurisdiction.
+
+<<4194.57;4206.65;en>>
+And that would be to go directly against the principles laid down by the ground chamber in Bankovic, amongst other cases. And there is a real need, we submit, and a justification
+
+<<4206.65;4216.73;en>>
+in principle for a tight containment of the concept of jurisdiction by reference to the exercise of public powers.
+
+<<4216.73;4229.29;en>>
+The importance of the United Nations mission to secure international peace and security can hardly be overstated. As the 17 respondents' states to the Bankovic case explained, and
+
+<<4229.29;4255.25;en>>
+as the ground chamber itself noted at paragraph 149 of the Barami and Saramati case, UN missions depend upon support from Member States, and bringing such missions within the jurisdictional reach of the Convention risks at least both deterring such support and participation, and jeopardising the effectiveness of such critical missions.
+
+<<4255.25;4261.73;en>>
+The Netherlands was not in an analogous position to the UK in Al-Skhaini. The special exceptional
+
+<<4261.73;4273.17;en>>
+– I use the word – combination of features that underpin the Court's conclusions simply do not apply. There are critical points of distinction rather than mere difference. The
+
+<<4273.17;4286.97;en>>
+Netherlands was not at any stage an occupying power within the meaning of Article 42 of the Hague Regulations. And that is a key point of distinction based on the status of the
+
+<<4286.97;4295.33;en>>
+UK as an occupying power. That is not to be dismissed as some strange feature creating,
+
+<<4295.33;4301.01;en>>
+as Mr Eichelboom put it, a legal vacuum. It is a key point of legal distinction based
+
+<<4301.01;4320.65;en>>
+upon the special status accorded to occupying powers squarely recognised in international law and international humanitarian law in particular, reflecting the particular degree of control that an occupying power exercises over the territory which they occupy.
+
+<<4320.65;4337.97;en>>
+The express recognition in the United Nations Security Council resolutions that assisting States such as the Netherlands were not occupying powers, we submit, establishes the true legal position beyond question. And the Netherlands cannot properly be regarded, by reason of
+
+<<4337.97;4345.77;en>>
+the contribution it made, as having had any part in the role of governing Iraq. It did
+
+<<4345.77;4355.13;en>>
+not create or become part of the Coalition Provisional Authority, nor did it have command over any region of Iraq.
+
+<<4355.13;4367.33;en>>
+The applicant contends, secondly, that the case falls within a use of force by State agents exception to the principle of territorial jurisdiction. We respectfully disagree. The
+
+<<4367.33;4381.65;en>>
+State agent authority basis of jurisdiction is characterised by a State agent exercising exclusive physical power, control and legal authority, actual or purported, over individuals.
+
+<<4381.65;4392.73;en>>
+As the Grand Chamber explained in Al-Skaini at paragraph 136, this principle has been applied where an individual is taken into the custody of State agents abroad. And it
+
+<<4392.73;4411.73;en>>
+is notable that each of the cases referred to by the Court as illustrative of the exercise of physical power and control did in fact involve either detention or capture of individuals by the State authorities. See paragraph 136 of Al-Skaini again.
+
+<<4411.73;4425.85;en>>
+The act of shooting at a moving vehicle occupied by people who are not detained is not an exercise of physical power and control of this type. The only connection is the act of shooting,
+
+<<4425.85;4442.41;en>>
+and that, we respectfully submit, is in principle no different from the connection created by the bombing of the television station in Belgrade, specifically considered by the Grand Chamber in Bankovic. The notion that jurisdiction can be founded simply through a State's
+
+<<4442.41;4462.33;en>>
+jurisdiction, having effect extraterritorially, was expressly and emphatically rejected there, and it must for the same reasons be rejected here in relation to this asserted basis of jurisdiction. Bankovic is a complete answer, we submit, to this Head of Jurisdiction.
+
+<<4462.33;4467.45;en>>
+And Al-Skaini provides no support for the applicant's case under this Head. It did
+
+<<4467.45;4473.29;en>>
+not overrule or disagree with Bankovic. It would have had to have done so for this Head
+
+<<4473.29;4478.85;en>>
+to be established here. Al-Skaini did of course involve incidents in which individuals had
+
+<<4478.85;4491.89;en>>
+been shot by, or allegedly by, British soldiers, but the Court did not find jurisdiction on that basis alone. On the contrary, it was the combination of features that I identified
+
+<<4491.89;4504.41;en>>
+earlier that led to that finding in that case, specifically based upon the UK being an occupying power and exercising the powers that that status conferred.
+
+<<4504.41;4514.29;en>>
+Finally in this respect, we note that the relationship between Dutch service personnel and the Netherlands has been focused on in the Court's questions. Our submission on
+
+<<4514.29;4530.09;en>>
+that relationship is that it does no more than to show that service personnel are State agents, a point which is obviously not in dispute. That is to direct the focus, we submit,
+
+<<4530.09;4535.95;en>>
+to the wrong place and indeed onto the wrong relationship. To identify whether this case
+
+<<4535.95;4548.69;en>>
+falls within this second exception, the Court's focus should be on the relationship between the State agent and the victim of the alleged violation. Was the alleged victim under the
+
+<<4548.69;4555.09;en>>
+exclusive physical power, control and authority of the State agent? In the case of a shooting
+
+<<4555.09;4560.45;en>>
+of this kind, the answer to that question is clearly not.
+
+<<4560.45;4575.09;en>>
+Finally, and I don't know whether this is still being proceeded with, but if it is I shall deal with it very briefly, the third basis of jurisdiction asserted is the effective control of an area exception. My submission of principle in relation to that is that that
+
+<<4575.09;4581.77;en>>
+exception is a very particular and narrow exception. In Al-Skhaini, the Grand Chamber
+
+<<4581.77;4589.05;en>>
+noted the consequence of this exception applying. If a State exercises effective control over
+
+<<4589.05;4602.25;en>>
+an area for this purpose, it has to secure, said the Grand Chamber in Al-Skhaini, within that area the entire range of substantive convention rights. It follows that the circumstances
+
+<<4602.25;4614.69;en>>
+in which this exception to the territorial nature of jurisdiction may be applied are very limited. Otherwise, the objections based on impossibility of achievement of ensuring
+
+<<4614.69;4622.49;en>>
+that all convention rights are to be secured to the local population become insurmountable.
+
+<<4622.49;4641.49;en>>
+And the approach here is not, as the applicant suggests, to seek to identify an ever smaller area in a vain attempt to find somewhere tiny enough to establish the requisite degree of control. On the facts as we understand them to be, the Netherlands was plainly not in
+
+<<4641.49;4647.89;en>>
+effective control of the area. They were in no position to secure the entire range of
+
+<<4647.89;4653.37;en>>
+convention rights and it would be fanciful to suggest that they could have done so. Nor
+
+<<4653.37;4666.57;en>>
+indeed were the UK, which is why in Al-Skhaini the Court did not base its finding of jurisdiction on this exception. Instead, the Grand Chamber accepted the conclusion of the UK Court that
+
+<<4666.57;4672.45;en>>
+it was, quote, completely impossible to find that the UK had such effective control. It
+
+<<4672.45;4684.05;en>>
+would have been, again I quote, utterly unreal to find that the UK could have secured to the inhabitants of Basra the entire range of convention rights. And the Grand Chamber
+
+<<4684.05;4714.37;en>>
+has since confirmed, if there was any doubt about that as the basis for the finding in Al-Skhaini, the Grand Chamber has since confirmed that its conclusion that the UK had jurisdiction in Al-Skhaini was not based on effective control over an area but on the State Agent Authority and Control Exception, ceded the Grand Chamber's decision in Khatam and Moldova and Russia at paragraph 114. And if the UK were not within the exception, it is frankly impossible to
+
+<<4714.37;4720.45;en>>
+see how the Dutch, with their lesser degree of control, could have been. For all of those
+
+<<4720.45;4734.53;en>>
+reasons, Mr President, members of the Court, the United Kingdom Government invites the Court to conclude that the applicant's son was not within the jurisdiction of the Netherlands for the purposes of Article 1 of the Convention at the time of his death.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4737.56;4739.0;en>>
+Thank you, Mr. Eadie.
+
+<<4739.0;4746.36;en>>
+I now turn to my colleagues to ask them if there are any questions.
+
+<<4746.36;4749.6;en>>
+Judge Ziemele, Judge Casadevall afterwards.
+
+<<4749.6;4749.6;en>>
+Judge Ziemele, please.
+
+[[Judge;Ineta Ziemele]]
+
+<<4764.65;4766.29;en>>
+Thank you, Mr. President.
+
+<<4766.29;4773.49;en>>
+I will have a number of questions to the respondent government.
+
+<<4773.49;4780.21;en>>
+And that has to do with the fact that the court has not been provided with the memorandum of understanding.
+
+<<4780.21;4791.37;en>>
+Now, I would appreciate if you explained a number of points that evidently are related to this memorandum of understanding.
+
+<<4791.37;4807.45;en>>
+In your submissions just now, you mentioned that your forces on the ground operated strictly outside the chain of command.
+
+<<4807.45;4810.73;en>>
+That's the phrase that you used.
+
+<<4810.73;4820.45;en>>
+Now, could you exemplify that with some language from the relevant memorandum of understanding?
+
+<<4820.45;4822.97;en>>
+What does it mean exactly?
+
+<<4822.97;4828.17;en>>
+And would you follow up question to that?
+
+<<4828.17;4840.97;en>>
+I understand that there were several memorandums of understanding, depending on which state was a lead nation in the area, and then the participant nations.
+
+<<4840.97;4847.09;en>>
+And so these were the participants to the memorandum of understanding.
+
+<<4847.09;4854.53;en>>
+Now, in the court's possession, there is one sample of such a memorandum of understanding.
+
+<<4854.53;4873.57;en>>
+And I would like to know whether you would accept that, basically, these memorandums of understanding were more or less a typical sort of for, I wouldn't go as far as to say stereotype, did not contain stereotype language, but they were quite similar.
+
+<<4873.57;4874.65;en>>
+That's my first question.
+
+<<4874.65;4876.05;en>>
+Were they?
+
+<<4876.05;4890.73;en>>
+And secondly, would you accept that in your respective memorandum of understanding, which, as I said, we don't have, the memorandum contained something like that as concerns national contingents?
+
+<<4890.73;4905.49;en>>
+The principle was, and was it in your case as well, that members of national contingents will remain under full command of their participant through their national contingent commander.
+
+<<4905.49;4909.93;en>>
+Is that the same principle as applied in your case?
+
+<<4909.93;4927.61;en>>
+And would you explain to the court, what does it mean, full command, as far as the contingent commander was concerned, and the operational control attributed to the United Kingdom?
+
+<<4927.61;4936.65;en>>
+And my other question concerns the, it's a more technical, I should say.
+
+<<4936.65;4945.65;en>>
+It concerns the episode about the autopsy that was explained by the parties here.
+
+<<4945.65;4955.01;en>>
+We do know from the facts that no Iraqi, no Netherlands official was present at the autopsy.
+
+<<4955.01;4957.73;en>>
+Could you explain why?
+
+<<4957.73;4963.37;en>>
+And do you have any record to that effect?
+
+<<4963.37;4970.97;en>>
+Sort of giving evidence why this participation at the autopsy was not possible.
+
+<<4970.97;4975.77;en>>
+And do you have anything like that in your possession?
+
+<<4975.77;4977.29;en>>
+I think that is all, Mr. President.
+
+<<4977.29;4977.37;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4979.99;4984.07;en>>
+Thank you Judge Ziemele, Judge Casadevall.
+
+[[Judge;Josep Casadevall]]
+
+<<4986.36;4988.24;fr>>
+Merci, M. le Président.
+
+<<4989.56;4993.08;fr>>
+J'ai deux petites questions sur les faits.
+
+<<4993.8;4995.24;fr>>
+Peut-être sont-elles de détail.
+
+<<4996.4;4999.0;fr>>
+Peut-être la réponse se trouve déjà dans le dossier.
+
+<<4999.52;5001.2;fr>>
+Si c'est le cas, je m'en excuse.
+
+<<5002.28;5016.96;fr>>
+Je me réfère au paragraphe 10 et 11 du document avant-projet de résumé de la procédure et des faits qui est préparé par le greffe, que les partis vous connaissez, dans les paragraphes 10 et 11.
+
+<<5016.96;5032.36;fr>>
+Donc, il est dit que la nuit du 21 avril 2004, vers 2h12, une voiture inconnue traversa un poste de contrôle appelé B-13.
+
+<<5032.36;5034.68;fr>>
+C'est le premier incident qui s'est produit.
+
+<<5034.68;5037.6;fr>>
+Et il y a eu un échangement de tirs.
+
+<<5037.6;5051.32;fr>>
+Il est dit que de l'intérieur de la voiture, des coups de feu furent tirés vers des personnes qui gardaient le checkpoint, toutes membres du corps irakien de défense civile.
+
+<<5051.32;5065.8;fr>>
+Ma première question est, et je m'adresse aux deux partis, qui était en charge du poste de contrôle appelé B-13, la nuit du 21 avril 2004?
+
+<<5065.8;5094.68;fr>>
+Et ensuite, au paragraphe 11, il est dit que le sergent HS, commandant du poste de contrôle, a appelé aux militaires néerlandais, qui sont venus en nombre de 6, menés par le lieutenant A, et qui sont arrivés sur place vers 2h30, c'est-à-dire une vingtaine de minutes après le premier incident.
+
+<<5094.68;5102.04;fr>>
+Ma deuxième question est, où se trouvaient-ils les militaires néerlandais quand ils ont été appelés?
+
+<<5102.04;5108.92;fr>>
+Est-ce qu'ils étaient à côté, une vingtaine de minutes pour arriver, loin, à une certaine distance, dans un poste de commandement?
+
+<<5108.92;5109.92;fr>>
+Voilà mes deux petites questions.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5113.0;5117.68;fr>>
+Merci beaucoup, la juge Motoc.
+
+[[Judge;Iulia Antoanella Motoc]]
+
+<<5121.75;5123.23;fr>>
+Merci beaucoup, M. le Président.
+
+<<5124.63;5129.67;fr>>
+J'ai deux questions qui sont posées au gouvernement de la Grande-Bretagne.
+
+<<5129.91;5139.03;fr>>
+Et ma première question est liée au fait que l'argument de la Grande-Bretagne est lié au problème de la juridiction.
+
+<<5139.23;5161.11;fr>>
+Et ils disent que par rapport au cas de Al-Skeini et les autres, il n'y a pas une juridiction qui appartient aux Pays-Bas, parce que les Pays-Bas n'étaient pas une force occupante dans l'Irak, parce que c'était le cas selon la résolution 1443 de la Grande-Bretagne et des Etats-Unis.
+
+<<5161.43;5166.55;fr>>
+Et que vous dites aussi que les Pays-Bas n'avaient pas un contrôle effectif.
+
+<<5166.79;5169.35;fr>>
+Donc ma question est la suivante.
+
+<<5169.67;5181.43;fr>>
+Qui, en fait, selon vous, en suivant le même jugement d'Al-Skeini, avait la juridiction sur les faits qui se sont passés et qui ont soumis par les applicants aujourd'hui?
+
+<<5181.63;5200.55;fr>>
+Ma deuxième question, qui est toujours adressée au gouvernement de la Grande-Bretagne, est liée au fait qu'à un certain moment, dans votre mémoire écrite, vous dites que si la Cour va condamner les Pays-Bas pour ce cas, on aura plus de troupes pour avoir...
+
+<<5200.83;5209.11;fr>>
+pour maintenir et pour mettre en place les résolutions des Nations unies dans des cas où il faut appliquer le chapitre VII.
+
+<<5209.31;5221.23;fr>>
+Et que ça sera dissuadant pour les troupes européennes ou pour les troupes en général internationales pour venir en aide du Conseil de sécurité dans ces cas.
+
+<<5221.47;5222.63;fr>>
+Ma question est la suivante.
+
+<<5222.83;5227.67;fr>>
+Comment est-ce que vous traduisez dans des termes légals cette affirmation?
+
+<<5227.67;5227.67;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5232.42;5236.34;fr>>
+Merci beaucoup, M. le Juge Villiger.
+
+[[Judge;Mark Villiger]]
+
+<<5239.45;5240.9;en>>
+Thank you, President.
+
+<<5240.9;5256.73;en>>
+I have a question, a third question to add to the two put by Judge Casadevall as regards to facts, and in particular the goings-on at the checkpoint that night, B13.
+
+<<5256.73;5273.18;en>>
+In the facts which have been prepared by the court's registry, it is written that on the road leading to the checkpoint, there were several barrels set out in the middle of the road.
+
+<<5273.18;5284.3;en>>
+This implies that cars, motorists arriving should stop, but from the applicants' representatives, we have heard that this was not the case.
+
+<<5284.3;5285.48;en>>
+There were no barrels on the road.
+
+<<5285.48;5294.1;en>>
+The barrels were on the side, thus implying that there would have been free, cars were free to drive on.
+
+<<5294.1;5299.31;en>>
+There is a contradiction here, I understand, and I would like to ask the parties how this can be resolved.
+
+<<5299.31;5300.11;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5301.79;5303.79;en>>
+Thank you. Any other questions?
+
+<<5304.79;5306.27;en>>
+Oh yes, Dr. Silvis.
+
+[[Judge;Johannes Silvis]]
+
+<<5307.77;5309.17;en>>
+Thank you, Mr. President.
+
+<<5309.17;5334.93;en>>
+I have a short question to the responding government, which is only I would like to have their comment on whether it is possible to outsource jurisdiction from an occupying power, assuming that such an occupying power would have jurisdiction under the convention.
+
+<<5334.93;5343.95;en>>
+And by outsourcing command and control, would it be possible to lower the threshold of jurisdiction?
+
+[[JudgeP;Dean Spielmann]]
+
+<<5347.66;5350.84;en>>
+Judge Kalaydjieva.
+
+[[Judge;Zdravka Kalaydjieva]]
+
+<<5355.02;5363.82;en>>
+Thank you, President. I do not consider myself an expert in extraterritorial jurisdiction.
+
+<<5363.82;5408.94;en>>
+However, this is precisely the reason why I would like the Dutch government to clarify their position, whether they are actually arguing that the army of the Kingdom of Netherlands was hired by the United Kingdom government for the purposes of occupation within the sense of the UN resolution, and whether they are also submitting that the Dutch soldier in this case was in fact following the UK chain of command. Would this mean that the
+
+<<5408.94;5420.74;en>>
+respondent government is actually seeing the UK government as the proper respondent for the purposes of investigation or for the purposes of the present convention proceedings?
+
+<<5424.34;5424.74;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5428.1;5432.3;en>>
+Thank you very much. So we have a break until 11 o'clock.
+
+[[Announcer;UNK]]
+
+<<5487.44;5488.04;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<5532.65;5536.01;en>>
+Please be seated.
+
+<<5536.01;5542.01;en>>
+Mr. Böcker.
+
+[[Government;GR1]]
+
+<<5550.51;5553.19;en>>
+Thank you, Mr. President.
+
+<<5553.19;5572.75;en>>
+I will, we will do our utmost to respond to the questions of your colleagues and hopefully in doing so also address a number of issues which have been brought forward by the applicants' councils.
+
+<<5572.75;5593.75;en>>
+First of all, a question by Judge Zimmler about the contents of the Memoranda of Understanding and more particularly the question whether the Dutch battalion and or its commander was outside the chain of command.
+
+<<5593.75;5597.35;en>>
+Perhaps first a word about the Memoranda of Understanding.
+
+<<5597.35;5606.23;en>>
+Let me assure you, members of the Court, I myself do not have the Memoranda of Understanding.
+
+<<5606.23;5614.95;en>>
+I have requested our defence authorities to hand it to me and it was refused because of the level of confidentiality.
+
+<<5614.95;5634.43;en>>
+This was a written understanding between the United Kingdom and the Netherlands and we do not feel at liberty to make this document available.
+
+<<5634.43;5648.99;en>>
+Having said that, of course, as we have done in the written stage of these procedures, we have certainly given some information coming from the Memorandum of Understanding.
+
+<<5648.99;5672.59;en>>
+On top of that, we have noted that you have received one of the other Memoranda of Understandings – the Memorandum which was applicable in the Polish sector of Iraq – which should at least give the Court a good idea of what kind of document we are talking about.
+
+<<5672.59;5687.31;en>>
+Having said that, I can confirm that, as I have said in my original pleadings, that the contingent commander was outside the chain of command, other than the troops themselves, of course.
+
+<<5687.31;5701.11;en>>
+They were fully within the chain of command coming from the troops to the UK authorities and ultimately the US authorities, as I have explained.
+
+<<5701.11;5726.39;en>>
+But the contingent commander was present in order to be able to assess the operations that were carried out, the orders that were given, but he was without the chain of command.
+
+<<5726.39;5730.25;en>>
+You might call him a kind of a red card holder.
+
+<<5730.25;5737.77;en>>
+I have said there was always, of course, the prerogative of the Netherlands to withdraw their troops.
+
+<<5737.77;5749.77;en>>
+Now, such a step, of course, is only taken on the basis of information, and in that sense the commander played an important role.
+
+<<5749.77;5774.85;en>>
+I think that concludes my answer to the first question of Judge Ziemelle and also, of course, addresses the comments by the counsels for the applicant when they address the confidentiality of the underlying documents.
+
+<<5774.85;5799.25;en>>
+Judge Ziemelle also had questions about the consequences of having full command, and I believe she also – perhaps it was the applicant's counsels, rather, who addressed the term independent unit, the Dutch battalion as an independent unit.
+
+<<5799.25;5802.93;en>>
+I will answer to both these issues.
+
+<<5802.93;5813.69;en>>
+Full command is the most extensive level of command and can, by definition, only be exercised by the national command authority, i.e. the highest military commander at the national
+
+<<5813.69;5814.95;en>>
+level.
+
+<<5814.95;5819.25;en>>
+In the Netherlands, full command is exercised by the chief of defence.
+
+<<5819.25;5836.25;en>>
+Full command can never be transferred to a foreign commander, although lower levels of command – and I refer to operational command, tactical command, and others – may be delegated or transferred.
+
+<<5836.25;5854.13;en>>
+Full command includes the authority to assign missions and tasks, divide and combine units, and encompasses, in addition to the lower levels of command described below, the administrative and personnel-related forms of command, e.g. assigning servicemen to units, payroll matters,
+
+<<5854.13;5860.61;en>>
+sick leave, training and developments, and the like.
+
+<<5860.61;5868.93;en>>
+Then turning to the point of independent unit, what does that mean here?
+
+<<5868.93;5875.21;en>>
+Lower units are normally combined into bigger units, e.g. teams into platoons, platoons
+
+<<5875.21;5884.45;en>>
+into companies, companies into battalions, battalions into brigades, brigades into divisions, and divisions into corps-sized units.
+
+<<5884.45;5891.41;en>>
+Let me assure you, I myself have learned a lot from the preparation of this hearing.
+
+<<5891.41;5901.53;en>>
+The Dutch battalion in ESSFER was placed under operational control of the UK division commander of the multinational division southeast, as I have said.
+
+<<5901.53;5906.67;en>>
+But it was not combined into a larger unit, for example a brigade.
+
+<<5906.67;5915.89;en>>
+In terms of command and control, it was therefore designated as an independent unit under direct command of the division commander without intermediate command levels.
+
+<<5915.89;5920.61;en>>
+So an independent unit doesn't mean that they were at liberty to do whatever they liked.
+
+<<5920.61;5939.85;en>>
+It just meant that they were an independent unit below a much higher level of command, which was the British command in this respect, and there were no intermediate levels which would normally be the situation.
+
+<<5939.85;5949.77;en>>
+The final question of Judge Zimmler concerned the question about the attendance at the autopsy.
+
+<<5949.77;5957.57;en>>
+First of all, she particularly asked, was this reflected in the official documents?
+
+<<5957.57;5959.73;en>>
+Is there any proof of this?
+
+<<5959.73;5960.73;en>>
+Yes.
+
+<<5960.73;5966.25;en>>
+The course of events is reflected in the KMAR report.
+
+<<5966.25;5978.17;en>>
+In the Netherlands itself, it's quite usual that an investigating officer is present during the autopsy to witness the investigative measures taken by the coroner and be informed of the first results.
+
+<<5978.17;5982.25;en>>
+For this reason, the KMAR requested to be present.
+
+<<5982.25;5990.37;en>>
+Efforts were made to ensure the smooth running of this process by ensuring prior judicial authorization by an Iraqi judge.
+
+<<5990.37;6017.17;en>>
+However, I stress once more that the KMAR had no formal power to enforce its presence during the autopsy, and the end of this story is that the coroner was not impressed by the authorization by the judge and simply did not allow presence of the Dutch officers at the autopsy.
+
+<<6017.17;6023.05;en>>
+I come now to the questions by Judge Casadevall.
+
+<<6023.05;6034.61;en>>
+He refers to the original court statement of facts, and he has some questions about the actual situation on the spot.
+
+<<6034.61;6041.89;en>>
+First, his question was who was in charge of vehicle checkpoint 13.
+
+<<6041.89;6047.09;en>>
+The firm answer to that question is it was the ICDC who was in charge.
+
+<<6047.09;6048.09;en>>
+They were there.
+
+<<6048.09;6053.73;en>>
+They were manning the vehicle checkpoint.
+
+<<6053.73;6083.09;en>>
+And then, of course, as this case makes clear, they were supervised by the Dutch, or at least they were monitored, is rather the word, by the Dutch troops, as becomes clear from this case.
+
+<<6083.09;6086.37;en>>
+What else did I want to say?
+
+<<6086.37;6089.89;en>>
+And yeah, that's perhaps an important addition.
+
+<<6089.89;6093.85;en>>
+All of this should be seen in the light of training.
+
+<<6093.85;6110.01;en>>
+Of course, the ultimate result, the aspiration was to hand over each and every function to the Iraqis at the end, and in order to reach that goal, training was essential.
+
+<<6110.01;6114.05;en>>
+And in this respect, the Netherlands played an important role.
+
+<<6114.05;6125.61;en>>
+But it remains that the organization and the equipment of the vehicle checkpoint was first and foremost the responsibility of the ICDC.
+
+<<6125.61;6150.17;en>>
+And perhaps also on a point made by counsels for the applicant, in view of the security situation, it was customary that VCPs were moderately lit for their purpose, but certainly not more than strictly necessary, because they would become an easy focus of attacks.
+
+<<6150.17;6160.29;en>>
+We should not forget all of this still occurred in the context of a military operation.
+
+<<6160.29;6175.07;en>>
+President Casarival also asked where was the team at the moment they were requested by the ICDC to come and investigate what had happened.
+
+<<6175.07;6185.33;en>>
+As a matter of fact, the team had just shortly before been at this very checkpoint in their monitoring and training role.
+
+<<6185.33;6194.25;en>>
+Then they had moved on to another checkpoint, namely checkpoint B14, which would be half an hour's drive from there.
+
+<<6194.25;6206.41;en>>
+At the moment they arrived there, at the other checkpoint, they were informed by the ICDC commander of that checkpoint that something had happened at B13.
+
+<<6206.41;6212.93;en>>
+So immediately they made their way back and arrived shortly afterwards.
+
+<<6212.93;6219.65;en>>
+So this is the answer to that particular question of Judge Casarival.
+
+<<6219.65;6227.61;en>>
+Judge Villiger also had a question with respect to the VCP, the placement of barrels.
+
+<<6227.61;6245.53;en>>
+It should be seen as follows, that there was in the axis of the road, I think it's called, at least the middle of the road, there were barrels placed in order so cars could pass by on both sides.
+
+<<6245.53;6252.25;en>>
+They would normally have to slow down because by the placement of these barrels, of course, the road becomes somewhat narrower.
+
+<<6252.25;6254.65;en>>
+But it was not a roadblock.
+
+<<6254.65;6265.97;en>>
+So it is absolutely true that there was not an absolute necessity to stop one could go on.
+
+<<6265.97;6270.53;en>>
+But it was nevertheless clear enough that this was a vehicle checkpoint.
+
+<<6270.53;6277.93;en>>
+There were reflecting, the barrels were equipped also with reflective material.
+
+<<6277.93;6282.37;en>>
+So this is hopefully an answer to Judge Villiger's question.
+
+<<6282.37;6293.39;en>>
+I think there were also a few small piles of stones piling up in the direction of the barrels so as to, well, as a further warning sign.
+
+<<6293.39;6298.97;en>>
+But again, very important, a VCP cannot be very clearly illuminated.
+
+<<6298.97;6303.81;en>>
+That would not fit within the context of the operation.
+
+<<6303.81;6308.93;en>>
+I think I have then answered everything concerning the VCP.
+
+<<6308.93;6310.57;en>>
+Yes.
+
+<<6310.57;6316.73;en>>
+That brings me to, yeah.
+
+<<6316.73;6320.17;en>>
+Yes.
+
+<<6320.17;6328.13;en>>
+The question by Judge Silvis, can you outsource jurisdiction?
+
+<<6328.13;6342.89;en>>
+In fact, can an occupying power outsource jurisdiction with the effect that a lower threshold would be the result?
+
+<<6342.89;6369.17;en>>
+And perhaps I should add to this the question by Judge Kalajeva, who first of all asked whether the Dutch troops were hired by the UK and whether, let me see, and she also asked whether the UK would be the proper respondent government.
+
+<<6369.17;6388.97;en>>
+Well, I hope you will bear with me if I'm not going to go into questions which I do not feel are relevant in the relation between the applicant in this case and the Netherlands.
+
+<<6388.97;6403.49;en>>
+But having said that, the bottom line, of course, is that international humanitarian law is applicable in situations such as these.
+
+<<6403.49;6422.77;en>>
+There is the general international humanitarian law, and under certain circumstances, as we have seen in the past, also in those cases there may be applicability of the European Convention on Human Rights, very much depending on the circumstances.
+
+<<6422.77;6439.45;en>>
+But of course it is not true that if one concludes, as we do today in respect of the Netherlands, that the ECHR would not be applicable, that the convention would not be applicable, that then suddenly there are no norms.
+
+<<6439.45;6444.77;en>>
+That of course is not the situation.
+
+<<6444.77;6452.13;en>>
+There is no such thing as outsourcing jurisdiction.
+
+<<6452.13;6475.25;en>>
+Even though, as I have admitted, I have not had a chance to read the MOU literally, I can assure you that there is no provision saying that hereby jurisdiction under the convention is transferred, for example, I use this clearly as an example, from the United Kingdom to the Netherlands.
+
+<<6475.25;6480.13;en>>
+That is of course not what happens.
+
+<<6480.13;6506.57;en>>
+We have provided some important provisions which were applicable, notably the reservations by the Netherlands, but there is not a general statement that either one state or the other takes responsibility under the convention.
+
+<<6506.57;6520.81;en>>
+The question was also raised, I believe by Judge Kalajewa also, I apologize if I am wrong, why then there was no British investigation.
+
+<<6520.81;6536.47;en>>
+The answer, first of all, would be the same as I have just given, because there was no determination of convention responsibility agreed between the states.
+
+<<6536.47;6544.13;en>>
+But what was agreed was who is responsible for criminal jurisdiction.
+
+<<6544.13;6550.09;en>>
+I have already said this also in my earlier statement.
+
+<<6550.09;6565.61;en>>
+And the agreement was that in a case such as this, it could be the Netherlands that was responsible for criminal jurisdiction in respect of its own servicemen, of course.
+
+<<6565.61;6587.13;en>>
+I think, unless my colleagues feel otherwise, that I have addressed the questions by the judges, which brings me to one or two further issues, and I hope to have time to address these.
+
+<<6587.13;6596.05;en>>
+Brought forward by the applicant, first of all, on the concept of occupying powers.
+
+<<6596.05;6610.49;en>>
+The determination, the resolution by the Security Council was kind of dismissed by the Councils for the Applicant as not at all being decisive or even relevant in this case.
+
+<<6610.49;6614.89;en>>
+Well, we beg to differ in this respect.
+
+<<6614.89;6625.89;en>>
+The determination by the Security Council, acting under Chapter 7 of the UN Charter, constituted a binding determination by the Council of the status of the states concerned.
+
+<<6625.89;6632.01;en>>
+It is fully legitimate for the Netherlands and other states to proceed on that firm basis.
+
+<<6632.01;6649.65;en>>
+Even if the resolution by the Security Council under Chapter 7 of the UN Charter would not be considered determinative in itself, the fact that the Council did not consider the Netherlands an occupying power, as that term is used in international humanitarian law, must be considered very authoritative.
+
+<<6649.65;6656.33;en>>
+As a minimum, very weighty reasons should be adduced to support the assertion that the Netherlands was an occupying power.
+
+<<6656.33;6659.81;en>>
+Such reasons have not been put forward in this case.
+
+<<6659.81;6673.41;en>>
+Indeed, application of the definition in Article 42 of the Hague Regulations of 1907, as developed in case law, leads to the conclusion that the Netherlands was not an occupying power.
+
+<<6673.41;6689.37;en>>
+The limited mandate, the size and the role of the Netherlands forces all support the conclusion that all or part of Iraq was not actually placed under the authority of the Netherlands as a hostile army.
+
+<<6689.37;6706.89;en>>
+I pray and aid here the ICJ's advisory opinion on the legal consequences of the construction of a wall in the occupied Palestinian territory, as well as its judgment in the case of the Democratic Republic of the Congo versus Uganda.
+
+<<6706.89;6722.77;en>>
+In assuming that Dutch troops superseded their mandate, an assumption which obviously is not the government's, this cannot by itself justify the conclusion that the Security Council resolution cannot be the point of reference in determining the status of the Netherlands in Iraq.
+
+<<6722.77;6731.69;en>>
+As for the applicant's comments concerning the investigation, I would like to stress again that the aim of the investigation was not to determine who had shot the fatal bullet.
+
+<<6731.69;6737.81;en>>
+The Dutch authorities only had the competence to look at the use of force of Dutch military personnel.
+
+<<6737.81;6748.25;en>>
+Obviously in the course of the Dutch investigation, facts were discovered on which basis it is logical to assume that also Iraqi forces fired on the car.
+
+<<6748.25;6753.03;en>>
+For example, the size of the bullet holes, i.e. larger than 6 millimeters as a result
+
+<<6753.03;6757.81;en>>
+of ammunition used by the Iraqi AK-47s.
+
+<<6757.81;6767.41;en>>
+Also I would like to stress the fact that the Dutch were not the only authorities to carry out an investigation, as has been alleged by counsels for the applicant.
+
+<<6767.41;6775.53;en>>
+The Iraqi authorities did so as well as the file demonstrates.
+
+<<6775.53;6783.37;en>>
+Then Mr. Sechfeld discussed the concept of putative excessive self-defense.
+
+<<6783.37;6791.97;en>>
+In the framework of the Section 12 proceedings, the Court of Appeal did not use the concept of putative excessive self-defense.
+
+<<6791.97;6799.97;en>>
+Instead the judicial authorities based their positions on the applicable rules on the use of force.
+
+<<6799.97;6809.65;en>>
+One therefore cannot expect the Court of Appeal to order a prosecution for the sake of clarification of a legal notion that the Court does not find applicable.
+
+<<6809.65;6814.73;en>>
+Criminal prosecution of an individual is not suitable for such an academic exercise.
+
+<<6814.73;6834.89;en>>
+I admit that the term was used in the case file originally by the public prosecutor, but ultimately it was not the basis on which the Court of Appeal grounded its decision.
+
+<<6834.89;6847.89;en>>
+Another clarification which is very important here, it is wrong to create the impression that the public prosecutor could by himself and without being subjected to judicial control take the decision not to prosecute.
+
+<<6847.89;6858.51;en>>
+The Court of Appeal in the context of Section 12 proceedings exercises a full review, not a marginal one as has been alleged.
+
+<<6858.51;6862.85;en>>
+I come to the incidents at the hospital.
+
+<<6862.85;6873.85;en>>
+Upon arrival at the hospital, the coroner appeared, as I said before, unimpressed by the authorization from the judge and was not willing to allow the K-Mar investigators to attend the autopsy.
+
+<<6873.85;6883.77;en>>
+Instead he pointed out his responsibilities under Islamic custom and indicated that additionally the approval of the family of the deceased would be required.
+
+<<6883.77;6895.05;en>>
+Since no such approval had been given and Islamic custom did not allow the K-Mar investigators or Iraqi police officials to be present, he would not allow them to witness the autopsy.
+
+<<6895.05;6900.73;en>>
+The coroner did allow the K-Mar investigators, as an exception, to view the body.
+
+<<6900.73;6905.57;en>>
+After that, the K-Mar investigators were ordered to leave and escorted out of the morgue.
+
+<<6905.57;6917.77;en>>
+It should also be noted that by that time a large number of civilians, including family members and friends of the deceased, had gathered outside the square in front of the hospital in reaction to the news of the incident.
+
+<<6917.77;6922.77;en>>
+The general atmosphere towards the Dutch personnel quickly became hostile.
+
+<<6922.77;6927.57;en>>
+The interpreter of the Dutch personnel was informed that they would be taken hostage.
+
+<<6927.57;6946.65;en>>
+Given the fact that the Dutch personnel were severely outnumbered, partly because half of the Dutch personnel had left the hospital to escort the ambulance back to camp, and given the fact that they could not get in touch with headquarters, further attempts to attend the autopsy were considered to be inopportune since they would have met with further hostility.
+
+<<6946.65;6951.21;en>>
+Dutch personnel was hampered when it tried to leave the grounds.
+
+<<6951.21;6965.77;en>>
+Now I come to an important issue which has been brought forward by counsel for the applicant, which in fact has attracted the attention of the press in the Netherlands as well.
+
+<<6965.77;6974.29;en>>
+The interviews with the ICDC, which allegedly were not part of the case file.
+
+<<6974.29;6978.95;en>>
+First the relevant statements by the members of the ICDC were not kept from anyone.
+
+<<6978.95;6987.53;en>>
+They were referred to in the official KMAR report where they were summarily described and this was given to the public prosecutor's office.
+
+<<6987.53;7000.55;en>>
+The underlying interviews did not become part of the public prosecutor's dossier, given the fact that the legal relevance of their statements for the assessment of Lieutenant A's handling of the incident was limited at best.
+
+<<7000.55;7003.73;en>>
+This is in itself not exceptional at all.
+
+<<7003.73;7019.69;en>>
+It is very often the case that investigators take investigative measures which in the end are not elaborately included in the case file in case the results of the investigative measures turn out to be of limited relevance.
+
+<<7019.69;7025.41;en>>
+Second it is not true that applicants' counsel has just found out about the existence of these interviews.
+
+<<7025.41;7031.29;en>>
+Counsel was allowed to examine the case file on the 25th of January 2007 at the office of the public prosecutor.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7031.87;7036.19;en>>
+Mr. Riker, your time has expired.
+
+[[Government;GR1]]
+
+<<7036.23;7037.99;en>>
+I was afraid this was going to happen.
+
+<<7037.99;7038.59;en>>
+Yes.
+
+<<7038.59;7040.59;en>>
+I will...
+
+[[JudgeP;Dean Spielmann]]
+
+<<7040.41;7042.13;en>>
+You might wish to conclude, maybe.
+
+[[Government;GR1]]
+
+<<7042.42;7043.66;en>>
+I will, I will.
+
+<<7043.66;7045.22;en>>
+I take your message.
+
+<<7045.22;7057.1;en>>
+In any case, it appears from the case file that counsel was aware, perhaps not of the literal text of these interviews, but certainly of their contents.
+
+<<7057.1;7065.14;en>>
+And she in fact acknowledged that much during the oral hearing before the Arnhem Court of Appeal.
+
+<<7065.14;7070.14;en>>
+I, sorry?
+
+<<7070.14;7072.14;en>>
+Okay.
+
+<<7072.14;7082.86;en>>
+Then I just want to conclude by saying that once again, we are convinced that the convention did not apply in the present case.
+
+<<7082.86;7087.54;en>>
+Exeterial jurisdiction is only assumed in extraordinary circumstances.
+
+<<7087.54;7091.42;en>>
+And this was not the case here as I have stated.
+
+<<7092.66;7101.06;en>>
+As to the investigation, we are convinced that the investigation was exemplary.
+
+<<7101.06;7108.06;en>>
+It was in no way different from other similar investigations.
+
+<<7108.06;7112.82;en>>
+Perhaps it was even more thorough than would normally be the case.
+
+<<7112.82;7113.82;en>>
+I thank you for your attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7117.02;7119.02;en>>
+Thank you very much, Mr. Böcker, Ms. Zegveld.
+
+[[Applicant;AP2]]
+
+<<7122.87;7123.87;en>>
+Thank you, Mr. President.
+
+<<7123.87;7127.11;en>>
+We would like to share our remarks together.
+
+<<7127.11;7129.79;en>>
+I will focus on the factual aspects.
+
+<<7129.79;7135.83;en>>
+The question of Mr. Casadevall, who was in charge of the checkpoint 13,
+
+<<7135.83;7137.09;en>>
+well, the Dutch, of course.
+
+<<7137.09;7142.63;en>>
+The ICDC was present, but the ICDC fell under the Dutch, or at least fell under the coalition forces.
+
+<<7142.63;7144.59;en>>
+We quoted it over and over again.
+
+<<7144.59;7156.75;en>>
+The Security Council, what was it, the Coalition Provisional Authority Order No. 28 that created the ICDC on 3 September 2003.
+
+<<7156.75;7167.91;en>>
+This CPE order expressly states that the ICDC was to be distinguished from the Iraqi police, and as such, it was subject to the supervision of the coalition forces.
+
+<<7167.91;7182.19;en>>
+So who was present is, in that sense, not too relevant, in the sense that if it were the ICDC, which at certain times was the case, they fell under the overall control of the Dutch in that very province in South Iraq.
+
+<<7185.27;7193.11;en>>
+We noted the translation summoned, that the Iraqis, the ICDC, summoned the Dutch to appear.
+
+<<7193.11;7196.63;en>>
+I've been wondering whether I should highlight it today.
+
+<<7196.63;7203.67;en>>
+I've chosen not to do so, but I think it's a wrong translation of the legal and factual situation on the ground.
+
+<<7203.67;7210.19;en>>
+Then the question of Judge Villiger, where were the barrels?
+
+<<7210.19;7214.55;en>>
+They were not at the side of the roads, neither were they blocking.
+
+<<7214.55;7222.07;en>>
+It is as the government representative says, they were in the middle, allowing traffic to pass.
+
+<<7222.07;7233.83;en>>
+There's an annex to our application, which is a part of the report of the KMA, which draws the situation on the ground.
+
+<<7233.83;7235.39;en>>
+It's very clear where the barrels is.
+
+<<7235.39;7237.79;en>>
+It's very well indicated.
+
+<<7237.79;7248.03;en>>
+And generally, I would like to say with regard to the frequent citation of the security situation by Mr. Booker
+
+<<7248.03;7253.71;en>>
+as an explanation why the investigation was limited, relatively limited.
+
+<<7253.71;7261.87;en>>
+I can't see, and he doesn't explain so either, what investigation, what else would have been done, were the situation safer.
+
+<<7261.87;7262.91;en>>
+He doesn't make it clear.
+
+<<7262.91;7267.75;en>>
+What we actually see is that all steps have been taken, but halfway aborted.
+
+<<7267.75;7272.95;en>>
+So we take the body, we take the corpse, but we then hand it over to the Iraqis.
+
+<<7272.95;7278.51;en>>
+We take the car, but we don't investigate the munition that is found on the chair of Ms. Jalut.
+
+<<7278.51;7283.75;en>>
+We also examine the car, but we stop halfway and we send the bullet remnants to the Netherlands.
+
+<<7283.75;7284.95;en>>
+But nothing is done with it.
+
+<<7284.95;7296.23;en>>
+There's still evidence available in the Netherlands, which I've always been wondering about, about why has the prosecution not taken the step to do some additional investigation on Dutch territory, where there are no limitations whatsoever.
+
+<<7296.23;7314.43;en>>
+In terms of context awareness, which is invoked by the government, what would have been appropriate is to invoke the context of the vehicle checkpoints and to explain that it was indeed very much an accident of guys who drove into these barrels.
+
+<<7314.43;7315.63;en>>
+And it wasn't the only one.
+
+<<7315.63;7328.63;en>>
+There were four similar accidents at vehicle checkpoints manned by the Dutch, where cars drove into the barrels because of the poor visibility and the fact that it was not indicated that there was a vehicle checkpoint.
+
+<<7328.63;7343.63;en>>
+Then perhaps allow me to say something briefly about the autopsy by the question by Judge Schimelle, though it wasn't directed to us.
+
+<<7343.63;7357.03;en>>
+I wasn't sure because your question was whether there was anything recorded in terms of the apparent factual situation that the Dutch were not allowed to be present.
+
+<<7357.03;7361.63;en>>
+It wasn't clear to me whether it was a quote that I just heard from Mr. Bucker
+
+<<7361.63;7366.03;en>>
+or whether he was reading out his written submissions on earlier occasions.
+
+<<7366.03;7370.63;en>>
+It's my impression that it was just merely the written submissions.
+
+<<7370.63;7376.43;en>>
+I have always been wondering why the autopsy wasn't carried out on the Dutch base.
+
+<<7376.43;7379.63;en>>
+We had 1,300 soldiers in Iraq.
+
+<<7379.63;7382.43;en>>
+Certainly we had the ability to do it on the base.
+
+<<7382.43;7385.63;en>>
+It was never clear to me why we handed over this corpse to the Iraqis.
+
+<<7385.63;7389.03;en>>
+In any case, there was a court permission to carry out the autopsy.
+
+<<7389.03;7389.83;en>>
+Why?
+
+<<7389.83;7397.83;en>>
+I mean, there was nothing stated by the government saying that this autopsy is restricted in the sense that there can be no foreigners present.
+
+<<7397.83;7408.83;en>>
+And the permission that was quoted by the government of the victims or of the applicants as a necessary requirement in order to allow the Dutch to be there, the applicant was there.
+
+<<7408.83;7411.03;en>>
+The family was around.
+
+<<7411.03;7418.73;en>>
+I mean, nowhere is it stated that they have been asked to give their permission for the Dutch to be present, let alone that they denied such permission.
+
+<<7418.73;7435.53;en>>
+Then very — in a very final remark about the ICDC statements, it was said that they were summarily described in the file.
+
+<<7435.53;7438.53;en>>
+But they are — they consist of only five lines each.
+
+<<7438.53;7440.63;en>>
+I don't see what you can summarize.
+
+<<7440.63;7444.43;en>>
+What is in the file is a statement that they yield no relevant information.
+
+<<7444.43;7445.43;en>>
+That's it.
+
+<<7445.43;7447.23;en>>
+And that they were not included.
+
+<<7447.23;7447.93;en>>
+I've never seen them.
+
+<<7447.93;7450.93;en>>
+I think that says it all.
+
+<<7450.93;7454.93;en>>
+It's admitted that the documents were indeed not part of the prosecutor's file.
+
+<<7454.93;7456.43;en>>
+I think that says it all.
+
+<<7456.43;7458.43;en>>
+And I would like to — if you allow us to briefly give the floor to my colleagues.
+
+[[Applicant;AP1]]
+
+<<7465.72;7469.32;en>>
+Thank you. I have three short comments to make.
+
+<<7469.32;7476.68;en>>
+First of all, contrary to the suggestion of the government agent, we have not dismissed the UN Security Council resolution.
+
+<<7476.68;7496.04;en>>
+We hold it in high respect, but we have qualified it by indicating that the statement that the differentiation between occupying and non-occupying powers as made in the preamble of that resolution, of course, cannot – it is not so that the statement cannot be superseded by the facts on the ground.
+
+<<7496.04;7514.56;en>>
+In other words, the artificial distinction which was made by the Dutch government in order not to have to admit to its own general public that it is engaging, that it was engaging in an occupation, may have worked domestically, politically, but it should not be given any legal effect.
+
+<<7514.56;7533.2;en>>
+The second comment I would like to make plays into the question of Judge Motorg, which concerns the argument that a finding that Article 2 applies in this situation would be deterrent to states to supply troops to UN peacekeeping missions.
+
+<<7533.2;7551.88;en>>
+This argument has been made before by the Dutch government, most particularly in a case, domestic case, which involved accountability of the Dutch for deaths which occurred during the Srebrenica massacre in Bosnia under the UN mission there.
+
+<<7551.88;7554.52;en>>
+The Dutch Supreme Court was not impressed by that argument.
+
+<<7554.52;7559.32;en>>
+In fact, the Dutch state was held accountable for those deaths.
+
+<<7559.32;7569.96;en>>
+And in fact, it has not prevented the Dutch government from announcing recently its participation in a further UN mission in Mali.
+
+<<7569.96;7590.12;en>>
+More importantly, we believe that the apparent desire of a contracting state not to be bound by ECHR obligations when engaging in a UN mission is not an argument we respectfully submit which a human rights court should take into account when deciding on the scope of the protection offered by the Convention.
+
+<<7590.12;7597.52;en>>
+My final remark concerns the question whether jurisdiction should be part of the living instrument doctrine.
+
+<<7597.52;7612.0;en>>
+Well, first of all, we do not believe that this is necessary to decide in this case simply because, as we've argued, this case falls within the concept of extraterritorial jurisdiction as it has already been applied by the court.
+
+<<7612.0;7622.12;en>>
+However, at the same time, we do believe that jurisdiction must be allowed to evolve, as it has, if the rights of the Convention are to be practical and effective.
+
+<<7622.12;7622.12;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7624.95;7625.95;en>>
+Thank you very much.
+
+<<7625.95;7634.45;en>>
+One question or two questions have been addressed to the third party government, so if Mr. Eadie could briefly reply to that.
+
+[[ThirdParty;TP1]]
+
+<<7637.16;7640.28;en>>
+Mr. President, Judge Motok asked us two questions.
+
+<<7640.28;7644.36;en>>
+The first one was, who had jurisdiction?
+
+<<7644.36;7651.84;en>>
+And our direct answer to that question is, under the convention system, neither the UK nor the Netherlands.
+
+<<7651.84;7659.56;en>>
+Not the UK, because the death on no view was the result of any action by state agents of the United Kingdom.
+
+<<7659.56;7666.8;en>>
+And there's no assertion correctly by the Dutch government in this case that the UK should be a proper respondent to this case.
+
+<<7666.8;7669.64;en>>
+It's on Judge Kalajewa's question.
+
+<<7669.64;7674.0;en>>
+And not the Netherlands, for all the reasons that I gave in my written submissions.
+
+<<7674.0;7677.76;en>>
+But I don't want to leave the answer there for obvious reasons.
+
+<<7677.76;7686.68;en>>
+Because as I understand it, the real sting of this question and the premise on which it sits needs very careful consideration.
+
+<<7686.68;7703.96;en>>
+The premise, as I understand it, and the sting of the question is that this court should struggle to expand the notion of ECHR jurisdiction to fill what would otherwise be a legal void or human rights deficit in terms of protection.
+
+<<7703.96;7708.84;en>>
+And my submission is that that is not a sound premise.
+
+<<7708.84;7715.16;en>>
+It doesn't provide, therefore, any principled pull towards an expanded notion of jurisdiction.
+
+<<7715.16;7725.4;en>>
+And it's not a sound premise, because there are, at the very least, two other systems of law providing applicable norms in this situation.
+
+<<7725.4;7727.8;en>>
+The first of them is IHL.
+
+<<7727.8;7737.3;en>>
+And the second of them are the domestic legal norms, which almost all states' troops are accompanied by in military operations abroad.
+
+<<7737.3;7740.08;en>>
+That is the position in relation to British troops.
+
+<<7740.08;7744.52;en>>
+And as I understand it, that is the position in relation to Dutch troops.
+
+<<7744.52;7747.08;en>>
+So there is no legal vacuum.
+
+<<7747.08;7762.32;en>>
+And there is no legal vacuum, in principle, any more than there would, for example, be a legal vacuum were non-contracting states to do the work of the United Nations in preserving world peace and security, for example, in Africa.
+
+<<7762.32;7774.2;en>>
+No one has ever asserted that when they go out on those missions, that because the ECHR doesn't apply, which it plainly doesn't, there is some form of legal vacuum or deficit in human rights protection.
+
+<<7774.2;7777.12;en>>
+And the reason that there isn't is the one that I give.
+
+<<7777.12;7786.0;en>>
+So our respectful submission is that the premise does not drive the conclusion that one or other state must have ECHR jurisdiction.
+
+<<7786.0;7797.28;en>>
+Ultimately, the function of this court is to identify the proper reach of the concept of jurisdiction under the convention intended by the framers.
+
+<<7797.28;7803.16;en>>
+And for all the reasons I gave in my submissions, that is not, on any view, a doctrine of effects.
+
+<<7803.16;7807.16;en>>
+It does not, on any view, apply to all military operations.
+
+<<7807.16;7812.24;en>>
+And the same logic as would underpin the premise of the question you asked me would equally apply there.
+
+<<7812.24;7817.36;en>>
+But it's entirely clear that jurisdiction is not a concept of that breadth.
+
+<<7817.36;7819.48;en>>
+So that's my answer to the first question.
+
+<<7819.48;7832.56;en>>
+The second question you asked was how I would put legally the point I made about the deterrent effect or the possible deterrent effect, both on the effectiveness of UN missions and of states' willingness to participate in them.
+
+<<7832.56;7844.88;en>>
+And my answer to that question is, as a relevant factor or feature when analyzing the reach and proper scope of the legal concept in question, here, jurisdiction.
+
+<<7844.88;7857.76;en>>
+It is, I respectfully submit, not in the least unusual for courts to consider the consequences of an expansion or, indeed, a contraction of a legal concept that they are considering.
+
+<<7857.76;7866.44;en>>
+All the more so, it might be thought, if, as here, there has to be a clear focus on the intention of the framers of the convention.
+
+<<7866.44;7874.64;en>>
+And that was precisely the reasoning of the grand chamber in Birrami and Serramati at paragraph 149.
+
+<<7874.64;7882.48;en>>
+The grand chamber there looked directly at those consequences, not merely any consequences, but the ones I identified.
+
+<<7882.48;7890.64;en>>
+They did so for the purpose of considering the concept of attributability, which was ultimately in issue in that case.
+
+<<7890.64;7894.6;en>>
+But the legal analysis involved is precisely the same.
+
+<<7894.6;7898.8;en>>
+It doesn't turn on attributability versus jurisdiction as a concept.
+
+<<7898.8;7910.12;en>>
+One is simply using the potential consequences and their seriousness as a legal guide for determining the true scope and effect of the legal concept under consideration.
+
+<<7910.12;7911.36;en>>
+So that's my answer to the second question.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7917.61;7923.17;en>>
+Thank you Mr. Eadie. We have now come to the end of the hearing.
+
+<<7923.17;7929.09;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<7929.09;7933.45;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<7933.45;7936.69;en>>
+The decision of the judgment will be delivered later.
+
+<<7936.69;7940.53;en>>
+The parties will be informed of the date of delivery.
+
+<<7940.53;7940.53;en>>
+I declare the hearing closed.
+

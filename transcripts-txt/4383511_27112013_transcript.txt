@@ -1,0 +1,1937 @@
+[[Announcer;UNK]]
+
+<<24.78;25.36;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<77.55;79.35;fr>>
+Je vous prie de bien vouloir vous asseoir.
+
+<<83.27;90.71;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire S.A.S contre France.
+
+<<92.07;104.55;fr>>
+L'affaire a été introduite le 11 avril 2011 en vertu de l'article 34 de la Convention par une ressortissance française qui bénéficie de l'anonymat dans la procédure devant la Cour.
+
+<<104.55;110.67;fr>>
+Elle a été attribuée à la 5e section de la Cour conformément à l'article 52, paragraphe 1 du règlement.
+
+<<111.43;115.59;fr>>
+Le 1er février 2012, elle a été communiquée au gouvernement.
+
+<<116.95;128.63;fr>>
+Le 28 mai 2013, une chambre constituée au sein de la 5e section s'est dessaisie au profit de la grande chambre, aucune des parties ne s'y étant opposées.
+
+<<130.03;154.91;fr>>
+Les organisations non gouvernementales, Amnesty International, Liberty, Open Society Justice Initiative et Article 19, ainsi que le Centre des droits de l'homme de l'Université de Gant et le gouvernement belge ont été autorisés à soumettre des observations écrites en tant que tiers intervenants en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<156.07;162.83;fr>>
+Le gouvernement belge a également été autorisé à prendre part à l'audience.
+
+<<163.03;182.43;fr>>
+Le gouvernement défendeur est représenté par son agente, Mme Edwige Belliard, directrice des affaires juridiques au ministère des Affaires étrangères, et par Mme Nathalie Acel, sous-directrice des droits de l'homme au ministère des Affaires étrangères, co-agente, assistée de M. Sylvain Fournel et Rodolphe Feral,
+
+<<182.63;186.27;fr>>
+rédacteur à la sous-direction des droits de l'homme du ministère des Affaires étrangères.
+
+<<186.27;196.19;fr>>
+Mme Patricia Rouault-Chalier, sous-directrice des affaires juridiques générales et du contentieux au ministère de la Justice, et M. Eric Dumand, chef du Bureau du droit
+
+<<196.39;202.87;fr>>
+et du contentieux européen international et institutionnel au ministère de l'Intérieur, conseiller.
+
+<<203.83;207.79;fr>>
+La requérante est représentée par M. Ramby De Mello
+
+<<207.99;214.47;fr>>
+et Tony Muman, assisté de Mme Anastasia Vakulenko et M. Satvinder Singh Juss,
+
+<<214.47;218.91;fr>>
+et M. Eirik Bjorge et Ashraf Ali, conseil.
+
+<<219.83;226.67;fr>>
+Le gouvernement belge est représenté par sa co-agente, Mme Isabelle Niedlispacher.
+
+<<227.79;238.39;fr>>
+Ayant consulté l'agente du gouvernement défendeur, les représentants de la requérante et la représentante du gouvernement belge, j'ai fixé ainsi l'ordre de parole.
+
+<<238.95;246.31;fr>>
+Nous entendrons successivement Mme Belliard pour le gouvernement défendeur, puis M. De Mello et Muman pour la requérante,
+
+<<246.51;251.07;fr>>
+et enfin Mme Niedlispacher pour le gouvernement tiers intervenant.
+
+<<251.47;255.31;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<255.71;260.19;fr>>
+Je salue également les groupes de magistrats suivants en visite à la Cour.
+
+<<260.71;276.55;fr>>
+Une délégation de la Cour de cassation et du Conseil d'Etat français, un groupe de juges de la Cour suprême d'Ukraine, une délégation du Haut conseil des juges et procureurs de Turquie, un groupe de juges bulgares et un groupe de juges et procureurs allemands.
+
+<<277.15;291.75;fr>>
+Je dois expliquer qu'en suce de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en russe et en turc a été autorisée au profit des magistrats ukrainiens et turcs qui assistent à l'audience.
+
+<<291.99;299.19;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<299.19;301.63;fr>>
+La parole est à Mme Belliard.
+
+[[Government;GR1]]
+
+<<305.12;306.12;fr>>
+Merci, M. le Président.
+
+<<307.08;309.24;fr>>
+M. le Président, Mesdames et Messieurs les juges,
+
+<<310.32;319.84;fr>>
+un État peut-il, pour protéger les conditions essentielles de la vie en commun, poser quelques limites très mesurées à la liberté vestimentaire dans l'espace public?
+
+<<321.52;343.76;fr>>
+Autrement dit, peut-il faire usage de la marge d'appréciation qui est la sienne dans la recherche d'un équilibre entre la liberté de l'individu, d'une part, et l'intérêt public et les principes fondamentaux sur lesquels ils se fondent, d'autre part, en interdisant, uniquement dans cet espace partagé qu'est l'espace public, les tenues vestimentaires qui dissimulent le visage?
+
+<<345.72;353.64;fr>>
+Telle est sur le fond la question aujourd'hui soumise à votre appréciation, dès lors que vous estimeriez la requête recevable, point sur lequel je reviendrai.
+
+<<355.76;371.8;fr>>
+Afin d'éviter toute ambiguïté, il importe de rappeler le contenu exact de la loi du 11 octobre 2010, portant interdiction de la dissimulation du visage dans l'espace public, ainsi que le contexte dans lequel cette loi a été adoptée.
+
+<<371.8;375.24;fr>>
+L'article 1er énonce la règle suivante.
+
+<<375.24;382.56;fr>>
+Nul ne peut, dans l'espace public, porter une tenue destinée à dissimuler son visage.
+
+<<382.56;388.52;fr>>
+L'article 2 définit l'espace public et prévoit quelques exceptions indispensables.
+
+<<388.52;410.72;fr>>
+Tenues prescrites ou autorisées par des dispositions législatives ou réglementaires, c'est le cas par exemple du casque pour les utilisateurs de deux roues, tenues justifiées pour des raisons de santé ou des motifs professionnels, tenues s'inscrivant dans le cadre de pratiques sportives, de fêtes ou de manifestations artistiques ou traditionnelles.
+
+<<410.72;421.8;fr>>
+L'article 3 prévoit que la méconnaissance de l'interdiction posée par la loi et punie de l'amende prévue pour les contraventions de seconde classe soit 150 euros maximum.
+
+<<421.8;430.76;fr>>
+L'obligation de suivre un stage de citoyenneté peut être prononcée en même temps ou à la place de la peine d'amende.
+
+<<430.76;436.36;fr>>
+L'article 4 crée un nouveau délit, la dissimulation forcée du visage.
+
+<<436.36;447.6;fr>>
+Ainsi, le fait pour toute personne d'imposer à une ou plusieurs autres personnes de dissimuler son visage est pénalement sanctionné.
+
+<<447.6;465.24;fr>>
+La loi a été adoptée à la suite du travail approfondi d'une mission parlementaire associant des élus de toute tendance politique, laquelle a procédé à l'audition de nombreuses personnes d'opinions variées, tant musulmanes que non musulmanes.
+
+<<465.24;473.6;fr>>
+Elle est le résultat d'un large débat démocratique au cours duquel la société civile a été consultée.
+
+<<473.6;488.6;fr>>
+Elle fait également suite à l'adoption par l'Assemblée nationale à l'unanimité d'une résolution se référant à la Convention européenne des droits de l'homme qui condamne les pratiques radicales attentatoires à la dignité et à l'égalité entre les hommes et les femmes.
+
+<<488.6;495.68;fr>>
+Elle reflète en cela une forte conviction existante au sein de la population française.
+
+<<495.68;503.08;fr>>
+Elle a enfin été examinée et validée par le Conseil constitutionnel avant sa promulgation.
+
+<<503.08;511.04;fr>>
+Avant d'aborder le fond, il nous paraît essentiel de se pencher sur l'irrecevabilité de la requête tant elle nous paraît manifeste.
+
+<<511.04;520.32;fr>>
+La lecture de la requête de Mme Essayes donne à penser que l'on se situe ici bien loin de l'usage normal du droit de recours individuel.
+
+<<520.32;527.88;fr>>
+La requête a été en effet introduite le jour même de l'entrée en vigueur des dispositions critiquées.
+
+<<527.88;539.36;fr>>
+A cela s'ajoute le temps nécessaire à la requérante pour les contacts avec un avocat britannique et le temps nécessaire à ce dernier pour établir une requête adroitement rédigée.
+
+<<539.36;546.96;fr>>
+Il est ainsi manifeste que la décision d'introduire une requête devant la Cour a été prise bien avant la promulgation de la loi.
+
+<<546.96;552.6;fr>>
+Inutile donc de rechercher dans la requête un quelconque épuisement des voies de recours internes.
+
+<<552.6;561.92;fr>>
+Bien plus, on est en droit de se demander s'il existe bien dans ce dossier une victime au sens de la Convention et de votre jurisprudence.
+
+<<561.92;571.76;fr>>
+Selon votre jurisprudence, le requérant doit établir, pour se prévaloir de la qualité de victime, que ses droits ont été effectivement lésés par la mesure en cause.
+
+<<571.76;580.64;fr>>
+Or, la requérante ne fait nullement état d'une quelconque mesure la concernant personnellement et résultant de l'application de la loi critiquée.
+
+<<580.64;592.08;fr>>
+Certes, votre Cour a adopté une définition autonome de la notion de victime et développé, dans des conditions très exceptionnelles et spécifiques, une conception extensive de cette notion.
+
+<<592.08;615.68;fr>>
+En particulier, tout en maintenant le principe selon lequel la notion de victime implique que les droits du requérant aient été effectivement et concrètement atteints, la Cour reconnaît, mais à titre très exceptionnel, la qualité de victime à certaines personnes simplement susceptibles d'être touchées par l'effet prétendument constitutif de l'ingérence.
+
+<<615.68;643.12;fr>>
+Elle a ainsi admis la notion de victime potentielle dans certains cas précis, lorsque le requérant n'était pas en mesure de démontrer que la législation qu'il incriminait lui avait été effectivement appliquée, du fait du caractère secret des mesures qu'elle autorisait, lorsque le requérant était obligé de changer de comportement sous peine de poursuite ou lorsqu'il faisait partie d'une catégorie de personnes risquant de subir directement les effets de la législation.
+
+<<643.12;648.76;fr>>
+Madame SS, peut-elle être qualifiée de victime potentielle au sens de votre jurisprudence?
+
+<<648.76;652.88;fr>>
+Là encore, la réponse est négative.
+
+<<652.88;664.08;fr>>
+Certes, la requête indique que Mme SS est de confession musulmane et porte en raison de sa lecture des textes fondateurs de l'islam un voile dissimulant intégralement son visage.
+
+<<664.08;668.08;fr>>
+Elle serait donc contrainte de modifier son comportement.
+
+<<668.08;672.6;fr>>
+Mais aucun élément concret ne vient étayer cette thèse.
+
+<<672.6;685.56;fr>>
+Rien ne permet de déterminer avec un quelconque degré de probabilité, sinon de certitude, quel était le comportement réel de la requérante, que ce soit avant ou après l'entrée en vigueur de la loi.
+
+<<685.56;690.88;fr>>
+La Cour est ainsi invitée à prendre comme en fait avérée une simple allégation.
+
+<<690.88;698.0;fr>>
+À cet égard, rien ne démontre que l'entrée en vigueur de la loi ait obligé la requérante à modifier une habitude ancienne et constante.
+
+<<698.0;703.88;fr>>
+Il n'est pas démontré que le port du voile intégral est pour la requérante une nécessité si impérieuse.
+
+<<703.88;714.96;fr>>
+Au contraire, la requête souligne que Mme Essaes n'hésite pas à fréquenter l'espace public à visage découvert lorsque cela se heurterait à des obstacles pratiques ou lors de rencontres en public.
+
+<<714.96;719.4;fr>>
+Son attitude dépendrait en fait des circonstances.
+
+<<719.4;737.2;fr>>
+Si l'on ajoute que la sanction pécuniaire prévue pour la dissimulation du visage est relativement modeste et qu'en outre, la loi ne confère à personne, y compris aux forces de l'ordre, le pouvoir de contraindre la requérante à ôter son voile, on peut s'interroger sur la gravité pour elle des conséquences de la loi.
+
+<<737.2;747.44;fr>>
+Par ailleurs, il est difficile d'isoler une catégorie de personnes spécifiquement affectées par la mesure en cause et à laquelle appartiendrait la requérante.
+
+<<747.44;767.0;fr>>
+En effet, l'interdiction de la dissimulation du visage dans l'espace public s'applique à tous, hommes ou femmes, sans distinction du motif qui inspire la pratique en cause, ni, et ce point est essentiel, de la modalité de dissimulation du visage, voile, cagoule, masque ou autre.
+
+<<767.0;778.88;fr>>
+Reconnaître à Mme Essayès la qualité de victime potentielle reviendrait donc à conférer à cette notion une exception extrêmement large qui relèverait, en réalité, de l'axiopopularisme.
+
+<<778.88;786.68;fr>>
+Or, votre cours, tout en faisant preuve d'une certaine souplesse, s'est toujours refusé, avec sagesse, à reconnaître cet axiopopularisme.
+
+<<786.68;794.84;fr>>
+Adopter une attitude inverse serait directement contraire à l'esprit du système instauré par la Convention et à l'intention de ses auteurs.
+
+<<794.84;802.44;fr>>
+Outre l'engorgement de la Cour qui en résulterait, cela ne manquerait pas de poser de sérieuses questions de sécurité juridique.
+
+<<802.44;808.88;fr>>
+Enfin, il est permis de s'interroger sur la réalité des éléments soumis à votre appréciation dans la présente espèce.
+
+<<808.88;811.16;fr>>
+Que trouve-t-on, en effet, dans la requête?
+
+<<811.16;826.56;fr>>
+Une argumentation présentée le jour même de l'entrée en vigueur de la loi, au nom d'une requérante n'ayant fait l'objet d'aucune procédure au niveau national et dont on ne sait rien, si ce n'est une description de ses opinions religieuses et de leur traduction aléatoire en matière de comportement.
+
+<<826.56;851.72;fr>>
+La Cour pourra d'ailleurs légitimement s'interroger sur le témoignage, witness statement, attribué à la requérante dans la mesure où ce document, dans lequel Mme Essayes entend présenter ses opinions religieuses et ses convictions personnelles, débute par l'affirmation selon laquelle elle serait née au Pakistan et non en France, comme pourtant indiqué dans l'ensemble de ses déclarations antérieures.
+
+<<851.72;861.2;fr>>
+A tout le moins, cela peut inciter à regarder avec circonspection le contenu des écritures produites devant vous.
+
+<<861.2;872.4;fr>>
+Il convient de souligner qu'en réalité, la loi en cause a fait à notre connaissance l'objet de quatre requêtes devant la Cour, celles de Mme Essayes et trois autres, toutes trois déclarées irrecevables.
+
+<<872.4;875.84;fr>>
+L'une, la requête 24.588 par 11,
+
+<<875.84;879.24;fr>>
+présentée au nom d'une personne morale, ne nous retiendra pas.
+
+<<879.24;882.8;fr>>
+Les deux autres, les requêtes 41.892 par 11
+
+<<882.8;887.0;fr>>
+de Mme M. contre France et 36.827 par 11
+
+<<887.0;889.96;fr>>
+de M. L. Mme Z. et leur fille contre France
+
+<<889.96;893.48;fr>>
+sont très étroitement similaires à celles de Mme Essayes.
+
+<<893.48;906.04;fr>>
+Rédigées par le même avocat britannique et également dépourvues de tout élément tangible, ces requêtes reprennent très largement la présentation, l'argumentation et jusqu'aux expressions employées par la requête de Mme Essayes.
+
+<<906.04;915.68;fr>>
+Des pans entiers sont ainsi repris à l'identique d'une requête à l'autre, laissant au lecteur la curieuse impression que les auteurs de ces requêtes seraient interchangeables.
+
+<<915.68;920.6;fr>>
+Une particularité peut en moins être relevée dans le récit présenté dans la requête de M. L.,
+
+<<920.6;923.16;fr>>
+Mme Z. et leur fille.
+
+<<923.16;932.04;fr>>
+En effet, alors qu'il est indiqué que Mme Essayes ne subirait aucune influence extérieure, la requête de M. L. et Mme Z. précise que l'épouse
+
+<<932.04;937.72;fr>>
+et leur fille de 5 ans portent le voile intégral à la demande et sur instruction de M. L.
+
+<<937.72;945.56;fr>>
+Et ce, pour respecter volontairement, nous dit-on, les attentes culturelles et religieuses, ainsi que l'autorité du mari et père.
+
+<<945.56;965.08;fr>>
+Pour autant, cette autre requête contient à l'identique, et sans craindre la contradiction, l'argumentation selon laquelle la requérante accepterait de ne pas porter le voile intégral dans certaines circonstances, dans la mesure où elle considère avant tout celui-ci comme un moyen de se recentrer sur ses pensées et d'exprimer sa foi.
+
+<<965.08;974.16;fr>>
+Le gouvernement regrette que l'ensemble des requêtes n'aient pas pu être examinées conjointement, ce qui aurait conduit à un éclairage complet sur cette loi.
+
+<<974.16;987.4;fr>>
+Ces requêtes, présentées comme individuelles, ne constituent rien d'autre qu'une axio popularis, visant à ce que la Cour statue, in abstracto, en dehors de tout litige, sur la conformité d'une législation nationale à la Convention.
+
+<<987.4;1003.48;fr>>
+Plus encore, alors même que la loi critiquée s'applique à 65 millions de Français, parmi lesquels plusieurs millions de musulmans, on ne peut qu'être frappé par le fait que seules quatre requêtes ont été portées devant la Cour en provenance directe ou indirecte du Royaume-Uni.
+
+<<1003.48;1021.16;fr>>
+En tout état de cause, pour l'ensemble des motifs qui viennent d'être exposés, le gouvernement français invite la Cour à conclure à l'irrecevabilité de la requête, sauf à considérer que tout citoyen auquel une loi est potentiellement applicable pourra venir la contester devant vous.
+
+<<1021.16;1029.76;fr>>
+Les détracteurs de la Cour verront là un moyen aisé de l'engorger et de porter atteinte à son efficacité.
+
+<<1029.76;1042.76;fr>>
+Sur le fond, et pour s'en tenir au grief communiqué au gouvernement, la requérante invoque la violation des articles 8 et 9 de la Convention, pris isolément ou combinés avec l'article 14.
+
+<<1042.76;1057.4;fr>>
+S'agissant de l'article 9, je rappelle que l'interdiction prévue par la loi vise toute tenue destinée à dissimuler le visage dans l'espace public, quelle qu'en soit la forme et quelle qu'en soit la raison, sauf exception prévue par la loi.
+
+<<1057.4;1061.6;fr>>
+Aucun vêtement ni aucune religion ne sont mentionnés dans la loi.
+
+<<1061.6;1070.96;fr>>
+La pratique du port du voile intégral n'a été qu'un révélateur, confirmant la place éminemment centrale du visage dans la vie sociale.
+
+<<1070.96;1078.0;fr>>
+Aucun traitement particulier n'est réservé aux tenues portées pour des raisons religieuses ou culturelles.
+
+<<1078.0;1097.44;fr>>
+Néanmoins, dès lors que certaines tenues destinées à dissimuler intégralement le visage sont portées pour des raisons religieuses ou présentées comme telles, l'interdiction peut effectivement entrer en conflit avec la manière selon laquelle certains ou certaines entendent manifester leur religion dans l'espace public.
+
+<<1097.44;1103.92;fr>>
+Cela ne suffit pas toutefois pour conclure à une violation de l'article 9 de la Convention.
+
+<<1103.92;1119.76;fr>>
+Selon votre jurisprudence, telle qu'elle résulte notamment de l'arrêt Leila Sahin contre Turquie de 2005, la liberté de conscience ne garantit pas toujours le droit de se comporter d'une manière dictée par une conviction.
+
+<<1119.76;1126.84;fr>>
+Elle ne confère pas aux individus le droit de se soustraire à des règles qui se sont révélées justifiées.
+
+<<1126.84;1146.6;fr>>
+D'une manière générale, la Cour reconnaît à l'État une ample marge d'appréciation lorsqu'il s'agit de rechercher un équilibre entre l'intérêt privé des individus et les intérêts publics dont l'État a la charge, ou lorsque l'intérêt privé en cause peut entrer en conflit avec d'autres droits protégés par la Convention.
+
+<<1146.6;1167.72;fr>>
+Pour délimiter l'ampleur de cette marge d'appréciation, la Cour tient compte de l'enjeu, à savoir la protection des droits et libertés d'autrui, les impératifs de l'ordre public, la nécessité de maintenir la paix civile et un véritable pluralisme religieux, indispensable pour la survie d'une société démocratique.
+
+<<1167.72;1175.56;fr>>
+Or, au cas présent, les objectifs et principes enjeux sont d'une importance essentielle pour l'État et la société française.
+
+<<1175.56;1199.8;fr>>
+Il s'agit, outre la sécurité publique, du respect des exigences minimales de la vie en société, de la préservation de l'égalité entre hommes et femmes et de la défense de la dignité de la personne humaine, autant de valeurs qui forment le socle minimal d'une société démocratique ouverte et qui sont celles, nous semble-t-il, du Conseil de l'Europe.
+
+<<1199.8;1212.64;fr>>
+En premier lieu, les impératifs d'ordre public imposent que tout individu puisse être identifié en cas de besoin afin de prévenir les atteintes à la sécurité des personnes et des biens ou encore de lutter contre la fraude identitaire.
+
+<<1212.64;1222.64;fr>>
+Sur ce point, comme l'a relevé le Conseil constitutionnel, la loi a complété et généralisé à des fins de protection de l'ordre public des règles jusque-là réservées à des situations ponctuelles.
+
+<<1222.64;1246.56;fr>>
+Celle fut également la position de la Cour de cassation qui a jugé que la loi en cause, en ce qu'elle vise à protéger l'ordre et la sécurité publique en imposant à toute personne circulant dans un espace public de montrer son visage, constitue dans une société démocratique une mesure nécessaire et conforme aux stipulations de l'article 9 de la Convention.
+
+<<1246.56;1259.24;fr>>
+En deuxième lieu, l'espace public est le lieu de la vie en société où la personne est conduite à entrer en relation avec d'autres, ne serait-ce que par simple coexistence.
+
+<<1259.24;1264.92;fr>>
+Certes, l'espace public permet au nom du pluralisme l'affirmation de diverses convictions.
+
+<<1264.92;1273.68;fr>>
+Cependant, certaines limites, précisément destinées à garantir ce pluralisme, doivent exister.
+
+<<1273.68;1291.12;fr>>
+Or, montrer son visage et la manifestation du minimum de confiance indispensable à la vie en commun dans une société égalitaire, ouverte et démocratique, c'est l'une des conditions de ce qui est nommé dans le débat français de vivre ensemble et qui vise à préserver la relation à autrui.
+
+<<1291.12;1301.8;fr>>
+La dissimulation intégrale du visage dans l'espace public est, à contrario, la négation du principe de reconnaissance de l'individu qui est au fondement de la société.
+
+<<1301.8;1308.72;fr>>
+En troisième lieu, l'un des objectifs majeurs de la loi est la défense de l'égalité entre hommes et femmes.
+
+<<1308.72;1316.88;fr>>
+On ne peut nier que s'était développée dans les années précédentes à l'adoption de la loi en cause la pratique du port du voile intégral.
+
+<<1316.88;1320.4;fr>>
+C'est celle, d'ailleurs, qu'évoque le Conseil du Law requérante.
+
+<<1320.4;1324.76;fr>>
+Cette pratique s'est manifestée par le port de la burqa ou du nikkab.
+
+<<1324.76;1332.36;fr>>
+La burqa est un vêtement qui couvre entièrement la tête et le corps et une grille, ou un voile fin au niveau des yeux, permet de voir sans être vu.
+
+<<1332.36;1337.44;fr>>
+Le nikkab, lui, est un voile qui couvre tout le visage sauf les yeux.
+
+<<1337.44;1355.04;fr>>
+L'un comme l'autre doivent être soigneusement distingués du hijab, voile que, de façon courante, les femmes musulmanes se placent sur la tête en laissant le visage apparent et qui n'entrent pas dans le champ d'application de l'interdiction posée par la loi du 11 octobre 2010.
+
+<<1355.04;1364.72;fr>>
+À l'inverse, le port du nikkab ou de la burqa est une attitude infiniment minoritaire puisqu'il est estimé qu'elle ne concernerait que 2 000 femmes environ.
+
+<<1364.72;1371.8;fr>>
+Le voile intégral porté dans l'espace public, conduit à la dissimulation du visage des seules femmes dans la sphère publique.
+
+<<1371.8;1378.36;fr>>
+Partant, il induit une forme de restriction de la relation sociale pour les seules femmes.
+
+<<1378.36;1383.08;fr>>
+Nikkab et burqa ne se contentent pas de faire obstacle à l'identification d'une personne.
+
+<<1383.08;1384.8;fr>>
+Ils font bien davantage.
+
+<<1384.8;1389.08;fr>>
+Ils la rendent indiscernable de toutes celles qui portent ce même vêtement.
+
+<<1389.08;1393.92;fr>>
+Cette indifférenciation efface les femmes de la sphère publique.
+
+<<1393.92;1402.52;fr>>
+Il y a donc là une négation de l'égalité entre hommes et femmes qui est l'une des valeurs les plus fondamentales des sociétés démocratiques modernes.
+
+<<1402.52;1411.68;fr>>
+Je crois qu'il est inutile de rappeler que cette égalité défendue avec ardeur par le Conseil de l'Europe, elle est également portée avec force dans l'enseigne des Nations Unies.
+
+<<1411.68;1424.64;fr>>
+Ni l'enquête sur laquelle s'appuie la Ghent University Human Rights Center, ni l'étude citée par Ampenne Society of Justice me sont convaincantes, tant leur pertinence scientifique est sujette à caution.
+
+<<1424.64;1438.68;fr>>
+En effet, la méthode retenue par ces deux études souffre du biais inhérent aux enquêtes en réseau, dès lors qu'elles consistent à sélectionner des personnes ayant déjà entre elles des affinités ou au moins une certaine communauté de vue.
+
+<<1438.68;1442.28;fr>>
+En outre, elles reposent sur un échantillon réduit.
+
+<<1442.28;1454.12;fr>>
+Il ne saurait donc être déduit de ces études, à la fois fragiles et limitées, que le port du voile intégral serait exclusivement le fait de femmes libres et indépendantes.
+
+<<1454.12;1458.72;fr>>
+Ces deux études ne sauraient occulter les constats faits par d'autres sur le terrain.
+
+<<1458.72;1477.24;fr>>
+En particulier, le gouvernement a exposé dans ses observations un témoignage rapporté aux membres de la mission parlementaire par Mme Siem Hap Chye, membre de la Haute Autorité de lutte contre les discriminations et présidente d'une association de défense des droits des femmes dans les quartiers.
+
+<<1477.24;1484.0;fr>>
+Ce témoignage était celui d'une jeune femme forcée au fil de la dérive extrémiste de son époux de porter le voile intégral.
+
+<<1484.0;1499.8;fr>>
+Nul doute que la décision de votre cour dans la présente affaire sera scrutée avec attention dans les pays membres du Conseil de l'Europe, mais aussi au-delà, par des femmes dans une situation identique à celle de la jeune femme entendue par la mission parlementaire.
+
+<<1499.8;1505.0;fr>>
+En quatrième et dernier lieu, la loi vise à protéger la dignité de la personne humaine.
+
+<<1505.0;1511.96;fr>>
+Le port d'une tenue destinée à dissimuler le visage a pour effet d'effacer la personne de l'espace social.
+
+<<1511.96;1518.28;fr>>
+On ne peut considérer un tel effet comme conforme à la dignité humaine.
+
+<<1518.28;1526.36;fr>>
+Compte tenu de l'importance des principes en jeu, l'État n'a nullement outrepassé la marge d'appréciation que la Cour lui reconnaît.
+
+<<1526.36;1531.16;fr>>
+La loi critiquée est strictement proportionnée aux buts à atteindre.
+
+<<1531.16;1536.64;fr>>
+Elle est, par surcroît, marquée du saut de la souplesse et de la pédagogie.
+
+<<1536.64;1547.72;fr>>
+Afin de laisser le temps au public de prendre connaissance de l'interdiction posée par la loi, l'entrée en vigueur de cette prohibition a été différée à six mois après la promulgation de la loi.
+
+<<1547.72;1551.52;fr>>
+Elle a été accompagnée d'un important effort de pédagogie.
+
+<<1551.52;1561.16;fr>>
+Campagne d'affichage dans les lieux publics, dépliant mis à la disposition des usagers dans les locaux administratifs accueillant du public, sites Internet pédagogiques.
+
+<<1561.16;1567.72;fr>>
+La mesure d'interdiction elle-même, ainsi que les sanctions prévues, sont strictement proportionnées aux buts poursuivis.
+
+<<1567.72;1578.52;fr>>
+Tout d'abord, la loi prohibe la seule forme extrême de choix vestimentaire que constitue la dissimulation totale du visage, quel que soit le motif de cette dissimulation.
+
+<<1578.52;1585.12;fr>>
+Chacun reste donc libre de porter dans l'espace public un vêtement destiné à exprimer une conviction religieuse.
+
+<<1585.12;1594.88;fr>>
+En particulier, une femme qui estime que sa foi lui recommande de porter dans l'espace public un voile est parfaitement libre de le faire, dès lors qu'il laisse apparaître le visage.
+
+<<1594.88;1599.52;fr>>
+Il n'a jamais été question de porter atteinte à cette liberté.
+
+<<1599.52;1615.72;fr>>
+Votre cours ne retiendra donc pas la confusion entretenue par les conseils de la requérante et par certaines parties intervenantes entre la problématique des signes religieux tels que le voile au sens large et celle de la dissimulation intégrale du visage.
+
+<<1615.72;1622.04;fr>>
+Ensuite, la sanction prévue en cas de violation de l'interdiction est elle-même pédagogique pour deux raisons.
+
+<<1622.04;1626.6;fr>>
+D'une part, l'obligation d'effectuer un stage de citoyenneté peut être prononcée.
+
+<<1626.6;1635.12;fr>>
+Ce stage a pour objet de rappeler les valeurs républicaines de tolérance et de respect de la dignité humaine sur lesquelles est fondée la société.
+
+<<1635.12;1641.12;fr>>
+D'autre part, le ministère public peut adapter la sanction au contexte de l'infraction.
+
+<<1641.12;1654.2;fr>>
+Enfin, ainsi qu'il a été soigneusement précisé dans chacune des circulaires prises aux fins d'application de la loi, celle-ci ne confère en aucun cas, ni à un particulier ni à un agent public, le pouvoir de contrainte d'une personne à se découvrir.
+
+<<1654.2;1661.72;fr>>
+L'exercice d'une telle contrainte constituerait une voie de fait et exposerait son auteur à des poursuites pénales.
+
+<<1661.72;1666.8;fr>>
+Proportionner la mesure est également nécessaire à la réalisation de l'objectif.
+
+<<1666.8;1675.0;fr>>
+D'une part, les initiatives de médiation à destination des personnes concernées conduites avant la loi sont apparues insuffisantes.
+
+<<1675.0;1683.52;fr>>
+D'autre part, il n'est pas efficace de limiter la prohibition au seul fait de contraindre autrui à dissimuler son visage.
+
+<<1683.52;1686.72;fr>>
+La contrainte est extrêmement difficile à établir.
+
+<<1686.72;1691.56;fr>>
+Les victimes peuvent hésiter à la dénoncer.
+
+<<1691.56;1708.2;fr>>
+Le législateur a donc préféré une règle claire et objective, applicable à tous et en tous points du territoire, qui peut aussi être un véritable point d'appui pour la femme ou la jeune fille pour refuser un comportement qui lui serait fortement suggéré.
+
+<<1708.2;1717.16;fr>>
+On ne saurait être convaincu, enfin, par l'argument selon lequel la mesure conduirait à confiner les femmes à la maison et à les exclure de la vie publique.
+
+<<1717.16;1721.04;fr>>
+Tout d'abord, ce risque souvent évoqué n'a jamais été prouvé.
+
+<<1721.04;1736.6;fr>>
+Ensuite, il ne dit par lui-même rien de la validité de la loi, si ce n'est la détermination de ceux qui la contestent à s'y soustraire, quoi qu'il arrive, même au prix d'une claustration volontaire ou imposée.
+
+<<1736.6;1749.32;fr>>
+Par ailleurs, la marge d'appréciation dont cette loi participe doit s'apprécier en tenant compte du fait qu'un nombre croissant d'États réfléchissent à une interdiction de la dissimulation du visage dans certains espaces.
+
+<<1749.32;1761.8;fr>>
+C'est en premier lieu le cas de la Belgique, qui a adopté le 1er juin 2011 une loi, entrée en vigueur le 23 juillet 2011, interdisant la dissimulation du visage dans l'espace public.
+
+<<1761.8;1771.12;fr>>
+Mais c'est aussi le cas en Italie, où un avant-projet de loi interdisant le port d'unicab et de la burqa a été approuvé par une commission parlementaire en août 2011.
+
+<<1771.12;1774.28;fr>>
+Il doit encore être adopté par le Parlement.
+
+<<1774.28;1786.92;fr>>
+En 2012, aux Pays-Bas, un projet de loi similaire interdisant d'avoir le visage couvert dans les espaces publics, les établissements scolaires, les hôpitaux et les transports publics pour des raisons de sécurité a été discuté.
+
+<<1786.92;1797.48;fr>>
+En Suisse, les électeurs du canton du Tessin ont approuvé à plus de 65 % par référendum l'interdiction de la dissimulation du visage dans les lieux publics.
+
+<<1797.48;1813.12;fr>>
+Certes, d'autres pays jugent préférable, plutôt que de recourir à la loi, de laisser chaque institution, chaque établissement, chaque juridiction apprécier au cas par cas, dans les circonstances propres à chaque espèce, s'il convient ou non d'interdire le port du voile intégral.
+
+<<1813.12;1837.16;fr>>
+Nous ne sommes pas certains qu'une traite d'approche soit en tout point préférable, notamment en ce qu'elle fait reposer sur des individus, magistrats, directeurs d'écoles ou autres, une appréciation délicate par nature, et les laisse en définitive, seuls et parfois démunis, face à des revendications qui les dépassent et qui font l'objet parfois de controverses vives.
+
+<<1837.16;1851.48;fr>>
+En témoigne ainsi, par exemple, ce cas ayant reçu une certaine attention publique d'un juge britannique appelé à se prononcer sur le point de savoir si une prévenue pouvait comparaître dissimulée sous un voile intégral.
+
+<<1851.48;1865.6;fr>>
+Dans son ordonnance, ce magistrat a regretté, en termes non équivoques, qu'il lui revienne de régler seul une question complexe relevant, selon lui, du domaine de la loi.
+
+<<1865.6;1881.72;fr>>
+À ce qui précède, compte tenu des objectifs et de l'importance des principes en jeu essentiels pour l'Etat et la société, la France n'a pas outrepassé sa marge d'appréciation en posant des limites mesurées à la liberté vestimentaire dans l'espace public.
+
+<<1881.72;1893.36;fr>>
+La loi soumise à l'examen de la Cour vise à sauvegarder des valeurs qui sont au cœur de la République et dont, selon le gouvernement, le Conseil de l'Europe doit être le garant.
+
+<<1893.36;1898.72;fr>>
+S'agissant de l'article 8 de la Convention, son applicabilité en l'espèce ne va pas de soi.
+
+<<1898.72;1902.4;fr>>
+La loi ne concerne que l'espace public et non les lieux de vie privée.
+
+<<1902.4;1912.16;fr>>
+Par ailleurs, on voit mal en quoi l'interdiction porterait atteinte à d'autres aspects de la vie privée, tels que l'intimité ou l'intégrité de la personne.
+
+<<1912.16;1919.76;fr>>
+S'agissant de l'article 14, l'invocation de la discrimination en fonction du sexe ne vous retiendra pas longtemps.
+
+<<1919.76;1933.76;fr>>
+L'un des objectifs essentiels de la loi est justement de lutter contre la discrimination fondée sur le sexe, que constitue l'effacement de la femme de l'espace public par le biais du port du voile intégral.
+
+<<1933.76;1946.2;fr>>
+Quant à la prétendue discrimination à l'encontre des musulmans, et en particulier des femmes musulmanes, il convient de rappeler que la pratique du voile intégral n'est en rien une pratique courante parmi les millions de femmes musulmanes vivant en France.
+
+<<1946.2;1953.04;fr>>
+Elle a d'ailleurs été fortement critiquée par les éminentes personnalités musulmanes entendues au cours des travaux préparatoires de la loi.
+
+<<1953.04;1961.8;fr>>
+Au surplus, l'interdiction ne vise pas uniquement le voile intégral, mais, sauf exception, toute pratique de dissimulation du visage.
+
+<<1961.8;1972.72;fr>>
+Pour conclure, je soulignerai que la liberté religieuse n'est nullement menacée en France, pas plus que la liberté de se vêtir à sa guise sous la seule réserve des comportements extrêmes.
+
+<<1972.72;1986.84;fr>>
+Mais je soulignerai aussi que la dissimulation intégrale du visage dans l'espace public porte atteinte à l'égalité entre les personnes, à la dignité de la personne et aux fondements de la vie en société, qui sont au cœur de nos valeurs et de celles du Conseil de l'Europe.
+
+<<1986.84;1991.24;fr>>
+Il s'agit de valeurs sur lesquelles il n'est pas possible de transiger.
+
+<<1991.24;2007.4;fr>>
+Il convient de mettre en balance la perception subjective que certaines personnes peuvent avoir de ce qui est admissible au nom des libertés garanties par la Convention, et le devoir qui incombat l'État de garantir les conditions nécessaires à la vie en commun dans une société démocratique.
+
+<<2007.4;2025.88;fr>>
+C'est pourquoi, dans l'hypothèse où vous jugeriez cette requête recevable, je vous invite à considérer qu'en adoptant la loi contestée par Mme Saës, l'État a fait un usage approprié de sa marge d'appréciation et trouvé un juste équilibre entre la liberté vestimentaire dans l'espace public et les principes fondamentaux qu'il a pour mission de protéger.
+
+<<2025.88;2025.88;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2029.36;2036.0;fr>>
+Merci Madame Belliard. Je donne maintenant la parole à messieurs De Mello et Muman.
+
+[[Applicant;AP1]]
+
+<<2038.52;2042.28;en>>
+Mr. President, distinguished members of the court,
+
+<<2042.28;2044.64;en>>
+it is our pleasure to address you.
+
+<<2044.64;2054.24;en>>
+In these proceedings, I will define the full-face veil as a burka, and I'll stick to that jargon.
+
+<<2054.24;2062.7;en>>
+First, the applicant has not attended the hearing because of the ban, the publicity, and the possible hostile reaction.
+
+<<2062.7;2071.09;en>>
+This new law bans her right to take part in these proceedings in reality.
+
+<<2071.09;2073.92;en>>
+I would invite the court, Mr. President,
+
+<<2073.92;2086.51;en>>
+not to draw any adverse inferences from her non-attendance, even if it is suggested by the respondent's state that her claim lacks genuineness.
+
+<<2086.51;2096.28;en>>
+The anonymity that is granted to her is, in fact, a recognition of the dilemma that she has been placed.
+
+<<2096.28;2111.53;en>>
+The Canadian and UK case law does not compel a witness or defendant to use the full-face veil if it would mean that a case is prejudiced unfairly.
+
+<<2111.53;2127.84;en>>
+But in fact, a woman defending a prosecution against this new regulation for wearing a full-face veil or the burka will be expected to be uncovered, the strikes at the heart of a right to have a fair trial.
+
+<<2127.84;2130.44;en>>
+Next, the victim status.
+
+<<2130.44;2141.8;en>>
+The striking feature in this case is the threat of prosecution for wearing a burka, irrespective of the motive for wearing it.
+
+<<2141.8;2149.64;en>>
+Just like the applicant in Dijon 30 years ago, this court is faced with an unpopular theme.
+
+<<2149.64;2151.72;en>>
+The present law is a new one.
+
+<<2151.72;2154.92;en>>
+Some member states are considering it.
+
+<<2154.92;2163.68;en>>
+Our question we ask is, do you expect that she should only become a victim after being prosecuted?
+
+<<2163.68;2174.4;en>>
+And if she has to be put through that passage and suffer the consequences of a conviction, that too might affect her career.
+
+<<2174.4;2182.36;en>>
+There is evidence in a witness statement that she has changed her practice of wearing the burka once the law took effect.
+
+<<2182.36;2189.32;en>>
+This itself is a disadvantage, and she feels like a prisoner in her own home.
+
+<<2189.32;2192.16;en>>
+Next, the exhaustion of remedies.
+
+<<2192.16;2203.01;en>>
+The administrative court in France has ruled that the law banning the burka is compatible with Article 9, the respondents' written submissions at paragraph 205.
+
+<<2203.01;2208.49;en>>
+We respectfully submit that the new regulation is prescriptive.
+
+<<2208.49;2213.4;en>>
+It amounts to a prohibition on wearing it in public places.
+
+<<2213.4;2215.53;en>>
+There are no defenses available.
+
+<<2215.53;2220.49;en>>
+And the reasons for wearing the burka is not or are not relevant.
+
+<<2220.49;2224.61;en>>
+Individual facts are not investigated in the criminal proceedings.
+
+<<2224.61;2233.36;en>>
+And therefore, it cannot be said she is not a victim simply because she hasn't been prosecuted.
+
+<<2233.36;2237.57;en>>
+Our case is based on Articles 8, 9, 10, and 14.
+
+<<2237.57;2242.92;en>>
+In relation to Article 8, we make about eight or nine points.
+
+<<2242.92;2254.34;en>>
+First, the effect of the legislation is to keep her, as we contend, a prisoner in her own home at the time she wants to wear the burka in public.
+
+<<2254.34;2259.2;en>>
+Second, wearing it in public gives her an extended sense of privacy.
+
+<<2259.2;2263.12;en>>
+Her face, like one's DNA, is highly individualistic.
+
+<<2263.12;2270.66;en>>
+The concealment of a face in a public zone is her right to privacy whilst interacting with the public.
+
+<<2270.66;2276.36;en>>
+Wearing a burka does not, we say, convey a sign of extremism.
+
+<<2276.36;2286.16;en>>
+Third, the prohibition constitutes a denial of autonomy and self-determination taken by an adult woman freely chosen.
+
+<<2286.16;2298.88;en>>
+An assumption is made by the state that wearing the burka amounts to self-denial, confinement, and the state must intervene to liberate her and protect her from herself.
+
+<<2298.88;2302.84;en>>
+Next, it affects her psychological integrity and dignity.
+
+<<2302.84;2309.28;en>>
+It exposes her to the real risk of prosecution, and a conviction constitutes a stigma.
+
+<<2309.28;2318.53;en>>
+Next, in the case of a woman forced to wear the veil, the prosecution is an added evil to her troubles.
+
+<<2318.53;2324.76;en>>
+She's punished by coercion to wear the veil and faces the threat of conviction.
+
+<<2324.76;2340.4;en>>
+The invitation to undergo civic rehabilitation in any of these proceedings is an affront to her self-respect, amounts to severe humiliation, and she's required, give up your religious dress code in the name of secularization.
+
+<<2340.4;2346.05;en>>
+She's made to feel unpatriotic, torn between her loyalty to the state and her own autonomy.
+
+<<2346.05;2350.16;en>>
+For those reasons, we respectfully contend Article 8 is engaged.
+
+<<2350.16;2357.05;en>>
+As far as 9 goes, Article 9, the respondent reluctantly accepts that Article 9 is engaged.
+
+<<2357.05;2365.76;en>>
+It's not for the court to investigate the validity of the applicant's belief, and her witness statement sets out the nature of the belief.
+
+<<2365.76;2374.76;en>>
+The measure in this case, it relegates religious expression to a purely private sphere where the practice is least needed.
+
+<<2374.76;2376.97;en>>
+In a home, she's free to wear it.
+
+<<2376.97;2379.97;en>>
+An exception is made that she can wear it at the mosque.
+
+<<2379.97;2386.64;en>>
+We contend that these exceptions are too narrow and, in practice, are meaningless to her.
+
+<<2386.64;2400.28;en>>
+We say that it seeks to protect the comfort of the majority in public places by requiring a small disadvantaged group not to wear religious clothing in public for fear of offending the majority.
+
+<<2400.28;2412.8;en>>
+And we remind you that the protection of one religion and the concomitant non-protection of others imports disparate impact destructive of the religious freedoms of collectivity.
+
+<<2412.8;2422.8;en>>
+Any ordinary citizen is prevented from wearing the burqa at the time she's not performing public services, going about her normal activities in a peaceful way.
+
+<<2422.8;2432.49;en>>
+Mere day-to-day wearing of the burqa is banned, even though it is worn for purely personal, non-political reasons and where it is worn without compulsion.
+
+<<2432.49;2437.05;en>>
+The prohibition is the compulsion which is imposed on this group who wear it.
+
+<<2437.05;2441.97;en>>
+Even though they're not subject to compulsion from their male peers at home.
+
+<<2441.97;2451.8;en>>
+And the respondent, we note in the written and oral submissions, is no longer, as we understand it, relying on secularization as a legitimate aim.
+
+<<2451.8;2456.36;en>>
+Though this, as we understand it, was a ground for introducing the legislation.
+
+<<2456.36;2459.8;en>>
+May I say three brief things about Article 10.
+
+<<2459.8;2467.28;en>>
+First, prohibiting a person wearing a garment in public as an expression of religious freedom is offensive to Article 10.
+
+<<2467.28;2482.2;en>>
+Second, we ask the question, can the right of the majority not to be offended by a Muslim woman wearing the burqa trump or defeat her right to express herself in the clothing she wears in public without creating any sense of disorder?
+
+<<2482.2;2490.4;en>>
+We respectfully submit the state has interfered with freedom of expression, it would appear, on grounds of public morality and sensibilities.
+
+<<2490.4;2499.84;en>>
+As far as legitimate aim is concerned, we say we do not accept that concepts such as protecting the dignity and gender equality are legitimate aims.
+
+<<2499.84;2504.48;en>>
+We have dealt with this in our written submissions and I don't propose to say very much.
+
+<<2504.48;2507.84;en>>
+The most difficult issue is the margin of appreciation.
+
+<<2507.84;2516.2;en>>
+In this case, our main thrust is that the respondent is to be accorded a narrow margin of appreciation for these reasons.
+
+<<2516.2;2531.44;en>>
+Firstly, the state has a positive obligation to protect private life if Article 8 is engaged, where the intrusion is severe and affects an intimate aspect of identity or her lifestyle as described in the witness statement.
+
+<<2531.44;2544.12;en>>
+There is a serious interference with the private life in this case and the measure conflicts with an important and very intimate aspect of individual rights under 8, 9, 10, coupled with 14.
+
+<<2544.12;2550.36;en>>
+Secondly, the nature of the activities involved affects the scope of the margin of appreciation.
+
+<<2550.36;2555.28;en>>
+The nature of activities in this case are low level and purely inoffensive.
+
+<<2555.28;2564.09;en>>
+There is a lack of evidence presented to the court that the dignity of women is curtailed by the wearing of the burqa or that they are coerced into it.
+
+<<2564.09;2571.44;en>>
+The Council of State thought that the concept of dignity could not justify general ban as set out in the report.
+
+<<2571.44;2578.36;en>>
+We say, furthermore, she belongs to a small vulnerable group, some 2,000 estimated wearers.
+
+<<2578.36;2585.05;en>>
+There is no evidence that the victim group has been consulted with the exception of one woman heard by the Gerin Commission.
+
+<<2585.05;2588.92;en>>
+The width of the ban extends to public places.
+
+<<2588.92;2592.61;en>>
+It affects ordinary citizens wearing ordinary clothing.
+
+<<2592.61;2596.61;en>>
+We describe it as ordinary clothing without any political connotations.
+
+<<2596.61;2600.09;en>>
+This surely must limit the deference according to the state.
+
+<<2600.09;2621.8;en>>
+It's true that whilst there is no consensus within the member states, and we say notably presently only France and Belgium have banned it in public places, and my learned friend has given you examples of other member states, we say that other member states with a strong Muslim population have not banned the burqa in the way that the French state has done.
+
+<<2621.8;2633.05;en>>
+You know that the Spanish Supreme Court has ruled against the ban in public buildings, and you also know that the United Kingdom Court has allowed the defendant to wear it though not whilst giving evidence.
+
+<<2633.05;2638.4;en>>
+The French Constitutional Council on the 7th of October 2010 allowed the measure to pass.
+
+<<2638.4;2643.8;en>>
+It was a short brief, but did not accept the Council of States' thorough rejection of a wide ban.
+
+<<2643.8;2661.72;en>>
+And finally on this point, the Parliamentary Assembly in 2010 stated in Resolution 1743 that a general ban would deny women who freely desire to wear it the right to cover their face and urge member states to develop targeted policies to raise women's awareness.
+
+<<2661.72;2667.44;en>>
+But there is another additional reason for defining the scope of the margin of appreciation.
+
+<<2667.44;2687.36;en>>
+And this deals specifically with the state's submission to you, a positive assertion that in the case of Mansingh, the Turban cases, the court's jurisprudence shows that public security, public order is a legitimate aim which justifies the uncovering of the face.
+
+<<2687.36;2704.64;en>>
+May we say this, in three recent cases, the United Nations Human Rights Committee has taken a different view from the European Courts of Human Rights on the subject of the right to manifest religion by wearing religious attire.
+
+<<2704.64;2710.05;en>>
+And we have the cases of Mansingh, Jasveer Singh and Ranjit Singh.
+
+<<2710.05;2725.2;en>>
+The Strasbourg Court did not find that the restrictions placed on the applicants' freedom of religion constituted a violation of Article 9 as they were justified on the grounds of public safety, public order and rights and freedoms of others.
+
+<<2725.2;2731.88;en>>
+Notably, the Strasbourg Court recognised that France in all three cases had a margin of appreciation.
+
+<<2731.88;2743.05;en>>
+In contrast, in virtually indistinguishable cases, the Human Rights Committee found a violation of Article 18 of the ICCPR, which, Mr. President, members of the court,
+
+<<2743.05;2748.48;en>>
+you know, corresponds with Article 9, though not word for word.
+
+<<2748.48;2772.76;en>>
+We respectfully submit that this court could take into account the response of the Human Rights Committee because Article 53 of the European Convention of Human Rights contains guidance as to the construction of the Convention in relation to other human rights agreements, and particularly where France is a party to, namely the ICCPR.
+
+<<2772.76;2804.97;en>>
+We respectfully submit that there is no principle why it is inappropriate not to consider the approach of the Human Rights Committee in those cases when defining the permissible limitations on the right to manifest religion in the context of public security or public order, given in particular that France has made a positive assertion that these cases support their case.
+
+<<2804.97;2829.61;en>>
+Secondly, the Human Rights Committee's judgment in this case affirms and accords with the principles enunciated by way of example by Judge Tolkien's dissenting opinion in Sahin that where there has been interference with a fundamental right, the court's case law clearly establishes that mere affirmations do not suffice.
+
+<<2829.61;2834.05;en>>
+They must be supported by concrete examples.
+
+<<2834.05;2851.72;en>>
+Thirdly, we say in order to ensure that the restrictions on the applicant's freedom of religion is proportionate, this court ought to consider the legitimacy of the state's assertions rather than affording the state a wide margin of appreciation.
+
+<<2851.72;2863.12;en>>
+Otherwise, there is a danger that the mere worries and fear of the majority will readily overrule the rights and freedoms of persons belonging to religious minorities.
+
+<<2863.12;2877.57;en>>
+The Strasbourg Court does take into account relevant rules and principles of international law governing relations between contracting parties, and the court also takes into account the Vienna Convention, Article 31 to 33.
+
+<<2877.57;2889.01;en>>
+This, of course, does not mean that you, Mr President, members of the court, are bound slavishly to follow the judgments of the committee.
+
+<<2889.01;2895.48;en>>
+However, Mr President, we are not the poor relatives in this jurisprudence.
+
+<<2895.48;2899.52;en>>
+The entire world looks up to this court, and for very good reasons.
+
+<<2899.52;2905.32;en>>
+May I move to another very difficult aspect of the case, and that is Article 14.
+
+<<2905.32;2919.48;en>>
+We respectfully submit that the legislation, though neutral on its face, has a disparate impact on a disadvantaged group, namely Muslim women.
+
+<<2919.48;2922.01;en>>
+It sends a sectarian message.
+
+<<2922.01;2927.44;en>>
+Muslim women may not wear religious clothing, that's the burqa, in public.
+
+<<2927.44;2937.32;en>>
+The majority of the indigenous population in France are invariably Christians, and in reality, the regulation does not affect them.
+
+<<2937.32;2945.09;en>>
+In reality, the ban is not likely to affect others, but only this narrow, small group.
+
+<<2945.09;2952.61;en>>
+Mr President, some 2,000 Muslim women have stopped wearing the burqa since the law being introduced.
+
+<<2952.61;2956.44;en>>
+There is no evidence that this was a result of persuasion.
+
+<<2956.44;2965.01;en>>
+There is no evidence that this group of women have since changed their habits, or have chosen to move freely in public.
+
+<<2965.01;2973.53;en>>
+We say there is evidence that women have chosen, like the applicant, to remain prisoners in their own home at times they want to wear it.
+
+<<2973.53;2987.76;en>>
+Now, motive is not material in a case where it is alleged there's discrimination, but we note that President Sarkozy told the National Assembly in 2009 the burqa is not welcome on the territory of France.
+
+<<2987.76;2992.89;en>>
+This led the Parliamentary Commission being set up to consider the law banning the burqa.
+
+<<2992.89;2996.76;en>>
+The burqa is not only unwelcome, it is now illegal.
+
+<<2996.76;3010.72;en>>
+We take the view, and respectfully submit, Mr President, that this is a case which is very close to being one of direct discrimination, and this discrimination is based on suspect grounds, namely gender, ethnicity, and religion.
+
+<<3010.72;3029.57;en>>
+If this is a case purely of indirect discrimination, then we respectfully submit that very weighty reasons for this discrimination must be provided by the state to justify the discriminatory measure, even if the discrimination is an indirect one.
+
+<<3029.57;3045.28;en>>
+The measure in this case treats a historically disadvantaged group in a way that worsens the situation of this very small group, and we say that it is not justified because prosecuting them does not liberate them.
+
+<<3045.28;3048.01;en>>
+It increases their alienation.
+
+<<3048.01;3056.53;en>>
+May I deal finally with the issue of proportionality before I pass on the floor to Mr Moorman?
+
+<<3056.53;3062.48;en>>
+First, there is no evidence that women's dignity has been affected by the wearing of the burqa.
+
+<<3062.48;3065.57;en>>
+It is their dignity which is directly affected.
+
+<<3065.57;3072.93;en>>
+Second, it impinges on autonomous decisions taken by adult women on ordinary affairs.
+
+<<3072.93;3079.93;en>>
+Third, there is no evidence that this group wears the burqa to convey extremist views, as we have said.
+
+<<3079.93;3084.72;en>>
+Fourth, there is no evidence that the wearing of the burqa causes disorder.
+
+<<3084.72;3090.48;en>>
+Unveiling these women do not make them better citizens or facilitate integration.
+
+<<3090.48;3099.89;en>>
+Secularism has overshadowed multiculturalism by requiring minorities to forsake their own culture for those of the majority common values.
+
+<<3099.89;3115.28;en>>
+And finally, this measure is disproportionate reaction to a disadvantaged minority group with no evidence of a threat to social order, equality, liberty, or fraternity, other than to offer social comfort to the views of the vociferous majority.
+
+<<3115.28;3121.32;en>>
+And the New York Times has described the current law as banning a burqa, a kind of reverse Talibanism.
+
+<<3121.32;3123.01;en>>
+I pass you on now to Mr Moorman.
+
+<<3123.01;3123.01;en>>
+Thank you, Mr President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3126.04;3130.3;en>>
+Thank you, Mr. De Mello, Mr. Muman.
+
+[[Applicant;AP2]]
+
+<<3131.02;3140.6;en>>
+Distinguished members of the court, in the ten minutes or so that I have left, I too have the honour to be making submissions in support of the SAS delegation.
+
+<<3140.6;3151.96;en>>
+My submissions focus on and demonstrate the realities, contradictions, perversities, inequalities and absurdities of life under the ban.
+
+<<3151.96;3167.56;en>>
+Under the law it is not an offence to conceal a face when it is done for the purpose of party, artistic or traditional events, as well as for covering the face for religious processions when they have a traditional character.
+
+<<3167.56;3169.5;en>>
+Consider then the following examples.
+
+<<3169.5;3178.12;en>>
+A satirist wanting to mock the veil, or equally this law, is permitted to wear the veil in public.
+
+<<3178.12;3180.86;en>>
+The applicant is not.
+
+<<3180.86;3188.44;en>>
+The street performer on the Champs-Élysées who wishes to cover her face as part of her performance is permitted to do so.
+
+<<3188.44;3189.44;en>>
+The applicant cannot.
+
+<<3189.44;3200.76;en>>
+The party-goer who wishes to mask her face for the purpose of fancy dress, the masquerade ball, the Carnival de Paris, is permitted to do so.
+
+<<3200.76;3203.38;en>>
+The applicant cannot.
+
+<<3203.38;3222.58;en>>
+The Catholic lady who wishes to manifest her religious belief, or equally cultural values, during the religious processions of the Nice Carnival, which takes place in the two weeks preceding Lent, the Paris Carnival after the Feast of Food, or the Dunkirk Carnival between Epiphany and Mardi Gras, is permitted to cover her face in public.
+
+<<3222.58;3232.08;en>>
+If the applicant wishes to wear her veil during the holy month of Ramadan or on the holy day of Eid, she is prohibited to do so.
+
+<<3232.08;3238.84;en>>
+Comedies, satire and the arts are given greater credence under the law than the applicant's fundamental convention rights.
+
+<<3238.84;3247.88;en>>
+Wit and humour are given greater priority under the law than the applicant's deeply and sincerely held religious belief and cultural practice.
+
+<<3247.88;3260.92;en>>
+The choice to dress in a certain way for party reasons is given greater protection under the law than the applicant's compulsion for religious and cultural reasons to dress in a particular way.
+
+<<3260.92;3273.64;en>>
+The inescapable reality is that the manifestation of certain religious beliefs, to which the majority subscribe, is given greater respect under the law than the religious beliefs of others who fall within the minority.
+
+<<3273.64;3284.68;en>>
+Far from recognising the special needs of minorities and the obligation to protect their security, identity and lifestyle, the law chooses to ignore it.
+
+<<3284.68;3295.4;en>>
+Mr de Mello has made the point that we respectfully submit that the applicant's group is so small in number that it calls for recognition as a vulnerable group in its own right.
+
+<<3295.4;3302.24;en>>
+Let us then consider an example of the real-life absurdity during the course of a day in the applicant's life under this law.
+
+<<3302.24;3308.48;en>>
+At home whilst wearing the veil, she does not offend the law nor the fundamental principles of the Republic.
+
+<<3308.48;3316.52;en>>
+If she wears the veil between the front door of her home and the car door, she offends the law and, it is said, the fundamental principles of the Republic.
+
+<<3316.52;3322.32;en>>
+It is immaterial as to whether or not anybody is present in that public space at the given time.
+
+<<3322.32;3333.56;en>>
+In her car between her home and the mosque, even though others do see her throughout the journey whilst she wears her veil, she does not offend the law nor the fundamental principles of the Republic.
+
+<<3333.56;3344.12;en>>
+Between the car door and the mosque door, if she wears her veil, she offends the law and, it is said, the fundamental principles of the Republic, again, whether anybody sees her or not.
+
+<<3344.12;3355.28;en>>
+Once in the mosque, when veiled, she does not offend the law or the fundamental principles of the Republic, and the same legal absurdity repeats itself on the return journey home.
+
+<<3355.28;3359.04;en>>
+We remind the Court that the applicant is prepared to compromise.
+
+<<3359.04;3363.62;en>>
+For example, she is willing to remove her veil when there is a pressing social need.
+
+<<3363.62;3369.72;en>>
+She is willing to wear a veil which strikes a fair balance between visibility and modesty.
+
+<<3369.72;3374.5;en>>
+Convention law has always called for compromise and flexibility between State and individuals.
+
+<<3374.5;3383.86;en>>
+In this case, regrettably, it is the State that has been overtly oppressive on the one hand, whereas the applicant has offered genuine compromise on the other.
+
+<<3383.86;3396.64;en>>
+In these circumstances, we respectfully submit that the Respondent's legislation can hardly be said to be justified, particularly given its failure to have consulted veil-wearing Muslim women.
+
+<<3396.64;3405.16;en>>
+Notwithstanding her decision to wear her veil for both religious and cultural reasons, we respectfully submit the applicant is the model French citizen.
+
+<<3405.16;3409.04;en>>
+Her decision to wear her veil does not detract from this.
+
+<<3409.04;3410.94;en>>
+She is university educated.
+
+<<3410.94;3413.04;en>>
+She is an aspiring lawyer.
+
+<<3413.04;3415.86;en>>
+She has enjoyed work across Member States.
+
+<<3415.86;3420.46;en>>
+She is someone who is socially active and a strong-minded, independent lady.
+
+<<3420.46;3424.68;en>>
+She speaks passionately about her Republic.
+
+<<3424.68;3434.6;en>>
+The applicant underscores the reality that veil-wearing Muslim ladies are no less patriotic about the Republic than their non-veil-wearing comparators.
+
+<<3434.6;3439.8;en>>
+Yet it is this group that has acutely felt the effect of the ban more than any other.
+
+<<3439.8;3443.36;en>>
+We respectfully submit that the law is regressive.
+
+<<3443.36;3447.36;en>>
+In reality, the law operates to prosecute the persecuted.
+
+<<3447.36;3458.86;en>>
+In reality, it has had the effect of ostracizing minority communities all the more, and moreover, ostracizing the veil-wearing minority within that ostracized community.
+
+<<3458.86;3463.2;en>>
+In reality, it facilitates the abuse of a dominant position.
+
+<<3463.2;3467.16;en>>
+Perversely, the ban has heightened racial tensions.
+
+<<3467.16;3471.04;en>>
+Perversely, the ban has brought about hostility.
+
+<<3471.04;3476.36;en>>
+Perversely, the ban has made society all the more intolerant.
+
+<<3476.36;3483.76;en>>
+The perversity of the law is best summarized by the applicant herself in her witness statement from where I quote in closing, paragraph 14 for your note-taking purpose.
+
+<<3483.76;3490.36;en>>
+To be clear, neither my faith nor any man is dictating to me what I can wear in public.
+
+<<3490.36;3493.76;en>>
+Only the state is dictating that to me.
+
+<<3493.76;3498.66;en>>
+Neither my faith nor any man is restricting my liberty to choose my own clothing.
+
+<<3498.66;3501.56;en>>
+Only the state is restricting that liberty.
+
+<<3501.56;3508.16;en>>
+Neither my faith nor any man is compelling me to obey clothing restrictions and a specific threat of punishment.
+
+<<3508.16;3513.16;en>>
+Only the state would punish me if I failed to comply with its clothing restrictions.
+
+<<3513.16;3513.86;en>>
+Thank you for your time and attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3516.89;3519.49;fr>>
+Thank you, Mr. Muman.
+
+<<3519.49;3522.85;fr>>
+La parole est à Mme Niedlispacher.
+
+[[ThirdParty;TP1]]
+
+<<3524.7;3541.46;fr>>
+Monsieur le Président, Mesdames, Messieurs les Juges, Permettez-moi d'abord de remercier votre Cours d'avoir donné la possibilité à notre gouvernement de faire tierce intervention pour présenter ses observations sur les principes généraux en jeu dans la solution de l'affaire.
+
+<<3541.46;3561.84;fr>>
+Le gouvernement belge était désireux d'intervenir dans la procédure orale dans la mesure où sa loi du 1er juin 2011 visant à interdire le port de tout vêtement cachant totalement ou de manière principale le visage présente d'importantes similitudes avec la loi française du 11 octobre 2010.
+
+<<3561.84;3569.34;fr>>
+L'arrêt à intervenir aura dès lors un impact direct pour notre pays.
+
+<<3569.34;3585.14;fr>>
+Le législateur belge s'est interrogé sur la pertinence et la proportionnalité de son intervention avant de conclure qu'il était opportun de légiférer dans le domaine de la circulation et de l'interaction des personnes dans la sphère publique.
+
+<<3585.14;3593.62;fr>>
+Il s'est notamment penché sur l'origine de l'apparition du voile intégral en Belgique depuis environ 10 ans.
+
+<<3593.62;3598.74;fr>>
+Neuf femmes sur dix ont moins de 40 ans.
+
+<<3598.74;3601.74;fr>>
+Une femme sur quatre est convertie.
+
+<<3601.74;3605.26;fr>>
+La pratique serait plutôt récente.
+
+<<3605.26;3622.18;fr>>
+Mais il ne s'agit pas ici de déterminer quelle pourrait en être l'origine religieuse, politique ou traditionnelle, mais plutôt de montrer en quoi elle est incompatible avec la vie sociale dans nos États de droit.
+
+<<3622.18;3627.1;fr>>
+La loi belge repose sur trois préoccupations.
+
+<<3627.1;3635.86;fr>>
+D'abord, le port de vêtements dissimulant le visage de manière principale pose un problème de sécurité.
+
+<<3635.86;3640.3;fr>>
+Ensuite, il est un obstacle aux droits des femmes à l'égalité.
+
+<<3640.3;3646.78;fr>>
+Et enfin, de manière plus globale, il met en danger les conditions du vivre ensemble.
+
+<<3646.78;3650.3;fr>>
+Premier élément, la sécurité.
+
+<<3650.3;3658.06;fr>>
+Aucune personne ne peut s'arroger à la faveur de sa liberté individuelle ou religieuse.
+
+<<3658.06;3666.94;fr>>
+Le pouvoir de décider à quel moment et en fonction de quelles conditions elle accepte de montrer son visage dans l'espace public.
+
+<<3666.94;3676.94;fr>>
+L'appréciation des exigences de la sécurité publique relève nécessairement de l'autorité publique.
+
+<<3676.94;3696.38;fr>>
+C'est la raison pour laquelle on se réfère aux conditions des législations et réglementations particulières pour déterminer dans quelles circonstances précises le visage peut être masqué ou dissimulé en public, telles par exemple les manifestations religieuses, festives ou sportives.
+
+<<3696.38;3704.94;fr>>
+Nous répondons ainsi à l'argument présenté il y a quelques instants par le Conseil de la requérante.
+
+<<3704.94;3711.54;fr>>
+La loi ne vise pas à établir le contexte dans lequel les vérifications d'identité doivent être effectuées.
+
+<<3711.54;3720.34;fr>>
+Elle tente à entourer d'une commodité claire la libre circulation des personnes dans les lieux accessibles au public.
+
+<<3720.34;3735.86;fr>>
+Récemment, à la crèche communale d'Ixelles, les péricultrices ont demandé aux mamans porteuses de la burqa de bien vouloir se présenter à visage découvert pour pouvoir s'assurer qu'elles remettaient les jeunes enfants aux personnes habilitées à les reprendre.
+
+<<3735.86;3741.58;fr>>
+Deuxième élément, le droit des femmes à l'égalité.
+
+<<3741.58;3756.94;fr>>
+La question du droit des femmes à l'égalité et à la dignité est invoquée tant par ceux qui défendent le libre port du voile intégral que par ceux qui y voient un signe d'inégalité entre hommes et femmes.
+
+<<3756.94;3769.3;fr>>
+La question n'est pas de savoir si le port par une femme de la burqa relève de sa soumission aux hommes ou du simple exercice de son droit à choisir ses vêtements de manière à inspirer la dignité.
+
+<<3769.3;3772.86;fr>>
+Ce qui est en jeu, c'est la communication sociale.
+
+<<3772.86;3788.46;fr>>
+Si je choisis de me mouvoir dans l'espace social, j'ai le droit de regarder l'autre, mais ce droit implique aussi celui d'être regardé par l'autre et l'acceptation de son regard.
+
+<<3788.46;3795.22;fr>>
+Interagir avec l'autre en lui ôtant la possibilité de lire sur notre visage, est-ce vraiment bien préparer le terrain de la relation?
+
+<<3795.22;3801.54;fr>>
+Nos codes vestimentaires sont le produit d'un consensus sociétal.
+
+<<3801.54;3809.5;fr>>
+Ils sont le fruit d'un compromis équilibré entre notre liberté individuelle et les codes d'interaction en groupe.
+
+<<3809.5;3823.34;fr>>
+Si des mesures restrictives sont nécessaires au maintien d'un cadre propice au vivre ensemble entre individus libres et égaux, ces mesures doivent naturellement être proportionnées et non discriminatoires.
+
+<<3823.34;3836.18;fr>>
+Elles doivent aussi s'accompagner d'un dialogue permanent, sincère et ouvert de part et d'autre sur l'objectif de la règle et d'une mise en œuvre avec respect et pédagogie.
+
+<<3836.18;3853.46;fr>>
+C'est à ce stade de la réflexion que l'on arrive à la question la plus importante, qui est formulée par le philosophe Guy Archer.
+
+<<3853.46;3868.1;fr>>
+Une société dans laquelle des individus libres et égaux interagissent peut-elle tolérer que certains d'entre eux ne soient pas reconnaissables dans l'espace public et disparaissent, pour ainsi dire, dans l'anonymat que permet le port d'un vêtement?
+
+<<3868.1;3890.98;fr>>
+L'auteur relève avec beaucoup de réalisme cette exigence de reconnaissance réciproque et d'ouverture minimale à autrui, si elle ne figure pas en toute lettre dans la constitution que garde votre cours, constitue une condition nécessaire de l'exercice des droits, de l'activité citoyenne et de la vie commune dans l'espace ouvert au public.
+
+<<3890.98;3897.98;fr>>
+Les lois françaises et belges ne visent pas de façon spécifique le port du voile intégral.
+
+<<3897.98;3902.14;fr>>
+Elles ne créent pas de distinction fondée sur le sexe ou la religion.
+
+<<3902.14;3922.86;fr>>
+Elles ne s'appliquent pas non plus de manière déguisée à tous les symboles religieux ou culturels, ne sont ainsi pas visées les pendentifs, turbans, couvre-chefs et voiles tels le hijab, qui ne masquent en effet pas le visage au point de rendre la personne non identifiable et de la soustraire aux contacts sociaux minimaux.
+
+<<3922.86;3951.4;fr>>
+En conclusion, nos législateurs ont entendu défendre un modèle de société qui fait prévaloir l'individu comme citoyen sur ses attaches philosophiques, culturelles ou religieuses, en vue de favoriser l'intégration de tous et de faire en sorte que nous partagions un patrimoine commun de valeur fondamentale, au-delà de nos attaches personnelles.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3953.1;3955.54;fr>>
+Merci Madame Niedlispacher.
+
+<<3956.22;3959.62;fr>>
+Alors, je me tourne vers les juges.
+
+<<3959.74;3961.06;fr>>
+Est-ce qu'il y a des questions?
+
+<<3961.06;3963.5;fr>>
+Monsieur le juge Potocki d'abord.
+
+[[Judge;André Potocki]]
+
+<<3969.25;3970.37;fr>>
+Merci, M. le Président.
+
+<<3971.57;3975.85;fr>>
+Ma première question s'adresse aux représentants de la requérante.
+
+<<3977.45;3988.41;fr>>
+Au point 143 de vos observations finales, vous traitez de la question de la proportionnalité de la mesure d'interdiction que vous contestez.
+
+<<3989.81;4001.61;fr>>
+Vous écrivez notamment le gouvernement défendeur aurait pu adopter des mesures moins gênantes plutôt que de poursuivre celles qui portent le voile intégral en public.
+
+<<4003.09;4021.77;fr>>
+Pourriez-vous indiquer à la Cour de façon précise des exemples concrets de mesures moins restrictives que l'interdiction, qui, selon vous, auraient permis au gouvernement de parvenir aux objectifs qu'il estime légitimes?
+
+<<4027.57;4032.29;fr>>
+Mes questions suivantes s'adressent maintenant à la représentante du gouvernement.
+
+<<4034.33;4045.81;fr>>
+Le second paragraphe de l'article 9 énonce les buts légitimes qui seuls permettent d'apporter une restriction à la liberté de religion.
+
+<<4045.81;4051.61;fr>>
+À ce titre, le gouvernement invoque quatre objectifs légitimes.
+
+<<4052.65;4062.25;fr>>
+La sécurité publique, les exigences minimales de la vie en société, l'égalité entre hommes et femmes et la dignité de la personne.
+
+<<4062.85;4067.01;fr>>
+Je souhaiterais vous poser quelques brèves questions sur ces objectifs.
+
+<<4068.77;4086.97;fr>>
+S'agissant tout d'abord de la sécurité publique, est-ce qu'une mesure d'interdiction générale sur l'ensemble de l'espace public ne pose pas un problème de respect de la proportionnalité au regard de la sécurité publique?
+
+<<4088.25;4097.53;fr>>
+Vous nous avez indiqué à ce titre que le Conseil constitutionnel et la Cour de cassation avaient surmonté cette difficulté.
+
+<<4097.93;4109.21;fr>>
+Néanmoins, je remarque que dans l'étude qu'il a réalisée à la demande du Premier ministre, le Conseil d'État y a vu au contraire une difficulté pour respecter la proportionnalité.
+
+<<4111.17;4145.97;fr>>
+Pour les trois autres objectifs ensuite, c'est-à-dire les exigences minimales de la vie en société, l'égalité entre hommes et femmes et la dignité de la personne, s'agissant d'objectifs légitimes sur la sécurité publique, objectifs légitimes selon le terme que vous employez et non pas de buts légitimes comme le prescrit le second paragraphe de l'article 9, pourriez-vous indiquer à la Cour à quel but légitime chacun de ces objectifs légitimes se rattache?
+
+<<4147.97;4168.09;fr>>
+Ensuite, concernant l'égalité entre hommes et femmes, est-ce qu'il n'y a pas une difficulté à opposer ce principe d'égalité entre hommes et femmes à des femmes qui revendiquent la pratique interdite comme un droit?
+
+<<4170.81;4190.05;fr>>
+Enfin, s'agissant de la dignité de la personne, à ce titre, vous écrivez dans vos observations, je cite, que l'on se place du point de vue de la femme dont le visage est dissimulé ou de l'interlocuteur, il y a une atteinte à la dignité de la femme.
+
+<<4191.29;4194.57;fr>>
+Cette phrase suscite deux interrogations pour moi.
+
+<<4195.81;4207.97;fr>>
+Première interrogation, est-ce que c'est à l'État de décider qu'un comportement librement choisi est contraire à la dignité de celui ou de celle qu'il adopte?
+
+<<4209.33;4220.69;fr>>
+Et seconde interrogation, en quoi la dignité de ceux qui rencontrent une femme portant le voile intégral est-elle menacée?
+
+<<4220.69;4220.69;fr>>
+Merci, Monsieur le Président.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4221.91;4229.91;fr>>
+Merci M. le juge Potocki, je donne la parole au juge Erik Møse pour une question, ou plusieurs, on verra.
+
+[[Judge;Erik Møse]]
+
+<<4232.97;4258.81;en>>
+My first question goes to both parties, and it relates to the fact that it follows from the documents in this case, and in particular, those who describe the original behavior of the applicant, that she has not always been consistent as regards the use of the bird cup.
+
+<<4258.81;4266.65;en>>
+And we have heard that the parties disagree as to whether she's a victim or whether she's not a victim for that reason.
+
+<<4266.65;4268.81;en>>
+We are aware of that issue.
+
+<<4268.81;4274.49;en>>
+Now the question relates to both parties concerning the merits of the case.
+
+<<4274.49;4290.21;en>>
+This arguable, inconsistent manifestation of faith, could that have a bearing on the balancing of interests under Article 9, Paragraph 2 of the Convention?
+
+<<4290.21;4292.29;en>>
+That was the first question to both parties.
+
+<<4295.09;4298.39;en>>
+Now I have two questions only to the government.
+
+<<4298.39;4304.25;en>>
+And the first question supplements Judge Potocki's, one of his questions.
+
+<<4304.25;4315.25;en>>
+And it relates particularly to the aims involved under Article 9.2, which the government has referred to.
+
+<<4315.25;4326.47;en>>
+And my question relates particularly to the alternative, the aim called the protection of the rights and freedoms of others.
+
+<<4326.47;4346.97;en>>
+Could I kindly ask the government to elaborate a bit more on the applicability of that particular aim in relation to one of the stated purposes of the French Act, namely the social cohesion or the vivre ensemble problem?
+
+<<4346.97;4349.69;en>>
+So that was the first question.
+
+<<4349.69;4354.17;en>>
+The second question also, as I said, goes to the government.
+
+<<4354.17;4361.77;en>>
+And that is something which has maybe not been so much focused on orderly.
+
+<<4361.77;4388.53;en>>
+But it is about the tension or the episodes that we know from the documents have arisen in connection with concrete police control concerning the enforcement of the Act in connection with the full veil being, women being approached in the street wearing the full veil.
+
+<<4388.53;4407.69;en>>
+Now this kind of tension, these kind of episodes may arguably indicate that the Act contributes to tension instead of social cohesion.
+
+<<4407.69;4412.57;en>>
+Is this a problem in relation to Article 9.2
+
+<<4412.57;4423.21;en>>
+concerning the requirement that the purpose of the Act must be based on relevant and sufficient reasons?
+
+<<4423.21;4423.21;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4425.15;4427.35;fr>>
+Merci, M. le juge Møse.
+
+<<4427.35;4431.71;fr>>
+Je donne la parole à Mme la juge Angelika Nußberger.
+
+[[Judge;Angelika Nußberger]]
+
+<<4433.89;4435.01;fr>>
+Merci, Monsieur le Président.
+
+<<4435.01;4436.61;fr>>
+Je n'ai qu'une question.
+
+<<4436.61;4443.33;fr>>
+Dans son témoignage, la requérante explique ce qu'elle appelle « compromise proposals ».
+
+<<4443.33;4452.57;fr>>
+Je cite, elle dit, « Firstly, I would be willing to accept restrictions regarding the visibility of the veils material.
+
+<<4452.57;4462.57;fr>>
+It has to wear only veils that were diaphanous see-through, thus ensuring that my facial features remained essentially visible.
+
+<<4462.57;4479.81;fr>>
+» Et dans la circulaire de mars 2011, on dit, on explique, « Les tenues destinées à dissimuler le visage sont celles qui rendent impossible l'identification de la personne.
+
+<<4479.81;4482.97;fr>>
+» Alors, ma question est la suivante.
+
+<<4482.97;4490.29;fr>>
+Est-ce qu'un tel comportement, comme proposé par la requérante, tomberait sous l'interdiction de la loi?
+
+<<4490.29;4490.57;fr>>
+Merci.
+
+<<4490.57;4490.57;fr>>
+Merci.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4491.96;4494.2;fr>>
+Merci, madame la juge Nußberger.
+
+<<4494.36;4496.2;fr>>
+Est-ce qu'il y a d'autres questions?
+
+<<4496.4;4498.2;fr>>
+Tel ne semble pas être le cas.
+
+<<4498.92;4503.12;fr>>
+Donc, on va maintenant avoir une pause d'un quart d'heure.
+
+<<4503.32;4504.64;fr>>
+Il est 10h30.
+
+<<4504.8;4507.8;fr>>
+Donc, on va se revoir à 10h45.
+
+<<4507.8;4507.8;fr>>
+Donc, l'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4670.89;4671.53;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4719.62;4721.1;fr>>
+Asseyez vous, Mme Belliard, s'il vous plaît.
+
+[[Government;GR1]]
+
+<<4729.8;4730.8;fr>>
+Merci, M. le Président.
+
+<<4731.0;4734.64;fr>>
+Je commencerai par répondre, si vous le permettez, aux questions qui ont été posées.
+
+<<4735.6;4738.92;fr>>
+Tout d'abord, les questions qui étaient posées par M. le juge Potoski,
+
+<<4740.56;4748.92;fr>>
+s'agissant du respect de la proportionnalité, et il a été fait allusion à la position du Conseil d'Etat.
+
+<<4752.12;4758.16;fr>>
+Le Conseil de la Rue 40 s'est longuement étendu sur cet avis, sur cette étude de 2010.
+
+<<4758.16;4760.96;fr>>
+Alors, je soumettrai tout d'abord qu'il s'agit d'une étude, non d'une décision.
+
+<<4761.16;4765.0;fr>>
+Cette étude a passé en revue diverses solutions possibles.
+
+<<4765.8;4780.0;fr>>
+Et il est vrai, estimé à l'époque, qu'une interdiction générale de dissimulation de visages dans l'espace public risquait d'être censurée par le Conseil constitutionnel, en relevant qu'il n'y avait pas encore de jurisprudence du Conseil constitutionnel permettant de trancher cet aspect.
+
+<<4780.56;4784.36;fr>>
+Mais depuis, le Conseil constitutionnel s'est prononcé et a validé la loi.
+
+<<4784.36;4795.8;fr>>
+Et il s'est notamment fondé sur l'article 4 de la déclaration des droits de l'homme et du citoyen de 1789, au terme duquel je cite, la liberté consiste à pouvoir faire tout ce que n'innuie pas à autrui.
+
+<<4796.0;4802.68;fr>>
+Ainsi, l'exercice des droits naturels de chaque homme n'a de borne que celle qui assure aux autres membres de la société la jouissance des mêmes droits.
+
+<<4802.88;4810.44;fr>>
+Et je rappelle que la Cour de la Cassation, pour sa part, a eu l'occasion de se prononcer sur la compatibilité de la loi avec l'article 9 de la Convention.
+
+<<4810.44;4822.84;fr>>
+Le juge Potoski, ensuite, s'est interrogé sur le paragraphe 2 de l'article 9 et sur les objectifs et les buts.
+
+<<4823.04;4827.16;fr>>
+Alors, je veux dire que, dans notre esprit, la poursuite des objectifs doit permettre d'atteindre les buts poursuivis.
+
+<<4827.36;4830.16;fr>>
+Je ne fais pas vraiment une différence entre les deux.
+
+<<4830.36;4835.52;fr>>
+La sécurité figure expressément en tant que telle à l'article 9, paragraphe 2.
+
+<<4835.68;4840.44;fr>>
+Quant à la dignité à l'égalité des droits de l'homme, je crois que c'est un objectif de la Cour de la Cassation.
+
+<<4840.44;4847.04;fr>>
+Quant à la dignité à l'égalité entre hommes et femmes et au vivre ensemble, je crois que ça relève sans conteste de la protection des droits et libertés d'autrui.
+
+<<4847.04;4852.44;fr>>
+Autre question, l'égalité homme-femme est-elle opposable à une femme qui est volontaire?
+
+<<4852.44;4861.44;fr>>
+Je crois que ce qui est important dans cette affaire, c'est que la burqa est un obstacle à une vie sociale dans une société ouverte et égalitaire.
+
+<<4861.44;4884.44;fr>>
+Et que c'est donc le vivre ensemble qui est en cause et que tout ça doit être rejoint totalement, ce qui a été dit par la représentante du gouvernement belge sur la nécessité dans une société démocratique ouverte de contact en pouvant identifier l'interlocuteur que l'on a en face.
+
+<<4884.44;4893.44;fr>>
+Et je crois que ça rejoint aussi, cette réponse est aussi valable pour la question, l'Etat doit-il décider qu'un comportement choisi est contraire à la dignité?
+
+<<4893.44;4910.44;fr>>
+Quand il y va de la nécessité, je dirais oui, quand il y va de la nécessité d'éviter l'effacement de la femme dans l'espace public et d'éviter l'absence de communication avec les autres personnes.
+
+<<4910.44;4916.44;fr>>
+La question aussi a été celle de, en quoi le voile porte atteinte à la dignité de l'interlocuteur?
+
+<<4916.44;4934.44;fr>>
+Je dirais que tout ça se rejoint à la dignité de l'interlocuteur est atteinte, dans ce sens qu'il ne sait pas à qui il s'adresse, qu'il ne peut pas y avoir de contact et la liberté d'autrui suppose que l'on sache à qui l'on s'adresse et avec qui l'on communique.
+
+<<4934.44;4940.44;fr>>
+S'agissant des questions de M. le juge Eric Maas de la Norvège,
+
+<<4940.44;4948.44;fr>>
+la pratique intermittente du port du voile a-t-elle des effets sur le raisonnement que l'on tient sur le fond?
+
+<<4948.44;4955.44;fr>>
+Ma réponse est que cela n'en aurait pas si le port du voile si on répondait aux exceptions prévues par la loi.
+
+<<4955.44;4967.44;fr>>
+Sur le vivre ensemble, je crois que j'ai répondu précédemment où rattache-t-on la notion de vivre ensemble et ce principe du vivre ensemble?
+
+<<4967.44;4971.44;fr>>
+Je crois que c'est au droit et à la liberté d'autrui qui est mentionné au paragraphe 2 de l'article 9.
+
+<<4971.44;4980.44;fr>>
+Je pense à la question de Mme Nussburger sur les tensions.
+
+<<4980.44;4983.44;fr>>
+Je crois que c'est la question de M. Eric Maas sur les tensions.
+
+<<4983.44;4988.44;fr>>
+Je réponds sur les tensions.
+
+<<4988.44;5004.44;fr>>
+Je crois qu'on peut dire que le nombre de contrôles effectués qui depuis la loi est un peu plus de 1 000, on doit être autour de 1 050, fort peu d'incidents ont été signalés au cours de ces contrôles.
+
+<<5004.44;5011.44;fr>>
+Je dois dire que tout a été mis en œuvre pour que les contrôles et les verbalisations, quand il y en a, se passent de la manière la plus apaisée et la plus pédagogique possible.
+
+<<5011.44;5014.44;fr>>
+Cela se vérifie dans les faits.
+
+<<5014.44;5023.44;fr>>
+Certains ont certes reçu une médiatisation indéniable, ils n'en demeurent pas moins extrêmement militaires par rapport au nombre de contrôles effectués.
+
+<<5023.44;5031.44;fr>>
+Ils ne sont pas spécifiques à la nature des faits incriminés, la dissimulation du visage, et ils surviennent pour des faits d'une autre nature.
+
+<<5031.44;5039.44;fr>>
+Les incidents ne sont à cet égard ni plus fréquents, ni plus graves que dans le cas de contrôles différents qui pourraient être par exemple des contrôles d'identité.
+
+<<5039.44;5043.44;fr>>
+J'en viens à la question de Mme Nussburger.
+
+<<5043.44;5046.44;fr>>
+Le voile transparent serait-il un compromis?
+
+<<5046.44;5050.44;fr>>
+La réponse est il faut voir le visage.
+
+<<5050.44;5057.44;fr>>
+Donc les compromis ne sont possibles que pour entendre que l'on voit le visage et que l'on puisse identifier la personne.
+
+<<5057.44;5058.44;fr>>
+Voilà, M. le Président.
+
+<<5058.44;5061.44;fr>>
+Si vous voulez bien, je dirais quelques mots pour conclure.
+
+<<5061.44;5068.44;fr>>
+Je dirais que les observations orales du Conseil de la Récurrence n'apportent rien de nouveau par rapport aux longues observations écrites déjà produites.
+
+<<5068.44;5073.44;fr>>
+Je me réfère donc à nos écrits ainsi qu'à la plaidoirie que je viens de prononcer.
+
+<<5073.44;5097.44;fr>>
+Je tiens à souligner que nous rejoignons les observations présentées par le gouvernement belge qui insiste en particulier sur le fait qu'il s'agit ici de montrer en quoi la pratique de la dissimulation du visage est incompatible avec la vie sociale dans notre État de droit et en quoi une telle dissimulation met en danger les conditions du vivre ensemble et en quoi ce qui est en jeu, c'est l'égalité dans la communication sociale et le partage d'un patrimoine commun de valeur fondamentale.
+
+<<5097.44;5110.44;fr>>
+J'ajouterai que le débat sur la dissimulation du visage dans l'espace public est présent dans différents pays du Conseil de l'Europe et je me permettrai de contredire le Conseil de la Récurrence quand il évoque le cas espagnol.
+
+<<5110.44;5118.44;fr>>
+La décision espagnole ne porte que sur des questions qui sont pas sur le fond.
+
+<<5118.44;5132.44;fr>>
+Je voulais dire quelques instants, revenir simplement un instant sur la question de la recevabilité qui nous paraît importante.
+
+<<5132.44;5149.44;fr>>
+Je dirais simplement que bien au-delà de cette seule affaire, admettre qu'une loi telle que celle en cause peut être contestée devant vous en l'absence de tout contentieux interne et au mépris de la règle des pisons et de droits de recours est la porte ouverte à une très grande insécurité juridique et à une axio popularis.
+
+<<5149.44;5165.44;fr>>
+Sur le fond, je tiens à insister à nouveau sur le fait que la loi en cause a été votée sans encombre par le Parlement français, c'est-à-dire à l'unanimité moins une voix, les suffrages exprimés dans chaque Chambre, à la suite d'un travail très approfondi d'une mission parlementaire regroupant toutes les tendances politiques, majorité et opposition, et après un très large débat démocratique.
+
+<<5165.44;5170.44;fr>>
+Je crois qu'il est faux de dire, comme l'a fait le Conseil de la Récurrence, que les femmes voilées...
+
+<<5170.44;5176.44;fr>>
+Ce n'est pas parce que je n'ai cité qu'un exemple qu'il n'y a eu qu'une interview.
+
+<<5176.44;5183.44;fr>>
+Et je dois dire qu'il y a eu de très nombreuses auditions, puisqu'il y a eu plus de 200 auditions et que les travaux ont duré six mois.
+
+<<5183.44;5189.44;fr>>
+Comme je l'ai souligné, le Conseil constitutionnel, à l'occasion de se prononcer sur cette loi, il l'a validée.
+
+<<5189.44;5196.44;fr>>
+La Cour de cassation a reconnu sa compatibilité avec l'article 9.
+
+<<5196.44;5210.44;fr>>
+Et c'est donc à l'issue d'un processus démocratique exigeant et long, tenant compte de la société civile, que cette loi, qui correspond à une forte conviction existante dans la société française, a été prise.
+
+<<5210.44;5224.44;fr>>
+Alors, il convient, nous semble-t-il, de ne pas tomber dans le piège que tente de vous tendre le Conseil de la Récurrence, de l'amalgame entre le port du voile, qui n'est aucunement remis en cause par cette loi, et le port de la burqa du Nicabe.
+
+<<5224.44;5231.44;fr>>
+Ce n'est en aucune façon une loi contre la pratique religieuse, mais simplement une loi protégeant les fondements de la vie en société.
+
+<<5231.44;5238.44;fr>>
+De nombreuses associations qui défendent les droits des femmes s'émeuvent des tentatives menées pour contester cette loi, qu'elles estiment très utile.
+
+<<5238.44;5253.44;fr>>
+Et je rappelle à nouveau, parce qu'il faut le répéter, que la loi interdit la dissimulation du visage, par quelque moyen que ce soit, et pour quelque raison que ce soit.
+
+<<5253.44;5262.44;fr>>
+La dissimulation du visage ne concerne pas seulement les droits et libertés de ceux qui choisissent cette pratique, mais aussi les droits et libertés des personnes qu'ils vont rencontrer dans l'espace public.
+
+<<5262.44;5266.44;fr>>
+Et c'est très important.
+
+<<5266.44;5269.44;fr>>
+Je crois que les questions qui nous ont été posées montrent qu'il y a cette préoccupation.
+
+<<5269.44;5277.44;fr>>
+Une loi telle que celle en cause dans la présente affaire relève assurément de la marge d'appréciation qui doit être laissée aux États, et que vous leur reconnaissez.
+
+<<5277.44;5291.44;fr>>
+Dès lors qu'elle concilie le respect des valeurs fondamentales de la République française, elle est la première à mettre en place le pluralisme des convictions, la dignité de la personne, l'égalité entre les hommes et les femmes, et des considérations de sécurité publique.
+
+<<5291.44;5298.44;fr>>
+Ces valeurs sont celles de la République française, mais elles sont aussi celles du Conseil de l'Europe.
+
+<<5298.44;5308.44;fr>>
+La loi du 11 octobre 2010 permet tout à la fois d'assurer le respect des libertés fondamentales prévues par la Convention, et la garantie par l'État, car c'est son devoir, indispensable et minimal, du vivre ensemble dans la société démocratique.
+
+<<5308.44;5308.44;fr>>
+Merci.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5313.22;5315.9;fr>>
+Merci, Madame Belliard, Mr De Mello.
+
+[[Applicant;AP1]]
+
+<<5323.53;5328.57;en>>
+Mr. President, may I deal with the specific questions
+
+<<5328.57;5330.77;en>>
+asked first by Judge Piotrowski?
+
+<<5333.89;5352.97;en>>
+The questions in the order asked is, it may be that the applicant in this case does not wear the full face veil or burqa all the time.
+
+<<5357.09;5365.93;en>>
+And how does that fit in with the concept, as I understood, the question of victim status?
+
+<<5365.93;5378.53;en>>
+First, one must accept and not question that she, in accordance with her inveterate belief, wants to wear it.
+
+<<5378.53;5382.33;en>>
+Where, when, and how is a matter of her choice.
+
+<<5385.01;5405.37;en>>
+Second, on one single occasion that she chooses to wear it in public, in accordance with the exercise of that choice, is sufficient to engage the regulation and make her liable to prosecution.
+
+<<5405.37;5414.25;en>>
+Then dealing with the next question, the alternatives.
+
+<<5414.25;5422.01;en>>
+What alternatives are available as opposed to the present?
+
+<<5422.01;5436.37;en>>
+Because we have made our submissions that less intrusive measures could and should have been adopted, particularly in the event there is discrimination on suspect grounds.
+
+<<5436.37;5449.05;en>>
+First, you have a witness statement indicating that she was prepared to wear a full face veil, which is diaphanous, and her face would be visible.
+
+<<5449.05;5479.57;en>>
+The second suggested alternative, bearing in mind it's for the state to make up the case, the state agents might ask her to prove her identity, either by the production of an identity card or to lift her face veil in the event there is a need to identify her in the situation, such as robbery, such as disorder.
+
+<<5479.57;5489.45;en>>
+Third, we say that, if needed, she would be willing to submit to security checks.
+
+<<5489.45;5503.25;en>>
+Fourth, the ban in this case, as in the case of Arsham, is so wide that we could say that the state could have tailored it by way of example given by the Belgian government.
+
+<<5503.25;5510.73;en>>
+The mother wearing a burka goes to collect her child, and the teacher very correctly would say to her, I'm sorry.
+
+<<5510.73;5518.25;en>>
+I'm not giving you the child until you lift your veil and show me who you are.
+
+<<5518.25;5521.21;en>>
+Are you the mother?
+
+<<5521.21;5545.01;en>>
+Fourth, and this might be a sensitive issue, but we accept there might be a call for it, is the training through religious leaders, imams, schools, and so forth at a very early level, indicating to women that you have a choice to wear it, but do not feel forced to wear it.
+
+<<5545.01;5557.45;en>>
+There might be examples, such as in the English case law, that a person giving evidence might be required to lift the face veil.
+
+<<5557.45;5564.45;en>>
+But whilst being in court, that person may not be required to lift the face veil.
+
+<<5564.45;5570.89;en>>
+These are some of the examples that we have put forward.
+
+<<5570.89;5576.53;en>>
+Then if I could deal with the next question.
+
+<<5576.53;5580.33;en>>
+This is the merits of the case under Article 9.2,
+
+<<5580.33;5588.13;en>>
+in short response to the French government's and then subsequently to the Belgium's government's submissions.
+
+<<5588.13;5596.73;en>>
+In this case, we submit that the French state has overstepped the margin of appreciation.
+
+<<5596.73;5613.05;en>>
+And if you recall, for your note purposes, in our submissions at paragraph 87, in keeping with the Ashland case, the width of the ban is so extensive, and it applies irrespective of the motive.
+
+<<5616.61;5634.57;en>>
+And we say, why do women wearing it pose more of a risk or threat than a woman who is exempt because of a religious need from wearing it?
+
+<<5634.57;5652.09;en>>
+And it is the expression of that freedom which has been curtailed in the first example, but not so in the second example, notwithstanding there is no threat to disorder.
+
+<<5652.09;5659.13;en>>
+And the point, I think, has been made in the question to the French government, the tension.
+
+<<5659.13;5666.21;en>>
+It is the obligation of the state to remove the tension.
+
+<<5666.21;5671.57;en>>
+But it is the regulation, in a sense, which has instigated the tension.
+
+<<5671.57;5686.41;en>>
+And the newspaper articles have confirmed this, a question which impinges, and I think it was raised by Judge Mosey, directed to the French government.
+
+<<5686.41;5706.93;en>>
+If the garments worn are partly visible, as has been made by way of a suggestion by the applicant, that she's happy to wear a diaphanous garment, then how does the law apply in those circumstances?
+
+<<5706.93;5716.41;en>>
+And of course, it would be for the state to say that the law is clear, foreseeable, accessible, to allow the citizen to predict his or her conduct.
+
+<<5716.41;5725.17;en>>
+And we respectfully submit that too is lacking in this particular piece of legislation.
+
+<<5725.17;5738.77;en>>
+Then it is also said by both governments that contact is essential.
+
+<<5738.77;5741.45;en>>
+Face contact is essential.
+
+<<5741.45;5755.29;en>>
+And in the case of France, the position emanates from the high-ranking works of Emmanuel Levinas that face contact is a good thing.
+
+<<5755.29;5758.57;en>>
+But we ask certain questions.
+
+<<5758.57;5769.73;en>>
+First, what credence is given to the person wearing it, given that she has a free choice to wear it?
+
+<<5769.73;5773.35;en>>
+Second, what is the purpose of the contact?
+
+<<5773.35;5778.53;en>>
+Is it the teacher who wants to establish the identity of the wearer?
+
+<<5778.53;5788.77;en>>
+Is it the shopkeeper who may feel a little unhappy that he's dealing with a person whose face is covered?
+
+<<5788.77;5799.09;en>>
+Does the veil inhibit dialogue, such as the example given by the United Kingdom case law, whilst giving evidence?
+
+<<5799.09;5805.09;en>>
+Is it necessary to have contact with the person's face?
+
+<<5805.09;5809.61;en>>
+And if so, can a polite request be made to the wearer?
+
+<<5809.61;5814.77;en>>
+These are questions which are relevant.
+
+<<5814.77;5836.49;en>>
+But the underlying theme of our submission is this, to require this disadvantaged group of Muslim women to conform to the philosophy of Emmanuel Levinas in reality forces them to depart from their own religion freely chosen.
+
+<<5836.49;5852.09;en>>
+And in effect, it is consistent with what we have said, that the state is being partial to one secular view in preference to another religious view held by a minority.
+
+<<5852.09;5860.09;en>>
+That is our response to both governments' reliance on the philosophy of face contact.
+
+<<5860.09;5869.57;en>>
+We accept there are difficult issues to be raised, but we see a sensible way around this with a compromise in the way that we have suggested.
+
+<<5874.49;5881.13;en>>
+May I also point out one final submission.
+
+<<5881.13;5888.81;en>>
+The tensions created by the act should also be viewed by the statistics presented by the government.
+
+<<5888.81;5896.33;en>>
+As I said in our submissions, that 425 Muslim women have been fined.
+
+<<5896.33;5898.65;en>>
+And the reality which Mr. Mumin made
+
+<<5898.65;5914.39;en>>
+is that men escape prosecution, and they are the targeted group of persons, as it is suggested by the state, that they are the perpetrators who coerce women to wearing the veil.
+
+<<5914.39;5932.77;en>>
+And the legislation as seen in its operation is weighted against women, because they, in effect, whether they are forced or those who are wearing it freely, are the persons who suffer the effects of the prosecution.
+
+<<5932.77;5939.25;en>>
+The numbers far exceed the prosecution of men.
+
+<<5939.25;5939.25;en>>
+Thank you, Mr. President, members of the court.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5942.44;5946.72;fr>>
+Merci beaucoup, M. De Mello.
+
+<<5949.24;5953.16;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<5953.36;5962.08;fr>>
+Je remercie les comparants qui ont assisté à la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<5963.04;5968.08;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<5968.28;5970.96;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<5970.96;5974.6;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<5974.6;5976.08;fr>>
+L'audience est levée.
+

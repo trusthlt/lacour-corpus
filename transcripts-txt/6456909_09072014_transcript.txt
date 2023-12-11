@@ -1,0 +1,1752 @@
+[[Announcer;UNK]]
+
+<<19.95;20.59;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<61.65;62.65;en>>
+Please be seated.
+
+<<67.38;72.89;en>>
+I declare open the public hearing on the merits in the case of Delphi against Estonia.
+
+<<72.89;85.17;en>>
+The application was lodged with the court on the 4th of December 2009 under Article 34 of the Convention by Delphi AS, a public limited liability company registered in Estonia.
+
+<<85.17;93.09;en>>
+The application was allocated to the first section of the court pursuant to Rule 52, paragraph 1 of the Rules of Court.
+
+<<93.09;106.89;en>>
+On the 10th of October 2013, the chamber of the first section delivered its judgment on admissibility and merits of the case, finding that there had been no violation of Article 10 of the Convention.
+
+<<106.89;115.81;en>>
+On the 8th of January 2014, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the Convention.
+
+<<115.81;123.19;en>>
+The panel of the Grand Chamber accepted the request on the 17th of February 2014.
+
+<<123.19;132.81;en>>
+The following organizations were granted leave to submit written comments as third parties by virtue of Rule 44, paragraph 3 of the Rules of Court.
+
+<<132.81;150.51;en>>
+Access, Article 19, the European Digital Media Association, the Computer and Communications Industry Association, and the Pan-European Association of European Internet Services Providers Associations acting jointly.
+
+<<150.51;164.27;en>>
+The European Information Society Institute, the Helsinki Foundation for Human Rights, Media Legal Defense Initiative acting together with its 28 associated organizations.
+
+<<164.27;171.41;en>>
+The defending government are represented by their agent, Ms. Maris Kuurberg, assisted by Ms. Meeli Kaur and Ms. Käti
+
+<<171.41;173.45;en>>
+Mägi, advisors.
+
+<<173.45;177.01;en>>
+The applicant company is represented by Ms. Karmen Turk
+
+<<177.01;181.18;en>>
+and Mr. Villu Otsmann, attorneys at Law Council.
+
+<<181.18;186.57;en>>
+I welcome the representatives of the parties in the name of the court.
+
+<<186.57;202.94;en>>
+I also welcome a delegation of Serbian judges and judges assistants, a delegation of the judges and court advisors from the Constitutional Court of Montenegro, and a delegation from the Turkish High Council of Judges and Prosecutors who attend the hearing today.
+
+<<202.94;211.69;en>>
+Having consulted the agent of the government and the representatives of the applicant, I have determined the order of addresses as follows.
+
+<<211.69;214.74;en>>
+Mr. Otsmann and Ms. Turk for the applicant company
+
+<<214.74;220.18;en>>
+will speak first, and then Mrs. Kuurberg for the government.
+
+<<220.18;233.62;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Serbian and Turkish has been authorized for the benefit of the respective delegations attending the hearing.
+
+<<233.62;243.45;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<243.45;243.45;en>>
+I call Mr. Otsmann.
+
+[[Applicant;AP2]]
+
+<<248.61;253.77;en>>
+Mr. President, members of the Grand Chamber, good morning.
+
+<<253.77;264.33;en>>
+As a representative of the applicant, I'll give a short summary of the facts, answering also the court's written questions regards to the facts.
+
+<<264.33;271.17;en>>
+And then I'll emphasize three main arguments to be considered in the current case.
+
+<<271.17;282.61;en>>
+After that, my colleague will present more detailed legal analysis of the case and answer the rest of the court's written questions for the hearing.
+
+<<282.61;286.77;en>>
+I'll now address most relevant facts.
+
+<<286.77;297.81;en>>
+The applicant is a company listed on local stock exchange and operating a news portal where journalists working for the applicant publish news and articles.
+
+<<297.81;305.13;en>>
+If the readers of an article click a button below it, they will be taken to the comments platform.
+
+<<305.13;313.47;en>>
+Anyone who uses the internet can post a comment, and the comment will automatically appear on this page.
+
+<<313.47;318.37;en>>
+These comments can be read by everyone who uses the internet.
+
+<<318.37;321.93;en>>
+The applicant has various safeguards in place.
+
+<<321.93;325.05;en>>
+Firstly, there is an early stakedown system.
+
+<<325.05;331.37;en>>
+The user, including the author himself, can rate the comment by clicking the inappropriate button.
+
+<<331.37;336.83;en>>
+And the comment will be instantly reviewed and, if necessary, removed.
+
+<<336.83;348.03;en>>
+There is also a filtering system for indecent stems of words that automatically prevents the appearance of the inappropriate comments.
+
+<<348.03;360.61;en>>
+The published article in the current case was, as common practice in 2006, a summary of another portal's article and addressed a matter of public interest.
+
+<<360.61;368.77;en>>
+It was about a publicly financed shipping company destroying a public ice road between the mainland and an island.
+
+<<368.77;378.77;en>>
+There is no dispute that the article itself was balanced and correspondent to the demands of journalistic ethics.
+
+<<378.77;381.85;en>>
+The article attracted around 200 comments.
+
+<<381.85;386.73;en>>
+No one had clicked the button to point out any comments as being inappropriate.
+
+<<386.73;397.65;en>>
+Six weeks after the article was published, the owner of the shipping company submitted a claim to the applicant that 20 comments were damaging his reputation.
+
+<<397.65;401.65;en>>
+The applicant removed those comments immediately.
+
+<<401.65;409.13;en>>
+Nevertheless, the owner of the shipping company continued to claim damages from the applicant.
+
+<<409.13;416.65;en>>
+The fundamentals of daily operation of the portal since 2006 have been mostly the same.
+
+<<416.65;420.89;en>>
+However, the comments platform is now divided in two.
+
+<<420.89;429.13;en>>
+There is a primary section for registered users' comments, and an additional click away is a part for anonymous comments.
+
+<<429.13;434.29;en>>
+The registration of users is not by their real names, but by pseudonyms.
+
+<<437.47;446.85;en>>
+Now, the applicable principles of law will be addressed, and I will focus on three basic arguments.
+
+<<446.85;470.97;en>>
+The first argument, in order to preserve the balance between basic principles of law, such as freedom of speech and others, in the context of the new technological solutions, such as the internet and the comment platform, the legal concept publisher has to be carefully considered.
+
+<<470.97;481.41;en>>
+Otherwise, the law, as a conservative tool, will restrict society from the benefits of these technological solutions.
+
+<<481.41;491.09;en>>
+There is no doubt that the internet and the comment platform are technological solutions which give freedom of speech a totally new dimension.
+
+<<491.09;507.33;en>>
+Anyone on the internet can read daily news, and notably, everybody can discuss and debate these news with everybody online and interactively by posting comments.
+
+<<507.33;512.13;en>>
+The latter was not possible in the so-called classical media.
+
+<<512.13;518.17;en>>
+The difference is in the resources of the marketplace for ideas and opinions.
+
+<<518.17;528.49;en>>
+In the classical media, these resources were limited, and the publisher had to make a choice what to publish.
+
+<<528.49;539.45;en>>
+In the news portals on the comment platform, these resources are unlimited, and everybody can make a choice by themselves.
+
+<<539.45;553.01;en>>
+If the law is to interpret it as it was done by the first section's decision, then the news portals will be obliged to make a choice for the users of the comment platform.
+
+<<553.01;565.55;en>>
+Consequently, the internet media will be turned back into classical media, and society will not benefit from the unlimited resource of publishing.
+
+<<565.55;570.53;en>>
+Thus, the balance will be disturbed.
+
+<<570.53;583.77;en>>
+This careful consideration of the legal concept of the publisher in order to keep balance has laid down in the Councils of Europe 11th Declaration and European Union's e-commerce directive.
+
+<<583.77;599.69;en>>
+Both of them prohibit the general obligation to monitor accessible content and hold the service providers co-responsible only if they do not act expeditiously as soon as they gain knowledge of the legal content.
+
+<<599.69;603.97;en>>
+In the current case, the applicant followed all these requirements.
+
+<<607.41;609.93;en>>
+The second argument.
+
+<<609.93;618.25;en>>
+Editorial control itself is not mandatory for freedom of speech in the context of the public debate.
+
+<<618.25;629.85;en>>
+It is true that editorial control has been with us forever, but this has been a result of the limited resources of publishing, not the rule of law.
+
+<<629.85;640.25;en>>
+Nowadays, the circumstances have changed since the classical media has been replaced by the resources of the unlimited marketplace for opinions and ideas.
+
+<<640.25;650.17;en>>
+The news production and the operation of the comment platform are separate services of the same entity.
+
+<<650.17;661.83;en>>
+It is clear that the first puts into effect the freedom of speech of the applicant, and the second that's of the users.
+
+<<661.83;671.61;en>>
+In the second, the applicant just provides a technical solution for the users to express themselves.
+
+<<671.61;677.33;en>>
+Thus, the applicant is, in this regard, an intermediary.
+
+<<677.33;682.23;en>>
+All relevant principles shall apply.
+
+<<682.23;688.65;en>>
+The convention does not require that every publicly imparted speech has to be edited by journalists.
+
+<<688.65;698.25;en>>
+Nowadays, it is more possible than ever to reduce the media monopoly and let every person speak.
+
+<<698.25;701.41;en>>
+This is the true purpose of freedom of speech.
+
+<<701.41;707.35;en>>
+The lack of editorial control, however, is balanced by very easy correction.
+
+<<707.35;712.43;en>>
+Just click, and the comment will be removed.
+
+<<712.43;720.89;en>>
+It means that the responsibility of the publisher is postponed until the news portal is aware of the legal content.
+
+<<720.89;729.61;en>>
+And this awareness, it also corresponds to the principles of general civil law.
+
+<<729.61;752.33;en>>
+If news portals are a priori co-responsible for the content of the comment platform, it is self-evident that the news portals will try to minimize the risks and will be very cautious of producing news regarding controversial subjects in society and allowing critical comments.
+
+<<752.33;754.93;en>>
+The effect is chilling the public debate.
+
+<<758.45;760.97;en>>
+The third argument.
+
+<<760.97;767.85;en>>
+One of the foundations of freedom of speech is to allow self-regulation in society.
+
+<<767.85;772.93;en>>
+Interference must be an exception provided for by law.
+
+<<772.93;777.73;en>>
+In a democratic society, liberties are mainly negative in nature.
+
+<<777.73;780.85;en>>
+And the positive liberty is an exception.
+
+<<780.85;794.29;en>>
+By negative liberty, I mean that every member of society has a choice to abuse his liberties, take the consequences, and correct his behavior.
+
+<<794.29;811.05;en>>
+The obligation of the news portal to interfere with users' comments in order to avoid third-person damages leads to a positive liberty, where the user is free to express only the right opinion.
+
+<<811.05;818.89;en>>
+In order for this kind of exception to exist, it would have to be clearly spelled out in the law.
+
+<<818.89;841.61;en>>
+The Gaussian declaration, principle six, stipulates that when defining the obligations of service providers, where their functions are wider and they store content emanating from other parties, due care must be taken to respect the freedom of expression of those who made the information available in the first place.
+
+<<841.61;859.89;en>>
+According to the applicant's opinion, this gives news portals the certainty that any obligation for them as operators of the comment platforms would have to be expressis verbis, written into relevant domestic law, and thus be foreseeable.
+
+<<859.89;865.17;en>>
+There is no relevant law in Estonia in the current case.
+
+<<865.17;865.17;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<869.83;872.19;en>>
+Thank you Mr. Otsmann, Mr. Turk.
+
+[[Applicant;AP1]]
+
+<<876.95;881.03;en>>
+Mr. President Spillman, honorable members of the Grand Chamber,
+
+<<881.03;885.25;en>>
+my name is Carmen Turck, attorney representing the applicant.
+
+<<885.25;889.27;en>>
+I shall take over from my good colleague, Mr. Will Watsman, now.
+
+<<889.27;895.75;en>>
+This case is about what kind of internet we want to leave behind to the next generation.
+
+<<895.75;900.15;en>>
+To give you an overview of the next 20 minutes, I outline it.
+
+<<900.15;904.03;en>>
+In the first part, I shall go through the main arguments of the applicant.
+
+<<904.03;923.27;en>>
+However, where appropriate, I will reply to the court's written questions and entwine arguments from third party interveners, namely from Article 19 Media Legal Defense Initiative, Helsinki Foundation for Human Rights, Access Now, European Digital Media Association, CCIA, and EuroISPA.
+
+<<923.27;930.31;en>>
+The second part of my speech is dedicated to the applicant's counter arguments to the government's memorial.
+
+<<930.31;934.91;en>>
+Now, to the first part of my speech, the applicant's position.
+
+<<934.91;940.87;en>>
+I have structured this part by following the general structure of the court's usual legal analysis.
+
+<<940.87;954.83;en>>
+Thus, by stating shortly the applicable law, I apply it to the present case by firstly submitting that this obligation for the comments platform operator to ensure that no one's rights are infringed is not prescribed by law.
+
+<<954.83;966.11;en>>
+And secondly, by putting forth the applicant's understanding that no such obligation would be proportionate nor necessary in a democratic society.
+
+<<966.11;975.55;en>>
+So to give my speech context and also to answer the court's written questions about the law, I named the relevant counsel and EU jurisprudence.
+
+<<975.55;990.55;en>>
+The applicant believes that relevant applicable law formula act declare for qualifying the applicant as an intermediary of third party content and not the classical publisher, the term defined by my colleague a few minutes back.
+
+<<990.55;1015.03;en>>
+Namely, the Council of Europe Declaration on Freedom of Communication on the Internet from 2003 ties the providers of internet services and the Article 10 together, stating that an intermediary could be co-responsible with a user only if it becomes aware of the legal nature of user's content and does not act expeditiously to remove it.
+
+<<1015.03;1020.07;en>>
+The same is set forth in the European Union Directive on e-commerce.
+
+<<1020.07;1037.37;en>>
+To ensure the overall functioning of the internet, the declaration as well as the directive lay down an essential principle that no state may impose to no host an active obligation to ensure and monitor the content stored.
+
+<<1037.37;1048.55;en>>
+Furthermore, the council recommendation on a guide to human rights for internet users sets forth the principle of user's right not to disclose his identity online.
+
+<<1048.55;1061.49;en>>
+The same is enshrined in recommendation on a new notion of media calling to ensure that there is no such interference which would risk leading to undue self-restraint and self-censorship.
+
+<<1061.49;1066.27;en>>
+I am aware that I am referring to laws applicable to intermediaries.
+
+<<1066.27;1074.87;en>>
+Thus, one might wonder why is that, since the first section considered the applicant to be a classical publisher of the opinions.
+
+<<1074.87;1094.39;en>>
+If that would be true and the applicant would qualify as a classical publisher, not only regarding its articles by journalists, but also regarding comments platform, the applicant would have had no reason to argue against the first section ruling and the Grand Chamber would have had no reason to accept this case for reconsideration.
+
+<<1094.39;1106.11;en>>
+As this is relevant to the applicable law, I note that instead of the named rules, the general civil law was applied by the courts and the first section, refrained from reassessment.
+
+<<1106.11;1112.87;en>>
+The applicant is mindful that states have a wide margin of appreciation in deciding the cases.
+
+<<1112.87;1118.73;en>>
+Indeed, qualification of a person under the national laws is the task for a state.
+
+<<1118.73;1128.85;en>>
+However, in this case, misqualification unjustly interferes with not only the freedom of expression of the applicant, but the freedom of expression of users.
+
+<<1128.85;1134.99;en>>
+That means common men wanting to be involved in a debate on matters of public interest.
+
+<<1134.99;1146.35;en>>
+Thus, the applicant asked this court to look at the case as a whole and reassess whether the applicant comes under regulation of the classical publisher or intermediary.
+
+<<1146.35;1151.13;en>>
+The applicant notes that the court's earlier case law supports this approach.
+
+<<1151.13;1165.91;en>>
+For example, in case of editorial board of Bravo, Odello, and Stekl versus Ukraine, this court ruled that it is not bound by the domestic court's erroneous interpretation if this would lead to fundamental rights infringement.
+
+<<1165.91;1167.99;en>>
+This is true for this case.
+
+<<1167.99;1180.61;en>>
+Without this estimation, the starting point for Grand Chamber's analysis would be the national court's manifestly incorrect interpretation of applicable rules of European law.
+
+<<1180.61;1184.29;en>>
+This was the applicable law necessary to decide this case.
+
+<<1184.29;1194.07;en>>
+From here, I shall go forward to explain why the applicant never has and still does not see that pre-monitoring obligation is prescribed by law.
+
+<<1194.07;1196.43;en>>
+Namely, for two reasons.
+
+<<1196.43;1204.31;en>>
+Firstly, there is no law prescribing the obligation to prevent that any harm is caused to third parties by comments.
+
+<<1204.31;1208.05;en>>
+And secondly, there is a law prescribing the opposite.
+
+<<1208.05;1212.03;en>>
+That is, the prohibition of such law.
+
+<<1212.03;1222.29;en>>
+It is well-established jurisprudence of the court that the prescribed by law conditions, amongst other, contains a requirement of certainty.
+
+<<1222.29;1232.91;en>>
+The principle of certainty demands that the norm cannot be regarded as a law unless it enables one to foresee the consequences which a given action may entail.
+
+<<1232.91;1241.55;en>>
+In this case before us, it is clear there exists no clear law that with any certainty demands action from the applicant.
+
+<<1241.55;1249.75;en>>
+Namely, the general principle in civil law to refrain from harming others cannot and should not be interpreted in opposite way.
+
+<<1249.75;1268.15;en>>
+Furthermore, this is precluded due to the fact that all relevant legal acts from Council of Europe to European Union and national laws prescribe clearly that there can never be any obligation for an intermediary to pre-monitor and police content created by third parties.
+
+<<1268.15;1293.39;en>>
+As Article 19, Media Legal Defense Initiative, and other friends of this court have put it, qualification of a host of comments platform as an intermediary, and thus granting it benefits of conditional liability exemptions, is a minimum standard acknowledged globally for intermediaries such as social media, picture and video communities, blogs, and news portals with comment platforms.
+
+<<1293.39;1304.59;en>>
+However, even if the law, in contrary to applicant's view, is deemed to exist, such interference as developed by first section would not be necessary in a democratic society.
+
+<<1304.59;1306.95;en>>
+The applicant has two distinct services.
+
+<<1306.95;1313.63;en>>
+It is a publisher of its articles, and it is a host to comments to these articles.
+
+<<1313.63;1317.87;en>>
+This means two different regimes would need to be applied.
+
+<<1317.87;1335.35;en>>
+The fact that hosts might have several different services was foreseen by Council of Europe already in its 2003 declaration that states that the principles for intermediary apply even if its functions are wider than just storing third party content.
+
+<<1335.35;1344.67;en>>
+The article itself under this dispute was neutral and balanced one, and the applicant had adopted more than sufficient measures regarding the comments platform.
+
+<<1344.67;1353.63;en>>
+As my colleague already explained, there was an automatic filtering system for stems of words, and a notice and take down system in place.
+
+<<1353.63;1358.47;en>>
+In addition, traditional email or a phone call was always available.
+
+<<1358.47;1365.15;en>>
+Furthermore, in some occasions, the applicant removed inappropriate comments on its own initiative.
+
+<<1365.15;1370.23;en>>
+However, these occasions were restricted to two different situations.
+
+<<1370.23;1382.23;en>>
+Whether a journalist was interested in comments to his articles, read those, and saw an inappropriate comment, or the fill for blindness institution demanded higher level of care.
+
+<<1382.23;1383.43;en>>
+I explain.
+
+<<1383.43;1398.47;en>>
+In cases where the article itself is provocative, one could argue that the news portal would have to monitor the comments since the responsibility of a classical publisher might start before the complaint from a user.
+
+<<1398.47;1405.03;en>>
+In this case, the arguably inappropriate comments were removed from the internet expeditiously.
+
+<<1405.03;1417.75;en>>
+However, the first section found that this is not enough, and that the host of comments platform must avoid all and any damage to any person altogether.
+
+<<1417.75;1423.23;en>>
+The applicant asserts that the first section decision fails to strike a fair balance.
+
+<<1423.23;1433.23;en>>
+Expeditious removal of complaint comments should have fulfilled the conditions of Council of Europe, as well as Estonia's domestic and EU law.
+
+<<1433.23;1437.43;en>>
+The question remains, of course, where is the fair balance?
+
+<<1437.43;1442.11;en>>
+It is the applicant's firm belief that the law should not be preventive.
+
+<<1442.11;1446.07;en>>
+It needs to be reactive to situations as these emerge.
+
+<<1446.07;1451.87;en>>
+For that purpose, the applicant's safeguards did strike a fair balance.
+
+<<1451.87;1463.63;en>>
+We note that it should not be anybody's obligation nor liability to supervise average users' opinions, but this user itself is to bear the responsibility for his actions.
+
+<<1463.63;1469.19;en>>
+This is well outlined by an amicus carri to these proceedings, Helsinki Foundation for Human Rights.
+
+<<1469.19;1484.27;en>>
+It emphasized that it is the state's positive obligation to ensure that there are adequate measures for the victim to be able to pursue remedies against the author of the comments, especially considering the anonymous character of the internet.
+
+<<1484.27;1498.67;en>>
+The applicant's experience confirms that there are such remedies available in Estonia, and vast a majority of commenters are identifiable in Estonia today, as well as during the time this court case was initiated.
+
+<<1498.67;1511.47;en>>
+And yet, the first section proposed two different solutions for the applicant to free itself from the liability, to pre-monitor all the comments, or require registration of users.
+
+<<1511.47;1518.87;en>>
+The first of these, not to mention semblance to censorship, is totally unachievable and disproportionate.
+
+<<1518.87;1539.55;en>>
+To leave aside the fact that the applicant itself might be able to hire an army of moderators, and thus it might be technically feasible to pre-moderate all 10,000 comments a day, it would not be achievable for most other hosts in similar positions, small bloggers, as well as global news outlets.
+
+<<1539.55;1547.31;en>>
+As an example, some numbers from the European Digital Media Association CCIA and EuroAspa submissions.
+
+<<1547.31;1555.07;en>>
+In every single minute, there is more than 130 hours of video uploaded to YouTube.
+
+<<1555.07;1563.19;en>>
+There are more than 40,000 posts in Facebook, more than 2,000 posts in just one blogging platform, WordPress.
+
+<<1563.19;1567.59;en>>
+There are over 20 million articles in Wikipedia.
+
+<<1567.59;1578.91;en>>
+These are all user-generated content, moderation of which is unachievable and disproportionate and should not be wanted in a democratic society.
+
+<<1578.91;1584.91;en>>
+The second option envisaged by first section was enforcement of real name policy.
+
+<<1584.91;1590.23;en>>
+That, in applicants' view, is infringement of human rights per se.
+
+<<1590.23;1604.71;en>>
+Real name policy, or likewise, banning comments in the first place, would be absolutely acceptable if freely chosen as a business model, since everyone has a right to decide what it wants to host on his own platform.
+
+<<1604.71;1609.91;en>>
+However, it is not a proportionate measure for a state to make mandatory.
+
+<<1609.91;1617.59;en>>
+The Council of Europe has repeatedly underlined the importance of anonymity, as described earlier in the section for applicable law.
+
+<<1617.59;1628.43;en>>
+The anonymity has long been considered to be the one tool empowering people to voice their opinions on subjects for which they might not be able to express under real names.
+
+<<1628.43;1639.79;en>>
+The applicant, as well as intervenors to this course, have established that anonymity is constitutionally protected by laws of many contracting parties.
+
+<<1639.79;1653.07;en>>
+For example, German courts have stated that the obligation to confess to a certain opinion would create the risk that fear of adverse effects would lead to the decision of not to express one's opinion.
+
+<<1653.07;1655.03;en>>
+This is danger of self-censorship.
+
+<<1658.07;1665.71;en>>
+The second part of my speech, as already said, is to shortly state the prominent counter-arguments to the government's memorial.
+
+<<1665.71;1668.67;en>>
+The memorial consists of three main arguments.
+
+<<1668.67;1675.75;en>>
+Firstly, the applicant objected to referral of the case to the European Court of Justice.
+
+<<1675.75;1683.79;en>>
+Secondly, the applicant should be liable due to his economic interest and small sanction.
+
+<<1683.79;1690.15;en>>
+And thirdly, that there is no European consensus on the matter of host liability.
+
+<<1690.15;1701.03;en>>
+Firstly, as already said, the government submits that, and I quote, Delphi strongly objected victim's request for referral to ECJ in the latter's appeal.
+
+<<1701.03;1715.83;en>>
+In reality, the applicant objected only due to the fact that county court had dismissed the victim's claim and found that the applicant was an intermediary and cannot be considered a traditional publisher of the comments.
+
+<<1715.83;1722.27;en>>
+And I quote again, its activity of operating the comments platform is mechanical and passive in nature.
+
+<<1722.27;1730.59;en>>
+And for intermediary, as the court stated, the law prescribed that there is no obligation to pre-control the comments.
+
+<<1730.59;1733.63;en>>
+Thus, this argument of government puzzles the applicant.
+
+<<1733.63;1743.87;en>>
+Why would the applicant want the referral to ECJ if the county court interpreted the EU law and respective national law in absolute correct way?
+
+<<1743.87;1751.11;en>>
+It was not for the applicant to neither know nor predict that higher courts would not follow the described decision.
+
+<<1751.11;1759.67;en>>
+The applicant further submits that the Supreme Court would have been obliged to refer the question to the ECJ if there was confusion on the law.
+
+<<1759.67;1773.83;en>>
+However, Supreme Court of Estonia interpreted e-commerce directive and relevant Estonian law and found that the law was clear that it would not apply to news portal comments platform, such as the applicants.
+
+<<1773.83;1777.07;en>>
+Thus, it did not refer the questions to the ECJ.
+
+<<1777.07;1782.81;en>>
+Unfortunately for the applicant, there is no direct access to European Court of Justice.
+
+<<1782.81;1794.57;en>>
+Secondly, the government relies on two substantive arguments in the first section ruling, the applicant's economic interest and insignificance of the sanction imposed.
+
+<<1794.57;1807.83;en>>
+However, in applicants' view, these arguments are unfounded, since economic interests in exploiting the portal should not affect nor remove the intermediary limited liability regime.
+
+<<1807.83;1824.19;en>>
+The European Court of Human Rights itself has underlined in case of Otronic versus Switzerland that the convention guarantees freedom of expression to everyone without making distinction according to whether the aim pursued is profit making or not.
+
+<<1824.19;1835.87;en>>
+Regarding the significance of the sanction imposed, the applicant admits that less than 400 euros as a sanction is not a sum to appeal to European Court of Human Rights for.
+
+<<1835.87;1841.83;en>>
+However, this case is not about a specific sum of money that is long ago paid to the victim.
+
+<<1841.83;1844.35;en>>
+It is about the principle.
+
+<<1844.35;1857.99;en>>
+Since holding intermediaries liable for the content created by the users undermines the enjoyment of the freedom of expression, because it leads to self-protective and overbroad private censorship.
+
+<<1857.99;1862.71;en>>
+And that without transparency and the due process of the law.
+
+<<1862.71;1868.67;en>>
+Thus, the amount of compensation is irrelevant to this dispute.
+
+<<1868.67;1878.59;en>>
+Thirdly, the government asserts that there is a lack of case law and European consensus by referring to case law dating mainly from the first decade of this century.
+
+<<1878.59;1887.83;en>>
+The applicant, as well as Amicus Caris, have showed that there is a European standard that has emerged from the individual states.
+
+<<1887.83;1893.11;en>>
+The applicant has outlined the cases from European Court of Justice in its submissions to this court.
+
+<<1893.11;1906.91;en>>
+However, shortly I hereby submit that, for example, in Saban-Bersaud Netlog, ECJ has stressed that it has repeatedly recognized the danger of requiring corporate entities to act as censors.
+
+<<1906.91;1920.47;en>>
+In another recent case from 27th March in UPC Telekabelwien, the ECJ held that the freedom of information would be adversely affected by measures addressed to intermediaries.
+
+<<1920.47;1924.17;en>>
+The states have nationally reached the same conclusion.
+
+<<1924.17;1930.91;en>>
+For social networking sites, blogging platforms, chat rooms, bulletin boards, video sharing sites, et cetera.
+
+<<1930.91;1952.55;en>>
+For example, Germany's Bundesgerichtshof in 2011 case involving a blog hosted on Google's Blogspot service held that Google is not required to proactively monitor articles and that it has to take action only if there is a notice of infringement that is sufficiently precise.
+
+<<1952.55;1967.47;en>>
+In addition, even after the first section decision, the national courts have remained in position that simplistic application of traditional rules of editorial responsibility is not the answer to challenge of the internet.
+
+<<1967.47;1976.15;en>>
+For example, Northern Ireland High Court expressly chose not to follow the first section ruling in Delphi versus Estonia.
+
+<<1976.15;1983.59;en>>
+The applicant must note that this court itself has considered that strict liability is not the answer for intermediaries.
+
+<<1983.59;1988.21;en>>
+And it just leads to overblocking of also legitimate content.
+
+<<1988.21;1998.27;en>>
+Just to name the latest decision, Wilderheim versus Turkey, where strict liability led to, as this court stated, collateral censorship.
+
+<<1998.27;2002.55;en>>
+Thus, the applicant stresses that there exists European understanding.
+
+<<2002.55;2018.39;en>>
+Even more, there is a shared standard common throughout the free world, whereby common platform operators are content hosts and are essentially liable for content once it has been drawn to their attention that it is potentially legal.
+
+<<2018.39;2028.59;en>>
+As this is what actually took place in this dispute, the applicant was made aware of some potential offensive comments, and it removed those expeditiously.
+
+<<2028.59;2034.43;en>>
+The applicant cannot and should not be considered liable for the content of those comments.
+
+<<2034.43;2037.19;en>>
+With this, I conclude this submission.
+
+<<2037.19;2038.07;en>>
+And thank you.
+
+<<2038.07;2040.71;en>>
+And I give floor to the representative of government.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2044.74;2047.02;fr>>
+Merci beaucoup, Madame Turk.
+
+<<2047.02;2050.46;fr>>
+Je donne la parole au gouvernement et à Madame Kuurberg.
+
+[[Government;GR1]]
+
+<<2054.08;2058.44;en>>
+Thank you, Mr. President, distinguished members of the court.
+
+<<2058.44;2075.38;en>>
+In the case brought before you, you are asked by the applicant, a news company, Telfi, to re-establish the facts established by the domestic courts and to apply legislation different from the one applied by the domestic courts based on those facts.
+
+<<2075.38;2079.26;en>>
+These requests per se exceed the limits of this case.
+
+<<2079.26;2093.02;en>>
+Your court in its case law has consistently underlined that it does not have a competence to assess or adopt a different position from the one of the domestic courts as to which domestic law is applicable.
+
+<<2093.02;2112.7;en>>
+The government will demonstrate that as the domestic courts in Telfi's case have thoroughly evaluated all the facts and aspects of the case, there was no arbitrariness in their decisions to identify Telfi as a publisher and to hold it liable under the respective foreseeable and proportionate legislation.
+
+<<2112.7;2126.56;en>>
+The government will not repeat what has been expressed in their memorial, but will complement its previous submissions by responding to the questions communicated by your court and by addressing the submissions of Telfi.
+
+<<2126.56;2148.92;en>>
+As the submissions of third party interveners mostly address the right to anonymous commenting and the rights of the hosts in the meaning of EU Directive 2000-31, it is the aspects which are not the subject matter of this case, as will be shown later, we consider their submissions for the most part to be irrelevant.
+
+<<2148.92;2164.1;en>>
+For the adjudication of the concrete case before your court, including for answering the first question about whether Telfi was to be considered a publisher, the facts of the specific case are of utmost importance.
+
+<<2164.1;2173.18;en>>
+Primarily, the government note that Telfi has never contested that it was the publisher of the article under question.
+
+<<2173.18;2191.46;en>>
+The fact that comments formed part of Telfi's journalistic activity in turn is confirmed by the following aspects, which in aggregate were the basis for the domestic court's deliberations that Telfi was a disclosure or publisher of the comments and not a passive host.
+
+<<2191.46;2200.9;en>>
+I hereby also refer to Appendix 1 to the government memorial, which is an extract from Telfi's portal of 2006.
+
+<<2200.9;2216.46;en>>
+Telfi itself chose the articles it published, titled them, invited readers to comment them, set the rules and prohibited off the subject comments, although in 2006 it did not demand the rules to be accepted.
+
+<<2216.46;2225.74;en>>
+It then moderated and published the comments and highlighted the number of comments in red right in the end or under the title.
+
+<<2225.74;2241.1;en>>
+In 2006, the commenting board was directly under the article and comments could be uploaded without any registration or identification and one could read them just one after one click without leaving Telfi's webpage.
+
+<<2241.1;2246.1;en>>
+Nobody except Telfi could amend or delete the comments.
+
+<<2246.1;2255.58;en>>
+Although third party interveners have noted that it is normal that hosts can remove the content, the emphasis here is that the commentators could not.
+
+<<2255.58;2259.34;en>>
+They lost any control over the comments.
+
+<<2259.34;2273.38;en>>
+In addition, Telfi has expressly set forth in its terms of use that the copyright to everything on its news portal, except specific listed pages which are not part of this dispute, belongs to Telfi.
+
+<<2273.38;2283.54;en>>
+Further, Telfi listed the articles according to the number of comments and the articles with more comments also stayed on the top of the page longer.
+
+<<2283.54;2291.08;en>>
+Thus the commercial interest was obvious because more clicks meant more commercials, it is more income.
+
+<<2291.08;2302.1;en>>
+At the same time, by listing the articles and relating their lifetime to the number of comments, Telfi had full knowledge of the articles which attracted more public interest.
+
+<<2302.1;2305.58;en>>
+In this case, the article on the question drew a lot of attention.
+
+<<2305.58;2308.74;en>>
+It had 185 comments.
+
+<<2308.74;2322.74;en>>
+Thus it was obvious for Telfi that among such a high number of comments, there could be insulting and offending ones, especially because the theme of the article was negative, which has been confirmed by Telfi, as will be shown later.
+
+<<2322.74;2342.66;en>>
+Proceeding from these facts, the Estonian courts reached a well-considered conclusion that Telfi, who had integrated the commenting board to its news portal and had effective control and economic interest over the comments, should be identified as a publisher.
+
+<<2342.66;2351.14;en>>
+Your court has asked whether the EU Directive 2000-31 has any relevance to the resolution of a question of publisher.
+
+<<2351.14;2359.7;en>>
+I refer to the government's memorial where the non-applicability of the directive has been thoroughly explained in paragraphs 57 to 67.
+
+<<2359.7;2382.34;en>>
+The domestic courts expressly followed the recital 42, according to which the directive covers only cases where the activity of the information society service provider is limited to mere technical, passive and automatic nature, and came to the conclusion that the special law EU directive is not applicable.
+
+<<2382.34;2404.12;en>>
+Hereby I also refer to the ECJ case law regarding that directive, judgments in Google AdWords and Loral ePay, that the domestic courts are best placed to be aware of the actual terms on which the service is supplied and decide on the fact or the question of being or not a host.
+
+<<2404.12;2410.38;en>>
+The same approach should be taken in respect of the question related to the notion of publisher.
+
+<<2410.38;2423.32;en>>
+Directive 2000-31 does not cover active online news publishers whose activities are not covered by section 4 of chapter 2 of the directive.
+
+<<2423.32;2432.42;en>>
+As noted, the domestic courts made their decision about applicable law after first ascertaining that EU law was not applicable.
+
+<<2432.42;2444.42;en>>
+On the other hand, and I refer to our memorial, paragraphs 15, 16, 58 and 59, the applicant itself has struggled throughout the proceedings to identify its activities.
+
+<<2444.42;2452.14;en>>
+It has alleged to be a provider of a caching service, a hosting service and even as a mere transmitter.
+
+<<2452.14;2460.14;en>>
+Though also in your court, Delfi has not submitted any convincing arguments how its role could be seen as neutral.
+
+<<2460.14;2477.54;en>>
+Thus if Delfi did not agree with the domestic courts that EU law was not applicable, although in five proceedings it was established, it should have asked a preliminary ruling request regarding the interpretation of a notion host to be sent to the ECJ.
+
+<<2477.54;2489.48;en>>
+Your mission to do that renders Delfi's allegations about the collision of obligations on the EU law arbitrary and ill-placed.
+
+<<2489.48;2499.18;en>>
+Your court in the question about the notion of publisher has also referred to the Council of Europe recommendations of 2011 and 2014.
+
+<<2499.18;2510.18;en>>
+It should be kept in mind that these texts did not exist in 2006 and 2009 when Delfi's case was adjudicated by the domestic courts.
+
+<<2510.18;2532.38;en>>
+Everything related to internet changes so quickly that it would not be proper to evaluate or assess Delfi's actions in 2006 nor the domestic court judgments in the light of any new standard setting documents as your court has acknowledged in SH and others versus Austria or in Schalk and Kopp versus Austria.
+
+<<2532.38;2535.24;en>>
+Should your court still assess the new documents?
+
+<<2535.24;2556.02;en>>
+The recommendation on a guide to human rights on internet of 16 April 2014 does not concern the notion of publisher but notes that just like in the offline world, those that launch content to an audience must evaluate if freedom of expression can be limited with regard to the protection of any other rights.
+
+<<2556.02;2565.18;en>>
+And with reference to your court's case law, it has been noted that the rights guaranteed under Articles 8 and 10 deserve equal respect.
+
+<<2565.18;2577.92;en>>
+The same is underlined in the Council of Europe Declaration of 2003 which for the rest refers to Section 4 of the EU Directive and is not applicable regarding the notion of publisher.
+
+<<2577.92;2587.78;en>>
+In the recommendation on a new notion of media of 21 September 2011, it has been noted that the role of media has not changed.
+
+<<2587.78;2593.64;en>>
+News media's aim is still to produce and disseminate information to the wider public.
+
+<<2593.64;2607.54;en>>
+In that respect, it confirms the position taken by Estonian court years earlier that publishing online news and comments to them is equally considered to be media with respective liabilities.
+
+<<2607.54;2621.34;en>>
+Telvi itself in its memorial and today has stated that there are only two options, either to be a traditional publisher or to be an intermediary and has defined itself to be an intermediary.
+
+<<2621.34;2626.98;en>>
+It is not clear what is the difference between a traditional and any other publisher.
+
+<<2626.98;2646.66;en>>
+For Telvi, but according to the Estonian civil law and case law, everybody who makes information available to third persons is considered to be a discloser, a publisher, regardless of the means used for the publication as was also confirmed by the Supreme Court in Telvi's case.
+
+<<2646.66;2657.66;en>>
+In the context of this case, it is of utmost importance that also the wider public in Estonia perceives Telvi's news and comments as an undivided source for information.
+
+<<2657.66;2672.58;en>>
+According to the study carried out by the Open Estonia Foundation in 2013, in Estonia the comments are read as an inseparable part of an article, referred to in our memorial paragraph 27.
+
+<<2672.58;2677.82;en>>
+Having established that Telvi was a publisher, I will turn to your court's second question.
+
+<<2677.82;2685.7;en>>
+What were the information society services the applicant company offered in the context of the present case?
+
+<<2685.7;2698.02;en>>
+The government noted that the definition of information society services proceeds from EU Directive 98-48 amending the EU Directive 98-34.
+
+<<2698.02;2709.74;en>>
+Information society service is any service normally provided for remuneration at a distance by electronic means and at the individual request of a recipient of the service.
+
+<<2709.74;2725.9;en>>
+This very broad definition covers different types of information services but does not establish a general liability regime applicable to all activities of the service providers.
+
+<<2725.9;2735.72;en>>
+Directive 2000-31 provides only for a system of specific liability exemptions for maid transmitting, cashing and hosting.
+
+<<2735.72;2745.14;en>>
+If a service does not qualify for an exemption under that directive, liability will be determined by the national law of the respective member state.
+
+<<2745.14;2761.94;en>>
+As the Estonian court established that Telvi in this case did not provide any of the information society services which could exempt it from liability under that directive, general civil law was applicable to its journalistic activities.
+
+<<2761.94;2780.46;en>>
+As both Telvi and third party interveners have brought comparisons with social media networks, blogs, internet marketplaces and so on, the government find it important here to briefly explain the inappropriateness of these examples too.
+
+<<2780.46;2790.82;en>>
+Generally one cannot compare a webpage forming a unified content service and the pure sites for expression of opinion like Facebook, Twitter and so on.
+
+<<2790.82;2808.66;en>>
+It was acknowledged in principle in the ECJ judgment, Saban versus Netlog, when Netlog was considered to be a host because it had created a social network where a registered person received a personal data space, a profile which he could create himself.
+
+<<2808.66;2818.58;en>>
+Users could inter-alia, keep a diary, indicate their hobbies and interests, show who their friends are, display personal photos or publish video clips.
+
+<<2818.58;2839.58;en>>
+Such a description has no similarities with Telvi's news portal's activities the government described just a while ago, including the difference that each registered user has a power and control over the uploaded information in social media networks, which is not the case in Telvi's commentary.
+
+<<2839.58;2849.22;en>>
+Also parallels with an online marketplace, eBay or a search engine Google are not justified because Telvi does much more than eBay or Google.
+
+<<2849.22;2858.02;en>>
+Telvi's activities not restricted to the hosting of information posted on the portal by third parties, which has been admitted by Telvi itself.
+
+<<2858.02;2869.54;en>>
+Thus at the very outset no parallels could be brought with the social media networks or forums on online marketplaces and the news portals like Telvi.
+
+<<2869.54;2883.82;en>>
+Thus there is no basis to conclude, and I refer to the words of Telvi, that Telvi's judgment is capable of amputating the public sphere of valuable opinions, for example in social media networks.
+
+<<2883.82;2896.86;en>>
+The government also underlined that persons having been qualified as hosts have never been found liable under the general civil law regulation in Estonia, neither before Telvi's judgment or after it.
+
+<<2896.86;2910.06;en>>
+For example when a complaint was submitted against a blog that was hosted by Google, Google as a provider of a blogging serving was considered to be a host whose obligation was to disclose an IP address of a blog owner.
+
+<<2910.06;2917.26;en>>
+It's the Harjo County Court ruling of 5th August 2013.
+
+<<2917.26;2929.26;en>>
+Thus nothing in the circumstances described above could have given Telvi a reason to expect that it is not liable for the comments published to its articles under Estonian law.
+
+<<2929.26;2956.1;en>>
+There were absolutely no grounds to make a presumption that Telvi could rely on the EU directive, the respective domestic law, Information Society Services Act or the ECHJ case law, because there were no case law examples according to which the exemptions are applicable in regard to journalistic activities, and there are no such examples today either.
+
+<<2956.1;2973.34;en>>
+Contrarily, the applicable civil law was clearly foreseeable because the joint liability of journalistic media organisations and authors of the articles had been well established in the Estonian case law, reflected in our memorial, paragraph 32-33.
+
+<<2973.34;2987.76;en>>
+The definitions that disclosing means making information available to third persons and that a discloser is a person who makes the information available were confirmed by the Supreme Court also in 2005.
+
+<<2987.76;2994.04;en>>
+It is after 2004 when the directive was integrated into the domestic law.
+
+<<2994.04;3004.78;en>>
+And Telvi's liability for the anonymous comments disclosed on its news portal had been stressed in public by Estonian high officials also in 2005.
+
+<<3004.78;3009.26;en>>
+It is after the directive was integrated into the domestic law.
+
+<<3009.26;3015.68;en>>
+The applicable domestic legislation has been reflected in our memorial, paragraph 48.
+
+<<3015.68;3029.74;en>>
+The constitutional freedom of expression is limited with the obligation not to violate other person's personality rights foreseen under paragraph 17 and 19 of the constitution and in the law of obligations act.
+
+<<3029.74;3036.42;en>>
+In this case, Telvi as a discloser was reproached for failure to act.
+
+<<3036.42;3050.34;en>>
+Estonian courts explained that liability for failure to act exists if there is an obligation to act, which could proceed either from a legal act or from general due diligence required in commerce.
+
+<<3050.34;3074.46;en>>
+As already noted, honor and good name is protected by the law of obligations act and general due diligence required in commerce in turn means that each person who creates a source of risk, which could foreseeably bring along a risk of harming third person's right, shall take reasonable measures to avoid such harm.
+
+<<3074.46;3091.74;en>>
+By setting up a news portal with an integrated commenting board, Telvi had created a source of potential risk that third person's personality rights could be violated, but did not take sufficient measures to prevent such harm done.
+
+<<3091.74;3102.22;en>>
+Liability for information and data made available for the public through a mass media medium cannot be different depending on the forum in which such publishing has been done.
+
+<<3102.22;3113.06;en>>
+In WGT, Verenig and Diefabrieken versus Switzerland, your court admitted that excessive rigidity of law does not enable to keep pace with the changing circumstances.
+
+<<3113.06;3125.5;en>>
+And in Bernd Larsen Holding OS and others versus Norway, your court concurred that the application of existing tort law to a novel area related to new technologies is completely accepted.
+
+<<3125.5;3140.58;en>>
+Thus the fact that Telvi was using new technological means did not change the basic criteria for liability, especially as the liability of publishers under civil law was well established and predictable.
+
+<<3140.58;3153.22;en>>
+Proceeding from the facts established above, it is that Telvi was liable for the defaming comments under the Law of Publications Act as a publisher, we have reached the question of proportionality.
+
+<<3153.22;3159.26;en>>
+Your court has highlighted the need for balance between Articles 8 and 10 in several judgments.
+
+<<3159.26;3164.86;en>>
+For example, in Chauvy and others versus France or Feffer versus Austria.
+
+<<3164.86;3174.18;en>>
+The same need for balance has been highlighted in a recent ECJ's judgment of 13th May 2014 in Google Spain case.
+
+<<3174.18;3204.54;en>>
+After specifically pointing out that the effect of interference with the rights of the data subject is heightened on account of the important role played by the Internet in modern society, the ECJ concluded that the right to respect for family and private life and protection of personal data override as a rule not only the economic interest of the operator of a search engine, but also the interest of the general public in finding the respective information upon a search.
+
+<<3204.54;3218.42;en>>
+And hereby I would like to answer your court's question to the government about the available remedies for the victim of online defamation for establishing the actual authors of defamatory comment statements.
+
+<<3218.42;3244.62;en>>
+I start from a little further and note that even in criminal proceedings, application of which would not be preferred in case of defamation, as set forth clearly in your court's case law, for example in Gumpana and Masare versus Romania or in Raihinem versus Bulgaria, it is an exhausting and time-consuming procedure to establish the real commentator in case of anonymous comments.
+
+<<3244.62;3246.98;en>>
+First the IP address should be identified.
+
+<<3246.98;3252.78;en>>
+Thereafter, a person behind that IP address should be established.
+
+<<3252.78;3263.02;en>>
+Already first step could be unsuccessful if a proxy is used or if data has not been kept by the service provider or if a comment has been deleted.
+
+<<3263.02;3280.22;en>>
+But even if an IP address is established, identifying the person behind that IP address as a second step usually demands specific investigative measures like searches, surveillance, interrogations, expertise, and so on.
+
+<<3280.22;3286.94;en>>
+There are several reasons behind that, as the government have explained in the memorial, paragraphs 83 to 85.
+
+<<3286.94;3295.62;en>>
+For example, public computers have been used, Internet connection through Wi-Fi in a random place or a dynamic IP address has been used.
+
+<<3295.62;3304.54;en>>
+There could also be hundreds or thousands of persons behind one IP address, as it usually is in big companies or in schools.
+
+<<3304.54;3311.5;en>>
+Nevertheless, if in criminal cases, special investigative steps could help the investigators forward.
+
+<<3311.5;3318.22;en>>
+In civil cases, the identification of an anonymous commentator would be next to impossible.
+
+<<3318.22;3329.38;en>>
+Unless the IP address is identifiable and leads directly to a concrete person who admits writing the comment, which is usually not the case.
+
+<<3329.38;3350.9;en>>
+Thus, although there exists a pretrial establishment of facts procedure to which the applicant refers to, in case of anonymous comments, it would be most likely too burdensome and also unsuccessful for the victim, as in civil proceedings, the investigative tools cannot be used to find the real author of a comment.
+
+<<3350.9;3355.32;en>>
+This procedure would not guarantee the protection of rights of a victim.
+
+<<3355.32;3366.94;en>>
+Your court has underlined in numerous judgments, for example, in Sejdovic versus Italy or Salmoni versus France, that the victim should not try to exhaust remedies which are not effective.
+
+<<3366.94;3380.28;en>>
+At the same time, the government stress that the fact that the authors of anonymous comments often cannot be identified in civil proceedings is not attributable to the state.
+
+<<3380.28;3391.98;en>>
+If the state were to oblige the portals to identify the commentators, that would cause a similar reaction that freedom of expression has been violated.
+
+<<3391.98;3402.5;en>>
+Returning to the criminal liability for defamation in order to be able to use the means of criminal procedure would not be the proportionate answer either.
+
+<<3402.5;3411.16;en>>
+The decision whether to identify the commentators or to take any other measures should be taken only by the portal itself.
+
+<<3411.16;3429.9;en>>
+Therefore the state has fulfilled its positive obligation proceeding from Article 8 by leaving a portal a choice to guarantee balanced rights, but also assuring that if a portal fails to do that, a complaint can be submitted against the portal who will be held liable if there has been a violation.
+
+<<3429.9;3437.58;en>>
+In that regard, it must be stressed that even if a commentator stayed anonymous to the public, it did not have to be anonymous to DELFI.
+
+<<3437.58;3447.56;en>>
+In case of a complaint, DELFI could have forwarded the data of a commentator to the court and the complaint against the specific commentator could have been submitted.
+
+<<3447.56;3456.76;en>>
+In reality, most online news portals demand some kind of registration, as the government has shown in the memorial, paragraph 8.
+
+<<3456.76;3474.14;en>>
+In this connection, the government also notes that nothing prevented DELFI to involve the commentators as third persons in the proceedings or to submit a regress claim against the commentators later, especially if DELFI found that their identification would be so easy.
+
+<<3474.14;3497.38;en>>
+But if a news portal prefers to allow completely anonymous comments to its articles because it is economically more useful and leaves the victims in the most vulnerable position because the risk of illegal comments is higher than in portals where the commentators are registered, it has to take different measures to minimize the possible harm done to the other persons.
+
+<<3497.38;3509.1;en>>
+The fact is that DELFI was well aware that the article on the question was of great importance and that it created negative emotions to the public, confirmed by DELFI in its memorial, paragraph 73-74.
+
+<<3509.1;3518.02;en>>
+Thus, DELFI had a reason to expect that the said article may provoke unlawful comments from readers.
+
+<<3518.02;3526.5;en>>
+Nevertheless, DELFI did not take measures to prevent anonymous defaming comments, nor did it monitor the comments afterwards.
+
+<<3526.5;3535.74;en>>
+Proceeding from the same deliberations, the domestic courts and the chamber established that the reputation of Fair El was not protected proportionally.
+
+<<3535.74;3550.86;en>>
+They agreed that the measures taken by DELFI were not sufficient and found that it would be unfair and contrary to the principle of good faith to put the obligation to monitor internet 24-7 on potential victims.
+
+<<3550.86;3560.46;en>>
+The government also underlined that the domestic courts did not prescribe which measures DELFI should take, but expressly noted that it should be for the portal to decide.
+
+<<3560.46;3587.7;en>>
+That was accepted by the chamber and the same principle was underlined in the recent ECJ judgment of 27 March 2014 in UPC Telegabel, where the ECJ found that the very substance of the freedom of an internet service provider to conduct a business was not infringed because it was able to choose to put in place measures which are best adapted to him.
+
+<<3587.7;3595.94;en>>
+In addition, the domestic courts, neither in DELFI case nor in other examples we have given, have awarded high compensations.
+
+<<3595.94;3606.42;en>>
+Already in 2004-2005, the Supreme Court underlined that each defamation case does not need to be concluded by awarding compensation.
+
+<<3606.42;3623.78;en>>
+The government also reminds you that defamation took place in 2006 and that DELFI itself has taken measures to guarantee better balance between the rights foreseen in Articles 8 and 10 years ago, after the Supreme Court judgment.
+
+<<3623.78;3636.54;en>>
+What should be stressed is that DELFI is still the biggest news portal in Estonia, allowing continually anonymous comments and earning a high revenue on the advertisements proceeding from the comments.
+
+<<3636.54;3645.54;en>>
+So obviously the judgments did not bring along any disproportionate consequences to the portal in question.
+
+<<3645.54;3663.02;en>>
+Turning now to the more general aspects of the case, the Estonian government wished to stress with references to the submissions of DELFI and third party interveners, how intimidating it is to read that vast majority of allegations made online are often too trivial.
+
+<<3663.02;3666.18;en>>
+The government finds the contradiction to be evident.
+
+<<3666.18;3679.7;en>>
+If the internet is so important for the public debate for freedom of expression, how can the offensive comments that will stay on the internet forever be trivial and insignificant?
+
+<<3679.7;3685.3;en>>
+How could the protection of Article 8 be less important on the internet?
+
+<<3685.3;3692.5;en>>
+Nothing in your court's case law tolerates the balance between Articles 10 and 8 to be inclined towards protecting only Article 10.
+
+<<3692.5;3702.74;en>>
+In the world of internet, keeping the balance and protecting the ordinary person becomes even more important, as the chamber in the judgment has found.
+
+<<3702.74;3727.26;en>>
+As the mass media on the internet are nowadays often commercial enterprises with uncontrolled and virtually unlimited strength, interested more in profitable, flashy news and juicy comments than in disseminating proper information to the public, like DELFI, the protection of privacy of an ordinary man might be disregarded under the popular slogan, freedom of expression.
+
+<<3727.26;3744.46;en>>
+Your court should see behind the declarative words of DELFI about the freedom of speech, especially when the publications do not contribute to the debate of general interest to society, as your court has underlined in Krona Verlag versus Austria and was the case here.
+
+<<3744.46;3763.92;en>>
+Regarding the accessible remedies for possible victims of defamation, the government asks your court to take into account that neither DELFI nor the third party interveners have been able to address the question of balance of different rights and the proportional remedies in respect of others in circumstances created by DELFI.
+
+<<3763.92;3768.46;en>>
+In fact, they have not even mentioned Article 8 and personality rights.
+
+<<3768.46;3776.02;en>>
+In conclusion, the government underlined that a private publishing company could not expect to be free from any liability.
+
+<<3776.02;3789.98;en>>
+After having created the situation where the real commentators are not identifiable and having not taken other sufficient measures to minimize the risk of harm that could be done to third persons.
+
+<<3789.98;3805.26;en>>
+And for the very last, regarding the claim for just satisfaction, the government remain with their comments on the claim for pecuniary damages and cost and expenses submitted on 23rd September 2011 to the chamber.
+
+<<3805.26;3807.34;en>>
+And I will not repeat them.
+
+<<3807.34;3817.02;en>>
+Those comments will also apply to the additional costs borne during the grand chamber proceedings, which the government find to be unreasonably high.
+
+<<3817.02;3817.02;en>>
+Thank you for your attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3822.16;3822.96;fr>>
+Merci beaucoup.
+
+<<3824.88;3826.56;fr>>
+Je me tourne vers les collègues.
+
+<<3826.56;3831.04;fr>>
+La juge Ziemele et ensuite le juge Spano.
+
+[[Judge;Ineta Ziemele]]
+
+<<3835.66;3837.26;en>>
+Thank you, Mr. President.
+
+<<3838.42;3856.22;en>>
+My questions, it's one big question with several sub-points, goes principally to the applicants' representatives, but of course the government is also welcome to comment on that.
+
+<<3856.9;3870.46;en>>
+Since the applicant made just now in the submissions a very interesting submissions on the principles as concerns, the application of freedom of expression in relation to internet media.
+
+<<3870.46;3876.58;en>>
+I would like you to clarify exactly what your sort of view is.
+
+<<3876.58;3889.58;en>>
+Am I right in understanding that the applicant's position is that in the name of freedom of expression, there is no obligation of pre-monitoring?
+
+<<3889.58;3903.18;en>>
+Or you can probably subdivide it either by internet media or, and that's where I didn't quite understand your position, or your position is that it only, this lack of obligation applies to intermediary.
+
+<<3903.18;3905.7;en>>
+So if you would clarify that.
+
+<<3905.7;3937.46;en>>
+And from here, I simply note that as you submitted yourselves already at the time of the facts, some filtering system was put in place by Delphi, and you also pointed out that in fact, there is also a possibility that a particular journalist monitors the comments as attached to the article and then can propose that inappropriate comment is deleted.
+
+<<3937.46;3957.82;en>>
+So of course, while understanding that the filtering system with these few additions is not what pre-monitoring means in the expert world in this area, may I ask you to clarify, say, what were the considerations or the principles?
+
+<<3957.82;3974.54;en>>
+And what were the purposes then for Delphi to put in place the filtering system and also these two other sort of, I understand, random possibilities of monitoring the comments?
+
+<<3974.54;3986.74;en>>
+So it is all linked to my question as to how you understand the scope or the type of obligations of the internet media.
+
+<<3986.74;3998.14;en>>
+And linked to that is, you were mentioning that the filtering system was capable of catching inappropriate words.
+
+<<3998.14;4008.3;en>>
+Could you maybe elaborate what were the inappropriate words that this filtering system was capturing?
+
+<<4008.3;4019.98;en>>
+And since the comments that are at the centre of the case, we have them in paragraph 14, I believe, of the Chamber Judgment.
+
+<<4019.98;4021.82;en>>
+We have all seen those comments.
+
+<<4021.82;4037.38;en>>
+So my question linked to those words is, am I right in assuming that those words are considered appropriate by the filtering system as in place at the time?
+
+<<4037.38;4037.38;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4039.02;4041.3;fr>>
+Merci beaucoup, le juge Spano.
+
+[[Judge;Robert Spano]]
+
+<<4043.83;4045.47;en>>
+Thank you very much, Mr. President.
+
+<<4045.47;4056.43;en>>
+I have some factual issues that I would like to explore with the applicant and then one question to the government.
+
+<<4056.43;4079.45;en>>
+It seems clear from the facts as established by the chamber that the defamed person, the head of this shipping company at national level, he brought a claim to the applicant company, Philadelphia, six weeks after the article in question had been published.
+
+<<4079.45;4092.19;en>>
+My question is, as I understand it from the chamber judgment and now your submissions, did he only submit a claim for damages?
+
+<<4092.19;4100.87;en>>
+Did he request that the comments be removed or was that a request that he did not make?
+
+<<4100.87;4120.63;en>>
+Now as regards this request removal, had the defamed person been in any contact, direct or indirectly, with the applicant company before these six weeks, that is before he formally submitted the claim for damages?
+
+<<4120.63;4143.07;en>>
+My second factual issue to the applicants is your submission here today, which I find intriguing, where you discuss what you call the willful blindness institution, where you state, if I recall correctly, that is a situation where the applicant deems he has a higher level of care.
+
+<<4143.07;4147.23;en>>
+Could you explain to me what kind of situations you're dealing with?
+
+<<4147.23;4154.23;en>>
+Is that limited to articles which prior to publication would be considered provocative?
+
+<<4154.23;4178.31;en>>
+And moving from there, would you accept in this case that if the article in question would not have been a balanced one and in accordance with journalistic ethics, as you mentioned, that liability of the sort that the applicant company was imposed would have been a proportionate measure under Article 10?
+
+<<4178.31;4188.51;en>>
+The last issue regarding the facts is the issue of the possibility of the defamed person to establish the identity of the authors.
+
+<<4188.51;4200.03;en>>
+The government said, and I hope I wrote it down correctly, nothing prevented Delphi to involve the commentators as third parties to the proceedings.
+
+<<4200.03;4206.83;en>>
+Can I especially ask you to respond to that assertion by the government?
+
+<<4206.83;4220.75;en>>
+And may I ask, did the injured person request disclosure of the commentators in question, the IP addresses as they were, as I understand it, all anonymous?
+
+<<4220.75;4225.23;en>>
+Lastly, my question to the government.
+
+<<4225.23;4235.23;en>>
+The government, the applicant alleges in this case that the interference at national level was not prescribed by law.
+
+<<4235.23;4242.67;en>>
+The chamber in this case acknowledges that the legislation in question was, and I quote, general and lacked detail.
+
+<<4242.67;4251.83;en>>
+The government says here today, and I quote, everybody who makes information available to third persons is considered to be a discloser.
+
+<<4251.83;4255.39;en>>
+May I ask for clarification on the following issue?
+
+<<4255.39;4278.63;en>>
+Before the decisions at national level in Delphi, had this rule of civil liability ever been applied by the domestic courts to a situation where the alleged discloser had no prior control, editorial or otherwise, to the content of the information made available to third parties?
+
+<<4278.63;4291.07;en>>
+And in relation to that, to what extent are we to consider the application of this rule in Delphi's case to be one of strict, no culpa, objective tort liability?
+
+<<4291.07;4298.55;en>>
+Or is it based on a showing of actual knowledge of the illegal content of the information in question?
+
+<<4298.55;4310.03;en>>
+And would this rule, under the way in which you describe it, would that automatically apply to social media platforms like Facebook or YouTube?
+
+<<4310.03;4319.15;en>>
+Because these intermediaries, these social platforms, indeed make available information to third parties.
+
+<<4319.15;4326.31;en>>
+So my question is, would this rule apply with the same kind of force to these social media platforms?
+
+<<4326.31;4326.31;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4328.63;4334.83;fr>>
+Merci beaucoup, le juge vice-président Raimondi et ensuite le juge Villiger.
+
+[[Judge;Guido Raimondi]]
+
+<<4335.73;4338.14;en>>
+Thank you very much, Mr. President.
+
+<<4338.14;4347.34;en>>
+My question is addressed principally to the government, but of course the applicant company might wish to comment as well.
+
+<<4347.34;4382.38;en>>
+The international documents adopted in this field, including those of the Council of Europe, which have been referred to extensively in the Chamber of Judgment and in memorials, show, at least in my view, a clear trend towards the opportunity of differentiating the regime of the Internet, especially as far as Article 10 of the Convention issues are concerned, from the regulation of, so to speak, traditional media.
+
+<<4382.38;4400.77;en>>
+And we know, of course, that the position of the government is in the sense that the traditional legal framework, basically the civil code, so the "neminem laedere" principle, is sufficient to satisfy the needs of Article 10.
+
+<<4400.77;4430.53;en>>
+Now, my question is, is there any reflection going on at the parliament level, at the government level or in other political circles, about the possible introduction of a specific legislation in Estonia on the model of, for instance, what has been done in the United Kingdom with the approval last year of the Deformation Act 2013 applicable for England and Wales?
+
+<<4430.53;4430.53;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4431.5;4433.26;en>>
+Thank you very much, Judge Villiger.
+
+[[Judge;Mark Villiger]]
+
+<<4435.12;4436.65;en>>
+Thank you, President.
+
+<<4436.65;4440.44;en>>
+I have a factual question to the applicant company.
+
+<<4440.44;4444.61;en>>
+And in fact, it follows the question put by Judge Ziemele.
+
+<<4444.61;4451.97;en>>
+We know that since the chamber judgment, the applicant company changed its business model as regards comments.
+
+<<4451.97;4455.89;en>>
+And it now pre-moderates all incoming comments.
+
+<<4455.89;4460.05;en>>
+It controls whether the comments comply with the rules on commenting.
+
+<<4460.05;4468.2;en>>
+My question is, how many moderators does Delphi employ to pre-moderate these comments?
+
+<<4468.2;4468.2;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4470.04;4472.24;en>>
+Thank you very much, Judge Bianku.
+
+[[Judge;Ledi Bianku]]
+
+<<4475.85;4476.85;en>>
+Thank you, Mr. President.
+
+<<4476.85;4480.39;en>>
+I have a question for the applicant.
+
+<<4480.39;4510.83;en>>
+In the chamber judgment in paragraph 10, is quoted a kind of disclaimer by your company, and I'm quoting that paragraph saying, the applicant company had made efforts to advise users that the comments were not its opinion and that the authors of comments were responsible for their content in the conditions where the users are anonymous.
+
+<<4510.83;4516.79;en>>
+How can this disclaimer be operational, and have you referred to this during the domestic proceedings?
+
+<<4516.79;4516.79;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4520.16;4527.12;en>>
+Thank you very much. No other questions. So I propose to suspend the hearing and
+
+<<4527.12;4527.12;en>>
+we will resume the hearing at 10 to 11.
+
+[[Announcer;UNK]]
+
+<<4623.45;4624.06;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4662.18;4669.18;en>>
+Please be seated, the hearing is resumed.
+
+<<4669.18;4670.18;en>>
+Mr. Otsmann.
+
+[[Applicant;AP1]]
+
+<<4691.95;4700.67;en>>
+Honorable members of the panel, thank you for the very interesting questions that made us think quite a lot during the 20 minutes.
+
+<<4700.67;4708.03;en>>
+And I'll try to give you as much information as I can during this 10 minutes allocated to us.
+
+<<4708.03;4720.05;en>>
+The Honorable George, in etatiemela, asked that whether, in the name of freedom of expression, there is really no obligation to pre-monitor the comments.
+
+<<4720.05;4726.99;en>>
+In case of responsible, balanced journalists, there are no responsibilities indeed towards the comments.
+
+<<4726.99;4734.93;en>>
+However, this is only until the host gains the knowledge of illegal contents.
+
+<<4734.93;4741.95;en>>
+After that, as the council and national law state, one has to remove the content immediately.
+
+<<4741.95;4751.69;en>>
+If this responsibility is not fulfilled, then the host will be responsible as a traditional publisher for the content of the comment.
+
+<<4751.69;4760.87;en>>
+The second question concerned the inquiry, why did the applicant ever put in place the safeguards?
+
+<<4760.87;4765.15;en>>
+What was the purpose, and why were the safeguards put in place?
+
+<<4765.15;4768.67;en>>
+The answer to this is quite simple.
+
+<<4768.67;4783.29;en>>
+Since Delphi's interest, contrary to the government assertion, is to have a civil public debate in its comments, not to have bad or offensive or illegal material floating around in its comment platform.
+
+<<4783.29;4793.91;en>>
+Thus, it did put the safeguards in place to have a civil comment platform and debate between the users as possible.
+
+<<4793.91;4795.59;en>>
+That's why it had the guidelines.
+
+<<4795.59;4800.43;en>>
+That's why it had the filtering system, notice and takedown system.
+
+<<4800.43;4809.37;en>>
+And as usual, they have phone and email, and also the voluntary supervising of some comments.
+
+<<4809.37;4825.03;en>>
+The third questions concerned them, what kind of words did the filtering system had as inappropriate during the time of this court case when it was initiated?
+
+<<4825.03;4832.63;en>>
+To start with, we have to say that during 2006, this automatic filtering system had been in place for one year.
+
+<<4832.63;4841.19;en>>
+So it had been technologically as good as it could be to take into account that it was just one year old.
+
+<<4841.19;4858.23;en>>
+As of today, it does include all relevant vulgar words that are accepted in a community as such to be vulgar and not to be seen in a commentarium.
+
+<<4858.23;4865.07;en>>
+Secondly, the Honorable Judge Robert Spano had some questions to the applicant.
+
+<<4865.07;4875.39;en>>
+The first question was that, was it really that the defamed person brought the claim just only after six weeks after the article was published?
+
+<<4875.39;4880.15;en>>
+And did the defamed person also submit a claim for damages?
+
+<<4880.15;4888.47;en>>
+And was there any contact between these six weeks between the applicant and the defamed person?
+
+<<4888.47;4892.63;en>>
+The answer is that no, there was no contact before the six weeks.
+
+<<4892.63;4896.19;en>>
+The Delphi got the claim six weeks after the article was published.
+
+<<4896.19;4900.39;en>>
+It was the first ever claim from that defamed person.
+
+<<4900.39;4902.35;en>>
+And the Delphi got it in the morning.
+
+<<4902.35;4905.67;en>>
+And the comments were removed during the same day.
+
+<<4905.67;4911.35;en>>
+However, the defamed person still decided to turn to the court.
+
+<<4911.35;4925.63;en>>
+The second question inquired about willful blindness institution that I mentioned during the submission before, that what kind of provocative article would this go into?
+
+<<4925.63;4953.11;en>>
+We submit that if the article was not neutral, then the section decisions would make more sense and could be applied to the real world, since, as the applicant explained, that willful blindness test would arguably make the applicant liable for the comments before this specific notice from the user or from the defamed person about the comment.
+
+<<4953.11;4954.43;en>>
+And why did we say that?
+
+<<4954.43;4959.63;en>>
+Is that, for example, in US, this willful blindness test is quite widely accepted.
+
+<<4959.63;4967.03;en>>
+Also, in UK, it has been established that willful blindness might be applicable for intermediaries.
+
+<<4967.03;4986.31;en>>
+We do know that ECJ has, in some cases, said that awareness that could be kind of understood as a blind willful blindness could be excluded because of the wording of EU directive that states that there has to be a specific knowledge.
+
+<<4986.31;5009.23;en>>
+However, the applicant has taken this position that in case they do have a very provocative, controversial article of an investigative journalist, for example, then the comments might turn less appropriate than the public debate itself needs to be taking place.
+
+<<5009.23;5014.25;en>>
+Thus, it is kind of a voluntary method of having a civil conversation as well.
+
+<<5018.23;5026.27;en>>
+However, we want to note about this dispute here that, as the first section also ruled, that this article was neutral.
+
+<<5026.27;5027.51;en>>
+It was balanced one.
+
+<<5027.51;5034.11;en>>
+It did correspond to all journalistic ethics demands.
+
+<<5034.11;5041.83;en>>
+However, still, the first section said that the applicant should have anticipated bad comments.
+
+<<5041.83;5060.67;en>>
+Just to have a rhetoric question that in case of a weather forecast, if the weather forecast would be that during next week there will be no rain, then the applicant would have to anticipate bad comments from, let's say, a potato grower who is expecting rain to keep growing his potatoes.
+
+<<5060.67;5067.59;en>>
+So everyone who has visited the internet would know that bad comments can be anticipated anywhere, and not just comments.
+
+<<5067.59;5069.71;en>>
+We are talking about third party content.
+
+<<5069.71;5074.83;en>>
+So in case of a very beautiful song in YouTube, you can anticipate bad comments.
+
+<<5074.83;5088.91;en>>
+It's just the way, as a judge from US has said a few years back, that in internet, the third party content is just as large and is just as the human thought itself.
+
+<<5088.91;5093.23;en>>
+So we really cannot know where to anticipate bad comments.
+
+<<5093.23;5113.75;en>>
+The second question was about whether there was any application for closure of the commenters in the national proceedings by Delphi or by the defamed persons.
+
+<<5113.75;5119.03;en>>
+No, in the dispute starting in 2006, there was not.
+
+<<5119.03;5131.79;en>>
+However, after that, Delphi, as well as many other media organizations in Estonia, have applied to have commenters brought into the proceedings of third parties.
+
+<<5131.79;5133.47;en>>
+It has been done a few times.
+
+<<5133.47;5144.55;en>>
+However, in a district level, the courts have always annulled these decisions, and commenters are not being accepted as third parties in Estonia because of the Supreme Court decision in Delphi versus Estonia.
+
+<<5147.75;5152.87;en>>
+Next, Honorable Judge Guido Rabondi had a question for the government.
+
+<<5152.87;5156.31;en>>
+And then the next question from Mr. Mark Villager
+
+<<5156.31;5160.03;en>>
+was that how many moderators does Delphi have?
+
+<<5160.03;5163.67;en>>
+We have five moderators at this time.
+
+<<5163.67;5170.35;en>>
+However, as we have stated many times, that the applicant does not moderate all comments.
+
+<<5170.35;5175.91;en>>
+They only moderate comments basically in two or three situations.
+
+<<5175.91;5183.63;en>>
+First, when the comment has been reported by any user as being inappropriate, then it gets kind of like a little light.
+
+<<5183.63;5192.71;en>>
+And the moderator would have to read the comment and decide whether to leave it up and be liable and responsible for the content of it or to take it down.
+
+<<5192.71;5203.03;en>>
+The second possibility is, as already described, that in case the comments that are written by the users to the provocative articles.
+
+<<5203.03;5219.03;en>>
+And the third one is that really, if an author of the article is interested in the comments, read those and then sees an inappropriate comment, just as this, then the journalist itself reports it to the moderator.
+
+<<5219.03;5224.43;en>>
+The final question came from Honorable Judge Ledi-Pianku.
+
+<<5224.43;5237.99;en>>
+And it regarded that how would the Delfi's rules and guidelines that the users are responsible for their own content and the comments if the user is anonymous.
+
+<<5237.99;5244.13;en>>
+In this regard, we note that the anonymity in the comments platform is not absolute.
+
+<<5244.13;5249.59;en>>
+It's just anonymity to not disclose your identity to the public.
+
+<<5249.59;5259.95;en>>
+However, when the court's proceedings or the criminal proceedings are initiated, then the user is no more anonymous because it can be identified.
+
+<<5259.95;5269.27;en>>
+And as Delfi's experience confirms, the vast majority of users are identified and can be brought to justice.
+
+<<5272.43;5285.71;en>>
+As this 10 minutes is not yet over, I would like to, in conclusion, state that the first section findings were about strict liability for intermediaries.
+
+<<5285.71;5293.79;en>>
+And I stress about intermediaries, not the media organization having a comments platform.
+
+<<5293.79;5315.67;en>>
+Since there is no difference whether these findings are applied to a media outlet having a comments platform, or a YouTube having a third party video, or blog hoster having comments under the blogs, or let's say even wider, the blog service for the blogs, it is applicable to all intermediaries.
+
+<<5315.67;5329.59;en>>
+There is nothing unique about the applicant that would make this case to be applicable only to this kind of news portal having a comments platform underneath the articles.
+
+<<5329.59;5343.11;en>>
+And I believe it is appropriate to conclude with a quotation from a person whose task is to uphold the values common to us all, namely, Frank Del Rue, the UN Special Rapporteur on Freedom of Expression.
+
+<<5343.11;5349.51;en>>
+In his 2011 report, he said two very, very important thoughts.
+
+<<5349.51;5354.39;en>>
+Firstly, that censorship measures should never be delegated to private entities.
+
+<<5354.39;5363.23;en>>
+And secondly, that no one should be held liable for content on the internet of which they are not the author of.
+
+<<5363.23;5364.87;en>>
+With this, I conclude.
+
+<<5364.87;5373.27;en>>
+And the applicant urges this esteemed court to keep these thoughts in mind when deciding this case, Del Rue versus Estonia.
+
+<<5373.27;5373.27;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5379.7;5381.88;fr>>
+Merci beaucoup.
+
+<<5381.88;5384.88;fr>>
+Je donne la parole au gouvernement.
+
+[[Government;GR1]]
+
+<<5388.2;5394.1;en>>
+Thank you Mr. President, distinguished members of the court, and thank you for the questions.
+
+<<5394.1;5398.24;en>>
+First I will answer the question put by Judge Spano.
+
+<<5398.24;5400.24;en>>
+Questions.
+
+<<5400.24;5423.08;en>>
+Although Delfi's judgment was the first judgment where liability of an online news portal was assessed in changing circumstances, there is always a first case which sets the precedent and where the existing law can be interpreted and to new technical solutions as well.
+
+<<5423.08;5442.44;en>>
+But previous case law was clear about the liability of the publisher and did not leave any doubts that the disclosure is liable for defaming comments if it is guilty and regardless of the means of disclosing.
+
+<<5442.44;5456.84;en>>
+We are of the opinion that Delfi should have ensured when allowing anonymous commentators to post comments on Delfi's webpage that the rights of third persons were protected as well.
+
+<<5456.84;5470.32;en>>
+Since Delfi was not an intermediary, publishing comments was part of its journalistic activities as we have established by the facts of the case.
+
+<<5470.32;5481.4;en>>
+And Delfi executed control over the comments which also means that it took the liability over the comments.
+
+<<5481.4;5505.6;en>>
+Concerning your question about the references or the comparisons to Facebook and Twitter, we find that first and foremost the difference lies in the fact that in other forums a person owning a profile or account can amend and delete what he has uploaded.
+
+<<5505.6;5511.16;en>>
+In addition, in such environments people themselves initiate new themes.
+
+<<5511.16;5527.64;en>>
+Delfi instead publishes an article it finds to be of public interest and asks people to comment that article and relates the comments to its journalistic activities, profiting on those comments.
+
+<<5527.64;5558.88;en>>
+Thus, if social media networks function on different bases, and we cannot here give the answer how and when they will be liable, but it is always for the courts to evaluate the facts of the case and evaluate whether that service provider in question have been active or have it been passive.
+
+<<5558.88;5577.64;en>>
+And it's very likely that in case of Facebook or Twitter, those portals are found to be passive and neutral and the EU directive foreseeing the exemptions from liability might be applicable to those portals.
+
+<<5577.64;5600.72;en>>
+And finally, concerning your question about actual knowledge and willful blindness, Delfi had created an environment where it was possible to comment articles of a certain degree of public interest without any identification whatsoever.
+
+<<5600.72;5636.56;en>>
+The article on the question dealt with a subject that negatively affected a large number of people, therefore the domestic courts and the chamber agreed that in this case Delfi could have realized that it might cause negative reactions and considering the general reputation of comments on Delfi's news portal, there was a higher than average risk that the negative comments could go beyond the boundaries of acceptable criticism and reach a level which is not allowed.
+
+<<5636.56;5644.0;en>>
+The indicators were, among others, number of the comments posted on the article in question indicated a great deal.
+
+<<5644.0;5659.64;en>>
+Delfi itself kept the article on the top of the page longer, so it should have been cautious about the consequences.
+
+<<5659.64;5670.16;en>>
+I would like to reply to the question put by Judge Raimondi regarding possible changes to Estonian legislation.
+
+<<5670.16;5676.04;en>>
+No, the Estonian case law is consistent, there is no gap.
+
+<<5676.04;5704.6;en>>
+There has been only a few cases, but it is sufficient for acknowledging that also online news portal is jointly liable with the authors of anonymous comments, as the media organizations have always been jointly liable with the authors, and the online publishers have themselves taken measures to balance the different rights, as we have indicated in our memorial.
+
+<<5704.6;5723.72;en>>
+They do moderating, they have filtering systems, they might make difference between subjects which need registering or which can be commented anonymously.
+
+<<5723.72;5735.56;en>>
+It is the portal's choice what measures to take, but it is for the portal to guarantee the balance between different rights.
+
+<<5735.56;5764.04;en>>
+And it is always for the domestic courts to assess whether the exemption deriving from the EU law is applicable or not, and I would also again like to highlight or stress that no hosts have been held liable under general civil law regulation in Estonia, neither before Delfi's judgment or after it.
+
+<<5764.04;5796.56;en>>
+Judge Simela did not put questions to the government, but I would still like to comment the question about freedom of expression in internet, because the government wants to underline that the disclosure of information in internet should also not infringe the rights of third persons, which are protected by Article 8 of the Convention.
+
+<<5796.56;5808.68;en>>
+Thus we cannot see how the freedom of expression in internet could be limitless if it is not limitless in other forums.
+
+<<5808.68;5818.72;en>>
+And finally I would like to make two remarks regarding what has been expressed by Delfi earlier.
+
+<<5818.72;5834.02;en>>
+Namely the domestic courts did not establish that the applicant was an intermediary, although Delfi has called itself to be an intermediary today again.
+
+<<5834.02;5861.2;en>>
+It was for the applicants in domestic courts to prove the circumstances that it could rely on the exemptions that it was an intermediary, but Delfi could not establish it in the domestic courts, so we are of the opinion that this fact that Delfi was not an intermediary and it was a publisher cannot be changed here and today anymore.
+
+<<5861.2;5868.7;en>>
+And secondly the government wishes to underline that the domestic courts evaluated the facts in aggregate.
+
+<<5868.7;5884.96;en>>
+It was taken into account how the portal was structured and how the comments were integrated into the journalistic activities of Delfi, and only thereafter it was established that Delfi was a publisher.
+
+<<5884.96;5884.96;en>>
+So I thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5889.45;5891.13;en>>
+Thank you very much.
+
+<<5891.13;5894.09;en>>
+We have now come to the end of the hearing.
+
+<<5894.09;5899.45;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<5899.45;5901.97;en>>
+The court will now deliberate on the merits.
+
+<<5901.97;5904.49;en>>
+The judgment will be delivered later.
+
+<<5904.49;5908.21;en>>
+The parties will be informed of the date of delivery.
+
+<<5908.21;5910.21;en>>
+I declare the hearing closed.
+

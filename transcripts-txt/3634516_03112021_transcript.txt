@@ -1,0 +1,1859 @@
+[[Announcer;UNK]]
+
+<<16.65;17.33;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<69.73;70.55;en>>
+Please be seated.
+
+<<80.53;81.13;en>>
+Good morning.
+
+<<81.13;86.89;en>>
+I declare open the public hearing in the case of LB versus Hungary.
+
+<<86.89;98.21;en>>
+The application was lodged with the court on 7 June 2016 under Article 34 of the convention by a Hungarian national, Mr. LB.
+
+<<98.21;106.69;en>>
+The application was allocated to the fourth section of the court pursuant to Rule 52, paragraph 1 of the rules of court.
+
+<<106.69;112.65;en>>
+It was communicated to the government on 18 October 2017.
+
+<<112.65;119.13;en>>
+A chamber of the fourth section delivered its judgment on 12 January 2021.
+
+<<119.13;128.09;en>>
+It declared the applicant's complaint concerning Article 8 of the convention admissible and the remainder of the application inadmissible.
+
+<<128.09;135.25;en>>
+It held by five votes to two that there had been no violation of Article 8 of the convention.
+
+<<135.25;144.09;en>>
+On 8 April 2021, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the convention.
+
+<<144.09;152.37;en>>
+And a panel of the Grand Chamber accepted the request on 31 May 2021.
+
+<<152.37;159.85;en>>
+The respondent government are represented by their agent, Mr. Zoltán Tallódi, assisted by Ms. Mónika Weller,
+
+<<159.85;163.97;en>>
+co-agent and Ms. Hajnalka Vizi, Adviser.
+
+<<163.97;166.81;en>>
+The applicant is represented by Mr. Dániel B. Kiss
+
+<<166.81;169.41;en>>
+and Mr. Dániel A. Karsai, counsel,
+
+<<169.41;173.53;en>>
+assisted by Ms. Eszter Mihály, Ms. Evelyn Frank,
+
+<<173.53;176.73;en>>
+and Mr. János Nagy, advisors.
+
+<<176.73;180.53;en>>
+I welcome the representatives in the name of the court.
+
+<<180.53;187.29;en>>
+Having consulted the agent of the government and the representatives of the applicant, I have determined the order of addresses as follows.
+
+<<187.29;191.09;en>>
+Mr. Karsai for the applicant will speak first,
+
+<<191.09;193.85;en>>
+and then Mr. Tallódi for the government.
+
+<<193.85;195.01;en>>
+Mr. Karsai, you have the floor.
+
+[[Applicant;AP1]]
+
+<<201.1;206.66;en>>
+Honorable European Court of Human Rights, honorable judges of the court.
+
+<<206.66;213.0;en>>
+The respondent state created a shaming list, and the applicant was included in it.
+
+<<213.0;218.46;en>>
+The tax defaulters list contains the name and home address of those who have tax areas.
+
+<<218.46;223.9;en>>
+The list is accessible on the tax authority's website to everyone without any restrictions.
+
+<<223.9;230.0;en>>
+The applicant's personal data were made public by the respondent state without his consent.
+
+<<230.0;237.82;en>>
+Moreover, the respondent state failed to provide any safeguard mechanism against unnecessary use and republication of the applicant's personal data.
+
+<<237.82;245.74;en>>
+The respondent state also failed to convincingly show that the tax defaulters list effectively serves any public interest.
+
+<<245.74;253.06;en>>
+The name of the inglorious list, ados lista in Hungarian, has clearly a defamatory and shameful meaning.
+
+<<253.06;261.94;en>>
+Being on the list means in the eye of the public that the applicant is morally inferior, not just in the context of taxation, but in general.
+
+<<261.94;272.34;en>>
+The shame is multiplied by the fact that the list is refreshed every three months, and the Hungarian press always reports about it in a rather derogatory manner.
+
+<<272.34;283.72;en>>
+This huge media attention is a manifestation of the public's thirst for information about the private life of others, and as such, a form of sensationalism, even voyeurism.
+
+<<283.72;292.46;en>>
+To add soul to injury, the applicant's name and home address were pinned into an interactive map that was created by a leading media outlet.
+
+<<292.46;296.38;en>>
+In our speech, we will first address the admissibility issues.
+
+<<296.38;305.02;en>>
+We will argue that Article 8 is applicable to the present case in the context of the protection of reputation and the protection of personal data.
+
+<<305.02;309.24;en>>
+We will then shortly analyze the question of exhaustion of domestic remedies.
+
+<<309.24;318.98;en>>
+We are of the firm view that the respondent state did not point out any legal avenues that could have provided remedy to the applicant's situation.
+
+<<318.98;331.02;en>>
+As to the merits of the case, we will show that there has been an interference with the applicant's rights under Article 8, and these interferences in certain aspects were not even in accordance with the domestic law.
+
+<<331.02;336.66;en>>
+One of the most interesting questions of the case is the existence of the legitimate aim of the interference.
+
+<<336.66;340.1;en>>
+Does the end always justify the means?
+
+<<340.1;346.42;en>>
+We will argue that the respondent state overstepped its margin of appreciation in the present case.
+
+<<346.42;355.38;en>>
+In fact, the respondent state itself acknowledged that it did not intend to fulfill any public aim with the creation of the tax defaulters list.
+
+<<355.38;360.94;en>>
+Lastly, we will address the issue of necessity and proportionality of the interference.
+
+<<360.94;367.34;en>>
+We will show that the tax defaulters list represents an unnecessary and disproportionate restriction.
+
+<<367.34;374.94;en>>
+It is even more so since we can easily identify less inclusive measures for similar situations in the Hungary legal system.
+
+<<374.94;387.98;en>>
+We will conclude, and we humbly invite the Honorable Court to reach the same outcome, that the Hungarian tax defaulters list in its present form cannot be sustained in a way that is in compliance with the Convention.
+
+<<387.98;391.94;en>>
+First, we will analyze the issue of admissibility.
+
+<<391.94;399.06;en>>
+The first question of admissibility is whether the right to protection of reputation can be relied on in the present case.
+
+<<399.06;404.86;en>>
+According to the government, there was no loss of reputation since the list had no intention of shaming.
+
+<<404.86;406.98;en>>
+We cannot endorse this view.
+
+<<406.98;411.06;en>>
+The term list of tax defaulters is commonly used in Hungary.
+
+<<411.06;416.18;en>>
+It is even used by the tax authority itself in the name of the internet link of the list.
+
+<<416.18;423.26;en>>
+This term and its connotations clearly cause prejudice and serious damage to the applicant's reputation.
+
+<<423.26;427.58;en>>
+Being on the official public list of tax debtors is very damaging.
+
+<<427.58;430.22;en>>
+We need to raise the almost rhetorical question.
+
+<<430.22;434.26;en>>
+Why did the Hungarian state create this list, if not for shaming?
+
+<<434.26;438.18;en>>
+We do not see any other rational answer.
+
+<<438.18;444.38;en>>
+The government also alleges that the creation of the list serves the protection of the rights of third persons.
+
+<<444.38;446.02;en>>
+It means one thing.
+
+<<446.02;451.74;en>>
+According to the government, the applicant is such a person that others should be protected from.
+
+<<451.74;457.86;en>>
+It is seriously offensive and unnecessarily stigmatizing well beyond the realm of taxation.
+
+<<457.86;464.82;en>>
+The list suggests that the involved individuals are unreliable and should not be trusted in any walk of life.
+
+<<464.82;469.78;en>>
+The consequences of the list undermine the applicant's personal integrity in general.
+
+<<469.78;473.46;en>>
+This obviously affects the applicant's reputation in a serious manner.
+
+<<477.26;485.38;en>>
+The next question concerning the applicability of the convention is that whether Articulate can come into play in the context of data protection.
+
+<<485.38;492.98;en>>
+First, the tax authority published the applicant's name, home address, and that he has a substantial amount of tax debt.
+
+<<492.98;499.66;en>>
+Later on, the national map of tax defaulters was published by a major Hungarian online media outlet.
+
+<<499.66;504.66;en>>
+Lastly, the applicant was put on the archive list of tax debtors.
+
+<<504.66;510.26;en>>
+This personal data is available on the website of the tax authority even today.
+
+<<510.26;522.14;en>>
+All personal data disclosed by the tax authority reveals certain aspects of the applicant's private life, despite the allegation of the government stating that it only concerns the applicant's status as a businessman.
+
+<<522.14;528.94;en>>
+It is the constant case law of the court that data concerning professional life is often intricately linked to private life.
+
+<<528.94;539.14;en>>
+Therefore, the applicant can rely on the protection of the convention under Articulate when his personal data were published without proper safeguards against misuse.
+
+<<539.14;545.3;en>>
+The publication of the applicant's home address could make him and also his family a target of harassment.
+
+<<545.3;554.1;en>>
+The publication of this information for an unlimited period of time and without the applicant's consent raises an issue under Article 8 of the convention.
+
+<<554.1;558.38;en>>
+Now we turn to the question of exhaustion of domestic remedies.
+
+<<558.38;566.58;en>>
+We are of the view that the government failed to refer to any remedy that is sufficiently certain not only in theory, but in practice for the applicant's case.
+
+<<566.58;573.98;en>>
+The government first argued that the applicant could have requested the erasure of his personal data from the tax authority.
+
+<<573.98;581.26;en>>
+However, the Data Protection Act did not allow requests for the erasure in the case of mandatory data processing.
+
+<<581.26;586.86;en>>
+In the applicant's case, the data processing was based on the Tax Administration Act.
+
+<<586.86;592.02;en>>
+Therefore, the applicant was not in the position to request the erasure of his personal data.
+
+<<592.02;596.74;en>>
+Consequently, the government's related arguments shall be dismissed.
+
+<<596.74;602.46;en>>
+The government also claimed that the applicant should have challenged the impugned regulation before the constitutional court.
+
+<<602.46;605.78;en>>
+These allegations are completely unsubstantiated.
+
+<<605.78;608.94;en>>
+We address this question in detail in our written submissions.
+
+<<608.94;611.62;en>>
+We do not repeat it here.
+
+<<611.62;620.9;en>>
+However, concerning the constitutional complaint, the government also states that in 2018, a new Tax Administration Act came into force.
+
+<<620.9;629.74;en>>
+This new act calls for a new tax administration act and this new act contains textually the same rules concerning the list as the previous act.
+
+<<629.74;640.18;en>>
+The constitutional court held in several admissibility decisions that in such cases, the legal regulation is in fact in force from the moment it was first enacted.
+
+<<640.18;649.02;en>>
+Consequently, the constitutional court counts the 180-day deadline for the submission of the constitutional complaint from that point.
+
+<<649.02;654.94;en>>
+Therefore, the applicant's related constitutional complaint would have been declared time-barred.
+
+<<654.94;662.98;en>>
+In sum, the constitutional complaint mechanism shall not be regarded as an effective remedy.
+
+<<662.98;672.74;en>>
+The next question under exhaustion of domestic remedies is the allegedly effective legal avenues against the press reporting regularly about the tax defaulters list.
+
+<<672.74;683.34;en>>
+The government argued that on the basis of the Data Protection Act, the applicant could have requested the erasure or the blocking of the publication of his personal data.
+
+<<683.34;690.14;en>>
+The government could not support this argument with any case law showing that these legal avenues were effective ones.
+
+<<690.14;698.26;en>>
+The government could only invoke two judgments which were not even delivered by the Curia, the Hungarian Supreme Court, but only by lower courts.
+
+<<698.26;703.26;en>>
+However, lower court judgments shall not be regarded as precedent.
+
+<<703.26;707.58;en>>
+Only the judgments of the Curia have such binding force.
+
+<<707.58;710.7;en>>
+Therefore, our reasoning could stop at this juncture.
+
+<<710.7;716.66;en>>
+There is no well-established case law proving the effectiveness of the legal avenues invoked by the government.
+
+<<716.66;729.58;en>>
+In any event, the decisions invoked by the government are not even analogous to the present case since their subject matter differs significantly from the applicant's situation.
+
+<<729.58;732.82;en>>
+Now we turn to the merits of the case.
+
+<<732.82;740.42;en>>
+The establishment of the existence of interference concerning the right to protection of personal data is not at all problematic.
+
+<<740.42;750.3;en>>
+The applicant's personal data was processed by the tax authority and by third parties, in particular the press, without his consent and without any safeguard mechanism.
+
+<<750.3;756.18;en>>
+This is obviously an interference which was not disputed by the government either.
+
+<<756.18;765.5;en>>
+As to the interference with the right to the protection of reputation, we are of the view that this question is closely related to the applicability of Article 8.
+
+<<765.5;773.3;en>>
+We analyzed this issue in detail in our written submissions and previously in our speech, and we do not repeat those arguments here.
+
+<<773.3;777.26;en>>
+However, let us mention some additional arguments.
+
+<<777.26;781.62;en>>
+The list has only one purpose, shaming the listed person.
+
+<<781.62;785.94;en>>
+The shaming effect is irrevocably triggered by the publication of the list.
+
+<<785.94;796.06;en>>
+Therefore, the applicant suffered and is still suffering from the risk that third persons, in particular his friends and colleagues, gain knowledge about his presence on the list.
+
+<<796.06;801.1;en>>
+This possibility is hanging over the applicant's head as a sword of democracy.
+
+<<801.1;805.1;en>>
+This risk was far from being just a theoretical one.
+
+<<805.1;812.06;en>>
+This is shown by the fact that the applicant's teenager son accidentally found out about his father's presence on the list.
+
+<<812.06;820.94;en>>
+The applicant faced an extremely painful situation where he had to explain to his son, for whom he was a role model, why he was put on the list.
+
+<<820.94;828.7;en>>
+Moreover, the applicant's reputation was considerably undermined when one of his friends found out about the list and his name on it.
+
+<<828.7;831.9;en>>
+The applicant again found himself in a very unjust situation.
+
+<<835.54;843.82;en>>
+The lawfulness of the interference was not disputed by the parties concerning the original publication of the applicant's personal data by the tax authority.
+
+<<843.82;847.5;en>>
+It was based on the rules of the Tax Administration Act.
+
+<<847.5;853.74;en>>
+However, the archive list is much more problematic even from this angle.
+
+<<853.74;863.7;en>>
+As it was discussed in detail in our written submissions, the rule creating the legal basis of the archive list is not enforced since the 10th June, 2021.
+
+<<863.7;869.06;en>>
+This interference is consequently not in accordance with the law.
+
+<<869.06;874.98;en>>
+The next step is to establish whether the interference is aimed at achieving any public goal.
+
+<<874.98;884.62;en>>
+The applicant is of the firm view that the present case gives the Honorable Grand Chamber a perfect opportunity to elaborate further on the notion of margin of appreciation.
+
+<<884.62;888.86;en>>
+This question shall come into play in two aspects of the case.
+
+<<888.86;895.14;en>>
+First, concerning the establishment of the public goal allegedly pursued by the respondent state.
+
+<<895.14;902.42;en>>
+Secondly, the margin of appreciation shall be evaluated in the context of the actual means used by the government.
+
+<<902.42;909.5;en>>
+We invite the court to take our related arguments into consideration when adjudicating both issues.
+
+<<909.5;921.34;en>>
+The notion of margin of appreciation as a general rule gives big playing room for the member states in many fields, including taxation, unless the policy choice is manifestly without reasonable foundation.
+
+<<921.34;930.14;en>>
+However, since the applicant's most intimate private life aspects were at stake, the margin of appreciation shall be a very narrow one in the present case.
+
+<<930.14;936.66;en>>
+The applicant suggests in this respect laying down some minimum criteria for the member states.
+
+<<936.66;946.26;en>>
+Namely, there shall be an obligation to show that the aim the states allegedly pursue exists not only in theory, but in practice as well.
+
+<<946.26;955.06;en>>
+The burden of proof in this respect obviously is on the government's shoulder, and they enjoy wide freedom concerning the means of demonstration.
+
+<<955.06;964.86;en>>
+However, if the government is not able to put forward any evidence supporting its allegations about the pursued legitimate aim, the consequences shall be strict.
+
+<<964.86;969.46;en>>
+It cannot be declared being in compliance with the convention.
+
+<<969.46;977.34;en>>
+The notion of margin of appreciation should not be equated with a carte blanche in favor of any kind of national legislation.
+
+<<977.34;984.38;en>>
+If it was held otherwise, the rights guaranteed by the convention would be devoid of any substance.
+
+<<984.38;990.18;en>>
+In the present case, the lack of real intent in improving tax discipline is obvious.
+
+<<990.18;998.22;en>>
+This was acknowledged by the tax authority itself in their written reply given to the request on disclosing the related public data.
+
+<<998.22;1005.06;en>>
+The tax authority admitted that it lacks any control mechanism or impact assessment in this respect.
+
+<<1005.06;1013.66;en>>
+The complete official ignorance towards the result and effects of the tax defaulters list proves that it does not serve the fulfillment of the convention.
+
+<<1013.66;1019.06;en>>
+It does not serve the fulfillment of any real public goal.
+
+<<1019.06;1025.78;en>>
+The second argument of the government is that the regulation serves the protection of the business interests of third parties.
+
+<<1025.78;1036.38;en>>
+However, the government failed to show whether there is even one private individual or a legal entity who could avoid a risky business by obtaining information from the tax defaulters list.
+
+<<1036.38;1044.78;en>>
+The government invokes the interests of the contracting parties of the applicant, the securement of state funds, the principle of equal burden and so on.
+
+<<1044.78;1051.74;en>>
+The government could not even prove that there is any direct link between these aims allegedly sought and the listing question.
+
+<<1051.74;1060.38;en>>
+The government only suggested, but did not prove, that a public shaming list is capable in practice of protecting third parties business interests.
+
+<<1060.38;1064.74;en>>
+The putative nature of the aims shows that they are not legitimate ones.
+
+<<1068.1;1072.44;en>>
+Now we turn to the proportionality of the measuring question.
+
+<<1072.44;1081.54;en>>
+It shall be underlined at the outset that there is a strong suspicion that the legitimate aims relied on by the Hungarian state exist on paper only.
+
+<<1081.54;1086.66;en>>
+Targeting a merely formalistic goal cannot represent a pressing social need.
+
+<<1086.66;1093.54;en>>
+The definition of pressing social need is a situation that requires immediate and strong response from the state.
+
+<<1093.54;1097.58;en>>
+The applicant does not see such an emergency situation in the present case.
+
+<<1097.58;1105.58;en>>
+The applicant is of the view that the initial processing of his personal data by the tax authority was not a proportionate measure.
+
+<<1105.58;1112.14;en>>
+The applicant's personal data were retained for a longer period of time than was necessary by any standards.
+
+<<1112.14;1118.74;en>>
+The applicant's name and home address lost their significance after his tax arrears became unenforceable.
+
+<<1118.74;1127.98;en>>
+However, they were still present on the tax authority's website for another couple of weeks.
+
+<<1127.98;1134.96;en>>
+The lack of any means of automatic removal from the list constitutes a breach of the data storage principle.
+
+<<1134.96;1142.5;en>>
+Moreover, it was not the least intrusive means to select the home address of the applicant for the purposes of the list.
+
+<<1142.5;1157.82;en>>
+It is rather surprising that the applicant's taxpayer identification code, a data of purely business and taxation nature, is not included in the list of tax defaulters, despite the fact that it never changes contrary to the home address.
+
+<<1157.82;1167.06;en>>
+The government failed to define those contractual relations in which the home address is the only possible personal data which helps to identify the applicant.
+
+<<1167.06;1178.46;en>>
+If the applicant enters into business relations, the other contracting party is aware of the applicant's taxpayer identification code, since the contract itself usually contains this data.
+
+<<1178.46;1191.8;en>>
+That leads to the conclusion that the publication of the tax identification code instead of the home address would have been a more appropriate measure and would have fulfilled the data minimization criteria as well.
+
+<<1191.8;1197.1;en>>
+In order to clarify further this argument, we have to mention another list.
+
+<<1197.1;1201.66;en>>
+There is a database of taxpayers who are free of any public debt.
+
+<<1201.66;1205.58;en>>
+This list is practically the opposite of the tax defaulters list.
+
+<<1205.58;1207.4;en>>
+Is it a positive one?
+
+<<1207.4;1216.14;en>>
+Interestingly, on this database, the name and the tax identification code of persons are provided, but their home address is not.
+
+<<1216.14;1220.24;en>>
+It means that this data is sufficient for identification purposes.
+
+<<1220.24;1225.78;en>>
+The home address is not necessary at all to identify someone in business relations.
+
+<<1225.78;1237.94;en>>
+Consequently, the publication of the applicant's home address was an unnecessary and disproportionate measure in the context of protecting third parties' business interests.
+
+<<1237.94;1242.38;en>>
+The question of the archive database is even more striking.
+
+<<1242.38;1245.5;en>>
+The applicant is permanently on this database.
+
+<<1245.5;1254.02;en>>
+Nothing requires the tax authority to ever remove the applicant from this list, which is in clear breach of the prohibition of indefinite period of data retention.
+
+<<1254.02;1261.3;en>>
+Third parties may gain knowledge of the applicant's taxpayer past irrespective of their legal interest to doing business with him.
+
+<<1261.3;1272.14;en>>
+The longer the applicant's data is on the archive list for no real purposes, the interference with the applicant's Article 8 rights gets more and more indefensible.
+
+<<1272.14;1280.82;en>>
+The initial publication of the archive listing, combined with the lack of any procedural safeguards, strongly undermines data protection principles.
+
+<<1280.82;1291.54;en>>
+This combination of injustices pursuing highly dubious legitimate aims represents a disproportionate restriction on the applicant's right under Article 8.
+
+<<1291.54;1295.78;en>>
+Now we address the question of right to protection of reputation.
+
+<<1295.78;1301.9;en>>
+The applicant suffered serious injustices because of his involvement on the tax defaulters list.
+
+<<1301.9;1306.78;en>>
+The government alleged that the non-payment of taxes are neutral information.
+
+<<1306.78;1312.24;en>>
+These allegations are simply denying the common sense and the way language works.
+
+<<1312.24;1325.5;en>>
+It shall be noted in this respect that even the government, contradicting itself, claimed in point 17 of their memorial that the list had neither the intention nor any effect of gratuitous shaming.
+
+<<1325.5;1329.94;en>>
+By that, the government itself acknowledged that there is a shaming element in the list.
+
+<<1329.94;1332.9;en>>
+It is just not too harsh shaming.
+
+<<1332.9;1338.66;en>>
+We need to raise the question, is there such thing that gratuitous public shaming?
+
+<<1338.66;1346.58;en>>
+We think that there is only one type of public humiliation carried out by a member state in its official capacity, an unacceptable one.
+
+<<1346.58;1347.5;en>>
+OK.
+
+<<1349.74;1355.98;en>>
+The government argues that the aim of the law is to encourage a law-abiding taxpayer conduct.
+
+<<1355.98;1360.7;en>>
+However, making public lists is not encouraging anything.
+
+<<1360.7;1363.58;en>>
+It only aims deterrence.
+
+<<1363.58;1367.46;en>>
+Encouraging implies rewarding the law-abiding taxpayer conduct.
+
+<<1367.46;1376.5;en>>
+The public list uses shame to deter from having a significant amount of tax arrears, and it carries no positive feedback.
+
+<<1376.5;1385.72;en>>
+What is more, the personal data of the taxpayer remain accessible on the archive list, irrespective of the fact that the tax arrears became unenforceable.
+
+<<1385.72;1389.7;en>>
+How could this measure encourage the law-abiding taxpayer conduct?
+
+<<1389.7;1396.54;en>>
+If the data remains accessible forever, there is no point in trying to pay the outstanding amount.
+
+<<1396.54;1404.86;en>>
+The inglorious list casts the shadow on the applicant of stealing public money and being a criminal without express his whereabouts alleging it.
+
+<<1404.86;1407.82;en>>
+Having tax arrears is not a crime.
+
+<<1407.82;1412.46;en>>
+There is no list even for those sentenced for tax-related crimes.
+
+<<1412.46;1419.62;en>>
+If we do not list such persons, listing people merely for having tax arrears is clearly unacceptable.
+
+<<1419.62;1433.86;en>>
+It is even more so since making a list of individuals on the basis of such a negative criterion creates a group whose members are inferior and should be excluded from the society, or at least despised by it.
+
+<<1433.86;1440.34;en>>
+The government argued that the applicant cannot have a right to reputation when he, in fact, was a tax defaulter.
+
+<<1440.34;1452.0;en>>
+However, the negative connotations behind this term extend much further than the realm of taxation and generally paints an unjust negative picture of the applicant.
+
+<<1452.0;1459.96;en>>
+Moreover, making a negative list is painfully similar to the way pillory worked as a punishment and endurance centuries ago.
+
+<<1459.96;1466.76;en>>
+In the Middle Ages, the pillory was limited to a small community, usually a town or a village.
+
+<<1466.76;1478.26;en>>
+However, at the age of the internet, the effect is multiplied in a magnitude that cannot be foreseen with irreversible consequences since the internet never forgets.
+
+<<1478.26;1484.26;en>>
+The stigmatizing effect was multiplied by the regular republication of the list in the Hungarian media.
+
+<<1484.26;1494.7;en>>
+It is a well-known phenomenon in Hungary that when the renewed list is published, countless articles cover the issue immediately in a rather derogatory way.
+
+<<1494.7;1501.54;en>>
+These publications take place in a manner which cannot be described as contributing to a debate of public interest.
+
+<<1501.54;1505.56;en>>
+To the contrary, it represents a modern scarlet letter.
+
+<<1510.3;1525.62;en>>
+To summarize it all, the applicant's inclusion on the tax defaulters list violated his core Article 8 rights to private life, in particular, his right to the protection of dignity, reputation, and the right to protection of personal data.
+
+<<1525.62;1534.46;en>>
+The interference did not serve any legitimate aim, and it is not even in accordance with the law with respect to the query interface of the archive list.
+
+<<1534.46;1542.9;en>>
+The interference was not necessary in a democratic society, since even its minimal effectiveness was not proven by the government.
+
+<<1542.9;1552.74;en>>
+The applicant is of the view that in the absence of the fulfillment of the necessity requirement, the proportionality of the impugn measure cannot be established either.
+
+<<1552.74;1561.56;en>>
+The applicant's private data were disclosed on the internet, therefore made publicly available to anybody without any safeguard mechanism.
+
+<<1561.56;1573.9;en>>
+Moreover, the tax defaulters list is aimed at achieving its alleged goals through public shaming, a tool which should be unacceptable in a democratic society based on the rule of law.
+
+<<1573.9;1585.14;en>>
+It shall be strongly underlined in this respect that the list serves only the satisfaction of the public's thirst for sensation, while not contributing at all to any meaningful debate on the subject.
+
+<<1585.14;1598.14;en>>
+The disproportionality of the measure is even more striking, since the applicant's data are still available on the tax authority's website, despite the fact that his tax arrears have became unenforceable years ago.
+
+<<1598.14;1607.54;en>>
+For these reasons, the applicant invites the court to find a violation of Article 8 of the Convention and adjudicate just satisfaction for the injustices suffered.
+
+<<1607.54;1609.26;en>>
+Thank you very much for your attention.
+
+<<1609.26;1609.26;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<1609.83;1611.03;en>>
+Thank you very much, Mr. Karsai.
+
+<<1611.03;1612.63;en>>
+We now turn to the government.
+
+<<1612.63;1613.91;en>>
+Mr. Tallódi, you have the floor.
+
+[[Government;GR1]]
+
+<<1617.32;1619.72;en>>
+Thank you, Mr. President.
+
+<<1619.72;1621.96;en>>
+Mr. President, honorable members of the court,
+
+<<1621.96;1637.5;en>>
+ladies and gentlemen, it's a privilege and an honor to appear before the court and set out the position of the government of Hungary in this ordinary taxation case involving no such fascinating issues as a modern pillory, as suggested by the applicant.
+
+<<1637.5;1649.16;en>>
+The case concerns the publication of the fact that the applicant had a significant amount of debt in Texas and how it made the applicant feel about his actions or omissions.
+
+<<1649.16;1660.14;en>>
+Contrary to the applicant's allegations, this case is not about his intentional humiliation in the public eye and his defamation as a tax evader.
+
+<<1660.14;1670.38;en>>
+It is about the publication of the fact that he had a significant amount of debt in Texas and how it made him feel about his actions or omissions.
+
+<<1670.38;1688.14;en>>
+In order to grasp the difference between these two approaches, we must first clarify some linguistic issues, since possible only few people present in this room speak English as their native tongue, and also because the abstract notions involved lend themselves to different understandings.
+
+<<1688.14;1694.84;en>>
+It is very important to see that the list complained of by the applicant was not called the list of tax evaders.
+
+<<1694.84;1705.62;en>>
+The tax evasion is, by the definition of Merriam-Webster dictionary, a willful and especially criminal attempt to evade the imposition or payment of a tax.
+
+<<1705.62;1719.64;en>>
+Whereas the term used in Hungarian law literally translates to tax debtors, that is persons who are considered to owe outstanding amounts of tax to the tax authority.
+
+<<1719.64;1726.94;en>>
+For whatever reason, there is no implication of a willful and criminal attempt to avoid the payment of taxes.
+
+<<1726.94;1747.08;en>>
+It is a matter of fact information on the balance of one's tax account, which may be relevant for other taxpayers, the third persons in general, in the exercise of their rights and duties, as it has been explained in the government's written submissions and will also be explained later.
+
+<<1747.08;1756.6;en>>
+Second, we must clarify the meaning of the word most frequently used by the applicant in his submissions before the court, shaming.
+
+<<1756.6;1765.94;en>>
+According to the same dictionary, shame is a painful emotion caused by having done something wrong or improper.
+
+<<1765.94;1788.24;en>>
+In this sense, the measure complained of was admittedly intended to have a shaming effect in as much as it is the normal operation of the legal system, that citizens are expected to voluntarily follow the rules and at least to feel bad about their conduct, in addition to facing sanctions if they fail to abide by the law.
+
+<<1788.24;1799.16;en>>
+It could hardly be expected from any legal system or any legal provision to make rule breakers feel comfortable with having done something wrong or improper.
+
+<<1799.16;1816.04;en>>
+What the contested legislation didn't intend was to humiliate tax debtors in the public eye, as suggested by the applicant, whereas that intention of humiliation was inherent in the medieval application of pillory as an inhuman and degrading punishment.
+
+<<1816.04;1825.68;en>>
+Inclusion in the list complained of was not intended to and was not capable of lowering the applicant's public esteem.
+
+<<1825.68;1834.92;en>>
+We must recall that the relevant legislative and administrative acts used the morally and legally neutral term of tax debtors.
+
+<<1834.92;1844.76;en>>
+But even if the term of tax evaders had been used, it could not have elicited a clear public contempt.
+
+<<1844.76;1861.16;en>>
+The sociological surveys have shown that public opinion of tax evasion, that is, illegal acts aimed at avoiding the payment of taxes, is quite diverse depending on the type of conduct involved in such tax evasion.
+
+<<1861.16;1879.92;en>>
+It is mostly perceived with indifference as long as it does not cause direct harm to others, typically unregistered employees who are thereby denied social security benefits, or even with sympathy if it is deemed directly benefiting customers or employees too.
+
+<<1879.92;1887.8;en>>
+It is reasonable to assume that similarly lenient approach exists in respect of non-criminal tax debtors.
+
+<<1887.8;1899.92;en>>
+The list of new articles about tax debts of celebrities and public figures submitted by the applicant also proves that this information has no effect on one's public image.
+
+<<1899.92;1932.68;en>>
+As to the perception of the Hungarian society of further proof of the lack of such humiliating effect is that nobody has been bothered by the lists at issue since their introduction in 1996 and 2006, respectively, or their reenactment in 2017 to make them challenge the relevant legislation before the Constitutional Court, either in an actio popularis or in an individual complaint in accordance with the rules enforced at the relevant time.
+
+<<1932.68;1945.3;en>>
+The lack of such challenges also suggests that there is a strong consensus in the Hungarian society about the legitimacy and necessity of publication of the list of tax defaulters or tax debtors.
+
+<<1945.3;1948.56;en>>
+Mr. President, honorable members of the court,
+
+<<1948.56;1964.06;en>>
+next I shall address the issue of the scope of the present case, for it has been quite a moving target in the course of the proceedings, and it has a decisive effect on the requirement of exhaustion of domestic remedies.
+
+<<1964.06;1974.2;en>>
+The applicant first complained about the republication by a news portal of the data on the actual list of tax debtors, including his name and address.
+
+<<1974.2;1982.64;en>>
+The government argued that this complaint was inadmissible for failure to exhaust available domestic remedies under the Data Protection Act.
+
+<<1982.64;1987.56;en>>
+Then the chamber decided to exclude this complaint from the scope of the case.
+
+<<1987.56;1992.9;en>>
+The applicant complained of this approach in his request for referral to the grand chamber.
+
+<<1992.9;1998.44;en>>
+However, he didn't address this issue in his written submissions before the grand chamber.
+
+<<1998.44;2014.72;en>>
+Should the court consider that this complaint still falls within the scope of the present case, the government referred to the written submissions and request the court to declare this part of the application inadmissible for failure to exhaust all effective domestic remedies.
+
+<<2014.72;2023.48;en>>
+The availability and effectiveness of this remedy was also demonstrated by examples of domestic jurisprudence.
+
+<<2023.48;2037.56;en>>
+This type of domestic remedy under the Data Protection Act is also available in cases when publication of the data is mandated by law, but the statutory conditions for publication are not fully met.
+
+<<2037.56;2041.44;en>>
+That is when the publication is not in accordance with the law.
+
+<<2041.44;2050.2;en>>
+However, the applicant didn't claim before the chamber that the tax authority had acted in breach of the provisions of the taxation law.
+
+<<2050.2;2056.36;en>>
+Therefore, this remedy was not available to him in respect of the complaint raised before the court.
+
+<<2056.36;2089.7;en>>
+Nevertheless, the applicant could also have argued in such domestic proceedings that unlawfulness included unconstitutionality, and his claim that the publication of the information about him being in debt of a significant amount of tax had no legitimate aim and was not necessary in a democratic society could have been referred to the constitutional court either by way of a court motion in the course of judicial review or as a constitutional complaint after the final judgment.
+
+<<2089.7;2099.64;en>>
+However, the government cannot prove the effectiveness of this remedy because nobody has ever challenged the provisions at issue in such proceedings.
+
+<<2099.64;2113.08;en>>
+The possibility of bringing the issues raised in the present proceedings before the Hungarian Constitutional Court exists through other channels, too, but they have never been made use of either.
+
+<<2113.08;2133.52;en>>
+In one case, a person sought compensation under the civil court for the allegedly unlawful publication of their personal data by the tax authority but didn't challenge the constitutionality of the applicable law once their confusion about the interpretation of section 55.3 and 5,
+
+<<2133.52;2141.78;en>>
+respectively, of the 2003 Tax Administration Act had been resolved.
+
+<<2141.78;2152.08;en>>
+This remedy was also available to the applicant up to the level of a constitutional complaint, but he also chose not to make use of it.
+
+<<2152.08;2162.76;en>>
+In addition to these remedies allowing indirect access to the constitutional court, the possibility to file a constitutional complaint under section 26.2
+
+<<2162.76;2183.38;en>>
+of the Constitutional Court Act directly to the constitutional court without having to have recourse to any prior judicial proceedings was clearly available to the applicant after the reenactment of the contested provisions by the new Taxation Act in 2017.
+
+<<2183.38;2190.2;en>>
+The effectiveness of this domestic remedy was acknowledged by the court in the case of Mendre versus Hungary.
+
+<<2190.2;2194.24;en>>
+The applicant chose not to avail himself of this remedy either.
+
+<<2194.24;2231.44;en>>
+It follows that the applicant's complaints relating to the period after the 1st of January 2018 must be excluded from the scope of the case as inadmissible for failure to exhaust effective domestic remedies, even if the court decided that his claims relating to the period prior to 2018 were not inadmissible because data protection or civil proceedings did not qualify as effective remedies due to the lack of interest on the part of the persons concerned in seeking such remedies.
+
+<<2231.44;2252.62;en>>
+The government also considered that the new complaints raised by the applicant in his submissions before the Grand Chamber concerning the renewed availability of the archived information on tax defaulters as from the 1st of January 2020 fall outside the scope of the present case.
+
+<<2252.62;2264.84;en>>
+This complaint was not raised before the chamber and cannot be regarded as an inherent part of the case before the chamber, since this measure had a completely different legal ground in Hungarian law.
+
+<<2264.84;2274.98;en>>
+It was a distinct administrative act based on a distinct legislative measure, and the public availability of the applicant's data was not continuous, even in time.
+
+<<2274.98;2293.96;en>>
+In any event, this complaint is inadmissible for failure to exhaust effective domestic remedies because the applicant had failed to file a constitutional complaint after the entry into force of section 264 per A of the 2016 Taxation Act.
+
+<<2293.96;2313.9;en>>
+Neither has he submitted a request for deletion under the Data Protection Act after the legal ground for such publication had allegedly been repealed in June 2021, and data handling by the tax authority had allegedly become unlawful.
+
+<<2313.9;2328.58;en>>
+Although his interpretation of the law is incorrect, as I will explain later, he could and should have raised his claims of unlawfulness before the competent domestic authorities instead of this Court.
+
+<<2328.58;2345.04;en>>
+Had his request been dismissed, he could have ultimately seized the Constitutional Court with his grievances before raising them in an international court as the principle of subsidiarity and the rule of exhaustion of domestic remedies requires.
+
+<<2345.04;2369.12;en>>
+After the exhaustion of preventive remedies, having power to establish unlawfulness of data handling and to order discontinuation of unlawful data handling, compensatory remedies also would have been available to the applicant under Hungarian law, as it was shown in the government's written submissions with examples of jurisprudence.
+
+<<2369.12;2372.48;en>>
+Mr. President, honorable members of the Court,
+
+<<2372.48;2377.84;en>>
+in the followings, I shall comment upon the applicant's written submissions before the Grand Chamber.
+
+<<2377.84;2395.2;en>>
+Due to the imbalance between this time and the amount of incorrect statements in the submissions, my comments will not be exhaustive, and lack of correction or specific mention cannot be automatically taken as acceptance of the applicant's statements.
+
+<<2395.2;2406.64;en>>
+As regards the constitutional complaint submitted by the applicant, referred to in paragraph 4 of his submissions, it is completely irrelevant to the present case.
+
+<<2406.64;2422.14;en>>
+It concerned complaints pertaining to the right to a fair trial under Article 6 of the Convention, none of which are covered by the present case, but raised no complaints concerning Article 8, which fall in the scope of the present proceedings.
+
+<<2422.14;2439.4;en>>
+It could not even have prevented the publication of the applicant's data as alleged because the applicant's data had already been published on the list of major tax debtors under Section 55.5 of the 2003 Tax Administration Act
+
+<<2439.4;2443.08;en>>
+when the constitutional complaint was filed.
+
+<<2443.08;2453.48;en>>
+Contrary to the applicant's submissions, the publication of the list of major tax debtors under Section 55.5 preceded the publication
+
+<<2453.48;2465.46;en>>
+of the list of major tax defaulters under paragraph 3 of the same provision, in accordance with the law as it has been explained with reference to domestic jurisprudence.
+
+<<2465.46;2481.94;en>>
+Contrary to the applicant's allegations, the amount of tax arrears was not published on the list, which served as a basis for the national map of tax defaulters, or rather tax debtors, published by an online media outlet.
+
+<<2481.94;2506.9;en>>
+The article specifically stated that information on the amount of debts was not available, and the amount of more than 36 billion forints of tax debt owed by the persons on the list was calculated on the assumption that each and every one of them owed the statutory minimum of 10 million forints qualifying for inclusion on the list.
+
+<<2506.9;2518.4;en>>
+Contrary to the applicant's allegations, the tax authority did institute enforcement proceedings which were unsuccessful due to the applicant's lack of any property or income.
+
+<<2518.4;2534.46;en>>
+Enforcement proceedings added six months to the statutory limitation period until the 30th of June, 2019, and the applicant's data had been deleted from the list of tax debtors well before that date.
+
+<<2534.46;2546.12;en>>
+The applicant correctly described the aim of the publication of the archived data in 2020, to enable third parties to exercise specific taxation rights.
+
+<<2546.12;2560.08;en>>
+While the original publication served the protection of the rights of others in a broader context, in any legal relationship, publication of the archived data served the protection of a very specific right.
+
+<<2560.08;2589.64;en>>
+However, contrary to the applicant's allegations, this aim didn't become obsolete by the amendment of Section 77 of the VAT Act as of the 10th of June, 2021, because it did not have a retroactive effect, and the information at issue continues to be relevant for taxation of past transactions until the expiry of the statutory limitation period.
+
+<<2589.64;2597.2;en>>
+Contrary to the applicant's allegations, there are domestic remedies for overdue erasure under the Data Protection Act.
+
+<<2597.2;2605.64;en>>
+The applicant's arguments concerning the admissibility and merits of the application are based on false facts and false assumptions.
+
+<<2605.64;2616.48;en>>
+Notable, he assumes that tax discipline consists of payment of taxes after the publication of one's name on the list of tax debtors.
+
+<<2616.48;2629.0;en>>
+Whereas, tax discipline consists of payment of taxes as due, declared properly and on time, before publication of one's overdue payment obligation.
+
+<<2629.0;2636.26;en>>
+As the chamber recognized, the measure was aimed at deterring from defaulting in payment of taxes.
+
+<<2636.26;2645.28;en>>
+Most people will comply with their tax obligations, but because it is the right thing to do, others to avoid publication.
+
+<<2645.28;2648.04;en>>
+It is irrelevant to the tax authority.
+
+<<2648.04;2666.56;en>>
+Most people whose tax payment might be overdue will eventually pay their taxes not in order to be removed from the list of tax debtors, but because they have a legal obligation to pay or because of a successful procedure of forced collection.
+
+<<2666.56;2681.52;en>>
+People are not expected to inform the tax authority that they do not want to comply with their tax obligation, but they have no other choice in order to be removed from the list of tax debtors.
+
+<<2681.52;2688.64;en>>
+It is also irrelevant to the tax authority, and it would not keep statistics of such motivations.
+
+<<2688.64;2698.32;en>>
+Therefore, it is no surprise that the tax authority cannot provide such statistics as a proof of the effectiveness of the measure.
+
+<<2698.32;2719.16;en>>
+The applicant's strange line of thinking about measuring effectiveness and necessity of a legal provision could also lead us to the conclusion that sanctions for homicides should be removed from criminal law, because we cannot prove how many people didn't kill how many other people because of that provision.
+
+<<2719.16;2738.16;en>>
+But the applicant's conclusions as to the effectiveness of the contested measures in achieving legitimate aim are also wrong, because they disregard the main purpose of the list of major tax debtors, that is to provide information to third parties in the exercise of their rights and obligations.
+
+<<2738.16;2753.04;en>>
+One specific example of the situations when information about tax debt is necessary to third parties was highlighted by section 2064A of the 2017 Taxation Act.
+
+<<2753.04;2762.8;en>>
+Such information may be necessary for the exercise of due diligence or to avoid financial loss in many other situations.
+
+<<2762.8;2772.48;en>>
+In paragraph 60, the applicant contests arguments about unreliability in business life, which have never been made by the government.
+
+<<2772.48;2788.8;en>>
+However, it is undeniable that access to information about potential issues of insolvency is an important precondition for the exercise of due diligence in contractual relationships.
+
+<<2788.8;2798.28;en>>
+As to the scope of the data published, the government knows that the applicant admitted that his name was not sufficient to identify him.
+
+<<2798.28;2813.36;en>>
+However, contrary to his assessment, the government considered that having regard to Hungarian social practices and legal traditions, a private person's tax identification code is more sensitive data than a home address.
+
+<<2813.36;2825.96;en>>
+And in contrast to the latter, the former is not available, thus not verifiable, to third persons from a public register or any other source of information.
+
+<<2825.96;2832.44;en>>
+Finally, the government considered that the applicant's claims for just satisfaction are excessive.
+
+<<2832.44;2846.56;en>>
+Having regard to the damage he had caused to the public by his failure to pay a significant amount of taxes due, an eventual finding of violation would constitute sufficient just satisfaction for the applicant's grievances.
+
+<<2846.56;2849.32;en>>
+Mr. President, honorable members of the court,
+
+<<2849.32;2860.96;en>>
+let me briefly sum up the government's written submissions concerning the questions raised by the court, but not substantively dealt with in the applicant's written statements.
+
+<<2860.96;2884.92;en>>
+As to the applicability of Article 8, the government did not contest that the applicant's name and address were personal data before publication by the tax authority for purposes of data protection, and the legislator had to, as it did, respect the principles of data protection when ordering publication of these data in the public interest.
+
+<<2884.92;2909.4;en>>
+However, once these data had been qualified as information subject to disclosure in the public interest, they become information of public interest, access to which is protected under Article 10 in accordance with the court's judgment in the case of Magyar Helsinki Bizotcság, Hungarian Helsinki Committee versus Hungary, and the government had no right to hinder public access to that information.
+
+<<2909.4;2923.1;en>>
+It follows that the government had no obligation under Article 8 to prevent republication of that information by the media, and thus Article 8 was not applicable to the relevant part of the complaint.
+
+<<2923.1;2939.0;en>>
+The government considered that Article 8 is applicable only as far as issues of data protection are concerned, and the present case raises no issue of loss of reputation, bringing Article 8 of the convention into play.
+
+<<2939.0;2950.38;en>>
+The information published about the applicant was factual information of him having a substantial amount of tax debt without any value judgment.
+
+<<2950.38;2974.64;en>>
+It follows from the court's jurisprudence concerning conflict between freedom of expression and the protection of the right to reputation that a person's integrity, reputation, can be compromised only by false allegations or value judgments without any factual basis or by gratuitously offensive or abusive comments.
+
+<<2974.64;2979.76;en>>
+The circumstances of the present case involved none of those factors.
+
+<<2979.76;3015.6;en>>
+As regards the margin of appreciation of the state concerning the measures necessary to protect its general economic interest, as well as the rights of others in collecting public revenue by means of public scrutiny aimed at deterring persons from defaulting on their tax obligations, as the chamber correctly understood it, it must be borne in mind that the national authorities are, in principle, better placed than the international judge to appreciate what is in the public interest in light of their knowledge of their society.
+
+<<3015.6;3048.72;en>>
+At this point, it must be emphasized again that the primary aim of the relevant provisions is to deter from defaulting on tax obligations and only when that aim is not successfully achieved, they serve to protect the rights of others by providing information necessary to exercise due diligence in contractual transactions with a hoped-for side effect of promoting ex post-compliance with payment obligations.
+
+<<3048.72;3057.74;en>>
+Therefore, the applicant's approach of judging the necessity of the measure by this third effect is methodically wrong.
+
+<<3057.74;3064.62;en>>
+Concerning this type of economic measures, states generally enjoy a wide margin of appreciation.
+
+<<3064.62;3083.32;en>>
+In this case, the wide consensus in Hungarian society demonstrated by the lack of constitutional challenges to this measure should be an important factor for the court to recognize, in addition to the examples of comparative law provided by the government in their written submissions.
+
+<<3083.32;3098.88;en>>
+In conclusion, the interference complained of by the applicant before the chamber was in accordance with the law, pursued the legitimate aim of protecting the rights of others, as well as the general economic interests of the state.
+
+<<3098.88;3114.56;en>>
+It was proportionate since the measure complained of is generally restricted to large amounts of tax debts, and the applicant's debt, specifically, highly exceeded the statutory minimum for publication.
+
+<<3114.56;3127.84;en>>
+The principle of data minimization was also respected since there were no other less intrusive set of data that could have been used for the applicant's identification of third parties.
+
+<<3127.84;3139.8;en>>
+As regards the complaint concerning the publication of data on archive lists, it falls outside the scope of the present case since it was only raised before the ground chamber.
+
+<<3139.8;3151.56;en>>
+In any event, this measure is in accordance with the law, and its legitimate purpose is to enable third parties to exercise certain specific taxation rights.
+
+<<3151.56;3162.0;en>>
+The applicant has not contested the lawfulness and necessity of the continued publication of the archive data before the competent domestic judicial authorities.
+
+<<3162.0;3164.56;en>>
+Mr. President, this concludes what
+
+<<3164.56;3166.2;en>>
+I wish to stay at this stage.
+
+<<3166.2;3169.4;en>>
+May I thank you, Mr. President and members of the court,
+
+<<3169.4;3171.24;en>>
+for listening to me so patiently and attentively.
+
+[[JudgeP;Robert Spano]]
+
+<<3172.92;3175.2;en>>
+Thank you very much indeed, Mr. Tallódi.
+
+<<3175.2;3182.24;en>>
+I now turn to my fellow colleagues, judges of the Grand Chamber, Judge Pastor Vilanova.
+
+[[Judge;Pere Pastor Vilanova]]
+
+<<3185.51;3187.51;fr>>
+Merci beaucoup, M. le Président.
+
+<<3187.84;3191.88;fr>>
+J'ai 2 questions à formuler aux représentants du gouvernement.
+
+<<3192.07;3196.32;fr>>
+Bien entendu, le requérant est libre d'y répondre si tel est son choix.
+
+<<3197.59;3215.91;fr>>
+Selon l'exposé des motifs de la loi relative à l'administration fiscale de 2003, la publication des données personnelles des contribuables défaillants doit encourager un comportement respectueux de la loi, mais aussi de faire connaître au tiers la solvabilité des contribuables.
+
+<<3217.07;3219.11;fr>>
+Mes questions sont alors les suivantes.
+
+<<3220.55;3232.72;fr>>
+Quand une personne physique est débitrice de l'Etat au titre de sa responsabilité civile ou pénale, est-ce que son identité et domicile sont aussi dévoilés publiquement?
+
+<<3233.91;3240.88;fr>>
+Si tel n'est pas le cas, pouvez-vous justifier cette éventuelle différence de traitement en faveur du fisc?
+
+<<3240.88;3251.95;fr>>
+Plus précisément, est-ce que les personnes condamnées pénalement pour fraude fiscale sont-elles l'objet d'une forme de publicité sur un portail d'Internet libre d'accès?
+
+<<3251.95;3252.95;fr>>
+Je vous remercie.
+
+[[JudgeP;Robert Spano]]
+
+<<3256.72;3259.43;en>>
+Merci beaucoup, Vice President Kjølbro.
+
+[[Judge;Jon Fridrik Kjølbro]]
+
+<<3259.48;3262.04;en>>
+Thank you, Mr. President.
+
+<<3262.04;3263.52;en>>
+I do have two questions.
+
+<<3263.52;3267.2;en>>
+One is addressed to the government and the other one to the applicant.
+
+<<3267.2;3280.28;en>>
+My question to the government concerns the search interface that was introduced as of the 1st of January 2020 based on the 2017 amendment of the Tax Administration Act.
+
+<<3280.28;3287.0;en>>
+I'm perfectly aware that the government is objecting to the admissibility, arguing that the applicants failed to exhaust domestic remedies.
+
+<<3287.0;3288.76;en>>
+Leave that aside for a second.
+
+<<3288.76;3319.8;en>>
+My question is, in the view of the government, is this search interface more or less intrusive, a more serious or less serious interference with the applicant's rights compared to the Article 55, Paragraph 5 enlist, meaning that this information is not accessible, it doesn't give us the access to the full list, it requires searching, but at the same time, it also includes time-barred tax debts.
+
+<<3319.8;3322.6;en>>
+My question to the applicant concerns the reputation.
+
+<<3322.6;3335.36;en>>
+The applicant is, before the Grand Chamber, heavily relying upon the protection of reputation, arguing that the publication of the tax debt's list touches upon the applicant's reputation or honor.
+
+<<3335.36;3338.88;en>>
+My question concerns what is the legal basis for that argument.
+
+<<3338.88;3342.72;en>>
+Is there any case law supporting that view?
+
+<<3342.72;3346.22;en>>
+And let me explain very briefly why I'm asking that question.
+
+<<3346.22;3350.4;en>>
+We have extensive case law concerning defamation proceedings.
+
+<<3350.4;3365.0;en>>
+If someone disseminates subjective assessments or unproven facts or accusations concerning an individual's moral, ethical, or legal behavior, it may touch upon honor and reputation.
+
+<<3365.0;3375.12;en>>
+On the other hand, dissemination of objective facts about an individual which are factually correct but of a private nature may touch upon private life.
+
+<<3375.12;3388.88;en>>
+So my question is why, in the view of the applicant, does dissemination of objective facts, tax debts, about the applicant which is factually correct, how can it, and on what legal basis, touch upon honor and reputation?
+
+<<3388.88;3388.88;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3389.95;3391.24;en>>
+Yüksel.
+
+[[Judge;Saadet Yüksel]]
+
+<<3394.01;3394.95;en>>
+Thank you, Mr. President.
+
+<<3394.95;3400.27;en>>
+I have one question for the government, but of course the other party can also comment.
+
+<<3400.27;3414.85;en>>
+As you said it in your observations and today in the presentation, one of the legitimate aims pursued by the law is to enable potential business partners to be properly informed about the applicant's tax debts.
+
+<<3415.79;3428.53;en>>
+So I would like to understand whether under the national system there are any other means, ways, through which a potential business partner may find information about another person's tax history.
+
+<<3428.53;3428.53;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3430.97;3431.57;en>>
+Judge Kūris.
+
+[[Judge;Egidijus Kūris]]
+
+<<3434.21;3435.89;en>>
+Thank you, Mr. President.
+
+<<3435.89;3451.25;en>>
+I have two questions which were prompted by the intervention of the representative of the government, so my questions are addressed to Mr. Tallódi, but the other applicant's lawyer
+
+<<3452.33;3455.65;en>>
+may also comment on them.
+
+<<3455.65;3460.41;en>>
+My first question relates to the effectiveness of the measure in question.
+
+<<3460.41;3481.91;en>>
+Unless I misunderstood something, the representative of the government spoke, in fact, against measuring effectiveness of this measure, so my question would be quite theoretical, or maybe from the field of legal sociology.
+
+<<3481.91;3491.91;en>>
+How one can speak about the effectiveness of the measure if that effectiveness cannot be measured?
+
+<<3495.41;3502.49;en>>
+And if it cannot be measured, how it can then be proven, and how it can be asserted?
+
+<<3502.49;3522.37;en>>
+Maybe you still have some data, I don't know, opinion survey, any statistical data proving the effectiveness of the measure, and if the other party wants to answer that question, maybe you have the data to the contrary, not just general considerations, but the concrete data that we could rely upon.
+
+<<3522.37;3533.85;en>>
+My other question is to the representative of the government, but also to the other party, if they want to comment on that.
+
+<<3533.85;3545.89;en>>
+What other publicly available list of, to use the term used already in this hall, of rule breakers, what other lists exist in Hungary that would be publicly available?
+
+<<3545.89;3576.11;en>>
+Just to give several examples, traffic violators, drunk drivers, property misappropriators, domestic violence offenders, sexual offenders, medical malpractitioners, exam cheaters, state secret disclosures, bribe givers or takers, polygamists, whatever, criminals, and if such lists exist, in how many, or in which of them, the home address of a violator of the offender or potential offender is indicated?
+
+<<3576.11;3577.97;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<3579.82;3581.42;en>>
+Thank you very much, Judge Guerra Martins.
+
+[[Judge;Ana Maria Guerra Martins]]
+
+<<3589.88;3599.02;en>>
+Three questions, two for the government and the applicant, and the other one for the applicant, but of course the government can comment.
+
+<<3599.02;3604.02;en>>
+The first one is about the taxpayer identification code.
+
+<<3607.8;3634.12;en>>
+The government argued that the applicant had and doesn't have a taxpayer identification code because now you talk about taxpayer identification code, but as far as I understood beforehand, it was another position.
+
+<<3634.12;3667.36;en>>
+What I would like to understand is if the applicant has or not a tax identification code, a tax identification number, because if there is, I would like to understand why it is, as you have just said, more antisocial than the home address.
+
+<<3669.12;3677.92;en>>
+The second question is about the availability in the search interface.
+
+<<3677.92;3688.04;en>>
+I'd like to understand if it is based on the same facts, the same taxes, and the same data.
+
+<<3691.56;3701.84;en>>
+That means the home address and the name and the amount of the debt.
+
+<<3704.36;3709.36;en>>
+The third question is more for the applicant.
+
+<<3712.54;3738.76;en>>
+You said that the tax authority has any control mechanism on the impact or impact assessment, but the government argued that the tax authority is due to the enforcement proceedings, which were unsuccessful due to the applicant's lack of any property or income.
+
+<<3738.76;3747.72;en>>
+I would like to know your opinion, to have a comment on this issue.
+
+<<3749.92;3751.6;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<3751.52;3752.76;en>>
+Thank you, Judge Ktistakis.
+
+[[Judge;Ioannis Ktistakis]]
+
+<<3756.9;3757.42;en>>
+Thank you.
+
+<<3757.42;3761.7;en>>
+I have one question for both parties and two questions for the government.
+
+<<3761.7;3789.42;en>>
+My question for both the parties is about the circular mentioned in paragraph 13 of the chamber's judgment, a circular issued by the National Authority for Data Protection and Freedom of Information on February 2012 about the illegal publication of tax data of private individual in local authorities.
+
+<<3789.42;3800.5;en>>
+Did the government or the administration or the tax administration follow this circular?
+
+<<3800.5;3805.34;en>>
+And I have two questions for the government.
+
+<<3805.34;3825.02;en>>
+The first, on your observation before the court of last July, you mentioned in paragraph 3 the following, I quote, the attempts of a forced collection against the applicant's property and income were unsuccessful as he had no property and very limited income.
+
+<<3825.02;3834.74;en>>
+Therefore, the tax debts were temporarily declared unrecoverable on 16 November 2015.
+
+<<3834.74;3836.94;en>>
+End of the quotation.
+
+<<3836.94;3846.42;en>>
+My first question is, if this is the case, which were your expectations by publishing the name of the applicant two months later?
+
+<<3846.42;3855.6;en>>
+And my second question, does the law provide any individual assessment of the need of such publication?
+
+<<3855.6;3862.18;en>>
+And if yes, which is the competent organ for this individual assessment?
+
+<<3862.18;3862.18;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3863.12;3864.48;en>>
+Thank you, Vice President Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<3866.8;3867.6;en>>
+Thank you very much.
+
+<<3867.6;3872.24;en>>
+In a way, this is the follow-up to the first question by Judge Vilanova.
+
+<<3872.24;3879.48;en>>
+I'm interested if tax evasion would be committed as an offense, and you have criminal record in Hungary.
+
+<<3879.48;3883.44;en>>
+This tax evasion would be recorded in the criminal record.
+
+<<3883.44;3887.28;en>>
+So what are safeguards there for how long this could be kept?
+
+<<3887.28;3898.12;en>>
+And are there any other safeguards in terms who could access, so that we would compare criminal records with the lists that we have in front of us?
+
+<<3898.12;3898.12;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3898.72;3900.4;en>>
+Thank you, Section President O’Leary.
+
+[[Judge;Síofra O’Leary]]
+
+<<3903.47;3905.87;en>>
+Thank you very much, Mr. President.
+
+<<3905.87;3921.15;en>>
+My first question is directed to the applicants who contended that the 2017 Act was not amenable to a constitutional complaint because it essentially contained the same provisions as the 2003 Act.
+
+<<3921.15;3934.75;en>>
+However, from your written submissions and the oral submissions today, it would appear that the creation of the search interface in 2017 was an innovative and new aspect.
+
+<<3934.75;3949.43;en>>
+So leaving aside questions relating to the scope of the case, I would like to understand, was there an effective constitutional complaint remedy available in relation to this new aspect of the 2017 Act?
+
+<<3949.43;3953.23;en>>
+My second question is directed principally at the government.
+
+<<3953.23;3963.55;en>>
+And I will preface the question by emphasizing that this court is not, of course, competent to apply or examine alleged violations of European Union law.
+
+<<3963.55;3986.31;en>>
+However, in the instant case, the content of Hungarian national law on data protection includes, indeed, one could say it's determined previously by the 1995 Data Protection Directive and now by the 2016 GDPR, the Data Protection Regulation, which, of course, is a directly applicable measure of EU law.
+
+<<3986.31;4010.31;en>>
+Given that context, can you explain what, if any, examinations of the 2003 and 2017 Tax Acts occurred in the light of the relevant EU Data Protection Acts, first when Hungary acceded to the European Union, and then subsequently in 2017 when the new legislation was updated and the GDPR was already in existence?
+
+<<4010.31;4031.35;en>>
+In addition, it might be useful if the government, or indeed the applicant, if they had this information, could inform us whether the European Commission in relation to Hungary or any other of the very many EU member states who operate a similar scheme have challenged the compatibility of such schemes in relation to the GDPR.
+
+<<4031.35;4040.39;en>>
+My final question is really addressed to both the applicant and the government, and it is a plea which comes from a non-Hungarian lawyer.
+
+<<4040.39;4051.95;en>>
+I, after listening to your submissions orally and reading the written submissions, I remain lacking in clarity regarding the tax identification code.
+
+<<4051.95;4058.47;en>>
+The applicant very usefully explained to us that the reliable taxpayers' lists doesn't use a home address.
+
+<<4058.47;4063.39;en>>
+It uses a name and a tax identification code.
+
+<<4063.39;4066.95;en>>
+Now, this follows on, I think, from a previous questioner.
+
+<<4066.95;4072.23;en>>
+But did the applicant have a tax identification code that could have been used?
+
+<<4072.23;4084.11;en>>
+And if so, why was such a code not sufficient for the purposes of one or other of the legitimate aims sought by the publication of the list?
+
+<<4084.11;4091.27;en>>
+In other words, was the tax identification code sufficient to identify him in the eyes of the public?
+
+<<4091.27;4091.27;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<4093.69;4095.21;en>>
+Thank you very much indeed.
+
+<<4095.21;4098.09;en>>
+I see no further questions.
+
+<<4098.09;4101.05;en>>
+The parties have been presented with a number of questions.
+
+<<4101.05;4108.29;en>>
+I want to give the parties ample opportunity to reflect and give adequate responses to the court.
+
+<<4108.29;4113.11;en>>
+So we will break for just over 30 minutes.
+
+<<4113.11;4116.45;en>>
+So we will break until 10.55 sharp,
+
+<<4116.45;4118.51;en>>
+and then we will resume.
+
+<<4118.51;4119.41;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4450.87;4451.55;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<4504.57;4506.57;en>>
+The hearing is resumed.
+
+<<4506.57;4515.73;en>>
+I will grant both parties 15 minutes to give us your replies and also your rebuttal arguments.
+
+<<4515.99;4518.15;en>>
+Mr. Karsai, you have the floor.
+
+[[Applicant;AP1]]
+
+<<4518.15;4519.56;en>>
+Thank you very much, Your Honor.
+
+<<4519.56;4532.77;en>>
+We received many interesting and partly overlapping questions, so I will try to reply them all, and in, as possible, logical order.
+
+<<4532.77;4543.95;en>>
+So as a beginning, and as a reply to the questions of Judge O'Leary and the Guerrera-Martins, first I would like to highlight a bit the mysterious text identification called, what is it?
+
+<<4543.95;4550.31;en>>
+So in Hungary, everybody, every adult, has this text identification code.
+
+<<4550.31;4553.56;en>>
+Me, everybody, here in this table, for example.
+
+<<4553.56;4558.56;en>>
+This has nothing to do with the fact that someone is doing business or not.
+
+<<4558.56;4562.64;en>>
+So it's not a business identification feature.
+
+<<4562.64;4565.27;en>>
+It has everybody.
+
+<<4565.27;4567.47;en>>
+So this is plain and simple.
+
+<<4567.47;4570.39;en>>
+I'm sure that the government will also explain, but this is it.
+
+<<4570.39;4577.84;en>>
+So I think we can understand this legal tool as it is.
+
+<<4577.84;4587.03;en>>
+Now secondly, I would like to very briefly summarize again what is the case really about according to the applicant.
+
+<<4587.03;4595.43;en>>
+The applicant's private data concerning taxation was processed and published by the tax authority.
+
+<<4595.43;4601.72;en>>
+Based on the clear rules of the Hungarian law, this is the first layer of the case.
+
+<<4601.72;4617.72;en>>
+It is undisputed between the parties, or cannot be disputed, I would say, that this part of the legal Hungarian legal background could not be challenged before the constitutional court or any other judicial body.
+
+<<4617.72;4623.15;en>>
+The second layer, and one of the most interesting features of the case, the role of the press.
+
+<<4623.15;4632.88;en>>
+It is undisputed between the parties that the press reports about the refresh list every three months.
+
+<<4632.88;4642.06;en>>
+It's a national playing game in Hungary that every three months the list comes out and the press reports about it.
+
+<<4642.06;4644.99;en>>
+And the third layer is the archive list.
+
+<<4644.99;4659.88;en>>
+We are of the firm view that these three layers shall be treated together, and the scope of the case extends to all these three aspects of the case.
+
+<<4659.88;4678.03;en>>
+As to the exhaustion of the scope, it was raised the question whether the right to protection of reputation can come into play in the present case.
+
+<<4678.03;4683.23;en>>
+In particular, that true facts were revealed about the applicant.
+
+<<4683.23;4687.8;en>>
+Yes, the applicant has had tax errors.
+
+<<4687.8;4689.84;en>>
+It is not disputed by the applicant.
+
+<<4689.84;4714.95;en>>
+However, we think that the crux of the case is that this publication of his personal data about his tax debts and his home address and name extends far beyond in the realm of taxation, and it casts a shadow on him as a negative person in general before his friends, colleagues, persons with whom he does sports regularly.
+
+<<4714.95;4725.31;en>>
+So nothing in the sphere of taxation, nothing that relates to the business life.
+
+<<4725.31;4736.11;en>>
+And we think that it was made through a shaming list, and this question in this form was never dealt by the court.
+
+<<4736.11;4738.51;en>>
+So we think this is a new element.
+
+<<4738.51;4747.31;en>>
+And the question was raised that can be defamatory undisputedly, truthful fact.
+
+<<4747.31;4750.07;en>>
+Yes, we think it can.
+
+<<4750.07;4754.84;en>>
+But in this respect, I think the Grand Chamber shall address this view.
+
+<<4754.84;4767.35;en>>
+And we identify one specific case, Keleli versus Switzerland, which concerned the classification of a French lady as a prostitute into the computer database of the Geneva Police for five years.
+
+<<4767.35;4772.61;en>>
+And it was not disputed in this case that what was the profession of that lady.
+
+<<4772.61;4781.07;en>>
+So there were also truthful facts in that case, and the court dealt with it still.
+
+<<4783.84;4788.51;en>>
+Judge Turkovich raised the question whether criminal records.
+
+[[JudgeP;Robert Spano]]
+
+<<4788.69;4792.45;en>>
+Mr. Karsai, could you name that Austrian case again, please?
+
+[[Applicant;AP1]]
+
+<<4792.51;4795.75;en>>
+Switzerland, Kelly versus- Switzerland.
+
+[[JudgeP;Robert Spano]]
+
+<<4795.75;4796.75;en>>
+Switzerland, yes.
+
+<<4796.75;4797.87;en>>
+Thank you.
+
+[[Applicant;AP1]]
+
+<<4797.87;4798.91;en>>
+Sorry.
+
+<<4798.91;4809.47;en>>
+Judge Turkovich raised the question whether private individuals could access criminal records.
+
+<<4809.47;4812.91;en>>
+Our simple answer is no, just the authorities.
+
+<<4812.91;4825.15;en>>
+So no such access to criminal records in Hungary as the public list of tax defaulters that we are discussing.
+
+<<4825.15;4840.15;en>>
+Judge Kvistakis raised the question that there was any follow-up procedure or any consequences of the local tax defaulters published list and the circular concerning it.
+
+<<4840.15;4845.39;en>>
+To our best knowledge, substantially nothing changed.
+
+<<4845.39;4857.67;en>>
+The law still allows to publish those lists, so in fact the situation not improved in this respect.
+
+<<4857.67;4871.71;en>>
+To answering Judge Juksa's questions, it is true that those who do business activities must act or shall act with due diligence.
+
+<<4871.71;4889.59;en>>
+However, we do not see how this public list serve this due diligence and nobody has to prove that he conducts a private- he conducts this business- he follows some business interest when enters the list.
+
+<<4889.59;4915.55;en>>
+And we repeat our related argument that there is no any follow-up mechanism showing that business risks were avoided by reading the names or certain names on the list.
+
+<<4915.55;4934.83;en>>
+We have to talk about a little bit more in detail about the archive database and in particular whether there was an effective remedy against the establishment of the archive database.
+
+<<4934.83;4945.07;en>>
+First is it has to be underlined that yes, the archive database contains the same information that the original tax defaulters list.
+
+<<4945.07;4955.83;en>>
+It is based on the tax defaulters list and it is accessible even today, I mean, the archive database.
+
+<<4955.83;4966.75;en>>
+It was raised that the applicant should have challenged before the Constitutional Court the impugn regulation because it came into force in January 2020.
+
+<<4966.75;4994.07;en>>
+However, in this special case, we think that the Constitutional complaint, which was as a general declared an effective remedy in the Mandrake versus Hungary case cannot be applied in the present case and I invite the courts to apply the general consideration that the obligation of exhaustion of domestic remedies cannot be applied with excessive formalism.
+
+<<4994.07;5008.67;en>>
+First and foremost, it shall be underlined that even if the applicant lodged a Constitutional complaint with the Constitutional Court, the Constitutional Court's procedure takes time.
+
+<<5008.67;5017.51;en>>
+And until the Constitutional Court eventually reaches its decision, the injustices the applicant suffered is not remedied.
+
+<<5017.51;5033.07;en>>
+Moreover, even if the applicant won the case before the Constitutional Court, he would not have received any financial compensation because the Constitutional Court simply does not have such power.
+
+<<5033.07;5038.35;en>>
+The length of the Constitutional Court is not a theoretical fear.
+
+<<5038.35;5058.91;en>>
+Just five days ago, in a Hungarian case, Bancsok and László Magyar versus Hungary, which was an actual live sentence case, the Honorable Court accepted that the Constitutional Court is not an effective remedy because in Mr. László's Magyar case, the procedure lasted
+
+<<5058.91;5061.67;en>>
+six years and did not end yet.
+
+<<5061.67;5079.79;en>>
+So the applicant could have a reasonable fear that in politically sensitive cases or high-profile cases, and the tax default test list I'm sure would have been a high-profile case even before the Constitutional Court, I mean the archive list, did not end in time.
+
+<<5079.79;5094.43;en>>
+So for these reasons, we think that not even for the archive list, the Constitutional Court should classify as an effective remedy.
+
+<<5094.43;5111.11;en>>
+Even in the context of the effectiveness of the remedies, the government stated that the applicant should have initiated some Hungarian court procedure, which only would have been to finally reach the Constitutional Court.
+
+<<5111.11;5127.35;en>>
+However, the Honorable Court in the KMC versus Hungary case expresses where we stated that merely formalistic notions should not be classified as effective remedies.
+
+<<5127.35;5143.55;en>>
+So national domestic proceedings whose only aim is to at the end reach the Constitutional Court shall not be exhausted before the Constitutional Court.
+
+<<5143.55;5144.55;en>>
+Thank you very much for your attention.
+
+[[JudgeP;Robert Spano]]
+
+<<5146.19;5147.79;en>>
+Thank you very much indeed.
+
+<<5147.79;5150.21;en>>
+And I'll turn to the government.
+
+<<5150.21;5151.35;en>>
+Mr. Tallódi, you have the floor.
+
+[[Government;GR1]]
+
+<<5156.67;5159.11;en>>
+Thank you very much, Mr. President.
+
+<<5159.11;5162.75;en>>
+I tried to answer all the questions precisely.
+
+<<5162.75;5190.81;en>>
+As to the questions raised by Judge Pastor Vilanova and Judge Turkovic, drawing parallels between the list of tax defaulters and possible lists of tax offenders or other criminals, I must emphasize that inclusion in the list of tax defaulters doesn't carry any value judgment, doesn't contain any information of the culpability or criminality of a person.
+
+<<5190.81;5205.39;en>>
+It mainly informs of a fact which is relevant for third parties in determining the solvency of a potential contractual partner.
+
+<<5205.39;5217.35;en>>
+Although crime offenders are not generally included in any list, only the data of sexual offenders can be obtained with a view of protecting third parties.
+
+<<5217.35;5235.23;en>>
+It must be noted that criminal trials are conducted in public hearing, and thus public sanction is available in the case of tax criminals too.
+
+<<5235.23;5260.59;en>>
+As to the questions of Judge Kjørbyrø and Judge Guerra-Martins concerning the new search interface, the government considered that the two methods, lists and search interface, are equally intrusive as regards the scope of the data available.
+
+<<5260.59;5278.35;en>>
+And there is no significant difference in their accessibility, though possibly it would require more effort on the part of the media to create an all-inclusive list of tax defaulters from a search interface.
+
+<<5278.35;5288.11;en>>
+But it is only relevant if we do not consider this data to be of data of public interest.
+
+<<5288.11;5297.95;en>>
+It is such data, if it is such data, there is no reason to hinder access to such information.
+
+<<5297.95;5309.81;en>>
+It must also be emphasized that data published in the archives do not contain information on the amount of tax debt.
+
+<<5309.81;5317.59;en>>
+Neither did the list on which the contested media report was based.
+
+<<5317.63;5345.59;en>>
+As to the questions of Judge Guerra-Martins and Judge Liri concerning the text identification code, I would like to draw your kind attention to paragraph 9 of the government's memorial, setting out section 7 of the 2016, sorry, 17 Taxation Act.
+
+<<5345.59;5373.75;en>>
+According to it, for the purposes of this act, unless otherwise provided by law for the purposes of legislation on taxes and tax administration procedures, tax identification number is the tax number, group identification number, community tax number, and natural persons tax identification code.
+
+<<5373.75;5396.77;en>>
+There are basically two types of tax identification numbers, tax number for business entities and tax identification code for private or natural persons, not conducting business activities as such.
+
+<<5396.77;5403.15;en>>
+In the present case, the applicant didn't act as a business entity.
+
+<<5403.15;5410.15;en>>
+His tax areas concerned personal income tax.
+
+<<5410.15;5412.79;en>>
+He didn't have a tax number.
+
+<<5412.79;5439.07;en>>
+He only had a tax identification code, which is created by an algorithm based on such personal information as date of birth, similarly as the personal identity code also used in European Union law, which is not available in any public database.
+
+<<5439.07;5455.03;en>>
+In this context, I also state to question of Judge Yüksel that no other information can be obtained by third parties about the tax history of another person.
+
+<<5455.03;5469.87;en>>
+As to the question of Judge Kuris, I must emphasize that the government didn't object to measuring the effectiveness of the measures, but to the method proposed by the applicant.
+
+<<5469.87;5484.43;en>>
+The government didn't refer so-called rule breakers as the justification for the publication of the list of tax debtors, but as the general effect and the function of the law.
+
+<<5484.43;5505.47;en>>
+In the context of shaming, namely that we cannot expect the rules of law to make rule breakers feel good about their conduct, the least can be expected from a merge breaking the rules is to feel bad about their non-compliance.
+
+<<5505.47;5528.29;en>>
+The government consider that these questions are answers for the questions of Judge Christikas, and these are based on the assumption as proposed by the applicant that the purpose of the list was to shame and to promote ex post compliance.
+
+<<5528.29;5541.99;en>>
+Whereas, I have explained before, the primary aim of the provision is to give information to third parties relevant to the exercise of their rights.
+
+<<5541.99;5561.49;en>>
+An additional aim is as the aim of any legal provision to deter from non-compliance or promote compliance with tax obligations, which is the two sides of the so-called same coin.
+
+<<5561.49;5588.25;en>>
+As to the questions of Judge Christikas concerning the circular of the data protection authority, I must emphasize that it concerned local taxes on a much smaller scale that the law provided for publication in a local usual manner, which didn't include publication on the internet.
+
+<<5588.25;5591.73;en>>
+It has no relevance to the present case.
+
+<<5591.73;5610.19;en>>
+As regards the question of Judge O'Leary concerning the compatibility with European Union law, we have no information on any cases instituted by the EU Commission against other states, neither against Hungary.
+
+<<5610.19;5621.73;en>>
+EU law is part of Hungarian law, and EU law remedies are available to Hungarian citizens in Hungarian courts as well.
+
+<<5621.73;5621.73;en>>
+Thank you very much, Mr. President.
+
+[[JudgeP;Robert Spano]]
+
+<<5622.94;5626.7;en>>
+Thank you very much.
+
+<<5626.7;5636.68;en>>
+I turn to my colleagues or any colleagues that wish to pose any follow-up to the questions they have already posed, Judge O'Leary, please.
+
+[[Judge;Síofra O’Leary]]
+
+<<5637.41;5639.51;en>>
+Thank you very much, Mr. President.
+
+<<5639.51;5644.91;en>>
+I come back to the government in relation to the answer to one of my three questions.
+
+<<5644.91;5664.37;en>>
+I asked the question about parliamentary review of this regime in the light of EU data protection requirements because of our case law, Animal Defenders, where in relation to the margin of appreciation, the court has emphasized the importance of quality parliamentary and judicial review.
+
+<<5664.37;5676.47;en>>
+Now, in the instant case, either because the applicant didn't exhaust any effective remedies or because there were no effective remedies, we have no judicial review of the questions before us.
+
+<<5676.47;5679.91;en>>
+So, parliamentary review becomes quite important.
+
+<<5679.91;5696.37;en>>
+And therefore, I would like to know whether either when Hungary acceded to the European Union or when the GDPR regulation was adopted, which was quite a seismic occurrence throughout all EU member states, was there any review of this tax publication regime?
+
+<<5696.37;5696.37;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<5698.44;5700.2;en>>
+Thank you very much, Judge Pastor Vilanova.
+
+[[Judge;Pere Pastor Vilanova]]
+
+<<5702.09;5703.65;fr>>
+Merci, M. le Président.
+
+<<5703.85;5714.45;fr>>
+A mes questions, le représentant du gouvernement vient de nous dire qu'il y a une publicité en Hongrie en relation, donc, avec les crimes sexuels.
+
+<<5715.21;5720.21;fr>>
+Cette publicité, cette information, quelle forme elle prend?
+
+<<5720.41;5725.85;fr>>
+Est-ce qu'on connaît le nom, bien entendu, le prénom de la personne condamnée?
+
+<<5726.17;5728.89;fr>>
+Est-ce que nous connaissons également l'adresse?
+
+<<5729.09;5731.85;fr>>
+Est-ce que vous pouvez donner un petit peu plus de détails sur ce point-là? Je vous remercie.
+
+[[JudgeP;Robert Spano]]
+
+<<5733.49;5735.65;en>>
+Both questions are, Judge Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<5737.65;5745.73;en>>
+To follow up, what I was interested in was, after what time the name of a person has to be erased from the criminal record.
+
+[[JudgeP;Robert Spano]]
+
+<<5748.42;5755.38;en>>
+I think all three follow-up questions are directed at the government.
+
+<<5755.38;5757.62;en>>
+Mr. Tallódi, are you in a position
+
+<<5757.62;5761.14;en>>
+to give us your replies on these three questions, please?
+
+<<5761.14;5761.14;en>>
+Thank you very much.
+
+[[Government;GR1]]
+
+<<5766.73;5768.77;en>>
+Yes, thank you for the, sorry.
+
+<<5770.33;5775.33;en>>
+Sorry, I am, I tried to take the mask down, sorry.
+
+<<5778.81;5805.41;en>>
+Yes, concerning the question of the new law, after 2017, I have to inform you that new law was enacted in 2017 concerning the general subject and the EU was taken into account as it is generally part of legislation process.
+
+<<5805.41;5808.09;en>>
+So it is general legislation.
+
+<<5808.09;5838.75;en>>
+Concerning the question of the sex offenders, we do not consider that sex offenders are in the same position as the applicant, but yes, the data in connection with the sex offenders are on the internet and the names are, the surname and the family name is also on the website and it is possible to reach this data.
+
+<<5842.61;5860.93;en>>
+The third question, concerning the third question for the deletion, I will, I don't want to say any not factual information, so I will inform the court later on in writing because I don't want to give you false information.
+
+<<5860.93;5860.93;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<5861.96;5862.96;en>>
+Thank you very much indeed.
+
+<<5862.96;5872.62;en>>
+Under the rules, you can provide us with a short written response to the question posed by Vice President Turković on the question of erasure of this information from the criminal record.
+
+<<5873.56;5875.32;en>>
+Thank you very much indeed.
+
+<<5875.32;5880.0;en>>
+I thank both parties for their interventions and their submissions today.
+
+<<5880.0;5887.72;en>>
+The court will now deliberate on this case and we will convene a hearing for delivery of judgment.
+
+<<5887.72;5888.68;en>>
+The hearing is closed.
+
+<<5888.68;5888.68;en>>
+The hearing is closed.
+

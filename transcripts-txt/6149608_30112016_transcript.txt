@@ -1,0 +1,2131 @@
+[[Announcer;UNK]]
+
+<<13.37;14.07;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<54.83;57.35;fr>>
+Je vous en prie, prenez place.
+
+<<64.83;71.15;fr>>
+Je déclare ouverte l'audience publique sur le fonds de l'affaire Bărbulescu contre la Roumanie.
+
+<<71.47;80.75;fr>>
+L'affaire a été introduite devant la Cour le 15 décembre 2008 par un ressortissant roumain, M. Bogdan Mihai Bărbulescu,
+
+<<81.47;83.99;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<83.99;90.95;fr>>
+Elle a été attribuée à la 4e section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<91.47;95.83;fr>>
+La requête a été communiquée au gouvernement le 18 décembre 2012.
+
+<<96.47;102.39;fr>>
+Le 12 janvier 2016, une chambre de la 4e section a rendu un arrêt dans l'affaire.
+
+<<102.87;111.75;fr>>
+Dans celui-ci, la chambre a déclaré la requête recevable en ce qui concerne le grief tiré de l'article 8 de la Convention et irrecevable pour le surplus.
+
+<<111.75;116.55;fr>>
+La chambre a conclu en non-violation de l'article 8 de la Convention.
+
+<<117.03;127.11;fr>>
+Le 12 avril 2016, la partie requérante a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention.
+
+<<127.43;133.19;fr>>
+Cette demande a été acceptée par le Collège de la Grande Chambre le 6 juin 2016.
+
+<<133.51;151.07;fr>>
+Le 30 août et le 2 septembre 2016, respectivement, le gouvernement français et la Confédération européenne et la Confédération européenne des syndicats ont été autorisés à intervenir en qualité de tiers dans la procédure écrite en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<151.95;162.87;fr>>
+Le gouvernement défendeur est représenté par son agente, Mme Catrinel Brumar, du ministère des Affaires étrangères, assistée de M. George-Virgil Gavrilă, conseil,
+
+<<163.27;166.03;fr>>
+et par Mme Livia Alexandrina Rusu, conseillère.
+
+<<166.03;170.59;fr>>
+Le requérant est représenté par M. Emeric Domokos-Hâncu
+
+<<170.79;172.99;fr>>
+et Ovidiu Juverdeanu, conseil.
+
+<<173.47;175.99;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<176.59;188.75;fr>>
+Je salue également les juges de la Cour de cassation française et de la Cour suprême de Moldova, ainsi que le magistrat norvégien, polonais, suisse et turc en visite à la Cour.
+
+<<189.35;204.39;fr>>
+Je dois expliquer qu'en-dessus de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en polonais et en turc a été autorisée au profit du groupe de magistrats polonais et turcs qui assistent à cette audience.
+
+<<204.79;213.19;fr>>
+Cette interprétation n'est pas assurée par la Cour, ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<213.79;220.39;fr>>
+Ayant consulté l'agente du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<220.59;230.19;fr>>
+Nous entendrons successivement maître Domokos-Hâncu et Juverdeanu pour le requérant, puis madame Brumar et madame Gavrilă pour le gouvernement.
+
+<<230.59;232.79;fr>>
+La parole est à maître Domokos-Hâncu.
+
+<<232.79;234.79;fr>>
+Vous avez la parole maître, je vouse en pris.
+
+[[Applicant;AP1]]
+
+<<240.44;243.82;en>>
+Mr. President and honorable judges,
+
+<<243.82;261.58;en>>
+it is an honor to be here today, but also a great responsibility as lawyers who strongly believe in the values that are the sacred goals of your mission, values which should always prevail over injustice and unfairness.
+
+<<261.58;281.74;en>>
+Our mission today is also to determine a clear guideline for every kind of situation in the future that will imply the private life in the workplace, so easily to be interfered with by the employer, especially when using modern ways of communication.
+
+<<281.74;285.62;en>>
+Our cases raise some fundamental questions.
+
+<<285.62;288.54;en>>
+Is spying in the workplace allowed?
+
+<<288.54;297.86;en>>
+Would anyone like their private communication violated without consent and for the single reason that it occurred during working hours?
+
+<<297.86;313.3;en>>
+Or would anyone like their private communication violated for the purpose of sustaining a previously decided termination of the labor agreement and for the sole reason to sustain such dismissal?
+
+<<313.3;323.06;en>>
+Or how Professor Pierce put it in a well-documented opinion, expressed also over the internet, is work privacy dead?
+
+<<323.06;351.68;en>>
+When considering what to say here today before the court, we thought we would present the case as Judge Pinto said it in the dissenting opinion, like an opportunity, like an opportunity for the court to set standards as to work privacy and protection of communication that occurred during working hours.
+
+<<351.68;354.58;en>>
+But this case is much more than setting standards.
+
+<<354.58;355.62;en>>
+Why?
+
+<<355.62;358.62;en>>
+Because such standards already exist.
+
+<<358.62;364.46;en>>
+Because such standards are already provided by the previous case law of the court.
+
+<<364.46;379.82;en>>
+So now we are here to enforce the standards, to further refine the standards, but taking into consideration the realities of modern communication through the internet.
+
+<<379.82;389.02;en>>
+So this case is before anything else about enforcing the standard and the correct application of Article 8 of the Convention.
+
+<<389.02;400.74;en>>
+This case is also a chance to protect the fundamental private life in face of ad hoc, non-transparent internet surveillance in the workplace.
+
+<<400.74;407.94;en>>
+It's about sanctioning an abuse and about serving justice, even if it's in the ultimate instance.
+
+<<407.94;414.82;en>>
+It's also about the state failing to protect Mr. Barbulescu's fundamental human right
+
+<<414.82;422.46;en>>
+to private life, including privacy of his personal communication and protection of personal data.
+
+<<422.46;447.22;en>>
+It is also the best occasion for the court to further develop its case law in the field of privacy with regard to employees' internet communication in an ever-changing world where the line between personal and work communication is shrinking continuously and can be diluted until there is none.
+
+<<447.22;459.26;en>>
+And finally, it is a chance to say no to spying in the work relationship and thus support healthy development of human relationships in the workplace.
+
+<<459.26;469.94;en>>
+On the other hand, this case is not, and I emphasize, is not about protecting any fundamental right of the employer.
+
+<<469.94;480.78;en>>
+And in any circumstance, any fundamental right of the employer that could prevail over the fundamental human right to privacy.
+
+<<480.78;483.86;en>>
+Finally, this is a case of many.
+
+<<483.86;494.46;en>>
+As we said it even from the beginning, workers do not abandon their right to privacy every time they walk through the doorstep of the workplace.
+
+<<494.46;504.1;en>>
+On the other hand, workers have a legitimate expectation that a substantial degree of privacy exists in the workplace.
+
+<<504.1;504.62;en>>
+And why?
+
+<<504.62;509.94;en>>
+Because they develop a significant part of their relationship in the workplace.
+
+<<509.94;517.58;en>>
+I wonder if there is anybody here that does not develop human relationships in the workplace.
+
+<<517.58;529.94;en>>
+On this road, we will firstly show that both the fundamental human right to private life as well as access to internet have been previously acknowledged by the court and significantly developed by the court.
+
+<<529.94;543.14;en>>
+Secondly, we will show that the principles set out in the working document on the surveillance and the monitoring of electronic communication in the workplace have not been observed.
+
+<<543.14;551.66;en>>
+As the monitoring in this case was not transparent, was not necessary, was not fair towards Mr. Borbulescu,
+
+<<551.66;556.7;en>>
+and by no means was proportional with any interest it tried to balance.
+
+<<556.7;567.14;en>>
+Thirdly, we will show a personal view over the case, coming from the first voice of the first advocate in this case.
+
+<<567.14;568.94;en>>
+This voice is crucial to the case.
+
+<<568.94;569.46;en>>
+Why?
+
+<<569.46;576.1;en>>
+Because it will show what was the real origin and the purpose of the spying.
+
+<<576.1;581.66;en>>
+It will show how there was intent to use the private communication against Mr. Borbulescu
+
+<<581.66;588.54;en>>
+and how illegally secured communication finally served as an ungrounded reason to terminate Mr. Borbulescu's
+
+<<588.54;589.78;en>>
+employment.
+
+<<589.78;590.26;en>>
+And why?
+
+<<590.26;594.02;en>>
+Because there was no other reason to sustain such dismissal.
+
+<<594.02;598.74;en>>
+And how Mr. Borbulescu's private communication
+
+<<598.74;605.92;en>>
+of sensitive nature became a public matter in the workplace, also discussed by his colleagues.
+
+<<605.92;610.06;en>>
+In the end, we will show how all this affected Mr. Borbulescu's
+
+<<610.06;611.22;en>>
+life.
+
+<<611.22;628.18;en>>
+Fourthly, we will show why this is a case of many and why the court needs to render a landmark decision that will affect millions of lives, calling the Grand Chamber to take action and to protect a single fundamental human right in question.
+
+<<631.34;640.38;en>>
+Now, while both opinions of the chamber concluded there has been an interference as regards Mr. Borbulescu's fundamental right to privacy,
+
+<<640.38;642.94;en>>
+they come to contradictory conclusions.
+
+<<642.94;658.86;en>>
+Thus, there is a wide gap between the majority's opinion and the dissenting one, whereas the latter opinion is the single one that retained the correct facts of this case and thus correctly applied the provision of the convention.
+
+<<658.86;659.36;en>>
+Why?
+
+<<659.36;666.5;en>>
+Because this interference that both opinions say existed was not in accordance with the law.
+
+<<666.5;674.06;en>>
+And this is why it is the dissenting opinion which is in accordance with the correct interpretation of the convention.
+
+<<674.06;681.94;en>>
+We would start by pointing out two of the main issues that were fully overlooked by the majority.
+
+<<681.94;694.18;en>>
+On one hand, the court's Grand Chamber recently stated that access to internet provides an unprecedented platform for the exercise of freedom of expression.
+
+<<694.18;709.98;en>>
+Even the French Constitutional Council has affirmed that in a democratic state, expression of ideas and opinions is a crucial matter, whereas the right to freedom of expression implies freedom to access to internet.
+
+<<709.98;718.04;en>>
+Thus, states have a positive obligation to promote and facilitate universal internet access.
+
+<<718.04;732.9;en>>
+Consequently, access to internet cannot be qualified as a right granted by any employer to the employee, but rather part of the human's fundamental right to freedom of expression.
+
+<<732.9;748.9;en>>
+Also, contrary to what the majority's opinion conclusion, a blanket ban on personal use of the internet by the employees is firstly inadmissible, is impractical, and slightly unrealistic.
+
+<<748.9;749.82;en>>
+Why?
+
+<<749.82;760.1;en>>
+Because it fails to reflect the degree to which internet not only can assist employees, but does so in their day to day activity.
+
+<<760.1;765.82;en>>
+This is not a goal to achieve anyway when using instant messaging.
+
+<<765.82;767.74;en>>
+And this is important in this case.
+
+<<767.74;768.74;en>>
+Why?
+
+<<768.74;772.06;en>>
+Because it is the employer that asked Mr. Balbuescu
+
+<<772.06;775.38;en>>
+to set up an instant messaging account.
+
+<<775.38;775.86;en>>
+Why?
+
+<<775.86;780.84;en>>
+With the hope that he will be contacted by the employer's clients.
+
+<<780.84;796.02;en>>
+So it is actually the employer who had the reasonable expectation that personal communication may occur, as it generally does when using instant messaging.
+
+<<796.02;803.62;en>>
+On the other hand, what the majority also failed to acknowledge, it there is no fundamental right of any employer in question.
+
+<<803.62;811.3;en>>
+The single fundamental human right in question is the one provided by Article 8 and no other.
+
+<<811.3;821.38;en>>
+Of course, the right to private life and protection of private data has to be balanced, but only by legitimate rights and interests of the employer.
+
+<<821.38;827.62;en>>
+And such balancing may only be achieved by observing a series of principles.
+
+<<827.62;832.1;en>>
+As we will show in this case, there was no legitimate interest.
+
+<<832.1;835.22;en>>
+There was no legitimate right of the employer.
+
+<<835.22;846.46;en>>
+Whereas all principles that have been developed by the court in terms of privacy of internet communication have been completely disregarded by the employer.
+
+<<846.46;852.3;en>>
+And such breach finally incorrectly confirmed by the majority.
+
+<<852.3;872.5;en>>
+In other words, the majority, by failing to see the true facts of the case, really concluded that it is allowed for an employer to spy on his employee, because we cannot honestly say that there has been a monitoring, let alone a legitimate one.
+
+<<872.5;878.1;en>>
+All of the principles of monitoring in the workplace have been infringed.
+
+<<878.1;881.66;en>>
+The court needs to establish now if Mr. Barbulescu's
+
+<<881.66;887.0;en>>
+so-called monitoring, a true spying, was transparent to him or not.
+
+<<887.0;893.82;en>>
+Was the spying necessary if the employer failed to claim any damage or harm to his activity?
+
+<<893.82;897.66;en>>
+Was the processing of Mr. Barbulescu's private data fair
+
+<<897.66;899.98;en>>
+and protected in the workplace?
+
+<<899.98;904.24;en>>
+Was it proportionate with any interest it tried to balance?
+
+<<904.24;909.18;en>>
+The answer is no, no, and no.
+
+<<909.18;914.02;en>>
+The Article 29 Working Party's view on the matter is essential.
+
+<<914.02;921.58;en>>
+It states the principle of prevention, namely that prevention should be more important than detection.
+
+<<921.58;931.94;en>>
+The interest of the employer being better served by preventing internet misuse and not by detecting internet misuse.
+
+<<931.94;941.46;en>>
+And this case appears to be more extraordinary, as Mr. Barbulescu's employer did not state at any point
+
+<<941.46;945.98;en>>
+that he failed to properly and timely fulfill his work duties.
+
+<<945.98;949.58;en>>
+So why monitor him at all?
+
+<<949.58;953.62;en>>
+In any case, this so-called monitoring was not transparent.
+
+<<953.62;954.5;en>>
+Why?
+
+<<954.5;964.54;en>>
+The undoubtful evidence to this fact is the sheer existence of the correspondence in the form collected and revealed by the employer.
+
+<<964.54;984.74;en>>
+One could hardly comprehend the existence of such correspondence, also referring to hostile work environment, also referring to bullying bosses in the context of any transparent monitoring performed by the employer.
+
+<<984.74;995.86;en>>
+The subject and the content of the instant messaging fully excludes the possibility to sustain that Mr. Barbulescu either knew or at least had
+
+<<995.86;1003.22;en>>
+the slightest clue about the spying or monitoring of his instant messaging accounts.
+
+<<1003.22;1013.6;en>>
+Actually, nobody really expects that their instant messaging accounts, their private accounts, are being ever monitored.
+
+<<1013.6;1021.54;en>>
+Contrary to what the state claimed, contrary to what the majority concluded, there was no work policy on internet use in place.
+
+<<1021.54;1043.18;en>>
+We cannot escape the fact that the state failed to meet the burden of proof in this respect and to provide evidence, first, that there's been a workplace internet policy in use and that it was duly acknowledged and accepted by Mr. Barbulescu.
+
+<<1043.18;1053.22;en>>
+The state's attempt to produce a side notice at this stage, before the Grand Chamber, is an important fact by itself.
+
+<<1053.22;1053.72;en>>
+Why?
+
+<<1053.72;1056.94;en>>
+Because there was no side notice until now.
+
+<<1056.94;1057.44;en>>
+Why?
+
+<<1057.44;1063.26;en>>
+Because such a side notice was never produced and used before the domestic courts.
+
+<<1063.26;1073.54;en>>
+So in lack of any prior and accepted policy and notice, the arguments raised by the French government actually sustain Mr. Barbulescu's case
+
+<<1073.54;1075.86;en>>
+and not the other way around.
+
+<<1075.86;1088.38;en>>
+And even so, the so-called notice is nothing more than a threaten directing against the employee, showing little to no concern to their right to dignity.
+
+<<1088.38;1110.66;en>>
+The so-called notice contains no specific reference to any monitoring, to how and when it will be performed, who will be its subject, what will be investigated, what will be the technical means engaged in this monitoring, and what are the workers' rights as regards to the collected data.
+
+<<1110.66;1121.62;en>>
+As the partly descending opinion states, such a poorly drafted policy, if existent, offered precious little protection to the employee.
+
+<<1121.62;1125.02;en>>
+And now I read from the words of Mr. Pinto.
+
+<<1125.02;1144.98;en>>
+I cannot but consider that the notice did not identify the minimum elements of an internet usage and surveillance policy, including the specific misconduct being monitored, the technical means of surveillance, and the employee's rights regarding the monitored materials.
+
+<<1144.98;1157.5;en>>
+Making records prior to initiating the so-called disciplinary research, conducting the disciplinary research in two stages, we are at the first stage occurring at 4.30,
+
+<<1157.5;1161.54;en>>
+when Mr. Barbulescu was asked to explain
+
+<<1161.54;1183.54;en>>
+the use of the computer for personal interest, and the second stage that occurred 50 minutes later, when the employee was faced with the actual transcript of his personal communication, proves without a doubt that the monitoring of his internet communication was conducted well before the disciplinary procedure even started.
+
+<<1183.54;1191.52;en>>
+Contrary to the majority's decision and to what the state claims, Mr. Barbulescu was not monitored.
+
+<<1191.52;1195.16;en>>
+Mr. Barbulescu was spied by his employer using spyware.
+
+<<1195.16;1208.1;en>>
+And what is spyware, but the software that enables a user to obtain covert information about another's computer by transmitting data covertly from their hard drive.
+
+<<1208.1;1217.02;en>>
+Such software is generally used in a non-transparent way, this excluding, of course, any knowledge of its use by the spied subject.
+
+<<1217.02;1227.5;en>>
+If the employer would have had access to the Yahoo Messenger account, such software would not have been necessary.
+
+<<1227.5;1229.34;en>>
+Mr. Barbulescu was definitely not
+
+<<1229.34;1247.9;en>>
+aware about the installation of W-Filter spyware, nor was he ever informed about the existence of such software in the workplace, nor there's been any reference in the so-called notice as the use of spyware by the employer to keep track of the employee's communication.
+
+<<1247.9;1273.02;en>>
+Use of this software was in breach with the provisions of Article 28 of the Romanian Constitution, was in breach with the employer's internal regulation, was in breach with the provisions of the Romanian Criminal Code, was in breach with even the terms and conditions of such software that provided that it can only be used in accordance with the law.
+
+<<1273.02;1275.02;en>>
+So how can this be monitoring?
+
+<<1275.02;1288.74;en>>
+This statement of facts alone basically rules the application of any principles of employees monitoring and definitely rules out any prevention.
+
+<<1288.74;1291.8;en>>
+Also, it's not a coincidence that Mr. Barbulescu's
+
+<<1291.8;1303.5;en>>
+first summons, 3772, mentioned from the starting point that he had used the computer and internet connection for personal interest.
+
+<<1303.5;1308.14;en>>
+How could the employer have known the nature of Mr. Barbulescu's communication
+
+<<1308.14;1312.74;en>>
+at this preliminary stage of the disciplinary procedure?
+
+<<1312.74;1316.9;en>>
+But he did know.
+
+<<1316.9;1320.02;en>>
+Mr. Barbulescu's so-called monitoring
+
+<<1320.02;1321.42;en>>
+was not even necessary.
+
+<<1321.42;1325.66;en>>
+There was no misconduct supposedly investigated by the employer.
+
+<<1325.66;1327.86;en>>
+On contrary, Mr. Barbulescu was considered
+
+<<1327.86;1332.94;en>>
+to be a good employer that duly fulfilled his work duties.
+
+<<1332.94;1343.14;en>>
+Use of the internet alone cannot constitute by itself a misconduct and furthermore, a reason for termination.
+
+<<1343.14;1350.3;en>>
+And we should all bear in mind that it was not alleged and of course not proven that Mr. Barbulescu had caused
+
+<<1350.3;1358.7;en>>
+any actual damage to his employer or that he had adopted the same pattern of behavior for a considerable period of time.
+
+<<1358.7;1361.74;en>>
+Thank you.
+
+<<1361.74;1365.82;en>>
+And on this note, I will allow my colleague to continue the pleading.
+
+<<1365.82;1367.36;en>>
+Thank you.
+
+[[Applicant;AP2]]
+
+<<1369.5;1375.26;en>>
+Thank you, Mr. President, honored Grand Chamber.
+
+<<1375.26;1389.1;en>>
+As my colleague said to me, in a figurative manner of speaking, of course, I easily can act now in this case more as a witness than as a lawyer, as I have been involved in it from its beginning.
+
+<<1389.1;1393.64;en>>
+But if to say the complete truth, I was involved in this case even before its beginning.
+
+<<1393.64;1397.12;en>>
+I have been a part of this case from its origins.
+
+<<1397.12;1402.88;en>>
+As I defended Mr. Barbulescu in the first part of year 2007 in front of domestic labor
+
+<<1402.88;1414.24;en>>
+courts against a disciplinary measure applied by the same employer for the single fact that Mr. Barbulescu has a dignity to accuse the improper working conditions and behavior of
+
+<<1414.24;1417.28;en>>
+his superior calling for an improvement.
+
+<<1417.28;1423.96;en>>
+In that particular case, the court ruled in favor of Mr. Barbulescu and concludes there
+
+<<1423.96;1429.86;en>>
+is no misconduct and thus the disciplinary sanction was held as ungrounded.
+
+<<1429.86;1431.26;en>>
+Why is this important here?
+
+<<1431.26;1436.46;en>>
+Because this is, as we said, is the actual origin and the true reason of Mr. Barbulescu's
+
+<<1436.46;1437.46;en>>
+dismissal.
+
+<<1437.46;1447.06;en>>
+Cassius Bailey was the canvas of the employer's actions that lead to his right to private life being tarnished.
+
+<<1447.06;1452.56;en>>
+All of the employer's actions had been to artificially assess the motives against Mr.
+
+<<1452.56;1460.86;en>>
+Barbulescu that could apparently sustain a safe termination of the employment agreement as the initiative of employer.
+
+<<1460.86;1466.3;en>>
+On the other hand, I am the one who can be blamed that this case arrived here today.
+
+<<1466.3;1467.5;en>>
+Why blame?
+
+<<1467.5;1471.02;en>>
+Because I believe 100 percent in truth and justice.
+
+<<1471.02;1475.38;en>>
+These are exact values we all have sworn to protect.
+
+<<1475.38;1485.54;en>>
+And if I deeply know that an injustice was made, I cannot keep silent, so I constantly advise Mr. Barbulescu not to abandon his rights in face of any obstacle and fight for his
+
+<<1485.54;1486.54;en>>
+justice.
+
+<<1486.54;1490.18;en>>
+I wonder, is Romania not Mr. Barbulescu's state?
+
+<<1490.18;1494.02;en>>
+Is Romania not the state where all of this happened?
+
+<<1494.02;1500.34;en>>
+Should not Romania, before anybody else, be the one to defend Mr. Barbulescu's fundamental
+
+<<1500.34;1506.58;en>>
+rights, especially the fundamental human right provided by Article 8 of the Convention?
+
+<<1506.58;1513.66;en>>
+If this is the case, why are we arguing today with Romania about not observing Mr. Barbulescu's
+
+<<1513.66;1515.78;en>>
+right to private life?
+
+<<1515.78;1522.34;en>>
+Did Romania accomplish its positive obligation to protect state fundamental human rights in Mr. Barbulescu's case?
+
+<<1522.34;1527.54;en>>
+If it would have done so, we would not have been here today.
+
+<<1527.54;1530.98;en>>
+We are sure that this Court will find to the contrary.
+
+<<1530.98;1537.78;en>>
+We stand here in front of the highest body of human rights for two main reasons, and with the hope to achieve the following goals.
+
+<<1537.78;1542.66;en>>
+To ensure justice is served in the case of Mr. Barbulescu facing justice, the system
+
+<<1542.66;1544.54;en>>
+is restored.
+
+<<1544.54;1559.94;en>>
+But we are also here today for millions of other workers who are now looking at us, waiting to see if we are able to defend them against the ever-growing and arbitrary need of their employers to invade their private lives.
+
+<<1559.94;1562.7;en>>
+Why justice for Mr. Barbulescu?
+
+<<1562.7;1578.58;en>>
+Because the national courts failed to protect his fundamental right to private life and allowed illegal security and instant messaging records to serve as apparent grounds for the termination decision that was taken even before that so-called evidence was produced.
+
+<<1578.58;1580.82;en>>
+This fact remained uncontested up to this day.
+
+<<1580.82;1586.18;en>>
+By doing so, Mr. Barbulescu's rights were fewer than those of a crime suspect.
+
+<<1586.18;1592.62;en>>
+Thus, the dismissal decision is as illegal as the so-called evidence that sustained it.
+
+<<1592.62;1605.58;en>>
+The domestic labor courts also fully dismissed the concept of prevention and basically confirmed the employer's spying over its employees, failed to see that it was actually not Mr.
+
+<<1605.58;1616.98;en>>
+Barbulescu, but the other two people involved in the instant messaging exchange who generated and started every conversation, failed to see that Mr. Barbulescu was not previously
+
+<<1616.98;1626.54;en>>
+informed about the monitoring taking place and the lack of any damage incurred by the employer, and finally, failed to see the lack of protection of Mr. Barbulescu's private
+
+<<1626.54;1631.38;en>>
+communication in the way of instant messaging from the workplace.
+
+<<1631.38;1636.34;en>>
+And all of this because Mr. Barbulescu has the courage to complain about the work condition
+
+<<1636.34;1638.7;en>>
+and ask for their improvement.
+
+<<1638.7;1643.06;en>>
+Also, Mr. Barbulescu's criminal complaint has not been actually properly solved until
+
+<<1643.06;1644.62;en>>
+this day.
+
+<<1644.62;1656.3;en>>
+On a first note, the criminal investigation department of the Bucharest 1st District failed to provide any answer for a period of no less five years, and the answer finally came from another body.
+
+<<1656.3;1662.9;en>>
+The court has concluded that Mr. Barbulescu, his fiancé, and his brother were working
+
+<<1662.9;1667.78;en>>
+for SecPral Proinstallazione and there had been no crime committed by the employer.
+
+<<1667.78;1673.78;en>>
+This is of course false, as neither his fiancé nor his brother ever worked with him for SecPral.
+
+<<1673.78;1681.62;en>>
+This is a serious error as above all the criminal investigators and prosecutors are called to firstly determine the correct facts of the case.
+
+<<1681.62;1685.46;en>>
+This never happened in Mr. Barbulescu's criminal complaint.
+
+<<1685.46;1694.42;en>>
+He found himself the subject of terror in the workplace, as it culminated with the termination of his employment contract.
+
+<<1694.42;1713.18;en>>
+Articles 63 and 268 of the Romanian Labor Code provided a very strict procedure for sanctioning employees with the aim to protect them against any potential abuse from the employers, so easily to achieve in the subordination report specific to labor agreements.
+
+<<1713.18;1732.48;en>>
+But if even the simple failure to observe the procedure should lead to the disciplinary decision being null and void, how can a much more serious situation like the breach of private life protected by Article 8 and the crime in this time not lead to the same result?
+
+<<1732.48;1744.98;en>>
+When a disciplinary measure is taken as a result of the employer's illegal behavior, like it happened in this case through the breach of the employee's fundamental human rights, the disciplinary sanction has to be annulled.
+
+<<1744.98;1755.3;en>>
+In the claim against the termination of the employment agreement, we have asked the national courts to apply among others Article 8 as interpreted by the court in Copeland v. Great
+
+<<1755.3;1760.66;en>>
+Britain that is applicable mutatis mutandis in this case.
+
+<<1760.66;1766.62;en>>
+Nevertheless, the Romanian Labor Code failed to apply Copeland and to understand its significance and the similarity with this case.
+
+<<1766.62;1784.66;en>>
+The core of this case is that there could not be a valid dismissal procedure grounded on illegal foundation represented by the breach of right to private life of the employee, despite the sharp definition of this right achieved in Copeland that was only a few months old at that time.
+
+<<1784.66;1794.38;en>>
+The failure of the national courts at the same time is the failure of the Romania state to undergo its positive obligation under convention in this particular case.
+
+<<1794.38;1799.54;en>>
+The state failed to protect Mr. Barbulescu's fundamental rights, failed to react when Mr.
+
+<<1799.54;1809.82;en>>
+Barbulescu's fundamental rights were tarnished, and also fails him even today when trying to argue to the contrary before the court.
+
+<<1809.82;1813.74;en>>
+This had a very serious and permanent impact over Mr. Barbulescu's life.
+
+<<1813.74;1818.58;en>>
+He lost his job and has yet been able to find a new one.
+
+<<1818.58;1828.82;en>>
+This left him unable to support himself and his family while also pointing an end to his relation with his fiancée, who ended up leaving the country.
+
+<<1828.82;1835.5;en>>
+He eventually stopped believing in himself, and for a long period of time, hope evaded him.
+
+<<1835.5;1842.42;en>>
+He lost faith in the justice system, and finally his view and direction about his life in general turned for the worse.
+
+<<1842.42;1845.14;en>>
+It ruined a young life.
+
+<<1845.14;1855.5;en>>
+He was 28 at that time, now he is 37.
+
+<<1855.5;1861.14;en>>
+Why is this the case of the many, as my colleague said previously?
+
+<<1861.14;1869.1;en>>
+Because besides serving justice for the past, there is also a need to ensure a fair balance for the future.
+
+<<1869.1;1874.94;en>>
+Just one judge, Mr. Pinto Dalbuquerque, understood exactly and did justly with these two faces
+
+<<1874.94;1881.78;en>>
+of the problem while acknowledging that Mr. Barbulescu has served insofar only with injustice.
+
+<<1881.78;1897.9;en>>
+Hundreds of opinions publicly expressed on the Internet, on European and international mass media, in law studies and public debates were focusing on the outcome of the course majority decision and really it was the argument of the dissenting opinion.
+
+<<1897.9;1902.62;en>>
+Express the expectations that the judgment will be withdrawn by the Grand Chamber.
+
+<<1902.62;1912.9;en>>
+The judgment sends a negative signal for millions of employees who may see their right to private life denied by the employers following the abusive and excessive monitoring.
+
+<<1912.9;1924.14;en>>
+In the case at hand, the monitoring conducted by the employer was not proportional and in accordance with the principles set out by the court in Copeland and Halford cases.
+
+<<1924.14;1934.12;en>>
+As Judge Pinto Dalbuquerque said better than us, the delicate character of the present case is significantly increased by the nature of Mr. Barbulescu's private correspondence
+
+<<1934.12;1936.34;en>>
+violated by the employer.
+
+<<1936.34;1945.98;en>>
+This subject pertains to the court of the applicant's private life and requires the most intense protection under Article 8.
+
+<<1945.98;1959.54;en>>
+For what is worse, I would not personally like my private communication breached, used against me and any of my private correspondence or messaging become a public subject with little to no protection against this.
+
+<<1959.54;1969.74;en>>
+Thus, this case is about all workers who have faced or might face in the future the same abusive and even illegal conduct.
+
+<<1969.74;1991.86;en>>
+While we acknowledge that the protection of the employee's internet communication and international law is a developing matter, we deem that no single occasion should be lost when such abusive conduct like the one in this case occurs and gives to the human rights protection bodies the opportunity to enhance the principles of the employer's interference with the employee's communications on the internet.
+
+<<1991.86;2017.34;en>>
+The Grand Chamber has now the opportunity to clarify this issue of general importance and consequently to trace a clear boundary inside which the employer could monitor its employees over the internet, bearing in mind that there is in question no protection of any fundamental human right of the employer, which could prevail against the protection of fundamental human rights to private life protected by Article 8 of the Convention.
+
+<<2017.34;2036.78;en>>
+Most relevant opinions see the first judgment as a shift in the court's practice in contrast with Copeland and Halford, the judgment on the other hand, and more specifically the majority decision is the result of misinterpretation of the facts leading to fundamentally erroneous results.
+
+<<2036.78;2064.3;en>>
+Nowadays, when various means of instant messaging are widespread, example, Facebook Messenger, Yahoo Messenger, WhatsApp, Skype, et cetera, and available on any kind of devices provided by the employer, when each employee could be found online by their private contacts in occasions when they are performing work-duty tasks, it's a very likely and common situation.
+
+<<2064.3;2068.82;en>>
+This is why the issue raised by the case of Bolescu v. Romania presents a tremendous interest
+
+<<2068.82;2076.3;en>>
+both for the employees and the employers in protection of private life and their rights in such relationships.
+
+<<2076.3;2094.42;en>>
+Thus is why we urge the Court to acknowledge the huge potential of these conditions repeating themselves given that instant messaging is part of our lives and the substantial differences between the factual features retained by the Chamber's majority and the reality of the day-to-day life.
+
+<<2094.42;2108.26;en>>
+It is clear that the public expects a landmark decision to be rendered by the Grand Chamber in this respect, and I conclude by saying, on the other hand, we maintain the request for just satisfaction for Mr. Bolescu.
+
+<<2108.26;2109.26;en>>
+Thank you.
+
+<<2109.26;2110.26;en>>
+And we will answer any questions.
+
+<<2110.26;2110.26;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<2114.9;2117.74;en>>
+Thank you very much, Mr. Juverdeanu.
+
+<<2117.74;2120.46;en>>
+And now I call Mrs. Brumar, you have the floor, please, Madam.
+
+[[Government;GR1]]
+
+<<2122.11;2123.81;en>>
+Thank you.
+
+<<2123.81;2126.19;en>>
+Mr. President, honorable judges, it
+
+<<2126.19;2136.35;en>>
+is an honor and a privilege for me and my colleague to appear before this distinguished court in addressing such a sensitive issue as the one raised by the case at hand.
+
+<<2136.35;2153.11;en>>
+After providing the essential factual elements for a clear image of the unfolding of the events as they occurred at the material time, I shall address the applicability of Article 8 of the Convention and present an overview of the most relevant aspects regarding the scope of the conventional text.
+
+<<2153.11;2165.71;en>>
+My colleague will address the issue of states' responsibility and the manner in which the national authorities acted with observance of their incumbent obligations enshrined in Article 8 of the Convention.
+
+<<2165.71;2168.87;en>>
+Mr. President, honorable members of the court,
+
+<<2168.87;2184.43;en>>
+before presenting the essential factual elements of the case before you today, please allow me to sketch the applicable normative framework for a better understanding of the events and of the domestic court's reaction to the applicant's judicial steps.
+
+<<2184.43;2196.11;en>>
+The national legal system guarantees the right for respect of the inviolability of correspondence at the constitutional level within the same standards as the conventional ones.
+
+<<2196.11;2201.07;en>>
+That is to say, a conditional right whose exercise could be limited.
+
+<<2201.07;2215.83;en>>
+At the same time, the legislation in force in the labor field, while recognizing the employer's right to control the employee's fulfillment of professional tasks, provided that it was under the obligation to respect the employee's personal data.
+
+<<2215.83;2229.81;en>>
+Moreover, the normative framework opened for any employee who considered that her rights were disrespected within the labor relationship the way to bring a claim before the labor court.
+
+<<2229.81;2254.47;en>>
+Special regulation regarding the protection of personal data was in place, offering the person who considered her data had been illegally retained or misused the possibility to either bring her case before the administrative body competent to supervise the respect in the collection, retention, and use of personal data, and or seek damages before the civil courts.
+
+<<2254.47;2260.79;en>>
+On the criminal level, the illegal opening of anyone's correspondent is sanctioned with imprisonment.
+
+<<2260.79;2268.39;en>>
+At the material time of fact, the criminal action was set in motion at the prior complaint of the person concerned.
+
+<<2268.39;2300.47;en>>
+Our written pleadings before the grand chamber contained the detailed presentation of the relevant legislative regulations in place, as well as the highlight of the domestic practice and case law, indicating that electronic correspondence, as well as a classical one, benefits from the same standards of protection and that, in their analysis, the national bodies perform an extensive exam of the legality of any interference with the exercise of the right to the inviolability of one's correspondence.
+
+<<2300.47;2305.11;en>>
+It is against this background that the fact of the case needs to be reminded.
+
+<<2305.11;2324.63;en>>
+The applicant was dismissed in August 2007 after being employed for three years within a private company following a disciplinary action for infringement of his employer's internal regulations, namely the use of the office's facilities, computer and internet connection, in his personal interest.
+
+<<2324.63;2339.79;en>>
+The applicant, including before the European Court, claimed that the employer's right of control was exercised in an unpredictable manner and that he had not been notified about the possibility of monitoring by his employer of his correspondence.
+
+<<2339.79;2351.83;en>>
+It is worth reminding in this context that on 20 December 2006, that is eight months before the events that led to Mr. Bobulescu's dismissal, he was informed of
+
+<<2351.83;2356.51;en>>
+and he had signed the internal regulations of the company.
+
+<<2356.51;2361.33;en>>
+The said document contained the policy of computers and internet use.
+
+<<2361.33;2370.95;en>>
+It was written in clear terms, computers and internet use was permitted only for work-related activities.
+
+<<2370.95;2378.99;en>>
+The failure to observe this obligation was regulated as a severe infringement capable of leading to a dismissal decision.
+
+<<2378.99;2400.83;en>>
+At the beginning of July 2007, the applicant and his 14 colleagues within the Bucharest office of the firm signed for acknowledgement a company-wide notice which highlighted that another employee had been let go on disciplinary grounds, specifically due to personal use of the company's internet connection and phones.
+
+<<2400.83;2415.39;en>>
+The notice also stated that the employer verified and monitored the employee's activity, specifically mentioning that they should not use the internet, phones, or faxes for issues unrelated to work.
+
+<<2415.39;2425.95;en>>
+It is of utmost importance to highlight that the notice signed by the applicant for acknowledgement is a document which previously lacked from the probative material.
+
+<<2425.95;2437.47;en>>
+As such, the chamber had no choice but to hold the issue of whether the applicant had been explicitly warned or not of the monitoring as being a disputed one.
+
+<<2437.47;2444.35;en>>
+Indeed, the applicant tried to take full advantage of the fact that the government had not sent a copy of the said document.
+
+<<2444.35;2450.79;en>>
+And under these circumstances, he submitted to the chamber a copy which did not bear any signatures.
+
+<<2450.79;2453.59;en>>
+Mr. President, two preliminary conclusions
+
+<<2453.59;2457.43;en>>
+need to be drawn from the aforementioned aspects.
+
+<<2457.43;2467.95;en>>
+The first is that the absolute ban to use the internet in personal interest and the corresponding possibility to be fired for noncompliance were both well-known to Mr. Bobulescu.
+
+<<2467.95;2480.59;en>>
+The second conclusion is the fact that at this time before the grand chamber, it is certain that the explicit warning of monitoring was delivered by the management and also acknowledged by Mr. Bobulescu.
+
+<<2480.59;2482.47;en>>
+Mr. Bobulescu had previously set up
+
+<<2482.47;2490.55;en>>
+an account at the request of his employer with the purpose to provide technical support to the company's clients.
+
+<<2490.55;2496.99;en>>
+From the comparison of the internet traffic data consumed by employees, significant discrepancies emerged.
+
+<<2496.99;2500.55;en>>
+All were using very little amounts except for the applicant.
+
+<<2500.55;2502.91;en>>
+Indeed, not only did Mr. Bobulescu
+
+<<2502.91;2514.45;en>>
+have the highest level of internet data use, but he had spent more time online than the rest of the employees together, as undeniably shown by the graphics.
+
+<<2514.45;2519.59;en>>
+On 13 July 2007, the company summoned the applicant for explanations.
+
+<<2519.59;2522.43;en>>
+Mr. Bobulescu provided written notifications
+
+<<2522.43;2528.53;en>>
+which started with the clear statement that he did not use Yahoo Messenger in personal interests.
+
+<<2528.53;2537.43;en>>
+He further showed that the high internet data level corresponded to conversations which were strictly professional with a potential client.
+
+<<2537.43;2544.83;en>>
+Detailed information was provided on the matter, showing even who that potential client was.
+
+<<2544.83;2546.79;en>>
+After Mr. Bobulescu's reassurance
+
+<<2546.79;2566.15;en>>
+of the completely professional nature of the conversations, the discipline committee, which comprised three persons, namely the director general, the manager, and the employee's representative, reviewed the communications and discovered that they were in fact conducted only in a personal interest.
+
+<<2566.15;2578.69;en>>
+After his second summoning, when presented with the transcripts of the conversations between 5 and 13 July 2007, the applicant responded in writing that he refrained from any comments.
+
+<<2578.69;2585.55;en>>
+The disciplinary proceedings ultimately led to the management dismissal decision of 1 August 2007.
+
+<<2585.55;2590.79;en>>
+The applicant challenged the measure by lodging a complaint before the competent labor court.
+
+<<2590.79;2603.55;en>>
+He claimed that the dismissal decision was null, as his communications were monitored without his prior knowledge, thus constituting a violation of his right to respect of the privacy of correspondence.
+
+<<2603.55;2615.15;en>>
+The court of first instance dismissed the challenge as ill-founded on 7 December 2007, and the ruling was subsequently upheld by the superior court's final decision of 17 June 2008.
+
+<<2616.43;2635.29;en>>
+On the point of monitoring of the applicant's electronic conversations, the domestic courts have found that the company's internal regulations contain a prohibition of the use of computers in the personal interest of employees, and that this prohibition was permitted by the provisions of the labor court.
+
+<<2636.71;2639.55;en>>
+The labor courts, sorry.
+
+<<2639.55;2655.77;en>>
+They further held that the employer was entitled to prohibit personal use of internet during business hours, as the availability of internet in the workplace should be seen as a professional tool whose use is subject to regulation by the employer.
+
+<<2655.77;2677.11;en>>
+In order to summarize, the national labor courts fully understood the fact of the case as described above, and within the framework of labor law proceedings, perform a thorough examination in relation to the relevant national and EU law provisions, having at the same time regards to the conventional requirement of a fair balance between competing private interests.
+
+<<2677.11;2697.29;en>>
+The judicial conclusions integrated the employer's internal regulation within its right normatively recognized to control the fulfillment of professional tasks, while verifying that this monitoring was performed with prior notice, and limited to the use of tools specifically listed as professional ones.
+
+<<2697.29;2702.25;en>>
+In addition to his complaint against the decision for his dismissal, Mr. Babulescu also filed
+
+<<2702.25;2709.15;en>>
+a criminal complaint against unknown persons who had violated his right to respect for his correspondence.
+
+<<2709.15;2728.05;en>>
+While acknowledging that the messages exchanged through Yahoo Messenger benefited from the protection of criminal law, the competent prosecution bodies held that the interception and monitoring of the communications were not unlawful, since the internet connection was established through the employer's server.
+
+<<2728.05;2745.75;en>>
+Moreover, the legal entity which was the beneficiary of the informatics systems and of the internet connection had both the right to control, in the interest of the unit, the traffic from informatics systems, and to dispose of the information retained on the server.
+
+<<2745.75;2757.55;en>>
+In addition, even the internal regulations forbade the use of informatics systems in a personal interest, being thus predictable that such a conduct could be monitored.
+
+<<2757.55;2762.27;en>>
+The applicant did not challenge the decision not to open criminal proceedings.
+
+<<2762.27;2764.27;en>>
+Mr. President, honorable judges,
+
+<<2764.27;2777.53;en>>
+the court has consistently held that the notion of private life is a broad concept, encompassing, for example, the right to establish and develop relationships with other human beings, and the right to identity and personal development.
+
+<<2778.87;2794.95;en>>
+The examination of the court's case law in this field discloses that Article 8 of the Convention is applicable in work relationships as regards the monitoring of communications, only provided that two major conditions are cumulatively met.
+
+<<2794.95;2799.65;en>>
+The first condition is that the nature of communication is personal.
+
+<<2799.65;2814.15;en>>
+Indeed, this condition flows from the actual conventional text, and also from the fact that conversations of employees with third parties in the name and interest of the employer are in fact the communications of the company itself.
+
+<<2814.15;2824.41;en>>
+It would appear beyond logic to hold that the employer had interfered with its own correspondence, or the correspondence dedicated to working activities.
+
+<<2824.41;2830.15;en>>
+The second condition is represented by the existence of a reasonable expectation of privacy.
+
+<<2830.15;2839.51;en>>
+The court takes into account a number of factors to ascertain the existence of an expectation of privacy, covering any given form of communication.
+
+<<2839.51;2854.91;en>>
+It attaches particular importance to prior warning as to the possibility of interception, and takes into account relevant circumstances, the designation used, such as private phone, and applicable workplace rules.
+
+<<2854.91;2871.03;en>>
+In the case of Harvard versus UK, the court held that in the absence of a warning that one's calls would be liable to monitoring, the applicant had a reasonable expectation as to the privacy of calls made from a work telephone.
+
+<<2871.03;2879.83;en>>
+The same expectation should apply in relation to an applicant's email and internet usage, according to the case of Copeland versus UK.
+
+<<2879.83;2891.39;en>>
+Para contrario, it follows that in the presence of a warning that one's communications would be liable to monitoring, the person no longer has the reasonable expectation of privacy.
+
+<<2891.39;2911.99;en>>
+Verifying whether the two conditions are met in the present case, with regard to the personal nature of communications, it needs to be highlighted that the review of the applicant's communications was performed only after the letter had been provided with the possibility to state that they were, even in part, personal.
+
+<<2911.99;2919.15;en>>
+He appeared outraged and described in details what the strictly professional communications contained.
+
+<<2919.15;2935.13;en>>
+As such, the review of communications was performed only by the three members of the discipline committee with observance of the confidentiality obligation within the exercise of disciplinary proceedings in the legitimate interest of determining them fairly.
+
+<<2935.13;2939.95;en>>
+The government did not challenge that the recording had been carried out at a previous time.
+
+<<2939.95;2949.99;en>>
+What needs to be underlined, however, is that there is a significant difference between recording of correspondence and the actual reviewing of its content.
+
+<<2949.99;2962.07;en>>
+Very relevant on this matter is an example inspired from the observations of the third party etuque concerning the processing of correspondence addressed to an employee at her workplace.
+
+<<2962.07;2969.87;en>>
+As such, when correspondence arrives at the company premises, the employer, through its registry, keeps the record of it.
+
+<<2969.87;2973.59;en>>
+Also, it can take notice of the sender and perhaps other information.
+
+<<2973.59;2987.11;en>>
+However, when it is not certain that the envelope contains information strictly limited to the working tasks of the recipient employee, the registry asks for clarifications in order to establish how to handle the envelope.
+
+<<2987.11;3002.87;en>>
+Should the recipient state that it is an envelope which contains a strictly professional aspect, the opening of the envelope and the subsequent review of its content cannot reasonably be regarded as a situation falling under the protection of Article 8.
+
+<<3002.87;3022.11;en>>
+Similarly, in the present application, the employer recorded the communications aspect which was known by the employees, both from the regulations and explicitly from the notice as described above, but proceeded to their review only after being reassured by Mr. Bobulescu
+
+<<3022.11;3027.63;en>>
+and in a very convincing manner that they were professional in their integrity.
+
+<<3027.63;3046.15;en>>
+Therefore, in the instant case, the grand chamber must examine whether the applicant had the reasonable expectation of privacy when communicating from the Yahoo Messenger account that he had registered at his employer's request, specifically designed in the sole purpose of fulfilling professional tasks.
+
+<<3046.15;3054.15;en>>
+Continuing the issue of applicable workplace rules, it needs to be underlined that the instant case is different from previous jurisprudence.
+
+<<3054.15;3060.83;en>>
+The court has found Article 8 to be applicable when the personal use of the office telephone, for example, was accepted.
+
+<<3060.83;3072.71;en>>
+The government strongly asserts that an identical approach cannot be embraced in this case where the applicable workplace rules were clear, specifically forbidding the conduct in question.
+
+<<3072.71;3084.67;en>>
+Moving along with the examination of the applicability of Article 8, the government took notice of the fact that the chamber accorded particular weight to the use to which the communications were put.
+
+<<3084.67;3088.91;en>>
+On this issue, important elements must be provided to the grand chamber.
+
+<<3088.91;3107.35;en>>
+Firstly, while agreeing that the transcripts were used in the disciplinary proceedings and in the subsequent trial phase, the government underlined that there is absolutely no indication that they were presented to the colleagues of the applicant and that they were discussed by them as the applicant claims.
+
+<<3107.35;3114.33;en>>
+In addition, the applicant stripped away the possibility for the employer to prove its observance of confidentiality.
+
+<<3114.33;3129.95;en>>
+The applicant himself and not the employer opted to make available to the general public the actual content of communications by attaching them to the challenge before the national court, even though this was not even necessary for the court's assessment.
+
+<<3129.95;3137.99;en>>
+Indeed, neither the court nor the company were ever interested in the actual content of the communications.
+
+<<3137.99;3147.43;en>>
+They only needed to establish the nature of the conversations in order to decide upon the existence or not of an internal regulations infringement.
+
+<<3147.43;3153.47;en>>
+Secondly, the use of the transcripts as evidence in trial was performed at the applicant's request.
+
+<<3153.47;3172.89;en>>
+In order to conclude, the government recalled that in the present case, the applicant's communications fall outside the protection of Article 8 because it was his own conduct characterized by convincing reassurance of their integral professional nature, which led to their subsequent review by the employer.
+
+<<3172.89;3190.03;en>>
+Because they were carried out in severe infringement of clear workplace rules, which forbade the conducting question, and in spite of the explicit warning of monitoring, departing from other cases where such warning was absent.
+
+<<3190.03;3197.47;en>>
+Because they are carried out from a device and by means which were specifically designed for professional tasks.
+
+<<3197.47;3203.11;en>>
+Because they are not processed excessively, but in the strict limit of disciplinary proceedings.
+
+<<3203.11;3206.87;en>>
+It was the applicant who opted to make them available to the public.
+
+<<3206.87;3214.31;en>>
+Otherwise said, the applicant intentionally screamed, and now he complains that too many people have heard.
+
+<<3214.31;3224.91;en>>
+The previous decision on the applicability of Article 8 was delivered by the chamber after holding that the existence of a proper warning of monitoring was a disputed aspect.
+
+<<3224.91;3232.99;en>>
+At present, the grand chamber knows that a proper warning of monitoring existed and was duly signed for acknowledgement by the applicant.
+
+<<3232.99;3243.83;en>>
+We therefore respectfully ask the grand chamber, after taking note of the document's explicit content, to hold that it completely striped away any reasonable expectation of privacy.
+
+<<3243.83;3246.79;en>>
+Mr. President, honorable judges, the government
+
+<<3246.79;3255.27;en>>
+wished to provide hereinafter the distilled information regarding the scope of Article 8 in relation to the events in the instant case.
+
+<<3255.27;3269.03;en>>
+As such, we fully share the chamber's view, showing that the applicant chose to raise before the national courts his complaint under Article 8 within the framework of labor law proceedings.
+
+<<3269.03;3289.59;en>>
+Thus, the alleged infringement of his respect for private life was only an argument he used in order to prove the nullity of his employer's decision, while the assessment of the legal and substantiated character of the dismissal measure constituted, in fact, the main object of the domestic case.
+
+<<3289.59;3298.95;en>>
+It follows that the object of his complaint before the grand chamber is limited to the monitoring of his communications within the framework of disciplinary proceedings.
+
+<<3298.95;3310.59;en>>
+The employer's decision to terminate the applicant's contract was not based on either the actual content of his communications, nor on the fact of their eventual disclosure.
+
+<<3310.59;3323.51;en>>
+In this regard, the government asserts that the applicant did not argue that he had had no other fora in which to bring these arguments separately before the domestic courts, as showed at the beginning of our oral pleading.
+
+<<3323.51;3341.87;en>>
+While the applicant criticized the absence of the enforcement of law on data protection and the activity of the criminal pursuit bodies, it needs to be recalled that these critics of the applicant were neither submitted before the national competent authorities.
+
+<<3341.87;3354.11;en>>
+As such, the applicant did not file a complaint on the basis of the law on data protection, nor did he raise this argument of an alleged infringement of data protection rights before the national courts.
+
+<<3354.11;3363.91;en>>
+Also, the applicant argued that the prosecution bodies erred when they determined the criminal case and that the proceedings were not expeditious.
+
+<<3363.91;3374.39;en>>
+It needs to be responded to the applicant that he did not participate in the criminal proceedings by any means, such as submitting requests or complaints.
+
+<<3374.39;3385.63;en>>
+Furthermore, the applicant did not even challenge the prosecutor's office decision before the chief prosecutor or the office, effective remedies which could have properly dispelled any alleged shortcomings.
+
+<<3385.63;3404.67;en>>
+Under these circumstances, the government respectfully asked the courts to dismiss their plan or for non-exhaustion of domestic remedies, any critics related to the alleged failure of national authorities to enforce the data protection or criminal provisions since these issues were raised before the court for the first time.
+
+<<3404.67;3406.23;en>>
+Mr. President, with your permission,
+
+<<3406.23;3411.31;en>>
+my colleague will now address the last point of the pleading regarding the issue of state responsibility.
+
+<<3411.31;3413.45;en>>
+I therefore respectfully ask you to give him the floor.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3416.41;3418.66;en>>
+Thank you very much, Mrs. Brumar.
+
+<<3418.66;3421.05;en>>
+Now the floor goes to Mr. Gavrilă.
+
+<<3421.05;3421.05;en>>
+Thank you.
+
+[[Government;GR2]]
+
+<<3422.41;3425.85;en>>
+Mr. President, honorable members of the court,
+
+<<3425.85;3438.71;en>>
+although the purpose of Article 8 is essentially to protect an individual against arbitrary interference by the public authorities, it does not simply compel the state to abstain from such interference.
+
+<<3438.71;3449.75;en>>
+The court held that in addition to this primarily negative undertaking, there may be positive obligations inherent in an effective respect for private life.
+
+<<3449.75;3461.25;en>>
+These obligations may involve the adoption of measures designed to secure respect for private life, even in the field of relations between individuals themselves.
+
+<<3461.25;3478.01;en>>
+In the instant case, the applicant's complaint must be examined from the standpoint of the state's positive obligations, since he was employed by a private company, which could not, by its actions, engage state responsibility under the convention.
+
+<<3478.01;3498.65;en>>
+The government fully agree with the submissions of France as an intervenant, showing that the instant case is about the protection provided by the legal framework and the national jurisdictions as regards the right to respect for private life and correspondence within the working relationship.
+
+<<3498.65;3520.73;en>>
+As such, the control of the court should concern the legal framework enacted by the state with the purpose to ensure effective protection of the said right, and at the same time, the decisions of the national jurisdictions which applied it, so as to strike a fair balance between the competing private interests.
+
+<<3520.73;3533.57;en>>
+Regarding the first aspect, in the written observations before the grand chamber, the government submitted detailed information concerning the national framework enforced at the material time.
+
+<<3533.57;3537.09;en>>
+Essential elements were reminded by my colleague.
+
+<<3537.09;3557.45;en>>
+The enacted provisions clearly regulated concrete safeguards and guarantees for the observance of the right enshrined in Article 8 of the convention, both at the constitutional level as well as within different branches of the law, criminal law, labor law, data protection law, civil law.
+
+<<3557.45;3575.75;en>>
+In addition, several examples of enforcement have also been provided, such as convictions, fines, modifying the dismissal decision of the employer with a milder sanction, restoring of the previous situation, and just satisfaction awards.
+
+<<3575.75;3590.03;en>>
+These case law examples serve the purpose of proving that the legal framework regulated effective remedies as they adequately fulfilled the roles of prevention, sanction, and redress.
+
+<<3590.03;3602.25;en>>
+In the instant case, the applicant chose to pursue only one of the instituted remedies, namely by lodging a complaint before the National Labor Courts within disciplinary proceedings.
+
+<<3602.25;3621.23;en>>
+Therefore, the government show no reserve in completely adhering to the findings of the chamber, which revealed that regard must be had to the scope of the complaint, which is limited to the monitoring of the applicant's communications within the framework of disciplinary proceedings.
+
+<<3621.23;3640.73;en>>
+Moving on to the decisions of the national jurisdictions, namely to the quality of the enforcement of the remedy chosen, the government outlined that the applicant was able to raise his arguments related to the alleged breach of his private life and correspondence before the domestic courts.
+
+<<3640.73;3657.77;en>>
+These judicial bodies, which present the highest level of independence and impartiality, thoroughly examined his arguments and found that the employer had acted in the context of disciplinary powers as provided for by the labor code.
+
+<<3657.77;3677.89;en>>
+In addition, both the county court and the court of appeal attached particular importance to the fact that the employer reviewed the communications in the belief that they contained professional messages, since the applicant had provided solid arguments in this respect.
+
+<<3677.89;3682.01;en>>
+It follows that such access had therefore been legitimate.
+
+<<3682.01;3691.91;en>>
+As to the use of the transcript of the applicant's communications, it was a piece of evidence which the national courts correctly did not attach particular weight to.
+
+<<3691.91;3698.81;en>>
+Indeed, they relied on the transcript only to the extent that it proved the applicant's disciplinary breach.
+
+<<3698.81;3707.85;en>>
+There is absolutely no mention in their decisions of any particular circumstances that the applicant had communicated.
+
+<<3707.85;3722.21;en>>
+Both the domestic courts and the chamber held that it is not unreasonable for an employer to want to verify that the employees are completing their professional tasks during working hours.
+
+<<3722.21;3733.65;en>>
+In this respect, the probative material did not disclose any indication that the employer's monitoring was not limited in scope and proportionate.
+
+<<3733.65;3754.33;en>>
+Lastly, the national courts found that the applicant has not convincingly explained why he had used the internet for personal purposes, in spite of the clear regulations, the possible consequences of his conduct, and the proper warning, all well known by the applicant.
+
+<<3754.33;3770.05;en>>
+It is for these reasons above that the government strongly disagree with the dissenting opinion and the observations of the third party, ETUC, showing that the dismissal measure was not proportionate.
+
+<<3770.05;3781.85;en>>
+The government consider that the foundation for solid and functional interpersonal relationships in all areas of life is represented by trust.
+
+<<3781.85;3788.09;en>>
+As such, we choose the make of our cars based on the trust we have in the producer.
+
+<<3788.09;3795.73;en>>
+We order our lunch from a certain restaurant because we trust it is prepared properly, and so on.
+
+<<3795.73;3802.29;en>>
+Imagine if the car brake suddenly stops functioning, or if we get food poisoning after lunch.
+
+<<3802.29;3809.29;en>>
+It appears natural not to want to continue in those relationships due to the loss of trust.
+
+<<3809.29;3813.89;en>>
+We often provide another chance and request explanations.
+
+<<3813.89;3819.97;en>>
+It is also the case of the applicant's employer, who provided Mr. Barbulescu with the opportunity
+
+<<3819.97;3823.33;en>>
+to submit explanations for his conduct.
+
+<<3823.33;3833.41;en>>
+Had he revealed, for instance, reasons of personal problems or fatigue, the unfolding of the events might have been different.
+
+<<3833.41;3846.37;en>>
+Instead, the applicant made a choice of attitude which completely striped away any possibility for the work relationship to continue with benefits for both parties.
+
+<<3846.37;3856.31;en>>
+Under these circumstances, it seems reasonable for the employer to want to place his investment in the hands of other competent people which he trusts.
+
+<<3856.31;3861.25;en>>
+The decision of dismissal was adopted with proper observance of all legal provisions.
+
+<<3861.25;3873.59;en>>
+Otherwise, the national courts would have annulled it or modified it into a milder measure, as they had the possibility and the competence to do so, but for the reasons above, considered not to be the case.
+
+<<3873.59;3896.69;en>>
+As a final point, the government wished to address another issue flowing from the dissenting opinion and the observations of a third party, ETUC, proclaiming in essence that the complete ban of internet use in personal interest at the workplace is not reasonable, as internet needs to be regarded as a fundamental human right.
+
+<<3896.69;3918.77;en>>
+The government will not speculate on the recognition of internet as a distinct fundamental human right, nor will they ignore that its use as a means to impart or receive information or as a vehicle to modern forms of correspondence is covered by the exercise of other fundamental yet conditional human rights.
+
+<<3918.77;3940.29;en>>
+However, it needs not be omitted that the broad arguments supporting the proclamation above stem from provisions which were, in their vast majority, enacted or adopted after the events in question, which occurred in 2007, almost 10 years ago.
+
+<<3940.29;3945.73;en>>
+Back then, we had black and white mobile phones and we were playing Tetris or Snake.
+
+<<3945.73;3955.19;en>>
+Nowadays, we have smartphones with gigabytes of internet traffic and find that staying eight hours at work without internet access appears absurd.
+
+<<3955.19;3973.21;en>>
+As such, a correct assessment of the events should be performed not with regard to the current reality of 2016, but by evaluating the competing interests using the 2007 model scale.
+
+<<3973.21;3989.13;en>>
+As such, a ban to use internet for personal purposes during working hours from the employer's devices does not equate a lack of access to internet nowadays, given the present possibility to connect through individual means.
+
+<<3989.13;3994.05;en>>
+But most importantly, the present case is not about access to internet as a human right.
+
+<<3994.05;3996.23;en>>
+Mr. Barbulescu did not at any moment,
+
+<<3996.23;4003.49;en>>
+before or after his dismissal, complain about being denied access to internet and to the consequences of this denial.
+
+<<4003.49;4006.83;en>>
+Mr. Barbulescu did not challenge the internal regulations that
+
+<<4006.83;4014.69;en>>
+clearly stipulated the use of computer and internet, among other tools, only in a professional purpose.
+
+<<4014.69;4029.25;en>>
+The only thing this case is about is the abusive use, in total acknowledgment of the employer's internal rules, of a tool that was placed at his disposal only for work-related goals.
+
+<<4029.25;4032.73;en>>
+Mr. President, honorable judges, in order
+
+<<4032.73;4054.21;en>>
+to summarize on this last point of the pleading, the government recalled that, in the present case, the national framework enforced at the material time clearly regulated concrete safeguards and guarantees for the observance of the right in question, and also corresponding functional mechanisms for their enforcement.
+
+<<4054.21;4065.41;en>>
+The applicant chose to pursue only one of the instituted mechanism, and the remedy chosen was properly enforced by the national courts within fair hearings.
+
+<<4065.41;4104.85;en>>
+Accordingly, we respectfully ask the Grand Chamber, after taking note of the elements above, and after having regard to the fact that the four national judges held that the applicants' rights were not infringed, and also that six of the seven judges of the chamber reached the same conclusion, in spite of the absence of proof of proper warning, which is now present at the case, to hold that, in the case at hand, a fair balance between the competing private interest has been struck, and that there has been no violation of Article 8 of the Convention.
+
+<<4104.85;4104.85;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4107.23;4113.23;en>>
+Thank you very much Mr. Gavrilă. I thank both parties for their interventions.
+
+<<4113.73;4121.23;en>>
+And now I ask the judges of the Grand Chamber, I invite them to ask the parties the questions they may have.
+
+<<4121.23;4123.23;en>>
+I see Judge Ravarani, please.
+
+[[Judge;Georges Ravarani]]
+
+<<4125.71;4128.51;fr>>
+Merci, M. le Président.
+
+<<4128.71;4136.43;fr>>
+J'ai quelques questions factuelles qui s'adressent aux deux parties, mais en fait, plutôt à l'employeur qui n'est pas présent.
+
+<<4137.07;4141.71;fr>>
+Et il ne s'agit pas à proprement parler de questions, mais plutôt également de confirmations.
+
+<<4142.75;4158.27;fr>>
+Dans le mémoire du gouvernement, il est dit, et je cite, le 13 juillet 2007, dans le cadre de la procédure disciplinaire engagée par son employeur, le requérant lui-même déclara avoir ouvert le compte de massagerie pour fournir des conseils techniques aux clients de l'entreprise.
+
+<<4158.91;4166.91;fr>>
+Alors, ma question, qui était à l'initiative de la création des comptes Yahoo, professionnels et privés au sein de l'entreprise?
+
+<<4167.35;4172.63;fr>>
+Le requérant l'a-t-il fait de sa propre initiative ou y a-t-il été encouragé par l'employeur?
+
+<<4172.87;4188.07;fr>>
+Et dans cette suite, l'employeur était-il au courant de l'ouverture par le requérant de deux comptes dont l'un était privé et l'autre était professionnel, mais les deux fonctionnaient sur le matériel informatique de l'entreprise?
+
+<<4189.03;4190.11;fr>>
+Ca, c'est ma première question.
+
+<<4190.67;4209.23;fr>>
+La deuxième question, je me réfère au règlement d'ordre intérieur qui a été cité en partie dans le jugement, où il est dit, il est strictement interdit de troubler l'ordre et la discipline dans les cours de l'entreprise, et en particulier d'utiliser les ordinateurs, photocopieurs, téléphones, téléscripteurs, etc. à des fins personnelles.
+
+<<4209.23;4218.23;fr>>
+Par ailleurs, dans la note d'information circulée le 3 juillet 2007, il est dit, le temps passé dans l'entreprise doit être de qualité pour tout le monde.
+
+<<4218.43;4224.03;fr>>
+Venez au travail pour vous occuper des problèmes de la société, de votre travail, et non pas des problèmes privés.
+
+<<4224.23;4227.95;fr>>
+Ne passez pas votre temps à occuper les lignes Internet, téléphone, etc.
+
+<<4228.15;4235.03;fr>>
+Est-ce que les interdictions se rapportaient seulement à l'usage du matériel mis à disposition par l'employeur?
+
+<<4235.23;4249.43;fr>>
+Ou est-ce que l'interdiction a été générale, dans le sens qu'on ne devait même pas l'utiliser pendant les heures de travail, ses propres moyens de communication, si tant est qu'il en existait en 2007, comme des portables privés, etc.?
+
+<<4249.83;4257.83;fr>>
+Dans ce contexte, l'usage du compte personnel était-il autorisé ou toléré par l'employeur?
+
+<<4258.83;4260.71;fr>>
+Une dernière question qui était...
+
+<<4262.23;4267.83;fr>>
+Je crois qu'elle a déjà été répondue, mais une confirmation serait la bienvenue.
+
+<<4268.51;4279.91;fr>>
+Quel est le moment exact auquel l'employeur a imprimé les messages qu'il avait préalablement enregistrés avant ou après la déclaration du salarié qu'il s'agissait de messages professionnels?
+
+<<4279.91;4279.91;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4283.81;4286.89;fr>>
+Merci, madame la juge Karakaş.
+
+[[Judge;Işıl Karakaş]]
+
+<<4290.56;4292.56;fr>>
+Merci beaucoup, M. le Président.
+
+<<4292.76;4295.56;fr>>
+J'ai aussi une question factuelle.
+
+<<4295.76;4305.2;fr>>
+Le gouvernement a précisé que le requérant, lui-même a diffusé le contenu des messages pendant le procès, c'était pas l'employeur.
+
+<<4305.4;4314.6;fr>>
+Mais est-ce que les transcriptions des communications privées du requérant ont été rendues publiques déjà, je dirais, par l'employeur?
+
+<<4314.84;4322.04;fr>>
+C'est-à-dire, est-ce qu'il a divulgué ces communications aux collègues, aux salariés au sein de l'entreprise?
+
+<<4322.6;4332.64;fr>>
+Parce que le requérant a ce griffé au paragraphe 82 de ses observations, mais là, il manque de détails, il n'y a pas assez de précisions.
+
+<<4333.24;4358.12;fr>>
+Donc, moi, je dirais que, comme le gouvernement a dit, il y a une différence, bien sûr, entre l'enregistrement, l'examen et la vérification, et l'examen des messages par l'employeur, mais je dirais qu'il existe aussi une grande différence, une grande, importante différence entre la vérification et l'examen et la divulgation des messages au sein de l'article 8.
+
+<<4359.12;4368.64;fr>>
+Et donc, par rapport à ça, j'aimerais aussi savoir, et surtout par le requérant, est-ce que ce griffé a été soulevé devant les juridictions internes?
+
+<<4368.64;4368.64;fr>>
+Voila, merci beaucoup.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4371.39;4374.07;fr>>
+Merci beaucoup, madame la juge Nußberger.
+
+[[Judge;Angelika Nußberger]]
+
+<<4376.6;4377.62;en>>
+Thank you very much.
+
+<<4377.62;4379.9;en>>
+I also would have a factual question.
+
+<<4379.9;4397.38;en>>
+I understand that on 3rd July 2007, as is said in the observations of the government, paragraph 11, a company-wide notice was registered with the Bucharest office.
+
+<<4397.38;4402.22;en>>
+And then it was signed one by one by the employees.
+
+<<4402.22;4408.02;en>>
+I would like to understand the communication policy in this respect.
+
+<<4408.02;4410.02;en>>
+What does it mean it was registered?
+
+<<4410.02;4415.86;en>>
+And was it only a paper version that was given from hand to hand, one by the other?
+
+<<4415.86;4419.66;en>>
+Or was it also communicated electronically?
+
+<<4419.66;4423.86;en>>
+Or was it even put on the blackboard in the enterprise?
+
+<<4423.86;4441.5;en>>
+So how could the employees take notice of this note, just to understand, because we don't know this exactly when he knew it, between this period of 3rd July to 13th July.
+
+<<4441.5;4454.98;en>>
+And the second question I would have, as my colleague Judge Ravarani has said, we have these two parallel accounts, the personal account and the professional account.
+
+<<4454.98;4464.1;en>>
+And as they were parallel, I would like to understand the way of using it on the side of the employee.
+
+<<4464.1;4469.08;en>>
+Did he make a difference in using the personal account and the professional account?
+
+<<4469.08;4478.06;en>>
+And also for the employer, did the employer make a difference in monitoring the personal account and the professional account?
+
+<<4478.06;4478.1;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4480.3;4482.3;en>>
+Thank you very much, judge Potocki.
+
+[[Judge;André Potocki]]
+
+<<4486.3;4487.5;fr>>
+Merci, Monsieur le Président.
+
+<<4488.5;4506.54;fr>>
+Pour ma part, je voudrais revenir sur un argument présenté par le gouvernement défendeur et dont il nous dit qu'il est inspiré par les informations données par la Confédération européenne des syndicats parties tierces intervenantes.
+
+<<4507.62;4524.16;fr>>
+Si j'ai bien compris la position du gouvernement sur ce point, il y aurait trois niveaux d'intensité dans la surveillance qu'un employeur peut exercer à l'égard des communications passées par un employé.
+
+<<4525.36;4530.76;fr>>
+Le premier niveau, le plus bas, serait celui d'un simple contrôle des flux.
+
+<<4531.76;4536.16;fr>>
+Le nombre de communications, le temps passé dans ces communications, leur durée.
+
+<<4536.16;4570.36;fr>>
+Un niveau intermédiaire serait celui de l'interception de ces communications, mais sans accès à leur contenu, ces communications étant alors conservées, notamment pour réserver une preuve si nécessaire dans un contentieux ultérieur, ou pour interroger le salarié lui-même sur le caractère privé ou professionnel de ces conversations interceptées, mais non ouvertes.
+
+<<4570.36;4580.16;fr>>
+Le troisième niveau, le niveau ultime, serait celui de l'interception avec accès immédiat au contenu de ces échanges.
+
+<<4580.16;4636.16;fr>>
+Le gouvernement, si j'ai bien compris sa position, nous dit que, en réalité, dans cette affaire, l'employeur aurait pratiqué le niveau de surveillance intermédiaire, c'est-à-dire qu'il aurait noté que le flux des communications était, je mets des guillemets, suspect, qu'il aurait alors intercepté ces communications, ces messages, mais sans avoir accès à leur contenu, qu'il aurait ensuite interrogé le salarié, le requérant, sur leur nature professionnelle ou privée, et que ce n'est que parce que le requérant aurait répondu que ces communications étaient professionnelles, qu'il n'avait que des communications professionnelles, qu'il aurait alors accédé au contenu de ces informations.
+
+<<4636.16;4654.86;fr>>
+Je voudrais, d'une part, que le gouvernement me dise si j'ai bien compris cette argumentation et si elle est soutenue factuellement comme étant soit établie, soit probable, soit hypothétique.
+
+<<4654.86;4670.76;fr>>
+Et je voudrais que les conseils du requérant nous disent, sur le plan factuel, ce qu'ils pensent de cette analyse, et sur le plan juridique, à supposer qu'il en soit ainsi, comment réagissent-ils.
+
+<<4670.76;4672.06;fr>>
+Voilà ma question, Monsieur le Président.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4673.76;4676.16;fr>>
+Merci beaucoup, monsieur le juge Lemmens.
+
+[[Judge;Paul Lemmens]]
+
+<<4679.73;4680.77;en>>
+Thank you very much, I'd like to ask a first very simple question to the government, the government mentioned that there were some remedies that could have been exhausted by the applicant, does that mean that there is now a formal objection to the admissibility of the application based of non-exhaustion of these remedies.
+
+<<4709.73;4716.73;en>>
+And the second question is to both parties and it is of a factual nature and it is somewhat in the line of what my colleague Mr. Potocki has asked.
+
+<<4716.73;4728.73;en>>
+If I can see, or the government attached to its observations the charge showing the internet traffic.
+
+<<4728.73;4738.73;en>>
+And it shows that the applicant has had much more, made much more use of the internet than some other employees.
+
+<<4738.73;4744.73;en>>
+I don't know whether these are all the employees. I see that there are in total seven employees mentioned.
+
+<<4744.73;4755.73;en>>
+My question is, this actually prompted the disciplinary proceedings by the employer.
+
+<<4755.73;4767.73;en>>
+Was there also a rule on the excessive use of internet and in particular on the excessive use of Yahoo messenger by the employees?
+
+<<4767.73;4769.73;en>>
+Whether private or professional.
+
+<<4769.73;4778.73;en>>
+Was the use of the Yahoo messenger in itself something suspect within the firm?
+
+<<4778.73;4788.73;en>>
+Was this high use of the Yahoo messenger an indication that it was being used for private purposes?
+
+<<4788.73;4796.73;en>>
+And then I come a bit to the situation or the questions raised by my colleague.
+
+<<4796.73;4809.73;en>>
+If the high use of the Yahoo messenger was already an indication of a private use, why then still ask the applicant whether he used it for professional purposes?
+
+<<4809.73;4819.73;en>>
+I would like to, it's not, it's in fact a question to the employer, but I would like to know whether the parties have something to say about this.
+
+<<4819.73;4819.73;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4822.65;4825.05;en>>
+Thank you very much, judge Dedov please.
+
+[[Judge;Dmitry Dedov]]
+
+<<4832.87;4836.47;en>>
+I have a question to both parties.
+
+<<4836.47;4846.47;en>>
+You both said about legitimate expectations, and I understand both parties had legitimate expectations in this case.
+
+<<4846.47;4873.15;en>>
+And can we, and can you say that it is possible, instead of legitimate expectations of privacy, in some circumstances, or in the context of this case, this particular case, there could be legitimate expectations that the privacy could be limited, or even monitored?
+
+<<4873.15;4893.69;en>>
+And the second question is about the proportionality, whether the use of Internet for private correspondence was too much.
+
+<<4893.69;4906.13;en>>
+So it's not a quick question between the relatives, just the call for emergency, or that we have 45 pages of correspondence.
+
+<<4906.13;4915.69;en>>
+Isn't it too much for using, enjoying privacy in a working environment?
+
+<<4915.69;4943.83;en>>
+And the question to the government, whether there was also no proportionality enjoyed by the employer when monitoring without or with any cause, just because it was the equipment belonging to the company, that's all, or there was any cause for monitoring.
+
+<<4943.83;4953.43;en>>
+Or it is the case that we call as a mass surveillance case within the limits of working environment.
+
+<<4953.43;4953.43;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4956.57;4960.89;fr>>
+Maintenant, la cour va se retirer jusqu'à 11h00.
+
+<<4960.89;4968.93;fr>>
+Après quoi, les partis pourront présenter des brèves observations à réponse aux coupes les doigts et adverses et aux questions des juges.
+
+<<4968.93;4968.93;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<5433.83;5434.43;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<5475.12;5482.69;fr>>
+Vous en prie, asseyez-vous. L'audience est reprise et la parole est à Maître Domokos-Hâncu.
+
+<<5482.69;5483.69;fr>>
+Vous avez la parole, Maître.
+
+[[Applicant;AP1]]
+
+<<5491.31;5492.79;en>>
+Thank you.
+
+<<5492.79;5498.71;en>>
+I will start by addressing part of the state's arguments.
+
+<<5498.71;5504.03;en>>
+Firstly, I will touch upon the nature of the accounts.
+
+<<5504.03;5516.91;en>>
+As the majority failed to see, and as the state claims here today, the employer was not the owner of the instant messaging account.
+
+<<5516.91;5526.59;en>>
+Indeed, these accounts were opened following the employer's instruction in this respect.
+
+<<5526.59;5529.35;en>>
+But it is Mr. Barbulescu who firstly
+
+<<5529.35;5535.35;en>>
+accepted the terms and conditions of Yahoo Incorporated in his own name.
+
+<<5535.35;5540.33;en>>
+It is the single person who had the passwords to these accounts.
+
+<<5540.33;5549.19;en>>
+And basically, he was the sole owner of the account, not the employer.
+
+<<5549.19;5557.11;en>>
+But it's true the accounts were set up, were opened following the employer's instructions.
+
+<<5557.11;5565.07;en>>
+The state also touched the fact that we were not active in the criminal complaint.
+
+<<5565.07;5568.03;en>>
+Firstly, we filed a criminal complaint.
+
+<<5568.03;5577.59;en>>
+Secondly, generally, you would be proactive in a criminal investigation when you are called to be active.
+
+<<5577.59;5593.31;en>>
+Also, what the state fails to clearly state, that it took more than five years for the criminal investigation to come to a completely false understanding of the statement of facts.
+
+<<5593.31;5602.15;en>>
+How could they conclude after five years that his fiance and his brother worked for the same employer?
+
+<<5602.15;5603.55;en>>
+This is false.
+
+<<5603.55;5617.39;en>>
+Also, what the state failed to prove and to show is that the paper that was served after five years to Mr. Barbulescu had no reference to the fact
+
+<<5617.39;5621.15;en>>
+that he had any right to challenge it.
+
+<<5621.15;5624.63;en>>
+And he is by no means a lawyer.
+
+<<5624.63;5637.07;en>>
+And at any way, at that stage, he almost lost faith in any just reply from the state's authorities.
+
+<<5637.07;5641.95;en>>
+Also, the state talked about access to the internet.
+
+<<5641.95;5656.75;en>>
+As I've mentioned, access to the internet cannot be regarded as a right of the employer to be granted to the employee, but an extension of the fundamental human right to freedom of expression.
+
+<<5656.75;5672.87;en>>
+Also, what is crucial, and we need to go back to the first notice, Notice 3772, which is the notice that commenced the so-called disciplinary procedure.
+
+<<5672.87;5683.11;en>>
+This notice, at this preliminary stage of the disciplinary procedure, calls Mr. Barbulescu
+
+<<5683.11;5693.47;en>>
+to say why he used the internet and why he used the computer of the company for his personal use.
+
+<<5693.47;5701.83;en>>
+Now, the question is, how could the employer could have known at this stage that Mr. Barbulescu used
+
+<<5701.83;5708.21;en>>
+the company computer and internet connection for his personal interest?
+
+<<5708.21;5718.15;en>>
+How could they have known, even from reading the transcripts, that this is personal correspondence?
+
+<<5718.15;5742.31;en>>
+And this basically proves that the employer, even before commencing any disciplinary procedure, knew about the existence of such communication and knew about the personal nature of such communication.
+
+<<5742.31;5749.91;en>>
+This also proves that the employer's real intent to terminate Mr. Barbulescu's employment
+
+<<5749.91;5755.95;en>>
+existed even before accessing the so-called communication.
+
+<<5755.95;5765.79;en>>
+It also proves that there is any serious lack of any serious reason to substantiate the termination.
+
+<<5765.79;5773.47;en>>
+That, as my colleague said, was based on a pre-existing dispute over a working condition.
+
+<<5773.47;5788.59;en>>
+So that was the origin of the dispute, which led to the employer basically tarnishing Mr. Barbulescu's right to private life.
+
+<<5788.59;5801.19;en>>
+And this also led to the employer's need to secure evidence to substantiate the termination of Mr. Barbulescu's employment.
+
+<<5801.19;5811.59;en>>
+Also, you have asked how could have such communication be revealed.
+
+<<5811.59;5813.11;en>>
+It's simple.
+
+<<5813.11;5817.19;en>>
+In the company, there was only one printer.
+
+<<5817.19;5819.83;en>>
+The communication was printed.
+
+<<5819.83;5836.35;en>>
+This printer was in the invoicing department where other two employees worked, not the managers of the company, but two employers who handled the accountancy and invoicing department.
+
+<<5836.35;5848.23;en>>
+So basically, everything, every piece of paper that was printed in this company went through that printer, including this communication.
+
+<<5848.23;5855.79;en>>
+You have asked how could have the colleagues known about this communication.
+
+<<5855.79;5868.07;en>>
+Because it was printed there, and because it was other employees who accessed the correspondence and entrusted this correspondence to the managers.
+
+<<5868.07;5871.35;en>>
+And Mr. Barbulescu always complained,
+
+<<5871.35;5887.47;en>>
+and actually complained more about the fact that it became public among his colleagues that freely discussed the sensitive content that was included in this correspondence.
+
+<<5887.47;5898.87;en>>
+And on a final note, the state asked us to consider the level of development of modern ways of communication in 2007.
+
+<<5898.87;5906.63;en>>
+Yahoo Messenger, which was used in this case, had in 2007 more than 62 million users.
+
+<<5906.63;5913.19;en>>
+That was the level of development of instant messaging in 2007.
+
+<<5913.19;5914.43;en>>
+Thank you, and I will allow my colleague to continue.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5918.57;5921.57;en>>
+You have the floor.
+
+[[Applicant;AP2]]
+
+<<5921.57;5923.87;en>>
+Thank you.
+
+<<5923.87;5942.07;en>>
+In response to the questions for the judges, first question put by Judge Ravarani referred to the applicant declarations about the account.
+
+<<5942.07;5951.37;en>>
+The account was made following employer initiative in order for the applicant to stay online and be contacted by potential clients.
+
+<<5951.37;5955.57;en>>
+That's a fact.
+
+<<5955.57;5966.49;en>>
+And standing online, he was available for all person who can see it.
+
+<<5966.49;5972.17;en>>
+And such, he was contacted by his brother and his fiance.
+
+<<5972.17;5976.45;en>>
+Every conversation was started by these two person.
+
+<<5976.45;5980.13;en>>
+Non-conversation was started by the applicant.
+
+<<5980.13;5996.61;en>>
+And in the content of the conversation, there are occasions when he write, he must go to undergo his duties, his tasks.
+
+<<5996.61;6001.45;en>>
+And he cannot have a conversation.
+
+<<6001.45;6005.29;en>>
+Another point, the conversation are very short.
+
+<<6005.29;6008.01;en>>
+There are instant messages.
+
+<<6008.01;6010.21;en>>
+He's online.
+
+<<6010.21;6017.77;en>>
+Supposedly, he's at a window and somebody go in front of this window.
+
+<<6017.77;6020.01;en>>
+It's the same thing.
+
+<<6020.01;6023.97;en>>
+They ask him something and he respond.
+
+<<6023.97;6031.61;en>>
+There are no large object of these conversations.
+
+<<6031.61;6043.57;en>>
+Also, he was the owner of the account because he is a sole detainer of password.
+
+<<6043.57;6049.69;en>>
+And only he could access this account in a legal mode.
+
+<<6049.69;6066.53;en>>
+What the employer did was to spy this account, to use spyware program to interfere with his messaging.
+
+<<6074.41;6084.73;en>>
+The only justification for this interference was namely to terminate this contract.
+
+<<6084.73;6089.89;en>>
+There is no interest for the employer.
+
+<<6089.89;6094.05;en>>
+The employer never invoke.
+
+<<6094.05;6098.49;en>>
+They have an interest to control these communications.
+
+<<6098.49;6105.29;en>>
+And the graphics of these communications, we don't know if they are real.
+
+<<6105.29;6114.21;en>>
+There are a chart that was put at our disposition, but we don't know if this is real.
+
+<<6114.21;6118.21;en>>
+It could be counterfeit.
+
+<<6118.21;6122.81;en>>
+It may be did it for causa.
+
+<<6127.09;6131.97;en>>
+Asking to the question of Judge Karakas, we didn't know.
+
+<<6131.97;6137.33;en>>
+And the applicant didn't remember if the notice was communicated.
+
+<<6137.33;6143.53;en>>
+He has at some point a copy which is not signed.
+
+<<6143.53;6157.21;en>>
+Now in the procedure, the last stage of the procedure, the government send us a copy which has a signature of the applicant.
+
+<<6157.21;6159.81;en>>
+We don't know if this is real.
+
+<<6159.81;6164.57;en>>
+The applicant didn't remember if he signed this notice.
+
+<<6164.57;6177.09;en>>
+Only thing he is remember at some point he has this copy in his possession, but he didn't remember if he signed it.
+
+<<6177.09;6185.17;en>>
+We don't know how it was communicated or even if it was communicated to the employees.
+
+<<6185.17;6195.09;en>>
+It's a thing to remark that this notice was not signed by any of employees.
+
+<<6195.09;6199.89;en>>
+There are just the employees from Bucharest office who signed it.
+
+<<6199.89;6211.41;en>>
+And we thought it was on purpose to be used at some point after the applicant was dismissed.
+
+<<6217.05;6220.89;en>>
+Another question.
+
+<<6220.89;6223.57;en>>
+In the same mode, we don't have a date.
+
+<<6223.57;6230.45;en>>
+We don't know if it was signed.
+
+<<6230.45;6246.77;en>>
+Referring to the personal account, this is indeed a personal account which was a very short time opened on the computer of an employer.
+
+<<6246.77;6252.73;en>>
+And there are just six messages recorded on this account.
+
+<<6252.73;6255.01;en>>
+The employee didn't use this account.
+
+<<6255.01;6257.29;en>>
+It was by accident opened.
+
+<<6257.29;6275.53;en>>
+And these six messages demonstrate that, but also demonstrate that the employer did have not any refrain to record and to interfere with this content of these accounts.
+
+<<6275.53;6285.53;en>>
+Both accounts are, in fact, personal accounts because for both of them, the applicant have the password.
+
+<<6285.53;6288.17;en>>
+And it was the only one he has a password.
+
+<<6293.17;6303.77;en>>
+The interception, the question of Judge Potocki, the interception was purpose of termination.
+
+<<6303.77;6310.49;en>>
+We deem it was not an interest for an employer to make such interception.
+
+<<6310.49;6317.29;en>>
+The employer didn't say that Mr. Barbulescu
+
+<<6317.29;6325.41;en>>
+didn't accomplish his duty service assignment.
+
+<<6325.41;6341.33;en>>
+And he is an employee who was promoted constantly until the moment when he was in disagree with work condition and with his bosses.
+
+<<6347.61;6364.45;en>>
+There is no damage the employer sustained, and there is no damage the employer invoked like an interest to spy the whole internet account of Mr. Barbulescu.
+
+<<6364.45;6364.53;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<6367.03;6371.75;en>>
+Thank you very much. Now I call Mrs. Brumar on the floor, please.
+
+[[Government;GR1]]
+
+<<6373.21;6375.65;en>>
+Thank you, Mr. President.
+
+<<6375.65;6388.17;en>>
+In responding to the questions put by the honorable members of the court, as the applicant admitted, the account was created at his employer's request for professional purposes only.
+
+<<6388.17;6408.05;en>>
+The ban on using in the personal interest by the employees of offices facilities referred only to professional tools put at their disposal by the employer.
+
+<<6408.05;6418.13;en>>
+As such, computers and Internet connection were considered professional tools to be used only to perform working tasks.
+
+<<6418.13;6436.51;en>>
+That meant that you were entitled to use these facilities in your professional activity in work-related issues.
+
+<<6436.51;6444.73;en>>
+There is no indication that the employer was informed by the applicant on the existence of a personal Yahoo Messenger account.
+
+<<6444.73;6457.47;en>>
+The only account the employer could be considered to be aware of was the account that was created at his request.
+
+<<6457.47;6462.21;en>>
+The transcripts were printed on 13 July 2007.
+
+<<6462.21;6467.47;en>>
+The hour is not mentioned, and there is no indication of it in the domestic file.
+
+<<6467.47;6480.69;en>>
+But from the unfolding of the events and from the intermediate level type of monitoring that I will come back to, it can reasonably be concluded that the analysis was performed gradually.
+
+<<6480.69;6490.21;en>>
+This means that they were printed only after the first round of disciplinary proceedings.
+
+<<6490.21;6497.21;en>>
+No element in the case files indicate a prior disclosure.
+
+<<6497.21;6507.55;en>>
+It is with surprise that we've learned here today for the first time the applicant's explanation on what he considers to be a prior disclosure.
+
+<<6507.55;6511.39;en>>
+I do share a printer with my colleagues.
+
+<<6511.39;6535.95;en>>
+I find it rather difficult in just a glance or one minute to read 45 pages so as to have a clear perception of the content of the files printed and to be able to share the information with the colleagues.
+
+<<6535.95;6544.45;en>>
+So I consider that the explanation provided by the applicant today is not convincing.
+
+<<6544.45;6569.65;en>>
+As the graphics shows, the employer resorted to an intermediate level type of monitoring, controlling the traffic data consumption of all employees who had access to such facility in order to perform their tasks, not only the applicant.
+
+<<6569.65;6580.69;en>>
+The graphics show monitoring of the data, of the traffic data consumption for seven employees.
+
+<<6580.69;6596.65;en>>
+As the employees, as the employer explained in the domestic file, this monitoring was then read on the basis of the professional performance of the employees.
+
+<<6596.65;6613.29;en>>
+Only when large traffic data consumption not supported by an increase in sales or other similar results, they requested explanations and subsequently proceeded to the review of communications.
+
+<<6613.29;6619.83;en>>
+This was the unfolding of the events in the present case.
+
+<<6619.83;6627.55;en>>
+The employer only resorted to the review of communications when confronted with Mr.
+
+<<6627.55;6636.11;en>>
+Babulescu's firm affirmation on the professional nature of the communications.
+
+<<6636.11;6645.53;en>>
+It was not the use of Yahoo Messenger account that was considered suspicious.
+
+<<6645.53;6667.91;en>>
+It was the large discrepancy in internet traffic consumption without a proper reflection in the professional performance that made the employer search for further explanations of this situation.
+
+<<6667.91;6686.03;en>>
+As to the notification of the company-wide notice of 3 July 2007, I must admit that I am not aware of other forms of communication to the employees.
+
+<<6686.03;6714.09;en>>
+But what is certain is that it was acknowledged by all the employees in the Bucharest office that the signature, this means, or it might reasonably meant that each employee who signed read the notice and became aware of the information contained by it.
+
+<<6714.09;6727.31;en>>
+As the notice arrived through fax from Cluj headquarters on that day, the company-wide notice arrived to Cluj headquarters on that day.
+
+<<6727.31;6740.69;en>>
+And given the small numbers of employees in the Bucharest office, it is reasonably to consider that within hours the notice was disseminated through all Bucharest office.
+
+<<6740.69;6751.73;en>>
+The applicant was present at work as the presence should show on those days.
+
+<<6751.73;6760.37;en>>
+So he rapidly became aware of it.
+
+<<6760.37;6777.33;en>>
+The government would not raise at this stage, without ignoring the procedural requirements, a new exception of non-exhaustion of domestic remedies.
+
+<<6777.33;6811.33;en>>
+What the government wants to underline is that for the first time before the European Court, the applicant criticizes the alleged lack of protection of his personal data, the lack of effectivity of the criminal proceedings without at any moment before domestic authorities invoking these issues.
+
+<<6811.33;6836.65;en>>
+What the government meant is that for these reasons, that he did not give a proper opportunity to national authorities to examine these allegations, that they should not be taken into account in the analysis performed by the grand chamber.
+
+<<6836.65;6874.27;en>>
+As to the expectation of privacy, or the level of expectation of privacy that the present case is about, we believe that in the context, and given the particularities of the present case, the applicant, as the other employees of the private company, had no expectation of privacy when using offices facilities in personal interest.
+
+<<6874.27;6923.11;en>>
+This is why the case is not about recognizing or crystallizing the concept of internet as a component of a human right, but it's about the legal normal consequences drawn from a clear infringement of the employer's internal regulations that developed in the respect of the normative framework, its right to control the activity of the employees in fulfilling their professional tasks.
+
+<<6923.11;6926.03;en>>
+One last point, Mr. President.
+
+<<6926.03;6938.75;en>>
+The applicant, as his representatives stated here today, was, from the beginning, before the national authorities, assisted by a lawyer.
+
+<<6938.75;6994.71;en>>
+Therefore, we believe that aspects such as the fact that he was not aware of the existence of a remedy against the decision not to open criminal prosecution, or the fact that now he claims that he does not remember, or that graphics or the copy of the notice might be fake, we think that they are a little exaggerated and unfounded, as it is obviously a council's task to navigate its client through the normative framework.
+
+<<6994.71;6997.95;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<7000.39;7001.39;en>>
+Thank you very much.
+
+<<7001.39;7005.63;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<7005.63;7013.03;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<7013.03;7015.79;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<7015.79;7018.75;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<7018.75;7022.31;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<7022.31;7022.31;fr>>
+L'audience est levée.
+

@@ -1,0 +1,2150 @@
+[[Announcer;UNK]]
+
+<<8.04;8.64;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<48.19;49.37;en>>
+Please be seated.
+
+<<56.63;65.13;en>>
+I declare open the public hearing on the admissibility and merits in the case of Armani Da Silva against the United Kingdom.
+
+<<65.13;75.71;en>>
+The application was lodged with the court on the 21st of January 2008 under Article 34 of the Convention by a Brazilian national, Miss Patricia Armani Da Silva.
+
+<<75.71;82.99;en>>
+The application was allocated to the fourth section of the court pursuant to Rule 52, paragraph 1 of the Rules of Court.
+
+<<82.99;89.45;en>>
+The application was communicated to the government on the 28th of September 2010.
+
+<<89.45;103.19;en>>
+On the 14th of February 2011, the president of the court granted leave to the Equality and Human Rights Commission to submit written comments as a third party by virtue of Rule 44, paragraph 3 of the Rules of Court.
+
+<<103.19;110.69;en>>
+On the 9th of December 2014, the chamber decided to relinquish jurisdiction in favor of the Grand Chamber.
+
+<<110.69;117.11;en>>
+The United Kingdom government are represented by their agent, Mr. Paul McKell, assisted by Miss Clare Montgomery, QC
+
+<<117.11;120.65;en>>
+counsel, and by Mr. John Edwards, advisor.
+
+<<120.65;124.91;en>>
+The applicant is represented by Mr. Hugh Southey, QC,
+
+<<124.91;127.43;en>>
+and Miss Henrietta Hill, QC, counsel.
+
+<<127.43;132.15;en>>
+They are assisted by Mr. Adam Straw, Miss Harriet Wistrich,
+
+<<132.15;135.51;en>>
+and Miss Marcia Willis Stewart, advisors.
+
+<<135.51;141.11;en>>
+Members of the applicant's family and support group are also present.
+
+<<141.11;145.95;en>>
+I welcome the representatives in the name of the court.
+
+<<145.95;157.75;en>>
+In addition, I would like to welcome the delegation led by the Attorney General for Northern Ireland, the judges and prosecutors from Turkey, and the delegation of magistrates from Spain.
+
+<<157.75;164.23;en>>
+I also welcome the visiting groups of lawyers, including the Scottish Faculty of Advocates.
+
+<<164.23;173.03;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<173.03;179.45;en>>
+Miss Montgomery for the government will speak first, and then Mr. Southey for the applicant.
+
+<<179.45;194.11;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting to Turkish has been authorized for the benefit of a delegation of judges and prosecutors from Turkey attending this hearing.
+
+<<194.11;203.51;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<203.51;203.51;en>>
+I call Miss Montgomery.
+
+[[Government;GR1]]
+
+<<207.2;212.56;en>>
+Mr. President, members of the court, on 22nd of July, 2005,
+
+<<212.56;218.09;en>>
+an innocent man was shot dead by the police on his way to work in London.
+
+<<218.09;224.92;en>>
+His death was the result of a series of serious operational failures by the Metropolitan Police.
+
+<<224.92;229.16;en>>
+There is no doubt that his death could and should have been prevented.
+
+<<229.16;238.72;en>>
+The fight against terrorism is one in which all members of the Council of Europe are involved and is every bit as pressing today as it was in 2005.
+
+<<238.72;244.12;en>>
+But no innocent person should lose his or her life in the course of that fight.
+
+<<244.12;251.0;en>>
+The job of the police that day was to protect the lives of all members of the public in London.
+
+<<251.0;255.6;en>>
+But they failed Mr. de Menezes and, in turn, his family.
+
+<<255.6;265.44;en>>
+In presenting the United Kingdom submissions to you today, it's important to start by acknowledging, on behalf of the government, the terrible facts of the case.
+
+<<265.44;270.56;en>>
+The United Kingdom does not seek to evade responsibility for Mr. de Menezes' death.
+
+<<270.56;275.84;en>>
+He was killed by agents of the state for whom the government was responsible.
+
+<<275.84;295.51;en>>
+That responsibility has been publicly acknowledged, including through a payment of compensation to his family in settlement of a civil claim, which included a claim for the breach of Article 2, although we do not, for a moment, seek to suggest that such payment could ever begin to compensate the loss which they have suffered.
+
+<<295.51;300.86;en>>
+It's also important to start by defining what the case is and is not about.
+
+<<300.86;305.12;en>>
+It is not a case about the operational part of Article 2.
+
+<<305.12;309.48;en>>
+The applicant does not raise an Article 2 claim in respect to the police.
+
+<<309.48;316.3;en>>
+Her Article 2 claim against them, arising out of their conduct of the operation, has been resolved domestically.
+
+<<316.3;334.19;en>>
+Rather, she alleges a breach of the investigative part of Article 2, flowing from the actions of the Crown Prosecution Service, the CPS, in not prosecuting the individual police officers who killed her cousin, and the structure of the English law of self-defense.
+
+<<334.19;343.75;en>>
+It may be helpful to begin by recalling the steps which the United Kingdom took in the case in order to fulfill its Article 2 investigative obligation.
+
+<<343.75;350.88;en>>
+The death was investigated, in the first instance, by the Independent Police Complaints Commission, the IPCC.
+
+<<350.88;361.79;en>>
+This is an independent statutory body with its own staff and investigative powers, which is responsible, amongst other things, for investigating deaths involving the police.
+
+<<361.79;367.68;en>>
+The IPCC gathered and analyzed the evidence and produced two detailed reports.
+
+<<367.68;389.48;en>>
+And as the domestic courts have recently emphasized in a case involving the West Yorkshire police, their job is not to decide whether any police officer should face criminal charges or disciplinary charges, but to recommend potential charges for consideration by the CPS, or disciplinary charges for consideration by the police.
+
+<<389.48;393.68;en>>
+The IPCC made a number of recommendations.
+
+<<393.68;397.44;en>>
+The case was then reviewed by the CPS.
+
+<<397.44;414.31;en>>
+In very brief summary, the CPS was set up in 1985 in order to take charging decisions and to conduct criminal prosecutions in a way that is robustly independent from the police and any other state agency.
+
+<<414.31;417.39;en>>
+Before that, the police themselves did the task.
+
+<<417.39;427.41;en>>
+But since then, 1985, it was considered they did not provide sufficient independence, and the CPS are designed to secure independent oversight.
+
+<<427.41;436.24;en>>
+In this case, the decision was taken by an independent Crown prosecutor on advice from independent counsel after scrutiny of the evidence.
+
+<<436.24;441.08;en>>
+And the reasoning was set out in a detailed note.
+
+<<441.08;450.96;en>>
+Which brings me to the first complaint, which is that the process of dealing with the criminal charges was inconsistent with Article II.
+
+<<450.96;458.06;en>>
+There's no doubt that the prosecutorial decisions in this case were independent from any other part of the state.
+
+<<458.06;474.36;en>>
+But the complaint is that the CPS made the decision without having the power to test the oral evidence of the witnesses before taking their charging decision, or alternatively, that the decision should have been more intensively reviewed by a court.
+
+<<474.36;476.39;en>>
+The government make two points about this.
+
+<<476.39;485.24;en>>
+First, there's nothing in the convention to indicate that charging decisions must be taken by a court rather than an independent prosecuting body.
+
+<<485.24;494.12;en>>
+One important feature of this case, to which I'll return, is the fact that criminal justice systems vary widely throughout the Council of Europe.
+
+<<494.12;518.15;en>>
+Recognizing that diversity of legal tradition and respecting the fact that the convention must be a living instrument for states with differing legal institutions and traditions, the court has repeatedly refrained from dictating the manner in which offenses should be investigated or prosecuted, and from dictating substantive content of criminal laws or procedures.
+
+<<518.15;527.26;en>>
+The key requirement is that decisions on prosecution are taken by an independent, impartial decision maker following a thorough analysis of the evidence.
+
+<<527.26;538.96;en>>
+That does not dictate a particular form of procedure, and certainly does not dictate that the prosecution authorities must hear oral testimony of witnesses before taking a decision.
+
+<<538.96;547.63;en>>
+In the United Kingdom, as in other common law jurisdictions, such decisions are taken by an independent prosecutor on review of the papers.
+
+<<547.63;564.91;en>>
+In the case of a police killing, it must also be recalled that the CPS also have the benefit of the materials generated by the IPCC during its investigation, including transcripts of interviews that they have held with key witnesses and potential defendants.
+
+<<564.91;570.8;en>>
+Such a system, we submit, meets the requirement of Article II.
+
+<<570.8;576.12;en>>
+And the decisions by the CPS are also subject to review by the courts.
+
+<<576.12;595.19;en>>
+The applicant argues that such reviews are not intensive enough, but as the government has explained in its observations, the courts have applied particular scrutiny to such matters, well aware of the importance of judicial review as a remedy for a potential victim whose case is not being prosecuted.
+
+<<595.19;604.24;en>>
+And the courts will intervene where a decision not to prosecute is based on an error of law or is otherwise irrational or procedurally flawed.
+
+<<604.24;614.19;en>>
+This is a significant additional safeguard for victims of potential crime on top of the thorough and independent process conducted by the CPS.
+
+<<614.19;623.1;en>>
+In addition, since the decision in this case, the CPS have introduced a procedure entitled the Victims' Right to Review.
+
+<<623.1;634.36;en>>
+That gives effect to a decision in the English Court of Appeal and Article 11 of the EU Directive on the Rights, Support, and Protection of Victims of Crime.
+
+<<634.36;644.96;en>>
+This now allows victims of crime in cases where the CPS have decided not to bring charges or to discontinue or withdraw prosecutions to seek a review of that decision.
+
+<<644.96;656.84;en>>
+The review's first conducted by a local CPS office that made the original decision, and then the victim has the opportunity to seek an independent review from the CPS Appeals and Review Unit.
+
+<<656.84;664.67;en>>
+This provides an important additional safeguard in cases where allegations of criminal conduct have not led to prosecution.
+
+<<664.67;672.08;en>>
+Secondly, and most importantly, the applicant's argument must fail on the facts of this case.
+
+<<672.08;676.8;en>>
+In order to explain why, I must draw your attention to some more of the facts.
+
+<<676.8;685.88;en>>
+After the criminal proceedings had concluded, a lengthy inquest took place before a coroner, a high court judge, and a jury.
+
+<<685.88;695.71;en>>
+As the court will be aware in previous cases, in England and Wales, an inquest takes place in every case where a person has died a sudden or violent death.
+
+<<695.71;710.32;en>>
+The inquest in this case involved hearing oral evidence from every witness who could have had any relevance to a criminal prosecution, including every individual officer whom the applicant says should have been prosecuted.
+
+<<710.32;722.96;en>>
+At the end of the inquest, after reviewing the evidence and hearing detailed legal argument, the judge ruled that the verdict of unlawful killing should not be left to the jury.
+
+<<722.96;734.91;en>>
+The elements of that inquest verdict of unlawful killing are precisely the same as the elements of the crimes which the CPS had to consider in taking their decision on the criminal charges.
+
+<<734.91;746.24;en>>
+The judge's decision means that having heard all the witnesses cross-examined at length, he considered the evidence did not meet even the low standard for leaving the verdict to the jury.
+
+<<746.24;750.08;en>>
+I'll discuss the standard later when considering the applicant's other point.
+
+<<750.08;763.2;en>>
+But in the light of that decision, there is no prospect of a judge ruling that the evidence met the higher standard which applies when deciding whether to bring criminal charges.
+
+<<763.2;780.12;en>>
+The judge's ruling demonstrates conclusively that even if the decision on criminal charges had been taken by a judge and not the CPS after hearing oral evidence, the officers who killed Mr. de Menezes would not have been prosecuted.
+
+<<780.12;788.27;en>>
+The applicant's preferred process of decision-making could not have made any difference to the outcome.
+
+<<788.27;795.51;en>>
+The CPS also re-reviews a range of cases after the conclusion of any inquest.
+
+<<795.51;808.44;en>>
+These are where there's a verdict of unlawful killing or a narrative verdict, or where this coroner refers the case to the CPS, whether or not the CPS had previously considered it.
+
+<<808.44;817.28;en>>
+Any re-review assesses whether the initial charging decision should be altered in the light of the evidence which emerged during the inquest hearing.
+
+<<817.28;823.48;en>>
+Sometimes the review leads to a decision to bring charges where none had been previously contemplated.
+
+<<823.48;828.68;en>>
+This was the case recently in the case of the death of Mr. Ian Tomlinson, a man killed
+
+<<828.68;835.39;en>>
+by a police officer during demonstrations against the G20 meeting of governments in the City of London.
+
+<<835.39;843.36;en>>
+Before the inquest, the CPS took the view that the medical evidence did not link the death to the actions of the police.
+
+<<843.36;857.19;en>>
+However, after the inquest clarified the evidence and the jury returned a verdict of unlawful killing, the CPS reviewed the decision not to charge, and a police officer was prosecuted for manslaughter.
+
+<<857.19;873.48;en>>
+Other cases where the CPS has reversed the initial decision include the death of Jimmy Mbenga, who died following restraint by private security contractors while being deported, and Azelle Rodney, who was shot dead by police during an armed operation.
+
+<<873.48;878.03;en>>
+The CPS carried out such a review in this case.
+
+<<878.03;884.01;en>>
+So it's simply not right to say that decisions are taken by the CPS without the benefit of hearing the witnesses.
+
+<<884.01;897.91;en>>
+In a case where a person has been killed by state agents in the United Kingdom, the CPS's decision on criminal charges will be thoroughly reviewed after the inquest, in which the key witnesses have given oral evidence.
+
+<<897.91;906.6;en>>
+And in appropriate cases, the CPS will bring charges after an inquest where it had not previously thought that they were justified.
+
+<<906.6;915.79;en>>
+So the judge's ruling in the present case powerfully demonstrates why the CPS maintains its position in this case following its re-review.
+
+<<915.79;919.15;en>>
+Nothing happened at the inquest to change the position.
+
+<<919.15;928.07;en>>
+So even if the CPS had interviewed the witnesses itself, as the applicant suggests, they would have reached no different result.
+
+<<928.07;940.0;en>>
+The CPS can conduct interviews prior to a charging decision, but such interviews are no substitute for the testing of evidence in the courtroom, such as occurs in an inquest when the family are able to participate.
+
+<<943.55;950.43;en>>
+That brings me to the criminal trial, which did take place in October 2007.
+
+<<950.43;961.51;en>>
+In examining the reasons why the CPS decided not to bring certain charges, it's important to bear in mind that another very serious criminal charge was, in fact, brought.
+
+<<961.51;970.36;en>>
+At the same time as deciding no individuals should be prosecuted, the CPS was highly critical of the overall conduct of the Metropolitan Police.
+
+<<970.36;996.36;en>>
+It decided to prosecute the police force as a whole through the office of the Commissioner of the Police of the Metropolis for an offence under section 3 of the Health and Safety at Work Act, which imposes the duty on every employer to conduct his undertaking in such a way as to ensure, as far as reasonably practicable, that no person not in his employment who may be affected thereby is exposed to risk to their health and safety.
+
+<<996.36;1014.88;en>>
+Although it is enough for the prosecution to prove that members of the public were exposed to the mere possibility of danger, the danger identified in this criminal case was the risk of death and serious injury arising from the armed police operation.
+
+<<1014.88;1017.96;en>>
+The death of Mr. de Menezes was relied upon
+
+<<1017.96;1024.49;en>>
+as proving the fact that both danger and harm had resulted from the police failures.
+
+<<1024.49;1030.63;en>>
+It was the planning and conduct of the police operation that was under scrutiny in the trial.
+
+<<1030.63;1046.99;en>>
+And after a four-week criminal trial, the jury returned a guilty verdict, adding a right as their verdict to record that Detective Chief Superintendent Commander Dick bore no personal culpability for the events.
+
+<<1046.99;1054.36;en>>
+Now, the applicant complains that that prosecution was inadequate because it did not involve the prosecution of individuals.
+
+<<1054.36;1062.08;en>>
+But imagine the position if the two officers who fired the fatal shots had been prosecuted, but no other prosecution had been brought.
+
+<<1062.08;1074.78;en>>
+The applicant would then correctly argue that prosecuting the officers at the lowest end of the chain of command did not address the real failures of others higher up the chain.
+
+<<1074.78;1077.91;en>>
+Of course, each case turns on its own facts.
+
+<<1077.91;1082.7;en>>
+And in some cases, the appropriate defendant will be an individual officer or officers.
+
+<<1082.7;1087.68;en>>
+But in the present case, the government submits it would not have addressed the key issues in the case.
+
+<<1087.68;1095.26;en>>
+These issues of planning and execution were directly addressed in the criminal trial.
+
+<<1095.26;1100.91;en>>
+There is no reason under Article 2 why a prosecution, if appropriate, must be of individuals alone.
+
+<<1100.91;1112.84;en>>
+Indeed, there are many cases, and this is one of them, where prosecuting the last person in the chain of command would be utterly inadequate as a means of allocating criminal responsibility.
+
+<<1112.84;1116.47;en>>
+Mr. de Menezes' death arose in the course
+
+<<1116.47;1119.91;en>>
+of a complex police operation.
+
+<<1119.91;1125.63;en>>
+The officers who killed him were the last in a long chain of command.
+
+<<1125.63;1134.59;en>>
+The IPCC and the CPS identified serious failures at many levels of the operation, from the top downwards.
+
+<<1134.59;1141.19;en>>
+Yet the officer who conducted an unbalanced briefing for the firearms officers didn't cause his death.
+
+<<1141.19;1146.12;en>>
+The surveillance team, who did not stop Mr. de Menezes when he could be safely stopped,
+
+<<1146.12;1147.67;en>>
+did not cause his death.
+
+<<1147.67;1153.99;en>>
+The officer who failed to communicate his view, that Mr. de Menezes was not a suspect in the bombings
+
+<<1153.99;1156.67;en>>
+the day before, did not cause his death.
+
+<<1156.67;1161.47;en>>
+On any view, none of those acts or omissions could be said to be murder or manslaughter.
+
+<<1161.47;1164.67;en>>
+Yet all those failures added up.
+
+<<1164.67;1172.36;en>>
+They added up to a situation where the firearms officers who followed Mr. de Menezes into the carriage of the underground
+
+<<1172.36;1176.43;en>>
+train thought they were dealing with a suicide bomber.
+
+<<1176.43;1201.0;en>>
+The fact that they had that wrong belief and they ended up tackling him on a train crowded with commuters, in which if he had been a suicide bomber, shooting him dead would have been the only way to protect the lives of others around him, those two critical facts are the result of a series of errors earlier in the police operation.
+
+<<1201.0;1210.36;en>>
+In those circumstances, far from being apologetic about the decision to prosecute the Metropolitan Police, the government submits that that was the right thing to do.
+
+<<1210.36;1216.6;en>>
+The corporate charge captured the failings that led to this avoidable death.
+
+<<1216.6;1223.19;en>>
+It ensured that every link in the chain was subject to public scrutiny and eventually a criminal penalty.
+
+<<1223.19;1232.84;en>>
+The guilty verdict marked the jury's, and through them society's, condemnation of every aspect of this failed operation.
+
+<<1232.84;1245.13;en>>
+The term health and safety can be trivialised when contrasted with offences of murder, but the court must look at the substance of what it was prosecuted, not the label that is applied.
+
+<<1245.13;1248.48;en>>
+The criminal prosecution in this case was unprecedented.
+
+<<1248.48;1253.56;en>>
+Charge had never been used in connection with the death of a civilian in a police shooting before.
+
+<<1257.39;1264.56;en>>
+In addition, the criminal offence did not need to cite Article 2 in order to comply with it.
+
+<<1264.56;1273.99;en>>
+Although the wording of the offence does not specify a risk to life, in this case the focus of the trial was not merely on the creation of abstract risk.
+
+<<1273.99;1278.67;en>>
+The fact of the death was the central focus of the case.
+
+<<1278.67;1285.19;en>>
+The trial examined minutely the events which led up to it and held the police criminally responsible for it.
+
+<<1285.19;1290.6;en>>
+That's what Article 2 requires we submit.
+
+<<1290.6;1299.31;en>>
+The applicant's next complaint is the CPS applied too high an evidential threshold in deciding whether to prosecute.
+
+<<1299.31;1308.39;en>>
+As you've seen from the party's submissions, the CPS has to decide whether on the evidence before it there is a realistic prospect of conviction.
+
+<<1308.39;1317.43;en>>
+It's very important to start with an appreciation of what that means in practice, because the applicant and the intervener have mischaracterized the test.
+
+<<1317.43;1320.56;en>>
+They repeatedly describe it in mathematical terms.
+
+<<1320.56;1329.63;en>>
+They say it's a 51% rule that you prosecute if it's 51% in chance of conviction, and you don't if it's 49%.
+
+<<1329.63;1334.99;en>>
+But expressing the test in that way serves only to trivialize it and make it appear arbitrary.
+
+<<1334.99;1348.47;en>>
+As the CPS made clear in guidance issued as long ago as 1994, the CPS has always stated that weighing evidence and the public interest is not a precise science.
+
+<<1348.47;1364.23;en>>
+It's therefore misleading to talk in terms of percentages, particularly to a single percentage point, because it implies that we can give individual pieces of evidence an exact weight and then add them up to reach a decision about prosecution.
+
+<<1364.23;1377.23;en>>
+Crown prosecutors should continue to avoid using any expressions which could convey the impression that the decision-making process is susceptible to very precise numerical definition.
+
+<<1377.23;1391.23;en>>
+The courts, in considering the test, have described it in simple terms as requiring a prosecutor to ask whether, on balance, the evidence is sufficient to merit a conviction, taking into account what he knows about the defense case.
+
+<<1391.23;1397.84;en>>
+The test is clearly, therefore, not a bookmaker's test or an arbitrary mathematical threshold.
+
+<<1397.84;1400.32;en>>
+The CPS guidelines make that clear.
+
+<<1400.32;1401.72;en>>
+The test means what it says.
+
+<<1401.72;1408.36;en>>
+Taking all the evidence in the round, there must be a realistic prospect that the jury would convict.
+
+<<1408.36;1421.56;en>>
+In the government's observations, we set out how this test is applied throughout the common law world and some other countries and how it was carefully reviewed by the attorney general in 2003 following public consultation.
+
+<<1421.56;1434.52;en>>
+The attorney general specifically considered the possibility of a lower evidential test, and he noted that in the public response to the consultation paper which formed the basis for his review, there was little, if any, support for such an approach.
+
+<<1434.52;1442.44;en>>
+He rejected the suggestion of a lower test as unfair and incompatible with a consistent application of the principles of justice.
+
+<<1442.44;1453.93;en>>
+We invite you to review that material during your deliberations and give due weight, when applying the margin of appreciation, to the careful and principled consideration which the matter has been given.
+
+<<1453.93;1469.67;en>>
+If the applicant's argument is right and realistic prospect of conviction does not meet the requirements of Article II, it follows that Article II requires a charge of murder to be brought where there's no realistic prospect of a conviction, simply because the defendant is a police officer.
+
+<<1469.67;1474.89;en>>
+But it cannot be right for weak cases to be charged simply because they involve the police.
+
+<<1474.89;1481.55;en>>
+There's nothing in Article II to prevent a state from applying an evidential test when taking a decision on criminal charges.
+
+<<1481.55;1495.48;en>>
+The government submits that a test which prevail throughout the common law world and which has been previously reviewed and imposes only the modest requirement that there is a realistic prospect of conviction fully complies with the Article II investigative obligation.
+
+<<1495.48;1501.8;en>>
+There is no absolute obligation to prosecute every person who causes death, police officer or not.
+
+<<1501.8;1509.6;en>>
+The state obligation is to put in place an adequate legal framework and to prosecute inappropriate cases.
+
+<<1509.6;1515.08;en>>
+In arguing for a lower threshold, the applicant places great weight on what's called the Galbraith test.
+
+<<1515.08;1522.88;en>>
+This is a test which a judge applies at the end of the evidence in a criminal trial when deciding to leave the case to the jury for them to give a verdict.
+
+<<1522.88;1529.67;en>>
+In taking this decision, the judge considers whether the evidence is such that the jury properly directed could convict.
+
+<<1529.67;1535.41;en>>
+This is a low test, even lower than the modest requirement of realistic prospect of conviction.
+
+<<1535.41;1540.36;en>>
+The applicant argues it's illogical to have a higher test when deciding whether to bring a prosecution.
+
+<<1540.36;1548.02;en>>
+And she points out that it means that some prosecutions will not be brought, where if they had been, a judge would have left them to the jury.
+
+<<1548.02;1551.88;en>>
+This is theoretically possible, but in practice, rare.
+
+<<1551.88;1555.91;en>>
+But it's important to bear in mind that the present case doesn't fall into that category.
+
+<<1555.91;1568.52;en>>
+This is because, as I've explained, the High Court judge, who presided over the inquest and heard all the evidence, applied the Galbraith test and ruled that the verdict of unlawful killing could not be left to the jury.
+
+<<1568.52;1572.23;en>>
+So that is the answer to the point, as it applies to the facts of the case.
+
+<<1572.23;1574.35;en>>
+But the government would make a more general point.
+
+<<1574.35;1581.95;en>>
+We'd submit there's no illogicality in having a higher evidential threshold at the start of the prosecution than at the end of the case.
+
+<<1581.95;1590.83;en>>
+And the reason for that is that in a criminal trial in England, the jury has been historically the primary source of decision making.
+
+<<1590.83;1600.59;en>>
+So it is a fundamental constitutional principle that the facts in a criminal trial are decided by a jury made up of randomly selected members of the public.
+
+<<1600.6;1606.56;en>>
+And this underlines the need for a thorough, independent review of prosecutions before they are started.
+
+<<1606.56;1612.26;en>>
+Because once started, there is a presumption they will go through to the end.
+
+<<1612.26;1614.88;en>>
+Can I turn then finally to their complaint about self-defense and the content of the substantive law?
+
+[[JudgeP;Dean Spielmann]]
+
+<<1622.62;1627.68;en>>
+I'm sorry, we have a problem with the interpretation, so we have to sort this out.
+
+<<1627.68;1629.44;en>>
+Ah.
+
+<<1629.44;1630.64;en>>
+Yes.
+
+<<1630.64;1633.48;en>>
+Okay.
+
+<<1633.48;1634.98;en>>
+Miss Montgomery, you can continue.
+
+[[Government;GR1]]
+
+<<1637.32;1643.34;en>>
+So I was turning to deal with self-defense and the principle that applies under English law.
+
+<<1643.34;1646.06;en>>
+The police have no special power to use force.
+
+<<1646.06;1651.86;en>>
+They are known as citizens in uniform who traditionally don't even carry weapons.
+
+<<1651.86;1660.42;en>>
+Nowadays, there are specially trained officers who can be authorized to carry guns, but their carrying weapons gives them no special power to use them.
+
+<<1660.42;1665.34;en>>
+They must justify their use of force in exactly the same way as any other member of the public.
+
+<<1665.34;1673.86;en>>
+If anything, a higher standard of justification may be required, as this court found in the admissibility decision in Bennett.
+
+<<1673.86;1686.44;en>>
+The government submits that the subjection of police officers, even when engaged in counterterrorism operations, to the ordinary law of the land, demonstrates a powerful commitment to the values which underpin Article 2.
+
+<<1686.44;1698.3;en>>
+In any criminal trial, a police officer would have to bring themselves within the scope of legal justification and show that they used no more force than was strictly necessary and proportionate.
+
+<<1698.3;1701.38;en>>
+Otherwise, they would, like anyone else, be guilty of murder.
+
+<<1701.38;1707.1;en>>
+And the necessity and proportionality of the force they used is judged objectively.
+
+<<1707.1;1711.1;en>>
+The question is, on what facts should the use of force be judged?
+
+<<1711.1;1716.34;en>>
+Should they be the facts, as the defendant believed them to be, or the facts as they actually were?
+
+<<1716.34;1719.48;en>>
+What of the defendant who makes an honest mistake?
+
+<<1719.48;1725.32;en>>
+And that takes us to the heart of a long-running philosophical debate in criminal law.
+
+<<1725.32;1729.82;en>>
+The government's considered that in detail, so I can deal with it in summary.
+
+<<1729.82;1739.72;en>>
+English criminal law holds to the principle of subjectivism, which accords primacy to an individual's own state of mind at the time of the prohibited conduct.
+
+<<1739.72;1748.1;en>>
+Central to this is the belief principle, which judges a defendant according only to what he believed he was doing or risking.
+
+<<1748.1;1752.22;en>>
+This belief principle we submit is compatible with Article 2.
+
+<<1752.22;1764.24;en>>
+It means, in practice, that a person will be criminally liable for causing death, only where he's aware that in the circumstances, it is not necessary to use force in defense.
+
+<<1764.24;1779.24;en>>
+There's no suggestion in the court's consistent case law, McCann, Andronico, Giuliani, and Gaggio, and Italy most recently, that the defendant's honest belief must be supported by objectively established facts.
+
+<<1779.24;1784.46;en>>
+The court's case law requires that the belief must be based on something that provides a ground for the belief.
+
+<<1784.46;1795.22;en>>
+But an honest belief may be held for good reasons, even if objectively, another person might consider the belief to be irrational or based on faulty perceptions.
+
+<<1795.22;1799.46;en>>
+Nor does English law turn a blind eye to the unreasonableness of a belief.
+
+<<1799.46;1809.46;en>>
+If a belief is unreasonable, that will be an important factor when the CPS and the court decide whether or not the defendant may genuinely and honestly have held that belief.
+
+<<1809.46;1812.58;en>>
+And that principle is now embodied in statute.
+
+<<1812.58;1816.78;en>>
+But the law stops short of allowing, for example, the officers who killed Mr. de Menezes
+
+<<1816.78;1823.48;en>>
+to be tried for a murder on the basis of facts that they were not themselves aware of.
+
+<<1823.48;1828.3;en>>
+The government submit that this is a legitimate position and compatible with Article 2.
+
+<<1828.3;1837.34;en>>
+We also ask the court to note that evidence as to belief is not required in a case of gross negligence manslaughter, another extremely serious offense.
+
+<<1837.34;1839.94;en>>
+That is judged entirely objectively.
+
+<<1839.94;1845.98;en>>
+And the existence of the offense may be taken into account when considering deaths caused by the police.
+
+<<1845.98;1850.82;en>>
+The CPS considered that offense, as well as the offense of murder in this case.
+
+<<1850.82;1858.26;en>>
+And the applicant has not challenged the conclusion upheld by the court that there was insufficient evidence.
+
+<<1858.26;1863.74;en>>
+So by way of conclusion, we accept that this is a tragic case.
+
+<<1863.74;1871.08;en>>
+But there was no evidence, even on a prima facie basis, that would have justified the prosecution of any of the individuals concerned.
+
+<<1871.08;1878.8;en>>
+The proposal that the evidential test used by prosecutors should be changed would not have made any difference to the decisions that were made.
+
+<<1878.8;1882.54;en>>
+A change is therefore not justified on the facts of this case.
+
+<<1882.54;1889.72;en>>
+Any change would also mean that United Kingdom would be forced to prosecute cases, even when they are more likely than not to fail.
+
+<<1889.72;1894.44;en>>
+This cannot be necessary in order to satisfy Article 2.
+
+<<1894.44;1898.46;en>>
+The suggested changes to self-defense are also unnecessary.
+
+<<1898.46;1906.36;en>>
+The reasonableness of a law enforcement officer's belief is always relevant in a criminal case in deciding whether that belief was honestly held.
+
+<<1906.36;1916.1;en>>
+If the belief was honest but unreasonable, the officer remains liable to prosecution for gross negligence manslaughter, as well as under the civil law and for disciplinary proceedings.
+
+<<1916.1;1925.0;en>>
+Any change in the law would subvert the carefully developed law on self-defense that is used in the United Kingdom and throughout much of the common law world.
+
+<<1925.0;1931.66;en>>
+More importantly, perhaps most importantly, the proposal for change would have far-reaching and counterproductive effects.
+
+<<1931.66;1949.22;en>>
+If officers are liable to face prosecution, even when their use of force is legitimate based on their honest beliefs at the time, it would have a chilling effect on the willingness of officers to carry out essential duties where they may be required to react in the heat of a moment to avert danger to life.
+
+<<1949.22;1962.58;en>>
+The court should not impose this burden on law enforcement officers, where it may have profoundly detrimental effects on their ability to act in defense of their own lives, and more importantly, the lives of others.
+
+<<1962.58;1962.58;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1964.82;1968.06;en>>
+Thank you very much, Ms Montgomery. I call Mr Southey.
+
+[[Applicant;AP1]]
+
+<<1969.38;1973.06;en>>
+Mr. President, members of the court,
+
+<<1973.06;1978.78;en>>
+nation states possess the most draconian power, the power to kill.
+
+<<1978.78;1985.14;en>>
+However, if society is to tolerate the use of that power, there must be accountability.
+
+<<1985.14;1993.78;en>>
+In particular, people must have confidence that state agents who abuse that power will be held to account.
+
+<<1993.78;1998.9;en>>
+There are good reasons why state agents must be held to account.
+
+<<1998.9;2005.82;en>>
+Firstly, if agents believe they will not be held to account, standards will slip.
+
+<<2005.82;2012.82;en>>
+Secondly, if the public don't believe that agents are held to account, the rule of law will be undermined.
+
+<<2012.82;2019.3;en>>
+There will be a feeling that different standards apply to state agents.
+
+<<2019.3;2023.22;en>>
+That's the context in which this application must be viewed.
+
+<<2023.22;2031.22;en>>
+This is a case in which an entirely innocent man was deliberately shot by the agents of the state.
+
+<<2031.22;2039.38;en>>
+The factual background set out in the written submissions makes it clear that there are good reasons to be concerned about the legitimacy of the shooting.
+
+<<2039.38;2043.86;en>>
+You've heard more about that this morning from Ms. Montgomery.
+
+<<2043.86;2053.54;en>>
+The government accepts, in essence, that there were systemic organizational failures, but no individual has been prosecuted.
+
+<<2053.54;2057.74;en>>
+There was a prosecution of the Metropolitan Police as an organization, as you've heard.
+
+<<2057.74;2063.94;en>>
+However, that's different to an individual being prosecuted, because no individual has been held to account.
+
+<<2063.94;2072.42;en>>
+Even the commissioner of the police was not required to attend the trial in relation to health and safety.
+
+<<2072.42;2081.7;en>>
+In addition, I should add, the jury in the health and safety case was specifically directed that it should not consider the legality of the killing.
+
+<<2081.7;2092.02;en>>
+As a consequence, for example, the shooters and the passengers on the train where the killing took place did not give evidence at that trial.
+
+<<2092.02;2098.54;en>>
+Now, the background I've described, it's accepted, is not necessarily a violation of the Convention.
+
+<<2098.54;2102.82;en>>
+Our argument has never been that there must always be a prosecution.
+
+<<2102.82;2109.38;en>>
+As I will return to, our argument is and has always been there must be a prosecution where there is sufficient evidence.
+
+<<2109.38;2123.7;en>>
+However, the background that I've described in our submission is important, because it's a matter that means that close scrutiny is required of this application to ensure that the investigation hasn't allowed those who are guilty to escape.
+
+<<2123.7;2133.3;en>>
+I should add one other point about the need for scrutiny in light of a point made by the Equality and Human Rights Commission at paragraph 32 of its written submissions.
+
+<<2133.3;2146.3;en>>
+That is the fact that there has been no successful prosecution in England and Wales of a police officer involved in a shooting, even in cases in which a jury has delivered a verdict of unlawful killing at an inquest, since 1990.
+
+<<2146.3;2151.62;en>>
+And we argue that also calls into question the system in the United Kingdom.
+
+<<2151.62;2161.82;en>>
+Now, as I've already made clear to some extent, I should emphasise it's accepted that the obligations imposed by Article 2 do not require a particular result.
+
+<<2161.82;2165.34;en>>
+However, they do require a rigorous investigation.
+
+<<2165.34;2168.14;en>>
+And that's essentially what this case is about.
+
+<<2168.14;2172.58;en>>
+It's about whether the approach to the investigation has been sufficiently rigorous.
+
+<<2172.58;2186.58;en>>
+We will argue it's not been, in part because the test applied by the prosecution service means that there may have been no prosecution, despite there being sufficient evidence to permit a conviction.
+
+<<2186.58;2192.38;en>>
+Having started by putting the case in context, what I plan to do is address the following issues.
+
+<<2192.38;2199.82;en>>
+Firstly, I will argue that the test applied by the prosecution service is too high because it fails to ensure accountability.
+
+<<2199.82;2206.34;en>>
+People who would have been convicted avoid liability by not being prosecuted.
+
+<<2206.34;2216.02;en>>
+Secondly, I'll argue that the court that reviewed the prosecution decision compounded the problem by applying an inadequate standard of review.
+
+<<2216.02;2225.22;en>>
+Thirdly, I'll argue that the coroner's decision that there was insufficient evidence to justify a finding of unlawful killing does not undermine our arguments.
+
+<<2225.22;2230.98;en>>
+In part, that's because of the law applied in England and Wales in relation to self-defence.
+
+<<2230.98;2237.22;en>>
+Indeed, I'll argue that that law on its own is not compatible with Article 2.
+
+<<2237.22;2243.1;en>>
+And finally, I'll address very briefly the issue of disciplinary proceedings, given that the court has raised that.
+
+<<2243.1;2247.98;en>>
+In addressing those issues, there's clearly insufficient time to address the detail of the case law.
+
+<<2247.98;2251.18;en>>
+We have set that out at some length in the written pleadings.
+
+<<2251.18;2255.3;en>>
+However, we can supply any case law if needed.
+
+<<2255.3;2263.22;en>>
+Turning first to the test applied by the prosecution should explain first why we say that's significant.
+
+<<2263.22;2269.78;en>>
+There appears to be no dispute between the parties that Article 2 requires accountability.
+
+<<2269.78;2275.66;en>>
+Our basic complaint is that the prosecution test does not necessarily result in accountability.
+
+<<2275.66;2286.66;en>>
+That is because, and I don't think there's any real dispute about this, there can be cases where there is no prosecution of state agents, where there's sufficient evidence to result in a conviction.
+
+<<2286.66;2292.46;en>>
+Now, to make good that submission, I need to turn to the detail of the prosecution test.
+
+<<2292.46;2298.1;en>>
+There is very little dispute about the test to be applied.
+
+<<2298.1;2311.14;en>>
+However, in light of the dispute about the significance, what I'm going to do is go into some detail about the test applied by a judge when determining whether the case should be dismissed, and compare and the test applied by the prosecution service.
+
+<<2311.14;2314.5;en>>
+In doing that, I should make one point clear.
+
+<<2314.5;2320.7;en>>
+There is no dispute that unmeritorious cases should not result in a trial.
+
+<<2320.7;2336.86;en>>
+However, as I've already indicated, our basic dispute complaint is that the threshold applied by the prosecution service is higher than that applied by a trial judge, and as a result means that cases don't go to trial, even where there is sufficient evidence.
+
+<<2336.86;2344.5;en>>
+Now, under domestic law, the trial judge does protect defendants against prosecutions that lack merit.
+
+<<2344.5;2351.34;en>>
+Domestic law doesn't permit a jury to convict where there's insufficient evidence to properly convict.
+
+<<2351.34;2355.34;en>>
+That is what the trial judge does.
+
+<<2355.34;2361.22;en>>
+He withdraws cases from a jury where there is insufficient evidence.
+
+<<2361.22;2365.98;en>>
+The test, as the government accepts, is that set out in Galbraith.
+
+<<2365.98;2370.82;en>>
+The judge reviews the evidence to ensure there's sufficient evidence to permit a conviction.
+
+<<2370.82;2373.34;en>>
+It doesn't merely look at whether there's no evidence.
+
+<<2373.34;2400.02;en>>
+As the judgment in Galbraith makes clear, what the judge does, and I quote, where there is some evidence, but it's of a tenuous character, for example, because of inherent weaknesses or vagueness, or because it's inconsistent with other evidence, the judge can stop the case if they come to the conclusion, and I quote again, that the prosecution evidence taken at its highest is such that a jury properly directed could not properly convict upon it.
+
+<<2400.02;2402.7;en>>
+We can supply that authority if needed.
+
+<<2402.7;2407.18;en>>
+What that quote demonstrates is that there is an assessment of the quality of the evidence.
+
+<<2407.18;2412.38;en>>
+The case is halted if the evidence is so tenuous that it couldn't justify a conviction.
+
+<<2412.38;2420.06;en>>
+However, what the judge doesn't do is assess the credibility of oral evidence and where the jury could base a conviction on it.
+
+<<2420.06;2421.86;en>>
+There's good reason for that.
+
+<<2421.86;2426.18;en>>
+Domestic law has decided that credibility is best assessed by a jury.
+
+<<2426.18;2427.86;en>>
+Now, that's not surprising.
+
+<<2427.86;2438.82;en>>
+The assessment of credibility, we all know, is difficult, so it makes sense to bring together a number of ordinary people who use their disparate experiences to assess credibility.
+
+<<2438.82;2444.58;en>>
+All that demonstrates that there is a protection against unmeritorious cases going before a jury.
+
+<<2444.58;2451.98;en>>
+However, the test that's applied by the trial judge is one that leaves it for the jury to assess credibility.
+
+<<2451.98;2458.66;en>>
+The problem is that the prosecution service apply a significantly different test.
+
+<<2458.66;2461.86;en>>
+There is an important point I should make about that test.
+
+<<2461.86;2467.1;en>>
+The government talks about the test being whether there's a realistic prospect of conviction.
+
+<<2467.1;2475.78;en>>
+However, the government also accepts, in the detail of its written submissions, for example, paragraph 46, that that test is given a special meaning.
+
+<<2475.78;2481.26;en>>
+It requires a prosecutor to conclude that a conviction is more likely than not.
+
+<<2481.26;2489.26;en>>
+That means that there are cases that are not prosecuted because a conviction is possible, but less likely than a finding of guilt.
+
+<<2489.26;2491.42;en>>
+That doesn't appear to be disputed.
+
+<<2491.42;2504.1;en>>
+Indeed, paragraph 46, for example, of the government's written submissions, cite the policy document that my learned friend referred to this morning, stating that one shouldn't talk about percentages.
+
+<<2504.1;2513.26;en>>
+But that same document talks about it being reasonable to refer to the test as being whether a conviction is more likely than not.
+
+<<2513.26;2525.58;en>>
+Ultimately, the decision of the United Kingdom Supreme Court in Gujra, which is set out at paragraph 25 of the applicant's written submissions, makes it clear that the test is whether a prosecute...
+
+<<2525.58;2528.98;en>>
+that whether the odds of a prosecution are better than evens.
+
+<<2528.98;2535.94;en>>
+To explain, that is an English betting phrase that means that the prospects are greater than 50%.
+
+<<2535.94;2542.06;en>>
+The consequence of a requirement that the prospects of success must be greater than 50% are clear.
+
+<<2542.06;2553.34;en>>
+There will be cases where there's no prosecution, despite the fact that a trial judge would be required to permit the jury to determine guilt, and the defendant could be convicted.
+
+<<2553.34;2558.26;en>>
+The case would go to the jury because there's sufficient evidence to permit the jury to convict.
+
+<<2558.26;2563.74;en>>
+However, the application of the test means that the jury never gets to consider the case.
+
+<<2563.74;2570.18;en>>
+A case, for example, with a 30% prospects of success will not be prosecuted.
+
+<<2570.18;2582.62;en>>
+That's despite the fact there will still be a significant prospect of success and sufficient evidence to justify a conviction, because if there was insufficient evidence, there would be zero prospect of success.
+
+<<2582.62;2590.1;en>>
+It's also, despite the fact that there are obvious problems assessing how a jury will react to oral evidence.
+
+<<2590.1;2602.38;en>>
+I repeat, the key point about this test is it means there will be cases where a person is not convicted, despite the fact that the person could have been convicted if the case had proceeded to trial.
+
+<<2602.38;2607.74;en>>
+Now, the government argues that it should enjoy a wide margin of appreciation in this context.
+
+<<2607.74;2612.7;en>>
+That's not accepted in light of the importance of holding the state to account.
+
+<<2612.7;2620.1;en>>
+But more importantly, it's not accepted that there are states that apply such a high threshold.
+
+<<2620.1;2626.54;en>>
+Paragraph 36 of the applicants' written submissions sets out the approach in a range of states.
+
+<<2626.54;2638.26;en>>
+The key feature of these submissions is that they demonstrate that the UK applies a particular definition of a reasonable prospect of conviction.
+
+<<2638.26;2642.46;en>>
+That definition requires a conviction to be more likely than not.
+
+<<2642.46;2651.82;en>>
+Other states who refer to a reasonable prospect of success apply it as meaning merely that there is sufficient evidence to support a conviction.
+
+<<2651.82;2654.06;en>>
+Now, in the time, I can't go into greater detail.
+
+<<2654.06;2660.18;en>>
+However, I would ask the court to consider that aspect of the written submissions particularly carefully.
+
+<<2660.18;2668.02;en>>
+Now, the importance of the filter applied by the prosecution service is clear when one considers a case such as this.
+
+<<2668.02;2675.58;en>>
+A key issue in a case like this is whether the shooter held a genuine belief that the use of force was justified.
+
+<<2675.58;2680.62;en>>
+The assessment of that issue requires an assessment of the shooter's credibility.
+
+<<2680.62;2687.18;en>>
+However, it's difficult to see how it can be reliably conducted by a lawyer reviewing written statements.
+
+<<2687.18;2695.38;en>>
+How can a lawyer determine the conclusions that a jury will reach after the jury has heard cross-examination?
+
+<<2695.38;2702.26;en>>
+However, there will be no prosecution if the lawyer decides the prospects of success are less than 50%.
+
+<<2702.26;2711.66;en>>
+There is a serious risk in our submission that the filter prevented officers who were guilty of fatal offenses from being held to account.
+
+<<2711.66;2716.5;en>>
+I turn briefly to the role of the court in reviewing prosecution decisions.
+
+<<2716.5;2723.54;en>>
+The government rely on judicial review of the prosecution decision as an aspect of the investigation.
+
+<<2723.54;2735.98;en>>
+However, there is no dispute that the court's assessment of the prospects of a prosecution succeeding is limited to determining whether the prosecution service reached an irrational conclusion.
+
+<<2735.98;2737.86;en>>
+That is a high threshold.
+
+<<2737.86;2744.02;en>>
+The English courts are reluctant to conclude that an assessment of credibility is irrational.
+
+<<2744.02;2750.7;en>>
+They regard it as difficult to categorize a conclusion about the credibility of a witness as irrational.
+
+<<2750.7;2760.66;en>>
+There is no dispute that could mean that the administrative court could conclude that the prospects of success are significantly better than 50% had it determined the issue directly.
+
+<<2760.66;2770.62;en>>
+However, it will not intervene as it will conclude that it was open to the prosecution service to reach a different conclusion and conclude that the prosecution was less likely than not.
+
+<<2770.62;2780.58;en>>
+It's the combination of the tests applied by the prosecution standard, by the prosecution service, rather, and the standard of review that is particularly objectionable.
+
+<<2780.58;2786.74;en>>
+It means that the courts do not necessarily intervene in cases where there is a strong prospect of success.
+
+<<2786.74;2794.9;en>>
+As a consequence, the possibility of judicial review provides no real safeguard against strong cases not being prosecuted.
+
+<<2794.9;2811.42;en>>
+It means that there are cases where there will be sufficient evidence to justify a finding of guilt, where the person could have been convicted if the case had proceeded to trial, but where the domestic court will not intervene despite the fact it's of the opinion that there are strong prospects of success.
+
+<<2811.42;2816.66;en>>
+All of this means, in our submission, that there is a failure to carry out an effective investigation.
+
+<<2816.66;2820.34;en>>
+That's not about a failure to achieve a particular result.
+
+<<2820.34;2826.86;en>>
+It's about a failure to deploy evidence at trial where there's sufficient evidence to justify a conviction.
+
+<<2826.86;2838.78;en>>
+That, then, means I need to turn to the issue of whether this is material on the facts, despite the finding of the coroner that there was insufficient evidence, rather, to leave unlawful killing to the jury.
+
+<<2838.78;2850.02;en>>
+In that context, the first issue to be considered is the test that needs to be applied domestically when determining whether officers acted in self-defence.
+
+<<2850.02;2858.66;en>>
+The test for self-defence applied by the prosecution service and the coroner was critically different to that which this court applies.
+
+<<2858.66;2864.9;en>>
+This meant that the investigation did not satisfy the Article 2 procedural duty for two reasons.
+
+<<2864.9;2872.5;en>>
+Firstly, it failed to determine whether Mr de Menezes' killing was justified as required by the case law of this court.
+
+<<2872.5;2878.02;en>>
+In addition, it failed to hold firearms officers to account.
+
+<<2878.02;2883.98;en>>
+In our submission, there are two limbs to the self-defence test developed in the case law of this court.
+
+<<2883.98;2890.98;en>>
+The first limb is to ask whether the officers honestly believed there to be an imminent threat.
+
+<<2890.98;2896.62;en>>
+Now, that honest belief must be perceived for good reasons to be valid at the time.
+
+<<2896.62;2904.22;en>>
+That means that firearms officers must have good reasons in the circumstances as they perceive them to be for their belief.
+
+<<2904.22;2910.98;en>>
+The second limb is whether the force was absolutely necessary in response to the threat.
+
+<<2910.98;2914.82;en>>
+This case concerns the first, not the second limb.
+
+<<2914.82;2925.22;en>>
+That's important because some of the case law cited by the UK government, such as Bennett in the United Kingdom, is concerned with the second limb.
+
+<<2925.22;2931.98;en>>
+The approach of the prosecution service and the coroner was critically different to that of this court.
+
+<<2931.98;2945.7;en>>
+Under the domestic court, the officers had a defence if they honestly believed Mr de Menezes was an imminent threat, even if their belief was mistaken and that mistake was wholly unreasonable.
+
+<<2945.7;2950.02;en>>
+They need have no good reasons for their belief whatsoever.
+
+<<2950.02;2956.38;en>>
+I should make it clear, we don't argue that officers need to demonstrate there were in fact good reasons for their actions.
+
+<<2956.38;2964.7;en>>
+What we do argue is that there need to be good reasons for the actions of the officers on the basis of what was seen and known by them.
+
+<<2964.7;2969.58;en>>
+That's important because the UK government at times appears to argue we go further.
+
+<<2969.58;2980.7;en>>
+Now, the absence of any need for good reasons as a matter of domestic law is clear from the judgment of the Supreme Court in Ashley.
+
+<<2980.7;2990.18;en>>
+This makes it clear that in criminal law and therefore at an inquest, a defence can be based on an honest but unreasonable belief of threat.
+
+<<2990.18;3005.18;en>>
+In Ashley, it was said a person who honestly believes that he's in danger of an imminent deadly attack and responds violently in order to protect himself from that attack should be able to plead self-defence as an answer to a criminal charge.
+
+<<3005.18;3013.78;en>>
+It was also said that it does not matter whether his mistake has been, objectively speaking, a reasonable one for him to have made.
+
+<<3013.78;3017.58;en>>
+Again, we can supply a copy of that if necessary.
+
+<<3017.58;3023.38;en>>
+To the extent this is in dispute, which is unclear, the government identifies no authority to suggest this is wrong.
+
+<<3023.38;3034.5;en>>
+And of course, our submissions on this are supported by the intervener at paragraph 17 of their submissions, which we submit is important given the intervener's statutory role.
+
+<<3034.5;3037.78;en>>
+Now, the difference is well illustrated by the facts of this case.
+
+<<3040.9;3041.74;en>>
+Police...
+
+<<3048.26;3049.46;en>>
+Sorry.
+
+<<3049.46;3063.1;en>>
+Turning to the difference between the court's case law and the domestic case law on the facts of this case, police shooting cases are the most serious cases because they involve a deliberate use of lethal force.
+
+<<3063.1;3069.34;en>>
+However, almost all of those cases are likely to involve officers arguing they acted in self-defence.
+
+<<3069.34;3072.14;en>>
+This is precisely what happened in this case.
+
+<<3072.14;3077.54;en>>
+Proving that the officers were lying about their honest belief is inherently difficult.
+
+<<3077.54;3083.14;en>>
+That prevents consideration of issues such as whether there was any justification for the belief.
+
+<<3083.14;3089.86;en>>
+Applying domestic law, the coroner's and DPP's approach had to be that the officers' perception of Mr. Domenes'
+
+<<3089.86;3091.3;en>>
+was determinative.
+
+<<3091.3;3095.74;en>>
+The officers needed to have no good reason for their belief that force was justified.
+
+<<3095.74;3101.54;en>>
+All they had to show was that it was possible they honestly believed Mr. Domenes' was a threat.
+
+<<3101.54;3104.9;en>>
+If so, the shooting was lawful under domestic law.
+
+<<3104.9;3113.1;en>>
+The injustice of this is clear not just in this case, it's also clear from a well-known recent example of a police shooting in the US.
+
+<<3113.1;3117.04;en>>
+The court is likely to have seen the video of the shooting of Walter Scott.
+
+<<3117.04;3122.82;en>>
+He was a black American shot in the back by a police officer in North Carolina.
+
+<<3122.82;3131.06;en>>
+From the video, it would appear there can be no objective justification for that shooting on the basis that the officer would have seen a man running away.
+
+<<3131.06;3140.74;en>>
+However, English law would provide a defense if the officer was able to argue that he had an honest belief he was under threat.
+
+<<3140.74;3144.5;en>>
+The approach in domestic law is important for two reasons.
+
+<<3144.5;3150.02;en>>
+Firstly, it explains why it can be difficult to obtain sufficient evidence in a case like this.
+
+<<3150.02;3157.38;en>>
+How can the prosecution prove that an officer is not telling the truth when he says he has an honest but mistaken belief?
+
+<<3157.38;3165.1;en>>
+That explains why the test applied when considering self-defense is relevant to the coroner's decision.
+
+<<3165.1;3172.9;en>>
+In this case, there was a real issue whether there was an objective justification for the shooting on the basis of what would have been seen.
+
+<<3172.9;3175.46;en>>
+For example, the clothing worn by Mr. Domenes
+
+<<3175.46;3180.38;en>>
+was not of a bulky nature as might have been expected in the case of a suicide bomber.
+
+<<3180.38;3183.82;en>>
+However, proving the officers were lying was difficult.
+
+<<3183.82;3189.1;en>>
+As a consequence, it was difficult to show there was sufficient evidence to leave the matter to the jury.
+
+<<3189.1;3198.18;en>>
+Overall, the result of this is that state agents will be able to avoid accountability despite the absence of objective justification for their actions.
+
+<<3198.18;3214.7;en>>
+Secondly, but linked to the point just made, we argue that domestic court approach is incompatible with the requirements of Article 2 in light of the case law, because that case law demonstrates that it's not acceptable to have such a subjective test.
+
+<<3214.7;3223.68;en>>
+Our written submissions demonstrate how the case law from McCann onwards makes it clear that officers must have a good reason for an honest belief.
+
+<<3223.68;3231.44;en>>
+The case law set out at paragraph 130 onwards of the applicant's written submissions makes this clear.
+
+<<3231.44;3238.18;en>>
+I should add, we would also argue that there is good reason for that test in the court's case law.
+
+<<3238.18;3257.28;en>>
+It's intended, we would submit, to prohibit the reckless use of lethal force by police officers in circumstances in which they are intending to use potentially lethal force.
+
+<<3261.14;3272.82;en>>
+As a consequence of what I've just submitted, we do submit that the decision of the coroner is no answer to the applicant's complaints, because it was based on a legal test that's not compatible with Article 2.
+
+<<3272.82;3278.14;en>>
+It's a test that fails to hold state agents to account when they act without justification.
+
+<<3278.14;3284.3;en>>
+In addition, we submit that the investigation did not satisfy the Article 2 procedural duty.
+
+<<3284.3;3289.5;en>>
+That's because it failed to determine whether Mr. de Menezes' killing was justified
+
+<<3289.5;3291.46;en>>
+within the meaning of Article 2.
+
+<<3291.46;3296.14;en>>
+It did not ask whether the mistaken belief that Mr. de Menezes posed a threat
+
+<<3296.14;3298.54;en>>
+was based on good reasons.
+
+<<3298.54;3311.26;en>>
+Even if I'm wrong in relation to the law on self-defense, I would argue that there are other reasons why the conclusion of the coroner does not undermine the submissions I made about the prosecution test.
+
+<<3311.26;3315.98;en>>
+Firstly, the applicant has never accepted that the decision of the coroner was lawful.
+
+<<3315.98;3318.3;en>>
+I accept that wasn't challenged fully.
+
+<<3318.3;3323.42;en>>
+However, the problem with a judicial review is that it would merely have resulted in a second inquest.
+
+<<3323.42;3326.62;en>>
+That would not have resulted in a prosecution.
+
+<<3326.62;3342.1;en>>
+In addition, the judicial review suffered from the problem I've already identified, which is the reviewing court was reluctant, essentially, to conclude that a decision of a coroner was irrational.
+
+<<3342.1;3349.66;en>>
+The second point I'd make is that in any event, the prosecution conducted a subsequent independent review of the merits of the prosecution.
+
+<<3349.66;3354.3;en>>
+They did that applying the policy and law that I've addressed already.
+
+<<3354.3;3360.34;en>>
+And that decision, applying that policy and law, concluded that there was insufficient evidence.
+
+<<3360.34;3364.42;en>>
+It's that decision that prevented a prosecution.
+
+<<3364.42;3371.54;en>>
+Finally, there were offenses that were not considered by the coroner, which are potentially important, as they're intended to protect life.
+
+<<3371.54;3377.54;en>>
+For example, it's possible that individuals were guilty of health and safety offenses intended to protect life.
+
+<<3377.54;3386.38;en>>
+The decision to bring no prosecution for those offenses was based on the test that we argue is not compatible with Article 2.
+
+<<3386.38;3392.94;en>>
+There is a final issue raised by the court's questions, which is the extent to which disciplinary proceedings can fill the gap.
+
+<<3392.94;3398.06;en>>
+The starting point when considering that is the point I've already made at the start.
+
+<<3398.06;3404.94;en>>
+That is the fact that it is particularly important that state agents are held to account in this context.
+
+<<3404.94;3409.58;en>>
+There is an obvious difference between criminal proceedings and disciplinary proceedings.
+
+<<3409.58;3419.06;en>>
+A criminal conviction is essentially a finding that an individual has failed to comply with universal standards that we are all expected to comply with.
+
+<<3419.06;3427.5;en>>
+It results in sanctions, such as imprisonment, that are intended to reflect the seriousness of the contact.
+
+<<3427.5;3433.9;en>>
+In contrast, a finding of a disciplinary offense is essentially a finding that a person has failed to comply.
+
+<<3433.9;3434.9;en>>
+Excuse me again.
+
+<<3439.54;3448.66;en>>
+As I was saying, a finding of a disciplinary offense is essentially a finding that a person has failed to comply with the standards associated with a particular employment.
+
+<<3448.66;3454.42;en>>
+As a consequence, the sanctions for a disciplinary offense are essentially focused on suitability for employment.
+
+<<3458.02;3463.94;en>>
+These matters mean that disciplinary offenses do not achieve the objectives that I identified at the start.
+
+<<3471.3;3481.1;en>>
+Firstly, the need to ensure that the rule of law is maintained will be undermined if disciplinary offenses are pursued as an alternative to criminal proceedings.
+
+<<3481.1;3487.44;en>>
+That is because public perception will be that state agents are escaping appropriate justice.
+
+<<3487.44;3496.2;en>>
+In addition, the need to ensure deterrence will be undermined because sanctions are not sufficient.
+
+<<3496.2;3501.36;en>>
+There are other issues that arise in the particular context of England and Wales at the time of this case.
+
+<<3501.36;3504.94;en>>
+We would argue there was a lack of independence in relation to disciplinary proceedings.
+
+<<3504.94;3507.58;en>>
+There was an ability to avoid charges by retiring.
+
+<<3507.58;3510.26;en>>
+The proceedings were of a private nature.
+
+<<3510.26;3514.76;en>>
+Details of this are set out at paragraph 61 of the applicant's submissions.
+
+<<3514.76;3519.74;en>>
+However, the key point about disciplinary proceedings is that previously made.
+
+<<3519.74;3524.02;en>>
+Disciplinary proceedings do not reflect the seriousness of the issues.
+
+<<3524.02;3528.58;en>>
+I don't really think that's disputed by the UK government.
+
+<<3528.58;3544.9;en>>
+To conclude, in light of the submissions already made, we submit, firstly, the decision not to prosecute in this case applied a test that may have prevented a prosecution, despite there being sufficient evidence and the fact the jury could, in fact, have convicted.
+
+<<3544.9;3548.78;en>>
+The administrative court review of the decision compounds the problem.
+
+<<3548.78;3553.54;en>>
+That's because it did not determine whether there was sufficient evidence to justify a conviction.
+
+<<3553.54;3560.18;en>>
+The decision of the coroner that there was insufficient evidence does not mean that the approach of the prosecution service is immaterial.
+
+<<3560.18;3562.24;en>>
+We make that point for a range of reasons.
+
+<<3562.24;3571.98;en>>
+But the most important is that by merely considering whether the officers held an honest belief, he did not apply a legal test compatible with Article 2.
+
+<<3571.98;3580.7;en>>
+And we would also argue that that test, the test that was applied in relation to self-defense, is itself not compatible with Article 2.
+
+<<3580.7;3585.94;en>>
+And finally, we would argue that the possibility of disciplinary proceedings does not save matters.
+
+<<3585.94;3585.94;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3588.59;3596.77;en>>
+Thank you very much. I would like to invite the judges of the Grand Chamber to put any questions, if any, they may have to the party.
+
+<<3596.77;3596.77;en>>
+Judge Villiger.
+
+[[Judge;Mark Villiger]]
+
+<<3599.61;3600.37;en>>
+Thank you, President.
+
+<<3600.37;3602.89;en>>
+I have a question to both parties.
+
+<<3602.89;3618.13;en>>
+It concerns the issue of self-defense before us today, self-defense of the officers of the unit of SO19 who were deployed on 22nd of July, 2005, and who eventually killed Mr. de Menezes.
+
+<<3618.13;3622.53;en>>
+It concerns the briefing of these officers.
+
+<<3622.53;3630.33;en>>
+When they reported on 22nd of July, 2005, at 0745 to duty, they were briefed as follows.
+
+<<3630.33;3633.07;en>>
+I have this from the documents before us.
+
+<<3633.07;3639.23;en>>
+First, they were told that they might be required to use unusual tactics.
+
+<<3639.23;3641.77;en>>
+When asked for clarification, the briefing went on.
+
+<<3641.77;3656.37;en>>
+I quote from the documents, if they were deployed to intercept a subject and there was an opportunity to challenge, but the subject was noncompliant, a critical shot could be taken, end of quote.
+
+<<3656.37;3667.99;en>>
+My question concerns these instructions at the briefing, according to which the special firearms officers were instructed to shoot to kill, critical headshot.
+
+<<3667.99;3693.29;en>>
+I would like to know the party's views on whether this briefing, in fact, permitted the special firearms officers to differentiate, differentiate, to react proportionally, in particular, whether the special firearms officers could have employed less far-reaching means, namely nonlethal shots, which could have prevented the presumed suicide attack while not killing Mr de Menezes.
+
+<<3693.29;3693.29;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3696.26;3696.98;en>>
+Thank you very much, judge Pinto de Albuquerque.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<3702.0;3703.72;en>>
+Thank you, Mr. President.
+
+<<3703.72;3706.72;en>>
+My questions are to the government.
+
+<<3709.84;3746.78;en>>
+Is the UK government aware that Article 31c of the Rome Statute, which was, by the way, the subject of extensive negotiations, and is today considered as customary international law, is the UK government aware that this provision warrants that the person acts reasonably, I'm quoting from the provision, reasonably to defend himself or herself or another person and in a manner proportionate to the degree of real present danger to the person attacked or the third person?
+
+<<3746.78;3778.1;en>>
+Is the government of the UK aware of the UN basic principles on the use of force by law enforcement officials, which provide that intentional lethal use of firearms may only be made when strictly unavoidable in order to protect life and only when less extreme means are insufficient to achieve this objective, and that in any case, officials should exercise restraint in such use in proportion to the seriousness of the offense?
+
+<<3779.62;3798.12;en>>
+Is the UK government aware that the UN Code of Conduct for law enforcement officials, as well as the OSCE guidebook on the democratic policing, also require that self-defense be not only proportionate, but reasonable and unavoidable?
+
+<<3798.12;3827.46;en>>
+Final question, is the UK government aware of these universal standards, according to which the test for self-defense is based on a crucial, necessary, objective element of reasonableness of the belief of an imminent attack, or does the government of the UK consider that it is not bound by any of these universal standards, including those set by customary international law?
+
+<<3827.46;3827.46;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3832.59;3834.59;en>>
+Thank you very much.
+
+<<3834.59;3836.03;en>>
+The court will now...
+
+<<3836.03;3838.03;en>>
+Oh, sorry.
+
+<<3838.03;3839.03;en>>
+Judge Sicilianos.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<3843.11;3845.11;en>>
+Thank you very much, Mr. President.
+
+<<3845.19;3847.19;en>>
+I have one question to the government.
+
+<<3848.23;3852.07;en>>
+You repeatedly invoke the margin of appreciation doctrine.
+
+<<3853.21;3855.43;en>>
+Article 2 is an underrogable right.
+
+<<3855.43;3861.91;en>>
+Do you believe that margin of appreciation is applicable in relation to such a provision?
+
+<<3861.91;3865.15;en>>
+And if yes, to which extent?
+
+<<3865.15;3865.15;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3866.44;3869.36;en>>
+Thank you, Judge López Guerra.
+
+[[Judge;Luis López Guerra]]
+
+<<3874.34;3895.57;en>>
+My question to both parties concerns the application presented to the High Court by the applicant for judicial review of the initial decision of the director of public prosecution, the decision not to prosecute any individual police officer. The High Court, a division of High
+
+<<3895.57;3919.57;en>>
+Court, based its dismissal of this application on the so-called Manning test, derived from the case R versus the director of public prosecution, Ex parte Manning, which seems to have been decisive in this case. According to this case law in Manning, a court would accord great
+
+<<3919.57;3925.57;en>>
+weight to the judgment of experienced prosecutors concerning prosecution decisions.
+
+<<3925.57;3939.57;en>>
+Now, my question is, up to what point does this Manning case law represent an impediment or a strong difficulty for the courts to review DPP decisions? Is there a presumption in favor
+
+<<3939.57;3946.57;en>>
+of the DPP decisions? In that case, what is the extent, what is the intensity of this
+
+<<3953.22;3960.22;en>>
+presumption? Up to what point in practice the courts are bound to follow the DPP initial
+
+<<3960.22;3966.22;en>>
+decision to prosecute, or, as is the case here, not to prosecute? What is the strength
+
+<<3966.22;3969.22;en>>
+of this presumption? Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3977.51;3979.39;en>>
+Thank you.
+
+<<3979.39;3986.39;en>>
+I have a question concerning to both parties concerning the criminal trial in 2007.
+
+<<3986.39;3993.39;en>>
+So the trial brought against the Metropolitan Police as a separate entity.
+
+<<3993.91;4009.91;en>>
+No individual has been prosecuted and I would like to have more details concerning why under English law it was not possible to prosecute individuals.
+
+<<4009.91;4017.91;en>>
+Is it related to the causal link or are there any other reasons if maybe both parties could elaborate on that?
+
+<<4017.91;4019.91;en>>
+Thank you very much.
+
+<<4019.91;4037.91;en>>
+So if there are no other further questions, the Court will rise for 30 minutes following which the parties will return for a second round of short pleadings to respond to the submissions in the first round and to answer also the judges' questions.
+
+[[Announcer;UNK]]
+
+<<4108.68;4109.28;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4145.64;4149.68;en>>
+Please be seated, the hearing is resumed.
+
+<<4149.68;4151.4;en>>
+I give the floor to Ms. Montgomery.
+
+[[Government;GR1]]
+
+<<4156.35;4157.79;en>>
+Mr. President, members of the court,
+
+<<4157.79;4173.87;en>>
+may I start, perhaps, with a question that was posed and suggested that the UK government's position was that some sort of margin appreciation ought to apply to the primary obligation under Article 2.
+
+<<4173.87;4177.07;en>>
+That is not the submission of the government.
+
+<<4177.07;4184.23;en>>
+Obviously, those are unqualified rights, and we do not suggest any qualification by way of margin is appropriate.
+
+<<4184.23;4194.39;en>>
+Where the margin of appreciation is relevant is in relation to the investigative obligation, because, as Mr. Savvy has already indicated,
+
+<<4194.39;4197.47;en>>
+it is an obligation of means rather than results.
+
+<<4197.47;4208.79;en>>
+And clearly, the way in which an investigative obligation is respected and enforced in any member state will vary according to the system employed in that member state.
+
+<<4208.79;4230.67;en>>
+And we would respectfully suggest that choices such as whether there is an examining judge who hears witnesses, or, as in the UK, an independent CPS prosecutor who doesn't hear witnesses, that is a matter for the national authorities, provided the means are sufficient to ensure the investigative obligation is met.
+
+<<4230.67;4236.15;en>>
+So that's the only claim that we make to any margin of appreciation.
+
+<<4236.15;4252.31;en>>
+What is important is there should be independent, impartial, and detailed scrutiny at each stage, at finding the facts, at determining what proceedings should be brought, and in reviewing any of those decisions if decisions are made not to prosecute.
+
+<<4252.31;4259.99;en>>
+And all of those are provided by independent bodies in the English system.
+
+<<4259.99;4280.67;en>>
+So can I turn, then, please, to deal with the standard of the CPS decision-making, and also to deal with the question posed by the president and by the Spanish judge in relation to both the decision-making by the CPS and the review by the administrative court.
+
+<<4280.67;4301.83;en>>
+The difference between the two parties is the applicant would wish there to be a prosecution in all cases, other than where the evidence, even taken at its very highest, could not lawfully end in a conviction, because that is the Galbraith test.
+
+<<4301.83;4320.35;en>>
+I believe that most right-thinking people would recognize that cannot be the prescription for what cases should go to court, because it would mean that cases that, objectively, will obviously fail, but nevertheless, when the evidence is taken at its very highest, might possibly be believed, would go to court.
+
+<<4320.35;4322.59;en>>
+They would result in a very low conviction rate.
+
+<<4322.59;4345.47;en>>
+And as the English court see it, it would undermine the confidence of the British people in the system of justice if there were a constant stream of prosecutions that failed, leaving aside, for the moment, the question of cost to both defense and prosecution in following a process where every case, no matter what its merits, were brought to trial.
+
+<<4345.47;4359.19;en>>
+We submit that determining whether a case is objectively can be said to have a reasonable prospect of conviction is the appropriate point at which to draw the line.
+
+<<4359.19;4363.11;en>>
+There has to be a limit, and the issue is where that limit should be set.
+
+<<4363.11;4368.11;en>>
+And that is the considered view of the United Kingdom.
+
+<<4368.11;4385.55;en>>
+In fact, as I will hope to demonstrate, many of the decisions were not taken because the decision not to prosecute individuals was at that point on the line, but often because of problems about proving, even to a basic standard, the elements of the offense.
+
+<<4385.55;4387.95;en>>
+So the president asked for an explanation.
+
+<<4387.95;4394.63;en>>
+There is a detailed explanation in the decision of the court, the administrative court in the United Kingdom, which is available.
+
+<<4394.63;4398.61;en>>
+So if I paraphrase because of pressure of time, you'll forgive me.
+
+<<4398.61;4409.55;en>>
+But effectively, in relation to murder and manslaughter, there were problems of causation for anyone further up the chain of command than the two officers who shot Mr.
+
+<<4409.55;4410.67;en>>
+de Menezes.
+
+<<4410.67;4415.63;en>>
+So they could not be prosecuted for murder or manslaughter.
+
+<<4415.63;4429.47;en>>
+There was an issue in relation to gross negligence manslaughter in relation to people lower down the chain because they couldn't be said to have taken on a duty of care because they weren't in command of the operation.
+
+<<4429.47;4438.83;en>>
+Those who were in the command of the operation, Commissioner Dick and above, were recognized as having that duty of care.
+
+<<4438.83;4445.99;en>>
+But it was considered, because of the circumstances, both the senior officers in command had had virtually no sleep.
+
+<<4445.99;4448.47;en>>
+I'm sure the court's familiar with the background.
+
+<<4448.47;4451.43;en>>
+52 people had been killed on the 7th of July.
+
+<<4451.43;4459.59;en>>
+On the 21st of July, the day before this event, four bombs had been set in tube trains and buses.
+
+<<4459.59;4465.51;en>>
+And there was a hunt on for the four men who'd placed them, which was what led eventually to this tragic event.
+
+<<4465.51;4470.03;en>>
+So there was huge operational pressure, particularly on the senior police officers.
+
+<<4470.03;4477.31;en>>
+And the view was taken that, although they were recognized as having a duty of care to Mr. de Menezes and other Londoners,
+
+<<4477.31;4489.99;en>>
+their failings, given the context and the extreme nature of the pressures on them, would not be regarded as being sufficiently serious to meet the threshold of gross negligence manslaughter.
+
+<<4489.99;4499.43;en>>
+So effectively, none of those decisions were really being met by the answer, yes, there's some evidence, but it's not good enough to convict.
+
+<<4499.43;4508.19;en>>
+They were being met with problems that couldn't be solved because there was no evidence, for example, to fill the gap on causation.
+
+<<4508.19;4522.31;en>>
+So far as the shooting officers themselves are concerned, the assessment was as to whether a jury properly directed could be satisfied that they had not had the honest belief that he was a suicide bomber.
+
+<<4522.31;4529.63;en>>
+And in relation to that, there was a wealth of situational material which suggested they did so believe.
+
+<<4529.63;4537.07;en>>
+They would not have shot him in the way they did, with the frequency that they did, if they had not believed he was a suicide bomber.
+
+<<4537.07;4542.91;en>>
+They patted themselves down afterwards because they couldn't believe that nothing had blown up.
+
+<<4542.91;4552.19;en>>
+The way in which they reacted, both coming into the station and leaving it, also provided strong support for the idea that they thought the man was a suicide bomber.
+
+<<4552.19;4578.67;en>>
+And for that reason, they decided that they had to kill him as quickly as possible in order to prevent him detonating the device that they believed they had with him, which is effectively why the CPS prosecutor looked at it and said, I do not think there's any realistic prospect of a jury deciding they didn't honestly believe he was a suicide bomber.
+
+<<4578.67;4592.83;en>>
+And looking at it objectively, if that was their belief, then no lesser means of violence would be capable of extinguishing the threat to them, but more particularly to the other people in the railway carriage.
+
+<<4592.83;4603.27;en>>
+You couldn't shoot him in the arm or inflict some lesser injury because there remained the possibility, for technical reasons, for a bomb to be detonated.
+
+<<4603.27;4604.95;en>>
+So that was the first set of decisions.
+
+<<4604.95;4611.47;en>>
+The president will appreciate there was a second set of decisions after the inquest had heard the evidence.
+
+<<4611.47;4622.71;en>>
+And in relation to those second set of decisions, there was essentially the same reasoning, but bolstered by the fact that by then, the evidence had been heard.
+
+<<4622.71;4635.03;en>>
+And it was clear what, for example, the police officers would say under cross-examination, and bolstered also by the view of the very experienced inquest judge, that there was simply no evidence.
+
+<<4635.03;4643.11;en>>
+Again, no evidence, even taken at its highest, that any individual police officer had committed an act of murder or manslaughter.
+
+<<4643.11;4650.27;en>>
+The question of individual health and safety offenses runs into the same problem of causation.
+
+<<4650.27;4666.47;en>>
+What went wrong on the 22nd of July was a combination of failings from high to low, none of which were decisive in creating the possibility of harm, all of which together not only created the possibility of harm but led to the death.
+
+<<4666.47;4674.71;en>>
+And that is why, in relation to individuals, it was not possible to prosecute, whereas it was possible to prosecute the institution of the police.
+
+<<4677.59;4694.07;en>>
+So that then brings me just finally to deal with the question I was asked about DPP and Manning, and whether or not there is the possibility, as a result of that decision, of undue deference paid by the administrative court in a review of prosecutors.
+
+<<4694.07;4697.31;en>>
+Now, prosecutors don't just take decisions about evidence.
+
+<<4697.31;4699.31;en>>
+They take decisions about the public interest.
+
+<<4699.31;4704.79;en>>
+So there may be cases where there is evidence, but they decide the public interest doesn't warrant prosecutions.
+
+<<4704.79;4711.39;en>>
+And in those circumstances, there is a degree of deference because of that polycentric decision making.
+
+<<4711.39;4739.95;en>>
+But in relation to decisions on the evidential threshold, I can assure the court that in looking at the evidence and assessing whether the prosecutor's decision on its weight is reasonable, which is what the court does, and in looking at the law and deciding whether the prosecutor's approach to it is correct, the court will have, in the case of a death, a fully reasoned decision letter which explains the prosecutor's approach.
+
+<<4739.95;4755.83;en>>
+And so the court can not only make its own assessment of the evidence and the law and will do so, but it can also scrutinize, and it does with anxious care, the explanation given by the prosecutor for the decision that he's made.
+
+<<4755.83;4758.35;en>>
+And there is no deference in that process.
+
+<<4758.35;4770.67;en>>
+It will be scrutinized to determine whether or not it is either irrational or legally wrong or has left out of account some relevant factor that ought to have been taken into account.
+
+<<4776.07;4786.71;en>>
+In addition, of course, in this case, there was the review of the coroner's finding that there was no evidence to justify individual charges.
+
+<<4786.71;4789.61;en>>
+And in that case, again, there's no deference.
+
+<<4789.61;4803.07;en>>
+The court is simply doing its usual administrative review function without any sense of having to be predisposed to uphold a decision below.
+
+<<4803.07;4816.03;en>>
+And I should say, by way of comment, that although it is claimed that that decision, that there was no evidence, was not fully challenged because there was a concern there would have to be a second inquest, that is not a necessary outcome.
+
+<<4816.03;4818.81;en>>
+There would not have to have been a second inquest.
+
+<<4818.81;4830.47;en>>
+It would have been perfectly possible for the administrative court to say, no, the inquest was wrong to hold that there was no evidence of crime, but because it's not sought, we're not going to order a further inquest.
+
+<<4830.47;4835.99;en>>
+And the matter would then have gone to the CPS for their second decision.
+
+<<4835.99;4849.93;en>>
+So far as the remaining questions are concerned, that they deal both in the particular and in the abstract with questions that concern the beliefs of the officers.
+
+<<4849.93;4856.03;en>>
+The judge from Liechtenstein asked a question about the briefing that was given to the officers.
+
+<<4856.03;4869.75;en>>
+And we accept that it was, as was described in the criminal trial, an unbalanced briefing in that it referred to a critical shot and unusual tactics.
+
+<<4869.75;4872.59;en>>
+But there are a number of points that must be made.
+
+<<4872.59;4888.51;en>>
+Firstly, the briefing also contained, as is required by the law and the practice, a direction that force should only be used where absolutely necessary and only to the degree that was absolutely required.
+
+<<4888.51;4895.99;en>>
+Secondly, this was not a case in which a critical shot was ordered or unusual tactics were employed.
+
+<<4895.99;4912.71;en>>
+That was a reference to a pre-planned at that stage police operation to deal with a suicide bomber armed with a bomb in a public situation where there might be no other choice but to try and kill them in order to prevent them detonating the device.
+
+<<4912.71;4915.87;en>>
+But that program was not used.
+
+<<4915.87;4917.51;en>>
+The order was not given.
+
+<<4917.51;4919.03;en>>
+And the shooters did not rely on it.
+
+<<4919.03;4926.63;en>>
+The shooters did not say, we shot because we'd been ordered to do so or because we thought we'd been told to use unusual tactics.
+
+<<4926.63;4937.63;en>>
+They said, we shot because we thought it was the only way of stopping someone we now wrongly recognized but at the time believed was a suicide bomber with a suicide bomb.
+
+<<4940.87;4949.95;en>>
+So what I would say about the briefing is that it was fully reflected in the criminal trial.
+
+<<4949.95;4959.27;en>>
+That was one of the matters that were placed before the jury as demonstrating a lack of planning that led to the risk and to the death that eventuated.
+
+<<4962.95;4975.63;en>>
+We were then asked to address both the UN and International Codes of Conduct covering use of force by law enforcement officers as well as the Rome statute.
+
+<<4975.63;4990.33;en>>
+All of the obligations under the UN code and under the OSCE guidance are fully reflected in the training and briefing that is given to every firearms officer who carries a firearm in the course of his duty in the United Kingdom.
+
+<<4992.39;5000.97;en>>
+The national law, as was considered in Beniz, is applied to those officers.
+
+<<5000.97;5005.27;en>>
+Therefore, they're subject to the ordinary law of murder and manslaughter.
+
+<<5005.27;5011.39;en>>
+There is no separate offense in relation to a law enforcement officer using a weapon.
+
+<<5011.39;5018.39;en>>
+But that is not to say that a requirement for reasonable justification is absent.
+
+<<5018.39;5020.59;en>>
+It's present in two forms.
+
+<<5020.59;5038.31;en>>
+It's present essentially as a juristic element in the offense that the defense of self-defense only applies if reasonable force is used, such that it is absolutely necessary to meet what is believed to be the threat.
+
+<<5038.31;5054.43;en>>
+So there is no question of police officers being permitted, either by briefing or by the law, to shoot somebody dead if it would be sufficient for them to have a warning shot or have some less life-threatening attempt upon them.
+
+<<5054.43;5065.67;en>>
+Secondly, reasonableness plays an essential, evidential role in the question of belief as to threat.
+
+<<5065.67;5093.47;en>>
+Any person who asserts they believe they are subject to a threat will have the reasonableness of that belief examined and will have called against them, if necessary, in a criminal trial the facts that demonstrate that belief is either unjustified or, even worse, completely confounded by the facts as evidenced by the witnesses who speak of what happened.
+
+<<5093.47;5122.91;en>>
+And any person who asserts an honest belief in threat in circumstances where it is objectively unreasonable is likely to be prosecuted, because the very unreasonableness of the belief will provide a basis for a prosecutor saying, this is a case in which, objectively, the belief stated can't be supported, and therefore, there will have to be a case brought before the jury.
+
+<<5122.91;5148.79;en>>
+And as the court recognized in Bennett, that sort of assessment as to how reasonable the belief is will be affected by the fact you're dealing with trained firearms officers who should be in a position to make better judgments who have been trained in order to assess situations accurately for the purposes both of threat and the necessity for the use of lethal force.
+
+<<5148.79;5155.43;en>>
+And so it is a mistake to say that reasonableness plays no part in the defense of self-defense.
+
+<<5155.43;5159.51;en>>
+It plays an essential part in assessing the gravity of what is done.
+
+<<5159.51;5166.11;en>>
+It plays an equally essential, evidential part in assessing whether an honest belief is held.
+
+<<5166.11;5189.27;en>>
+And in our respectful submission, ever since McCann was decided in this court, and I know the president was a party to the decision, it has been recognized that the law of self-defense does not reflect precisely the terms of Article 2, but it is equally been recognized that the difference does not provide a substantial departure from the standards set by Article 2.
+
+<<5198.23;5211.67;en>>
+So our approach to this case is to say that a criminal offense was investigated and prosecuted.
+
+<<5211.67;5214.63;en>>
+It was prosecuted in the case of the police.
+
+<<5214.63;5225.95;en>>
+It was not prosecuted because there was, in the end, as held by the UK courts, no evidence, even taken at its highest, to justify individual prosecutions.
+
+<<5225.95;5241.23;en>>
+So this is becoming an abstract question as to what the CPS standards should be in assessing whether there should be a prosecution, rather than a concrete question founded on the facts of this case.
+
+<<5241.23;5249.59;en>>
+So far as the self-defense issue is concerned, there too, we would respectfully suggest that this is an abstract question.
+
+<<5249.59;5261.11;en>>
+The beliefs of the police officers, wrong though they were, were easily understandable and certainly rational, given the circumstances in which they found themselves.
+
+<<5261.11;5276.31;en>>
+So again, this is not a case which calls into question the idea that is propounded by the applicants that there is some significant failure to respect Article 2 in the fact that those police officers were not prosecuted.
+
+<<5276.31;5278.79;en>>
+They used lethal force, certainly.
+
+<<5278.79;5286.39;en>>
+But they used lethal force where, if they'd been right, that they were dealing with a suicide bomber, there was no other option.
+
+<<5286.39;5288.47;en>>
+There was no lesser force that could be used.
+
+<<5288.47;5292.71;en>>
+That is the problem that any state confronted with terrorism faces.
+
+<<5292.71;5293.63;en>>
+And that was the problem faced in this case.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5297.15;5301.95;en>>
+Thank you very much, Ms Montgomery. I give the floor to Mr. Southey.
+
+[[Applicant;AP1]]
+
+<<5306.64;5321.92;en>>
+President, members of the Court, can I deal firstly with the questions that were asked by members of the Court, and particularly the questions that were addressed to the applicant?
+
+<<5321.92;5332.88;en>>
+The first question that I wish to address is the question asked by the President, which is why, essentially, was it not possible to prosecute individuals? Now, perhaps not surprisingly,
+
+<<5332.88;5338.7;en>>
+our answer to that is, essentially, there were two problems. The first problem is the
+
+<<5338.7;5346.64;en>>
+high threshold applied by the prosecution. In that context, perhaps I can draw attention
+
+<<5346.64;5353.92;en>>
+to an example that may assist the Court. We, at paragraph 13 of our written submissions
+
+<<5353.92;5363.48;en>>
+before this hearing, drew attention to the prosecution decision in relation to D.A.C.
+
+<<5363.48;5370.36;en>>
+Dick. What, in essence, we would submit occurred in relation to that was that the prosecutor
+
+<<5370.36;5386.38;en>>
+was required to undertake a subjective assessment of how the jury would react if asked to assess the seriousness of her failings. The sole reason why she wasn't prosecuted as an individual
+
+<<5386.38;5400.64;en>>
+was essentially the prosecution concluded that the jury would conclude her failings were not sufficiently serious. Now, that involves the prosecution having to second guess the
+
+<<5400.64;5415.84;en>>
+reaction of the jury, and they have to second guess it in the context of a situation where they will only bring a prosecution in circumstances where they think conviction is more likely than not. And that, in our submission, demonstrates why the points we make about the prosecution
+
+<<5415.84;5429.84;en>>
+test are both material and a partial explanation, or an important part of the reasoning, why there was no prosecution of an individual. The second point we make about why there was
+
+<<5429.84;5444.6;en>>
+no prosecution of an individual is the point we made in opening, which is the difficulties proving someone was not acting in self-defence. I should add that when considering the points
+
+<<5444.6;5458.92;en>>
+I've just made, we certainly understand that the Court has a copy of the prosecution decision, and so it can consider it for itself that the extent to which the points I've just made were relevant. Now, one point when answering the question I've just answered that I perhaps
+
+<<5458.92;5476.8;en>>
+should address, which was raised by the UK Government, was that the UK Government argued in opening that the prosecution of individuals would not have addressed key issues that arise in this case. Now, whether or not that's correct, it misses the point. The whole reason
+
+<<5476.8;5483.04;en>>
+why there needs to be prosecution of individuals is that individuals need to be held to account.
+
+<<5483.04;5494.2;en>>
+Officers are given extreme powers in this context, and if that's acceptable, they must know they will be held responsible when they fail to comply with the law.
+
+<<5494.2;5515.04;en>>
+Returning to the question asked by Judge Villiger about the briefing, I should say immediately that has always been a very substantial concern for the applicant, and there are a number of points I'd make about that briefing. The first point I would make is that it, in
+
+<<5515.04;5521.44;en>>
+our submission, posed a particular problem in light of the law on self-defence. Domestic
+
+<<5521.44;5541.22;en>>
+law in our submission meant that officers were able to rely on the briefing as a basis for a belief that a threat was posed by Mr Domenes's without there needing to be any evidence in their minds necessarily of threat at the time of shooting. What I mean by that
+
+<<5541.22;5551.96;en>>
+is that they didn't, for example, need to assess whether or not the clothing that Mr Domenes wore was indicative of him posing a threat because he was a suicide bomber.
+
+<<5551.96;5563.4;en>>
+All they needed to do was reach a belief, essentially, that he posed a threat, and that was sufficient to justify their action. Linked to the point I've just made, but a second
+
+<<5563.4;5579.36;en>>
+point we'd make, is that the briefing in our submission implicitly implied there was no need for an assessment of the threat posed by Mr Domenes in light of what he was doing at the particular time and in light of what he was wearing at the particular time. Third
+
+<<5579.36;5590.2;en>>
+point we'd make is that there's never been any prosecution of the person responsible for that briefing, and in our submission that links back to the test applied by the CPS.
+
+<<5590.2;5605.2;en>>
+Fourthly, we've always had a concern that, as a matter of fact, the effect of that briefing was essentially to leave officers pumped up, as we would describe it, concerned about their personal threat and concerned about the threat to other people. The final point we'd make
+
+<<5605.2;5615.6;en>>
+is that, as far as we're aware, this was a unique briefing and it was delivered in highly emotional circumstances, and that did increase the risk to life.
+
+<<5615.6;5626.32;en>>
+The final question I think was addressed to the applicant was the question asked by Judge Lopez-Guerra, and that was about ex parte manning. In simple terms, we would argue ex
+
+<<5626.32;5637.32;en>>
+parte manning does provide a very substantial impediment to the successful review of decisions not to prosecute. That's set out in paragraph 19 of our submissions, and we would argue
+
+<<5637.32;5648.44;en>>
+that the likelihood of a successful judicial review of a decision not to prosecute is very low, and there are very few examples of it. The reason for that is essentially that the
+
+<<5648.44;5653.68;en>>
+test applied is one of irrationality. That is a test that's applied in the context of
+
+<<5653.68;5660.24;en>>
+a situation where the court will take the view that the CPS are particularly expert.
+
+<<5660.24;5670.88;en>>
+On that point, just dealing with a point the government made, it has never been our case that there must be a court review of a decision not to prosecute. However, what is our case
+
+<<5670.88;5676.52;en>>
+is that where the UK provides for such a review, it's not an effective review. It doesn't,
+
+<<5676.52;5693.32;en>>
+in particular, safeguard against the risk that cases will not be prosecuted, despite the fact there is sufficient evidence to justify a conviction, despite the fact that, in fact, the person may have been convicted had that evidence been put before a jury.
+
+<<5693.32;5706.36;en>>
+Turning to the government submissions, I'm going to avoid answering them all, obviously, firstly because I don't have the time, and secondly because that would repeat what I've already said. There are a few discrete points that I should address. The government emphasised
+
+<<5706.36;5712.48;en>>
+in its submissions the scope of the investigation and the independence of the CPS. Now, our
+
+<<5712.48;5731.8;en>>
+response to that is whether or not this investigation was sufficiently wide-ranging, the value of that investigation is undermined if the threshold applied by the prosecution prevents prosecutions. In simple terms, any investigation is useless if it doesn't result in those
+
+<<5731.8;5738.36;en>>
+who've committed a criminal offence being held to account. Now, the government says,
+
+<<5738.36;5742.44;en>>
+we essentially argue, that there is a requirement for oral evidence to be heard by a prosecutor.
+
+<<5742.44;5748.64;en>>
+That's never been our argument. Our point is that the fact that the prosecutor will
+
+<<5748.64;5759.88;en>>
+not hear oral evidence makes it very difficult to assess what the merits of a prosecution are, particularly in a case like this where oral evidence is fundamental. The key issue
+
+<<5759.88;5767.48;en>>
+in this case being whether or not the shooters had an honest belief. Now, the government
+
+<<5767.48;5782.72;en>>
+argues essentially that the inquest enabled the prosecution to be aware of the impact of oral evidence, but it's important to recognise the final decision in this case was taken by the Director of Public Prosecutions in person. He wasn't present throughout the
+
+<<5782.72;5792.6;en>>
+inquest, and yet he formed an opinion on credibility. The government raised the possibility of gross
+
+<<5792.6;5798.64;en>>
+negligence manslaughter. We would submit that's no answer to the complaints we make because
+
+<<5798.64;5804.4;en>>
+it was addressing a different issue. It wasn't, for example, considered in relation to the
+
+<<5804.4;5815.04;en>>
+shooters, and we would say, for good reason, because there is, in domestic law, a very high threshold applied in that context. It's not law that reflects, in our submission,
+
+<<5815.04;5835.04;en>>
+the concerns of this court, and if the officers were believed in claiming they had an honest belief, it would have been extremely difficult to demonstrate that that threshold that's applied in relation to gross negligence manslaughter was crossed. Finally, the government has suggested
+
+<<5835.04;5845.4;en>>
+that English law always applies a subjective test in relation to criminal liability. Firstly,
+
+<<5845.4;5856.08;en>>
+we would point out that, as far as we're aware, it was only since the 1980s that a subjective test in relation to self-defence applied in this context. Secondly, but perhaps
+
+<<5856.08;5862.28;en>>
+equally importantly, the English law in fact does apply a mixed approach. In some cases,
+
+<<5862.28;5868.04;en>>
+someone can be held liable on an objective basis. The English law in relation to rape
+
+<<5868.04;5874.24;en>>
+was recently amended to enable people to be held. Now, the government argues in this context,
+
+<<5874.24;5886.36;en>>
+in any event, the reasonableness of an officer's belief will be considered, but it's only considered in order to see whether or not doubt can be cast on honesty. Ultimately, the domestic
+
+<<5886.36;5893.04;en>>
+law is clear. An honest but unreasonable belief is a defence, and that's the basis upon
+
+<<5893.04;5898.68;en>>
+which decisions were taken in this case. And the facts of this case demonstrate that does
+
+<<5898.68;5908.12;en>>
+mean there's a very substantial difference between the approach of this court and the approach in domestic law. There were real issues about the justification for the killing
+
+<<5908.12;5913.32;en>>
+in this case, but only the honesty of the officer's belief needed to be considered.
+
+<<5913.32;5917.96;en>>
+If they were found to have had an honest belief of threat, that was enough. That is particularly
+
+<<5917.96;5928.48;en>>
+troubling, we would submit, in light of one fact that we didn't mention in opening, which is that jury rejected a verdict of lawful killing. So we submit, ultimately, there is
+
+<<5928.48;5936.04;en>>
+no answer to our complaints. There was a failure to prosecute in circumstances where domestic
+
+<<5936.04;5936.04;en>>
+law had significant deficits. Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5942.22;5947.1;en>>
+Thank you very much. We have now come to the end of the hearing.
+
+<<5947.1;5954.54;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<5954.54;5958.46;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<5958.46;5964.26;en>>
+The judgment will be delivered later and the parties will be informed of the date of delivery.
+
+<<5964.26;5964.26;en>>
+I declare the hearing closed.
+

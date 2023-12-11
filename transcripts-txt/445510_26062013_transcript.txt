@@ -1,0 +1,939 @@
+[[Announcer;UNK]]
+
+<<18.15;18.75;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<61.0;61.98;en>>
+Please be seated.
+
+<<66.9;73.98;en>>
+I declare open the public hearing on the merits in the case of Marguš against Croatia.
+
+<<73.98;84.68;en>>
+The case was lodged on the 31st of December, 2009, with the court under Article 34 of the Convention by a Croatian national, Mr. Fred Marguš.
+
+<<84.68;92.06;en>>
+The application was allocated to the first section of the court pursuant to Rule 52, paragraph 1 of the rules of the court.
+
+<<92.06;99.88;en>>
+It was communicated to the government on the 5th of September, 2011.
+
+<<99.88;115.94;en>>
+On the 13th of November, 2012, a chamber of that section declared the application partly admissible and delivered a judgment in which it tells that neither Article 6 nor Article 4 of Protocol Number 7 to the Convention had been violated.
+
+<<115.94;125.88;en>>
+On the 27th of December, 2012, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the Convention.
+
+<<125.88;132.16;en>>
+The Grand Chamber panel granted the request on the 18th of March, 2013.
+
+<<132.16;144.98;en>>
+On the 16th of May, 2013, Middlesex University London was granted leave under Rule 44, paragraph 3 of the rules of the court to make written submissions at the third party.
+
+<<144.98;148.72;en>>
+The government are represented by their agent, Mrs. Štefica
+
+<<148.72;152.1;en>>
+Stažnik, assisted by Mrs. Nikolina Katić and Mrs.
+
+<<152.1;156.4;en>>
+Jasmina Dolmagić advisors.
+
+<<156.4;162.12;en>>
+The applicant is represented by Mr. Petar Sabolić, counsel.
+
+<<162.12;168.92;en>>
+I welcome the representatives of the parties in the name of the court.
+
+<<168.92;187.68;en>>
+I also welcome a group of French judges, a group of high counsel judges and prosecutors of Turkey, a delegation from the Constitutional Court of Montenegro, a delegation from the Albanian Supreme Court, and the Attorney General for Northern Ireland.
+
+<<187.68;197.88;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<197.88;202.1;en>>
+Mr. Sabolić for the applicant will speak first
+
+<<202.1;205.28;en>>
+and then Mrs. Stažnik for the government.
+
+<<205.28;221.96;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting from and into Croatia has been authorized for the benefit of the applicant's representative.
+
+<<221.96;232.68;en>>
+Although that interpreting is arranged by the court, no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<232.68;241.08;en>>
+Furthermore, interpreting in Montenegrin has been authorized for the benefit of a delegation from the Constitutional Court of Montenegro.
+
+<<241.08;252.68;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings either.
+
+<<252.68;252.68;en>>
+I call Mr. Sabolić.
+
+[[Applicant;AP1]]
+
+<<264.23;270.61;hr>>
+Poštovani predsjedniče, poštovani gospode suci, srdačno vas pozdravljam.
+
+<<271.55;274.25;hr>>
+Ja sam odetnik Sabolić Petar iz Osijeka.
+
+<<277.55;287.27;hr>>
+Moj branjenik Fred Marguš suđen je bez dokaza i uz kruptne proceduralne pogreške.
+
+<<289.03;310.37;hr>>
+Već na samom početku kazenog postupka on je izložen ogromnom publicitetu gdje je bio zapravo unaprijed suđen jer je cijelokumna štampa, odnosno svi mediji, su bili naklonljeni organijima gonjenja.
+
+<<312.75;332.97;hr>>
+U takvoj situaciji stvorjene u javnosti je jedan autoritet, jedno mišljenje koje možemo izznačiti sa autoritarnom etikom koja je bila u protivnosti sa humaničkom etikom.
+
+<<334.47;337.53;hr>>
+I u takvom ozračju je vođen taj postupak.
+
+<<339.11;367.63;hr>>
+Ja sam sve iz toga pročitao od Elija Hroma u knjizi Čovjek za sebe i u tome, koje je među ostalog rekao, parafraziram, da kada se stvori takvano javno mišljenje, kada se stvori autoritet u javnosti i autoritarna etika, da tada ona druga strana koja bi trebala uživati humaničku etiku ima veoma male šanse.
+
+<<369.43;389.27;hr>>
+Jer gleda se prije svega da se podilazi toj autoritarnoj etici u javnosti, a svaki onaj koji misli drugačije izlaže se o opasnosti da doživi javni prekor i da ga čak proglase nesposobno.
+
+<<392.47;425.43;hr>>
+Radi toga postupak nije vođen u sladu sa proceduralnim rješenjima Hrvatskog zaklona na okazanom postupku, a nije imeo nije u skladu sa Ustavom Republike Hrvatske, gdje stoji da postoji presumcija nedužnosti, a taj postulat je izokrenut, tako da je važio postulat, odnosno princip ili pravilo, kriv si dok ne dokažeš protivno.
+
+<<427.03;433.31;hr>>
+A kada smo pokušavali dokazati protivno, svi su redom dokazi bili odbijeni.
+
+<<435.31;451.83;hr>>
+Vidi se čak i iz prvostupanjske presude da ta presuda nije obrazložena afirmativno, već da je sud odmah počeo sa obrazloženjem zašto nije prihvatio dokaze obrane.
+
+<<453.83;460.31;hr>>
+To je kao da se nastavlja na onaj princip kriv si dok se ne dokaže protivno.
+
+<<461.83;474.35;hr>>
+Zadatak je suda bio da afirmativno dokaže na temelju kojih izvora spoznaje, je došao do zaključka da postoje činjenice koje su navedene u toj presudi.
+
+<<476.83;501.35;hr>>
+Pored toga, upotrebnjen je kao dokazno sredstvo svjedok Olev, koji je imao faktički status zaštićenog svjedoka, ali formalno ne, jer da je formalno imao takav status, on ne bi imao tu dokaznu snagu i dokaznu vrednost koju je imao sa tim neformalnim statusom.
+
+<<504.35;532.35;hr>>
+Tako da se presuda mogla osloniti samo na njega, iako u članu 238e ZKPA piše da takav usamljeni svjedok nije dovoljan da bi afirmirao presudu, i da takav usamljeni svjedok mora imati još nekog pridruženog svjedoka ili dokaz, jer je dokazna snaga takvog svjedoka subsidijarne i ograničene vrednosti.
+
+<<532.35;551.35;hr>>
+Nije uslovjeni posljedni, kao najjači dokaz, rekonstrukcije događaja, jer taj svjedok nije mogao ponoviti niti opisati gdje se to u geograskom, vegetarskom smislu zlo događalo.
+
+<<552.35;579.35;hr>>
+On je pokazao ono što je bilo na istoku, pokazuje na jugu, a ono što je bilo na jugu pokazuje na istoku, i u tijeku cijelog postupka je mijenjao iskaz i nije bio u stanju da ponovi na kraju rasprave ono što je rekao ranije, a kada sam ja stavljao prigovore, on je rekao da on duševni bolestnik, da se on liječi, i da on zapravo ne može više reproducirati ono što je ranije rekao.
+
+<<579.35;588.35;hr>>
+Ja smatram da takav svjedok ne bi smio biti izvor spoznaje niti za osudjuću, a niti za oslobađuću presudu.
+
+<<588.35;612.35;hr>>
+To je što se tiče ove prve točke, da moj branjanjnik nije imao onaj status, onaj položaj u zakonu o kaznovnom postupku, koji jamči da nitko ne duže ne bude proglašen krivim ili strože nego što zabređuje, a da se ipak i postavljuje društvenim ciljim da se pravo krivca ne mimođe.
+
+<<612.35;632.35;hr>>
+Što se tiče prigovora ne bis in idem, tu se od strane vlade apostrofira i stavlja u prvi plan zakon o oprostu, iako je to samo jedan od razloga za obustavu kaznovnog postupka.
+
+<<632.35;642.35;hr>>
+Po mojem mišljenju, bitno je da je kaznenji postupak pravomoćno obustavljen na temelju rješenja.
+
+<<642.35;654.35;hr>>
+U članu 11 stavila ZKP-a u to vrijeme rješenje i svaka presuda bili su izjednačeni.
+
+<<654.35;661.35;hr>>
+Zato se kaže da je to presudjena stvar.
+
+<<661.35;671.35;hr>>
+Vrhovni sud Hrvatske i državni odvjetnik tako smatraju u prvom dijelu postupanja.
+
+<<671.35;684.35;hr>>
+Državni odvjetnik je znao da je to smetnja za dalje vođenje postupka, pa je postavio zahtjev za zaštitu zakonitosti.
+
+<<684.35;686.35;hr>>
+Vrhovni sud na to odgovara.
+
+<<686.35;690.35;hr>>
+Ni pogodom zahtjeva za zaštitu zakonitosti.
+
+<<690.35;705.35;hr>>
+Možemo samo da konstatiramo da se opovređena pravila zakona kad onom postupkom, ali nas pravomoćnost veže i mi ne možemo mijenjati tu odruku.
+
+<<705.35;718.35;hr>>
+Pa radi toga da je sljedeće obrazljevanje, dozvolite da pročinem samo taj dio da vas ne obzarećujem, u presudi KZZ 2.0 kroz 0.5 povlaka 6 od 19. runa 2007.
+
+<<718.35;722.35;hr>>
+Na kraju obrazljevanje glasi.
+
+<<722.35;734.35;hr>>
+Budući da je zahtjev za zaštiju zakonitosti podignut na štetu obtuđenika, trebalo je na temelju odebe člana 409.2 Zakona o krivičnom postupku
+
+<<734.35;744.35;hr>>
+utvrditi samo da postoji opisana povrda zakona ne dirajući u pravomoćnu odruku.
+
+<<744.35;770.35;hr>>
+Prema tome, vrhovni sud je s time jasno dao do znanja da respektira pravomoćnu odruku, da je oslovnac, da je sigurnost i da se ne može mijenjati niti ukidati već samo u zakonnom postupku.
+
+<<770.35;784.35;hr>>
+Tu se između redaka sugerira da se to može učiniti samo u obnovi postupka pod članom 401. i 422. Zakona o krivičnom postupku
+
+<<784.35;787.35;hr>>
+i pod članom 413. Zakona o krivičnom postupku.
+
+<<787.35;791.35;hr>>
+Međutim, taj postupak do današnjega nije pokrevno.
+
+<<791.35;803.35;hr>>
+Prema tome, mi i dan danas imamo dvije pravomoćne odluke, jedna koja glasi obustava kaznovnog postupka, koja je postala pravomoćna.
+
+<<803.35;808.35;hr>>
+Ona je samo u jednom dijelu malo dodirnuta povodom zahte od zahtje o zakonitosti.
+
+<<808.35;818.35;hr>>
+I imamo ovu presudu gdje je diametralno oprečno moj brajnik proglašen krivim i kaznjen čak sa 15 godina zatvora.
+
+<<818.35;828.35;hr>>
+Ja smatram da u uređenoj pravnoj državi, u vladavini prava, takav dualizam ne bi smio koegistirati.
+
+<<828.35;837.35;hr>>
+Nadalje smatram da nije bitno kako je primjenjen zakon u oprostu.
+
+<<837.35;847.35;hr>>
+Nije bitna kvaliteta primjenja tog zakona, jer pravomoćnost pokriva i najveće pogreške u primjenju toga zakona.
+
+<<847.35;863.35;hr>>
+Tako dugo dok se pravomoćna odluka ne izmieni, vrijedi ono što piše u pravomoćnoj odluci po pravilima res judicata pro veritate habetur, res judicata facit just inter partes.
+
+<<863.35;881.35;hr>>
+Međutim, toga se sud u kasnijoj fazi postupka, kada je vođen protiv Ferida Marguša u drugom dijelu, dobio 15 godina zatvora, više se nikom nije pridržavao.
+
+<<881.35;903.35;hr>>
+Čak se je dogodilo to da je isti sudac, koji je bio predsednik vijeća, koji je pravomoćno obustavilo postupak protiv njega, da taj isti sudac udjeluje i u ovom vijeću, koje je dodijelilo 14, a kasnije 15 godina zatvora.
+
+<<903.35;910.35;hr>>
+Mi smatramo da taj sudac nije smio se udjelovati u ovom drugom sastavu.
+
+<<910.35;973.35;hr>>
+Meni je to najbolnije pitanje u mojoj pravim karijeri, da ja moram govoriti da taj sudac to nije smio uraditi, jer je to veoma čestit i pošten sudac, ja ga visoko cijenim, ali ja sam dao prednost općem dobru nad privatnim dobrom i smatram da moram na to ukazati da je u tovo vrijeme došlo do naglog zaokreta u Hrvatskoj i da su rani oprosti koji su dijeljeni, tako reći, šaklom i kapom, oni su došli do restrikcije te primjene i to je bilo svima jasno i on je osjećao da je to njegova pogreška što je u prvom setu, u prvom dijelu dodijelio pravomoćnu odluku na obustavu postupka i nastoje da to korigira i sanira u ovom drugom dijelu, pa je težio da donese osuđuću presudu i da na taj način rehabilitira sam sebe i ovaj stav koji je izrazio ranije gdje je dodijelio oprosti.
+
+<<973.35;996.35;hr>>
+Ja zato smatram da je on imao osobne razloge da donese osuđuću presudu, jer što stroža presuda, to jači kurgativ, to jača čistoća, u pogledu njegove ličnosti jer se onda izbavio od one pogreške koje je ranije učinio.
+
+<<996.35;1007.35;hr>>
+Većina pravnika i oni koji čak i ne razumiju pravu su smatrali da se zakon o općem oprostu preširoko primjenjuje.
+
+<<1007.35;1015.35;hr>>
+Ja se zato izvinjavam profesorima iz Londona koje visoko cijenim što se oni uključili ovdje i žele pomoći.
+
+<<1015.35;1020.35;hr>>
+Međutim, u Hrvatskoj je već taj stav dominirao ranije 2006. godine,
+
+<<1020.35;1025.35;hr>>
+a ovega suda se nije primjenio nego je primjenio taj stari stav i on je podijelio oprosti.
+
+<<1025.35;1045.35;hr>>
+Nadalje, važno je što će biti sljedeće pitanje, da je moj branjenik u zadnjoj fazi postupka došao u situaciju pošto je teški šećeni bolesnik.
+
+<<1045.35;1057.35;hr>>
+Da je bio gotovo u agoni, pa je zbog obamerlosti i dok umora hvatao zrak, a suda se to shvatio kao da je on pravi neret.
+
+<<1057.35;1063.35;hr>>
+Nikakve psovke on nije uključio, ništa on nije ga lamio, on ništa vulgarno nije rekao.
+
+<<1063.35;1080.35;hr>>
+On je samo pokazivao da je na početku rasprave bio osposobljen za praćenje rasprave, a da je nakon 3,5 sata, 4 sata njemu ta raspravna sposobnost nestala.
+
+<<1080.35;1096.35;hr>>
+A sljedeći kao više nije bilo tu da to, uzimajući anamnezu i druge indikatore, verificira kao bolesno stanje, a ne kao stanje nekakve devijacije i bilo kakve delikvencije.
+
+<<1096.35;1120.35;hr>>
+S obzirom da mojem radnjeniku nije omogućena završna riječ, svi oni koji poznaju zakon, koji se bave pravosuđem, a čak i lajici, ne mogu to shvatiti, jer svi znaju da se završna riječ mora dati svakom okrivljeniku.
+
+<<1120.35;1134.35;hr>>
+Ja sam bio isto sudac Okružnog suda u Osijeku i općinskog, pa znam da nam se znalo omaknuti da smo napravili grešku pa slučajno nije završna riječ imao okrivljenik.
+
+<<1134.35;1144.35;hr>>
+Znamo da je svaka pala nije došla do prvog kata gdje se nalazi Okružnog suda.
+
+<<1144.35;1153.35;hr>>
+Ja kao njegov branjenik nisam imao pravo samo u tom dijelu, po mojoj mišljenju, da nastupam mjesto njega.
+
+<<1153.35;1181.35;hr>>
+Jer dok sam bio sudac Okružnog suda, jer sam bio prvostupanjski krivični sudac, da su okrivljene osobe u zadnjem momentu doživjele katarzu, da su tražile oprost, da su tražile čak i priznanje, da su doživjele gotovo duševni preobražaj kao da odlaze na onaj svijet.
+
+<<1181.35;1204.35;hr>>
+Kada smo mi vidjeli da to nije gluma i da je to zaista iskreno kajanje, iskreno priznanje, mi smo davali gotovo u pola manje kazne odnosno na one koji nisu dali takvo priznanje i koji nisu doživjeli takvo duševno preobrađanje.
+
+<<1204.35;1211.35;hr>>
+Da je moj branjenik bio u sudnici, ja ne znam šta se dešava u njegoj duši.
+
+<<1211.35;1236.35;hr>>
+On bi možda po nekom dijelu priznao ili bi možda sve priznao, ja ne znam ako je počinio, ili bi možda, ako ništa drugo, izrazio kajanje i tražio oprost i to bi i tekako imalo značaja u individualizaciji kazne, odnosno u odmjeravanju kazne.
+
+<<1236.35;1255.35;hr>>
+S obzirom na sve te momente, ja smatram da moj branjenik nije pravilo suđen i da je došlo do krupnih pogrešaka koje se ne bi smjele dešavati jer mi sad imamo konvenciju koju prije nismo imali.
+
+<<1255.35;1269.35;hr>>
+Ta konvencija se svača u Hrvatskoj kao novo ustavno pravo, a ovaj sud se doživljava kao ustavni sud.
+
+<<1269.35;1293.35;hr>>
+Ima čak i takvih mišljene i stavova da je konvencija poput Biblije, spominje se i visoka predstavnica Ujedinjenja naroda, MR, koja je rekla u ljudskim srcima su temeljna prava i slobode bila davno prije zapisana, nego je bilo koji pravnik počeo pisati zakone.
+
+<<1293.35;1311.35;hr>>
+Ja smatram da je isto tako konvencija poput Biblije koja daje nadu i ufanje i ohrabrenje svima onima koji su obespravljeni.
+
+<<1311.35;1320.35;hr>>
+Da je im nadu već na samom početku da ne moraju razmišljati da neće uspjeti u kazenom postupku, već da je nada ta koja posljedno umire.
+
+<<1320.35;1338.35;hr>>
+Radi toga molim i predlažem da se mojemu branjeniku omogući da u pravednoj i poštojnoj proceduri 6.14.15.17. konvencije
+
+<<1338.35;1358.35;hr>>
+mogući da pravda bude zakonita, istinita, a ujedno i pouzdana jer rušenje pravomoćnosti to je rušenje pravne sigurnosti i nitko više ne može znati na čemu je.
+
+<<1358.35;1372.35;hr>>
+Kako se ne rekao u Starom Rimu, ako se ne radi po zakonu ništa nije sigurno. Radi toga molim da se u obnovi postupka to popravi i da moj branjenik koji je nedužan bude oslobođen od obtužbe.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1382.04;1383.72;en>>
+Thank you Mr. Sabolić.
+
+<<1383.72;1387.16;en>>
+I Would you like to call Mrs. Stažnik, please
+
+<<1387.16;1387.16;en>>
+Yes, of course.
+
+[[Government;GR1]]
+
+<<1394.81;1397.69;en>>
+Mr. President of the Grand Chamber of the Court,
+
+<<1397.69;1404.45;en>>
+members of the Grand Chamber, it is my honor today to represent my government at a hearing.
+
+<<1404.45;1409.65;en>>
+I will outline the relevant facts and summarize the government's main legal submissions.
+
+<<1409.65;1416.67;en>>
+My colleagues and me will deal with questions asked by the court and reply to the applicant's submissions.
+
+<<1416.67;1436.41;en>>
+The applicant, former commander of a Croatian Army battalion, explains, complains that his right to a fair trial was violated in criminal proceedings for murder of seven Serb civilians in Čepin, a village near Osijek in eastern Slavonia, in late 1991.
+
+<<1436.41;1445.69;en>>
+At that time, Osijek and eastern Slavonia region were under heavily attacks by the Yugoslav army and Serb paramilitary forces.
+
+<<1445.69;1471.97;en>>
+He argues that his rights were violated because the same judge participated in both the first and the second criminal proceedings against him, that his removal from the courtroom during the concluding hearing violated his right to defense, and that he was convinced in the second set of proceedings for the same criminal offense for which he had previously been granted amnesty.
+
+<<1471.97;1501.41;en>>
+The government intends to demonstrate that the criminal proceedings against the applicant as a whole were fair, particularly the applicant's right to an impartial tribunal and his right to defend himself in person, and that the second set of proceedings against the applicant were justified and therefore represent an exception to the prohibition of not being tried twice for the same offense.
+
+<<1504.29;1514.85;en>>
+As to the fairness of the criminal proceedings, the government points out that the applicant's right to an impartial tribunal was guaranteed in both sets of proceedings.
+
+<<1514.85;1540.49;en>>
+The mere fact that the judge, MK, was a member of the chamber which granted amnesty to the applicant in the first proceedings in 1997 and the member of the chamber which found him guilty for a war crime against the civilian population in the second set of proceedings in 2007 does not automatically constitute a violation of Article VI of the Convention.
+
+<<1540.49;1557.05;en>>
+Namely, decisions in both court proceedings were rendered following deliberation by three-member chamber in which the judge in question was only one of the judges in each of these odd-numbered chambers.
+
+<<1557.05;1571.17;en>>
+Secondly, in the first proceedings, the domestic court, that is the Osset County Court, never assessed the facts of the case nor examined or decided about the applicant's responsibility.
+
+<<1571.17;1579.65;en>>
+The court terminated proceedings at trial stage, applying the provisions of the General Amnesty Act to the applicant's case.
+
+<<1579.65;1588.01;en>>
+Thus, the judge, MK, did not express an opinion on any aspects of the merits of the case.
+
+<<1588.01;1602.55;en>>
+It was not until 2007 that the court chamber in the second proceedings heard all the evidence of the case and decided on the applicant's guilt.
+
+<<1602.55;1623.97;en>>
+Having in mind that the decision on amnesty rendered in the first proceedings was adopted in favor of the applicant, there is no fact that would even imply that the judge, MK, sitting in both chambers, lacked impartiality to the applicant's disadvantage.
+
+<<1623.97;1637.73;en>>
+Also, there is no reason to believe or evidence to prove that the judge in question was not open-minded in the second set of proceedings and thus incapable of rendering an impartial decision.
+
+<<1640.73;1654.45;en>>
+Regarding the right to be present at hearing, the government notes that this right is not an absolute one, especially when the rights of others and the proper conduct of justice are violated.
+
+<<1654.45;1665.17;en>>
+In order to ensure good order during proceedings, judges are empowered to take measures to maintain proper conduct of the trial.
+
+<<1665.17;1698.57;en>>
+In Croatian legislation, as it is in any other legislation of the states of the members of the Council of Europe, since the applicant disturbed the order in the courtroom during concluding hearing, ignored several requests by the chamber president to control his behavior, as well as warnings that he would be escorted out of the courtroom if he continues to behave improperly, he willingly chose not to obey the court's orders and warnings, and thus had to accept to bear the consequences.
+
+<<1698.57;1716.49;en>>
+Such a behavior was noticed in the official records of the hearing, and also it is evident from the official, from the monitoring records of the representatives of the NGOs who was following the trial.
+
+<<1716.49;1732.29;en>>
+However, the applicant's removal had no influence whatsoever on the protection of his right to defense, since his attorney remained in the courtroom and presented his closing arguments.
+
+<<1732.29;1743.85;en>>
+The applicant's allegations that he wanted to confess the crime in question, but had not had the opportunity since he had been removed from the courtroom, are not convincing.
+
+<<1743.85;1764.17;en>>
+Bearing in mind the overall course of proceedings, the way the applicant carried out his defense, and the applicant's behavior immediately before he was escorted out of the courtroom, shouting and cursing, it was obvious that he showed no intention of expressing remorse for his actions.
+
+<<1764.17;1776.05;en>>
+Finally, if the applicant had sincerely wanted to confess the crime, he could have done so also after the concluding hearing, but before the chamber pronounced the judgment.
+
+<<1776.05;1784.45;en>>
+So that is to say, he could have done so between 19 and 21st March, 2007.
+
+<<1784.45;1790.17;en>>
+After all, he was present at the pronouncement of the judgment.
+
+<<1790.17;1800.13;en>>
+Therefore, the government finds the applicant's allegations about the unfairness of the criminal proceedings against him unfounded, and moves the court to dismiss them.
+
+<<1803.73;1814.65;en>>
+Honorable judges of the Graham Chamber, as regards the applicant's complaint that he was tried twice for the same offense, the government points as follows.
+
+<<1814.65;1832.05;en>>
+In order to enable the healing of its society, foster the process of reconciliation, and to move beyond the armed conflict which occurred in the early 90s, Croatia enacted the General Amnesty Act in 1992 and in 1996.
+
+<<1832.05;1851.45;en>>
+The later act granted amnesty from criminal prosecution for perpetrators of criminal offenses committing during the aggression, armed rebellion, or armed conflict in the Republic of Croatia in the period from 1990 to 1996.
+
+<<1851.45;1866.09;en>>
+It is important to note that this law did not intend in any way to give amnesty to perpetrators of the most serious violations of humanitarian law, which have the character of war crimes.
+
+<<1866.09;1879.45;en>>
+Therefore, it listed all crimes to which the amnesty was not applicable, including both murder and war crimes against the civilian population.
+
+<<1879.45;1896.79;en>>
+By the amnesty act, Croatia struck a fair balance between its intention to put aside the past arretrosities in order to ensure much needed peace in the region, and not to provoke or maintain further violence and conflict.
+
+<<1896.79;1902.75;en>>
+The first set of proceedings against the applicant started in 1991.
+
+<<1902.75;1915.11;en>>
+He was charged before the Osijek County Court with murder of several persons, inflicting grievous bodily harm, endangering life and property, and theft.
+
+<<1915.11;1922.95;en>>
+The applicant confessed to murders of the Serbian civilians before the investigating judge.
+
+<<1922.95;1936.49;en>>
+In the course of the proceedings, the military prosecutor dropped most of the charges, but added the charge of shooting a child, causing him grievous bodily injury.
+
+<<1936.49;1952.99;en>>
+In 1997, the Osijek County Court found that the provisions of the amnesty act were applicable to the applicant's case, and consequently terminated proceedings against him by granting him amnesty.
+
+<<1952.99;1969.85;en>>
+Honorable Grand Chamber judges, after the peaceful reintegration of Eastern Slavonia into the Croatian legal order, the prosecuting authority started a thorough investigation of all crimes committed in the Osijek area during the homeland war.
+
+<<1969.85;1981.31;en>>
+In the course of these investigations, they discovered that the applicant had killed another three civilians of Serbian nationality in the same period.
+
+<<1981.31;2005.25;en>>
+Prior to those killings, he had forcibly taken victims from their homes, detained them in the basement of a house, where he tied them up to a chair, interrogated them, left them without food and water, beat them, insulted them, and finally, while they were still tied up, he killed them with his gun.
+
+<<2005.25;2024.89;en>>
+These new facts also revealed the completely different circumstances in which the applicant committed the crimes for which he has been granted amnesty by the Osijek County Court in proceedings that I just explained.
+
+<<2024.89;2042.37;en>>
+More importantly, the new facts showed that the applicant applied the same modus operandi for all his victims, newly discovered ones and those he had been prosecuted for and granted amnesty.
+
+<<2042.37;2052.85;en>>
+New discoveries pointed to the existence of a significantly wider scope of criminal charges against the applicant.
+
+<<2052.85;2063.29;en>>
+Therefore, the state attorney brought new charges against him for an offense qualified as a war crime against the civilian population.
+
+<<2063.29;2079.03;en>>
+The Osijek County Court conducted criminal proceedings, respecting all the guarantees of a fair trial, and found the applicant guilty of violations of the Fourth Geneva Convention and the Second Protocol thereto.
+
+<<2079.03;2087.17;en>>
+He was sentenced to 14 years of imprisonment, which the Supreme Court increased by one more year.
+
+<<2087.17;2107.77;en>>
+When a state attorney discovered new facts that pointed to the substantive defects in the first set of proceedings, not having any ordinary remedy to quash the court's decision granting amnesty, they lodged a request for protection of legality with the Croatian Supreme Court.
+
+<<2107.77;2120.15;en>>
+The Supreme Court established that the General Amnesty Act had been misinterpreted and erroneously applied to the applicant's case in 1997.
+
+<<2120.15;2128.49;en>>
+The government fully subscribes to the findings of the Croatian Supreme Court and the chamber of this court that the amnesty granted to Mr. Margos
+
+<<2128.49;2144.65;en>>
+in respect of acts characterized as war crime against civilians was a result of the misapplication of the provisions of the domestic substantive law, namely the provisions of the General Amnesty Act.
+
+<<2144.65;2149.45;en>>
+As evidence to this, the government points out the follows.
+
+<<2149.45;2169.85;en>>
+Firstly, in the first set of proceedings, the facts did not show that applicants had committed the crimes he was accused of during aggression, armed rebellion, or conflict, or in connection with them as required by the amnesty act.
+
+<<2169.85;2186.77;en>>
+Secondly, Aussie County Court erroneously deemed that the mere fact that the applicant was a member of the Croatian army represented a significant link between the crimes he committed and the war.
+
+<<2186.77;2204.65;en>>
+Thirdly, the way the first proceedings were conducted, with frequent adjournments of hearings, culminating in him being granted amnesty, showed the reluctance of the domestic authorities to prosecute and punish the applicant.
+
+<<2204.65;2224.89;en>>
+Additionally, regardless of the legal qualification of the crime committed by the applicant, whether it was a war crime against the civilian population or murder, neither of those crimes fall within the scope of the General Amnesty Act.
+
+<<2224.89;2233.21;en>>
+They were exactly numerated as those which fall outside the scope of that act.
+
+<<2233.21;2248.33;en>>
+For all these reasons, the first set of proceedings had such fundamental defects which could only be corrected by the new set of criminal proceedings.
+
+<<2248.33;2273.77;en>>
+Honorable judges of the court, concerning the submission by third party, the government respectfully notes that in this case, it is not a matter of a complex legal debate about whether the granting of amnesty for war crimes has its roots in domestic or international legal norm, or whether the states have a large margin of appreciation in this connection.
+
+<<2273.77;2284.29;en>>
+As has already been shown, the Croatian General Amnesty Act never granted amnesty for more serious breaches of humanitarian and war law.
+
+<<2284.29;2301.45;en>>
+This would be contrary to the Croatia's obligations arising from the Geneva Conventions and other international human rights instruments, which make an integral part of the domestic legal system and are directly applicable in Croatia.
+
+<<2301.45;2308.55;en>>
+The question to be answered in the proceedings before the court is more simple and fundamental.
+
+<<2308.55;2320.71;en>>
+Was the conduction of the second set of criminal proceedings against the applicant in 2007 justified, and therefore, in accordance with the convention?
+
+<<2320.71;2333.97;en>>
+To answer this question, we should take a few steps back and ask ourselves, what would have happened if the second set of proceedings had never taken place?
+
+<<2333.97;2344.85;en>>
+How would this have affected the state's absolute obligation to prosecute war crimes and respect the rights of the applicant's victims and their families?
+
+<<2344.85;2359.45;en>>
+Isn't impunity for war crimes considered a violation of international Jus Cogens norm, as well as a violation of the erga onus duty of states to prosecute and punish crimes against humanity?
+
+<<2359.45;2380.73;en>>
+After the Nimberg trials, one can certainly consider that prohibition of impunity for war crimes is Jus Cogens, a fundamental principle of international law, which is accepted by the international community as a rule from which no derogation is permitted.
+
+<<2380.73;2388.41;en>>
+This is also recognized in the preamble of the Rome Statute of the International Criminal Court.
+
+<<2388.41;2398.15;en>>
+The government argues that without a second set of criminal proceedings, the consequences of the applicant's actions would be deemed right.
+
+<<2398.15;2408.13;en>>
+That would also be contrary to Croatia's obligation to prevent violations of absolute, non-derogative rights contained in the European Convention on Human Rights.
+
+<<2408.13;2413.65;en>>
+That are the right to life and prohibition of torture or inhuman treatment.
+
+<<2416.57;2424.89;en>>
+Further, according to the court's well-established case law, when a state agent, that was Mr. Marbus,
+
+<<2424.89;2439.81;en>>
+is charged with the crimes involving torture or ill treatment, as applicant in this case was, granting amnesty should not be permissible, and criminal proceedings and sentencing should not be time-barred.
+
+<<2439.81;2449.69;en>>
+That was exactly contained in Croatian legislation and achieved in the proceedings carried out against the applicant.
+
+<<2449.69;2460.01;en>>
+In a number of cases, the court has affirmed the positive duty of state to protect life and prevent torture of all citizens under its jurisdiction.
+
+<<2460.01;2480.49;en>>
+Furthermore, the court has repeatedly found that when violations of these convention rights occur, states must conduct a thorough and effective investigation capable of leading to identification and punishment of those responsible.
+
+<<2480.49;2486.81;en>>
+Precisely that was done by the Croatian authorities in the second set of proceedings.
+
+<<2486.81;2497.37;en>>
+Without the second set of proceedings, the applicant's victims and their families would have been left without moral satisfaction and justice.
+
+<<2497.37;2512.77;en>>
+Apart from that, impunity for war crimes given by way of amnesty would have sent wrong message that the Republic of Croatia tolerates the most serious violations of human rights and condones the consequences of such actions.
+
+<<2512.77;2522.45;en>>
+This was not the message Croatia wanted to send to its citizens and the public at large and hopes that the court does not want either.
+
+<<2522.45;2540.93;en>>
+Turning back to the convention, the government deems that the precise intention of the provisions of the second paragraph of Article 4 of Protocol Number 7 is not to allow impunity for most serious human rights violations.
+
+<<2540.93;2557.57;en>>
+This provision is a sort of a safeguard for protection of rights of victims, which by their nature and significance overpower the procedural fair trial rights of the accused under the first paragraph of this article.
+
+<<2557.57;2564.95;en>>
+Otherwise, obvious and serious defects in the protection of human rights could not be corrected.
+
+<<2564.95;2588.37;en>>
+Similarly to these conventional provisions, the Statute of the International Criminal Tribunal for the former Yugoslavia contains a provision allowing the ICTY to reopen proceedings that have been declared final on a domestic level if it finds that the domestic decision was designed to shield the accused from international criminal responsibility.
+
+<<2588.37;2596.21;en>>
+That was exactly the case with the 1997 decision of the Osijek County Court that granted amnesty to the applicant.
+
+<<2596.21;2622.69;en>>
+While it is true that there is no international legal norm or international treaty that prevents states from prescribing and granting amnesties for war crimes, the Geneva Conventions and their protocols prescribe the absolute obligation of the member states to prosecute grave breaches thereof.
+
+<<2622.69;2637.17;en>>
+Republic of Croatia, being a party to the Geneva Convention, prescribed in the national legislation that there is no amnesty for war crimes and prescribed duty of the state to prosecute perpetrators of war crimes.
+
+<<2637.17;2643.81;en>>
+In the proceedings against the applicant, the state respected these obligations.
+
+<<2643.81;2652.93;en>>
+Although there is no hierarchy in human rights, the rights set out in the Convention may be unqualified and qualified rights.
+
+<<2652.93;2665.13;en>>
+In addition, the court has referred to certain of unqualified conventional rights as core or fundamental rights, which are non-derogable.
+
+<<2665.13;2670.95;en>>
+The right to life and the right not to be tortured belong to that category.
+
+<<2670.95;2680.05;en>>
+In contrast, the right not to be tried twice is the qualified right that state may interfere with.
+
+<<2680.05;2704.81;en>>
+If the state shows that the interference was in accordance with the law, that the aim of the interference was to protect a recognized interest, and that the interference was necessary in a democratic society, the government has clearly shown that in the circumstances of the applicant's case, second set of criminal proceedings were in accordance with the law.
+
+<<2704.81;2727.45;en>>
+The aim of the state interference was to ensure the effectiveness of the criminal justice system in case of serious violations of human rights, to honor its national and international obligations in that respect, and to protect the rights of others, namely the war crime victims.
+
+<<2727.45;2736.77;en>>
+The interference was the minimum needed to secure the legitimate aim, and therefore necessary in a democratic society.
+
+<<2736.77;2747.45;en>>
+Consequently, the second set of proceedings represented an exception of the nebis inedem rule and was justified.
+
+<<2747.45;2770.21;en>>
+For all those reasons, the government requests the court to take its arguments into consideration while deliberating the case, and proposes to the court to declare that there has been no violation of applicants' right to a fair trial, and that exception of nebis inedem principle in the specific circumstances of this case was justified.
+
+<<2770.21;2770.43;en>>
+I thank you for your attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2775.66;2777.39;en>>
+Thank you, Mrs. Stažnik.
+
+<<2777.39;2778.47;en>>
+I turn now to the judges.
+
+<<2778.47;2778.91;en>>
+Are there questions?
+
+<<2778.91;2786.91;en>>
+No questions.
+
+<<2791.07;2792.99;en>>
+Sorry, judge Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<2797.18;2801.5;en>>
+I will have two questions for the both parties.
+
+<<2801.5;2809.9;en>>
+And the first question is, according to the national law, the amnesty decision, how it is understood?
+
+<<2809.9;2817.86;en>>
+It is understood as a judicial decision on acquittal, as an acquittal, or as something else?
+
+<<2817.86;2821.82;en>>
+This is the first question.
+
+<<2823.64;2828.58;hr>>
+Znači, da li ona ima karakter oslobađajuće presude ili nešto drugi?
+
+<<2828.58;2830.24;hr>>
+Neki drugi karakter?
+
+<<2830.24;2834.62;en>>
+Translate it because maybe it's easier if I translate that through translation.
+
+<<2835.4;2860.96;en>>
+And then the second question is whether, according to the National Criminal Procedure Code, it was possible at all to reopen the proceedings once amnesty decision has been granted, regardless whether it was, once when the amnesty decision is granted, whether it is possible to reopen the proceedings.
+
+<<2860.96;2860.96;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2865.62;2867.62;en>>
+Thank you, Judge Turković.
+
+<<2867.62;2869.62;en>>
+Judge Vučinić, please.
+
+[[Judge;Nebojša Vučinić]]
+
+<<2873.16;2874.56;en>>
+Thank you, Mr. President.
+
+<<2874.56;2878.32;en>>
+I also have two questions for both parties.
+
+<<2878.32;2913.92;en>>
+First question, does the legal qualifications of the facts in the first set of proceedings made by Osijek County Court as ordinary murder, not war crimes, amounts fundamental defects according criminal procedure law of Croatia and in the context of paragraph 2, article 4, protocol 7 of the convention?
+
+<<2913.92;2930.16;en>>
+And the second question, if there was a fundamental defect in the proceeding, whether the higher courts in the following procedure were obliged to correct this defect?
+
+<<2930.16;2930.88;en>>
+Thank you, Mr. President.
+
+<<2930.88;2930.88;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2934.15;2936.95;en>>
+Thank you, George Vučinić. George Kalaydjieva, please.
+
+[[Judge;Zdravka Kalaydjieva]]
+
+<<2940.96;2942.16;en>>
+Thank you, President.
+
+<<2942.16;2946.02;en>>
+My question goes also to both parties.
+
+<<2946.02;2963.36;en>>
+I would like to have further clarification on the circumstances in which a request for review of legality may be lodged in the general terms of your applicable criminal procedure code.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2968.46;2968.96;en>>
+Thank you.
+
+<<2972.0;2973.24;en>>
+Any other questions?
+
+<<2973.24;2974.08;en>>
+No.
+
+<<2974.08;2981.46;en>>
+So I propose that we have a break of 15 minutes, and then we will resume the hearing.
+
+<<2981.46;2987.7;en>>
+So we will resume the hearing at 20 past 10.
+
+<<2987.7;2987.7;en>>
+The hearing is adjourned.
+
+[[Announcer;UNK]]
+
+<<3042.18;3042.74;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<3081.18;3082.54;en>>
+Please be seated.
+
+<<3082.54;3086.34;en>>
+The hearing is resumed and I give the floor to Mr. Sabolić.
+
+<<3086.34;3088.12;en>>
+Please.
+
+[[Applicant;AP1]]
+
+<<3093.88;3102.2;hr>>
+Spoštovani sudci, na pitanje gospođe Sutkinje Xenije Turković izjavljujemo.
+
+<<3105.2;3110.2;hr>>
+Zakon o općem oprostu ima dva načina djelovanja.
+
+<<3112.2;3123.7;hr>>
+On određuje da se protiv osoba iz kataloga kazenih dijela tom zakonu neće pokretati kazeni postupak.
+
+<<3125.7;3152.7;hr>>
+Međutim, kada se kazeni postupak pokreni, tada sudskovijeće, kao što je bilo u ovom slučaju, može otvrditi da i taj slučaj spada u taj katalog kazenih dijela i donijeti odluku da se obustavlja kazeni postupak po članu 11 stavljan zahva na kazenom postupku.
+
+<<3152.7;3156.9;hr>>
+I tako je upravo postupljeno u konkretnom slučaju.
+
+<<3156.9;3161.9;hr>>
+Na pitanje, da li se taj slučaj može ponovno razmotrit?
+
+<<3161.9;3163.9;hr>>
+Naravno da može.
+
+<<3163.9;3174.9;hr>>
+Mi smo pozitivne ličnosti i mi tražimo da dođe do nacionalnog pomirenja i da svi oni koji su počinjeni zločini, da ih stigne zaslužena kazna.
+
+<<3174.9;3182.9;hr>>
+Ali u procesnim uvjetima za donošenje pravilne i zakonite odluke.
+
+<<3182.9;3186.9;hr>>
+A te procesne uvjete određuje Hrvatski zakon na kaznom postupku.
+
+<<3186.9;3202.9;hr>>
+Zato Sjenjena Cutkinja, AG Vrhovnog suda Hrvatske, smatra da se takav postupak može kroz obnovu postupka članu 413 ZKPA obnoviti.
+
+<<3202.9;3223.9;hr>>
+Ali prethodno treba isposlovati odluku kod Ustavnog suda Hrvatske, koji to određuje da obnova dozvoljena, ili kod Međunarodnog suda.
+
+<<3223.9;3239.9;hr>>
+Prema tome, nitko nije za nekažnjavanje zločina, ali se zločin mora prethodno utvrditi u zahodnitom postupu.
+
+<<3239.9;3254.9;hr>>
+To nije učinjeno u konjernom slučaju, već je uznanje državnog odlika da ima zapreku u res judikati pro veritate habetur.
+
+<<3254.9;3266.9;hr>>
+Mimo te odluke započeo ovaj novi postupak u spisu K33 kroz 07.
+
+<<3266.9;3275.9;hr>>
+Ali pošto je znao da ima tu zapreku, paralelno je pokrenuo i zaštitu za zaštitu zahodnitosti, da ukloni tu zapreku.
+
+<<3275.9;3312.9;hr>>
+A vrhunni sud Hrvatske, znajući kakva su mu ovlaštenja, donije odluku KZZ 20 kroz 05, gdje je rekao da mi nemamo ovlaštenja dirati u tu pravomoćnu odluku iz člana 11 stav 1, nego samo možemo konstatirati da postoji nepravomenila primjena zakona o općoj oprostu, a pravomoćna odluka, to je upravo ova u spisu K4 kroz 97, ona ostaje netaknuta.
+
+<<3312.9;3330.9;hr>>
+Prema tome državni odljednik, ako je htio da dalje nastavi kazni postupak, treba je tražiti obnovu postupka pod članom 401 i 413 zakona o kaznim postupkama.
+
+<<3330.9;3345.9;hr>>
+Nakon toga bi slijedila ova procedura koju sam malo prije rekao, i za toga bi došao do suđenja, moji bi došao, brednik na optičnom klupu, pa neka dobije i tri dođenote, ne robije, ali neka bude po zakonu.
+
+<<3345.9;3350.9;hr>>
+Ne znam da li ste zadovoljni mojim odgovorom, bilo je još pitanja.
+
+<<3350.9;3377.9;hr>>
+Što se tiče kompleksa činjenica, životnih događaja, radnjih, uzročnosti, kauzaliteta, sve to bilo poznato u vrijeme kada je primjenjen zakon općenog oprava.
+
+<<3377.9;3404.9;hr>>
+Međutim, kada se u Hrvatskoj dogodio, ja ću reći, dragostreni prevrat, da treba doći do nacionalnog pomirenja, ali ne na takav način da eksploatiramo zločince, nego samo one koji to zaslužuju, tada je došlo do ove naglosti, naglog zaokreta, i nažalost, moj branjenik je bio prvi na udaru.
+
+<<3404.9;3430.9;hr>>
+On kao takav nije gotovo imao nikakve šanse na uspjeh, jer meni su ljudi, ja sam u tovo vrijeme imao kuću u Đuđevsu koja je oko 200 km daleko do Sijeka, i tamo sam vam fixin telefon, mene su nazivali njegovi prijatelji i njegovi suborci i rekli mi nemaš izgleda na uspjeh jer ti je već suđen davno u medijini.
+
+<<3430.9;3437.9;hr>>
+Nisu se tijeli predstaviti, ali znam, našli su me 200 km od moje privatne kući, ne znam kako su uopće doznali za to da se ja tamo nalazim.
+
+<<3437.9;3442.9;hr>>
+Ja bi u vezi toga još htio samo napomenuti da uzimam previše vremena.
+
+<<3442.9;3472.9;hr>>
+Slažem se potpuno da se ne smije ostaviti dojam da ratni zločani ostane nekaženi, ali jednako tako se ne smije ostaviti dojam pred ovom populacijom prijatelja suboraca i druge populacije u Hrvatskoj koja smatri da se borimo za pravednu stvar, da ostanu ove greške i da uz te greške služi nedužan čovjek kad nu zatvora.
+
+<<3472.9;3492.9;hr>>
+Jer oni se svi čude za prepaštenicu kako je moguće da je isti sudac sudio na osnovu istog kompleksa činjica, na osnovu istog životnog događaja, jedan puta opustavom i oprostom, a drugi puta je dao čak 14 godina zatvora.
+
+<<3492.9;3498.9;hr>>
+Oni se isto tako čude kako je moguće da je bio uklonjeni sudnice na ovakav način.
+
+<<3498.9;3511.9;hr>>
+Član 303 stav 2 ZKPA kaže, predsjednik vijeća može upozoriti osobu koja prave nered, a vijeća ga može na ograničeno vrijeme uputiti i sudnice.
+
+<<3511.9;3519.9;hr>>
+Tako nije postupljeno. Postupljeno je drugačije, udaljen je do kraja suđenja,
+
+<<3519.9;3530.9;hr>>
+a treba biti pozor na završenu riječ jer ja njega ne mogu substituirati, nitko ne može ispovijedati tuđe grehe. Svako mora sam svoje grehe ispovijedati
+
+<<3530.9;3537.9;hr>>
+i sam računati kako će doći do spasenja. Na ovom svijetu ili na ovom svijetu.
+
+<<3537.9;3565.9;hr>>
+Prema tome nije postupljeno po zakonu, a ovo što je, pošto ona kolegica rekla da je on mogao prilikom proklašenja presude reći završenu riječ, to je neustvarilo jer je presuda bila objavljena nekoliko dana kasnije. Kada se objavljuje presuda, više nitko nema pravo na bilo kako riječ.
+
+<<3565.9;3570.9;hr>>
+Prema tome on se nije mogo više javljati. A radi se o bolestnom čovjeku.
+
+<<3570.9;3577.9;hr>>
+Njegovi su svakak puta prije rasprave u bolnici po 5-6 dana držali da bi ga osposobili za raspravu.
+
+<<3577.9;3583.9;hr>>
+Pa trebalo bi se uvoditi računa da imaju pred sobom čovjeka uz humannu etiku, imaju pred sobom kazeni predmet, negledajući na tu humannu stranu.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3592.58;3596.02;en>>
+Thank you, Mr. Sabolić. Mrs. Stažnik, please.
+
+[[Government;GR1]]
+
+<<3600.38;3622.18;en>>
+As regards first question asked by the court, the government would respond that the decision to discontinue the proceedings in the circumstances of this particular case had the effect of a final acquittal or conviction for the applicant.
+
+<<3622.18;3636.72;en>>
+Such a legal position was affirmed by the case law of the Constitutional Court of the Republic of Croatia as well, and we gave the relevant case law to the case file.
+
+<<3636.72;3647.82;en>>
+Also, what I'd like to point out is that the applicant's amnesty decision was substantively annulled by the final judgment brought in the second set of criminal proceedings.
+
+<<3647.82;3655.56;en>>
+Even though it did not explicitly declared its legality invalid, it substantively did so.
+
+<<3655.56;3667.92;en>>
+Namely, the applicant was later found guilty for all crimes he was amnestied for and some new crimes and new circumstances in which those crimes were committed.
+
+<<3667.92;3678.6;en>>
+Therefore, both decisions, in part, point to the same crime the applicant committed in 1991, 1992.
+
+<<3678.6;3689.84;en>>
+And therefore, the later decision, the judgment in the second set of criminal proceedings, annulls all prior decisions regarding the same matter.
+
+<<3689.84;3708.84;en>>
+As regards second question posed by Judge Turkovic, we would say that relevant provisions of the Criminal Procedure Act prescribe that proceedings can be reopened only exceptionally at disadvantage of the accused.
+
+<<3708.84;3717.52;en>>
+There are five numerated reasons in the Criminal Procedure Act for reopening.
+
+<<3717.52;3724.6;en>>
+And neither of those five was applicable to the applicant's case.
+
+<<3724.6;3746.06;en>>
+As regards third question posed by Judge Vucinic, whether the legal qualification in the first set of proceedings amounted to the fundamental defect.
+
+<<3746.06;3747.76;en>>
+Yes, it did.
+
+<<3747.76;3761.88;en>>
+It amounted to the fundamental defect, while other circumstances of the whole case were not known to the national courts.
+
+<<3761.88;3790.4;en>>
+As regards the fourth question, fourth question of Judge Vucinic, we would like to note that upon applicant's appeal to the first instance judgment, the Supreme Court took a stance that larger criminal quantity in the second indictment does not form a violation of nebis in item rule.
+
+<<3790.4;3792.64;en>>
+This was in 2007.
+
+<<3792.64;3796.76;en>>
+And this stance was not in collision with the court's case law.
+
+<<3796.76;3802.96;en>>
+It was prior to Zolotukhin and Maresti judgments in 2009.
+
+<<3802.96;3830.92;en>>
+As regards fifth question, when the request for protection for legality can be lodged, the state attorney can file a request for the protection of legality every time he considers that national law has been violated and when res judicata and final proceedings violated human rights.
+
+<<3830.92;3840.12;en>>
+That was the case in the first proceedings that ended with amnesty decision.
+
+<<3840.12;3847.44;en>>
+In this case, the Supreme Court has established that domestic substantive law has been violated.
+
+<<3847.44;3860.26;en>>
+It was a declaratory decision which could not interfere with amnesty decision since it was brought to the applicant disadvantage.
+
+<<3860.26;3860.26;en>>
+I thank you for your attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3864.36;3866.24;en>>
+Thank you, Mrs. StudStažnikgeon.
+
+<<3869.36;3872.04;en>>
+We have now come to the end of the hearing.
+
+<<3872.04;3879.96;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<3879.96;3883.08;en>>
+The court will now deliberate on the merits.
+
+<<3883.08;3886.4;en>>
+The judgment will be delivered later.
+
+<<3886.4;3891.4;en>>
+The parties will be informed of the date of delivery.
+
+<<3891.4;3892.4;en>>
+I declare the hearing closed.
+

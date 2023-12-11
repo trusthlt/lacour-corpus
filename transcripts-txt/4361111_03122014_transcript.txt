@@ -1,0 +1,1470 @@
+[[Announcer;UNK]]
+
+<<10.47;11.19;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<50.77;51.77;en>>
+Please be seated.
+
+<<56.66;63.49;en>>
+I declare open the public hearing on the merits in the case of F.G. against Sweden.
+
+<<63.49;73.97;en>>
+The case was lodged with the court on the 12th of July, 2011, under Article 34 of the Convention by an Iranian national who has been granted an unanimity.
+
+<<73.97;91.25;en>>
+On the 16th of January, 2014, the chamber of the Fifth Section delivered its judgment in the case, finding that the implementation of the expulsion order against the applicant would not give rise to a violation of Articles 2 or 3 of the Convention.
+
+<<91.25;101.09;en>>
+On the 16th of April, 2014, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the Convention.
+
+<<101.09;108.59;en>>
+And the panel of the Grand Chamber accepted the request on the 2nd of June, 2014.
+
+<<108.59;139.74;en>>
+Under Rule 44, Paragraph 3 of the Rules of Court, leave was granted to intervene as third parties in the written proceedings before the Grand Chamber to the European Center for Law and Justice, the Alliance Defending Freedom, assisted by Jubilee Campaign, the AIR Center, the European Council on Refugees and Exiles, the International Commission of Jurists, and the United Nations High Commissioner for Refugees.
+
+<<139.74;143.25;en>>
+The government are represented by their agent, Mr. Anders
+
+<<143.25;153.45;en>>
+Rönquist, Ambassador and Director General for Legal Affairs, Ministry of Foreign Affairs, assisted by Ms. Helen Lindquist, Ms. Maria Westman-Clément,
+
+<<153.45;157.53;en>>
+and Ms. Linda Öman Bristow Advisors.
+
+<<157.53;161.94;en>>
+The applicant is represented by Mr. David Loveday, Counsel,
+
+<<161.94;165.38;en>>
+assisted by Ms. Hanna Pettersson and Ms. Angela
+
+<<165.38;167.69;en>>
+Evans, Advisors.
+
+<<167.69;174.69;en>>
+I welcome the representatives of the parties in the name of the court.
+
+<<174.69;185.86;en>>
+I also welcome the delegation of Albanian magistrates and lawyers, and the delegation of Turkish prosecutors who are visiting the court.
+
+<<185.86;201.69;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Turkish has been authorized for the benefit of the delegation of Turkish prosecutors attending this hearing.
+
+<<201.69;212.5;en>>
+This interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<212.5;221.69;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<221.69;225.21;en>>
+Mr. Loveday for the applicant will speak first,
+
+<<225.21;228.86;en>>
+and then Mr. Rönquist for the government.
+
+<<228.86;230.42;en>>
+I call Mr. Loveday.
+
+[[Applicant;AP1]]
+
+<<234.72;238.4;en>>
+Mr. President, members of the court,
+
+<<238.4;243.24;en>>
+the situation for human rights in Iran is extremely troubling.
+
+<<243.24;263.92;en>>
+Before the court, there is overwhelming objective evidence that perceived political and religious dissidents who attract the attention of the Iranian authorities can face a real risk of arrest, detention, ill treatment, lengthy prison sentences, and in the worst cases, the imposition of the death penalty.
+
+<<263.92;273.04;en>>
+The applicant fled Iran in 2009 after being subjected to inhuman and degrading treatment at the hands of the Iranian authorities.
+
+<<273.04;279.8;en>>
+Seeking protection in Sweden, he has subsequently converted to the Christian faith.
+
+<<279.8;288.04;en>>
+Despite this, Sweden has made a deliberate decision to send the applicant back to Iran.
+
+<<288.04;303.2;en>>
+Neither the Swedish authorities nor the majority of the fifth section of this court took account of his previous ill treatment in their assessment of future risk and when they concluded that he could be sent to Iran.
+
+<<303.2;319.0;en>>
+What's more, as the government itself accepts, and I quote here from paragraph 65 of its observations, no thorough assessment of the applicant's risk of persecution due to his conversion upon return to Iran has been made.
+
+<<319.0;328.44;en>>
+The government nevertheless urges this court to hold that the convention would allow Sweden to send the applicant to Iran today if it wished.
+
+<<328.44;339.24;en>>
+The applicant has complained under Articles 2 and 3, but for ease of reference and in accordance with the court's case law, my submissions now focus on Article 3 alone.
+
+<<339.24;349.06;en>>
+We say that there have been serious procedural failings at the national level, failings reflected in part in the majority judgment of the fifth section of this court.
+
+<<349.06;359.68;en>>
+But most crucially, we say that the applicant would face a real risk of inhuman or degrading treatment, and in the worst case, the death sentence on return.
+
+<<359.68;364.44;en>>
+Consideration of both points requires a careful understanding of the facts.
+
+<<364.44;373.32;en>>
+In the interest of time and the applicant's safety, I can't repeat in open court all of the evidence that we've presented to the Grand Chamber.
+
+<<373.32;379.68;en>>
+What can be said today is that FG is a 52-year-old Iranian national.
+
+<<379.68;391.92;en>>
+In Iran, his work as a web technician and university administrator brought him into contact with progressive academics, and he joined a growing movement for political reform.
+
+<<391.92;402.64;en>>
+In June 2009, a presidential election was held in which the reformist Mousavi opposed the incumbent, Ahmadinejad.
+
+<<402.64;408.88;en>>
+The applicant worked on the Mousavi campaign, assisting with IT and distributing information.
+
+<<408.88;412.32;en>>
+The election was declared for Ahmadinejad.
+
+<<412.32;421.96;en>>
+There were widespread accusations of electoral fraud, and demonstrations against the government ensued, demonstrations in which the applicant participated.
+
+<<421.96;425.84;en>>
+Arrests and abuse followed in the resulting clampdown by the state.
+
+<<428.4;441.0;en>>
+The applicant has maintained that in September 2009, he was arrested by the Revolutionary Guard and detained for 18 days without any kind of court hearing.
+
+<<441.0;445.48;en>>
+The majority of that period he spent in solitary confinement.
+
+<<445.48;450.8;en>>
+His cell was so small he could not sit and stretch out his legs.
+
+<<450.8;452.52;en>>
+He was beaten.
+
+<<452.52;454.66;en>>
+He was deprived of sleep.
+
+<<454.66;460.8;en>>
+He was interrogated about who he was working with and which countries he was receiving orders from.
+
+<<460.8;464.88;en>>
+The guards tried to force the applicant to become a collaborator.
+
+<<464.88;467.16;en>>
+They made threats against his family.
+
+<<467.16;474.92;en>>
+The guards told him that he was Muharrab, an enemy of God, and that the judge had said he must be killed.
+
+<<474.92;478.4;en>>
+He was subjected to mock execution.
+
+<<478.4;491.88;en>>
+The court's existing case law, such as the El-Masri judgment, leaves no doubt at all that the treatment to which the applicant maintains he was subjected was inhuman and degrading.
+
+<<491.88;496.36;en>>
+On the 19th day, the applicant was taken blindfolded from his cell.
+
+<<496.36;502.68;en>>
+When the blindfold was removed, he discovered that he'd been taken to the Revolutionary Court.
+
+<<502.68;512.56;en>>
+The applicant has been very clear about the identity of the judge in charge, as can be seen from the transcript of his asylum interview at page 6 of our appendix 3.
+
+<<512.56;533.48;en>>
+In fact, just over a year after his asylum interview, the Council of Ministers of the EU required Sweden and the other EU member states to ban this very judge from EU territory and freeze his assets on the grounds that he was among a number of specified individuals responsible for serious human rights violations in Iran.
+
+<<533.48;544.52;en>>
+As the relevant council decision shows, the applicant correctly identified not only the court to which this judge belonged, but also his department number within that court.
+
+<<544.52;553.6;en>>
+International media reports from as recently as this summer confirmed that the same judge remains in post at the Revolutionary Court in Tehran.
+
+<<553.6;570.36;en>>
+They identify him as a member of a group of judges manipulating the trial process and imposing unduly harsh punishments in order to spearhead a fresh crackdown on perceived dissidents under the influence of Iran's intelligence and security apparatus.
+
+<<570.36;576.4;en>>
+By the time this applicant appeared in the Revolutionary Court, he had been broken by his treatment.
+
+<<576.4;581.2;en>>
+He went along with whatever the court said just to get out.
+
+<<581.2;590.4;en>>
+He was released after providing various guarantees, including a promise to collaborate and to present himself whenever summoned.
+
+<<590.4;598.6;en>>
+When he returned to his office, he found it had been ransacked and material critical of the regime had been taken.
+
+<<598.6;610.04;en>>
+Shortly thereafter, he received a summons from a state prosecutor under the auspices of the Revolutionary Court to attend Evin prison at the beginning of November 2009.
+
+<<610.04;613.64;en>>
+Fearing for his safety, he refused to comply with that summons.
+
+<<613.64;616.84;en>>
+Instead, he used a smuggler to flee Iran.
+
+<<616.84;621.52;en>>
+He did so illegally without the exit authorizations required under Iranian law.
+
+<<621.52;626.2;en>>
+Reaching Sweden, he sought international protection.
+
+<<626.2;636.6;en>>
+The applicant first gave a detailed account of the experiences that led him to flee Iran in an asylum interview before the Swedish Migration Board in March 2010.
+
+<<636.6;647.92;en>>
+Since then, only one independent tribunal has considered the applicant's oral testimony, and only one national court has reached a substantive judgment about the risks he faces.
+
+<<647.92;653.2;en>>
+That was the administrative court in Stockholm sitting as a migration court.
+
+<<653.2;671.52;en>>
+In its judgment of March 2011, the migration court ruled, and I quote, in the court's opinion, over the course of the proceedings, the appellant has provided a consistent and, in all essential respects, credible account in support of his application for protection in Sweden.
+
+<<671.52;682.16;en>>
+Such uncertainties as the Migration Board has pointed to in its decision, he has been able to explain in an acceptable way on this appeal and at the oral hearing.
+
+<<682.16;688.84;en>>
+The court, therefore, bases its assessment of whether he risks being subjected to persecution on his account.
+
+<<692.64;696.36;en>>
+Then there's the question of the applicant's faith.
+
+<<696.36;706.32;en>>
+In Iran, he had been a nominal but inactive Muslim who had expressed skepticism of Islam and who had disagreed with the Islamic revolution.
+
+<<706.32;710.6;en>>
+His first encounter with Christianity appears to have happened by chance.
+
+<<710.6;718.8;en>>
+He and some fellow asylum seekers out in a Swedish town one winter evening happened to enter an open prayer meeting to escape from the cold.
+
+<<718.8;727.12;en>>
+After returning to further meetings and study sessions, he converted and was baptized in January 2010.
+
+<<727.12;734.28;en>>
+Nearly five years have passed since then, and the applicant's faith has continued to develop and to deepen.
+
+<<734.28;741.8;en>>
+One thing that has remained constant from the earliest days of his conversion is the relationship he experiences with God.
+
+<<741.8;748.8;en>>
+He sees it as a relationship of love, which is, to him, personal and indeed private.
+
+<<748.8;762.2;en>>
+He's reluctant to discuss this core aspect of his faith publicly or with people he is not close to, in much the same way that one is reluctant to discuss publicly the most intimate details of one's marriage.
+
+<<762.2;770.0;en>>
+But not only does he publicly avow the fact that he's a Christian, he also practices his faith in public.
+
+<<770.0;774.36;en>>
+For example, he receives and distributes the communion in open services.
+
+<<774.36;778.16;en>>
+He leads a Bible study group.
+
+<<778.16;788.72;en>>
+It should not be thought that because of how he sees his relationship with God, he accepts uncritically all practices and viewpoints that are discernible within Christianity in its various forms.
+
+<<788.72;790.24;en>>
+Far from it.
+
+<<790.24;793.84;en>>
+He engages critically with Christian theology and practice.
+
+<<793.84;800.28;en>>
+His mistrust of superstition has led him to question beliefs that are attributable to some within this Christian fold.
+
+<<800.28;810.84;en>>
+What's more, his moderate approach to Christianity has led him to doubt the more extreme actions of some Christians who he believes to be charlatans.
+
+<<810.84;817.48;en>>
+In fact, this contributed to his decision to leave one particular congregation in Sweden.
+
+<<817.48;824.76;en>>
+At the same time, he has developed an increasingly critical view of Islam, both as practiced in Iran and generally.
+
+<<824.76;842.64;en>>
+In written evidence before the Grand Chamber, he has made a number of statements about Islam, about the prophet Muhammad, and about Muslim religious leaders, particularly in Iran, which we would submit are liable to be considered highly inflammatory by those who maintain the state religion in Iran.
+
+<<842.64;858.08;en>>
+It's equally clear from this written evidence that the applicant's attitude to religion is inextricably entwined with his political attitudes, including his attitudes towards gender equality and the situation of violence and international insecurity in the Middle East.
+
+<<858.08;869.64;en>>
+That his religion and politics should have such a close relation to each other is hardly surprising, given the applicant's past experiences at the hands of the Islamic Republic of Iran.
+
+<<869.64;882.48;en>>
+What emerges from his evidence to the Grand Chamber, and indeed from his substantive asylum interview in Sweden, is the applicant defines Christianity and Islam in opposition to each other.
+
+<<882.48;895.16;en>>
+Since Christian believers have direct personal access to a loving God, he believes that there is no need for a priestly class to mediate between believers and God or to prescribe rules of behavior.
+
+<<895.16;904.24;en>>
+In the applicant's view, where Islam is religion, Christianity thus represents freedom from religion.
+
+<<904.24;911.48;en>>
+For all that, the applicant's faith is no less a religion or a belief for the purposes of the convention.
+
+<<911.48;922.72;en>>
+On any view, his Christian faith and beliefs have attained the level of cogency, seriousness, cohesion, and importance that would attract the right to respect under Article 9.
+
+<<922.72;942.48;en>>
+Perhaps the most eloquent expression of this has been the applicant's clear reluctance, ever since seeking protection in Sweden, to denigrate his faith as he sees it by invoking it as a means of securing protection, despite the efforts of a series of legal representatives to raise the matter on his behalf.
+
+<<942.48;948.6;en>>
+Despite all of this, the Swedish authorities have ruled that it's safe to send the applicant to Iran.
+
+<<948.6;962.72;en>>
+The first question for the court is whether Sweden has violated Article 3 in its procedural aspect by failing to conduct the necessary, careful, and rigorous examination of the risks which face the applicant on the return.
+
+<<962.72;971.88;en>>
+We have identified three clear reasons why we say the Swedish authorities and courts have failed to meet their obligations in this regard.
+
+<<971.88;984.0;en>>
+First, the migration court failed to take account of the fact he has already been subjected to ill treatment in Iran when assessing the risk he might face on return.
+
+<<984.0;988.0;en>>
+His previous ill treatment is of particular significance.
+
+<<988.0;1002.64;en>>
+As this court has previously recognized, for example, in RC against Sweden, evidence of previous ill treatment creates a presumption, which it's for the state to rebut, that risk of similar treatment will persist on return.
+
+<<1002.64;1008.72;en>>
+We would respectfully submit that the majority of the fifth section of this court fell into the same error.
+
+<<1008.72;1020.28;en>>
+In its judgment, there is not a single reference to the ill treatment to which the applicant on the migration court's findings must already have been subjected in Iran.
+
+<<1020.28;1030.44;en>>
+Second, as explained in our written observations, the national authorities imposed on the applicant a standard of proof of future risk that, on any view, was too high.
+
+<<1030.44;1035.16;en>>
+Their assessment of future risk was tainted and unsound.
+
+<<1035.16;1042.4;en>>
+Third, the Swedish authorities failed adequately to assess the risks facing the applicant due to his religion.
+
+<<1042.4;1051.76;en>>
+As I've already highlighted, the government now accepts that no thorough assessment of the applicant's risk of persecution due to his conversion has been made.
+
+<<1051.76;1056.72;en>>
+It's important to be absolutely clear about the context for this.
+
+<<1056.72;1072.52;en>>
+Contrary to what the government has suggested, at every single stage of the national proceedings, the written pleadings and arguments submitted on the applicant's behalf contended that he did face risk on grounds of his religious conversion.
+
+<<1072.52;1082.84;en>>
+The applicant allowed the migration board to question him about his conversion during his asylum interview, and he actively assisted by providing documentary evidence of his baptism.
+
+<<1082.84;1092.2;en>>
+On his appeal to the migration court against the deportation order, the migration board made clear that they did not dispute that he could have converted to Christianity.
+
+<<1092.2;1100.2;en>>
+Yet the migration court did not reach any assessment of the risks facing the applicant as a result of his religious conversion.
+
+<<1100.2;1116.6;en>>
+The sole explanation for this appears in the migration court's summary of what the applicant told them during the course of the oral hearing, and I quote, he does not invoke his conversion as a ground for asylum, but rather considers it to be something personal.
+
+<<1116.6;1124.28;en>>
+However, his conversion is patently going to cause problems for him on his return.
+
+<<1124.28;1145.04;en>>
+It's true that the applicant repeatedly made clear that he did not wish to denigrate his newfound faith by treating it as a means of buying protection in Sweden, but in our submission, that did not absolve the national court from carrying out a careful and rigorous assessment of the risks facing the applicant on all grounds.
+
+<<1145.04;1166.4;en>>
+In our written submissions, we've explained why, even if the convention does allow an individual to waive his or her Article 3 rights, this applicant never made a valid waiver of his right, both to protection from being sentenced to a risk of inhuman or degrading treatment, and also his rights to a rigorous assessment of that risk, whatever its sources.
+
+<<1166.4;1177.24;en>>
+But more fundamentally, we submit that individuals cannot waive or limit their rights or the state's corresponding obligations under Article 3.
+
+<<1177.24;1185.44;en>>
+The court has repeatedly emphasized that the protection to be guaranteed under Article 3 is absolute and non-derogable.
+
+<<1185.44;1188.24;en>>
+It is not theoretical or illusory.
+
+<<1188.24;1191.28;en>>
+It must be practical and effective.
+
+<<1191.28;1202.76;en>>
+What's more, the doctrinal basis of the extension of Article 3 protection to expulsion cases is in our submission clear, for example, from the Sering judgment.
+
+<<1202.76;1220.08;en>>
+It is that it would offend against the convention for a contracting state to expel an individual to a particular country when the state knows or ought to know that there is a real risk that the individual would be subjected to torture or inhuman or degrading treatment is sent there.
+
+<<1220.08;1224.8;en>>
+It's the state's knowledge or deemed knowledge that is key.
+
+<<1224.8;1245.2;en>>
+If, as the court has repeatedly made clear, the state's obligations under Article 3 cannot be watered down on the grounds that an applicant is, for example, the most despicable criminal or terrorist, they can hardly be watered down on the basis that an applicant is anxious not to exploit his newfound faith.
+
+<<1245.2;1269.16;en>>
+Knowing that the applicant's conversion was not disputed and given the objective evidence about the risks faced by converts in Iran, Article 3 required the Migration Court not only to rigorously assess the risks thereby faced by the applicant before deciding to send him to Iran, but also to state a conclusion and give reasons on the point, especially since they'd already found him to be credible.
+
+<<1269.16;1275.0;en>>
+Instead, the Migration Court left the point unexamined and undecided.
+
+<<1275.0;1289.04;en>>
+It's entirely possible that if the Migration Court had expressed a view on the risk posed by his conversion, it would have found it unsafe to return the applicant to Iran.
+
+<<1289.04;1319.48;en>>
+These procedural failings were compounded, we would say, by the response of the Swedish state when the applicant, learning that his open participation in an initiation ceremony in a new congregation had been broadcast over the internet, indisputably did ask the Swedish authorities to assess the risks he would face as a result of his conversion, and to stress that's something which the applicant did even before his deportation order was finally upheld by the national courts, as our Appendix 25 makes clear.
+
+<<1319.48;1339.28;en>>
+In particular, the refusal of a fresh examination thereafter on the grounds that the circumstances raised were not new, apart from being factually inaccurate, is inconsistent with the position hitherto reached by the national courts that religion had not been invoked and in any event was not examined.
+
+<<1339.28;1346.68;en>>
+As the minority of the fifth section of this court put it in its dissent, Sweden cannot have it both ways.
+
+<<1346.68;1357.4;en>>
+So we submit there have been numerous procedural failings at the national level, and in our submission, any or all of them are sufficient in themselves to violate Article 3 in its procedural aspect.
+
+<<1357.4;1366.16;en>>
+The second question, regardless of the adequacy of the national proceedings, is whether the applicant's removal would in fact violate Article 3 now.
+
+<<1366.16;1376.2;en>>
+The test, of course, is whether there are substantial grounds for believing there is a real risk that if returned to Iran, he would be subjected to inhuman or degrading treatment.
+
+<<1376.2;1390.44;en>>
+We say that on the basis of a full ex-nunc assessment, taking account of country's conditions and of this applicant's personal circumstances, there is no doubt that the applicant's removal to Iran would violate Article 3.
+
+<<1390.44;1395.64;en>>
+One issue has assumed central importance in the written arguments before the Grand Chamber.
+
+<<1395.64;1408.04;en>>
+Is it consistent with the convention to expect the applicant to avoid risks of ill treatment that would otherwise arise by suppressing or limiting the manifestation of his faith on return?
+
+<<1408.04;1419.52;en>>
+In fact, there is broad agreement on the basic answer to this question between the applicant, the government, and the intervening parties, including the UN High Commissioner for Refugees.
+
+<<1419.52;1440.16;en>>
+The government accepts in its written case the principle recognized by the Court of Justice of the EU in its judgment last year in the YNZ case that where it is established that upon his return to his country of origin, the person concerned will follow a religious practice which will expose him to a real risk of persecution, he should be granted refugee status.
+
+<<1440.16;1447.84;en>>
+The fact that he could avoid that risk by abstaining from certain religious practices is, in principle, irrelevant.
+
+<<1447.84;1456.24;en>>
+For the avoidance of any doubt, there are three reasons why we submit that must be the correct analysis under Article 3 as well.
+
+<<1456.24;1468.72;en>>
+First, we say that it is offensive to the spirit of the convention to require applicants to suppress their fundamental right to freely manifest their religion as they choose.
+
+<<1468.72;1482.32;en>>
+The rationale of the convention is that people should be able to live freely without fearing that they may suffer execution or torture, inhuman or degrading treatment or punishment because they're Christian, or indeed for any other reason.
+
+<<1482.32;1503.12;en>>
+To expect anything else of the applicant involves surrendering his right to live freely and openly in society as who he is in terms of his religion, including not only his right to profess the Christian faith, but also his right not to profess the Islamic faith into which he was born, but which he has actively rejected.
+
+<<1503.12;1514.4;en>>
+Second, we say that to assume that applicants can avoid risk by being discreet would arbitrarily limit the rigorous factual assessment of risk that Article 3 requires.
+
+<<1514.4;1521.64;en>>
+This is because it would exclude an examination of the potential risk that even private manifestations of faith may be discovered.
+
+<<1521.64;1540.76;en>>
+Discovery may readily happen by chance, for example, where a visitor happens to discover a Bible or a crucifix in the applicant's home, but the risk that private manifestations of faith will be discovered is all the greater in a country like Iran, where there is cogent evidence of state surveillance and of the use of informants.
+
+<<1540.76;1550.16;en>>
+The convention cannot expect the applicant to live in fear every time there is a knock on his door that this may be the day his secret is discovered.
+
+<<1550.16;1565.24;en>>
+Finally, we submit that expecting the applicant to avoid risk by suppressing outward evidence of his convictions requires him not only to lie whenever he's asked about his beliefs or practices, but also to lie convincingly.
+
+<<1565.24;1581.12;en>>
+This involves the court and the national authorities in an impossible counterfactual exercise, just as importantly, to require an individual to lie in order to protect himself or herself is fundamentally offensive to the spirit of the convention.
+
+<<1581.12;1595.76;en>>
+The situation will materialize every time the applicant is asked about something relevant to his faith, whether it's under questioning by border officials on return or when his neighbor asks him why he has never attended the local mosque since moving into the area.
+
+<<1595.76;1603.68;en>>
+In reality, it's never simply going to be a question of expecting the applicant to abstain from exercising a fundamental right.
+
+<<1603.68;1619.56;en>>
+It's also a question of expecting him to take active measures constantly and quite possibly for the rest of his life to conceal his past and his true beliefs, to cover his tracks, to construct and live a convincing lie.
+
+<<1619.56;1622.84;en>>
+That's an impossible burden.
+
+<<1622.84;1627.2;en>>
+In our submission, the focus of the court's inquiry should be this.
+
+<<1627.2;1652.28;en>>
+Assuming that the applicant tells the truth on return, assuming that he manifests his beliefs and convictions and exercises his fundamental rights as he would in a free country, and rigorously scrutinizing the risk that the Iranian authorities may discover the applicant's true beliefs and practices even when he manifests them privately, what specific risks would this particular applicant face in Iran?
+
+<<1652.28;1664.68;en>>
+In our written case, we've identified not only the specific factors that place this particular applicant at a real risk of ill treatment if returned to Iran, but also the occasions on which such risk would materialize.
+
+<<1664.68;1672.52;en>>
+We say that there's already a real risk that the Iranian authorities are aware of these proceedings and that the applicant is identifiable.
+
+<<1672.52;1678.08;en>>
+We say that there is already a real risk that the Iranian authorities are aware of his activity in Sweden.
+
+<<1678.08;1699.92;en>>
+As the Migration Board puts it in the concluding paragraph of its own legal position statement on risk assessments for individuals belonging to minorities and other groups in Iran, reference number RCI 16 of 2012, the Iranian authorities are assessed as investing remarkably large resources in monitoring and mapping out the conduct of Iranian nationals abroad.
+
+<<1699.92;1705.84;en>>
+In fact, the country distinguishes itself as one of the countries that goes furthest in this regard.
+
+<<1705.84;1710.28;en>>
+This should be a starting point for any assessment.
+
+<<1710.28;1719.44;en>>
+What's more, there's clearly a real risk that this particular applicant will be interrogated by state officials on return to the airport in Iran.
+
+<<1719.44;1728.04;en>>
+If nothing else, this is because of his long absence from Iran, as the government accepts in paragraph 52 of its written observations.
+
+<<1728.04;1743.8;en>>
+But the risk is heightened further still by the fact that he left Iran illegally, by his previous detention and ill treatment, by the terms on which he was released from detention by the Revolutionary Court, and by the fact that he then failed to surrender to a summons.
+
+<<1743.8;1751.0;en>>
+When questioned, he cannot be expected to lie about his convictions, religious or political, or about his past.
+
+<<1751.0;1765.08;en>>
+If he gets through the airport unscathed, the evidence before the Grand Chamber is that the applicant will try to make contact with other Christians, with whom he will engage in a critical discussion, not only of Christianity, but also of Islam, of its imams and Mohammed.
+
+<<1765.08;1773.76;en>>
+He may not discuss the nature of his relationship with God publicly, and he may find it difficult to disclose his faith to his family and people from his past.
+
+<<1773.76;1779.76;en>>
+But he can be expected to be open about the fact of his faith with others, as he would with everyone in a free society.
+
+<<1779.76;1782.72;en>>
+He will join a home church and participate in services.
+
+<<1782.72;1785.28;en>>
+He will instruct others in Bible classes.
+
+<<1785.28;1789.84;en>>
+He will promote and disseminate Farsi-language Christian literature.
+
+<<1789.84;1813.44;en>>
+Given the extent of statal infiltration and surveillance of Christian communities and communications, there is clearly a real risk that this applicant will be identified to or by the Iranian authorities as a Christian convert with strong views, views likely to be considered inflammatory, not only about Christianity, but also about Iranian state-sanctioned Islam and the figures and principles it reveres.
+
+<<1813.44;1821.12;en>>
+All of these factors, in turn, entail a real risk, at the very least, that he will be arrested and detained and ill-treated during detention.
+
+<<1821.12;1823.8;en>>
+What is the government's answer to these concerns?
+
+<<1823.8;1828.6;en>>
+As far as we can see, the government's written defense now comes down to two grounds.
+
+<<1828.6;1839.12;en>>
+First, despite our express point to the contrary in our reference request, the government wrongly assumes that the applicant has abandoned all claims that he would face risk as a result of his previous history in Iran.
+
+<<1839.12;1845.32;en>>
+They've continued to ignore the potential risks arising from his previous ill-treatment at the hand of the authorities.
+
+<<1845.32;1857.56;en>>
+Second, the sole basis on which the government now denies that the applicant will face a risk as a result of his conversion is to deny, as we understand it, that he's a genuine convert at all.
+
+<<1857.56;1881.28;en>>
+It's nothing short of extraordinary that the genuineness of the applicant's belief should be actively denied for the first time now in writing before the Grand Chamber by a legal representative who has apparently never met or asked to meet the applicant after the Migration Board confirmed in the national proceedings that it's not disputed that he had become a Christian and after his conversion was accepted before the Chamber.
+
+<<1881.28;1892.44;en>>
+It also flies in the face of the state's duty of neutrality and impartiality, we say, as explained at paragraph 55 of the Grand Chamber's judgment this year in SAS against France.
+
+<<1892.44;1900.6;en>>
+The government's further claim at paragraph 53 of its observations that the applicant has not substantiated his identity is unfathomable.
+
+<<1900.6;1910.4;en>>
+The national authorities and courts have consistently held that the applicant has established his identity to the very high standard of proof they required.
+
+<<1910.4;1925.64;en>>
+In conclusion, therefore, in accordance with our written and oral submissions, we respectfully invite the court to declare the application admissible and to conclude that due to the failings in the national proceedings, Sweden has violated articles two and three in their procedural aspect.
+
+<<1925.64;1938.6;en>>
+What's more, there's a real risk that this applicant, like so many other Christian converts or others considered to be political or religious dissidents, will be subjected to inhuman or degrading treatment if returned to Iran.
+
+<<1938.6;1943.16;en>>
+At the worst, he may be sentenced to death, as the Iranian national Mr. Soheil Arabi was
+
+<<1943.16;1949.28;en>>
+in August this year for supposedly insulting the prophet Muhammad in a series of Facebook posts.
+
+<<1949.28;1954.84;en>>
+The death sentence may even be carried out, as in the case of Mr. Mohsen Amir Aslani,
+
+<<1954.84;1958.36;en>>
+who was executed in September after eight years in prison.
+
+<<1958.36;1961.56;en>>
+Mr. Amir Aslani was an Iranian psychologist
+
+<<1961.56;1967.92;en>>
+with an interest in theology who gave religious classes, looking at different interpretations of the Quran.
+
+<<1967.92;1977.92;en>>
+Reports indicate that his crime was to tell one of his classes that Jonah could not have emerged from the belly of a whale.
+
+<<1977.92;1984.24;en>>
+We respectfully invite the court to rule that the applicant's removal to Iran would violate Articles 2 and 3 of the Convention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1989.45;1992.89;en>>
+Thank you, Mr Loveday. I call Mr Rönquist.
+
+[[Government;GR1]]
+
+<<2002.88;2006.82;en>>
+Mr. President, distinguished members of the court,
+
+<<2006.82;2028.2;en>>
+the case before the grand chamber concerns the issue of whether the removal of the applicant to Iran would violate Articles 2 and 3 of the Convention on the grounds of a risk arising in particular with regard to his conversion to Christianity, which took place in Sweden.
+
+<<2028.2;2044.68;en>>
+By way of introduction, the government would like to stress that as far as the facts of the present case are concerned, I will not go into them in detail as they are summarized in the court's judgment.
+
+<<2044.68;2055.84;en>>
+The government's written memorial, submitted on 14 August this year, gives a full account of how the government views this case.
+
+<<2055.84;2061.5;en>>
+I, therefore, refer to the government's memorial in extenso.
+
+<<2061.5;2077.9;en>>
+The third-party interveners before the grand chamber, the European Center of Law and Justice and Alliance Defending Freedom, have given us an update on the situation for Christian converts in Iran.
+
+<<2077.9;2091.14;en>>
+The government concurs with the country of origin information referred to by the third-party interveners regarding the situation for Christians and Christian converts in Iran.
+
+<<2091.14;2111.28;en>>
+The government also concurs with the conclusion therein that those particularly at risk are converts from Islam who seek to worship in community with others or speak freely about their faith and publicly manifest their new Christian beliefs.
+
+<<2111.28;2128.58;en>>
+Accordingly, it is the government's opinion that a convert from Islam to Christianity who has attracted the attention of the Iranian authorities could risk treatment in violation of Article 3 of the Convention.
+
+<<2128.58;2140.78;en>>
+In the government's pleadings here today, I will try to demonstrate that the expulsion of the applicant would not constitute a breach of Articles 2 or 3 of the Convention.
+
+<<2140.78;2158.6;en>>
+Before moving on to the merits in the case at hand, the government would like to recall that the task of this court should not be to act as an immigration appeals tribunal or a court of fourth instance, or in this case, of fifth instance.
+
+<<2158.6;2173.54;en>>
+In this regard, the government would like to recall the subsidiary character of the Convention mechanism, which constitutes a fundamental principle which both the court and the state parties must take into account.
+
+<<2173.54;2199.84;en>>
+The government would like to invite the court, when examining the case at hand, to assess and take full account of the effectiveness of the domestic procedure and avoid making a reassessment unless the assessment of the domestic authorities and courts is considered to have been inadequate or the outcome of the proceedings arbitrary.
+
+<<2199.84;2202.8;en>>
+Mr. President, firstly, I will address the issue
+
+<<2202.8;2211.98;en>>
+of whether the domestic authorities and courts carried out a proper assessment with regard to the applicant's conversion to Christianity.
+
+<<2211.98;2223.04;en>>
+Secondly, I will expand on the risks of treatment in breach of Article 2 and 3 that the applicant has claimed he could be subjected to on return to Iran.
+
+<<2223.04;2235.58;en>>
+And thirdly, I will elaborate on the rights of religion enshrined in Article 9 of the Convention and its applicability in the case at hand.
+
+<<2235.58;2246.5;en>>
+Firstly, as regards the assessment made by the Swedish authorities and courts in the case at hand, it is relevant to note the following.
+
+<<2246.5;2257.54;en>>
+It follows from the case files that the applicant did not have any interest in Christianity before he arrived in Sweden in November 2009.
+
+<<2257.54;2277.18;en>>
+In the interview with the Swedish Migration Board in March 2010, the applicant stated that he did not regard Christianity as a religion and that he did not want to include his conversion in his asylum claim because it was of a private nature.
+
+<<2277.18;2287.14;en>>
+The Swedish Migration Board conducted three oral examinations with the applicant, and the Migration Court held one oral hearing.
+
+<<2287.14;2300.0;en>>
+On each of these occasions, the applicant had the opportunity to invoke his fear of persecution or serious harm upon his return to Iran due to his conversion.
+
+<<2300.0;2315.94;en>>
+He was also asked on several occasions if he did not wish to invoke his conversion as grounds for asylum and had the opportunity to consult privately with his legal counsel on this matter.
+
+<<2315.94;2334.54;en>>
+In appendix 21 of the submission of the applicant containing his witness statement, he states that during the asylum interview before the Migration Board, he was encouraged by his legal counsel to raise the fact that he had converted.
+
+<<2334.54;2342.68;en>>
+His counsel also told him that Christian converts may encounter problems upon return to Iran.
+
+<<2342.68;2358.0;en>>
+In the witness statement, the applicant also disclosed that the Migration Court asked about his religion and encouraged him to speak about it during the oral hearing.
+
+<<2358.0;2371.2;en>>
+The applicant, however, chose not to invoke his conversion as grounds for asylum until three weeks after his expulsion decision became final and non-appealable.
+
+<<2371.2;2383.2;en>>
+This despite the fact that he already, during the proceedings before the Migration Board, learned that returning to Iran as a convert could cause him problems.
+
+<<2383.2;2398.38;en>>
+Throughout the domestic migration proceedings, the applicant was assisted by legal counsel, one counsel before the Migration Board and another one before the Migration Courts appointed by the Swedish state.
+
+<<2398.38;2404.5;en>>
+Both counsels have Master of Law degrees and are employed by the same law firm.
+
+<<2404.5;2419.4;en>>
+The law firm has a high level of legal expertise in the area of migration law and has brought actions on behalf of individuals both before this court and before the UN Committee Against Torture.
+
+<<2419.4;2433.8;en>>
+During the proceedings of the applicant's case before the Migration Board, his public counsel worked for 12 hours on its case and before the Migration Court, 10 hours' work were devoted to his case.
+
+<<2433.8;2445.0;en>>
+Under these circumstances, the government argues that there were no shortcomings in the legal support provided to the applicant during the national asylum process.
+
+<<2445.0;2457.6;en>>
+In addition, it is also relevant to note that an interpreter was present during all the interviews with the applicant and that no objections were made concerning the interpretation.
+
+<<2457.6;2460.54;en>>
+Mr. President, the government would hereby like
+
+<<2460.54;2464.78;en>>
+to give a brief account of the Swedish asylum procedure.
+
+<<2464.78;2481.64;en>>
+In an asylum case, the Swedish Migration Board, the first instance in the migration process, has to take account of all circumstances in support of the applicant's case, even such claims that are not expressly invoked by the applicant.
+
+<<2481.64;2491.3;en>>
+This obligation to assess a case on its own motion applies even after an expulsion order has become final.
+
+<<2491.3;2517.04;en>>
+This means that the expulsion order may not be issued or enforced if there are reasonable grounds to believe that, if expelled, an asylum seeker risks being sentenced to death or being subjected to corporate punishment, torture, or other inhuman or degrading treatment or punishment.
+
+<<2517.04;2537.64;en>>
+In its decision dated 29 April 2010, the Migration Board found that the applicant, notwithstanding the submitted certificate, had not substantiated that he had converted to Christianity or been baptized.
+
+<<2537.64;2562.28;en>>
+In this regard, the government argues that the Migration Board, when assessing the applicant's asylum case, did examine whether there were reasonable grounds to believe that the applicant would be subjected to treatment in breach of Article 3 of the Convention, this despite the fact that the applicant chose not to invoke his conversion.
+
+<<2562.28;2580.4;en>>
+Now turning to the oral proceedings before the Migration Court on 16 February 2011, the applicant then stated explicitly that he did not wish to invoke his conversion as grounds for asylum since he felt that this was a private matter.
+
+<<2580.4;2586.88;en>>
+He did, however, mention that his conversion would create problems for him in Iran.
+
+<<2586.88;2604.88;en>>
+In an overall assessment in his judgment, the Migration Court found that the applicant had not plausibly demonstrated that he risked persecution upon his return to Iran and that he, therefore, was not in need of protection.
+
+<<2604.88;2620.88;en>>
+Under Section 8 of the Swedish Administrative Court Procedure Act, the Migration Court is responsible for carrying out an assessment of all relevant facts as required by the nature of the case before it.
+
+<<2620.88;2633.44;en>>
+The asylum procedure in the Migration Court is a two-party procedure in which the Migration Board litigates against an applicant represented by a legal counsel.
+
+<<2633.44;2641.54;en>>
+The applicant bears the initial burden of sustaining the circumstances of his claim.
+
+<<2641.54;2664.0;en>>
+As noted by the third party intervener, UNHCR, the Migration Court of Appeal has, in a precedent-setting case, held that the unique character of an asylum case affects the scope of the Migration Court's obligation to carry out an assessment.
+
+<<2664.0;2673.0;en>>
+The Migration Courts, therefore, have an investigative responsibility of their own in such cases.
+
+<<2673.0;2692.2;en>>
+This is due to the fact that the outcome of these cases can have a significant impact on the life of an individual asylum seeker, and that wrongful expulsion can lead to an asylum seeker being exposed to human rights violations.
+
+<<2692.2;2696.0;en>>
+Mr. President, turning to the case at hand,
+
+<<2696.0;2707.84;en>>
+during the oral proceedings before the Migration Court, the applicant explicitly stated that he did not want to invoke his conversion to Christianity as grounds for asylum.
+
+<<2707.84;2715.14;en>>
+The applicant only vaguely implied that this might cause him problems upon his return to Iran.
+
+<<2715.14;2726.0;en>>
+The Migration Court thus found, in an overall assessment, that the applicant had not plausibly demonstrated that he was in need of protection.
+
+<<2726.0;2746.14;en>>
+After the decision to expel the applicant became final, the applicant then claimed that his new faith constituted a lasting impediment to the enforcement of his expulsion order and submitted a certificate from his Christian congregation in Sweden.
+
+<<2746.14;2767.1;en>>
+In its decision of 13 September 2011, the Migration Board noted that it was remarkable that the applicant chose to invoke this circumstance at this stage instead of accounting for it during the oral examination before the Migration Court.
+
+<<2767.1;2782.14;en>>
+The Board nevertheless concluded that there were no new circumstances that could be assumed to constitute a lasting impediment to the enforcement of the decision to expel the applicant.
+
+<<2782.14;2804.64;en>>
+By not invoking his conversion during the ordinary domestic asylum proceedings, the applicant himself has contributed to the fact that the thorough assessment has not taken place concerning whether or not his conversion was based on a genuine personal religious conviction.
+
+<<2804.64;2826.2;en>>
+With regard to the information at hand, the government takes the view that during the national proceedings, the applicant did not plausibly demonstrate that he was at risk of persecution on account of his religious beliefs, as he did not invoke his conversion as a ground for asylum.
+
+<<2826.2;2829.4;en>>
+Mr. President, to sum up this part,
+
+<<2829.4;2851.2;en>>
+it is the government's opinion that the Swedish authorities and courts carried out a proper assessment of whether there were substantial grounds for believing that the applicant would face a real risk of being subjected to treatment in breach of Articles 2 or 3 of the Convention if the deportation order was implemented.
+
+<<2851.2;2866.9;en>>
+There are no indications that the assessment of the domestic authorities and courts was inadequate or that the outcome of their proceedings was arbitrary.
+
+<<2866.9;2882.1;en>>
+Secondly, with regard to the question of whether the applicant would face a real risk of being subjected to treatment in breach of Articles 2 or 3 of the Convention, the government would like to submit the following.
+
+<<2882.1;2900.54;en>>
+As regards to the applicant's alleged political activities in Iran, the Swedish authorities and courts have found that these activities were not of such a nature or extent that he would risk ill treatment on that ground upon his return to Iran.
+
+<<2900.54;2911.64;en>>
+Furthermore, as also noted by the chamber of this court, the applicant has not been summoned to appear before court in Iran since 2009.
+
+<<2911.64;2923.48;en>>
+His family in Iran has not been targeted because of his political activities, and he has not claimed to have continued his political activities following his arrival in Sweden.
+
+<<2923.48;2936.54;en>>
+Furthermore, the national migration authorities and courts have found that the documents submitted by the applicant have not corroborated his cited need for protection.
+
+<<2936.54;2954.48;en>>
+In this regard, the government would like to clarify that the person involved in ongoing court proceedings in Iran generally has the possibility to obtain more information about the case through a legal representative, relatives, or friends.
+
+<<2954.48;2960.38;en>>
+Details of the parties, case number, et cetera, are public documents.
+
+<<2960.38;2970.24;en>>
+However, the applicant has not submitted any further information to substantiate his need for protection in this regard.
+
+<<2970.24;2973.64;en>>
+Mr. President, in view of this, the government concurs
+
+<<2973.64;2992.38;en>>
+with the opinions of the national authorities and courts and the majority of the chamber of this court that the applicant has failed to substantiate the claim that his alleged political activities in Iran have attracted the interests of the Iranian authorities.
+
+<<2992.38;3011.94;en>>
+Moving on to the applicant's invoked need for protection due to his conversion to Christianity, the government would like to stress that this is not a result of events or actions in his home country, but rather a consequence of actions undertaken during his stay in Sweden.
+
+<<3011.94;3019.3;en>>
+His claim is, therefore, to be regarded as a surplus claim for international protection.
+
+<<3019.3;3046.8;en>>
+In this regard, the government would like to emphasize what is cited in the UNHCR's guidelines, that where individuals convert after their departure from their country of origin, this may have the effect of creating a surplus claim, and that in such situations, particular credibility concerns tend to arise.
+
+<<3046.8;3072.2;en>>
+Furthermore, as the applicant did not claim international protection due to his conversion to Christianity until the stage of enforcement of the expulsion order, the government finds, like the domestic migration authorities, and notwithstanding the applicant's explanation in this regard, that the applicant's perceived need for protection must be questioned.
+
+<<3072.2;3085.54;en>>
+The government also shares the view of the majority of the chamber of the court that there is nothing to indicate that the Iranian authorities have become aware of the applicant's conversion to Christianity.
+
+<<3085.54;3098.48;en>>
+In the government's view, there is accordingly no reason to believe that the applicant has been attributed a new religious belief by the Iranian authorities.
+
+<<3098.48;3107.84;en>>
+Thirdly, I would like to address the question raised by the grand chamber regarding freedom of religion pursuant to Article 9.
+
+<<3107.84;3121.5;en>>
+The prerequisite for the applicability of the rights enshrined in Article 9 of the Convention is that the alleged religious belief is based on a real and genuine conviction.
+
+<<3121.5;3133.88;en>>
+In the present case, it must therefore reasonably be expected that the applicant can demonstrate convincingly that his religious conviction is real and genuine.
+
+<<3133.88;3146.08;en>>
+Hence, unless it has been established that the alleged belief is genuine, the right to freedom of religion is not relevant in assessing an asylum claim.
+
+<<3146.08;3165.44;en>>
+The government would hereby like to stress that during the national proceedings, there was limited knowledge of what kind of religious practice the applicant considers essential in order for him to preserve his religious identity.
+
+<<3165.44;3180.88;en>>
+As is clear from Appendix 21 of the submission by the applicant containing his witness statement, religion was never his primary ground for seeking protection.
+
+<<3180.88;3187.6;en>>
+He left Iran due to his activity there before he became a Christian.
+
+<<3187.6;3197.4;en>>
+He states that he did not want to rely on religion as a ground for asylum, since it was not his reason for seeking asylum.
+
+<<3197.4;3205.4;en>>
+He says in his witness statement that his counsel said that he should raise the fact that he had converted.
+
+<<3205.4;3214.28;en>>
+He states that his faith was a private matter and that he had other grounds for being allowed to stay.
+
+<<3214.28;3238.98;en>>
+The government contends that the applicant did not demonstrate during the national ordinary proceedings that his conversion is based on a genuine conviction or, if he were returned to Iran, that he had the intentions of doing so as a convert and practicing the Christian religion there.
+
+<<3238.98;3251.44;en>>
+He did, let alone not make clear as to how or to which extent he, upon return, would practice his religious beliefs.
+
+<<3251.44;3285.4;en>>
+The right to freedom of religion, according to Article 9 of the Convention, was subsequently not addressed during the national proceedings, and it is the government's opinion that the national migration authorities were thus not required to apply the principles set out in the cases referred to by the Grand Chamber in the applicant's case, Leyla Sahin v. Turkey and Bundesrepublik Deutschland v. YNZ.
+
+<<3285.4;3309.44;en>>
+As has been recognized by this court, as well as the European Court of Justice, in the judgments referred to, which I just quoted, the right to freedom of religion entails a right to manifest one's beliefs in private as well as in public if one so wishes.
+
+<<3309.44;3341.2;en>>
+In this regard, the government would hereby like to refer to the general legal position issued by the Director General for Legal Affairs at the Swedish Migration Board in 2012, which also recognizes that the right to freedom of religion entails a right to manifest one's beliefs in public and that it cannot be expected that an applicant should refrain from doing so in order to avoid persecution.
+
+<<3341.2;3363.6;en>>
+The government thus agrees with the principles set out in the above-mentioned judgments and contends that in a case where the alleged religious conviction is deemed genuine, the national authorities are required to assess the risk in accordance with the principles set out in these cited cases.
+
+<<3363.6;3368.5;en>>
+Lastly, Mr. President, the government holds,
+
+<<3368.5;3390.44;en>>
+against this background, that the applicant has not plausibly demonstrated that on account of his conversion to Christianity, he would face a real risk of being subjected to treatment in breach of Article 2 or 3 of the Convention if the deportation order were implemented.
+
+<<3390.44;3406.38;en>>
+Furthermore, it is the government's view that the Swedish migration authorities and courts did carry out a proper assessment of whether there were substantial grounds for believing that the applicant would face such a risk.
+
+<<3406.38;3433.24;en>>
+In addition, the government concludes that since the applicant did not sufficiently establish the genuineness of his alleged conviction during the national proceedings, the right to freedom of religion under Article 9 of the Convention was not addressed and the national migration authorities were therefore not required to apply the principles set out in the above-mentioned cases of Leyla Sahin v. Turkey
+
+<<3433.24;3436.08;en>>
+and Bundesrepublik Deutschland v. Weyand Zed
+
+<<3436.08;3438.94;en>>
+in the applicant's case.
+
+<<3438.94;3450.94;en>>
+In conclusion, the government invites the court to hold that there has been no violation of Articles 2, 3, or 9 of the Convention in the present case.
+
+<<3450.94;3470.64;en>>
+Finally, let me just draw the Grand Chamber's attention to the fact that the decision to expel the applicant will become statute barred on 8 June 2015, i.e. four years from the decision on 8 June 2011
+
+<<3470.64;3475.04;en>>
+by the Migration Court of Appeal to refuse leave of appeal.
+
+<<3475.04;3484.6;en>>
+In view of this, the government would like to stress the importance that the Grand Chamber decides the case in good time before that date.
+
+<<3484.6;3486.14;en>>
+Thank you very much, Mr. President,
+
+<<3486.14;3486.14;en>>
+distinguished members of the court.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3489.1;3490.7;en>>
+Thank you, Mr. Rönquist.
+
+<<3490.7;3493.42;en>>
+I turn to the Judges, Judge Spano.
+
+[[Judge;Robert Spano]]
+
+<<3496.52;3497.44;en>>
+Thank you, Mr. President.
+
+<<3497.44;3502.08;en>>
+I have two questions for the government that I would like to present.
+
+<<3502.08;3515.52;en>>
+The government observes that paragraph 52 of their observations, and I quote, the applicant has failed to substantiate any claim that the Iranian authorities would have any special interest in him.
+
+<<3515.52;3542.08;en>>
+I would like to ask as clearly as possible, what does the government consider to be the evidentiary weight or significance in this respect of the written summons by the Revolutionary Court presented to the applicant that he should attend Evin Prison in Teheran on 2 November 2009?
+
+<<3542.08;3563.52;en>>
+And I would here like to refer to the applicant's contention here that the Migration Court, and this is paragraph 83 of the applicant's observations, that the Migration Court expressed no doubt as to the validity of F.G.'s summons to attend the Revolutionary Court on 2 November 2009.
+
+<<3563.52;3576.28;en>>
+And I put this question to the government in light of the fact that the government considers that it has not been demonstrated that the Iranian authorities have a special interest in the applicant.
+
+<<3576.28;3588.5;en>>
+My second question deals with the conclusion, which is I think the crux of this case, the government contends that paragraph 57 and the counsel for the government reiterated this today.
+
+<<3588.5;3600.36;en>>
+The government concludes that the applicant has not plausibly demonstrated that he would, on account of his conversion to Christianity, face a real risk of being subjected to ill treatment.
+
+<<3600.36;3616.72;en>>
+Does this conclusion, because I didn't quite understand this issue, does this conclusion apply not only to the facts as established in 2011 and 12 by the migration authorities at domestic level?
+
+<<3616.72;3635.36;en>>
+Or is it also the government's submission today that were the Grand Chamber to decide the issue in accordance with the materials submitted as of this date, the applicant has not made such a plausible claim?
+
+<<3635.36;3637.04;en>>
+I would like an answer to that.
+
+<<3637.04;3638.4;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3639.44;3640.44;en>>
+Merci, Judge Jäderblom.
+
+[[Judge;Helena Jäderblom]]
+
+<<3643.1;3644.42;en>>
+Thank you.
+
+<<3644.42;3647.06;en>>
+I have a question for the applicant.
+
+<<3647.06;3659.74;en>>
+In a written statement to the court on the 13th of September this year, the applicant states that his family can never accept the fact that he has converted and that his friends will never tolerate it.
+
+<<3659.74;3676.42;en>>
+In view of this, does the applicant consider that there is a potential risk that his family and friends will find out about his conversion should he practice it in Iran by way of, for instance, publications of religious texts on the internet or being active in a church?
+
+<<3676.42;3683.54;en>>
+And if they did find out about it, what could be the consequences for the applicant in his relations with them?
+
+<<3683.54;3686.34;en>>
+I also have a question for the government.
+
+<<3686.34;3702.86;en>>
+In order to better understand how familiar the Swedish authorities and courts are with the situation of Christian converts in Iran, I would like to know if the government know how common it is that Iranian asylum seekers invoke surplus conversions as a ground of asylum in Sweden.
+
+[[Judge;Ledi Bianku]]
+
+<<3710.61;3712.45;en>>
+Merci, Monsieur le Président.
+
+<<3712.45;3715.69;en>>
+I have first a factual clarification.
+
+<<3715.69;3736.77;en>>
+Referring to paragraph 41 of the chamber judgment and then to the conclusion, paragraph 42 of the chamber judgment, my understanding is that the applicant failed to raise or did not prefer to raise the question of his conversion, whereas today the government is alleging that he failed to substantiate.
+
+<<3736.77;3740.61;en>>
+And I see a nuance between these two positions.
+
+<<3740.61;3757.33;en>>
+Then my second point would go to a reference, and I apologize for this, is a reference to yesterday's judgment of the European Court of Justice in Luxembourg, a judgment of the grand chamber of that court.
+
+<<3757.33;3803.65;en>>
+And the court says in paragraph 56, I quote, I'm sorry, in French, if the Member States consider that it normally belongs to the applicant to present all the necessary elements to support his request, this is more than just providing elements of nature to establish his own sexual orientation, in that case, a religious orientation in this case, it is no less important that it is up to the concerned Member State to cooperate with this applicant at the stage of determining the relevant elements of this request, in accordance with article 4, paragraph 1 of the Directive 2004-83.
+
+<<3803.65;3810.05;en>>
+So my question is, what would be the impact of this interpretation for this case?
+
+<<3810.05;3814.25;en>>
+And then my final question, Mr. President,
+
+<<3814.25;3820.17;en>>
+this court, since the early cases of Cruz Varas, Chahal, etc.,
+
+<<3820.17;3832.65;en>>
+I might refer as well to Sufi and Elmi, paragraph 215, has used the notion of ex-nunc analysis, to which Judge Spano, if I understood well, referred to.
+
+<<3832.65;3837.17;en>>
+Does this kind of analysis take place at national level as well?
+
+<<3837.17;3848.05;en>>
+So do the national authorities take into account the current circumstances, not only of the destination state, but also of the applicant?
+
+<<3848.05;3848.05;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3850.1;3863.54;en>>
+Just to complement the question by Judge Ledi Bianku, the case referred to is the number C-14813 and C-15013.
+
+<<3863.54;3867.78;en>>
+It was delivered yesterday by the European Court in Luxembourg.
+
+<<3867.78;3867.78;en>>
+judge Pinto de Albuquerque.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<3873.19;3875.03;en>>
+Thank you, Mr. President.
+
+<<3875.03;3879.73;en>>
+One question for the applicant, and one question for the government.
+
+<<3879.73;3882.15;en>>
+Starting with the government.
+
+<<3883.01;3887.91;en>>
+The applicant was a Muslim, and he converted to Christian belief.
+
+<<3887.91;3892.71;en>>
+This is a crime in Iran, and a very serious crime.
+
+<<3892.71;3897.29;en>>
+It's a crime of apostasy.
+
+<<3897.29;3901.39;en>>
+And it's a capital offense, punished with death.
+
+<<3901.39;3906.49;en>>
+Iran punishes with death penalty those Muslim who convert to other beliefs.
+
+<<3909.77;3921.65;en>>
+More recently, prosecutors have relied on other offenses, such as an attempt to the security of the state, which is also a capital offense.
+
+<<3921.65;3923.75;en>>
+My question is the following.
+
+<<3923.75;3943.29;en>>
+Can the government guarantee today to this plenary that if there is a new assessment of the applicant's situation at the national level, he's not going to be sent to a country where he faces the death penalty?
+
+<<3944.73;3970.39;en>>
+I repeat, in the case the court finds eventually only a procedural violation of Article Two or Three, and the new procedure is launched at the national level, can the government guarantee today that this person, at the end of the day, at the end of that national proceeding, will not be sent to a country where he faces the death penalty?
+
+<<3971.93;3973.69;en>>
+My question to the applicant.
+
+<<3976.33;3983.73;en>>
+What has been the practical contribution of the applicant to his church?
+
+<<3983.73;3993.37;en>>
+We have heard today that he leads a Bible studies group, that he has provided help with the church's website.
+
+<<3995.01;4003.81;en>>
+Is there any other additional practical help that he has been willing to give to the church?
+
+<<4005.25;4013.39;en>>
+What kind of contribution does he give to the life of his church?
+
+<<4013.39;4019.95;en>>
+Could you please elaborate further on this practical life as a Christian of the applicant?
+
+<<4019.95;4021.37;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4023.45;4026.25;en>>
+Merci, Judge De Gaetano.
+
+[[Judge;Vincent A. De Gaetano]]
+
+<<4029.36;4031.28;en>>
+Thank you, Mr. President.
+
+<<4031.28;4037.84;en>>
+My question is addressed to the government and follows in a sense from Judge Spano's question.
+
+<<4037.84;4057.0;en>>
+Apart from what the applicant did or did not do before the domestic tribunals, and apart from what the domestic tribunals concluded, I would like to know, because I'm still not quite sure what the answer to this question is, what is the government's position today?
+
+<<4057.0;4069.08;en>>
+Is it of the view that the applicant is a real convert to Christianity, or is it of the view that this was not a genuine conversion, but simply possibly a means to an end?
+
+<<4069.08;4072.12;en>>
+That is the question I would like to know.
+
+<<4072.12;4076.95;en>>
+What is the government's view today on this point?
+
+<<4076.95;4076.95;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4078.03;4080.31;en>>
+Thank you very much.
+
+<<4080.31;4082.71;en>>
+There are no further questions.
+
+<<4082.71;4089.95;en>>
+So we will have a break now, and we will resume the hearing at 1045.
+
+<<4089.95;4089.95;en>>
+Thank you.
+
+[[Announcer;UNK]]
+
+<<4615.84;4616.48;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4654.18;4656.06;en>>
+Please be seated.
+
+<<4656.06;4658.06;en>>
+I give the floor to Mr Loveday.
+
+[[Applicant;AP1]]
+
+<<4664.51;4667.31;en>>
+Mr. President, members of the court,
+
+<<4667.31;4683.51;en>>
+there was a question first from Judge Yerdebloom about the effect on the applicant's family relations and relations with his friends if he were to go to Iran and tell them that he's converted.
+
+<<4683.51;4690.83;en>>
+We've sought in the time available to take instructions from the applicant by telephone with an interpreter.
+
+<<4690.83;4695.07;en>>
+In the limited time available, I can only relay so much.
+
+<<4695.07;4704.25;en>>
+But his answer was that he would tell his family, he would feel obliged to, they wouldn't accept it.
+
+<<4704.25;4708.11;en>>
+He says they wouldn't accept it because they come from Iran.
+
+<<4708.11;4709.91;en>>
+They wouldn't understand.
+
+<<4709.91;4716.87;en>>
+He says that in order for them to understand, they would have to come to a country like Sweden, a free country.
+
+<<4716.87;4720.15;en>>
+Then, he thinks and hopes, they would be able to understand.
+
+<<4720.15;4723.31;en>>
+But if he goes there to meet them there, they won't.
+
+<<4723.31;4726.27;en>>
+He says that he thinks they will disown him.
+
+<<4726.27;4733.47;en>>
+He hopes in time that they would change their mind, that he would be able to persuade them.
+
+<<4733.47;4736.03;en>>
+But he says that he thinks they would disown him.
+
+<<4736.03;4743.11;en>>
+I did ask him what he thinks about whether they would disclose it to anyone else.
+
+<<4743.11;4745.83;en>>
+And he says that he doesn't think that they would.
+
+<<4745.83;4753.19;en>>
+He hoped that they wouldn't mention to anyone else that he converted because they love him.
+
+<<4753.19;4757.15;en>>
+But he did say that he can't rule out the risk.
+
+<<4757.15;4764.43;en>>
+As to his friends, he clarified paragraph 28 of his witness statement before this court.
+
+<<4764.43;4772.79;en>>
+And he said that when he says about his friends there, in fact, there are some friends of his who he thinks would probably be OK.
+
+<<4772.79;4776.57;en>>
+Religion isn't so important to them as individuals.
+
+<<4776.57;4780.47;en>>
+So he could tell them without it being a problem, is what he said.
+
+<<4780.47;4784.59;en>>
+But he said that there are other friends for whom it would be important.
+
+<<4784.59;4785.99;en>>
+They would disown him.
+
+<<4785.99;4794.15;en>>
+And he wouldn't be able to trust that they wouldn't mention it to anyone else.
+
+<<4794.15;4808.91;en>>
+There was also a question from Judge Pinto de Albuquerque about the practical manifestations of the applicant's faith.
+
+<<4808.91;4821.55;en>>
+And I should preface this by saying that I've tried deliberately in this hearing to avoid mentioning anything that could identify the client.
+
+<<4821.55;4842.91;en>>
+And in those circumstances, I hope and trust it's enough for me to refer you to specific paragraphs in his witness statement where he does explain and where others explain in their witness statement exactly what his practical engagement in the church is today.
+
+<<4842.91;4858.87;en>>
+And I would refer the court to the applicant's own witness statement, which is in English at appendix 23, in paragraphs 21, 22, 23, and 25 in particular.
+
+<<4858.87;4875.07;en>>
+And in the witness statement of his former pastor, which is in English at appendix 24, in paragraphs 18, 22, 23, 25, 26, and 33 in particular.
+
+<<4879.43;4889.59;en>>
+In response to the government's submissions, I have really only two points to make.
+
+<<4889.59;4904.43;en>>
+And the first is the suggestion that the national authorities have limited evidence of how the applicant practices his faith as things stood at the time.
+
+<<4904.43;4908.21;en>>
+And there are two responses to that.
+
+<<4908.21;4916.87;en>>
+The first is that on any view, they did have the evidence of what he said willingly in his asylum interview.
+
+<<4916.87;4922.95;en>>
+And there's an English translation of the relevant parts of that at appendix 4 of our case.
+
+<<4922.95;4936.23;en>>
+And it makes clear there the frequency of contact he was having with other Christians, what kind of things he was engaged in with his church, and so on.
+
+<<4936.23;4940.45;en>>
+So there's clear evidence there.
+
+<<4940.45;4957.99;en>>
+There's a further point, which is, as we have submitted, it was still incumbent, we would say, on the national authorities to ask, even if he were to manifest his faith privately, could that cause problems for him on return?
+
+<<4957.99;4961.35;en>>
+What would happen at the airport on return?
+
+<<4961.35;4963.47;en>>
+What would happen if someone asked him a question?
+
+<<4963.47;4965.43;en>>
+Should he lie?
+
+<<4965.43;4967.31;en>>
+Those questions needed to be asked and dealt with.
+
+<<4967.31;4983.23;en>>
+The other point I would say is that what we don't have, of course, is any record of what the migration court said to the applicant, which caused him to respond by saying, I don't want to talk about that.
+
+<<4983.23;4984.31;en>>
+It's private.
+
+<<4984.31;4995.51;en>>
+And the absence of any clear record of exactly what was said and the context of that, it would be, in my submission, very dangerous to investigate.
+
+<<4995.51;5011.27;en>>
+In my submission, very dangerous to assume that the court fulfilled what we would say is its obligation to properly consider the matter, to consider, just because he has said that some aspects of his faith are private, what does he mean by that?
+
+<<5011.27;5012.91;en>>
+How would that affect him on return?
+
+<<5012.91;5016.55;en>>
+Does it mean that everything to do with his faith will be private?
+
+<<5016.55;5018.07;en>>
+And that, we don't have a record of.
+
+<<5018.07;5021.99;en>>
+All we have, the government said that there's just a vague statement from the applicant.
+
+<<5021.99;5027.67;en>>
+Well, in fact, there's a vague record from the migration court of what the applicant was alleged to have said.
+
+<<5030.91;5059.35;en>>
+The other short point I wished to make was to address the situation which I, if I understood the government correctly, the situation that as to what would happen if the court now were to find that the national authorities did what they were required to do based on what they knew at the time or ought to have known at the time.
+
+<<5059.35;5069.27;en>>
+My understanding of that is that the government has said in that case, the court should not go on to deal with the question of substantive risk on return.
+
+<<5069.27;5073.91;en>>
+In that case, what will happen at the national level?
+
+<<5073.91;5085.95;en>>
+Well, nothing as far as we can see, because his only option then would be to try and raise any ground of risk as a new circumstance.
+
+<<5085.95;5092.31;en>>
+And of course, as the migration court held several years ago, religion is not a new circumstance.
+
+<<5092.31;5106.15;en>>
+And even at that stage, the further aspects of his faith and the further factors pointing to risk arising from his faith, which had arisen at that stage, even those were not treated as new circumstances.
+
+<<5106.15;5120.63;en>>
+Nor did the Swedish legislation allow the national authorities, having held there were no new circumstances, to go on and ask, well, even if they're not new, is there a reasonable excuse why they weren't raised earlier?
+
+<<5120.63;5142.55;en>>
+So our very real fear is that if the court were to find, based on what the national authorities could be expected to know at the time, there wasn't a procedural error, and then the case is sent back to Sweden, so to speak, that the Swedish government would enforce the deportation order.
+
+<<5142.55;5155.19;en>>
+And that would mean that the applicant would be sent to Iran to all the very real and extremely troubling risks that face him there without any assessment of the risks facing him on grounds of his religion.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5164.81;5166.81;en>>
+Thank you, Mr. Rönquist.
+
+[[Government;GR1]]
+
+<<5174.71;5178.07;en>>
+Thank you very much, Mr. President.
+
+<<5178.07;5190.81;en>>
+First to the question of Judge Spano regarding the evidentiary evidence on summoning to the Revolutionary Court.
+
+<<5190.81;5205.09;en>>
+And the migration authorities have ruled that there is a lack of credibility of those documents since they are photocopies.
+
+<<5205.09;5215.73;en>>
+They lack important information such as case number and the reason for the summon.
+
+<<5215.73;5234.63;en>>
+And it has not been possible, it's not possible for the national migration authorities to verify the authenticity of such documents.
+
+<<5234.63;5248.21;en>>
+Then we have the question of the situation today.
+
+<<5248.21;5262.67;en>>
+As we already stated in our introduction, the applicant has not substantiated genuine belief when it comes to religion.
+
+<<5262.67;5277.03;en>>
+The applicant has to submit a new application regarding impediment of enforcement to the Migration Board if he so wishes.
+
+<<5277.03;5280.61;en>>
+He could do so whenever he wishes.
+
+<<5280.61;5285.25;en>>
+He has not done so for the last three years.
+
+<<5285.25;5297.33;en>>
+It is at the national level that such new claims should be addressed.
+
+<<5297.33;5333.13;en>>
+As to the question put by Judge Jäderblom, it is indeed very common that Iranians seeking asylum in Sweden do invoke religious conversion if they are not granted asylum on the basis of political activities invoked.
+
+<<5333.13;5342.93;en>>
+These are things, arguments regarding their surplus activities.
+
+<<5342.93;5349.97;en>>
+Often they are raised after the expulsion order has gained legal force.
+
+<<5349.97;5373.57;en>>
+I cannot give any specific figure as to how many are invoking conversion at a late stage of the national proceedings, but it seems that it is indeed a majority of the cases of Iranians not given asylum on other grounds.
+
+<<5373.57;5391.53;en>>
+And I should also add that there are a number of free churches in Sweden who contact such persons, encouraging them to convert.
+
+<<5391.53;5422.29;en>>
+As to the question of Judge Bianco, we have unfortunately not been able to study the judgment by the European Court of Justice of yesterday, but as we already stated in our oral presentations, the Swedish migration authorities have fulfilled their obligation to examine all grounds for protection.
+
+<<5422.29;5445.37;en>>
+Our migration authorities can, however, not force an asylum seeker to invoke either political, religious or grounds of sexual orientation if they for various reasons wish not to do so.
+
+<<5445.37;5464.09;en>>
+As to the question of Judge Pinto de Abicocque, it is of course not possible for the government to guarantee that any person expelled from Sweden would not risk the death penalty.
+
+<<5464.09;5481.81;en>>
+However, we have legislation, migration authorities and courts that provide legal guarantees that uphold the principle of non-fulfillment.
+
+<<5481.81;5499.61;en>>
+And finally, as to the question by Judge De Gaetano, whether it is the government's position that the applicant is a real, genuine convert.
+
+<<5499.61;5504.53;en>>
+Neither the Swedish government nor its agent has met the applicant.
+
+<<5504.53;5509.65;en>>
+It is not up to the government to make an assessment.
+
+<<5509.65;5529.49;en>>
+It follows from the Swedish constitution and the principles of rule of law that the government may not interfere with the tasks and the judgments, the application of the law entrusted to independent authorities and courts.
+
+<<5529.49;5541.05;en>>
+It is up to the migration authority to examine any new claim if new circumstances are presented by the applicant.
+
+<<5541.05;5554.29;en>>
+It is only the applicant himself who can contribute to the substantiation of the genuinity of his religious belief.
+
+<<5554.29;5563.81;en>>
+As already mentioned, the applicant has not made any such application during the last three years.
+
+<<5563.81;5572.29;en>>
+It is at the national level that such new claims should be examined.
+
+<<5572.29;5572.29;en>>
+Thank you very much, Mr. President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5579.05;5580.17;en>>
+Thank you very much.
+
+<<5580.17;5584.29;en>>
+We have now come to the end of the hearing.
+
+<<5584.29;5591.71;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<5591.71;5594.93;en>>
+The court will now deliberate on the merits.
+
+<<5594.93;5598.69;en>>
+The judgment will be delivered later.
+
+<<5598.69;5602.77;en>>
+The parties will be informed of the date of delivery.
+
+<<5602.77;5605.29;en>>
+I declare the hearing closed.
+

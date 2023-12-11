@@ -1,0 +1,1633 @@
+[[Announcer;UNK]]
+
+<<5.64;6.36;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<13.52;27.76;fr>>
+Bonjour, je salue tous les participants à cette audience publique devant la Cour européenne des droits de l'homme sur le fonds de l'affaire Végotex International SA contre Belgique.
+
+<<27.76;32.92;fr>>
+L'audience se tient par visioconférence en cause de la crise sanitaire.
+
+<<32.92;45.96;fr>>
+À cet égard, je voudrais commencer par remercier la partie récréante et le gouvernement pour leur coopération dans la préparation de cette audience que je déclare à présent ouverte.
+
+<<45.96;57.56;fr>>
+Je tiens aussi à signaler que cette audience sera enregistrée dans son intégralité et diffusée sur la toile afin d'assurer son caractère public.
+
+<<57.56;65.84;fr>>
+Le webcast sera disponible sur le site internet de la Cour aujourd'hui à partir de 14h30.
+
+<<65.84;79.8;fr>>
+L'affaire a été introduite devant la Cour le 10 septembre 2009 par une société anonyme de droits belges Végotex International SA en vertu de l'article 34 de la Convention.
+
+<<79.8;89.28;fr>>
+Elle a été attribuée à la première section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<89.28;96.08;fr>>
+La requête a été communiquée au gouvernement le 14 mai 2018.
+
+<<96.08;102.56;fr>>
+Le 10 novembre 2020, une chambre de la troisième section a rendu son arrêt.
+
+<<102.56;130.88;fr>>
+Elle a déclaré la requête recevable et a conclu à l'unanimité à la non-violation de l'article 6, paragraphe 1 de la Convention du fait de l'intervention du législateur au cours de la procédure, à la non-violation de l'article 6, paragraphe 1 du fait de la substitution des motifs opérés par la Cour de cassation et à la violation de l'article 6, paragraphe 1 en raison de dépassement de délai raisonnable.
+
+<<130.88;150.08;fr>>
+Le 9 février 2021, la partie récréante a demandé le renvoi de l'affaire devant la Grand-Chambre conformément à l'article 43 de la Convention et cette demande a été acceptée par le Collège de la Grand-Chambre le 8 mars 2021.
+
+<<150.08;162.76;fr>>
+Le gouvernement est représenté par son agent, madame Isabelle Niedlispacher, du Service public fédéral de la justice, assisté de maitre Rafaël Jafferali-Conseil.
+
+<<162.76;168.32;fr>>
+La partie récréante est représentée par maitre Paul Wouters-Conseil.
+
+<<168.32;172.08;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<172.08;180.12;fr>>
+A un consulté, l'agent du gouvernement et le représentant de la partie récréante, j'ai fixé ainsi l'ordre de parole.
+
+<<180.12;191.96;fr>>
+Nous attendrons successivement maitre Wouters par la récréante,puis madame Niedlispacher et maitre Jafferali pour le gouvernement.
+
+<<191.96;191.96;fr>>
+La parole est à maitre Wouters, s'il vous plaît.
+
+[[Applicant;AP1]]
+
+<<196.43;198.15;fr>>
+Je vous remercie, Monsieur Président.
+
+<<199.43;212.55;fr>>
+Monsieur Président, Mesdames, Messieurs les juges de la Cour, je voudrais d'abord m'excuser pour mon absence physique devant vous dans la salle d'audience et je vous remercie d'avoir organisé cette audience par visioconférence.
+
+<<214.15;233.55;fr>>
+Je me réfère évidemment aux différentes écrits qui ont été déposées dans cette affaire et je me focaliserai surtout sur le sentiment d'injustice énorme que ma cliente essaiera de vous expliquer lors de ma présentation.
+
+<<233.55;235.55;fr>>
+En fait, de quoi s'agit-il?
+
+<<237.43;255.87;fr>>
+La problématique de base est un problème en droit fiscal belge qui a connu beaucoup de péripéties pendant les années 80 jusqu'à maintenant.
+
+<<255.87;291.95;fr>>
+À un moment donné, il y a eu des arrêts de la Cour de cassation dans l'année 2002, suivi par quelques autres arrêts dans lesquels notre haute jurisdiction dit en droit qu'un commandement en matière fiscale qui est signifié à un contribuable pour un impôt et ou une majoration d'impôt qui n'est pas exécutoire parce que le contribuable conteste.
+
+<<291.95;301.07;fr>>
+Cette créance ne peut pas avoir un effet interruptif de la prescription.
+
+<<301.07;316.27;fr>>
+On essaiera, j'ai l'impression, de présenter ces arrêts devant votre cour comme étant des coups de tonnerre par ciel bleu, mais ce n'est pas du tout le cas.
+
+<<316.27;337.43;fr>>
+Le législateur a réagi lorsqu'il prenait connaissance de cette jurisprudence qui n'était pourtant pas neuve par une intervention prise dans la loi programme du 22 décembre 2003.
+
+<<337.43;356.91;fr>>
+Et il est clair qu'à ce moment-là, il y avait une discussion de savoir si oui ou non, que cette intervention législative serait seulement valable pour le futur ou est-ce que ça aurait aussi un effet pour le passé.
+
+<<356.91;388.67;fr>>
+Le Conseil d'Etat, lorsqu'il donnait son avis pour le Parlement, avait évidemment soulevé cette question et avait dit clairement au législateur que si on voulait faire cela et que pour le passé, on changera la situation,alors la il faudrait avoir des arguments sérieux pour défendre, pour fonder cette rétroactivité.
+
+<<388.67;412.79;fr>>
+Si vous allez vérifier dans les travaux parlementaires de cette loi programme du 22 décembre 2003, vous allez constater que dans le Parlement, les parlementaires finalement sont arrivés à la conclusion qu'ils ne trouvaient pas d'argument sérieux pour donner un effet rétroactif à leur intervention.
+
+<<412.79;430.55;fr>>
+Cette loi est entrée en vigueur début janvier 2004 et la doctrine fiscale, on a déduit tout de suite que la situation était telle que le législateur n'intervenait que pour le futur.
+
+<<430.55;435.87;fr>>
+On est alors début 2004.
+
+<<435.87;455.19;fr>>
+Ma cliente qui avait une procédure pendante devant les tribunaux, à ce moment-là, a constaté que tout le monde était d'accord que le législateur belge ne intervenait que pour le futur.
+
+<<455.19;485.23;fr>>
+Dans le stade de sa procédure, il était devant la cour d'appel au moment de l'introduction de son appel et conformément à cette confiance et à ces paroles qu'il pouvait lire dans les travaux préparatoires, il invoquait l'argument disant que, écoutez, mais dans mon cas d'espèce, la prescription est déjà acquise depuis le 15 février 2001.
+
+<<485.23;549.47;fr>>
+Grande stupéfaction de mon client parce qu'il venait juste d'avoir cette confirmation que seulement l'intervention ne visait que le futur, qu'il pouvait lire aussi des paroles du ministre des Finances qui, dans le Parlement, avait déclaré, lorsque l'on sollicitait quand même d'autres interventions du législateur, basé sur une affirmation claire et nette de ce que voulait le législateur à ce moment-là et qui consistait à dire, dans un état de droit, nous devons bien entendu respecter la décision d'un juge, mais dans les circonstances actuelles, nous n'avons pas la moindre chance d'obtenir gain de cause devant le tribunal, pour le passé évidemment.
+
+<<549.47;571.91;fr>>
+Alors, à ce moment-là, le ministre des Finances a répondu et déclaré, compte à savoir, dit-il au parlementaire, si nous devons aller plus loin ou pas, c'est un choix à faire par le gouvernement comme par le Parlement, et ce choix a été fait.
+
+<<571.91;585.07;fr>>
+Lutter contre la fraude est une chose, mais commettre ce qui pourrait être qualifié d'abus de pouvoir ou de discrimination grave me paraît un peu plus dangereux.
+
+<<585.07;594.59;fr>>
+Donc, à ce moment-là, ma cliente, lisant cela, elle se dit, ils ne vont quand même pas oser changer le passé.
+
+<<594.59;623.27;fr>>
+Et c'est ce qui s'est fait, et c'est cette intervention législative qui vise une problématique que l'État belge a perdue devant l'ordre judiciaire, de le rendre, en changeant le passé et en faisant de cela sorte que l'État belge puisse encore gagner ses procédures.
+
+<<623.27;631.67;fr>>
+Alors, ma cliente n'est pour rien dans toute la problématique de cette prescription.
+
+<<631.67;644.63;fr>>
+Tout ce qu'elle a fait, c'est contester son impôt qui a été enrôlé pour un exercice d'imposition de 1993.
+
+<<644.63;657.19;fr>>
+Le directeur régional, qui était compétent pour statuer sur sa réclamation dans la phase administrative, il a pris 4 ans et 7 mois avant de statuer.
+
+<<657.19;673.71;fr>>
+Il n'avait aucun délai pendant lequel il devait le faire, et ma cliente, d'autre part, n'avait aucun moyen pour pouvoir bouger ce directeur en lui indiquant, en lui demandant, mais prenez une décision, finalement.
+
+<<673.71;680.27;fr>>
+Ma cliente n'avait aucune possibilité de le faire.
+
+<<680.27;706.83;fr>>
+En fait, si vous constatez que ces 4 ans et 7 mois correspondent déjà à eux seuls au délai de prescription qui est de 5 ans, on ne saurait pas nier le fait que ce dépassement du délai raisonnable est déjà à l'origine et même la cause principale que la prescription fut atteinte, finalement.
+
+<<706.83;726.43;fr>>
+Ce dépassement dans la phase administrative était lui-même dû à l'arriéré structurel qu'éprouvait l'administration dans le traitement de l'afflux des réclamations dans la phase administrative pendant les années 80 jusqu'en 1999.
+
+<<726.43;758.43;fr>>
+Alors ici, je dois quand même insister sur un petit point, mais qui a quand même son importance, c'est-à-dire que jusqu'ici, j'ai lu qu'on considère que ma cliente avait déjà la possibilité de faire avancer cette phase administrative depuis le 6 avril 1999, puisqu'en 1999, le législateur a modifié le système du traitement des recours fiscaux devant les tribunaux.
+
+<<758.43;765.75;fr>>
+J'avoue que je me suis trompé moi-même en indiquant la mauvaise date de la loi dont il s'agit.
+
+<<765.75;832.79;fr>>
+C'est une loi non du 15 mars, mais une loi du 23 mars 1999, qui évidemment, pour éviter que lorsque on change, on mettait la possibilité dans le chef d'un contribuable d'enlever la procédure devant le directeur et d'aller tout de suite devant le tribunal, que pour éviter que ceci donnerait pour les anciens, réclamation, un afflux devant les tribunaux qui seraient submergés tout de suite, le législateur a décidé dans son article 11 alinéa 2 de cette loi de dire que pour les réclamations qui concernent les exercices d'imposition 1998 et plus anciens, et je rappelle, on est ici pour un exercice d'imposition de 1993, que cette possibilité n'était offerte avec un effet de retard à partir du 1er avril 2001.
+
+<<832.79;843.87;fr>>
+Alors à ce moment-là, notre directeur régional avait déjà statué, je pense que c'était fin décembre 2000.
+
+<<843.87;872.83;fr>>
+Donc j'attire l'attention là-dessus parce que dans l'arrêt de la cour du 10 novembre 2020, votre cour en a déduit qu'il y a lieu de déduire du délai déraisonnable qu'elle a retenu, un an et trois mois, ce qui est endroit pas correct à mon avis.
+
+<<872.83;910.27;fr>>
+Comme je vous le disais au départ, ma cliente a attendu avant de soulever l'argument de la prescription devant la cour d'appel parce qu'elle a attendu le moment d'avoir une certitude, une promesse du législateur et des paroles de son ministre des Finances disant qu'on n'oserait pas commettre un abus de pouvoir et quand même ils l'ont fait.
+
+<<910.27;936.87;fr>>
+Ce qui m'amène à dire que la situation de ma cliente n'est pas de ceux qui, après les arrêts de la cour de cassation, l'ont introduit tout de suite, ni de ceux qui l'ont introduit cet argument de la prescription après que le législateur a pris cette mesure rétroactive.
+
+<<936.87;949.75;fr>>
+Ma cliente l'a fait justement au moment qu'elle avait, semblait-il à ce moment-là, la plus grande certitude que c'était comme ça et que l'affaire était réglée au niveau du législateur.
+
+<<949.75;969.87;fr>>
+Et alors je me réfère en ce qui concerne cette situation particulière et je pense que votre cour aussi ne regarde pas la législation de façon objective mais de façon individuelle, qu'est-ce qui s'est produit dans le cas d'espèce.
+
+<<969.87;992.23;fr>>
+Et alors on peut dire qu'au moment où ma cliente a introduit sa demande devant la cour d'appel, elle pouvait légitimement s'attendre à ce que la cour d'appel constate la prescription du recouvrement des cotisations litigeuses en faisant application de la jurisprudence de la Cour de cassation concernant l'effet des commandements interruptifs de prescription.
+
+<<992.23;1006.87;fr>>
+À ce moment, elle ne pouvait pas s'attendre à ce que le législateur adopte une loi rétroactive afin de contrecarrer les effets des arrêts de la Cour de cassation et éviter la prescription du recouvrement.
+
+<<1006.87;1023.23;fr>>
+Quand tenu des circonstances de l'espèce, l'application de l'article 49 de l'Ordre à programme du 4 juillet 2004 avec effet rétroactif viole le principe de la sécurité juridique et le droit au procès équitable.
+
+<<1023.23;1039.39;fr>>
+En ce que l'application rétroactive de cette disposition a pour effet de modifier la solution du litige en cours, alors que ma cliente ne pouvait pas s'attendre à une telle intervention du législateur au moment où elle a introduit sa demande.
+
+<<1039.39;1040.91;fr>>
+Je pense que c'est important.
+
+<<1040.91;1049.91;fr>>
+C'est un arrêt de la Cour d'appel de Bruxelles que je cite et sur lequel j'y reviendrai encore par la suite.
+
+<<1049.91;1062.39;fr>>
+Malgré l'abus du pouvoir commis par le législateur, l'affaire de ma cliente continue devant la Cour d'appel d'Anvers et elle obtient gain de cause.
+
+<<1062.39;1079.23;fr>>
+La Cour d'appel lui donne raison en disant, mais écoutez, il y a la jurisprudence de la Cour de cassation qui dit qu'un commandement qui est signifié pour un titre qui n'est pas exécutoire n'a pas d'effet interruptif de la prescription.
+
+<<1079.23;1089.55;fr>>
+Et en plus, qu'est-ce que la Cour d'appel a fait de cette intervention rétroactive de l'article 49 de la loi de programme du 9 juillet 2004?
+
+<<1089.55;1109.91;fr>>
+Elle a dit tout simplement, ce n'est pas d'application parce qu'il faut savoir que l'intervention du législateur ne visait que les commandements visés dans la loi et pas ce que l'administration fiscale s'était créée elle-même.
+
+<<1109.91;1118.23;fr>>
+Je vais revenir là-dessus, sur cette distinction qui est quand même, à mon avis, très importante.
+
+<<1118.23;1141.15;fr>>
+Alors, ma cliente a quand même perdu sur la prescription parce que la Cour d'appel avait décidé, s'il n'y a pas d'interruption de la prescription, il y a quand même, à l'avis des juges d'appel, une suspension de la prescription.
+
+<<1141.15;1149.83;fr>>
+Évidemment, ma cliente n'était pas d'accord avec cette vision et elle s'est pervue en cassation.
+
+<<1149.83;1162.11;fr>>
+C'était la suspension, seule décision dans l'arrêt de la Cour d'appel qu'elle pouvait attaquer devant la Cour de cassation de façon recevable.
+
+<<1162.11;1182.63;fr>>
+L'État belge qui a obtenu gain de cause devant la Cour d'appel était sans intérêt pour ce pouvoir puisqu'elle avait gagné l'affaire tant au niveau de la prescription qu'au niveau du fond de l'affaire de la contestation fiscale.
+
+<<1182.63;1202.23;fr>>
+Alors, le déroulement normal que je peux vous décrire dans une situation pareille, c'est que la Cour de cassation se prononce sur le moyen produit par ma cliente et qui visait uniquement l'interruption de la prescription.
+
+<<1202.23;1222.07;fr>>
+Si la Cour de cassation aurait admis ce critique et aurait cassé l'arrêt de la Cour d'appel, qu'est-ce qui se serait passé au niveau de l'étendue de la cassation par rapport au juge de renvoi qui aurait à ce moment-là à statuer à nouveau?
+
+<<1222.07;1248.83;fr>>
+Évidemment, ce juge de renvoi aurait à nouveau à statuer sur toute la problématique de la prescription, toute la problématique du fond de l'enroulement et également sur le point de la suspension de l'interruption dont l'État belge était irrécevable devant la Cour de cassation de le critiquer à défaut d'intérêt.
+
+<<1248.83;1271.71;fr>>
+C'est une solution jurisprudentielle que la Cour de cassation a mise en place depuis de longues dates pour résoudre ces problèmes et d'éviter que, dans le cas d'espèce, l'État belge, dans la constatation que je viens d'écrire, tomberait hors du débat devant le juge de renvoi.
+
+<<1271.71;1290.71;fr>>
+Alors ici, c'est l'inverse qui s'est passé parce que la Cour de cassation, sans être obligée de le faire, a utilisé une construction jurisprudentielle qu'elle a aussi mise en place et qui s'appelle la substitution de motif.
+
+<<1290.71;1294.03;fr>>
+Et la substitution de motif, c'est quoi?
+
+<<1294.03;1329.27;fr>>
+C'est lorsque une décision est prise et fondée sur une base légale et que la Cour de cassation, dans la décision attaquée, retrouve tous les arguments et tous les éléments de fond, de fait, dont elle a besoin pour pouvoir donner une autre base légale, alors la Cour de cassation s'estime être en mesure, à ce moment-là, de substituer la décision dont elle ne changea pas, la décision qui a été prise, mais seulement la base légale.
+
+<<1329.27;1336.11;fr>>
+Mais évidemment, cette construction jurisprudentielle a aussi ses limites.
+
+<<1336.11;1341.43;fr>>
+Et alors ici, la Cour de cassation l'a appliquée.
+
+<<1341.43;1347.71;fr>>
+Je me suis défendu là-dessus avec les moyens devant la Cour de cassation qui étaient à ma disposition.
+
+<<1347.71;1369.39;fr>>
+Et j'insiste ici aussi que vous savez que, en Belgique, comme en France, mais en Belgique surtout, notre Cour de cassation tient beaucoup à l'article 147 de notre Constitution et qui prévoit que la Cour de cassation ne connaît pas de l'affaire elle-même.
+
+<<1369.39;1374.15;fr>>
+Ça veut dire que la Cour de cassation ne connaît pas du fait.
+
+<<1374.15;1376.71;fr>>
+Alors qu'est-ce qui se passe ici?
+
+<<1376.71;1398.15;fr>>
+La Cour va modifier l'arrêt de la Cour d'appel lorsqu'elle a dit, sur un moyen qui ne le critique pas, je veux dire, que la Cour d'appel sur l'interruption de la suspension s'est trompée parce qu'elle va imposer sa propre base légale.
+
+<<1398.15;1411.67;fr>>
+Et d'autre part, la seule critique que ma cliente pouvait et qui était devant elle de façon recevable n'est pas résolue et on ne parle pas.
+
+<<1411.67;1432.67;fr>>
+En plus, lorsque je prenais connaissance de l'intention de la Cour de substituer des motifs, j'ai déposé une note, comme la procédure le prévoit, à temps, dont j'ai quand même signalé à la Cour de cassation à ce moment-là, mais écoutez, ça ne va pas, c'est quand même énorme.
+
+<<1432.67;1466.07;fr>>
+Il y a encore une question fondamentale dont cette affaire-ci n'a toujours pas été abordée et c'était la question de savoir, justement la question qui est devant vous, est-ce que cette mesure législative rétroactive de l'article 49 de la loi du 9 juillet 2004, est-ce que c'est une telle mesure dans le cas d'espèces est compatible avec l'article 6.1 et la prééminence du droit et l'état de droit?
+
+<<1466.07;1470.83;fr>>
+Mais la Cour n'a même pas répondu à cela.
+
+<<1470.83;1492.99;fr>>
+Le gouvernement essaiera de vous convaincre que j'avais la possibilité d'aborder cette question de la compatibilité plutôt avec l'article 6.1 de la Convention, mais ce n'est pas du tout le cas, personne ne l'a soulevé.
+
+<<1492.99;1522.47;fr>>
+Le ministère public, dans ses conclusions écrites, n'a pas soulevé cette question, ne l'a pas abordée et donc comme notre procédure devant la Cour de cassation le prescrit, on ne peut répondre dans cette stade de la procédure qu'à des éléments qui sont invoqués dans les conclusions écrites du ministère public, puisqu'il n'est pas là-dedans, pas question de soulever quoi que d'autre.
+
+<<1522.47;1529.55;fr>>
+Il n'y a que les moyens qui ont été portés devant la Cour de cassation, dont on le voit dès le départ, c'est tout.
+
+<<1529.55;1573.35;fr>>
+Alors je crains que c'est quand même un peu incroyable qu'on saurait reprocher, en quelque sorte, à ma cliente qu'elle s'est tenue au prescrit strict devant la Cour de cassation et que d'autre part la Cour, en impliquant elle-même l'article 49, disposition avec effet rétroactive, a commis, à mon avis, une infraction à l'article 6.1, parce que, à mon avis, cet article est incompatible avec les droits fondamentaux dont je viens de vous parler.
+
+<<1573.35;1585.99;fr>>
+Maintenant, je vous ai dit que cette jurisprudence de la Cour de cassation de l'année 2002 était aperçue par certaines comme étant un coup de tonnerre partiel vieux.
+
+<<1585.99;1589.15;fr>>
+Ce n'est pas du tout le cas.
+
+<<1589.15;1616.91;fr>>
+Si on va voir donc passer, on trouve déjà en France, depuis l'année 1841, un arrêt de la Cour de la France, disant qu'un tel commandement, qui est signifié pour un titre qui n'est pas exécutoire, n'a pas d'effet interruptif pour la prescription de l'article 2244.
+
+<<1616.91;1662.39;fr>>
+Pour ceux qui disent que cet article du Code civil, lorsqu'il parle d'une contrainte qui est en mesure d'interrompre une prescription, serait pas un commandement en matière fiscale, parce qu'en matière fiscale, le commandement ne serait pas la première acte d'exécution, alors je me réfère à un arrêt de notre Cour de cassation de l'année 1882, où dans les conclusions écrites du ministère public de ce temps-là, il dit clairement que le commandement en matière fiscale est la première acte d'exécution.
+
+<<1662.39;1664.39;fr>>
+Pourquoi c'est important?
+
+<<1664.39;1696.23;fr>>
+C'est important parce que lorsque l'on a introduit le Code judiciaire en Belgique en 1967, on a aussi changé beaucoup de choses au niveau de l'exécution des décisions judiciaires, et on a pris le choix de régler une fois et pour toutes formellement ce qui est un saisis conservatoire.
+
+<<1696.23;1718.23;fr>>
+Parce que jusque-là, le ministère des Finances, elle était d'avis qu'elle pouvait envoyer un huissier pour un titre, un enrôlement qu'elle avait fait, dont elle savait, puisqu'il était contesté, que le huissier ne pouvait utiliser aucune mesure de contrainte.
+
+<<1718.23;1746.23;fr>>
+Pourtant, l'administration le faisait en se disant « Mes Écoutez, moi, administration, je peux me permettre certaines choses, et j'envoie un huissier contribuable, il fera ce qu'il fera, qu'il a peur et qu'il ne sait pas tous les détails de tout cela, ce qui compte pour moi, c'est qu'il paie sa dette d'impôt. » Contesté.
+
+<<1746.23;1761.23;fr>>
+Alors, la Cour de cassation, avec deux arrêts du 28 octobre 1993, va mettre un terme à de telles pratiques de l'administration fiscale.
+
+<<1761.23;1771.23;fr>>
+Et c'est l'avocat général Vellu qui a sévèrement condamné cette pratique de l'administration.
+
+<<1771.23;1778.23;fr>>
+Et je prends quand même soin de le lire, ce qu'il disait, parce que c'est important.
+
+<<1778.23;1791.23;fr>>
+« Enfin, la thèse de l'administration est de nature à porter gravement atteinte aux intérêts légitimes des contribuables, même s'il est incontestable qu'un créancier saisissant peut toujours renoncer à la vente à la date prévue.
+
+<<1791.23;1797.23;fr>>
+Il n'en reste pas moins que dans le système défendu par le demandeur, les intérêts du contribuable sont gravement lésés.
+
+<<1797.23;1807.23;fr>>
+L'État est lui-même instrumentant, sachant dès l'origine que la vente ne pourra en vertu de la loi avoir lieu à la date indiquée.
+
+<<1807.23;1818.23;fr>>
+L'indication de la date et de l'heure de la vente dans l'exploit de saisie et exécution n'est qu'un faux semblant qui risque fort d'induire le contribuable en erreur.
+
+<<1818.23;1830.23;fr>>
+Ce procédé constitue aussi une forme de contrainte morale dès lors que le contribuable, pouvant craindre que la vente ait lieu, paie à l'administration la partie de l'impôt qu'il conteste.
+
+<<1830.23;1847.23;fr>>
+Alors la Cour a décidé dans ses arrêts déjà en 1993 que toute mesure exécutoire pour un titre qui n'a pas d'effet exécutoire est de nul effet.
+
+<<1847.23;1856.23;fr>>
+L'administration a réagi tout de suite après ces deux arrêts.
+
+<<1856.23;1860.23;fr>>
+Elle savait et elle se rendait compte immédiatement.
+
+<<1860.23;1870.23;fr>>
+Ah, mais écoutez, nous avons un problème avec notre commandement parce que c'est le premier acte de l'exécution.
+
+<<1870.23;1878.23;fr>>
+Donc tout ce que nous avons signifié jusqu'ici, ça ne va plus.
+
+<<1878.23;1883.23;fr>>
+Et l'administration à ce moment-là s'est dit bon, il ne faut pas changer la loi.
+
+<<1883.23;1885.23;fr>>
+Pourtant, c'était facile en matière sociale.
+
+<<1885.23;1904.23;fr>>
+Vous avez des dispositions partout où le législateur a pris soin de dire qu'une simple mise de demeure, d'être recommandé par le créancier suffit lorsqu'il émane d'une institution du droit social, suffit pour interrompre.
+
+<<1904.23;1915.23;fr>>
+L'administration fiscale n'a pas réfléchi et elle s'est dit on va compliquer les choses et on va inventer une chose tout à fait nouvelle.
+
+<<1915.23;1931.23;fr>>
+Et ils ont fait un acte administratif qui s'appelle, et j'avoue que c'est un peu compliqué, c'est un commandement interruptif de la prescription.
+
+<<1931.23;1934.23;fr>>
+Et qu'est-ce qui se passe?
+
+<<1934.23;1959.23;fr>>
+C'est un vicier qui va signifier un document dans lequel il est dit au contribuable, écoutez monsieur, il paraît que vous avez une dette qui est contestée, mais bon, je vous préviens qu'il n'y a donc pas de prescription, vous devez cet argent.
+
+<<1959.23;1969.23;fr>>
+Mais une telle mise en demeure n'est pas interruptive et ça a toujours été le cas.
+
+<<1969.23;1980.23;fr>>
+Donc depuis 1993, le législateur et l'administration surtout, savaient déjà qu'il y aurait un problème à un moment donné.
+
+<<1980.23;1986.23;fr>>
+Et ça a pris effectivement un certain temps avant que la première affaire revienne devant la Cour de cassation.
+
+<<1986.23;2006.23;fr>>
+Et ça c'est la première arrêt du 10 octobre 2002, qui n'est donc pas un coup de tonnerre partiel bleu, mais qui était écrit dans les étoiles et on ne peut pas prétendre que ça tombait du ciel.
+
+<<2006.23;2014.23;fr>>
+Alors effectivement, après les arrêts de 93, j'avoue, la jurisprudence au fond en Belgique était divisée.
+
+<<2014.23;2023.23;fr>>
+Et tant le gouvernement que moi-même, nous avons communiqué certaines décisions dans l'un et dans l'autre sens.
+
+<<2023.23;2030.23;fr>>
+Mais on ne peut pas dire que la version de l'un est minoritaire par rapport à l'autre.
+
+<<2030.23;2040.23;fr>>
+Il y avait juste une division et la Cour de cassation a mis ça dans le clair et net lorsqu'elle est statuée en 2002.
+
+<<2040.23;2066.23;fr>>
+Alors en ce qui concerne finalement, parce que le but de cet article 49 de la loi programme du 9 juillet 2004 était clair, je vous l'ai lu, dans un état de droit, nous devons bien entendu respecter la décision d'un juge.
+
+<<2066.23;2073.23;fr>>
+Mais dans les circonstances actuelles, nous n'avons pas la moindre chance d'obtenir gain de cause devant le tribunal.
+
+<<2073.23;2082.23;fr>>
+Et qu'est-ce qu'on propose comme des motifs impérieux d'intérêt général?
+
+<<2082.23;2086.23;fr>>
+Alors il fallait restaurer la sécurité juridique.
+
+<<2086.23;2096.23;fr>>
+Alors à cela je dis mais non, la sécurité juridique n'était pas telle que le législateur le préconisait.
+
+<<2096.23;2100.23;fr>>
+Les arrêts de la Cour de cassation étaient écrits dans les étoiles.
+
+<<2100.23;2118.23;fr>>
+Et en tout cas, cette intervention du législateur est trop tard par rapport à ce qu'elle savait qui était dans le pipeline depuis 1993.
+
+<<2118.23;2127.23;fr>>
+D'une ligne droite remontant à plus de 150 ans avec l'arrêt de la Cour de cassation de 1841.
+
+<<2127.23;2134.23;fr>>
+On va vous dire qu'il y a évidemment l'aspect financier, bien sûr.
+
+<<2134.23;2138.23;fr>>
+La question a un impact financier, personne ne va le nier.
+
+<<2138.23;2149.23;fr>>
+Mais on reste un peu sur sa faim parce que dans le Parlement, le ministre avait indiqué qu'il peut y avoir une prescription dans un certain nombre de cas.
+
+<<2149.23;2155.23;fr>>
+Mais il est pratiquement impossible d'en chiffrer l'importance en termes de perte de recettes fiscales.
+
+<<2155.23;2166.23;fr>>
+En plus, un peu plus loin, il a dit le ministre ne dispose pas de données sur le nombre de dossiers, sur l'importance des montants réclamés.
+
+<<2166.23;2185.23;fr>>
+Je pense que, en soi, même si l'enjeu financier puisse être important, en soi, ça ne suffit pas pour justifier une mesure telle qui est présentée devant vous.
+
+<<2185.23;2197.23;fr>>
+Soit encore justifiée par un motif impérieux.
+
+<<2197.23;2216.73;fr>>
+En plus, finalement, on va vous dire que oui, comme tous les autres, ma cliente a toujours considéré que le commandement qui lui a été signifié pendant le cours de la procédure administrative interrompait.
+
+<<2216.73;2227.23;fr>>
+Mais j'ai commencé par vous indiquer que ce n'est pas du tout le cas. Elle a attendu le moment venu pour avoir la certitude, la confiance.
+
+<<2227.23;2234.23;fr>>
+Et c'est par une incrédulité qu'elle s'est vue modifier la loi par la suite.
+
+<<2234.23;2264.73;fr>>
+Évidemment, il y a aussi encore un dernier point que je voudrais vous signaler, qu'à mon avis, le fait qu'on est ici dans le recouvrement d'un enrôlement fiscal contesté, à mon avis, ne suffit pas pour dire que le volet civil de l'article 6.1 de la Convention ne serait pas d'application.
+
+<<2264.73;2286.23;fr>>
+Il y a une nette distinction entre l'établissement de l'impôt qui a sa propre procédure et le recouvrement qui suit finalement le déroulement d'une procédure, comme pour toute autre créance civile ou commerciale devant les tribunaux.
+
+<<2286.23;2291.23;fr>>
+Donc je ne vois pas pourquoi on devrait faire cette distinction.
+
+<<2291.23;2294.73;fr>>
+Je pense que je peux m'arrêter jusqu'ici. Je vous remercie.
+
+[[JudgeP;Robert Spano]]
+
+<<2296.02;2298.5;fr>>
+Merci beaucoup, maître Wouters.
+
+<<2298.7;2304.34;fr>>
+Je confirme que soit l'audio, soit la vidéo étaient très bien.
+
+<<2304.58;2306.74;fr>>
+Alors, je me tourne vers le gouvernement.
+
+<<2306.74;2309.46;fr>>
+Madame  Niedlispacher, vous avez la parole.
+
+[[Government;GR1]]
+
+<<2310.92;2312.6;fr>>
+Je vous remercie, Monsieur le Président.
+
+<<2312.6;2319.4;fr>>
+Monsieur le Président, Mesdames, Messieurs les juges, notre plaidoirie est divisée en deux grandes parties.
+
+<<2319.4;2323.12;fr>>
+J'aurai l'honneur de vous présenter la première.
+
+<<2323.12;2331.44;fr>>
+Elle se rapporte à l'applicabilité des garanties de l'article 6, paragraphe première de la Convention et au respect du délai raisonnable.
+
+<<2331.44;2348.12;fr>>
+Maître Jafferali vous présentera la seconde partie relative à la question de la rétroactivité de la loi du 9 juillet 2004 et à la technique de la substitution de motifs utilisée par la Cour de cassation de Belgique.
+
+<<2348.12;2362.36;fr>>
+Notre affaire a trait à la contestation d'un impôt et d'une majoration d'impôt de 50%, enrôlée sur la base d'une législation fiscale qui n'est pas en tant que telle contestée.
+
+<<2362.36;2374.28;fr>>
+La déclaration d'impôt de la requérante avait en effet été rectifiée pour l'exercice d'imposition en 1993 concernant la déductibilité de certains frais.
+
+<<2374.28;2387.6;fr>>
+Si la matière fiscale échappe au domaine des droits et obligations de caractère civil, l'État belge ne conteste pas en l'espèce l'applicabilité de l'article 6, paragraphe première de la Convention.
+
+<<2387.6;2403.36;fr>>
+La majoration d'impôt infligée à la requérante implique en effet l'existence d'une accusation en matière pénale dirigée contre elle au sens autonome de la Convention.
+
+<<2403.36;2414.36;fr>>
+L'État ne conteste donc pas l'application des critères Engel à la majoration d'impôt et, indirectement, à la contestation de l'impôt.
+
+<<2414.36;2438.24;fr>>
+Notons néanmoins que depuis son arrêt juscilla de votre cours, il est considéré à juste titre qu'il faut apprécier avec plus de bienveillance le respect de l'article 6, paragraphe première en matière de majoration d'impôt que si la requérante avait fait l'objet d'une accusation relevant du noyau dur du droit pénal.
+
+<<2438.24;2458.2;fr>>
+Cette bienveillance devra être gardée à l'esprit tant dans l'appréciation du délai raisonnable que du caractère rétroactif de la loi du 9 juillet 2004 et du recours à la technique de la substitution de motifs.
+
+<<2458.2;2480.76;fr>>
+Selon votre jurisprudence bien établie, le caractère raisonnable de la durée d'une procédure doit s'apprécier suivant les circonstances de la cause et à l'aide des critères de la complexité de l'affaire, du comportement des requérants et des autorités compétentes, ainsi que de l'enjeu du litige pour les intéressés.
+
+<<2480.76;2491.16;fr>>
+Pour le calcul de la durée de la procédure, le gouvernement s'en réfère à l'appréciation retenue par la Chambre de votre cour qui a déjà examiné cette affaire.
+
+<<2491.16;2512.92;fr>>
+La procédure administrative puis judiciaire menée à l'égard de la requérante a dès lors duré 13 ans et 6 mois, dont il y a lieu de déduire la période de 1 an et 9 mois pendant laquelle la requérante avait la possibilité de saisir les juridictions judiciaires, mais s'est abstenue de le faire.
+
+<<2512.92;2521.12;fr>>
+La période à considérer est donc de 11 ans et 9 mois.
+
+<<2521.12;2539.28;fr>>
+Une telle durée apparaît néanmoins raisonnable au regard de la complexité de la cause, eu égard notamment à la rétroactivité de la loi du 9 juillet 2004, dont il sera question dans un moment, et des enjeux du litige.
+
+<<2539.28;2555.36;fr>>
+Il en va d'autant plus ainsi que le respect de l'article 6 paragraphe première doit s'apprécier en l'espèce de manière moins sévère dès lors que les majorations d'impôts ne relèvent pas du noyau dur du droit pénal.
+
+<<2555.36;2561.84;fr>>
+Le gouvernement observe que l'arrêt de la Chambre n'a pas répondu à cet argument.
+
+<<2561.84;2570.12;fr>>
+Or le principe d'appréciation souple posé par l'arrêt Juscila ne peut demeurer abstrait et théorique.
+
+<<2570.12;2576.64;fr>>
+Il doit être pris concrètement en considération dans votre décision.
+
+<<2576.64;2587.52;fr>>
+Au surplus, on relève que l'imposition attaquée par la requérante était d'un montant équivalent à 448 219 euros.
+
+<<2587.52;2593.48;fr>>
+Ceci représente un litige fiscal d'un certain enjeu.
+
+<<2593.48;2603.08;fr>>
+En degré d'appel, de nombreux écrits ont été déposés par la requérante, et notamment un troisième jeu de conclusions additionnelles et de synthèse.
+
+<<2603.08;2614.64;fr>>
+Ceci témoigne de la complexité du litige et de la part de responsabilité qui incombe à la requérante dans la durée de la mise en état de l'affaire.
+
+<<2614.64;2620.12;fr>>
+L'arrêt de la Cour d'appel d'Anvers témoigne également de la complexité de cette affaire.
+
+<<2620.12;2647.68;fr>>
+Il contient en effet une analyse détaillée de la doctrine et de la jurisprudence sur la question de savoir si le commandement payé du 24 octobre 2000 peut ou non être considéré comme un commandement au sens de l'article 2244 du Code civil, et si la prescription peut alternativement être considérée comme ayant été suspendue sur base de l'article 2251 du Code civil.
+
+<<2647.68;2660.6;fr>>
+Il examine ensuite le fond de l'affaire en rencontrant l'ensemble des objections soulevées par la requérante, qui n'a sur ce point formulé aucune critique devant la Cour de cassation.
+
+<<2660.6;2667.12;fr>>
+Aucun dépassement du délai raisonnable ne peut en l'espèce être retenu.
+
+<<2667.12;2667.12;fr>>
+Merci.
+
+[[Government;GR3]]
+
+<<2674.49;2691.37;fr>>
+Monsieur le Président, Mesdames, Messieurs les Juges, je vais dans mon exposé m'attacher à vous démontrer que l'intervention rétroactive du législateur en cours d'instance n'a en l'espèce pas porté atteinte à l'article 6, paragraphe première de la Convention.
+
+<<2691.37;2696.41;fr>>
+Permettez-moi tout d'abord de replacer brièvement les choses dans leur contexte.
+
+<<2696.41;2705.21;fr>>
+Le 28 octobre 1993, la Cour de cassation de Belgique a inauguré en audience plénière une nouvelle jurisprudence.
+
+<<2705.21;2723.09;fr>>
+Elle a décidé en substance qu'en cas de réclamation introduite par le contribuable, l'administration ne peut, tant que cette réclamation n'a pas été jugée, procéder à une saisie-exécution, si ce n'est à concurrence de l'incontestablement dû.
+
+<<2723.09;2732.09;fr>>
+En d'autres termes, une saisie-exécution pratiquée pour la partie contestée de la cotisation est nulle.
+
+<<2732.09;2742.85;fr>>
+C'est la première décision rendue par cet arrêt du 28 octobre 1993, mais il y a une seconde décision qui est rendue, et c'est celle-là qui nous intéresse dans le cadre de cette présente affaire.
+
+<<2742.85;2750.57;fr>>
+Et mon estimé contradicteur essaye d'opérer une certaine confusion entre ces deux questions qui sont pourtant nettement distinctes.
+
+<<2750.57;2756.41;fr>>
+Quelle était la deuxième question tranchée par la Cour de cassation en 1993?
+
+<<2756.41;2770.37;fr>>
+Il s'agissait de savoir si malgré la nullité de la saisie-exécution, l'administration pouvait néanmoins interrompre valablement la prescription de l'impôt par le biais d'un commandement de payer.
+
+<<2770.37;2775.37;fr>>
+C'est ça, la question au cœur du litige qui est portée maintenant devant vous.
+
+<<2775.37;2782.57;fr>>
+La Cour de cassation n'a cependant pas eu à examiner cette question en 1993 concernant le fond du problème.
+
+<<2782.57;2783.69;fr>>
+Pourquoi?
+
+<<2783.69;2792.21;fr>>
+Tout simplement parce qu'elle a constaté que l'arrêt attaqué n'avait pas répondu aux conclusions de l'État belge sur ce point.
+
+<<2792.21;2797.57;fr>>
+Et la Cour de cassation a dès lors cassé l'arrêt pour un motif de pure forme.
+
+<<2797.57;2805.73;fr>>
+La Cour de cassation en 1993 ne s'est en d'autres termes pas prononcée sur la question de l'interruption de la prescription par la voie d'un commandement.
+
+<<2805.73;2812.05;fr>>
+La question a cependant été examinée par la Cour de renvoi qui a été tranchée en faveur de l'État belge.
+
+<<2812.05;2830.05;fr>>
+L'arrêt de la Cour d'appel de Bruxelles du 24 juin 1997 décide en effet, et je cite, qu'il faut dissocier les deux aspects d'un commandement dans la mesure où ce commandement interrompt la prescription et est également le préalable nécessaire à une saisie-exécution.
+
+<<2830.05;2839.85;fr>>
+Le commandement peut dès lors valoir comme acte interruptif de la prescription indépendamment de l'absence ou de l'existence de toute exécution, régulière ou non.
+
+<<2839.85;2841.41;fr>>
+Fin de citation.
+
+<<2841.41;2848.53;fr>>
+En d'autres termes, cet arrêt de la Cour d'appel de Bruxelles a consacré la théorie dite du double effet du commandement.
+
+<<2848.53;2863.49;fr>>
+Le commandement est d'une part un début d'acte d'exécution et à ce titre il est nul si l'impôt est encore contesté, mais il pouvait également avoir un deuxième effet qui lui est valable et qui était d'interrompre la prescription.
+
+<<2863.49;2867.25;fr>>
+Cette jurisprudence n'était du reste pas isolée.
+
+<<2867.25;2888.69;fr>>
+En réponse aux questions additionnelles posées par M. le juge rapporteur, le gouvernement a en effet renseigné pas moins de sept autres décisions de justice admettant que le commandement signifié par l'État puisse interrompre la prescription alors même que la dette d'impôt serait contestée.
+
+<<2888.69;2892.09;fr>>
+Cette solution était donc bien établie.
+
+<<2892.09;2902.01;fr>>
+Elle a cependant été mise à mal par deux arrêts de la Cour de cassation des 10 octobre 2002 et 21 février 2003.
+
+<<2902.01;2913.65;fr>>
+Ceux-ci ont rompu avec la solution majoritaire admise jusqu'alors en refusant au commandement signifié par l'État tout effet interruptif en cas de contestation de l'impôt.
+
+<<2913.65;2919.85;fr>>
+Une grande insécurité juridique est résultée de ce revirement de jurisprudence.
+
+<<2919.85;2929.61;fr>>
+C'est pour corriger cette insécurité juridique que fut adopté l'article 49 de la loi programme du 9 juillet 2004.
+
+<<2929.61;2945.21;fr>>
+Cette disposition interprète rétroactivement l'article 2244 du Code civil en ce sens que le commandement interrompt bel et bien la prescription même lorsque la dette d'impôt est contestée.
+
+<<2945.21;2958.37;fr>>
+Saisie d'un recours en annulation de cette disposition, la Cour constitutionnelle de Belgique a considéré que la rétroactivité de cette loi était compatible avec les exigences de votre jurisprudence.
+
+<<2958.37;2971.49;fr>>
+Elle a en effet décidé que cette disposition rétroactive était, je cite, « justifiée par des circonstances particulières et exceptionnelles » et je cite encore « et dictée par des motifs impérieux d'intérêt général ».
+
+<<2971.49;2975.25;fr>>
+C'est bien là le critère appliqué par votre jurisprudence.
+
+<<2975.25;2984.93;fr>>
+Les raisons avancées par la Cour constitutionnelle de Belgique ont également emporté la conviction de la Chambre de votre tribunal qui s'est déjà penchée sur cette affaire Vegotex.
+
+<<2984.93;2990.65;fr>>
+Je ne vais pas résumer ici l'ensemble de ces raisons, je me contenterai d'en évoquer les trois principales.
+
+<<2990.65;2997.17;fr>>
+Premièrement, la loi du 9 juillet 2004 n'a nullement perturbé la sécurité juridique.
+
+<<2997.17;3005.01;fr>>
+Au contraire, elle a été adoptée en vue de restaurer la sécurité juridique qui avait été rompue par la Cour de cassation.
+
+<<3005.01;3023.81;fr>>
+Comme je vous l'ai dit en effet, les arrêts des 10 octobre 2002 et 21 février 2003 ont opéré un revirement de jurisprudence rétroactif par rapport à la solution qui était jusqu'alors majoritairement admise par la jurisprudence.
+
+<<3023.81;3041.29;fr>>
+La loi du 9 juillet 2004 n'a eu d'autre objet que de corriger ce revirement de jurisprudence rétroactif et de renouer avec la solution antérieure, en confirmant donc l'effet interruptif du commandement signifié par l'administration.
+
+<<3041.29;3049.57;fr>>
+Alors, je suis heureux de noter un glissement, pour ne pas dire un infléchissement certain, dans la thèse de mon estimé contradicteur.
+
+<<3049.57;3057.69;fr>>
+Mon estimé contradicteur vous a toujours soutenu jusqu'à présent que les arrêts de 2002 et de 2003 étaient, je cite ses propos, « inscrits dans les astres ».
+
+<<3057.69;3063.89;fr>>
+Ils étaient la conséquence logique de l'arrêt de 1993, selon la thèse de mon estimé contradicteur.
+
+<<3063.89;3070.93;fr>>
+Je vous ai déjà dit que ce n'était pas possible, pour la bonne et simple raison que l'arrêt de 1993 n'a pas tranché cette question sur le fond.
+
+<<3070.93;3074.25;fr>>
+L'arrêt de 1993 a cassé pour défaut de réponse.
+
+<<3074.25;3086.93;fr>>
+Nous avons produit une décision, et je vais y revenir, et j'entends maintenant pour la première fois mon estimé contradicteur admettre explicitement dans sa piédoirie que la jurisprudence était, je cite, « divisée ».
+
+<<3086.93;3091.09;fr>>
+La solution n'était donc pas inscrite dans les astres, elle était au minimum divisée.
+
+<<3091.09;3096.73;fr>>
+Mais je vais vous montrer qu'en réalité la solution majoritaire était celle soutenue par l'État belge.
+
+<<3096.73;3110.85;fr>>
+Et pour établir en réponse aux questions additionnelles de monsieur le juge rapporteur, l'état de la jurisprudence avant les arrêts des 10 octobre 2002 et 21 février 2003, je voudrais attirer votre attention sur les éléments suivants.
+
+<<3110.85;3121.01;fr>>
+Tout d'abord, l'arrêt de la Cour de cassation du 21 février 2003 a été rendu sur conclusion contraire de son ministère public.
+
+<<3121.01;3128.97;fr>>
+Ce qui montre déjà qu'en réalité cet arrêt de 2003 implique une rupture par rapport aux solutions antérieures.
+
+<<3128.97;3145.53;fr>>
+Ensuite, la Cour constitutionnelle elle-même, et il n'y a aucune raison de douter de l'opinion que la Cour constitutionnelle de Belgique a de l'état de son propre droit, la Cour constitutionnelle elle-même a admis que la solution majoritaire antérieure c'était bien la solution de l'interruption de la prescription.
+
+<<3145.53;3153.13;fr>>
+Par ailleurs, je me réfère à nouveau aux 7 décisions communiquées hier en réponse aux questions additionnelles de monsieur le juge rapporteur.
+
+<<3153.13;3164.89;fr>>
+Enfin, je me permets d'attirer votre attention sur le fait que les 20 décisions invoquées hier par la requérante en réponse aux questions additionnelles de monsieur le juge rapporteur ne sont pas pertinentes.
+
+<<3164.89;3179.01;fr>>
+Sans pouvoir rentrer dans les détails compte tenu du temps limité de ces plaidoiries, je me limiterai à trois observations tout en me tenant prêt à rentrer plus dans les détails dans le cadre des questions que la Cour voudrait éventuellement nous adresser.
+
+<<3179.01;3181.49;fr>>
+Ces trois observations sont les suivantes.
+
+<<3181.49;3189.53;fr>>
+Premièrement, les décisions 1 et 7 à 20 invoquées par la requérante ne sont pas pertinentes d'un point de vue temporel.
+
+<<3189.53;3197.05;fr>>
+En effet, la décision numéro 1 remonte à 1841 et en plus c'est une décision de la Cour de cassation non pas de Belgique mais de France.
+
+<<3197.05;3207.73;fr>>
+Ça n'a évidemment plus rien à voir avec l'état du droit en 1993 d'autant que dans l'intervalle le Code judiciaire a été adopté en 1967 et que toute une série de controverses nouvelles sont nées depuis lors.
+
+<<3207.73;3209.73;fr>>
+Donc la décision 1 peut déjà être écartée.
+
+<<3209.73;3212.81;fr>>
+Mais de même les décisions 7 à 20.
+
+<<3212.81;3216.89;fr>>
+Pourquoi? Parce que la question du juge rapporteur était extrêmement précise.
+
+<<3216.89;3221.01;fr>>
+Qu'en était-il de l'état du droit avant l'arrêt de 2002?
+
+<<3221.01;3225.29;fr>>
+Or, les décisions 7 à 20 sont postérieures à 2002.
+
+<<3225.29;3234.45;fr>>
+Alors évidemment il ne faut pas être devin pour savoir que les décisions des juges du fond postérieures à l'arrêt de la Cour de cassation vont majoritairement se conformer à l'arrêt de la Cour de cassation.
+
+<<3234.45;3236.09;fr>>
+Mais ce n'est pas ça la question.
+
+<<3236.09;3241.41;fr>>
+La question c'est de savoir quel était l'état du droit avant les arrêts de 2002.
+
+<<3241.41;3248.77;fr>>
+Alors quand on regarde les décisions numéro 2 à 5, on se rend compte qu'en réalité elles ne sont pas pertinentes.
+
+<<3248.77;3254.81;fr>>
+Et il faut les lire attentivement et je suis prêt à y revenir avec vous si vous le souhaitez parce que j'admets que ce sont des questions de droit belge pointues.
+
+<<3254.81;3265.89;fr>>
+Mais en substance ces arrêts 2 à 5 ne condamnent pas de manière principielle la possibilité d'une interruption de la prescription par la voie d'un commandement de payer.
+
+<<3265.89;3277.89;fr>>
+Ce que décident ces décisions 2 à 5 c'est que en l'espèce le commandement n'était pas rédigé de manière suffisamment claire et que par conséquent il n'a pas pu interrompre la prescription.
+
+<<3277.89;3300.37;fr>>
+Mais je me permets de vous renvoyer au paragraphe 75, si je ne m'abuse en français de France, de l'arrêt rendu par votre Chambre et je cite « Le 24 octobre 2000, le commandement de payer mentionnant explicitement qu'il visait à interrompre la prescription fut signifié à la requérante. »
+
+<<3300.37;3309.61;fr>>
+Autrement dit, dans notre affaire à nous, le commandement de payer était totalement clair sur l'intention de l'administration d'interrompre la prescription.
+
+<<3309.61;3317.05;fr>>
+Et pour ce motif, les décisions numéro 2 à 5 invoquées par la requérante ne sont donc pas pertinentes.
+
+<<3317.05;3320.37;fr>>
+Que reste-t-il? La décision numéro 6.
+
+<<3320.37;3331.01;fr>>
+Et je vous invite à lire très attentivement cette décision numéro 6 produite par la requérante, puisqu'elle prouve exactement le contraire de ce qu'invoque la requérante.
+
+<<3331.01;3336.97;fr>>
+La décision numéro 6 admet en effet explicitement l'effet interruptif du commandement.
+
+<<3336.97;3347.33;fr>>
+Tout cela confirme donc ce que je vous disais, c'est que les décisions antérieures à 2002 reconnaissaient très majoritairement l'effet interruptif du commandement.
+
+<<3347.33;3360.33;fr>>
+Et pour cette raison, la présente affaire se distingue donc fondamentalement de votre arrêt Maggio contre Italie, où le système conforté par la loi rétroactive était jusqu'alors minoritaire.
+
+<<3360.33;3381.89;fr>>
+Ici, au contraire, je vous l'ai dit, les arrêts des 10 octobre 2002 et 21 février 2003 ont constitué une anomalie en opérant un revirement de jurisprudence allant contre la jurisprudence majoritaire et étaient dès lors nécessaires pour l'État de restaurer la sécurité juridique en confortant par une loi rétroactive la position majoritaire antérieure.
+
+<<3381.89;3396.01;fr>>
+Pour la même raison, la présente affaire se distingue de votre arrêt Agrati contre Italie, où le législateur avait attendu 5 ans pour adopter une disposition contraire à l'interprétation constante de la Cour de cassation.
+
+<<3396.01;3418.25;fr>>
+Ici, au contraire, la loi du 9 juillet 2004 a été adoptée moins de 2 ans après l'arrêt du 10 octobre 2002 et cherche à corriger non pas l'interprétation constante de la Cour de cassation, mais bien un coup de tonnerre dans un ciel bleu, un revirement de jurisprudence par rapport à la jurisprudence majoritaire et à la pratique administrative antérieure.
+
+<<3418.25;3427.57;fr>>
+Voilà le premier élément que je voulais avancer pour justifier l'existence des raisons impérieuses d'intérêt général justifiant l'arrêt de l'activité.
+
+<<3427.57;3435.25;fr>>
+Deuxièmement, l'absence d'intervention législative aurait eu en l'espèce des conséquences dramatiques.
+
+<<3435.25;3448.57;fr>>
+En effet, sans celle-ci, l'État belge se serait trouvé dans l'impossibilité d'interrompre la prescription à l'égard d'un contribuable qui conteste la dette d'impôt tout en refusant de renoncer volontairement à la prescription.
+
+<<3448.57;3451.97;fr>>
+Et ça, ça aurait été extrêmement problématique pour le budget.
+
+<<3451.97;3466.01;fr>>
+Alors, mon estimé contradicteur s'est référé aux premiers travaux préparatoires de fin 2003, début 2004, où à ce stade-là, l'administration n'avait pas encore pu chiffrer précisément l'impact budgétaire. Et on ne peut pas s'arrêter à ce moment-là du temps.
+
+<<3466.01;3509.25;fr>>
+Il faut savoir que dans le cadre de la procédure devant la Cour constitutionnelle, et je me réfère plus précisément au point 1.18.1 de la décision de la Cour constitutionnelle,ce montant est chiffré. Et il est également chiffré, le même chiffre est repris, dans la position du gouvernement dans votre arrêt optime et industrial, contre Belgique, que je cite maintenant, les effets sur le budget de l'État auraient été désastreux, le montant des impôts en cause étant estimé à 1 175 953 412,32 euros.
+
+<<3509.25;3518.33;fr>>
+Et cela aurait profité, je cite toujours, de manière disproportionnée à des grands fraudeurs fiscaux qui auraient ainsi échappé à l'impôt.
+
+<<3518.33;3540.37;fr>>
+Par ailleurs, plus tard dans les traits préparatoires, le Parlement lui-même considéra qu'une intervention législative, je cite encore, se révèle d'autant plus impérieuse à l'examen des données de l'arriéré fiscal en matière d'impôts sur le revenu, qui révèle que ce dernier est constitué à plus de 40% des cotisations contestées.
+
+<<3540.37;3565.57;fr>>
+Et donc il est exact que dans un premier temps, les traits préparatoires n'ont pas pu chiffrer précisément l'impact budgétaire, ont eu tendance également à minimiser celui-ci, mais une fois que la recherche a pu être menée à fond, des chiffres précis ont été avancés par le gouvernement belge et ont démontré l'impact budgétaire dramatique qu'aurait eu le maintien de l'insécurité juridique créée par la Cour de cassation.
+
+<<3565.57;3578.01;fr>>
+Troisièmement, la requérante ne peut pas sérieusement se plaindre d'avoir été trompée dans ses attentes légitimes ainsi que cela ressort incontestablement de la chronologie des faits.
+
+<<3578.01;3586.29;fr>>
+En effet, le commandement de payer fut en l'espèce signifié à la requérante le 24 octobre 2000.
+
+<<3586.29;3595.33;fr>>
+Lorsque l'arrêt de la Cour de cassation de 10 octobre 2002 a été rendu, l'affaire de la requérante était encore pendante en première instance.
+
+<<3595.33;3599.01;fr>>
+Qu'a fait la requérante? Rien du tout.
+
+<<3599.01;3605.09;fr>>
+La requérante ne s'est pas prévalue de cette jurisprudence et de ce revirement.
+
+<<3605.09;3620.09;fr>>
+Il a fallu attendre sa requête d'appel du 15 avril 2004 pour qu'elle invoque cette jurisprudence providentielle et qu'elle prétende pour la première fois que l'impôt aurait été en réalité prescrit depuis le 15 février 2001.
+
+<<3620.09;3626.09;fr>>
+D'autres termes, ce n'est pas comme si la requérante avait contesté depuis l'origine la validité du commandement.
+
+<<3626.09;3640.21;fr>>
+Après tout, si la requérante croyait vraiment à la thèse qu'elle défendait devant vous, qu'elle défend aujourd'hui devant vous, elle aurait soutenu dès l'origine qu'en exécution de l'arrêt de la Cour de cassation de 1993, le commandement était nul.
+
+<<3640.21;3651.73;fr>>
+Elle n'en a rien fait parce qu'elle savait bien qu'en réalité, la jurisprudence majoritaire admettait la validité de ce commandement en tant qu'il interrompait la prescription.
+
+<<3651.73;3673.85;fr>>
+La requérante a donc accepté dans un premier temps la validité de l'effet interruptif de la prescription et ce n'est que dans un second temps qu'elle a espéré pouvoir bénéficier de manière inattendue d'un effet d'aubaine créé par l'insécurité juridique résultant du revirement de jurisprudence opéré par la Cour de cassation.
+
+<<3673.85;3695.37;fr>>
+Ce ne sont donc pas des attentes légitimes de la requérante qui auraient été trompées et celle-ci ne peut légitimement se plaindre que moins de trois mois après sa requête d'appel d'avril 2014, le 9 juillet 2014, le législateur met fin à l'insécurité juridique par l'adoption de la loi rétroactive critiquée par la requérante.
+
+<<3695.37;3708.49;fr>>
+Pour l'ensemble de ces raisons, il existait donc des motifs impérieux d'intérêt général justifiant en l'espèce l'application rétroactive de l'article 49 de la loi programme du 9 juillet 2004.
+
+<<3708.49;3725.13;fr>>
+Et il en va d'autant plus ainsi, compte tenu, comme on l'a rappelé, de votre jurisprudence juscila contre Finlande qui implique qu'une bienveillance particulière soit appliquée en dehors du noyau dur du droit pénal.
+
+<<3725.13;3730.37;fr>>
+J'en viens maintenant à la substitution de motifs.
+
+<<3730.37;3735.65;fr>>
+Devant la Cour d'appel d'anverse, l'argument de prescription invoquée par la requérante fut rejeté.
+
+<<3735.65;3742.13;fr>>
+Pour ce faire, le juge du fond ne se basa pas sur l'interruption de la prescription, mais sur la suspension de celle-ci.
+
+<<3742.13;3755.49;fr>>
+Comme vous le savez, l'interruption se distingue de la prescription par le fait que l'interruption fait courir un nouveau délai, tandis que c'est le même délai qui se poursuit à l'issue de la période de suspension.
+
+<<3755.49;3761.49;fr>>
+Deux mécanismes différents donc, mais qui touchent tous les deux à une prolongation de la prescription.
+
+<<3761.49;3775.05;fr>>
+La requérante se pourvut en cassation en critiquant la décision de la Cour d'appel d'anverse de déclarer l'impôt non prescrit, et plus précisément en critiquant le raisonnement du juge du fond relatif à la suspension de la prescription.
+
+<<3775.05;3781.89;fr>>
+Le grief formulé par la requérante fut néanmoins déclaré irresfable par la Cour de cassation à défaut d'intérêt.
+
+<<3781.89;3799.37;fr>>
+La Cour estima en effet que, quand bien même la critique du raisonnement du juge du fond sur la suspension de la prescription aurait été fondée, la décision du juge du fond n'en serait pas moins demeurée légalement justifiée pour un autre motif.
+
+<<3799.37;3816.01;fr>>
+En effet, même si la prescription n'a pas été suspendue, elle a en toute hypothèse été interrompue par le commandement signifié par l'administration, et ce, eu égard à l'article 49 de la loi programme du 9 juillet 2004 dont il vient d'être question.
+
+<<3816.01;3826.73;fr>>
+Contrairement à ce que prétend la requérante, la décision de la Cour d'appel de déclarer la prescription non acquise n'a donc pas été modifiée par la Cour de cassation.
+
+<<3826.73;3833.05;fr>>
+Avant comme après la décision de la Cour de cassation, la prescription demeure non acquise.
+
+<<3833.05;3845.09;fr>>
+Ce qui a été donc la décision de la Cour d'appel a donc bien été maintenue. La seule chose qu'a fait la Cour de cassation, c'est modifier le raisonnement de la Cour d'appel et non pas sa décision.
+
+<<3845.09;3856.89;fr>>
+Elle a en effet substitué au motif de l'arrêt attaqué, critiqué par la requérante, d'autres motifs de pur droit qui suffisent à justifier légalement la décision et partant à rejeter le grief.
+
+<<3856.89;3877.53;fr>>
+C'est cela précisément la technique de la substitution de motif. C'est de dire que le moyen est irrécevable à défaut d'intérêt parce que fut-il même fondé, la solution demeurerait la même sur la base d'un autre raisonnement de pur droit que la Cour de cassation peut substituer au raisonnement du juge du fond.
+
+<<3877.53;3882.05;fr>>
+Ce recours à la substitution de motif est bien connu dans la technique de cassation belge.
+
+<<3882.05;3894.61;fr>>
+Et je vais maintenant vous exposer les raisons pour lesquelles il est parfaitement conforme à l'article 6 paragraphe 1er de la Convention et se tend au regard du droit à un procès contradictoire que du droit d'accès à un juge.
+
+<<3894.61;3898.21;fr>>
+Commençons par le droit à un procès contradictoire.
+
+<<3898.21;3919.81;fr>>
+Dans l'affaire clinique des Acacia et autres, votre cours a estimé que la France avait méconnu le droit à un procès équitable des requérants au motif que la Cour de cassation a pris les requérants au dépourvu en procédant à une substitution de motif sans leur permettre au préalable de faire valoir leurs observations à ce propos et partant, en violation, du droit à un procès contradictoire.
+
+<<3919.81;3925.13;fr>>
+La présente affaire ne présente rien de commun avec l'affaire des Acacia.
+
+<<3925.13;3937.13;fr>>
+En effet, la substitution de motif à laquelle la Cour de cassation a procédé est intervenue après avoir mis la requérante pleinement en mesure d'exercer ses droits de la défense.
+
+<<3937.13;3939.45;fr>>
+Jugez-en plutôt.
+
+<<3939.45;3958.41;fr>>
+Premièrement, outre le pourvoi de la requérante, la Cour de cassation était également saisie d'un pourvoi réciproque de l'État belge, portant précisément sur la question de l'application de l'article 49 de la loi programme du 9 juillet 2004 à titre rétroactif.
+
+<<3958.41;3965.13;fr>>
+Alors, la requérante a beau juste dire que, à son estime, le pourvoi de l'État belge était irrécevable.
+
+<<3965.13;3970.21;fr>>
+C'est peut-être vrai, mais il n'en demeure pas moins que la question était soumise à la Cour de cassation.
+
+<<3970.21;3972.53;fr>>
+Elle était donc au cœur du débat.
+
+<<3972.53;3981.29;fr>>
+La question de l'applicabilité de l'article 49 de la loi programme du 9 juillet 2004 faisait partie du litige soumis à la Cour de cassation.
+
+<<3981.29;3985.05;fr>>
+Et donc, la requérante devait s'attendre à ce qu'elle soit abordée.
+
+<<3985.05;3991.33;fr>>
+Deuxièmement, la substitution de motif opérée par la Cour de cassation n'a pas été décidée d'initiative.
+
+<<3991.33;3995.93;fr>>
+Elle a d'abord été proposée par le ministère public près de la Cour de cassation.
+
+<<3995.93;4012.53;fr>>
+Et ce ministère public, dans ses conclusions, se référait à la juste prenance antérieure de la Cour de cassation, mais aussi expressément à l'arrêt de la Cour constitutionnelle dont je vous parlais il y a un instant, celui-là même qui a admis l'application rétroactive de la loi du 9 juillet 2004.
+
+<<4012.53;4021.93;fr>>
+Et cet arrêt de la Cour constitutionnelle, contrairement à ce que prétend la requérante, s'est prononcé expressément sur l'article 6 de la Convention européenne des droits de l'homme.
+
+<<4021.93;4024.37;fr>>
+Je vous invite à relire cet arrêt de la Cour constitutionnelle.
+
+<<4024.37;4031.61;fr>>
+Le moyen dont la Cour était saisie était explicitement pris, notamment de la violation de l'article 6 de la CODH.
+
+<<4031.61;4039.33;fr>>
+Et d'ailleurs, la Cour constitutionnelle s'est référée aux critères appliqués par votre jurisprudence, des motifs impérieux d'intérêt général.
+
+<<4039.33;4054.45;fr>>
+Le ministère public, en se référant à cet arrêt de la Cour constitutionnelle, a nouveau placé donc au cœur du débat judiciaire la question de l'application rétroactive de la loi programme et de sa compatibilité avec l'article 6 de la Convention européenne des droits de l'homme.
+
+<<4054.45;4067.53;fr>>
+Troisièmement, la requérante reconnaît avoir reçu les conclusions du ministère public le 5 mars 2009 et avoir bénéficié d'un délai pour y répondre par écrit jusqu'au 13 mars 2009.
+
+<<4067.53;4075.85;fr>>
+Malgré ça, c'est le 9 mars 2009 que la requérante a déposé des observations, donc bien en avance.
+
+<<4075.85;4091.33;fr>>
+Observations dans lesquelles la requérante n'examine pas l'applicabilité de l'article 49 de la loi programme, elle se contente d'opposer des objections de nature procédurale au recours à la technique de la substitution de motifs.
+
+<<4091.33;4095.89;fr>>
+La requérante a donc opéré en l'espèce un double choix.
+
+<<4095.89;4104.17;fr>>
+Premièrement, elle a décidé de déposer largement en avance ses observations au milieu du délai qui lui était imparti.
+
+<<4104.17;4110.17;fr>>
+Elle aurait pu prendre quelques jours supplémentaires pour développer son argumentation sur l'article 49 de la loi programme.
+
+<<4110.17;4112.85;fr>>
+Elle ne l'a pas fait. C'est son choix.
+
+<<4112.85;4116.57;fr>>
+De même, elle a décidé d'esquiver le débat.
+
+<<4116.57;4128.25;fr>>
+Elle a décidé de ne pas aborder la question de l'article 49 en estimant qu'elle était suffisamment sûre de son argumentation sur l'aspect de la technique de cassation de la substitution de motifs.
+
+<<4128.25;4134.33;fr>>
+Elle s'est trompée et elle doit assumer les conséquences entières de son mode de défense.
+
+<<4134.33;4149.93;fr>>
+Quand un défendeur fait le choix de ne pas se défendre sur certains éléments, pour des raisons ou pour d'autres, ce choix est respectable, mais il doit subir les conséquences et il ne peut pas ensuite se plaindre devant votre court prétendument d'une violation de son droit à un procès.
+
+[[JudgeP;Robert Spano]]
+
+<<4149.59;4155.79;fr>>
+Maître Jafferali, vous avez encore deux minutes pour conclure votre plaidoirie, s'il vous plaît.
+
+[[Government;GR2]]
+
+<<4155.95;4161.73;fr>>
+De fait, Monsieur le Président, j'arrivais justement au droit d'accès à un juge.
+
+<<4161.73;4170.83;fr>>
+À cet égard, il ne s'agit pas de juger le mécanisme même de la supposition de motif, il s'agit d'une question de droit interne en réalité.
+
+<<4170.83;4176.59;fr>>
+Elle n'a pas été remise en cause en tant que telle par la Cour de cassation.
+
+<<4176.59;4185.11;fr>>
+Je voudrais néanmoins vous dire qu'aucune limitation illégale du droit d'accès à un juge n'a été commise en l'espèce, et ce pour trois raisons.
+
+<<4185.11;4201.61;fr>>
+Premièrement, je me réfère à votre arrêt Zoubac contre Croatie, qui rappelle que les conditions de recevabilité d'un pourvoi peuvent être plus rigoureuses que pour un appel, et qu'il faut tenir compte de l'équité de l'ensemble de la procédure.
+
+<<4201.61;4207.91;fr>>
+Or, en l'occurrence, la requérante ne soulève aucune critique concernant la procédure de première instance et d'appel.
+
+<<4207.91;4217.61;fr>>
+Deuxièmement, je vous rappelle votre arrêt Jusilia, qui implique une appréciation plus bienveillante en l'espèce dès lors qu'on se situe en dehors du noyau dur du droit pénal.
+
+<<4217.61;4227.01;fr>>
+Troisièmement, la limitation du droit d'accès à un juge, qu'implique la technique de la substitution de motifs, poursuit un but légitime.
+
+<<4227.01;4233.43;fr>>
+En effet, le but légitime, c'est une bonne administration de la justice et un souci d'économie procédure.
+
+<<4233.43;4235.83;fr>>
+Quel est le but de la substitution de motifs?
+
+<<4235.83;4245.43;fr>>
+C'est d'éviter de devoir casser une décision qui, de toute façon, impliquera un rejet de la demande devant le juge de renvoi.
+
+<<4245.43;4258.67;fr>>
+La cour de cassation anticipe donc sur la décision que devrait prendre le juge de renvoi, et si le juge de renvoi ne prend pas cette décision, de toute façon, un nouveau pourvoi sera introduit, et la cour devra prendre la décision qu'elle prend en termes de la substitution de motifs.
+
+<<4258.67;4266.83;fr>>
+La substitution de motifs permet donc d'abréger la procédure et de raccourcir le délai que la requérante estime déraisonnable.
+
+<<4266.83;4276.23;fr>>
+Et donc, je ne vois pas très bien comment il pourrait se plaindre de cette technique de la substitution de motifs, qui est bien encadrée, bien évidemment, et ça, ça touche à la proportionnalité.
+
+<<4276.23;4278.63;fr>>
+Il y a des conditions très strictes qui sont prévues.
+
+<<4278.63;4283.73;fr>>
+Il faut qu'il y ait uniquement un motif de pur droit qui soit substitué au motif de l'arrêt d'appel.
+
+<<4283.73;4285.43;fr>>
+Il faut que les droits de la défense soient respectés.
+
+<<4285.43;4287.53;fr>>
+Je vous ai montré qu'ils devaient l'être.
+
+<<4287.53;4295.53;fr>>
+Et surtout, comme je vous l'ai dit, aucun avantage n'aurait été retiré par la requérante du recours à la substitution de motifs.
+
+<<4295.53;4308.53;fr>>
+Il est donc manifest qu'en l'espèce, aucune atteinte n'a été portée à la substance même du droit d'accès à un tribunal de la requérante, et que la limitation qui a été apportée est compatible avec les exigences de l'article 6, paragraphe 1er de la Convention.
+
+<<4308.53;4308.63;fr>>
+Je vous remercie pour votre attention.
+
+[[JudgeP;Robert Spano]]
+
+<<4310.13;4314.29;fr>>
+Merci beaucoup pour les plaidoiries de gouvernement.
+
+<<4314.49;4319.45;fr>>
+Alors, je me tourne vers les juges, pour qui souhaitent.
+
+<<4319.45;4319.45;fr>>
+Le vice-président Kjølbro.
+
+[[Judge;Jon Fridrik Kjølbro]]
+
+<<4324.79;4326.41;en>>
+Thank you, Mr. President.
+
+<<4326.41;4333.19;en>>
+I do have one question, which is addressed to both parties, to the government, as well as to the applicant.
+
+<<4333.19;4358.77;en>>
+The parties before the court seem to be in agreement that no distinction should be made between, on one hand, the collection of taxes, and on the other hand, tax surcharges, as under domestic law, Belgian law, both are assessed in the single procedure, the same document, and they are inextricably linked for the purpose of the calculation of the limitation period.
+
+<<4358.77;4365.51;en>>
+The parties, however, seem to draw different conclusions from the two limbs being closely tied.
+
+<<4365.51;4375.69;en>>
+The chamber made it clear that Article 6 was not applicable to the tax proceedings, but applicable to the tax surcharges.
+
+<<4375.69;4388.51;en>>
+Therefore, if one accepts the logic of the chamber, if there are any problems under Article 6, it will be solely because of the tax surcharges, not because of the tax assessment.
+
+<<4388.51;4429.95;en>>
+Therefore, my following question, would it have been possible under Belgian law for Belgian authorities to pursue the assessment of the tax liability, but to refrain from imposing tax surcharges, or put in other words, could Belgian authorities have assessed that retrospective application of the new act in calculation of the statutes of limitation was justified for the purpose of tax assessment liability, but not for imposing the penalty, the tax surcharges?
+
+<<4429.95;4429.95;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4430.93;4432.05;fr>>
+Merci, la juge O'Leary.
+
+[[Judge;Síofra O’Leary]]
+
+<<4434.68;4436.4;fr>>
+Merci beaucoup, monsieur le Président.
+
+<<4437.04;4443.52;fr>>
+J'ai une question pour maître Wouters, mais le gouvernement est invité à développer sa réponse aussi.
+
+<<4444.2;4451.72;fr>>
+Vous avez tous les deux adressé cette question lors de vos plaidoiries et par écrit, mais je voudrais creuser un peu plus.
+
+<<4452.4;4466.6;fr>>
+Alors, selon la société réclairante, la solution retenue par la Cour de cassation en 2002 ne constituait pas une nouvelle jurisprudence, mais la suite est la conséquence normale de deux arrêts de 1993.
+
+<<4467.76;4493.44;fr>>
+La société réclairante a estimé dans ses observations écrites que la jurisprudence de 1993 était, et je cite, « dépourvu de toute ambiguïté et toute personne normalement prudente ne pouvait arriver à la conclusion depuis lors qu'une simple mise en demeure sans disposition légale expresse pouvait valoir au titre d'acte d'interruption de la prescription ».
+
+<<4493.44;4496.44;fr>>
+Donc, ma question est assez simple.
+
+<<4496.92;4508.96;fr>>
+Pourquoi donc la société réclairante n'a pas, en décembre 2000, lorsqu'elle a introduit son action en première instance, soulevé la question de la prescription?
+
+<<4508.96;4528.04;fr>>
+En effet, elle a attendu jusqu'à avril 2004 pour ce faire, et pendant les observations orales, la société réclairante nous a expliqué que c'était à cause du besoin de certitude pour le réclairant qu'elle ait intervenu en 2004.
+
+<<4528.04;4544.88;fr>>
+La raison pour laquelle je voudrais creuser un petit peu plus, c'est parce que cette question vise deux aspects qui pourraient être importants en l'espèce, c'est-à-dire l'attente légitime de la société réclairante, mais aussi l'existence ou non d'un effet aubaine.
+
+<<4544.88;4544.88;fr>>
+Merci beaucoup.
+
+[[JudgeP;Robert Spano]]
+
+<<4547.33;4548.65;fr>>
+Merci. Le juge  Sabato.
+
+[[Judge;Raffaele Sabato]]
+
+<<4550.46;4552.34;fr>>
+Merci, monsieur le Président.
+
+<<4552.54;4561.42;fr>>
+J'ai une question, ou plutôt une invitation à revenir sur certains aspects déjà traités et peut-être donner des précisions.
+
+<<4561.66;4575.42;fr>>
+Premier aspect, l'existence et les caractéristiques d'une jurisprudence au sujet de l'interruption de la prescription par un commandement de payer qu'on pourrait appeler pur.
+
+<<4576.58;4607.22;fr>>
+Si je ne me trompe pas, alors, le gouvernement se réfère à sept ou peut-être même huit décisions de première instance d'appel dans le sens de l'interruption, tandis que la récréation fournit 5 exemples dans le sens de la non-interruption, dont trois, si je ne me trompe pas, ont conduit au jugement de la Cour de cassation dont on parle ici.
+
+<<4607.22;4618.74;fr>>
+Les autres jugements, et je crois que maître Jafferali l'a noté, me semblent être postérieurs au jugement de la Cour de cassation.
+
+<<4618.94;4629.86;fr>>
+Alors, sur ce sujet-là, il me semblerait important que chaque parti prenne position sur les exemples jurispondenciels fournis par l'autre parti.
+
+<<4630.06;4645.9;fr>>
+On a déjà entendu maître Wouters, qui a dit que, selon lui, l'autre jurisprudence était minoritaire, tandis que maître Jafferali a parlé d'une jurisprudence divisée.
+
+<<4646.38;4649.58;fr>>
+Et là, j'ai aussi l'obligation... Ah, je me trompe.
+
+<<4649.78;4658.74;fr>>
+J'ai aussi l'obligation de noter que les deux parties se sont référées, il me semble, exclusivement à la jurisprudence publiée.
+
+<<4659.22;4663.18;fr>>
+Je sais ça, s'il existe de la jurisprudence non publiée.
+
+<<4663.18;4672.14;fr>>
+L'autre aspect, les nombres des affaires pendantes à notre sujet et les sommes d'argent en jeu.
+
+<<4672.34;4690.26;fr>>
+Sur ce point, alors, les gouvernements se réfèrent à la somme de 1,2 milliard d'euros qui est mentionnée au fin de la décision optime et finistère.
+
+<<4690.26;4712.94;fr>>
+Et, encore une fois, si je ne me trompe pas, cette somme renvoie au montant total affecté par les lois-programmes de 2003 et 2004.
+
+<<4713.9;4727.18;fr>>
+Alors, je crois que la Cour, au fin de notre affaire, est intéressée surtout sur les montants attachés par la loi-programme de 2004, exclusivement.
+
+<<4727.9;4736.82;fr>>
+Et les nombres des affaires pendantes, il me semble, n'est pas mentionnés dans notre dossier.
+
+<<4737.02;4742.06;fr>>
+Alors, ça pourrait être un sujet pour quelques précisions.
+
+<<4742.06;4742.06;fr>>
+Merci.
+
+[[JudgeP;Robert Spano]]
+
+<<4744.51;4745.51;fr>>
+Merci beaucoup.
+
+<<4746.35;4757.29;fr>>
+S'il n'y a pas d'autres questions, l'audience va se suspendre jusqu'à 11h40, ça veut dire 20 minutes.
+
+<<4758.75;4760.23;fr>>
+Alors l'audience est suspendue.
+
+<<4760.23;4760.23;fr>>
+Merci.
+
+[[Announcer;UNK]]
+
+<<4932.93;4933.69;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<4937.65;4939.65;fr>>
+L'audience est reprise.
+
+<<4939.81;4942.65;fr>>
+La parole est à maître Wouters.
+
+<<4942.65;4942.65;fr>>
+S'il vous plaît.
+
+[[Applicant;AP1]]
+
+<<4945.12;4946.68;fr>>
+Merci, Monsieur le Président.
+
+<<4946.68;4950.96;fr>>
+D'abord, la première question du juge Kjølbro.
+
+<<4950.96;4971.92;fr>>
+Il se demande est ce que il y a aurait moyen de diviser la question entre l'impôt, je dirais, en soi-même, et les majorations d'autre part qui sont traitées comme étant des sanctions en vertu de l'article 6.1 de la Convention.
+
+<<4971.92;4999.88;fr>>
+À mon avis, je répète ce que j'ai dit, que la position de ma cliente c'est que, à mon avis, tant le volet civil que le volet pénal est d'application, puisqu'on est strictement dans le recouvrement d'une créance et que le fait que Jusacant c'est une dette fiscale ou une problématique fiscale qui est contestée n'y change strictement rien.
+
+<<4999.88;5037.56;fr>>
+Alors, à la question de savoir s'il serait pensable qu'Andra Belge en ferait une distinction lorsqu'on envisage de solutionner le problème qui s'est posé dans le cas d'Espèces, dans le chef du législateur, est-ce qu'il aurait pu faire une distinction en disant « je ne vais que modifier que pour l'impôt strictement, mais pas pour les majorations puisque c'est autre chose ». Je dirais théoriquement qu'il n'y a rien qui l'empêcherait.
+
+<<5037.56;5043.52;fr>>
+J'avoue que cette nuit dans mon lit, j'ai encore réfléchi de faire une telle distinction.
+
+<<5043.52;5044.68;fr>>
+On ne sait jamais.
+
+<<5044.68;5066.88;fr>>
+La deuxième question du juge O’Leary est un peu plus épineux, j'avoue, parce que oui c'est vrai, lorsqu'on prend connaissance de cette jurisprudence d'octobre 2002 de notre cours de cassation, pourquoi ne pas l'invoquer tout de suite devant le tribunal.
+
+<<5066.88;5077.08;fr>>
+D'accord, c'est une question dont je n'ai pas de réponse précise puisque je n'ai pas le conseil de ma cliente.
+
+<<5077.08;5107.76;fr>>
+En dire qu'en tirer de la conséquence que la situation du droit était liée ou peut-être fondée sur une appréciation subjective d'un contribuable, que selon lui c'est cette position qui existe, qui a une chance d'aboutir, ça à mon avis ça va trop loin.
+
+<<5107.76;5125.04;fr>>
+En tout cas, ce que je peux constater lorsque je vois le déroulement de toute la procédure, c'est que ma cliente n'a pas marché sur les oeufs parce qu'elle ne l'a pas invoquée tout de suite, elle a attendu.
+
+<<5125.04;5156.76;fr>>
+Et ça, à mon avis, on ne peut pas le nier, au moment qu'elle a fait, et c'est quand même important de le situer, au moment qu'elle a fait début 2004, dans sa requête d'appel du 15 avril 2004, toute la doctrine fiscale était convaincue que le législateur, comme le ministre l'a confirmé, ne commettrait pas un abus de pouvoir.
+
+<<5156.76;5173.92;fr>>
+Et dans ce sens-là, à mon avis, elle a été légitimement à ce moment-là en droit de se sentir rassurée et que ce serait la solution de son procès.
+
+<<5173.92;5201.28;fr>>
+Alors, la troisième question du juge Sabato, en fait, j'avoue que donc, après les arrêts de 93 de notre coup de cassation, il y a eu des jurisprudences dans des sens divers, c'est vrai, donc une jurisprudence divisée, je dois l'admettre.
+
+<<5201.28;5225.12;fr>>
+J'en ai beau chercher dans le peu de temps qui me reste après tant d'années, presque 20 ans, il y a beaucoup de jurisprudence qui n'est pas publiée, pourtant le gouvernement devrait pouvoir le produire parce qu'il est à chaque fois parti en cause.
+
+<<5225.12;5277.72;fr>>
+J'ai fait ce que j'ai pu faire et finalement, lorsqu'on me dit que la jurisprudence dont je suis capable de vous en démontrer quelques exemples, dont il y a encore des traces, et que dans cette jurisprudence même, les juges auraient dit que ça dépendrait de la manière dont ces commandements étaient formulés, je réponds, mais ça me semble quand même bizarre parce que le droit fiscal, dans l'article 145 de l'arrêté royal d'exécution, dit simplement qu'il faut un acte interruptif visé dans l'article 244 du code civil.
+
+<<5277.72;5284.68;fr>>
+Et c'est donc seulement cet article qu'il faut prendre en considération pour savoir ce qui est un contrainte.
+
+<<5284.68;5294.24;fr>>
+Et une contrainte ne peut pas se contenter de dire, voilà monsieur, voilà une mise en demeure, vous me devez tant.
+
+<<5294.24;5320.24;fr>>
+Le fait que le créancier fait savoir que cette créance existe encore ne suffit à mon avis pas, et donc cet argument de dire que même la jurisprudence à ma faveur ne serait pas quand même convaincante ne tient pas la route si on se pose sur le droit strict.
+
+<<5320.24;5339.76;fr>>
+Alors sur ce qui est l'enjeu financier pour l'État, j'avoue que je me sens un peu surpris avec ce chiffre d'un milliard d'euros qu'on sort d'un arrêt que vous avez rendu dans l'affaire Optime Industaire.
+
+<<5339.76;5346.76;fr>>
+Évidemment, pour vos contribuables, je ne suis pas en mesure de vérifier quoi que ce soit.
+
+<<5346.76;5375.04;fr>>
+Le fait de devoir faire une distinction entre l'effet de la mesure prise en 2003 pour le futur et l'effet de la loi de 9 juillet 2004, c'est une approche intéressante, mais évidemment, moi je n'ai aucun élément pour apporter un peu de lumière là-dessus.
+
+<<5375.04;5376.98;fr>>
+Je vous remercie.
+
+[[JudgeP;Robert Spano]]
+
+<<5378.37;5380.41;fr>>
+Merci beaucoup, Maître Wouters.
+
+<<5380.41;5382.73;fr>>
+Alors, je me tourne vers le gouvernement.
+
+<<5382.73;5386.17;fr>>
+Madame Lillie Spacher, Maître Jafferalli, vous avez la parole.
+
+[[Government;GR3]]
+
+<<5387.9;5390.43;fr>>
+Je vous remercie, Monsieur le Président.
+
+<<5390.62;5405.22;fr>>
+Alors, tout d'abord, la question de Monsieur le Vice-président Kjølbro, qui est la question de savoir si donc on pourrait dissocier d'une part l'établissement de l'impôt et d'autre part, comment dirais-je, la majoration d'impôts.
+
+<<5406.22;5410.39;fr>>
+Alors, il me semble que ce soit extrêmement difficile.
+
+<<5410.59;5418.06;fr>>
+Le Conseil de la requérante a dit que c'était théoriquement possible, mais il me semble que c'est pratiquement impossible en l'espèce.
+
+<<5418.55;5421.98;fr>>
+Pourquoi? Parce que je vous rappelle que la question dont on parle ici,
+
+<<5422.78;5426.98;fr>>
+c'est la question de l'effet interruptif d'un commandement.
+
+<<5427.3;5431.74;fr>>
+Donc, il y a un acte administratif qui est pris par l'administration pour interrompre la prescription.
+
+<<5432.26;5435.98;fr>>
+Et cet acte, ce commandement, est, me semble-t-il, indivisible.
+
+<<5436.66;5448.18;fr>>
+Je ne vois pas très bien comment on pourrait avoir un même acte administratif qui serait un effet interruptif à l'égard de l'établissement de l'impôt, mais pas à l'égard de la majoration de l'impôt.
+
+<<5448.74;5459.14;fr>>
+Je pense que ce serait contraire, en réalité, à l'objectif de l'administration en adoptant cet acte et que ce serait également contraire à l'équité dans les cas particuliers qui vous est soumis.
+
+<<5459.7;5475.02;fr>>
+Je me réfère à cet égard-là, à l'arrêt de la cour d'appel d'Anvers, et plus précisément à sa page 20, qui est l'endroit où la cour d'appel d'Anvers justifie l'infliction d'une majoration d'impôt de 50%.
+
+<<5475.94;5491.94;fr>>
+Par la circonstance que la requérante, je cite la cour d'appel d'Anvers, et ça n'a pas été critiqué par la requérante devant la Cour de cassation, « adopter un comportement artificiel et prémédité en vue de diminuer l'impôt, en vue de réduire en réalité sa base imposable ».
+
+<<5492.55;5511.47;fr>>
+Et je pense que cette critique de la cour d'appel d'Anvers est intimement liée à l'établissement de l'impôt lui-même, puisque pour infliger la majoration d'impôt, la cour d'appel d'Anvers a en fait constaté que toutes les déductions effectuées par la requérante étaient non fondées et avaient été faites de manière artificielle.
+
+<<5511.66;5522.47;fr>>
+Donc l'établissement de l'impôt est en l'espèce intimement lié à la majoration de l'impôt, et il me semble que ça renforce l'indivisibilité des deux volets de la décision, si je puis dire.
+
+<<5523.18;5526.66;fr>>
+J'espère avoir répondu ainsi à votre question.
+
+<<5526.66;5530.47;fr>>
+Si c'est le cas, je passe à la question de madame le juge O’Leary.
+
+<<5530.66;5541.66;fr>>
+Alors ici, je prends acte en réalité de l'incapacité de la requérante à justifier les raisons pour lesquelles elle n'a pas agi en 2000.
+
+<<5541.86;5562.47;fr>>
+Et cela ne fait que souligner la contradiction dans la thèse de la requérante, qui d'une part vous a soutenu, et vous l'avez cité vous-même, que la jurisprudence de 1993 était dépourvue de toute ambiguïté, ce que vous savez maintenant être faux, puisque cet arrêt, comme je vous l'ai dit, casse pour un défaut de réponse et non pas pour un problème de fond.
+
+<<5562.86;5583.47;fr>>
+Contradiction d'une part entre ce dépourvu de toute ambiguïté et d'autre part, l'admission en cours d'audience qu'en réalité, au minimum, la jurisprudence était divisée, mais contradiction également avec le comportement de la requérante qui n'a pas du tout agi conformément à la thèse qu'elle soutient aujourd'hui devant vous.
+
+<<5583.86;5593.47;fr>>
+Si véritablement elle était persuadée dès 1993 ou dès 2000 qu'il y avait un problème avec le commandement payé, elle aurait dû le soulever immédiatement.
+
+<<5593.66;5605.47;fr>>
+Et donc il me paraît clair qu'il n'y a aucune attente légitime de la requérante qui a été violée, qu'elle tente de se prévaloir d'un effet d'aubaine, ainsi que d'une évolution dans les travaux réparatoires.
+
+<<5605.47;5612.26;fr>>
+Parce que c'est un point sur lequel je n'ai pas encore eu l'occasion d'insister, mais il faut être bien conscient qu'il y a deux lois qui ont été adoptées.
+
+<<5612.47;5619.26;fr>>
+Il y a une première loi qui a été adoptée fin décembre 2003 et une deuxième loi le 9 juillet 2004.
+
+<<5619.47;5647.06;fr>>
+Et ici, la requérante essaye d'utiliser certaines déclarations qui ont été faites dans le cadre d'une procédure éducative pour tenter d'adopter à l'autre, mais en fait le débat parlementaire a progressé et la discussion parlementaire a évolué et la Cour constitutionnelle a considéré à juste titre que les deux lois de 2003 et de 2004 forment un tout et que c'est ensemble qu'elle constitue la réaction législative au revirement de jurisprudence de la Cour de cassation.
+
+<<5647.26;5652.06;fr>>
+C'est en soi tout à fait sain et légitime que le débat démocratique produise ses fruits.
+
+<<5652.26;5659.06;fr>>
+Je crois qu'en tant que Cour européenne droit de l'homme, vous êtes soucieuse de promouvoir la richesse du débat démocratique.
+
+<<5659.06;5665.06;fr>>
+Le débat démocratique ce n'est pas entrer dans un processus parlementaire et savoir dès le départ ce qu'on va faire.
+
+<<5665.26;5668.86;fr>>
+C'est discuter et de la confrontation des points de vue surgit la lumière.
+
+<<5669.06;5694.06;fr>>
+Et donc le fait que les choses aient pu évoluer et que peut-être à la date précise du 15 avril 2004 le requérant ait pu nourrir l'espoir d'un effet d'Aubaine n'est pas une attente légitime dès lors que trois mois plus tard, ou plus tard, la loi du 9 juillet 2004 vient confirmer que cet effet d'Aubaine n'aura pas lieu et que le revirement de jurisprudence doit être corrigé rétroactivement.
+
+<<5695.86;5703.86;fr>>
+Alors j'en viens aux deux questions de monsieur le juge Sabato sauf si je n'ai pas répondu à la question de madame O’Leary, n'hésitez pas à me le dire.
+
+<<5704.86;5709.86;fr>>
+Alors d'abord je commence peut-être par la deuxième question de monsieur le juge Sabato concernant le nombre d'affaires et le montant.
+
+<<5709.86;5715.86;fr>>
+Concernant le nombre d'affaires, malheureusement, je ne suis pas en mesure de vous répondre compte tenu de l'écoulement du temps.
+
+<<5715.86;5729.06;fr>>
+Nous avons interrogé l'administration, mais c'est vrai que la loi en question date de 2004 et donc du coup nous sommes aujourd'hui en 2021, nous n'avons pas pu dans le temps limité qui nous était imparti retrouver cette information.
+
+<<5731.86;5749.86;fr>>
+Par contre, en ce qui concerne la somme de 1,2 milliard d'euros, d'abord une précision, je l'ai déjà dit, mais elle figure non seulement dans l'affaire Optime et Industaire, mais également dans l'arrêt de la Cour constitutionnelle au point 1.18.1.
+
+<<5749.86;5755.86;fr>>
+Et alors vous me demandez si on pourrait ventiler ça, diviser ça entre la loi de 2003 et la loi de 2004.
+
+<<5755.86;5759.86;fr>>
+Alors je ne pense pas que ce soit possible pour la raison suivante.
+
+<<5759.86;5771.86;fr>>
+Tel que je le comprends, ce chiffre de 1,2 milliard correspond à 40% de l'arriéré fiscal à l'époque de l'adoption de ces lois.
+
+<<5771.86;5785.86;fr>>
+Pourquoi? Parce que comme le Parlement l'a dit dans les trois préparatoires que je vous ai cités antérieurement, environ 40% de l'arriéré fiscal faisait l'objet d'une contestation à cette époque.
+
+<<5785.86;5794.86;fr>>
+Et donc c'est pour ce 40% de l'arriéré fiscal qu'il y avait un risque de prescription si on ne corrigeait pas la jurisprudence de la Cour de cassation.
+
+<<5794.86;5797.86;fr>>
+Et donc on a un chiffre budgétaire global.
+
+<<5797.86;5801.86;fr>>
+Qu'est-ce qu'a fait en réalité l'administration?
+
+<<5801.86;5813.86;fr>>
+Elle a pris le chiffre de l'arriéré fiscal et elle a, comment dirais-je, appliqué ce coefficient de 40% correspondant à la contestation de l'impôt.
+
+<<5813.86;5824.86;fr>>
+Mais en réalité, si vous allez voir le point 1.18.1 de l'arrêt de la Cour constitutionnelle, vous verrez des explications complémentaires du gouvernement.
+
+<<5824.86;5827.86;fr>>
+Et je vous cite ce point 1.18.1.
+
+<<5827.86;5844.86;fr>>
+Ce montant ne vise par ailleurs que le montant principal et ne prend en compte que les cotisations enregistrées dans le système informatisé en vigueur depuis 1993, de sorte que les impôts enrôlés avant 1993 ou enrôlés manuellement ne sont pas repris dans le montant estimé.
+
+<<5844.86;5854.86;fr>>
+Donc en fait déjà quand on dit 1,175 milliards, c'est déjà une sous-évaluation parce que tout n'était pas encodé et ça ne tient pas compte des intérêts ni des majorations d'impôt.
+
+<<5854.86;5863.86;fr>>
+Donc ce chiffre de 1,175 milliards est déjà inférieur à l'impact budgétaire véritable des mesures.
+
+<<5863.86;5869.86;fr>>
+Voilà donc pour la première question posée.
+
+<<5869.86;5898.86;fr>>
+Alors concernant la deuxième question posée, je constate que mon estimé contradicteur ne critique pas et pour cause les sept décisions que j'ai proprites et qui ont bien la portée que j'indiquais qui était de dire qu'il y avait un effet interruptif du commandement de payer, en réponse à la question de monsiuer le juge, je vais maintenant donc prendre une à une chacune des références produites par la requérante afin de vous offrir le commentaire demandé.
+
+<<5898.86;5905.86;fr>>
+Donc je passe l'arrêt de la Cour de question de France de 1841 puisque comme on l'a dit il est hors cadre temporel.
+
+<<5905.86;5909.86;fr>>
+Je commence par la décision du juge des saisies de Bruxelles en juillet 1994.
+
+<<5909.86;5915.86;fr>>
+C'est la pièce 2 des pièces nouvelles produites hier par la requérante.
+
+<<5915.86;5928.86;fr>>
+Et je vous propose de passer directement, donc je ne sais pas si vous avez sous les yeux le document, mais donc je vais commenter la page 3 du fichier PDF de mon estimé contradicteur qui porte la page 714 de la revue de jurisprudence de Liège-Monts-Bruxelles.
+
+<<5928.86;5934.86;fr>>
+Et plus ou moins au milieu de la page, vous avez la fin de la décision que je vous cite.
+
+<<5934.86;5945.86;fr>>
+« Attendu enfin qu'en raison de ces termes simples et non équivoques, le commandement ne peut avoir en l'espèce, même à titre subsidiaire, la portée d'un acte destiné à interrompre la prescription.
+
+<<5945.86;5956.86;fr>>
+Que la mention prescription du 3 octobre 1991, figurant sans autre précision sur la contrainte, ne pourrait à elle seule modifier les termes clairs de tout commandement. »
+
+<<5956.86;5957.86;fr>>
+Qu'est-ce que ça veut dire?
+
+<<5957.86;5968.86;fr>>
+Ça veut dire que la décision du tribunal de Bruxelles qui est venue de par mon estimé contradicteur, se base sur la formulation du commandement.
+
+<<5968.86;5974.86;fr>>
+Le commandement n'était pas formulé de manière suffisamment claire et précise pour indiquer qu'il voulait interrompre le commandement.
+
+<<5974.86;5983.86;fr>>
+Or, comme je vous l'ai dit, votre Chambre a relevé au paragraphe 75 de son arrêt Végotex que ce n'est pas le cas dans l'affaire Végotex.
+
+<<5983.86;5991.86;fr>>
+Dans l'affaire Végotex, le commandement indiquait très explicitement qu'il visait à interrompre la prescription.
+
+<<5991.86;5995.86;fr>>
+Et donc du coup, cette décision ne me paraît pas pertinente.
+
+<<5995.86;6008.86;fr>>
+La deuxième décision à banquer, et on va prendre les décisions 3 et 4 ensemble, donc dans l'inventaire de mon estimé contradicteur, c'est le juge des saisies de Charleroi du 14 mai 1998 et l'arrêt de la Cour d'appel de Mons du 18 mai 2000.
+
+<<6008.86;6013.86;fr>>
+Alors en réalité, ces deux décisions, elles n'ont pas été publiées indépendamment.
+
+<<6013.86;6017.86;fr>>
+Mon estimé contradicteur renvoie à la pièce 220 de son inventaire.
+
+<<6017.86;6034.86;fr>>
+Alors personnellement, je ne me l'ai pas retrouvé dans son inventaire, la pièce 220, je l'ai retrouvée dans les annexes à sa requête, et dans sa requête, c'est l'annexe numéro 18, et non pas 20, mais peut-être que nous n'avons pas la même numérotation, mais en tout cas dans les annexes à la requête, c'est l'annexe 18.
+
+<<6034.86;6049.86;fr>>
+Alors la requérante a produit la décision en néerlandais, elle a néanmoins été publiée en français, et comme la procédure est en français, je vais me permettre de vous lire un extrait en français, si vous le permettez, mais vous le retrouverez en néerlandais dans le dossier de la requérante.
+
+<<6049.86;6056.86;fr>>
+Donc ce que je vais vous lire, c'est un extrait de la pasicrisie qui est la publication officielle de la décision de la Cour de cassation.
+
+<<6056.86;6060.86;fr>>
+La décision a été publiée à la pasicrisie sous le numéro 526.
+
+<<6060.86;6067.86;fr>>
+Je vous lis un passage.
+
+<<6067.86;6077.86;fr>>
+« C'est en effet à bon droit et par les pertinents motifs que la Cour d'appel fait sien que le premier juge a statué comme il l'a fait, disons de nul et de nul effet le commandement litigieux.
+
+<<6077.86;6084.86;fr>>
+Je poursuis que c'est exclusivement en tant qu'acte d'exécution que le commandement à péril de saisie-exécution a été signifié.
+
+<<6084.86;6098.86;fr>>
+Dans un contexte tel que nul et de nul effet en tant qu'acte d'exécution, il ne peut sortir à défaut de mentions expresses en ce sens les effets visés à l'article 2244 du Code civil. »
+
+<<6098.86;6103.86;fr>>
+Donc ça, c'est ce que décide la Cour d'appel, qui s'approprie les motifs du premier juge, donc leur décision c'est quoi?
+
+<<6103.86;6106.86;fr>>
+C'est qu'il n'y avait pas de mention expresse dans le commandement de l'effet interruptif.
+
+<<6106.86;6121.86;fr>>
+Et donc à nouveau, décision peut-être intéressante, mais affaire d'espèce, qui n'est pas applicable dans notre affaire Végotex, puisque dans notre affaire Végotex, il y avait une mention expresse dans le commandement de l'effet interruptif de la prescription, paragraphe 75 de l'arrêt Végotex.
+
+<<6121.86;6135.86;fr>>
+Alors ensuite, mon estimé contradicteur, et c'est la décision numéro 5 de son inventaire d'hier, cite l'arrêt de la Cour d'appel d'Anvers du 12 mars 2001.
+
+<<6135.86;6139.86;fr>>
+Alors il indique que c'est la pièce 221 de son inventaire.
+
+<<6139.86;6142.86;fr>>
+Personnellement, moi je l'ai retrouvée en annexe 19 à la requête.
+
+<<6142.86;6147.86;fr>>
+C'est en irlandais, et de ce passage-là, il n'y a pas de traduction officielle en français.
+
+<<6147.86;6151.86;fr>>
+Et donc si vous permettez, je vais vous le lire en irlandais.
+
+[[JudgeP;Robert Spano]]
+
+<<6151.16;6154.81;fr>>
+Maitre Jafferali, vous avez deux minutes encore s'il vous plaît.
+
+[[Government;GR2]]
+
+<<6155.89;6156.77;fr>>
+D'accord.
+
+<<6156.77;6172.77;fr>>
+Eh bien très rapidement alors, je ne vais pas le lire, c'est exactement la même chose, c'est à la page, c'est dans les faits, enfin c'est à la page, peu importe, c'est dans la décision attaquée, si vous allez lire en néerlandais, vous verrez que c'est exactement la même chose.
+
+<<6172.77;6202.09;fr>>
+Et puis vient enfin l'arrêt du, comment dirais-je, l'arrêt de la cour d'appel au Bruxelles du 9 mai 2001, qui est la pièce 6 invoquée par mon estimé contradicteur, et là je vous lis, donc c'est un nouveau arrêt attaqué devant la cour de cassation du 12 mars 2004, et je vous lis le passage pertinent, la cour d'appel par l'arrêt attaqué réformant la décision du premier juge, dit pour droit que le dit commandement signifiait au demandeur la requête du défendeur, a interrompu la prescription.
+
+<<6202.09;6210.61;fr>>
+Et donc comme je vous le disais, cet arrêt de la cour d'appel de Bruxelles va dans le sens de l'État belge et non pas dans le sens de la requérence.
+
+<<6210.61;6218.53;fr>>
+Et c'est pourquoi je vous disais qu'il s'agissait bien d'une jurisprudence non pas divisée, mais très largement majoritaire en faveur de la thèse de l'État belge.
+
+<<6218.53;6225.49;fr>>
+Et en réponse à la question de savoir s'il y a des sources non publiées, j'aimerais faire deux observations.
+
+<<6225.49;6234.17;fr>>
+La première c'est que dans notre inventaire que nous avons produit hier, nous avons cité des décisions non publiées, mais à laquelle la doctrine se réfère.
+
+<<6234.17;6244.69;fr>>
+Et deuxièmement, nous n'avons pas d'autres décisions non publiées à produire, mais l'état du droit et l'état de la jurisprudence doit être établi, me semble-t-il, sur base de la jurisprudence publiée.
+
+<<6244.69;6251.41;fr>>
+Parce que la sécurité juridique, elle s'établit sur base de ce que tout justiciable peut savoir et légitimement savoir.
+
+<<6251.41;6258.17;fr>>
+Si une décision est tout à fait non publiée, que personne n'en a connaissance à part l'État belge, elle ne peut pas fonder la sécurité juridique.
+
+<<6258.17;6265.41;fr>>
+Ce qui compte c'est précisément les décisions publiées ou les décisions rendues accessibles par le biais de la doctrine.
+
+<<6265.41;6265.41;fr>>
+J'espère avoir ainsi ce faisant répondu aux questions.
+
+[[JudgeP;Robert Spano]]
+
+<<6271.38;6272.58;fr>>
+Merci beaucoup.
+
+<<6273.86;6283.1;fr>>
+Je remercie alors les comparants qui ont assisté à la Cour par leur intervention et leur réponse à notre question.
+
+<<6284.06;6287.5;fr>>
+Alors, nous arrivons au terme de l'audience.
+
+<<6287.5;6290.86;fr>>
+La Cour va maintenant délibérer sous le fonds de l'affaire.
+
+<<6290.86;6293.98;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<6294.7;6298.26;fr>>
+Les partis seront informés de la date de prononcée.
+
+<<6298.26;6299.86;fr>>
+L'audience est levée.
+

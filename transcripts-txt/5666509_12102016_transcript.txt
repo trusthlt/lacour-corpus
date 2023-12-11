@@ -1,0 +1,1559 @@
+[[Announcer;UNK]]
+
+<<12.38;12.96;fr>>
+La Cour!
+
+[[JudgeP;Luis López Guerra]]
+
+<<71.75;78.75;en>>
+Good morning. I declare open the public hearing in the case of Károly Nagy versus Hungary.
+
+<<79.75;90.75;en>>
+The application was lodged with the Court on 19th October 2009 under Article 34 of the Convention by a Hungarian national, Mr. Károly Nagy.
+
+<<91.75;98.75;en>>
+The application was allocated to the second section of the Court, pursuant to Rule 52.1 of the Rules of the Court.
+
+<<98.83;102.75;en>>
+The application was communicated to the Government on 20th January 2014.
+
+<<102.75;111.75;en>>
+On 1st December 2015, a chamber of the second section delivered its judgment in the case.
+
+<<111.75;117.75;en>>
+It held that there had been no violation of Article 6.1 of the Convention.
+
+<<117.75;134.75;en>>
+On 8th December 2015, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the Convention, and the panel of the Grand Chamber accepted the request on 2nd May 2016.
+
+<<134.75;144.75;en>>
+Alliance Defending Freedom was granted leave to submit written comments, except third party, by virtue of Rule 44.3 of the Rules of the Court.
+
+<<144.75;152.75;en>>
+The Government are represented by their agent, Mr. Zoltán Tallódi, assisted by Mrs. Mónika Weller, a co-agent.
+
+<<152.75;163.75;en>>
+The applicant is represented by Mr. András Cech, counsel, assisted by Mrs. Márta Nagy and Mr. Balázs Várhalmy, advisors.
+
+<<163.75;165.75;en>>
+The applicant is also present.
+
+<<165.75;182.75;en>>
+I welcome the representatives in the name of the Court, and I also welcome groups of judges from France, Poland and Russia, and judges and prosecutors from the European Judicial Training Network who are on a study visit to the Court.
+
+<<182.75;197.75;en>>
+I would explain that in addition to interpreting in the two official languages of the Court, English and French, interpreting into Russian and Polish has been authorized for the benefit of the judge from those countries.
+
+<<197.75;207.75;en>>
+That interpreting is not arranged by the Court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<207.75;215.75;en>>
+Having consulted the agent of the Government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<215.75;222.75;en>>
+Mr. Cech, for the applicant, will speak first, and then Mr. Tallódi for the Government.
+
+<<222.75;224.75;en>>
+I call Mr. Cech.
+
+[[Applicant;AP1]]
+
+<<227.37;231.25;en>>
+Mr. President, members of the court,
+
+<<231.25;236.73;en>>
+someone in the crowd said to him, teacher, tell my brother to write the inheritance with me.
+
+<<236.73;242.77;en>>
+Jesus replied, man, who appointed me a judge or an arbiter between you?
+
+<<242.77;251.53;en>>
+The core of the question Jesus raised in this dialogue found in the Gospel of Luke is the issue of competence to adjudicate a material dispute.
+
+<<251.53;256.81;en>>
+The case which brings us together today also concerns the question of competence.
+
+<<256.81;262.12;en>>
+Namely, to whom may a former pastor have recourse when seeking payment for his services?
+
+<<262.12;265.73;en>>
+To state courts or ecclesiastical courts?
+
+<<265.73;267.69;en>>
+The applicant chose the state courts.
+
+<<267.69;277.73;en>>
+On the one hand, because the internal law of the Hungarian Calvinist Church clearly stipulates that such disputes shall be governed by state legislation in force.
+
+<<277.73;290.0;en>>
+On the other hand, in line with the foregoing, the respective congregation advised him formally that the pecuniary dispute at stake must be resolved by state courts under state law.
+
+<<290.0;301.56;en>>
+However, state courts in both the labor law and civil law proceedings denied to adjudicate the applicant's action on account of lack of competence in ecclesiastical matters.
+
+<<301.56;312.56;en>>
+At this juncture, it must be observed that the Supreme Court did not uphold the lower court's judgments, but quashed them and discontinued the proceedings.
+
+<<312.56;321.81;en>>
+It follows that whatever the lower court's findings are, they do not come into play because legally, those judgment do not exist.
+
+<<321.81;333.25;en>>
+The Supreme Court held that state courts have no jurisdiction in the case at hand, being a matter internal to the church, and therefore did not consider it necessary to rule on the merits.
+
+<<333.25;345.88;en>>
+In our view, refusing to hear the applicant's claim for compensation on the sole ground that he was a pastor is a clear denial of access to a court in breach of Article 6.1 of the Convention.
+
+<<345.88;357.33;en>>
+The government, in contrast, allege that Article 6 is not applicable in the present case, as the claim at issue is not recognized as a civil right under Hungarian domestic law.
+
+<<357.33;369.93;en>>
+They place great reliance on the provisions of Section 204 of the Hungarian Civil Code and qualify, accordingly, the applicant's claim as a natural obligation, not enforceable as a civil right.
+
+<<369.93;374.17;en>>
+We do opine this standpoint for the following reasons.
+
+<<374.17;379.88;en>>
+As it appears in the well-set-up case law of the court, the applicability of Article 6.1 in civil matters
+
+<<379.88;384.25;en>>
+depends, firstly, on the existence of a dispute.
+
+<<384.25;391.05;en>>
+It is not contested that there has been a dispute between the applicant and the church over the outstanding allowances.
+
+<<391.05;400.29;en>>
+Secondly, the dispute must relate to rights and obligations, which arguably, at least, can be said to be recognized under domestic law.
+
+<<400.29;406.12;en>>
+Thirdly, these rights and obligations must be civil ones within the meaning of the Convention.
+
+<<406.12;411.76;en>>
+According to the government, these last two conditions have not been satisfied.
+
+<<411.76;420.56;en>>
+Above all, it must be observed that the concept of civil rights and obligations cannot be interpreted solely by reference to domestic law.
+
+<<420.56;424.33;en>>
+It is an autonomous concept deriving from the Convention.
+
+<<424.33;430.81;en>>
+According to this court's jurisprudence, Article 6.1 applies irrespective of the party's status,
+
+<<430.81;440.32;en>>
+the character of the legislation which governs how the dispute is to be determined, and the character of the authority which has jurisdiction in the matter.
+
+<<440.32;456.49;en>>
+Whether or not a right is to be regarded as civil in light of the Convention, it must be determined by reference to the substantive content and effects of the right under the domestic law of the state concerned, and not its legal classification.
+
+<<456.49;465.45;en>>
+As opposed to the government, we observe first of all that natural obligations do not necessarily fall outside the field of recognized civil rights.
+
+<<465.45;468.19;en>>
+What is a naturalis obligatio?
+
+<<468.19;477.09;en>>
+In Roman law, it qualified as an agreement that could not be enforced by action, but was not in other respects destitute of legal effect.
+
+<<477.09;480.0;en>>
+Namely, it has merited legal recognition.
+
+<<480.0;487.93;en>>
+Such an agreement, for instance, could be used as a defense or as a basis for agreements enforceable by action.
+
+<<487.93;497.29;en>>
+The conclusion may be drawn that even if considered a natural obligation, the applicant's right for his pastoral services is of civil nature.
+
+<<497.29;508.12;en>>
+Nonetheless, we still do not believe that it is a natural obligation, as its civil law character is indisputable also under the relevant domestic law.
+
+<<508.12;522.12;en>>
+Notably, as we pointed out in our written memorandum, the Civil Code clearly recognizes pecuniary relations between citizens and other persons, like for example religious communities, as a source of substantive civil rights.
+
+<<522.12;531.05;en>>
+Accordingly, the civil nature of the relationship on which the applicant based his claim is acknowledged by domestic law as well.
+
+<<531.05;549.55;en>>
+Furthermore, due to the autonomous concept of civil rights and obligations, this court, in the exercise of its supervisory functions, must also take account the convention's object and purpose and the national legal system of the other contracting states.
+
+<<549.55;566.2;en>>
+For the states of examples in other member states, in the cases of Dudova and Duda versus the Czech Republic and Bodler versus Germany, it is clearly perceptible that the respective domestic courts considered the pecuniary claims of the former cledgmen to be civil in nature.
+
+<<566.2;575.57;en>>
+Moreover, the determination of civil rights and obligation, the straddle jurisprudence attributes high importance to the pecuniary dimension.
+
+<<575.57;583.96;en>>
+In our understanding, the pecuniary nature is a clinching factor bringing a claim under the civil limb of Article VI.
+
+<<583.96;598.4;en>>
+Accordingly, the court regards as falling within the scope of Article VI proceedings, which do not necessarily fall under civil law in domestic law, but whose result is deceitful for private rights and obligations.
+
+<<598.4;608.97;en>>
+Such proceedings may have to do in Terelia with running a private clinic, issuing building permission, or getting a license for service alcoholic beverages.
+
+<<608.97;622.85;en>>
+In the Sambata Bihor Greco-Catholic Parish versus Romania judgment, the court held, for example, that the ownership and use of a religious building is of pecuniary character, falling under the scope of Article VI.
+
+<<622.85;630.92;en>>
+In all these cases, the court took the view that the private law aspect predominated over the public law ones.
+
+<<630.92;641.33;en>>
+Let me remind you that the applicant did not complain about either the disciplinary proceedings against him, nor his removal from service.
+
+<<641.33;652.76;en>>
+What was at stake was his right to his pastoral remuneration, which was, here I emphasize again, not dependent in any way on the outcome of the disciplinary proceedings.
+
+<<652.76;663.26;en>>
+Consequently, the applicant's service allowance might not in any event be deemed as a purely ecclesiastical matter, but rather an issue of pecuniary character.
+
+<<663.26;677.52;en>>
+For all the reasons previously mentioned, or from stances that the applicant's claim for his unpaid remuneration, that is the right which was the object of the dispute, might not be considered other than civil in nature.
+
+<<677.52;688.97;en>>
+And as the last matter of applicability, let me embark on the issue of whether the applicant's right to his remuneration can be said, at least arguably, to be recognized under domestic law.
+
+<<688.97;693.77;en>>
+It must be borne in mind that the applicant pursued a career as a pastor.
+
+<<693.77;704.05;en>>
+His remuneration was set out in the appointment letter, which corresponds to the service agreement of ecclesiastical office holders, as we set out in our memorandum.
+
+<<704.05;711.81;en>>
+Accordingly, the church undertook to provide a defined amount of money as a compensation for his services.
+
+<<711.81;714.05;en>>
+That is, for his work.
+
+<<714.05;720.16;en>>
+Besides, the applicant, as a pastor, concluded with the church a separate contract for teaching church history, too.
+
+<<720.16;730.09;en>>
+Consequently, the income he received in exchange for his work as a pastor was, in fact, his salary responsible for securing his family's subsistence.
+
+<<730.09;736.12;en>>
+Thus, the question is whether his right for salary was recognized under domestic law.
+
+<<736.12;753.37;en>>
+Not going into details, suffice it to mention, first of all, that Hungary is a contracting party to numerous international conventions, inter alia, the Equal Remuneration Convention of 1951 and the European Social Charter, which all became part of the domestic law by promulgation.
+
+<<753.37;765.49;en>>
+Bound by these conventions, the state undertook to recognize the principle of equal remuneration for work of equal value and to ensure the right for a fair remuneration.
+
+<<765.49;776.9;en>>
+Secondly, in line with the international obligations, the Hungarian constitution also guaranteed the right to equal compensation for equal work without any discrimination whatsoever.
+
+<<776.9;786.28;en>>
+It laid down that all persons who work have the right to an income that corresponds to the amount and quality of work they carry out.
+
+<<786.28;803.59;en>>
+Thirdly, the church salary the applicant was given for his pastoral service was not a gift, but was considered by domestic law as income deriving from an employment relationship, and therefore it was subject also to social security contribution to the state pension scheme.
+
+<<803.59;815.49;en>>
+What is more, the applicant has been in receipt of state pension, the amount of which comprises also the contribution paid pursuant to his pastoral allowances.
+
+<<815.49;828.0;en>>
+As the records of the Pension Institute demonstrates, the pastoral service is duly recognized by state law as a legal relationship relevant to pension benefit.
+
+<<828.0;840.4;en>>
+Whatever the respondent government may say, the reality is that the pastoral service allowance in question is an existing civil right fully recognized under domestic law.
+
+<<840.4;852.16;en>>
+Members of the court, my excellent colleagues on the opposite side argue that disputes arising from ecclesiastical law are expressly excluded from state court's jurisdiction.
+
+<<852.16;867.56;en>>
+We observe that the rules of exclusion referred to by the government seem vague rather than precise legal provisions by saying, I'm quoting here, no state coercion may be applied in order to enforce internal laws and regulations of churches.
+
+<<867.56;874.68;en>>
+This way, these rules leave room for a broad, and as it were, limitless interpretation.
+
+<<874.68;889.67;en>>
+And indeed, the domestic courts accordingly refuse to hear the applicant's case on the sole ground that the dispute originated in an ecclesiastical service, regardless of the civil nature of the pecuniary right it's take.
+
+<<889.67;897.21;en>>
+We do not contest that it is in the first place for the national courts to interpret and apply domestic law.
+
+<<897.21;908.17;en>>
+However, it is also settled at case law that this court must ascertain whether the effects of the domestic court's findings are compatible with the convention.
+
+<<908.17;919.67;en>>
+The almost unlimited margin of interpretation by the national courts of the rules of exclusion inevitably resulted in the total denial of the applicant's rights of access to court.
+
+<<919.67;924.88;en>>
+We admit that this right is not absolute, but may be subject to limitations.
+
+<<924.88;929.33;en>>
+In this field, the contracting states enjoy a certain margin of appreciation.
+
+<<929.33;936.35;en>>
+However, such limitations must pursue a legitimate aim and must be proportionate to that aim.
+
+<<936.35;947.99;en>>
+And in particular, they must not restrict or reduce the access to a court in such a way or to such an extent that the very essence of this right is impaired.
+
+<<947.99;970.0;en>>
+To refer back to the site of domestic rules of exclusion, I would like to point out that the question of whether a person has an actionable domestic claim may depend not only on the content of the relevant civil right in national law, but also on the existence of procedural bars preventing or limiting the possibilities of bringing claims to court.
+
+<<970.0;976.85;en>>
+Hence, a distinction must be made between substantive limitations and procedural bars.
+
+<<976.85;981.33;en>>
+In this latter category of cases, Article 6.1 may apply.
+
+<<981.33;994.57;en>>
+According to what I was saying about the recognition of civil rights under Hungarian law, the rules of exclusion referred to might be deemed as procedural bars at best, but in no way deprive the applicant of his substantive civil right.
+
+<<994.57;1004.21;en>>
+Honorable judges, the issue laying at the heart of the present case is a supposed competition of two convention rights.
+
+<<1004.21;1017.81;en>>
+Notably, whether freedom of religion takes precedence over a right of access to a court insofar as this latter must give way to an extent that a whole category of individuals be excluded from the protection of Article 6.
+
+<<1017.81;1036.89;en>>
+Freedom of religion implies that state authorities must remain neutral and that the state authorities must remain neutral and impartial towards religious communities because it is not their role to determine whether religious beliefs are legitimate or to interfere with the leadership of a religious community.
+
+<<1036.89;1047.87;en>>
+Thus, all rights which fall under church autonomy must be related to the essence of the right to freedom of religion, namely the practice of religions, faith, and beliefs.
+
+<<1047.87;1052.88;en>>
+In other words, church autonomy confines to religious matters.
+
+<<1052.88;1064.16;en>>
+It is therefore necessary to make a clear-cut distinction between disputes of religious and non-religious nature in order to be able to adjudicate whether church immunity comes into play.
+
+<<1064.16;1071.09;en>>
+Our firm stance is that only disputes of a religious nature may be exempt from state jurisdiction.
+
+<<1071.09;1077.2;en>>
+Purely pecuniary disputes do not affect church autonomy at any event.
+
+<<1077.2;1090.11;en>>
+At this point, I must emphasize again that the applicant has never asked the state courts to overrule the decisions of the ecclesiastical courts and to replace him in his office at the church.
+
+<<1090.11;1101.97;en>>
+His claim was purely of pecuniary nature and in no way affected religious matters, such as practice of religions, faith or beliefs, or the organization of the church.
+
+<<1101.97;1112.44;en>>
+Accordingly, in the present case, there is no competition indeed between freedom of religion and right of access to a court that would justify any restriction.
+
+<<1112.44;1120.51;en>>
+It is true, on the other hand, that domestic courts could not ignore the aforementioned procedural bars set forth in domestic law.
+
+<<1120.51;1132.32;en>>
+In doing so, however, they should have had to interpret them in light of the substance of freedom of religion with special regard to the previously mentioned essence of church autonomy.
+
+<<1132.32;1151.93;en>>
+Therefore, in the course of fulfilling its duty of ascertaining whether the effects of the domestic court's fighting are compatible with the convention, we invite the court to hold that any rules of exclusion or restriction, including the cited Hungarian legislation, may apply only to disputes over religious matters.
+
+<<1151.93;1165.4;en>>
+From this outset, it is only a matter of further interpretation to arrive at the conclusion, by analogy with the Eskalinan test, that the exclusion of the applicant's dispute from the guarantees of Article VI cannot be lawful.
+
+<<1165.4;1174.53;en>>
+Firstly, because the domestic rules of exclusion shall not be interpreted as applying to non-religious matters, such as pecuniary disputes.
+
+<<1174.53;1187.4;en>>
+Secondly, even if these rules are still deemed as expressly applying to pecuniary claims, too, they could not be justified on objective grounds for want of a real threat to the Calvinist church's autonomy.
+
+<<1187.4;1202.97;en>>
+In any event, church's immunity cannot be interpreted as an absolute right having regard to the restriction clause in Article 11 of the convention and the Strasbourg case law, according to which religious communities' rights may be subject to legitimate limitations.
+
+<<1202.97;1214.18;en>>
+This court has stated on many occasions when it was called upon to rule on the conflict between two rights equally protected by the convention that it must weigh up the interest at stake.
+
+<<1214.18;1225.37;en>>
+In the present case, this balancing exercise concerns the applicant's right of access to court on the one hand, and the right of the Calvinist church to autonomy on the other.
+
+<<1225.37;1230.45;en>>
+Considering the facts, the balance in our case is fairly one-sided.
+
+<<1230.45;1239.01;en>>
+While the church autonomy was not in any way threatened, the applicant was denied even the minimum protection.
+
+<<1239.01;1260.61;en>>
+Honorable court, although the government is trying to persuade you that the domestic courts conducted a thorough examination on the merits of the case, the reality is, as I explained right before, that they only consider the mere fact that the dispute had arisen from ecclesiastical service, falling therefore exclusively under church jurisdiction.
+
+<<1260.61;1269.75;en>>
+In their view, when he took up the pastoral service, the applicant waived his right to a court in respect of all disputes with the church.
+
+<<1269.75;1280.92;en>>
+Before exploring the issue of ecclesiastical jurisdiction with special regard to the applicability of Article VI, let me address these allegations with a few words.
+
+<<1280.92;1296.4;en>>
+Firstly, whereas taking up the position of pastor necessarily implies a certain duty of loyalty, such a consent can in no way be interpreted as an unequivocal undertaking not to institute any civil actions against the church.
+
+<<1296.4;1301.24;en>>
+An interpretation of that kind would affect the very heart of the right of access to court.
+
+<<1301.24;1319.76;en>>
+Moreover, considering that the church's law itself calls upon the application of civil law to certain disputes inside the church, the consent on the applicant's side may not be evaluated as a decision to opt out from the protection of domestic substantive law.
+
+<<1319.76;1336.16;en>>
+As a second observation, I draw the court's attention to the fact, again contrary to the government's submissions, that the applicant, as it appears from the case file, claimed before the domestic courts the payment of his remuneration for teaching to the civil nature of which is undisputed.
+
+<<1336.16;1338.48;en>>
+However, the domestic courts failed to consider it.
+
+<<1342.09;1346.68;en>>
+Now I proceed to the issue of ecclesiastical jurisdiction.
+
+<<1346.68;1355.37;en>>
+It must be recalled, first and foremost, that the courts of Hungarian Calvinist Church appear to refrain from hearing cases similar to that of the applicant.
+
+<<1355.37;1366.73;en>>
+I'm sure you took notice of the exhaustive enumeration of cases in our written memorandum falling under ecclesiastical jurisdiction set forth by the internal law of the church.
+
+<<1366.73;1377.93;en>>
+And you certainly remember the case law of the Calvinist Church we made reference to, where the ecclesiastical court took a firm stance concerning the scope of its jurisdiction.
+
+<<1377.93;1388.05;en>>
+Let me remind you that the church's court, in the cited case, refused to hear the claim of a former pastor by saying that the dispute originated in a pastoral.
+
+<<1388.05;1399.77;en>>
+Although the dispute originated in pastoral relationship, the case did not correspond to any item of the exhaustive enumeration, and therefore it had no jurisdiction.
+
+<<1399.77;1411.51;en>>
+It also had that actions for damages against the church on account of breach of contract do not come under the sphere for disputes reserved exclusively to ecclesiastical jurisdiction.
+
+<<1411.51;1424.57;en>>
+It further advanced that in a dispute with the church arising for employment or similar relationship, the plaintiff, also a former pledgeman, cannot be deprived of the right to turn to a secular court.
+
+<<1424.57;1430.88;en>>
+Accordingly, the ecclesiastical court transferred the case to the labor court.
+
+<<1430.88;1439.93;en>>
+Certainly, there is no need to remind you that the applicant's pecuniary claim was essentially identical to that of the claimant in the mentioned case.
+
+<<1439.93;1448.61;en>>
+Under these circumstances, we hardly believe that the applicant's case would have ever been heard by the courts of the Calvinist Church.
+
+<<1448.61;1463.12;en>>
+But even considering that departing from its jurisprudence, the ecclesiastical court would have been willing to judge the applicant's claim, such procedures still would not have afforded protection to the applicant as guaranteed under Article VI.
+
+<<1463.12;1472.51;en>>
+This court hardly needs to be reminded of the attributes of an independent and impartial tribunal established by law in terms of Article VI.
+
+<<1472.51;1478.57;en>>
+We do assert that the ecclesiastical courts of the Hungarian Calvinist Church do not meet these criteria.
+
+<<1478.57;1480.25;en>>
+Why?
+
+<<1480.25;1482.45;en>>
+For the following reasons.
+
+<<1482.45;1488.85;en>>
+At the outset, I must admit that there are only a few points where we agree with the government.
+
+<<1488.85;1496.29;en>>
+One of them is the premise that ecclesiastical law do not qualify as statutes under Hungarian law.
+
+<<1496.29;1510.16;en>>
+However, according to the Strasbourg case law, the object of the established by law is to ensure that the judicial organization in a democratic society does have a legal basis somewhere in domestic law.
+
+<<1510.16;1522.4;en>>
+Nevertheless, we cannot find any national legislation that would serve directly or indirectly as legal basis for the establishment of the Hungarian Calvinist Church's court system.
+
+<<1522.4;1526.85;en>>
+Only the laws of that church purport on ecclesiastical courts.
+
+<<1526.85;1537.96;en>>
+Secondly, the expression established by law reflects the principle of the rule of law, which is inherent in the system of protection established by the convention and its protocols.
+
+<<1537.96;1548.61;en>>
+It covers not only the legal basis for the very existence of a tribunal, but also compliance by the tribunal with the particular rules that govern it.
+
+<<1548.61;1566.49;en>>
+As we pointed out in our memorandum, the procedural rules set forth in church law were tailored strictly to disciplinary proceedings, while pecuniary disputes, differing considerably from disciplinary matters, are not regulated.
+
+<<1566.49;1574.49;en>>
+For this reason, ecclesiastical courts are barred from conducting proceedings on pecuniary disputes in a prescribed manner.
+
+<<1574.49;1581.73;en>>
+It necessarily implies the absence of protection from arbitrariness in the form of procedural safeguards.
+
+<<1581.73;1588.31;en>>
+Third, it is well-established case law of the court that the effect of Article 6.1 is, inter alia,
+
+<<1588.31;1596.98;en>>
+to place the tribunal under a duty to conduct a proper examination of the submissions, argument, and evidence adduced by the parties.
+
+<<1596.98;1612.48;en>>
+In this regard, suffice it to recall that it is the presidium of the ecclesiastical court, that is, the dean and the curator together, who decide in their discretionary power whether to even start a court proceeding or not.
+
+<<1612.48;1618.94;en>>
+Fourthly, the lawfulness of a tribunal must, by definition, also encompass its composition.
+
+<<1618.94;1634.94;en>>
+Only those cases are considered to be dealt by a tribunal established by law, where the appointment of the acting judge is subject exclusively to the rules of competences established beforehand in procedural law and in the world schedule.
+
+<<1634.94;1642.16;en>>
+If another factor interferes with this mechanism, the court cannot be anymore considered as established by law.
+
+<<1642.16;1658.05;en>>
+As to the Calvinist Church's courts, beyond the lack of pertinent procedural rules, it is also worth noting that the acting members of the bench in each particular case are appointed by the coaches of the court, again by the dean and the curator.
+
+<<1658.05;1668.22;en>>
+Fifthly, as the issue of independence, a court has to be independent not only of the executive, but of the parties to the proceedings as well.
+
+<<1668.22;1683.78;en>>
+Moreover, under the objective name of discourse double test in respect of impartiality, it must be determined whether there are ascertainable facts irrespective of the judge's personal conduct, which may raise doubts as to his or her impartiality.
+
+<<1683.78;1691.74;en>>
+In this context, it must be remembered that the disciplinary proceedings were instituted by the applicant's superior dean.
+
+<<1691.74;1698.48;en>>
+This dean, together with the curator, appointed the judges of the court of trial in the same disciplinary procedure.
+
+<<1698.48;1715.92;en>>
+Had the applicant subsequently sued the church for pecuniary claim before its own ecclesiastical court, this is exactly the same dean who would have decided in his discretionary powers as co-chair of the court whether to start the proceedings on the pecuniary dispute.
+
+<<1715.92;1720.01;en>>
+And if yes, he would have appointed the acting judges.
+
+<<1720.01;1725.33;en>>
+Hence, the ecclesiastical tribunal cannot in any way qualify as impartial.
+
+<<1725.33;1736.92;en>>
+Finally, it is also part of well-established Strasbourg jurisprudence that the right to execution of decisions given by any court is an integral part of the right to a court.
+
+<<1736.92;1742.26;en>>
+Otherwise, the provisions of Article VI would be deprived of all useful effect.
+
+<<1742.26;1751.48;en>>
+Without going into details here, we refer to our memorandum where we shed light on the deficiencies of the execution of ecclesiastical court's decisions.
+
+<<1751.48;1763.33;en>>
+Namely, due to the total lack of sufficiently precise provisions in ecclesiastical law governing execution, the ecclesiastical court's judgments are hardly enforceable.
+
+<<1763.33;1777.37;en>>
+To sum up, taking account of the foregoing, the ecclesiastical courts of the Hungarian Calvinist Church, and I emphasize the Hungarian Calvinist Church, cannot under any circumstances be recognized as tribunal established by law.
+
+<<1777.37;1785.12;en>>
+The system of ecclesiastical jurisdiction at stake, therefore, does not guarantee the protection of the rights enshrined in Article VI.
+
+<<1785.12;1794.77;en>>
+However, the convention is intended to guarantee not rights that are theoretical or illusory, but rights that are practical and effective.
+
+<<1794.77;1806.33;en>>
+Due to the obligation imposed by Article I of the convention, the member states shall secure to everyone within their jurisdiction the rights and freedoms defined in Section I of the convention.
+
+<<1806.33;1823.16;en>>
+In case a member state decides, even in pursuance of a legitimate aim, to exclude a certain category of its citizens from state jurisdiction, it must nevertheless ascertain whether there is another legal avenue affording guarantees of Article VI.
+
+<<1823.16;1828.85;en>>
+No one may be left standing in an illegal no-man's land.
+
+<<1828.85;1833.29;en>>
+Mr. President, members of the court, in his first letter
+
+<<1833.29;1845.07;en>>
+to Timothy, Apostle Paul writes, the elders who direct the affairs of the church well are worthy of double honor, especially those whose work is preaching and teaching.
+
+<<1845.07;1849.72;en>>
+For scripture says, the worker deserves his wages.
+
+<<1849.72;1856.52;en>>
+Honorable judges, you are not called upon to decide whether or not the applicant deserves his wages.
+
+<<1856.52;1878.02;en>>
+Conversely, we respectfully invite you to hold that there has been a violation of Article VI, as in absence of other lawful recourse for remedy, the domestic courts should have ruled on the merits of the applicant's claim, since he has had a civil right, and the dispute in no way affected the Calvinist church's autonomy.
+
+<<1878.03;1879.21;en>>
+Thank you for your consideration.
+
+[[JudgeP;Luis López Guerra]]
+
+<<1881.45;1883.25;en>>
+Thank you, Mr. Cech.
+
+<<1883.25;1885.25;en>>
+Now I call Mr. Tallódi.
+
+[[Government;GR1]]
+
+<<1890.34;1892.74;en>>
+Mr. President, honorable members of the court,
+
+<<1892.74;1903.02;en>>
+ladies and gentlemen, it's a privilege and a pleasure to have the opportunity to appear before the court to present the oral submissions on behalf of the government of Hungary.
+
+<<1903.02;1914.46;en>>
+I don't think it is necessary to present the position of the government in all details as outlined recently in their memorial of the 20th of June, 2016.
+
+<<1914.46;1919.06;en>>
+I will rather focus on the most important issues raised by the case.
+
+<<1919.06;1925.5;en>>
+But first, let me start with reminding you of what issues are not raised by this case.
+
+<<1925.5;1936.46;en>>
+This case is not about the right of access to court in employment disputes, as suggested by the European Trade Union Confederation in their request for intervention.
+
+<<1936.46;1946.38;en>>
+The case is not about discrimination in access to court on the ground of the ecclesiastical nature of the employer, as suggested by a question raised by the court.
+
+<<1946.38;1956.74;en>>
+This case is not about the procedural immunity of churches or about the exclusion of the domestic courts jurisdiction in certain types of civil law disputes.
+
+<<1956.74;1968.46;en>>
+This case is not and should not be about reviewing the correctness of the interpretation and application of Hungarian civil law by Hungarian courts, as proposed by the applicant.
+
+<<1968.46;1978.3;en>>
+And this case is not about remedying the litigation errors committed by the applicant's counsel of his own choice in domestic proceedings, as sought by the applicant.
+
+<<1978.3;1995.58;en>>
+The only issue that can arise in the present case in accordance with the court's jurisprudence under Article VI is whether the applicant had a civil right under domestic law as a legal ground for his pecuniary claims and whether this issue was examined by the domestic courts.
+
+<<1995.58;2010.66;en>>
+It is clear that the applicant had no such right, and insofar as there was a legal dispute about its existence, it was properly examined by domestic courts at all levels of jurisdiction.
+
+<<2010.66;2022.34;en>>
+Therefore, this case raises one single issue, namely whether Hungarian law should have recognized ecclesiastical law as a source of civil rights under contract law.
+
+<<2022.34;2030.41;en>>
+That issue, however, is outside the scope of Article VI of the Convention and outside the scope of jurisdiction of the court.
+
+<<2030.41;2032.5;en>>
+Let me explain in more detail.
+
+<<2032.5;2045.5;en>>
+This case is not about the right of access to court in employment disputes and not even about discrimination in access to court on the ground of the ecclesiastical nature of the employer.
+
+<<2045.5;2052.49;en>>
+Hungarian law fully guarantees the right of access to court in employment disputes arising under Hungarian law.
+
+<<2052.49;2067.86;en>>
+Ecclesiastical service, meaning performing pastoral activities for a church, as such is not excluded from the scope of employment law, provided that the church and the pastor entered into an employment contract governed by state law.
+
+<<2067.86;2078.49;en>>
+In that case, the rights and obligations of both parties will be governed by state law, subject to the jurisdiction of state courts.
+
+<<2078.49;2085.1;en>>
+In the present case, however, the applicant and his church did not enter into a contract governed by state law.
+
+<<2085.1;2097.34;en>>
+Both parties agreed to enter into a relationship governed by ecclesiastical law, which doesn't give rise to civil rights and obligations enforceable in state courts.
+
+<<2097.34;2110.97;en>>
+As a result of the constitutional principle of secularity, ecclesiastical law doesn't qualify as law in Hungarian courts, and ecclesiastical law is most certainly not part of Hungarian law.
+
+<<2111.06;2129.78;en>>
+Section 204 of the Civil Code, read together with the Church Act, excludes claims arising of ecclesiastical law from the scope of civil rights enforceable in civil courts, and thus qualifies these claims as obligatio naturalis.
+
+<<2129.78;2148.66;en>>
+Accordingly, in the present case, it was not the ecclesiastical nature of the service relationship or the ecclesiastical nature of the employer, but the lack of a legal ground in Hungarian law for the applicant's claims, which excluded access to state courts for their enforcement.
+
+<<2148.66;2172.26;en>>
+The jurisprudence of domestic courts presented by the government in writing clearly shows that the decisive factor for establishing the state court's jurisdiction to deal with an employment dispute between a church and its pastor is whether there is an employment contract between them governed by state law or the parties opted for a service relationship under ecclesiastical law.
+
+<<2172.26;2202.78;en>>
+The case referred to by the applicant in paragraph 90 of his written memorandum, although in that case the employee was not a pastor but the manager of the church's social institutions, also shows that if and when there is an employment contract governed by labor law concluded between the church and its employee, Hungarian courts examine the claims arising from that employment relationship in accordance with the rules of state law.
+
+<<2202.78;2208.26;en>>
+Ecclesiastical law is never a legal basis for the decision of state courts.
+
+<<2208.26;2216.49;en>>
+Any reference to it can be made only in the context of facts or arguments submitted by the parties.
+
+<<2216.49;2227.45;en>>
+I note that there seems to be confusion about the nature of the obstacle preventing the Hungarian courts from determining the applicant's pecuniary claims on the merits.
+
+<<2227.45;2237.3;en>>
+Let me clarify that it was not a procedural obstacle which excluded the termination of the applicant's pecuniary claims against the church.
+
+<<2237.3;2261.34;en>>
+The jurisdiction of state courts in ecclesiastical matters, that is in matters governed by ecclesiastical law, is excluded not by a procedural rule but by substantive provisions of the civil code, which remove such matters from the scope of enforceable civil rights as described in detail in the government's memorial.
+
+<<2261.34;2271.06;en>>
+The Supreme Court discontinued the case not for the reason set out in section 130, paragraph 1.e of the Civil
+
+<<2271.06;2301.14;en>>
+Procedure Code, as it was wrongly stated in the chamber's judgment, namely that the jurisdiction of the Hungarian courts is excluded by the code of civil procedure, but for the reason set out in paragraph f of the same provision, namely that the plaintiff's claim cannot be enforced in judicial proceedings, which is a reference to the nature of the claim as obligatio naturalis within the meaning of section 204 of the civil code.
+
+<<2301.14;2304.3;en>>
+Mr. President, honorable members of the court,
+
+<<2304.3;2314.3;en>>
+interpretation and application of domestic law is within the competence of domestic courts, and it is not for this court to review the correctness of that interpretation.
+
+<<2314.3;2342.93;en>>
+Although the applicant's submissions apparently managed to confuse the court about what rules are part of domestic law and managed to obfuscate the content of Hungarian law, the court should not engage in an interpretation of domestic law overruling that of the domestic courts, which established that the applicant's claims, as submitted to them, had no legal basis in Hungarian civil law as enforceable civil rights.
+
+<<2342.93;2358.32;en>>
+Bearing in mind the principle of subsidiarity, the court should accept that domestic courts well-versed in Hungarian civil law are in a better position to interpret Hungarian civil law than a court of international law.
+
+<<2358.32;2374.14;en>>
+Furthermore, the present proceedings should not be used as a means of remedying the effects of the legal or tactical errors in litigation committed by the applicant's legal counsel of his own choice during the domestic proceedings.
+
+<<2374.14;2385.78;en>>
+Let me remind you that the domestic court's task is to adjudicate only the claims brought before them and not to find alternative claims which the plaintiff could have successfully raised.
+
+<<2385.78;2394.38;en>>
+The fact is that the applicant has not raised before the domestic courts any claims alternative to the contractual liability of his church.
+
+<<2394.38;2404.53;en>>
+The applicant cannot complain that adjudication on the merits was denied in respect of those claims which he had never raised in domestic courts.
+
+<<2404.53;2412.82;en>>
+Therefore, any legal grounds alternative to the church's contractual liability fall outside the scope of the present case.
+
+<<2412.82;2436.1;en>>
+Any complaints other than about an alleged failure by the Hungarian courts to examine the applicant's pecuniary claims from the perspective of contract law are inadmissible, either for failure to observe the six-month time limit or for failure to exhaust domestic remedies, as explained in detail in the government's memorandum.
+
+<<2436.1;2463.49;en>>
+What is decisive for the applicability of Article VI in the present case is that Hungarian law doesn't recognize ecclesiastical law as a source of civil rights enforceable in civil courts, claims arising from ecclesiastical law don't have a legal basis in substantive domestic law, and therefore Article VI is not applicable to them.
+
+<<2463.49;2476.45;en>>
+In any event, insofar as there was a genuine dispute about the existence of civil rights in the present case, that issue was thoroughly examined by the domestic courts.
+
+<<2476.45;2488.86;en>>
+The issue whether Hungarian law should recognize ecclesiastical law as a source of civil rights under contract law or under labor law is not a matter to be determined in the present proceedings.
+
+<<2488.86;2507.02;en>>
+It is clear both from the object and purpose of Article VI, which is to guarantee procedural fairness, and from the relevant jurisprudence of the court that Article VI cannot serve as a basis for claiming substantive rights that have no legal basis in domestic law.
+
+<<2507.02;2513.26;en>>
+Neither can Article VI be interpreted as guaranteeing a favorable outcome to the applicant.
+
+<<2513.26;2515.86;en>>
+Mr. President, honorable members of the court,
+
+<<2515.86;2522.22;en>>
+ladies and gentlemen, please let me now make some comments on the applicant's written submissions.
+
+<<2522.22;2541.18;en>>
+The facts presented by the applicant in his memorandum, as well as the rules of ecclesiastical law of the Reformed Church of Hungary, are irrelevant to the present case concerning the issue whether the applicant had a civil right under Hungarian law to be enforced by Hungarian courts.
+
+<<2541.18;2553.22;en>>
+The government note in this respect that the rules of ecclesiastical law are wrongly presented under the heading of domestic law, since those rules are not part of Hungarian domestic law.
+
+<<2553.22;2567.97;en>>
+Neither can the practice of ecclesiastical courts be regarded as case law of the domestic courts, or the findings of an ecclesiastical court be regarded as authoritative interpretation of Hungarian state law.
+
+<<2567.97;2597.61;en>>
+Nonetheless, I note that the Sinoz court's decision of the 4th of June, 1998, submitted by the applicant and delivered at some point of the litigation in the case, giving rise to the constitutional court's decision of the 4th of June, 2003, didn't concern a pastor in ecclesiastical service relationship, suspended in disciplinary proceedings like the applicant in the present case.
+
+<<2597.61;2620.14;en>>
+In any event, it is irrelevant in the present case whether the applicant had access to an ecclesiastical court to enforce his claims under ecclesiastical law, because it doesn't alter the fact that such claims are excluded from the scope of civil rights by virtue of the civil court.
+
+<<2620.14;2624.53;en>>
+The applicant had no civil rights at issue in the case.
+
+<<2624.53;2630.78;en>>
+He had only pecuniary claims without a legal basis in domestic law.
+
+<<2630.78;2639.78;en>>
+Since the facts presented by the applicant are irrelevant to the present case, there are no documents available to the government to verify them.
+
+<<2639.78;2648.49;en>>
+However, based solely on the documents submitted by the applicant, the accuracy of the applicant's statements is highly questionable.
+
+<<2648.49;2696.53;en>>
+As an example, the government note that the remarkable circumstance referred to in paragraph 6 of the applicant's memorandum, that according to the congregation, the pecuniary dispute with the applicant must be resolved by state courts under state law, relates not to the applicant's pecuniary claims of the congregation against the applicant, arising from the use of a real estate without title, but apart from being a proof of the inaccuracy of the applicant's statements, the congregation's position is irrelevant, since it was not a position expressed by a Hungarian judicial authority, but by a private party threatening to enforce their claims in court.
+
+<<2696.53;2710.26;en>>
+Nonetheless, the congregation's position seems to be legally correct, since they apparently based their claims on the rules of civil law on property, and not on any provision of ecclesiastical law.
+
+<<2710.26;2733.41;en>>
+We must also note that the applicant didn't submit any information as to the follow-up to that threat of litigation, whether those claims were indeed enforced in court, or settled out of court, possibly with a discount of the congregation's claims against the applicant's pecuniary claims.
+
+<<2733.41;2749.57;en>>
+As to the applicant's submissions on the applicability of Article VI, the government note that the pecuniary nature of a claim doesn't make it a civil right within the meaning of either Hungarian law or Article VI of the Convention.
+
+<<2749.57;2768.01;en>>
+The pecuniary nature of a claim in itself doesn't create a legal ground for it in substantive law, as required by the jurisprudence of the court to qualify as a civil right, falling within the scope of applicability of Article VI of the Convention.
+
+<<2768.01;2785.91;en>>
+The pecuniary nature of the claim would be relevant from the point of view of applicability of Article VI, only if the claim had a legal ground in substantive law, and the issue to be decided were whether it was of a civil law nature.
+
+<<2785.91;2792.97;en>>
+In the present case, however, the applicant's claim had no legal basis in substantive law.
+
+<<2792.97;2797.66;en>>
+Therefore, Article VI is not applicable to the present case.
+
+<<2797.66;2818.45;en>>
+The issue of what type of decision a civil court delivers when the claim brought before it has no legal ground, whether it dismisses the claim or discontinues the proceedings, is a technical issue in respect of which the high contracting parties have a wide margin of appreciation.
+
+<<2818.45;2824.18;en>>
+And it is not for the court to decide which type of decision should be delivered.
+
+<<2824.18;2838.97;en>>
+However, the government note that contrary to the applicant's allegations, the Supreme Court didn't overrule the findings of the first instance court concerning the lack of a legal ground for the applicant's claims in civil law.
+
+<<2838.97;2847.34;en>>
+Just the opposite, the Supreme Court agreed with the finding that the applicant had no claim under contract law.
+
+<<2847.34;2861.45;en>>
+It only disagreed with the conclusion of dismissing the claim on the merits and considered that the proceedings should be instead discontinued in accordance with the rules of the civil proceedings code.
+
+<<2861.45;2882.53;en>>
+In any event, the issue whether the applicant's claim had a legal ground under Hungarian civil law was fully and thoroughly examined by the Hungarian courts, which thereby satisfied their obligation under Article VI, which only requires that the claim be examined but doesn't guarantee a favorable outcome.
+
+<<2882.53;2898.62;en>>
+The government agreed with the applicant's submission in paragraph 28 of their memorandum that the domestic courts were called on to decide whether the applicant's service agreement with the Carbunes Church fell within the existing categories of contracts.
+
+<<2898.62;2904.97;en>>
+The government agreed with the domestic courts, too, which answered this question in the negative.
+
+<<2904.97;2915.41;en>>
+What is important from the point of view of Article VI is that the question raised before the Hungarian courts was examined and determined.
+
+<<2915.41;2933.53;en>>
+However, what the applicant complains of that is the outcome of the determination falls outside the scope of Article VI and outside the jurisdiction of the court, which is not a court of forced instance determining the original dispute.
+
+<<2933.53;2955.38;en>>
+But considering that we have to examine the applicant's claims for pecuniary damages under Article 41, anyway, which claims are essentially the same as those raised in the domestic proceedings, let us pretend that the domestic courts were wrong and the applicant had a civil law agency contract with the church.
+
+<<2955.38;2961.7;en>>
+And let us determine the applicant's claims under the rules of the Hungarian civil code.
+
+<<2961.7;2968.88;en>>
+The applicant doesn't claim that he was not paid his fees while he performed his pastoral services.
+
+<<2968.88;2976.02;en>>
+His pecuniary claims concern a period when his services were no longer required.
+
+<<2976.02;2980.78;en>>
+That is after the termination of his perpetrated agency contract.
+
+<<2980.78;2997.49;en>>
+He claims 50% suspension allowance, 25% age allowance, and the full wage for the period of his suspension exceeding 120 days up until the date when he found a new employment.
+
+<<2997.49;3002.41;en>>
+However, no such terms are included in his letter of appointment.
+
+<<3002.41;3010.82;en>>
+And no such consequences follow from the termination of an agency contract under the civil law code either.
+
+<<3010.82;3021.89;en>>
+How could we then conclude that the sums of money claimed by the applicant were indeed due to him under his agency contract?
+
+<<3021.89;3035.53;en>>
+Thus, the total sum due to the applicant for his claims well-founded in Hungarian civil law as a consequence of the termination of his perpetrated agency contract was zero.
+
+<<3035.53;3046.24;en>>
+This method of examination only confirms that the applicant's claims brought before the domestic courts have no legal basis in domestic civil law.
+
+<<3046.24;3057.7;en>>
+As regards the applicant's claims of teaching fees, the Supreme Court established in its final decision that this claim had not been raised in accordance with the law.
+
+<<3057.7;3067.02;en>>
+His relevant contract had first been mentioned in his petition for review and not before the first instance court as required by the law.
+
+<<3067.02;3074.06;en>>
+The applicant still could have raised this claim in new proceedings subsequent to the Supreme Court's decision.
+
+<<3074.06;3091.98;en>>
+As regards the applicant's allegations, that recognition of his service as a pastor as a period giving rise to entitlement, the old age pension, proves that he had a civil law right under Hungarian law at issue in the contested proceedings.
+
+<<3091.98;3112.53;en>>
+The government note that such a recognition for social security purposes is not based on any rules of ecclesiastical law, but on the performance of an administrative act by the church under state law, namely, reporting the fact of the pastoral service to the competent Hungarian authorities.
+
+<<3112.53;3130.02;en>>
+In contrast, the applicant's claims arising from his dismissal from his ecclesiastical service were based exclusively on ecclesiastical law, and the dispute at issue could not have been resolved on the ground of state law.
+
+<<3130.02;3139.06;en>>
+Recognizing the fact of pastoral service by social security regulation is consistent with the nature of natural obligations.
+
+<<3139.06;3141.06;en>>
+They are not legal obligations.
+
+<<3141.06;3142.82;en>>
+They cannot be enforced in court.
+
+<<3142.82;3148.01;en>>
+But once they are fulfilled, this fact may entail legal consequences.
+
+<<3148.01;3150.61;en>>
+Mr. President, honorable members of the court, ladies
+
+<<3150.61;3151.61;en>>
+and gentlemen.
+
+<<3151.61;3158.1;en>>
+Finally, let me briefly summarize the government's position on the admissibility and the merits of the present application.
+
+<<3158.1;3179.26;en>>
+The applicant's pecuniary claims arising from the termination of his pastoral service, insofar as they were raised before the Hungarian courts and domestic remedies, were exhausted in accordance with the law, had no legal basis in Hungarian civil law, and therefore, Article VI is not applicable in the present case.
+
+<<3179.26;3204.57;en>>
+The civil code clearly excluded claims arising of ecclesiastical law from the scope of civil rights, and even declared any contract signed for securing an obligatio naturalis to be null and void, thus the dispute concerning the non-fulfillment of such an obligation cannot be regarded as a genuine dispute under civil law for the purposes of Article VI.
+
+<<3204.57;3226.53;en>>
+Nonetheless, domestic courts took the applicant's claim that he did not seek to enforce claims based on ecclesiastical law, and that his appointment letter was a genuine civil law agency contract, very seriously, and gave ample reasons for dismissing this claim as unfounded.
+
+<<3226.53;3236.16;en>>
+Therefore, even if Article VI were found to be applicable in the present case, its requirements were fully met by the domestic proceedings.
+
+<<3236.16;3273.22;en>>
+In the written memorial, the government submitted a number of alternative pleadings, but they are only relevant if the court adopts a wrong starting point by concluding that Article VI is applicable, that the domestic courts wrongly interpreted Hungarian law, and the applicant had a genuine civil law claim under Hungarian law, or that the applicant was prevented from enforcing his pecuniary claims before a Hungarian court, not by a rule of substantive law excluding his claims from the scope of civil rights, but by a procedural obstacle.
+
+<<3273.3;3331.82;en>>
+Forced to take this wrong starting point, the government would argue that the applicant has waived his right of access to secular courts by opting for entering into a legal relationship governed by ecclesiastical law, or that the lack of jurisdiction of Hungarian courts was justified by the freedom of religion and the constitutional principle of secularity without disproportionately affecting the applicant's pecuniary interests, since the jurisdiction of secular courts was excluded only in matters governed exclusively by ecclesiastical law, while the churches and their employees remain free to conclude an employment contract governed by the rules of state law, subject to enforcement by state courts and churches, don't enjoy immunity from state courts' jurisdiction in any legal dispute governed by state law.
+
+<<3331.82;3344.41;en>>
+However, hoping that the court will respect the principle of subsidiarity and will not overrule domestic courts' interpretation of Hungarian law, I will not elaborate on the alternative pleadings in more detail.
+
+<<3344.41;3372.94;en>>
+Instead, I would like to draw the court's attention to the case law of British courts, which in a different legal system, reached the same conclusion about the nature of the service as a church minister, as did the Hungarian legislature, and do not recognize the relationship between the minister and his or her church as an employment relationship unless it is expressly stipulated so by the parties in a contract.
+
+<<3372.94;3409.3;en>>
+In President of the Methodist Conference versus Partif, dating back to 1983, judges considered that the spiritual nature of the functions of the minister, the spiritual nature of the act of ordination, and the doctrinal standards of the Methodist church, which are so fundamental to that church, and to the position of every minister in it, make it impossible to conclude that any contract, let alone a contract of service, came into being between the minister and the Methodist church.
+
+<<3409.3;3415.18;en>>
+The arrangements between the minister and the church were found to be non-contractual.
+
+<<3415.18;3432.74;en>>
+It was also stated that the starting point of any consideration of the relationship between the Methodist church and its ministers must be an examination of the faith and doctrine to which they subscribe and they seek to further.
+
+<<3432.74;3444.86;en>>
+The concept of a minister as a person called by God, a servant of God and the pastor of his local church members, seems to be central to the relationship.
+
+<<3444.86;3459.86;en>>
+I know that it is exactly the examination of issues of faith and doctrine what Hungarian courts are expected to avoid pursuant to the principle of secularity as enshrined in the Hungarian fundamental law.
+
+<<3459.86;3469.86;en>>
+The above approach was confirmed by the UK Supreme Court in 2013 in President of the Methodist Conference versus Preston.
+
+<<3469.86;3488.89;en>>
+In addition to the question of the parties, considerations of the manner in which a minister was engaged and the rules governing his or her service remain decisive in determination whether the relationship between the church and the minister qualifies as an employment contract.
+
+<<3488.89;3499.02;en>>
+Under Hungarian law, it is also the nature of the law governing the service relationship which is decisive in such a dispute.
+
+<<3499.02;3540.82;en>>
+I'm convinced that the court can find no violation of Article VI in this case unless it completely misunderstood or misinterpreted the relevant domestic law, or it is extended to the scope of applicability of Article VI beyond its object and purpose and departed from its well-established case law by giving such an autonomous meaning to the notion of civil rights, which would transform this procedural right into a legal basis for claiming rights not having any legal basis in substantive domestic law, or by setting the standard whereby claims are fairly examined only if they are granted.
+
+<<3540.82;3554.65;en>>
+As regards the applicant's claims for just satisfaction, I submit that they are ill-founded and highly excessive under all headings, even in an admissible and well-founded case.
+
+<<3554.65;3559.14;en>>
+Mr. President, that concludes what I wish to say at this stage.
+
+<<3559.14;3561.68;en>>
+May I thank you, Mr. President and members of the court,
+
+<<3561.68;3565.82;en>>
+for listening to me so patiently and attentively.
+
+<<3565.82;3565.82;en>>
+Thank you.
+
+[[JudgeP;Luis López Guerra]]
+
+<<3567.61;3579.89;en>>
+Thank you for your submissions and I now invite the judges of the Grand Chamber wishing to do so to put their questions to the parties, Judge Griţco.
+
+[[Judge;Valeriu Griţco]]
+
+<<3581.48;3582.88;en>>
+Thank you.
+
+<<3582.88;3585.92;en>>
+I have a question to the applicants.
+
+<<3585.92;3599.42;en>>
+For what kind of activities and or services the applicant has requested compensation from the Hungarian Calvinist Church in front of state courts?
+
+<<3599.42;3610.28;en>>
+And the second question, whether those activities were at least partially governed by the state law?
+
+<<3610.28;3615.22;en>>
+If so, please give a relevant example or examples.
+
+<<3615.22;3615.22;en>>
+Thank you.
+
+[[JudgeP;Luis López Guerra]]
+
+<<3617.65;3618.65;en>>
+Thank you very much.
+
+<<3618.65;3619.65;en>>
+Judge Motoc.
+
+[[Judge;Iulia Antoanella Motoc]]
+
+<<3622.58;3624.34;fr>>
+Merci beaucoup, M. le Président.
+
+<<3624.66;3639.62;fr>>
+Ma 1re question s'adresse au requérant du gouvernement et concerne la question de l'épuisement des voies de recours internes par rapport à la 1re requête qui a été introduite par le requérant en 2007.
+
+<<3640.26;3658.34;fr>>
+Et il semble que le récurrent soutient qu'il avait épuisé les voies de recours internes parce qu'une requête à la Cour suprême n'était pas possible à ce moment-là sous la législation hongroise de l'époque.
+
+<<3658.54;3664.46;fr>>
+Et le gouvernement semble avoir une autre opinion sur cette question.
+
+<<3665.62;3672.5;fr>>
+Ma 2e question concerne le problème de contrôle de consonnalité.
+
+<<3672.94;3685.38;fr>>
+La décision de la Cour consonnelle de 2003, statut sur certains principes concernant la relation entre le droit ecclésiastique et le droit de l'Etat.
+
+<<3685.58;3692.42;fr>>
+Il semble qu'il n'y a pas une unité d'interprétation de cette décision de 2003.
+
+<<3692.62;3701.14;fr>>
+Et je voulais vous demander d'abord quel est le statut juridique de ces décisions dans l'ordre juridique hongrois.
+
+<<3701.34;3717.86;fr>>
+Et deuxièmement, quelle est la pratique qui a été suivie par les Etats et par les organes ecclésiastiques suivant cette décision de la Cour consonnelle de 2003?
+
+<<3719.02;3728.02;fr>>
+Finalement, ma dernière question s'adresse au problème des tribunaux ecclésiastiques.
+
+<<3728.22;3729.98;fr>>
+Je voulais vous demander...
+
+<<3730.18;3733.26;fr>>
+Ça, c'est une question qui est adressée au gouvernement.
+
+<<3733.26;3745.42;fr>>
+Si ces tribunaux ecclésiastiques ne sont pas tenus par les lois hongroises, comme vous avez dit, je suppose qu'ils sont tenus par la Constitution.
+
+<<3745.74;3759.58;fr>>
+Comment est-ce qu'on peut adresser des questions qui tiennent à la validité des jugements de ces tribunaux par rapport à la Constitution de l'Etat hongrois?
+
+<<3759.58;3761.58;fr>>
+Je vous remercie, M. le Président.
+
+[[JudgeP;Luis López Guerra]]
+
+<<3762.2;3764.2;fr>>
+Merci, Juge Wojtyczek.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<3768.72;3776.92;en>>
+Thank you, Mr. President. I have several questions. The first one is addressed to the applicant,
+
+<<3776.92;3784.08;en>>
+and I would like to clarify one point in the submissions in the applicant. Does the applicant
+
+<<3784.08;3805.72;en>>
+say that he has a right recognized under domestic law, or is the position of the applicant that he just has an arguable claim but no right recognized under domestic law? Is this about
+
+<<3805.72;3812.48;en>>
+a right or is this about an arguable claim? Then the second question. The second question
+
+<<3812.48;3820.28;en>>
+is also addressed at the applicant, and it concerns remuneration for teaching religion.
+
+<<3820.28;3828.28;en>>
+Is the claim of the applicant based on the same contract? Has there been a contract for
+
+<<3828.28;3836.08;en>>
+the allowance, the service allowance, or has there been a separate contract? Is the claim
+
+<<3836.08;3841.76;en>>
+concerning remuneration for teaching religion based on the same legal basis? Is there a
+
+<<3841.76;3851.0;en>>
+separate legal basis, and if so, what's this legal basis for this claim? And then the third
+
+<<3851.0;3862.24;en>>
+question, it also concerns, it is also addressed at the applicant. The government says that
+
+<<3862.24;3884.4;en>>
+the claim concerning remuneration for teaching religion was raised too late, and that it was rejected on formal grounds, yet it was possible to raise the same claim again before Hungarian courts. Does the applicant agree with the statement of the government, or does
+
+<<3884.4;3884.4;en>>
+the applicant want to defend another point of view on this specific issue? Thank you.
+
+[[JudgeP;Luis López Guerra]]
+
+<<3892.53;3895.85;en>>
+Thank you very much, President Nußberger.
+
+[[Judge;Angelika Nußberger]]
+
+<<3898.35;3899.51;en>>
+Thank you, President.
+
+<<3899.51;3902.75;en>>
+I would have three questions to the applicants.
+
+<<3902.75;3914.19;en>>
+The first question, you referred to a case where the ecclesiastical court decided not to adjudicate the case, but to refer it to the labor court.
+
+<<3914.19;3919.11;en>>
+I would like to know on what basis, or why did it refer it to the labor court?
+
+<<3919.11;3926.87;en>>
+Was it because they said it's based on state law and not on ecclesiastical relationship in this specific case?
+
+<<3926.87;3930.59;en>>
+And what did the labor court then do?
+
+<<3930.59;3949.03;en>>
+Second question, let's argue that the ecclesiastical court system is not compatible with Article 6 of the Convention, because there's a discretion, there might be a problem of independence, et cetera.
+
+<<3949.03;3978.91;en>>
+So if the applicant had gone to the ecclesiastical courts, and then there would have been a problem, let's say they would argue that the final outcome was arbitrary, could they have brought it in some way to the constitutional court or to a state court to claim that the system has not functioned in a compatible with rule of law?
+
+<<3978.91;3985.11;en>>
+And the third question, let's assume the court finds a violation.
+
+<<3985.11;3988.99;en>>
+Let's assume the procedure is reopened.
+
+<<3988.99;3997.91;en>>
+Let's assume in the reopened procedure, the civil court changed their jurisprudence and accept a claim.
+
+<<3997.91;3999.87;en>>
+What would be the final outcome?
+
+<<3999.87;4003.79;en>>
+Because I understand it could never be enforced against the church.
+
+<<4003.79;4012.23;en>>
+So if the church refuses to pay in the end, it would remain a theoretical claim, if I understand correctly.
+
+<<4012.23;4017.03;en>>
+I would like to have some clarification.
+
+<<4017.03;4020.23;en>>
+And perhaps one last question to the government.
+
+<<4020.23;4028.75;en>>
+The government has argued that the applicant has not argued damages under tort law, and he could have done so.
+
+<<4028.75;4033.27;en>>
+And that was a problem in your view of exhaustion of domestic remedies.
+
+<<4033.27;4039.55;en>>
+But would you say he would have an arguable claim concerning damages under tort law?
+
+<<4039.55;4039.55;en>>
+Thank you very much.
+
+[[JudgeP;Luis López Guerra]]
+
+<<4040.64;4042.32;en>>
+Thank you very much, now V.P. Sajó.
+
+[[Judge;András Sajó]]
+
+<<4047.25;4049.73;en>>
+Thank you.
+
+<<4049.73;4062.57;en>>
+It seems to me that there is some contestation regarding the teaching of history of religion.
+
+<<4062.57;4075.47;en>>
+The government referred to the position of the Supreme Court that this claim has not been raised in the domestic proceedings.
+
+<<4075.47;4078.93;en>>
+And therefore, it was belated at that stage.
+
+<<4078.93;4114.77;en>>
+Now, I would like to have the views of the parties in regard of the documents submitted to the court, namely the preparatory claim to the court of first instance, then all the appeals made by the applicant, where, for example, on page 2 of the original preparatory document, it expressly claims that they did pay for one week the amount for teaching of religion, but they didn't pay for the rest.
+
+<<4114.77;4120.97;en>>
+So it seems to me that in the documents, there is reference to this.
+
+<<4120.97;4127.81;en>>
+And I would like to hear the views of the parties, whether this claim has been made or not.
+
+<<4127.81;4132.37;en>>
+I really don't understand at this stage.
+
+<<4132.37;4135.59;en>>
+Given the submitted documents.
+
+<<4135.59;4157.13;en>>
+Now, assuming for the sake of argument that this claim has been properly made, as already indicated by Judge Griţco, this resulted in teaching in a school.
+
+<<4157.13;4175.53;en>>
+Is there an applicable state law which governs the legal position of someone in the position of the applicant in public education?
+
+<<4175.53;4184.05;en>>
+I assume that this school was part of the public education system, or some kind of public law applied to this.
+
+<<4184.05;4187.93;en>>
+This is also a question I would like to be answered.
+
+<<4187.93;4197.41;en>>
+Was the school, the foundation school, was that under the jurisdiction of the state?
+
+<<4197.41;4200.53;en>>
+If so, what were the applicable laws?
+
+<<4200.53;4216.95;en>>
+I ask this because in the case referred to several times, namely the decision of the Constitutional Court in 2003, was related to a professor of theology, right?
+
+<<4216.95;4220.41;en>>
+If I understand correctly, this is a question to the government.
+
+<<4220.41;4237.73;en>>
+And in that case, at the end of the day, the law of higher education was found applicable to that professor of theology at a denominational university.
+
+<<4237.73;4240.19;en>>
+Maybe I completely misunderstand.
+
+<<4240.19;4243.49;en>>
+This is a very complicated situation.
+
+<<4243.49;4249.09;en>>
+So I just would like to have clarification on the second legal issue.
+
+<<4249.09;4258.25;en>>
+What was the situation in the case of the Constitutional Court case?
+
+<<4258.25;4263.97;en>>
+Now again, this is primarily to the government.
+
+<<4263.97;4277.93;en>>
+Assuming for the sake of the argument that the case is admissible, so there is an issue of access to a court.
+
+<<4277.93;4280.65;en>>
+Of course, this is governed by Golder.
+
+<<4280.65;4284.05;en>>
+Golder is not an absolute rule.
+
+<<4284.05;4287.49;en>>
+It knows implicit exceptions.
+
+<<4287.49;4289.65;en>>
+What could be?
+
+<<4289.65;4293.05;en>>
+The government refused to enter into the merit, I understand perfectly well.
+
+<<4293.05;4306.77;en>>
+But assuming that it is admissible, what could be, in the view of the government, a ground to apply the implicit exceptions under Golder?
+
+<<4306.77;4320.01;en>>
+Is there any specific ground not to allow access to a court, which is, in principle, possible, once again, under Golder?
+
+<<4320.01;4323.89;en>>
+And the very last question I would like to clarify.
+
+<<4323.89;4332.89;en>>
+The government said that the service contract was, or sorry, not contract.
+
+<<4332.89;4335.09;en>>
+That's exactly the issue.
+
+<<4335.09;4355.77;en>>
+The service relationship or service contract under exclusively ecclesiastical law, probably a better approach to this, was terminated at the time when the applicant asked for the 50%.
+
+<<4355.77;4372.01;en>>
+And my understanding is that he was suspended, and the relationship at that point in time has not been terminated, because that occurred later at the end of the disciplinary proceedings.
+
+<<4372.01;4389.61;en>>
+So if you could clarify whether this was an ongoing relationship until the end of the final disciplinary decision, or it was already terminated at the moment when the disciplinary proceedings started.
+
+<<4389.61;4389.61;en>>
+Thank you very much.
+
+[[JudgeP;Luis López Guerra]]
+
+<<4393.62;4408.62;en>>
+Okay, then the court will now withdraw for, let's see, 25 minutes, following which the party will be able to submit brief observations in reply to each other's submissions and reply the questions to the judges.
+
+[[Announcer;UNK]]
+
+<<5066.57;5067.22;fr>>
+La Cour!
+
+[[JudgeP;Luis López Guerra]]
+
+<<5106.35;5122.31;en>>
+Well, the hearing is now resumed and I call Mr. Cech.
+
+[[Applicant;AP1]]
+
+<<5123.86;5135.54;en>>
+The President, members of the court, I have to be quick because you made a lot of questions, fortunately, to clarify this highly unusual case.
+
+<<5135.54;5157.94;en>>
+As to the questions of Judge Gritzko concerning the duties of the applicant, whether his duties was governed partly, at least by domestic law, and whether he has the possibility to apply to make application before domestic courts.
+
+<<5161.06;5175.74;en>>
+A few examples, let me point out that he was the pastor of the congregation, so he was responsible to keep the money, the donations of the congregations.
+
+<<5175.74;5183.6;en>>
+He was responsible in the name of the congregation to submit tax reports every year.
+
+<<5183.6;5198.22;en>>
+For this reason, he represented the congregation before state courts as pastor before state authority, and of course, in front of third parties as well in civil relationships.
+
+<<5198.22;5207.42;en>>
+So my answer is that partly, he has duties under state law.
+
+<<5207.42;5216.76;en>>
+Secondly, let me turn to the questions made by Judge Motok.
+
+<<5216.76;5236.74;en>>
+First of all, she asked whether the applicant had the possibility to bring his claim before the Supreme Court in the first proceedings based on labor law.
+
+<<5236.74;5262.06;en>>
+He had the possibility, but regarding the context of the final judgment of the Second Instance Court, he did not raise this claim before the Supreme Court, but he tried to find another legal base to raise this claim before domestic courts.
+
+<<5262.06;5290.18;en>>
+We know, as we submitted, the content of the Constitutional Court's decision of 2003, which lays down that based on state laws and the separating operating church law rules, it cannot be excluded that two distinct systems of rules may regulate similar relationship.
+
+<<5290.18;5310.1;en>>
+However, the Constitutional Court did not clarify how this principle operates in the case at that hand and how domestic courts have to apply this principle laid down.
+
+<<5310.1;5318.5;en>>
+That's why this question is, in our view, unsettled.
+
+<<5318.5;5357.86;en>>
+Continuing with the question raised by Judge Vojticek, what was the first, whether it was a right or an argue up claim on the part of the applicant, our firm stance is he has a civil right, as it is the very ecclesiastical law which conferred civil rights on the applicant by rendering such claims under state jurisdiction as we outlined in our written memorandum.
+
+<<5362.1;5373.1;en>>
+As far as the remuneration for teaching is concerned, I have to refer back to a written memorandum.
+
+<<5373.1;5384.42;en>>
+The applicant was appointed as a pastor of the congregation in an appointment letter which corresponds to the service agreement of ecclesiastical office holders.
+
+<<5384.42;5395.9;en>>
+But beside this appointment letter, he concluded another separate contract for teaching church history also with the church.
+
+<<5395.9;5406.94;en>>
+This contract falls under civil law.
+
+<<5406.94;5441.02;en>>
+As to the question whether he raised his claim coming from his teaching duties before the lower domestic courts, I may refer to the questions or observations raised by Judge Shojo that this question, as you find it at your disposal in the documents, this question was raised before the lower courts as well.
+
+<<5441.02;5453.94;en>>
+However, this question remained unsettled by the lower courts.
+
+<<5453.94;5478.62;en>>
+Referring to the third question, Judge Bojticek, when the applicant was denied by the labor court and the second instance court, he brought another claim based on the same facts but based on different legal provisions of civil law.
+
+<<5478.62;5492.5;en>>
+And that's why this claim is not the same as legally, is not the same as what he raised before.
+
+<<5492.5;5514.1;en>>
+Now, turning to the questions raised by Judge Nussberger who made reference to the case law of the ecclesiastical court we shed light in our memorandum and in our pleading.
+
+<<5514.1;5543.38;en>>
+The ecclesiastical court in that case rejected the applicant's claim on the basis that the claim does not correspond to any of the items of the exhaustive list set forth in the ecclesiastical legislation.
+
+<<5543.38;5561.1;en>>
+And that's why this ecclesiastical court called that it had no jurisdiction in the case.
+
+<<5561.1;5585.26;en>>
+Pursuant to this decision of the synod court in that case, the labor court dismissed the applicant's claim, that applicant's claim, because the labor court disagreed with the findings of the synod court and held that it has no jurisdiction.
+
+<<5585.26;5590.7;en>>
+In the second instance, court upheld this judgment.
+
+<<5590.7;5603.82;en>>
+So that applicant had no chance to bring his claim and to have his claim adjudicated by any judicial instance.
+
+<<5603.82;5637.66;en>>
+The next question is whether the applicant could have had recourse to other judicial bodies, for example, after supposing that the ecclesiastical court would have heard his case.
+
+<<5637.66;5654.74;en>>
+We don't know, or we are sure, that based on the same premises set forth in the judgments, in the state court's judgments in the present case, the ecclesiastical court's judgment could not be revised by state courts.
+
+<<5654.74;5668.94;en>>
+And according to the domestic law, we are from stances that such judgment could not be revised even by the constitutional court.
+
+<<5674.94;5691.74;en>>
+And finally, whether the judgment of a state court could have been enforceable according to the state law.
+
+<<5691.74;5696.34;en>>
+I refer to the findings of the constitutional court.
+
+<<5696.34;5714.54;en>>
+The constitutional court held that in case a state court makes a judgment, this is enforceable under state law against the church.
+
+<<5714.54;5721.78;en>>
+And now, finally, the questions raised by Judge Shojo.
+
+<<5721.78;5739.1;en>>
+We agree with his observation that, as I mentioned right before, that the claim concerning the fees for teaching were raised for the very first moment in the civil law proceedings.
+
+<<5739.1;5752.86;en>>
+As to the school's position in the legal system, I must point out that this is the very origin of this case.
+
+<<5752.86;5780.48;en>>
+Because the applicant shed light on a problem that there are parallel obligations and rights concerning the school, because the school was found by the church, however, was financed by a foundation which falls under state jurisdiction.
+
+<<5780.48;5793.14;en>>
+So we cannot decide, therefore, whether at the relevant time this school fell under state or ecclesiastical jurisdiction.
+
+<<5793.14;5794.62;en>>
+Sorry for saying that.
+
+<<5794.62;5798.9;en>>
+I cannot clarify this issue today.
+
+<<5798.9;5806.64;en>>
+And finally, let me address a few words to the government's observation.
+
+<<5806.64;5808.12;en>>
+Thank you.
+
+<<5815.84;5823.56;en>>
+We agree with the government that it is not an employment dispute, indeed.
+
+<<5823.56;5832.76;en>>
+And we agree that because the applicant did not contest that his removal from service.
+
+<<5832.76;5839.68;en>>
+That's why we cannot say that it is a purely labor law dispute between the parties.
+
+<<5839.68;5863.58;en>>
+As to the facts, I don't want to discuss with the facts as against the government, because in the case law we've made reference to the pastor of the case, the plaintiff of that case, was also a pastor and not only a teacher at the university.
+
+<<5863.58;5885.66;en>>
+We raise legitimately the question that if neither domestic courts nor ecclesiastical courts are willing to or are reluctant to hear the pecuniary claim of the applicant, then how the protection of Article VI was afforded to the applicant.
+
+<<5885.66;5892.28;en>>
+We think that he was not afforded with this protection.
+
+<<5892.28;5895.96;en>>
+That's why there has been a violation.
+
+<<5895.96;5922.04;en>>
+And finally, my highly respected colleague from the government made reference to the natural obligations and to the rules of domestic law, which expressly exclude the adjudication of such claims from state jurisdiction.
+
+<<5922.04;5939.16;en>>
+I have to point out only that he did not refer precisely to any relevant domestic provisions which would exempt such claims from the state jurisdiction.
+
+<<5939.16;5939.56;en>>
+Thank you very much.
+
+<<5939.56;5939.56;en>>
+much.
+
+[[JudgeP;Luis López Guerra]]
+
+<<5940.94;5943.02;en>>
+Thank you very much, Mr. Cech.
+
+<<5943.02;5945.02;en>>
+Now I call Mr. Tallódi.
+
+[[Government;GR1]]
+
+<<5947.56;5950.26;en>>
+Thank you very much.
+
+<<5950.26;5972.84;en>>
+Concerning the question of the status of ecclesiastical law in Hungarian law, I would like to say that there is no possibility of binding complaints to the constitutional court against judgments of ecclesiastical court or against any internal rules of churches.
+
+<<5972.84;5987.52;en>>
+The principle of secularity requires state authorities to refrain from examining any issues of doctrine of churches, and it helps for the constitutional court as well.
+
+<<5987.52;6005.84;en>>
+There may be limits to the autonomy of churches only in so far as their actions are contrary to imperative provisions, for instance, criminal law of the domestic legal system.
+
+<<6005.88;6014.64;en>>
+In this case, the parties opted out from dispositive provisions of the law.
+
+<<6014.64;6033.88;en>>
+Concerning the question of the status of the constitutional court decision of 2003, Madam Nussberger's question, we would like to add that there is no divergent domestic case law after that decision.
+
+<<6033.88;6040.68;en>>
+The applicant, according to the government, the applicant wrongly argued that it was so.
+
+<<6040.68;6044.44;en>>
+The constitutional court was clear.
+
+<<6044.44;6051.84;en>>
+The state courts must determine a case when state law is applicable.
+
+<<6051.84;6083.0;en>>
+Although the applicants claim that there was confusion between the church's social institutions, all it shows that if and when there is an employment contract governed by labor law concluding between the church and its employee, Hungarian courts examine the claims arising from that employment relationship in accordance with the rules of state law.
+
+<<6083.0;6091.52;en>>
+And we have to add that ecclesiastical law is never a legal basis for the decision of state courts.
+
+<<6091.56;6115.88;en>>
+Concerning the question of whether the applicant had an arguable claim under tort law, we would like to add that we don't want to speculate on that topic because we don't know all the relevant facts.
+
+<<6115.88;6136.76;en>>
+It was the case was referred to by the government because we found some suggestions to the existence of such claims in the applicant's memorandum and in the chamber's judgments as well.
+
+<<6136.76;6147.48;en>>
+If there were any such claims, they should have been raised in domestic courts first.
+
+<<6147.48;6169.04;en>>
+The question concerning the enforceability of church judgments, the government would like to say that the enforceability of church judgments should be distinguished from enforceability or the enforcement of judgments against the church.
+
+<<6169.04;6180.64;en>>
+The latter, delivered by state courts in a legal dispute governed by state law, are enforceable.
+
+<<6180.64;6183.72;en>>
+Mr. Shojov's questions, more questions,
+
+<<6183.72;6187.24;en>>
+we would like to answer the following.
+
+<<6187.24;6218.1;en>>
+As to the claims arising from teaching, it appears from the Supreme Court's decision that although reference to tasks of teaching and claims arising there might have been made in the first instance court, the first reference to a separate contract as a basis for those claims was made in the petition for review.
+
+<<6218.1;6232.28;en>>
+It also appears from the Supreme Court's decision that had that claim been properly raised in the first instance court, that issue would have been governed by state law.
+
+<<6232.28;6253.92;en>>
+Yes, in the case before the constitutional court, the complainant was a professor of theology, but he performed his teaching activities in an ecclesiastical service relationship upon his own choice.
+
+<<6253.92;6267.7;en>>
+The Supreme Court's decision had no restriction on the, sorry, the Supreme Court's decision had no res judicata effect on the merits of the claims.
+
+<<6267.7;6269.68;en>>
+It is an important issue as well.
+
+<<6273.32;6279.84;en>>
+The next question, and we would like to add that the school was under the effect of the state law.
+
+<<6279.84;6288.82;en>>
+It is true, but it was not party of the proceedings before the domestic courts.
+
+<<6288.82;6304.0;en>>
+Concerning the question of the suspension and termination, we would like to add that the dispute is allegedly be determined under contract law.
+
+<<6304.0;6309.32;en>>
+An agency contract, however, is not suspended but terminated.
+
+<<6309.32;6318.84;en>>
+Therefore, when services under an agency contract are no longer required, the contract is terminated.
+
+<<6318.84;6351.32;en>>
+And finally, we would like to add concerning the applicability of Article 6, that exclusion of state court's jurisdiction is justified by the waiver of the right of access to court or by the need of the presentation of the secular nature of the case.
+
+<<6351.32;6369.56;en>>
+What is important is that the Hungarian courts wanted to avoid pursuant to the principle of secularity as enshrined in the Hungarian fundamental law to examine the issues of faith and doctrine.
+
+<<6372.92;6386.28;en>>
+The biblical references of the application and the relationship between a church and the pastor is inseparably connected with issues of religion.
+
+<<6386.28;6396.28;en>>
+So for the very difficult question, we try to answer in these answers.
+
+<<6396.28;6396.32;en>>
+Thank you very much.
+
+[[JudgeP;Luis López Guerra]]
+
+<<6398.35;6401.63;en>>
+Thank you very much.
+
+<<6401.63;6404.63;en>>
+We have now come to the end of the hearing.
+
+<<6404.63;6410.07;en>>
+I thank the parties for their submissions and answers to the court questions.
+
+<<6410.07;6414.19;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<6414.19;6416.91;en>>
+The judgment will be delivered later.
+
+<<6416.91;6419.95;en>>
+The parties will be informed of the date of delivery.
+
+<<6419.95;6420.95;en>>
+I declare the hearing closed.
+

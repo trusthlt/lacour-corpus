@@ -1,0 +1,1666 @@
+[[Announcer;UNK]]
+
+<<17.52;18.2;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<55.0;56.56;fr>>
+Vous pouvez vous asseoir.
+
+<<56.76;57.76;fr>>
+Merci.
+
+<<60.88;67.08;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire Michaud contre France.
+
+<<68.44;75.0;fr>>
+L'affaire a été introduite devant la Cour le 19 janvier 2011 par un ressortissant français, M. Patrick Michaud,
+
+<<75.76;78.12;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<78.76;85.52;fr>>
+Elle a été attribuée à la 5e section de la Cour conformément à l'article 52, paragraphe 1er du règlement de la Cour.
+
+<<86.44;91.44;fr>>
+La requête a été communiquée au gouvernement le 8 décembre 2011.
+
+<<92.44;110.64;fr>>
+Le Conseil des barreaux européens, l'Ordre français des avocats du barreau de Bruxelles et l'Institut des droits de l'homme des avocats européens ont été autorisés à soumettre des observations écrites en tant que tierces parties en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<110.64;132.28;fr>>
+Le gouvernement est représenté par son agent, Mme Anne-Françoise Tissier, sous-directrice des droits de l'homme à la direction des affaires juridiques du ministère des Affaires étrangères, assistée de Mme Karine Manach, rédactrice à la dite sous-direction des droits de l'homme, M. Philippe Roublot,
+
+<<132.48;140.4;fr>>
+chef du Bureau du contentieux judiciaire et européen, ministère de la Justice, M. Ludovic Jariel,
+
+<<140.6;163.16;fr>>
+chef du Bureau de la réglementation des professions à la direction des affaires civiles et du SCEAU du ministère de la Justice, Mme Florence Lifchitz, rédactrice au Bureau de la réglementation des professions à la direction des affaires civiles et du SCEAU du ministère de la Justice, M. Rodolphe Uguen-Laithier,
+
+<<163.36;179.08;fr>>
+rédacteur au Bureau de la lutte contre la criminalité, lutte contre la criminalité organisée, le terrorisme et le blanchiment à la direction des affaires criminelles et des grâces du ministère de la Justice, M. Xavier Domino,
+
+<<179.28;202.96;fr>>
+responsable du Centre de recherche et de documentation juridique auprès du Conseil d'Etat, Mme Sophie Leroquais, chargée de recherche auprès du Conseil d'Etat, Mme Alexandra Cuisiniez, consultante auprès du Bureau de droite européen et international du ministère de l'Economie, des Finances et du Commerce extérieur, Conseil.
+
+<<205.2;208.52;fr>>
+Le requérant est représenté par M. Bernard Favreau,
+
+<<208.72;213.16;fr>>
+avocat assisté de M. Matthieu Chauvet, Conseil.
+
+<<214.2;216.92;fr>>
+Le requérant est aussi présent.
+
+<<218.24;228.0;fr>>
+Je salue les comparants au nom de la Cour ainsi que les représentants des tiers intervenants qui se trouvent dans la salle.
+
+<<229.56;236.48;fr>>
+Ayant consulté l'agent du gouvernement et le représentant du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<237.56;245.72;fr>>
+Nous entendrons successivement Mme Tissier pour le gouvernement, puis M. Favreau pour le requérant,
+
+<<245.92;248.48;fr>>
+ainsi que le requérant lui-même.
+
+<<248.48;263.68;fr>>
+Je dois expliquer qu'en suce de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en russe a été autorisée au profit d'un groupe de magistrats russes en visite d'études à la Cour.
+
+<<263.88;273.88;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<274.72;277.16;fr>>
+La parole est à Mme Tissier.
+
+[[Government;GR1]]
+
+<<280.81;299.21;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, Peut-on, au nom de l'intérêt général, attaché à la lutte contre le blanchiment de capitaux et le financement du terrorisme, soumettre les avocats à l'obligation de déclarer des transactions suspectes, sans risquer de porter une atteinte excessive au secret professionnel?
+
+<<300.37;305.21;fr>>
+C'est la question soumise à votre appréciation, si bien sûr vous estimiez la requête recevable.
+
+<<306.61;315.73;fr>>
+Avant de répondre à cette question et d'aborder le cœur de l'affaire, permettez-moi quelques instants de revenir sur le contexte de sa genèse, afin de bien en saisir les enjeux.
+
+<<317.61;331.77;fr>>
+Le blanchiment de capitaux et son lien avec la criminalité organisée représentent une menace directe pour la démocratie, dont il remet en cause ses fondements les plus essentiels, la sécurité, la justice et l'instabilité politique et économique.
+
+<<333.57;342.33;fr>>
+L'Europe s'est très tôt engagée dans la lutte contre un tel fléau, convaincue de la nécessité que seule une action internationale résolue et concertée pouvait se montrer efficace.
+
+<<344.53;360.69;fr>>
+C'est ainsi le Conseil de l'Europe, qui le premier, a joué un rôle significatif dans ce domaine, en adoptant dès 1980 le premier instrument international de lutte contre le blanchiment, à travers une recommandation relative aux mesures contre le transfert et la mise à l'abri de capitaux d'origine criminelle.
+
+<<361.41;363.01;fr>>
+C'était en 1980.
+
+<<365.45;378.25;fr>>
+En 1990, la Convention du Conseil de l'Europe relative au blanchiment au dépistage, à la saisie et à la confiscation des produits du crime au financement du terrorisme, a poursuivi les efforts déployés dans ce domaine afin d'améliorer la coopération internationale.
+
+<<380.77;394.81;fr>>
+La communauté internationale s'est très vite mobilisée en adoptant la Convention des Nations Unies en 1988, contre le trafic illicite de stupéfiants, qui va faire naître pour les États l'obligation d'édicter dans leur législation un délit de blanchiment.
+
+<<394.81;407.73;fr>>
+Parallèlement, le groupe d'action financière, que j'appellerai GAFI, voit le jour en 1989, avec mission de développer et de promouvoir les politiques nationales et internationales afin de lutter contre le blanchiment des capitaux et le financement du terrorisme.
+
+<<407.93;418.53;fr>>
+Il a élaboré une série de recommandations retenues comme étant la référence internationale en la matière, et il procède à des évaluations régulières des différents États.
+
+<<419.41;430.21;fr>>
+C'est dans ce contexte que l'Union européenne va successivement adopter trois initiatives relatives à la préservation de l'utilisation du système financier aux fins de blanchiment de capitaux en 1991, en 2001, en 2005.
+
+<<431.45;436.01;fr>>
+Le dispositif adopté consiste à soumettre les professionnels concernés à deux types d'obligations.
+
+<<436.69;438.49;fr>>
+Tout d'abord, une obligation de vigilance.
+
+<<439.21;444.21;fr>>
+Il s'agit de vérifier un certain nombre d'informations, d'autres certaines relatives à l'identité du client.
+
+<<445.05;450.97;fr>>
+Ensuite, une obligation de déclaration, qui consiste à informer les autorités compétentes de l'exercice de l'obligation.
+
+<<450.97;455.73;fr>>
+Elle consiste à informer les autorités compétentes de tout fait qui serait l'indice d'un blanchiment de capitaux.
+
+<<456.85;458.85;fr>>
+C'est ce qu'on appelle la déclaration de soupçon.
+
+<<460.01;464.77;fr>>
+A l'origine, la première directive s'adressait exclusivement aux établissements de crédit, aux institutions financières.
+
+<<465.53;476.61;fr>>
+Toutefois, il est rapidement apparu nécessaire d'étendre son cadre à de nouveaux secteurs d'activité susceptibles d'être utilisés à des fins de blanchiment, et en particulier les professions juridiques indépendantes.
+
+<<478.21;486.65;fr>>
+Déjà en 1996, en 2001, le GAFI avait appelé à étendre son obligation des mesures de lutte contre le blanchiment de capitaux à des professions non financières.
+
+<<486.85;489.89;fr>>
+Elles étaient notamment concernées les notaires et les avocats.
+
+<<491.05;503.49;fr>>
+En effet, il avait été constaté que les blanchisseurs tendaient à recourir au service de ces professionnels, en partie, bien sûr, pour contourner les mesures mises en place par les pouvoirs publics et pesant sur le secteur bancaire et financier.
+
+<<505.13;518.57;fr>>
+Ceci avalue à ces professionnels le qualificatif, je cite le GAFI, d'ouvreur de porte, parce qu'il permettait l'accès, y compris à leur insu, aux moyens susceptibles d'aider les blanchisseurs à déplacer ou à dissimuler des fonds idéaux.
+
+<<518.77;529.85;fr>>
+En tout état de cause, ils sont désormais considérés, comme je cite encore le GAFI dans son rapport 2000, une composante commune dans les mécanismes complexes de blanchiment de capitaux.
+
+<<530.05;531.93;fr>>
+Une composante commune.
+
+<<532.13;548.17;fr>>
+Dans une position commune arrêtée le 30 novembre 2000, le Parlement et le Conseil de l'Union européenne faisaient également part de la nécessité d'étendre les dispositions de la Directive aux professions juridiques indépendantes, en tenant compte, bien sûr, toutefois, des particularités de ces professions.
+
+<<550.37;568.93;fr>>
+La Directive du 4 décembre 2001 a donc étendu son champ d'application aux professions juridiques indépendantes, dont les avocats, mais uniquement dans le cadre de certaines activités limitativement énumérées et essentiellement relatives à la réalisation de transactions immobilières, financières ou commerciales.
+
+<<572.17;582.33;fr>>
+Ce rappel historique démontre la forte mobilisation des instances internationales et des Etats afin de se doter d'un régime juridique efficace propre à combattre le blanchiment de capitaux et le financement du terrorisme.
+
+<<584.29;598.33;fr>>
+Sur le plan interne, la France a transposé la Directive du 4 décembre 2001 par la loi du 11 février 2004, et ce qui relevait les dispositions réglementaires a fait l'objet d'un décret, 26 juin 2006, relatif à la lutte contre le blanchiment.
+
+<<600.13;616.93;fr>>
+Par une décision du 12 juillet 2007, prise en application des dispositions du décret de 2006, le Conseil national des barreaux a adopté un règlement relatif aux procédures internes destinées à mettre en oeuvre les obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme.
+
+<<619.53;625.33;fr>>
+La transposition de la Directive litigieuse dans les ordres juridiques internes a donné lieu à une série de contentieux.
+
+<<626.53;651.73;fr>>
+Devant la Cour de justice de l'Union européenne, qui a été saisie d'une question préjudicielle par la Cour constitutionnelle belge, dans son arrêt ordre des barreaux francophone et germanophone, la Cour de justice a répondu qu'en incluant les avocats dans le dispositif anti-blanchiment, dans la limite de conditions strictes, la Directive n'avait pas méconnu le droit à un procès équitable garanti par l'article 6 de la Convention européenne des droits de l'Homme.
+
+<<654.13;667.53;fr>>
+En ce qui concerne la France, des recours ont été exercés devant le Conseil d'État, qui s'est prononcé à deux reprises sur la conventionnalité du dispositif anti-blanchiment mis en place par les autorités françaises, au regard de l'article 8 de la Convention.
+
+<<669.53;701.33;fr>>
+Une première fois, le 10 avril 2008, un arrêt dans lequel le Conseil d'État s'est fondé sur l'interprétation de la directive donnée par la Cour de justice dans l'arrêt que je viens de vous citer, ordre des barreaux francophone et germanophone, pour considérer que ces dispositions ne portaient pas une atteinte excessive au secret professionnel des avocats tels que garantis par l'article 8 de la Convention européenne, en raison de, je cite, « l'intérêt général qui s'attache à la lutte contre le blanchiment des capitaux ».
+
+<<703.73;716.13;fr>>
+Néanmoins, il a précisé que l'information reçue par un avocat, non seulement dans le cadre de son activité juridictionnelle, mais également lors de l'évaluation de la situation juridique d'un client, devait être exclue du champ des obligations de vigilance et de déclaration.
+
+<<717.73;721.73;fr>>
+Ce faisant, il a donc partiellement annulé le décret du 26 juin 2006.
+
+<<724.33;730.13;fr>>
+Le Conseil d'État s'est ensuite prononcé dans un arrêt du 23 juillet 2010, sur la requête de M. Michaud,
+
+<<730.33;738.33;fr>>
+requérant aujourd'hui le vent-vous, dirigé contre la décision du 12 juillet 2007 du Conseil national des barreaux, et aujourd'hui soumise à votre appréciation.
+
+<<740.73;752.33;fr>>
+Cet arrêt constitue la transposition directe de la décision de 2008, puisque le Conseil d'État a adopté le même raisonnement pour annuler certaines dispositions du règlement du Conseil national des barreaux.
+
+<<755.33;756.33;fr>>
+M. Michaud ne partagera très certainement pas
+
+<<756.53;773.33;fr>>
+mon opinion lorsque j'affirmerai que par ces deux décisions, les obligations intérieures et les obligations internes ont conforté de cet apport professionnel et l'ont reconnu comme l'un des piliers les plus fondamentaux de notre société, pour reprendre les termes du commissaire de gouvernement devant le Conseil d'État.
+
+<<773.53;777.73;fr>>
+L'un des piliers les plus fondamentaux de notre société.
+
+<<777.93;789.73;fr>>
+Toutefois, je n'irai pas plus loin sur cette question de fond sans me prévaloir au préalable du motif d'irrecevabilité de la requête tenant au défaut de qualité de victime du requérant.
+
+<<789.73;790.73;fr>>
+Je ne reciterai pas l'article 34.
+
+<<792.93;806.33;fr>>
+Le gouvernement n'ignore pas que la Cour en a adopté une définition autonome, que la notion de victime est une notion autonome, mais qu'elle a aussi développé une conception extensive de cette notion.
+
+<<806.53;819.73;fr>>
+Il résulte de la préjudice prévalence de la Cour que le requérant doit établir pour se prévaloir de la qualité de victime, que ses droits ont été effectivement lésés par la mesure en cours.
+
+<<822.33;825.33;fr>>
+Est-ce le cas en l'espèce?
+
+<<825.53;826.53;fr>>
+M. Michaud a-t-il déjà été amené
+
+<<826.73;829.73;fr>>
+à procéder à une déclaration de soupçon?
+
+<<831.73;834.73;fr>>
+Il ne le prétend pas.
+
+<<834.93;840.33;fr>>
+A-t-il été disciplinairement sanctionné pour ne pas avoir procédé à une telle déclaration?
+
+<<840.53;845.53;fr>>
+Pas plus.
+
+<<845.73;855.73;fr>>
+Se plaint-il d'une baisse d'activité de son cabinet, qui tendrait à démontrer que les obligations litigieuses désormais à sa charge, dissuaderaient les clients de recourir à ses services?
+
+<<857.33;860.33;fr>>
+Nullement.
+
+<<860.53;878.93;fr>>
+Tout au plus se plaint-il, de façon peu convaincante, d'avoir dû, je le cite, « organiser son cabinet afin de se doter de procédures internes lui permettant de procéder à une étude financière de ses clients, de procéder à une évaluation en vue de pouvoir transmettre une dénonciation ».
+
+<<879.13;887.93;fr>>
+Ceci ne serait raisonnablement suffis à lui conférer la qualité de victime d'une violation des droits de l'homme garantie par la Convention.
+
+<<890.13;893.13;fr>>
+Mais cela d'autant moins que M. Michaud,
+
+<<893.33;903.33;fr>>
+en parlant d'étude financière de ses clients, semble bien exagérer et bien méconnaître le contenu des obligations qui pèsent sur lui.
+
+<<903.53;944.93;fr>>
+En effet, en dehors de l'obligation de déclaration de soupçon, il est soumis à une obligation de vigilance, comme je vous l'ai déjà expliqué, qui, en vertu des dispositions du Code monétaire et financier, consiste en, premièrement, l'identification des clients sur présentation d'une pièce d'identité, deuxièmement, l'identification du bénéficiaire effectif de l'opération, troisièmement, l'information sur l'objet et la nature de la relation d'affaires entre le client qu'il vient d'identifier et le bénéficiaire dont il a demandé l'identité.
+
+<<945.13;963.93;fr>>
+Il ne s'agit donc en rien, mais vous l'aurez compris, de procéder à une étude financière, mais simplement de ce qu'un avocat sérieux et prudent doit faire avant d'agir pour le compte de son client, c'est-à-dire le connaître, connaître l'objet de la prestation et savoir si celle-ci présente des risques.
+
+<<965.13;970.53;fr>>
+Je rappellerai que les avocats sont soumis à un devoir général de prudence, figurant à l'article 1.5
+
+<<970.73;990.53;fr>>
+du Règlement intérieur national de la profession d'avocat, qui, au-delà et bien avant le dispositif anti-blanchiment, leur impose des vérifications minimales qui ne sont pas très différentes de celles que la directive et sa transposition dans la loi mettent à leur charge.
+
+<<992.73;993.73;fr>>
+M. Michaud vous demande en réalité
+
+<<993.93;997.53;fr>>
+de procéder à un contrôle général de la législation litigieuse à la lumière de la Convention.
+
+<<997.73;1015.53;fr>>
+Pour concours, le gouvernement ne peut s'empêcher d'évoquer les conséquences d'une décision qui reconnaîtrait la recevabilité d'une requête qui constitue en réalité une action catégorielle visant à la défense des intérêts supposés de la profession d'avocat et portée par l'un d'entre eux.
+
+<<1015.73;1026.93;fr>>
+Outre qu'une question de précaution, outre qu'une telle décision risquerait de considérablement augmenter le nombre de saisies individuelles, elle aurait immanquablement pour effet de diluer la notion de victime.
+
+<<1027.13;1045.13;fr>>
+On s'éloignerait dès lors de la volonté originelle des rédacteurs de la Convention qui entendait réserver le droit de recours individuel aux personnes dont les droits ont été concrètement et effectivement lésés et non de les tendre à celles risquantes un jour de voir ces mêmes droits violés.
+
+<<1045.33;1075.33;fr>>
+Je rappelle à cet égard que la Commission avait estimé qu'il résultait des termes « violations » et « victimes », ainsi que, je la cite, de la philosophie sous-jacente à l'obligation de l'épuisement préalable des voies de recours internes, que dans le système de protection des droits de l'homme imaginé par les auteurs de la Convention, la Cour ne pouvait, sauf sur conscience exceptionnelle, constater une violation qu'a postériori lorsque celle-ci avait déjà eu lieu.
+
+<<1075.33;1083.73;fr>>
+De plus, comment et dans de telles conditions, à l'absence de tout acte d'exécution ou à l'égard de M. Michaud,
+
+<<1084.93;1091.33;fr>>
+déterminer le point de départ du délai de six mois, pourtant inscrit dans la Convention?
+
+<<1091.53;1112.33;fr>>
+Pourquoi ne pas considérer, puisque l'ingérence résulterait de la seule existence de la législation soumettant les avocats au dispositif anti-blanchiment, c'est-à-dire la loi de transposition du 11 février 2004, que la décision interne définitive serait l'arrêt du Conseil d'État de 2008, qui a examiné la compatibilité de la loi en question avec l'article 8 de la Convention?
+
+<<1112.53;1115.53;fr>>
+Pourquoi celle de 2010?
+
+<<1115.73;1118.73;fr>>
+Parce qu'elle porte le nom du requérant?
+
+<<1118.93;1124.33;fr>>
+Peut-être, mais peut-être pas, car la question de principe est tranchée dès 2008.
+
+<<1124.53;1135.13;fr>>
+Cela doit être d'autant plus sérieusement envisagé que l'arrêt de 2010 n'est que le prolongement de l'arrêt de 2008 et ne concerne pas davantage la situation personnelle de M. Michaud
+
+<<1135.33;1138.33;fr>>
+que le décret d'application de 2004.
+
+<<1138.53;1146.33;fr>>
+En tout état de cause et en raison des deux motifs que je viens d'exposer, j'invite la Cour à conclure à l'irrecevabilité de la requête.
+
+<<1146.53;1164.13;fr>>
+À titre subsidiaire, j'entends tout de même vous démontrer qu'il y a lieu de rejeter le grief tiré de la violation de l'article 8 de la Convention en faisant application de votre jurisprudence relative à la présomption de protection équivalente.
+
+<<1164.33;1185.73;fr>>
+Comme vous le savez, selon cette règle dégagée dans l'arrêt de grande chambre Bosphorus, l'exécution par un état d'une obligation communautaire réputée justifiée aux yeux de la Cour déloque l'Union européenne offre une protection équivalente à celle procurée par le système de la Convention.
+
+<<1185.93;1192.73;fr>>
+Il ne s'agit pas d'exiger une protection identique, mais comparable.
+
+<<1192.93;1212.13;fr>>
+Par ailleurs, la Cour exerce son contrôle si elle considère que la protection des droits garantis par la Convention est entachée, je cite Bosphorus, d'une insuffisance manifeste, ce qui, je vais tenter de vous le démontrer, n'est pas le cas en l'espèce.
+
+<<1212.33;1218.93;fr>>
+La présomption de protection équivalente ne peut donc être renversée que égards aux circonstances particulières de l'affaire.
+
+<<1218.93;1235.33;fr>>
+Dans la structure de la Rêve Bosphorus, il s'apparaît que la Cour a procédé à une analyse in abstracto de l'ordre juridique communautaire à l'issue de laquelle elle lui a délivré une sorte de satisfactrice général, tant sur le plan des garanties substantielles que procédurales.
+
+<<1235.53;1248.53;fr>>
+Il me semble donc que rien ne fait obstacle à ce que vous appliquiez la solution retenue dans la Rêve Bosphorus à la présente affaire, qui ne fait apparaître aucune insuffisance manifeste dans la protection des droits fondamentaux.
+
+<<1248.73;1263.73;fr>>
+En effet, en transposant la directive du 4 décembre 2001, le législateur français n'a fait que se conformer à ses obligations communautaires, tout en respectant celles qui lui incombaient du fait de la Convention.
+
+<<1263.73;1278.93;fr>>
+Je précise que sur ce point, le législateur français ne disposait d'aucune marge de manœuvre, si ce n'est dans le cadre de certaines modalités pratiques, telles que l'attribution d'un droit d'intermédiaire aux instances professionnelles, rôle sur lequel je reviendrai.
+
+<<1278.93;1288.73;fr>>
+Dans son arrêt du 10 avril 2008, le Conseil d'État n'a pu que constater que la loi française était en parfaite conformité avec ce droit communautaire.
+
+<<1288.93;1301.93;fr>>
+S'agissant plus particulièrement du secret professionnel des avocats, il ne fait aucun doute qu'il est protégé par les droits de l'Union européenne d'une manière équivalente, pour reprendre votre terminologie, à celle offerte par la Convention.
+
+<<1301.93;1315.73;fr>>
+Il figure ainsi à l'article 41 de la Charte des droits fondamentaux et a été consacré par la Cour de justice dans les arrêts AM&S du 18 mai 1982 ou au TER du 19 février 2002.
+
+<<1315.73;1324.73;fr>>
+A cette occasion, l'avocat général affirmait que, je le cite, « le secret professionnel est la base de la relation de confiance qui existe entre l'avocat et son client ».
+
+<<1324.93;1357.93;fr>>
+Surtout, dans l'arrêt que j'ai déjà évoqué, Ordre des barreaux francophones et germanophones, la Cour de justice a affirmé solennellement que la Convention faisait partie des principes généraux du droit communautaire et a vérifié la conformité du dispositif au droit à un procès équitable garanti par l'article 6 de la Convention en relevant son caractère proportionné puisque les obligations de vigilance et de déclaration ne s'appliquent qu'à certaines activités et que la mission de défense et la consultation juridique en sont exclues.
+
+<<1357.93;1364.33;fr>>
+Certes, la Cour de justice ne s'est pas prononcée au regard de l'article 8 de la Convention.
+
+<<1364.33;1384.93;fr>>
+Toutefois, je ne peux que souligner que le Conseil d'État, saisi notamment par le Conseil national des barreaux, a accepté, pour la première fois de sa longue histoire, d'examiner la compatibilité d'une directive avec la Convention européenne des droits de l'homme en raison de la place particulière que cette dernière occupe dans l'ordre juridique communautaire.
+
+<<1384.93;1410.73;fr>>
+Comme je l'ai déjà dit, il a adopté le raisonnement suivi par la Cour de justice pour interpréter la directive du 4 décembre 2001 dans le sens de sa conformité avec les dispositions de la Convention et considérer qu'elle ne viole pas plus l'article 6 que l'article 8 de la dite puisqu'elle exonère les activités juridictionnelles et de consultation des obligations imposées aux avocats.
+
+<<1410.73;1418.13;fr>>
+L'arrêt du 23 juillet 2010 rendu par le Conseil d'État à la suite du recours exercé par M. Bichaud
+
+<<1418.33;1424.93;fr>>
+à l'encontre de la décision du Conseil national des barreaux ne fait que reproduire ce raisonnement et cette solution.
+
+<<1424.93;1434.53;fr>>
+Il ne fait donc aucun doute que le respect du secret professionnel a été assuré par le juge interne, juge du droit commun, du droit communautaire.
+
+<<1434.73;1437.73;fr>>
+M. Bichaud a bénéficié d'un recours effectif
+
+<<1437.93;1453.93;fr>>
+qui lui a permis de soumettre aux juridictions internes la question de la validité du texte communautaire au regard du secret professionnel des avocats garanti par l'article 8 de la Convention européenne des droits de l'homme.
+
+<<1454.13;1467.13;fr>>
+Vous ne pourrez donc que parvenir à la même conclusion que le gouvernement, à savoir que la présente affaire ne fait apparaître aucune insuffisance manifeste dans la protection des droits fondamentaux et donc rejeter la requête.
+
+<<1467.33;1475.73;fr>>
+Malgré ces développements, il me faut venait à estimer utile de se prononcer sur le caractère nécessaire d'une société démocratique du dispositif critiqué par le requérant.
+
+<<1475.93;1493.33;fr>>
+J'indiquerai tout d'abord qu'il ne prête pas à controverses que la limitation apportée au secret professionnel du requérant poursuit un but légitime en ce qu'elle vise à lutter contre le blanchiment des capitaux, le financement des terrorismes et les infractions pénales associées.
+
+<<1493.33;1496.33;fr>>
+Je ne reviendrai pas sur un tel enjeu.
+
+<<1496.33;1501.53;fr>>
+Tant je suis convaincue que vous en êtes vous-même convaincu.
+
+<<1501.73;1521.53;fr>>
+Afin de satisfaire cet objectif, également partagé par les autres membres de l'Union européenne et par le Conseil de l'Europe, la France a mis en place un dispositif en tout point respectueux des droits fondamentaux, l'équilibre entre la protection du secret professionnel des avocats et l'intérêt général qui s'attache à la lutte contre le blanchiment.
+
+<<1521.53;1532.53;fr>>
+En effet, tout aussi primordial que soit le secret professionnel des avocats de nos sociétés démocratiques, il ne saurait cependant être absolu en toutes circonstances.
+
+<<1532.53;1536.53;fr>>
+Il doit se concilier avec d'autres impératifs tout aussi essentiels.
+
+<<1536.53;1558.53;fr>>
+Votre cours elle-même, dans un arrêt André et autres rendus contre la France en 2008, a admis que la lutte contre le blanchiment des capitaux pouvait justifier d'imposer aux avocats des obligations, je cite votre jurisprudence, susceptibles de concerner les relations avec leurs clients, dès lors que de telles mesures étaient strictement encadrées.
+
+<<1558.53;1570.53;fr>>
+La Cour constitutionnelle belge, lorsqu'elle s'est prénoncée le 23 janvier 2008 sur les recours dirigés contre la loi de transposition de la même directive, a dit la même chose.
+
+<<1570.53;1579.53;fr>>
+La règle du secret professionnel doit céder lorsqu'une nécessité l'impose ou lorsqu'une valeur jugée supérieure entre en conflit avec elle.
+
+<<1579.53;1589.53;fr>>
+Le droit français ne s'est pas éloigné de ces principes et les limitations apportées au secret professionnel sont strictement encadrées et proportionnées.
+
+<<1589.53;1596.53;fr>>
+Je rappelle ainsi qu'en vertu du dispositif de lutte contre le blanchiment des capitaux, les avocats sont soumis à des obligations de deux ordres.
+
+<<1596.53;1607.53;fr>>
+Une obligation de vigilance et de vérification que je vous ai détaillée, une obligation de déclaration auprès du bâtonnier de toute opération suspecte.
+
+<<1607.53;1613.53;fr>>
+Comme vous l'aurez constaté, ce dispositif est particulièrement encadré.
+
+<<1613.53;1621.53;fr>>
+Tout d'abord, les obligations de coopération et d'information ne concernent que certaines activités professionnelles.
+
+<<1621.53;1627.53;fr>>
+Elles sont limitativement énumérées à l'article 1 de la décision de 2007 du Conseil national des barreaux.
+
+<<1627.53;1637.53;fr>>
+Il s'agit principalement de la réalisation de transactions financières ou immobilières ou d'opérations relatives à la création de société.
+
+<<1637.53;1653.53;fr>>
+En revanche, celles-là qui se situent d'essentiel ne sont pas concernées ni la mission de défense ni la mission de consultation juridique, à moins que le client ne souhaite obtenir des conseils juridiques aux fins de blanchiment de capitaux.
+
+<<1653.53;1662.53;fr>>
+Mais il est tout de même rare que les choses se présentent d'une façon aussi claire.
+
+<<1662.53;1686.53;fr>>
+En conséquence, les missions essentielles de défense et de conseil qui sont la justification de la confidentialité des échanges entre un avocat et son client, ce que le commissaire du gouvernement dans ses conclusions appelait la substance même de la qualité d'avocat, sont exclues des obligations de déclaration et de vigilance.
+
+<<1686.53;1709.53;fr>>
+Les avocats ne sont soumis à ces obligations que lorsqu'ils participent à des opérations financières avec une procédure judiciaire ou une consultation juridique et qui pourraient en réalité être exercées par d'autres, par beaucoup d'autres, par beaucoup d'autres professionnels du droit ou de la finance.
+
+<<1709.53;1713.53;fr>>
+Le champ d'application apparaît donc limité et encadré.
+
+<<1713.53;1714.53;fr>>
+A cet égard, M. Michaud prétend
+
+<<1714.53;1724.53;fr>>
+que la distinction entre les activités soumises aux obligations litigieuses et celles qui en sont exonérées est impossible.
+
+<<1724.53;1728.53;fr>>
+Cette affirmation surprend.
+
+<<1728.53;1739.53;fr>>
+Il apparaît au contraire que les activités libérées à l'article 1 du règlement du Conseil national des barreaux sont précisément définies et clairement identifiables.
+
+<<1739.53;1750.53;fr>>
+Il s'agit ainsi de l'achat et de la vente de biens immobiliers, de la gestion de fonds, d'ouverture de comptes bancaires et de la réduction de la société.
+
+<<1750.53;1757.53;fr>>
+Par ailleurs, et sans aborder la définition de la mission de défense en justice qui ne pose aucune difficulté, M. Michaud ne saurait sérieusement soutenir
+
+<<1757.53;1770.53;fr>>
+et ignorer la signification de l'activité de consultation juridique qui a été définie par la jurisprudence, mais aussi par l'Assemblée générale du Conseil national des barreaux elle-même.
+
+<<1770.53;1772.53;fr>>
+Le plus simple est d'illustrer mes propos par un exemple.
+
+<<1772.53;1779.53;fr>>
+Prenons le cas d'une personne qui interroge un avocat sur la faisabilité d'une acquisition d'une société.
+
+<<1779.53;1785.53;fr>>
+Il s'agit pour l'avocat d'évaluer une situation juridique et de fournir un avis sur la faisabilité de l'opération.
+
+<<1785.53;1789.53;fr>>
+Il s'agit de consultation juridique.
+
+<<1789.53;1797.53;fr>>
+Tout indice qui laisserait penser à un risque de blanchiment ne serait donc pas soumis à l'obligation de déclaration.
+
+<<1797.53;1805.53;fr>>
+En revanche, imaginons qu'après avoir donné cet avis, l'avocat s'engage dans le montage de l'opération, par exemple en rédigeant les actes.
+
+<<1805.53;1814.53;fr>>
+Il apprend alors qu'il n'y a pas de versement de fonds, mais une session de créance détenue sur le vendeur par une société dont le siège se trouve dans un paradis fiscal.
+
+<<1814.53;1820.53;fr>>
+Il a alors de bonnes raisons de penser que l'opération vise à blanchir de l'argent.
+
+<<1820.53;1829.53;fr>>
+Il ne lui a pas été nécessaire de faire une expertise financière particulière de la situation de son client.
+
+<<1829.53;1835.53;fr>>
+Il a donc décidé d'aider à la déclaration de soupçon auprès du bâtonnier.
+
+<<1835.53;1841.53;fr>>
+Enfin, il me faut revenir sur cette déclaration de soupçon auprès du bâtonnier.
+
+<<1841.53;1857.53;fr>>
+Il a là en effet un rôle fondamental que joue le bâtonnier dans le dispositif anti-blanchiment et la garantie qu'il présente pour la protection du secteur professionnel grâce à l'assistance qu'il apporte aux avocats dans la mise en œuvre des procédures internes et de la déclaration de soupçon.
+
+<<1857.53;1864.53;fr>>
+Il a donc décidé que lui peut assister les avocats dans la mise en œuvre de leurs obligations.
+
+<<1864.53;1873.53;fr>>
+En conclusion, les limitations imposées aux secrets professionnels des avocats ne le restreignent pas à un point tel qu'ils s'en trouvent atteints dans sa substance.
+
+<<1873.53;1882.53;fr>>
+Le dispositif applicable a su préserver un juste équilibre entre la protection des droits fondamentaux et l'intérêt général que représente la lutte contre le blanchiment des capitaux.
+
+<<1882.53;1888.53;fr>>
+Ce fléau risque de tout corrompre, y compris le secret professionnel.
+
+<<1888.53;1894.53;fr>>
+Si les avocats sont exclus du dispositif, c'est la confiance du public dans la profession qui sera remise.
+
+<<1894.53;1911.53;fr>>
+Je citerai pour finir le président Dugafi, qui, à l'issue de l'évaluation de la France, a présenté le dispositif français comme, je le cite, « le modèle à suivre », tout en regrettant cruellement la faiblesse des obligations pesant sur les avocats.
+
+<<1911.53;1916.53;fr>>
+Aujourd'hui, la France se voit reprocher une ingérence excessive dans le secret professionnel des avocats.
+
+<<1916.53;1919.53;fr>>
+On n'est pas très loin de la quadrature du cercle.
+
+<<1919.53;1926.53;fr>>
+Il me semble pour autant vous avoir démontré que le dispositif français a su trouver ce point d'équilibre.
+
+<<1926.53;1934.53;fr>>
+Vous ne pourrez que conclure à l'irrecevabilité de cette requête ou, à défaut, à l'absence de violation de l'article 8.
+
+<<1934.53;1934.53;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1941.63;1944.59;fr>>
+Merci, Madame Tissier.
+
+<<1944.59;1946.83;fr>>
+La parole est à Maître Favreau.
+
+[[Applicant;AP1]]
+
+<<1948.69;1950.89;fr>>
+M. le président, mesdames,
+
+<<1951.05;1969.33;fr>>
+messieurs les juges de la Cour, intérêt général seront mes premiers mots, à regret, car j'aurais préféré consacrer une phrase liminaire à remercier la Cour de l'accueil qu'elle aménageait aux partis et à leur conseil.
+
+<<1970.21;1974.97;fr>>
+Je n'ai que 25 minutes devant moi et je commencerai donc par intérêt général.
+
+<<1974.97;1985.89;fr>>
+L'intérêt général n'est pas le monopole d'une partie et maître Patrick Michaud, que je représente ici, prétend venir le représenter devant vous.
+
+<<1986.49;2003.41;fr>>
+L'intérêt général dans une société démocratique à ne pas priver de sa substance la mission, les devoirs et la fonction de l'avocat apparaît en balance aussi important que la nécessité de lutter contre le terrorisme.
+
+<<2003.41;2028.49;fr>>
+Le temps passé à démontrer la nécessité de cette lutte contre ces fléaux, ainsi les a baptisés votre Cour dans de nombreux arrêts depuis longtemps, qu'il s'agisse de la drogue ou du terrorisme, ne peut pas servir de rideau de fumée pour recréer un faux consensus sur un principe à propos duquel tout le monde est d'accord.
+
+<<2028.65;2045.69;fr>>
+Je rassure tout de suite la Cour, maître Patrick Michaud n'est pas un fervent défenseur du terrorisme et souhaite l'éradiquer peut-être plus efficacement que cela ne se fait actuellement et en ce sens, il n'est pas un adversaire de l'intérêt général.
+
+<<2045.85;2069.81;fr>>
+Et puis, il y a autre chose qui prend une tournure véritablement désagréable, c'est qu'au nom de cet intérêt général, c'est une stigmatisation de certains pays qui finissent par être montrés du doigt comme si leurs habitants n'étaient pas aussi honnêtes que dans d'autres pays, voire des professions particulières.
+
+<<2070.85;2125.33;fr>>
+De quoi se plaint devant vous, maître Michaud, qu'une législation et qu'une réglementation professionnelle prise en application de cette législation européenne à l'origine l'oblige non seulement à modifier le fonctionnement de son cabinet, en instaurant une véritable cellule de clearing pour essayer d'examiner les transactions dans lesquelles il est amené à intervenir, et plus encore, il estime, contraire à son serment, de dénoncer une personne à laquelle aucun crime n'est reproché sur une impression subjective car telle est la définition, qui serait un soupçon éventuel et qui n'a jamais été défini.
+
+<<2125.49;2142.09;fr>>
+Alors, j'aborderai, puisque je suis obligé de survoler, et la Cour me pardonnera de ne pas être aussi précis que je l'aurais voulu, de survoler en trois thèmes principaux les explications que j'ai à donner.
+
+<<2142.25;2152.17;fr>>
+Recevabilité, spécificité, spécificité, proportionnalité, comme une belle devise républicaine.
+
+<<2153.21;2162.01;fr>>
+Et par scissiparité ou par un effet de chaîne atomique, ces têtes de chapitre auront elles-mêmes des sous-parties.
+
+<<2163.65;2171.73;fr>>
+L'habileté de mon contradicteur est de vouloir m'enfermer dans une longue discussion sur la recevabilité qui obéirait mon temps de parole.
+
+<<2172.61;2176.33;fr>>
+Je ne tomberai pas dans ce piège, je serai très bref sur la recevabilité.
+
+<<2176.85;2181.37;fr>>
+Je me fonde sur votre jurisprudence, qui n'a pas été intégralement citée.
+
+<<2181.53;2185.25;fr>>
+Non, maître Michaud n'a pas été condamné à ce jour.
+
+<<2185.85;2203.29;fr>>
+Et cet effet différé que l'on vient solliciter devant vous, en disant, vous trancherez une fois qu'un avocat aura été sanctionné, car là, il sera véritablement victime, au sens de l'article 34, ne peut avoir cours au gré de votre jurisprudence.
+
+<<2203.29;2209.41;fr>>
+Maître Michaud est effectivement victime, au sens de la jurisprudence de la Cour.
+
+<<2209.57;2215.57;fr>>
+Il subit directement les effets de la mesure litigieuse.
+
+<<2216.69;2235.09;fr>>
+Donc, à partir du moment où il risque d'en subir les effets, je ne rappellerai pas votre jurisprudence ancienne, au Topreminger Institute, et plus récemment, Norris, contre Irlande ou De Jonh, à partir du moment où il risque d'en subir les effets, il est victime.
+
+<<2235.25;2236.25;fr>>
+Mais il y a plus.
+
+<<2237.17;2249.21;fr>>
+J'ai voulu joindre à mon mémoire, pour donner une occasion de réfutation, la nature précise de l'obligation qui pèse sur maître Michaud en tant qu'avocat.
+
+<<2250.45;2272.73;fr>>
+Il a, depuis les effets des textes pris par le CNB, un document de quatre pages à remplir, ce document, pour ne pas avoir à le commenter, a été inséré, où il doit donner le numéro de téléphone, l'email personnel du client qu'il soupçonne pour être transféré à des cellules de renseignement.
+
+<<2272.89;2302.01;fr>>
+La seule obligation de ce document qui pèse sur son bureau comme une menace qu'il a à remplir, suffit à démontrer qu'il est obligé, au sens de votre jurisprudence, de modifier ce document pour modifier son attitude, qu'il en subit directement les effets et que, dès lors, le texte du CNB qu'il critique le déclare comme avocat assujetti.
+
+<<2302.17;2307.53;fr>>
+Malgré mes recherches, je ne l'ai pas trouvé assujetti comme entrée dans la jurisprudence de la Cour.
+
+<<2307.69;2315.45;fr>>
+Il est un avocat assujetti à la déclaration de soupçons et aux obligations de Souriant.
+
+<<2315.61;2320.49;fr>>
+L'absence de préjudice, votre Cour l'a déjà jugé dans l'affaire Broumarescu.
+
+<<2320.65;2356.09;fr>>
+En matière de recevabilité, qu'il ne s'agit pas d'une action populaire ou axio popularis, dans une affaire que je connais bien et récente, où la Cour a déclaré irrecevable la requête de M. Ouardiri
+
+<<2356.25;2362.29;fr>>
+contre la Suisse, la Cour avait estimé Pourquoi?
+
+<<2362.29;2370.69;fr>>
+Mais parce que le requérant n'invoquait aucun élément qui le concernait personnellement dans la violation dont il se plaignait.
+
+<<2370.85;2380.65;fr>>
+Et la Cour a dit ceci, il ne met en avant aucun commencement d'application de la disposition constitutionnelle litigieuse.
+
+<<2380.81;2387.33;fr>>
+Alors que l'application est, elle, bien avancée en ce qui concerne M. Michaud.
+
+<<2387.93;2397.81;fr>>
+Sur ce point, je conclurai, moi qui doute de tout, par la certitude de la recevabilité, qu'il ne doit pas occuper davantage de temps.
+
+<<2400.25;2408.33;fr>>
+Ayant fini sur la recevabilité, je dois aborder un aspect secondaire qui est la conventionnalité.
+
+<<2409.37;2412.97;fr>>
+Je vais là aussi être obligé d'être très rapide, et je l'explore.
+
+<<2413.13;2416.73;fr>>
+Je n'expliquerai pas, pour ma part, à la Cour, ce que signifie son arret Bosphorus.
+
+<<2416.73;2418.89;fr>>
+Je l'ai lu, j'ai essayé de le comprendre.
+
+<<2419.69;2430.57;fr>>
+Je sais qu'il est d'ailleurs l'aboutissement d'une série d'autres arrêts tout aussi importants, outre les pêcheries basques, l'arrêt cantonique entre France, etc.
+
+<<2430.93;2432.61;fr>>
+Et je me bornerai à dire ceci.
+
+<<2432.77;2468.37;fr>>
+J'ai compris, moi, de votre arrêt, que vous aviez prononcé une présomption de protection équivalente dans le cadre du contrôle communautaire, que cette présomption, vous l'avez dit, n'était pas irréfragable, et que dès lors que vous aviez la démonstration de ce que le contrôle n'avait pas eu lieu ou n'avait pas été équivalent, la Cour retrouvait le dernier mot, car c'est à elle qu'il appartient, au dernier degré, de défendre les droits de l'homme en Europe.
+
+<<2469.05;2488.61;fr>>
+Je pourrais passer de longs instants à rappeler ce que vous avez dit vous-même, ce que vous avez dit vous-même dans votre arrêt Bosphorus, sur le décalage ou le déséquilibre qu'il existe, ne serait-ce que sur le plan procédural pour un requérant dans la mise en oeuvre du contrôle que je qualifierais encore de communautaire.
+
+<<2489.49;2493.97;fr>>
+Je dirais qu'en l'espèce, l'argument est totalement inopérant.
+
+<<2494.73;2498.49;fr>>
+C'est bien parce qu'il n'y a pas eu ce contrôle que nous sommes devant vous.
+
+<<2499.21;2500.69;fr>>
+Comment? On nous dit,
+
+<<2500.85;2509.89;fr>>
+mais la Cour de Luxembourg, devenue aujourd'hui Cour de justice de l'Union européenne, a statué, dans son célèbre arrêt C-305, 05.
+
+<<2510.69;2522.97;fr>>
+Dans cet arrêt, elle a dit qu'il n'y avait aucun problème de conventionnalité de la disposition qui oblige les avocats, notamment, à opérer une déclaration de soupçon.
+
+<<2525.17;2529.01;fr>>
+C'est une vision et une version tronquée des faits.
+
+<<2530.13;2536.41;fr>>
+La Cour a été saisie, dans le cadre de l'article 234, elle a été saisie par une question préjudicielle.
+
+<<2536.97;2543.29;fr>>
+Nous connaissons la question préjudicielle qui cerne et limite la saisine de la Cour de Luxembourg.
+
+<<2543.93;2545.45;fr>>
+Et on lui a posé quelle question?
+
+<<2545.93;2560.97;fr>>
+Est-ce qu'une législation qui permet de dénoncer, or, la question d'un procès ou d'une procédure judiciaire, viole le droit à un procès ou à une procédure judiciaire?
+
+<<2560.97;2562.05;fr>>
+Une procédure équitable.
+
+<<2563.33;2572.69;fr>>
+Poser la question, c'était y répondre, puisqu'elle était limitée en ce sens, puisqu'elle n'intervenait pas dans le procès, elle ne heurtait pas le principe du procès équitable.
+
+<<2573.85;2583.13;fr>>
+Mais sur le plan du contrôle effectif, qu'est-ce qu'avaient voulues certaines associations d'avocats ou certains requérants?
+
+<<2583.89;2605.93;fr>>
+Étendre le contrôle de la Cour de Luxembourg, non seulement à un véritable article 6, pas un article 6 scrupion, qui ne contenait pas ce qui en fait partie aujourd'hui par l'effet prétorien de votre jurisprudence, le droit d'un accusé à ne pas s'incriminer lui-même, ou bien encore le contrôle de l'article 8.
+
+<<2606.69;2616.37;fr>>
+L'avocat général l'a écarté dans les conclusions publiques, et il suffit de lire les conclusions de M. Pollares-Maduro
+
+<<2616.37;2619.45;fr>>
+pour voir ce qu'il dit à la Cour.
+
+<<2619.61;2624.33;fr>>
+On fera un contrôle minimum sur le plan du procès équitable, article 6.
+
+<<2624.49;2628.65;fr>>
+Techniquement, nous n'avons pas le moyen de l'étendre.
+
+<<2629.13;2652.85;fr>>
+Et la Cour, qui ne reprend pas cet argument pratique ou logistique, répond, nous resterons dans la limite de la saisine de la juridiction interne qui nous a transmis la question préjudicielle, et nous n'examinerons pas l'article 8 selon le prisme de contrôle du principe de la non-auto-incrimination.
+
+<<2653.01;2657.61;fr>>
+Donc, autant dire que ce contrôle, il est démontré qu'il n'a pas eu lieu.
+
+<<2657.77;2673.77;fr>>
+J'ai la conviction personnelle, qui n'engage que moi ici, que la Cour de Luxembourg a voulu laisser dans une affaire de cette importance qui touche au fondement des droits de la défense dans une société démocratique, le droit de l'expression de l'article 8.
+
+<<2673.77;2677.97;fr>>
+Une société démocratique, le dernier mot, à la Cour de Strasbourg.
+
+<<2678.89;2687.45;fr>>
+Je dirais davantage que les arrêts du Conseil d'Etat, qui nous sont opposés comme ayant tranché la question, ne sont pas un argument recevable.
+
+<<2688.37;2719.89;fr>>
+Si vous admettez, monsieur le président, mesdames, messieurs, qu'un gouvernement vienne vous dire, mais le contrôle a été fait parfaitement, ma juridiction interne, qui est statuée, et d'ailleurs sur laquelle vous êtes saisi, a dit qu'il n'y avait pas de violation de la Convention, la cause étant tendue, le débat est terminé, c'est la négation de la raison d'être de la Cour unie, c'est la jurisprudence à l'échelle de 27 pays et c'est la fin, finalement, de la défense autonome intégrée des droits de l'homme.
+
+<<2720.93;2732.53;fr>>
+Il est bien évident que dans cette affaire, vous êtes les premiers à statuer, sur le plan du respect du secret professionnel, dans le cadre de l'article 8.
+
+<<2732.69;2744.89;fr>>
+J'ai terminé sur la conventionnalité, ce qui me permet immédiatement et aussi vite de passer à la question essentielle, la spécificité.
+
+<<2745.05;2768.93;fr>>
+Vous avez, au cours d'une construction jurisprudentielle complète qui remonte à très longtemps, je dirais même à l'ancienne cour, si je peux m'exprimer ainsi, construit un portrait de l'avocat européen qui est une œuvre ciselée avec beaucoup de finesse et qui n'a jamais été remise en question.
+
+<<2769.09;2789.13;fr>>
+Une de ces facettes du portrait de l'avocat, c'est la spécificité de l'avocat que vous n'avez cessé de rappeler de l'arrêt Casado-Koka à l'arrêt Nikula contre Finlande et plus récemment, dans l'arrêt Xavier de Silveira contre France.
+
+<<2789.29;2792.25;fr>>
+Il y a un statut spécifique des avocats.
+
+<<2793.41;2839.37;fr>>
+Alors, pas parce qu'ils demandent un privilège, pas parce qu'ils sont une corporation protégée, pas parce qu'ils sont les ouvreurs de portes, comme on nous l'a dit, pas parce qu'ils sont les fourriers du crime, ce qui n'a jamais été démontré, mais parce que leur fonction dans une démocratie est essentielle, au point que, aujourd'hui, dans certains pays qui ne sont pas membres de la Convention ou qui a donné naissance à cette Cour, nous nous battons tous les jours pour leur rappeler qu'un des premiers témoignages, un des premiers critères de l'État de droit, c'est l'indépendance des avocats et le respect de leurs spécificités sans en quoi que ce soit les assimiler aux clients qu'ils défendent.
+
+<<2839.37;2855.53;fr>>
+Dès lors, cette conception spécifique veut dire qu'un avocat n'est pas un notaire, qu'un avocat n'est pas un commissaire-priseur, qu'un avocat n'est pas un directeur de casino ou un intermédiaire financier.
+
+<<2855.69;2863.69;fr>>
+Je voudrais terminer cette partie très vite en répondant sur la notion d'indivisibilité.
+
+<<2863.85;2874.29;fr>>
+Oui, je soutiens devant vous, et je le soutiens en m'appuyant sur la jurisprudence de la Cour, pour laquelle j'ai le plus profond respect et sur laquelle je marque bout.
+
+<<2874.45;2880.73;fr>>
+Il n'y a pas de possibilité d'identifier une activité d'avocat.
+
+<<2880.89;2886.37;fr>>
+D'ailleurs, mon contradicteur l'a parfaitement plaidé et l'a démontré contre elle-même.
+
+<<2886.53;2908.41;fr>>
+Il n'est pas possible d'appliquer les interventions qui sont citées comme étant exemptes sans qu'il y ait un rôle de conseil et l'intervention d'une consultation, ce qui serait une démonstration que je n'ai demandé à personne de faire ici, à ma place, que la loi serait inapplicable ou, pire, dangereusement applicable.
+
+<<2908.57;2942.25;fr>>
+Vous l'avez dit dans l'arrêt COP contre Suisse, vous l'avez dit à propos de la distinction entre une activité politique et une activité professionnelle, vous l'avez dit entre la distinction entre un domicile privé et un domicile professionnel, et je dirais même que vous l'avez dit plus récemment, implicitement, dans l'arrêt Patrick de Silveira contre France, qu'un avocat qui, pour accomplir de simples prestations de service, se déplaçait dans un pays où il n'avait même pas de cabinet, avait droit à la protection de son secret professionnel dans les mêmes conditions que les autres.
+
+<<2942.41;2953.77;fr>>
+Dès lors, il n'est pas possible, et je ne peux pas, malheureusement, faire la démonstration, d'expliquer pourquoi chaque activité, en elle-même, n'est pas dissociable.
+
+<<2953.77;2958.01;fr>>
+Je terminerai simplement sur ce point par une mention.
+
+<<2958.17;2995.01;fr>>
+Songez que le Code monétaire et financier en France a un article spécial pour permettre, dans certains cas, à un avocat de prévenir les membres de son cabinet qui interviennent sur le même dossier de ce qu'il fait, une déclaration de soupçon, ce qui veut dire que, normalement, cet avocat est en train de faire une déclaration de soupçon, alors que, dans le même cabinet que lui, quelqu'un a une procédure qui exempterait le citoyen concerné, à tort ou à raison, nous le verrons, d'une déclaration de soupçon.
+
+<<2995.49;3006.73;fr>>
+Je n'ai pas besoin de vous dire que j'ai déjà largement plaidé sur la question de l'absence de clarté et de l'ambiguïté totale de ce texte que je ne peux pas développer.
+
+<<3007.33;3012.57;fr>>
+Je voudrais donner deux éléments sur l'atteinte à la substance.
+
+<<3012.73;3018.41;fr>>
+Dans la proportionnalité, il y a la question centrale du droit au silence.
+
+<<3018.57;3026.29;fr>>
+Et je pense que cela est si vrai que cette question du droit au silence, vous l'avez abordée dans l'arrêt André contre France.
+
+<<3026.45;3035.93;fr>>
+Vous avez dit que la protection du secret professionnel est notamment le corollaire du droit qu'a le client d'un avocat de ne pas contribuer à sa propre incrimination.
+
+<<3036.09;3055.41;fr>>
+Vous avez dit, dans d'autres arrêts, qu'obliger quelqu'un à contribuer à sa propre incrimination fusse par une perquisition au cabinet de son avocat, était une contrainte qui était inadmissible en l'absence de démonstration d'une... de la commission d'un crime.
+
+<<3055.65;3059.21;fr>>
+Or, nous sommes ici dans la notion du soupçon.
+
+<<3059.49;3060.57;fr>>
+Qu'est-ce que le soupçon?
+
+<<3060.77;3061.97;fr>>
+Nul ne le sait.
+
+<<3062.29;3066.97;fr>>
+Et j'ai vainement attendu qu'on nous l'expliquât.
+
+<<3066.97;3074.85;fr>>
+C'est si vrai que nous avons au dossier, et je l'ai cité, une déclaration du directeur de Travain qui dit... de Travain,
+
+<<3075.01;3084.21;fr>>
+c'est une appréciation subjective de la part de l'avocat qu'il doit livrer à l'administration avec le numéro de téléphone de l'intéressé et son e-mail.
+
+<<3084.53;3097.09;fr>>
+On voit bien que, dans ce cas-là, permettre à l'avocat d'avoir dénoncé son client alors que lui-même, soupçonné par des services de police, n'aurait pas à le faire, correspond à une altération totale du principe.
+
+<<3097.29;3111.53;fr>>
+Je dirai un mot sur la répercussion sur les droits garantis par les particuliers à cause d'un arrêt que j'aime personnellement beaucoup et qui a d'ailleurs beaucoup plus d'importance que d'autres qui sont plus volontiers cités à sa place.
+
+<<3111.69;3114.45;fr>>
+C'est l'arrêt Romain Nechmite contre Luxembourg.
+
+<<3114.61;3134.29;fr>>
+Votre cours a dit, là, qu'il pouvait y avoir atteinte au secret professionnel et violation de l'article 8 par ricochet en violation d'un autre droit appartenant à quelqu'un, en l'occurrence, un très beau droit, celui du droit à la protection des sources des journalistes, qui est malheureusement...
+
+<<3135.13;3145.61;fr>>
+Heureusement, pardon, sans cesse renforcé, mais malheureusement, en comparaison avec le secret professionnel des avocats qui est sans cesse attaqué et limité.
+
+<<3145.81;3157.53;fr>>
+Donc, il est bien évident que, dans ce cas-là, on prive l'intéressé d'un droit d'un droit double, le droit à ne pas se dénoncer et le droit à la protection des sources.
+
+<<3157.73;3162.49;fr>>
+Personne ne vous a dit quel était le sort des déclarations qui étaient adressées.
+
+<<3164.53;3167.05;fr>>
+Je crois qu'il ne me reste que 5 minutes.
+
+<<3167.21;3171.89;fr>>
+J'aurais voulu vous parler de l'inutilité et même de la perversité du système.
+
+<<3172.53;3184.97;fr>>
+Le système est si beau que le jour où il est arrivé devant le Sénat en discussion, c'était en 2004, Robert Badinter s'était crié, je trouve ce système détestable.
+
+<<3185.13;3202.85;fr>>
+C'est-à-dire qu'un avocat ou quelqu'un qui l'avait été, à quel degré, trouvait qu'il était monstrueux d'aller demander à un avocat, non pas de dénoncer un crime, parce que le faux-semblant est là, mais d'aller dénoncer un soupçon.
+
+<<3203.01;3217.29;fr>>
+Alors, l'inutilité, la perversité, l'atteinte à la substance du rôle de l'avocat, m'apparaît démontrée et je voudrais terminer sur une évocation de la pratique d'autres grandes démocraties.
+
+<<3217.45;3270.41;fr>>
+J'ai dit que ces grands principes, et notamment les principes de base relatifs au rôle du barreau des Nations unies, bien connus, qui datent de 1990, que nous opposons tous les jours, 130 cette année, à des pays qui ne sont pas européens pour les exercer, pour les exorter à respecter les avocats, notamment ceux qui défendent les droits de l'homme et qui sont toujours martyrisés ou persécutés, ces principes doivent s'appliquer chez nous, et notamment le droit à leur respect Je rappelle d'un mot qu'un très bel arrêt a été rendu par la Cour suprême de Colombie-Britannique à propos de la déclaration de soupçon.
+
+<<3270.61;3283.05;fr>>
+Il est double, mais cette juridiction a bien dit clairement que le secret professionnel de l'avocat doit demeurer aussi absolu que possible pour conserver sa pertinence.
+
+<<3283.21;3308.29;fr>>
+Eh bien, je terminerai nécessiter Pierre Lambert, que nous respectons tous beaucoup pour notamment son traité sur le secret professionnel, dit au point 44 du répertoire pratique de droit belge, il cite un auteur belge qui écrit de l'état de nécessité en droit pénal.
+
+<<3308.29;3321.29;fr>>
+Cet auteur belge, c'est Paul Faurier, qui a écrit une thèse et qui a dit la loi est oeuvre de raison, elle se justifie par des fins sociales, elle est fondée sur une hiérarchie des valeurs.
+
+<<3321.29;3335.69;fr>>
+Et il subordonnait la justification objective de l'acte accompli en état de nécessité à l'exacte mise en balance dans la situation concrète du bien sauvegardé par rapport au bien sacrifié.
+
+<<3335.85;3362.93;fr>>
+Est-ce que la lutte contre le terrorisme, dont je dirai dans mon droit de réplique qui me préservera du temps qu'elle est inutile et perverse en ce qui concerne la dénonciation de l'avocat comme fourrier du crime, eh bien, justifie cette atteinte au secret professionnel de façon dénaturée par l'obligation.
+
+<<3363.09;3369.33;fr>>
+Nous sommes ici, et je termine par là, dans le contraire de la perquisition, mais dans une violation plus grave encore.
+
+<<3369.33;3382.13;fr>>
+Dans la perquisition, ce que l'on veut encadrer, c'est le déplacement pour prendre et rechercher dans le cabinet de l'avocat des éléments qui relèvent du secret professionnel.
+
+<<3382.13;3384.53;fr>>
+Ici, c'est le contraire.
+
+<<3384.53;3396.13;fr>>
+C'est l'avocat qui doit transférer lui-même ces éléments aux administrations répressives, compétentes et aux cellules de renseignement.
+
+<<3396.13;3414.73;fr>>
+Je n'ai pas besoin de vous dire que la lutte de maître Patrick Michaud est non seulement une lutte de réalité, une lutte pour un avocat à titre professionnel, et si d'aventure elle dépassait son cas personnel, ce serait encore plus méritoire, encore.
+
+<<3414.73;3438.33;fr>>
+Mais nul ne pourra dire que, puisque je ne le connaissais pas avant cette affaire, que nous avons près de 90 ans cumulés de pratiques professionnelles à tous les deux, qu'il n'aura pas lutté jusqu'à son dernier soupir pour préserver à la profession, dans ce qui concerne la relation avec le client, sa dignité.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3443.2;3451.32;fr>>
+Merci maître Favreau, la parole est au requérant maître Michaud. Vous avez la parole.
+
+[[Applicant;AP2]]
+
+<<3452.92;3455.56;fr>>
+Merci, M. le Président, de me donner la parole.
+
+<<3455.96;3464.28;fr>>
+J'essaye de dire d'une façon générale, au-delà du problème Michelot, la question qui me est posée, M. le juge,
+
+<<3464.48;3465.48;fr>>
+Mme le juge, M. le juge...
+
+<<3465.48;3466.48;fr>>
+...
+
+<<3465.37;3466.37;fr>>
+Monsieur le Président.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3466.37;3468.45;fr>>
+Excusez-moi, excusez-moi maître.
+
+<<3468.45;3470.89;fr>>
+Est-ce que vous pouvez vous approcher du micro.
+
+<<3470.89;3472.89;fr>>
+Je vais m'asseoir alors.
+
+<<3472.89;3475.29;fr>>
+Ou ouvrir le micro.
+
+<<3475.29;3476.69;fr>>
+Il ouvre.
+
+<<3476.69;3481.37;fr>>
+Si la lampe rouge est allumée, le micro est allumé.
+
+<<3481.37;3482.37;fr>>
+Je vois que...
+
+<<3482.37;3482.37;fr>>
+Voilà.
+
+[[Applicant;AP2]]
+
+<<3482.69;3484.69;fr>>
+Merci, M. le Président.
+
+<<3484.69;3486.69;fr>>
+Merci, c'est pour la traduction.
+
+<<3486.69;3488.69;fr>>
+Mais je sais bien, j'ai compris.
+
+<<3488.69;3492.69;fr>>
+M. le Président, merci de m'avoir autorisé à apporter une conclusion à cette affaire.
+
+<<3492.69;3498.69;fr>>
+Ma conclusion va être une réflexion d'avenir, au-delà de l'affaire Michaud.
+
+<<3498.69;3514.69;fr>>
+Notre problème, votre problème, est de savoir comment améliorer la protection contre la criminalité due à nos concitoyens, à nos entreprises et à nos États.
+
+<<3514.69;3517.69;fr>>
+C'est ça le problème fondamental aujourd'hui.
+
+<<3517.69;3520.69;fr>>
+Ce n'est même pas un problème français.
+
+<<3520.69;3531.69;fr>>
+La nationalité des intervenants, Européens ou Belges, montre bien que la France est au-delà de cette affaire.
+
+<<3531.69;3537.69;fr>>
+Vous, magistrats, vous êtes pour nous les gardiens du curseur des libertés.
+
+<<3537.69;3539.69;fr>>
+Et c'est pour ça que nous sommes ici.
+
+<<3539.69;3549.69;fr>>
+Curseur des libertés qui essaie de trouver un juste équilibre entre les intérêts individuels à protéger et l'intérêt général.
+
+<<3549.69;3555.69;fr>>
+Entre le respect des droits individuels et le respect de l'intérêt général, comme l'a dit le bâtonnier Favreau.
+
+<<3555.69;3558.69;fr>>
+Nous, les avocats, qu'est-ce que nous sommes pour vous?
+
+<<3558.69;3562.69;fr>>
+Eh bien, nous sommes avec vous des créateurs de droits.
+
+<<3562.69;3570.69;fr>>
+Et aujourd'hui, nous vous demandons de créer un nouveau droit, comme je vous l'ai demandé tout à l'heure.
+
+<<3570.69;3572.69;fr>>
+Comment nous faisons? C'est simple.
+
+<<3572.69;3591.69;fr>>
+Chacun des avocats ici présents derrière moi, peuvent, devant leurs juges nationaux ou supranationaux, par des conclusions subtiles et toujours courtoises, demander à leurs juges de remettre en cause des lois, des jurisprudences, des pratiques obsolètes.
+
+<<3591.69;3601.69;fr>>
+Et les juges peuvent venir devant vous, vous poser la question, est-ce que ces lois nationales sont démocratiquement bonnes?
+
+<<3601.69;3602.69;fr>>
+C'est ça le sujet aujourd'hui.
+
+<<3602.69;3618.69;fr>>
+Je vais donc utiliser les deux outils, celui du curseur de liberté, celui du créateur de droits, pour analyser le secret professionnel de l'avocat et aller plus loin.
+
+<<3618.69;3627.69;fr>>
+Vous proposez d'ouvrir, monsieur le Président, le tome 2 du livre de Beccaria, secret professionnel de l'avocat.
+
+<<3627.69;3633.69;fr>>
+Pour moi, le secret professionnel de l'avocat est un droit fondamental.
+
+<<3633.69;3635.69;fr>>
+Tout le monde reconnaît, même le gouvernement français.
+
+<<3635.69;3639.69;fr>>
+Mais est-il absolu? Je ne pense pas.
+
+<<3639.69;3687.69;fr>>
+Et tout le monde se souvient de votre jurisprudence du 15 décembre 2011, dans l'affaire Mors, où vous avez précisé que le secret professionnel de l'avocat peut être relatif, ou le Conseil national des barreaux français lui-même, paragraphe 38 de votre décision, a précisé, je lis, « Le Conseil national des barreaux soutient que si, dans le cadre du droit interne, le respect du secret professionnel est un droit pour le client et un devoir pour l'avocat, il peut connaître des exceptions et doit être concilié avec la garantie des droits de la défense ou le droit à l'information, de sorte que la sanction de sa violation doit toujours être justifiée et proportionnée.
+
+<<3687.69;3691.69;fr>>
+Voilà votre jurisprudence de votre Chambre le décembre dernier.
+
+<<3691.69;3718.69;fr>>
+Le secret professionnel de l'avocat n'est donc pas une forteresse bénéficiant d'une immunité diplomatique, ni d'un alibi de protection généralisée, ni encore moins un fonds de commerce, comme l'a malicieusement évoqué madame Christine Lagarde, avocat aux barreaux de Paris et actuellement président du Fonds monétaire international devant le Sénat de la République le 4 juillet 2008.
+
+<<3718.69;3725.69;fr>>
+Le secret est un droit fondamental, mais il peut rentrer en concurrence avec d'autres droits.
+
+<<3725.69;3733.69;fr>>
+Le débat, si vous continuez votre jurisprudence, est de savoir comment lever le secret de l'avocat.
+
+<<3733.69;3736.69;fr>>
+Actuellement, qu'est-ce qu'on nous propose?
+
+<<3736.69;3742.69;fr>>
+On nous propose un terme que les fiscalistes connaissent, la « phishing expedition ».
+
+<<3742.69;3753.69;fr>>
+C'est un filet, un maille plus ou moins large, lancé par les administrations sur des cibles, des cibles qui ne sont pas nommément désignées.
+
+<<3753.69;3756.69;fr>>
+Ça peut être, disons, des trusts de Jersey.
+
+<<3756.69;3760.69;fr>>
+On envoie à tous les trustees de Jersey « Donnez-moi les noms de tous ceux qui ont des trusts-tis ».
+
+<<3760.69;3764.69;fr>>
+Je ne vais pas plus loin, monsieur, compte tenu de différentes opérations.
+
+<<3764.69;3772.69;fr>>
+Ça peut être aussi, comme c'est le cas de Traxfin, un filet à des professionnels, notamment aux avocats.
+
+<<3772.69;3780.69;fr>>
+« Donnez-moi tous les gens que vous optionnez d'avoir commis une infraction plus ou moins financière, passible depuis un an de prison ».
+
+<<3780.69;3783.69;fr>>
+Voilà le phishing expedition.
+
+<<3783.69;3796.69;fr>>
+Elle est soit facultative, c'est les décisions de l'OCDE de juillet 2012, que vous aurez certainement à connaître dans cinq ou six ans, ou bien les décisions de Bruxelles.
+
+<<3796.69;3800.69;fr>>
+La phishing expedition de Bruxelles sur les avocats est obligatoire.
+
+<<3800.69;3808.69;fr>>
+Est-ce que les avocats européens doivent devenir des phishing expéditeurs?
+
+<<3808.69;3809.69;fr>>
+Nous ne le pensons pas.
+
+<<3809.69;3823.69;fr>>
+Nous pensons que ces règles de filets envoyées sur les avocats pour désigner des éventuelles personnes qu'on soupçonne est contraire à notre liberté démocratique.
+
+<<3823.69;3833.69;fr>>
+Si vous rentrez dans mon raisonnement, dans celui du bâtonnier Favaud, votre problème sera de savoir comment lever le secret professionnel.
+
+<<3833.69;3835.69;fr>>
+Comment lever le secret professionnel?
+
+<<3835.69;3839.69;fr>>
+Des idées peuvent vous être proposées.
+
+<<3839.69;3844.69;fr>>
+Premièrement, le secret professionnel de l'avocat ne peut être levé que par un maître.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3845.86;3850.18;fr>>
+Maître Michaud, est-ce que je peux vous demander de conclure?
+
+[[Applicant;AP2]]
+
+<<3850.58;3851.62;fr>>
+Oui, M. le Président.
+
+<<3851.86;3863.62;fr>>
+Ma conclusion, c'est de reprendre la décision du Conseil national du barreau de juillet 2011, l'obligation de dissuasion de l'avocat.
+
+<<3864.34;3869.62;fr>>
+Le Conseil national a obligé les avocats à dissuader leurs clients de commettre des infractions.
+
+<<3870.22;3879.5;fr>>
+Et à partir de là, je vous propose, si vous en êtes d'accord, d'ouvrir le tome 2 de Beccaria, de la prévention de la criminalité.
+
+<<3879.5;3881.58;fr>>
+Merci, M. le Président, de m'avoir écouté.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3885.2;3887.4;fr>>
+Merci Maître Michaud.
+
+<<3887.4;3890.72;fr>>
+Je me tourne maintenant vers mes collègues juges.
+
+<<3890.72;3893.8;fr>>
+Est-ce qu'il y a des questions?
+
+<<3893.8;3893.8;fr>>
+Monsieur le juge Potocki.
+
+[[Judge;André Potocki]]
+
+<<3901.21;3903.05;fr>>
+Merci, M. le Président.
+
+<<3903.21;3907.29;fr>>
+Ma question s'adresse plus particulièrement à M. le bâtonnier Favreau.
+
+<<3907.45;3916.25;fr>>
+Dans le dispositif critiqué, le bâtonnier a un rôle particulier, que l'on qualifie parfois de filtre.
+
+<<3916.41;3936.21;fr>>
+Est-ce que vous pourriez, notamment, à la lumière de votre expérience ordinale, nous dire, non pas que vous ayez connu une telle situation, bien sûr, mais votre expérience vous permet d'avoir un regard particulièrement pratique sur cette question, pourriez-vous nous dire en quoi ce rôle de filtre devrait ou pourrait constituer?
+
+[[JudgeP;Dean Spielmann]]
+
+<<3939.29;3945.05;fr>>
+Un instant, Monsieur le Bâtonnier, est-ce qu'il y a d'autres questions?
+
+<<3945.21;3956.09;fr>>
+Moi, j'aurais aussi une question dans le prolongement de la question qui vient d'être posée concernant le filtre du Bâtonnier.
+
+<<3956.25;3964.85;fr>>
+Cette question s'adresse à vous, Maître Favreau, mais également, le cas échéant, au gouvernement défendeur.
+
+<<3964.85;3985.33;fr>>
+Et je voudrais savoir s'il y a eu, d'après l'expérience, votre expérience ou d'autres expériences de confrères, des cas concrets où des Bâtonniers auraient refusé de transmettre des déclarations de soupçons à traque fin.
+
+<<3986.17;4000.65;fr>>
+Et dans de telles hypothèses, est-ce que vous disposez d'informations concernant de tels refus de transmission et des suites éventuelles qu'un ou des refus auraient entraîné?
+
+<<4001.69;4005.77;fr>>
+Voilà donc ma question que je vous pose.
+
+<<4005.93;4017.53;fr>>
+S'il n'y a pas d'autres questions, je propose qu'on fasse une pause d'une dizaine de minutes pour ensuite reprendre l'audience.
+
+<<4018.29;4022.85;fr>>
+Donc l'audience est suspendue et on se retrouvera dans 10 minutes, un quart d'heure.
+
+[[Announcer;UNK]]
+
+<<4077.4;4077.98;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4111.83;4113.83;fr>>
+Je vous prie de bien vouloir vos assois.
+
+<<4113.99;4115.91;fr>>
+L'audience est reprise.
+
+<<4117.83;4124.55;fr>>
+On suit le même ordre de parole pour les répliques et les réponses aux questions.
+
+<<4124.55;4124.55;fr>>
+Donc la parole est à madame Tissier.
+
+[[Government;GR1]]
+
+<<4129.42;4136.06;fr>>
+Merci, M. le Président. Je reviendrai tout d'abord sur quelques petites imprécisions, me semble-t-il,
+
+<<4136.06;4138.72;fr>>
+dans les arguments qui ont été opposés.
+
+<<4138.72;4148.24;fr>>
+On vous a montré un document de 4 pages pour vous prouver à quel point cette charge reposante sur les cabinets d'avocats était intolérable.
+
+<<4148.24;4155.68;fr>>
+Ce document ne résulte évidemment pas de la loi et l'obligation de le remplir non plus.
+
+<<4155.68;4172.42;fr>>
+C'est un document qui a été créé par le Conseil national des barreaux, dont le Conseil dit très clairement, écrit très clairement, qu'il est purement facultatif et que toute autre forme d'organisation est bien sûr possible.
+
+<<4172.42;4178.32;fr>>
+Un mot aussi sur les arènes de la Cour de justice et du Conseil d'État.
+
+<<4178.32;4201.92;fr>>
+J'ai toute confiance sur la lecture que vous pourrez en faire et sur l'importance de la façon dont ces juridictions, qu'elles soient européennes ou nationales, ont voulu intégrer non seulement la Convention, mais l'intégralité de votre jurisprudence à leur raisonnement.
+
+<<4201.92;4213.12;fr>>
+Je pense que ça ne peut que sauter aux yeux, aussi bien dans la décision de la Cour de justice que dans les deux décisions du Conseil d'État.
+
+<<4213.12;4217.12;fr>>
+C'était tout ce que je souhaitais dire.
+
+<<4217.12;4222.0;fr>>
+Bien évidemment, il n'est pas question de vous interdire un quelconque contrôle sur ces décisions.
+
+<<4222.0;4234.12;fr>>
+Simplement, je crois que ce sont des décisions assez exemplaires par l'osmose qu'on peut y voir entre les différentes juridictions et par un vrai dialogue des juges.
+
+<<4234.12;4242.64;fr>>
+Un mot aussi de ce que mes contradicteurs ont appelé le fishing expedition.
+
+<<4242.64;4247.12;fr>>
+Il me semble qu'on n'est absolument pas dans ce cas-là.
+
+<<4247.12;4255.72;fr>>
+Dans cette pratique, on jette un filet, on ramasse tout ce qui bouge et puis on fait le tri ensuite.
+
+<<4255.72;4263.16;fr>>
+Dans l'hypothèse sur laquelle nous travaillons depuis ce matin, ce n'est pas du tout le cas.
+
+<<4263.16;4268.16;fr>>
+Ce serait un pêcheur qui est assis dans sa barque et attendrait que les poissons sautent dedans.
+
+<<4268.16;4270.16;fr>>
+Ce qui est rare.
+
+<<4270.16;4273.16;fr>>
+Et là, c'est exactement la position de Trakfin.
+
+<<4273.16;4283.16;fr>>
+Trakfin attend de voir s'il y a ou non des dénonciations qui lui sont faites parce que des comportements particulièrement suspects auraient été constatés.
+
+<<4283.16;4286.16;fr>>
+Donc, on n'est pas du tout dans de la pêche au gros.
+
+<<4286.16;4295.16;fr>>
+On est au contraire dans le cas d'un pêcheur particulièrement décontracté.
+
+<<4295.16;4303.16;fr>>
+Ensuite, les questions du juge et du président de la Cour sur le bâtonnier.
+
+<<4303.16;4307.16;fr>>
+Là, je crois aussi qu'il y a des imprécisions qui ont été faites.
+
+<<4307.16;4310.16;fr>>
+On nous a dit que l'avocat transmet aux autorités répressives.
+
+<<4310.16;4320.16;fr>>
+On a vraiment l'impression que l'avocat transmet directement aux services de police, voire fait arrêter son client au milieu de son cabinet.
+
+<<4320.16;4322.16;fr>>
+Ce n'est pas le cas.
+
+<<4322.16;4326.16;fr>>
+L'avocat ne transmet pas aux autorités répressives.
+
+<<4326.16;4339.16;fr>>
+L'avocat transmet à son bâtonnier, lequel apprécie si on est dans le champ d'application ou non de l'obligation de dénonciation.
+
+<<4339.16;4357.16;fr>>
+Après avoir apprécié, le bâtonnier ne va pas transmettre aux autorités répressives, mais va transmettre à trac fin l'organisme qui récupère toutes les dénonciations, qui lui-même transmettra ou non aux autorités répressives.
+
+<<4357.16;4371.16;fr>>
+On ne peut pas complètement oublier les filtres, qui me semblent tout de même particulièrement à la fois indispensables, nécessaires et utiles pour sécuriser l'ensemble du dispositif.
+
+<<4371.16;4377.16;fr>>
+Je reviendrai un instant sur la notion de spécificité.
+
+<<4377.16;4380.16;fr>>
+Bien sûr, il y a une spécificité de l'avocat.
+
+<<4380.16;4383.16;fr>>
+Bien sûr, votre juridiction la reconnaît.
+
+<<4383.16;4389.16;fr>>
+Bien sûr, les autorités nationales n'entendent en rien le contester.
+
+<<4389.16;4393.16;fr>>
+Mais cette spécificité est fondée sur quoi?
+
+<<4393.16;4403.16;fr>>
+Sur les missions, sur les missions de l'avocat, sur le cœur de métier de l'avocat, qui est à la fois la défense et la consultation.
+
+<<4403.16;4411.16;fr>>
+C'est là-dessus que la spécificité existe, et non sur la personne.
+
+<<4411.16;4418.16;fr>>
+Et c'est si vrai que les champs d'activité de la profession d'avocat, en France en tout cas, sont en pleine extension.
+
+<<4418.16;4427.16;fr>>
+Au-delà de l'activité traditionnelle, l'avocat français a récemment été autorisé à exercer notamment des fonctions de fiduciaire et de mandataire de sportif.
+
+<<4427.16;4453.16;fr>>
+Comme ces activités étaient exercées par d'autres professionnels, les banques, les agents sportifs, il a été nécessaire de les distinguer de ce que le commissaire de gouvernement appelait le cœur de métier de l'avocat, en aménageant, et cela en plein accord avec la profession, qu'il a parfaitement su distinguer les opérations, les règles du secret professionnel.
+
+<<4453.16;4458.16;fr>>
+Ce sont les évolutions les plus récentes de la profession.
+
+<<4458.16;4469.16;fr>>
+Là où le secret professionnel est total, là où il est absolu, c'est lorsque l'avocat exerce des missions qu'il est le seul à pouvoir exercer.
+
+<<4469.16;4478.16;fr>>
+Lorsque l'avocat exerce des missions que d'autres, qui eux sont soumis à des obligations, peuvent exercer, alors ce secret professionnel est aménagé.
+
+<<4478.16;4484.16;fr>>
+Je crois que la règle est assez simple à saisir.
+
+<<4484.16;4514.16;fr>>
+Vous l'aurez compris, si les États ont mis en œuvre, au prix d'immenses efforts, des dispositifs aussi contraignants pour lutter contre ce que chacun reconnaît comme un danger important pour nos démocraties, ce n'est pas pour laisser un espace totalement sacralisé au sein d'une profession qui, du coup, drainerait tout le Conseil en blanchiment.
+
+<<4514.16;4519.16;fr>>
+La voie est étroite. Le gouvernement français le reconnaît bien volontiers.
+
+<<4519.16;4543.16;fr>>
+Il semble qu'un équilibre a été trouvé, que la lutte contre le blanchiment n'est en conséquence pas fragilisée, et quoi que certains de ses membres en pensent, peu au regard de l'ensemble des avocats de nos 47 États, il semble aussi que la profession d'avocat s'en trouve confortée.
+
+<<4543.16;4543.16;fr>>
+Merci de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4546.47;4551.19;fr>>
+Merci, madame Tissier, maître Favreau.
+
+[[Applicant;AP1]]
+
+<<4552.37;4556.57;fr>>
+M. le Président, Mesdames, M. les Juges,
+
+<<4556.73;4562.65;fr>>
+c'est bien volontier que j'aurais répondu à la question que m'a posée M. le juge Potokhi.
+
+<<4565.73;4571.73;fr>>
+Je crois qu'il le sait, j'ai, pour ma part, été élu dauphin en 1982, il y a 30 ans.
+
+<<4572.85;4580.53;fr>>
+J'ai exercé mes fonctions en 1984-85, et à cette époque-là, les avocats ne faisaient pas de déclarations de soupçons.
+
+<<4580.53;4591.61;fr>>
+Je crois d'ailleurs que s'ils avaient pu entrevoir la perspective qu'un jour leurs descendants le feraient, ils en eussent été très choqués.
+
+<<4592.53;4611.93;fr>>
+Par ailleurs, je représente ici un individu, comme dans toutes les affaires que vous avez eu à juger concernant les avocats ici, Casado, Coca, Nikula, ce sont des avocats isolés qui défendent des principes au-delà de leurs personnes parce qu'ils sont victimes.
+
+<<4612.49;4625.81;fr>>
+Je ne représente et n'ai qualité, et ne voudrais d'ailleurs pas l'avoir, de représenter aucune institution, qu'elle soit ordinale ou syndicale, auxquelles je n'appartiens aucunement.
+
+<<4626.57;4640.17;fr>>
+Mais je veux répondre à ceci parce que la question posée est finalement essentielle et peut constituer, sur la question de la justice, sur la question de proportionnalité, le nœud gordien de la question.
+
+<<4644.61;4655.45;fr>>
+Il y a aujourd'hui, il y en avait 183 de mon temps, 160 ou 170 barreaux, 160 ou 170 bâtonniers qui changent tous les deux ans.
+
+<<4657.81;4674.77;fr>>
+J'en connais un qui n'est plus en fonction et qui est le bâtonnier Charrière-Bournazel, qui a dit, avant de prendre ses fonctions, moi, jamais je ne ferai la transmission d'une déclaration de soupçon.
+
+<<4676.01;4689.09;fr>>
+Je crois savoir, mais je n'en suis pas certain, que s'il y en a eu, il ne les a pas transmis, ce qui, d'ailleurs, peut-être ne lui a pas favorisé la sympathie de la chancellerie.
+
+<<4689.73;4691.01;fr>>
+Peu importe.
+
+<<4691.01;4706.77;fr>>
+C'est pour dire que chaque bâtonnier fait ce qu'il veut et que nous sommes en face d'une question de principe que je voulais aborder, qui ne peut pas dépendre du bon vouloir ou du changement de bâtonnier.
+
+<<4706.93;4712.17;fr>>
+Un droit fondamental ne peut pas dépendre d'une telle contingence.
+
+<<4712.73;4746.41;fr>>
+Finalement, un grand philosophe allemand qui s'appelle Jürgen Habermas, quand on l'obligeait à discuter sur le multiculturalisme ou autre chose, finissait par dire, il l'a d'ailleurs écrit dans ses discussions avec John Rawls ou avec Amartya Sen, finalement, il n'y a qu'une chose, un droit de l'homme, où il est bafoué et violé, où il est garanti et protégé, quel que soit le continent, quelle que soit la latitude.
+
+<<4746.41;4773.81;fr>>
+En l'occurrence, ce que j'ai essayé, malheureusement, en résumant, de vous démontrer, c'est que quoi qu'il arrive, il y a plusieurs droits fondamentaux qui sont impliqués et intriqués dans cette affaire, qui ne sont pas susceptibles de discussion et de division et qui seront tout autant violés par la transmission du bâtonnier, qui ne constitue pas un filtre satisfaisant au regard du degré d'exigence que nous avons dans la défense des droits de l'homme.
+
+<<4773.81;4785.73;fr>>
+Et à ce sujet, je voudrais continuer ma réponse en essayant brièvement de résumer deux parties que je n'ai pas eu le temps de traiter, c'est l'inutilité et la perversité du système.
+
+<<4785.89;4789.65;fr>>
+L'inutilité, elle est démontrée par les statistiques.
+
+<<4789.81;4826.41;fr>>
+D'abord, la Commission européenne a fait faire à grande cherté de Denier, après un appel d'offres international, un audit international par le cabinet de l'Ouatt, qui est d'ailleurs le premier, et un cabinet de l'Ouatt, qui est d'ailleurs accessible en PDF sur le site de la Cour, et bien, dans les 357 pages de cet ouvrage, à aucun moment, on ne voit la profession d'avocat en quoi que ce soit impliquée comme étant véritablement le fait générateur, apportant son assistance aux flux financiers qui permettent de nourrir le terrorisme.
+
+<<4827.49;4843.41;fr>>
+D'ailleurs, au fond de soi-même, puisqu'il y a toujours un aspect de bon sens dans toutes les enseignes judiciaires, personne ne croit sérieusement que les avocats sont les fomenteurs ou les facilitateurs des entreprises terroristes.
+
+<<4844.33;4847.77;fr>>
+Je voudrais vous donner rapidement une petite statistique.
+
+<<4848.41;4855.33;fr>>
+Il y a en France, bon an, mal an, 20 000, 30 000 déclarations de soupçons, évidemment, émanant des organismes financiers.
+
+<<4856.25;4857.21;fr>>
+Que deviennent-elles?
+
+<<4857.21;4877.61;fr>>
+Sur ces 20 000 personnes, en 2010, dénoncées à leur insu, eh bien, il y a, je résume, 400 transmissions à l'autorité judiciaire, donc 400 qui pourraient être fondées, et 30 à 40 procédures pénales.
+
+<<4877.77;4880.45;fr>>
+Je ne peux pas faire de tête la proportion.
+
+<<4881.05;4926.57;fr>>
+C'est-à-dire que, ce qui, personnellement, m'effraie, il y a 20 000 ou 19 500 personnes qui ont été dénoncées pour rien, qui vont rester dans les fichiers financiers sans le savoir, sans droit d'accès, sans droit de rectification, et qui resteront, peut-être, sauf accident, notamment les découvertes que la chute du mur a entraîné dans certaines affaires dont vous avez eu à connaître, permettra d'apprendre que, 20 ans après, quelqu'un est considéré comme ayant été dénoncé, y compris, éventuellement, par son avocat pour avoir, peut-être, envisagé une opération qui pouvait être assimilée au blanchiment.
+
+<<4926.73;4930.33;fr>>
+La dénonciation ne concerne pas que le terrorisme.
+
+<<4930.49;4932.69;fr>>
+Voyons les autres aspects des choses.
+
+<<4932.85;4945.45;fr>>
+On vous dit filtre, mais aujourd'hui, en France, l'avocat est aussi tenu de dénoncer n'importe quel délit qu'il sent qu'il a fait, qu'il sent, qu'il ressent, qu'il pressent.
+
+<<4946.25;4956.09;fr>>
+Nous avons les statistiques sur les 404 affaires qui ont donné lieu à des infractions pénales non suivies de procédure en France.
+
+<<4956.29;4968.97;fr>>
+Vous avez abus de faiblesse, vous avez infractions douanières, vous avez détournement de fonds public, délits d'initiés, trafic d'armes, travail illégal, travail clandestin.
+
+<<4969.41;4973.17;fr>>
+Donc, ce n'est pas forcément la question du terrorisme.
+
+<<4973.33;5006.21;fr>>
+Aujourd'hui, c'est une dénonciation, une délation attrape tout, qui concerne tous les délits, et que chaque bâtonnier sera libre de transmettre ou de ne pas transmettre, de laisser dans la pile, en attendant 18 mois, son successeur, d'où un système qui, par son inutilité, son inefficacité apparente, n'apparaît pas justifier une atteinte aussi grave aux secrets professionnels.
+
+<<5006.73;5013.49;fr>>
+Alors, sur ce nombre-là, il faut bien comprendre que l'avocat est au centre d'un principe.
+
+<<5013.65;5018.61;fr>>
+Je voudrais prendre une comparaison pour ce filtrage dont on nous parle.
+
+<<5019.05;5023.89;fr>>
+Toute proportion gardée, je ne fais pas d'amalgame et je ne suis pas un irresponsable.
+
+<<5024.53;5030.69;fr>>
+Quand une question de principe se pose, il est difficile d'opposer la protection du filtre.
+
+<<5031.53;5048.29;fr>>
+Lorsque se posait, notamment en France, la question de la peine de mort, beaucoup plus grave, j'en conviens, on répondait, mais il y a un filtrage, ça n'arrive presque jamais, il y a le droit de grâce du président, donc s'il y a une erreur, tout cela est réparé.
+
+<<5048.49;5050.25;fr>>
+Est-ce que c'était cela le problème?
+
+<<5050.89;5052.37;fr>>
+Est-ce que c'était cela le problème?
+
+<<5052.53;5064.41;fr>>
+Et ça ne l'était pas parce que, justement, les jurys se disaient, oh, il y a après tout le droit de dire oh, il y a après tout le droit de grâce du président, ce n'est pas moi qui condamne la mort, s'il y a une erreur, ça sera réparé.
+
+<<5065.33;5071.73;fr>>
+Ce qui veut dire, en transposant, que la question de principe ne se règle pas par les filtres potentiels.
+
+<<5072.61;5076.85;fr>>
+Il y a là une obligation que je qualifie de perverse.
+
+<<5078.29;5088.01;fr>>
+On demande à l'avocat de dénoncer des soupçons qu'il a sur son client, ce n'est pas tout.
+
+<<5088.17;5101.29;fr>>
+On lui demande de le faire en le cachant à son client et on lui garantit en échange une impunité s'il dénonce par erreur, à moins que ce ne soit de mauvaise foi.
+
+<<5103.05;5124.57;fr>>
+C'est-à-dire que l'on en fait un délateur qui est protégé pour sa délation, ce qui a existé sous tous les régimes, dans beaucoup de pays, il existe peut-être dans des pays que l'on croit lointains de notre chère Europe, mais qui s'appellent des indicateurs, des indicateurs protégés, etc.
+
+<<5125.21;5133.13;fr>>
+Est-ce que c'est dans la nature sociale de ce que vous avez défini être le rôle de l'avocat dans une démocratie?
+
+<<5133.61;5137.61;fr>>
+Il est évident que cela ne peut pas être soutenu.
+
+<<5138.17;5147.65;fr>>
+Donc, on est dans une atteinte aux valeurs que aucun procédé rectificatif ne permet de réparer.
+
+<<5147.81;5164.93;fr>>
+La dénonciation faite par erreur par un bâtolier vigilant, parisseux ou répressif, par nature, et voyant dans ses confrères systématiquement des fauteurs de troubles ou des agents du crime, peut exister.
+
+<<5165.29;5173.57;fr>>
+Quelle est la satisfaction au regard du principe que nous défendons tous et auquel s'est associé madame la représentante du gouvernement?
+
+<<5173.73;5174.73;fr>>
+Un mot pour terminer.
+
+<<5174.89;5176.61;fr>>
+Que deviennent ces déclarations?
+
+<<5177.09;5178.61;fr>>
+J'ai dit 20 000 en 2010.
+
+<<5179.01;5187.33;fr>>
+J'ai fourni à la Cour, c'était bien inutile, le rapport de traque-fin qui nous explique ce qu'on fait de ces déclarations.
+
+<<5187.53;5188.93;fr>>
+20 000, on trie.
+
+<<5189.57;5192.57;fr>>
+400 à l'autorité judiciaire.
+
+<<5193.33;5200.17;fr>>
+19 600, services concernés, services répressifs.
+
+<<5200.33;5202.37;fr>>
+Je l'ai dit et je le maintiens.
+
+<<5202.77;5216.01;fr>>
+Que ce soit par l'utruchement du bâtonnier ou pas, et cela reste là, services répressifs, renseignements généraux, s'il y a des aspects intéressants, ou ces renseignements vont demeurer.
+
+<<5216.57;5230.61;fr>>
+L'avocat, je le crois profondément, n'a pas à être le vase de rétention et de transmission de soupçons qu'il peut avoir pour son client.
+
+<<5230.77;5235.21;fr>>
+Et là, le principe est entier et est intact.
+
+<<5235.37;5238.53;fr>>
+Le principe, on ne peut pas y déroger.
+
+<<5238.69;5245.69;fr>>
+Je crois que vous l'avez dit déjà, on peut y déroger s'il y a des présomptions très sérieuses de crimes.
+
+<<5246.17;5249.97;fr>>
+On ne nous a toujours pas expliqué ce que c'était qu'un soupçon.
+
+<<5250.13;5252.93;fr>>
+Et ce document-là, je ne l'ai pas inventé.
+
+<<5253.09;5257.97;fr>>
+On vous dit que vous avez un document qui vous dit...
+
+<<5258.13;5260.85;fr>>
+Écoutez, il n'y a pas de formalisme.
+
+<<5261.01;5269.41;fr>>
+Les avocats sont appelés à dénoncer, mais on prendra même les dénonciations si elles ne sont pas mises sur le formulaire administratif régulier.
+
+<<5269.57;5274.61;fr>>
+Je ne sais pas si c'est véritablement une protection et si c'est un argument sérieux.
+
+<<5274.77;5277.73;fr>>
+Alors, en l'état, je crois avoir épuisé mon temps de parole.
+
+<<5277.89;5281.37;fr>>
+Je crois vous avoir tout dit.
+
+<<5281.53;5295.85;fr>>
+Vous êtes malheureusement confrontés à une dure décision, car c'est la profession elle-même qui, dans ce que querelle maître Patrick Michaud, a ouvert la brèche.
+
+<<5297.01;5302.13;fr>>
+C'est un texte de la profession, malheureusement, et on ne peut que le déplorer.
+
+<<5302.29;5320.77;fr>>
+Mais je voudrais rappeler à la Cour, qui le sait déjà, que pratiquement jusqu'à l'invention du boulet mécanique ou en acier, toutes les citadelles sont tombées parce que les habitants eux-mêmes avaient ouvert les portes.
+
+<<5320.93;5329.81;fr>>
+Et que si 3 est tombée, nous le savons tous, c'est parce que les habitants ont fait eux-mêmes la brèche dans la muraille.
+
+<<5329.97;5336.45;fr>>
+Alors, le dernier rempart, pour prendre une métaphore militaire, il est ici, nous le savons.
+
+<<5336.61;5337.69;fr>>
+Tout a été épuisé.
+
+<<5337.85;5353.13;fr>>
+Le Conseil d'État, qui n'a pas la charge de dire en Europe ce que doit être le secret professionnel, même s'il constitue un filtre remarquable que nous respectons, il n'a pas le dernier mot.
+
+<<5353.29;5355.97;fr>>
+Puisqu'il y a une course spéciale qui a été faite pour cela.
+
+<<5356.13;5361.25;fr>>
+Nous sommes devant la dernière muraille et nous savons qu'après vous, il n'y a plus rien.
+
+<<5361.41;5368.57;fr>>
+Toutes les décisions qui ont été citées n'étaient que des escarmouches, tout au plus, en attendant le verdict ultime.
+
+<<5368.57;5380.41;fr>>
+Je crois donc que face à cet enjeu, vous comprendrez que maître Michaud mérite notre estime et notre considération.
+
+<<5380.57;5396.97;fr>>
+Et vous vous direz qu'il ne faut pas attendre qu'il y ait, comme on vous y invite implicitement, des bavures, des gens soupçonnés à tort, un client qui se suicide parce qu'il aura été ou il aura appris qu'il était dénoncé alors qu'il n'avait rien fait.
+
+<<5396.97;5404.25;fr>>
+Qui permettra de dire, comme dans toutes les périodes de crise où on nomme une commission d'enquête, comment a-t-on pu laisser faire cela?
+
+<<5404.41;5423.53;fr>>
+Mais c'était une aberration que de permettre à un avocat à qui on va se confier tout naturellement, on donne, parce que c'est le défenseur tous les renseignements, parfois les plus maladroits, les plus innocents ou les plus absurdes, comment a-t-on pu se servir de cette zone d'information?
+
+<<5423.77;5432.49;fr>>
+Je crois que votre décision est importante et je voudrais terminer par trois mots, ou quatre.
+
+<<5433.41;5436.81;fr>>
+Responsabilité, communauté, identité, personnalité.
+
+<<5440.09;5466.45;fr>>
+Je ne voudrais pas employer un argument vil ou médiocre, mais venir soutenir que la délation d'un individu qui vous paraît pouvoir pratiquer le blanchiment, d'un voisin qui a une belle voiture bizarre qui ne correspond pas à sa rémunération, serait une société de délation organisée.
+
+<<5466.61;5481.13;fr>>
+La Convention a été créée pour lutter, en 1950, contre ce qui pouvait avoir été, malheureusement, même contrainte, la tentation d'une société de délation.
+
+<<5481.13;5484.57;fr>>
+Et qui avait, d'ailleurs, fonctionné, malheureusement.
+
+<<5484.73;5517.09;fr>>
+A chaque moment que nous voyons poindre cette extension, car je rappelle que la première directive ignorait l'avocat, que les premières considérations du GAFI ignoraient l'avocat, c'est-à-dire que personne ne pensait que l'avocat était un agent criminogène et que cela est venu après, de proche en proche, quand on a étendu les zones d'un côté, horizontalement, les professions, les services, les professions d'un autre côté, et que nous n'en sommes qu'à la troisième directive.
+
+<<5517.49;5532.33;fr>>
+Le futur est devant nous, et peut-être aussi le pire, même si un auteur espagnol qui s'appelait Calderón de la Barca disait que le pire n'est jamais sûr face à ce qui a été repris et galvaudé.
+
+<<5532.69;5534.17;fr>>
+Je termine par mes quatre mots.
+
+<<5534.85;5545.49;fr>>
+Et je ne peux pas m'empêcher de citer ici l'opinion concordante du juge Louis-Edmond Petitie dans l'affaire Malone de 1984.
+
+<<5546.29;5549.29;fr>>
+Elle s'applique à l'affaire que vous avez ajoutée.
+
+<<5550.05;5568.33;fr>>
+La Cour assume ses responsabilités en donnant à l'article 8 sa pleine dimension et en limitant la marge d'appréciation des Etats, surtout dans les domaines où l'individu est de plus en plus vulnérable grâce aux technologies.
+
+<<5569.33;5575.05;fr>>
+La reconnaissance de son droit à être laissé seul découle de l'article 8.
+
+<<5575.41;5579.81;fr>>
+La Convention protège la communauté des hommes.
+
+<<5580.85;5594.09;fr>>
+L'homme, de nos jours, a besoin de voir préserver son identité, de refuser la transparence complète de la société, de garder le secret de sa personnalité.
+
+<<5594.09;5598.69;fr>>
+La personnalité, l'avocat a droit à conserver sa personnalité.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5602.9;5606.34;fr>>
+Merci, maître Favreau.
+
+<<5607.38;5610.02;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<5610.26;5619.02;fr>>
+Je remercie les comparons qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<5619.3;5623.5;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<5624.78;5631.26;fr>>
+La décision ou l'arrêt, selon le cas, sera rendue ultérieurement.
+
+<<5631.26;5635.58;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<5635.58;5637.58;fr>>
+L'audience est levée.
+

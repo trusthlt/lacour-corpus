@@ -1,0 +1,1491 @@
+[[Announcer;UNK]]
+
+<<2.51;3.23;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<9.93;24.27;en>>
+Good morning and welcome to this public hearing organized by the European Court of Human Rights with the use of video conferencing technology, which has been made necessary due to the COVID-19 health crisis.
+
+<<24.27;39.79;en>>
+I wish to begin by thanking the applicant and the respondent government for their cooperation in preparing this hearing on the admissibility and merits in the case of NIT S.R.L. versus the Republic of Moldova, which I now declare open.
+
+<<39.79;48.25;en>>
+I should note before proceeding that this hearing is being recorded in its entirety and will be webcast in order to ensure its public character.
+
+<<48.25;55.05;en>>
+It will be available to the public on the court's website tomorrow, Thursday, October 15th.
+
+<<55.05;76.69;en>>
+The application in the present case was lodged with the court on 11 May 2012 under Article 34 of the Convention by a limited liability company incorporated in Moldova, Noi le idee televizzate societate cu raspondere limitata, referred to as NIT S.R.L. in the proceedings.
+
+<<76.69;88.51;en>>
+It was allocated to the second section of the court pursuant to Rule 51, paragraph 1 of the rules of court and was communicated to the government on 17 April 2018.
+
+<<88.51;96.53;en>>
+On 3 March 2020, the chamber decided to relinquish jurisdiction in favor of the Grand Chamber.
+
+<<96.53;105.51;en>>
+At this hearing, the government are represented by their agent, Mr. Oleg Rotari, assisted by Ms. Doina Maimescu, advisor.
+
+<<105.51;110.11;en>>
+The applicant is represented by Ms. Alexandra Nica, counsel.
+
+<<110.11;114.65;en>>
+I welcome the representatives in the name of the court.
+
+<<114.65;122.09;en>>
+Having consulted the agent of the government and the representatives of the applicant, I have determined the order of addressees as follows.
+
+<<122.09;125.49;en>>
+Mr. Rotari for the government will speak first,
+
+<<125.49;128.27;en>>
+and then Ms. Nica for the applicant.
+
+<<128.27;130.55;en>>
+I call Mr. Rotari.
+
+<<130.55;130.55;en>>
+Sir, you have the floor.
+
+[[Government;GR1]]
+
+<<137.81;141.09;en>>
+Mr. President, Honorable Judges of the Grand Chamber,
+
+<<141.09;147.44;en>>
+distinguished guests, distinguished representative of the applicant company, may it please the court.
+
+<<147.44;161.32;en>>
+It is an honor for me to represent the Moldovan government in the case of NITSRL versus the Republic of Moldova, which concerns the allegedly unjustified withdrawal of a licensed operated TV channel.
+
+<<161.32;176.84;en>>
+The applicant was warned on numerous occasions by the domestic audiovisual authority for obvious lack of pluralism, for projecting biased programs favoring one single political party, and thus for presenting distorted information as truthful news.
+
+<<176.84;181.93;en>>
+Eventually, the company did not comply with them, and its license was lawfully lifted.
+
+<<181.93;202.93;en>>
+It complained against such a measure before this court, claiming primarily a violation of its freedom of expression under Article 10 of the convention and the number of other rights related to the alleged unfair trial and discriminatory treatment accompanied by the interference into its peaceful enjoyment of possessions.
+
+<<202.93;218.34;en>>
+The government are of the opinion that the principal scope of this case is to evaluate the legality, necessity, and most importantly, the proportionality of the interference into the applicant company's freedom of expression.
+
+<<218.34;222.42;en>>
+There is no dispute about the existence of an interference.
+
+<<222.43;228.93;en>>
+The question is to what extent it was justified in the particular circumstances of the present case.
+
+<<228.93;235.12;en>>
+Nevertheless, the government are convinced that the interference was compatible with the convention.
+
+<<235.12;245.88;en>>
+From the outset, the government acknowledge the vital role played nowadays by the media in a democratic society and the imperious need to protect their rights to freely impart information.
+
+<<245.88;250.93;en>>
+Their role is even more important when the information pertains to the matter of public interest.
+
+<<250.93;258.32;en>>
+The special role of the press as a public watchdog has been highlighted by the court in its consular case law.
+
+<<258.32;273.16;en>>
+This is especially true when the press appears to be the best tool affording the general public to discover and form an opinion about the ideas and attitudes of different political leaders.
+
+<<273.16;282.61;en>>
+Moreover, the freedom of political debate lies at the very core of any democratic society, and its protection is guaranteed by the convention.
+
+<<282.61;292.28;en>>
+However, it is the convention that acknowledges that the exercise of its freedom must be balanced against the general interest and respect of the rights of others.
+
+<<292.28;300.64;en>>
+Thus, the freedom of expression could be subjected to limitations in exceptional circumstances when there is a public interest at stake.
+
+<<300.64;313.04;en>>
+In evaluating such interests, the authorities retain large margin of appreciation as they are better placed to ascertain the domestic specific context in which the interference occurred.
+
+<<313.04;320.12;en>>
+Firstly, the government underlined the fundamental incoherence in the applicant company's arguments produced before the grand chamber.
+
+<<320.12;331.28;en>>
+It stated that its TV broadcasting license was withdrawn even if the company had been committed to pluralism of opinions by including views expressed by an opposition party.
+
+<<331.28;346.37;en>>
+However, the withdrawal, the most severe sanction provided by law, was applied in the applicant's respect precisely for its unilateralism, and thus, lack of pluralism of its broadcasting policies.
+
+<<346.37;351.52;en>>
+The government underlined that the pluralism of the media must reflect the diversity of opinions.
+
+<<351.52;359.85;en>>
+While it is true that the minority opinion should be protected, it cannot be offered a preferential treatment in respect of the majority's opinion.
+
+<<359.85;365.0;en>>
+So both opinions represent pluralism, not the one prevailing the other.
+
+<<365.0;372.64;en>>
+Pluralism refers to diversity, and in its most general sense, it secures equality of diverse opinions.
+
+<<372.64;378.44;en>>
+There is a well-known distinction between internal pluralism and external pluralism of the media.
+
+<<378.44;389.25;en>>
+External pluralism covers the numbers of owners, media companies, independent editorial boards, channels, titles, or programs.
+
+<<389.25;393.64;en>>
+This type of pluralism is also known as the plurality of suppliers.
+
+<<393.64;410.16;en>>
+From the perspective of the free marketplace of ideas, competition among these media content suppliers is considered to be essential in order to ensure a free choice of media content and the availability of a wide variety of opinions and ideas.
+
+<<410.16;421.97;en>>
+Policies on media concentration are most concerned with the market power that owners or companies may gain and the subsequent possibility of exerting influence.
+
+<<421.97;426.0;en>>
+On the other hand, internal pluralism focuses on media content.
+
+<<426.0;430.61;en>>
+It reflects how social and political diversity are reflected in media content.
+
+<<430.61;439.83;en>>
+That is, the representation of different cultural groups in the media, as well as divergent political or ideological opinions and viewpoints.
+
+<<439.83;451.2;en>>
+Internal pluralism plays an important role in news and public affairs coverage, and also for public broadcasting and media landscapes, dominated by one or two players.
+
+<<451.2;460.4;en>>
+In the government's view, the applicant company's television channel exercised a considerable influence on the public since it had national coverage.
+
+<<460.4;473.64;en>>
+It rendered the reflected topics in news to satisfy to the interest of a single political party without taking into account broader public interests to know the opinion of other parties.
+
+<<473.64;482.28;en>>
+This fact led to a concentration of its content, thus depriving the public from pluralist view and knowledge of diverse opinions.
+
+<<482.28;491.16;en>>
+The government considered that there was no political diversity whatsoever in the content presented by the applicant company's TV channel.
+
+<<491.16;501.37;en>>
+Since the applicant failed to present any opinions of any other political movements, its media content actually manipulated the public knowledge of political issues.
+
+<<501.37;507.0;en>>
+In fact, the content could be classified as propaganda in the favor of a single political party.
+
+<<507.0;515.82;en>>
+It is obvious that these facts in themselves are contrary to ethical and to deontological standards of journalism.
+
+<<515.82;533.33;en>>
+In comparison, while other TV channels in Moldova might have criticized the opinions of other parties or expressed biased negative views on the opposing sides, they still presented opinions in their diversity, thus complying with the principle of political pluralism.
+
+<<533.33;539.4;en>>
+It should be duly noted that the applicant company's license withdrawal was the measure of the last resort.
+
+<<539.4;546.21;en>>
+Initially, the company was warned in March 2009 for the lack of pluralism and for favoring one political party.
+
+<<546.21;552.12;en>>
+A considerable number of subsequent warnings did follow, but to no avail.
+
+<<552.12;565.56;en>>
+The government find that the applicant company had plenty of time to re-enter into the area of legality and to comply with the numerous warnings and less intrusive sanctions ordered by the audiovisual council.
+
+<<565.56;573.8;en>>
+There were more than just one request from politicians and public figures requesting their rights to reply on the news touching them.
+
+<<573.8;589.04;en>>
+In their written submissions, the government illustrated many appeals to the audiovisual council, where these persons complained against consistent and repetitive breaches of journalism ethics and deontology by the applicant.
+
+<<589.04;599.85;en>>
+Namely, it either refused or delayed to offer the right to reply or at the very least, the right to have their opinions published in the news bulletins.
+
+<<599.85;606.21;en>>
+These examples prove in addition that the principle of internal pluralism was violated by the applicant company.
+
+<<607.25;616.16;en>>
+According to the audiovisual council, it should be also noted that other TV channels included the opinions of the political party favored by the applicant.
+
+<<616.16;623.44;en>>
+It can be inferred that the national authorities have duly complied with the principle of external pluralism.
+
+<<623.44;633.09;en>>
+In this sense, the withdrawal of the applicant company's license did not hinder whatsoever the dissemination of ideas or opinions of the political party concerned.
+
+<<633.09;643.56;en>>
+It allowed the general public to be aware of opinions of different political views in the country, including the party sponsored with the applicant's exclusive attention.
+
+<<643.56;648.2;en>>
+Secondly, the government underlying the independence of the audiovisual council.
+
+<<648.2;661.68;en>>
+According to article 41 of the code of the audiovisual code, enforced at the relevant time, this authority is the guarantor of defending the public interest in the field of audiovisual communication based on democratic principles.
+
+<<661.68;673.45;en>>
+In order to establish the independent character of an authority, regard must be taken or it must be had inter alia to the manner of appointment of its members and their term of office.
+
+<<673.45;680.89;en>>
+The existence of safeguards against external pressure and the question whether the body presents an appearance of independence.
+
+<<680.89;689.85;en>>
+The council is composed of nine members, mainly journalists that is from the same guild, selected and appointed by the parliament for six years.
+
+<<689.85;695.93;en>>
+Those members shall act in their individual capacity and must not represent the authority appointing them.
+
+<<695.93;700.93;en>>
+Neither can they hold two consecutive terms of office.
+
+<<700.93;713.29;en>>
+Their position is incompatible with any other public or private function and during their term of office, they may not be members of political parties or other political organizations.
+
+<<713.29;721.77;en>>
+Thus, it can be concluded that the procedure of electing the council's members presents a very clear appearance of independence.
+
+<<721.77;732.29;en>>
+In any case, the applicant company failed to demonstrate how these members could have been externally influenced while examining the question of license withdrawal.
+
+<<732.29;737.33;en>>
+The impartiality of a certain body denotes the absence of prejudice or bias.
+
+<<737.33;743.61;en>>
+In the applicant company's case, there was no bias or prejudice from the audiovisual council's members.
+
+<<743.61;756.45;en>>
+As it may be noted from the minutes of their sessions on examining the monitoring reports, those members always thoroughly debated the applicant company's situation in each and every time.
+
+<<756.45;762.53;en>>
+They also carefully assessed the application of each sanction in order for it to correspond to the violation found.
+
+<<762.53;775.09;en>>
+It can be also observed from the minutes submitted to the court that even in the absence of a unanimous opinion among those members, their collective decisions were based on the principle of pluralism and of free vote.
+
+<<775.09;788.88;en>>
+This is another reason why the government considered the audiovisual council as having acted independently and impartially and nothing denotes that it might have been somehow influenced by the governing political parties.
+
+<<788.88;796.35;en>>
+It fulfilled the requirements established by the court in its case law regarding the objective and subjective impartiality.
+
+<<796.35;803.33;en>>
+The government rely on the international experts reports submitted on the draft audiovisual code of 2006.
+
+<<803.33;816.8;en>>
+It stated that the system for appointment of the council had been amended in line with the comments made based on the best European practices, which required that the members be independent and not political appointees.
+
+<<816.8;825.7;en>>
+They also welcomed the introduction of various safeguards regarding the council's independence and by introducing staggered appointments.
+
+<<825.7;834.37;en>>
+The government disagree with the applicant company's allegation that the audiovisual council had shown a discriminatory attitude in its respect.
+
+<<834.37;843.4;en>>
+The applicant was never discriminated since he was treated like any other TV broadcaster obstructing the rules of play in the audiovisual market.
+
+<<843.4;852.08;en>>
+Firstly, the applicant statement that the audiovisual council had focused on the frequent monitoring of its television channel is simply untrue.
+
+<<853.3;867.92;en>>
+All the reports submitted to the court, as well as the council's monitoring report of 5th of April, 2012, proved that a number of other TV channels with national coverage had also been subjected to monitoring, including the public broadcaster.
+
+<<867.92;877.44;en>>
+Moreover, the council continued monitoring broadcasters in order to assess whether they complied with this applied sanctions.
+
+<<877.44;890.28;en>>
+Hence, the applicants monitoring did not arise from a special treatment, but it was rather an expression of ordinary procedures provided by law to monitor its compliance with the previous warnings and sanctions.
+
+<<890.28;893.56;en>>
+That procedure applied to all companies.
+
+<<893.56;897.47;en>>
+Secondly, the applicant company was not the only one sanctioned for its deeds.
+
+<<897.47;906.75;en>>
+Other private channels, TV channels, allegedly affiliated to the governing political parties, were given the same legal treatment by means of warnings and sanctions.
+
+<<906.75;917.57;en>>
+For example, the public broadcaster was sanctioned with a public warning for violating the principle of equidistance and favoring several governing parties.
+
+<<918.53;925.97;en>>
+The only difference between the applicant company and other TV channels resulted from the former's own conduct.
+
+<<925.97;929.25;en>>
+It deliberately disregarded the council's instructions.
+
+<<929.25;934.0;en>>
+It never complied with the sanctions while other channels changed their behavior.
+
+<<934.0;945.21;en>>
+This led to the ultima ratio sanction, that is the withdrawal that could be equally applied to other companies if they had failed to comply with the council's demands.
+
+<<945.21;957.07;en>>
+In this sense, the government wished to recall regarding the applicant company situation that the audiovisual council refrained twice from applying the strictest sanction provided by law.
+
+<<957.07;963.29;en>>
+Instead, it decided to apply milder sanctions in hope that the applicant company would comply.
+
+<<963.29;968.65;en>>
+Thus, the council neither was discriminatory nor acted in a biased manner.
+
+<<968.65;976.41;en>>
+The government further notes that the applicant company complains that the interference into its freedom of expression was not provided by law.
+
+<<976.41;982.21;en>>
+It criticized the quality of law on the basis of which its broadcasting license had been withdrawn.
+
+<<982.21;986.52;en>>
+The applicant company saw the law rather as inaccessible.
+
+<<986.52;989.88;en>>
+Inaccessible, unclear and unforeseeable.
+
+<<989.88;996.06;en>>
+Nevertheless, the applicant company had been in the mass media market for 15 years.
+
+<<996.06;997.14;en>>
+15 years.
+
+<<997.14;1004.64;en>>
+It cannot be said that the applicant was unaware of the rules and principles that had to be followed in its broadcasting activity.
+
+<<1004.64;1013.18;en>>
+The applicant never invoked the alleged lack of clarity of the law when other sanctions were applied against it.
+
+<<1013.18;1025.74;en>>
+Moreover, concerning the quality of the law, the government reiterate that prior to the adoption of the audiovisual code in 2006, the draft had been sent to international organization for expertise.
+
+<<1025.74;1042.26;en>>
+As a result, after a thorough assessment by international experts, both the Council of Europe and the Organization for Security and Cooperation in Europe welcomed the adoption of a new audiovisual code, which was found to comply with European and international standards in this field.
+
+<<1042.26;1052.48;en>>
+The national authorities not only took into consideration, but also fully accepted the experts comments and suggestions included in those reports.
+
+<<1052.48;1075.78;en>>
+In their analysis of the draft audiovisual code, the Council of Europe experts considered that the draft code should be seen as signifying continued progress in terms of legal competence on the part of the drafters, a clear desire to approximate Moldovan broadcasting legislation to European standards, and awareness of the need for legal solutions to challenges facing broadcasting.
+
+<<1075.78;1087.48;en>>
+For that reason, Article 7 of the audiovisual code did not contain any provisions against the international standards in the field of freedom of expression and journalistic independence.
+
+<<1087.48;1101.22;en>>
+In regard to Article 7, Paragraph 2, which the applicant company qualifies as discriminatory, it should be noted that the Council of Europe experts found the principles enshrined therein to be commendable.
+
+<<1101.22;1119.44;en>>
+In addition to the above, in their further report submitted to the national authorities after introducing the amendments and proposals, including in the first report, the OSCE experts stated that the requirement of equal broadcast time can be onerous for broadcasters, especially if there are many political parties.
+
+<<1119.44;1124.74;en>>
+But the basic principle of non-discrimination in this article is good.
+
+<<1124.74;1137.04;en>>
+At its adoption on 27th of July 2006, the audiovisual code already included the suggestions submitted by the international experts and thus fully complied with European standards.
+
+<<1137.04;1146.09;en>>
+Since that was more than welcome, the government understand that the applicant's allegation related to Article 7 of the code are manifestly ill-founded.
+
+<<1146.09;1163.64;en>>
+As to the necessity of the interference into the applicant company's freedom of expression, the government have to disagree with its allegation that it could not have foreseen the application of a more serious sanction as provided by law after a number of more lenient sanctions.
+
+<<1163.64;1174.72;en>>
+In their written submissions, the government underlined that the domestic legislation follows the principle of gradual application of sanctions, from the most lenient to the strictest.
+
+<<1174.72;1183.34;en>>
+The recourse to the last resort, that is the withdrawal, is determined by repetitive breaches and deliberate disrespect.
+
+<<1183.34;1187.68;en>>
+The applicant company was not at its first breach of the audiovisual code.
+
+<<1187.68;1196.96;en>>
+The government considered that the applicant ought to have been alerted when the council sanctioned it by having its license suspended in the first place.
+
+<<1196.96;1205.48;en>>
+However, the applicant ignored the sanction and continued its activity, in fact, showing its deliberate disobedience with the rule of law.
+
+<<1205.48;1220.8;en>>
+Contrary to the applicant's argument, the council did not decide to withdraw its license only on account of a separate incident in the news bulletins between the 3rd and the 9th of February, 2012, or because of the propagandistic short film.
+
+<<1220.8;1229.64;en>>
+Those violations must be taken as part of a bigger picture, and they alone did not lead to the withdrawal of the applicant company's license.
+
+<<1229.64;1240.2;en>>
+Instead, the council decided to withdraw the license because of repeated misconduct for another violation of Article 7, Paragraphs 2 and 4 of the audiovisual code.
+
+<<1240.2;1251.22;en>>
+In fact, since March 2009 until April 2012, when its license was withdrawn, the council applied 18 sanctions to the applicant company.
+
+<<1251.22;1277.52;en>>
+The latter was sanctioned inter alia for violating TV advertising rules, for infringing the rules on broadcasting, violating TV advertising rule, for infringing the rules on broadcasting in the official language, including for violation of the principle of political police enshrined in Article 7 of the audiovisual code, and for favoring a single political party during its news bulletins.
+
+<<1277.52;1286.76;en>>
+The government wished to draw the court's attention to the fact that the applicant challenged before the domestic courts only nine of the 18 sanctions applied to it.
+
+<<1286.76;1298.56;en>>
+The national courts only admitted three of the applicant's nine appeals because of some procedural shortcomings, whereas the substance of the council's decisions was never questioned.
+
+<<1298.56;1308.96;en>>
+To sum up, the applicant company had 15 final and valid sanctions at the moment when the audiovisual council decided to finally withdraw its broadcasting license.
+
+<<1308.96;1325.5;en>>
+The government emphasized that seven of those 15 sanctions, almost half of them, referred to the same violation of Article 7 of the audiovisual code, that is for disregarding the principle of political pluralism in the news bulletins and for favoring one single political party.
+
+<<1325.5;1334.44;en>>
+It should be also noted that the applicant never challenged before the domestic courts nine sanctions established by the audiovisual council.
+
+<<1334.44;1341.8;en>>
+Three of them were applied precisely in regard to violations concerning the same political pluralism in the news bulletins.
+
+<<1341.8;1351.8;en>>
+Moreover, the applicant company has never challenged any other sanctions and judgments adopted against it, except for the last one before this European court.
+
+<<1351.8;1355.8;en>>
+It follows that the applicant simply agreed with those.
+
+<<1355.8;1364.96;en>>
+Additionally, the audiovisual council applied all these sanctions in a gradual way, as provided by Article 38, Paragraph 3 of the audiovisual code.
+
+<<1364.96;1388.72;en>>
+Therefore, it is reasonable to consider that the applicant company ought to have reasonably expected one day that, well, the application of the strictest punishment provided by the audiovisual code, given its repeated misconduct and continuous disregard of the warnings and milder sanctions previously applied to it, which had no deterrent effect on it whatsoever.
+
+<<1388.72;1401.76;en>>
+In conclusion, the government considered that the withdrawal of the applicant company's broadcasting license was a measure provided by law, whose quality complied with all of the requirements arising from the court's case law.
+
+<<1401.76;1421.88;en>>
+The applicant had to predict the occurrence of this measure, given its continuous noncompliance with the provisions of the audiovisual code, following the application of ineffective milder sanctions, as well as its disregard for the audiovisual council as a guarantor of the public interest in the audiovisual field.
+
+<<1421.88;1434.88;en>>
+That measure could be reasonably seen as answering a pressing social need because of the abusive speech communicated repeatedly during the news bulletins, despite the numerous previous sanctions.
+
+<<1434.88;1446.77;en>>
+In these circumstances, the public interest prevailed over the applicant company's right to impart information, since the consequences of the applicant's actions might have been unpredictable.
+
+<<1446.77;1469.8;en>>
+The government finally concluded that by withdrawing the applicant company's broadcasting license, the national authorities observed the requirements of necessity and proportionality acted in an appropriate manner in accordance with the law, with utmost consistency, given the general interest at stake of ensuring quality and balance of the broadcasted programs.
+
+<<1469.8;1477.44;en>>
+Therefore, the government invite the court to hold that there have been no violations of the convention in the present case.
+
+<<1477.44;1478.68;en>>
+Those are our submissions.
+
+<<1478.68;1478.68;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<1482.25;1484.81;en>>
+Thank you very much indeed, Mr. Rotari.
+
+<<1484.81;1488.93;en>>
+I now turn to the representative of the applicant, Ms. Nica.
+
+<<1488.93;1489.77;en>>
+You have the floor, please.
+
+[[Applicant;AP1]]
+
+<<1491.91;1493.27;en>>
+Thank you.
+
+<<1493.27;1495.47;en>>
+Mr. President of the Court,
+
+<<1495.47;1515.83;en>>
+distinguished members of the Court, representatives of the government, it is a pleasure and an honor to present today the position of the applicant company, NIT, with regard to violations of its fundamental rights and freedoms enshrined in the European Convention on Human Rights.
+
+<<1515.83;1523.35;en>>
+In the present case, the applicant's company rights protected under Article 10, Article 1 of Protocol No. 1,
+
+<<1523.35;1537.27;en>>
+Article 6, Article 13, and Article 14, in conjunction with Article 6 and Article 10 of the Convention, had been grossly violated by the responding state following the revocation of the broadcasting license.
+
+<<1537.27;1549.67;en>>
+By doing so, the Republic of Moldova disrespected the basic standards of the freedom of expression and disregarded the key role of the media in a democratic society.
+
+<<1549.67;1563.71;en>>
+I will focus my speech on several arguments to prove the responding government went beyond the margin of appreciation afforded to the state according to the Convention in such matters.
+
+<<1563.71;1572.99;en>>
+In cases referring to the media where Article 10 is at stake, a starting point there should be taken the fundamental truism.
+
+<<1572.99;1577.15;en>>
+There can be no democracy without pluralism.
+
+<<1577.15;1595.79;en>>
+It is of the essence of democracy to allow diverse political programs to be proposed and debated, even those that call into question the way a state is currently organized, that offend, shock, or disturb if they do not harm the democracy itself.
+
+<<1595.79;1602.55;en>>
+Problems in relation to the independence of the Moldovan media are of old and endemic character.
+
+<<1602.55;1613.03;en>>
+According to the openly available report drafted by the NGO Reporters Without Borders, the Republic of Moldova is decreasing with obvious regularity's position.
+
+<<1613.03;1630.43;en>>
+In 2013, the year when the final court judgments were ended in the Easton case, ranking the distant 55, and in 2019 turning even worse, ranking 91, with a coefficient which means visible problems.
+
+<<1630.43;1639.95;en>>
+The report underlined the broadcasting regulatory authority's lack of independence continues to be a source of concern.
+
+<<1639.95;1668.95;en>>
+The opinion of the well-known NGO in this regard correlate with the position of the Parliament of the Republic of Moldova that on the decision of 8 June 2019 for the adoption of the Declaration on the Recognition of the Captive Character of the State, expressed a vote of non-confidence in the leadership of the Odovisual Council, which has become an instrument of the regime and called for imperative dismissal of the members of the council.
+
+<<1668.95;1677.23;en>>
+The applicant television station was liquidated by state authorities, derogating totally from national and international legal norms.
+
+<<1677.23;1685.43;en>>
+It was closed because it was disturbing and critical, because it was saying the truth, inconvenient for the government.
+
+<<1685.43;1723.91;en>>
+The TV broadcaster was closed as it follows from me the contents of the monitoring report and the challenge decision of the Odovisual Coordinating Council, specifically for presenting the governing coalition in a negative light, reflecting the conflict between the governing coalition and the party of communists of the Republic of Moldova in minority, presenting the party of communists in a preponderant positive connotation, diffusion of the short film that represented a journalistic point of view, underlying miscarriages committed by the government that were disappointing for people of the country.
+
+<<1723.91;1740.55;en>>
+The interference in the applicant's freedom of expression under the form of withdrawal of broadcasting license was neither prescribed by law nor pursued at a legitimate aim, was not necessary in a democratic society, being disproportional.
+
+<<1740.55;1754.67;en>>
+As to the issue of law, the immediate cease of the applicant's activity the following day the decision of the Odovisual Coordinating Council was adopted, had been operated according to an unclear legal framework.
+
+<<1754.67;1763.55;en>>
+As no one legal norm in force at the relevant time, envisage the immediate enforcement of the decision of the council that was challenged in court.
+
+<<1764.95;1784.99;en>>
+It has to be noted that constitutional court of the Republic of Moldova did not consider the norms that prescribed the immediate enforcement of the decision of the Odovisual Coordinating Council on sanctioning of broadcasters by revocation of the license is corresponding to the criteria of accessibility, clarity and forcibility of the law.
+
+<<1787.43;1792.43;en>>
+Additionally, article 7.2 of the Odovisual Code
+
+<<1792.55;1814.91;en>>
+that instituted to the broadcasters the obligation to grant airtime for all parliamentary and political parties, and that had been invoked as ground for the applicant's license being withdrawn, is infringing the essence of the freedom of expression of the broadcaster, as it interferes with the right to impart information and ideas and obstructs the debate on matters of public interest.
+
+<<1814.91;1818.31;en>>
+This norm is not foreseeable in its application.
+
+<<1818.31;1846.87;en>>
+While the applicant can admit that such a particular provision might apply to state or to public broadcasters on which more specific obligation can be placed, at which dispose of distinct means to reach all political parties' information and to obtain their opinion or comment, in case of private broadcasters, especially expressing critical views to the government, such a requirement can be used in order to discriminate and to put them in a hardship situation.
+
+<<1849.43;1854.35;en>>
+That legal provision places an excessive burden on the applicant company.
+
+<<1854.35;1873.25;en>>
+Notably, if reiterating that representatives of the parliamentarian parties formed the majority and key political figures of the time showed a negative attitude to the channel and with constant regularity, refused to answer questions and to give comments to its journalists.
+
+<<1873.25;1888.11;en>>
+The question of peculiarities of the editorial policy of private broadcasters in contrast to public ones had repeatedly arisen at the meetings of the Udo-Visual Coordinating Council, as it results even from the documents submitted by the government.
+
+<<1888.11;1895.95;en>>
+However, the Udo-Visual specialized body had refrained to scrutinize that distinction.
+
+<<1895.95;1916.83;en>>
+The revocation of applicants license did not pursue any legitimate aim, as the interference within the applicants freedom of expression had a punitive character, being substantiated by the news that were displeasing the government, presenting the letter as the council itself emphasized in a denigrating manner and accusing it.
+
+<<1916.83;1928.95;en>>
+The channel did not reflect critics of the personal position of the coalition representatives, but specifically related to their behavior as key figures that do politics in the state.
+
+<<1928.95;1937.03;en>>
+The limits of acceptable criticism are wider as regard to politician as such than as regards a private individual.
+
+<<1937.03;1947.85;en>>
+Unlike the latter, the former inevitably and knowingly lays himself open to close scrutiny of his every word and deed by both journalists and the public at large.
+
+<<1947.85;1951.87;en>>
+And he must display a greater degree of tolerance.
+
+<<1951.87;1959.83;en>>
+The requirements of protection of a politician have to be weighed in relation to the interest of open discussion of political issues.
+
+<<1959.83;1966.93;en>>
+So the aim of protection of the reputation or rights of the others can be admitted as relevant in the case.
+
+<<1966.93;1985.87;en>>
+Similar, it could not be said the aim of the measure was protection of the national security and public safety, prevention of disorder or crime, as the applicant never called directly or indirectly to protests, the incentive coming from the political party, while the broadcaster namely reported news.
+
+<<1987.51;1995.95;en>>
+The applicant company disagrees with the position of the government and underlines absence of similarities with the case Zurich versus Turkey.
+
+<<1995.95;2007.15;en>>
+As the report that is transmitted by the applicant never incited to violence or provocation of hostilities among different groups, but highlighted the situation existing at that moment in the country.
+
+<<2009.19;2034.51;en>>
+Additionally, it is difficult to sense to what extent the diffusion of news by the channel, even admitting third persons exercising their fundamental right in shrink in article 11 of the convention, called for peaceful and democratic methods for the mission of the government, the solution of the parliament and determination of the date of new elections could be considered as infringing national security or territorial integrity.
+
+<<2036.51;2045.19;en>>
+In any case, it is incumbent on the press to impart information and ideas on political issues, including divisive ones.
+
+<<2045.19;2053.27;en>>
+Moreover, the alleged violence and hostilities to which the applicant called in the government's view had never took place in reality.
+
+<<2053.27;2056.31;en>>
+Meetings organized by the party in opposition being peaceful.
+
+<<2058.79;2065.35;en>>
+The interference in the applicant's right guaranteed in article 10 was not necessary in a democratic society either.
+
+<<2065.35;2072.17;en>>
+On the contrary, interdemined the main foundations of democracy, spirit of pluralism and the rule of law.
+
+<<2073.95;2121.05;en>>
+The applicant company, a private TV channel operating since 1997 and of Republican coverage, shortly after the change of the government in 2009 became target of attacks from authorities represented by sanctions applied by the audiovisual body, evacuation from rented premises, attempts of limitation of the property rights, refusal of state enterprises to order advertisement, exclusion from the cable transmission space, addressing complaints against the channel by the members of the political parties forming the majority, ignoring the channel according to the unique policy of refusal to offer interviews and comments, defamation of the channel in pro-governmental media.
+
+<<2121.05;2129.23;en>>
+The applicant was the unique TV broadcaster that was applied 11 sanctions and that had ever been withdrawn its license of emission.
+
+<<2129.23;2138.93;en>>
+Immediately after the adoption of the disputed decision, the applicant's broadcasting activity was definitely ceased.
+
+<<2138.93;2151.99;en>>
+The situation of the broadcaster should be looked at in its complexity, taking into account the imposing of continuous sanctions by the audiovisual coordinating council following conflictual discussions during the meetings.
+
+<<2151.99;2162.99;en>>
+The statements and threats to close the channel from the key political figures, together with their refusal to offer interviews and comments to an IT journalists.
+
+<<2162.99;2170.19;en>>
+It seems that first persons in the state had no other interest than to be concerned about the fate of the channel.
+
+<<2170.19;2189.43;en>>
+Criticism of the news content of the government, diffusion of information on the part of opposition, accusations against the channel of propaganda because of distributing contents in non-official language used by the minority, severity of the sanction imposed, immediate ceasing of its activity.
+
+<<2189.43;2207.91;en>>
+In this case, it could not be argued the domestic authorities tried to contribute to the quality and balance of programs, as the intention was to punish the TV broadcaster and the journalists for inconvenient editorial policy, disobedience to the majority and offering platform for opposition.
+
+<<2207.91;2221.67;en>>
+While it can be understood the representative of position dispose of less instruments to present their views in comparison with the governing parties that have a plenitude of options to do similarly.
+
+<<2221.67;2241.03;en>>
+In this case, as it results from the documents submitted by the government itself, the president of the audiovisual coordinating council expressly underlined the fact that the channel diffused one hour, 25 minutes information on the activities of the party of communists, half of which in positive tonality.
+
+<<2241.03;2248.35;en>>
+While he said other TV posts granted the party only one or two minutes.
+
+<<2248.35;2261.67;en>>
+The same president first stated that the channel would declare the council acting as the direction of the government and when following all tendentious penalties, the channel stated it openly called for sanctioning.
+
+<<2261.67;2267.67;en>>
+Situation that hints a revenge because of the channel's criticism.
+
+<<2267.67;2283.15;en>>
+The channel was also sanctioned by the council at the demand of the party that formed the governing coalition for simply using the phrase NIT under the site of the power and for request of provocative and diverse sarcastic language.
+
+<<2283.15;2294.95;en>>
+That sanction of the revocation of the license amounted to a veritable form of censorship intended to discourage the applicant and other media representatives from expressing criticism.
+
+<<2294.95;2306.83;en>>
+In the context of a debate on topics of political interest, such a sanction is likely to detour journalists from contributing to public discussion of issues affecting the life of the country.
+
+<<2306.83;2314.03;en>>
+It is hampering the media in performing its task as purveyor of information and public watchdog.
+
+<<2314.03;2334.91;en>>
+Except two very strong reasons in this regard, the harshest measure of withdrawal of the license of the broadcasting company as a matter of principle could hardly be looked as corresponding to the margin of appreciation afforded to the state according to article 10 as necessary in democratic society and linked to a pressing social need.
+
+<<2334.91;2349.13;en>>
+Such a situation by itself is likely to undermine the pluralism of ideas, broad mindedness and openness in a democratic state, which nationals are free to choose the information they wish to be aware of.
+
+<<2349.13;2372.99;en>>
+The situation turns even more dramatical when the TV channel which license was withdrawn reflected the views of important parliamentary opposition, was debating crucial issues of public interest as the elections of the president, was important for linguistic minority, was criticizing the government and the latest representatives called openly to its closure.
+
+<<2372.99;2384.31;en>>
+Such state of affairs could not be appreciated as corresponding to any value of democracy and the rule of law according to article 10 of the European Convention.
+
+<<2384.31;2392.11;en>>
+The revocation of applicants license also violated its right guaranteed under article one of protocol number one to the European Convention.
+
+<<2392.11;2397.07;en>>
+In this respect, the following aspects are to be emphasized.
+
+<<2397.07;2404.49;en>>
+The applicant company was the single broadcaster sanctioned by the harshest measure with the withdrawal of its license.
+
+<<2404.49;2410.71;en>>
+Immediately after that, the entire activity connected to the television ceased.
+
+<<2410.71;2418.63;en>>
+The applicant could not fulfill its previous agreements on advertisement that prescribed fixed terms of date and hour.
+
+<<2418.63;2422.59;en>>
+It resisted direct damages of extremely large amounts.
+
+<<2422.59;2430.25;en>>
+It was imposed to terminate prematurely agreements on retransmission of contact acquired from abroad.
+
+<<2430.25;2433.19;en>>
+It had to remove from rented premises.
+
+<<2433.19;2437.87;en>>
+It lost real possibilities to pay previously contracted credits.
+
+<<2437.87;2446.07;en>>
+The staff of the company of about 90 persons lost their jobs and subsequently the basic sources of livelihood.
+
+<<2446.07;2451.91;en>>
+Finally, the applicant had to wind up its broadcasting business.
+
+<<2451.91;2467.03;en>>
+Though the applicant tried for a short period of time to refer to the opportunities provided by the internet, its attempts were completely unsuccessful, either from the perspective of covering audience or the financial dimension.
+
+<<2467.03;2479.27;en>>
+At the relevant time, commercial exploiting of the internet had been developing initially in Moldova, and the opportunities provided cannot be compared with the today ones.
+
+<<2479.27;2503.67;en>>
+As it could be seen from its YouTube channel to which the government referred, almost six years ago, NET had only 722 subscribers, a number of viewers incomparable with the previous Republican coverage, while the web page became unavailable because of lack of popularity that made senseless its technical and financial maintenance.
+
+<<2503.67;2515.35;en>>
+As to the financial dimension, absence of commercial advertisement orders and lack of viewers made the option of using the global network impractical.
+
+<<2515.35;2522.75;en>>
+Thus, the broadcasting business of the applicant company had no other fate than to vanish following the license withdrawn.
+
+<<2522.75;2539.53;en>>
+The company, in order to avoid bankruptcy and to pay loans previously credited for broadcasting, was forced to continue a very narrow and specific business activity not connected to the television, of which incomes, even according to the data presented by the government, were very low.
+
+<<2542.47;2564.31;en>>
+The applicant's right to a fair trial has also been violated, as the domestic courts first rejected the request on suspension of the immediate enforcement of the decision adopted by the coordinating council with no proper reasoning and lacking to quote any relevant legal provision in this regard, to make justice not only to be done, but also to be seen to be done for the applicant.
+
+<<2564.31;2579.51;en>>
+Second, disregarded the opinion on the constitutional court of the Republic of Moldova, according to which the measure of revocation of the license affects the substance of the guarantees, which broadcasters should enjoin to the convention.
+
+<<2579.51;2594.59;en>>
+The constitutional jurisdiction expressed its opinion with regard to the revocation of the broadcaster's license the time when the applicant's case was still under examination on its merits, and when that option was determinative for the solution of the case.
+
+<<2594.59;2615.27;en>>
+The domestic courts ruled the conclusion of the constitutional forum were not applicable in the instant case, as they did not exist at the moment of the adoption of the audiovisual coordinating council's decision, and refused to apply those considerations of directive fact to the dispute, failing to redress the breaches of the applicant's rights committed by the council.
+
+<<2615.27;2624.39;en>>
+Actually developing only a formal analysis of the case, despite the right of access to a court to be practical and effective, and not theoretical or illusory.
+
+<<2627.63;2636.15;en>>
+The last argument refers to breaches of Article 13 and Article 14, in conjunction with Article 6 and Article 10 of the convention.
+
+<<2636.15;2648.67;en>>
+Domestic authorities did not assure an effective remedy to the applicant company to secure its freedom of expression, and showed a discriminatory treatment of immediate seizing of the activity of the channel.
+
+<<2648.67;2666.43;en>>
+The way the domestic courts examined the request for interim measures, making reference to no one legal provision, and reducing the necessary reasoning to the consideration that by suspension of the challenge administrative fact, the court will expose its opinion on the merits of the case.
+
+<<2666.43;2678.83;en>>
+They let the applicant with no prospect of success to obtain a redress for immediate seize of its broadcasting, and made its right to bring before the courts an arguable claim illusory.
+
+<<2678.83;2688.75;en>>
+Additionally, in contrast to the government, the applicant disagrees that it failed to exhaust domestic remedies in regard to the complaint under Article 14.
+
+<<2688.75;2700.67;en>>
+As from the very beginning, the company stated on the discriminatory attitude from the audiovisual coordinating council in its regard, and formulated this argument distinctly before the national courts.
+
+<<2700.67;2705.83;en>>
+The first instance court gave its appreciation of the merits, however, rejecting the argument.
+
+<<2708.95;2734.87;en>>
+Finally, in the light of all specific circumstances of this case, I would like to emphasize the provocation of the license of omission of any TV broadcaster raises lots of questions with regard to the compliance of the state authorities' interference to the pluralism of ideas, broad-mindedness, and openness that are inherent for a democratic society.
+
+<<2734.87;2765.35;en>>
+But the specific attitude of the state to a TV channel that is critical for the government is reflecting the views of significant parliamentary and oppositional party, and is of special importance for linguistic minority, gives the unique chance for the government to demonstrate that pluralism of ideas and democracy, which thrives on the freedom of expression, do really exist in the concerned state.
+
+<<2765.35;2771.13;en>>
+Regrettably, but in the present case, the government failed to prove so.
+
+<<2773.69;2781.23;en>>
+Mr. President of the court, distinguished members of the court, representatives of the government, thank you for your attention.
+
+[[JudgeP;Robert Spano]]
+
+<<2784.66;2786.06;en>>
+Thank you very much indeed.
+
+<<2786.26;2790.36;en>>
+Miss Nica and I think both parties for their pleadings this morning.
+
+<<2790.36;2795.76;en>>
+I would like to confirm that both audio and video were clear throughout.
+
+<<2795.76;2802.86;en>>
+I now turn to my colleagues on the bench the judges of the court wishing to present questions. Judge Schukking.
+
+[[Judge;Jolien Schukking]]
+
+<<2806.18;2808.78;en>>
+Thank you, Mr. President.
+
+<<2808.78;2813.98;en>>
+Thanks to the representative of the parties for their clear interventions.
+
+<<2813.98;2820.4;en>>
+I have one question to the government and one question to the applicants.
+
+<<2820.4;2833.48;en>>
+As regards my question to the government, as you have pointed out, the revocation of the license was at the end of an uninterrupted series of sanctions.
+
+<<2833.48;2840.54;en>>
+You submitted that the council had no choice than to apply the harshest sanction.
+
+<<2840.54;2852.34;en>>
+I note that the most severe sanction before revocation that was imposed on NIT was the suspension of the license of five days.
+
+<<2852.34;2873.24;en>>
+My question is, did the council have discretionary power to opt for imposing a sanction with a more deterrent effect, such as, for instance, suspension of the license for one month, two months, or three months, thus being less intrusive than the revocation?
+
+<<2873.24;2879.28;en>>
+And if so, why did it not make use of that power?
+
+<<2879.28;2884.04;en>>
+My question to the applicants is the following.
+
+<<2884.04;2892.44;en>>
+Before the domestic courts, NIT argued that the decision to revoke its license was politically driven.
+
+<<2892.44;2897.92;en>>
+The domestic courts rejected that allegation as being unsubstantiated.
+
+<<2897.92;2901.68;en>>
+Before this court, NIT repeats that allegation.
+
+<<2901.68;2915.32;en>>
+In its written submissions, NIT states that, I quote, the political class by all means wanted to find a judicial solution to put an end to the channel's existence.
+
+<<2915.32;2923.68;en>>
+And the withdrawal of the license was motivated by political revenge of the government.
+
+<<2923.68;2927.68;en>>
+This is a severe allegation.
+
+<<2927.68;2937.12;en>>
+And such an allegation could be accepted, but only when it's supported by at least strong and concrete indications.
+
+<<2937.12;2951.84;en>>
+My question to you is, could you provide the court with concrete facts that support your allegation that the revocation decision taken by the council in 2012 was politically driven?
+
+<<2951.84;2951.84;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<2953.28;2955.64;en>>
+Thank you very much, Section President O’Leary.
+
+[[Judge;Síofra O’Leary]]
+
+<<2957.86;2960.34;en>>
+Thank you very much, Mr. President.
+
+<<2960.34;2964.26;en>>
+My questions are for both parties.
+
+<<2964.26;2972.8;en>>
+The monitoring exercise which led to the revocation decision in this case was commenced on the 29th of March, 2012.
+
+<<2972.8;2978.74;en>>
+The report was communicated to the applicant only two days later, on the 2nd of April.
+
+<<2978.74;2987.9;en>>
+It was discussed by the council with the applicant present on the 5th of April, and the decision was adopted on that same day.
+
+<<2987.9;2991.22;en>>
+And it came into force on the 6th of April.
+
+<<2991.22;2998.9;en>>
+So my question is, is such a rapid administrative procedure normal and in conformity with domestic law?
+
+<<2998.9;3007.54;en>>
+And I ask this because I note that the Supreme Court referred to a normal administrative procedure taking 15 working days.
+
+<<3007.54;3014.54;en>>
+My second question relates to monitoring exercises and their consequences generally.
+
+<<3014.54;3024.8;en>>
+I understand that 13 monitoring exercises took place in the relevant period between 2009 and 2012.
+
+<<3024.8;3030.08;en>>
+This question is particularly directed at the government, but the applicant can, of course, respond.
+
+<<3030.08;3037.86;en>>
+Could the government indicate if sanctions were imposed on other broadcasters during this period?
+
+<<3037.86;3042.16;en>>
+They said in their oral submissions that other broadcasters were monitored.
+
+<<3042.16;3046.5;en>>
+But what I would like to know is where those broadcasters sanctioned.
+
+<<3046.5;3049.34;en>>
+If so, how often and for what?
+
+<<3049.34;3052.32;en>>
+In the file, I could only find one concrete example.
+
+<<3052.32;3060.7;en>>
+That was the public warning given to national television in the decision of the 5th of April, 2012.
+
+<<3060.7;3061.2;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<3062.93;3064.14;en>>
+Thank you very much.
+
+<<3064.14;3064.86;en>>
+Jugde Bårdsen.
+
+[[Judge;Arnfinn Bårdsen]]
+
+<<3067.34;3069.34;en>>
+Thank you very much, Mr. President.
+
+<<3069.34;3078.94;en>>
+My question is for the government, and it relates to the enforcement of the withdrawal decision.
+
+<<3078.94;3082.14;en>>
+And it is a matter of domestic law.
+
+<<3082.14;3091.78;en>>
+My first element would be attached to Article 3810 of the Ordovisual Code.
+
+<<3091.78;3110.99;en>>
+And at the material time, this provision had the following wording, a decision by the Ordovisual Coordinating Council applying a sanction which is not contested within the allocated time limit shall constitute a writ of enforcement.
+
+<<3110.99;3125.57;en>>
+And my question to the government relating to this provision would be if the government could please specify its understanding of that provision at the material time.
+
+<<3125.57;3135.38;en>>
+The second element of my question connected to this relates then to the subsequent change of this provision.
+
+<<3135.38;3167.51;en>>
+End of May 2012, this provision was abolished, and then we had a new provision in 38.8 with the following wording, the decision of the Ordovisual Coordinating Council regarding the application of any sanction will be motivated becoming enforceable from the date of adoption and notification to the broadcasters and distributors of targeted services by registered letter with subsequent publication.
+
+<<3167.51;3188.3;en>>
+My question related to this provision would be what was the motivation behind the adjustment of the text, the changement of the text from the previous article 38.10 to the new 38.8 in May 2012?
+
+<<3188.3;3194.09;en>>
+And the third element of the question relates to the subsequent development.
+
+<<3194.09;3212.07;en>>
+The Constitutional Court, as I understand it, found that the new provision, article 38.8, was in violation of the Constitution, and in particular as to the Constitution's provisions on free speech.
+
+<<3212.07;3223.7;en>>
+And my third element, the question here would be what was the core reasoning in the Constitutional Court's judgments as to this finding?
+
+<<3223.7;3223.7;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3226.31;3228.07;en>>
+Thank you very much indeed. Judge Pavli.
+
+[[Judge;Darian Pavli]]
+
+<<3230.91;3233.15;en>>
+Thank you, Mr. President.
+
+<<3233.15;3242.83;en>>
+I have two questions for the government, but of course the applicant is very welcome to address them as well.
+
+<<3242.83;3250.13;en>>
+My first question relates to the formula for the appointment of the audiovisual council.
+
+<<3250.13;3278.63;en>>
+And I refer here to annex 16 of the government's submissions, which include the Council of Europe analysis and comments on a former draft, so pre-final draft of the audiovisual code, and specifically page 29 of this Council of Europe comments related to then-draft Article 42 of the bill.
+
+<<3278.63;3289.95;en>>
+And the third comment by the Council of Europe is that the appointment by a 2 3rd majority of parliament, and I quote here, is to be welcome.
+
+<<3289.95;3309.15;en>>
+It is, however, my understanding that in the final version of the draft, a number of changes were made in line with the Council of Europe recommendations that the 2 3rd majority, which the Council of Europe had welcomed, has been removed altogether from the draft.
+
+<<3309.15;3318.99;en>>
+And I was wondering if you could elucidate a little bit in terms of the legislative history, why was that decision made?
+
+<<3318.99;3331.47;en>>
+And in relation to that, in your submission here today orally, you argued that the council had full independence in law and in fact.
+
+<<3331.47;3353.39;en>>
+And if you could comment on the European Commission's country progress report for 2012, so it's the relevant period, it's a report done annually as part of the European Neighborhood Partnership process of Moldova dated 20 March 2013.
+
+<<3353.39;3367.19;en>>
+There is a single recommendation there on the media scene in the country, and I quote, ensure the full and effective independence of the audiovisual coordinating council.
+
+<<3367.19;3370.59;en>>
+So if you could comment on that, please.
+
+<<3370.59;3383.55;en>>
+And my second question is a little bit of a follow up to Judge Bårdsen third question on the constitutional court ruling of 6 December 2012.
+
+<<3383.55;3410.75;en>>
+And what I would like to know specifically is what do you think the implications of that ruling, again, that it was unconstitutional for two, in particular, two sanctions imposed by the council, temporary suspension of license and final de-licensing, to be immediately enforceable.
+
+<<3410.75;3414.35;en>>
+That is my understanding of the constitutional court decision.
+
+<<3414.35;3421.55;en>>
+What, in your view, are the implications of the decision for the current case?
+
+<<3421.55;3425.75;en>>
+And I don't mean in terms of national administrative law.
+
+<<3425.75;3432.39;en>>
+I mean in terms of national constitutional law and Article 10 of the convention.
+
+<<3432.39;3432.39;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3433.84;3435.86;en>>
+Thank you very much, Vice President Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<3438.07;3439.07;en>>
+Thank you very much.
+
+<<3439.07;3444.43;en>>
+I'm interested in which way the monitoring exercises are organized.
+
+<<3444.43;3451.87;en>>
+Are they organized on the regular basis, few times a year, once a year, for how long?
+
+<<3451.87;3454.23;en>>
+Or they are organized ad hoc?
+
+<<3454.23;3469.55;en>>
+It's just a coincidence that this last monitoring exercise that was the basis for the decision was actually at the time when the demonstrations were organized or were about to be organized.
+
+<<3469.55;3471.83;en>>
+So if you please can answer that.
+
+<<3471.83;3480.37;en>>
+Then what are the parameters that were taken into consideration then when pluralism was measured?
+
+<<3480.37;3484.11;en>>
+Was it just content-based parameter?
+
+<<3484.11;3492.55;en>>
+Or other parameters were taken into consideration because we know there are a number of them, if you could clarify that.
+
+<<3492.55;3505.63;en>>
+And then what caught my eye today during the presentations was the claim that the members of the commission were subjectively and objectively independent.
+
+<<3505.63;3512.59;en>>
+And when I was reading the minutes, what caught my eye was, and I will read the sentence of one of the participants.
+
+<<3512.59;3524.75;en>>
+Moreover, we remember the shows that were made, even regarding me personally, I did not react.
+
+<<3524.75;3527.95;en>>
+It was, I consider, abnormal.
+
+<<3527.95;3532.05;en>>
+So this is something what was reported by the station about him.
+
+<<3532.05;3538.95;en>>
+But as history shows, harmful phenomena leave a mark on what is happening.
+
+<<3538.95;3550.23;en>>
+So if you could comment on conflicts of interest and the possibility of a person to sit in this commission deciding on this case.
+
+<<3550.23;3550.23;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3551.69;3552.73;en>>
+Section President Lemmens.
+
+[[Judge;Paul Lemmens]]
+
+<<3555.94;3556.74;en>>
+Thank you very much.
+
+<<3556.74;3568.54;en>>
+I have a follow-up question to what my colleague O'Leary asked about the time taken by the council to come to its decision.
+
+<<3572.56;3578.04;en>>
+There was a notification of the report to the applicant on the 2nd of April, I think.
+
+<<3578.04;3582.98;en>>
+And on the 5th of April, there was the meeting and the decision.
+
+<<3582.98;3597.68;en>>
+We can also see that during the domestic proceedings, the applicant company complained about the fact that it did not have enough time to prepare its defense for that meeting.
+
+<<3597.68;3619.62;en>>
+Could both parties say something about this, whether it is normal not only to have such a short time for the preparation, but in particular, such a short time for the hearing to be set once the monitoring report is being sent to the broadcasting company concerned?
+
+<<3619.62;3625.7;en>>
+And could the broadcasting company have asked for an adjournment of that meeting?
+
+<<3625.7;3629.5;en>>
+And would it have any chance of being granted?
+
+<<3629.5;3629.54;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<3631.86;3633.74;en>>
+Thank you very much indeed.
+
+<<3633.74;3636.78;en>>
+Those are the questions asked by the judges.
+
+<<3636.78;3645.38;en>>
+We will now suspend the hearing for 30 minutes until 11.30 local time, 11.30 sharp.
+
+<<3645.38;3651.1;en>>
+The hearing will resume with the parties answering the questions of the judges.
+
+<<3651.1;3653.18;en>>
+Thank you very much.
+
+<<3653.18;3653.62;en>>
+11.30.
+
+[[Announcer;UNK]]
+
+<<3943.63;3944.35;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<3949.11;3956.45;en>>
+The hearing is resumed, and I give the floor to Mr. Rotari for the government's reply.
+
+<<3956.45;3956.45;en>>
+Please, you have the floor.
+
+[[Government;GR1]]
+
+<<3961.52;3968.8;en>>
+Thank you Mr. President and thank you Honorable Judges of the Grand Chamber for the questions
+
+<<3968.8;3971.6;en>>
+asked to the government.
+
+<<3971.6;3987.52;en>>
+So I will start by replying to the questions of Judge Shooking about the right to broadcast in general and the sanctions applied.
+
+<<3987.52;4033.08;en>>
+So first of all it has to be mentioned that the right to broadcast in this case must be subjected to legal regulations and the government remind and recall including to the applicant that it had been sanctioned about 20 times for various reasons and each time the council decided to apply milder sanctions even if the very first time it could have been a public warning and the second could have been a pecuniary fine, the third could have been a suspension for 5, 3, 30 days and so on but and then the fifth one could have been the withdrawal of the license.
+
+<<4033.08;4057.08;en>>
+However the government want to stress that these 18 sanctions could have probably been just 5 or 6 before the withdrawal of the license but the government and the authorities decided to sanction the applicant company about 18 times before withdrawing that license for only that period of time.
+
+<<4057.08;4068.36;en>>
+The government want to stress that the applicant company could reapply for a license within 12 months after the withdrawal of the license.
+
+<<4068.36;4086.92;en>>
+In the government's opinion that period of time could have been used for the applicant or for any other company sanctioned with that to reset its policy and to rethink its strategies in order to comply with the regulations.
+
+<<4086.92;4098.4;en>>
+The government want to reiterate and to stress to highlight that the main goal of the authorities was not to withdraw anyone's license, broadcasting license.
+
+<<4098.4;4118.86;en>>
+They just wanted to apply sanctions gradually and formally just to reset and to determine any applicant including the other applicants to re-enter the legal specifics of the norm, just to re-enter legality.
+
+<<4118.86;4138.08;en>>
+So that is why the authority applied several milder sanctions as I said about 18 sanctions although it could have applied just 3 or 4 and then withdrawn the license immediately.
+
+<<4138.08;4156.7;en>>
+To answer Judge O'Leary's question about the 15 days, the 15 working days, that period of time was expressly provided by the legislation for the audiovisual council.
+
+<<4156.7;4177.66;en>>
+It is a period, it is a maximum period within which the council had to examine any wrongdoing or any action by a broadcaster and it basically was not for the applicants to be informed or to be granted time to respond.
+
+<<4177.66;4233.3;en>>
+Also the government submitted in their observations explicit information about the broadcasters that had been sanctioned during that period of time and we reiterate it was not just the applicant company, it was also the public broadcaster and other private broadcasters for various shortcomings, for various violations and I reiterate the main difference between the applicant and the other one sanctioned was that the other ones did comply with those sanctions and they did re-enter legality whereas the applicant just chose to disregard any of those sanctions and just continued the same editorial policy and the same lack of pluralism either internal or external.
+
+<<4233.3;4245.98;en>>
+So just to answer the question, it was not just the applicant, it was about many broadcasters and that information is in the government's submissions.
+
+<<4245.98;4260.38;en>>
+And about the question on the way the audiovisual council decides on when and how to unfold the monitoring, it could be done in different ways.
+
+<<4260.38;4282.22;en>>
+Basically it is as a result of notifications of individuals or legal persons but it is also made ex officio especially in the electoral periods of time, it means prior to the elections when they occur.
+
+<<4282.22;4329.78;en>>
+Concerning judges Barton and Pavley's questions about article 3810 and 388 of that law, the code, well, it was changed after the revocation, after the withdrawal of this license and we don't really see any connection with this case since it occurred later on but in any way the constitutional court mentioned about the fact that it didn't need to pronounce itself on the abstract proportionality of the sanction because it basically referred itself to the lack of procedural guarantees of that provision.
+
+<<4329.78;4347.34;en>>
+So in fact, the constitutional court did not examine the very merits of the case limiting itself to some procedural lack of procedural guarantees.
+
+<<4347.34;4383.06;en>>
+And referring to judges Pavley's question about the recommendation concerning the two thirds of the members of parliament for electing the members of the audiovisual council, the government would like to mention or to know that whenever we had the presidential republic, I mean when the president was elected by the parliament itself, it was very complicated to achieve two thirds of the members of parliament or the majority of two thirds in this case.
+
+<<4383.06;4410.02;en>>
+So therefore, it was basically renounced to apply the two thirds and it was opted for the simple majority of the members of parliament even simply because in the political reality of the republic of Moldova that might have been even impossible, not to say very complicated.
+
+<<4410.02;4449.42;en>>
+Concerning that same notification of the judgment of the constitutional court, it should be noted that the constitutional court was notified by a member of parliament and therefore, all the ethics of that constitutional court's judgment could not be applied for the past but only for the future in this case.
+
+<<4449.42;4470.18;en>>
+There was a question about the fact or about the possibility of the applicant companies to request the adjournment of the examination of the case or if they had enough time to prepare for the examination of their shortcoming by the audiovisual council.
+
+<<4470.18;4481.94;en>>
+It has been noted that under the Moldovan law, the applicant could request the adjournment or the extension of the time limit to present its position.
+
+<<4481.94;4491.74;en>>
+They could request the adjournment of the examination of its case and therefore, it could have had enough time to prepare its defense.
+
+<<4491.74;4507.54;en>>
+We have to note that there were not such requests in the present case of the present applicant and therefore, while they could have availed themselves of this right but they didn't.
+
+<<4507.54;4516.22;en>>
+I think that concludes my presentation. Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4518.96;4520.46;en>>
+Thank you very much indeed, Mr. Rotari.
+
+<<4520.46;4525.1;en>>
+Now I turn to the representative of the applicant, Ms. Nica, you have the floor.
+
+[[Applicant;AP1]]
+
+<<4527.8;4529.24;en>>
+Thank you, Mr. President.
+
+<<4529.24;4533.36;en>>
+Thank you, distinguished members of the court, for questions.
+
+<<4533.36;4545.06;en>>
+I will start with the first question of Judge Shookin with regard to the evidence proving that the attitude for the applicant was politically biased.
+
+<<4545.06;4567.24;en>>
+In this regard, there is concrete evidence of key political figures of the state that, for example, on 4 December 2009, the president at the interim of the state in the plenum of the parliament stated openly, and it could be seen on the YouTube channel, on the YouTube, that that is a quotation.
+
+<<4567.24;4572.6;en>>
+If I order, the company NIT would not exist anymore.
+
+<<4572.6;4598.88;en>>
+Also, the prime minister of the state and the same president at the interim of the state, on 8 and 9 September 2010, both publicly accused and declared that the NIT company violated the legislation, manipulated public opinion, and refused to give replicates.
+
+<<4598.88;4602.04;en>>
+And they called to sanctioning on the channel.
+
+<<4602.04;4621.64;en>>
+Meanwhile, the same prime minister of the country, during meetings with press, refused to offer comments to the channel, saying that he is not going to give comments to a representative of the party, to a party structure, but only to the representatives of the media.
+
+<<4621.64;4653.56;en>>
+Also, the president of the Parliamentary Commission for Culture, Science, Education, and Mass Media, when debating in the parliament the report of the activity of the Audiovisual Coordinating Council for 2009, presented in 2010, declared that the Audiovisual Coordinating Council should have acted better and have more critical position for the NIT channel.
+
+<<4653.56;4670.72;en>>
+All these declarations of key political figures of the state as prime minister of the country, president at the interim of the country, proves that the attitude to the channel was not quite the same as the attitude to the other channels.
+
+<<4670.72;4679.2;en>>
+So we consider that these statements that can be verified, they are publicly available till now, most of them.
+
+<<4679.2;4694.36;en>>
+And also, they were noted in the request for interim measures submitted to the court initially in 2012, prove the specific character, specific politically biased character, to the channel itself.
+
+<<4694.36;4713.32;en>>
+As to the question of Judge O'Leary, followed up by Judge Lemans, with regard to the terms of the preparation of the meeting and the possibility of the applicant to submit its position, we consider that it was very quick.
+
+<<4713.32;4724.52;en>>
+There were only several days between all these events took place, and it was not possible clearly to present an accurate position.
+
+<<4724.52;4729.36;en>>
+What about the possibility to ask the adjournment?
+
+<<4729.36;4743.36;en>>
+Remembering the practice, and even from the documents submitted for the government, which refer to different meetings of the World of Visual Coordinating Channel, the possibility of adjournment was never discussed as such.
+
+<<4743.36;4748.8;en>>
+So we consider that even asking for adjournment, it would not change the situation to better.
+
+<<4748.8;4759.68;en>>
+And in this regard, I would like to point that a specific situation of the applicant can also be seen from the fact that on the 5th of April, the decision was adopted.
+
+<<4759.68;4767.6;en>>
+The same day, the applicant, according to the administrative law, lodged a request to the World of Visual Coordinating Council to annul that decision.
+
+<<4767.6;4776.24;en>>
+And it was examined only on the 29th of April, practically 20 days later.
+
+<<4776.24;4786.36;en>>
+While the 6th of April, the applicant also lodged a request to the court asking for adoption of the interim measure but near suspension of the decision.
+
+<<4786.36;4797.68;en>>
+So these terms, when deciding on the applicant's request to annul the decision, were differently from the possibility offered to the applicant to present its position.
+
+<<4797.68;4809.16;en>>
+And also remembering that during the meeting, the applicant company was represented practically by one single person on the page of the monitoring report.
+
+<<4809.16;4823.6;en>>
+As to the question put by Judge Pavly with regard to the constitutional court decision, according to national law and according to the law on the constitutional court, it is indeed the constitutional court's decision.
+
+<<4823.6;4830.2;en>>
+The constitutional court decision are benefits of the authority res judicata from now to law.
+
+<<4830.2;4833.08;en>>
+So they are not applied retroactively.
+
+<<4833.08;4836.64;en>>
+However, it is a continuous situation.
+
+<<4836.64;4842.3;en>>
+The applicant's case is still under examination on its merits in the courts.
+
+<<4842.3;4858.42;en>>
+From the constitutional point of view, from the point of view of the constitutional law, and also the European Convention on Human Rights, according to national legislation, has a primary character over all other legal norms and acts.
+
+<<4858.42;4875.7;en>>
+We consider that the national courts should take into account the constitutional court opinion and should not limit themselves only to the consideration of examining the case from the perspective of the administrative law, a very narrow and specific provision.
+
+<<4875.7;4886.78;en>>
+Because the consequences of the decision adopted by the individual coordinating council was infringing their fundamental rights and one of the basic rights as the right to the freedom of expression.
+
+<<4886.78;4898.36;en>>
+From this perspective, we consider that the constitutional court's decision in this case formulating that conclusion was obligatory to be taken into account by the courts.
+
+<<4898.36;4916.8;en>>
+The situation is even more specific because at that time in 2012, the adoption even later after the examination of the merits of the case or the constitutional court decision with reference to the case was not prescribed as a ground for a vision.
+
+<<4916.8;4928.64;en>>
+The ground for a vision or the taking into account the constitutional court decisions in a very specific conditions were introduced in the civil proceedings called later.
+
+<<4928.64;4946.44;en>>
+So at that time, practically that conclusion of the constitutional court that indeed referred to a request submitted by a deputy of the parliament on the interpretation of the specific norm of immediate enforcement of the decisions of the individual coordinating council.
+
+<<4946.44;4957.64;en>>
+Though the constitutional court said that it was not ensuring the basic guarantees under the convention, it had never been taken into account by the courts.
+
+<<4957.64;4967.22;en>>
+So it is a paradoxical legal situation because the violation of the right not to have suspended immediately the broadcasting license is recognized.
+
+<<4967.22;4971.0;en>>
+The case under the merits is still in the first instance court.
+
+<<4971.0;4977.24;en>>
+And however, this conclusion on the constitutional form of the state is neglected.
+
+<<4977.24;4992.96;en>>
+As to the question of Judge Turkovic about the monitoring, as far as the applicant concerns and say, the monitoring was decided by the audiovisual coordinating council on its own and with the monitoring report.
+
+<<4992.96;5002.64;en>>
+So this specific activity took completely to the mandate of the audiovisual coordinating council.
+
+<<5002.64;5006.44;en>>
+They could have regular monitoring, ad hoc monitoring.
+
+<<5006.44;5015.4;en>>
+From the perspective of practice, the monitoring of the applicant, he used bulletins and generally contents.
+
+<<5019.96;5026.72;en>>
+It was a specific and more attentive, let's say, monitoring during the electoral campaign.
+
+<<5026.72;5029.32;en>>
+During the electoral campaign of referendum 2010.
+
+<<5029.32;5041.2;en>>
+During 2012, then, the discussion of the possibilities of the election of the president and some specific legal provisions in this regard happened in the Moldovan parliament.
+
+<<5041.2;5049.48;en>>
+Specific discussions with regard to the compliance of the terms of election of the president were discussed.
+
+<<5049.48;5057.56;en>>
+So in this period, there was more specific, more attentive from our point of view, monitoring of the programs.
+
+<<5057.56;5071.36;en>>
+Also, I would like to supplement with the question with the object of the area, if I'm not mistaken, with regard to sanctioning of other broadcasters.
+
+<<5071.36;5074.08;en>>
+Indeed, some broadcasters were also sanctioned.
+
+<<5074.08;5089.24;en>>
+But even according to the minutes of meetings submitted by the government, firstly, they're practically in the whole part, the discussions of the members of the council referred to the NIT channel.
+
+<<5089.24;5098.04;en>>
+The discussions and debates on the content of other broadcaster were rather short.
+
+<<5098.04;5108.84;en>>
+And also, the sanctions applied were not so drastic as in regard to the applicant.
+
+<<5108.84;5113.0;en>>
+I think that is all that I could say on the questions formulated.
+
+<<5113.0;5114.0;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<5113.55;5114.95;en>>
+Thank you very much indeed.
+
+<<5114.95;5118.89;en>>
+Do any judges want to follow up on their questions?
+
+<<5118.89;5120.09;en>>
+I see...Judge Turković
+
+[[Judge;Ksenija Turković]]
+
+<<5125.25;5142.75;en>>
+Do we know in this concrete case who ordered the monitoring and on which basis with which explanation this five days monitoring that was taking place before we got this decision that we are having in front of us?
+
+[[JudgeP;Robert Spano]]
+
+<<5143.5;5145.66;en>>
+Mr. Rotari, could you comment on the question
+
+<<5145.66;5148.02;en>>
+by Vice President Turković, please?
+
+[[Government;GR1]]
+
+<<5152.37;5156.21;en>>
+Thank you, Mr. President, and thank you to Judge Turković.
+
+<<5156.21;5159.41;en>>
+That was mainly an ex officio decision.
+
+<<5159.41;5163.21;en>>
+It was not just targeted to the applicant.
+
+<<5163.21;5169.59;en>>
+It was also done involving other companies.
+
+<<5169.59;5175.97;en>>
+And it was not just against the, it was not the monitoring of the applicant company only.
+
+<<5175.97;5179.93;en>>
+So it was an ex officio decision of the Auto Visual Council.
+
+[[JudgeP;Robert Spano]]
+
+<<5182.86;5183.88;en>>
+Thank you very much.
+
+<<5183.88;5186.44;en>>
+Ms. Nica, do you want to add anything to that answer?
+
+[[Applicant;AP1]]
+
+<<5189.33;5191.97;en>>
+President, thank you, and Turković.
+
+<<5191.97;5202.17;en>>
+From our point of view, the monitoring was organized indeed at the decision of the audiovisual coordinating council by their own position in this regard.
+
+<<5202.17;5212.45;en>>
+However, their attention was distinctly connected, especially to the bulletins that were presented by the applicant company.
+
+<<5212.45;5216.29;en>>
+In comparison with the bulletins of the other broadcasters.
+
+[[JudgeP;Robert Spano]]
+
+<<5217.9;5219.3;en>>
+Thank you very much indeed.
+
+<<5219.3;5221.3;en>>
+Thank you very much indeed.
+
+<<5221.3;5225.73;en>>
+That concludes our session this morning.
+
+<<5225.73;5232.38;en>>
+I thank the applicant and the government for their submissions and the answers to the court's questions.
+
+<<5232.38;5235.9;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<5235.9;5241.52;en>>
+The judgment will be delivered later and the parties will be informed of the date of delivery.
+
+<<5241.52;5241.52;en>>
+I therefore declare the hearing closed.
+

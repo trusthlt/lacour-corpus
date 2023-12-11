@@ -1,0 +1,3119 @@
+[[Announcer;UNK]]
+
+<<10.39;10.99;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<47.44;47.96;fr>>
+Bonsoir.
+
+<<54.72;62.8;fr>>
+Je déclare ouverte l'audience publique sur le fonds de l'affaire Al-Dulimi et Montana Management contre Suisse.
+
+<<64.36;83.48;fr>>
+La requête a été introduite devant la Cour le 1er février 2008 en vertu de l'article 34 de la Convention par un ressortissant irakien, monsieur Khalaf M. Al-Dulimi, et par une société de droits panaméens, la Montana Management Incorporated, dont le requérant était directeur.
+
+<<83.48;91.72;fr>>
+L'affaire a été attribuée à la deuxième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<91.72;103.16;fr>>
+Celle-ci a autorisé les gouvernements britanniques et français à intervenir dans la procédure écrite comme tierce partie.
+
+<<103.16;118.64;fr>>
+Le 26 novembre 2013, une chambre de la deuxième section a rendu un arrêt dans lequel elle a déclaré la requête recevable quant au grief tiré de l'article 6, paragraphe 1 de la Convention et irrecevable pour le surplus.
+
+<<118.64;122.92;fr>>
+Elle a conclu à la violation de l'article 6, paragraphe 1 de la Convention.
+
+<<122.92;139.48;fr>>
+Le 25 février 2014, le gouvernement défendeur a demandé le renvoi de l'affaire devant la grande chambre conformément à l'article 43 de la Convention et cette demande a été acceptée par le Collège de la Grande Chambre le 14 avril 2014.
+
+<<139.48;153.24;fr>>
+Par la suite, les gouvernements britanniques et français ont été autorisés à prendre part à l'audience en tant que tierce partie en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<153.24;164.28;fr>>
+Le gouvernement défendeur est représenté par son agent, M. Frank Schürmann, chef de l'Unité Protection Internationale
+
+<<164.28;173.76;fr>>
+des Droits de l'Homme à l'Office fédéral de la Justice, assisté de M. Valentin Zellweger, Roland Vock et Adrian Scheidegger
+
+<<173.76;179.36;fr>>
+et de Mme Cordelia Ehrich et Nina Blum, conseillers.
+
+<<179.36;184.24;fr>>
+Les parties requérantes sont représentées par M. Jean-Cédric Michel,
+
+<<184.24;189.28;fr>>
+avocat au barreau de Genève, assisté de M. Thamer Obeidat
+
+<<189.28;195.32;fr>>
+et du professeur Andrea Bianchi et de M. Sébastien Fries, conseil.
+
+<<195.32;200.16;fr>>
+Le requérant, M. Al-Dulimi, est également présent.
+
+<<200.16;211.04;fr>>
+Le gouvernement du Royaume-Uni est représenté par Mme Indira Rao agente, M. Jeremy Wright QC, MP, Attorney General,
+
+<<211.04;216.04;fr>>
+assisté de M. Samuel Wordsworth QC, conseil,
+
+<<216.04;220.76;fr>>
+ainsi que de M. Andrew Murdoch et de Mme Naomi Davey,
+
+<<220.76;225.28;fr>>
+Thérése N'Djaï et Laura D'Eubéden, conseiller.
+
+<<225.28;230.8;fr>>
+Le gouvernement français est représenté par M. Géraud de Bergues,
+
+<<230.8;240.72;fr>>
+co-agent, directeur des Affaires juridiques au ministère des Affaires étrangères et du Développement international, assisté de M. David Lemétayer
+
+<<240.72;246.44;fr>>
+et Rodolphe Féral et de Mme Mathilde Janicot, conseiller.
+
+<<246.44;252.08;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<252.08;282.12;fr>>
+Je salue également la délégation de magistrats de la Cour de cassation française, la délégation de juges laitons, la délégation de juges russes, la délégation de juges procureurs et juristes moldaves, la délégation de juges turcs, la délégation de juges et procureurs bulgares, ainsi que la délégation de juges et juristes japonais en visite à la Cour européenne des droits de l'homme.
+
+<<282.12;296.64;fr>>
+Je dois expliquer qu'en suste l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en russe et en turc, a été autorisée au profit des groupes de magistrats en visite à la Cour.
+
+<<296.64;306.24;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<306.24;319.44;fr>>
+Ayant consulté l'agent du gouvernement défendeur et le représentant des parties requérantes, ainsi que les représentants des tierces parties, j'ai fixé ainsi l'ordre de parole.
+
+<<319.44;332.44;fr>>
+Nous entendrons successivement Maître Jean-Cédric Michel et Mme Andrea Bianchi pour les requérants, puis M. Frank Schürmann et M. Valentin Zellweger
+
+<<332.44;338.24;fr>>
+pour le gouvernement défendeur, ensuite M. Jeremy Wright pour le gouvernement britannique
+
+<<338.24;343.04;fr>>
+et enfin M. Géraud de Bergues pour le gouvernement français.
+
+<<343.04;344.04;fr>>
+La parole est à Maître Michel.
+
+[[Applicant;AP1]]
+
+<<351.13;353.65;en>>
+Don't lecture us about the law, Mr Michel.
+
+<<353.65;359.49;en>>
+We know the law, we know all this, but here we don't do law, we do politics.
+
+<<359.49;380.39;fr>>
+Monsieur le Président, mesdames, messieurs, les juges de la Cour, voilà ce qui nous a été dit avec franchise et d'entrée le 5 juin 2008, lorsque Maître Obedat et moi-même avons été reçus à l'ONU à New York par deux représentantes du nouveau point focal pour les requêtes de délisting et du comité des sanctions 1518.
+
+<<380.39;387.93;fr>>
+Le point focal venait d'être mis en place sous la pression déjà des carences du système en termes de garanties fondamentales.
+
+<<387.93;399.19;fr>>
+Nous avons été les seuls avocats de partis privés à avoir jamais été reçus par un organe subsidiaire du Conseil de sécurité qui ne traite d'ordinaire qu'avec des États.
+
+<<399.19;403.59;fr>>
+Mais nous donneriez-vous les preuves, les éléments qui fondent la désignation?
+
+<<403.59;404.83;fr>>
+Non.
+
+<<404.83;410.29;fr>>
+Mais nous diriez-vous au moins quel est l'État qui a demandé la désignation de nos clients sur les listes?
+
+<<410.29;411.33;fr>>
+Non.
+
+<<411.33;420.73;fr>>
+Tout ce que vous pouvez faire est de nous demander le délisting, vous nous expliquez pourquoi, nous consulterons les États et vous recevrez la réponse.
+
+<<420.73;431.99;fr>>
+La réponse tombera le 6 janvier 2009 en deux lignes, sans motif ni instruction, les noms restent sur la liste, ce furent les termes employés.
+
+<<431.99;439.53;fr>>
+Eh bien aujourd'hui ici, Dieu merci, on ne fait pas de politique, on fait du droit, on applique la Convention.
+
+<<439.53;440.89;fr>>
+Au titre de plan, M. le Président,
+
+<<440.89;442.93;fr>>
+M. les juges de la Cour,
+
+<<442.93;445.43;fr>>
+60 secondes pour vous rappeler les faits.
+
+<<445.43;455.59;fr>>
+Je vous parlerai ensuite du contexte et du sens du vent, puis des enjeux et vous dirai pourquoi la position du gouvernement part de prémices qui sont fausses.
+
+<<455.59;461.09;fr>>
+Enfin, je défendrai la structure et la solution juste de l'arrêt de chambre.
+
+<<461.09;469.63;fr>>
+Puis avec votre permission, mon co-conseil, le professeur Andréa Bianchi, vous parlera du point que la Chambre a qualifié de question préalable.
+
+<<469.63;471.83;fr>>
+Il le distinguera de l'article 6.
+
+<<471.83;479.19;fr>>
+Il vous parlera de l'intégration de la solution de l'arrêt dans le système de la Cour et dans le droit international.
+
+<<479.19;483.73;fr>>
+J'aimerais vous dire que nous parlons également au nom de notre co-conseil, M. Tamer Obeydat,
+
+<<483.73;485.29;fr>>
+du barreau de Jordanie.
+
+<<485.29;488.49;fr>>
+M. Obeydat plaide avec nous depuis le début de cette affaire.
+
+<<488.49;490.09;fr>>
+Il est présent aujourd'hui.
+
+<<490.09;495.99;fr>>
+Le requérant a également fait le déplacement devant votre Cour.
+
+<<495.99;498.49;fr>>
+60 secondes pour rappeler les faits.
+
+<<498.49;503.19;fr>>
+Ils ne sont pas litigieux et leur exposé dans l'arrêt de chambre est exact.
+
+<<503.19;506.09;fr>>
+M. Aldoulimier et sa société Montana ont leurs avoirs
+
+<<506.09;509.49;fr>>
+gelés en Suisse depuis 1990.
+
+<<509.49;513.89;fr>>
+D'abord au titre de l'application par la Suisse du premier embargo sur l'Irak.
+
+<<513.89;530.79;fr>>
+Depuis 2004, au titre de la législation et des décisions internes de mise en œuvre de la résolution 1483, leurs avoirs furent confisqués en 2006 par des décisions de droit interne, confirmées en 2008 par le tribunal fédéral.
+
+<<530.79;534.75;fr>>
+24 ans que M. Aldoulimier et sa société Montana sont affectés
+
+<<534.75;549.55;fr>>
+par un gel, puis par une confiscation, sans aucune forme de procès, cent ans dans le respect de l'article 6, un examen matériel et concret, une possibilité concrète de contester, simplement de se défendre.
+
+<<549.55;551.43;fr>>
+24 ans.
+
+<<551.43;554.23;fr>>
+M. Aldoulimier et sa société Montana n'ont jamais été cités
+
+<<554.23;561.83;fr>>
+devant aucun tribunal que ce soit, ni civil, ni pénal, ni administratif, ou que ce soit.
+
+<<561.83;568.05;fr>>
+Leur nom demeure donc sur la liste annexe à la résolution 1483, indéfiniment donc.
+
+<<568.05;573.59;fr>>
+24 ans hors du droit, 24 ans d'arbitraire au sens sémantique du terme.
+
+<<573.59;576.73;fr>>
+Il n'y a, je crois, rien d'autre à ajouter.
+
+<<576.73;582.13;fr>>
+Le processus interne qui fonde la confiscation est décrit dans la requête de manière précise.
+
+<<582.13;586.85;fr>>
+Son déroulement n'est pas litigieux non plus.
+
+<<586.85;591.43;fr>>
+Le contexte et le sens du vent qui sont essentiels à votre décision.
+
+<<591.43;596.05;fr>>
+Devant vous, dans cette affaire, les États font de la politique.
+
+<<596.05;599.23;fr>>
+Mais les États sont schizophrènes, divisibles.
+
+<<599.23;602.33;fr>>
+Chacun est dans son rôle, c'est la règle du jeu.
+
+<<602.33;607.69;fr>>
+Mais pour le Royaume-Uni, c'est le foreign office qui parle, par le juriste de la couronne.
+
+<<607.69;610.43;fr>>
+Mais sa Cour suprême dit le contraire.
+
+<<610.43;613.23;fr>>
+Sa Cour suprême dit ce que dit l'arrêt de chambre.
+
+<<613.23;625.19;fr>>
+La France, la patrie des droits de l'homme, vient vous dire aujourd'hui qu'il faudrait les mettre de côté, parce qu'elle a sur la tête son seul chapeau de membre permanent du Conseil de sécurité.
+
+<<625.19;632.43;fr>>
+La France et le Royaume-Uni plaident contre l'arrêt de chambre, alors qu'ils sont soumis à Cadie en tant que membres de l'Union.
+
+<<632.43;634.45;fr>>
+Il faut un certain aplomb.
+
+<<634.45;642.89;fr>>
+Et la Suisse prêche partout les droits de l'homme, mais les viole ici, en l'admettant, en prétendant qu'on lui oblige ce qui est faux.
+
+<<642.89;646.45;fr>>
+La Suisse fait valoir la position de ses affaires étrangères.
+
+<<646.45;649.03;fr>>
+Mais sachez que son propre Parlement dit le contraire.
+
+<<649.03;655.63;fr>>
+Son propre Parlement refuse d'appliquer les sanctions, hors le respect des garanties fondamentales de procédure.
+
+<<655.63;659.59;fr>>
+C'est une position pour le moins inconfortable.
+
+<<659.59;665.49;fr>>
+Les droits de l'homme, acquis de haute lutte au cours de l'histoire, demeurent un combat de tous les jours.
+
+<<665.49;680.43;fr>>
+La Convention et votre pouvoir juridictionnel existent précisément pour contenir les pouvoirs et empêcher les excès de l'État, pour faire respecter les droits fondamentaux face à de telles situations d'intérêt.
+
+<<680.43;687.49;fr>>
+Parenthèse historique, vous êtes, selon votre propre film sur le site de la Cour, la conscience de l'Europe.
+
+<<687.49;700.89;fr>>
+En mots simples et en images fortes, ce clip rappelle que le Conseil de l'Europe s'est construit sur les décombres de la Seconde Guerre pour, sur le même pied, au même rang, sauvegarder la paix et défendre les droits de l'homme.
+
+<<700.89;712.75;fr>>
+Juste après les atrocités de la guerre, le Conseil de l'Europe ne plaçait pas déjà la paix et la sécurité au-dessus des droits de l'homme, il les conjuguait ensemble.
+
+<<712.75;718.75;fr>>
+Au plan du sens du vent, la position que la Suisse fait valoir est aujourd'hui dépassée.
+
+<<718.75;722.19;fr>>
+Elle va à contre-courant de tous.
+
+<<722.19;760.13;fr>>
+À Cour de justice de l'Union européenne, dans Cadi, 27 États, qui sont la majorité des 47 vôtres, votre Cour, par l'arrêt de chambre, votre Grande Chambre, par l'arrêt NADA, l'Assemblée parlementaire du Conseil de l'Europe, avec sa légitimité démocratique, la Suisse, par son propre Parlement, avec sa légitimité démocratique, le Comité des droits de l'homme, dans Sayadi et Vink, et enfin l'ONU elle-même, qui postule les droits de l'homme et en demande le respect dans la mise en œuvre des sanctions.
+
+<<760.13;763.79;fr>>
+Et la Suisse, M. le Président, Mesdames, Messieurs,
+
+<<763.79;775.79;fr>>
+les juges de la Cour, vous demandent de vous mettre à contre-sens de ces institutions, à contre-sens de la réalisation des droits de l'homme, de consacrer un espace de non-droit.
+
+<<775.79;792.03;fr>>
+Il ne nous apparaît pas envisageable que la Cour dédiée aux droits de l'homme se situe en deçà de la Cour généraliste de l'Union européenne lorsqu'elle dit que la mise en œuvre des sanctions doit respecter son ordre constitutionnel dans tout son territoire.
+
+<<792.03;797.15;fr>>
+Vous avez votre responsabilité institutionnelle, votre orgueil institutionnel.
+
+<<797.15;803.99;fr>>
+Chacun dans le sien, c'est votre rôle d'appliquer la Convention là où l'exécutif fait valoir des intérêts.
+
+<<803.99;815.13;fr>>
+Pour autant, la balle que la Suisse met dans votre camp peut sembler intimidante.
+
+<<815.13;819.73;fr>>
+La question, les enjeux peuvent sembler légitimes, problématiques.
+
+<<819.73;821.09;fr>>
+Et puis, c'est l'ONU.
+
+<<821.09;824.53;fr>>
+Vous, juge de Strasbourg, ne vous mettez pas en travers de l'ONU.
+
+<<824.53;827.85;fr>>
+C'est finalement ce que l'on vous demande.
+
+<<827.85;836.55;fr>>
+Mais pour autant toujours, la problématique qui vous est présentée par la Suisse part de postulats qui sont foncièrement erronés.
+
+<<836.55;847.59;fr>>
+Le premier qui affecte tout le raisonnement est que la Suisse serait prise entre le marteau et l'enclume, qu'elle serait l'otage de deux obligations internationales contradictoires.
+
+<<847.59;851.53;fr>>
+La Suisse admet l'insuffisance du processus devant l'ONU.
+
+<<851.53;859.95;fr>>
+Elle admet la violation de la teneur de la Convention, mais elle ne veut pas être condamnée pour cette violation puisqu'elle lui serait imposée.
+
+<<859.95;866.55;fr>>
+Or, comme votre Chambre l'a correctement apprécié, le problème ne s'oppose pas en ces termes.
+
+<<866.55;872.05;fr>>
+Tout d'abord, présenter un tel dilemme est hypocrite et faux.
+
+<<872.05;877.73;fr>>
+L'ONU postule le respect des mêmes droits fondamentaux que la Convention.
+
+<<877.73;883.19;fr>>
+Elle en postule le respect en général, dans la charte, pour toute son activité.
+
+<<883.19;889.93;fr>>
+Elle en postule le respect au plan particulier, dans l'application des sanctions.
+
+<<889.93;899.19;fr>>
+Voulez-vous, mesdames, messieurs les juges, vous en assurer, je vous prierai de vous référer à la pièce 57 que nous avons produite.
+
+<<899.19;905.49;fr>>
+C'est une liste de décisions, résolutions ou procès-verbaux de l'ONU.
+
+<<905.49;919.79;fr>>
+94 décisions ou résolutions, 94, de l'Assemblée générale ou du Conseil de sécurité, affirment les droits de l'homme et appellent à leur respect dans l'application du régime des sanctions.
+
+<<919.79;937.29;fr>>
+9 rapports ou procès-verbaux du Conseil de sécurité ou de son monitoring team, constatent que la procédure devant le point focal pour les requêtes de délisting, respectivement devant l'Ombudsman, qui n'intervient pas dans la résolution 1483, n'est pas conforme aux garanties fondamentales.
+
+<<937.29;952.09;fr>>
+16 rapports ou procès-verbaux, enfin, du Conseil de sécurité ou de son monitoring team, prennent acte, prennent simplement acte de contestation judiciaire de la mise en oeuvre de sanctions dans les États membres.
+
+<<952.09;957.95;fr>>
+Je ne vous lis que quelques passages très brefs, mais qui sont parlants, qui sont décisifs aujourd'hui.
+
+<<957.95;968.05;fr>>
+La résolution 68-178 de l'Assemblée générale de décembre 2013, sous l'intitulé Protection des droits de l'homme et des libertés dans la lutte antiterroriste.
+
+<<968.05;970.59;fr>>
+Toutes les résolutions ont la même teneur.
+
+<<970.59;980.45;fr>>
+Il s'agit du même type de sanctions, de l'application du chapitre 7, tout en étant rappelé toutefois que la présente affaire ne concerne pas le terrorisme.
+
+<<980.45;1006.83;fr>>
+L'Assemblée générale, réaffirmant les buts et les principes énoncés dans la Charte des Nations unies, réaffirmant la déclaration universelle des droits de l'homme, réaffirmant qu'il est d'une importance primordiale de veiller au respect de tous les droits de l'homme et libertés fondamentales et de l'État de droit, y compris face au terrorisme et à la crainte qui l'inspirent, réaffirmant également que les États sont tenus de protéger tous les droits de l'homme et libertés fondamentales de tous.
+
+<<1006.83;1023.59;fr>>
+Point 1 de la résolution réaffirme que les États doivent s'assurer que toute mesure prise pour combattre le terrorisme est conforme aux obligations que leur impose le droit international, en particulier le droit de l'homme, le droit des réfugiés et le droit humanitaire.
+
+<<1023.59;1046.19;fr>>
+Point 12 engage instantanément les États à veiller, tout en s'employant à respecter pleinement leurs obligations internationales, au respect de l'État de droit et à prévoir les garanties nécessaires en matière de droit de l'homme dans les procédures nationales d'inscription de personnes et d'entités sur des listes aux fins de la lutte anti-terroriste.
+
+<<1046.19;1054.33;fr>>
+Un seul passage d'une déclaration du président du Conseil de sécurité de novembre 2014, qui n'est donc pas citée dans notre pièce.
+
+<<1054.33;1072.49;fr>>
+Le Conseil réaffirme que les États membres doivent veiller à ce que toutes les mesures qu'ils prennent pour combattre le terrorisme soient conformes à toutes leurs obligations au regard du droit international, en particulier du droit international des droits de l'homme, du droit international des réfugiés et du droit international humanitaire.
+
+<<1072.49;1081.23;fr>>
+C'est en cela qu'il n'y a aucun conflit, ce que l'arrêt de Chambre a apprécié correctement par sa solution.
+
+<<1081.23;1086.59;fr>>
+Cet absence de conflit entraîne que l'article 103 n'est pas en jeu.
+
+<<1086.59;1087.99;fr>>
+Il n'est pas possible, M. le Président,
+
+<<1087.99;1096.25;fr>>
+Mme, Messieurs, de vous en présenter une lecture uniquement abstraite, isolée de son propre contexte.
+
+<<1096.25;1103.29;fr>>
+Il serait incompréhensible, intellectuellement illisible, d'admettre la position de la Suisse.
+
+<<1103.29;1111.19;fr>>
+Je viole la Convention, mais je ne dois pas être condamné parce que l'ONU me le demande, alors que l'ONU lui demande de les respecter.
+
+<<1111.19;1116.83;fr>>
+94 décisions ou résolutions dans ce sens ces 11 dernières années.
+
+<<1116.83;1123.55;fr>>
+Il n'y a pas l'ombre d'un conflit.
+
+<<1123.55;1134.89;fr>>
+La Suisse dit ensuite que la position de l'arrêt serait dommageable pour les sanctions ciblées de l'ONU, qui sont nécessaires pour la sécurité collective.
+
+<<1134.89;1144.89;fr>>
+Mesdames, Messieurs les juges de la Cour, il n'est jamais dommageable de respecter les droits de l'homme, encore moins lorsque l'ONU demande leur respect.
+
+<<1144.89;1154.05;fr>>
+On ne peut pas laisser un vide de droits fondamentaux dans un pan entier de l'activité étatique.
+
+<<1154.05;1158.93;fr>>
+Est-ce que l'ONU s'est plainte de l'arrêt Cadi ou de votre arrêt Nada?
+
+<<1158.93;1165.33;fr>>
+Est-ce que ces arrêts ont porté atteinte à la faculté de prendre des mesures en matière de sécurité collective?
+
+<<1165.33;1174.75;fr>>
+Est-ce que l'ONU s'est plainte auprès de ses États membres dans lesquels il y a eu des contestations judiciaires des sanctions, 26 au moment du dépôt de la requête?
+
+<<1174.75;1178.05;fr>>
+La réponse est non à ces trois questions.
+
+<<1178.05;1182.43;fr>>
+Personne, et certainement pas l'ONU, n'a critiqué l'arrêt de Chambre.
+
+<<1182.43;1186.45;fr>>
+Personne ne critiquera votre arrêt qui le confirmera.
+
+<<1186.45;1191.53;fr>>
+Et encore moins que nous ne sommes pas dans une situation de menace imminente à la sécurité collective.
+
+<<1191.53;1193.45;fr>>
+Il s'agit d'une confiscation.
+
+<<1193.45;1197.19;fr>>
+L'arrêt, une fois de plus, l'a dit le plus sainement du monde.
+
+<<1197.19;1199.49;fr>>
+C'est son paragraphe 130.
+
+<<1199.49;1204.69;fr>>
+Il s'agit donc de l'ONU, des sanctions, mais il faut désacraliser tout cela.
+
+<<1204.69;1209.35;fr>>
+Il n'y a pas par hypothèse de conflit entre la Convention et la Charte.
+
+<<1209.35;1212.59;fr>>
+Il n'y a pas de conflit entre la Cour et l'ONU.
+
+<<1212.59;1214.29;fr>>
+Vous postulez les mêmes droits.
+
+<<1214.29;1217.93;fr>>
+Vous pouvez être sans crainte.
+
+<<1217.93;1222.63;fr>>
+Enfin, l'approche est incroyablement rétrograde.
+
+<<1222.63;1224.43;fr>>
+Lisez les écritures de la Suisse.
+
+<<1224.43;1229.09;fr>>
+L'État, l'État, l'État, l'État.
+
+<<1229.09;1235.63;fr>>
+La seule dissertation qui vous est faite est celle des intérêts de l'État, de la force.
+
+<<1235.63;1238.29;fr>>
+C'est une position qui fait peur.
+
+<<1238.29;1240.69;fr>>
+Où est l'individu dans cette postulation?
+
+<<1240.69;1243.35;fr>>
+Celui dont vous êtes le gardien des droits.
+
+<<1243.35;1246.53;fr>>
+Il est absent. Il n'existe pas.
+
+<<1246.53;1258.19;fr>>
+La Suisse ne vous demande rien moins que d'abdiquer, de laisser l'individu hors de toute protection pour des motifs politiques qu'elle critique elle-même cet état de choses ne l'atténue en rien.
+
+<<1258.19;1259.53;fr>>
+Les enjeux, M. le Président,
+
+<<1259.53;1263.65;fr>>
+Mesdames, Messieurs les juges de la Cour, ne sont donc pas ce qu'il vous en est dit.
+
+<<1263.65;1271.45;fr>>
+Vous n'en aurez aucune crainte.
+
+<<1271.45;1278.53;fr>>
+Après le contexte et les cavéats, et pour terminer, quelques mots sur l'arrêt.
+
+<<1278.53;1283.29;fr>>
+L'arrêt que la Suisse vous demande illusoirement de revoir est foncièrement juste.
+
+<<1283.29;1287.35;fr>>
+Il est conforme aux principes que vous avez développés.
+
+<<1287.35;1290.09;fr>>
+Il est conforme à votre mission.
+
+<<1290.09;1294.79;fr>>
+Il s'accorde avec ce que d'autres instances ont dit.
+
+<<1294.79;1299.93;fr>>
+Il les cite longuement, scrupuleusement, en en ayant apprécié la portée.
+
+<<1299.93;1301.89;fr>>
+Et puis l'arrêt fait la part des choses.
+
+<<1301.89;1304.13;fr>>
+Il ne tombe pas dans le piège du conflit.
+
+<<1304.13;1309.93;fr>>
+Il relève qu'il ne s'agit en tout état pas de sécurité collective.
+
+<<1309.93;1315.43;fr>>
+Tous les juges et la Suisse admettent une violation de la teneur de l'article 6.
+
+<<1315.43;1323.69;fr>>
+C'est uniquement l'articulation avec les sanctions onusiennes qui semblent présenter une difficulté, mais qui n'existent pas en l'absence de conflit.
+
+<<1323.69;1339.39;fr>>
+L'arrêt applique dès lors, de manière juste, votre propre principe de protection équivalente qui a été développé précisément pour que la Convention et votre jurisprudence ne soient pas en vase clos, mais en symbiose avec l'ordre juridique international.
+
+<<1339.39;1343.93;fr>>
+Sans flatterie, cet arrêt est juste, cohérent et sain.
+
+<<1343.93;1349.39;fr>>
+Sur la compétence rationnée personnelle, l'article 1, déramé, n'est pas applicable, c'est très clair.
+
+<<1349.39;1356.09;fr>>
+Il applique Bosphorus, relève les actes nationaux, lois, décrets, décisions individuelles et concrètes.
+
+<<1356.09;1358.95;fr>>
+Ils sont imputables à la haute partie contractante.
+
+<<1358.95;1362.73;fr>>
+Ce sont les critères de la jurisprudence constantes de la Cour.
+
+<<1362.73;1367.29;fr>>
+Il renvoie le problème soulevé par la Suisse à la question préalable.
+
+<<1367.29;1374.13;fr>>
+Sur la compétence rationnée matérielle, des droits à caractère civil, l'article 6, pas de difficultés non plus.
+
+<<1374.13;1382.49;fr>>
+Au fond, il traite la question préalable, il privilégie la coexistence, l'harmonie, Michaud, Bosphorus, Gasparini.
+
+<<1382.49;1385.65;fr>>
+Il applique le principe de protection équivalente.
+
+<<1385.65;1388.73;fr>>
+La présomption de conformité n'est pas remplie.
+
+<<1388.73;1390.93;fr>>
+Cela, tout le monde en convient.
+
+<<1390.93;1396.15;fr>>
+Monsieur le professeur Andrea Bianchi développera le détail de ce point.
+
+<<1396.15;1401.79;fr>>
+Et puis au fond, l'article 6, pas de limitations justifiées, pas de proportionnalité.
+
+<<1401.79;1405.89;fr>>
+Il ne fait aucun doute que l'article 6 est violé.
+
+<<1405.89;1409.09;fr>>
+L'arrêt est fouillé.
+
+<<1409.09;1412.09;fr>>
+Il expose la situation au plan de l'ONU.
+
+<<1412.09;1414.99;fr>>
+Il expose les critiques à son encontre.
+
+<<1414.99;1419.49;fr>>
+Il apprécie tous les précédents qui fondent sa solution.
+
+<<1419.49;1422.19;fr>>
+Le paragraphe 131 est solidement motivé.
+
+<<1422.19;1426.45;fr>>
+La conclusion du paragraphe 134 est claire et forte.
+
+<<1426.45;1429.83;fr>>
+Cet arrêt n'est pas simplement juste, il est magnifique.
+
+<<1429.83;1434.79;fr>>
+Il porte haut l'autorité de votre cours et de son raisonnement.
+
+<<1434.79;1438.43;fr>>
+Et puis c'est une approche qui est irréprochable.
+
+<<1438.43;1457.63;fr>>
+Tant qu'il n'y a pas, au niveau du Conseil de sécurité, un mécanisme offrant une protection équivalente, le respect des droits fondamentaux s'exerce lors de la mise en œuvre par les États, comme l'ONU, le Conseil de sécurité, l'Assemblée générale leur demande, c'est la pièce 57 dont je vous ai fait référence.
+
+<<1457.63;1466.65;fr>>
+Or le système est encore insuffisant à son niveau, tout le monde en convient, ce n'est pas nécessairement problématique vu qu'il s'agit d'un organe politique.
+
+<<1466.65;1474.59;fr>>
+Personne ne demande d'appliquer la résolution 1483 en violant les droits de l'homme.
+
+<<1474.59;1486.19;fr>>
+Si vous supprimez le postulat de départ faux qui vous est plaidé, qui biaise le débat, la solution est cohérente, conforme à l'ordre juridique international.
+
+<<1486.19;1493.39;fr>>
+Monsieur le Président, Mesdames, Messieurs, les juges de la Cour, l'article 6 est l'un des plus fondamentaux de la Convention.
+
+<<1493.39;1497.93;fr>>
+En tant qu'avocat, je ne peux pas vous dire autre chose qu'il est le plus important.
+
+<<1497.93;1504.25;fr>>
+Sans lui, il n'y a plus d'autorité impartiale et indépendante pour faire respecter tous les autres.
+
+<<1504.25;1520.49;fr>>
+Il n'y a plus d'État de droit, il n'y a plus de démocratie, cette protection ne doit pas être concrète, elle ne doit pas être théorique, vous l'avez dit mille fois, l'arrêt de chambre le souligne spécifiquement à nouveau ici, cette protection doit être concrète.
+
+<<1520.49;1537.39;fr>>
+Vous n'enterrinerez pas une confiscation intervenue hors de toutes les garanties de l'article 6, certainement pas pour les motifs invoqués, l'impossibilité de contester la confiscation pendant des années est à peine concevable dans une société démocratique, c'est le paragraphe 131.
+
+<<1537.39;1545.29;fr>>
+Monsieur le Président, j'en ai terminé, je sollicite respectueusement que vous passiez la parole à mon co-conseil, le professeur Andrea Bianchi, et je vous remercie pour votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1546.36;1548.64;fr>>
+Merci, maître Michel.
+
+<<1548.84;1552.08;fr>>
+La parole est à M. le professeur Andrea Bianchi.
+
+<<1552.08;1554.08;fr>>
+M. le professeur, vous avez la parole.
+
+[[Applicant;AP2]]
+
+<<1556.76;1558.24;en>>
+Thank you, Mr. President.
+
+<<1558.24;1559.96;en>>
+Mr. President, distinguished members
+
+<<1559.96;1566.56;en>>
+of the European Court of Human Rights, I feel privileged to be able to address the court on a case of such importance.
+
+<<1566.56;1580.04;en>>
+The applicants, as the chamber conclusively ascertained, had the very essence of the right of access to a court impaired, as they were prevented from effectively challenging the confiscation of their assets before the Swiss courts.
+
+<<1580.04;1590.76;en>>
+This is really not controversial, as on the facts of the case, even the respondent state, at least implicitly, acknowledges in its written submissions a violation of Article VI, Paragraph 1.
+
+<<1590.76;1597.64;en>>
+A difference of opinion exists, however, as regards the limits that could justify restrictions on the exercise of Article VI.
+
+<<1597.64;1600.72;en>>
+And in this respect, a few remarks are in order.
+
+<<1600.72;1618.4;en>>
+Although, in principle, the measures in question might be considered as pursuing a legitimate aim, namely the maintenance of international peace and security, at closer scrutiny, it is indeed difficult to maintain that the confiscation of the applicant's assets does pursue such an aim.
+
+<<1618.4;1630.84;en>>
+In our individual request, we took issue with the contention that the contested measures could be regarded as being concerned with the legitimate aim of maintaining international peace and security.
+
+<<1630.84;1639.82;en>>
+We wrote then, and I quote, that one should not have the temerity of arguing that we are now before a concrete and imminent threat to international peace and security, end quote.
+
+<<1639.82;1651.24;en>>
+A few years later, also the chamber aptly recognized that in the case at hand, and unlike the situation in NADA, it was not a question of responding to an imminent threat of terrorism.
+
+<<1651.24;1663.08;en>>
+Perhaps at the time of its adoption, Resolution 1483 could be seen as a resolution taken up with the maintenance of international peace and security when the latter was threatened by the previous Iraqi regime.
+
+<<1663.08;1668.36;en>>
+Maybe at that time, the proportionality of temporary measures of vassal freezing might have been conceivable.
+
+<<1668.36;1686.52;en>>
+But now, so many years after the demise of that regime, how could one justify a confiscation of the assets of an individual who's never been served by any tribunal anywhere, and the denial to that very individual of his right of access to a court to challenge that confiscation?
+
+<<1686.52;1689.36;en>>
+How could this ever be justified?
+
+<<1689.36;1710.16;en>>
+But little matters if one is to tackle the issue in the context of the identification of a legitimate aim, as we had done at the time, or rather from the perspective of the necessity and proportionality test, as the chamber did when it held that there was no reasonable relationship or proportionality between the means employed and the aim sought to be realized.
+
+<<1710.16;1717.24;en>>
+To assert that these measures are legitimate under the law of the European Convention simply does not withstand scrutiny.
+
+<<1717.24;1731.72;en>>
+Concern has been voiced that if the court were to uphold the unlawful character of the restrictions imposed by the respondents date on the applicant's right of access to a court, this would be tantamount to reviewing the legality of Security Council resolutions.
+
+<<1731.72;1733.48;en>>
+No, that's not true.
+
+<<1733.48;1737.92;en>>
+The court is not called upon to exercise its scrutiny over the Security Council's measures.
+
+<<1737.92;1747.4;en>>
+Its mandate consists of supervising the proper implementation of the guarantees of the convention in respect of the high contracting parties' acts and emissions.
+
+<<1747.4;1757.96;en>>
+Judicial review is being exercised under domestic measures, legislative, administrative, and judicial, taken by the respondent state to implement resolution 1483.
+
+<<1757.96;1761.16;en>>
+The chamber did precisely that and did not abdicate its mission.
+
+<<1761.16;1772.36;en>>
+It made sure, as the court's case law and jurisprudence clearly require, that the guarantees of the human rights enshrined in the convention are not theoretical and illusory, but practical and effective.
+
+<<1772.36;1784.96;en>>
+All the more so as regards the right of access to a court, which is part and parcel of the right of fair trial, that holds, in the very words of the case law of the court, a prominent place in the democratic society.
+
+<<1784.96;1798.2;en>>
+It is indeed difficult not to concur with the chamber's conclusion, and I quote, that the applicant's inability to challenge the confiscation measure for several years is difficult to accept in a democratic society, unquote.
+
+<<1798.2;1814.36;en>>
+This conclusion, in support of which the chamber provided numerous and diverse judicial authorities, is hardly contestable and leads to the ineluctable conclusion that the respondent state has violated Article VI, paragraph 1 of the European Convention.
+
+<<1814.36;1816.64;en>>
+Let me now turn to the second prong of my argument.
+
+<<1820.64;1822.68;en>>
+Mr. President, distinguished members of the court,
+
+<<1822.68;1826.08;en>>
+let's not hide behind the technicalities.
+
+<<1826.08;1850.68;en>>
+Whatever perspective you take on the matter, whether you want to look at it as a question of jurisdiction, ratione, and persona, or as the chamber quite reasonably did, as a preliminary issue pertaining to the merit of the case, the fundamental question remains that of establishing whether the Convention's human rights guarantees can coexist with the obligations stemming from the Security Council Chapter 7 resolutions.
+
+<<1850.68;1859.64;en>>
+A clash between conflicting obligations and irreconcilable values, that's how the respondent state and the two intervening parties want us to look at the matter.
+
+<<1859.64;1864.88;en>>
+They obsessively repeat that Article 103 of the Charter must prevail.
+
+<<1864.88;1875.16;en>>
+Theirs is a world of Newtonian mechanics, where deterministic laws apply, where one proviso in one treaty would trump any other international rule that stands in the way.
+
+<<1875.16;1878.08;en>>
+Incidentally, this is wrong as a matter of law.
+
+<<1878.08;1883.96;en>>
+Central to their claim is that the respondent state finds itself facing a dilemma.
+
+<<1883.96;1891.7;en>>
+How not to violate the Convention in order to meet the requirements of a conflicting Security Council's binding obligation?
+
+<<1891.7;1893.8;en>>
+Our claim is different.
+
+<<1893.8;1898.6;en>>
+Our claim is that there is no dilemma, as there is no conflict.
+
+<<1898.6;1905.98;en>>
+We do believe that these different obligations can be reconciled within the framework of the European Convention system, as well as under international law.
+
+<<1905.98;1918.68;en>>
+To link together the two dimensions, the European Convention system and international law, is of paramount importance, as the Court rightly sees itself and the Convention system as part and parcel of the wider fabric of the international legal order.
+
+<<1918.68;1929.6;en>>
+As recently as in the Hassan case, the Court has reiterated that the Convention must not be interpreted in the backroom, but must be interpreted having recourse to Article 31.3c of the Vienna Convention
+
+<<1929.6;1931.24;en>>
+on the Law of Treaties.
+
+<<1931.24;1945.24;en>>
+Consideration of other principles and rules of international law, of which the Convention system forms part, ought to lead to an interpretation which is in harmony, your own words, not in conflict with such other principles and rules in international law.
+
+<<1945.24;1950.52;en>>
+The European Court of Human Rights has always been considerate of such inter-systemic needs.
+
+<<1950.52;1959.88;en>>
+Particularly at a time of increasing complexity, it is of fundamental importance to ensure coordination among such systems in the broader framework of international law.
+
+<<1959.88;1967.24;en>>
+The respondent state's position, as well as the intervening parties, are very much at odds with this, and unnecessarily so, if I may add.
+
+<<1967.24;1983.0;en>>
+The endorsement of their demands would undermine the tradition of balance, reasonableness, and harmonization that has long characterized the jurisprudence of the Strasbourg Court, or matters in which consideration of other rules and principles of international law were at stake.
+
+<<1983.0;1989.64;en>>
+Has the Court ever conceived the Convention system and international humanitarian law to be in a reconcilable conflict with each other?
+
+<<1989.64;1990.72;en>>
+No, never.
+
+<<1990.72;2002.56;en>>
+It has constantly and wisely attempted to reconcile interpretively the two branches of the law, in order not to create unnecessary conflicts, potentially unsettling imbalances.
+
+<<2002.56;2006.04;en>>
+And the same considerations hold truth for the case at hand.
+
+<<2006.04;2019.8;en>>
+The European Court itself has created an interpretive doctrine which aims precisely at ensuring consistency between the Convention system on the one hand, and the international legal system, and in particular, international organizations on the other hand.
+
+<<2019.8;2022.48;en>>
+This doctrine is the equivalent protection doctrine.
+
+<<2022.48;2034.92;en>>
+The equivalent protection doctrine is the instrument that is applicable, vis-a-vis the contracting parties acting in the framework of their participation in international organizations, including the United Nations.
+
+<<2034.92;2042.84;en>>
+The rationale of the doctrine has been spelled out in Bosphorus, and later confirmed by Gasparini and Michaud, among others.
+
+<<2042.84;2059.8;en>>
+The rationale of the doctrine consists in saying, and I quote from Bosphorus, that, contracting states cannot be absolved completely from their Convention responsibility where they were simply complying with their obligations as members of an international organization, as this would be incompatible with the object and purpose of the Convention.
+
+<<2059.8;2071.2;en>>
+The guarantees of the Convention could be limited or excluded at will, thereby depriving it of its preemptory character and undermining the practical and effective nature of its safeguards, unquote.
+
+<<2071.2;2084.44;en>>
+However, in order to facilitate contracting states' participation in international organizations, and in order to ensure smooth cooperation and interaction among different legal regimes, the Court has created the presumption of equivalent protection.
+
+<<2084.44;2101.48;en>>
+And it has held that whenever the relevant other legal regime presents a comparable set of protections as regards human rights, it will be presumed that action taken by the European Convention contracting parties to ensure compliance with that other legal regime's obligations is justified.
+
+<<2101.48;2113.6;en>>
+This presumption can be rebutted, however, if, under circumstances of each particular case, the protection of the Convention's rights is manifestly deficient in the other system.
+
+<<2113.6;2119.16;en>>
+In describing the rationale and the content of the equivalent protection doctrine, I have extensively quoted from Bosphorus.
+
+<<2119.16;2131.24;en>>
+And undoubtedly, Bosphorus is the controlling precedent, contrary to what the UK and Switzerland maintain in trying to distinguish Bosphorus from the case at hand on a very flimsy basis, indeed, simply by emphasizing the relevant elements.
+
+<<2131.24;2142.56;en>>
+As much as I have sympathy with the technique of distinguishing cases, particularly those that happen to be embarrassingly unfavorable to one's own side, no distinction is exempt from the duty of persuasion.
+
+<<2142.56;2145.24;en>>
+So Bosphorus is the controlling precedent.
+
+<<2145.24;2163.68;en>>
+And Bosphorus specifies that the equivalent protection doctrine covers both, and I quote, the substantive guarantees offered and the mechanisms controlling their observance in a manner which can be considered at least equivalent, that is to say, not identical, but comparable to that which the Convention provides for, unquote.
+
+<<2163.68;2171.04;en>>
+It seems to me that a few incontrovertible consequences can be inferred from the acknowledgment of the centrality of the equivalent protection doctrine to our case.
+
+<<2171.04;2180.24;en>>
+First, everyone admits that the mechanisms of human rights protection provided by the Security Council in this context currently are manifestly deficient.
+
+<<2180.24;2186.6;en>>
+And as such, apt to rebut the presumption of consistency that the doctrine of equivalent protection relies upon.
+
+<<2186.6;2195.86;en>>
+Perhaps this will be different in future cases, as the court held in Bosphorus the assessment of the manifest deficiency is not final and is susceptible to review.
+
+<<2195.86;2198.76;en>>
+This is only temporary, as long as.
+
+<<2198.76;2211.28;en>>
+As long as the Security Council sanctions will not be able to provide a system of fundamental human rights protection which is at least comparable to that of the Convention, the presumption of having acted consistently with the Convention is rebutted.
+
+<<2211.28;2222.44;en>>
+And the wisdom of this doctrine lies in the fact that it may well work as an incentive for international organizations to introduce or to bring up to an adequate level their system of human rights protection.
+
+<<2222.44;2233.56;en>>
+A similar process that the one that occurred with the Solange jurisprudence or the Bumas Verfassungskrieg temporarily used to spur the development of the system of human rights protection within the European communities.
+
+<<2233.56;2251.78;en>>
+Here, once again, the main framework of reference is that of an international legal order whose different components are in harmony with one another and where human rights constitute shared and common values and not an ancillary or secondary goal hierarchically subordinate to the primacy of security concerns.
+
+<<2251.78;2260.52;en>>
+Second, the equivalent protection doctrine applies regardless of states having or not having any margin for maneuvering in the implementation of the measures.
+
+<<2260.52;2268.96;en>>
+It may be debatable whether Switzerland had or did not have a margin for maneuvering in implementing the relevant Security Council's resolution, and we argued it did.
+
+<<2268.96;2278.24;en>>
+But be that as it may, as the chamber correctly noted, the equivalent protection doctrine applies to the case even if Switzerland were left with no discretion.
+
+<<2278.24;2285.72;en>>
+Finally, the doctrine of equivalent protection is precisely aimed at avoiding the state parties to the convention have to face a dilemma.
+
+<<2285.72;2294.84;en>>
+As the court held in Michaux, the doctrine of equivalent protection is intended in particular to ensure that the state parties not faced with any such dilemma.
+
+<<2294.84;2301.8;en>>
+The doctrine allows reconciling and ensuring coordination between regimes, does not antagonize them.
+
+<<2301.8;2318.76;en>>
+The doctrine of equivalent protection is thus the instrument that the court has designed to apply in this particular context to avoid construing the two sets of obligations as conflicting with each other consistently with the case law and the jurisprudence of your court, Mr. President, distinguished members of the court.
+
+<<2318.76;2325.52;en>>
+Indeed, the presumption of consistency between rules belonging to different legal regimes is important in the court's jurisprudence.
+
+<<2325.52;2355.44;en>>
+Besides the already mentioned passage in Assange, in which the court reminded us of its jurisprudence that, and I quote, the convention must be interpreted in harmony with other rules of international law, which it forms part, unquote, the court used similar language in Al-Jadda to state, and I quote again, in the event of any ambiguity in the terms of the United Nations Security Council's resolution, the court must therefore choose the interpretation which is most in harmony with the requirements of the convention which avoids any conflict of obligations, unquote.
+
+<<2355.44;2373.16;en>>
+Also in Al-Jadda, the court, and I quote for the last time, said, where a number of apparently contradictory instruments are simultaneously applicable international case law and academic opinion endeavor to construe them in such a way as to coordinate their effects and avoid any opposition between them.
+
+<<2373.16;2382.6;en>>
+Two divergent commitments must therefore be harmonized as far as possible so that they produce effects that are full in accordance with existing law, unquote.
+
+<<2382.6;2396.88;en>>
+It is noteworthy that the presumption of consistency as formulated by the court in Al-Jadda has also been relied upon by domestic courts, such as the High Court of Justice and the recently decided Mohammed versus Ministry of Defense case.
+
+<<2396.88;2402.04;en>>
+Reliance by domestic courts on your jurisprudence, Mr. Preston, distinguished members of the court,
+
+<<2402.04;2413.2;en>>
+is an important indicator of the acceptance by domestic jurisdictions of your guidance as well as of their approval of the interpretive solution you provided.
+
+<<2413.2;2422.32;en>>
+It would be reductive, however, to limit the importance of the presumption of consistency as a tool to ensure interpretive harmony to the context of the European Convention system.
+
+<<2422.32;2432.16;en>>
+Also, an international law at a time of increasing complexity respects for the presumption of consistency is of greatest importance.
+
+<<2432.16;2443.44;en>>
+How odd to see the International Law Commission's study on fragmentation cited by the respondent states in support of conflict in Article 183.
+
+<<2443.44;2454.0;en>>
+To extrapolate from the study a few passages describing Article 183 as if the study could be put forward as supporting a hierarchical solution to normative conflicts is just preposterous.
+
+<<2454.0;2463.8;en>>
+The main message that the International Commission's study on fragmentation attempts to get across is that interpretation should take place on the basis of the principle of systemic integration.
+
+<<2463.8;2473.08;en>>
+That is, in a manner that avoids conflict and promotes harmonious interpretation of the different rules and principles of international law as an integrated system.
+
+<<2473.08;2479.76;en>>
+The study clearly states in paragraph 37 that in international law there is a strong presumption against normative conflict.
+
+<<2479.76;2493.48;en>>
+Curiously, the architecture of the argument of both the respondent states and the intervening third party seems to have been partly shaped by the decision of the European Court of First Instance, as it was then called, in the first Cali case in 2005.
+
+<<2493.48;2512.64;en>>
+Besides having been embarrassingly overruled by the European Court of Justice for its having neglected no less than Article 6 of the Treaty on the European Union, everything that has happened ever since that judgment has shown how dangerous for the stability of the system to follow that kind of rigid and hierarchically structured reasoning would have been.
+
+<<2512.64;2521.68;en>>
+But as I said earlier, respondent states and intervening third parties have a vision of the international legal system which is similar to that of Newtonian mechanics.
+
+<<2521.68;2528.08;en>>
+Theirs is a world where power is sovereign and where the hubris of power is doomed to prevail.
+
+<<2528.08;2534.4;en>>
+Theirs is a world of states, false states, made by states, where the individual has hardly any place.
+
+<<2534.4;2540.72;en>>
+The individual is conspicuously absent from the respondent states and the intervening parties written submission.
+
+<<2540.72;2548.16;en>>
+The individual is, I suppose, an inevitable casualty, some sort of collateral damage to the imperatives of international peace and security.
+
+<<2548.16;2552.42;en>>
+Intervening parties' statements barely engage with the chambers of the applicants' arguments.
+
+<<2552.42;2564.68;en>>
+They simply state, repeat, state again, and reiterate their state-centric vision, whereby the primacy of the collective security system, firmly in the hands of the five permanent members, should prevail.
+
+<<2564.68;2570.44;en>>
+Human rights have been created and are still there precisely to counter this narrative of power.
+
+<<2570.44;2574.56;en>>
+Human rights are still the most effective way of speaking truth to power.
+
+<<2574.56;2579.56;en>>
+They are the only guarantees against the agglomeration, the abuse of power, whatever form the latter takes.
+
+<<2579.56;2586.0;en>>
+Let's not be led astray by unnecessary considerations of conflict and systemic irreconcilability between legal regimes.
+
+<<2586.0;2590.02;en>>
+This is not what the law prescribes, let alone the law of the European Convention.
+
+<<2590.02;2593.68;en>>
+This is not what the large majority of the high contracting parties want.
+
+<<2593.68;2597.0;en>>
+This is not even what the Security Council asks for.
+
+<<2597.0;2606.64;en>>
+There will be no detrimental, let alone fatal, consequences for the prerogatives of the Security Council or for international peace and security in the circumstances of the case.
+
+<<2606.64;2616.46;en>>
+Respondent states and intervening third parties cleverly resorted in their written submissions to a well-known rhetorical device, the oral vacui argument.
+
+<<2616.46;2629.44;en>>
+They want us to believe that were the court not to endorse the view that Article 103 trumps the rules of the European Convention, the fragmentation of the entire international legal system and the demise of the collective security system would inevitably ensue.
+
+<<2629.44;2632.0;en>>
+Rather, the contrary is true.
+
+<<2632.0;2647.92;en>>
+In an international legal order where an effort is made to interpret its rules and obligations as consistently as possible with one another, in harmony with one another, to use your own words, there will be less chances of conflict, division, and incongruities of legal solutions.
+
+<<2647.92;2662.28;en>>
+The chamber has clearly shown the way to go by its conclusive and compelling reasoning on the fundamental question of determining whether Security Council's obligations and obligations stemming from the Convention can be reconciled by a harmonious interpretation.
+
+<<2662.28;2676.84;en>>
+May it please the court to judge and declare that the chamber was correct in its findings and that nothing in the law of the European Convention, nor in international law for that matter, makes the Convention's fundamental protection of Article 6 inapplicable in the case at hand.
+
+<<2676.84;2692.92;en>>
+I have always thought, since I was a student, that one of the most inspiring and important contributions to the interpretation of human rights treaties by this court is that the Convention is intended to guarantee rights that are not theoretical and illusory, but practical and effective.
+
+<<2692.92;2694.6;en>>
+Let this be so.
+
+<<2694.6;2696.72;en>>
+Mr. President, distinguished members of the court,
+
+<<2696.72;2697.56;en>>
+I thank you for your kind attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2699.18;2701.34;fr>>
+Merci, monsieur le professeur.
+
+<<2701.5;2706.06;fr>>
+Maintenant, je donne la parole au gouvernement suisse et à monsieur Schürmann.
+
+[[Government;GR1]]
+
+<<2717.01;2732.81;fr>>
+Monsieur le Président, Mesdames et Messieurs les membres de la Cour, après l'affaire Nada débattue en 2011, c'est aujourd'hui la deuxième fois que la Grande Chambre est appelée à juger une affaire suisse qui soulève la même question de principe.
+
+<<2732.81;2750.89;fr>>
+Est-ce qu'un État parti à la Convention peut être tenu pour responsable si la prétendue violation de la Convention était la conséquence du respect d'une résolution contraignante adoptée par le Conseil de sécurité en application du chapitre 7 de la Charte?
+
+<<2750.89;2757.73;fr>>
+Dans la Règle Nada, la Cour a estimé qu'il n'était pas nécessaire de donner une réponse à cette question.
+
+<<2757.73;2771.53;fr>>
+Se basant sur les circonstances du cas d'espèce, elle avait conclu que la violation n'était pas inévitable parce que la Suisse jouissait d'une latitude dans la mise en œuvre de la résolution pertinente.
+
+<<2771.53;2782.57;fr>>
+Or, il ressort de l'arrêt de la Chambre et les sept juges y consentent que pareille latitude n'existait pas dans la présente affaire.
+
+<<2782.57;2807.49;fr>>
+Le 6 août 1990, profondément préoccupé par le fait que l'invasion du Kouwaïte se poursuit, entraînant de nouvelles pertes en vie humaine et de nouvelles destructions, le Conseil de sécurité a adopté la résolution n°661, établissant un embargo général à l'encontre de l'Irak.
+
+<<2807.49;2811.57;fr>>
+Embargo général, non pas gel et confiscation.
+
+<<2811.57;2820.41;fr>>
+Cette résolution s'adressait expressément à tous les États, donc également à la Suisse qui, à l'époque, n'était pas encore membre des Nations unies.
+
+<<2820.41;2827.69;fr>>
+Le lendemain, le Conseil fédéral a adopté une ordonnance mettant en œuvre cet embargo.
+
+<<2827.69;2845.01;fr>>
+Après la chute du régime de Saddam Houssein, le Conseil de sécurité a adopté la résolution n°1483, en étant en 2003, remplaçant la résolution mentionnée avant, n°661.
+
+<<2845.01;2867.01;fr>>
+Le paragraphe 23 de la nouvelle résolution prévoit le gel des fonds ou d'autres avoirs financiers ou ressources économiques sortis d'Irak ou acquis par Saddam Houssein ou d'autres aux responsables de l'ancien régime, ainsi que le transfert de ces avoirs aux fonds de développement pour l'Irak.
+
+<<2867.01;2876.29;fr>>
+En conséquence, l'ordonnance fédérale fut modifiée le 28 mai 2003 de manière à prévoir le gel des avoirs en question.
+
+<<2876.29;2885.97;fr>>
+Le 26 avril 2004, le comité des sanctions a porté les requérances sur la liste des personnes et des entités auxquelles s'appliquent les sanctions.
+
+<<2885.97;2898.57;fr>>
+Le comité retenait en substance que le requérant avait la responsabilité de la gestion des investissements des services secrets irakiens et qu'il était le directeur de la dite société.
+
+<<2898.57;2906.13;fr>>
+Suite à ce listing, les requérants ont été inscrits sur les listes annexées à l'ordonnance suisse également.
+
+<<2906.13;2915.13;fr>>
+La semaine suivante, le 18 mai 2004, le Conseil fédéral a adopté l'ordonnance sur la confiscation et sur le transfert.
+
+<<2915.13;2918.01;fr>>
+Une procédure a été engagée par la suite.
+
+<<2918.01;2925.81;fr>>
+C'est cette procédure de confiscation qui est à l'origine de la requête introduite devant votre cour.
+
+<<2925.81;2932.09;fr>>
+Passons au cadre juridique dans lequel il convient de placer la présente affaire.
+
+<<2932.09;2944.49;fr>>
+Au paragraphe 118 de son arrêt, la Chambre soulignait que le système onusien de délisting, même dans sa forme améliorée, n'offre pas les garanties telles que prévues à l'article 6 de notre convention.
+
+<<2944.49;2947.73;fr>>
+Nous n'avons pas besoin d'entrer dans les détails sur ce point.
+
+<<2947.73;2952.33;fr>>
+Les carences du système sont généralement admises.
+
+<<2952.33;2954.37;fr>>
+Et je vous assure, M. le Président,
+
+<<2954.37;2959.81;fr>>
+que la Suisse prend au sérieux les soucis des requérants à cet égard.
+
+<<2959.81;2974.13;fr>>
+Ces carences et ces soucis sont justement la raison pour laquelle la Suisse s'engage et continue à s'engager avec d'autres États pour une amélioration du système au niveau onusien.
+
+<<2974.13;2982.73;fr>>
+Si le système connaît toujours des carences, il est vrai aussi que ces carences ne portent pas atteinte à une garantie absolue.
+
+<<2982.73;2997.17;fr>>
+Contrairement à la position défendue par les requérants encore devant le tribunal fédéral suisse, l'article 6, qui est important, on est d'accord, mais l'article 6 ne fait pas partie du Jus Cogens.
+
+<<2997.17;3001.53;fr>>
+Pas besoin non plus d'approfondir le débat sur ce point.
+
+<<3001.53;3016.97;fr>>
+Il suffit de rappeler que l'accès au tribunal n'est pas absolu, citant à titre d'exemple l'arrêt de la Grande Chambre dans l'affaire Al-Azhani contre le Royaume-Uni, confirmé par la suite dans d'autres arrêts et décisions également.
+
+<<3016.97;3019.61;fr>>
+Un troisième élément doit être rappelé.
+
+<<3019.61;3035.45;fr>>
+Selon une jurisprudence bien établie de la Cour, je cite, les principes sur lesquels repose la Convention, ne pouvant s'interpréter et s'appliquer dans le vide, la Cour doit aussi prendre en compte toute règle pertinente du droit international.
+
+<<3035.45;3044.01;fr>>
+La Chambre cite cette jurisprudence, paragraphe 112, mais ne la discute pas et ne l'applique pas.
+
+<<3044.01;3046.21;fr>>
+Ce qui m'amène au dernier élément à relever.
+
+<<3046.21;3057.41;fr>>
+Dans ces arrêts, le tribunal fédéral a constaté qu'il y a un conflit entre deux obligations internationales et qu'il n'est pas possible en l'espèce de surmonter ce conflit par une interprétation harmonisante.
+
+<<3057.41;3062.81;fr>>
+Par conséquent, il a recouru aux normes de collision ancrées en droit national.
+
+<<3062.81;3072.17;fr>>
+On parle évidemment des articles 25 et 103 de la Charte et de l'article 30 de la Convention de Vienne.
+
+<<3072.17;3075.01;fr>>
+Pour les requérants, toutefois, il n'y a pas conflit.
+
+<<3075.01;3078.33;fr>>
+Ils viennent de confirmer cette position.
+
+<<3078.33;3085.09;fr>>
+Selon eux, il ne peut y avoir mise en oeuvre des résolutions sans respect des droits de l'homme.
+
+<<3085.09;3087.57;fr>>
+Mais les choses ne sont pas si simples que ça.
+
+<<3087.57;3104.93;fr>>
+Jamais les organes de l'ONU n'ont demandé aux États d'examiner dans chaque cas concret si la mise en oeuvre des sanctions était bien, à leur avis, conforme aux droits de l'homme et aux principes de la proportionnalité en particulier.
+
+<<3104.93;3118.77;fr>>
+Il faut, au contraire, partir de l'idée que le Conseil de sécurité a accepté que la mise en oeuvre de certaines résolutions puisse entrer en conflit avec les droits de l'homme.
+
+<<3118.77;3125.41;fr>>
+En effet, la résolution 1483 ne peut être interprétée différemment.
+
+<<3125.41;3130.61;fr>>
+Dans son arrêt, dans toute la partie en droit, la Chambre a évité le terme conflit.
+
+<<3130.61;3137.65;fr>>
+De même, on cherchera en vain une référence à la disposition précitée, notamment à l'article 103.
+
+<<3137.65;3148.21;fr>>
+Je le cite parce qu'on avait l'impression, après avoir entendu le représentant des requérants, qu'il s'agit d'une norme du droit international comme d'autre.
+
+<<3148.21;3163.21;fr>>
+En cas de conflit entre les obligations des membres des Nations unies en vertu de la présente charte et leurs obligations en vertu de tout autre accord international, les premières prévaudront, « shall prevail ».
+
+<<3163.21;3177.21;fr>>
+Il s'agit d'une primauté absolue et générale qui opère indépendamment de la nature du traité, primauté reconnue par tous les États, par la Cour internationale de justice et par la doctrine.
+
+<<3177.21;3187.05;fr>>
+Nous vous renvoyons à l'argumentation développée en détail dans les mémoires des gouvernements français, britanniques et suisses.
+
+<<3187.05;3195.73;fr>>
+Comment faire abstraction de cette règle non équivoque dans une situation dans laquelle la Suisse ne disposait d'aucune marge d'appréciation?
+
+<<3195.73;3202.81;fr>>
+La Chambre se réfère d'abord au concept de la juridiction au sens de l'article 1er de la Convention.
+
+<<3202.81;3219.81;fr>>
+Mais, Monsieur le Président, Mesdames et Messieurs les membres de la Cour, dans une constellation qui oblige les États à respecter les décisions, article 25, et qui ne laisse aucune marge de manœuvre, qu'est-ce qui reste de la juridiction au sens de l'article 1?
+
+<<3219.81;3234.37;fr>>
+Avoir la juridiction implique aussi le pouvoir d'annuler ou de modifier les ordonnances et ces annexes de son propre chef, notamment la compétence d'ajouter ou de supprimer des noms de la liste.
+
+<<3234.37;3240.05;fr>>
+Mais ces listes ne revêtent aucun caractère dispositif.
+
+<<3240.05;3251.33;fr>>
+Comme l'a formulé le juge Sayot, la mise en œuvre d'une obligation inconditionnelle limite l'action de l'État à celle d'un agent des Nations unies.
+
+<<3251.33;3274.01;fr>>
+Comment donc concilier la conclusion que les résolutions pertinentes ne laissent aux États aucun pouvoir discrétionnaire, par le 117, avec l'affirmation selon laquelle les parties contractantes sont responsables en vertu de l'article 1 de tous les actes et omissions de leurs organes, que ceci découle du droit interne ou d'obligations juridiques internationales, par un grave sens?
+
+<<3274.01;3278.41;fr>>
+L'incohérence nous paraît évidente.
+
+<<3278.41;3287.85;fr>>
+La Cour a déjà eu à connaître d'affaires soulevant la question du rapport entre deux obligations divergentes, dans le contexte onusien également.
+
+<<3287.85;3316.97;fr>>
+Toutefois, comme l'a relevé le juge Lorentzen, jusqu'à présent, la Cour n'a jamais conclu à la réalité du conflit allégué, soit elle estimait que la résolution n'imposait pas la mesure adoptée par l'État en question, affaire Al-Jeda contre le Royaume-Uni, soit elle a conclu que l'État disposait d'une certaine marge d'appréciation permettant d'appliquer les restrictions de façon moins stricte, affaire Nada contre Suisse.
+
+<<3316.97;3334.37;fr>>
+En l'espèce, vu le libellé clair des résolutions, il s'agit d'un conflit normatif ouvert, admis par le tribunal fédéral, par les trois juges minoritaires et, implicitement, par le juge Saïo également.
+
+<<3334.37;3341.77;fr>>
+En effet, toutes les pistes visant à contourner ce dilemme amènent à des voies sans issue.
+
+<<3341.77;3348.33;fr>>
+Première piste, Jusqu'au Genf, on l'a dit, cette exception n'entre pas en ligne de compte dans notre affaire.
+
+<<3348.33;3357.21;fr>>
+Autre idée présentée à l'époque, j'ose dire, par les requérants, il faudrait distinguer entre radiation et la confiscation.
+
+<<3357.21;3361.41;fr>>
+Le tribunal fédéral, en considérant neuf de son arrêt, a donné la réponse qui s'impose.
+
+<<3361.41;3365.41;fr>>
+Le listing n'a pas une fin en soi.
+
+<<3365.41;3373.45;fr>>
+Il ne peut déployer ses effets qu'en combinaisant avec les autres éléments, à savoir le gel et la confiscation.
+
+<<3373.45;3401.45;fr>>
+Rappelons dans ce contexte que, pour respecter l'article 6, il ne suffit pas d'examiner le bien fondé, comme le laisse entendre le paragraphe 133 de l'arrêt, le bien fondé des contestations, encore faut-il que le tribunal décide de ces contestations et, en plus, que cette décision soit, le cas échéant, exécutée, ce qui constituerait une violation flagrante de la résolution 1483.
+
+<<3401.45;3406.09;fr>>
+Une troisième piste proposée est celle de la proportionnalité.
+
+<<3406.09;3408.33;fr>>
+La Chambre soulève deux éléments à cet égard.
+
+<<3408.33;3425.41;fr>>
+Le premier consiste à dire qu'il y aurait une différence entre les résolutions qui répondent à une menace imminente de terrorisme et les résolutions qui s'inscrivent dans le prolongement d'un conflit qui a son origine en 1990.
+
+<<3425.41;3435.13;fr>>
+Le second élément, sous le titre « proportionnalité », souligne que les requérants subissent des restrictions importantes depuis un laps de temps considérable.
+
+<<3435.13;3440.17;fr>>
+Ni l'un ni l'autre élément ne saurait convaincre.
+
+<<3440.17;3448.29;fr>>
+Quant au premier, l'ensemble des résolutions pertinentes a été adopté en vertu du chapitre 7 de la Charte.
+
+<<3448.29;3467.61;fr>>
+Laisser le choix aux États membres de décider quelles sont les sanctions à mettre en place, comme prévue par les conseils de sécurité, à la lettre, soi-disant, et quelles sont les sanctions à mettre en place de manière différenciée, serait une approche dangereuse.
+
+<<3467.61;3482.45;fr>>
+Rappelons également que la résolution 1483, nous sommes en an 2003, affirme expressément que la situation de l'Irak continue de menacer la paix et la sécurité internationale.
+
+<<3482.45;3489.69;fr>>
+Quant au considérant portant sur la durée de la mesure, n'oublions pas la nature de cette mesure.
+
+<<3489.69;3498.81;fr>>
+Il s'agissait de soustraire à certaines catégories de personnes la disposition sur leurs avoirs et de transférer ces avoirs aux fonds de développement.
+
+<<3498.81;3504.41;fr>>
+La durée est donc inhérente à ce type de mesure.
+
+<<3504.41;3507.65;fr>>
+La soustraction a été accomplie avec le jail des avoirs.
+
+<<3507.65;3521.73;fr>>
+Le fait que le transfert n'a pas encore eu lieu pour certains de ces avoirs est directement lié à la procédure pendante devant votre cour depuis le 1er février 2008.
+
+<<3521.73;3524.77;fr>>
+Et remettons les choses dans leur contexte.
+
+<<3524.77;3541.17;fr>>
+Il n'est pas vrai, comme l'affirme la Chambre au paragraphe 131, que, je cite, les requérants étaient privés de l'accès à leurs avoirs depuis un laps de temps considérable, veut dire depuis 1990.
+
+<<3541.17;3558.57;fr>>
+Pour ce qui concerne la Suisse, nous relevons, premièrement, les requérants, avant que les mesures ont été prises en application de la résolution 1483 en 2003, ne se sont jamais plaints de ne pas avoir accès à leurs biens.
+
+<<3558.57;3562.37;fr>>
+Et on croit savoir pourquoi.
+
+<<3562.37;3574.61;fr>>
+Parce que jusqu'en 2004, donc jusqu'au listing des requérants, le premier requérant pouvait disposer de ses comptes personnels bancaires.
+
+<<3574.61;3580.73;fr>>
+Il avait d'ailleurs encore une carte de crédit jusqu'en 2004 qu'il a utilisée.
+
+<<3580.73;3610.53;fr>>
+Deuxièmement, depuis 2007, 2007 seulement, le Secrétariat d'État à l'économie, le SECO, a débloqué en total environ 850 000 francs suisses pour frais d'avocat et plus de 200 000 francs suisses pour les avances de frais de procédure.
+
+<<3610.53;3617.29;fr>>
+Nous pouvons mettre à disposition de la Cour la liste détaillée qui a été établie par le SECO.
+
+<<3617.29;3628.41;fr>>
+Finalement, jusqu'en février 2014, le requérant n'a entrepris aucune démarche visant le déblocage de moyens financiers pour assurer ses frais de subsistance.
+
+<<3628.41;3635.81;fr>>
+Apparemment, il avait donc d'autres sources après 2004 également.
+
+<<3635.81;3651.89;fr>>
+Ce n'est que par lettre du 25 février 2014 qu'il a informé le SECO que ses ressources financières étaient aujourd'hui épuisées et qu'il réclamait un montant de 25 000 dollars par mois pour couvrir ses frais.
+
+<<3651.89;3657.09;fr>>
+Demande que le SECO a partiellement admise.
+
+<<3657.09;3664.73;fr>>
+Revenons, Monsieur le Président, aux considérations juridiques, plus précisément à l'affaire Al-Azhani contre le Royaume-Uni.
+
+<<3664.73;3670.25;fr>>
+Dans cette affaire, l'obstacle à l'accès au tribunal était l'immunité des États.
+
+<<3670.25;3682.53;fr>>
+La Grande Chambre a considéré que cet obstacle était suffisamment solide, même pour débouter un requérant qui réclamait des dommages d'intérêt pour actes de torture.
+
+<<3682.53;3693.65;fr>>
+Il nous semble que le principe de la primauté ancré à l'article 103 se situe au moins sur le même niveau normatif que celui de l'immunité.
+
+<<3693.65;3701.49;fr>>
+Les deux principes font d'ailleurs partie des normes universellement reconnues visant à sauvegarder la paix internationale.
+
+<<3701.49;3718.29;fr>>
+C'est cette même paix internationale qui était primordiale pour la Cour dans sa décision Stichting Mathers of Srebrenica contre Peyba quand elle a défendu l'immunité des Nations unies devant les juridictions nationales.
+
+<<3718.29;3747.21;fr>>
+En résumé, sur la base des articles 25 et 103 de la Charte, et vu que la Suisse ne disposait en l'espèce d'aucune marge de manœuvre, ni la référence erronée aux Jus Coghens, ni la distinction artificielle entre radiation et confiscation, ni encore des considérations de proportionnalité sont aptes à concilier les deux obligations dont l'une ne peut être respectée sans accepter de violer l'autre.
+
+<<3747.21;3754.17;fr>>
+Pour contourner ce qui est incontournable, la majorité fait recours aux critères de la protection équivalente.
+
+<<3754.17;3763.05;fr>>
+Voilà, semble-t-il, la dernière issue pour se sortir d'une situation qui a été nommée Catch-22 dans la doctrine.
+
+<<3763.05;3768.57;fr>>
+Toutefois, à cet égard également, l'arrêt de la Chambre ne nous convainc pas.
+
+<<3768.57;3781.57;fr>>
+Que la Cour n'ait jamais exclu l'application du critère dans le contexte onusien, comme l'affirme la Chambre au paragraphe 116, ne suffit pas, vu l'article 103 et l'inexistence d'une marge d'appréciation.
+
+<<3781.57;3788.09;fr>>
+Encore faut-il démontrer que les conditions pour une application analogue sont réunies.
+
+<<3788.09;3793.57;fr>>
+Cette démonstration est toutefois vouée à l'échec.
+
+<<3793.57;3798.53;fr>>
+Il y a en effet une différence fondamentale par rapport aux affaires dans lesquelles le critère a été appliqué.
+
+<<3798.53;3813.57;fr>>
+Jusqu'à présent, toutes les applications concernant des normes placées sur le même niveau hiérarchique, à savoir notamment des normes du droit de l'Union européenne d'une part et les garanties de la Convention d'autre part.
+
+<<3813.57;3827.77;fr>>
+Dans ces constellations, le critère permet de résoudre d'une façon pragmatique les conflits entre les obligations divergentes en jeu sans être liés par une règle d'hierarchie ou de collision.
+
+<<3827.77;3834.45;fr>>
+Mais ici, en présence de l'article 103 de la Charte, on joue dans une autre ligue.
+
+<<3834.45;3847.01;fr>>
+Si vous permettez de citer un passage d'un article rédigé en anglais de Monsieur Milanovic, « Normes, conflits et lois internationales avec les droits humains? »
+
+<<3847.01;3869.17;fr>>
+Je cite, « Si il y a une relation quasi-hierarchique entre deux normes, la norme de bas niveau, par définition, ne peut pas mettre en place aucune condition sur l'application de la norme de haut niveau, même si cette condition est la protection équivalente des droits humains. »
+
+<<3869.17;3870.93;fr>>
+Plus clair me semble-t-il.
+
+<<3870.93;3874.93;fr>>
+On ne peut pas dire ce qu'il faut dire.
+
+<<3874.93;3888.53;fr>>
+Si le principe de la protection équivalente ne donne pas, lui non plus, une réponse satisfaisante, la Cour doit faire face au conflit, un conflit qu'on ne peut résoudre qu'en accordant la primauté à l'une ou l'autre des obligations.
+
+<<3888.53;3894.01;fr>>
+C'était la position des juges minoritaires, également la position du tribunal fédéral.
+
+<<3894.01;3905.93;fr>>
+Le gouvernement y souscrit, tout en reconnaissant les efforts de la Cour pour trouver un juste équilibre en harmonisant les positions dans toute la mesure du possible.
+
+<<3905.93;3932.65;fr>>
+Toutefois, en l'espèce, il n'y a pas équilibre parce qu'on fait porter à un État parti à la Convention et à lui seul la responsabilité d'avoir mis en œuvre des mesures imposées par le Conseil de sécurité sans que cet État, la Suisse, dispose d'une marge d'appréciation et sans qu'il ait été impliqué dans la mise en place des mesures, des sanctions en question.
+
+<<3932.65;3936.61;fr>>
+Parlons des conséquences si on suivait l'approche de la Chambre.
+
+<<3936.61;3949.89;fr>>
+Même si elle se garde de l'affirmer expressément, son arrêt confère à la Convention la primauté sur les résolutions du Conseil de sécurité, même au-delà du Jus Coghens.
+
+<<3949.89;3953.25;fr>>
+Cette approche contient des risques considérables.
+
+<<3953.25;3957.77;fr>>
+Et l'ambassadeur Zelvega reviendra sur ce point tout à l'heure dans une optique plus générale.
+
+<<3957.77;3963.41;fr>>
+Pour ma part, je me limite aux aspects liés au système de contrôle de la Convention.
+
+<<3963.41;3969.33;fr>>
+En vertu de l'article 46, les États sont tenus de mettre en œuvre les arrêts de la Cour.
+
+<<3969.33;3981.73;fr>>
+Cela voudrait dire, lors de la mise en œuvre des sanctions de l'ONU, les États devraient, dans chaque cas, procéder à un examen complet du bien fondé des mesures indiquées.
+
+<<3981.73;3994.37;fr>>
+Et si la juridiction nationale arrivait à la conclusion qu'il y a un problème de fond, ce que prétendent bien entendu les requérants, est-ce qu'un arrêt constatatoire suffirait?
+
+<<3994.37;4004.73;fr>>
+Ou faudrait-il rendre un arrêt ordonnant la levée des sanctions, en dépit du fait que ces sanctions sont maintenues au plan onusien?
+
+<<4004.73;4009.45;fr>>
+Ou est-ce qu'il faudrait même supprimer le nom de l'intéressé de la liste?
+
+<<4009.45;4013.05;fr>>
+Et qu'en est-il des mesures de caractère général?
+
+<<4013.05;4019.29;fr>>
+Qu'est-ce que l'État en question pourrait présenter au comité des ministres à ce propos?
+
+<<4019.29;4024.53;fr>>
+L'arrêt de la Chambre reste muet à ces égards.
+
+<<4024.53;4032.37;fr>>
+Une approche semblable à celle de la Chambre a d'ailleurs été développée, on le sait, il a été rappelé tout à l'heure, par la Cour de justice dans l'affaire Cady.
+
+<<4032.37;4042.41;fr>>
+La Cour de justice a en effet examiné les motifs fournis par le Conseil de sécurité et a estimé qu'ils n'étaient pas suffisamment démontrés.
+
+<<4042.41;4046.65;fr>>
+Elle a donc confirmé la radiation de M. Cady de la liste.
+
+<<4046.65;4050.57;fr>>
+Par chance, on pourrait dire, le nom de M. Cady
+
+<<4050.57;4056.29;fr>>
+ne figurait déjà plus sur la liste.
+
+<<4056.29;4061.85;fr>>
+Et sur la liste du Conseil de sécurité, et cela depuis plusieurs mois.
+
+<<4061.85;4069.29;fr>>
+Mentionnons dans le même contexte les procédures qui, selon les requérants, seraient menées dans d'autres États.
+
+<<4069.29;4079.89;fr>>
+À notre connaissance, aucun État n'a installé de procédure permettant d'examiner le bien-fonder des sanctions onusiennes.
+
+<<4079.89;4083.65;fr>>
+Le requérant lui-même n'en nomme pas.
+
+<<4083.65;4089.37;fr>>
+La Chambre, quant à elle, se réfère bien à des procédures menées au Royaume-Uni et au Canada.
+
+<<4089.37;4092.81;fr>>
+Les extraits sont toutefois trompeurs.
+
+<<4092.81;4103.97;fr>>
+Les deux arrêts appliquent l'article 103 de la Charte et accordent donc la primauté aux résolutions du Conseil de sécurité.
+
+<<4103.97;4105.93;fr>>
+Je vous prie maintenant, M. le Président,
+
+<<4105.93;4109.81;fr>>
+de bien vouloir passer la parole à M. l'Ambassadeur Zellweger.
+
+<<4109.81;4113.01;fr>>
+Et si vous le permettez, je vais reprendre la parole pour conclure après.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4113.84;4116.16;fr>>
+Merci beaucoup, Monsieur Schürmann.
+
+<<4116.16;4119.6;fr>>
+Monsieur l'Ambassadeur, vous avez la parole.
+
+[[Government;GR2]]
+
+<<4121.47;4123.15;fr>>
+Merci.
+
+<<4123.43;4130.19;fr>>
+Monsieur le Président, mesdames et messieurs les membres de la Cour, j'aimerais aborder les deux points suivants.
+
+<<4131.31;4141.55;fr>>
+En premier lieu, je vais parler de la résolution 1483, de la portée juridique de l'article 103 de la charte et des conséquences de sa violation.
+
+<<4142.39;4152.15;fr>>
+En second lieu, je vais traiter des efforts entrepris par la Suisse pour satisfaire à ses obligations positives de la Convention.
+
+<<4152.35;4159.07;fr>>
+Permettez-moi de commencer par la question de la résolution 1483 et de l'article 103.
+
+<<4160.19;4166.23;fr>>
+Le paragraphe 23 de la résolution pose les conditions d'un gel des avoirs et leur transfert au fond.
+
+<<4167.19;4178.15;fr>>
+Il doit s'agir, et je cite, des avoirs sortis d'Irak ou acquis par Saddam Hussein ou d'autres hauts responsables de l'ancien régime irakien ou des membres de leur famille proche.
+
+<<4180.43;4186.11;fr>>
+La question de savoir qui remplit ces conditions nécessite une appréciation politique.
+
+<<4186.95;4195.11;fr>>
+Quels hauts responsables de l'ancien régime, quels membres de leur famille proche, comment donc tracer le cercle des personnes concernées?
+
+<<4196.59;4201.35;fr>>
+Cette appréciation relève de la compétence des organes rennusiens uniquement.
+
+<<4202.43;4215.83;fr>>
+Concrètement, la mise en oeuvre de l'article 6 exigerait que tous les Etats reçoivent du comité des sanctions et des Etats ayant demandé le listing des informations et moyens de preuves sur les motifs du listing.
+
+<<4217.63;4224.79;fr>>
+En plus, l'effectivité du système des sanctions dépend de l'obligation de chaque Etat de les appliquer de la même manière.
+
+<<4226.15;4228.79;fr>>
+Et voilà la raison d'être de l'article 103 de la charte.
+
+<<4229.79;4253.95;fr>>
+Comme l'a formulé le juge Saïd, la tendance croissante de certains organes régionaux et nationaux à adopter des approches pluralistes qui mettent les ordres constitutionnels nationaux et les ordres régionaux en concurrence avec la charte des Nations unies risque de fragmenter le système existant au grand détriment de la stabilité et de l'ordre international.
+
+<<4256.87;4262.51;fr>>
+Le représentant des requérants nous critique pour défendre les intérêts de, comme il dit, l'Etat.
+
+<<4262.71;4263.91;fr>>
+L'Etat, l'Etat.
+
+<<4264.83;4271.11;fr>>
+Monsieur le président, membre de la Cour, ce n'est pas l'Etat en tant que tel que défend la Suisse.
+
+<<4271.59;4275.43;fr>>
+C'est le maintien de la paix et de la sécurité internationale.
+
+<<4275.99;4283.31;fr>>
+La Suisse, tout comme les autres membres des Nations unies, prend ses mesures pour sauvegarder la paix.
+
+<<4284.03;4290.91;fr>>
+La paix au bénéfice des êtres humains, les mêmes êtres humains que la Convention est appelée à protéger.
+
+<<4291.43;4298.83;fr>>
+L'ONU a pour objectif principal le maintien de cette paix et de cette sécurité internationale.
+
+<<4299.35;4302.23;fr>>
+Je cite la Cour dans la décision Bérin-Millet.
+
+<<4302.91;4327.23;fr>>
+S'il est tout aussi clair que la protection des droits de l'homme contribue de manière importante à l'établissement de la paix internationale, il n'en demeure pas moins que la responsabilité essentielle quant à cet objectif incombe au Conseil de sécurité, qui dispose de moyens considérables en vertu du chapitre VII pour l'atteindre, notamment par l'adoption de mesures coercitives.
+
+<<4328.15;4332.23;fr>>
+La responsabilité du Conseil de sécurité, à cet égard, est unique.
+
+<<4333.03;4336.23;fr>>
+Et je continue à citer la Cour dans la même affaire.
+
+<<4336.63;4348.95;fr>>
+La Convention ne saurait s'interpréter de manière à faire relever du contrôle de la Cour les actions et omissions des parties contractantes couvertes par des résolutions du Conseil de sécurité.
+
+<<4349.43;4362.55;fr>>
+Cela équivaudrait à imposer des conditions à la mise en oeuvre d'une résolution du Conseil de sécurité qui n'était pas prévue par le texte de la résolution lui-même.
+
+<<4363.43;4366.35;fr>>
+Ce raisonnement, M. le Président, membre de la Cour,
+
+<<4366.55;4369.55;fr>>
+ce raisonnement est applicable aussi en l'espèce.
+
+<<4369.55;4380.59;fr>>
+J'en viens au second point, que la responsabilité de la Suisse pour les violations allégées doit être établie à la lumière de ses obligations positives.
+
+<<4381.39;4388.39;fr>>
+Je commence, et je vous demande de me le permettre, par une autre citation, cette fois de l'arrêt Ilasco.
+
+<<4388.99;4406.23;fr>>
+La Cour avait statué l'Etat en question se doit, avec tous les moyens légaux et diplomatiques dont il dispose envers les Etats-tiers et les organisations internationales, d'essayer de continuer à garantir la jouissance des droits et libertés énoncées dans la Convention.
+
+<<4406.43;4409.83;fr>>
+En l'espèce, la Suisse a assumé ses obligations.
+
+<<4409.99;4417.43;fr>>
+Premièrement, elle s'est investie et elle s'investit toujours pour une amélioration du système onusien.
+
+<<4418.03;4424.83;fr>>
+Deuxièmement, elle a fait le maximum pour améliorer la situation individuelle du requérant.
+
+<<4424.83;4428.23;fr>>
+Qu'en est-il d'abord de l'engagement de la Suisse à New York?
+
+<<4428.43;4438.43;fr>>
+La Suisse a initié une initiative en 2005 et elle préside informellement un groupe de 11 Etats dits les like-minded.
+
+<<4439.83;4452.03;fr>>
+À chaque révision de la résolution al-Qaïda, le groupe soumet au Conseil de sécurité de nouvelles propositions visant à renforcer l'équité de la procédure des régimes de sanctions.
+
+<<4452.03;4466.23;fr>>
+Nombre de ces propositions ont été reprises par le Conseil de sécurité, notamment, et j'en cite quelques-unes, le point focal et le bureau du médiateur, ainsi que les procédures y afférentes.
+
+<<4467.43;4479.83;fr>>
+Il faut encore signaler qu'en 2009, le Parlement suisse a constaté que les sanctions prises au nom de la lutte contre le terrorisme court-circuitent, c'est le mot utilisé par le Parlement, les droits fondamentaux.
+
+<<4479.83;4491.83;fr>>
+Le Parlement a invité le gouvernement par la motion dite Marti à informer le Conseil de sécurité que les sanctions ne seront plus appliquées lorsque certaines conditions sont remplies.
+
+<<4492.83;4500.63;fr>>
+Le Parlement a de ce fait souhaité envoyer un signal fort au Conseil de sécurité dans le contexte de l'affaire Nadin.
+
+<<4502.03;4509.63;fr>>
+Le gouvernement a mis en oeuvre cette motion, en envoyant une lettre au comité des sanctions al-Qaïda.
+
+<<4509.83;4524.03;fr>>
+Le comité lui a répondu par lettre en lui rappelant l'obligation inconditionnelle de la Suisse de suivre les décisions du Conseil de sécurité selon les articles 25 et 103 de la charte.
+
+<<4524.63;4529.83;fr>>
+Le gouvernement en a informé le Parlement et reste en contact régulier avec celui-ci.
+
+<<4530.03;4543.03;fr>>
+Ainsi, le Parlement a proposé à la Commission de la sécurité ainsi le Parlement a pris connaissance de l'engagement diplomatique de la Suisse la dernière fois au printemps 2014.
+
+<<4543.23;4558.03;fr>>
+Le refus de classement par le Parlement vise avant tout, et c'est lui qui le dit, à maintenir la pression sur le gouvernement et à le charger de poursuivre son engagement diplomatique auprès de l'ONU.
+
+<<4558.03;4582.03;fr>>
+Ensuite, la Suisse a soutenu les requérants individuellement, non seulement par le déblocage d'une somme totale de plus d'un million de francs suisses, mais également en leur accordant le droit d'être entendu dans la procédure nationale et en suspendant la procédure nationale à deux reprises pour leur permettre de déposer une demande de radiation à New York.
+
+<<4582.03;4590.15;fr>>
+La Suisse a d'ailleurs transmis la première demande au comité puisqu'en 2004, le point focal n'était pas encore en existence.
+
+<<4590.15;4597.83;fr>>
+La Suisse a ainsi pris toutes les mesures qui restaient en son pouvoir pour assurer le respect de la Convention.
+
+<<4597.83;4598.83;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4601.29;4604.57;fr>>
+Merci beaucoup, Monsieur l'Ambassadeur Zellweger.
+
+<<4604.61;4608.85;fr>>
+Je donne maintenant la parole au gouvernement britannique et à l'Etat-National.
+
+<<4608.85;4610.85;fr>>
+Monsieur...
+
+<<4610.85;4613.37;fr>>
+Ah, vous...
+
+<<4613.69;4614.61;fr>>
+Excusez-moi, donc.
+
+<<4614.61;4614.61;fr>>
+Monsieur Schürmann, vous voulez encore ajouter quelque chose?
+
+[[Government;GR1]]
+
+<<4618.8;4620.4;fr>>
+Oui, deux minutes, M. le Président,
+
+<<4620.4;4621.48;fr>>
+juste pour conclure.
+
+<<4621.56;4622.56;fr>>
+Oui.
+
+<<4622.56;4634.48;fr>>
+Nous avons affaire à une constellation dans laquelle il est difficile de séparer des éléments portant sur la recevabilité d'une part et du bien-fondé de la requête d'autre part.
+
+<<4634.48;4650.0;fr>>
+La Chambre le confirme au paragraphe nolant 3 de son arrêt en affirmant qu'elle examinera dans le cadre du bien-fondé l'argumentation développée par le gouvernement et les tierces intervenants sous l'angle de la compatibilité rationne personnelle.
+
+<<4650.0;4671.04;fr>>
+Nous confirmons donc les conclusions présentées dans notre mémoire, à savoir à titre principal la déclarée irrecevable, la requête pour incompatibilité rationne personnelle, titre subsidiaire de déclarée irrecevable la requête pour incompatibilité rationne matérielle et à titre plus subsidiaire encore à dire qu'il n'y a pas eu violation de la Convention.
+
+<<4671.04;4685.32;fr>>
+Pour ce qui est de l'éventuel octroi d'une satisfaction équitable, nous nous permettons de renvoyer aux conclusions présentées au paragraphe 65 à 68 de notre mémoire.
+
+<<4685.32;4692.92;fr>>
+Nous n'avons pas connaissance d'autres demandes que les requérants auraient déposées pour la procédure devant la Grande Chambre.
+
+<<4692.92;4692.92;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4694.48;4697.68;fr>>
+Merci, M. Schürmann, pour cette précision.
+
+<<4697.68;4702.04;fr>>
+Maintenant, je donne la parole à l'attorney general, M. Wright, vous avez la parole.
+
+[[ThirdParty;TP2]]
+
+<<4702.69;4703.45;en>>
+Thank you, Mr. President.
+
+<<4703.45;4709.61;en>>
+Members of the court, there is, I submit, a single crucial question in this case.
+
+<<4709.61;4719.41;en>>
+Does the convention, despite its particular role and importance, fall to be interpreted and applied within the system of international law?
+
+<<4719.41;4731.81;en>>
+The United Kingdom's answer to this question is an emphatic yes, a response that it considers to be strongly supported by the past decisions of the Grand Chamber that are being referred to in this case.
+
+<<4731.81;4756.17;en>>
+It follows from that yes that where, exceptionally, a contracting party is obliged to act inconsistently with a right of access to a court under Article 6 as a result of obligations arising under binding resolutions of the United Nations Security Council, the obligations under those resolutions must prevail in accordance with well-established principles of law.
+
+<<4756.17;4782.13;en>>
+Alternatively, Article 6 is correctly understood as establishing a right that is not absolute and consistent with this court's past jurisprudence, which, after all, allows to the state a certain margin of appreciation, is satisfied, its proportionality test is satisfied, where there is no access due to the impact of generally recognized rules of public international law.
+
+<<4782.13;4792.97;en>>
+The provisions of the United Nations Charter that lead to either of these outcomes, Articles 25, 48, and 103, are well known to this court.
+
+<<4792.97;4803.73;en>>
+Article 103 has given obligations under the charter superior effect, prevailing in the event of conflict over other obligations under international treaties.
+
+<<4803.73;4807.21;en>>
+It so states in express terms.
+
+<<4807.21;4816.31;en>>
+Article 103 constitutes a long and well-established principle of priority that has frequently been reaffirmed or upheld.
+
+<<4816.31;4828.45;en>>
+Reaffirmed in a series of international instruments, including in Article 30, paragraph 1 of the Vienna Convention on the Law of Treaties, and in the 1970 Friendly Relations Declaration.
+
+<<4828.45;4837.21;en>>
+It has been upheld by the International Court of Justice on a number of occasions, and it has been acknowledged and applied by this court.
+
+<<4837.21;4848.37;en>>
+And consistent with all of that, it is to be emphasized that this is not a principle that is ultimately at odds with the protection of human rights or at odds with the convention.
+
+<<4848.37;4850.41;en>>
+And there are two points here.
+
+<<4850.41;4860.05;en>>
+First, looking at the purposes and principles of the United Nations Charter, in prime position, Article 1.1 is maintaining international peace
+
+<<4860.05;4861.65;en>>
+and security.
+
+<<4861.65;4870.69;en>>
+Establishing such peace and security is a fundamental precursor to promoting and encouraging respect for human rights and fundamental freedoms.
+
+<<4870.69;4890.35;en>>
+Articles 25 and 103 of the Charter are critical to enabling the Security Council to fulfill its primary responsibility for maintaining international peace and security under Article 24, which is in turn the essential foundation upon which human rights and freedoms rest.
+
+<<4890.35;4898.23;en>>
+Secondly, looking at the objects and purposes of the convention, its preamble invokes the aim of the Council of Europe.
+
+<<4898.23;4912.49;en>>
+That aim is recorded at Article 1 of the Council statute, paragraph C of which provides inter alia that, and I quote, participation in the Council of Europe shall not affect the collaboration of its members in the work of the United Nations.
+
+<<4912.49;4926.27;en>>
+This suggests that the drafters of the convention did not see its provisions as cutting across the Charter or Article 103, which plays a fundamental role in the context of the Charter and of collective security.
+
+<<4926.27;4933.21;en>>
+Consistent with this, the convention has been registered with the UN under Article 102 of the Charter.
+
+<<4933.21;4943.61;en>>
+As such, the contracting parties have indicated that they regard their agreement as one under international law and thus subject to Article 103.
+
+<<4943.61;4950.33;en>>
+The applicants nonetheless approach this case as if Article 103 was of no bearing.
+
+<<4950.33;4953.13;en>>
+They make two central contentions.
+
+<<4953.13;4962.13;en>>
+First, that there is no conflict between Switzerland's obligations under the various Security Council resolutions and under Article 6.
+
+<<4962.13;4970.41;en>>
+And second, that the listing mechanisms of the Security Council are to be tested by reference to a standard of equivalent protection.
+
+<<4970.41;4978.53;en>>
+And in this, reliance is placed on the judgment of the second section and on this court's judgment in the Bosphorus case.
+
+<<4978.53;4981.81;en>>
+Both these contentions are misconceived.
+
+<<4981.81;5001.25;en>>
+As to the first, the court has sought in its past cases to avoid inconsistency by striving for harmonious interpretation, including by way of applying a presumption that the Security Council does not intend to impose an obligation that leads to a breach of human rights, for example, in the case of al-Jadda.
+
+<<5001.25;5004.57;en>>
+But that is just a presumption and no more.
+
+<<5004.57;5014.89;en>>
+Just as in the Nada case, that presumption is rebutted where, as here, clear and explicit language is used in the Security Council resolutions at issue.
+
+<<5014.89;5025.81;en>>
+The various UN General Assembly and other statements that the applicants now deploy cannot somehow rewrite the plain wording of a binding Security Council resolution.
+
+<<5025.81;5049.89;en>>
+In particular, the applicants can point to no materials that suggest that the Security Council, which has under the charter the primary responsibility for maintaining international peace and security, has intended to retract or modify its decision on what is required for international peace and security, as set out in the plain and mandatory wording of Resolution 1483.
+
+<<5049.89;5065.41;en>>
+Likewise, this is not a case where there is latitude or discretion in how to implement a given measure such that it is appropriate to review whether the exercise of that discretion is in compliance with applicable provisions of the Convention.
+
+<<5065.41;5069.37;en>>
+That is something on which each member of the second section was agreed.
+
+<<5069.37;5076.97;en>>
+The Security Council resolutions at issue have left no discretion at all to the respondent state.
+
+<<5076.97;5088.17;en>>
+It follows that this is not a case where apparent inconsistencies can be resolved by a particular interpretation of the Security Council resolutions at issue, as the applicants contend.
+
+<<5088.17;5100.63;en>>
+Nor, as to the applicant's second contention, can conflicting obligations be resolved to the extent, but only to the extent, that a principle of equivalent protection is satisfied.
+
+<<5100.63;5103.39;en>>
+The Bosphorus case is not the answer.
+
+<<5103.39;5109.93;en>>
+There are two related points, both of which were passed over by the majority in the second section.
+
+<<5109.93;5117.89;en>>
+First and most obviously, Bosphorus is not a case where the impact of Articles 25 and 103 of the Charter was at issue.
+
+<<5117.89;5127.13;en>>
+It concerned the impact on Convention obligations of the transfer by a contracting state of sovereign power to the European community, and nothing more.
+
+<<5127.13;5140.57;en>>
+The principles stated in the Bosphorus judgment, on which the second section placed such emphasis, were developed by reference to the interplay between the Convention and obligations, which were plainly subsequent under EU treaties.
+
+<<5140.57;5156.77;en>>
+Neither Bosphorus nor prior cases such as Matthews concern the very particular impact of Article 103 of the Charter, which applies and must apply, regardless of whether the conflicting treaty obligation pre or post states UN membership.
+
+<<5156.77;5173.89;en>>
+Were it otherwise, UN member states would in effect establish reservations to their obligations under the Charter in relation to their prior treaties, thus undermining both the Charter and all prospects of a cohesive approach to maintaining international peace and security.
+
+<<5173.89;5182.85;en>>
+Secondly, Bosphorus concerns the case of how to reconcile two competing international law obligations operating on the same plane.
+
+<<5182.85;5197.77;en>>
+But here, the question is no longer one of compliance with the given provision of the Convention, because pursuant to Article 103, that provision is displaced to the extent that there is a conflict with obligations under the UN Charter.
+
+<<5197.77;5206.69;en>>
+Thus, the contracting party is not faced with a dilemma, as the majority of the second section put it, and as the applicant has argued.
+
+<<5206.69;5218.53;en>>
+There is a strict rule of hierarchy in play, and moreover, one that predates the conclusion of the Convention by a number of years, and was well known and understood by those drafting the Convention.
+
+<<5218.53;5222.89;en>>
+The majority judgment simply did not address these points.
+
+<<5222.89;5227.85;en>>
+So the United Kingdom does not ask the court to go against its prior jurisprudence.
+
+<<5227.85;5239.85;en>>
+Rather, because of the very special status of Article 103, the international law backdrop now before the court is quite different to that before the court in Bosphorus.
+
+<<5239.85;5246.83;en>>
+Nor, I submit, are the applicants assisted by the approach of the European Court of Justice in the Cardi 1 case.
+
+<<5246.83;5251.21;en>>
+This also raised different issues in a different context.
+
+<<5251.21;5262.09;en>>
+The simple point is that the Court of Justice was considering an EU measure, not the direct impact of a binding UN Security Council resolution on a UN member state.
+
+<<5262.09;5272.77;en>>
+It was made clear that the challenge within the community legal order would not entail any challenge to the primacy of the Security Council resolution in international law.
+
+<<5272.77;5275.69;en>>
+No such reasoning is available here.
+
+<<5275.69;5286.97;en>>
+There is no interposing layer of EU law in this case, and the challenge is directly to the primacy of Resolution 1483 as a matter of international law.
+
+<<5286.97;5294.09;en>>
+And the same basic point applies to the applicant's reference to the decision of Ahmed in the UK Supreme Court.
+
+<<5294.09;5308.93;en>>
+In Ahmed, the only question was what was required to give effect to a UN Security Council resolution in domestic law, an order in council or a specific act, an issue quite different to today's.
+
+<<5308.93;5329.93;en>>
+So the United Kingdom strongly agrees with the views expressed by judges Lorenzen, Raimondi, and Josien on all these points, and with the analysis in the dissenting opinion more generally, including to the effect that Article 6 in any event allows for its application in a given case to be limited by fundamental obligations under the charter.
+
+<<5329.93;5339.17;en>>
+The existence of such a limitation is confirmed by the court's jurisprudence on sovereign immunity, dating back to the Al-Azani against the UK case.
+
+<<5339.17;5351.37;en>>
+Even in a stark case involving allegations of torture, the court correctly applied Article 6 within the context of generally recognized rules of international law.
+
+<<5351.37;5364.13;en>>
+The International Court of Justice, in its judgment in the jurisdictional immunities case, also came to the conclusion that violations of norms of use cogens did not lead to a lifting of sovereign immunity.
+
+<<5364.13;5375.13;en>>
+In this case, the court is not looking at how Article 6 is impacted where the underlying allegation is of torture, as in Al-Azani, or some other norm of use cogens.
+
+<<5375.13;5385.41;en>>
+The underlying claim here is of deprivation of property, which evidently does not introduce a norm of use cogens or even engage an absolute right.
+
+<<5385.41;5400.57;en>>
+Moreover, a claim of sovereign immunity brings the avenues of redress open to a claimant to a complete halt, whereas the sanctions committee mechanism does provide some recourse for an individual who considers that he has been incorrectly listed.
+
+<<5400.57;5405.09;en>>
+By contrast, the approach of the majority is deeply problematic.
+
+<<5405.09;5424.45;en>>
+As the respondent has argued, it establishes a situation where, although a contracting party is bound by the charter to freeze a listed person's assets and transfer these to the development fund for Iraq or its successor, its domestic courts must review whether such persons should be listed at all.
+
+<<5424.45;5437.13;en>>
+If the domestic court comes to a different view on listing, on the majority's view, the inescapable logic is that the contracting party cannot comply with its clear obligations under the charter.
+
+<<5437.13;5446.77;en>>
+Thus, Articles 25 and 103 are entirely undermined, with primacy in the international hierarchy being accorded to the Convention.
+
+<<5446.77;5453.37;en>>
+But what is appropriate to preserve international peace and security could not be a matter for this court.
+
+<<5453.37;5480.49;en>>
+Stepping back, the analysis of the majority in the second section appears to have been that contracting parties to the Convention could only and did only transfer sovereign power to the UN Security Council pursuant to Article 25 of the charter, to the extent that the Security Council assured equivalent protection with respect to decisions made in meeting its primary responsibility for the maintenance of international peace and security.
+
+<<5480.49;5492.01;en>>
+Yet there is nothing in the wording of Articles 25 and 103 to that effect, and the functioning of the mechanisms for maintaining peace and security depends on reciprocity.
+
+<<5492.01;5515.57;en>>
+If certain UN member states contracting parties to the Convention place restrictions on their compliance with decisions of the Security Council under Article 25 of the charter, the inevitable outcome is that other states will cease to see Article 25 as a hard and fast rule, with the result that the only global mechanism for maintaining international peace and security is placed under threat.
+
+<<5515.57;5518.61;en>>
+So I conclude by returning to my opening point.
+
+<<5518.61;5528.13;en>>
+The Convention sits within the framework of international law that is strongly confirmed by the Grand Chamber's approach in the al-Atsani line of cases.
+
+<<5528.13;5541.73;en>>
+International law recognizes that it is the Security Council that decides on measures necessary to preserve and maintain international peace and security, and accords superior force to its decisions in this respect.
+
+<<5541.73;5554.37;en>>
+The United Kingdom has intervened in this case because of the importance to the international community as a whole of these foundational principles which cannot be bypassed and must not be undermined.
+
+<<5554.37;5555.81;en>>
+Mr. President, members of the court,
+
+<<5555.81;5557.57;en>>
+these are my submissions on behalf of the United Kingdom.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5559.08;5560.68;fr>>
+Thank you, Attorney General.
+
+<<5560.68;5566.52;fr>>
+Je donne maintenant la parole au gouvernement français, Monsieur de Bergues.
+
+<<5566.52;5566.52;fr>>
+Vous avez la parole.
+
+[[ThirdParty;TP1]]
+
+<<5568.24;5575.56;fr>>
+Monsieur le Président, mesdames et messieurs les juges, la présente affaire amène en substance à se poser deux questions.
+
+<<5575.56;5594.28;fr>>
+La première question vise à déterminer si, au regard de l'article 1er de la Convention, votre cours est compétente, rationnée, personnée pour examiner les mesures litigieuses prises par la Suisse en application de la résolution 1483-2003 du Conseil de sécurité des Nations Unies.
+
+<<5594.28;5618.48;fr>>
+La seconde question, qui ne se pose que si votre cours se juge compétente, vise à déterminer si l'article 6 de la Convention impose aux juridictions nationales de contrôler le bien fondé de ces mesures prises par la Suisse, malgré la règle de conflit qui figure à l'article 103 de la Charte des Nations Unies.
+
+<<5618.48;5634.16;fr>>
+En ce qui concerne la première question, le gouvernement français continue de penser que votre cours n'est pas compétente pour examiner la conformité à l'article 6 de la Convention des mesures litigieuses prises par la Suisse.
+
+<<5634.16;5647.08;fr>>
+À cet égard, il convient de rappeler que l'article 1er de la Convention reconnaît à toute personne relevant de la juridiction de la Cour les droits et libertés définis au titre 1 de la Convention.
+
+<<5647.08;5666.56;fr>>
+Ainsi, la notion de juridiction au sens de l'article 1er est une condition nécessaire pour qu'un État puisse être tenu pour responsable des actes ou des omissions qui lui sont imputables et qui sont à l'origine d'une allégation de violation des droits et libertés énoncées par la Convention.
+
+<<5666.56;5685.6;fr>>
+En l'espèce, dans son arrêt, la Chambre a considéré que cette condition était remplie au motif que la résolution 1483-2003 du Conseil de sécurité chargerait les États d'agir en leur nom propre pour mettre en oeuvre cette résolution au niveau national.
+
+<<5685.6;5689.56;fr>>
+Je vous renvoie au point 91 de l'arrêt de la Chambre.
+
+<<5689.56;5693.4;fr>>
+Cependant, le gouvernement français ne partage pas cette interprétation.
+
+<<5693.4;5708.32;fr>>
+En effet, contrairement à ce qu'a jugé la Chambre, il faut considérer que les mesures prises par la Suisse ne l'ont pas été en son nom propre, mais pour le compte des Nations unies, du Conseil de sécurité des Nations unies.
+
+<<5708.32;5730.0;fr>>
+En effet, il faut rappeler, cela a été dit, mais je le répète, la Charte des Nations unies a instauré un système de sécurité collective au sein duquel la responsabilité principale du maintien de la paix et de la sécurité internationale est confiée, en vertu de l'article 24 de la Charte, au Conseil de sécurité.
+
+<<5730.0;5747.48;fr>>
+Pour accomplir sa mission, il appartient au Conseil de sécurité et à lui seul de constater, en application de l'article 39 de la Charte, je cite, l'existence d'une menace contre la paix, d'une rupture de la paix ou d'un acte d'agression.
+
+<<5747.48;5762.2;fr>>
+Et donc, il appartient au Conseil de sécurité de décider les mesures qui seront adoptées pour maintenir ou rétablir la paix et la sécurité internationale, en vertu du chapitre 7 de cette charte.
+
+<<5762.2;5771.48;fr>>
+Il incombe aux Etats membres d'appliquer les décisions prises par le Conseil de sécurité, en application de l'article 25 de la Charte.
+
+<<5771.48;5805.08;fr>>
+Ainsi, dans un avis consultatif du 21 juin 71, relative aux conséquences juridiques pour les Etats de la présence continue de l'Afrique du Sud en Namibie, la Cour internationale de justice a rappelé, je cite, que lorsque le Conseil de sécurité adopte une décision au terme de l'article 25 de la Charte, il incombe aux Etats de se conformer à cette décision, ne pas l'admettre, serait privé cet organe principal des fonctions et pouvoirs essentiels qu'il tient de la charte.
+
+<<5805.08;5833.92;fr>>
+Le caractère contraignant des résolutions du Conseil de sécurité concernant le maintien et le rétablissement de la paix et de la sécurité internationale résulte également de l'article 48, paragraphe 2 de la charte, qui, je vous le rappelle, stipule que ces résolutions sont exécutées par les membres des Nations unies directement et grâce à leur action dans les organismes internationaux appropriés dont ils font partie.
+
+<<5833.92;5846.04;fr>>
+Ainsi, en l'espèce, la Suisse était tenue d'appliquer la résolution 1483-2003 du Conseil de sécurité en sa qualité de membre des Nations unies.
+
+<<5846.04;5860.36;fr>>
+D'ailleurs, cela a été dit, je le répète, cette résolution ne laissait aux Etats membres de l'organisation des Nations unies aucune marge d'appréciation, contrairement à ce que prétendent les requérants.
+
+<<5860.36;5863.04;fr>>
+Et d'ailleurs, la Chambre en a convenu.
+
+<<5863.04;5895.16;fr>>
+En effet, le paragraphe 23 de la résolution en cause prévoit que les Etats des Nations unies sont tenus de geler sans retard les fonds appartenant notamment aux hauts responsables de l'ancien régime irakien ou des membres de leur famille proche, y compris les entités appartenant à ces personnes ou à d'autres personnes agissant en leur nom ou selon leurs instructions ou se trouvant sur leur contrôle direct ou indirect.
+
+<<5895.16;5913.24;fr>>
+La liste des personnes et entités désignées auxquelles s'applique le régime de sanctions mis en place par cette résolution 1483 est établie et mise à jour, je le rappelle, par le comité des sanctions créé par la résolution 1518-2003.
+
+<<5913.24;5926.56;fr>>
+Ainsi, pour reprendre l'expression du juge Chaillot, dans son opinion partiellement dissidente, la Suisse n'est intervenue en l'espèce, je cite le juge, que comme un agent des Nations unies.
+
+<<5926.56;5943.4;fr>>
+Par conséquent, seule l'organisation des Nations unies doit assumer la responsabilité de la résolution que le Conseil de sécurité a adoptée et dont il a imposé l'application aux Etats membres de cette organisation.
+
+<<5943.4;5959.76;fr>>
+Dès lors, le gouvernement français considère que votre cours n'est pas compétente, rationnée et personnée, pour se prononcer sur les mesures prises par la Suisse en application de la résolution 1483-2003.
+
+<<5959.76;5965.4;fr>>
+J'en viens maintenant à la seconde question que j'évoquais au début de mon intervention.
+
+<<5965.4;5974.8;fr>>
+Celle-ci, je le rappelle, ne se pose qu'à titre subsidiaire pour le cas où votre cours se considérerait compétente en l'espèce.
+
+<<5974.8;6009.28;fr>>
+Alors, cette seconde question, qui, selon nous, se pose, vise donc à déterminer si l'article 6 de la Convention impose aux juridictions nationales de contrôler le bien-fondé des mesures nationales prises par un Etat en application d'une résolution contraignante du Conseil de sécurité, qui ne lui laisse évidemment aucune marge d'appréciation, et bien si les juridictions nationales sont tenues de contrôler le bien-fondé de ces mesures, malgré la règle de conflit de normes qui figure à l'article 103 de la Charte.
+
+<<6009.28;6032.92;fr>>
+Il s'agit là d'une question finalement inédite, puisque la Grande Chambre devra se prononcer pour la première fois sur un conflit, un conflit réel entre les obligations contradictoires qui résultent d'un côté d'une résolution du Conseil de sécurité et de l'autre de l'article 6 de la Convention.
+
+<<6032.92;6043.48;fr>>
+Dans son arrêt, la Chambre a cru pouvoir régler ce conflit en recourant aux critères de la présomption de protection équivalente.
+
+<<6043.48;6047.32;fr>>
+La Chambre s'est bien gardée, je crois, de citer le mot conflit, comme ça a été relevé.
+
+<<6047.32;6057.32;fr>>
+Elle a tout de même résolu ce conflit sans le dire, en recourant donc à votre critère bien connu de la présomption de protection équivalente.
+
+<<6057.32;6090.32;fr>>
+À cet égard, il convient de rappeler qu'en vertu de votre jurisprudence, lorsque les États ne font qu'exécuter des obligations juridiques résultant de leur adhésion à une organisation internationale, il y a lieu de présumer que cette organisation internationale accorde aux droits fondamentaux une protection au moins équivalente à celle assurée par la Convention, et donc que par suite, les États respectent les exigences de la Convention.
+
+<<6090.32;6095.6;fr>>
+Et je vous renvoie, pour ce qui concerne l'Union européenne, évidemment, à l'arrêt Bosphorus contre Irlande.
+
+<<6095.6;6104.24;fr>>
+En ce qui concerne l'organisation du traité de l'Atlantique Nord, je vous renvoie à votre arrêt Gasparini contre Italie et Belgique.
+
+<<6104.24;6118.44;fr>>
+Cependant, pour le gouvernement français, le critère de la présomption de la protection équivalente et cette jurisprudence ne sont pas pertinents en l'espèce, contrairement à ce qu'a jugé la Chambre.
+
+<<6118.44;6150.92;fr>>
+En effet, votre cours n'a appliqué ce critère de la protection équivalente qu'à des organisations internationales non universelles, qui ne regroupaient donc pas l'ensemble des États partis à la Convention en particulier, et dont les traités fondateurs, les traités fondateurs de ces organisations internationales, ne comportaient pas de clause prévoyant que ces traités fondateurs prévaudraient en cas de conflit sur la Convention.
+
+<<6150.92;6175.84;fr>>
+Par ailleurs, si votre cours a déjà eu à connaître d'affaires dans lesquelles un conflit était allégué entre des obligations résultant d'un côté d'une résolution du Conseil de sécurité et de l'autre des obligations découlant de la Convention, jusqu'à présent, votre cours n'a pas admis la réalité du conflit entre ces normes qui étaient alléguées devant elle.
+
+<<6175.84;6195.08;fr>>
+En effet, comme cela a été d'ailleurs souligné, dans l'arrêt Al-Jeda contre le Royaume-Uni, la Cour a relevé que la résolution du Conseil de sécurité en cause dans cette affaire n'imposait pas à l'État membre au Royaume-Uni d'incarcérer les individus qui avaient été appréhendés.
+
+<<6195.08;6213.96;fr>>
+De même, dans votre arrêt Nada contre Suisse, votre cours a estimé que la Suisse jouissait d'une latitude, certes restreinte, avez-vous dit, mais néanmoins réelle, dans la mise en œuvre des résolutions contraignantes en cause du Conseil de sécurité.
+
+<<6213.96;6231.64;fr>>
+Ainsi, c'est finalement la première fois que la Grande Chambre doit se prononcer sur un conflit réel entre des obligations résultant d'un côté d'une résolution du Conseil de sécurité contraignante et de l'autre des obligations résultant de la Convention.
+
+<<6231.64;6242.12;fr>>
+Cependant, pour résoudre ce conflit de normes, il se trouve que l'un des deux traités en cause comporte une clause de résolution des conflits.
+
+<<6242.12;6263.2;fr>>
+En effet, l'article 103 de la Charte des Nations unies que j'ai déjà beaucoup cité, évidemment, ce matin, prévoit que, en cas de conflit entre les obligations des membres des Nations unies en vertu de la présente charte et leurs obligations en vertu de tout autre traité international, les premières prévaudront.
+
+<<6263.2;6289.04;fr>>
+Ainsi, la clause de résolution des conflits, conflits de normes, évidemment, qui figure dans la Charte des Nations unies, confère aux engagements des Etats résultants de cette charte une primauté par rapport à tous les autres engagements internationaux que ces Etats ont pu contracter, que ces engagements soient antérieurs ou postérieurs.
+
+<<6289.04;6316.16;fr>>
+Cette primauté est conférée non seulement aux obligations explicitement énoncées dans la charte, mais aussi à celles qui découlent des résolutions obligatoires du Conseil de sécurité adoptée sur le fondement du chapitre 7 de la charte, et je vous renvoie aux ordonnances du 14 avril 92 de la Cour internationale de justice relative à l'incident aérien de Lockerbie.
+
+<<6316.16;6336.36;fr>>
+Ainsi, il existe dans la Charte des Nations unies, c'est-à-dire dans l'un des deux traités en cause à côté de la Convention, une clause de résolution des conflits qui fait prévaloir les obligations résultantes de cette charte sur les obligations résultant de tout autre accord international, et donc y compris la Convention.
+
+<<6336.36;6354.4;fr>>
+Il en résulte que les juridictions nationales ne sont pas en droit de contrôler le bien-fondé des mesures nationales prises pour l'application d'une résolution contraignante du Conseil de sécurité qui ne laisse aux Etats aucune marge d'appréciation.
+
+<<6354.4;6379.88;fr>>
+En effet, un tel contrôle qu'effecturaient les juridictions nationales sur les mesures nationales de mise en oeuvre des résolutions pourrait aboutir évidemment dans certains cas à l'annulation de ces mesures nationales, c'est évidemment l'objectif des recours, et amener ainsi l'Etat concerné à ne plus respecter ses engagements résultants de la Charte des Nations unies.
+
+<<6379.88;6390.12;fr>>
+C'est pourquoi le gouvernement français rejoint entièrement lui aussi l'analyse à ce propos des juges Lorenzen, Yossienne et Raimondi dans leur opinion dissidente.
+
+<<6390.12;6407.4;fr>>
+D'ailleurs, il nous semble que cette analyse dans leur opinion dissidente de ces trois juges rejoint également celle de la Cour dans sa décision du 11 juin 2013 dans l'affaire Stichting Mothers of Srebrenica et autres contre Pays-Bas.
+
+<<6407.4;6445.12;fr>>
+En effet, dans cette décision, la Cour a considéré, je cite, que, étant donné que les opérations décidées par les résolutions du Conseil de sécurité au titre du chapitre 7 de la Charte des Nations unies sont fondamentales pour que les Nations unies puissent mener à bien leur mission de maintien de la paix et de la sécurité internationale, et bien la Convention ne saurait être interprétée de telle manière que les actes et omissions du Conseil de sécurité soient soumis à une juridiction nationale sans l'accord de l'Organisation des Nations unies.
+
+<<6445.12;6463.96;fr>>
+Je vous cite toujours, faire relever de telles opérations de la compétence de juridiction nationale reviendrait à permettre à des Etats, par le biais de leurs tribunaux, de s'immiscer dans l'accomplissement par les Nations unies de leur mission fondamentale dans ce domaine.
+
+<<6463.96;6467.4;fr>>
+Et je vous renvoie donc au point 154 de cette décision.
+
+<<6467.4;6485.2;fr>>
+La Cour en a conclu dans cette décision que l'absence de contrôle par les juridictions nationales néerlandaises ne constituait pas une restriction disproportionnée au droit d'accès à un tribunal au sens de l'article 6 de la Convention.
+
+<<6485.2;6517.96;fr>>
+Selon le gouvernement français, si les juridictions nationales devaient contrôler en l'espèce le bien-fondé des mesures prises par un Etat en application d'une résolution contraignante du Conseil de sécurité, ne leur laissant bien sûr aucune marge d'appréciation, eh bien cela reviendrait de la même manière comme dans la décision Srebrenica, cela reviendrait de la même manière à permettre à cet Etat de s'immiscer dans l'accomplissement de la mission fondamentale des Nations unies.
+
+<<6517.96;6533.36;fr>>
+C'est pourquoi l'absence d'un tel contrôle des juridictions nationales ne doit pas être considéré comme constituant une restriction disproportionnée au droit d'accès à un tribunal au sens de l'article 6 de la Convention.
+
+<<6533.36;6545.72;fr>>
+Cependant, le gouvernement français ne voudrait pas terminer cette tédoirie sans évoquer l'arrêt de la Cour de justice de l'Union européenne du 3 septembre 2008 dans l'affaire Caddie, l'arrêt caddien.
+
+<<6545.72;6571.28;fr>>
+Dans cet arrêt, qui avait déjà été cité abondamment, la Cour de justice, je le rappelle, a considéré que la circonstance qu'un règlement de l'Union se borne à mettre en oeuvre une résolution qui, selon le Conseil de sécurité, ne prive pas le juge de l'Union de sa compétence pour contrôler la légalité interne de ce règlement au regard des droits fondamentaux de l'ordre juridique de l'Union.
+
+<<6571.28;6591.32;fr>>
+Cependant, et quoi qu'on puisse penser de la solution de cet arrêt, pour aboutir à cette solution, la Cour de justice s'est fondée sur sa jurisprudence constante qui reconnaît l'existence d'un ordre juridique de l'Union européenne distinct de l'ordre juridique international.
+
+<<6591.32;6601.32;fr>>
+Or, il découle de votre jurisprudence qu'il n'existe pas d'ordre juridique des droits de l'homme qui soit distinct de l'ordre juridique international.
+
+<<6601.32;6609.48;fr>>
+En effet, votre Cour a jugé que la Convention, je cite, fait partie intégrante du droit international.
+
+<<6609.48;6617.12;fr>>
+Je vous renvoie notamment à la décision Stiching Mothers of Srebrenica, mais également à votre arrêt à Sannes contre Royaume-Uni.
+
+<<6617.12;6645.4;fr>>
+Dans ces conditions, la primauté dans l'ordre juridique international, des obligations résultant de la Charte des Nations unies, impose de considérer que le refus des juridictions nationales d'un Etat de contrôler le bien-fondé des mesures prises par cet Etat pour mettre en oeuvre des résolutions contraignantes du Conseil de sécurité constitue une restriction proportionnée au droit d'accès à un tribunal, au sens de l'article 6 de la Convention.
+
+<<6645.4;6645.4;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6650.48;6652.48;fr>>
+Merci, Monsieur de Bergues.
+
+<<6652.48;6654.4;fr>>
+Je me tourne vers les juges.
+
+<<6654.44;6658.6;fr>>
+La juge Ziemele voudrait poser des questions.
+
+<<6658.6;6660.68;fr>>
+Tout d'abord, la juge Ziemele.
+
+[[Judge;Ineta Ziemele]]
+
+<<6665.91;6673.21;en>>
+Mr. President, I have first a question to the applicants'
+
+<<6673.21;6675.15;en>>
+councils.
+
+<<6675.15;6710.41;en>>
+And in view of the submissions that we just heard, I would really appreciate if you explained more specifically your key submission that resort to equivalent protection doctrine, as developed by the court in the Bosphorus case, leads to a harmonization or harmonious application of the obligations, both that derive under Security Council resolution concerns and Article 6.
+
+<<6710.41;6717.59;en>>
+And that in light of Article 103 of the charter, if I understood your key submission correctly.
+
+<<6717.59;6727.83;en>>
+And I would like to really know how do you envisage this construction applied in practice in the facts of the case?
+
+<<6727.83;6738.89;en>>
+Do you mean that the domestic tribunals are not prevented from assessing the well-founded character of the listing of the applicant?
+
+<<6738.89;6751.19;en>>
+And if so, if the well-founded character were to assess, what would be then the expected outcome at the domestic level?
+
+<<6751.19;6755.47;en>>
+And second question goes to the parties.
+
+<<6755.47;6769.35;en>>
+And it concerns Article 6, because we've had submissions on the scope of the court's competence, "ratione personae and ratione materiae".
+
+<<6769.35;6777.13;en>>
+But I would like you to answer a very simple question, and that is applicability of Article 6.
+
+<<6777.13;6785.79;en>>
+We know that for Article 6 to apply, we have to have a civil rights in dispute or a criminal charge.
+
+<<6785.79;6797.43;en>>
+So which aspect, in fact, do you plead, I suppose, the applicant or do you contest as far as the respondent government is concerned?
+
+<<6797.43;6803.39;en>>
+And what case law do you invoke in support of the applicability?
+
+<<6803.39;6804.17;en>>
+Thank you.
+
+<<6804.17;6804.37;en>>
+resident.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6805.44;6808.48;fr>>
+Merci beaucoup, le juge Sicilianos.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<6812.98;6813.98;fr>>
+Merci, M. le Président.
+
+<<6814.18;6818.18;fr>>
+La 1re question va à la partie requérante.
+
+<<6818.38;6830.78;fr>>
+Vous avez parlé d'intégration systémique et d'application harmonieuse des obligations parallèles, non pas contradictoires, mais parallèles, de la Suisse au titre de la charte de la Convention.
+
+<<6830.98;6839.66;fr>>
+Dans ce contexte, et à votre avis, quel aurait dû être concrètement l'étendue du contrôle de la part des juridictions suisses?
+
+<<6839.66;6859.34;fr>>
+Le tribunal fédéral aurait dû s'assurer simplement que l'inscription du requérant sur la liste n'était pas fausse ou arbitraire, ou bien le tribunal fédéral aurait dû opérer un contrôle d'opportunité de la mesure d'inscription et partant des mesures de gel et de confiscation des avoirs?
+
+<<6861.74;6864.54;fr>>
+La 2e question, M. le Président, va au gouvernement,
+
+<<6865.86;6868.62;fr>>
+et éventuellement au gouvernement intervenant.
+
+<<6868.62;6876.54;fr>>
+Tous les gouvernements ici présents ont parlé, ont vu dans l'article 103 de la charte des Nations unies une règle de conflit de normes.
+
+<<6879.34;6882.82;fr>>
+Donc d'un conflit entre la charte et la Convention.
+
+<<6884.86;6891.54;fr>>
+S'agit-il réellement d'une règle de conflit de normes ou bien plus simplement d'une règle de conflit d'obligations?
+
+<<6892.74;6909.5;fr>>
+La Commission du droit international, dans son rapport sur la fragmentation du droit international mentionné tout à l'heure, précise dans le paragraphe 331 du rapport, l'article 103 ne précise pas que la charte prime, mais renvoie aux obligations en vertu de la charte.
+
+<<6910.54;6916.58;fr>>
+Donc l'article 103, d'après vous, est une règle de conflit de normes ou simplement de conflit d'obligations?
+
+<<6916.58;6916.58;fr>>
+Merci beaucoup.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6919.13;6922.13;fr>>
+Merci, juge Sicilianos, juge Spano.
+
+[[Judge;Robert Spano]]
+
+<<6924.31;6926.39;en>>
+Thank you, Mr. President.
+
+<<6926.39;6932.31;en>>
+I have two questions, one for the applicant, which is the first one.
+
+<<6932.31;6945.15;en>>
+The government refers at paragraphs 58 to 64 to the court's case law on the limitation to the right of access to court under Article 6.1
+
+<<6945.15;6958.27;en>>
+in the state immunity cases, Al-Adsani versus UK, and recently the fourth section's judgment in Jones versus UK, where the limitation is based on a recognized norm of international law.
+
+<<6958.27;6975.47;en>>
+The government here refers also to the dissenting opinion view by Judge Lorenzen, where he states, and I quote "Priority for implementing binding resolutions of the UN Security Council can be said to belong to this category of exceptions".
+
+<<6975.47;6986.43;en>>
+I see from the applicant's submissions in written form, and also today, that towards this argument, an argument has not been made.
+
+<<6986.43;7011.47;en>>
+So may I ask the applicants to explain to the court, assuming the applicability of Article 6, how would the applicant invite the court to distinguish the rule of priority under Article 103 of the UN Charter as regards binding resolutions of the Security Council and the case law on this aspect?
+
+<<7011.47;7013.55;en>>
+My second question goes to the government.
+
+<<7013.55;7033.43;en>>
+The government states at paragraph 49 of its observations that, and it considers that the court cannot find, and this is, I'm quoting the observation, that there has been a violation independently of the concrete and realistic feasibility of implementation of the obligations that such a finding would entail.
+
+<<7033.43;7036.15;en>>
+This is the English translation.
+
+<<7036.15;7046.47;en>>
+May I ask the government to develop this or explain this a bit in taking two things into account which are part of the facts of this case.
+
+<<7046.47;7070.07;en>>
+Number one, as the government mentioned, the government has itself allowed for exceptions to the freezing of these funds, and it has done so under the Iraq ordinance, which was promulgated by Switzerland, where exceptions can be made due to hardship cases, and that is the fees allowed to the lawyers.
+
+<<7070.07;7089.67;en>>
+And secondly, the Swiss authorities have stayed the execution of the confiscation decisions, whereas paragraph 23 of the Security Council Resolution talks explicitly about immediately transferring the funds to the development fund for Iraq.
+
+<<7089.67;7103.31;en>>
+So on what basis has the Swiss government considered, because the argument was made that it has no room for maneuver, on what basis does the government consider that it can make these exceptions?
+
+<<7103.31;7114.09;en>>
+And what is the extent of the possible exceptions that the government considers it can make in accordance with its so-called mandatory obligations under the resolution?
+
+<<7114.09;7114.35;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7115.84;7119.84;fr>>
+Merci au juge Spano. Maintenant, la juge Angelika Nußberger.
+
+[[Judge;Angelika Nußberger]]
+
+<<7121.91;7123.55;en>>
+Thank you, President.
+
+<<7123.55;7132.51;en>>
+Well, in the resolution 1483, it's clearly defined who should be targeted by those sanctions.
+
+<<7132.51;7141.05;en>>
+We have letter A, funds or other financial assets or economic resources of the previous government of Iraq or its state bodies, et cetera.
+
+<<7141.05;7152.31;en>>
+And then we have letter B, funds or other financial assets or economic resources that have been removed from Iraq or acquired by Saddam Hussein or other senior officials, et cetera.
+
+<<7152.31;7157.67;en>>
+So what now the question to the applicant, what is your argumentation?
+
+<<7157.67;7164.79;en>>
+Is it, do you argue that the applicants do not fall under neither of those provisions?
+
+<<7164.79;7170.11;en>>
+And if that's your argument, why does he not fall under those provisions?
+
+<<7170.11;7177.01;en>>
+Do you think it was arbitrary to include him because there was a misunderstanding, he was taken for somebody else?
+
+<<7177.01;7186.39;en>>
+Or do you argue that this text was interpreted in a wrong way when he was listed?
+
+<<7186.39;7189.39;en>>
+Or do you argue it was disproportionate?
+
+<<7189.39;7199.11;en>>
+Or do you argue, yes, in substance, it was correct if the text of the resolution is accepted as it is, but there was no fair trial?
+
+<<7199.11;7207.11;en>>
+Or do you argue that the personal scope of the resolution should have been defined differently?
+
+<<7207.11;7213.35;en>>
+Or do you argue the resolution should not have been adopted as it has been adopted?
+
+<<7213.35;7213.35;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7214.97;7220.16;fr>>
+Merci beaucoup à la juge Nußberger et maintenant le juge Dmitry Dedov.
+
+[[Judge;Dmitry Dedov]]
+
+<<7224.79;7224.99;en>>
+Thank you.
+
+<<7224.99;7231.43;en>>
+Mr. President, my question is in line with the previous questions of judges Nußberger
+
+<<7231.43;7238.43;en>>
+and Sicilianos. I appreciate the parties' submissions regarding conflicts between various
+
+<<7238.43;7245.43;en>>
+norms of international law, but I propose to look more intensely to the applicant. And
+
+<<7245.43;7259.37;en>>
+if you return to the first applicant, he was punished just because of being a senior official of the state without justifying the personal responsibility. My question is, is it evident
+
+<<7259.37;7266.37;en>>
+for the parties? And what did the applicant seek the justice in this respect when he applied
+
+<<7267.51;7271.83;en>>
+to the Swiss authorities?
+
+<<7271.83;7298.83;en>>
+And as I understand, please correct me if I'm wrong, the sanctions committee refused to withdraw the applicant from the list of respective persons just because confirming that he was an official, senior official in the state, that in conformity with the direct rule of the resolution. Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7303.34;7304.9;fr>>
+Merci beaucoup.
+
+<<7307.02;7314.3;fr>>
+Bien, alors, nous allons faire une pause à la lumière des questions nombreuses.
+
+<<7315.53;7319.94;fr>>
+20 minutes, donc on va se revoir à 11h40.
+
+<<7322.78;7324.22;fr>>
+Ca vous convient?
+
+<<7325.73;7327.82;fr>>
+Oui. Bon.
+
+<<7328.06;7335.45;fr>>
+Écoutez, j'accorde alors une demi-heure pour vous permettre de préparer soigneusement les réponses aux questions.
+
+<<7335.69;7337.38;fr>>
+On se reverra dans une demi-heure.
+
+[[Announcer;UNK]]
+
+<<7398.89;7399.49;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<7435.94;7437.94;fr>>
+Je vous prie de vous asseoir.
+
+<<7439.66;7442.9;fr>>
+Qui veut prendre la parole? Maître Michel ou Monsieur Bianchi?
+
+<<7442.9;7443.9;fr>>
+Maître Michel.
+
+[[Applicant;AP1]]
+
+<<7452.29;7464.17;fr>>
+Monsieur le Président, Mesdames, Messieurs les juges de la Cour, Je vais répondre aux interventions des trois gouvernements et traiter naturellement les questions que vous avez eu l'amabilité de nous poser.
+
+<<7464.17;7485.69;fr>>
+Au fond, devant vous aujourd'hui, nous venons d'apprendre que la paix et la sécurité, les prérogatives du Conseil de sécurité, se font sur le dos, au dépend, au détriment des droits de l'homme. Autrement dit, on vous demande de fermer les yeux, en anglais,
+
+<<7485.69;7491.21;fr>>
+« look the other way ». C'est absolument insoutenable et ce n'est naturellement pas
+
+<<7491.21;7495.73;fr>>
+ainsi non plus que se conçoivent les obligations internationales.
+
+<<7495.73;7501.85;fr>>
+Traitons maintenant les points soulevés par les gouvernements défendeurs.
+
+<<7501.85;7511.57;fr>>
+On nous cite l'opinion dissidente de M. le juge Sajo qui dit que finalement, dans l'application
+
+<<7511.57;7518.65;fr>>
+des sanctions, les États sont les agents du Conseil de sécurité. Mais quelle vision
+
+<<7518.65;7524.21;fr>>
+dégradante de l'État! Ce ne sont pas les laquais du Conseil de sécurité, ce sont
+
+<<7524.21;7537.97;fr>>
+des partenaires, des membres d'une organisation internationale qui prévoient le respect des droits fondamentaux. La France vous dit de finalement déclarer la requête irrecevable.
+
+<<7537.97;7545.97;fr>>
+Elle situe le problème exclusivement dans la compétence rationnée personnelle. Cette
+
+<<7545.97;7553.33;fr>>
+approche est fausse. Elle est contraire à l'entier de votre jurisprudence sur ce point.
+
+<<7553.33;7558.47;fr>>
+Les États n'appliquent pas la liste du Conseil de sécurité. Ils la mettent en
+
+<<7558.47;7565.61;fr>>
+œuvre, en leur propre nom, par leurs propres actes, par leur propre législation. Considérer
+
+<<7565.61;7577.41;fr>>
+le contraire aujourd'hui serait d'abord donner crédit à cette appréciation fausse que les États sont les agents du Conseil de sécurité. Ce serait vous départir d'une
+
+<<7577.41;7587.45;fr>>
+jurisprudence qui a constamment appliqué la responsabilité des États lorsqu'ils agissaient par leurs actes. Et quand vous regardez les cas dans lesquels la Cour ne
+
+<<7587.45;7594.53;fr>>
+l'a pas fait, c'est qu'il y avait véritablement un acte de l'organisation internationale elle-même.
+
+<<7594.53;7600.77;fr>>
+Le représentant du Royaume-Uni a parlé ensuite de la marge de manœuvre. Les trois gouvernements
+
+<<7600.77;7613.57;fr>>
+défendeurs ont stigmatisé l'absence de marge de manœuvre, prétendument l'absence de marge de manœuvre. Pour nous dire que finalement il y avait là une difficulté
+
+<<7613.57;7618.49;fr>>
+dans l'interprétation de Nada par rapport à l'arrêt de chambre. Or, vous relirez
+
+<<7618.49;7630.65;fr>>
+le paragraphe 34 de Matthews, le fait que l'État défendeur ait ou n'ait pas de marge de manœuvre ne change strictement rien à sa responsabilité selon la Convention.
+
+<<7630.65;7646.45;fr>>
+Il faut tout de même dans cette affaire, comme dans toutes les autres, procéder par des raisonnements qui prennent appui, qui prennent ancrage sur ce que la Cour a déjà dit. Et puis, citant toujours un dissident, mais je citerai le mien en dernier, la Suisse
+
+<<7646.45;7650.77;fr>>
+et la France et l'Angleterre font référence à M. Lorenzen qui dit « Mais la Cour n'a
+
+<<7650.77;7655.49;fr>>
+jamais considéré de conflit ». Mais la Cour a bien raison de ne jamais considérer
+
+<<7655.49;7659.65;fr>>
+de conflit, de ne pas l'avoir fait. Parce qu'il n'y en a pas. Et dans tous les
+
+<<7659.65;7671.29;fr>>
+cas dans lesquels la Cour a privilégié l'absence de conflit, la coexistence harmonieuse entre les obligations internationales, elle l'a fait à juste titre. Et je vois bien, Mesdames
+
+<<7671.29;7677.85;fr>>
+et Messieurs les juges de la Cour, que l'article 103 vous fait peur. L'article 103 n'est
+
+<<7677.85;7683.61;fr>>
+pas un monstre. L'article 103 n'est pas une créature diabolique. L'article 103
+
+<<7683.61;7688.57;fr>>
+est une règle. Qu'il s'agisse d'une règle de conflit ou d'une règle de conflit
+
+<<7688.57;7693.29;fr>>
+de normes ou de conflit d'obligation, j'y reviendrai. Mais pour appliquer l'article
+
+<<7693.29;7699.17;fr>>
+103, vous devez avoir un conflit. Si vous en arrivez là un jour dans votre raisonnement,
+
+<<7699.17;7704.05;fr>>
+c'est que vous aurez conclu au conflit. Et ce conflit, il n'existe pas. N'ayez
+
+<<7704.05;7708.57;fr>>
+donc aucune crainte par rapport à ceci. Et alors, comment vous convaincre de l'absence
+
+<<7708.57;7716.05;fr>>
+de conflit? J'ai cité les 94 résolutions des Nations Unies qui demandent le respect
+
+<<7716.05;7720.21;fr>>
+des droits de l'homme. Mais pas comme un vœu pieux, au fond, une espèce d'obligation
+
+<<7720.21;7724.41;fr>>
+générale qui s'appliquerait dans les salons, mais pas sur le terrain. L'ONU demande
+
+<<7724.41;7728.77;fr>>
+de les appliquer in casu, dans l'application des régimes de sanctions.
+
+<<7728.77;7746.25;fr>>
+Alors de vous lire ensuite un bout de papier en vous disant « c'est la résolution 1483 », les États sont tenus de « ah ça ne nous laisse aucune marge de manœuvre ». Vous ne pouvez pas extraire le texte de la résolution 1483, des résolutions
+
+<<7746.25;7751.81;fr>>
+qui donnent le mode d'emploi, les guidelines, la mise en œuvre. La Cour réaffirme que
+
+<<7751.81;7775.97;fr>>
+les États membres doivent veiller, pas des agents, pas des laquais, les États membres doivent veiller à ce que toutes les mesures qu'ils prennent pour combattre le terrorisme, en l'occurrence, mais elles ont toutes le même langage, les 94, soient conformes à toutes leurs obligations au regard du droit international, en particulier du droit international des droits de l'homme. Vous ne pouvez donc pas construire un conflit là où il n'y
+
+<<7775.97;7782.17;fr>>
+en a pas. C'est un principe absolument fondamental de la Charte et de l'entier
+
+<<7782.17;7784.33;fr>>
+de l'activité de l'ONU.
+
+<<7784.33;7789.93;fr>>
+Quelques mots ensuite sur le principe de protection équivalente dont on a disserté.
+
+<<7789.93;7797.37;fr>>
+Le principe de protection équivalente est une belle machine. Il vise à l'harmonie,
+
+<<7797.37;7832.47;fr>>
+il vise au partage des valeurs fondamentales, au cas par cas, à l'harmonie des systèmes, parce que dans les deux cas de figure, soit la protection équivalente existe auprès de l'organisation internationale et la Cour reconnaît cette protection et n'intervient pas, parce que la valeur partagée sous-jacente, les droits de l'homme, est sauvegardée, soit la protection équivalente n'est pas donnée pour des raisons diverses au sein de l'organisation internationale concernée et alors la Cour prend ses propres responsabilités.
+
+<<7832.47;7841.73;fr>>
+C'est en cela que la protection équivalente permet cette harmonie entre les systèmes, une coexistence harmonieuse.
+
+<<7841.73;7858.29;fr>>
+Deux mots sur le tribunal fédéral suisse et la référence au Jus Cogens qui vous est faite. Je vous en prie, le problème du Jus Cogens, c'est faux. Il a été liquidé par
+
+<<7858.29;7864.77;fr>>
+la Cour de justice de l'Union européenne. Le tribunal fédéral est au fond en retard.
+
+<<7864.77;7875.65;fr>>
+La jurisprudence a évolué avec le sens du vent et avec le sens de la perception des juristes sur ces problèmes. Le tribunal fédéral s'est avant Cadi.
+
+<<7875.65;7887.53;fr>>
+Puisque nous sommes dans l'harmonie, restons-y. Dans Cadi 1 et Cadi 2, les juges de la Cour
+
+<<7887.53;7899.45;fr>>
+de justice de l'Union ne se sont pas comportés comme de dangereux anarchistes, comme de dangereux contestataires en défiance envers les Nations Unies. Ils ont constaté une valeur fondamentale.
+
+<<7899.45;7915.77;fr>>
+Et ce que je vous dis aujourd'hui, c'est que l'arrêt de chambre est supérieur à Cadi en ce que précisément, par le mécanisme de protection équivalente, il prévoit une cohérence systémique là où Cadi a été beaucoup plus brutal.
+
+<<7915.77;7935.27;fr>>
+Vous savez, si vous acceptez la position des États défendeurs, vous allez créer une dichotomie invraisemblable. Pensez seulement. L'Union européenne transpose dans son ordre juridique
+
+<<7935.27;7941.85;fr>>
+une résolution de l'ONU. Les États membres de l'Union européenne, 27 des vôtres, doivent
+
+<<7941.85;7948.33;fr>>
+appliquer Cadi, exercer leur discrétion en conformité de l'ordre constitutionnel européen.
+
+<<7948.33;7967.85;fr>>
+Mais le même État, si l'on suit la position du gouvernement défendeur, n'aurait pas de latitude lorsqu'il transpose la même résolution dans son ordre juridique interne pour faire intervenir des décisions internes. Ça, c'est un conflit irréconciliable, c'est un chaos
+
+<<7967.85;7969.29;fr>>
+qui est dangereux.
+
+<<7969.29;7976.43;fr>>
+Encore un petit point qui me mène vers la suite, plus exactement vers les questions.
+
+<<7976.43;7997.37;fr>>
+Pour répondre à la première question de Mme la Juge Zemmieler sur l'harmonie de la protection équivalente, eh bien c'est ce que je viens de vous dire, c'est qu'elle prévoit, elle permet cette cohérence systémique. Il n'y a rien de problématique à dire tant
+
+<<7997.37;8008.69;fr>>
+que l'ONU n'a pas en son sein ces mécanismes de contrôle, nous les appliquons parce qu'ils sont imputables en application de notre jurisprudence constante à la haute partie contractante.
+
+<<8008.69;8015.21;fr>>
+Et vraiment, l'article 103 n'est qu'une norme de conflit. Il n'y a pas d'article 103, il
+
+<<8015.21;8035.89;fr>>
+n'y a rien à considérer lorsque le conflit n'existe pas et en vertu des 94 décisions, des résolutions et rapports de l'ONU qui expliquent comment les États mettent en œuvre eux-mêmes dans leur discrétion, avec leurs moyens, les sanctions, ce conflit n'existe pas.
+
+<<8035.89;8040.01;fr>>
+Et puis vous nous avez demandé « what would have been the outcome? » Quel serait au
+
+<<8040.01;8045.81;fr>>
+fond le résultat? C'est une question extrêmement pratique. Mais la marche à suivre vous est
+
+<<8045.81;8055.01;fr>>
+donnée par les arrêts Cadi et notamment Cadi II, comme dans le cas de toute accusation quelconque.
+
+<<8055.01;8077.77;fr>>
+Une instruction a lieu, une appréciation a lieu, les preuves sont discutées de manière contradictoire, loyale, en application du droit d'être entendu, de toutes les garanties fondamentales de l'article 6 et puis une décision est prise, mais en ayant exercé, au moins à un stade quelque part, du raisonnement, ce mécanisme. C'est ça et la mécanique
+
+<<8077.77;8082.83;fr>>
+de Cadi II n'est pas anarchiste, n'est pas subversive, n'est pas dommageable non plus.
+
+<<8082.83;8097.73;fr>>
+Vous nous avez posé la question, Madame, de l'article 6 et au fond de savoir quelle était son articulation avec les droits à caractère civil de l'article 6. Je me permets
+
+<<8097.73;8124.97;fr>>
+de vous renvoyer respectueusement au paragraphe 164 de la requête et notamment au 176 où un arrêt de la cour Sporong est cité, en l'occurrence par rapport au droit de propriété, la spoliation du droit de propriété tombe dans le caractère civil des droits concernés par l'article 6. En l'occurrence, la cour, de manière conforme à sa jurisprudence constante,
+
+<<8124.97;8146.53;fr>>
+est également considérée qu'il s'agit d'une confiscation de type quasi pénale, peu importe, en tout état, pour ce qui nous concerne, il n'y a pas de difficulté avec le fait de reconnaître qu'il s'agit de droits au sens de l'article 6, protégés par l'article 6. Pour répondre à la question de M. le juge
+
+<<8146.53;8158.49;fr>>
+Sicilianos, l'intégration systémique, j'en ai parlé, quelle aurait dû être l'étendue du contrôle. Naturellement, si le tribunal fédéral suisse exerce un contrôle
+
+<<8158.49;8169.05;fr>>
+limité au fait de savoir si un nom figure sur la liste ou ne figure pas sur la liste, c'est une farce. Ce n'est naturellement pas cela, le contrôle matériel, effectif,
+
+<<8169.05;8176.33;fr>>
+concret que demande l'article 6. La question n'est pas de savoir si l'inscription
+
+<<8176.33;8182.09;fr>>
+aurait été fausse ou arbitraire ou de revoir en opportunité. À un étage du mécanisme,
+
+<<8182.09;8187.85;fr>>
+il doit y avoir un contrôle qui soit conforme aux garanties de l'article 6. Se défendre,
+
+<<8187.85;8194.01;fr>>
+tout simplement se défendre, être confronté aux preuves, être confronté à des faits.
+
+<<8194.01;8206.77;fr>>
+Et si ces faits n'existent pas, eh bien, à ce moment-là, la solution nous est donnée par l'arrêt Cadi 2. À ce moment-là, la radiation doit intervenir des listes nationales.
+
+<<8206.77;8212.13;fr>>
+Est-ce que cela entraîne la radiation de la liste de l'ONU? Peut-être pas, mais
+
+<<8212.13;8216.13;fr>>
+là n'est pas le propos et là n'est pas la question à résoudre non plus. Ce qui
+
+<<8216.13;8227.77;fr>>
+compte, c'est qu'au lieu où les mesures sont prises, où elles ont un impact sur l'individu, celui qui a les droits de l'article 6, ces mesures respectent les réquisits de la Convention.
+
+<<8227.77;8234.25;fr>>
+Vous nous avez demandé s'il s'agit d'un conflit de normes ou d'un conflit d'obligations.
+
+<<8234.25;8240.93;fr>>
+Je dois dire qu'il m'est difficile de vous répondre de but en blanc. D'abord parce
+
+<<8240.93;8247.97;fr>>
+que notre contention principale, c'est qu'il n'y a pas de conflit. Ensuite, parce que
+
+<<8247.97;8252.01;fr>>
+la distinction mènerait probablement au même résultat. En tout cas, vous ne m'en voudrez
+
+<<8252.01;8257.29;fr>>
+pas, j'espère, de ne pas vous apporter de réponse plus précise sur ce point.
+
+<<8257.29;8266.53;fr>>
+Je passe aux questions de M. le juge Spano, qui évoque Alazani et Jones et la limitation
+
+<<8266.53;8273.73;fr>>
+que la Cour a reconnue en certaines circonstances. Écoutez, pour nous, ces précédents ne sont
+
+<<8273.73;8286.49;fr>>
+tout simplement pas applicables, parce que nous sommes exactement dans le cas de figure de Bosphorus, de Michaud et de Matthews. Alazani, c'est une situation différente.
+
+<<8286.49;8291.21;fr>>
+En l'occurrence, nous avons tous les ingrédients qui fondent l'intervention de la Cour. Nous
+
+<<8291.21;8302.85;fr>>
+avons les actes, nous avons l'imputabilité au sens de l'article 1 et puis ensuite, il y a la discussion de l'article 6. Mais pour nous, de toute manière, il n'y a pas de priorité
+
+<<8302.85;8307.83;fr>>
+qui doivent être données à l'article 103, parce qu'il n'y a pas de conflit. Je reviendrai
+
+<<8307.83;8310.21;fr>>
+sur ce point dans ma conclusion dans quelques instants.
+
+<<8310.21;8328.61;fr>>
+Et puis, vous avez demandé pourquoi, finalement, si les résolutions sont d'application pratique immédiate, la Suisse a suspendu le versement des avoirs confisqués au fonds de reconstruction pour l'Irak. C'est une excellente question et je vous suis très reconnaissant de l'avoir
+
+<<8328.61;8329.61;fr>>
+posée.
+
+<<8329.61;8334.57;fr>>
+D'abord, je remercie la Suisse de l'avoir fait. C'était important dans le cadre du
+
+<<8334.57;8338.87;fr>>
+processus. Mais la réponse est évidente, c'est parce que la Suisse a peur que votre
+
+<<8338.87;8346.09;fr>>
+Chambre la sanctionne, comme la Chambre l'a fait le 26 novembre 2013. La Suisse s'est
+
+<<8346.09;8354.93;fr>>
+dit « bon, écoutez, il nous faut peut-être aller plaider ceci devant la Cour européenne des droits de l'homme ». Mais attendons bien de voir ce qu'elle va dire. La Suisse
+
+<<8354.93;8357.57;fr>>
+sait que la Convention a été violée.
+
+<<8357.57;8365.61;fr>>
+Je passe maintenant aux dernières questions de Mme Nussberger et de M. Dédoeuf.
+
+<<8365.61;8372.65;fr>>
+La Cour européenne des droits de l'homme n'est pas le juge du fait. Je ne peux donc
+
+<<8372.65;8384.01;fr>>
+pas devant vous aujourd'hui discuter de faits qui doivent être instruits devant les instances nationales qui en ont la compétence. Ce n'est pas que je ne veuille pas vous
+
+<<8384.01;8388.97;fr>>
+répondre, ce n'est pas une marque de défiance à l'endroit de la Cour. Mais la Cour sanctionne
+
+<<8388.97;8395.33;fr>>
+un processus dans un état de droit démocratique qui appartient à sa Convention. Il n'existe
+
+<<8395.33;8401.65;fr>>
+aucune preuve des allégations qui ont été formulées contre le requérant. Nous sommes
+
+<<8401.65;8412.65;fr>>
+allés en 2008 à New York rencontrer le Comité des sanctions pour voir comment dans l'amélioration des processus une instruction pourrait avoir lieu, des faits pourraient être discutés.
+
+<<8412.65;8419.05;fr>>
+Je vous ai dit en début de mon intervention comment cela s'est conclu. Le processus est
+
+<<8419.05;8424.45;fr>>
+arbitraire, les noms n'ont pas été retirés de la liste. Je ne pense pas qu'il soit
+
+<<8424.45;8442.01;fr>>
+dès lors aujourd'hui le lieu de commencer à faire une discussion sur ce point de fait devant la Cour européenne des droits de l'homme, étant rappelé cependant que la description qui est donnée du listing est contestée formellement par le requérant dans nos écritures.
+
+<<8442.01;8455.65;fr>>
+Je vais conclure brièvement, M. le Président, Mesdames, Messieurs. Il y a quand même deux
+
+<<8455.65;8460.65;fr>>
+juges de paix aujourd'hui dans cette affaire. C'est qu'il ne s'agit pas d'une menace
+
+<<8460.65;8474.61;fr>>
+imminente contre la sécurité collective et sur le plan de l'article 6, la proportionnalité, il est virtuellement impossible de ne pas admettre que ce principe n'est pas respecté.
+
+<<8474.61;8486.77;fr>>
+Au fond, nous sommes aujourd'hui devant vous parce qu'il y a ce problème du pseudo-conflit avec l'article 103. Je ne pense pas que nous soyons réellement devant vous aujourd'hui
+
+<<8486.77;8502.41;fr>>
+pour discuter des conditions d'application de l'article 6 parce que l'arrêt est totalement conforme à votre jurisprudence et puis, comme la Chambre l'a dit, c'est à peine concevable dans une société démocratique de procéder à une telle confiscation.
+
+<<8502.41;8519.45;fr>>
+Pour terminer, si le soir, en vous endormant, vous avez un doute, un dernier petit doute, ce que je ne pense pas devoir être le cas, vous relirez la Charte des Nations Unies.
+
+<<8519.45;8526.69;fr>>
+Les droits de l'homme n'y occupent pas une place inférieure à l'article 103. Vous
+
+<<8526.69;8539.57;fr>>
+relirez peut-être aussi le paragraphe 213 de NADA qui prononce en quelques lignes que l'article 13 est violé. L'article 13, c'est le pendant de l'article 6 ici puisque
+
+<<8539.57;8545.41;fr>>
+l'articulation de l'arrêt NADA est différente. Et puis, juste avant d'éteindre la lumière,
+
+<<8545.41;8555.89;fr>>
+on vous a cité des juges dissidents ici qui ont eu le mérite de poser peut-être certaines questions. Et bien, selon le principe bien connu, « Nul n'est prophète en son pays
+
+<<8555.89;8562.45;fr>>
+». Vous lirez le point 15 de l'opinion concurrente de M. le juge Maline Verny dans
+
+<<8562.45;8568.57;fr>>
+l'affaire NADA. Ce devrait être le dernier élément pour éclairer cette plaidoirie.
+
+<<8568.57;8568.57;fr>>
+M. le président, je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<8571.86;8575.98;fr>>
+Merci, Maître Michel.
+
+<<8575.98;8577.98;fr>>
+Monsieur Schürmann.
+
+[[Government;GR1]]
+
+<<8583.46;8588.3;fr>>
+Merci, Monsieur le Président, Mesdames et Messieurs les membres de la Grande Chambre.
+
+<<8588.3;8595.62;fr>>
+Je vais d'abord faire deux observations à la lumière des plaidoiries du représentant des requérants.
+
+<<8595.62;8607.38;fr>>
+Ensuite, je vais répondre aux questions, dans la mesure où elles concernent le gouvernement, aux questions de Mme Timmelet ainsi que de M. Spano.
+
+<<8607.38;8612.58;fr>>
+La question de M. Sicilianos, dans la mesure où elle s'adresse
+
+<<8612.58;8614.7;fr>>
+au gouvernement, c'est M. Lombarz et Lorzell-Wegel
+
+<<8614.7;8616.1;fr>>
+qui s'en occuperont.
+
+<<8616.1;8621.22;fr>>
+Je vous prie de nouveau de me redonner la parole à la fin.
+
+<<8621.22;8622.22;fr>>
+Les deux observations.
+
+<<8622.22;8632.18;fr>>
+La première, les requérants ont rappelé à plusieurs reprises que l'ONU garantit les mêmes droits de l'homme que la Convention européenne des droits de l'homme.
+
+<<8632.18;8649.22;fr>>
+À part tous les articles qu'il a mentionnés et qu'il vient de rappeler encore une fois, je vous invite également de prendre en compte l'article 46, un autre article 46 important, mais cette fois-ci du pacte 2 sur les droits civils et politiques.
+
+<<8649.22;8668.46;fr>>
+Là, il est dit qu'aucune disposition du présent pacte ne doit être interprétée comme portant atteinte aux dispositions de la Charte des Nations unies en ce qui concerne les questions traitées dans le présent pacte.
+
+<<8668.46;8687.46;fr>>
+Le représentant vient de rappeler les 94 documents de l'ONU qui, selon lui, démontrent que le respect plein et entier des droits de l'homme doit faire partie de toute mise en œuvre des résolutions du Conseil de sécurité.
+
+<<8687.46;8705.46;fr>>
+Pour ma part, je me limite à en citer une seule résolution qui fait partie de ces 95 qu'il a mentionnées, qui nous paraît particulièrement pertinent dans notre contexte parce qu'il s'agit de la question de l'accès au tribunal.
+
+<<8705.46;8709.86;fr>>
+Il s'agit de la résolution 2161 de 2014.
+
+<<8709.86;8723.3;fr>>
+Je cite, le Conseil de sécurité réaffirme combien il importe que les États définissent et adoptent des procédures adéquates pour assurer la pleine mise en œuvre, sous tous leurs aspects, des mesures décrites.
+
+<<8723.3;8749.98;fr>>
+Et ça continue, le Conseil demande aux États membres de pousser les personnes et entités qui envisagent de contester leur inscription sur la liste en passant par des instances judiciaires nationales ou régionales ou qui ont déjà entrepris de le faire à chercher à être éradiés de la liste en présentant une demande dans ce sens au bureau du médiateur.
+
+<<8749.98;8760.74;fr>>
+Et on sait que ce bureau, pas plus que le focal point, n'est en mesure d'offrir l'ensemble des garanties exigées par l'article 6.
+
+<<8760.74;8777.46;fr>>
+Une deuxième remarque qui se réfère à la pléthorie de monsieur le professeur Bianchi qui a fait allusion dans le contexte du critère de la protection équivalente à la jurisprudence de la Cour constitutionnelle allemande de Solange.
+
+<<8777.46;8781.42;fr>>
+Il faut bien voir la différence fondamentale entre les deux constellations.
+
+<<8781.42;8794.66;fr>>
+Dans Solange, la Cour constitutionnelle allemande avait la liberté et la compétence d'offrir la protection que l'organisation internationale n'a pas pu ou pas encore pu offrir.
+
+<<8794.66;8799.42;fr>>
+Mais ici, dans notre cas, ce n'est pas la même constellation.
+
+<<8799.42;8810.58;fr>>
+Le tribunal fédéral n'aurait pas pu offrir toutes les garanties que exige l'article 6 de notre convention.
+
+<<8810.58;8816.7;fr>>
+J'en viens à la question de madame Timmelet, l'applicabilité de l'article 6.
+
+<<8816.7;8828.94;fr>>
+Et à cet égard, nous nous référons au paragraphe 55 et 56 de notre mémoire devant la grande chambre, dans lesquels nous avons, à titre subsidiaire, contesté l'applicabilité de l'article 6.
+
+<<8828.94;8836.74;fr>>
+Je crois que tout ce qui est essentiel devait être dit dans ces deux paragraphes.
+
+<<8836.74;8852.66;fr>>
+Quant aux questions de monsieur le juge Spano, la première question, il a rappelé à juste titre que le SECO a admis des exceptions.
+
+<<8852.66;8868.66;fr>>
+C'est vrai, l'ordonnance de 1990 dans sa teneur de 2004 prévoit dans son article 2, aligné à 3, il s'agit d'ailleurs d'une formulation standard dans toutes les ordonnances pertinentes.
+
+<<8868.66;8890.94;fr>>
+Il prévoit, je cite de façon raccourcie, « le Secrétariat d'État à l'économie peut autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelé et le déblocage de ressources économiques gelées afin de prévenir des cas de rigueur ».
+
+<<8890.94;8912.14;fr>>
+Il nous semble que s'agissant des cas de rigueur, les exceptions doivent être compatibles avec la résolution 1483 également, même si cette résolution, il est vrai, contrairement à la grande majorité des résolutions, ne fait pas expressément recours à ces cas de recours.
+
+<<8912.14;8920.38;fr>>
+Mais, à notre avis, on ne saurait nous reprocher aujourd'hui d'avoir accordé ces exceptions parce qu'il s'agit cas de rigueur.
+
+<<8920.38;8931.42;fr>>
+La défense par un avocat dans cette affaire, on la qualifie comme cas de rigueur pour lequel, comme on l'a dit, on a débloqué des fonds.
+
+<<8931.42;8934.38;fr>>
+La deuxième question de M. Spano,
+
+<<8934.38;8942.74;fr>>
+pourquoi on n'a pas encore tout transféré, les avoir gelés et confisqués?
+
+<<8942.74;8956.54;fr>>
+La raison est directement liée à cette procédure devant la Cour qui a été, je le rappelle, introduite en février 2008.
+
+<<8956.54;8967.9;fr>>
+On voulait en effet attendre l'issue de cette procédure, y compris l'issue d'une éventuelle procédure de révision engagée devant le tribunal fédéral.
+
+<<8967.9;8982.62;fr>>
+La raison en est simple, on voulait éviter le risque de devoir verser ces mentants aux requérants, mentants qu'on aurait déjà versés aux fonds de développement avant.
+
+<<8982.62;8986.54;fr>>
+Voilà, et avec ça, je vous prie de bien vouloir passer la parole à M. Thélebit.
+
+[[JudgeP;Dean Spielmann]]
+
+<<8987.11;8991.27;fr>>
+Monsieur l'ambassadeur Zellweger, et ensuite, je vous redonne la parole.
+
+[[Government;GR2]]
+
+<<8993.0;8994.76;fr>>
+Merci, M. le Président.
+
+<<8994.96;8997.88;fr>>
+M. le Président, membre de la Cour,
+
+<<8998.08;9008.0;fr>>
+le juge Sicilianos nous pose la question s'il y a une différence entre une norme qui adresse les conflits de normes ou les conflits d'obligations.
+
+<<9009.12;9019.76;fr>>
+Si nous regardons tout d'abord l'article 103 de la charte, le libellé en est très clair, l'article 103 parle des obligations, et non pas de normes.
+
+<<9020.44;9031.2;fr>>
+Il dit ceci, les obligations des membres des Nations unies, en vertu de la présente charte, prévalent sur celles contenues dans tout autre accord international.
+
+<<9031.6;9046.08;fr>>
+Et d'ailleurs, il est tout à fait incontesté que cette norme s'applique aussi bien aux résolutions du Conseil de sécurité, c'est-à-dire aux droits dits secondaires des organes du Conseil de sécurité.
+
+<<9047.64;9054.48;fr>>
+L'article 103 est donc clair, et il adresse la question d'obligations divergentes.
+
+<<9054.88;9068.28;fr>>
+L'objectif en droit international, et ceci est aussi admis unanimement, c'est en cas de conflit de normes ou d'obligations, on doit tendre à une interprétation harmonieuse.
+
+<<9068.48;9071.8;fr>>
+Il faut essayer de marier les différentes obligations.
+
+<<9072.28;9085.4;fr>>
+Et seulement si cette interprétation harmonieuse n'est pas possible, ensuite, il faut trouver, il faut appliquer la norme de collision entre les différentes obligations.
+
+<<9085.8;9092.72;fr>>
+Donc l'article 103 trouve application uniquement s'il n'y a pas une interprétation harmonieuse des obligations.
+
+<<9093.52;9117.12;fr>>
+Il y a une présomption, et cette cour, vous y avez fait allusion dans l'affaire NADA, au paragraphe 171, en faisant allusion à l'affaire Al-Jaida, il y a une présomption que le Conseil de sécurité n'entend pas imposer aux Etats membres une quelconque obligation qui contreviendrait aux principes fondamentaux en matière de sauvegarde des droits de l'homme.
+
+<<9117.12;9127.0;fr>>
+Néanmoins, cette présomption peut être renversée, et ceci a été statué au paragraphe 172 par cette cour.
+
+<<9128.0;9143.68;fr>>
+Il en découle que la présomption en question est renversée en l'espèce, eut égard aux termes clairs et explicites imposant une obligation d'introduire des mesures susceptibles de violer les droits de l'homme qui ont été employés dans le libellé de cette résolution.
+
+<<9143.68;9150.68;fr>>
+Nous nous trouvons dans la même situation ici, M. le Président, Mesdames, Messieurs,
+
+<<9150.68;9151.68;fr>>
+membres de la Cour.
+
+<<9151.68;9159.68;fr>>
+La teneur de la résolution 1483 est très claire et ne laisse pas de marge de manoeuvre.
+
+<<9159.68;9165.88;fr>>
+Il s'agit donc bien d'un conflit d'obligations ou de normes.
+
+<<9165.88;9166.88;fr>>
+Il s'agit d'un conflit.
+
+<<9166.88;9172.88;fr>>
+Et l'article 103, qui parle de conflit d'obligations, nous donne une indication.
+
+<<9172.88;9174.88;fr>>
+Comment il faut le résoudre?
+
+<<9174.88;9176.88;fr>>
+C'est une indication très claire.
+
+<<9176.88;9180.08;fr>>
+C'est en faveur de la charte des Nations unies.
+
+<<9180.08;9180.08;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<9185.26;9187.66;fr>>
+Merci beaucoup, Monsieur Schürmann.
+
+[[Government;GR1]]
+
+<<9189.48;9191.04;fr>>
+Très brièvement, M. le Président,
+
+<<9191.04;9211.16;fr>>
+Mesdames et Messieurs les membres de la Cour, nous invitons la Grande Chambre à rendre un arrêt basé sur la jurisprudence selon laquelle la Convention ne peut pas s'interpréter dans le vide, mais seulement en tenant compte de toutes règles pertinentes du droit international.
+
+<<9211.16;9216.72;fr>>
+La problématique que pose cette affaire a été créée au niveau onusien.
+
+<<9216.72;9219.96;fr>>
+La solution doit s'y trouver également.
+
+<<9219.96;9219.96;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<9222.09;9223.53;fr>>
+Merci beaucoup, Monsieur Schurmann.
+
+<<9223.57;9228.85;fr>>
+Je me tourne maintenant vers les gouvernements intervenants.
+
+<<9228.89;9233.53;fr>>
+Il y a eu, me semble-t-il, une ou l'autre question qui vous avait été adressée.
+
+<<9233.53;9235.33;fr>>
+Est-ce que vous souhaitez prendre la parole?
+
+<<9235.33;9243.01;fr>>
+Monsieur de Bergues, vous voulez encore ajouter quelque chose? Attorney general, please.
+
+[[ThirdParty;TP2]]
+
+<<9243.07;9244.07;en>>
+Thank you, Mr. President.
+
+<<9244.07;9249.73;en>>
+The only further submission I would seek to make is in relation to the question posed by Judge Sicilianos.
+
+<<9249.73;9259.79;en>>
+And that submission would simply be that Article 103 does not require consideration of whether a given obligation may be regarded as stemming from a norm of international law.
+
+<<9259.79;9271.25;en>>
+And I would argue that Article 103 makes it clear that any and all obligations under the UN Charter take precedence over any and all obligations under the Convention.
+
+<<9271.25;9278.89;en>>
+Article 103, of course, is generally regarded as applying to customary international law as well as treaty obligations.
+
+<<9278.89;9284.09;en>>
+There may, I accept, be a debate over perimetry norms, but that, of course, is for another day.
+
+<<9284.09;9304.83;en>>
+And finally, I would simply draw the Court's attention to the quote by Professor Tomaszczak when he was in reference to the Convention making comment on the Behrami-Saromaty cases, where he said, and I quote, Article 103 establishes the primacy of the UN Charter and the secondary acts derived therefrom over any international commitments to the contrary.
+
+[[JudgeP;Dean Spielmann]]
+
+<<9309.12;9310.72;en>>
+Thank you very much Attorney General.
+
+<<9310.72;9311.72;en>>
+Monsieur de Bergues.
+
+[[ThirdParty;TP1]]
+
+<<9312.84;9314.0;fr>>
+Merci, M. le Président.
+
+<<9314.2;9325.08;fr>>
+Oui, pour répondre à la question du juge Sicilianos, il nous semble que la signification des deux expressions conflit de normes et conflit d'obligation sont en fait assez proches.
+
+<<9325.32;9330.08;fr>>
+Après tout, il s'agit toujours de conflit d'obligation découlant de différentes normes.
+
+<<9330.6;9339.92;fr>>
+Mais puisque l'article 103 se réfère, effectivement, à un conflit d'obligation, probablement que le mieux, et le rapport que vous citiez, M. le juge,
+
+<<9339.92;9342.56;fr>>
+mieux vaut se référer à l'expression...
+
+<<9342.76;9346.84;fr>>
+Vous me voulez employer, pardonnez-moi, l'expression de conflit d'obligation.
+
+<<9347.32;9359.44;fr>>
+Mais quoi qu'il en soit, ce qui est constant, c'est qu'en droit international, il n'y a pas de hiérarchie des normes, et donc il n'y a pas de hiérarchie entre la charte et la convention.
+
+<<9360.12;9364.52;fr>>
+Je voulais sinon juste ajouter un petit mot de conclusion, M. le Président, si vous me le permettez.
+
+<<9365.28;9387.36;fr>>
+Encore une fois, je vous permets de rappeler que dans cette décision Stichting Mothers of Srebrenica, vous avez dit que soumettre les actes ou omissions du Conseil de sécurité à une juridiction nationale reviendrait à permettre à des Etats, par le biais de leurs tribunaux, de s'immiscer dans la mission fondamentale des Nations unies.
+
+<<9387.56;9392.92;fr>>
+Or, c'est bien à cela qu'on aboutirait en l'espèce à suivre les requérants.
+
+<<9394.08;9402.44;fr>>
+Ainsi, c'est le système des sanctions internationales qui serait remis en cause, et au-delà le maintien de la paix et de la sécurité internationale.
+
+<<9402.68;9409.05;fr>>
+Et il faut rappeler que sans la paix et la sécurité internationale, il n'y a aucun respect de droits de l'homme qui est possible.
+
+<<9409.05;9409.05;fr>>
+Voilà, je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<9413.67;9415.47;fr>>
+Merci beaucoup.
+
+<<9415.67;9419.27;fr>>
+Bien. Alors, nous arrivons au terme de l'audience.
+
+<<9419.47;9431.07;fr>>
+Je remercie les comparents qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<9431.31;9434.95;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<9435.15;9442.23;fr>>
+L'arrêt sera rendu ultérieurement et les parties seront informées de la date du prononcé.
+
+<<9442.23;9443.71;fr>>
+L'audience est levée.
+

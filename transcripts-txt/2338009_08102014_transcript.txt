@@ -1,0 +1,1392 @@
+[[Announcer;UNK]]
+
+<<6.1;6.82;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<46.93;48.93;fr>>
+Veuillez vous asseoir.
+
+<<54.97;60.25;fr>>
+Je déclare ouverte l'audience publique sur le fonds de l'affaire Bouyid contre Belgique.
+
+<<60.57;70.73;fr>>
+L'affaire a été introduite devant la Cour le 28 avril 2009 par deux ressortissants belges, M. Saïd Bouyid et Mohamed Bouyid,
+
+<<70.93;74.01;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<74.25;81.21;fr>>
+Elle a été attribuée à la 5e section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<81.49;93.13;fr>>
+Le 21 novembre 2013, une chambre de la 5e section a rendu un jugement sur la recevabilité et le fonds de l'affaire, concluant notamment à la non-violation de l'article 3 de la Convention.
+
+<<94.05;102.17;fr>>
+Le 24 janvier 2014, les requérants ont demandé le renvoi de l'affaire devant la Grande Chambre en application de l'article 43 de la Convention.
+
+<<102.93;107.89;fr>>
+Cette demande a été acceptée par le Collège de la Grande Chambre le 24 mars 2014.
+
+<<109.61;127.09;fr>>
+Les organisations suivantes ont été autorisées à soumettre des observations écrites en tant que tierces parties en vertu de l'article 44, paragraphe 3 du règlement, le Centre des droits de l'homme de l'Université de Gant, REDRESS .
+
+<<128.65;134.17;fr>>
+Le gouvernement est représenté par sa co-agente, Mme Isabelle Niedlispacher.
+
+<<134.17;138.49;fr>>
+Les requérants sont représentés par M. Christophe Marchand
+
+<<138.69;142.45;fr>>
+et M. Zouhaier Chihaoui, avocats à Bruxelles.
+
+<<143.37;147.65;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<148.77;160.37;fr>>
+Je salue également les juges et procureurs du Réseau européen de formation judiciaire, ainsi que les magistrats autrichiens, croates, géorgiens et polonais présents dans cette salle.
+
+<<160.37;167.45;fr>>
+Ayant consulté la co-agente du gouvernement et les représentants des requérants, j'ai fixé ainsi l'ordre de parole.
+
+<<167.65;171.57;fr>>
+Nous entendrons successivement M. Marchand et M. Chihaoui
+
+<<171.77;175.45;fr>>
+pour les requérants, puis Mme Niedlispacher pour le gouvernement.
+
+<<176.45;191.33;fr>>
+Je dois expliquer qu'en suce de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en italien, polonais et russe a été autorisée au profit du groupe de magistrats et avocats en visite d'études à la Cour.
+
+<<191.57;199.77;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<199.97;202.57;fr>>
+Alors la parole est à M. Marchand, vous avez la parole.
+
+[[Applicant;AP2]]
+
+<<206.81;209.01;fr>>
+Je vous remercie, M. le Président,
+
+<<209.01;210.29;fr>>
+Mesdames, Messieurs de la Cour.
+
+<<211.45;226.73;fr>>
+Nous avons l'honneur aujourd'hui, Maître Chiaoui et moi-même, de représenter deux jeunes garçons qui ont fait l'objet de violences policières en Belgique à un moment donné.
+
+<<228.17;272.21;fr>>
+Nous les représentons depuis de très nombreuses années et finalement, nous nous sommes succédés, j'ai envie de dire, comme avocats dans la défense de ces deux personnes, puisque initialement, en 1999, comme on dit en Belgique, nous avons reçu la famille Bouide, puisque tel est le nom de ces personnes, dans notre cabinet, sans rendez-vous, la famille au complet, qui entourait comme une nichée autour d'un oisillon un de leurs fils, qui venait de quitter un centre pour détention de jeunes, parce qu'il considérait qu'il y avait été injustement détenu.
+
+<<272.21;288.13;fr>>
+Injustement, plus tard, le tribunal de la jeunesse de Bruxelles va acquitter Nadir Bouide, qui n'est pas un des deux requérants, va l'acquitter pour les faits qui lui étaient reprochés.
+
+<<288.13;294.89;fr>>
+Pourquoi et comment se fait-il qu'il fût ainsi injustement placé en détention?
+
+<<294.89;304.01;fr>>
+Eh bien, tout a commencé dans cette affaire par une pécadille, une bêtise, un événement insignifiant.
+
+<<304.01;316.49;fr>>
+Un policier de la commune de la ville de Saint-Jos à Bruxelles a cru que Nadir Bouide avait griffé sa voiture.
+
+<<316.49;319.77;fr>>
+Événement insignifiant, vous me l'accorderez.
+
+<<319.77;344.69;fr>>
+Par la suite, cet événement mineur allait générer un conflit entre cette famille, la famille Bouide, et la police communale de Saint-Jos, qui allait dériver en toutes sortes d'exactions, en tout cas, c'est ce que nous avons dit depuis 1999, à l'égard de divers membres de la famille.
+
+<<344.69;353.09;fr>>
+Harcèlement, violence à l'égard de divers membres de la famille, détention arbitraire.
+
+<<353.09;375.81;fr>>
+Je pense que c'est un peu ma tâche, dans la répartition du travail entre maître Chiaoui et moi-même, c'est de vous dresser, je dirais, un portrait général du contexte des faits qui concernent cette affaire et maître Chiaoui, qui, bien plus fin que moi en droit, va s'occuper des aspects liés à la Convention européenne sur les droits de l'homme.
+
+<<375.81;392.69;fr>>
+Je vous disais donc Saint-Jos à Bruxelles, ce n'est pas un élément, je dirais, sans importance, pour que vous puissiez un peu substantifier ce qui s'est passé à ce moment-là, c'est une commune de Bruxelles, très populaire, à forte immigration marocaine et turque.
+
+<<392.69;429.45;fr>>
+C'est la seule commune de Bruxelles qui, aujourd'hui, est dirigée par un bourgmaistre d'origine turque, où il y a beaucoup de tensions dans cette commune, et la famille Bouide est une de ces familles marocaines qui a rencontré des difficultés, je dirais, dans l'intégration dans cette ville de Bruxelles, certes accueillante, mais avec, je dirais, des difficultés qui se sont cristallisées sur cette lutte, sur ces conflits entre la famille Bouide et la commune de Saint-Jos et la police de Saint-Jos.
+
+<<429.45;449.93;fr>>
+Et en ce qui me concerne, je dirais, un exemple de ces luttes que l'on voit souvent comme avocat, où l'on reçoit dans nos cabinets des gens qui invoquent des violences policières, voire des violences policières légères, c'est toujours la même chose, c'est le pot de terre contre le pot de fer, mes clients étant, bien entendu, le pot de terre.
+
+<<449.93;453.89;fr>>
+Alors, nous avons déposé plainte depuis 1999.
+
+<<453.89;469.45;fr>>
+13 plaintes ont été déposées auprès du comité P, qui est le comité chargé d'enquêter sur les allégations de violence ou d'illégalité commises par la police.
+
+<<469.45;488.85;fr>>
+Les deux faits, les deux faits particuliers qui ont été soumis à votre cour concernent deux actes de violence, deux gifles qui ont été donnés, une le 8 décembre 2003 à Saïd Bouide, et l'autre le 23 février 2004 à Mohamed Bouide.
+
+<<488.85;504.41;fr>>
+Les deux victimes ont déposé une plainte, ont fait une description détaillée des événements tels qu'ils avaient vécu et ont déposé, à l'appui de leur allégation, un certificat médical circonstancié.
+
+<<504.41;511.13;fr>>
+Aucune de ces plaintes n'a malheureusement abouti, c'est bien pour cela qu'on est devant vous aujourd'hui.
+
+<<511.13;529.65;fr>>
+Alors, un élément qui a finalement guidé notre souhait de voir ce dossier renvoyé devant votre grande chambre, c'est que cette problématique de la violence policière dite légère nous semble habituelle en Belgique.
+
+<<529.65;552.49;fr>>
+Le rapport du comité P de 2012 montre que les plaintes pour violence policière sont en constante augmentation dans notre pays et que ces plaintes, même s'elles sont considérées comme fondées par le comité P, ne font l'objet de poursuites pénales devant un juge du fond que dans une minorité de cas.
+
+<<552.49;560.85;fr>>
+Cette situation a été dénoncée par le comité contre la torture des Nations Unies dans son rapport de 2014.
+
+<<560.85;567.53;fr>>
+Je vous cite une série ici de documents et rapports qui sont joints aux observations que nous avons déposées.
+
+<<567.53;596.57;fr>>
+A tel point qu'en 2013, la ligue belge francophone des droits de l'homme, donc une ONG indépendante, a créé un observatoire des violences policières qui soit indépendant du comité P parce que finalement, devant cette impunité, les gens victimes de violences policières ne déposent plus de plaintes et on se trouve devant une situation où il est nécessaire à un moment donné qu'un organe indépendant vienne recenser ces plaintes.
+
+<<596.57;606.97;fr>>
+Cet organe qui s'appelle OPSPOL a recensé que par exemple 60% des personnes qui déposent plainte pensent que cela ne va jamais aboutir.
+
+<<613.53;619.81;fr>>
+La décision de la 5e section nous semble un dangereux précédent.
+
+<<619.81;630.41;fr>>
+En ce qui me concerne, j'ai une remarque et maître Chihaui viendra sur d'autres points, c'est le paragraphe 50 de la décision.
+
+<<630.41;645.33;fr>>
+Je lis, la cour souligne d'emblée que des policiers qui frappent des personnes qu'ils interrogent, pour le moins, commettent un manquement de déontologie et font preuve d'un déplorable manque de professionnalisme.
+
+<<645.33;648.49;fr>>
+On est bien entendu d'accord.
+
+<<648.49;671.33;fr>>
+Le paragraphe 50 continue, la cour se rallie à la recommandation faite par le comité européen pour la prévention de la torture et des peines aux traitements inhumains et dégradants à l'occasion de sa visite en Belgique en 2005, face aux risques de maltraitance de personnes privées de liberté, les autorités compétentes doivent faire preuve de vigilance en ce domaine particulièrement s'agissant de mineurs.
+
+<<671.33;677.45;fr>>
+Je répète, la cour se rallie à la recommandation faite par le comité pour la prévention de la torture.
+
+<<677.45;689.37;fr>>
+En ce qui me concerne, je trouve qu'il n'est pas dans le rôle de la Cour européenne des droits de l'homme de réaliser et de faire des recommandations aux Etats.
+
+<<689.37;693.01;fr>>
+La Cour juge, la Cour tranche.
+
+<<693.01;701.33;fr>>
+Il s'agit d'une avancée considérable dans le droit international qui fait que ce ne sont pas de simples recommandations où après on va devoir s'enquérir de savoir ce que l'Etat a fait.
+
+<<701.33;706.97;fr>>
+Non, il s'agit de cas individuels, de jugements individuels où la Cour rend justice.
+
+<<706.97;736.97;fr>>
+Et dans ce paragraphe 50, je sens qu'il y a un glissement envers, en effet, il y a des violations qui ont été commises dans ce dossier, mais on se rallie à la recommandation et donc il y a un glissement, à mon sens, qui peut être dangereux du hard law, comme on dit, c'est-à-dire la Cour qui décide par rapport au soft law, c'est-à-dire une Cour qui ferait des recommandations au gouvernement, charge pour eux par la suite de les suivre.
+
+<<736.97;742.85;fr>>
+Les gifles donnés à deux adolescents par la police ne sont pas acceptables.
+
+<<742.85;759.57;fr>>
+Elles ne sont pas réalisées dans un endroit, je dirais, en plein air, non, ces gifles sont réalisés dans l'intimité d'un commissariat de police, sans témoignage possible externe, sans tiers présents.
+
+<<759.57;778.13;fr>>
+Et ma conviction, notre conviction, c'est que nos démocraties doivent être protégées à tout instant et votre Cour a à connaître de violations de l'article 3 de la Convention qui sont beaucoup plus terribles, beaucoup plus graves, beaucoup plus effrayantes que deux petites gifles.
+
+<<778.13;780.17;fr>>
+Mais ce n'est pas de cela qu'il s'agit.
+
+<<780.17;794.37;fr>>
+Il s'agit à un moment donné de rester strict sur la prohibition absolue qui est prévue à l'article 3 de la Convention et particulièrement en ce qui concerne la violence policière.
+
+<<794.37;801.93;fr>>
+Ce n'est pas un changement radical de régime ou un basculement vers l'autoritarisme que nous vous demandons de juger.
+
+<<801.93;815.01;fr>>
+C'est une érosion légère de l'état de droit, insidieuse, silencieuse du principe indérogeable de l'interdiction absolue de la violation de l'article 3 de la Convention.
+
+<<815.01;822.65;fr>>
+Voici quelques mots en guise d'introduction à la plaidoirie principale, celle de mon associé, soyeur Chihaui.
+
+<<822.65;826.85;fr>>
+On a discuté longtemps entre nous pour savoir s'il fallait porter une toge ou pas devant votre Cour.
+
+<<826.85;829.57;fr>>
+On a choisi l'un de ne pas en porter, l'autre d'en porter.
+
+<<829.57;834.57;fr>>
+Nous sommes, je dirais, à égalité dans ce dossier.
+
+<<834.57;850.81;fr>>
+Dans son dictionnaire des idées reçues, Flaubert énonce au verbeau « avocat » que si l'on dit d'un avocat qu'il parle mal, il faut tout de suite rajouter « mais il est fort en droit ».
+
+<<850.81;857.25;fr>>
+Maître Chihaui n'a pas eu la chance ou la malchance d'être éduqué en français, mais en néerlandais.
+
+<<857.25;864.65;fr>>
+Je vous lui pardonnerai donc s'il commet quelques écarts ou erreurs de langage en français, mais je vous le dis, il est fort en droit.
+
+<<864.65;864.65;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<868.26;871.82;fr>>
+Merci beaucoup, Maître Marchand.
+
+<<872.02;874.46;fr>>
+Je donne alors la parole à Maître Chihaoui.
+
+<<874.46;876.18;fr>>
+Maître Chihaoui, vous avez la parole.
+
+[[Applicant;AP1]]
+
+<<886.89;890.45;fr>>
+J'ai une petite angine, monsieur le président.
+
+<<890.69;901.41;fr>>
+Monsieur le président, mesdames, messieurs les juges de la Cour, je suis aujourd'hui devant vous pour vous exposer le grave problème d'application de l'article 3 de la Convention dans l'affaire Bouyit.
+
+<<901.65;905.37;fr>>
+Cette affaire Bouyit est une affaire importante pour 2 raisons.
+
+<<905.57;919.65;fr>>
+D'une part, au vu du contexte général des violences policières en Belgique, et d'autre part, car elle concerne l'application de l'article 3 de la Convention dans une situation où la personne est dans une position de vulnérabilité suite à sa détention.
+
+<<919.85;937.21;fr>>
+L'arrêt de la 5e section de la Cour a supprimé la protection effective d'article 3, qui est un des articles le plus important de la Convention, selon lequel nul ne peut être soumis à la torture ni à des peines ou des traitements inhumains ou dégradants.
+
+<<937.41;947.61;fr>>
+Or, il est essentiel d'être bien conscient des conséquences que pourrait avoir cet arrêt sur l'application de la jurisprudence relative aux violences policières.
+
+<<947.81;966.41;fr>>
+Entre autres, il me faut souligner l'importance appliquée et les principes dégagés par votre Cour, qui existent depuis une vingtaine d'années maintenant, et qui ont été mis en place suite à la nécessité de protéger de manière efficace et effective les personnes détenues.
+
+<<966.61;983.41;fr>>
+L'application de l'article 3 de la Convention peut être faite par rapport à 2 catégories de personnes, les personnes qui ne sont pas privées de leur liberté et ceux qui sont privés de leur liberté ou qui sont sous le contrôle de la police.
+
+<<983.61;995.61;fr>>
+Lorsqu'on est face à des personnes qui ne sont pas privées de leur liberté, il faut, pour pouvoir conclure, à une vue sur l'article 3 de la Convention, que les mauvaises traitements infligés à ces personnes atteignent un seuil minimum de gravité.
+
+<<995.81;1022.37;fr>>
+Comme l'a souligné votre grande chambre dans l'affaire El Masri, il est important pour tomber sous le coup de l'article 3 de la Convention qu'un mauvais traitement atteigne un minimum de gravité et que l'appréciation de ce minimum dépend de l'ensemble des données de la cause, notamment de la durée de traitement et de ses effets physiques et mentaux, ainsi que du sexe, de l'âge et de l'état de santé de la victime.
+
+<<1023.37;1034.09;fr>>
+Dans le cas où la personne n'est pas détenue, il y a donc une appréciation relative des faits propres à chaque affaire pour établir si le seuil minimum de gravité est, oui ou non, atteint.
+
+<<1035.09;1049.01;fr>>
+Cependant, dans une grosse partie des affaires, bien que les traitements infligés soient considérés comme des comportements tout à fait immoraux et non acceptables, ces traitements n'atteignent souvent pas le seuil minimum de gravité requis.
+
+<<1050.41;1058.01;fr>>
+Lorsque ce seuil minimum de gravité n'est pas atteint, la protection offerte par l'article 3 de la Convention ne peut donc pas s'appliquer.
+
+<<1059.17;1073.09;fr>>
+Par contre, si les traitements sont infligés à des personnes privées de leur liberté, la Cour a voulu rendre la protection offerte par l'article 3 de la Convention plus effective et a, pour ce faire, introduit une protection prétorienne.
+
+<<1073.93;1080.41;fr>>
+Cette protection prétorienne englobe deux présomptions, la présomption de causalité et la présomption de gravité.
+
+<<1081.93;1090.49;fr>>
+Le ratio de ces deux présomptions se base sur le fait que les personnes détenues ou aux mains de la police se trouvent dans une position de vulnérabilité.
+
+<<1091.89;1102.13;fr>>
+Selon la présomption de causalité, celui qui maintient une personne en détention ou exerce une contrôle sur celle-ci est présumé être l'auteur de la violence invoquée par la victime.
+
+<<1103.09;1114.29;fr>>
+En effet, si une personne a été détenue et qu'au sortir de sa détention, elle a des couilles blessures, il existe une présomption de causalité entre les traces de couilles blessures et leur imputabilité aux services de police.
+
+<<1117.29;1124.49;fr>>
+Cette présomption ne peut être renversée que si les services de police donnent une explication raisonnable quant à l'apparition des traces de couilles blessures.
+
+<<1125.81;1139.41;fr>>
+Le but de cette présomption est de rendre la protection offerte par l'article 3 de la Convention plus effective au vu de la situation de détention de la personne et du contrôle qu'exercise la police sur elle.
+
+<<1139.41;1152.69;fr>>
+Cette présomption de causalité se base essentiellement sur le fait que les personnes détenues sont plus diminuées que les autres, notamment quant à la charge de la preuve qui pèse sur elles et quant à la situation d'infériorité dans laquelle elles se trouvent.
+
+<<1153.69;1158.89;fr>>
+Votre cours l'a souligné dans l'arrêt Rivas contre France du 1er avril 2004.
+
+<<1159.09;1167.29;fr>>
+Les personnes en garde en vue sont en situation de vulnérabilité et les autorités ont le devoir de les protéger.
+
+<<1167.29;1183.89;fr>>
+Selon la présomption de gravité, lorsqu'un acte de violence a été constaté, cet acte est présumé être grave et attentatoire à la dignité humaine à partir du moment où la violence n'a pas été rendue nécessairement ou nécessaire par le comportement de l'intéressé.
+
+<<1184.81;1194.89;fr>>
+Il ne faut donc pas procéder à un examen du seuil minimal de gravité, mais il faut analyser si la violence policière a été faite par une personne de qualité.
+
+<<1194.89;1201.49;fr>>
+Il faut analyser si la violence policière a été rendue nécessaire par le comportement de la personne détenue.
+
+<<1203.49;1215.69;fr>>
+Si la violence policière n'était pas nécessaire au vu du comportement de l'intéressé, la violence est présumée grave et attentatoire à la dignité et viole donc l'article 3 de la Convention.
+
+<<1217.69;1225.49;fr>>
+Lorsqu'un acte de violence policière est établi, il faut donc uniquement rechercher si le message de la force était nécessaire et proportionné.
+
+<<1227.49;1237.09;fr>>
+La présomption de gravité se base, elle, sur la protection de l'intégrité physique et de la protection de la dignité humaine de la personne détenue.
+
+<<1237.29;1244.69;fr>>
+Selon cette présomption, un mauvais traitement infligé à une personne détenue est considéré comme une atteinte à la dignité.
+
+<<1244.89;1264.69;fr>>
+Comme le souligne la doctrine, cela permet d'accentuer le fait que les personnes vulnérables, c'est-à-dire que les personnes privées de liberté, doivent bénéficier du fait même de leur situation factuelle particulière d'une protection supérieure et privilégiée au nom du respect général dû à la dignité humaine.
+
+<<1266.49;1280.49;fr>>
+L'atteinte à la dignité de la personne privée de liberté permet par conséquent aux juges européens d'appliquer automatiquement l'article 3 au traitement allégé et ainsi de contourner la traditionnelle appréciation relative des faits de l'espèce.
+
+<<1282.09;1288.89;fr>>
+Cette présomption de gravité a donc eu pour conséquence de supprimer l'appréciation relative des faits par rapport au seuil minime de gravité.
+
+<<1290.49;1305.69;fr>>
+Il convient en tout autre de souligner que même si cette présomption de gravité est indispensable à une protection effective de l'intégrité physique des personnes privées de liberté, elle ne doit pas conduire à une banalisation de la garantie contenue au sein de l'article 3 de la Convention.
+
+<<1305.97;1309.69;fr>>
+La Cour européenne doit par conséquence trouver...
+
+<<1309.89;1325.29;fr>>
+Par conséquent, je veux dire, trouver un juste équilibre entre la protection concrète et effective des droits intangibles des détenus, d'une part, et maintient de la crédibilité dans le caractère exceptionnel de la protection offerte par l'article 3 d'autre part.
+
+<<1326.29;1340.09;fr>>
+L'exigence posée par la Cour européenne des droits de l'homme selon laquelle la présomption de gravité joue dès lors que la force employée n'est pas jugée nécessaire et que le fait de faire eu égard au comportement du détenu peut contribuer à garantir ce juste équilibre.
+
+<<1342.09;1361.69;fr>>
+Ces deux présomptions ont donc pour but essentiel de ne pas faire péser la charge de la preuve des mauvais traitements uniquement sur la personne détenue, de protéger l'intégrité physique et la dignité humaine des détenus et de rendre ainsi la protection offerte par l'article 3 plus effective.
+
+<<1361.69;1377.69;fr>>
+Dans l'arrêt dont le revoir est demandé, la 5e section de la Cour a examiné en 1er lieu si l'acte de violence policière avait atteint le seuil minimum de gravité comme s'il s'agissait d'une affaire ordinaire où la personne n'était pas privée de sa liberté.
+
+<<1378.69;1398.69;fr>>
+Bien que la 5e section de la Cour cite le principe de la présomption de gravité, paragraphe 46, elle ne passe pas par l'analyse concrète de la présomption de causalité et de gravité qui devraient s'appliquer étant donné que les gifles infligés aux récréants ont été donnés au moment où ceux-ci étaient entre les mains des services de police.
+
+<<1399.69;1410.69;fr>>
+La Cour, en commençant par examiner le seuil minimum de gravité comme s'il s'agissait d'une affaire où les intéressés n'étaient pas aux mains des forces de police, a donc commis deux erreurs.
+
+<<1411.69;1421.69;fr>>
+La première est qu'il y a lieu de constater que les services de police n'ont pas apporté aucune explication plausible et raisonnable quant aux gifles donnés aux récréants.
+
+<<1422.69;1434.69;fr>>
+Or, comme le souligne à très juste titre la juge Pauvrefort dans son opinion concordante, des rapports médicaux établis pendant les périodes où ils ont été détenus ont été soumis.
+
+<<1435.69;1440.69;fr>>
+Ces documents confirment l'existence de contusions et d'un état de choc.
+
+<<1441.69;1443.69;fr>>
+Ils corroborent les allégations des récréants.
+
+<<1443.69;1454.69;fr>>
+La police n'a fourni aucune explication plausible pour expliquer les lésions, aussi minimes soient-elles, que les récréants ont subies aux commissariats.
+
+<<1455.69;1463.69;fr>>
+La présomption de causalité aurait dû être appliquée en espèce et les services de police n'ayant apporté aucune explication raisonnable.
+
+<<1464.69;1472.69;fr>>
+Cette simple constatation suffisait déjà pour emporter la violation de l'article 3 de la Convention européenne des droits de l'homme.
+
+<<1473.69;1478.69;fr>>
+La seconde erreur de la Cour a été d'examiner si le seuil minimum de gravité avait été atteint.
+
+<<1479.69;1488.69;fr>>
+En effet, selon la présomption de gravité, un acte de violence, quel qu'il soit, est présumé constituer une atteinte à la dignité de la personne.
+
+<<1489.69;1502.69;fr>>
+La cinquième section de la Cour a examiné si l'acte de violence policière avait atteint le seuil minimum de gravité, comme s'il s'agissait d'une affaire ordinaire où la personne n'était pas privée de sa liberté.
+
+<<1503.69;1508.69;fr>>
+Or, en l'espèce, la Cour aurait dû faire application de la présomption de gravité.
+
+<<1508.69;1519.69;fr>>
+En l'espèce, l'État belge a toujours nié qu'une gifle a été infligée et n'a donc de ce fait pas renversé la présomption de gravité.
+
+<<1520.69;1534.69;fr>>
+En effet, il est illogique qu'après avoir nié pendant toute la procédure nationale avoir infligé une gifle aux requérants, que l'État belge puisse invoquer le fait que la gifle était nécessaire et proportionnelle sans mettre à mal sa crédibilité.
+
+<<1534.69;1542.69;fr>>
+En conséquence, il a lieu de constater que l'usage de la force n'était ni nécessaire ni proportionné.
+
+<<1542.69;1552.69;fr>>
+En l'espèce, le traitement visé constitue un traitement dégradant, porte atteinte à la dignité des requérants et en porte de ce fait la violation de l'article 3 de la Convention.
+
+<<1552.69;1556.69;fr>>
+La juge Powerfort le souligne également dans son opinion concordante.
+
+<<1557.69;1568.69;fr>>
+« Ma voix concordante ne doit pas être interprétée comme indiquant de quelque manière que ce soit qu'une telle conduite de la part de la police puisse jamais être admise ou excusée.
+
+<<1568.69;1569.69;fr>>
+Elle ne le peut pas. »
+
+<<1570.69;1583.69;fr>>
+Malgré l'isolance, l'insolence, l'arrogance, l'attitude irrespectueuse dont certains jeunes gens peuvent faire, ils ne doivent pas être agressés lorsqu'ils sont aux mains de la police.
+
+<<1583.69;1593.69;fr>>
+Par conséquent, la Cour a porté atteinte aux deux présomptions précitées et à l'effectivité de la protection offerte par l'article 3 de la Convention.
+
+<<1593.69;1605.69;fr>>
+La Cour a méconnu la méthodologie de la jurisprudence de la Grande Chambre en matière de violences policières et c'est d'autant plus lorsqu'il s'agit d'un mineur, comme c'est le cas pour le premier requérant.
+
+<<1605.69;1628.69;fr>>
+Par la mauvaise application des principes juriprudentiels en la matière, la Cour met à mal la protection juridique, matérielle et procédurale de l'article 3 de la Convention, confère ainsi que la protection prétorienne établie par la Cour pendant maintenant 20 ans, la protection effective de l'article 3 de la Convention devient alors illusoire en l'espèce.
+
+<<1628.69;1640.69;fr>>
+Si votre Grande Chambre suit le raisonnement adopté par la 5e section de la Cour, l'effectivité de la protection de l'article 3 de la Convention se verrait sérieusement réduite.
+
+<<1640.69;1652.69;fr>>
+La protection prétorienne construite au fil de la jurisprudence visant à protéger les personnes privées de leur liberté ou étant sous contrôle des services de police serait alors réduite à néant.
+
+<<1652.69;1662.69;fr>>
+Les deux présomptions ne pourraient plus jouer et il faudrait que le seuil minimum de gravité soit atteint, peu importe la situation de détention ou non de la personne.
+
+<<1662.69;1680.69;fr>>
+Si votre Grande Chambre ne fait pas application des deux présomptions de causalité et gravité et ne conclut pas à la violation de l'article 3, elle serait en porte-à-faux avec la jurisprudence constante et avec la protection prétorienne établie pour les personnes privées de leur liberté.
+
+<<1680.69;1686.69;fr>>
+Entre autres, M. le Président, M. de la Cour,
+
+<<1686.69;1710.69;fr>>
+à titre subsidiaire, si la Grande Chambre considère qu'il faut suivre le raisonnement adopté par la cinquième section de la Cour et ainsi supprimer les deux présomptions de causalité et gravité et diminuer la protection offerte par la Cour depuis des années pour les personnes détenues, il faudrait alors appliquer la jurisprudence relative à l'appréciation relative du seuil minimum de gravité.
+
+<<1710.69;1725.69;fr>>
+Comme nous l'avons exposé avant, pour apprécier ce seuil minimum de gravité il est atteint, il a lieu de tenir compte de l'ensemble des données de la cause, notamment de la durée de traitement et de ses effets physiques et mentaux, ainsi que du sexe, l'âge et l'état de santé de la victime.
+
+<<1725.69;1737.69;fr>>
+Ces différents éléments vont permettre de conclure ou non à des sentiments d'humiliation et de peur et à des conséquences physiques et psychiques dans le chef de l'intéressé.
+
+<<1737.69;1756.69;fr>>
+Dans cette appréciation relative, il n'y a pas lieu de tenir compte de l'éventuel comportement irrespectueux de l'intéressé, du conflit plus ancien entre les services de police de la commune et de la famille Bouillitt ou d'une éventuelle provocation ou de la nervosité de l'état moral des agents de police.
+
+<<1756.69;1775.69;fr>>
+Ces différents éléments ne peuvent en aucun cas être retenus contre la personne dont l'évaluation du seuil minimum de gravité, car il ne permet pas d'affirmer l'absence de sentiments d'humiliation et de peur causés par ces têtements répréhensibles dans le chef des récréants.
+
+<<1775.69;1789.69;fr>>
+Il y a cependant lieu de tenir compte uniquement des éléments pertinents pour l'appréciation relative du seuil minimum de gravité, à savoir la gifle infligée par l'agent de police, les conséquences physiques et psychiques.
+
+<<1789.69;1796.69;fr>>
+Le médecin a en fait confirmé l'existence de contusions et d'un état de choc, ainsi que l'âge des récréants.
+
+<<1796.69;1799.69;fr>>
+L'un des récréants était mineur, l'autre était jeune.
+
+<<1799.69;1839.69;fr>>
+En l'espèce, il y a également lieu de tenir compte du fait que les récréants étaient maîtrisés, qu'ils n'ont aucune résistance physique de la part des récréants, qu'ils n'ont pas été violents, que les récréants étaient mineurs ou très jeunes, que les lésions et l'état de choc des récréants ont été constatées dans des rapports médicaux, que l'agent de police avait souligné que le premier récréant, qui était mineur, se trouvait dans un état psychologique anormal, étant donné qu'il se mordait la main et pleurait, que les raisons des interpellations des récréants étaient obscures.
+
+<<1839.69;1850.69;fr>>
+Sur base de ces éléments-là, il suffisait de constater que les éléments de peur, ainsi que les conséquences physiques et psychiques étaient présents et que le seuil minime de gravité était en l'espèce atteint.
+
+<<1850.69;1876.69;fr>>
+Il y a lieu de constater que les éléments utilisés dans la cour comme la provocation, le contexte tendu entre la famille Bouilliet et les services de police, l'attitude irrespectueuse du récréant ne pouvait pas s'appliquer pour considérer si le seuil minime de gravité était, oui ou non, atteint, sous peine de se retrouver dans un paradoxe d'application des critères en matière de violences policières.
+
+<<1876.69;1895.69;fr>>
+Il y a en effet un paradoxe, car des éléments tels que la provocation ou l'attitude irrespectueuse prise en considération dans la phase ultérieure de l'examen de la nécessité et de la proportionnalité de la violence ne permettent pas de justifier la nécessité de la violence et qu'il y a donc lieu de conclure à la violation de l'article 3 de la Convention.
+
+<<1895.69;1911.69;fr>>
+Or, si un élément comme la provocation peut être pris en considération dans la première phase d'examen du seuil minime de gravité, et que suite à cet élément, le seuil minime de gravité n'est pas atteint, toute la protection offerte par l'article 3 de la Convention deviendrait illusoire.
+
+<<1911.69;1926.69;fr>>
+Il est donc essentiel de ne pas faire entrer des éléments tels que la provocation dans l'examen du seuil minime de gravité afin de ne pas rendre la protection offerte par l'article 3 illusoire.
+
+<<1926.69;1961.69;fr>>
+Pour conclure, si votre grande chambre ne fait pas application, comme dans sa jurisprudence constante des présomptions de causalité et de gravité, dans des cas de mauvais traitement et des personnes privées de leur liberté, la Cour se verrait contrainte de changer sa jurisprudence relative à la nécessité de la violence policière et de revenir à une application du principe du seuil minimum de gravité, rendant ainsi la protection de l'article 3 de la Convention beaucoup moins effective pour les personnes détenues.
+
+<<1961.69;1977.69;fr>>
+Je vais conclure qu'entre autres, si votre grande chambre fait rentrer des éléments tels que la provocation dans l'appréciation du seuil minimum de gravité, les exigences pour atteindre ce seuil sont alors beaucoup plus strictes.
+
+<<1977.69;1989.69;fr>>
+Ce seuil minimum de gravité serait alors beaucoup plus difficile à franchir et la protection de l'article 3 de la Convention serait alors rendue illusoire dans beaucoup de cas de violence policière.
+
+<<1989.69;2013.69;fr>>
+Il y a donc lieu pour ne pas perdre ou rendre la protection de l'article 3 de la Convention totalement ineffective et illusoire dans les cas de violence policière et de faire application de la jurisprudence constante de la Cour en la matière et de faire jouer la protection prétorienne instaurée par la Cour depuis une vingtaine d'années et de faire application de la présomption de causalité et de la gravité.
+
+<<2013.69;2023.69;fr>>
+Si ces deux présomptions ne sont pas renversées par l'État belge, comme c'est le cas en l'espèce, la Cour se doit de conclure à la violence de l'article 3.
+
+<<2023.69;2024.69;fr>>
+Je vous ai dit je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2026.39;2030.27;fr>>
+Merci beaucoup, Maître Chihaoui.
+
+<<2030.27;2032.27;fr>>
+Je donne la parole à Madame Niedlispacher.
+
+[[Government;GR1]]
+
+<<2034.63;2043.23;fr>>
+Monsieur le Président, mesdames et messieurs les juges, le gouvernement ne propose pas d'érosion de la démocratie et de l'état de droit.
+
+<<2043.23;2046.59;fr>>
+Il ne propose pas de banalisation des violences policières.
+
+<<2048.43;2051.99;fr>>
+Aussi, permettez-moi de revenir brièvement sur l'effet de la cause.
+
+<<2053.67;2065.47;fr>>
+Le 8 décembre 2003, l'inspecteur Ahmed Zemmouri patrouille à pied dans une commune bruxelloise quand il a l'attention attirée par le comportement suspect de deux jeunes hommes.
+
+<<2065.47;2068.99;fr>>
+Il décide de les interpeller et de les identifier.
+
+<<2068.99;2077.87;fr>>
+Le premier requérant refuse de coopérer et de donner sa carte d'identité alors que son ami, lui, s'exécute volontairement.
+
+<<2077.87;2084.47;fr>>
+L'inspecteur n'a d'autre choix que de l'emmener au commissariat pour procéder à son identification.
+
+<<2084.47;2094.07;fr>>
+Arrivé au commissariat, le premier requérant fait un scandale en se déclarant victime d'une injustice et d'un contrôle abusif.
+
+<<2094.07;2098.63;fr>>
+L'inspecteur, qui travaille dans un bureau voisin, lui demande de se calmer.
+
+<<2098.63;2103.23;fr>>
+En guise de réponse, il se fait insulter.
+
+<<2103.23;2120.95;fr>>
+Après identification, l'inspecteur Zemmouri autorise le requérant à quitter le commissariat, tout en lui signifiant qu'un procès verbal pour rébellion, outrage et menaces verbales sera rédigé à son encontre.
+
+<<2120.95;2126.55;fr>>
+Quelques minutes plus tard, l'intéressé revient au commissariat, accompagné de ses parents.
+
+<<2126.55;2130.19;fr>>
+Il reproche à l'inspecteur Zemmouri de l'avoir frappé.
+
+<<2130.19;2136.15;fr>>
+Dans un souci de dialogue, l'inspecteur accepte de recevoir les parents dans son bureau.
+
+<<2136.15;2150.87;fr>>
+Après quelques minutes de conversation, exaspérée, l'inspecteur déclare, sur le ton de l'ironie, c'est vrai que votre fils a l'air d'avoir été frappé, sous-entendant qu'il n'en a visiblement rien été.
+
+<<2150.87;2159.35;fr>>
+Cette phrase est considérée par le requérant comme un aveu de coup par le policier, contrairement à ce qu'a toujours affirmé celui-ci.
+
+<<2159.35;2164.35;fr>>
+L'inspecteur Zemmouri est d'ailleurs connu comme un homme qui favorise le dialogue.
+
+<<2164.35;2170.87;fr>>
+Il est également souvent félicité pour son attitude lors des interventions dites sensibles.
+
+<<2170.87;2178.19;fr>>
+Le lendemain, le premier requérant dépose plainte auprès du Comité permanent de contrôle des services de police.
+
+<<2178.19;2193.91;fr>>
+En annexe de sa plainte, il dépose un certificat médical daté du jour des faits, qui fait état d'un héritemme au niveau de l'age au gauche, en voie de disparition, ainsi que d'un héritemme au niveau du conduit auditif externe gauche.
+
+<<2193.91;2201.99;fr>>
+Deux mois plus tard, le 23 février 2004, le père des requérants est convoqué au commissariat.
+
+<<2201.99;2204.63;fr>>
+C'est son épouse qui se présente à sa place.
+
+<<2204.63;2212.19;fr>>
+La convocation fait suite à une plainte déposée par une personne qui se déclare lésée à la suite d'un accident de la circulation.
+
+<<2212.19;2220.67;fr>>
+Il apparaît de l'audition de Mme Afifi que son fils, le deuxième requérant, est le conducteur du véhicule visé dans la plainte.
+
+<<2220.67;2227.59;fr>>
+L'inspecteur petit lui demande qu'elle contacte son fils pour prendre sa déposition.
+
+<<2227.59;2232.39;fr>>
+L'audition du deuxième requérant est prise en présence de l'inspecteur Claes.
+
+<<2232.39;2239.71;fr>>
+Le deuxième requérant se montre assez arrogant, s'appuyant nonchalamment sur le bureau de l'inspecteur et riant sans raison.
+
+<<2239.71;2248.15;fr>>
+Il fait modifier plusieurs fois son procès verbal d'audition en affirmant que de toute façon, les policiers sont payés pour cela.
+
+<<2248.15;2253.71;fr>>
+En quittant le commissariat, il menace encore les policiers d'un « vous aurez de belles nouvelles ».
+
+<<2253.71;2269.67;fr>>
+Face à une personne cherchant manifestement le conflit, l'inspecteur petit fait preuve de calme et, devançant la réaction du requérant, avise par courriel de la situation le directeur du contrôle interne.
+
+<<2269.67;2276.35;fr>>
+Le même jour, le deuxième requérant dépose plainte auprès du comité permanent de contrôle des services de police.
+
+<<2276.35;2284.91;fr>>
+Il est reproche à l'inspecteur de l'avoir giflé et d'avoir préfabriqué son audition en refusant d'opérer les modifications nécessaires.
+
+<<2284.91;2293.31;fr>>
+En index de sa plainte, il dépose un certificat médical qui atteste d'une confusion à la joue gauche.
+
+<<2293.31;2306.99;fr>>
+Le 17 juin 2004, les requérants se constituent partie civile du chef de harcèlement, atteinte arbitraire à des libertés fondamentales, abus d'autorité, arrestation arbitraire et coups et blessures volontaires.
+
+<<2306.99;2321.15;fr>>
+Ils ne précisent pas les personnes visées par leur plainte, mais insistent sur le fait que, si elles s'inscrivent dans un contexte plus général, elles ne portent que sur les faits du 8 décembre 2003 et du 23 février 2004.
+
+<<2321.15;2343.03;fr>>
+Le 26 juin 2004, le juge d'instruction demande au président du comité permanent des services de contrôle, organes de contrôle externe de tous les fonctionnaires de police belge, d'établir un rapport complet concernant le comportement général de la famille plaignante, ainsi que la suite réservée à leurs différentes plaintes.
+
+<<2343.03;2347.91;fr>>
+Le procès verbal dressé par le comité indépendant est éloquent.
+
+<<2347.91;2358.87;fr>>
+Il ressort que, malgré un renouvellement important de l'effectif du commissariat de police en question, les relations entre la famille et la police restent toujours problématiques.
+
+<<2358.87;2364.83;fr>>
+Ces relations seraient donc indépendantes du personnel policier qui y intervient.
+
+<<2364.83;2375.63;fr>>
+Le 3 août 2004, le juge d'instruction communique le dossier au parquet, qui dresse un réquisitoire de non-lieu pour absence de charge suffisante.
+
+<<2375.63;2381.35;fr>>
+Les requérants sont convoqués pour le règlement de la procédure à l'audience fixée devant la Chambre du Conseil.
+
+<<2381.35;2386.71;fr>>
+Avant cette audience, il réclame l'accomplissement de 20 devoirs complémentaires.
+
+<<2386.71;2403.19;fr>>
+Le magistrat instructeur refuse d'exécuter 18 des 20 devoirs, estimant que, d'une part, ils ne visent pas les faits pour lesquels il est saisi et que, d'autre part, ils ne sont pas nécessaires à la manifestation de la vérité.
+
+<<2403.19;2408.87;fr>>
+Les requérants déposent en Chambre du Conseil une demande d'extension de leur plainte, qu'il aurait refusée.
+
+<<2408.87;2420.03;fr>>
+Dans son ordonnance, la Chambre du Conseil adopte pour le surplus les motifs du réquisitoire concluant un non-lieu, faute de charge suffisante.
+
+<<2420.03;2428.67;fr>>
+En réponse à ce nouveau refus, les requérants déposent une nouvelle plainte avec constitution de parti civil le 5 février 2008.
+
+<<2428.67;2433.47;fr>>
+Entre-temps, ils interjettent appel de la décision concluant un non-lieu.
+
+<<2433.47;2439.51;fr>>
+À leur demande, l'audience devant la Chambre des mises en accusation est reportée deux fois.
+
+<<2439.51;2451.35;fr>>
+À l'audience, ils demandent la jonction du nouveau dossier, à l'instruction ouverte à la suite de leur dernière plainte, ainsi que le renvoi correctionnel des policiers.
+
+<<2451.35;2466.19;fr>>
+La Chambre des mises en accusation, dans son arrêt du 9 avril 2008, rejette la première demande, estimant l'instruction complète et que les requérants n'ont pas interjeté appel de la décision de refus de devoir complémentaire.
+
+<<2466.19;2471.67;fr>>
+Elle confirme pour le reste l'ordonnance prononcée par la Chambre du Conseil.
+
+<<2471.67;2475.51;fr>>
+Les requérants se pourvoient en cassation sans succès.
+
+<<2475.51;2478.27;fr>>
+Ils saisissent alors votre cours.
+
+<<2478.27;2505.71;fr>>
+Le 21 novembre 2013, la Vème section rend un arrêt dans lequel elle considère à l'unanimité qu'à supposer que des gifles aient été donnés, elle serait intervenue dans un climat tendu entre les membres de la famille et les policiers, et bien qu'inacceptable, ne saurait être considérée comme générant un degré d'humiliation suffisant pour caractériser un manquement à l'article 3 de la Convention.
+
+<<2505.71;2527.87;fr>>
+À l'appui de leur demande de réexamen de l'affaire, les requérants soutiennent que la Vème chambre de la Cour a omis d'appliquer la jurisprudence de la Grande chambre selon laquelle, dans les cas de violence sur des personnes privées de liberté ou aux mains de la police, la Cour doit faire usage de présomptions de causalité et de gravité.
+
+<<2527.87;2540.63;fr>>
+La gifle étant supposée avoir été donnée au moment où chacun des requérants était entre les mains des services de police, elle porterait de fait atteinte à leur dignité.
+
+<<2540.63;2543.87;fr>>
+Le gouvernement souscrit à cette analyse.
+
+<<2543.87;2559.11;fr>>
+Si la personne est détenue au moment des faits, il existe une présomption de causalité entre les traces de coups et blessures et d'imputabilité aux services de police dans la mesure où, au cours d'une garde à vue, il n'y a pas de témoin.
+
+<<2559.11;2572.71;fr>>
+Il faut donc examiner si les auteurs présumés, en l'espèce les services de police, renversent la présomption de causalité et donnent une explication raisonnable quant à l'apparition des traces de coups et blessures.
+
+<<2572.71;2582.59;fr>>
+Ensuite, l'acte est également présumé grave puisque la personne est détenue, la Cour admettant de fait que sa dignité est atteinte.
+
+<<2582.59;2593.47;fr>>
+L'auteur ne peut renverser la présomption qu'en invoquant la stricte nécessité de l'usage de la force au vu du comportement de la victime.
+
+<<2593.47;2607.91;fr>>
+Enfin, dans le cadre d'une seconde étape, la Cour examine le seuil minimum de gravité afin de déterminer s'il faut qualifier les actes de torture, de traitement inhumain ou dégradant.
+
+<<2607.91;2630.23;fr>>
+Seule la résistance physique active des intéressés, permettant de conclure à la nécessité de l'usage de la force, on pourrait, avec les requérants, s'interroger sur la nécessité et la proportionnalité de l'usage de la force à l'encontre d'un mineur outrageant, tel le premier requérant, ou provoquant, tel le deuxième requérant.
+
+<<2630.23;2639.23;fr>>
+Le fait est que jamais le gouvernement n'a entendu en l'espèce échapper aux présomptions de causalité et de gravité.
+
+<<2639.23;2656.75;fr>>
+Il lui semble cependant légitime de ne pas remettre en cause les allégations plausibles des policiers si rien dans le cadre de l'enquête sérieuse et complète qui a été menée en l'espèce ne permet de les contredire raisonnablement.
+
+<<2656.75;2679.35;fr>>
+Les juridictions ne peuvent concevoir de mener à bien leur mission s'il leur est imposé de se départir du principe de ne condamner un prévenu, policier ou non, que dans la seule hypothèse où ils ont la conviction, au-delà de tout doute raisonnable, qu'il a posé des actes constitutifs de traitement dégradant sur le plaignant.
+
+<<2679.35;2686.15;fr>>
+Dans l'espèce, les requérants se sont plaints d'avoir été giflés par les policiers lors de leurs auditions.
+
+<<2686.15;2694.31;fr>>
+Ils ont également déposé des certificats médicaux qui attestent de lésions qui pourraient être compatibles avec les faits qu'ils dénoncent.
+
+<<2694.31;2709.15;fr>>
+Toutefois, ils ressortent de leur déclaration que ces lésions seraient de leur seule déclaration, que ces lésions sur la conséquence d'une gifle et que cette gifle leur aurait été infligée à l'un comme à l'autre par des policiers.
+
+<<2709.15;2717.07;fr>>
+En effet, les deux policiers se sont toujours farouchement défendus d'avoir posé de tels actes.
+
+<<2717.07;2723.07;fr>>
+Or, à la clôture de l'instruction, rien n'a permis de venir infirmer leur déclaration.
+
+<<2723.07;2745.87;fr>>
+Au contraire, plus tôt, ils ressortent du devoir d'enquête sollicité par le magistrat instructeur que lorsque certains membres de la famille Bouillies se font interpeller, ils réagissent comme l'a dit Maître Marchand, en se regroupant pour former un nid protecteur, mais peut-être aussi par la provocation et le dépôt de plaintes.
+
+<<2745.87;2758.03;fr>>
+Ainsi, déjà en 1999, lorsque le premier requérant a été arrêté parce qu'il se bagarrait en rue, il a ensuite déclaré avoir été giflé par un policier.
+
+<<2758.03;2767.27;fr>>
+Sa maman et sa sœur ont également déposé plainte auprès du comité de paix dans le même dossier pour harcèlement de la part des policiers.
+
+<<2767.27;2775.75;fr>>
+Trois mois plus tard, une sœur des requérants dépose une nouvelle plainte pour des faits d'abus de pouvoir et de coups et blessures volontaires.
+
+<<2775.75;2791.67;fr>>
+Les 27 mars et 27 décembre 2000, une lettre est adressée par le conseil de la famille au bourgmestre de la commune pour dénoncer des faits qualifiés de harcèlement à la suite d'une interpellation d'un autre frère.
+
+<<2791.67;2803.27;fr>>
+Le 12 juillet 2001, le deuxième requérant se plaint déjà auprès du comité de paix d'avoir été insulté et menacé par des agents de police qui procédaient au contrôle de son véhicule.
+
+<<2803.27;2815.79;fr>>
+Force est de constater que les plaintes de la famille, et plus particulièrement celles des requérants, interviennent toujours dans un contexte de confrontation avec la police consécutif à leur interpellation.
+
+<<2815.79;2835.47;fr>>
+Par ailleurs, malgré un renouvellement au sein de la police, de près de 85% du personnel, les plaintes systématiques n'ont jamais cessé, ce qui démontre que les relations entre la famille et la police de sa commune de résidence sont indépendantes du personnel policier qui intervient.
+
+<<2835.47;2850.39;fr>>
+Connaissant les habitudes de la famille Bouyde, à déposer plainte dès que l'un de leurs enfants est interpellé, l'inspecteur Petit avait anticipé le problème en avisant par courriel le directeur du contrôle interne de la situation.
+
+<<2850.39;2856.99;fr>>
+Le fait que l'inspecteur ait devancé la réaction des requérants me semble éloquent.
+
+<<2856.99;2868.79;fr>>
+Il est donc crédible de penser qu'en l'espèce, les plaintes qui ont été déposées étaient destinées à jeter le discrédit sur les policiers, alors qu'aucun coup n'a été porté.
+
+<<2868.79;2875.11;fr>>
+Il y a dès lors plus qu'un doute raisonnable sur l'établissement des faits allégués.
+
+<<2875.11;2885.91;fr>>
+Les requérants ont eu accès à une enquête officielle effective qui a analysé l'entièreté des données disponibles en termes de rapports, procès-verbaux et témoignages.
+
+<<2885.91;2904.55;fr>>
+Cette enquête, tant par le service de contrôle interne de la police de la zone concernée que par le service d'enquête du comité P, n'a pas permis d'établir la matérialité des faits invoqués et partant n'a pu identifier un ou plusieurs auteurs éventuels.
+
+<<2904.55;2919.95;fr>>
+L'affirmation du gouvernement quant au doute raisonnable sur l'établissement des faits ne contredit nullement un principe selon lequel l'article 3 consacre l'une des valeurs fondamentales des sociétés démocratiques.
+
+<<2919.95;2928.71;fr>>
+Le gouvernement est conscient de l'importance fondamentale de lutter contre le recours excessif à la force par les policiers.
+
+<<2928.71;2937.71;fr>>
+Il a réalisé de nombreux progrès concernant le cadre normatif national et international balisant leurs actions.
+
+<<2937.71;2949.51;fr>>
+On ne pourrait toutefois raisonnablement admettre que la présente affaire serve d'étendard dans la lutte contre les violences policières alors que les faits ne sont pas suffisamment établis.
+
+<<2949.51;2955.51;fr>>
+Le gouvernement invite dès lors la Cour à rejeter la requête comme mal fondée.
+
+<<2955.51;2955.51;fr>>
+Je vous remercie pour votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2957.28;2960.64;fr>>
+Merci beaucoup, Mme Niedlispacher.
+
+<<2960.84;2961.92;fr>>
+Je me tourne vers mes collègues.
+
+<<2962.12;2963.76;fr>>
+Est-ce qu'il y a des questions?
+
+<<2963.76;2965.76;fr>>
+Madame la juge Motoc.
+
+[[Judge;Iulia Antoanella Motoc]]
+
+<<2968.61;2970.57;fr>>
+Merci beaucoup, M. le Président.
+
+<<2970.79;2973.73;fr>>
+Ma première question est adressée au requérant.
+
+<<2973.95;2981.47;fr>>
+Donc, dans le procès verbal qui a été adressé par l'inspecteur Clays à l'égard de M. Bouyid Mohamed,
+
+<<2981.75;2984.95;fr>>
+M. Bouyid Mohamed mentionne le fait
+
+<<2985.15;2989.45;fr>>
+qu'il est plus vulnérable à cause de l'origine marocaine.
+
+<<2989.65;3009.09;fr>>
+Par la suite, dans votre plante et dans tous les documents qui vous avez déposés, vous faites plus référence à cette condition d'être fait partir d'une minorité visible, dont M. Bouyid fait référence dans son premier procès verbal.
+
+<<3009.29;3015.01;fr>>
+Donc, je voulais savoir où vous êtes par rapport à cette question et quelle est votre position.
+
+<<3016.17;3028.57;fr>>
+Les autres deux questions s'adressent au gouvernement belge, à l'Agence de gouvernement belge, et je voulais vous demander du point de vue d'abord procédural par rapport au comité P.
+
+<<3028.77;3030.57;fr>>
+Vous êtes bien sûr...
+
+<<3030.77;3045.41;fr>>
+Vous êtes au courant du fait qu'il y avait des critiques par rapport à l'indépendance du comité P en général qui ont été dressées par le comité contre la torture du territoire humain et des grades dans les Nations unies en 2014.
+
+<<3045.61;3061.09;fr>>
+Donc, les critiques visent l'indépendance de ce comité, mais aussi par l'existence des anciens policiers dans la composition du comité, mais aussi la manière dont les enquêtes sont traitées par ce comité.
+
+<<3061.33;3067.09;fr>>
+Il faut dire que ce comité contre la torture des Nations unies, c'est pas le seul comité critique, le comité B.
+
+<<3067.29;3073.73;fr>>
+Il y a aussi les autres comités des Nations unies, aussi c'est la Commission européenne contre le racisme et l'intolérance.
+
+<<3073.93;3083.77;fr>>
+Donc, on voit toutes des critiques qui sont formulées autant au plan international que au plan interne, en général, par rapport à cette indépendance de ce comité.
+
+<<3084.09;3093.17;fr>>
+Je voulais vous demander comment l'Etat belge a pensé faire des progrès par rapport à ces rapports qui ont été déjà formulés.
+
+<<3093.37;3116.17;fr>>
+S'agissant de ces cas et l'enquête qui a été faite par le comité de P, j'ai des questions concrètes pour vous dire, à la suite de l'enquête qui a été faite par le comité de P, pourquoi est-ce que, quand le juge d'instruction avait continué cette enquête, comme vous l'avez mentionné, pourquoi est-ce que certaines preuves n'ont pas été administrées?
+
+<<3116.37;3122.41;fr>>
+Parce qu'on sait qu'au moment où, comme vous avez dit, au moment où M. Saïd Bouide avait été interpellé,
+
+<<3122.61;3124.01;fr>>
+il était avec un ami.
+
+<<3124.21;3130.65;fr>>
+Pourquoi cet ami n'a pas été aussi entendu par le juge d'instruction?
+
+<<3130.85;3143.29;fr>>
+Pourquoi il n'y avait pas, par exemple, s'il y avait des caméras, l'image de caméra à l'entrée et à la sortie du commissariat de la police, si le commissariat de la police de la commune de Saint-Just avait ces caméras?
+
+<<3143.49;3153.37;fr>>
+Pourquoi est-ce que, s'il y a des doutes sur les questions médicales, comme on le voit, pourquoi est-ce qu'une contre-expertise médicale n'a pas été demandée?
+
+<<3153.57;3160.65;fr>>
+Et pourquoi est-ce qu'une confrontation n'a pas été organisée, comme on procède d'habitude dans ces cas?
+
+<<3160.85;3163.01;fr>>
+Donc, ça, ce sont des questions procédurales.
+
+<<3163.01;3176.57;fr>>
+La deuxième question que je voulais mettre concerne ce que vous dites sur la présomption de la causalité et le fait qu'il y a une différence sur le fait.
+
+<<3176.77;3211.25;fr>>
+Donc, d'une partie, vous dites que vous êtes d'accord avec la présomption de causalité dans la justice de la Cour, mais d'une autre partie, vous dites que, dans ce cas, même si les 2 requérants ont des certificats médicaux qui sont donnés par des médecins qui sont autorisés en Belgique, des médecins qui sont généralistes, qui attestent une certaine façon de l'état des requérants, donc, il n'y a pas, vous dites, il n'y a pas d'effet qui sont, à notre avis, croyables.
+
+<<3211.45;3215.09;fr>>
+Et je vois une certaine contradiction entre ces 2 faits.
+
+<<3215.33;3223.05;fr>>
+Parce que si le certificat n'est pas accepté, quelle autre preuve ils auraient pu mettre pour que ça puisse être abordé?
+
+<<3223.25;3238.13;fr>>
+Comment vous voyez qu'on peut réconcilier cette acceptation de la présomption de causalité et le fait que, finalement, ces certificats donnés par des médecins autorisés ne sont pas pris en considération?
+
+<<3238.13;3238.13;fr>>
+Je vous remercie, M. le Président.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3240.24;3242.72;fr>>
+Merci beaucoup, madame la juge Ziemele.
+
+[[Judge;Ineta Ziemele]]
+
+<<3249.09;3250.13;en>>
+Thank you, Mr. President.
+
+<<3250.13;3255.85;en>>
+The questions will be in English, in case you want to put the earphones.
+
+<<3255.85;3266.41;en>>
+I have two factual questions, and in an aspect, they also go back to Judge Motoc's question.
+
+<<3266.41;3269.29;en>>
+I would like to establish a timeline.
+
+<<3269.29;3280.61;en>>
+So what happens on 8 December and 23 February, we are in the police station, then certain facts happen.
+
+<<3280.61;3286.93;en>>
+At what moment in time did the applicants go to the doctor?
+
+<<3286.93;3290.05;en>>
+I mean, how, if you could restore that moment.
+
+<<3290.05;3295.33;en>>
+So you, they left the police station and went straight to the doctor.
+
+<<3295.33;3301.73;en>>
+So that would be useful if you could provide that piece of information.
+
+<<3301.73;3304.45;en>>
+That's as far as the applicants are concerned.
+
+<<3304.45;3314.09;en>>
+And as far as the government is concerned, indeed, if you could explain the medical certificates.
+
+<<3314.09;3318.73;en>>
+Why you do not accept, or how do you explain them?
+
+<<3318.73;3328.41;en>>
+We have medical certificates, and then they are not made credible for the purposes of the subsequent investigation.
+
+<<3328.41;3330.57;en>>
+That would be much appreciated.
+
+<<3330.57;3330.57;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3332.68;3340.16;fr>>
+Bien. Alors on va faire une pause de 20 minutes et on va se revoir à 10h30.
+
+<<3340.16;3342.16;fr>>
+Donc l'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<3471.62;3472.22;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<3511.93;3519.93;fr>>
+L'audience est reprise, je vous prie de vous asseoir et je donne tout de suite la parole à Maître Marchand.
+
+[[Applicant;AP2]]
+
+<<3522.66;3523.98;fr>>
+Je vous remercie, monsieur le président.
+
+<<3529.66;3536.38;fr>>
+Je vais entamer la réplique en répondant aux questions qui m'ont été posées.
+
+<<3537.7;3556.62;fr>>
+La première était relative à la question de savoir qu'est-ce que, finalement, était advenu de cette allégation faite par, je pense que c'est Mohamed Bouïd, de ce qu'il serait victime d'une violence policière de type raciste.
+
+<<3559.06;3581.3;fr>>
+À l'évaluation que nous avons réalisée du dossier du côté de la défense, certes, il y a cette allégation qui est une allégation, c'est-à-dire qu'il faudra alors, devant un juge, prouver que des mots ont été dits, alors qu'on sait justement qu'ici, la question principale est celle-là.
+
+<<3582.3;3585.34;fr>>
+C'est la preuve de ce qui se passe dans l'intimité d'un commissariat.
+
+<<3586.5;3598.06;fr>>
+Et ça me mène directement, je dirais, à la deuxième question relative à la timeline, à la ligne du temps entre les faits allégués et le certificat médical.
+
+<<3599.34;3663.26;fr>>
+Mais je reste un instant sur ce que vous avez indiqué parce qu'en effet, dans une des third-party opinions qui ont été déposées dans ce dossier par l'université de Gant, qui dispose d'un centre d'études relative aux droits de l'homme, l'université de Gant fait référence à des rapports qui montrent que ces violences policières sont plus présentes par rapport à ces minorités visibles, et donc ici, une minorité marocaine, et je vous lis simplement en page 9 de cet avis qui mentionne des rapports.
+
+<<3663.26;3668.26;fr>>
+C'est ici qu'on répond à la question.
+
+<<3668.26;3694.26;fr>>
+73 % des affaires seraient reliées à des problèmes de minorités, dont 22 % de tous les cas.
+
+<<3694.26;3728.26;fr>>
+J'attire l'attention de la Cour sur les procès verbaux du dossier, et je commence avec la timeline en ce qui concerne Mohamed Bouide.
+
+<<3728.26;3735.26;fr>>
+Il s'agit du mois de février, 23 février 2004.
+
+<<3735.26;3745.26;fr>>
+Je vais commencer la timeline à l'envers, c'est-à-dire le moment où la plainte est déposée au comité P.
+
+<<3745.26;3750.26;fr>>
+C'est le 23 février 2004 à 11h20.
+
+<<3750.26;3761.26;fr>>
+La plainte est déposée au comité P pour des faits qui se sont produits le jour même, à 11h20, et M. Bouide explique
+
+<<3761.26;3770.26;fr>>
+« à 9h42, ma maman m'a téléphoné sur mon GSM, elle m'a dit que je devais me présenter au commissariat, sans autre précision.
+
+<<3770.26;3773.26;fr>>
+Je me suis rendu immédiatement au commissariat de Saint-Jos. »
+
+<<3773.26;3777.26;fr>>
+On sait que la famille Bouide habite juste à côté du commissariat.
+
+<<3777.26;3781.26;fr>>
+À 9h42, il va directement au commissariat.
+
+<<3781.26;3787.26;fr>>
+Il explique « je suis entré à l'intérieur et j'ai croisé de loin ma maman, car le policier ne voulait pas que l'on se parle.
+
+<<3787.26;3792.26;fr>>
+Le policier Petit m'a demandé si j'étais le fameux Bouide Mohamed, je lui ai dit que oui, mais que je n'étais pas si fameux que ça.
+
+<<3792.26;3798.26;fr>>
+Il m'a interrogé sur le véhicule transporteur, vous vous souvenez, c'est une histoire d'infraction au code de la route.
+
+<<3798.26;3800.26;fr>>
+Au cours de cette audition, M. Petit m'a fait la remarque à deux reprises
+
+<<3800.26;3804.26;fr>>
+que je ne devais pas m'accouder sur son bureau.
+
+<<3804.26;3807.26;fr>>
+Il disait quelque chose du genre « allez, enlève ton bras de là ».
+
+<<3807.26;3812.26;fr>>
+À la fin de l'audition, il m'a donné le document à relire en me disant « cette fois-ci, c'était la bonne affaire ».
+
+<<3812.26;3819.26;fr>>
+Il sous-entendait par là que d'autres affaires me concernant n'avaient pas abouti et que maintenant il me tenait.
+
+<<3819.26;3821.26;fr>>
+Je me suis à nouveau accoudé sur son bureau, sans faire attention à cela.
+
+<<3821.26;3824.26;fr>>
+Il m'a directement giflé sans rien dire.
+
+<<3824.26;3827.26;fr>>
+Son collègue, qui était dans la pièce, est resté interloqué. »
+
+<<3827.26;3830.26;fr>>
+Et cela continue comme ça.
+
+<<3830.26;3837.26;fr>>
+Après cet incident, il arrive au commissariat vers 9h50, j'imagine, ayant été appelé à 9h42 par sa maman.
+
+<<3837.26;3840.26;fr>>
+Il sort du commissariat avec sa maman, qui lui demande ce qui s'est passé.
+
+<<3840.26;3844.26;fr>>
+Il explique et il se rend directement chez le médecin.
+
+<<3844.26;3853.26;fr>>
+Nous avons un certificat médical du même jour, du 23 février 2004, qui sera déposé à 11h au comité P.
+
+<<3853.26;3861.26;fr>>
+Il arrive vers 10h au commissariat, l'incident se passe, il va directement chez le médecin et puis il va directement au comité P.
+
+<<3861.26;3875.26;fr>>
+Il fait sa déclaration, sa plainte, et il dépose le certificat médical lorsqu'il arrive au comité P, c'est-à-dire vers 11h du matin, vous et jeudi.
+
+<<3875.26;3878.26;fr>>
+Voilà en ce qui concerne Mohamed.
+
+<<3878.26;3896.26;fr>>
+Maintenant, en ce qui concerne Saïd Bouhid, vous avez aussi, et je commence de nouveau la timeline à l'envers, vous avez son audition au comité P du 9 décembre 2003 à 9h45.
+
+<<3896.26;3909.26;fr>>
+9 décembre 2003 à 9h45, les faits se sont produits la veille, le 8 décembre 2003, et il dépose également un certificat médical directement, le jour même, au comité P.
+
+<<3909.26;3914.26;fr>>
+Certificat médical et il explique ce qui s'est produit.
+
+<<3914.26;3933.26;fr>>
+Donc c'est l'épisode où il est devant chez lui, et puis un homme est alors rentré dans le hall d'entrée, il m'a demandé si j'habitais l'immeuble, j'ai répondu que oui, et mon ami a bien entendu répondu que non, et puis s'en suit alors une altercation, une fois rentré au commissariat.
+
+<<3933.26;3946.26;fr>>
+On est le 8 décembre, il est 16h30 environ, le commissariat apparemment n'a plus une activité importante, il est quasi fermé si je comprends bien.
+
+<<3946.26;3955.26;fr>>
+Une fois rentré au commissariat, le policier a demandé aux réceptionnistes de lui ouvrir la porte d'une petite salle, et le policier m'a jeté dedans.
+
+<<3955.26;3958.26;fr>>
+Il m'a alors conduit dans un bureau en me plaquant sur une chaise.
+
+<<3958.26;3962.26;fr>>
+Je lui ai fait la réflexion que ça ne servait à rien d'être agressif comme ça.
+
+<<3962.26;3965.26;fr>>
+Un autre policier en uniforme nous a suivi et est resté dans l'entrée de la porte.
+
+<<3965.26;3971.26;fr>>
+Le policier en civil s'est mis devant moi, je lui ai dit qu'il n'avait pas le droit de faire ça, que je n'avais rien fait.
+
+<<3971.26;3975.26;fr>>
+Ce policier m'a alors giflé de la main droite, sur le coup je me suis mis à crier.
+
+<<3975.26;3981.26;fr>>
+Incident donc de la gifle, vers 16h30, 17h sans doute.
+
+<<3981.26;3985.26;fr>>
+Il explique après 10 minutes, un quart d'heure, j'ai quitté le commissariat, j'ai téléphoné à mes parents, j'ai attendu jusqu'à ce qu'ils reviennent.
+
+<<3985.26;3990.26;fr>>
+Mes parents et moi nous sommes présentés au commissariat, pour avoir un peu la ligne du temps.
+
+<<3990.26;3999.26;fr>>
+C'est le policier qui nous a accueillis, nous avons demandé si le commissaire Kissel était présent, il était en congé, mes parents ont alors demandé à parler au policier qui avait frappé.
+
+<<3999.26;4005.26;fr>>
+Donc une recherche de dialogue qui est réalisée, tout ça prend du temps pour rester sur la question de la ligne du temps.
+
+<<4005.26;4031.26;fr>>
+Et puis il y a une discussion qui s'ensuit, et puis il rentre à la maison, et il se décrive ceci, une fois à la maison, ma mère a téléphoné au commissaire Kissel, qui est responsable de la section jeunesse de la police de Saint-Jos, puisqu'il s'agit de personnes très jeunes, et la maman explique aussi dans le même procès verbal au comité P, j'ai téléphoné au commissaire Kissel, je l'ai appelé au secours, ce policier est venu une demi-heure plus tard chez nous.
+
+<<4031.26;4036.26;fr>>
+On continue sur le timeline, on doit être vers 18h30, 19h, nous lui avons expliqué la situation.
+
+<<4036.26;4045.26;fr>>
+J'avais en même temps téléphoné au médecin, qui est arrivé à la maison, dans la famille Bouy, alors que le commissaire Kissel était encore chez nous.
+
+<<4045.26;4049.26;fr>>
+Le médecin a examiné mon fils, il nous a remis un certificat médical que je vous remets.
+
+<<4049.26;4060.26;fr>>
+En effet, vous avez un certificat médical remis au comité P le 9 décembre 2003, qui est un certificat médical daté du 8 décembre 2003, il y a même l'heure, 19h20.
+
+<<4060.26;4070.26;fr>>
+Donc ça correspond, je dirais, à cet enchaînement de situations, où quelqu'un sort du commissariat, et puis à ce moment-là, consulte un médecin immédiatement.
+
+<<4070.26;4078.26;fr>>
+La maman continue, parce qu'elle est dans cette discussion avec le commissaire Kissel, qui est ce responsable de la police en ce qui concerne les jeunes.
+
+<<4078.26;4084.26;fr>>
+Je lui ai demandé si je pouvais porter plainte, il m'a dit d'attendre demain, parce que M. Kissel espère encore pouvoir trouver un arrangement.
+
+<<4084.26;4087.26;fr>>
+Elle continue, ce matin vers 8h20, M. Kissel, le commissaire,
+
+<<4087.26;4112.26;fr>>
+m'a téléphoné à la maman de Mohamed et de Saïd, en me disant qu'il était désolé, que faire une table au rond avec les policiers ne servirait à rien, que le commissaire Renard, qui doit être le chef des chefs, avait confiance en ces hommes, il m'a conseillé d'ailleurs la police d'Ever pour déposer plainte, donc d'aller dans une autre commune que celle de Saint-Georges pour déposer plainte, mais elle m'a téléphoné, j'ai téléphoné à mon avocat, qui m'a conseillé de venir porter plainte chez vous au comité P, qui est l'endroit où on le fait.
+
+<<4112.26;4133.26;fr>>
+Voilà par rapport à la timeline qui me semble tout à fait évidente, et je conclurai cette réplique en disant, mais alors, par rapport au point de vue du gouvernement, qui est de dire, oui, nous ne remettons pas en question le principe de causalité et de gravité, et ces présomptions, mais alors la question qui reste, c'est de savoir d'où viennent les coups.
+
+<<4133.26;4138.26;fr>>
+Est-ce que ce sont les parents, alors, qui ont infligé des gifles à leurs enfants?
+
+<<4138.26;4154.26;fr>>
+Et j'ai l'impression, en disant cela, que je replaide devant les juridictions d'instruction, ou devant les tribunaux en Belgique, où il y avait cette question qui est restée sans réponse, et qui se résout évidemment avec les présomptions que votre cours met en œuvre.
+
+<<4154.26;4154.26;fr>>
+J'ai dit, et je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4156.68;4160.76;fr>>
+Merci, Maître Marchand, Madame Niedlispacher.
+
+[[Government;GR1]]
+
+<<4162.31;4163.63;fr>>
+Merci, M. le Président.
+
+<<4163.95;4165.75;fr>>
+Deux questions ont été posées au gouvernement.
+
+<<4165.95;4167.87;fr>>
+La 1re question est procédurale.
+
+<<4168.63;4174.19;fr>>
+Le comité de paix compte en effet d'anciens policiers, en plus d'autres membres indépendants.
+
+<<4175.15;4177.87;fr>>
+Un statut veille à assurer leur indépendance.
+
+<<4178.47;4187.07;fr>>
+Ils sont totalement soustraits à leur service d'origine par un détachement pour 5 ans, avec des possibilités de transfert définitifs.
+
+<<4187.07;4204.27;fr>>
+La question de l'indépendance se traduit aussi par le fait qu'on veille, évidemment, à éviter qu'un ancien policier ait à se prononcer sur la zone de police dont il est originaire, de sorte qu'il ne doive pas apprécier le travail d'un ou plusieurs de ses anciens collègues.
+
+<<4205.27;4215.47;fr>>
+Le commissaire au droit de l'homme a lui-même reconnu l'intérêt d'avoir des policiers dans cet organe de contrôle indépendant pour leur précieux service de sécurité.
+
+<<4215.47;4220.71;fr>>
+C'est-à-dire un service d'indépendance pour leur précieuse connaissance de terrain.
+
+<<4222.11;4236.71;fr>>
+Et puis, si vous le permettez, je vous dirais que la question est devenue un petit peu théorique, puisque, en l'espèce, le comité P agit dans le cadre d'une enquête judiciaire sous l'autorité des instances judiciaires.
+
+<<4236.91;4260.39;fr>>
+Le service d'enquête n'est pas sous la houlette du comité P, ce qui revient donc à rendre plus théorique l'indépendance, puisque, dans ce cas-là, il agit sous le contrôle des instances judiciaires, comme instances judiciaires, et pas dans une mission de contrôle du fonctionnement du service de police d'une zone concernée.
+
+<<4262.27;4266.31;fr>>
+La 2e question qui a été adressée au gouvernement est factuelle.
+
+<<4266.31;4272.83;fr>>
+C'est la question de pourquoi l'ami du 1er requérant n'a-t-il pas été entendu?
+
+<<4273.03;4278.23;fr>>
+Cet ami qui, lui, déclinait son identité volontairement devant un immeuble.
+
+<<4278.43;4286.31;fr>>
+Les requérants vont nous dire que toutes les policiers de la commune devaient savoir que c'était l'immeuble de la famille Bouillide.
+
+<<4286.51;4287.51;fr>>
+Je vous laisse juger.
+
+<<4287.71;4295.03;fr>>
+Peut-être que tout le commissariat n'est pas au courant de l'adresse exacte de la famille Bouillide.
+
+<<4295.03;4298.47;fr>>
+Peut-être qu'il n'est pas au courant de l'adresse exacte de la famille.
+
+<<4299.67;4303.67;fr>>
+Donc, voilà, le contrôle s'est effectué devant un immeuble.
+
+<<4303.87;4306.35;fr>>
+Le 1er requérant ne s'est pas exécuté volontairement.
+
+<<4306.35;4308.43;fr>>
+Son ami, lui, l'a fait.
+
+<<4308.63;4313.99;fr>>
+Je ne sais pas si vraiment l'audition de cet ami aurait pu nous éclaircir suffisamment.
+
+<<4314.19;4315.99;fr>>
+Alors, pourquoi est-ce que ça n'a pas été filmé?
+
+<<4316.19;4322.59;fr>>
+Eh bien, oui, il n'y a pas encore de caméra dans tous les bureaux, dans tous les commissariats, dans toutes les salles.
+
+<<4322.59;4337.43;fr>>
+On peut un petit peu jouer l'avocat du diable, mais on pourrait imaginer que même si toutes les salles d'un commissariat étaient pourvues de caméra, eh bien, un policier vraiment mal intentionné pourrait trouver un placard abalé et s'adonner à des violences hors caméra.
+
+<<4339.27;4342.75;fr>>
+Alors, pourquoi pas de contre-expertise ou de confrontation?
+
+<<4342.95;4345.95;fr>>
+La confrontation, c'est la parole de l'un contre la parole de l'autre.
+
+<<4346.67;4352.03;fr>>
+La présomption est en faveur des requérants et non pas des policiers.
+
+<<4352.23;4355.75;fr>>
+Par contre, ni l'un ni l'autre n'ont de témoin.
+
+<<4355.95;4358.75;fr>>
+À tout moment.
+
+<<4358.95;4381.55;fr>>
+Alors, une contre-expertise, je doute que ça nous aurait éclairé davantage parce qu'il n'a jamais été contesté qu'il y avait sur le visage des deux jeunes hommes un érythème sur la joue gauche qui serait compatible avec une gifle donnée de la main droite par deux policiers différents.
+
+<<4381.75;4388.35;fr>>
+Alors, ce serait peut-être une habitude dans ce commissariat de gifler systématiquement ou de gifler systématiquement les membres de la famille Bouilly.
+
+<<4391.95;4396.75;fr>>
+Une contre-expertise ne me semble pas de nature à éclairer cette question.
+
+<<4396.95;4417.15;fr>>
+Par contre, il n'est pas contradictoire pour le gouvernement de dire qu'il ne conteste pas la présence d'un érythème constaté par des médecins, eux aussi indépendants, mais un certificat constate la présence d'un gonflement et pas l'origine de la gifle.
+
+<<4417.35;4423.55;fr>>
+Je ne pense pas, vu les éléments du dossier, que les parents giflent leurs enfants.
+
+<<4423.75;4439.55;fr>>
+Ils auraient plutôt tendance à les protéger, peut-être à les surprotéger, ce qui donnerait à ces jeunes hommes et aux filles de la famille aussi, parce que les sœurs aussi semblent participer à cette sorte d'émulation, cette vindicte contre la police communale.
+
+<<4439.75;4466.75;fr>>
+Donc je ne pense pas que les parents soient à l'origine d'une ou plusieurs gifles, mais j'aime l'hypothèse que le premier requérant se soit lui-même giflé et que son frère ait fait la même chose en se disant qu'eux aussi pouvaient constituer un dossier contre la police de leur commune, avec qui ils avaient bien des difficultés depuis de nombreuses années.
+
+<<4466.95;4472.55;fr>>
+Le contexte des tensions est tel qu'on peut imaginer que ça a été jusque-là.
+
+<<4473.95;4501.39;fr>>
+On ne peut que vous présenter un faisceau d'un disque concordant, un climat de tension, une haine qui a dû monter progressivement au cœur de cette famille, qui est peut-être compréhensible d'une certaine façon dans la manière dont certains policiers interpellent verbalement certains citoyens, ce qui est parfois pas suffisamment professionnel.
+
+<<4501.95;4514.95;fr>>
+Maintenant, ils connaissaient la famille, ils se sont toujours défendus d'en être arrivés aux mains, ils ont immédiatement dressé des procès verbaux pour outrage et insultes.
+
+<<4515.55;4524.75;fr>>
+Je ne pense pas que quand on a le réflexe de dresser un procès verbal pour outrage, on sente la nécessité de gifler par ailleurs l'intéressé.
+
+<<4527.95;4548.95;fr>>
+Évidemment, il a été dit par les requérants que les déclarations des requérants étaient cohérentes, mais je vous dis que les déclarations des inculpés, parce que les policiers ont été inculpés, une enquête effective a été menée, sont elles aussi cohérentes.
+
+<<4549.75;4567.55;fr>>
+On peut à cet égard faire référence aux rapports détaillés concernant aussi le comportement général de la famille, qui vient en force dialoguer ou se plaindre des interpellations trop nombreuses à leur sens de leurs enfants.
+
+<<4569.35;4582.15;fr>>
+Les conditions du recours à la force sont prévues dans une loi sur la fonction de police du 5 août 1992, ainsi que dans le code de déontologie des membres des services de police.
+
+<<4583.55;4600.75;fr>>
+L'article 37 de la loi sur les fonctions de police prévoit que dans l'exercice de ces missions de police administrative ou judiciaire, tout fonctionnaire de police peut, en tenant compte des risques que cela comporte, recourir à la force pour poursuivre un but légitime qui ne peut être atteint autrement.
+
+<<4600.75;4604.35;fr>>
+Ici, pas de but légitime.
+
+<<4604.35;4607.55;fr>>
+Tout recours à la force doit être raisonnable et proportionné à l'objectif poursuivi.
+
+<<4607.75;4614.55;fr>>
+Tout usage de la force est précédé d'un avertissement, à moins évidemment que cela ne rende cet usage inopérant.
+
+<<4615.75;4632.55;fr>>
+L'article 49 du code de déontologie mentionne quant à lui que les membres du personnel qui sont autorisés à utiliser la force ou la contrainte conformément à la loi s'assurent que l'objectif poursuivi par l'intervention est légal, que cet objectif ne peut être atteint d'une autre manière moins violente.
+
+<<4632.55;4641.95;fr>>
+Ici, pour des coudes sur un bureau, une remarque et puis un procès verbal si les réponses sont insultantes de la part du requérant.
+
+<<4641.95;4644.15;fr>>
+Telle la persuasion, le dialogue.
+
+<<4644.15;4646.15;fr>>
+Voilà, on l'a vu, les policiers ont reçu les parents.
+
+<<4646.15;4656.15;fr>>
+Les moyens mis en oeuvre sont raisonnables, le policier s'assure aussi que les moyens mis en oeuvre sont raisonnables et proportionnés à l'objectif poursuivi et aux circonstances propres au cas d'espèce.
+
+<<4656.15;4668.95;fr>>
+Ceci implique qu'ils doivent rechercher des modes d'intervention adéquats, les moins violents possibles, et qu'une certaine différenciation et gradation doivent toujours exister, évidemment, dans les modalités du recours à la force.
+
+<<4668.95;4677.55;fr>>
+Les principes du recours à la force sont également repris dans le guide d'intervention au terrain, la bible des policiers qui contient des fiches compilées qui peuvent être emportées sur le terrain.
+
+<<4677.55;4685.55;fr>>
+Les policiers sont également soumis à la circulaire GP148 sur la formation et l'entraînement en maîtrise de la violence.
+
+<<4685.55;4698.55;fr>>
+Ceci insiste en plus des techniques d'arrestation, d'immobilisation et d'usage des moyens de contrainte sur l'aspect légal de l'usage de la force et le rappel des principes en la matière.
+
+<<4698.55;4714.55;fr>>
+On peut aussi noter que depuis la réforme de la police en 1998, elle travaille davantage sur le partage et la communication avec les communautés et qu'elle agit de manière plus proactive et plus communicationnelle.
+
+<<4714.55;4723.15;fr>>
+Je ne suis pas d'accord avec l'allégation de propos qui aurait constitué une insulte à l'origine des deux jeunes hommes en question.
+
+<<4723.15;4726.55;fr>>
+Moi, je n'ai trouvé aucune trace dans le dossier de tels propos.
+
+<<4726.55;4733.55;fr>>
+Donc, je me réjouis que les conseils du requérant ne souhaitent pas développer cet aspect parce que je n'en ai vu aucune trace.
+
+<<4733.55;4744.55;fr>>
+Je m'étonne d'ailleurs que l'un des requérants y ait fait référence, alors que le policier qu'il interpellait a un nom qui peut faire penser qu'il est d'une origine très voisine.
+
+<<4744.55;4756.55;fr>>
+L'interdiction de la torture et des traitements cruels, inhumains et dégradants est intégrée dans plusieurs modules de la formation de base et de la formation continuée des policiers.
+
+<<4756.55;4773.55;fr>>
+Par ailleurs, dans les arrêts Kakir et Poncelet, rendus à l'encontre de l'État belge pour des cas de violence, ces arrêts figurent aussi dans les formations pour des cas d'études de jurisprudence.
+
+<<4773.55;4789.55;fr>>
+Donc, plus globalement, les policiers sont formés concernant le cadre normatif national, droit pénal, statut de la police, code de déontologie et international, notamment la jurisprudence de la Cour et les normes du comité prévention-torture, qui balisent leurs actions.
+
+<<4789.55;4807.55;fr>>
+En matière pénale, on peut souligner que les articles 417-ter et 4-ter du code pénal se réfèrent explicitement à des actes perpétrés par un officier ou un fonctionnaire de police qui sont une circonstance aggravante, bien évidemment, des infractions, de torture ou traitement inhumain ou dégradant.
+
+<<4807.55;4815.55;fr>>
+Quant au code de déontologie de la police, il est distribué à tous les policiers et il leur appelle leur obligation de respect et de protection des droits de l'homme.
+
+<<4815.55;4815.55;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4819.21;4820.97;fr>>
+Merci beaucoup, Mme Niedlispacher.
+
+<<4821.17;4825.29;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<4825.45;4835.01;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<4835.61;4838.81;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<4839.01;4847.73;fr>>
+L'arrêt sera rendu ultérieurement et les partis seront informés de la date du prononcé.
+
+<<4847.73;4849.73;fr>>
+L'audience est levée.
+

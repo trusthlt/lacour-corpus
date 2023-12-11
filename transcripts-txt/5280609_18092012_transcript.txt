@@ -1,0 +1,1364 @@
+[[Announcer;UNK]]
+
+<<3.23;3.87;fr>>
+La Cour!
+
+[[JudgeP;Nina Vajić]]
+
+<<44.4;45.9;en>>
+Please be seated.
+
+<<45.9;80.62;en>>
+I declare open the public hearing on the admissibility and merits in the case of Vilnes and others versus Norway.
+
+<<82.54;100.46;en>>
+The applications were lodged respectively on 24th September 2009 and 7th April 2010 with the court under article 34 of the convention by altogether seven applicants.
+
+<<100.46;105.74;en>>
+Mr. Vilnes brought the first application.
+
+<<105.74;112.54;en>>
+Mr. Muledal, Lindahl, Sigurdur, Hafsteinsson.
+
+<<112.54;122.06;en>>
+Nygård, Mr. Nesdal, Mr. Jakobsen brought the second application.
+
+<<122.06;125.58;en>>
+Mr. Lindahl is a Swedish national.
+
+<<125.58;130.06;en>>
+Mr. Sigurdur Hafsteinsson is an Icelandic national.
+
+<<130.06;134.22;en>>
+And the other five applicants are Norwegian nationals.
+
+<<134.22;143.02;en>>
+The applications were communicated to the government by the fourth section on 7th June 2011.
+
+<<143.02;157.42;en>>
+On the 12th of June 2012, the first section to which the applications were allocated following a change in the composition of the court sections decided that they should be joined.
+
+<<157.42;165.42;en>>
+The government are represented by their agent, Mr. Emberland, as counsel,
+
+<<165.42;179.26;en>>
+assisted by Ms. Hesjedal Sending, Ms. Kjeldsberg, Ms. Torstensen, Mr. Østre, Mr. Heidar, Mr. Ask,
+
+<<179.26;183.82;en>>
+Mr. Sandvik and Mr. Hauso as advisors.
+
+<<183.82;188.3;en>>
+Mr. Vilnes is represented by Mr. Ludvigsen.
+
+<<188.3;198.54;en>>
+Mr. Muledal, Mr. Lindahl, Mr. Hafsteinsson, Mr. Nygård are represented by Mr. Johnsrud.
+
+<<198.54;205.42;en>>
+And Mr. Nesdal and Mr. Jakobsen are represented by Ms. Hellum-Lilleengen,
+
+<<205.42;208.54;en>>
+assisted by Ms. Bentsen as advisor.
+
+<<208.54;213.58;en>>
+The applicant, Mr. Muledal, is also present.
+
+<<213.58;217.34;en>>
+I welcome all of you in the name of the court.
+
+<<217.34;229.9;en>>
+Having consulted the agent of the government and the representative of the applicants, I have determined the order of addresses as follows.
+
+<<229.9;234.7;en>>
+Mr. Emberland for the government will speak first,
+
+<<234.7;241.02;en>>
+and then Ms. Hellum-Lilleengen and Mr. Ludvigsen for the applicants.
+
+<<241.02;244.46;en>>
+I call Mr. Emberland.
+
+[[Government;GR1]]
+
+<<249.68;254.04;en>>
+Thank you, Madam President, distinguished members of the Court.
+
+<<254.04;258.08;en>>
+The principle of subsidiarity is the very basis of the Convention.
+
+<<258.08;262.4;en>>
+This follows from a joint reading of its Articles 1 and 19.
+
+<<262.4;272.72;en>>
+As a general rule, where domestic proceedings have taken place, it is not the task of this Court to substitute its own assessment for the facts of that of domestic courts.
+
+<<272.72;278.8;en>>
+It is for domestic courts to establish the facts of a case on the basis of the evidence before them.
+
+<<278.8;287.8;en>>
+This, Madam President, is how the Ground Chamber stated its view on subsidiarity in the landmark case of Alston and others in March this year.
+
+<<287.8;301.76;en>>
+The Ground Chamber also added that in normal circumstances it requires cogent elements to lead the Court to depart from the findings reached by domestic courts.
+
+<<301.76;312.28;en>>
+Madam President, the present case typifies a case in which the Court should rely on the principle of subsidiarity and not override the holdings that have been delivered by domestic courts.
+
+<<312.28;323.8;en>>
+This should lead the Court to reject the present applications as inadmissible or, in the alternative, to hold that Norway has not violated the Convention with regard to the applicants.
+
+<<323.8;337.72;en>>
+The Court should take cognizance of the fact that the Supreme Court of Norway in 2009 found against the applicants' holding, as it did, that the North Sea divers had not been victims of violations of the Convention.
+
+<<337.72;346.56;en>>
+The Supreme Court dealt comprehensively with the divers' claims of Convention breaches and found that their claims could not be sustained.
+
+<<346.56;352.12;en>>
+This was the end result of a number of legal proceedings initiated by the former North Sea divers.
+
+<<352.12;364.0;en>>
+The Norwegian state, however, had already at the time assumed moral and political responsibility for the divers' circumstances, and the divers had already been afforded compensation.
+
+<<364.0;372.42;en>>
+And divers were given free legal aid to pursue their claims for additional compensation from the authorities.
+
+<<372.42;382.78;en>>
+Their claims were considered in painstaking detail by the Oslo City Court in at least two very comprehensive legal proceedings in 2007 and 2008.
+
+<<382.78;392.36;en>>
+Each set of proceedings dealt with a massive amount of documentary evidence and included statements from witnesses who were cross-examined.
+
+<<392.36;396.28;en>>
+The cases were subsequently considered by the High Court.
+
+<<396.28;399.3;en>>
+Again the size of the case files was imposing.
+
+<<399.3;401.86;en>>
+Again evidence was presented.
+
+<<401.86;406.28;en>>
+And once again witnesses were heard and cross-examined.
+
+<<406.28;409.56;en>>
+Again the claims of violations of the Convention were assessed.
+
+<<409.56;419.72;en>>
+The High Court found in favour of the Government, and this conclusion was, as already mentioned, confirmed by the Supreme Court in 2009.
+
+<<419.72;426.4;en>>
+The Government respectfully submits that the Court should abstain from overturning the findings of the domestic courts.
+
+<<426.4;435.52;en>>
+There are a number of reasons for this, and they will be dealt with now and in turn in the course of my intervention.
+
+<<435.52;443.28;en>>
+The Government will first explain its position with regard to the question of admissibility.
+
+<<443.28;461.24;en>>
+Firstly and with reference to question number five posed by the Court in its letter to the parties prior to the hearing, the applicants have now furnished the Court with adequate information for the Government not to oppose the admissibility of the claims on grounds of exhaustion of domestic remedies.
+
+<<461.24;473.96;en>>
+That being said, the Government maintains that the applications should be found inadmissible pursuant to Article 35, paragraph 3, as they are incompatible with the provisions of the Convention.
+
+<<473.96;479.4;en>>
+The Government considers that the claims do not sufficiently relate to the scope of the provisions relied upon.
+
+<<479.4;486.96;en>>
+This has been dealt with at length in the Government's written observations as of November 2011.
+
+<<486.96;496.2;en>>
+In any event, the Government submits that applications should be rejected as manifestly all founded within the meaning of Article 35, paragraph 3.
+
+<<496.2;512.32;en>>
+In spite of the Government's urging to do so, the applicants have yet to identify and substantiate in their individual cases the details of whether, and if so, to what extent, their health problems have been caused by the authorities' alleged breaches of the Convention.
+
+<<512.32;526.48;en>>
+The applicants have thus not acted in conformity with Rule 44c of the Rules of Court, and the Court is encouraged to decide the question of admissibility in the Government's favour accordingly.
+
+<<526.48;540.44;en>>
+The remainder of the Government's intervention proceeds now on the basis that the Court should find against the Government's view that the applicants' complaints should be assessed on the merits of their cases.
+
+<<540.44;560.32;en>>
+The Government first turns to question number one posed by the Court in its letter this June, namely, to what extent, if at all, did the authorities have a duty under the Convention to provide the applicants with information regarding the risks involved in diving operations?
+
+<<560.32;568.56;en>>
+The Government notes that question number one covers in principle all four Convention provisions invoked by the applicants.
+
+<<568.56;574.16;en>>
+Allow me in the following to concentrate on the norm that may be extracted from Article 8.
+
+<<574.16;593.4;en>>
+As a first point, the Government observes that this Court has yet not had the opportunity to address a case of positive obligations in terms of access to, and the provision of, information which shares the fundamental features of the present case.
+
+<<593.4;602.28;en>>
+Our case concerns a claim that the State should have provided information to individuals prior to their undertaking of professional activities.
+
+<<602.28;608.48;en>>
+In this respect, it differs from cases such as McGinley v. Egan and Roche v. United Kingdom,
+
+<<608.48;616.64;en>>
+which both concern the duty to provide information after health hazards had occurred.
+
+<<616.64;629.44;en>>
+The present case also stands out since the Government's involvement in the activities in question is confined to the Norwegian State being a regulator and supervisor on the Norwegian continental shelf.
+
+<<629.44;633.32;en>>
+Survivors have not been in the employment of the Norwegian Government.
+
+<<633.32;639.8;en>>
+They were employed or engaged themselves in private ventures.
+
+<<639.8;645.8;en>>
+The present case is also different from the Court's case law on access to information regarding pollution.
+
+<<645.8;657.36;en>>
+As the Supreme Court stated in paragraph 139 of its judgment, that line of cases is not immediately comparable in our case.
+
+<<657.36;677.4;en>>
+The Court, in posing question number one, seems to ask whether there might be a duty for the authorities to actively ensure that an occupational group, prior to undertaking its work tasks, is informed about factors that could be relevant for assessing the health risks potentially involved in the private enterprise.
+
+<<677.4;684.2;en>>
+The Government admits that this is a stretch to the extent of positive obligations under the Convention way too far.
+
+<<684.2;693.72;en>>
+There is no case law supporting that such a norm exists and there is no reason why the Court should establish such a norm in the present case.
+
+<<693.72;699.6;en>>
+In fact, the Court should revert to the very basics of its positive obligations doctrine.
+
+<<699.6;711.12;en>>
+The requisite norm then should be whether the national authorities should take the necessary steps to ensure effective protection of the applicant's right to respect for their private life.
+
+<<711.12;720.12;en>>
+In assessing this, a fair balance has to be struck between the general interest of the community and the competing interests of the individuals concerned.
+
+<<720.12;729.16;en>>
+The assessment will depend on the individual circumstances of each case and the Court must afford a margin of appreciation to the authorities.
+
+<<729.16;741.8;en>>
+In the present case, such a basic approach must clearly lead the Court to conclude that the Norwegian authorities have not failed in their duties under the Convention.
+
+<<741.8;758.84;en>>
+In the event that the Court should seek guidance in the case law specifically relating to access to information, the Government recalls what was stated in paragraph 160 of the Grand Chamber judgments in Roche v. the United Kingdom in 2005.
+
+<<758.84;778.36;en>>
+Where a Government engages in hazardous activities which might have hidden adverse consequences on the health of those involved, respect for private life under Article 8 requires that an effective and accessible procedure be established which enables such persons to seek all relevant and appropriate information.
+
+<<778.36;798.12;en>>
+If this norm, which directly concerns access to information, comes into play, it also has to be complied with in the case of the applicants, as will become clear in the following.
+
+<<798.12;824.28;en>>
+I will now, on behalf of the Government, address question number two posed by the Court prior to the hearing, namely whether it is consistent with Norway's duty under the Convention to provide applicants with information regarding risks, that the authorities should not require the diving companies to disclose their respective decompression tables, having in particular regard to a. the divers' access to information contained in the decompression tables, b.
+
+<<824.28;830.68;en>>
+the diving companies' use of rapid tables, and c. the authorities' work on the harmonising
+
+<<830.68;836.28;en>>
+of tables.
+
+<<836.28;845.88;en>>
+Madam President, the Government at the outset submits that the question number one fails to recognise certain facts.
+
+<<845.88;858.64;en>>
+The authorities did indeed require the diving companies to impart information regarding their tables, and the companies did submit information regarding diving procedures to the authorities.
+
+<<858.64;876.52;en>>
+This was provided for already in Section 121 of the 1967 Norwegian Diving Regulations, and was subsequently confirmed in the 1978 Temporary Diving Regulations in their item number seven in their appendix six.
+
+<<876.52;897.56;en>>
+That this arrangement was in use already at an early stage of Norse sea operations is evidenced in the authorities' correspondence with the Strong Work Diving Company in 1971, which has been enclosed as appendices four and five to the Government's letter to the Court on 28 August this year.
+
+<<897.56;916.04;en>>
+It also follows from Section 585 of the so-called Losses Report that the authorities progressively got access to decompression tables for saturation dives.
+
+<<916.04;937.92;en>>
+The Government will now respond to question number 2a by taking it as asking whether Norwegian authorities had an obligation to ensure access for the divers to the decompression tables in use, so that they, by comparing the tables, were enabled to assess what risks they might be taking when undertaking their contracted dives.
+
+<<937.92;951.52;en>>
+Firstly the Court should acknowledge that the applicants had access to the tables used in their own dives, as they were the individuals who performed the dives according to the respective tables.
+
+<<951.52;957.56;en>>
+According to Section 5.3 of the 1978 Temporary Diving Regulations, the divers were in fact
+
+<<957.56;962.4;en>>
+obliged to be familiar with the operation procedures to be used.
+
+<<962.4;978.64;en>>
+Moreover, as many divers were engaged by different companies for different operations and were not employed permanently by just one company, many divers also had access to the tables used by their respective employers.
+
+<<978.64;982.64;en>>
+Secondly the applicants undoubtedly had access to the various tables today.
+
+<<982.64;995.0;en>>
+This transpires for instance by Appendix 4 in the applicants' letter to the Court on 28 August this year, which contains a comparison of saturation diving tables.
+
+<<995.0;1012.64;en>>
+Also information relating to the comparison of the tables was available in a report on that subject prepared by the Petroleum Directorate in 1991, and which was submitted to the Court by the Government as Appendix 3 on 28 August this year.
+
+<<1012.64;1021.24;en>>
+Further, even when the dives were undertaken, the divers were acquainted with the challenges posed by the use of rapid tables.
+
+<<1021.24;1027.04;en>>
+This is specifically said in Section 5.7.4 of the Lawsuit Report.
+
+<<1027.04;1039.44;en>>
+This section of the report has been translated into English by the Government at the Court's request and was submitted to the Court on 28 August this year.
+
+<<1039.44;1054.6;en>>
+More generally, already by virtue of the 1968 Freedom of Information Act, there has been a general system of access to public documents in place, including a complaints procedure.
+
+<<1054.6;1061.1;en>>
+Whatever information was available to the authorities was thus in principle also accessible to the applicants.
+
+<<1061.1;1069.84;en>>
+The fact that the companies regarded the tables as confidential business information may have prevented the applicants from gaining access.
+
+<<1069.84;1073.16;en>>
+Whether that would have been the case, however, we simply do not know.
+
+<<1073.16;1081.4;en>>
+Polar divers did not pursue such legal avenues available to them at the time.
+
+<<1081.4;1097.44;en>>
+Against this background, the Government submits that it has not failed in its duty to provide effective procedures that would have enabled the applicants to seek relevant and appropriate information within the meaning of the norm set out for the ground chamber in Roche v.
+
+<<1097.44;1108.6;en>>
+United Kingdom in 2005.
+
+<<1108.6;1125.8;en>>
+The Government will now address questions number 2b and c, which in the Government's view concern issues that touches more generally on what obligations may be imposed on the State to secure the conventional rights of the applicants.
+
+<<1125.8;1132.2;en>>
+The Government wishes in this respect to recall the basics of the positive obligations doctrine.
+
+<<1132.2;1144.12;en>>
+Responsibility requires firstly that the authorities in fact knew or ought to have known of the risks involved, and secondly that the authorities on this basis reasonably failed to act accordingly.
+
+<<1144.12;1156.8;en>>
+The Supreme Court in Norway held in 2009 that the Government did not fail on this point.
+
+<<1156.8;1164.84;en>>
+As to what the Government knew or ought to have known, the Government wishes to bring the following aspects to the Court's attention.
+
+<<1164.84;1178.64;en>>
+The Supreme Court, in relying on the findings of the High Court and the so-called Losius Commission, held that there was a broad-based opinion that diving did not have serious long-term effects if there was no decompression sickness.
+
+<<1178.64;1186.32;en>>
+It further held that decompression sickness in itself was not considered to be particularly dangerous.
+
+<<1186.32;1196.92;en>>
+At the same time, it held that it was established that the harmful mental effects of extreme life-threatening situations was known.
+
+<<1196.92;1199.96;en>>
+This is essential information.
+
+<<1199.96;1206.16;en>>
+The authorities do not deny that deep-sea diving may have adverse effects on the health of divers.
+
+<<1206.16;1216.36;en>>
+However the domestic courts, in relying on the Losius report, can find a certainty of hazardous effects to extreme life-threatening situations.
+
+<<1216.36;1228.28;en>>
+This the Court should bear in mind should not be equated with the use as such of the so-called rapid tables in saturation dives.
+
+<<1228.28;1236.96;en>>
+The responsibility on which the authorities must be measured against what was known at the time when the applicants conducted their dives.
+
+<<1236.96;1249.32;en>>
+In this respect, it is important for the Court to recognise that awareness of possible health hazards related to deep dives has come gradually for all parties involved.
+
+<<1249.32;1258.8;en>>
+In accordance with evolving experience, scientific development and new studies undertaken.
+
+<<1258.8;1269.04;en>>
+This is emphasised in the consensus statement from the 1993 so-called Gude Sunn Conference, which has been previously submitted to the Court by the applicants.
+
+<<1269.04;1279.88;en>>
+The same point of gradual awareness of all parties involved was made in the report from the follow-up conference from Bergen in 2005.
+
+<<1279.88;1291.56;en>>
+That report has been submitted to the Court as appendix number 9 to the Government's letter on 28 August this year.
+
+<<1291.56;1303.6;en>>
+As to what the authorities did in response to what was known at the time, the Government points to the following five sets of arguments.
+
+<<1303.6;1311.32;en>>
+Basically the authorities took active steps to ensure that the tables in use did not constitute health risks.
+
+<<1311.32;1318.8;en>>
+This was for instance the case in 1984 when some diving companies submitted new tables for saturation diving.
+
+<<1318.8;1334.28;en>>
+The Petroleum Directorate that year initiated a project which resulted in 1986 in the so-called Hempelman Report, which also has been submitted to the Court as appendix number 2 to the Government's letter on 28 August.
+
+<<1334.28;1343.32;en>>
+The Hempelman Report has also been dealt with in section 585 of the Losius Report.
+
+<<1343.32;1351.88;en>>
+Secondly there was a dramatic reduction in the number of reported incidents of decompression sickness already as from 1980.
+
+<<1351.88;1361.68;en>>
+This is shown in a table prepared by the Petroleum Directorate, which has been annexed to the Government's letter to the Court on 28 August as appendix 8.
+
+<<1361.68;1374.32;en>>
+The Government submits that this reduction indicates that the joint efforts of Norwegian authorities and the diving industry already from the early 1980s have proven effective.
+
+<<1374.32;1383.88;en>>
+Thirdly the Government emphasises the need to clarify the concept of harmonising of tables, which is used in the Court's question number 2b.
+
+<<1383.88;1394.24;en>>
+Now the concept seems, at least in applicants' observations, to be confused with two other forms of efforts undertaken by the Government.
+
+<<1394.24;1402.32;en>>
+For one it seems to be confused with the authorities' general work on collecting information and experience regarding tables.
+
+<<1402.32;1409.6;en>>
+The purpose of this work was to enable the authorities to evaluate the tables disclosed by the companies.
+
+<<1409.6;1415.72;en>>
+The Hempelmann Report from 1986 is an example of this.
+
+<<1415.72;1427.86;en>>
+The concept of harmonising should further not be mixed up with the authorities' efforts to develop specific national tables for Norwegian companies in the early 1970s.
+
+<<1427.86;1433.52;en>>
+This is mentioned in section 574 of the Losius Report.
+
+<<1433.52;1456.62;en>>
+At this point the Losius Report's own summary in English, submitted by the Court, submitted to the Court by the applicants on 20 August, fails in its translation when it states in section 5 that the authorities made some unsuccessful attempts to develop the compression tables for general use in the North Sea in the 1970s.
+
+<<1456.62;1465.4;en>>
+The Court should bear in mind that the unsuccessful attempts referred to here were not as such concerned with harmonising.
+
+<<1465.4;1474.04;en>>
+They served as a means to assist the Norwegian industry in gaining access to the relevant market.
+
+<<1474.04;1478.6;en>>
+As a fourth point with regard to the Court's question number two.
+
+<<1478.6;1488.2;en>>
+When the work on harmonisation was initiated in 1990 there were already only small differences between the companies' decompression tables.
+
+<<1488.2;1498.16;en>>
+This is evidenced by the Petroleum Directorate's report of 1991 which was submitted as appendix three to the Government's letter to the Court on 28 August.
+
+<<1498.16;1515.08;en>>
+Thus the harmonising of tables which was completed in 1991 was a supplement, or rather a complement, to what had already been accomplished with regard to the safety of the divers.
+
+<<1515.08;1526.72;en>>
+That being said, the Government also observes that to its knowledge no other country has yet introduced standardised tables for saturation dives.
+
+<<1526.72;1541.68;en>>
+Finally in responding to question number two it must be recalled that Norwegian authorities have been active in reducing the risks involved in offshore diving ever since operations on the Norwegian continental shelf began in the 1960s.
+
+<<1541.68;1556.22;en>>
+The extent to which the Norwegian state engaged in North Sea activities by using its regulatory and supervisory powers has been demonstrated in detail by the Government's written observations to the Court.
+
+<<1556.22;1569.54;en>>
+It may further be added that the authorities have pushed research and development in order to find a scientific basis for decompression procedures and tables that would safeguard divers' health.
+
+<<1569.54;1582.14;en>>
+An estimated 125 million euros have over time been allocated by the Norwegian Government and the industry to research and development in this area.
+
+<<1582.14;1585.36;en>>
+This follows from section 4.2 of the last year's report.
+
+<<1585.36;1599.76;en>>
+It also follows from the so-called Kromberg Report which was submitted to the Court as appendix 6 to the Government's letter to the Court on 28 August.
+
+<<1599.76;1614.04;en>>
+Finally the Government will briefly respond to the Court's question number four, namely to what extent, if at all, had the applicants' health been adversely affected by applying the tables in question.
+
+<<1614.04;1623.08;en>>
+The Government recalls that it is the duty of the applicants to furnish the Court with sufficient material to substantiate their claims.
+
+<<1623.08;1637.4;en>>
+In the view of the Government, the applicants have not provided the Court with sufficiently precise details for the Court to ascertain that there is a link of causality between the alleged violations committed and their individual health problems.
+
+<<1637.4;1651.92;en>>
+More precisely, the Court cannot, on the evidence of the present case, hold that it was in fact the omissions by Norwegian authorities not to enable the divers to assess the health risks involved in rapid tables that have been the cause of their health problems.
+
+<<1651.92;1659.32;en>>
+There might be a whole range of possible reasons why the applicants' health has been affected.
+
+<<1659.32;1666.16;en>>
+The applicants may have conducted dives that violated existing procedures and regulation at the time.
+
+<<1666.16;1673.24;en>>
+They may have been the unfortunate victims of accidents that adversely affected their health.
+
+<<1673.24;1678.4;en>>
+They may themselves have taken risks that the authorities cannot possibly have prevented.
+
+<<1678.4;1687.88;en>>
+They may have conducted diving operations in the territorial waters of other states where the regulatory regime may have been more relaxed than it has ever been in Norway.
+
+<<1687.88;1704.48;en>>
+Based on the requisite details submitted by the applicants, such hypotheses cannot, in the Government's opinion, be overruled as reasons why the applicants' health has been adversely affected by diving.
+
+<<1704.48;1709.54;en>>
+Madam President, this concludes the statement by the Norwegian Government.
+
+<<1709.54;1709.54;en>>
+I thank you for your close attention.
+
+[[JudgeP;Nina Vajić]]
+
+<<1713.27;1715.27;en>>
+Thank you very much.
+
+<<1715.27;1718.27;en>>
+I call now Ms. Hellum-Lilleengen.
+
+[[Applicant;AP1]]
+
+<<1721.21;1723.37;en>>
+Thank you, Madam President.
+
+<<1723.37;1738.17;en>>
+Madam President, distinguished members of the court, as we have sought to demonstrate and we further litigate safety measures to protect divers in the North Sea were contradictory to the economic interests of the state and were therefore scarce.
+
+<<1738.17;1745.13;en>>
+I will respond to the questions five, one, and two raised by the court, whereas my colleague, Mr. Ludwigsen,
+
+<<1745.13;1751.73;en>>
+will respond to questions two, A through C, three, and four.
+
+<<1751.73;1760.97;en>>
+Replying to the court's question five, it is submitted that following the Supreme Court's judgment in the cases of Mr. Vilnes and Mr. Mulderdal,
+
+<<1760.97;1767.09;en>>
+the remaining applicants were denied access to effective remedies.
+
+<<1767.09;1776.89;en>>
+It follows from the court's jurisprudence that the applicants would be exempted from exhausting domestic remedies if they would have no prospect of success.
+
+<<1776.89;1784.29;en>>
+And these applicants brought action against the Norwegian government to the Oslo City Court with Mr. Mulderdal.
+
+<<1784.29;1803.25;en>>
+However, since the legal issues were similar in the applicants' cases, and in order to simplify the procedure by limiting the number of applicants in the same case, there was an agreement between the applicants, the attorney general, and the court that they would be suspended.
+
+<<1803.25;1813.61;en>>
+The condition for the agreement was that the suspended cases of these applicants would not lose the right to be tried pending the outcome of the pilot cases.
+
+<<1813.61;1824.93;en>>
+The question of liability was finally settled in the judgment from the Supreme Court in the pilot cases, leaving these suspended cases without any prospect of success.
+
+<<1824.93;1834.69;en>>
+Accordingly, all the applicants have fulfilled the admissibility requirement in paragraph 35, paragraph 1 of the convention.
+
+<<1834.69;1840.75;en>>
+And I also refer to the Norwegian government, which has agreed to this in their last submission to the court.
+
+<<1845.89;1868.57;en>>
+Replying to the court's question 1 and 2, the court has established a practice under articles 2 and 8, consisting in the principle that when the state knows or should have known about risks of threats to lives and health of persons within its jurisdiction, it has a positive obligation to take adequate and effective measures to protect their lives.
+
+<<1868.57;1875.45;en>>
+And the court has given an emphasis on the public's right to information.
+
+<<1875.45;1883.53;en>>
+And the state's positive obligations under article 2 of the convention largely overlap with those under article 8.
+
+<<1883.53;1891.73;en>>
+And in the present case, the alleged violations under both these articles contain mainly the same facts.
+
+<<1891.73;1907.09;en>>
+Despite the government's allegation to the contrary, the court has made no exception from the principle that the positive obligation applies in the case of dangerous activities within the work sphere.
+
+<<1907.09;1911.93;en>>
+And I refer to the case of Roche versus the UK.
+
+<<1911.93;1930.61;en>>
+In view of the facts as presented, there can be no doubt that the applicants' lives and health were at risk during the diving operations in the North Sea from 1970 to 1990 and the test diving at Nui and Nutech.
+
+<<1930.61;1936.01;en>>
+Nor can there be doubt that the Norwegian state knew about the risks involved.
+
+<<1936.01;1952.17;en>>
+Both the last year's commission and the Oslo City Court gave detailed account of the facts and concluded that the Norwegian authorities were aware of the danger that occupational diving in the North Sea implied.
+
+<<1952.17;1968.33;en>>
+As to the decompression tables, the authorities were aware that the diving companies kept them undisclosed, that decompression speed was a competition factor between the diving companies.
+
+<<1968.33;1974.85;en>>
+They knew that the health of the divers thus ran counter to strong commercial interests.
+
+<<1974.85;1983.49;en>>
+And I refer to the last year's report on this particular item, paragraph 574.
+
+<<1983.49;1997.13;en>>
+To illustrate that the Norwegian Petroleum Directorate was alerted about the risks involved in the tables, I'll quote from their letter to the Diving Medical Advisory Committee in 1984.
+
+<<1997.13;2024.93;en>>
+Quote, even when taking into consideration the different approaches to establishing a decompression profile based on different attitudes to the effect of time, pressure, oxygen, and other factors on gas elimination during decompression, we find the difference between the slowest and fastest table disturbing.
+
+<<2024.93;2033.17;en>>
+The difference in decompression time from 1,000 feet is close to a week when comparing the fastest and slowest table.
+
+<<2036.41;2045.89;en>>
+The directorate found that the fastest tables were faster than emergency tables, looking more like a decompression sickness treatment.
+
+<<2045.89;2061.97;en>>
+It also expressed concern that the tables applying high partial pressures of oxygen and considered both concerns to relate, and I quote, directly to the health and safety of the divers.
+
+<<2061.97;2072.85;en>>
+Consequently, there can be no doubt that the Norwegian authorities were aware of the risks involved in North Sea diving operations.
+
+<<2072.85;2111.65;en>>
+As regards to test diving, the state was one of the owners of new tech facilities where test diving was executed until 1985 and was the condition provider for the petroleum exploitation in the North Sea, obliging the oil companies to prove that it was possible to install and maintain pipes and platforms down to 450 meters below the ocean, thus obliging test dives to take place.
+
+<<2111.65;2114.69;en>>
+The state also had observers at the test sites.
+
+<<2114.69;2120.81;en>>
+Several medical experts publicly expressed worries that health concerns were pushed aside.
+
+<<2120.81;2129.93;en>>
+On site, the authorities observed that dives were not even aborted when the divers fell unconscious or demanded oil stop.
+
+<<2129.93;2131.53;en>>
+However, they did not intervene.
+
+<<2131.53;2140.49;en>>
+Concluding that the state had the relevant knowledge, it had a duty to take appropriate effective measures.
+
+<<2140.49;2156.65;en>>
+To share the information with the persons at risk will often be the easiest, accessible, and most rudimentary way to safeguard convention rights laid down in Articles 2 and 8 of the Convention.
+
+<<2156.65;2162.77;en>>
+The state's obligation to provide information under Article 8 is stated in Guerra v. Italy.
+
+<<2162.77;2179.49;en>>
+In that case, the state failure to provide the local population with information about risks and how to proceed in the event of an accident of a chemical fertilizer factory amounted to a violation of Article 8.
+
+<<2179.49;2183.57;en>>
+Also, the court's judgment in Roche v. the UK
+
+<<2183.57;2195.97;en>>
+was related to information due to the risk of chemical related to information duty and to health damage from work that Roche had volunteered to participate in.
+
+<<2195.97;2209.77;en>>
+In that case, the court found that the state had failed to provide information after his work operations, while the applicants most importantly lacked information before they started each dive.
+
+<<2209.77;2224.37;en>>
+My point is that both Roche and the applicants needed the actual information to be able to assess what they should do to avoid unnecessary risk of damage to their health.
+
+<<2224.37;2231.37;en>>
+Roche needed the information to assess what kind of examinations and treatment he should seek.
+
+<<2231.37;2241.49;en>>
+And the divers needed the actual information to assess whether or not they should take part in the diving operation.
+
+<<2241.49;2245.13;en>>
+In the case of Önerlitz v. Turkey,
+
+<<2245.13;2256.95;en>>
+the court found that the state's obligation to take positive measures increases in relation to dangerous activities in comparison with nature conditions.
+
+<<2256.95;2268.25;en>>
+The court found that the authorities had failed in not providing the slum inhabitants with information about the risks they ran by living in the area.
+
+<<2268.25;2280.67;en>>
+And even if it had provided information, it remains responsible as it had not taken necessary practical measures to avoid the risks to people's lives.
+
+<<2280.67;2307.21;en>>
+The court stated that the positive obligation, quote, ìindisputably applies in the particular context of dangerous activities, where in addition, special emphasis must be placed on regulations geared to the special features of the activity in question, particularly with regard to the level of the potential risk to human lives.
+
+<<2307.21;2328.53;en>>
+They must govern the licensing, setting up, operation, security, and supervision of the activity, and must make it compulsory for all those concerned to take practical measures to ensure the effective protection of citizens whose lives might be endangered by the inherent risk.
+
+<<2328.53;2351.05;en>>
+According to the recent case of Stojanovi versus Bulgaria, which concerned an alleged violation of Article 2 following the death of a paratrooper, the state appears to have a further increased positive obligation when it, quote, ìundertakes, organizes, and authorizes dangerous activities.
+
+<<2351.05;2363.81;en>>
+It must then ensure through a system of rules and through sufficient control that the risk is reduced to a reasonable minimum,î end of quote.
+
+<<2363.81;2383.05;en>>
+Following the courtís jurisprudence, one may conclude that the Norwegian state had a duty to provide an effective protection of the applicants, with a particular emphasis on the duty to provide information about the risks involved in diving operations and in rapid tables.
+
+<<2383.05;2395.53;en>>
+In the North Sea diving operations, the word was that diving was prudent and state-approved, which also followed from the statutory regulations.
+
+<<2395.53;2416.49;en>>
+Without the objective facts about the disturbing differences between the tables and the high occurrence and consequences of decompression sickness related to the tables in use, the divers had no opportunity to make a meaningful assessment of the risks involved in the operations.
+
+<<2416.49;2437.61;en>>
+Therefore, the Norwegian authorities had a duty to provide the divers with the piece of information necessary to assess the real risk level, including the escalation of risk connected to the table competition.
+
+<<2437.61;2475.09;en>>
+The state should in the least have made the risks involved in the diving tables known to the applicants by requiring a disclosure of the tables, by providing the divers with a risk assessment of the use of the tables on operations without doctors available for treatment, and by providing information about the conditions on which the authorities approved these tables, or rather the absence of any such conditions.
+
+<<2475.09;2482.85;en>>
+This measure would have been in accordance with the law and would have involved practically no resources and time.
+
+<<2482.85;2506.77;en>>
+I, however, also consider that in view of the time span of the alleged violations, it would have been an effective measure easily at hand of the authorities to require a standardized minimum decompression time by applying the most conservative parts of each of the existing tables.
+
+<<2506.77;2525.45;en>>
+In practice, the combination of a regulation stating that only prudent diving practices were pre-approved and the consistent practice of pre-approval of all dives and tables constituted effective disinformation towards the divers.
+
+<<2528.61;2542.65;en>>
+The state's positive obligation to protect the health of persons at risk is under Article 8, Paragraph 2, subject to a balancing of interests of the applicant's rights and the community as a whole.
+
+<<2542.65;2557.57;en>>
+According to the court's jurisprudence in Fadayeva versus Russia, the assessment is, quote, whether the government's approached the problem with due diligence and gave consideration to all the competing interests.
+
+<<2557.57;2572.93;en>>
+The onus is on the state to justify using detailed and rigorous data a situation in which certain individuals bear a heavy burden on behalf of the rest of the community.
+
+<<2572.93;2584.77;en>>
+In the present case, it is submitted that the state's lack of effective measures to protect the applicant's life and health is far from having been justified within the terms of Article 8.
+
+<<2584.77;2606.93;en>>
+The state has provided no reasonable explanation why to justify why for 25 years they did not oblige the diving companies to disclose their decompression tables or to comply with the most conservative tables and their own due care standard.
+
+<<2606.93;2622.29;en>>
+Our conclusion so far is that the state had a clear duty under the convention to require disclosure of tables and inform the divers, and in our view, also to harmonize the tables.
+
+<<2622.29;2644.01;en>>
+The state makes a particular emphasis on their due care standard in Paragraph 121 of the Royal Decree from 1967, which provided that the authorities should receive a plan envisaging the execution of the dive, which equipment would be used, and which safety measures would be taken.
+
+<<2644.01;2658.05;en>>
+However, the authorities approved these procedures regardless of the diving tables, and in most cases, without even having access to them.
+
+<<2658.05;2661.69;en>>
+I refer to Losius report, page 74.
+
+<<2661.69;2673.85;en>>
+None of the regulations that were issued before 1990 were interpreted and complied with by the authorities themselves in a way that could make them a realistic alternative measure.
+
+<<2673.85;2683.17;en>>
+The state had the knowledge about risks or threats to life and personal harm in the North Sea, but failed to take appropriate and efficient measures.
+
+<<2683.17;2683.65;en>>
+Thank you.
+
+<<2683.65;2683.65;en>>
+I give the word to Mr. Ludwigs.
+
+[[Applicant;AP2]]
+
+<<2695.43;2710.8;en>>
+Madam President, distinguished members of the court, replying to the court's question 2A to C, the applicants would not have been able to understand the diving table to a degree where they could assess its excessive risk by themselves.
+
+<<2710.8;2722.63;en>>
+The divers were in no position to take part in the medical discussion, so they needed digested information and conclusions, and not primarily the bare tables as such.
+
+<<2722.63;2731.59;en>>
+Anyway, they were also told that everything was state-approved as prudent, and that decompression sickness would not lead to permanent damage.
+
+<<2731.59;2738.39;en>>
+I believe that a disclosure of the tables would have had to be combined with the authorities' risk assessment.
+
+<<2738.39;2746.8;en>>
+It is, however, possible that having access to all the tables, the applicants could have assessed the risks themselves by comparing the tables.
+
+<<2746.8;2756.72;en>>
+The wide differences in decompression times could have been perceived as so alarming to the divers that this in itself could have given rise to suspicion on their part.
+
+<<2756.72;2766.99;en>>
+In that case, they could have been aware of which companies that used the rapid and dangerous tables, and they could, in principle, have chosen to hire elsewhere.
+
+<<2766.99;2783.67;en>>
+If the authorities, in addition to require disclosure of all tables, also had provided their risk assessment, it is probable that it would have constituted information that would have provided the applicants with sufficient knowledge to assess the risks involved.
+
+<<2783.67;2787.67;en>>
+This is our conclusion regarding to question 2A.
+
+<<2787.67;2801.84;en>>
+Through public pressure and fear of not gaining contracts and employees, the diving companies could possibly have been compelled to use the most conservative tables if the tables have been disclosed.
+
+<<2801.84;2816.47;en>>
+And if the authorities, in addition, had stuck or at least improved its own practice of pre-approving all tables, regardless of whether they were dangerous or not, it would clearly have a significant effect on the diving companies' use of rapid tables.
+
+<<2816.47;2828.22;en>>
+The answer to the court's question 2C about the connection between disclosure and harmonizing of table is as short as it is important.
+
+<<2828.22;2834.68;en>>
+Disclosure of the tables was a necessary condition for the authorities' work on the harmonizing of tables.
+
+<<2834.68;2846.03;en>>
+This work was completed very swiftly and easily when it finally was started and solved the problem of decompression sickness without the need of new knowledge or other material obstacles.
+
+<<2846.03;2855.36;en>>
+The lack of such a demand to disclose the tables also seems to have been the only real obstacle to the harmonization of tables.
+
+<<2855.36;2861.55;en>>
+To develop and harmonize on a new common safe table from scratch seemed difficult.
+
+<<2861.55;2876.11;en>>
+But to harmonize around the most conservative existing tables based on forced disclosure in 1975 would have been as easy as it was to do it based on voluntary disclosure in 1990.
+
+<<2876.11;2901.07;en>>
+The Lost Yoster Report, chapter 574, also quotes the Norwegian Labor Inspection Authority's letter to the University of Zurich in 16 April, 1973, stating, I quote, where helium tables to be made freely available, there would no longer be any commercial basis for secrecy regarding the tables.
+
+<<2901.07;2905.07;en>>
+And this would enable free exchange of views regarding the tables.
+
+<<2905.07;2919.63;en>>
+Concerted efforts could then be made to develop optimal diving tables, while the competitiveness of the diving companies would to a greater extent be dependent on the training and skills of the divers and the safety and reliability of the equipment.
+
+<<2919.63;2933.24;en>>
+This proves that even at the very beginning of the applicants' careers in the North Sea, the state itself considered that the disclosure of decompression tables would result in a harmonization.
+
+<<2933.24;2952.68;en>>
+So our conclusion on question two as a whole is that we are of the opinion that the failure to require disclosure of tables represent a breach of the authorities' duty to safeguard, and that we see this primarily as an integrated part of a breach constituted by the failure to harmonize tables.
+
+<<2952.68;2970.11;en>>
+Regarding question three, the applicants never consented to any use of rapid tables, nor have they ever been asked to approve the use of any kind of table, or been asked to elect or empower any representative to do this on their behalf.
+
+<<2970.11;2977.59;en>>
+There is nothing to support that any elected representatives ever consented to anything regarding use of tables.
+
+<<2977.59;2991.11;en>>
+They may have consented to longer work hours or extended saturation time, and in some cases, maybe even longer umbilicals, but there's nothing to support that they were ever asked about tables.
+
+<<2991.11;2995.91;en>>
+For instance, Mr. Villes has not been presented with or explained
+
+<<2995.91;3005.76;en>>
+the principles of a table intended to be used on him before signing up for a dive, and he has not been informed that the tables were rapid or aggressive or risky.
+
+<<3005.76;3016.68;en>>
+Quite to the contrary, when he had any questions regarding safety in general, he was always reminded that everything had been pre-approved by the authorities as prudent.
+
+<<3016.68;3020.64;en>>
+This is similar for the other applicants.
+
+<<3020.64;3029.28;en>>
+Regarding other operational conditions and tables, the divers had a chance to detect the most obvious deviations from prudent diving.
+
+<<3029.28;3034.11;en>>
+And on the diving vessel Tender Comet, Mr. Villes therefore
+
+<<3034.11;3044.39;en>>
+complained to every possible instance, including his leaders, the diving company, the ship owner, the oil company, and the oil directorate.
+
+<<3044.39;3051.68;en>>
+Regarding tables and other diving medicine, the applicants naturally didn't stand a chance to detect the malpractice.
+
+<<3051.68;3056.51;en>>
+They were completely at the mercy of the approving authorities.
+
+<<3056.51;3072.99;en>>
+I shall add that if they had been asked for their consent, then such a request would have had no meaning because of the vast difference in information and insight between the authorities and the industry on one side and the applicants on the other.
+
+<<3072.99;3096.19;en>>
+The existence of a consent would, in my view, have required preceding information and comprehension of the high risk of decompression sickness connected to the relevant tables and the grave immediate injuries these tables could cause, and above all, of the permanent health damage that could occur years after the use of the rapid tables.
+
+<<3096.19;3106.39;en>>
+If the information that we have mentioned on the question one had been provided, it could have been meaningful to ask for consent, but that was not the case.
+
+<<3106.39;3130.8;en>>
+This argument is actually also supported by the Supreme Court's judgment, which even states in item 63 that the risk for the North Sea divers clearly exceeded what they must have been prepared for, and in item 64 that under Norwegian law, there exists no concept of acceptance of risk for occupational injuries.
+
+<<3130.8;3156.84;en>>
+In the present case, we argue that the same could apply to the interpretation of convention rights because the differences in power and knowledge were so huge, because the motives of the diving industry and the consequences to the divers' health were so immoral, and because the divers' health was exposed to an exceptional additional risk that was so unnecessary.
+
+<<3156.84;3159.15;en>>
+Mr. Wieners is certain that he has never
+
+<<3159.15;3172.15;en>>
+given any consent to the use of rapid tables or said or done anything that could be taken as such consent, and even the state has never claimed that he has done so by himself or through a representative.
+
+<<3172.15;3176.91;en>>
+And this, too, is similar for the other applicants.
+
+<<3176.91;3188.84;en>>
+What the divers consented to was only to dive according to tables that they heard were prepared by medical experts and approved as prudent by the state authorities.
+
+<<3188.84;3194.84;en>>
+And they were told that even if they felt pain, it wouldn't result in any lasting damage.
+
+<<3194.84;3198.84;en>>
+What happened to them turned out to be quite the opposite.
+
+<<3198.84;3203.07;en>>
+The tables produced large numbers of decompression sickness.
+
+<<3203.07;3211.95;en>>
+All the cases of decompression sickness could, under the circumstances, cause permanent damage, and the authority control was not real.
+
+<<3211.95;3224.03;en>>
+The tables were both confidential and incomprehensible to the applicants, and they didn't know the true and fair view of the risks involved in using wrongful tables.
+
+<<3224.03;3229.23;en>>
+So to conclude, it could not be said that they had consented.
+
+<<3229.23;3248.19;en>>
+Replying to the court's question four, it is submitted that the applicant's health has been adversely affected by applying the rapid decompression tables, both by suffering the immediate and prolonged symptoms of decompression illness and by the long-term illnesses which have caused occupational disability.
+
+<<3248.19;3254.32;en>>
+It is for all the applicants except one undisputed that they have suffered from decompression sickness.
+
+<<3254.32;3264.43;en>>
+The submitted medical expert declarations and the Oslo city court judgment conclude that the applicant's permanent injuries have been caused by not sea diving.
+
+<<3264.43;3273.64;en>>
+And when the most conservative table became effective in 1990, the occurrence of decompression sickness vanished for all practical purposes.
+
+<<3273.64;3285.68;en>>
+This proves that the applicants would not have suffered the short-term and long-term consequences of decompression sickness had the state taken appropriate and effective measures to control the use of rapid tables.
+
+<<3288.72;3297.36;en>>
+Post-traumatic stress disease, or PTSD, may not be directly caused by decompression sickness.
+
+<<3297.36;3309.11;en>>
+On the other hand, physical brain and nerve damage, lung damage, and in some cases, hearing impairment, are probable consequences of rapid tables and subsequent decompression sickness.
+
+<<3309.11;3313.07;en>>
+Mr. Wielnäs' hearing damage and his psychological damage
+
+<<3313.07;3317.8;en>>
+have probably not been caused directly by the tables in question.
+
+<<3317.8;3329.68;en>>
+His spinal cord damage was caused directly by one specific decompression on the diving vessel Arctic Surveyor in 1977 that inflicted a spinal bend on him.
+
+<<3329.68;3335.43;en>>
+This damage cannot have been caused by lighter cases of decompression sickness or by anything else.
+
+<<3335.43;3345.91;en>>
+The physical brain damage was caused by the same decompression and or by other lighter decompression sicknesses on the Arctic Surveyor and or the tender comet.
+
+<<3345.91;3357.28;en>>
+On the tender comet, he was also subjected to extreme humidity, temperatures, and exhaustion that the inspectors from the oil directorate refused to put an end to.
+
+<<3357.28;3360.11;en>>
+Mr. Wielnäs felt pain and malaise after decompression
+
+<<3360.11;3365.15;en>>
+a lot of times without getting diagnosed or treated for decompression sickness.
+
+<<3365.15;3378.51;en>>
+The High Court also found specifically that his brain and spinal cord damage were probably caused wholly or partially by the combination of a too rapid table and the absence of a doctor for treatment.
+
+<<3378.51;3385.15;en>>
+This appears from page 150 in appendix 2 to Wielnäs' application number 1.
+
+<<3385.15;3387.99;en>>
+Mr. Muldal has experienced decompression sickness
+
+<<3387.99;3398.36;en>>
+in the joints on two or three occasions and suffered from encephalopathy and severe chronic lung disease, which probably have been caused by rapid decompression tables.
+
+<<3398.36;3404.28;en>>
+I refer to the Losius report, page 33 and 35.
+
+<<3404.28;3406.51;en>>
+Mr. Muldal also felt pain and malaise
+
+<<3406.51;3412.23;en>>
+after decompression many times where he was unable to walk the stairs because of pains in the joints.
+
+<<3412.23;3415.27;en>>
+He may also have PTSD.
+
+<<3415.27;3418.23;en>>
+Mr. Lindahl has experienced decompression sickness
+
+<<3418.23;3419.47;en>>
+many times.
+
+<<3419.47;3423.27;en>>
+One of them was a severe case on one of his test dives.
+
+<<3423.27;3429.49;en>>
+He suffered from neuropsychological and neurophysiological changes, as well as reduced lung capacity.
+
+<<3429.49;3437.39;en>>
+The medical expert declaration also states that his hearing impairment is a consequence of decompression sickness in 1981.
+
+<<3437.39;3439.72;en>>
+He also has PTSD.
+
+<<3439.72;3442.39;en>>
+Mr. Hufsteinsson has suffered decompression sickness
+
+<<3442.39;3447.11;en>>
+on three occasions and is suffering from obstructive lung disease.
+
+<<3447.11;3458.8;en>>
+His neurophysiological exams reveal findings similar with those of other North Sea divers and are also probable results of decompression sickness.
+
+<<3458.8;3461.99;en>>
+He also suffers from PTSD.
+
+<<3461.99;3464.72;en>>
+Mr. Nygaard is suffering from chronic obstructive lung
+
+<<3464.72;3469.63;en>>
+disease, encephalopathy, PTSD, ringing in the ears, and diver's hands.
+
+<<3469.64;3476.24;en>>
+Encephalopathy and chronic obstructive lung disease probably result from the use of rapid tables.
+
+<<3476.24;3479.6;en>>
+Mr. Nerstall has suffered from decompression sickness
+
+<<3479.6;3481.47;en>>
+on four occasions.
+
+<<3481.47;3490.32;en>>
+On a saturation dive in 1985, he suffered from neurological symptoms and acute dizziness compatible with decompression sickness.
+
+<<3490.32;3494.78;en>>
+He is suffering from dizziness, depression, and anxiety.
+
+<<3494.78;3497.55;en>>
+Mr. Jacobsen suffered from decompression sickness
+
+<<3497.55;3502.36;en>>
+in the form of bends in the joints many times and in the skin one time.
+
+<<3502.36;3504.99;en>>
+He is also suffering from PTSD.
+
+<<3504.99;3512.78;en>>
+His symptoms are similar to those suffering from neuropsychological changes, which is closely linked to decompression sickness.
+
+<<3512.78;3526.39;en>>
+Consequently, we argue that the applicant's cases of brain, nerve, and lung damage have been caused by the tables in question, as well as the case of Mr. Lindahl's hearing impairment.
+
+<<3526.39;3562.55;en>>
+Our conclusions are that the state had information duties that were not fulfilled, that also the failure to demand disclosure of tables was inconsistent with the duty to take accessible safeguarding steps in general, that disclosure would have been necessary together with a risk assessment of the tables to fulfill the state's general safeguarding duty, that required disclosure was necessary and central to harmonize tables, that the divers have not consented to the risk of rapid tables, and that the tables have caused substantial health damage to the applicants.
+
+<<3562.55;3577.43;en>>
+And if the court should be in doubt, we must always remember that the Norwegian petroleum diving was not something that was originally carried out by private parties and that the state would have to catch up with and actively subdue.
+
+<<3577.43;3579.24;en>>
+It was the other way around.
+
+<<3579.24;3582.99;en>>
+The oil under the seabed was owned by the state.
+
+<<3582.99;3586.76;en>>
+Petroleum diving was necessary for the state to get it up.
+
+<<3586.76;3595.8;en>>
+And the state itself interjected private entities between themselves and the risky operations to actively organize away from the risk.
+
+<<3595.8;3595.8;en>>
+Thank you.
+
+[[JudgeP;Nina Vajić]]
+
+<<3598.11;3600.19;en>>
+Thank you very much, Mr. Ludvigsen.
+
+<<3601.95;3608.03;en>>
+I would like now to invite the judges to put any questions they may have to the parties.
+
+<<3608.03;3608.03;en>>
+Yes, Judge Sicilianos, please.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<3615.77;3616.49;en>>
+Thank you very much.
+
+<<3616.49;3622.57;en>>
+I have two questions, one for the applicants and one for the government.
+
+<<3622.57;3637.17;en>>
+To the applicants first, because it concerns the exhaustion of domestic remedies, you are certainly aware of our case law in this matter, and more precisely of the Akdivar versus Turkey case.
+
+<<3637.17;3652.49;en>>
+In this case, summing up our case law, the court has said that mere doubts about the outcome of a case is not sufficient, and that the applicant has to prove that the exercise of a remedy would be obviously futile.
+
+<<3652.49;3655.21;en>>
+Obviously futile.
+
+<<3655.21;3662.85;en>>
+So in response to question number five, you have spoken about legal issues which were similar.
+
+<<3662.85;3668.97;en>>
+They were similar, or were they essentially identical?
+
+<<3668.97;3670.93;en>>
+This is my first question.
+
+<<3670.93;3690.57;en>>
+My second question to the government, if agent, if I understood you well, you said in substance that the Norwegian state exercised the role of a mere regulator and supervisor of the activities on the continental shelf.
+
+<<3690.57;3711.69;en>>
+You also pointed out to the fact that the applicants were working for private companies, and consequently, that acts or omissions by such private companies, including the non-disclosure of the decompression tables, are not to be attributed as such to the Norwegian state.
+
+<<3711.69;3716.65;en>>
+This is, in a nutshell, if I understood you well, your main thesis.
+
+<<3716.65;3733.05;en>>
+Well, you are certainly aware of the articles on state responsibility by the International Law Commission, the UN International Law Commission, codifying this matter, as recognized by a number of actors, including by the International Court of Justice.
+
+<<3733.05;3753.01;en>>
+According to Article 5 of those articles, if an act or omission of a private entity can be attributed to the state if such entity exercises elements of governmental authority, elements of governmental authority.
+
+<<3753.01;3760.45;en>>
+So my question is, do you think that this condition is fulfilled in the present case, elements of governmental authority?
+
+<<3760.45;3760.45;en>>
+Thank you very much.
+
+[[JudgeP;Nina Vajić]]
+
+<<3762.93;3768.13;en>>
+Any other questions? No.
+
+<<3768.13;3776.17;en>>
+Do you think, both parties, that you could answer immediately or you would prefer maybe to have a break?
+
+<<3776.17;3777.37;en>>
+Okay.
+
+<<3777.37;3794.17;en>>
+So the court will now rise for 15 minutes and following that we'll come back and return to the second round of short pleadings and the answers to the questions.
+
+<<3794.17;3795.17;en>>
+Thank you very much.
+
+[[Announcer;UNK]]
+
+<<3856.64;3857.22;fr>>
+La Cour!
+
+[[JudgeP;Nina Vajić]]
+
+<<3903.01;3907.97;en>>
+So we'll resume the hearing now and I give the floor to Mr. Emberland.
+
+<<3907.97;3909.97;en>>
+You have the floor, sir.
+
+[[Government;GR1]]
+
+<<3915.63;3938.47;en>>
+Madam President, Honourable Court, as to the question from Judge Sicilianos, whether, as far as I understood the question, whether the activities in question could be considered as elements of governmental authority within the meaning of the articles on state responsibility, the answer for...
+
+<<3938.47;3941.15;en>>
+The government's answer to this is no.
+
+<<3941.15;3956.23;en>>
+And this is explained by the fact that the state itself did not undertake any petroleum activities as such, nor even in the exploitation of resources.
+
+<<3956.23;3961.03;en>>
+It was the diving companies that were doing this.
+
+<<3961.03;3963.51;en>>
+They were private parties, all of them.
+
+<<3963.51;3971.99;en>>
+That also includes the Norwegian state oil company, Statoil, which was, from the very beginning, a private entity.
+
+<<3971.99;3984.83;en>>
+The involvement of the government was limited to controlling the activities and supervising the activities.
+
+<<3984.83;4000.03;en>>
+That being said, the government does not deny that the state may be responsible under the Convention by virtue of the positive obligations doctrine, in the sense that the government may be liable, even in the sphere of individuals between themselves.
+
+<<4000.03;4004.99;en>>
+As the Court states many times in this case law.
+
+<<4004.99;4017.87;en>>
+But the government submits, in our case, that that form of positive obligations would not lead to a violation of the Convention in this case.
+
+<<4021.99;4027.95;en>>
+Three points in response to the applicants' intervention.
+
+<<4027.95;4040.95;en>>
+First, briefly, as to whether the Court was required to disclose confidential business information, as has been maintained now in the Court today.
+
+<<4040.95;4057.67;en>>
+I would like to recall the judgment of Gaskin versus the United Kingdom from the 1980s, where the Court stated that it is not in itself a violation of the Convention to withhold sensitive information.
+
+<<4057.67;4077.79;en>>
+It is a legitimate interest to protect confidential information, and that interest has to be taken into account in the balancing that must be taken when assessing possible violations of, in this case, Article 8.
+
+<<4077.79;4090.99;en>>
+As regards to harmonization of decompression tables, when harmonization was effected in 1990, the time was ripe, so to speak.
+
+<<4090.99;4097.15;en>>
+Then there was more knowledge and more experience than before.
+
+<<4097.15;4106.39;en>>
+The government does not have any reliable information to state that this could have been a success 20 years earlier.
+
+<<4106.39;4117.95;en>>
+The argument posed by the applicants in this respect is, in the government's view, a pure hypothetical thought.
+
+<<4117.95;4141.35;en>>
+And finally, as regards knowledge of risks, it must be recalled that all governmental work with health and safety in the North Sea is aimed at controlling risk.
+
+<<4141.35;4153.39;en>>
+All efforts and regulations, development of standards, and tripartite cooperation is aimed at improving this and controlling risk.
+
+<<4153.39;4156.47;en>>
+And this is an ongoing work even today.
+
+<<4156.47;4156.47;en>>
+I thank you, Mr. President, for your attention.
+
+[[JudgeP;Nina Vajić]]
+
+<<4162.54;4165.12;en>>
+I call Ms. Hellum-Lilleengen.
+
+<<4172.62;4174.62;en>>
+Now it will be Mr. Ludvigsen.
+
+[[Applicant;AP2]]
+
+<<4177.38;4192.14;en>>
+Madam President, distinguished members of the court, I will just connect a few short comments to the submissions made by the government, and the question from the court will be answered by my colleague.
+
+<<4192.14;4206.86;en>>
+I will first say that all the efforts made after 1991 mentioned by the government is, in our view, completely irrelevant.
+
+<<4206.86;4216.9;en>>
+The alleged breaches happened before 1990, and our main argumentation is that the government should have done something earlier.
+
+<<4221.02;4242.82;en>>
+Secondly, I will say that, as a comment to the government's allegation that many people doubted earlier in the diving adventure, that decompression sickness was dangerous and damaging.
+
+<<4242.82;4252.1;en>>
+That doubt rested completely upon the condition and assumption of correct, immediate treatment.
+
+<<4252.1;4259.22;en>>
+It was on that condition that someone doubted that it would be damaging.
+
+<<4259.22;4273.26;en>>
+And the diving doctors in the North Sea, they were not in the diving systems, and they were not on the diving ships.
+
+<<4273.26;4277.38;en>>
+They were not even in the North Sea, in most cases.
+
+<<4277.38;4285.86;en>>
+They were on land without any possibility of getting to the patient, or vice versa.
+
+<<4285.86;4298.94;en>>
+And there was no video conference links or other systems, as we know today, for remote treatment or diagnosing.
+
+<<4298.94;4303.46;en>>
+The doctors were for office work and not for treatment.
+
+<<4303.46;4318.26;en>>
+So it must have been obvious to the authorities, when they pre-approved the operations, that correct, immediate treatment was impossible and that decompression sickness had to lead to permanent damage.
+
+<<4322.94;4333.78;en>>
+Thirdly, I will mention that the government once again mentions the conferences in Godøsund and Stavanger.
+
+<<4333.78;4340.42;en>>
+But these conferences were about correctly conducted, flawless diving.
+
+<<4340.42;4351.42;en>>
+And it has never been any doubt in the medical circles that diving with free decompression tables were very risky and dangerous.
+
+<<4351.42;4352.96;en>>
+Thank you.
+
+[[Applicant;AP1]]
+
+<<4357.84;4366.84;en>>
+Madam President, distinguished members of the court, I'll first reply to Mr. Siciliano's
+
+<<4366.84;4377.84;en>>
+question regarding the admissibility criteria in the convention, Article 35. Your question
+
+<<4377.84;4385.84;en>>
+was whether the Supreme Court judgment in the cases of Mr. Mooladal and Mr. Vilnes,
+
+<<4385.84;4394.84;en>>
+in fact, prevented the other applicants from pursuing their complaint. And in fact it did
+
+<<4394.84;4410.84;en>>
+because the Supreme Court judgment considered the liability of the state in the cases of North Sea divers and the violation or their compensation claim. So none of the other North
+
+<<4410.84;4418.84;en>>
+Sea divers had a prospect of success in claiming the same liability against the state.
+
+<<4418.84;4430.84;en>>
+I will also make a few comments to the government's pleading. And first of all to what they say
+
+<<4430.84;4437.84;en>>
+about knowledge. They say they didn't know about the risks involved in the rapid tables.
+
+<<4437.84;4458.84;en>>
+I need to reiterate to everyone that the need for slow decompression to avoid health damage and possible death was already discovered in the 18th century when Mr. Paul Baer
+
+<<4458.84;4467.84;en>>
+published the book of La Pression Barométrique in 1878. So this is not a new evidence or fact
+
+<<4467.84;4475.84;en>>
+that decompression is dangerous or fast decompression is dangerous to people's lives.
+
+<<4475.84;4484.84;en>>
+This is very old and also in the 60s when the oil adventure started for Norway. Several medical
+
+<<4484.84;4500.84;en>>
+experts published articles about the possible long-term injuries of diving or rapid decompression. So knowledge, I mean this is something the Norwegian state was aware of.
+
+<<4500.84;4507.84;en>>
+Slow decompression is the main and single most important factor for safe diving. Nevertheless,
+
+<<4507.84;4524.84;en>>
+it did not take any action to address that particular point of the diving operations.
+
+<<4524.84;4531.84;en>>
+Also, my second point, I have three points also. My second point is that the state thus
+
+<<4531.84;4538.84;en>>
+had a substantive obligation to take to address decompression. That is my opinion.
+
+<<4538.84;4554.84;en>>
+And it's actually realized that it had the possibility to develop or look at these decompression tables. It looked at the state, the authorities looked at it in 1972 at the
+
+<<4554.84;4562.84;en>>
+Reers. However, it discussed, it sent letters, nothing happened. Nothing happened to either
+
+<<4562.84;4576.84;en>>
+disclose the tables, make a risk assessment comprehensible to the divers so that they could comprehend the excessive risk involved in rapid tables. The divers knew that diving
+
+<<4576.84;4593.84;en>>
+is probably more dangerous than many other professions, but they didn't know about the extra real level of stress that these rapid tables involved. And neither that the state
+
+<<4593.84;4607.84;en>>
+actually approved all these decompression procedures without knowing about the risks involved in these tables or putting a limit to it.
+
+<<4607.84;4615.84;en>>
+My third point is regarding causation. It is the court's practice, I refer to, for
+
+<<4615.84;4629.84;en>>
+instance, Budajeva, that causation is considered that the, we submit that the applicants have submitted substantial evidence. They've submitted medical records that actually
+
+<<4629.84;4635.84;en>>
+prove that they have sustained injuries following the diving in the North Sea operations.
+
+<<4635.84;4647.84;en>>
+And some of the injuries have been related directly to decompression tables, to rapid tables. We, however, we consider that also the short-term decompression illnesses
+
+<<4647.84;4676.84;en>>
+that were a consequence, a direct consequence of rapid tables where should be taken into account when considering causation are that in view of the Budajeva case, the causation discussion is justified as such. The court does not lay an extra burden on the applicants
+
+<<4676.84;4684.84;en>>
+to prove in more detail than that causation has been established.
+
+<<4684.84;4698.84;en>>
+So in my view, the government has not provided sufficient measures to address rapid decompression tables, even though it is the most critical factor to safe diving.
+
+[[JudgeP;Nina Vajić]]
+
+<<4703.24;4705.24;en>>
+Thank you very much.
+
+<<4705.24;4710.6;en>>
+We have now come to the end of the hearing.
+
+<<4710.6;4720.08;en>>
+I would like to thank the parties for their interventions and also to their answers to the court's questions.
+
+<<4720.08;4733.32;en>>
+The court will now deliberate on the case, and a decision will be adopted later, of which the parties will be informed accordingly.
+
+<<4733.32;4733.32;en>>
+I declare the hearing closed.
+

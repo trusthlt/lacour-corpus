@@ -1,0 +1,1774 @@
+[[Announcer;UNK]]
+
+<<7.99;8.59;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<7.99;8.59;fr>>
+Please be seated.
+
+<<61.87;70.17;en>>
+I declare open the public hearing on the admissibility and merits in the case of Denisov v. Ukraine.
+
+<<61.87;70.17;en>>
+The application was lodged with the Court on 8 December 2011 under Article 34 of the Constitution by a Ukrainian national, Mr. Anatoliy Oleksiyovich Denisov.
+
+<<70.17;84.77;en>>
+The application was allocated to the Fifth Section of the Court pursuant to Rule 52, paragraph 1 of the Rules of the Court.
+
+<<84.77;95.71;en>>
+The application was communicated to the Government on 15 January 2014.
+
+<<95.71;103.07;en>>
+On 25 April 2017, the Chamber decided to relinquish jurisdiction in favour of the Grand Chamber.
+
+<<103.07;112.95;en>>
+On 27 July 2017, the President of the Grand Chamber granted leave to the International Commission of Jurists to submit written comments as a third party by virtue of Rule 44, paragraph 3 of the Rules of the Court.
+
+<<112.95;131.87;en>>
+The Government are represented by Mr. Lishchyna, our agent of the Government of Ukraine before the European Court of Human Rights, assisted by Mrs. Davydchuk and Mrs. Rybachok, advisors.
+
+<<131.87;146.43;en>>
+The applicant is represented by Mrs. Gavron, counsel, and Mr. Halban, barrister.
+
+<<146.43;153.21;en>>
+The applicant is also present.
+
+<<153.21;156.31;en>>
+I welcome the representatives in the name of the Court.
+
+<<156.31;161.23;en>>
+I also welcome the judges and prosecutors from the European Judicial Training Network, as well as Ukrainian, Norwegian, Portuguese, and Montenegrin judges and prosecutors who are present in the hearing room.
+
+<<161.23;177.71;en>>
+Having consulted the agent of the Government and the representatives of the applicant, I have determined the order of addresses as follows.
+
+<<177.71;186.99;en>>
+Mr. Lishchyna for the Government will speak first, and then Mrs. Gavron and Mr. Halban for the applicant.
+
+<<186.99;194.55;en>>
+I would explain that, in addition to interpreting in the two official languages of the Court, English and French, interpreting into Russian has been authorized for the benefit of a group of lawyers from Russia attending this hearing.
+
+<<194.55;211.03;en>>
+That interpreting is not arranged by the Court, and no transcription of the oral translation will be included in the official record of the proceeding. I call M. Lishchyna, please you have the floor.
+
+[[Government;GR1]]
+
+<<230.62;233.38;en>>
+Mr. President, honorable members of the court,
+
+<<233.38;243.8;en>>
+ladies and gentlemen, it is a privilege and a pleasure to have the opportunity to appear before the court to present oral submissions on behalf of the government of Ukraine.
+
+<<243.8;250.22;en>>
+I avail myself of the opportunity to express to the court the highest respect of my government.
+
+<<250.22;261.78;en>>
+I will speak first of alleged violation of Article 6, then I will move to Article 8, and finally to Article 1 of Protocol 1.
+
+<<261.78;272.06;en>>
+But first and foremost, I would like to stress certain factual issues which are of utmost relevance for the present case.
+
+<<272.06;289.42;en>>
+First of all, I would like to refer the court to the fact that the Council of Judges of Administrative Courts of Ukraine is a specific body of judicial self-governance.
+
+<<289.42;310.26;en>>
+On 18 February 2011, the Council, by its decision, approved the composition of the working group, which consisted of judges, that had to carry out the inspection of the organization of the methodological assistance in the Kyiv Administrative Court of Appeal, at the time presided by the applicant.
+
+<<310.26;322.78;en>>
+The inspection was carried out, again, by the judges who participated in this group in February and March 2011.
+
+<<322.78;334.3;en>>
+On 20 May 2011, the Council of Judges of Administrative Courts of Ukraine considered the certificate issued under the results of this inspection.
+
+<<334.3;345.42;en>>
+During the inspection, the members of the group found the following violations in the organization of the work of the Kyiv Administrative Court of Appeal.
+
+<<345.42;353.14;en>>
+By the end of 2009, there were more than 85,000 pending cases.
+
+<<353.14;367.62;en>>
+There was disproportionate automatic case distribution, with some of judges receiving 450 cases within one month, and others receiving less than 90 cases for the same period.
+
+<<367.62;373.1;en>>
+There were cases exemption and redistribution of cases to other judges.
+
+<<373.1;383.86;en>>
+There were discrepancies in the application of the law by the Kyiv Administrative Court of Appeal, which the application was different from other courts of appeal.
+
+<<383.86;389.38;en>>
+Issuance of informational letters without consideration of the case law of the higher courts.
+
+<<389.38;398.78;en>>
+There were instances of excess of power by the President of the Court of Appeal in the course of disciplinary punishment of the court's staff.
+
+<<398.78;408.62;en>>
+There were around 30,000 unregistered copies of the appeals as of 21 February 2011.
+
+<<408.62;419.1;en>>
+In his application to the court, the applicant argued that he and his deputies did not have sufficient time to study the above certificate and thus did not take part in its discussion.
+
+<<419.1;427.62;en>>
+For confirmation of this argument, the applicant's representatives provided the court with witness statements of Mr. M and Mrs. S.
+
+<<427.62;441.02;en>>
+The above statements, together with the new applicant's statements, were attached to the submission of the applicant's submission of 23 June 2017.
+
+<<441.02;451.42;en>>
+In this regard, the government drew the court's conclusion, attention to the fact that, according to the case file, Mr. M and those witnesses were never
+
+<<451.42;453.74;en>>
+heard before the national courts.
+
+<<453.74;460.38;en>>
+And they did not provide any explanations or additional statements to the national court.
+
+<<460.38;474.78;en>>
+The government here is rely on the court's case law, where the court noted that it is for the national courts to assess the evidence before them, as well as the relevance of the evidence which defendants seek to adduce.
+
+<<474.78;481.9;en>>
+Besides, again, I would like to stress that those two witnesses were not tested by the domestic courts.
+
+<<481.9;493.62;en>>
+And basically, the European Court of Human Rights is invited by the applicant to provide its own assessments and to test the veracity of those statements.
+
+<<493.62;503.82;en>>
+Besides, the applicant's statements that were contained in this application were countered by the government in their submission on 23 June 2017.
+
+<<503.82;524.9;en>>
+In particular, as it follows from the stamp on the letter, and as it was established by the higher administrative court of Ukraine during the consideration of the applicant's appeal, the letter, together with the above certificate, was received by the Kiev administrative court on 6 May 2011.
+
+<<524.9;533.78;en>>
+It is not apparently disputed that the applicant himself states that he received this letter on 11 May 2011.
+
+<<533.78;541.54;en>>
+And on the same day, there was held a meeting with the presence of him, his deputies, chief of staff, and the chiefs of structural subdivisions of the court.
+
+<<541.54;547.82;en>>
+So basically, the applicant discussed at length with his subordinates the certificate at issue.
+
+<<547.82;573.66;en>>
+Moreover, the above resolution, moreover, during the meeting of the council of judges of the administrative court, which was held on 20 May 2011, confirms that the applicant was present during the consideration of the results of the review of his court.
+
+<<573.66;585.22;en>>
+And he took floor on four occasions, which basically, again, means that he had sufficient time to review the certificate in issue.
+
+<<585.22;608.78;en>>
+Following the hearing on 20 May 2011, the council of judges of the administrative courts of Ukraine adopted a decision finding that the conditions of the organizations of the Kiev administrative court of appeal are unsatisfactory and decided to file with the High Council of Justice an application for the dismissal of the applicant from the post of the president of this court.
+
+<<608.78;627.7;en>>
+Again, I would like to underline that the council of judges of the administrative courts of Ukraine was a self-government body and was empowered to carry out the control over the relevant court's organization and activity under the then legislation in force.
+
+<<627.7;651.58;en>>
+Being present during the meeting and having heard of the recommendation to dismiss him from the post on 23 May 2011, the applicant acting as the president of the court issued an order granting himself a leave from 25 May 2011 to 8 July 2011.
+
+<<651.58;655.86;en>>
+In case you are wondering, this is not normal course of events.
+
+<<655.86;675.98;en>>
+Normally, judges in Ukraine take vacations either in early May, because there are several holidays, and you can breach and save your holidays, or normally they take a vacation in late July, August.
+
+<<675.98;695.42;en>>
+Here, the applicant, having been present during a very serious consideration of his upness to his position, decided to give himself a vacation, quite lengthy one.
+
+<<695.42;715.42;en>>
+Then the applicant's case was heard before the High Court of Justice, Council of Justice, which at the relevant time was a body responsible for the formation of the High Professional Judicial Corps capable of impartial conduct of justice on the professional grounds.
+
+<<715.42;748.34;en>>
+The government would like to stress that the applicant alleges that he was unable to participate in the meetings of the High Council of Justice fixed for 31 May and 14 June 2011, at which dates his case had to be considered, because he had beforehand planned vacation in Czech Republic.
+
+<<748.34;755.22;en>>
+In support of the statement, the applicant added the copy of his passport with a visa to Czech Republic.
+
+<<755.22;760.06;en>>
+However, the visa was opened on 7 June 2011.
+
+<<760.06;769.38;en>>
+So the normal course of events, you plan vacation, you go to the tourist agency, you receive visa, you go on vacation.
+
+<<769.38;776.66;en>>
+In the present case, the applicant first gave himself holiday, then he received visa, and then he went to Czech Republic.
+
+<<779.74;786.7;en>>
+The government cannot agree that the fact of the visa issue confirmed the beforehand planning of the vacation and traveled to the other country.
+
+<<786.7;796.78;en>>
+Moreover, the first meeting as to the applicant's case before the High Council of Justice was to be held on 30 and 31 May 2011.
+
+<<796.78;807.66;en>>
+And it follows from the copy of the passport, the applicant left Ukraine and departed to Czech Republic only on 12 June 2011.
+
+<<807.66;828.02;en>>
+Due to the applicant's second failure to appear before the meeting of the High Council of Justice, the consideration of the question of his dismissal from the post of the President of the Court was held without his presence, as it was foreseen by the provision of law.
+
+<<828.02;835.94;en>>
+And on 14 June 2011, the decision on dismissal of the applicant from the post of the President of the Court was adopted.
+
+<<835.94;845.26;en>>
+As to what I would like, again, to address the questions which were put by the court to the government.
+
+<<845.26;874.26;en>>
+As a material time, the High Council of Justice consisted of 20 members, which were accordingly appointed by the Conference of the Judges of Ukraine, three members, by the All-Ukrainian Conference of the Representatives of Law Universities and Scientific Institutions, three members, by the Conference of the Attorneys of Ukraine, three members, by the Parliament of Ukraine, three members, and by All-Ukrainian Conference of the Servants of the Prosecutor's Office, two members, by the President of Ukraine, three members.
+
+<<874.26;878.06;en>>
+Also, the Minister of Justice of Ukraine, Mr. Lavrinovich
+
+<<878.06;885.74;en>>
+at the time, President of the Supreme Court of Ukraine, Mr. Lopenko, and the General Prosecutors of Ukraine,
+
+<<885.74;889.02;en>>
+Mr. Pshonka at the time, were ex-officio members
+
+<<889.02;890.54;en>>
+of the High Council of Justice.
+
+<<890.54;895.54;en>>
+Thus, Mr. Kolesnichenko, Mr. Kobelansky,
+
+<<897.22;902.22;en>>
+Mr. Kravchenko, Mr. Onopenko, Mrs. Otrosh,
+
+<<902.64;907.26;en>>
+Mrs. Tatkov, Mr. Tatkov, I'm sorry, Mr. Udovichenko,
+
+<<907.26;910.54;en>>
+and Mr. Fesenko were judges.
+
+<<910.54;915.54;en>>
+Ms. Izotseva, Mr. Vysotsky, and Mr. Safulko were attorneys.
+
+<<915.54;920.54;en>>
+Mr. Kavryluk, Mr. Kuzmin were deputies
+
+<<924.98;927.78;en>>
+of the General Prosecutor.
+
+<<927.78;930.7;en>>
+Mr. Shepeval was the President
+
+<<930.7;933.42;en>>
+of the Central Electoral Committee.
+
+<<933.42;938.42;en>>
+Mr. Kivalov and Mr. Pertnov were members of the Parliament.
+
+<<939.2;944.04;en>>
+Mr. Bondyk was a Deputy Minister of Justice of Ukraine.
+
+<<944.04;949.04;en>>
+Mr. Zavolnyuk was the President of the Institute
+
+<<949.46;951.82;en>>
+of Training of Professional Judges.
+
+<<951.82;958.3;en>>
+Thus, about almost half of the members of the Council of Justice were judges.
+
+<<962.64;984.42;en>>
+Turning to the legal side of the matter, I would like first to stress that it is the government's opinion that the now current Wilhel Esklenen test should be reviewed by the court.
+
+<<987.36;1004.18;en>>
+As we know, when, during the consideration of Wilhel Esklenen and others versus Finland case, the court considered that the current Willegrin test was insufficient.
+
+<<1005.22;1017.0;en>>
+It instead created a new two-step test, which involves the first step, the procedural requirement.
+
+<<1017.0;1035.12;en>>
+The national law must have expressly excluded access to a court for this type of disputes, and the substantive one, the civil servants in question should participate in the exercise of public power, and the subject matter of the disputing issue is related to the exercise of state power.
+
+<<1035.12;1058.84;en>>
+While Wilhel Esklenen explains at length the rationale behind the substantive requirement, showing with detail how the earlier Pelegrin test of purely functional approach towards the civil servants' labor dispute was unable to bring clarity to the matter, the appearance of the procedural test is not explained by the court at all.
+
+<<1058.88;1080.64;en>>
+This test, in our opinion, directly contradicts the dicta in Konyn that whether or not a right is to be regarded as a civil within the meaning of the convention must be determined by the reference to the substantive content and effect of the right, and not its legal classification under the domestic law.
+
+<<1080.64;1093.02;en>>
+However, Wilhel Esklenen test in its procedural part makes an exception from the above rule for the civil servants' labor disputes, rendering the domestic law decisive.
+
+<<1093.02;1113.36;en>>
+Moreover, the court was careful in Wilhel Esklenen to point out that certain other disputes remained outside the realm of Article VI, in particular assessment of taxes, matters of ancillary nationality and residence in the country, the adjudication of electoral disputes in respect of members of parliament.
+
+<<1113.36;1130.24;en>>
+However, with the same two-stage test applied to these cases, it is unlikely that they would fare much better against the procedural requirement than the civil servants' labor disputes.
+
+<<1130.24;1135.4;en>>
+There is a whole legal industry in all of the European countries in tax disputes.
+
+<<1135.4;1148.76;en>>
+The length and complicated adjudication of ancillary seekers is legendary in many countries, and legal challenging of the results of election is a widely spread partisan tactic of many political parties.
+
+<<1148.76;1153.52;en>>
+Moreover, there was a procedural requirement applied to the criminal head of Article VI.
+
+<<1153.52;1168.12;en>>
+It would have to be arguably extended to the victims of the crimes, who despite no right to private revenge under Article VI in the criminal procedures of member states, are normally accorded freestanding procedural status rights.
+
+<<1168.12;1191.52;en>>
+It is therefore the position of the government that the Wilka test should be limited only to the substantive step, namely that civil servants in question should participate in the exercise of public power, and the subject matter of the dispute and issue is related to the exercise of state power.
+
+<<1191.52;1205.12;en>>
+Were this test to be applied in this particular case, it would be obvious that Article VI should not be applied in the present case.
+
+<<1205.12;1224.48;en>>
+Alternatively, even if Wilka test is applicable and stands, we believe that Article VI should not be applied, and for the following reasons.
+
+<<1224.48;1242.52;en>>
+The government referred to court's judgment in the case of Oluzhich versus Kruatia, where the applicant who at the material time held the position of the president of the Supreme Court and the judge of the same court, was removed from both posts due to his, to the commitment of disciplinary offense.
+
+<<1242.52;1258.08;en>>
+In this case, the government argued that Article VI of convention was not applicable as the applicant's post as the president of the Supreme Court had involved by its very nature the exercise of power conferred by public law, and duties designed to safeguard the general interests of the state.
+
+<<1258.08;1292.76;en>>
+The court rejected this argument of the government of Kruatia, with reference to the fact that the applicant was dismissed not only from the post of the president of the Supreme Court, but also from his position as a judge, which by extension means that were the situation different, were the applicant dismissed only from the position of the president of the court, the European Court of Human Rights could come to a different conclusion.
+
+<<1292.76;1297.2;en>>
+Of course, there is always Baca versus Hungary.
+
+<<1305.56;1337.6;en>>
+It is the position of this government that it sides in its analysis, it sides with the analysis performed by Judge Wojtysiak in his dissenting opinion in Baca versus Hungary, that there is no right, there cannot be an individual civil right to exercise administrative function within the judiciary.
+
+<<1337.6;1357.4;en>>
+However, we all know that the majority of the Grand Chamber in Baca reached a different conclusion, finding that the right for an office holder to serve a term of office until such time as it expires, or until his or her judicial mandate came to an end.
+
+<<1357.4;1363.0;en>>
+However, the government submits that the present case is sharply distinguishable from that of Baca.
+
+<<1363.0;1373.88;en>>
+In particular, the applicant's dismissal was not a political vengeance for the exercise of free speech, but a mundane removal of a functionary who had failed in his duties.
+
+<<1373.88;1390.48;en>>
+The applicant was not removed from the office by specifically tailored constitutional legislation, but through an ordinary procedure, which was in substance the same as that which was in place when the applicant was appointed in 2009 to his position.
+
+<<1390.48;1400.48;en>>
+In other words, the applicant, when applying to the contested post, implicitly agreed to the fact that he could be removed following the procedure in issue.
+
+<<1413.12;1420.0;en>>
+In other words...
+
+<<1420.0;1437.04;en>>
+In other words, it could come to the conclusion that there was a violation of Article VI because the procedure by which the applicant was dismissed was not insufficient, was wrong, violated Article VI.
+
+<<1437.04;1466.84;en>>
+That would basically mean that the applicant, when he was appointed to his position in 2009, could not be removed by that same procedure which existed when he was appointed, and the government had to change the whole procedure in order to be able to remove a person who so obviously failed in his duties.
+
+<<1466.84;1473.64;en>>
+Therefore, the government reiterates that this case is a simple act of removal of an inept manager performed by the judiciary itself.
+
+<<1473.64;1481.28;en>>
+It has a direct relevance to the failure properly performed by the applicant of the public powers conferred on him.
+
+<<1481.28;1489.24;en>>
+For this reason, the government believes that the applicant's complaint under Article VI is inadmissible or shall not be carried.
+
+<<1489.24;1511.36;en>>
+As to the applicant's claims under Article VIII of the Convention, taking into account the applicant's claims, the government notes that in the court's case law, the private life income passes the right for an individual to form and develop relationships with other human beings, including relationships of a professional and business nature.
+
+<<1511.36;1524.84;en>>
+Article VIII of the Convention protects a right to personal development and the right to establish and develop relationships with other human beings and the outside world, the British versus the United Kingdom.
+
+<<1524.84;1530.84;en>>
+Therefore, restrictions imposed on access to a profession have been found to affect private life.
+
+<<1530.84;1547.68;en>>
+Likewise, dismissal from the office has been found to interfere with the right to respect for private life, where it was a result of investigation involving the aspects of the applicant's private life, or spinner versus turkey.
+
+<<1547.68;1555.32;en>>
+It is the government's position that the exercise of the administrative functions within the given court does not fall within the ambit of Article VIII.
+
+<<1555.32;1567.92;en>>
+Unlike applicants in Alexander Volkov versus Ukraine, the applicant in the present case was not dismissed from the office altogether, but was removed from administrative office in the Court of Appeal.
+
+<<1567.92;1576.84;en>>
+It would be stretching the notion of private life to the limit if the court were to read in it the right to occupy a given administrative position.
+
+<<1576.84;1581.92;en>>
+Therefore, this complaint should be rejected as being incompatible with shown in the material.
+
+<<1581.92;1592.48;en>>
+Even if the court were to find that private life involves the right to occupy the position of the president of a court, the removal from the office had very little impact on the applicant's private life.
+
+<<1592.48;1601.84;en>>
+The investigation of the counsel was strictly limited to the exercise by the applicant of his public functions and had no inroads into the private life.
+
+<<1601.84;1608.36;en>>
+The applicant probably had to change office within the same building and received a slightly lower salary.
+
+<<1608.36;1620.52;en>>
+This interference appears to fall short of the significant disadvantage test that should be rejected under Article 35, paragraph three, B, and four of the convention.
+
+<<1620.52;1635.96;en>>
+Finally, even assuming that there was interference that reached the requisite level of severity, the government submits that unlike in Alexander Volkov case, the law under which the applicant was dismissed from his position was sufficiently clear and foreseeable.
+
+<<1635.96;1646.76;en>>
+The interference pursued obviously legitimate aims of public safety, the economic well-being of the country, the prevention of disorder of crime, and the protection of rights of the freedoms of others.
+
+<<1646.76;1663.88;en>>
+The applicant's obvious failure to exercise his administrative duties in the proper manner threatened the orderly administration of justice in the Court of Appeal, which by extension put at risk the administrative justice in several regions covered by the Court of Appeal's jurisdiction.
+
+<<1663.88;1675.08;en>>
+Finally, the interference was necessary in democratic society given the significance of the public interest at stake and the relatively insignificant significance of interference.
+
+<<1675.72;1690.28;en>>
+Therefore, the applicant's complaints under Article 8 are manifestly founded within the meaning of Article 35, paragraph three of the convention, or alternatively, there was no violation of the applicant's right under Article 8 of the convention.
+
+<<1690.28;1702.08;en>>
+As to the applicant's claims concerning Article 1 of Protocol 1, as to the reduction of his salary and subsequently a reduction of his pension due to his dismissal from the position of the President of the Court, the government knows the following.
+
+<<1702.08;1710.1;en>>
+It is true that the dismissal precluded the applicant from receiving a salary and subsequently pension as the President of the Court.
+
+<<1710.1;1717.96;en>>
+However, that future income had neither been earned nor was it definitely payable.
+
+<<1717.96;1730.08;en>>
+Besides, Article 1 of Protocol 1 does not guarantee as such any right to receive the salary of a given amount, nor does it guarantee as such any right to a pension or of a particular amount.
+
+<<1730.08;1734.92;en>>
+The future income in question cannot be considered as an earned one.
+
+<<1734.92;1742.44;en>>
+Furthermore, there is no enforceable claim concerning future salary as well as future pension, which would constitute possession.
+
+<<1742.44;1768.24;en>>
+In conclusion, this complaint, which is based upon the diminution of the value of the salary and pension assessed by the future income and position and which amount to claim for the loss of future income, falls outside the scope of Article 1 of Protocol 1, as therefore should be declared inadmissible as being manifestly unfounded within the meaning of Article 35, Paragraph 3 and 4 of the Convention.
+
+<<1768.24;1773.08;en>>
+Moreover, the Convention and its Protocol do not provide for a right to employment.
+
+<<1773.08;1783.68;en>>
+And the Court reiterated that further income cannot be considered as constituting possession unless it has already been earned or is definitely payable.
+
+<<1783.68;1788.88;en>>
+There is no right under the Convention to continue to be paid a salary of a particular amount.
+
+<<1788.88;1791.24;en>>
+See Baca v. Hunger.
+
+<<1791.24;1798.2;en>>
+In this connection, the Government object to Article 18 of the applicant's representative submissions to the Grand Chamber.
+
+<<1798.2;1809.68;en>>
+In the present case, the Government considers that the applicant complains that because of his dismissal he lost potential future income, namely his salary.
+
+<<1809.68;1814.92;en>>
+It is true that the dismissal precluded the applicant from receiving a future salary in the post.
+
+<<1814.92;1817.8;en>>
+He had held prior to the dismissal.
+
+<<1817.8;1824.24;en>>
+However, that future income had neither been earned nor was it definitely payable.
+
+<<1824.24;1830.72;en>>
+It follows that the complaint under Article 1 of Protocol 1 is incompatible or shown immaterial with the provisions of the Convention.
+
+<<1830.72;1841.16;en>>
+As to Article 13 of the Convention, it is to be noted that even as human, that the applicant has an arguable claim to be victim of a violation of the Convention right.
+
+<<1841.16;1858.24;en>>
+The Government reiterates that where, as an instant case, the applicant alleged a violation of the rights conferred by the Convention by the final judicial authority of the domestic legal system, the application of Article 17 is implicitly restricted.
+
+<<1858.24;1869.36;en>>
+Therefore, the absence of a remedy against the decision of the High Administrative Court's resolution does not raise an issue under Article 13 of the Convention.
+
+<<1869.36;1895.48;en>>
+As to paragraphs 123, 139, as to violation of Article 18 of the Convention, paragraphs of the statement of the applicant, the Government notes that, firstly, the Court did not note the relevant question to the parties.
+
+<<1895.48;1902.76;en>>
+And secondly, the Government is of the opinion that the circumstances of the case do not disclose the violation of the above article.
+
+<<1902.76;1922.68;en>>
+Taking the above into consideration, the Government is of the opinion that, in fact, the applicant's demotion due to insufficient fulfillment of the duties at his post as the President of the Administrative Court of Appeal should not be considered as a violation of any of the provisions of the Convention.
+
+<<1922.68;1922.68;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1924.7;1928.11;en>>
+Thank you very much, Mr. Lishchyna.
+
+<<1928.11;1931.11;en>>
+And I call now Mrs. Gavron. Please, you have the floor.
+
+[[Applicant;AP1]]
+
+<<1935.47;1938.43;en>>
+Mr. President, the dismissal of Mr. Denisov
+
+<<1938.43;1946.27;en>>
+as president of the Kiev Administrative Court of Appeal was in flagrant breach of the requirements of a fair and impartial hearing.
+
+<<1946.27;1958.77;en>>
+The circumstances surrounding his dismissal demonstrate overt political interference in the senior judiciary, constituting a deliberate attack on the fundamental principle of the separation of powers.
+
+<<1958.77;1968.23;en>>
+The lack of independence of the judiciary in Ukraine at the time is well known to this court, notably from Volkov and the 18 judges in Kuliakov this year.
+
+<<1968.23;1975.79;en>>
+It has also been criticized by the Venice Commission, the Parliamentary Assembly, and the Commissioner for Human Rights.
+
+<<1975.79;1980.97;en>>
+In response to the facts as alleged by the government, we refer the court to our written submissions.
+
+<<1980.97;1989.89;en>>
+Today, I will focus on aspects of Article 6 and 18, and Mr. Halban will address the court on Article 8.
+
+<<1989.89;1991.13;en>>
+Article 6.
+
+<<1991.13;1996.89;en>>
+We note that the government does not argue that the Vilhoeska-Leinen test would be satisfied in this case.
+
+<<1996.89;2012.65;en>>
+Instead, it has urged the court to reconsider the test, contending that its emphasis on the availability of a judicial remedy domestically could extend the remit of Article 6 to disputes over taxation, asylum, and elections.
+
+<<2012.65;2030.13;en>>
+We say this is to misunderstand the nature and application of the test, which recognizes that there is often no conflict between the interests of the state and the employment rights of civil servants, and therefore leaves it to member states to identify the areas where there is a conflict.
+
+<<2030.13;2036.65;en>>
+The court has thus held that employment disputes by public servants, in principle, fall within the scope of Article 6.
+
+<<2036.65;2047.71;en>>
+As the government acknowledges, the court has been explicit that the Esker-Leinen test, as with Pellegrin before it, applies exclusively to civil servants' disputes over employment rights.
+
+<<2047.71;2057.33;en>>
+It has no bearing on matters that do not concern a civil right and fall outside Article 6 altogether, such as tax and immigration.
+
+<<2057.33;2063.79;en>>
+The court has relied on the Esker-Leinen test for 10 years, confirming that Article 6.1 applies to civil proceedings
+
+<<2063.79;2074.53;en>>
+relating to the terms of employment and functions of judges, including their dismissal, Volkov and Kuliakov, and the removal of the president of a Supreme Court, Bakker.
+
+<<2074.53;2077.71;en>>
+On one level, this case concerns an employment dispute.
+
+<<2077.71;2079.65;en>>
+Mr. Denisov was appointed president
+
+<<2079.65;2084.33;en>>
+of the Kiev Administrative Court of Appeal in 2009 for a five-year term.
+
+<<2084.33;2092.49;en>>
+He was dismissed as president in June 2011 under the laws on the judiciary and status of judges and the High Council of Justice.
+
+<<2092.49;2101.61;en>>
+Under Article 171 of the Code of Administrative Justice, 2005, he could challenge his dismissal before the higher administrative court.
+
+<<2101.61;2110.81;en>>
+There was clearly then a right in domestic law and an express provision for judicial review of its termination, as in Bakker.
+
+<<2110.81;2122.45;en>>
+That the employment right in question is to his tenure as president of the court rather than as judge makes the applicability of Article 6 no less, if not more, important in our submission.
+
+<<2122.45;2129.77;en>>
+Judges are in a structurally different position to government civil servants, far from being answerable to government.
+
+<<2129.77;2139.69;en>>
+The role of judges is to ensure that the government functions within the law, and this is predicated on their independence from the executive and the legislature.
+
+<<2139.69;2151.17;en>>
+Therefore, in cases concerning the judiciary, the exclusion of access to a court should never be justifiable on the basis of government discretion under the second limb of the Escalinan test.
+
+<<2151.17;2161.37;en>>
+We submit that in cases concerning the appointment, terms of office, and dismissal of judges, Article 6 should always apply or be strongly presumed to.
+
+<<2161.37;2171.85;en>>
+The court will be familiar with the international standards on the independence of the judiciary, which establish the importance of the irremovability of judges and court presidents without distinction.
+
+<<2171.85;2174.33;en>>
+These are cited in our written submissions.
+
+<<2174.33;2182.13;en>>
+And the need for procedural guarantees to preserve their independence, including due process by an independent body.
+
+<<2182.13;2189.69;en>>
+Court presidents typically have powers over judicial appointments, promotions, salaries, and benefits, and assign cases to judges.
+
+<<2189.69;2203.07;en>>
+The International Commission of Jurists, as intervenors in this case, and the Consultative Council of European Judges emphasize the importance of the role of court presidents as guarantor of the court's independence.
+
+<<2203.07;2209.73;en>>
+Therefore, procedural guarantees afforded to judges should a fortiori be applied to court presidents.
+
+<<2209.73;2217.85;en>>
+These guarantees protect an individual judge from unlawful interference in order to protect the integrity of the judiciary as a whole.
+
+<<2217.85;2227.17;en>>
+Safeguarding the independence of individual judges is a prerequisite for an independent judiciary, as recognized by this court in agro-contracts.
+
+<<2227.17;2238.97;en>>
+Judge Sicilianos, in his concurring opinion in Baca, sets out persuasive reasons for recognizing the right of individual judges to judicial independence as inherent in the protections of Article 6.
+
+<<2238.97;2242.97;en>>
+This would strengthen the protection afforded to judges under the convention.
+
+<<2242.97;2253.61;en>>
+For instance, in circumstances where political pressure is brought to bear on a judge without an interference in the exercise of a separate convention right.
+
+<<2253.61;2257.93;en>>
+The government relies on the dissenting opinion of Judge Wojciech in Baca.
+
+<<2257.93;2268.31;en>>
+We say that the early removal of a court president is not akin to a political vote of no confidence or to the inherent insecurity of political office.
+
+<<2268.31;2271.01;en>>
+Judge Wojciech states that the removal of Mr. Baca
+
+<<2271.01;2282.21;en>>
+as president of the Supreme Court, I quote, concerns a public law dispute between two state organs over their respective positions and the scope of their powers.
+
+<<2282.21;2292.33;en>>
+This may be a description of what occurred in Baca, but it is not a description of the rule of law and the separation of powers in a democracy.
+
+<<2292.33;2298.19;en>>
+Further, we say that no such inference is possible from the case of Wojciech.
+
+<<2298.19;2303.01;en>>
+The court did not address the issue of removal of a court president.
+
+<<2303.01;2311.49;en>>
+This case concerns the same right at issue as Baca and falls more squarely within Article 6, according to the Escalonian test, than that case.
+
+<<2311.49;2314.97;en>>
+I'll now turn to the issue of independence and impartiality.
+
+<<2314.97;2327.69;en>>
+The High Council of Justice failed every test of independence in its composition, the subordination of its members to other state bodies, and in the personal bias of its members towards Mr. Deniso.
+
+<<2327.69;2336.93;en>>
+We refer the court to its findings in Volkov and the Venice Commission opinion on the structural deficiencies of the High Council of Justice, which compromise its independence.
+
+<<2336.93;2344.09;en>>
+Despite amendments in July 2010 to increase the number of judges, only three were elected by their peers.
+
+<<2344.09;2353.41;en>>
+This court and the Venice Commission have criticized the inclusion of the prosecutor general as ex officio member as potentially deterring judges from acting independently.
+
+<<2353.41;2364.65;en>>
+In the words of the Venice Commission, the risk of politicization of disciplinary proceedings is high and can have a chilling effect on judges, thus weakening their independence.
+
+<<2364.65;2369.97;en>>
+Members of the High Council of Justice deciding Mr. Deniso's case on the 14th of June 2011,
+
+<<2369.97;2377.55;en>>
+as we've heard, included members of the governing party, Mr. Bondyk, deputy minister of justice,
+
+<<2377.55;2380.93;en>>
+from what we've just been told, Mr. Kivalov,
+
+<<2380.93;2385.17;en>>
+and formerly Mr. Fesenko, the prosecutor general of Ukraine,
+
+<<2385.17;2387.89;en>>
+Mr. Pshonka, the deputy prosecutor generals
+
+<<2387.89;2391.45;en>>
+Kavryluk and Mr. Kuzmin, the deputy chief of staff
+
+<<2391.45;2393.77;en>>
+to the president, Mr. Portnov, chairman
+
+<<2393.77;2396.45;en>>
+of the Central Election Committee, Mr. Shapoval,
+
+<<2396.45;2399.33;en>>
+Mr. Koblyansky, chairman of the Council of Judges,
+
+<<2399.33;2403.49;en>>
+who was appointed to the High Council of Justice by President Yanukovych.
+
+<<2403.49;2412.29;en>>
+Clearly, this was not a panel that could be said to be independent, nor was it impartial, either objectively or subjectively.
+
+<<2412.29;2419.01;en>>
+A number of its members had instigated or threatened dismissal proceedings against Mr. Denisov.
+
+<<2419.01;2421.91;en>>
+Mr. Bondyk proposed Mr. Denisov's dismissal
+
+<<2421.91;2426.57;en>>
+from office for breach of oath on the 21st of January 2010.
+
+<<2426.57;2433.45;en>>
+On the 27th of January, during the presidential elections, he maintained an intimidating vigil at Mr. Denisov's court,
+
+<<2433.45;2437.41;en>>
+with a number of other MPs to monitor cases.
+
+<<2437.41;2443.89;en>>
+On 2nd February 2010, he sent a defamatory letter to all judges of Ukraine, accusing Mr. Denisov
+
+<<2443.89;2447.61;en>>
+of unlawful and unethical conduct in office.
+
+<<2447.61;2451.05;en>>
+Mr. Zavalnyuk had also submitted a petition
+
+<<2451.05;2452.93;en>>
+against Mr. Denisov for breach of oath
+
+<<2452.93;2456.17;en>>
+on the 20th of May 2007.
+
+<<2456.17;2459.47;en>>
+Mr. Kolesnichenko, chairman of the High Council of Justice,
+
+<<2459.47;2463.43;en>>
+had telephoned Mr. Denisov on the 20th of June 2010
+
+<<2463.43;2468.79;en>>
+to demand that he fined for the authorities in the UNESCO land transfer case.
+
+<<2468.79;2475.63;en>>
+He repeatedly used the two breach of oath petitions just mentioned against Mr. Denisov, abusively,
+
+<<2475.63;2485.41;en>>
+to threaten him by scheduling High Council of Justice meetings to decide the petitions to deliberately coincide with the dates of the court hearings in the UNESCO case.
+
+<<2485.41;2489.13;en>>
+Mr. Portnov, deputy chief of staff to President Yanukovych,
+
+<<2489.13;2492.09;en>>
+summoned Mr. Denisov in January 2011
+
+<<2492.09;2495.13;en>>
+to discuss his retention as court president.
+
+<<2495.13;2499.01;en>>
+Mr. Portnov asked him to affirm his loyalty to the president.
+
+<<2499.01;2501.09;en>>
+When Mr. Denisov refused, he threatened
+
+<<2501.09;2505.05;en>>
+that the Council of Judges would have him dismissed.
+
+<<2505.05;2507.73;en>>
+Mr. Koblyansky was chairman of the Council of Judges
+
+<<2507.73;2510.45;en>>
+and a judge at the Higher Administrative Court.
+
+<<2510.45;2514.27;en>>
+In February 2011, together with Mr. Pasyniuk,
+
+<<2514.27;2526.53;en>>
+president of the Higher Administrative Court, he revised the Council of Judges' investigation into all administrative courts of Ukraine to focus instead on the Kiev Administrative Court of Appeal.
+
+<<2526.53;2533.21;en>>
+He submitted the Council of Judges' proposal to dismiss Mr. Denisov to the High Council of Justice.
+
+<<2533.21;2539.33;en>>
+Under Article 26 of the law on the High Council of Justice, these members should have recused themselves from the panel.
+
+<<2539.33;2549.89;en>>
+The High Council of Justice's procedure in this case demonstrates its lack of impartiality, including its decision to proceed in Mr. Denisov's absence, despite being reliably
+
+<<2549.89;2558.57;en>>
+and repeatedly informed by the acting head of the court that he was abroad on annual leave and could not be notified of the hearing.
+
+<<2558.57;2562.49;en>>
+These failings were not remedied by the Higher Administrative Court.
+
+<<2562.49;2572.83;en>>
+First, we rely on the court's findings in Volkov regarding the Higher Administrative Court, namely its inability to quash decisions, the fact that its president, Mr. Pasyniuk,
+
+<<2572.83;2585.85;en>>
+continued in office after his term had expired and selected the chamber reviewing the High Council of Justice decisions, and that its judges are themselves subject to the disciplinary proceedings by the High Council of Justice.
+
+<<2585.85;2592.05;en>>
+Second, the hack was neither structurally nor individually impartial in Mr. Denisov's case.
+
+<<2592.05;2594.21;en>>
+Mr. Pasyniuk was personally involved
+
+<<2594.21;2599.01;en>>
+in narrowing the Council of Judges investigation to focus on Mr. Denisov's court.
+
+<<2599.01;2607.21;en>>
+All but one of the investigative panel were Higher Administrative Court judges or employees subordinate to Mr. Pasyniuk,
+
+<<2607.21;2613.05;en>>
+and none of those 12 members of the Council of Judges.
+
+<<2613.05;2615.25;en>>
+The judges deciding on Mr. Denisov's appeal
+
+<<2615.25;2623.41;en>>
+were therefore assessing the evidential value of a report by their colleagues at the court, the only evidence in the case.
+
+<<2623.41;2626.05;en>>
+There was no lawful authority for Mr. Pasyniuk's role
+
+<<2626.05;2628.01;en>>
+in the work of the Council of Judges.
+
+<<2628.01;2634.33;en>>
+Court presidents and vice presidents are excluded from being members of the Council of Judges.
+
+<<2634.33;2641.29;en>>
+Third, the Higher Administrative Court made no genuine attempt to address any of Mr. Denisov's arguments
+
+<<2641.29;2663.53;en>>
+critical to the legality of the High Council of Justice decision, including his allegations of bias of its members, the failure to give him an opportunity to attend the hearing, and the lack of detail in the High Council of Justice's findings against him, which concluded that he had breached unspecified provisions of an unidentified number of laws.
+
+<<2663.53;2666.77;en>>
+These arguments were dismissed as unconvincing.
+
+<<2666.77;2680.73;en>>
+The Council of Judges report, which had not been tested at the Council of Judges meeting of 20th of May, nor by the High Council of Justice in the dismissal hearing, was again assumed to be proven without examination.
+
+<<2680.73;2693.41;en>>
+The Higher Administrative Court, therefore, did not demonstrate the requisite independence, impartiality, and failed to provide a reason judgment contrary to Article 6.1.
+
+<<2693.41;2696.41;en>>
+I'll now turn to Article 18.
+
+<<2696.41;2698.81;en>>
+Mr. President, we submit that this case
+
+<<2698.81;2710.81;en>>
+discloses a violation of Article 18 of the Convention, together with Article 6 and 8, as demonstrated by the extensive evidence relied on by Mr. Denisov in his application to the Court.
+
+<<2710.81;2717.05;en>>
+This Court's approach to the application of Article 18 to Article 6 has not been consistent.
+
+<<2717.05;2725.41;en>>
+In Gusinsky in 2004, the Court considered both the criminal proceedings and the resulting detention in its determination of Article 18.
+
+<<2725.41;2745.17;en>>
+In Khodorkovsky and Lebedev, 2013, the Court presumed that Article 18 applied and proceeded straight to an assessment of the merits, concluding, and I quote, insofar as the criminal proceedings at the heart of the present case are concerned, the Court cannot find that Article 18 was breached.
+
+<<2745.17;2760.57;en>>
+Whereas in Navalny and Ospitserov, and yesterday's judgment in Navalny, a slim majority of four judges to three held that Article 6 does not contain any express or implied restrictions that could allow examination under Article 18.
+
+<<2760.57;2769.29;en>>
+It is now essential that the Grand Chamber clarifies its approach to this provision, which addresses the gravest threats to democracy before this Court.
+
+<<2769.29;2777.45;en>>
+We submit that not only is there no bar to its application to Article 6, but that there are compelling reasons for applying it.
+
+<<2777.45;2790.29;en>>
+We agree with the dissenting opinion of judges Keller, Dedov, Nikolaou, and Sagaidis, in both Navalny judgments, that the travaux preparatoire do not support a restrictive interpretation.
+
+<<2790.29;2795.09;en>>
+The proposal initially submitted in 1949 by the rapporteur Mr. Teichkin
+
+<<2795.09;2806.29;en>>
+refers to the rights and freedoms guaranteed in the Convention, and states, these rights and freedoms may in no case be exercised contrary to the aims and principles of the Council of Europe.
+
+<<2806.29;2819.65;en>>
+Article 18 was and is intended to apply to all the rights and freedoms in the Convention, to protect democratic values and to prevent the encroachment of authoritarianism.
+
+<<2819.65;2824.13;en>>
+That danger was a real concern then, and is again now.
+
+<<2824.13;2835.97;en>>
+The Grand Chamber has underlined that democracy is the only political model contemplated by the Convention, and accordingly, the only one compatible with it, United Communist Party of Turkey.
+
+<<2835.97;2844.21;en>>
+It is generally accepted that modern democracies are founded on the separation of powers, and that the judiciary is one of three equal pillars of a democratic state.
+
+<<2844.21;2858.29;en>>
+Its role is to ensure the rule of law and safeguard democracy, and the deliberate undermining of the separation of powers and the independence of the judiciary is then exactly the territory for Article 18.
+
+<<2858.29;2863.65;en>>
+Notably, this is the first case before the Court concerning its application to a judge.
+
+<<2863.65;2873.41;en>>
+In both Navalny judgments, the majority dealt with Article 18 and 6 in one sentence and took, we submit, an overly literal and semantic approach.
+
+<<2873.41;2877.85;en>>
+Article 18 was not intended to be construed so restrictively.
+
+<<2877.85;2882.73;en>>
+In any case, Article 6, in fact, contains restrictions.
+
+<<2882.73;2891.37;en>>
+As with Articles 5, 8, 9, 10, and 11, Article 6 is a derogable right, and its guarantees are therefore not absolute.
+
+<<2891.37;2894.77;en>>
+This Court well knows the restrictions that it applies.
+
+<<2894.77;2900.89;en>>
+The right of access to a court can be limited if pursuing a legitimate aim with proportionality.
+
+<<2900.89;2907.25;en>>
+The overall fairness test means that a serious defect in an earlier trial can be rectified by a later hearing.
+
+<<2907.25;2916.01;en>>
+In Ibrahim against the UK, the Court balanced the fundamental guarantee of access to a lawyer against national security considerations.
+
+<<2916.01;2921.33;en>>
+Even the key principle of the presumption of innocence is not absolute.
+
+<<2921.33;2933.85;en>>
+So, in fact, Article 6 procedural guarantees can be restricted on certain public interest grounds as long as the overall fairness of proceedings are not compromised.
+
+<<2933.85;2944.93;en>>
+Given the inherent risk of grave restrictions on rights in the determination of a criminal charge or a civil right, the purpose of Article 6 is to make sure that these restrictions are applied fairly.
+
+<<2944.93;2953.61;en>>
+We therefore submit that the framing of Article 6 is not and should not be a barrier to the application of Article 18.
+
+<<2953.61;2982.93;en>>
+On the contrary, a classic tool of authoritarianism to silence critics is to bring proceedings against them in which the outcome is predetermined, restricting the application of Article 18 to political charges under Article 5, but not to the criminal proceedings that follow, is artificial and draws a line, a difficult line to draw, as this Court has acknowledged in both Litsenko at paragraph 108 and Timoshenko at 298.
+
+<<2982.93;2996.45;en>>
+This Court found in both Mamadov and Jafarov that charges against an Azerbaijani opposition politician and a human rights defender were not grounded in evidence and in the context of each case were politically motivated.
+
+<<2996.45;2999.17;en>>
+However, Mr. Mamadov is not in prison today
+
+<<2999.17;3001.61;en>>
+solely because of those charges.
+
+<<3001.61;3008.37;en>>
+An independent and impartial tribunal would have found them baseless, as this Court did.
+
+<<3008.37;3013.77;en>>
+Trump-topped charges only succeed if the outcome of the case is predetermined.
+
+<<3013.77;3018.97;en>>
+This requires the collusion of the judiciary, which brings us back to Mr. Denisov.
+
+<<3018.97;3033.05;en>>
+The evidence shows that his dismissal was not only a foregone conclusion, but a punishment for his refusal to compromise his judicial independence to predetermine the outcome of decisions in the government's favor.
+
+<<3033.05;3037.93;en>>
+A priority for authoritarian governments is to capture the courts.
+
+<<3037.93;3042.69;en>>
+The most effective way in which to do so is by the key role of court presidents.
+
+<<3042.69;3051.85;en>>
+Once this capture is achieved, new laws will not be held unconstitutional, dissenters can be locked up, and the government will be beyond the count.
+
+<<3051.85;3054.57;en>>
+This is not some far-fetched scenario.
+
+<<3054.57;3061.65;en>>
+This Court has dealt with these issues in Azerbaijan, Ukraine, Hungary, and perhaps Russia.
+
+<<3061.65;3069.85;en>>
+We are watching it happen in Poland, where proposed laws to bring the judiciary under government control nearly caused the EU to trigger Article 7.
+
+<<3069.85;3082.81;en>>
+Even now, President Duda is proposing laws that violate the Polish Constitution, including replacing the Judicial Council before the end of its constitutional term and allowing Parliament to re-elect its judicial members.
+
+<<3082.81;3087.37;en>>
+It is, therefore, a crucial issue for Europe today.
+
+<<3087.37;3107.25;en>>
+However, since Article 5 does not apply to civil proceedings, if the Court precludes Article 18 from applying to Article 6, it can never find civil proceedings to violate Article 18, no matter how abusive or undermining of democracy.
+
+<<3107.25;3110.41;en>>
+The evidence of political motivation in this case is overwhelming.
+
+<<3110.41;3119.45;en>>
+It is incontrovertible that at the time, the Ukrainian judiciary was subject to routine political interference, as widely denounced by the Council of Europe bodies.
+
+<<3119.45;3125.69;en>>
+This Court has adjudicated a number of high-profile and politicized dismissals of Ukrainian judges.
+
+<<3125.69;3127.53;en>>
+There is compelling evidence that Mr.
+
+<<3127.53;3135.13;en>>
+Denisov was subjected to systematic and overt political threats to his independence, culminating in his dismissal.
+
+<<3135.13;3139.89;en>>
+Notably, the harassment began during the elections of 2010.
+
+<<3139.89;3149.97;en>>
+This included, but was not confined to, at least six letters from the prosecutor's office between November 2009 and January 2010 summoning Mr. Denisov and other judges
+
+<<3149.97;3154.21;en>>
+to explain their decisions in cases relating to the elections.
+
+<<3154.21;3164.45;en>>
+The behavior of MPs and High Council of Justice members, Bondi, Kolesnichenko, and Fesenko, all of whom sat on the panel that dismissed Mr. Denisov,
+
+<<3164.45;3179.73;en>>
+and Deputy Prosecutor General Kudriyavtsov, also a High Council of Justice member, who kept an intimidating vigil at the Court during the presidential elections, unlawfully accessing the restricted case database, and threatening Mr. Denisov with dismissal
+
+<<3179.73;3181.73;en>>
+and criminal proceedings.
+
+<<3181.73;3183.97;en>>
+Mr. Bondi's draft resolution to Parliament
+
+<<3183.97;3186.09;en>>
+calling for Mr. Denisov's dismissal,
+
+<<3186.09;3196.49;en>>
+despite it having no power to do so, and the defamatory letter he sent to the whole Ukrainian judiciary accusing Mr. Denisov of his unlawful conduct as a judge.
+
+<<3196.49;3200.25;en>>
+And of course, Mr. Portnov's explicit face-to-face threat
+
+<<3200.25;3203.25;en>>
+to have Mr. Denisov dismissed by the Council of Judges
+
+<<3203.25;3209.45;en>>
+for failing to swear loyalty to President Yanukovych in January 2011.
+
+<<3209.45;3211.73;en>>
+The investigation into Mr. Denisov's court
+
+<<3211.73;3214.13;en>>
+began a few weeks later.
+
+<<3214.13;3236.25;en>>
+This extraordinary level of political interference caused the Council of Judges to respond on 2 February 2010, calling on judges to resist blackmail and demanding that the Prosecutor General and MPs halt their political interference in the Kiev Administrative Court of Appeal, and specifically towards Mr. Denisov as court president.
+
+<<3236.25;3240.17;en>>
+Mr. Denisov himself vigorously defended his independence.
+
+<<3240.17;3248.13;en>>
+On 18 November 2009, he wrote to the Prosecutor General's office stating that it was unlawfully interfering in the Court's work.
+
+<<3248.13;3259.53;en>>
+On 2 February 2010, he wrote to the OSCE election mission denouncing the interference of MPs and the Prosecutor General during the elections.
+
+<<3259.53;3270.21;en>>
+On 3 March 2010, he wrote to Parliament requesting that it disavow the allegations made against him in the letter of MPs Bondyk and Pritika.
+
+<<3270.21;3285.81;en>>
+On 10 December 2010, he wrote to the High Council of Justice Chairman and the President of Ukraine objecting to the repeated use of the breach of oath petitions against him and requesting that the petitions be resolved.
+
+<<3285.81;3301.21;en>>
+This case shows a direct attack on democratic accountability by the deliberate removal of the applicant as head of the court that judicially reviews government decisions because he refused to compromise his judicial independence.
+
+<<3301.21;3304.97;en>>
+This is a separate issue to fair trial.
+
+<<3304.97;3319.81;en>>
+Article 6 cannot encompass the level of political interference in this case, nor can it convey the deliberate undermining of the separation of powers and the rule of law that was the real motive behind Mr Denisov's dismissal.
+
+<<3319.81;3322.89;en>>
+That is the job of Article 18.
+
+<<3322.89;3324.89;en>>
+I will now hand over to Mr Halban.
+
+<<3324.89;3324.89;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3326.41;3328.97;en>>
+Thank you very much Mrs. Gavron. Now Mr. Halban. You have seven minutes, please.
+
+<<3328.97;3330.97;en>>
+Thank you.
+
+[[Applicant;AP2]]
+
+<<3333.47;3336.27;en>>
+Thank you, Mr. President.
+
+<<3336.27;3339.23;en>>
+Mr. President, we submit that Mr. Deniso's dismissal
+
+<<3339.23;3345.99;en>>
+as president of the Court of Appeal also violates his right to respect his private life under Article 8.
+
+<<3345.99;3360.31;en>>
+It is well established that private life includes the right to form and develop relationships, including professional relationships, and that it can be affected by restrictions on access to professions and by dismissal from office.
+
+<<3360.31;3367.83;en>>
+The right also covers the protection of honor and reputation as part of a person's psychological integrity and identity.
+
+<<3367.83;3379.19;en>>
+Reputation is protected even if a person is criticized in a public debate, as in FIFA, or by criticism of his conduct in office, as in Kyriakides.
+
+<<3379.19;3384.31;en>>
+This court's decision in Ermeni has materially similar facts to the present case.
+
+<<3384.31;3396.11;en>>
+The court found that the applicant's dismissal as vice president of the Supreme Court of Hungary, but his retention as an ordinary judge of the court, violated his right to private life.
+
+<<3396.11;3399.14;en>>
+In this case, Mr. Deniso's dismissal as president
+
+<<3399.14;3406.29;en>>
+interfered with his private life, including his professional relationships, reputation, and standing.
+
+<<3406.29;3412.87;en>>
+His appointment as president was the culmination of his legal career.
+
+<<3412.87;3420.27;en>>
+The court was the second highest administrative court in Ukraine, and critically, it was the court which held the government to account.
+
+<<3420.27;3423.67;en>>
+The role of president was an important and prestigious one.
+
+<<3423.67;3426.95;en>>
+It was key to safeguarding the court's independence.
+
+<<3426.95;3430.61;en>>
+It was no mere adjunct position.
+
+<<3430.61;3440.19;en>>
+The circumstances culminating in his dismissal and the conduct of the proceedings are critical for the assessment of the interference under Article 8.
+
+<<3440.19;3443.67;en>>
+We wish to highlight two aspects.
+
+<<3443.67;3450.27;en>>
+First, as you have heard, on the 2nd of February, 2010, Mr. Bondik sent a letter to every judge in Ukraine
+
+<<3450.27;3452.47;en>>
+about Mr. Denisov.
+
+<<3452.47;3464.85;en>>
+It contained false defamatory allegations, accusing him of blatant misconduct, knowingly delivering illegal judgments, and violating his independence and impartiality.
+
+<<3464.85;3472.37;en>>
+This letter was part of a campaign of character assassination and political harassment against Mr. Denisov.
+
+<<3472.37;3476.37;en>>
+Just days before, Mr. Bondik had proposed his removal
+
+<<3476.37;3478.35;en>>
+from office for breach of oath.
+
+<<3478.35;3482.55;en>>
+And along with other MPs, he had come to Mr. Denisov's court,
+
+<<3482.55;3491.31;en>>
+intimidated him during the elections, threatened to start a criminal proceedings against him, and have him dismissed from office if he did not cooperate.
+
+<<3491.31;3496.29;en>>
+As the culmination of this campaign, Mr. Bondik later sat on the HCJ panel,
+
+<<3496.29;3499.79;en>>
+which dismissed Mr. Denisov.
+
+<<3499.79;3502.11;en>>
+Mr. Bondik's letter was a direct attack
+
+<<3502.11;3505.31;en>>
+on Mr. Denisov's judicial reputation and integrity
+
+<<3505.31;3507.03;en>>
+by members of the government.
+
+<<3507.03;3510.31;en>>
+And it was sent to the whole Ukrainian judiciary.
+
+<<3510.31;3515.11;en>>
+It undermined him and thus the court of which he was president.
+
+<<3515.11;3522.57;en>>
+This defamation is more extreme than that in Peruzzi, where a lawyer falsely accused a judge of misconduct.
+
+<<3522.57;3532.11;en>>
+This court found his conviction for defamation proportionate in protecting the judge's reputation and the authority of the judiciary.
+
+<<3532.11;3535.71;en>>
+In the present case, Mr. Bondik was far more powerful.
+
+<<3535.71;3539.03;en>>
+He was a government MP, and later, as we've heard, minister.
+
+<<3539.03;3545.23;en>>
+And as an HCJ member, he exercised disciplinary power over Mr. Denisov and over the judges
+
+<<3545.23;3548.75;en>>
+to whom the letter was sent.
+
+<<3548.75;3551.97;en>>
+Secondly, we wish to highlight Mr. Denisov's dismissal
+
+<<3551.97;3557.59;en>>
+by the HCJ itself, which also interferes with his private life and reputation.
+
+<<3557.59;3564.59;en>>
+The evidence shows that the dismissal proceedings were never intended to be fair nor to reflect his actual conduct in office.
+
+<<3564.59;3578.62;en>>
+This is shown by the cursory nature of the decision, which held he had breached a number of unspecified laws without explaining how, and accused him of improperly carrying out his duties as president without giving any examples.
+
+<<3578.62;3582.99;en>>
+This directly impugned his professional reputation and judicial competence.
+
+<<3582.99;3590.07;en>>
+It was particularly humiliating for him since he was dismissed because of his insistence on his independence.
+
+<<3590.07;3595.62;en>>
+His retention as an ordinary judge of the court emphasized his diminished status and reputation.
+
+<<3595.62;3608.35;en>>
+As he says, my unjust dismissal, based on far-fetched and twisted facts, became a stain on my honor, dignity, and professional reputation as a judge, which caused me profound moral damage.
+
+<<3608.35;3615.03;en>>
+This has also affected the interests of my children, who are trained lawyers, even though they don't work within the judicial system.
+
+<<3615.03;3619.95;en>>
+After my dismissal from the position of chairman of the court, I remained a judge at the same court.
+
+<<3619.95;3630.79;en>>
+Therefore, those persons whose cases I was examining could be given a misleading impression about my professional reputation and have doubts as to my professionalism as a judge.
+
+<<3630.79;3641.27;en>>
+The circumstances of his dismissal and the reputational damage caused to him by members of the governing party and the HCJ make this case significantly stronger than many.
+
+<<3641.27;3652.35;en>>
+As the court found in Kyriakides, unproven criticism of an official's conduct in office and defamation of character can injure moral integrity in breach of Article 8.
+
+<<3652.35;3656.07;en>>
+We submit that the interference with Mr. Deniso's private life
+
+<<3656.07;3659.47;en>>
+was not in accordance with the law under Article 8.2.
+
+<<3659.47;3667.11;en>>
+Domestic law was so vague and unforeseeable that it did not provide any clear grounds for dismissal of the court president.
+
+<<3667.11;3678.95;en>>
+The HCJ is authorized to remove judges from administrative posts, including presidents, by Articles 20 and 122 of the law on the judiciary and Articles 27 and 32.1 of the law on the High
+
+<<3678.95;3680.71;en>>
+Council of Justice.
+
+<<3680.71;3687.11;en>>
+None contains any definition of the grounds for removal, as noted by the Venice Commission.
+
+<<3687.11;3695.59;en>>
+The HCJ's regulations provide the only ground of early non-voluntary dismissal of president for violation of official duties.
+
+<<3695.59;3698.91;en>>
+There is no definition of this term nor any guidance for it.
+
+<<3698.91;3705.99;en>>
+And it is far from clear what misconduct or incompetence is sufficiently serious to justify removal from office.
+
+<<3705.99;3711.62;en>>
+Additionally, domestic law provides for judicial self-government by the Council of Judges.
+
+<<3711.62;3720.7;en>>
+The Venice Commission has said that the council has very powerful functions, and the scope for internal judicial politics and maneuvering appears tremendous.
+
+<<3720.7;3728.79;en>>
+Despite this theoretical self-government, only one member of the panel investigating him was even a member of the Council of Judges.
+
+<<3728.79;3736.43;en>>
+He was not given an opportunity to address the report to his court staff or to remedy any failings that may actually have existed.
+
+<<3736.43;3743.03;en>>
+There was also no evidence for the HCJ of a complaint against him initiated from within the court.
+
+<<3743.03;3748.83;en>>
+Further, dismissal from office was the only sanction which could be imposed on a court president under domestic law.
+
+<<3748.83;3750.75;en>>
+This is disproportionate, we say.
+
+<<3750.75;3758.27;en>>
+It does not allow the HCJ to consider the gravity of the misconduct or incompetence or to decide an appropriate sanction.
+
+<<3758.27;3766.03;en>>
+Finally, the High Administrative Court failed to provide a critical counterbalance to the HCJ's discretion in this case.
+
+<<3766.03;3775.99;en>>
+This court has made similar findings in Volkov on a dismissal of a judge for breach of oath, and we submit they apply equally to Mr. Deniso's case.
+
+<<3775.99;3778.87;en>>
+In conclusion, Mr. President, we invite the court
+
+<<3778.87;3784.47;en>>
+to find violations of Article 6 and 8 and of Article 18 in conjunction with both.
+
+<<3784.47;3784.47;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3785.86;3799.54;en>>
+Thank you very much Mr. Halban and I thank both parties for their submissions to the court and now I invite my colleagues who wish to do so to put their questions to the parties.
+
+<<3799.54;3801.54;en>>
+Yes, President Spano please.
+
+[[Judge;Robert Spano]]
+
+<<3802.51;3803.8;en>>
+Thank you very much, Mr. President.
+
+<<3803.8;3812.28;en>>
+I have one question to the government and one to the applicant, which are prompted by the pleadings this morning.
+
+<<3812.28;3844.72;en>>
+To the government, I noticed from the observations of the government that on the Article 6 complaint and the merits of the Article 6 complaint dealing with the independence and impartiality of the organs deciding the case at domestic level, we have renditions of reasoning in paragraph 62 to 65, which do not make any reference to a case called Alexander Volkov versus Ukraine.
+
+<<3844.72;3862.95;en>>
+May I ask the government to comment on whether it considers the merits issue under Article 6 to be distinguishable in this case from the case of Alexander Volkov, and then explain, if so, to what extent?
+
+<<3862.95;3869.24;en>>
+So our assessment can be based on that argumentation by the government.
+
+<<3869.24;3872.36;en>>
+To the applicant, I have one question as well.
+
+<<3872.36;3884.99;en>>
+There are basically two core arguments presented by the applicant why there has been an interference with Article 8, why Article 8 is applicable in this case.
+
+<<3884.99;3894.11;en>>
+The first is in paragraph 99 of your observations, which are basically issues going to the damage to the applicant's reputation.
+
+<<3894.11;3898.11;en>>
+And in paragraph 100, there is a reference to financial consequences.
+
+<<3898.11;3905.51;en>>
+I want to turn to the first, the damage to the applicant's reputation.
+
+<<3905.51;3925.51;en>>
+May I ask, because it is not addressed in your written observations, it was not addressed here orally, the court has held that Article 8 cannot be relied upon to complain of a loss of reputation, which is the foreseeable consequence of one's own actions.
+
+<<3925.51;3932.84;en>>
+This has primarily been directed to criminal offenses, but it is not only limited to criminal offenses.
+
+<<3932.84;3957.63;en>>
+May I ask the applicant to comment, why should not the court apply that doctrine on the facts of a case which deals with the underperformance of a civil servant, and thus dismissal being the consequence of that underperformance?
+
+<<3957.63;3974.28;en>>
+Is it the view of the applicant that this part of the court's case law is simply inapplicable in a situation like this, thus being the basis upon which we could not rely upon potential damage to the applicant's reputation?
+
+<<3974.28;3981.88;en>>
+I just want to ask you this, and I want you to put aside, for the sake of argument, the case of Ermeni versus Hungary.
+
+<<3981.88;3986.15;en>>
+Let's assume that Ermeni versus Hungary has not been decided by this court.
+
+<<3986.15;3991.95;en>>
+So don't rely on that case in your answer, but give me your own principled answer to the question.
+
+<<3991.95;3991.95;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3992.83;3994.35;en>>
+Thank you very much.
+
+<<3994.35;3996.51;en>>
+And now, Vice President Sicilianos, please.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<4000.88;4002.24;fr>>
+Merci, M. le Président.
+
+<<4005.4;4007.4;fr>>
+Je voudrais poser ma question en français, si possible.
+
+<<4007.8;4008.32;fr>>
+Merci beaucoup.
+
+<<4010.68;4019.4;fr>>
+Ma question s'adresse au requérant et elle se situe dans le prolongement de la question qui a été posée tout à l'heure par mon collègue, le président Spano.
+
+<<4021.52;4025.84;fr>>
+Elle concerne notamment le paragraphe 100 de vos observations.
+
+<<4027.16;4034.52;fr>>
+Là, il y a une allusion, mais une allusion seulement à des choses que vous avez évoquées aujourd'hui.
+
+<<4034.72;4040.36;fr>>
+Vous dites, les vraies raisons de ma révocation n'étaient pas connues que d'un petit nombre de personnes.
+
+<<4040.56;4041.28;fr>>
+Les vraies raisons.
+
+<<4042.56;4048.44;fr>>
+Mais ces vraies raisons n'ont jamais été évoquées ou en tout cas pas clairement dans vos observations.
+
+<<4049.12;4063.36;fr>>
+Et aujourd'hui, on a entendu une démonstration qui était fondée, entre autres, sur l'article 18 de la Convention, une disposition qui, jusqu'à maintenant, n'a pas été évoquée.
+
+<<4064.4;4080.12;fr>>
+Et on a cru comprendre que votre argumentation tourne essentiellement autour de l'idée suivant laquelle le requérant a été révoqué de ses fonctions dans le contexte d'une certaine persécution politique.
+
+<<4082.4;4091.36;fr>>
+Il y a là un décalage assez évident, me semble-t-il, entre les observations écrites et vos observations orales de tout à l'heure.
+
+<<4091.92;4095.8;fr>>
+Et on aimerait peut-être avoir un peu plus d'éléments sur ce point.
+
+<<4095.8;4095.8;fr>>
+Merci beaucoup.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4097.56;4099.27;en>>
+Merci beaucoup.
+
+<<4100.23;4105.27;en>>
+If there are no more questions, so now the court will withdraw.
+
+<<4105.27;4106.95;en>>
+Excuse me, sorry.
+
+<<4106.95;4106.95;en>>
+Judge Kucsko-Stadlmayer, please, you have the floor.
+
+[[Judge;Gabriele Kucsko-Stadlmayer]]
+
+<<4111.23;4112.91;en>>
+Thank you very much, Mr. President.
+
+<<4112.91;4118.09;en>>
+My question concerns the applicant and his complaint under Article 8.
+
+<<4119.09;4139.11;en>>
+You mentioned today in your oral pleading for the first time, it was not included in your observation, a letter which was written on the 2nd February 2010 by Mr. Bondik addressed to every judge in Ukraine and which contained accusations against the applicant.
+
+<<4139.11;4153.33;en>>
+Now could you please explain us what exactly was the correlation between this letter from 2010, then the applicant's dismissal from 2011, and his private life under Article 8?
+
+<<4153.33;4153.33;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4154.24;4157.2;en>>
+Thank you very much.
+
+<<4157.2;4163.16;en>>
+So if there are no more questions, the Court will now withdraw for 20 minutes.
+
+<<4163.16;4177.55;en>>
+So let's say we will resume at a quarter to 11, following which the parties will be able to submit the brief observations in reply to each other's submissions and reply to questions from the judges.
+
+<<4177.55;4177.55;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4281.41;4282.26;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4326.58;4336.08;en>>
+Please be seated.
+
+<<4336.08;4340.82;en>>
+The hearing is resumed and I call M. Lishchyna, please you have the floor.
+
+[[Government;GR1]]
+
+<<4345.34;4359.34;en>>
+I will first address the question put to me by the Honorable Court, and then I will move to brief comments to the statements of the applicant. The present case is distinguishable
+
+<<4359.34;4370.34;en>>
+from the case of Alexander Volkov v. Ukraine. First of all, I would refer the Court to paragraph
+
+<<4370.34;4394.34;en>>
+115-116 of Alexander Volkov, in which the Court described the lack of impartiality of the members of the High Council of Justice, in that two of the members of the High Council of Justice filed the application for dismissal of Mr. Volkov and participated in the consideration
+
+<<4394.34;4404.34;en>>
+of the case. However, in the present case, the High Council of Justice considered the
+
+<<4404.34;4422.34;en>>
+request for dismissal of the case filed by the body of self-government of the judges, namely the Council of Judges of Administrative Courts. Secondly, I would like to refer the
+
+<<4422.34;4436.34;en>>
+fact that the decision in Volkov case was taken by 16 members of the High Council of Justice, of whom only 3 were judges. In the present case, the decision was taken by 19
+
+<<4436.34;4446.34;en>>
+members of the High Council of Justice, of whom 8 were judges. And all 8 judges, members
+
+<<4446.34;4453.34;en>>
+of this body, voted for the dismissal of the applicant from his administrative position.
+
+<<4453.34;4479.34;en>>
+Moreover, I would like to refer the Court to paragraphs 119-122 of the judgment in the Alexander Volkov case, in which the Court describes in negative terms the interference of the Parliament, first Parliamentary Committee and then the session of Parliament, into the procedure of the dismissal of the judge. In the particular case, the decision was taken
+
+<<4479.34;4489.34;en>>
+only by the High Council of Justice. No political involvement was present in the present case.
+
+<<4489.34;4517.34;en>>
+Next, insofar as the applicant's observations of today are concerned, I would like to emphasize that the present case is different from Volkov case. Namely, the decision to dismiss the
+
+<<4517.34;4527.34;en>>
+applicant was initiated by the self-government body of the judges. We cannot say that it
+
+<<4527.34;4535.34;en>>
+was a political decision taken solely by the political party. Of course, as a member of
+
+<<4535.34;4553.34;en>>
+the now ruling government and at the time opposition party, it is difficult for me to corroborate the decisions taken at that time. However, I would like to emphasize that the
+
+<<4553.34;4570.34;en>>
+initiative for dismissal of the applicant from the management position in the Court was that of the self-government body of the judges. Moreover, the applicant had at his
+
+<<4570.34;4580.34;en>>
+disposal a remedy which he didn't use. Namely, he was free to challenge this decision before
+
+<<4580.34;4587.34;en>>
+the Conference of Judges of Ukraine. Albeit, of course, this is also not a judicial body
+
+<<4587.34;4613.34;en>>
+per se, it was still a remedy which he could use with respect to the certificate issued by the special group which considered the organization of the administrative court of appeal, Kiev Administrative Court of Appeal. With respect to the alleged political pressure
+
+<<4613.34;4644.34;en>>
+on the applicant, I would like to emphasize that, first of all, none of those statements which the applicant currently makes before the Honorable Court right now were a part of his application to the higher administrative court when he challenged the decision of the higher council of justice. There is no reference whatsoever to any alleged political pressure
+
+<<4644.34;4657.34;en>>
+against him. The only possible reference is his controversy with the then president of
+
+<<4657.34;4666.34;en>>
+the higher administrative court of Ukraine. But, interestingly, that reference is not
+
+<<4666.34;4677.34;en>>
+reflected in his application before the European Court of Human Rights. Secondly, the alleged
+
+<<4677.34;4709.34;en>>
+pressure is mostly based on the applicant's own statements which are not corroborated by any documents about his personal conversations with various members of the higher council of justice. None of those were tested in either criminal, administrative, or civil proceedings.
+
+<<4709.34;4744.84;en>>
+The applicant was free to file any kind of libel procedure in Ukraine, claiming any kind of compensation for violation of his rights as a judge or with respect to his professional integrity. Finally, I would like to underline that it is unclear how the applicant structures
+
+<<4744.84;4755.84;en>>
+his claim about violation of Article 8. If we would consider the question of the applicant's
+
+<<4755.84;4764.34;en>>
+removal from the post, it has nothing to do with his professionalism. He remained a judge
+
+<<4764.34;4773.34;en>>
+in that same court. He was allowed to continue to exercise his profession, a lawyer. There
+
+<<4773.34;4784.34;en>>
+is nothing in the decision about his professionalism, only about his abilities as a manager. That's
+
+<<4784.34;4794.34;en>>
+it. That is why I do not believe that there is a significant issue under Article 8 of
+
+<<4794.34;4803.84;en>>
+the case. With respect to Article 18, I would mainly defer to the court with this issue.
+
+<<4803.84;4803.84;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4806.17;4809.45;en>>
+Thank you, thank you very much Mr. Lishchyna.
+
+<<4809.45;4811.17;en>>
+And now Mrs. Gavron please.
+
+[[Applicant;AP1]]
+
+<<4812.32;4814.3;en>>
+Thank you, Mr. President.
+
+<<4814.3;4818.4;en>>
+If I can firstly turn to the question by Judge Spano.
+
+<<4818.4;4827.88;en>>
+We submit that the exclusion of Article 8, when damage to reputation is a foreseeable consequence of one's own actions, is simply not applicable here.
+
+<<4827.88;4832.04;en>>
+The alleged evidence of Mr. Denisov's underperformance
+
+<<4832.04;4838.52;en>>
+in the report of the Council of Judges was not tested in any of the dismissal hearings or appeals.
+
+<<4838.52;4841.8;en>>
+And therefore, we say it cannot be properly considered.
+
+<<4841.8;4844.16;en>>
+The reason for his dismissal.
+
+<<4844.16;4849.28;en>>
+We can't challenge the whole 84 pages of that report.
+
+<<4849.28;4855.36;en>>
+But I will just give the court two examples of the generalized, selective, and inaccurate nature of that report.
+
+<<4855.36;4860.88;en>>
+First, the case automated system, which Mr. Denisov came under a lot of criticism
+
+<<4860.88;4864.44;en>>
+for not correctly establishing in his court.
+
+<<4864.44;4869.48;en>>
+It's notable that actually this was part of the responsibility of Mr. Bondik.
+
+<<4869.48;4884.16;en>>
+He, on the 20th of October 2009, submitted a draft law in which he suggested postponing the implementation and commencement of this system until January 2011 on the basis of Ukrainian budgetary constraints.
+
+<<4884.16;4888.08;en>>
+There simply wasn't the money to give the courts to make it work.
+
+<<4888.08;4896.64;en>>
+Furthermore, the management of this system is the responsibility of the court manager, the chief of staff of the court.
+
+<<4896.64;4899.8;en>>
+Secondly, the formation of specialized chambers.
+
+<<4899.8;4903.88;en>>
+Again, he came under a lot of criticism for this in the report.
+
+<<4903.88;4909.48;en>>
+This was a discretionary power under Article 26 of the law of the judiciary and status of judges.
+
+<<4909.48;4912.08;en>>
+Mr. Denisov consulted the judges at the court.
+
+<<4912.08;4916.64;en>>
+Since 90% of their cases are social security cases, it was simply impracticable.
+
+<<4916.64;4922.56;en>>
+And as we understand it, chambers have never been established at that court today.
+
+<<4922.56;4933.08;en>>
+And we would, in any event, distinguish the facts of this case from many in that Mr. Denisov raised Article 8
+
+<<4933.08;4934.48;en>>
+on his own motion.
+
+<<4934.48;4939.0;en>>
+Reputational damage far exceeded any evident in many.
+
+<<4939.0;4947.52;en>>
+And we would urge this court to consider this case on its specific facts, including the entire context of the case.
+
+<<4947.52;4956.64;en>>
+With respect to Judge Sicilianos' question, the political harassment in this case was clear, we say, in Mr. Denisov's application
+
+<<4956.64;4961.4;en>>
+and extensively relied on in the observations under Article 6 and 18.
+
+<<4961.4;4963.56;en>>
+And of course, it's not new evidence.
+
+<<4963.56;4970.12;en>>
+We say, of course, it should be taken into consideration in considering Article 8.
+
+<<4970.12;4974.48;en>>
+And partly the same point to Judge Kuzco-Stadlmayr.
+
+<<4974.48;4978.52;en>>
+Mr. Bondyk's letter to all the judges of Ukraine,
+
+<<4978.52;4983.2;en>>
+unfortunately, at the time of our written submissions, we didn't have a translation of that.
+
+<<4983.2;4984.88;en>>
+So otherwise, we would have included it.
+
+<<4984.88;4987.76;en>>
+And we're now referring to it.
+
+<<4987.76;4995.92;en>>
+We submit that the interference in this case arises from the dismissal and the reputational damage to Mr. Denisov under Article 8.
+
+<<4995.92;5018.64;en>>
+And to limit considerations to simply the two hearings is an ignore the clear culmination of the determination of members of the governing party, including primarily the Minister of Justice, is simply to ignore the fact that they clearly intended damage and to get rid of Mr. Denisov.
+
+<<5018.64;5023.72;en>>
+And that has to be taken into consideration in our submissions.
+
+<<5023.72;5030.04;en>>
+The context of this case, the entire context, is relevant for the consideration of Article 8.
+
+<<5030.04;5039.36;en>>
+And I had one or two points as a result of my colleagues' points.
+
+<<5039.36;5049.56;en>>
+Obviously, we say that in terms of the impartiality and independence of the tribunals in this case, the merits in Volkov apply absolutely.
+
+<<5049.56;5061.88;en>>
+As far as the initiative coming for the dismissal from the self-government of judges, again, we say it has to be taken into consideration that, for instance, Mr. Portnov, deputy chief of staff
+
+<<5061.88;5070.12;en>>
+to the president, three weeks earlier, had threatened to have that very council of judges dismiss Mr. Denisov.
+
+<<5070.12;5085.76;en>>
+This should not be ignored when considering the council of judges suddenly focusing on the work of the Kiev Administrative Court, the haste with which that report was sent through the proceedings, and the haste with which Mr. Denisov
+
+<<5085.76;5087.36;en>>
+was dismissed in his absence.
+
+<<5087.36;5095.28;en>>
+The whole totality has to be considered, even under Article 8 in our submissions.
+
+<<5095.28;5102.2;en>>
+In terms of the libel point, the defamation, we do say that letter was defamatory.
+
+<<5102.2;5107.04;en>>
+Mr. Denisov did ask Parliament to correct those allegations
+
+<<5107.04;5112.2;en>>
+as the disseminator of the untruthful allegations, and they refused.
+
+<<5112.2;5118.36;en>>
+It was, in practice, we submit, impossible for him to challenge Mr. Bondick at the time.
+
+<<5118.36;5125.2;en>>
+It was written in his capacity as MP, and we've heard Minister of Justice sent from Parliament.
+
+<<5125.2;5128.44;en>>
+He had, Mr. Bondick had already submitted a breach of oath
+
+<<5128.44;5130.64;en>>
+against him, petition against him.
+
+<<5130.64;5136.32;en>>
+He had power over him through the HCJ, which was already putting huge pressure on him.
+
+<<5136.32;5141.56;en>>
+And his authority continued, even after he was dismissed as president and as judge.
+
+<<5141.56;5148.4;en>>
+We also submit that, constitutionally, judges should not have to take proceedings to protect their professional reputation.
+
+<<5148.4;5157.6;en>>
+It is up to the government to protect the reputation and the authority of the judiciary, specifically confirmed by Article 10.2 of the Convention.
+
+<<5161.36;5170.36;en>>
+And therefore, we say, in this case, it was the very body charged with protecting the reputation of Mr. Denisov that was, in fact,
+
+<<5170.36;5173.4;en>>
+undermining it, and he had no recourse.
+
+<<5173.4;5173.92;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5175.11;5178.51;en>>
+Thank you very much, Mrs. Gavron.
+
+<<5178.51;5182.03;en>>
+I don't know whether Mr. Halban wishes to...
+
+<<5182.03;5183.03;en>>
+No? Okay.
+
+<<5183.03;5184.75;en>>
+Thank you very much.
+
+<<5184.75;5194.07;en>>
+So, we have now come to the end of the hearing, and I thank the parties for their submissions and answers to the court's questions.
+
+<<5194.07;5198.91;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<5198.91;5202.39;en>>
+The judgment will be delivered later.
+
+<<5202.39;5206.27;en>>
+The parties will be informed of the date of delivery.
+
+<<5206.27;5208.31;en>>
+I declare the hearing closed.
+

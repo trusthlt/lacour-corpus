@@ -1,0 +1,2715 @@
+[[Announcer;UNK]]
+
+<<10.03;10.71;fr>>
+La Cour!
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<55.48;56.12;en>>
+Please be seated.
+
+<<74.28;82.28;en>>
+I declare open the public hearing on the admissibility and merits in the case of Hanan versus Germany.
+
+<<82.28;94.84;en>>
+The application was lodged with the court on 13 January 2016 under Article 34 of the Convention by an Afghan national, Mr. Abdul Hanan.
+
+<<94.84;103.16;en>>
+It was allocated to the fifth section of the court, pursuant to Rule 52, Paragraph 1 of the Rules of Court.
+
+<<103.16;109.96;en>>
+It was then communicated to the government on 2nd of September, 2016.
+
+<<109.96;119.96;en>>
+On 27 August, 2019, a chamber of the fifth section decided to relinquish jurisdiction in favor of the grand chamber.
+
+<<119.96;153.68;en>>
+The governments of Denmark, France, Norway, Sweden, and the United Kingdom, the Human Rights Center of the University of Essex, the Institute of International Studies of the Università Cattolica el Sacro Cuore di Milano, the Open Society Justice Initiative, and Rights Watch were all granted leave under Article 36, Paragraph 2 of the Convention, and Rule 44, Paragraph 3 of the Rules of Court to make written submissions to the court as third parties.
+
+<<153.68;166.52;en>>
+The governments of France and the United Kingdom, as well as Rights Watch UK, were also granted leave to take part in the hearing and to make oral submissions.
+
+<<166.52;173.88;en>>
+The respondent governments are represented by their agents, Mrs. Almut Wittling-Vogel and Mr. Nicola
+
+<<173.88;186.86;en>>
+Wenzel of the Federal Ministry of Justice and Consumer Protection, assisted by Professor Heike Krieger, counsel, and my Mrs. Sarah Weinkauff, Mr. Stefan Sohm,
+
+<<186.86;191.04;en>>
+Mrs. Mareike Wittenberg, Mrs. Jeannine  Drohla,
+
+<<191.04;196.84;en>>
+Mr. Christian Ritscher, Mrs. Duscha Gmel, Mrs. Sonja Heine,
+
+<<196.84;201.04;en>>
+and Mr. Christoph Barth, advisors.
+
+<<201.04;204.8;en>>
+The applicant is represented by Mr. Wolfgang Kaleck
+
+<<204.8;216.76;en>>
+and Professor Dapo Akande, counsel, assisted by Professor Florian Jessberger, Professor Chantal Meloni, Mr. Andreas Schüller, and Mrs. Iaroslavna
+
+<<216.76;219.76;en>>
+Sychenkova, advisors.
+
+<<219.76;226.84;fr>>
+Le gouvernement français qui est intervenant est represente par Mr. François
+
+<<226.84;231.96;fr>>
+Alabrune, agent de gouvernement, assisste par Mme Eglantine Leblond, Mr. Rudolf Stamminger,
+
+<<231.96;236.6;fr>>
+et Mr. Etienne Gouin, conseillers.
+
+<<236.6;244.48;en>>
+The British government, third party intervener, is represented by Mr. Chanaka Wickremasinghe, government agent,
+
+<<244.48;251.88;en>>
+and Sir James Eadie, QC, counsel, assisted by Mr. John Swords, advisor.
+
+<<251.88;259.24;en>>
+Rights Watch UK, third party intervener, is represented by Mr. Samuel Wordsworth, QC,
+
+<<259.24;264.12;en>>
+and Mr. Can Yeginsu, Kounsel, assisted by Mrs. Greta
+
+<<264.12;266.76;en>>
+Schumacher, advisor.
+
+<<266.76;271.6;en>>
+I welcome the representatives of the parties in the name of the court.
+
+<<271.6;276.4;en>>
+I also welcome a delegation of the French Conseil d'Etat.
+
+<<276.4;286.88;en>>
+Having consulted the agents of the government, the representatives of the applicant and of the third parties, I have determined the order of addresses as follows.
+
+<<286.88;290.72;en>>
+Mrs. Wittling-Vogel and Mrs. Krieger for the government
+
+<<290.72;294.72;en>>
+will speak first, followed by Mr. Kaleck and Mr.
+
+<<294.72;296.68;en>>
+Akande for the applicant.
+
+<<296.68;301.16;en>>
+And finally, Mr. Alabrune and Sir James Eadie,
+
+<<301.16;304.64;en>>
+followed by Mr. Wordsworth and Mr. Yeginsu,
+
+<<304.64;307.72;en>>
+will speak for the third parties.
+
+<<307.72;324.92;en>>
+I would explain that in addition to interpreting in the two official languages of the court, French and English, interpreting into Georgian has been authorized for the benefit of the group of judicial candidates from the Georgian School of Justice attending this hearing.
+
+<<324.92;334.64;en>>
+This interpretation is not part of the official interpretation of the proceedings as organized by the court.
+
+<<334.64;336.76;en>>
+I call the government.
+
+<<336.76;338.04;en>>
+Mrs. Wittling-Vogel.
+
+[[Government;GR1]]
+
+<<341.71;344.39;en>>
+Thank you, Mr. President.
+
+<<344.39;347.91;en>>
+Mr. President, distinguished members of the court,
+
+<<347.91;364.55;en>>
+these proceedings today are concerned with the matter of duties to investigate and possibilities of granting legal protection in the context of military action abroad, and thus with rather formal legal questions.
+
+<<364.55;373.79;en>>
+However, the government is aware that behind these legal issues, there is substantial human suffering and grief.
+
+<<373.79;385.55;en>>
+The following statement on the course of events and the measures taken is in no way intended to question or qualify the suffering the applicant and his family have experienced.
+
+<<385.55;397.65;en>>
+Before we address the legal issues, allow me on behalf of the Federal Republic of Germany to express our sincere regret for the civilian casualties of the airstrike.
+
+<<397.65;399.89;en>>
+Now, with your permission, Mr. President,
+
+<<399.89;403.59;en>>
+I will ask Professor Krieger to submit our legal assessment.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<407.1;408.9;en>>
+Professor Krieger, you have the floor.
+
+[[Government;GR2]]
+
+<<410.3;414.14;en>>
+Mr. President, distinguished members of the Court,
+
+<<414.14;423.38;en>>
+the applicant's complaint raises important legal issues regarding the interpretation of the European Convention on Human Rights.
+
+<<423.38;438.18;en>>
+It centers around the grounds and limits for the extraterritorial application of the convention and attribution in cases of military action authorized by the United Nations Security Council.
+
+<<438.18;444.38;en>>
+These questions require a decision in principle by this distinguished Court.
+
+<<444.38;451.98;en>>
+Member states need clear guidance on their convention responsibility for military action on foreign soil.
+
+<<451.98;456.34;en>>
+I will duly address these issues in my intervention.
+
+<<456.34;468.5;en>>
+But I will also invite you to look at the specific facts of the case, at the way Germany dealt with these tragic events in which the applicant's two sons were killed.
+
+<<468.5;474.3;en>>
+Irrespective of whether Germany was bound by the convention or not, one thing is clear.
+
+<<474.3;477.9;en>>
+The incident was thoroughly investigated.
+
+<<477.9;489.78;en>>
+The federal prosecutor general conducted an in-depth examination in order to determine whether the military personnel involved was criminal responsible.
+
+<<489.78;500.36;en>>
+A commission of inquiry of the German parliament examined the political and factual dimensions of these events for over 1 and 1⁄2 year.
+
+<<500.36;507.02;en>>
+Consulted files, questioned 41 witnesses, and eventually published a report.
+
+<<507.02;511.24;en>>
+Court proceedings on compensation are still pending.
+
+<<511.24;518.14;en>>
+In a nutshell, the German legal system responded comprehensively to the incident.
+
+<<518.14;521.78;en>>
+In my intervention, I will focus on three points.
+
+<<521.78;535.14;en>>
+First, I will address questions related to Article I of the convention and demonstrate that neither the airstrike nor the ensuing investigations established German jurisdiction.
+
+<<535.14;548.98;en>>
+Second, I will demonstrate that if the court wants to consider the merits of the case, it should conclude that Germany has complied with its obligation to investigate under the procedural limb of Article II.
+
+<<548.98;558.86;en>>
+And third, I will show that the applicant was entitled to legal remedies before German courts that are adequate and effective.
+
+<<558.86;563.66;en>>
+So let us look at the question of principle that arises in this case.
+
+<<563.66;579.46;en>>
+Does the European Convention on Human Rights oblige Germany to investigate an incident, even though it has taken place in Afghanistan in the context of military missions authorized by the United Nations Security Council?
+
+<<579.46;581.5;en>>
+The answer is no.
+
+<<581.5;584.82;en>>
+The convention does not apply in such a case.
+
+<<584.82;586.74;en>>
+There are two reasons.
+
+<<586.74;596.3;en>>
+One, the acts are not attributable to Germany because the airstrike was carried out on behalf of the United Nations.
+
+<<596.3;601.5;en>>
+The conclusion is based on this court's decision in the Birrami case.
+
+<<601.5;610.9;en>>
+The Birrami jurisprudence remains essential for delineating the relationship between the European Convention and the United Nations Charter.
+
+<<610.9;622.54;en>>
+It acknowledges the unique responsibility of the Security Council for the maintenance of international peace and security as a primary objective of the UN Charter.
+
+<<622.54;631.94;en>>
+And it preserves the fundamental role of the member states for the effective implementation of UN Security Council resolutions.
+
+<<631.94;638.18;en>>
+For this reasons, the measure taken are outside the jurisdiction of the court, Razione Persone.
+
+<<638.18;643.22;en>>
+No investigative duty under the convention can arise.
+
+<<643.22;660.3;en>>
+The second reason why the convention does not apply to the case before you is that the airstrike constituted an extraterritorial act, but not an exercise of extraterritorial jurisdiction in the meaning of Article 1.
+
+<<660.3;672.86;en>>
+The court has constantly held that the convention's extraterritorial application is exceptional and requires special justification in the specific circumstances of each case.
+
+<<672.86;678.82;en>>
+Article 1 reflects the ordinary, essentially territorial notion of jurisdiction.
+
+<<678.82;687.62;en>>
+In the Bankovic case, the court expressly stated that Article 1 should not be subject to dynamic interpretation.
+
+<<687.62;690.02;en>>
+The reasons for this are twofold.
+
+<<690.02;702.06;en>>
+First, the concept of jurisdiction is the threshold criterion for applying the entire convention system and thus for establishing a contracting state's responsibility.
+
+<<702.06;715.0;en>>
+However, states can only comply with their obligations where they assert sufficient physical control and legal authority to be able to fulfill their duties.
+
+<<715.0;729.34;en>>
+Therefore, the duty to secure to everyone the protection of the convention must depend on the existence of a clearly delineated jurisdictional link, a link that is territorial in most cases.
+
+<<729.34;738.84;en>>
+Secondly, the contracting parties have consented to this essentially territorial notion of jurisdiction and continue to do so.
+
+<<738.84;750.26;en>>
+From the outset, Article 1 was meant to guarantee that all persons physically present on the territory of the contracting states enjoy the convention's protection.
+
+<<750.26;770.06;en>>
+The contracting parties have continuously embraced this essentially territorial notion of jurisdiction, and the observations submitted by the governments of Denmark, France, Norway, Sweden, and the United Kingdom in the present proceedings reflect this ongoing consent.
+
+<<770.06;780.82;en>>
+Having said that, in the present case, no reasons whatsoever can be found to justify the extraterritorial application of the convention.
+
+<<780.82;786.1;en>>
+Germany did not exercise effective control over the Kunduz region.
+
+<<786.1;802.42;en>>
+In this respect, the circumstances of the Bankovic case are highly comparable to the present case because Bankovic also deals with the deaths of civilians caused by airstrikes of NATO forces outside the contracting state.
+
+<<802.42;807.98;en>>
+An airstrike is not sufficient to establish a state's control over a certain region.
+
+<<814.5;820.82;en>>
+Neither did Germany exercise effective control in any other respect.
+
+<<820.82;835.46;en>>
+In September 2009, German ISAF troops stationed in the Kunduz region were involved in the conduct of hostilities in an active combat zone which was under the control of the Taliban.
+
+<<835.46;841.54;en>>
+The number of Taliban in the region was nearly as high as the number of ISAF troops.
+
+<<841.54;856.22;en>>
+The ISAF soldiers had already been involved in heavy fighting, had suffered serious losses in these battles, and continued to risk being attacked whenever they left their camps.
+
+<<856.22;861.9;en>>
+I would like to provide only a few numbers in order to illustrate the situation.
+
+<<861.9;872.84;en>>
+During the three weeks prior to the airstrike, the regional command north had to face well over 80 attacks with firearms and explosive devices.
+
+<<872.84;883.94;en>>
+During the same period of time, 287 wounded and 27 dead persons have been documented in Afghanistan among ISAF personnel alone.
+
+<<883.94;893.66;en>>
+Moreover, Germany did not exercise jurisdiction based on the criterion of state agent authority and control.
+
+<<893.66;900.02;en>>
+The airstrike was not carried out for the purpose of asserting authority and control over persons.
+
+<<900.02;912.42;en>>
+Rather, the tankers were destroyed in order to prevent that they would be used for an attack against ISAF troops and Afghan institutions in particular, police stations.
+
+<<912.42;916.86;en>>
+Such incidents had occurred several times before.
+
+<<916.86;926.58;en>>
+In 2009 alone, there had already been five attacks with tankers or lorries with large explosive charge.
+
+<<926.58;934.1;en>>
+In the conduct of hostilities, the use of force to defeat the adversary is a legitimate aim in itself.
+
+<<934.1;955.24;en>>
+The applicable rules of international human rights in itself, the applicable rules of international humanitarian law distinguish such measures from situations where a state assumes a higher degree of control and some form of authority over enemy territory, enemy combatants, or the civilian population.
+
+<<955.24;967.66;en>>
+In situations of military occupation or detention, armed forces do assert authority with the aim of upholding and imposing public order and security.
+
+<<967.66;974.86;en>>
+And the cases of Al-Skaini and Jalut decided by this court are perfect examples.
+
+<<974.86;984.66;en>>
+But the case before you now is entirely different because it concerns measures in the conduct of active hostilities.
+
+<<984.66;988.26;en>>
+The airstrike is a means and method of warfare.
+
+<<988.26;992.78;en>>
+It is not an assertion of authority to impose public order.
+
+<<992.78;1003.66;en>>
+This distinction is inherent in international humanitarian law and should guide the court in its interpretation of the expression within their jurisdiction.
+
+<<1003.66;1012.98;en>>
+Therefore, the Kunduz region was not under the jurisdiction of Germany, according to Article 1 of the convention.
+
+<<1012.98;1019.82;en>>
+Finally, the jurisdiction of the court cannot be based on the Gürtel-Yurtlu judgment either.
+
+<<1019.82;1027.94;en>>
+The Gürtel-Yurtlu judgment must be seen as exceptional and strictly limited to the circumstances of the specific case.
+
+<<1027.94;1036.1;en>>
+It does not provide a basis for the establishment of jurisdiction in the present case for the following three reasons.
+
+<<1036.1;1049.74;en>>
+First, the rationale of the Gürtel-Yurtlu case aims to prevent a vacuum in the system of human rights protection between two contracting states within the legal space of the convention.
+
+<<1049.74;1060.3;en>>
+This rationality is closely tied to the special nature of the convention as a treaty for the collective enforcement of human rights and fundamental freedoms.
+
+<<1063.34;1077.38;en>>
+The emphasis on the collective character of the convention obligations creates a shared responsibility of the contracting states in order to assure that each of them can fulfill their obligations.
+
+<<1077.38;1087.34;en>>
+No state shall be prevented from pursuing its own criminal proceedings just because another convention state refuses to cooperate.
+
+<<1087.34;1104.86;en>>
+In the light of this rationality, establishing a jurisdictional link on the institution of investigations is limited to cases where contracting states have to assume their respective responsibility for the collective enforcement of the convention within its legal space.
+
+<<1104.86;1112.18;en>>
+German investigations in relation to the Kunduz airstrike do not fall within the rationality of jurisprudence.
+
+<<1112.18;1121.18;en>>
+Neither a vacuum in human rights protection between two contracting parties nor mutual obligations of cooperation are at stake.
+
+<<1121.18;1135.7;en>>
+Second, the Gürtel-Yurtlu case has to be distinguished from the present case because the special features that exceptionally trigger a jurisdictional link in the Gürtel-Yurtlu judgment do not exist in the present case.
+
+<<1135.7;1149.5;en>>
+In Gürtel-Yurtlu, the court established the jurisdictional link on the ground that it had already found that northern Cyprus is under the effective control of Turkey for the purposes of the convention.
+
+<<1149.5;1155.9;en>>
+However, Germany did not exercise effective control over the Kunduz region, as I have already explained.
+
+<<1155.9;1169.44;en>>
+Third, the Gürtel-Yurtlu jurisprudence is limited to investigative measures which the contracting state can take within its territory or otherwise within its jurisdiction.
+
+<<1169.44;1189.56;en>>
+Under this jurisprudence, the court has only established an obligation to investigate whether the contracting parties were factually and legally able to comply with this duty because they exercised authority and were in a jurisdictional duty because they exercised authority and physical control.
+
+<<1189.56;1198.96;en>>
+In Gürtel-Yurtlu, Turkey was under an obligation to examine and provide a reasoned reply to an extradition request from Cyprus.
+
+<<1198.96;1206.72;en>>
+Such a duty does not call for any act to be performed outside Turkey's jurisdictional control.
+
+<<1206.72;1225.16;en>>
+However, in the present case, the essence of the applicant's objections concern investigatory measures to be taken outside German territory and otherwise outside its jurisdiction in a Taliban stronghold subject to ongoing combat operations.
+
+<<1225.16;1237.78;en>>
+In sum, neither the Gürtel-Yurtlu jurisprudence nor the longstanding puritan and case law of this court concerning Article 1 of the convention cover situations as the one in the present case.
+
+<<1237.78;1245.44;en>>
+The European Convention on Human Rights therefore does not oblige Germany to investigate the incidents in Kunduz.
+
+<<1245.44;1252.06;en>>
+However, this does not mean that there is no duty to investigate for Germany at all.
+
+<<1252.06;1257.28;en>>
+The fact that the convention is not applicable does not entail a legal vacuum.
+
+<<1257.28;1264.72;en>>
+There is no accountability gap in the protection of the civilian population in military missions on foreign soil.
+
+<<1264.72;1275.92;en>>
+On the contrary, Germany is already required by international humanitarian law and national criminal law to examine the death of civilians during the conduct of hostilities.
+
+<<1275.92;1279.94;en>>
+There is no need to expand the territorial reach of the convention.
+
+<<1283.32;1287.4;en>>
+Mr. President, distinguished members of the court,
+
+<<1287.4;1292.02;en>>
+I have explained why the convention does not apply to the events in Kunduz.
+
+<<1292.02;1293.92;en>>
+But I want to be very clear.
+
+<<1293.92;1300.08;en>>
+Even if the convention did apply, Article 2 would not be violated.
+
+<<1300.08;1312.62;en>>
+As we have demonstrated in our written observations, parts of the applicant's argument with respect to Article 2 are already inadmissible because the local remedies were not exhausted.
+
+<<1312.62;1321.32;en>>
+This is true in particular with respect to the alleged lack of independence of the federal prosecutor general.
+
+<<1321.32;1324.84;en>>
+I will not delve into this issue again here.
+
+<<1324.84;1335.32;en>>
+I will rather demonstrate that Germany has thoroughly investigated the incidents and have thus fulfilled the requirements of Article 2.
+
+<<1335.32;1339.12;en>>
+I will first turn to the situation in Afghanistan.
+
+<<1339.12;1355.48;en>>
+For defining the standard of what reasonable steps were required in Afghanistan, the convention must be read in the light of the more specialized rules of international humanitarian law on the basis of the Hassan jurisprudence.
+
+<<1355.48;1365.52;en>>
+Moreover, on Afghan soil, Germany's legal powers and factual capacities to investigate were severely restricted.
+
+<<1365.52;1382.0;en>>
+First, investigations in Afghanistan did not lie in the power and competence of German authorities, but were entrusted to the Afghan civil government, ISAF, and UNAMA.
+
+<<1382.0;1389.24;en>>
+The German military police, which was present in Afghanistan, could only play a minor role in this setting.
+
+<<1389.24;1400.08;en>>
+Under the UN Security Council resolutions, the German military police was only allowed to carry out internal investigations.
+
+<<1400.08;1406.84;en>>
+This means that the military police was not allowed to summon Afghan witnesses.
+
+<<1406.84;1414.12;en>>
+Neither could they adopt investigative measures nor coercive measures in order to secure evidence.
+
+<<1414.12;1427.12;en>>
+The German civilian law enforcement authorities, which were competent to investigate this case, could not take an active part in the investigations in Afghanistan either.
+
+<<1427.12;1442.4;en>>
+Neither the status of force agreement with Afghanistan, nor the UN Security Council resolutions opened any possibility for civilian law enforcement agencies to pursue investigations on their own on Afghan territory.
+
+<<1442.4;1453.96;en>>
+These restrictions on Germany's legal powers to investigate in Afghanistan also add to the arguments I made earlier in relation to the Birami jurisprudence.
+
+<<1453.96;1461.52;en>>
+They demonstrate very clearly that the United Nations are the entity responsible, not Germany.
+
+<<1461.52;1468.68;en>>
+Second, investigations were affected because in the bomb release area, fightings were still going on.
+
+<<1468.68;1476.04;en>>
+The risk of attacks was omnipresent, as shown by an attack on the initial assessment team.
+
+<<1476.04;1488.16;en>>
+Finally, regardless of the difficulties of on-site investigations in this case, the circumstances in which the applicant's sons died were comprehensively revealed.
+
+<<1488.16;1495.08;en>>
+No doubt was left about the fact that a considerable number of civilians were among the victims.
+
+<<1495.08;1504.4;en>>
+The reasons for this application do not lie in factual doubts, but they lie in differing legal assessments of the events in Afghanistan.
+
+<<1509.4;1522.32;en>>
+Turning to the situation within Germany, it is clear that all facts were brought to light which were necessary to assess the potential criminal liability of the military personnel involved.
+
+<<1522.32;1531.28;en>>
+On this basis, the federal prosecutor general determined that the use of force was justified in the concrete circumstances of the case.
+
+<<1531.28;1539.44;en>>
+The higher regional court and the German constitutional court upheld this decision.
+
+<<1539.44;1556.16;en>>
+In the decision not to bring charges, the federal prosecutor general had to assess inter alia whether there were sufficient reasonable grounds to believe that the accused were criminally liable for violating the principle of proportionality in attacks.
+
+<<1556.16;1574.16;en>>
+They had to assess whether the accused had definitely anticipated that the attack would cause death to civilians in excess to the concrete and direct overall military advantage anticipated.
+
+<<1574.16;1579.88;en>>
+This reasoning had to be based on an ex ante assessment of the circumstances.
+
+<<1579.88;1582.92;en>>
+The ex ante situation was as follows.
+
+<<1582.92;1596.4;en>>
+The security situation in the region was characterized by steady increase of Taliban activity and by the demand of the local population to do something about the growing Taliban insurgency.
+
+<<1596.4;1602.9;en>>
+The river loop where the tanks got stuck was a hotspot of insurgent activities.
+
+<<1602.9;1619.88;en>>
+In assessing all evidence, the federal prosecutor general rightly reasoned that the accused had assumed that only insurgents were present at the site and the accused had not anticipated any civilian damage.
+
+<<1619.88;1634.08;en>>
+The intention was to hit the hijacked fuel tankers which got stuck on the sandbank in order to prevent that these tankers would be used for an attack against ISAF troops.
+
+<<1634.08;1645.28;en>>
+Similar attacks against ISAF troops had taken place before and ISAF had received a concrete warning about another pending attack.
+
+<<1645.28;1659.92;en>>
+In this context, the federal prosecutor general arrived at the conclusion that the accused had exhausted all precautionary measures that were feasible at the time and in the circumstances ruling at the time.
+
+<<1659.92;1670.4;en>>
+In particular, when ordering the airstrike, the accused had no reason to doubt the reliability of the information provided to them.
+
+<<1670.4;1682.04;en>>
+It had been confirmed to them at seven individual occasions that an informant had identified the persons at the tankers as insurgents.
+
+<<1682.04;1688.96;en>>
+The accused had been informed that there were no specific reasons to doubt the reliability of the information.
+
+<<1688.96;1700.68;en>>
+Moreover, they used images provided by infrared cameras from American aircraft on which the persons next to the tankers were visible as dots of a heat source.
+
+<<1700.68;1714.16;en>>
+Persons were moving between the surrounding villages and the sandbank, and this was consistent with the statements of the informant that the Taliban commanders had called up additional insurgents.
+
+<<1714.16;1719.92;en>>
+No specific indication that civilians were present followed from that information.
+
+<<1719.92;1733.68;en>>
+It was after midnight, and the number of people present did not give rise to doubts, since Taliban were easily capable to assemble even 100 persons in a short time.
+
+<<1733.68;1746.4;en>>
+In sum, for determining the criminal responsibility of the military personnel involved, sufficient evidence was available, and there was no need for further investigations.
+
+<<1746.4;1752.76;en>>
+Eventually, the essence of the application is not concerned with the effectiveness of these investigations.
+
+<<1752.76;1757.24;en>>
+It does not aim at a more in-depth clarification of the relevant facts.
+
+<<1757.24;1766.08;en>>
+Rather, the application aims to question the legal assessment that the accused has not incurred criminal liability.
+
+<<1766.08;1777.12;en>>
+However, Article 2 of the Convention does not cover the review of the legal correctness of prosecutorial decisions.
+
+<<1777.12;1787.56;en>>
+The contracting parties must ensure an adequate response by judicial and other means in order to protect the right of life, and Germany has done so.
+
+<<1787.56;1797.84;en>>
+But the duty to investigate is an obligation of conduct and not of result, and this means that it does not guarantee a certain outcome.
+
+<<1797.84;1809.08;en>>
+In the words of this court, Article 2 does not entail the right to have third parties prosecuted or convicted for a criminal offense.
+
+<<1809.08;1814.04;en>>
+Mr. President, honorable members of the court,
+
+<<1814.04;1829.0;en>>
+finally, I will show that Germany has complied with its obligation to provide the applicant with an effective domestic remedy for his complaint under Article 2 and Article 13 of the Convention.
+
+<<1829.0;1842.68;en>>
+The applicant had effective judicial remedies at his disposal in the form of his petition to compel public charges before a higher regional court and his constitutional complaint before the German Constitutional Court.
+
+<<1842.68;1850.64;en>>
+That these two remedies fulfill the Convention's requirements has been acknowledged by this court in the case of Henschel and Stark.
+
+<<1853.52;1861.92;en>>
+By filing a petition to compel public charges, the applicant could have achieved a review of the prosecutorial decision.
+
+<<1861.92;1869.28;en>>
+Eventually, he did not achieve such a review because his lawyer had filed a petition that was inadmissible.
+
+<<1869.28;1885.18;en>>
+The higher regional court expressly noted that formal deficiencies in the reasoning prevented the court from reviewing the question as to whether the applicant's motion to perform further investigations was to be allowed.
+
+<<1885.18;1895.28;en>>
+The admissibility requirements were not excessive, particularly in view of the fact that the applicant was represented by a lawyer.
+
+<<1895.28;1906.8;en>>
+In cases to compel public charges, the higher regional court must decide whether there is sufficient evidence of an offense and whether charges ought to be brought.
+
+<<1906.8;1918.72;en>>
+To enable the court to take such a decision, the petition must indicate the evidence for the offense and the facts which substantiate the public charges.
+
+<<1918.72;1929.24;en>>
+This formal requirement is meant to guarantee that the court is able to take a decision without the need for an in-depth study of the files or annexes.
+
+<<1929.24;1936.76;en>>
+The factual content of the petition in itself must be sufficient to enable the court to come to a decision.
+
+<<1936.76;1950.4;en>>
+In this way, the law intends to enable an expeditious review of the petition while protecting the accused against unsubstantiated frivolous petitions.
+
+<<1950.4;1961.2;en>>
+This purpose can only be achieved if the evidentiary basis for criminal liability is readily apparent from the petition itself.
+
+<<1961.2;1967.4;en>>
+Moreover, the applicant's constitutional complaint was another effective legal remedy.
+
+<<1967.4;1981.6;en>>
+There is no indication whatsoever that a constitutional complaint of this type would have been unlikely to succeed from the very outset because of particularly strict admissibility criteria or substantive standards.
+
+<<1981.6;1993.04;en>>
+The Federal Constitutional Court examines constitutional complaints arising from proceedings to compel public charges with great scrutiny.
+
+<<1993.04;2004.2;en>>
+In the present case, it refused to accept the applicant's constitutional complaint because the court regarded it to be ill-founded in any case.
+
+<<2004.2;2021.4;en>>
+In its reasoning, the Constitutional Court expressly emphasized that the decision not to bring charges was in line with the standards established by the case law of the European Court of Human Rights regarding investigations of killings by state officials.
+
+<<2021.4;2027.64;en>>
+In so doing, it sufficiently addressed the pleas raised in the constitutional complaint.
+
+<<2027.64;2040.76;en>>
+It considered to an insufficient extent whether or not the federal prosecutor general ought to have examined witnesses who had observed the incident and ought to have taken further evidence.
+
+<<2043.6;2062.72;en>>
+The Constitutional Court rightly took the view that investigations concerning the number and identity of the victims of the airstrike would have served no purpose and were superfluous because they did not concern any aspects relevant for the assessment of criminal liability.
+
+<<2062.72;2074.88;en>>
+Thus, the review provided by the German Constitutional Court was sufficient to comply with the demands of Article 2 and 13 of the convention.
+
+<<2074.88;2079.44;en>>
+Mr. President, distinguished members of the court,
+
+<<2079.44;2085.0;en>>
+the loss of two children is an unbearable tragedy for their parents, which causes grief and pain.
+
+<<2085.0;2090.34;en>>
+And I can only express my deepest sympathy for the applicant's loss.
+
+<<2090.34;2095.98;en>>
+Germany was always aware of the seriousness of the tragic events in Kunduz.
+
+<<2095.98;2107.08;en>>
+Therefore, German authorities did everything within their power to bring all relevant facts to light in independent and effective investigations.
+
+<<2107.08;2119.24;en>>
+Still, on the basis of these facts, the criminal liability of the military personnel involved could not be established in thorough judicial proceedings.
+
+<<2119.24;2126.64;en>>
+It is understandable that this may cause frustration for the applicant as well as for the wider public.
+
+<<2126.64;2137.2;en>>
+But it does not impair the fact that Germany has submitted the present case to the careful scrutiny required by Article 2 of the convention.
+
+<<2137.2;2137.2;en>>
+We therefore ask the court to reject the application.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<2143.88;2145.4;en>>
+Thank you very much.
+
+<<2145.4;2148.48;en>>
+I now call the applicants.
+
+<<2148.48;2149.48;en>>
+Mr. Kaleck, you have the floor.
+
+[[Applicant;AP2]]
+
+<<2151.67;2160.11;en>>
+Mr. President, Honorable Judges, on September 4, 2009, an airstrike near Kunduz in Afghanistan
+
+<<2160.11;2165.55;en>>
+killed the children of my client, Mr. Abdul Hanan, and many civilians.
+
+<<2165.55;2170.63;en>>
+Abdul Bayan and Nezar Ullah were only 8 and 12 years old.
+
+<<2170.63;2175.87;en>>
+The strike was ordered by the German Colonel Klein at the German Army base.
+
+<<2175.87;2186.49;en>>
+From there, Colonel Klein was watching two fuel trucks that had been stuck while crossing the Kunduz River, and the large crowd gathered around the trucks.
+
+<<2186.49;2191.33;en>>
+The day before, a Taliban commando had seized the trucks.
+
+<<2191.33;2200.33;en>>
+During their slow drive through the province, which lasted several hours, they did not target the nearby German camp.
+
+<<2200.33;2211.41;en>>
+Still, half a day later, Colonel Klein declared it an imminent threat and requested ice of aircraft, which then dropped two 500-pound bombs.
+
+<<2211.41;2217.29;en>>
+Since that fatal night, Abdul Hanan has been struggling to get justice.
+
+<<2217.29;2227.95;en>>
+When he wanted Germany to recognize his procedural rights as a father, German officials blocked him and called him and his children Taliban.
+
+<<2227.95;2236.57;en>>
+Without an effective investigation, without any desire to establish the full truth, the criminal proceeding was closed.
+
+<<2236.57;2240.45;en>>
+We have been challenging this decision for 10 years now.
+
+<<2240.45;2257.13;en>>
+As we will show, Germany could have and should have taken specific measures to comply with its obligations under Articles 2 and 13 of the Convention, even in the difficult security conditions of Afghanistan at the time.
+
+<<2257.13;2267.29;en>>
+We will first show the admissibility of the case by addressing the exhaustion of remedies, and then, through my colleague Professor Akande, the parts of attribution and jurisdiction.
+
+<<2267.29;2271.93;en>>
+Afterwards, I will continue with the merits of the case.
+
+<<2271.93;2279.37;en>>
+The government argues, also today, that we did not exhaust all domestic remedies in Germany.
+
+<<2279.37;2280.97;en>>
+This is not true.
+
+<<2280.97;2290.33;en>>
+This Court held in Henschel and Stark that violations of the Convention must be raised domestically at least in substance.
+
+<<2290.33;2293.83;en>>
+The applicant went far beyond that.
+
+<<2293.83;2299.81;en>>
+We invite the Court to refer to our submission of November 1, 2019.
+
+<<2299.81;2314.73;en>>
+We translated many pages of the applicant's claim for an effective investigation before the domestic courts, very specifically and in substance, by listing concrete flaws of the investigation.
+
+<<2314.73;2326.69;en>>
+The applicant extensively referred to the case law of this Court, in particular concerning the State's obligation under Article 2 to carry out prompt, complete, and independent investigations.
+
+<<2326.69;2350.13;en>>
+My client argued that the investigations were ineffective because, inter alia, a number of relevant witnesses were not heard, the assumptions of the German colonel that led to the strike were not challenged, independent military experts were not heard, and the causes of the death of the applicant's son and the other estimated 100 civilians were not established.
+
+[[Applicant;AP1]]
+
+<<2356.78;2359.82;en>>
+Mr. President, members of the court,
+
+<<2359.82;2375.34;en>>
+my primary task will be to deal with the argument that the victims and the facts fell within the jurisdiction of Germany, such that the state was bound to secure to them the right to life provided for in Article 2 of the Convention.
+
+<<2375.34;2387.98;en>>
+In order to establish the jurisdiction of Germany, I will first demonstrate that both the investigation and the airstrike that killed the applicant's children are attributable to Germany and not to the United Nations.
+
+<<2387.98;2396.3;en>>
+The acts of the German forces in Afghanistan and the conduct of the investigation are to be attributed to Germany for three reasons.
+
+<<2396.3;2412.78;en>>
+The first is that for the conduct of an organ of a state that is placed at the disposal of the UN to be attributable to that organization, the organization must exercise effective control over such conduct.
+
+<<2412.78;2429.22;en>>
+This test of effective control over the conduct is clearly set out in Article 7 of the International Law Commission's Articles on the Responsibility of International Organizations and was applied by this court in the Al-Jadda case.
+
+<<2429.22;2440.86;en>>
+As in Al-Jadda, the airstrike does not cease to be attributable to Germany, since German troops were not under the exclusive direction and control of the UN.
+
+<<2440.86;2447.86;en>>
+At no point was the UN involved in the exercise of effective control over the conduct of Colonel Klein.
+
+<<2447.86;2456.7;en>>
+Germany retained full command over its troops, which remained part of the German national chain of command.
+
+<<2456.7;2466.1;en>>
+Authority over the troops, including decisions about the use of force, likewise remained exclusively with German state agents.
+
+<<2466.1;2475.58;en>>
+The effective control of Germany over the airstrike is reflected in the sequence of binding orders Colonel Klein gave on that occasion.
+
+<<2475.58;2486.66;en>>
+Colonel Klein himself confirmed that no superiors from ISAF were involved in his decision-making process leading to the airstrike.
+
+<<2486.66;2501.1;en>>
+In determining whether acts of state forces are to be attributed to an international organization, what is decisive is the amount of control exercised over the particular conduct at issue.
+
+<<2501.1;2515.42;en>>
+This approach is consistent with that of this court in Al-Jadda, where the court examined which entity had authority and control over the decision to hold the applicant in internment.
+
+<<2515.42;2538.74;en>>
+Our second argument with regard to attribution is that even if the test for determining whether the conduct was attributable to the UN was to look for which entity had ultimate authority and control, as set out in the Barami and Saramati judgment, it was Germany and not the UN which had such control in the present scenario.
+
+<<2538.74;2545.82;en>>
+Indeed, the situation at hand cannot be compared to the facts underlying the Barami judgment.
+
+<<2545.82;2555.38;en>>
+The wording of the relevant Security Council resolutions in respect of Kosovo and Afghanistan differ when it comes to the role of the UN.
+
+<<2555.38;2569.22;en>>
+In Kosovo, resolution 1244 described KFOR as an international security presence under UN auspices and under unified command and control.
+
+<<2569.22;2578.86;en>>
+On the contrary, the ISAF resolution 1386 makes no reference to any comparable role for the UN.
+
+<<2578.86;2594.9;en>>
+It is worth noting that in Al-Jadda, the court did not consider that the acts of state armed forces were to be attributed to the UN simply because the UN Security Council had authorized the overall mission.
+
+<<2594.9;2605.86;en>>
+Similarly, the reporting mechanism to the UN provided for by the ISAF resolution cannot be a basis to attribute the airstrike to the UN.
+
+<<2605.86;2633.86;en>>
+This court has already rejected that argument in Al-Jadda, affirming that although the US, and I quote, was requested to report periodically to the Security Council about the activities of the multinational force, the United Nations did not thereby assume any degree of control over either the force or any other of the executive functions of the CPA, end quote.
+
+<<2633.86;2655.1;en>>
+It is significant that in Berami, the court found that the acts at issue in that case were not attributable to any troop contributing nation due to the lack of any suggestion or evidence of any actual troop contributing nation orders or interference in the present operational detention matter.
+
+<<2655.1;2658.02;en>>
+The situation in this case is quite the opposite.
+
+<<2658.02;2663.9;en>>
+There is no evidence of any interference by the UN in the order to conduct that strike.
+
+<<2663.9;2670.42;en>>
+The order came directly from the German colonel, who made decisions on his own.
+
+<<2670.42;2682.26;en>>
+Our third argument on attribution is that it is a well-established principle under international law, that the question of attribution is not an either or question.
+
+<<2682.26;2692.7;en>>
+The conduct would not cease to be attributable to Germany, even if it was hypothetically also concurrently attributable to the UN.
+
+<<2692.7;2711.18;en>>
+This possibility of concurrent attribution is consistent with the position of the International Law Commission in the Articles on Responsibility of International Organizations, which has a number of articles that envisage such joint responsibility, notably Article 48.
+
+<<2711.18;2713.78;en>>
+Mr. President, members of the court,
+
+<<2713.78;2716.98;en>>
+I now turn to jurisdiction.
+
+<<2716.98;2724.6;en>>
+It is our submission that the applicant and his sons were within the jurisdiction of Germany for two reasons.
+
+<<2724.6;2732.94;en>>
+First, Germany exercised control over the victims of the airstrike and sufficient control over the territory.
+
+<<2732.94;2744.12;en>>
+Second, Germany initiated investigations into the airstrike that are sufficient to establish a jurisdictional link for the purposes of the convention.
+
+<<2744.12;2755.42;en>>
+Germany and the intervening states make quite a lot of the fact that the court has repeatedly affirmed that jurisdiction is primarily territorial under Article I.
+
+<<2755.42;2767.62;en>>
+However, the court has also affirmed that jurisdiction under Article I is essentially about whether the state exercises authority and control over an individual.
+
+<<2767.62;2785.4;en>>
+Such control may arise through control of territory that the individual is in or through the acts of state agents who exercise authority and control over the individual directly, even if the individual is outside the state's territory.
+
+<<2785.4;2802.66;en>>
+What is crucial with respect to the exercise of control over an individual and that which creates a jurisdictional link is that the state must exercise control over a person's enjoyment of the particular rights at issue.
+
+<<2802.66;2809.66;en>>
+This has been stated expressly by the Human Rights Committee in its general comment number 36.
+
+<<2809.66;2824.02;en>>
+However, this point also follows by implication from the decision of this court in the Al-Skaini case when the court held that convention rights can be divided and tailored.
+
+<<2824.02;2837.94;en>>
+What matters then is the state's exercise of a level of control over an individual, such as to be able to affect the relevant rights, in this case, their right to life.
+
+<<2837.94;2849.14;en>>
+Through its agents abroad, Germany did have authority and control that enabled the state to affect the right to life of the people standing at the Kunduz River.
+
+<<2849.14;2854.86;en>>
+The airstrike that killed the applicant's son is an example of that control.
+
+<<2854.86;2870.82;en>>
+As in the Jaloud case, in which the jurisdiction of the Netherlands was confirmed for a fatal shooting at a checkpoint in Iraq, what is decisive here is the exercise of physical power and control over the person.
+
+<<2870.82;2885.22;en>>
+No logical distinction can be made between the exercise of power so as to be able to affect the right to life in the context of a patrol, a checkpoint, or an air operation.
+
+<<2885.22;2889.18;en>>
+The only difference is one of distance.
+
+<<2889.18;2902.02;en>>
+The simple fact that Colonel Klein decided not to deploy ground troops but to resort to an airstrike cannot justify a different conclusion with regard to jurisdiction.
+
+<<2902.02;2909.06;en>>
+Germany argues that the airstrike was an instantaneous act conducted against a legitimate target.
+
+<<2909.06;2917.62;en>>
+And thus, recalling the Bankiewicz ruling, it concludes that jurisdiction cannot be established under such circumstances.
+
+<<2917.62;2921.74;en>>
+It is crucial, though, to place the airstrike in context.
+
+<<2921.74;2937.66;en>>
+The strike of the 4th of September, 2009 was just one of numerous military operations Germany conducted in the Kunduz province over the course of what was already, at that time, an eight-year-long engagement in Afghanistan.
+
+<<2937.66;2943.92;en>>
+The attack was conducted for the purpose of asserting security and control.
+
+<<2943.92;2954.0;en>>
+It was a manifestation of Germany's exercise of public powers in the region, to use the words of the Al-Skaini judgment of this court.
+
+<<2954.0;2962.06;en>>
+German troops in Afghanistan were operating with the consent and at the invitation of the Afghan government.
+
+<<2962.06;2970.3;en>>
+They were mandated by the Security Council to support, quote, the maintenance of security.
+
+<<2970.3;2976.42;en>>
+The circumstances of the present case are indeed comparable to the cases of Jaloud and Al-Skaini.
+
+<<2976.42;3000.28;en>>
+The Dutch officers in Jaloud and the British officers in Al-Skaini were deployed as part of a UN Security Council mandated mission in which individuals were killed in the course of a security operation carried out pursuant to the Security Council's mandate and for the purpose of ensuring security in the area.
+
+<<3000.28;3005.94;en>>
+The same is true of the German officers deployed in Afghanistan.
+
+<<3005.94;3016.1;en>>
+In addition to Germany's exercise of control over the particular individuals in this case, Germany also exercised effective control over the area where the strike took place.
+
+<<3016.1;3020.86;en>>
+We refer to our written submissions on this issue.
+
+<<3020.86;3024.1;en>>
+Mr. President, members of the court,
+
+<<3024.1;3040.18;en>>
+our second broad argument with respect to jurisdiction is that the applicants' children were within the jurisdiction of Germany as a consequence of the initiation of an investigation into the airstrike.
+
+<<3040.18;3069.26;en>>
+In the Guzel-Utlu case, this chamber held that where the judicial authorities of a contracting state institute their own criminal investigation concerning a death which has occurred outside the jurisdiction of that state, the institution of that investigation is sufficient to establish a jurisdictional link between the state and the victim's relatives who later bring proceedings.
+
+<<3069.26;3075.22;en>>
+The Guzel-Utlu decision is not, as was argued, an isolated or exceptional case.
+
+<<3075.22;3084.38;en>>
+But rather, it is consistent with the longstanding case law of the court, as extensively elaborated in our written submissions.
+
+<<3084.38;3099.08;en>>
+It is consistent with the court's view that the procedural obligation to investigate that arises under Article 2 is a separate and detachable obligation under that article.
+
+<<3099.08;3116.22;en>>
+Contrary to the government's claims, the obligation to seek cooperation as a component of the procedural obligation under Article 2 is not confined to the seeking of mutual cooperation between contracting states.
+
+<<3116.22;3129.58;en>>
+In Guzel-Utlu, the grand chamber made clear that there are two types of cases where the duty to cooperate may arise with respect to the procedural right under Article 2.
+
+<<3129.58;3140.38;en>>
+The first type are cases where a state, as part of its own obligation to investigate, may have an obligation to seek cooperation from other states.
+
+<<3140.38;3152.62;en>>
+The second type of cases are cases where a state may have an obligation to assist another state that is conducting an investigation under its jurisdiction.
+
+<<3152.62;3167.78;en>>
+It is only in relation to that second case, where another state is conducting an investigation and seeking assistance, that the grand chamber spoke of the obligation of mutual cooperation among contracting states.
+
+<<3167.78;3171.3;en>>
+However, our case is the first.
+
+<<3171.3;3179.66;en>>
+It relates to Germany's obligation to seek cooperation for an investigation that it is conducting.
+
+<<3179.66;3191.78;en>>
+In such a case, there is nothing in the case law, or indeed in logic, that limits Germany to seeking cooperation only from other contracting states.
+
+<<3191.78;3205.62;en>>
+Finally, the fact that the initiation of investigations by the state is sufficient to establish a jurisdictional link would not render jurisdiction arbitrary or act as a chill on the opening of investigations.
+
+<<3205.62;3218.62;en>>
+As the court held in Gusel-Yutlu, a jurisdictional link can be established under Article 2, even when no investigation or proceedings have been instituted by that state.
+
+<<3218.62;3224.42;en>>
+This jurisdictional link will be present where the case has special features.
+
+<<3224.42;3229.62;en>>
+Those special features will depend on the particular circumstances of the case.
+
+<<3229.62;3241.62;en>>
+And our submission would include whether the state has an obligation under domestic or international law to conduct an investigation.
+
+<<3241.62;3243.14;en>>
+Mr. President, with your permission,
+
+<<3243.14;3244.38;en>>
+I now give the floor back to Mr. Kelly.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<3248.29;3249.69;en>>
+Thank you very much, Mr. Kaleck.
+
+[[Applicant;AP2]]
+
+<<3251.85;3263.39;en>>
+Now turning to the Article 2 violations, we argue that Germany violated its procedural obligations under the convention from the moment following the airstrike.
+
+<<3263.39;3273.43;en>>
+Before going into the substance, the applicant wishes to response to the government's claim that the subject matter of the review depends on the basis of jurisdiction.
+
+<<3273.43;3285.61;en>>
+Even if the court based its jurisdiction merely on the initiation of proceedings by Germany, the review shall not be confined to investigative measures within the respondent state's territory.
+
+<<3285.61;3296.93;en>>
+This would be contrary to the court's own case law, which sees the jurisdictional link in line with the nature of the procedural obligation to carry out an effective investigation.
+
+<<3296.93;3303.09;en>>
+Yet this case is not exclusively about investigative flaws in Afghanistan.
+
+<<3303.09;3310.89;en>>
+The government falsely claims that all shortcomings of the investigation concern measures outside of the German territory.
+
+<<3310.89;3318.41;en>>
+The applicant wishes to address several flaws that happened in Germany to the substance of the violations.
+
+<<3318.41;3333.77;en>>
+Protection of the right to life under Article 2 entails that all reasonable steps must be taken to ensure that an effective, independent investigation is conducted, taking into full consideration the difficult security conditions.
+
+<<3333.77;3345.21;en>>
+Indeed, Germany failed to do what it reasonably could have done, and the investigation did not fulfill the necessary basic objective as required under Article 2.
+
+<<3345.21;3348.25;en>>
+The applicant was not involved in the investigation.
+
+<<3348.25;3356.05;en>>
+Those who conducted the investigations lacked the necessary independence, and the investigations were delayed and inadequate.
+
+<<3356.05;3370.69;en>>
+Therefore, the applicant is concerned with the effectiveness of the investigation as such, and not only with the legal assessment by the federal prosecutor, as the government suggests in its submission and also right now.
+
+<<3370.69;3378.69;en>>
+The procedural obligation under Article 2 is an obligation of means and not of results, and the applicant is fully aware of this.
+
+<<3378.69;3392.87;en>>
+The point is that regardless of the outcome of the proceeding, Germany breached a number of concrete obligations of conduct with regards to investigative steps, both in Afghanistan and in Germany.
+
+<<3392.87;3401.41;en>>
+First, the German investigation failed both to determine whether the strike was absolutely necessary and whether it was proportionate.
+
+<<3401.41;3410.93;en>>
+The court held that the use of the term absolutely necessary indicates that a stricter and more compelling test of necessity must be employed.
+
+<<3410.93;3424.01;en>>
+Domestic investigations cannot meet the standards of Article 2 if they do not determine whether the use of lethal force by agents of the state did not exceed what then the circumstances demanded.
+
+<<3424.01;3438.85;en>>
+Even considering that in times of armed conflict, military necessity comes into play, Germany failed to assess the proportionality of the strike also from a less stringent international humanitarian law perspective.
+
+<<3438.85;3443.61;en>>
+Second, Germany failed to promptly assess the consequences of the airstrike.
+
+<<3443.61;3453.03;en>>
+Colonel Klein himself delayed sending the battle assessment team more than 10 hours after the strike, and the site was already altered.
+
+<<3453.03;3458.15;en>>
+For example, Germany could have sent a drone to take video footage to document the scene.
+
+<<3458.15;3467.73;en>>
+Third, Germany never sought to establish the precise number of individuals, let alone of civilians, women, and children who were killed in the airstrike.
+
+<<3467.73;3485.01;en>>
+There was no direct contact established with the applicant or any other witnesses amongst the villagers living in the area in order to secure names of people killed, not even after the UN handed over a list of names or when the families appointed a German lawyer.
+
+<<3485.01;3494.55;en>>
+The point is not whether further information would have led to insights incriminating the suspects, as the government suggests.
+
+<<3494.55;3507.21;en>>
+The point is that establishing and identifying the number of individuals killed would have been important to determine whether the use of force exercised by Germany was not excessive.
+
+<<3507.21;3514.61;en>>
+Fourth, German authority risked collusion because they did not separate the military officers involved.
+
+<<3514.61;3525.69;en>>
+This would have been of utmost importance, as the federal prosecutor later exclusively relied on the subjective views of the suspects to justify closing the investigation.
+
+<<3525.69;3534.33;en>>
+Notably, Germany did not remove nor even temporarily discharge the colonel responsible for the strike.
+
+<<3534.33;3542.85;en>>
+Instead, he was tasked with the fact finding the morning after and later even promoted to general.
+
+<<3542.85;3554.73;en>>
+Authorities in Germany could have used means of digital communication to enable the prosecutor to take the suspect's testimonies immediately after the incident the same day.
+
+<<3554.73;3570.13;en>>
+Instead, the first questioning of the suspects by the military police only took place in the afternoon of September 5, as both suspects expressly refused being questioned by the military police before.
+
+<<3570.13;3582.65;en>>
+We therefore contest the government's claim that Colonel Klein was interrogated by German officials on September 4, and we further contest that he was formally interrogated by the ISAF team on the same day.
+
+<<3582.65;3591.99;en>>
+German authorities did not conduct an impartial investigation.
+
+<<3591.99;3597.03;en>>
+They failed to scrutinize Colonel Klein's perspective and its reasonableness.
+
+<<3597.03;3605.71;en>>
+German prosecutors never challenged the version of events provided by the suspects through independent experts or witness testimonies.
+
+<<3605.71;3613.27;en>>
+The German government acknowledged that investigators in Germany lacked the specialized military knowledge to interview the suspects and witnesses.
+
+<<3613.27;3623.23;en>>
+This shows that the inclusion of independent advice would have been crucial in order to assess the necessity and proportionality of the strike.
+
+<<3623.23;3632.79;en>>
+On which basis did German authorities assess whether Colonel Klein's assumption that only Taliban were present was completely plausible?
+
+<<3632.79;3645.91;en>>
+Strikingly, the German prosecutors never clarified what the terms insurgent or Taliban meant, as they're very vague, broad terms that do not define legitimate military targets under IHL.
+
+<<3648.27;3657.23;en>>
+Even in a difficult conflict environment, German officials could have used modern technology to question witnesses in Afghanistan or even in Germany.
+
+<<3657.23;3664.67;en>>
+Six, German authorities failed to request the objects seized by the Afghan security forces at the site.
+
+<<3664.67;3672.99;en>>
+These include remnant of arms, stolen weapons, and firearms said to have been carried by the persons attacked.
+
+<<3672.99;3683.87;en>>
+Seventh, the Ministry of Defense tried to obstruct the criminal investigation by the general prosecutor, Dresden, from the very beginning.
+
+<<3683.87;3692.87;en>>
+The ministry issued an internal instruction not to forward any document in relation to the facts of the incident to the Dresden prosecutor.
+
+<<3692.87;3704.31;en>>
+When Dresden received the case, he took his intention to indict the suspects so that the competent criminal courts could adjudicate on difficult legal question.
+
+<<3704.31;3714.67;en>>
+The ministry intervened by exercising pressure so that the Dresden prosecutor would relinquish its competence to investigate the case to federal authorities.
+
+<<3714.67;3722.59;en>>
+Notably, the federal public prosecutor is under the control of the federal government and bound to its instructions.
+
+<<3722.59;3731.59;en>>
+The translated excerpt of the parliamentary inquiry report describes these interventions in detail.
+
+<<3731.59;3738.11;en>>
+These flaws show that German authorities violated a number of procedural obligations under Article II.
+
+<<3738.11;3742.83;en>>
+But now I would like to draw your attention to another significant breach.
+
+<<3742.83;3750.11;en>>
+Germany did not involve the applicant to the extent necessary to safeguard his legitimate interest.
+
+<<3750.11;3757.27;en>>
+I was instructed on March 5, 2010, already as a second lawyer of the applicant.
+
+<<3757.27;3767.75;en>>
+And when I wrote to the federal prosecutor, six months had already passed without any attempt of the prosecutor to approach the applicant.
+
+<<3767.75;3775.23;en>>
+Instead, when my client requested access to the file and to be heard, he was effectively dismissed.
+
+<<3775.23;3786.95;en>>
+He and his 12-year-old son were accused by the federal prosecutor of belonging to the Taliban so that the prosecutor could deny access to the case files.
+
+<<3786.95;3797.03;en>>
+Apparently, a list of potential victims included a person with a similar name, age 22, as a suspected member of Taliban.
+
+<<3797.03;3803.27;en>>
+Seven days after my client requested access to the file, the investigation was declared closed.
+
+<<3803.27;3815.47;en>>
+The federal prosecutor actively avoided a decision about the applicant's victim status and refused to hear him in order to close the investigation without any victim's participation.
+
+<<3815.47;3824.63;en>>
+My client was granted access to the file on a very limited basis only seven months later in October 2010.
+
+<<3824.63;3834.71;en>>
+This exclusion of the applicant is another blatant violation of the procedural rights accorded by the Convention for the Protection of the Right to Life.
+
+<<3834.71;3843.91;en>>
+Finally, we will now address the fact that the applicant had no effective remedy at his disposal in violations of Articles 2 and 13.
+
+<<3843.91;3860.87;en>>
+Neither the regional High Court nor the federal Constitutional Court assessed the investigation in detail, and no references to obligations under the Convention or this Court's case law were made, in contrast to the recent decision of Henshaw and Stark.
+
+<<3860.87;3870.23;en>>
+The government mislead when it refers to an unrelated judgment by the federal Constitutional Court in order to show that the Convention was considered.
+
+<<3870.23;3875.51;en>>
+None of the references actually concerned the obligation under the Convention.
+
+<<3875.51;3879.03;en>>
+They concern cross-references to German case law.
+
+<<3879.03;3893.11;en>>
+Therefore, the German Constitutional Court failed to examine the substance of our claims and violated the applicant's rights to an effective remedy under Articles 2 and 13.
+
+<<3893.11;3910.35;en>>
+To conclude, Germany is responsible for the strike that killed the children of the applicant, Abdul Bayan and Neza Rula, and Germany failed to properly investigate the strike and the right to life violations.
+
+<<3910.35;3919.71;en>>
+It is on this basis that we ask this Court to declare that Germany violated Articles 2 and 13 of the Convention.
+
+<<3919.71;3932.47;en>>
+As Mr Abdulhanan recently emphasised to us, he and the people of his village are still traumatised by the devastating consequences of the bombing.
+
+<<3932.47;3937.83;en>>
+He very much appreciates the fact that today's hearing is taking place.
+
+<<3937.83;3940.51;en>>
+He wants justice for his sons.
+
+<<3940.51;3943.47;en>>
+He wants to be treated like everybody else.
+
+<<3943.47;3952.71;en>>
+He's not demanding anything but the application of the Convention in accordance with the Court's long-standing case law.
+
+<<3952.71;3952.71;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<3955.93;3957.37;fr>>
+Thank you very much.
+
+<<3957.85;3961.25;fr>>
+La parole est au l'agent du gouvernement français, monsieur Alabrune, vous avez la parole.
+
+[[ThirdParty;TP3]]
+
+<<3965.59;3982.55;fr>>
+Monsieur le Président, mesdames et messieurs les juges, j'ai l'honneur d'intervenir au nom des gouvernements français et britanniques sur la question de la juridiction qui est essentielle pour la présente affaire.
+
+<<3983.43;3997.99;fr>>
+Mon collègue britannique présentera ensuite des observations au nom des deux gouvernements sur la question de l'attribution de la violation allégée ainsi qu'à titre subsidiaire sur la question de l'étendue de l'obligation d'enquête.
+
+<<4000.55;4036.32;fr>>
+Nos deux gouvernements sont d'avis, comme les autres états tiers intervenants, premièrement, que la frappe aérienne à l'origine de la présente affaire ne constitue pas un exercice par l'Allemagne de sa juridiction au sens de l'article 1 de la Convention, et deuxièmement, que l'ouverture d'une enquête par les autorités allemandes sur cette frappe aérienne ne suffit pas, dans les circonstances de l'espèce, à créer un lien juridictionnel entre le requérant et l'État allemand.
+
+<<4038.75;4050.36;fr>>
+S'agissant tout d'abord de la juridiction d'un État au sens de l'article 1 de la Convention, votre Cours a affirmé de manière constante qu'elle est principalement territoriale.
+
+<<4050.36;4067.19;fr>>
+Une telle limitation du concept de juridiction ressort clairement des travaux préparatoires de la Convention, analysés avec beaucoup de soin et de rigueur par la Grande Chambre dans sa décision Bankovitch.
+
+<<4067.19;4085.03;fr>>
+Il ne paraîtrait donc ni fondé ni approprié que l'interprétation de la notion fondamentale de juridiction soit sujette à une interprétation extensive, comme la Grande Chambre l'a encore clairement reconnue dans sa décision Bankovitch.
+
+<<4085.03;4094.63;fr>>
+C'est pourquoi les exceptions à ce principe de la juridiction territoriale doivent être limitées et strictement définies.
+
+<<4094.63;4107.31;fr>>
+Ainsi que le montre l'arrêt de Grande Chambre Alskénie, la Cour n'a admis la juridiction extraterritoriale d'un État que dans deux cas. Premièrement, lorsque cet État
+
+<<4107.31;4120.76;fr>>
+exerce un contrôle effectif sur un territoire étranger et deuxièmement lorsqu'un agent de cet État exerce une autorité et un contrôle en dehors de ses frontières.
+
+<<4120.76;4130.19;fr>>
+Or, aucune de ces deux exceptions n'est applicable à une frappe aérienne menée dans le cadre d'une opération militaire.
+
+<<4130.19;4137.68;fr>>
+À l'étranger, telle que celle qui est en cause dans la présente affaire. S'agissant en premier lieu de
+
+<<4137.68;4154.43;fr>>
+l'exception liée au contrôle effectif d'un territoire, il est évident que l'Allemagne ne contrôlait pas la région de Kunduz, ni la zone de bombardement qui était aux mains des insurgés. Je renvoie sur ce point aux
+
+<<4154.43;4161.39;fr>>
+observations écrites de l'Allemagne et aux états tiers intervenants. S'agissant en second lieu de
+
+<<4161.39;4180.15;fr>>
+l'exception liée au contrôle et à l'autorité exercée par un agent de l'État hors de ses frontières, le critère essentiel à prendre en compte est, selon votre jurisprudence, l'exercice d'un pouvoir et d'un contrôle physique sur les personnes en question.
+
+<<4180.15;4188.11;fr>>
+La décision de grande chambre de l'État est la seule à avoir été prise en question. La décision de grande chambre
+
+<<4188.11;4192.84;fr>>
+Bankovic est claire sur ce point. Une frappe aérienne menée dans
+
+<<4192.84;4206.27;fr>>
+le cadre d'un conflit armé sur une zone de combat active n'atteint pas le degré de contrôle suffisant pour fonder un exercice extraterritorial de la juridiction au sens de la Convention.
+
+<<4206.27;4226.19;fr>>
+Nous invitons ainsi la grande chambre à réaffirmer le caractère essentiellement territorial de la juridiction et, de manière corollaire, le caractère limitatif des exceptions d'application extraterritoriale de la Convention énoncées dans l'arrêt Alskény.
+
+<<4226.19;4252.64;fr>>
+S'agissant à présent de l'enquête ouverte par les autorités allemandes, nos gouvernements sont d'avis que ce seul élément ne suffit pas à créer un lien juridictionnel avec la juridiction entre le requérant et l'Allemagne dans les circonstances de l'espèce. Nous estimons en particulier que
+
+<<4252.64;4267.6;fr>>
+la position adoptée par la Cour dans l'affaire Guset-Lurtelut, qui était justifiée par des circonstances factuelles spécifiques, n'est pas transposable à la présente espèce.
+
+<<4267.6;4276.03;fr>>
+Deux différences fondamentales existent en effet entre la présente affaire et l'affaire Guset-Lurtelut.
+
+<<4276.03;4290.19;fr>>
+Premièrement, l'affaire Guset-Lurtelut et toutes celles qui sont citées dans cet arrêt portaient sur des faits qui se sont déroulés intégralement dans l'espace juridique de la Convention.
+
+<<4290.19;4314.64;fr>>
+Dans ces affaires, la Cour a ainsi accordé un poids particulier aux engagements de coopération en matière pénale liant les Etats-partis à la Convention, mais aussi, dans le cas Guset-Lurtelut, à la situation spécifique de Chypre et de la République turque de Chypre du Nord. Il ressort ainsi clairement de l'arrêt
+
+<<4314.64;4336.72;fr>>
+rendu par la Cour dans cette affaire Guset-Lurtelut que le fondement de son raisonnement est la volonté d'assurer la continuité de la protection des droits conventionnels au sein de l'espace juridique de la Convention et d'empêcher qu'un territoire devienne un refuge pour des personnes suspectées d'avoir commis un crime.
+
+<<4336.72;4347.95;fr>>
+La solution choisie par la Cour s'est donc inscrite dans le contexte spécifique de la coopération pénale entre Etats-partis à la Convention.
+
+<<4347.95;4358.43;fr>>
+Dans la présente affaire, les faits faisant l'objet de l'enquête se sont produits sur le territoire afghan, donc en dehors de l'espace juridique de la Convention.
+
+<<4358.43;4365.84;fr>>
+Ils ne soulèvent pas de questions de coopération pénale entre Etats-partis à la Convention.
+
+<<4365.84;4376.23;fr>>
+Deuxièmement, dans l'affaire Guset-Lurtelut, aucune mesure d'enquête hors de l'espace juridique de la Convention n'était requise.
+
+<<4376.23;4389.8;fr>>
+Il s'agissait pour la Turquie d'adopter des mesures d'enquête sur le territoire de la République turque de Chypre du Nord, territoire qui se trouve sous son contrôle effectif selon la jurisprudence de la Cour.
+
+<<4389.8;4413.39;fr>>
+À l'inverse, dans la présente affaire est en cause une enquête qui nécessitait le recueil de preuves et de témoignages en Afghanistan et, plus précisément, dans la région de Kunduz, qui était à l'époque des faits une zone de combat active et un territoire sur lequel il n'est pas contesté, que l'Allemagne n'exerçait aucun contrôle.
+
+<<4413.39;4430.03;fr>>
+Dans un tel contexte, l'ouverture d'une enquête en Allemagne ne pouvait suffire à établir un lien juridictionnel entre l'Etat défendeur et le requérant au sens de l'article 1 de la Convention.
+
+<<4430.03;4456.64;fr>>
+L'alternative qui consisterait à se fonder pour établir un tel lien juridictionnel sur la seule existence d'une procédure dans un État parti, de n'obstant l'absence de contrôle effectif de l'État sur la situation en cause, risquerait d'aboutir à une application universelle de la Convention.
+
+<<4456.64;4463.47;fr>>
+Elle pourrait aussi dissuader les États partis d'ouvrir certaines enquêtes.
+
+<<4463.47;4492.95;fr>>
+En conclusion, nous invitons la Cour à prendre en compte le fait que l'État défendeur n'exerçait aucun contrôle sur les requérants ni sur le territoire sur lequel ils se trouvaient, et à conclure que, dans ces circonstances, l'ouverture d'une enquête ne crée pas de lien juridictionnel entre l'État défendeur et le requérant au sens de l'article 1 de la Convention.
+
+<<4492.95;4493.64;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<4496.68;4497.48;fr>>
+Merci beaucoup.
+
+<<4497.48;4501.76;en>>
+Sir James Eadie, you have the floor
+
+[[ThirdParty;TP1]]
+
+<<4503.47;4505.15;en>>
+Mr. President, members of the court,
+
+<<4505.15;4508.73;en>>
+I start with attribution.
+
+<<4508.73;4525.07;en>>
+All the intervening states submit that the conduct of the German forces as part of ISAF, and indeed of the other elements of ISAF involved in the strike, is attributable to the UN and not to Germany.
+
+<<4525.07;4537.55;en>>
+That, we and they submit, is the effect of the international law rules of attribution, to which the Grand Chamber gave effect in Birhami and Surremati.
+
+<<4537.55;4540.31;en>>
+There is an initial point of principle.
+
+<<4540.31;4554.99;en>>
+The applicant argues that al-Jadda must be interpreted as overturning the ultimate authority test, as set down in Birhami, and replacing it with one of effective control.
+
+<<4554.99;4557.03;en>>
+That is wrong.
+
+<<4557.03;4561.99;en>>
+Al-Jadda distinguished Birhami on the facts.
+
+<<4561.99;4564.75;en>>
+It did not overturn it.
+
+<<4564.75;4587.91;en>>
+Birhami remains good law, acknowledging the unique responsibility of the Security Council for the maintenance of international peace and security, and also acknowledging that the conditions for implementation of a UN Security Council resolution is for the UN to decide, as the Court noted in Birhami.
+
+<<4587.91;4602.07;en>>
+We submit that the bases for distinguishing Birhami in al-Jadda have no parallel or analogue here in the context of ISAF's military operations under the auspices of the UN in Afghanistan.
+
+<<4602.07;4611.95;en>>
+The Grand Chamber in al-Jadda, at paragraphs 80 to 85, identified three particular factors that distinguished the case from Birhami.
+
+<<4611.95;4623.55;en>>
+The first was that the multinational force had been present in Iraq since the invasion, and thus before the Security Council resolutions authorised its presence.
+
+<<4623.55;4635.03;en>>
+In Iraq, a command structure with no reference to the UN had thus been in place before the Security Council mandate, and remained in place after that.
+
+<<4635.03;4650.03;en>>
+Second, the Grand Chamber in al-Jadda found that both the terms of the UN Security Council authorisation and the degree of its ultimate authority were different in al-Jadda from Birhami, at paragraphs 80 to 82.
+
+<<4650.03;4671.51;en>>
+In particular, the resolutions on Iraq were adopted against the background of the role of the US and UK as occupying powers, paragraph 78, a role which in the Grand Chamber's analysis conferred on them separate authority and responsibility, and undercut the ultimate authority of the UN.
+
+<<4671.51;4683.95;en>>
+Third, in al-Jadda, organs of the UN had protested about the extent to which security internment was used by the multinational force, paragraph 82.
+
+<<4683.95;4689.87;en>>
+The factors that distinguished al-Jadda from Birhami do not apply here.
+
+<<4689.87;4697.83;en>>
+That is evident, we submit, from four features of the operations in Afghanistan that are of critical importance.
+
+<<4697.83;4711.59;en>>
+First, the International Security Force in Afghanistan, ISAF, was deployed after the Security Council mandate resolution 1386, not before, as in al-Jadda.
+
+<<4711.59;4724.23;en>>
+Second, neither ISAF nor the member states contributing forces to ISAF were occupying powers in Afghanistan, nor did they have a mandate to exercise governmental functions.
+
+<<4724.23;4732.75;en>>
+Rather, the governmental functions were exercised by the Afghan Interim Administration, see the Bon Agreement, section 3.
+
+<<4732.75;4751.59;en>>
+Third, ISAF operates under a structure of unified command over troops from a very large number of states, similarly to KFOR in Birhami, and unlike al-Jadda, there was no command structure in place prior to the UN authorisation.
+
+<<4751.59;4758.47;en>>
+Those factors were underscored by the English Court of Appeal in the Saddam Hamed case.
+
+<<4758.47;4775.07;en>>
+The court there held, after a very careful and detailed analysis of all the relevant features, that, and I quote, the chain of delegation of command for ISAF is essentially similar to the chain of delegation and command for KFOR.
+
+<<4775.07;4778.59;en>>
+That's paragraph 65 of Saddam Hamed.
+
+<<4778.59;4792.23;en>>
+The conclusion in that case on the facts of the case, that the claimant's detention was attributable to the UK rather than ISAF, was based on the fact that a separate national detention policy was in operation.
+
+<<4792.23;4808.39;en>>
+There is no suggestion here, however, that Germany established and operated a national targeting policy different from ISAF, and accordingly, the relevant conduct and chain of command remains attributable to the UN.
+
+<<4808.39;4818.79;en>>
+Further and forth, there is no evidence to suggest that the UN here disapproved of or protested against any relevant conduct of ISAF.
+
+<<4818.79;4833.59;en>>
+On attribution, we therefore urge the court to affirm the principles clearly set out in its case law, and in particular, the Barami judgment, and to find that it has no jurisdiction, ratione personae, over this matter.
+
+<<4833.59;4847.55;en>>
+If the court finds jurisdiction and attribution, it will then be necessary for it to assess the impact of IHL on article two of the convention, and it's to that topic I now turn.
+
+<<4847.55;4863.91;en>>
+As to the approach in principle, see paragraphs 44 to 52 of our observations, our core submission is that where IHL is engaged, the procedural obligations in article two must be interpreted in the light of it.
+
+<<4863.91;4867.79;en>>
+IHL is the lex specialis.
+
+<<4867.79;4881.67;en>>
+The ratio of Hassan and the United Kingdom, especially 103 to 104 in the court's judgment, is that IHL can, as such, even lead to the amendment of the convention.
+
+<<4881.67;4892.99;en>>
+The fact that the conflict in Hassan was an international armed conflict rather than an internal armed conflict is not, we suggest, a proper basis for distinguishing the present case.
+
+<<4892.99;4898.67;en>>
+The key point is that IHL regulates the relevant activity.
+
+<<4898.67;4901.59;en>>
+It is right that it should do so in principle.
+
+<<4901.59;4924.79;en>>
+It was designed and is apt for the purpose of regulating armed conflict, and it is right that it should do so because that is the way, in this special context, in which effect is given to the principle that the procedural obligation under article two is subject to practical considerations of feasibility and must be applied realistically.
+
+<<4924.79;4928.75;en>>
+As to the relevant content of IHL, I make four short points.
+
+<<4928.75;4936.11;en>>
+First, IHL does not impose a general duty to investigate all battlefield deaths.
+
+<<4936.11;4937.91;en>>
+That is not accidental.
+
+<<4937.91;4945.99;en>>
+It reflects a deliberate choice and a careful balancing of considerations of military necessity and humanity.
+
+<<4945.99;4960.19;en>>
+Second, IHL does set out a series of detailed rules specifying when states come under a duty to investigate deaths in a theatre of military operations in an armed conflict and what that duty involves.
+
+<<4960.19;4970.87;en>>
+Thus, IHL does not oblige states to investigate all deaths in theatres of operation, but only those resulting from alleged violations of IHL.
+
+<<4970.87;4979.19;en>>
+IHL imposes a number of further specific obligations, most notably in relation to grave breaches and war crimes.
+
+<<4979.19;4985.55;en>>
+IHL imposes a number of other specific duties in relation to the dead and missing persons.
+
+<<4985.55;4999.55;en>>
+It's to be noted specifically that the right of families to know the fate of their relatives in article 32 of additional protocol one is in relation to those specific obligations, as the 1987 commentary makes clear.
+
+<<4999.55;5010.67;en>>
+There is no basis for the contention by Rights Watch of paragraph 33 that this provision can form the basis for a human rights type general duty to investigation.
+
+<<5010.67;5018.71;en>>
+Third, the IHL position in relation to investigations of commanders and military police is important.
+
+<<5018.71;5025.39;en>>
+IHL assigns a specific role to commanders in the conduct of investigations.
+
+<<5025.39;5039.79;en>>
+And the rationale for this role is that in circumstances where no other authority is present, it's the duty of commanders to act like an investigating magistrate, as in the 1977 ICRC commentary.
+
+<<5039.79;5057.15;en>>
+If the procedural obligations in article two were to be interpreted so as to require the exclusion from investigation of military commanders, the lex specialis obligations under IHL as regards the specific investigative duties of commanders would be disavowed.
+
+<<5057.15;5074.19;en>>
+Additionally, the fact that those investigating such as military police may be integrated into the chain of operational command and thus come under the overall command of a mission cannot be considered to be a breach of standards of independence and effectiveness.
+
+<<5074.19;5082.11;en>>
+The practical reality on the ground is that there must be a clear line of authority and command for all personnel part of a deployment.
+
+<<5082.11;5090.75;en>>
+But that does not mean that those investigating will follow the orders of those and instructions of those entrusted with operational command.
+
+<<5090.75;5096.51;en>>
+And any assessment of independence must consider the practical conditions of deployment.
+
+<<5096.51;5110.15;en>>
+And finally, in assessing the adequacy of the evidence gathering in an investigation, what is legally and practically feasible in the context of an armed conflict must be a paramount consideration.
+
+<<5110.15;5123.87;en>>
+And there is, we suggest, real force in the submissions of Professor Krieger this morning on the limitations, legal and practical, that existed in relation to investigations in the context of Afghanistan.
+
+<<5123.87;5134.47;en>>
+So in relation to the Article 2 procedural obligation, we submit that IHL occupies the field and regulates comprehensively.
+
+<<5134.47;5142.15;en>>
+It is no part of that IHL regulation to create some sort of general duty to investigate.
+
+<<5142.15;5153.43;en>>
+The investigative obligations under IHL are not consistent with some general obligation to investigate under Article 2 in this special context.
+
+<<5153.43;5170.75;en>>
+IHL acknowledges deliberately no such obligation, nor are they consistent with the Article 2 procedural rules more generally, developed as they were in the context of peace and ordinary law enforcement.
+
+<<5170.75;5179.31;en>>
+And it is for all of those reasons that IHL is, and should, we respectfully submit, be treated by this court as being the lex specialis.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<5184.34;5186.78;en>>
+Thank you very much.
+
+<<5186.78;5191.06;en>>
+I now call Mr. Wordsworth.
+
+<<5191.06;5193.26;en>>
+Yes, please.
+
+[[ThirdParty;TP2]]
+
+<<5194.47;5214.39;en>>
+Mr President, members of the court, Rights Watch UK will be focusing in these oral submissions solely on the question of when an individual may come within a state's jurisdiction under Article 1 due to that state's exercise of physical power and control. I refer the court to our written
+
+<<5214.39;5226.63;en>>
+comments for the other matters on which Rights Watch UK has also intervened, including the importance of the right to truth in considering the adequacies of remedies for human rights violations.
+
+<<5226.63;5241.39;en>>
+As to Article 1, this case brings into sharp focus the question of what the court considers to be required when there is an exercise of physical power and control. To borrow the words of Mr
+
+<<5241.39;5255.59;en>>
+Justice Leggott in the English High Court in the Al-Sadun case to formulate a key question, can a principled system of human rights law draw a distinction between 1. killing an individual
+
+<<5255.59;5262.89;en>>
+after arresting him and 2. simply shooting him without arresting him first, such that in the
+
+<<5262.89;5277.51;en>>
+first case there is an obligation to respect the person's right to life, yet in the second there is not? He stated in terms that no such distinction could be drawn. The English Court of Appeal,
+
+<<5277.51;5289.91;en>>
+thought it would be for this court to say that there is no distinction, but it was clearly troubled by the force of the judge's reasoning, which it expressly acknowledged. Indeed, it might
+
+<<5289.91;5319.47;en>>
+appear counterproductive to any system of human rights protection for rights to be engaged where there is detention, but not use of lethal force alone, such that accountability could have been avoided in a case like Issa if the victims had been shot by the soldiers right away, as opposed to detaining them first. This critical issue now comes before you in the form of an airstrike,
+
+<<5319.47;5332.59;en>>
+with troops on the ground, as opposed to a bullet, and it's been strongly suggested to the court that Bankovic provides the answer. And even so far as concerns certain of the intervening
+
+<<5332.59;5353.59;en>>
+states, that the important statements of principle in Al-Skaini should be applied restrictively and by reference to Bankovic, almost as if they had never been made, and that suggestion should be rejected. The principles for identifying where a potential victim is within
+
+<<5353.59;5382.79;en>>
+the jurisdiction of the contracting parties were formulated in Al-Skaini with evident care, taking account of all the preceding jurisprudence of the court, and that is no doubt why those principles have been reiterated in full in cases like Jaloud and Hassan, as well as repeated in multiple domestic cases. And critically, the identification in Al-Skaini that in certain
+
+<<5382.79;5414.15;en>>
+circumstances the use of force by a state's agents operating outside its territory may bring the individual, thereby brought under the control of the state's authorities, into the state's Article 1 jurisdiction, reflects not only the court's past jurisprudence, but also the ordinary meaning of the term jurisdiction within Article 1, as interpreted according to the usual rules. And
+
+<<5414.15;5434.79;en>>
+while the court in Bankovic focused on the extent of a state's jurisdiction in international law, and unsurprisingly so, this was nonetheless a focus on where a state is generally permitted to exercise jurisdiction extraterritorially. So that could not provide, and presumably was not
+
+<<5434.79;5466.67;en>>
+intended to provide, the court with a definitive list of the instances where a state does in fact assert its jurisdiction over an individual outside its territory, such that the state can be expected and intended, through Article 1, to protect the human rights of the individual in compliance with its ECHR obligations. Of course, as the court very well knows, it was said in Bankovic that
+
+<<5466.67;5482.03;en>>
+jurisdiction under Article 1 is essentially territorial in nature, and that extraterritorial jurisdiction is exceptional. But that is an apt reflection of reality. The state does, on a day-to-day
+
+<<5482.03;5496.91;en>>
+basis and as a matter of fact, exercise jurisdiction over those within its territory, and assertions of jurisdiction abroad are indeed the exception, and not the rule. But that does not mean that an
+
+<<5496.91;5510.11;en>>
+assertion of jurisdiction outside the state's territory is somehow conceptually different in nature to an assertion within the territory. According to the UK Supreme Court in the Susan
+
+<<5510.11;5531.23;en>>
+Smith case, the word exceptional is there in Bankovic not to set an especially high threshold for circumstances to cross before they can justify a finding that the state was exercising jurisdiction extraterritorially. It is there to make it clear that for this purpose the normal presumption
+
+<<5531.23;5538.35;en>>
+that applies throughout the state's territory does not apply. And this appears correct, and as
+
+<<5538.35;5546.99;en>>
+Al-Skaini identifies, all depends on the particular facts. Against that backdrop, I wish to make five
+
+<<5546.99;5554.03;en>>
+brief points. First, the court is now concerned only with whether control and authority has been
+
+<<5554.03;5561.07;en>>
+asserted so as to engage the right to life. That follows from the important statement in Al-Skaini
+
+<<5561.07;5576.27;en>>
+that the state's only obligation under Section 1 of the Convention is to secure to the individual the rights that are relevant to his or her situation. Second, Al-Skaini and the court's
+
+<<5576.27;5590.51;en>>
+subsequent cases do suggest that it is not all cases involving physical power and control that are correctly regarded as falling within a state's jurisdiction. In Jaloud and Pisari, for example,
+
+<<5590.51;5596.59;en>>
+the court focused on the assertion of authority and control through the operation of the checkpoint.
+
+<<5596.59;5617.71;en>>
+Whilst Hassan was, of course, a detention case, plainly the court continues to reject a cause-and-effect notion of jurisdiction, and Rights Watch would respectfully suggest that it is correct to do so, as otherwise the term jurisdiction within Article 1 risks being deprived of meaning.
+
+<<5617.71;5641.55;en>>
+Third, in identifying where, in the context of the right to life, an exercise of physical power and control may constitute an assertion of jurisdiction, the Human Rights Committee's General Comment 36 may provide a useful tool. This defines those subject to a state's jurisdiction with respect to
+
+<<5641.55;5670.83;en>>
+the right to life as all persons over whose enjoyment of the right to life it exercises power or effective control, which includes persons located outside any territory effectively controlled by the state, whose right to life is nonetheless impacted by its military or other activities in a direct and reasonably foreseeable manner. As we identify in our written comments,
+
+<<5670.83;5685.79;en>>
+the International Court of Justice has accorded great weight to General Comments of the Human Rights Committee. It is notable that of the 173 state parties to the ICCPR, we understand that
+
+<<5685.79;5693.39;en>>
+only seven commented on this interpretation as to jurisdiction. Germany did comment,
+
+<<5693.39;5708.35;en>>
+stating that the mere fact that a military or other activity abroad has an impact on persons abroad would not automatically suffice to establish its jurisdiction over the person concerned.
+
+<<5708.35;5724.51;en>>
+That must be correct and is also consistent with this court's jurisprudence, but that is not what General Comment 36 suggests. This leads me to our fourth point, which is that the various statements
+
+<<5724.51;5740.19;en>>
+on a functional approach to jurisdiction, including General Comment 36, contain important limitations that go to identify whether an individual is indeed within a state's jurisdiction. In General
+
+<<5740.19;5746.67;en>>
+Comment 36, the impact to the right to life must be direct and reasonably foreseeable.
+
+<<5746.67;5768.35;en>>
+In any given context, this will require a close inspection of the facts and any legal duties, incumbent on the state, that will give more specific content in terms of identifying what should be taken as reasonably foreseeable. In the context of an armed conflict, the appropriate
+
+<<5768.35;5781.23;en>>
+reference point is IHL and the protections that apply for civilians in the context of targeting a military object. Indeed, Article 1 must of course anyway be interpreted taking into account
+
+<<5781.23;5789.79;en>>
+relevant rules of international law, which includes IHL. As to the relevant rules of IHL,
+
+<<5789.79;5825.31;en>>
+as follows from Article 57 of Additional Protocol 1 to the 1949 Geneva Conventions, which reflects customary international law, and indeed as is reflected in this court's own jurisprudence in cases like Issa Yeva, those who plan or decide an attack must take all feasible precautions in the choice of means and methods of attack, with a view to avoiding and in any event to minimizing incidental loss of civilian life. They must also refrain from deciding to launch any attack which
+
+<<5825.31;5839.31;en>>
+may be expected to cause incidental loss of civilian life, which would be excessive in relation to the concrete and direct military advantage anticipated. The rule on proportionality in
+
+<<5839.31;5847.63;en>>
+Article 51 of AP1 is cast in similar terms and is again reflective of customary international law.
+
+<<5847.63;5868.91;en>>
+Moreover, in ratifying AP1, Germany declared its understanding that the word feasible, used in Article 57, means that which is practicable or practically possible, taking into account all circumstances ruling at the time, including humanitarian and military considerations.
+
+<<5868.91;5892.19;en>>
+As follows from these basic rules, and as is explained further by the ICRC legal advisors, Robinson and Nola in their 2016 paper, an assessment of the expected incidental damage arising from an attack is therefore required, including as to what is reasonably foreseeable. And Germany
+
+<<5892.19;5921.31;en>>
+considers itself obliged to do all that is practicable or practically possible, taking into account all the circumstances when it comes to taking all feasible precautions, which of itself indicates that a state's assessment of the risk of affecting the right to life of civilians is, or should be, routine. Thus, in this context, and consistent with this Court's past cases,
+
+<<5921.31;5942.67;en>>
+it would be incorrect to focus on the airstrike alone as an instantaneous act, but it is necessary to look at all the circumstances to identify whether there was an exercise of state agent authority. That is, one, the German presence on the ground in Kunduz as part of the security
+
+<<5942.67;5950.27;en>>
+function accepted by ISAF, which alone shows that this is not a Bankovic case. Two, the specific
+
+<<5950.27;5956.75;en>>
+obligations of the German commander with respect to civilians. Three, his exercise of those
+
+<<5956.75;5965.23;en>>
+obligations, defective or otherwise. Four, the command given. And only then, five, the actual
+
+<<5965.23;5972.51;en>>
+airstrike. This is very different to a cause and effect notion of jurisdiction, and fairly reflects
+
+<<5972.51;5986.59;en>>
+the different stages at which not just physical power and control, but also authority may be being exercised. Thus, in Jaloud, the checkpoint that formed part of the factual matrix was physical.
+
+<<5986.59;6007.87;en>>
+In this case, the respondent state was also engaged in a form of filter process to ensure the protection and security of civilians, and that may correctly be seen as a form of asserting authority and control. Related to this, our fifth and final point is that it appears a
+
+<<6007.87;6023.23;en>>
+questionable assistance to say that under IHL, the juridical relationship with an adversary during hostilities is one that simply cannot be assimilated to an exercise of jurisdiction or authority.
+
+<<6023.23;6038.75;en>>
+As that is to fail to identify that in this case, the relevant juridical relationship under IHL concerns how IHL protects civilians, not the adversary. And that focus is squarely relevant
+
+<<6038.75;6047.15;en>>
+for the purposes of extraterritorial jurisdiction. It also appears to give insufficient weight to
+
+<<6047.15;6061.63;en>>
+the jurisprudence of this court in Hassan, which in turn referred to the well-known jurisprudence of the ICJ on the application of both IHL and human rights obligations in the context of armed conflict. Thank you very much Mr President, members of the court.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6068.09;6070.09;en>>
+Thank you for your submissions.
+
+<<6070.09;6076.55;en>>
+I now invite the judges of the Grand Chamber wishing to do so to put their questions to the parties.
+
+<<6076.55;6077.89;en>>
+Vice President Spano, please.
+
+<<6077.89;6077.89;en>>
+Thank you.
+
+[[Judge;Robert Spano]]
+
+<<6079.91;6081.52;en>>
+Thank you very much, Mr. President.
+
+<<6081.52;6097.72;en>>
+I have two questions, one which I would like to direct to the government and the third party governmental intervenors, but of course the applicants and the Rights UK could give an answer as well.
+
+<<6099.64;6101.88;en>>
+And then I would have one question for the applicants.
+
+<<6101.88;6107.84;en>>
+My first question to the government is, I would preface it with the following.
+
+<<6107.84;6118.07;en>>
+This complaint before us is limited to an allegation of a violation of the procedural limb of Article II.
+
+<<6118.07;6125.07;en>>
+So the conduct that is being challenged is the investigation by Germany.
+
+<<6125.07;6133.64;en>>
+We are not being asked to take a position on Germany's negative potential violation of Article II.
+
+<<6133.64;6137.19;en>>
+The preface is important because my question is this.
+
+<<6137.19;6146.95;en>>
+Assuming for the sake of argument that we would agree with the government that this is a Behrami and Saramati case.
+
+<<6146.95;6169.44;en>>
+So the operational conduct of Germany, the actual strike would be attributable to the UN putting aside the debate between Sir James and Professor Akande on whether it's effective control or ultimate authority.
+
+<<6169.44;6176.72;en>>
+We would stipulate that that would be the case, but the conduct we are asked to examine is not the strike.
+
+<<6176.72;6179.4;en>>
+It is the investigation.
+
+<<6179.4;6203.23;en>>
+So my question is this, is it the argument of the government that then attributability would not only relate to the operation itself, but the conduct of the investigation would also be attributable, would also fall under attributability.
+
+<<6203.23;6241.91;en>>
+And the reason I ask this is, and I want to direct because it was not mentioned by the parties this morning, Article III of the status of the international security, the status of ISAF, which states, and I quote, "the ISAF and supporting personnel, including associated liaison personnel, will under all circumstances and at all times be subject to the exclusive jurisdiction of the respective national elements in respect of any criminal or disciplinary offenses which may be committed by them on the territory of Afghanistan".
+
+<<6241.91;6257.44;en>>
+May I ask you to comment under your jurisdictional ratione personae on the relevance, potential relevance for our assessment as regards to SOFA agreement.
+
+<<6257.44;6264.03;en>>
+And my second limb to that is also as regards jurisdiction ratione loci.
+
+<<6264.03;6297.9;en>>
+The argument is made that even assuming we also agree that Gusulierto doesn't apply ipso facto to an extraterritorial military theater, could you comment on whether this provision, which I just mentioned, why it would not constitute a special feature within the meaning of the Gusulierto line of case law, allowing for the acceptance of a jurisdictional link in this case.
+
+<<6297.9;6302.4;en>>
+My question to the applicants is the following.
+
+<<6302.4;6311.4;en>>
+Professor Akande made clear, as I understand, you correct me if I'm wrong, that this case is very similar to Al-Skaini.
+
+<<6311.4;6314.68;en>>
+You have a security theater.
+
+<<6314.68;6350.15;en>>
+May I then ask you to comment on the arguments in paragraph 40 to 43 of the German, the observations of the German government, which attempts to make a distinction between the fall of the Ba'ath regime in Iraq and the difference here, which is that Afghanistan retained itself the main competences when it came to security operations and the ISAF was merely lending support.
+
+<<6350.15;6356.68;en>>
+And according to the German government, that is a crucial distinction which would distinguish this case from Al-Skaini.
+
+<<6356.68;6357.23;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6358.81;6360.29;en>>
+Thank you very much, Judge Keller
+
+[[Judge;Helen Keller]]
+
+<<6367.13;6369.13;en>>
+Thank you, Mr. President.
+
+<<6369.13;6374.01;en>>
+My question goes primarily to the government.
+
+<<6374.01;6385.97;en>>
+And I want to define a little bit more in detail the scope of the case, and in particular, the scope of the procedural obligation.
+
+<<6385.97;6395.77;en>>
+If I understood the government's position correctly, you argue that you were not allowed to investigate in Afghanistan.
+
+<<6395.77;6409.45;en>>
+On the other hand, the applicant's side argues that Germany failed to examine certain issues in Afghanistan.
+
+<<6409.45;6427.09;en>>
+Now, we know that in Afghanistan, certain procedures were dealt with, in particular by ISAF, in particular by local authorities and by the UN.
+
+<<6427.09;6449.93;en>>
+Now, my question is, what of those results, independently whether it came from Afghan authorities, ISAF authorities, or the UN, did the German authorities take into account when assessing the case?
+
+<<6449.93;6461.61;en>>
+And were there certain reports or results coming from Afghanistan which you did deliberately not take into account?
+
+<<6461.61;6461.61;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6463.84;6466.12;en>>
+Thank you very much.
+
+<<6466.12;6468.6;en>>
+Yes, the national judge, Seibert-Fohr
+
+[[Judge;Anja Seibert-Fohr]]
+
+<<6470.55;6472.55;en>>
+Thank you very much, Mr. President.
+
+<<6472.55;6479.97;en>>
+I have two questions, one for the representative of the government and one for the applicant.
+
+<<6479.97;6490.15;en>>
+My first question, which is also perhaps relevant to the intervening governments, is about the relationship between human rights law and international humanitarian law.
+
+<<6490.15;6508.87;en>>
+If I read your written observations correctly, in paragraph 83, the government is pointing out that, I quote, "international humanitarian law also provides the appropriate yardstick here", end of quote.
+
+<<6508.87;6515.79;en>>
+I'm asking myself, what exactly are you referring to in terms of the yardstick?
+
+<<6515.79;6522.23;en>>
+I take it that the government is not claiming any kind of derogation over here.
+
+<<6522.23;6536.95;en>>
+But perhaps the government could clarify, what exactly are the standards under international humanitarian law in terms of how a government has to investigate violations of IHL?
+
+<<6536.95;6538.11;en>>
+Are there any norms?
+
+<<6538.11;6542.87;en>>
+Because I'm missing any kind of information on that so far.
+
+<<6542.87;6546.39;en>>
+Now I turn to the applicant with another question.
+
+<<6546.39;6550.71;en>>
+This relates to the failure to investigate.
+
+<<6550.71;6567.55;en>>
+The council has repeated the argument today that the applicant was not involved in the investigation and that there was no kind of direct contact to any of the next of king of the victims.
+
+<<6567.55;6569.79;en>>
+So my question is as follows.
+
+<<6569.79;6598.83;en>>
+What information could the applicant or the next of king or villagers around the region could have provided the state authorities with, which would be significant and relevant in order to determine whether the incidental loss of civilian life could have been anticipated by the colonel who ordered the bombing?
+
+<<6598.83;6599.71;en>>
+That's my question.
+
+<<6599.71;6599.71;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6601.9;6602.9;en>>
+Thank you very much.
+
+<<6602.9;6603.74;en>>
+Judge Lemmens, please.
+
+[[Judge;Paul Lemmens]]
+
+<<6607.24;6609.92;en>>
+Thank you very much, Mr. President.
+
+<<6609.92;6616.8;en>>
+I have a question, I think, primarily for the government, but the applicant can also reply to that question.
+
+<<6616.8;6628.9;en>>
+It's about the scope of the investigation in Germany in relationship to the applicable German law, German criminal law.
+
+<<6628.9;6646.24;en>>
+I understand that the relevant provision of the Code of Crimes Against International Law provides that there is no criminal liability if the accused was not aware of the presence of civilians.
+
+<<6646.24;6652.6;en>>
+That's a subjective element, and that has also been stressed by the parties.
+
+<<6652.6;6669.28;en>>
+Now, does this exclude holding a person criminally liable for objective reasons, negligence, lack of precautions, disproportionate use of force?
+
+<<6669.28;6676.72;en>>
+Is that something that would have to be examined under the criminal code?
+
+<<6676.72;6703.6;en>>
+And my question then is, the real question is, would an investigation into the sole subjective element about the awareness of the presence of civilians, would an investigation limited to that in any event be sufficient under German law and also under the applicable rules of the Convention and perhaps also of international humanitarian law?
+
+<<6703.6;6718.36;en>>
+If not, to what extent did the investigation cover these other elements, not the subjective element, but precautionary measures, disproportionate use, et cetera?
+
+<<6718.36;6731.2;en>>
+It's a question for me of knowing exactly what the situation is in principle under German law, or primarily under German law, but perhaps with extensions to the Convention too.
+
+<<6731.2;6731.2;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6733.77;6735.01;en>>
+Thank you very much.
+
+<<6735.01;6740.25;en>>
+May I also echo some of the questions by my colleagues?
+
+<<6740.25;6743.81;en>>
+The first question goes to the applicant.
+
+<<6743.81;6750.93;en>>
+Your argument on the merits and the alleged violations revolve around the investigation issue.
+
+<<6750.93;6769.37;en>>
+So I understand, as Judge Spano does, that the complaint is essentially linked to the duty to investigate, namely the procedural obligation under Article 2 of the Convention, plus, of course, Article 13, which concerns the issue of an effective remedy, namely the procedure.
+
+<<6769.37;6774.47;en>>
+I would like to have a confirmation from the applicant in this respect.
+
+<<6774.47;6781.57;en>>
+Secondly, I would like to also echo the question addressed by Vice President Spano to the government.
+
+<<6781.57;6802.11;en>>
+And I would like to address it to both parties, namely that the staff and supporting personnel will, under all circumstances and at all times, be subject to the exclusive jurisdiction of their respective national elements in respect of any criminal or disciplinary offenses which may be committed by them on the territory of Afghanistan.
+
+<<6802.11;6812.01;en>>
+What is the precise meaning and what is the relevance of this provision for our purposes, for purposes of Article 1 of the Convention?
+
+<<6812.01;6819.81;en>>
+And finally, a question to the government, echoing what Judge Lemmens has just said.
+
+<<6819.81;6825.93;en>>
+The applicants have mentioned a series of alleged flaws in the investigation.
+
+<<6825.93;6833.13;en>>
+For instance, they say that the German authorities failed to scrutinize Colin and Klein's perspective and its reasonableness.
+
+<<6833.13;6842.37;en>>
+German prosecutors never challenged the version of events provided by the suspects through independent experts or witness testimony.
+
+<<6842.37;6848.69;en>>
+They say also that the inclusion of independent military experts would be crucial.
+
+<<6848.69;6860.45;en>>
+And they say also that the authorities never clarified what the terms insurgent or Taliban meant, as they are vague, broad terms that do not define legitimate military targets under IHL.
+
+<<6860.45;6868.81;en>>
+So they have mentioned a series of specific flaws, according to them, in the investigation process.
+
+<<6868.81;6873.21;en>>
+Could we have a comment on those specific aspects by the government, please?
+
+<<6873.21;6875.05;en>>
+So thank you very much.
+
+<<6875.05;6877.13;en>>
+Yes, please.
+
+<<6877.13;6877.73;en>>
+Judge Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<6878.73;6880.97;en>>
+Just a short one on the jurisdiction.
+
+<<6880.97;6897.77;en>>
+Could we say that the jurisdiction of Germany could derive not only from the national law, not only from the agreement that has been mentioned, but as well from the ICC statute Article 12, I think it's paragraph 2B or 1B.
+
+<<6897.77;6899.21;en>>
+Could you comment on that? Thank you
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<6902.32;6904.16;en>>
+So thank you very much.
+
+<<6904.16;6916.28;en>>
+The court will now withdraw for 30 minutes, following which the parties will be able to submit brief observations in reply to each other's submissions and reply to questions from the judges.
+
+<<6916.28;6917.28;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<6984.52;6985.24;fr>>
+La Cour!
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<7027.44;7028.56;en>>
+Please be seated.
+
+<<7040.68;7042.64;en>>
+The hearing is resumed.
+
+<<7042.64;7045.44;en>>
+I call the government.
+
+<<7045.44;7046.84;en>>
+Professor Krieger.
+
+<<7046.84;7047.84;en>>
+Yes, please, you have the floor.
+
+[[Government;GR2]]
+
+<<7048.94;7055.14;en>>
+Mr. President, Honorable Members of the Court, let me first address an issue raised by the
+
+<<7055.14;7059.52;en>>
+applicant and then turn to the questions of the Court.
+
+<<7059.52;7073.3;en>>
+The applicant alleges a lack of independence of the prosecutorial decisions taken in this proceedings because he claims the Federal Ministry of Defense would have interfered in the process.
+
+<<7073.3;7079.18;en>>
+I want to be very clear that this allegation is misleading in many ways.
+
+<<7079.18;7090.78;en>>
+To begin with, however, I would like to point out that the applicant never raised this issue at the national level and the applicant's complaint insofar is already inadmissible.
+
+<<7090.78;7107.72;en>>
+But I also want to be very clear that no instructions whatsoever were issued in this case and this has been confirmed by the Parliamentary Committee of Inquiry.
+
+<<7107.72;7137.82;en>>
+One must be aware that it is foreseen under national law that the Federal Prosecutor General is competent to examine violations of international humanitarian law and that this is reasonable because a legal system needs one institution that has the capacity and the expertise for these particularly complex kinds of cases and that's why the competence is focused with the Federal Prosecutor General.
+
+<<7137.82;7148.84;en>>
+And there are no legal ways for the Ministry of Defense to instruct the Federal Prosecutor General in whatever manner.
+
+<<7148.84;7158.74;en>>
+Let me now turn to the questions of the judges and I would like to address first the question by Judge Spano.
+
+<<7158.74;7169.34;en>>
+Do we have special features in the present case in light of Götz Lüttlo because we have Article 3 of the Status of Force Agreements?
+
+<<7169.34;7177.94;en>>
+We hold that the Article 3 of the Status of Force Agreements is not a special feature of this type.
+
+<<7177.94;7182.1;en>>
+First of all, it is a rule on immunity.
+
+<<7182.1;7190.48;en>>
+It excludes soldiers of multinational missions from the immunity of the host state.
+
+<<7190.48;7203.32;en>>
+It does not grant any competences towards Afghan population or on Afghan ground to conduct any investigations.
+
+<<7203.32;7216.34;en>>
+And thirdly, a comparable rule as Article 3 has also been included in the pertinent NATO legislation in the Birami case and did not give rise to doubts.
+
+<<7216.34;7234.64;en>>
+On a more principled matter, I think it is important to make clear here that there is an argument around which claims that on the basis of provisions such as Article 3, there should be an attribution to the member states and not to the United Nations.
+
+<<7234.64;7250.24;en>>
+However I think that this argument has somehow overlooked that these are only competences and investigatory powers in the internal relationship between the soldier concerned and his or her estate.
+
+<<7250.24;7264.86;en>>
+I think this case makes very clear that there is an additional limit for the contracting parties to investigate in these cases where they don't have external investigatory powers as it is the case here.
+
+<<7264.86;7293.9;en>>
+If the UN Security Council resolutions and the pertinent status of force agreements don't grant investigatory powers, coercive powers, possibilities to summon witnesses in such cases, then there is no basis for attribution and there is no factual and legal basis for establishing jurisdiction in this respect and I think the court should consider this aspect.
+
+<<7293.9;7325.01;en>>
+In relation to the question of Judge Keller on which reports have been considered in the proceedings, I would like to point out that the Federal Prosecutor General in the decision to not bring public charges started the considerations with a long list of all the reports available and you find this on page 3 of the decision of the Federal Prosecutor General.
+
+<<7325.01;7361.66;en>>
+The Federal Prosecutor General got hold of all reports available in relation to the incident, in particular reports from the Afghan official authorities, and it took them into account on a factual basis, it obtained them, and it was eager to obtain them, and on the other hand it also evaluated the evidence presented in these reports in the overall assessment of the case.
+
+<<7361.66;7389.39;en>>
+In relation to the question of Judge Zybart V on the obligations arising from international humanitarian law, I would like to first point out that under Article 1 of the Geneva Conventions and in light of the grave breacher's regime, there is a duty to investigate incumbent upon the member states of the Geneva Conventions.
+
+<<7389.39;7425.9;en>>
+We submit that in the present case on the basis of the Hassan jurisprudence, the court should take into account the provisions of the pertinent international humanitarian law rules and what they give as standards for conducting in such situations, and I would like to particularly point out the role of the military commander, but also a number of procedural aspects to which we have referred in our written observations in paragraph 119.
+
+<<7425.9;7453.59;en>>
+And we finally submit here that it is important for the court to take into account on the basis of these IHL rules the specific conditions under which investigations are conducted within an armed conflict which has implications on the form of investigations, on the reasonable expedience and these criteria.
+
+<<7453.59;7473.43;en>>
+Addressing the question of Judge Lemers, I would like to point out that you find the pertinent legal considerations made by the Federal Prosecutor General in the decision not to bring public charges on page 42 and following.
+
+<<7473.43;7478.02;en>>
+Let me roughly summarize the legal situation.
+
+<<7478.02;7503.1;en>>
+If there is no criminal responsibility under the Code Act against crimes against international law, then there is still the possibility that there might be a criminal responsibility under general criminal law, either in relation to murder or in relation to negligent killings.
+
+<<7503.1;7506.66;en>>
+You have referred to objective standards.
+
+<<7506.66;7540.59;en>>
+In evaluating whether there might be a case of negligency here, the Federal Prosecutor General took into account and assessed the question whether the accused had taken all feasible precautions and whether they had complied with the prohibition of excess in military attacks because these are possible justifications under German criminal law.
+
+<<7540.59;7560.66;en>>
+And in relation to the question by Judge Zizianos, the President, I would like to point out that the German authorities have conducted thorough investigations and I would like to give some examples in reference to what the applicant had said.
+
+<<7560.66;7565.47;en>>
+Let me take the example of the credibility of the accused.
+
+<<7565.47;7603.82;en>>
+The Federal Prosecutor General addressed these issues on page 23 to 29 of the prosecutorial decision, and it made a reasonable argumentation checking the witness accounts against reports and other available information in order to derive at an overall assessment that the statements of Colonel Klein have been credible.
+
+<<7603.82;7625.51;en>>
+In relation to the question whether there were Taliban insurgents or not and how to legally qualify and factually qualify persons present, let me also point to the fact that the Federal Prosecutor General in length on the one hand evaluated and checked the factual grounds of the situation in Afghanistan.
+
+<<7625.51;7633.56;en>>
+You find considerations on this on pages 6 to 10 of the Federal Prosecutor's decision.
+
+<<7633.56;7664.62;en>>
+It engaged with scientific reports and scientific papers on the situation in Afghanistan and evaluated the structure of Taliban, and then there is another part in which the Federal Prosecutor General intensively deals with the issue of participation, direct participation in hostilities by civilians in order to determine criteria for the status of the persons involved in the happenings on the sand bank.
+
+<<7664.62;7670.86;en>>
+Finally, there is the claim that there were no independent military experts consulted.
+
+<<7670.86;7704.22;en>>
+In this respect, I would like to refer you to the fact that ISAF conducted an in-depth investigation of the incident and that this ISAF group was composed of members from multinational backgrounds, all of them military experts, knowing about the situation on the ground and possessing the specific military expertise for evaluating the situation.
+
+<<7704.22;7724.26;en>>
+There was no German person in that investigatory body that would somehow have been implicated in the events, and the ISAF report formed the basis for the Federal Prosecutor General in the evaluation of the facts and the evidence.
+
+<<7724.26;7732.59;en>>
+Finally let me address the question by Judge Turkovich on Article 12 of the ICC statute.
+
+<<7732.59;7753.86;en>>
+We hope that Article 12 of the ICC statute is a basis for the jurisdiction of the International Criminal Court, but it is not about the jurisdiction of the European Court of Human Rights, and it does also not create jurisdiction of Germany under this convention.
+
+<<7753.86;7768.1;en>>
+But it confirms that under the Rome statute, Germany has an obligation to investigate also in view of Article 17 of the ICC statute.
+
+<<7768.1;7779.66;en>>
+That is the basis for our Criminal Code against acts against international law, and this is the basis for the Federal Prosecutor General to act.
+
+<<7779.66;7804.36;en>>
+And it also stresses our point that there is no legal vacuum should the European Convention on Human Rights not be extended to the situation in Afghanistan, because Germany is still obliged also under international criminal law to investigate into situations and events like the one in Kunduz.
+
+<<7804.36;7808.7;en>>
+So there is no need to extend the protection of the convention in this respect.
+
+<<7808.7;7809.16;en>>
+Thank you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<7810.05;7811.05;en>>
+Thank you very much.
+
+<<7811.05;7813.85;en>>
+I call the applicant, Mr. Kaleck.
+
+[[Applicant;AP2]]
+
+<<7813.88;7820.0;en>>
+Mr. President, we can confirm that the Vice President's assumption that we only challenge
+
+<<7820.0;7832.0;en>>
+the conduct here today in court is right and that we addressed articles 2 and 13's violation referring to the procedure.
+
+<<7832.0;7844.52;en>>
+Clarifying, answering the questions of Judges Keller, Lemons, and Seibert IV, who were interrelated, what specific investigative measures Germany could have done.
+
+<<7844.52;7861.76;en>>
+You find here a crew of very experienced international lawyers who had experienced Germany's capacities of investigative measures in investigating extraterritorial facts, for example in terrorism cases but also in international crime cases.
+
+<<7861.76;7886.64;en>>
+One of our recent cases deals with one of the most heated armed conflicts on earth right now, Syria, where the Federal Prosecutor's Office is carrying out a very sorrowful investigation into President Assad's torture regime by conducting witness testimonies in Germany, outside of Germany, in third countries.
+
+<<7886.64;7898.7;en>>
+And here it would have been easily possible to use technology, modern technology, or bring witnesses to Germany, what also happened in other similar cases.
+
+<<7898.7;7917.52;en>>
+It's an everyday procedure in German criminal law and even the Inquiry Commission did bring – later on, the Parliamentary Inquiry Commission brought more witnesses to Germany than were heard by the Federal Prosecutor's Office during the formal criminal proceeding.
+
+<<7917.52;7924.08;en>>
+Judge Keller's question, did you consider the results of other fact-finding institutions?
+
+<<7924.08;7932.08;en>>
+So we have one problem, that we only got partly access to the file, so we had no access to the ISAF report.
+
+<<7932.08;7947.12;en>>
+Second remark in this regard, from our point of view, the results were used only in a very selective and restricted way, only to confirm the subjective perspective of Colonel Klein and the other suspects.
+
+<<7947.12;7959.24;en>>
+And especially the number of victims should have been established because the different fact-finding institutions came to different results regarding the number of civilian victims.
+
+<<7959.24;7965.48;en>>
+And here is, of course, our question, why didn't you take more time for the formal criminal proceeding?
+
+<<7965.48;7968.64;en>>
+It took only four weeks for you to close the file.
+
+<<7968.64;7974.68;en>>
+Within the four weeks, you heard the two suspects and two witnesses from the military.
+
+<<7974.68;7983.32;en>>
+Months later, you confirmed that our client, Abdul Bayan, was not 20-year-old and was not an armed Taliban, but a 12-year-old boy.
+
+<<7983.32;7987.24;en>>
+And then you granted him access, partly access to the file and so on.
+
+<<7987.24;7996.68;en>>
+Months later, you paid 93 victims ex gratia payments because you considered that they had right claims.
+
+<<7996.68;7999.3;en>>
+Why didn't that take place?
+
+<<7999.3;8010.92;en>>
+These kind of analysis should have taken place within the formal criminal proceeding, and it didn't take place due to the political pressure, which obviously we see.
+
+<<8010.92;8015.84;en>>
+Judge Seibert's four questions regarding the applicants and the villagers.
+
+<<8015.84;8030.38;en>>
+First of all, we were deprived to exercise the procedural rights on behalf of the applicant and of others because we were denied access to the file and the right to be heard.
+
+<<8030.38;8034.96;en>>
+And second, we consider this kind of investigation as a mosaic.
+
+<<8034.96;8037.86;en>>
+You know, you have to collect bits and pieces.
+
+<<8037.86;8043.48;en>>
+And these were people who were all present at the crime scene or close to the crime scene.
+
+<<8043.48;8053.84;en>>
+And they could have contributed to the very important question, how many members of, let's say, armed Taliban fighters were on the spot, and how many civilians?
+
+<<8053.84;8072.28;en>>
+And that leads me to the question Judge Lemons raised about the different standards of the Code Against International Crime, war crimes, and the, let's say, ordinary criminal law.
+
+<<8072.28;8091.32;en>>
+We did never say that Colonel Klein committed a war crime because we saw at the very beginning this is, and we agree with Professor Grigor, it's an ex ante analysis, and we saw that he was lacking the specific intention.
+
+<<8091.32;8096.2;en>>
+But we always said from the very beginning that the ordinary criminal law is applicable.
+
+<<8096.2;8099.34;en>>
+Manslaughter and negligent manslaughter.
+
+<<8099.34;8113.68;en>>
+And especially within an analysis, legal analysis of negligent manslaughter, it would have been key to investigate and to determine the precautionary measures and proportionality.
+
+<<8113.68;8136.28;en>>
+And the second aspect of this discussion is Professor Yesberger delivered a legal opinion while during the proceeding that the Karlsruhe Federal Prosecutor's Office was not competent to decide this, but the case should have been delivered to an ordinary prosecutor's office, which was not the case.
+
+<<8136.28;8139.32;en>>
+Two minor remarks.
+
+<<8139.32;8148.96;en>>
+The UK government raised the question, the commander must be responsible for the investigation if no other authority is in place.
+
+<<8148.96;8151.98;en>>
+Here there was another authority in place.
+
+<<8151.98;8153.84;en>>
+It was even worse.
+
+<<8153.84;8162.26;en>>
+Colonel Klein was held responsible for not consulting his superior in Masar Sharif.
+
+<<8162.26;8175.16;en>>
+And if the battle damage assessment team could have arrived a couple of hours later, why didn't they involve the superior of the battle assessment damage team who was sitting at the same Masar Sharif?
+
+<<8175.16;8183.92;en>>
+And sorry for a misunderstanding, Professor Krieger, we never said that the Minister of Justice did intervene.
+
+<<8183.92;8186.04;en>>
+We said that the Minister of Defense.
+
+<<8186.04;8203.88;en>>
+And we leave it to the Court to assess whether the referred parts and translated parts of the inquiry commission, page 354 and 355, constitute an intervention and a breach or not.
+
+<<8203.88;8203.88;en>>
+So I hand over to my colleague, Akande, for the other questions.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<8208.41;8209.85;en>>
+Professor Akande, you have the floor.
+
+<<8209.85;8209.85;en>>
+Thank you very much.
+
+[[Applicant;AP1]]
+
+<<8210.65;8212.37;en>>
+Thank you, Mr. President.
+
+<<8212.37;8226.21;en>>
+With your permission, I will respond to questions put by President Sicilianus, Vice President Spano, the question by Judge Subedfor about the relevance of IHL, and finally, the question by Judge Turkovich about the ICC statute.
+
+<<8226.21;8241.25;en>>
+So to start with the question by the President and the Vice President about the significance of Article III of the Status of Forces Agreement, that question relates to this issue of attribution.
+
+<<8241.25;8246.85;en>>
+And so the issue is to whom are the investigative acts to be attributed?
+
+<<8246.85;8257.37;en>>
+So are the acts of investigation to be attributed to Germany, as we say, or to be attributed to the UN, as the government says?
+
+<<8257.37;8258.13;en>>
+And there are two.
+
+<<8258.13;8262.53;en>>
+It's important to remember that you have two sets of acts of investigation that occur.
+
+<<8262.53;8266.81;en>>
+You have the acts of German agents acting in Germany to investigate.
+
+<<8266.81;8271.61;en>>
+So for example, the public prosecutors' investigative acts.
+
+<<8271.61;8283.85;en>>
+Clearly, and I think this is not disputed by the government, those acts of the German state authorities in Germany are not authorized by the UN under the ISAF Resolution 1386.
+
+<<8283.85;8289.41;en>>
+So clearly, those acts of investigation must be attributable to Germany.
+
+<<8289.41;8293.97;en>>
+And secondly, you have the acts of German forces in Afghanistan.
+
+<<8293.97;8305.41;en>>
+The question there is, are those acts of investigation, not the airstrike now, the acts of investigation, are they covered by Article III of the ISAF Status of Forces Agreement?
+
+<<8305.41;8309.93;en>>
+So we don't share the view of Professor Krieger that this is a rule of immunity.
+
+<<8309.93;8315.51;en>>
+Indeed, Article III is quite clear that this is a rule relating to jurisdiction.
+
+<<8315.51;8326.69;en>>
+It is a rule by which the troop contributing nations explicitly retain their exclusive jurisdiction with respect to investigative acts.
+
+<<8326.69;8330.77;en>>
+They retain that exclusive jurisdiction vis-a-vis Afghanistan.
+
+<<8330.77;8334.25;en>>
+They retain that exclusive jurisdiction vis-a-vis ISAF.
+
+<<8334.25;8338.41;en>>
+And they retain that exclusive jurisdiction vis-a-vis the UN.
+
+<<8338.41;8348.69;en>>
+And so in our submissions, that supports the argument that those investigative acts are to be attributed to Germany.
+
+<<8348.69;8361.33;en>>
+Secondly, Vice President Spano invites us to look at possible distinctions between the multinational force in Iraq and the ISAF force in Afghanistan.
+
+<<8361.33;8369.45;en>>
+And he invited us to respond to the submissions of the German government in their written submissions, paragraphs 42 to 43.
+
+<<8369.45;8378.81;en>>
+And in particular, the argument that was made that in Afghanistan, it was the Afghan government that had responsibility for security.
+
+<<8378.81;8392.37;en>>
+However, if we look at the UN Security Council resolution that provides authorization for ISAF to act in Afghanistan, Article I of that Security Council resolution is quite clear.
+
+<<8392.37;8407.21;en>>
+ISAF's mandate is to assist the government of Afghanistan to maintain security and also to ensure a secure environment in Afghanistan.
+
+<<8407.21;8414.89;en>>
+So that resolution is clear that ISAF also has, in fact, that is its mandate to maintain security.
+
+<<8414.89;8421.85;en>>
+And ISAF is there also at the invitation of the Afghan government to assist the Afghan government.
+
+<<8421.85;8427.69;en>>
+There's the argument that Iraq was a case of occupation and Afghanistan was not, which is true.
+
+<<8427.69;8432.91;en>>
+But the jurisprudence of the court is clear that occupation is not required.
+
+<<8432.91;8449.65;en>>
+All that is required is, in the words of an Afghani, an exercise of public powers, like the maintenance of security, or effective control of territory, which we maintain and we submit was the case here.
+
+<<8449.65;8454.87;en>>
+And I refer you to our written submissions, paragraphs 56 to 57.
+
+<<8454.87;8461.97;en>>
+Can I then turn to the question asked by Judge Siebert IV about the yardstick of IHL?
+
+<<8461.97;8464.81;en>>
+What are the relevant yardsticks of IHL?
+
+<<8464.81;8467.05;en>>
+And I have three points in relation to that question.
+
+<<8467.05;8470.09;en>>
+First of all, the relevance of IHL.
+
+<<8470.09;8475.25;en>>
+Secondly, the standards provided for in IHL for investigations.
+
+<<8475.25;8481.61;en>>
+And thirdly, the relationship between those IHL standards and the normal convention standards.
+
+<<8481.61;8483.81;en>>
+So the first point, the relevance of IHL.
+
+<<8483.81;8492.25;en>>
+It's been stated and clear that in Hassan, Article V was interpreted in the light of IHL.
+
+<<8492.25;8497.27;en>>
+However, it's by no means clear that this is also the case for Article II.
+
+<<8497.27;8506.37;en>>
+This is because Article XV-II specifically provides for derogations for deaths arising from lawful acts of war.
+
+<<8506.37;8509.45;en>>
+Lawful there being, of course, under IHL.
+
+<<8509.45;8519.09;en>>
+And if lawfulness is already taken into account under Article II, then that renders that provision of Article XV-II superfluous.
+
+<<8519.09;8524.93;en>>
+Indeed, the effect would be to delete those words from Article XV-II.
+
+<<8524.93;8533.97;en>>
+So if IHL is to apply, Article XV-II suggests that it will be in relation to Article II, it will be by derogation.
+
+<<8533.97;8538.41;en>>
+And the judge notes that there's no derogation in that case.
+
+<<8538.41;8544.57;en>>
+But secondly, even if IHL does apply, what are the standards that IHL provides for investigation?
+
+<<8544.57;8549.89;en>>
+We note that the German government acknowledges that there's an IHL obligation to investigate.
+
+<<8549.89;8558.09;en>>
+However, the UK government then submits that in effect, those IHL rules or obligations are extremely minimal.
+
+<<8558.09;8568.85;en>>
+If the UK is right, then the German government's point that there is no accountability gap, no legal vacuum, cannot be right.
+
+<<8568.85;8570.73;en>>
+So what then are the standards?
+
+<<8570.73;8596.87;en>>
+We agree with the submission that was made by Denmark in its written submissions as to the relevant IHL obligations, and it's paragraph 28 of the Danish written submissions, where they say that investigations must live up to the standards under IHL and human rights law of independence, impartiality, thoroughness, effectiveness, promptness, transparency.
+
+<<8596.87;8599.53;en>>
+That's the Danish government's written submissions.
+
+<<8599.53;8607.73;en>>
+Third point on this issue, the relationship between IHL standards and the convention standards.
+
+<<8607.73;8621.13;en>>
+Even in Hassan, where this court interpreted Article V in the light of IHL, the court was clear that the rules of the normal convention standards do not disappear.
+
+<<8621.13;8632.05;en>>
+So in particular, in relation to the procedural obligations under Article V, the court was clear that there must be sufficient guarantees of impartiality, independence, and fairness.
+
+<<8632.05;8639.63;en>>
+And we would argue that even if IHL were to apply, the normal convention standards would continue to operate in the background.
+
+<<8639.63;8663.99;en>>
+Finally, in relation to Judge Turkovich's question about the ICC statute, I think here we can agree with the submissions that were made by Professor Krieger, which is to say that what that provision emphasizes is an obligation on the German government to investigate with respect to issues that would fall within the scope of the ICC statute.
+
+<<8663.99;8679.87;en>>
+And so if you apply the Guzel-Yutlu case and one thinks about the special features that might create a jurisdictional link, the fact that there are these international law obligations is emphasized by the ICC statute.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<8683.4;8685.56;en>>
+Thank you very much.
+
+<<8685.56;8689.44;en>>
+The third party intervenors, do they wish to reply to certain elements?
+
+<<8689.44;8690.44;en>>
+We, Sir James, please.
+
+[[ThirdParty;TP1]]
+
+<<8691.64;8696.12;en>>
+Mr President, Members of the Court, only very briefly. I am going to make some submissions
+
+<<8696.12;8709.16;en>>
+on behalf of both the United Kingdom and France in relation to the questions that you posed that Deputy President Spano posed. Then my friend Mr Allerbrun is going to deal very briefly with
+
+<<8709.16;8716.6;en>>
+the ICC question that Judge Tukovic raised. So far as the question raised by the President and
+
+<<8716.6;8732.92;en>>
+the Deputy President, our submission is that Article 3 of the Status of Forces document deals with criminal and disciplinary matters. That is what is being dealt with. It
+
+<<8732.92;8753.96;en>>
+is unsurprising that that provision exists and is being dealt with in that way, because neither the UN or ISAF, nor indeed the local jurisdiction, have any criminal or disciplinary jurisdiction over the servicemen and women that serve in that body. But given that that is the basis for Article
+
+<<8753.96;8764.68;en>>
+3 and the limited basis for Article 3, it is simply dealing with crime and disciplinary and the preservations that it creates for that purpose. It is very difficult indeed, we respectfully
+
+<<8764.68;8778.68;en>>
+submit, to see how you can then use this to create any broader conclusion beyond that limited carve out that it creates. A limited conclusion either that, for example, all operations by the states
+
+<<8778.68;8791.8;en>>
+as part of ISAF are in some way now attributable to the states themselves rather than to the UN because of Article 3. It cannot possibly have that effect. Or, we would respectfully submit,
+
+<<8791.8;8807.16;en>>
+that this has or creates some special jurisdiction feature when you come to the Article 1 analysis. Of course, if the criminal or disciplinary proceedings occur in, say,
+
+<<8807.16;8822.2;en>>
+Germany or any other nation state, then in relation to those proceedings there will be convention obligations that attach under, for example, Article 6 for the benefit of the accused in either of those processes. But it cannot possibly be used, given its limited focus,
+
+<<8822.2;8838.68;en>>
+to create a special jurisdictional feature so as to enable you to reach a conclusion on jurisdiction you would not otherwise reach or to reach a conclusion on attributability that you would not otherwise reach. So that is what we say about the limited nature of the Article 3 and its limited
+
+<<8838.68;8842.92;en>>
+significance for the purpose of those two arguments. But the question, I think, went a bit
+
+<<8842.92;8847.88;en>>
+further. Judge Spano raised the question as to whether or not there is a difference because we
+
+<<8847.88;8855.0;en>>
+are here dealing with an investigative obligation. The question that was raised is whether or not,
+
+<<8858.6;8877.0;en>>
+assuming for this purpose, that the premise is that the conduct itself is not attributable per barame, the question then, as we understood it, was does that same logic automatically transpose to create attributability to the UN of the investigative obligation? So far as that is
+
+<<8877.0;8884.12;en>>
+concerned, we submit that you have perhaps three things to think about. The first of them is
+
+<<8884.12;8899.08;en>>
+whether or not, given the premise, the investigative obligation imposed on a nation state could possibly survive. So the premise for the question is that the action, the act, the airstrike,
+
+<<8899.08;8906.92;en>>
+is in fact attributable to the UN. We do submit that that does raise the question as to whether
+
+<<8906.92;8920.52;en>>
+or not you could then, as it were, have an adjectival investigative obligation created on a nation state in relation to an act which is in fact attributable to the UN. I fully appreciated
+
+<<8920.52;8946.12;en>>
+making that submission or raising that possibility, that for some purposes, including in particular the temporal limits of the convention—I am thinking of cases like Janowicz and Szilagyi—the court has split out those two aspects of article 2, but we do submit that in this context it is rather different. If the act itself, which is to be investigated, is not in fact attributable to
+
+<<8946.12;8956.36;en>>
+the nation state at all, because it is attributable to the UN, where then does the investigative obligation lie? That is the first thing we would invite you to think about. These are in, as it were,
+
+<<8956.36;8963.16;en>>
+descending order. The second thing to think about is, if that is not right, then what is the
+
+<<8963.16;8967.32;en>>
+alternative answer of principle? The alternative answer of principle, it might be thought, if that
+
+<<8967.32;8980.2;en>>
+is not right, that first submission, is that you apply the ultimate authority test or effective control. Again, we were asked to assume that that argument is parked for this purpose, and so we do.
+
+<<8980.2;8986.36;en>>
+But then the question that arises is, how do you test it? The answer is, you apply the ultimate
+
+<<8986.36;8992.12;en>>
+authority or the effective control test to the activity. What that enables you to do is precisely
+
+<<8992.12;9023.0;en>>
+to draw the sort of distinctions, which my learned friend the Professor Akrandi has just referred to, between, on the one hand, things that are being done in the space of Afghanistan with all the constraints that ISAF and the UN impose on investigations, and on the other hand, the thing which plainly is not attributable to the United Nations, which is the thing reserved by Article 3 of the Status of Forces Agreement. In other words, domestic German criminal investigation
+
+<<9023.0;9030.44;en>>
+and prosecution and or internal domestic German disciplinary proceedings. So you can ask that
+
+<<9030.44;9035.24;en>>
+Barami question is the second thing we would invite you to think about. The third thing we
+
+<<9035.24;9076.2;en>>
+would invite you to think about, and the last of the alternatives, is that on any view, and even if one and two don't work, these legal constraints imposed both by the UN through ISAF in relation to investigations on the ground in Afghanistan and indeed imposed by the rigours of local Afghan law are a critical component when you come to consider what the nature and content the Article 2 procedural obligation should be. Those provide, as it were, the practical application
+
+<<9076.92;9095.0;en>>
+the principle often espoused by the court that the Article 2 procedural investigations are not merely context-specific, their particular content is not really determined by the content, but they have to be realistically applied. So that is the third way in which it might be relevant.
+
+<<9095.0;9108.68;en>>
+That perhaps takes one, because it naturally flows then, into the question that Judge Seibert-Fohr asked, which is what is the content of IHL? Because my submission, as you'll recall in
+
+<<9108.68;9117.24;en>>
+opening to you, was that IHL also performs the same role. It is the lex specialis, we submit.
+
+<<9117.24;9136.76;en>>
+It's the lex specialis because it's designed to govern and to regulate these sorts of things, both the activities that can be done, the controls over the activities that can be done in an armed conflict, and also the investigative obligation. Your question was directly about the content.
+
+<<9136.76;9142.36;en>>
+You asked what is the content of IHL. I made detailed submissions about that in my oral
+
+<<9142.36;9157.96;en>>
+submissions, but we've set out at least a summary of those relevant principles, that content, our written submissions in rather more detail, between paragraphs 53 and 64. You will recall
+
+<<9157.96;9185.96;en>>
+that the punchline of all of that is that the IHL obligations, bespoke as they are, lex specialis as they are, cannot be squared, however tempting and attractive it may appear to be, with simply a transposition of the ordinary rules governing Article 2 investigative obligations developed in peacetime. They just don't mesh. Of course, it's interesting to say that IHL sits
+
+<<9185.96;9197.56;en>>
+alongside international human rights law, and the ICJ has frequently said that, but that also requires you to analyse how the two can possibly mesh. The thrust of the submissions that I made
+
+<<9198.12;9209.08;en>>
+was that in our context, an armed conflict, with IHL entering the field and governing with its own bespoke rules, they don't and they can't. That was the reason for the submission I made to you.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<9214.62;9216.9;fr>>
+M. Alabrune, merci beaucoup, M. James.
+
+<<9216.9;9216.9;fr>>
+M. Alabrune.
+
+[[ThirdParty;TP3]]
+
+<<9219.44;9220.44;fr>>
+Merci, Monsieur le Président.
+
+<<9220.64;9223.56;fr>>
+Je partage entièrement les remarques qui viennent d'être faites par Sir James.
+
+<<9223.76;9240.96;fr>>
+Et je voudrais, si vous me permettez, très brièvement revenir sur la question posée par la juge Turkovitch qui concernait la portée du statut de la Cour pénale internationale, particulièrement de son article 12 B pour le débat qui nous occupe.
+
+<<9241.16;9250.84;fr>>
+Je voudrais simplement rappeler que cette disposition du statut de la Cour pénale internationale concerne les conditions d'exercice de la compétence de la Cour pénale internationale.
+
+<<9251.96;9255.72;fr>>
+C'est donc des critères de compétence d'une Cour pénale.
+
+<<9257.16;9276.24;fr>>
+Et cet article 12 prévoit que la Cour pénale internationale peut avoir compétence si un Etat sur le territoire duquel un crime a été commis ou si un Etat dont un ressortissant a commis un crime ou son parti au statut.
+
+<<9278.44;9289.36;fr>>
+Et l'article 12 B, je crois, qui a été cité par le juge Turkovitch, concerne la nationalité et le cas où un ressortissant d'un Etat parti a commis un crime.
+
+<<9290.6;9312.12;fr>>
+Ce que je voudrais indiquer, c'est qu'à nos yeux, la nationalité d'une personne accusée d'un crime ne peut pas avoir de pertinence pour l'appréciation de la juridiction d'un Etat au sens de l'article 1 de la Convention.
+
+<<9313.24;9320.2;fr>>
+Il n'existe pas, à nos yeux, de fondement dans la jurisprudence de la Cour pour soutenir une telle interprétation.
+
+<<9321.36;9336.12;fr>>
+Et à nos yeux, la responsabilité pénale d'un individu ne peut être confondue avec la responsabilité internationale d'un Etat au titre de la Convention européenne des droits de l'homme.
+
+<<9337.12;9379.44;fr>>
+S'éloigner d'une telle distinction et mélanger, si je puis dire, à la fois la responsabilité d'un Etat au titre d'un instrument tel que la Convention européenne des droits de l'homme et la responsabilité pénale d'un individu risque de conduire, encore une fois, à une extension considérable de la compétence de la Cour et de l'applicabilité de la Convention à tous les cas dans lesquels il peut y avoir compétence d'une juridiction pénale telle que la Cour pénale internationale qui, je le rappelle, a une compétence sur certains crimes parce que les juridictions nationales pénales des Etats-partis peuvent avoir compétence.
+
+<<9379.68;9383.36;fr>>
+Et c'est le principe de la complémentarité qui amène à cette compétence de la Cour.
+
+<<9383.88;9387.92;fr>>
+Donc, nous souhaiterions, de ce point de vue-là, appeler la Cour à bien faire sa distinction.
+
+<<9387.92;9388.92;fr>>
+Merci beaucoup.
+
+[[JudgeP;Linos-Alexandre Sicilianos]]
+
+<<9395.5;9402.7;en>>
+Do any of the judges wish to ask for clarifications to the answers which were given by the parties?
+
+<<9402.7;9405.7;en>>
+I don't see any.
+
+<<9405.7;9408.7;en>>
+So we have now come to the end of the hearing.
+
+<<9408.7;9412.7;en>>
+I thank the parties for their submissions and answers to the Court's questions.
+
+<<9412.7;9417.5;en>>
+The Court will now deliberate on the admissibility and merits.
+
+<<9417.5;9420.7;en>>
+The judgment will be delivered later.
+
+<<9420.7;9423.7;en>>
+The parties will be informed of the date of delivery.
+
+<<9423.7;9425.7;en>>
+I declare the hearing closed.
+

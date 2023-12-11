@@ -1,0 +1,1734 @@
+[[Announcer;UNK]]
+
+<<12.48;13.36;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<50.37;52.37;en>>
+Please be seated.
+
+<<63.37;70.37;en>>
+I declare open the public hearing on the merits in the case of Ilnseher  versus Germany.
+
+<<70.37;84.37;en>>
+The applications were lodged with the court on 24 February 2012 and 4 April 2014, respectively, under Article 34 of the Convention by a German national, Mr. Daniel Ilnseher .
+
+<<84.37;95.37;en>>
+They were allocated to the Fifth Section of the Court, pursuant to Rule 52, Paragraph 1 of the Rules of the Court.
+
+<<95.37;107.37;en>>
+The applications were partly communicated to the governments on 26 November 2013 and 22 December 2014, respectively.
+
+<<107.37;130.37;en>>
+In February 2017, a chamber of the Fifth Section joined the applications, declared them partly admissible, and delivered a judgment in which it held that there had been no violation of Articles 5, Paragraph 1, 5, Paragraph 4, 6, Paragraph 1, and 7, Paragraph 1 of the Convention.
+
+<<130.37;148.37;en>>
+In March 2017, the applicant requested that the case be referred to the Grand Chamber in accordance with Article 43 of the Convention, and the panel of the Grand Chamber accepted the request on 29 May 2017.
+
+<<148.37;167.37;en>>
+On 30 August 2017, the European Prison Litigation Network was granted leave under Article 36, Paragraph 2 of the Convention, and Rule 44, Paragraphs 3 and 4 of the Rules of the Court, to make written submissions to the Court as a third party.
+
+<<167.37;179.37;en>>
+The governments are represented by their agents, Mrs. Almut Wittling-Vogel and Mrs. Katja Behr of the Federal Ministry of Justice and Consumer Protection,
+
+<<179.37;188.37;en>>
+assisted by Professor Thomas Giegerich, Counsel, and by Mrs. Petra Viebig-Ehlert, Mrs. Kristina Müller, Mr. Bernd Bösert,
+
+<<188.37;196.37;en>>
+Mr. Christoph-Severin Haase, Mr. Soledad Bender, and Mr. Andreas Stegmann, Advisors.
+
+<<196.37;207.37;en>>
+The applicant is represented by Mr. Ingo-Jens Tegebauer and Mr. Markus Mavany, Counsel, assisted by Mrs. Diana Thörnich, Advisor.
+
+<<207.37;211.37;en>>
+I welcome the representatives in the name of the Court.
+
+<<211.37;224.37;en>>
+I also welcome a delegation of Dutch judges and prosecutors, a delegation of Russian judges who are on study visit to the Court, and a delegation of judges from Azerbaijan.
+
+<<224.37;239.37;en>>
+I would explain that, in addition to interpreting in the two official languages of the Court, English and French, interpreting into Russian has been authorized for the benefit of the group of judges from Russia.
+
+<<239.37;248.37;en>>
+In addition, interpreting into Azerbaijani has been authorized for the benefit of the judges of Azerbaijan I mentioned before.
+
+<<248.37;256.37;en>>
+That interpreting is not arranged by the Court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<256.37;265.37;en>>
+Having consulted the agents of the Government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<265.37;272.37;en>>
+Mr. Tegebauer and Mr. Mavany for the applicant will speak first, and then Mr. Giegerich for the Government.
+
+<<272.37;272.37;en>>
+I call Mr. Tegebauer, you are the floor, please.
+
+[[Applicant;AP1]]
+
+<<277.99;281.43;en>>
+Mr. President, distinguished judges of the court,
+
+<<281.43;285.51;en>>
+the court is already familiar with the facts of the case.
+
+<<285.51;294.99;en>>
+Before dealing with the substance of the applicant's complaints, I will therefore only briefly spotlight the main events.
+
+<<294.99;301.23;en>>
+In 1997, at the age of 19, the applicant committed a murder.
+
+<<301.23;308.43;en>>
+At this time, national law did not provide for preventive detention of young offenders.
+
+<<308.43;324.29;en>>
+In 1999, the Regensburg Regional Court convicted the applicant of murder, and applying the criminal law relating to young offenders, sentenced him to 10 years imprisonment.
+
+<<324.29;330.83;en>>
+Shortly before he had fully served his prison sentence, national law was amended.
+
+<<330.83;336.31;en>>
+The legislator made it possible to order preventive detention against young offenders.
+
+<<339.39;346.55;en>>
+In 2009, the Regensburg Regional Court ordered the applicant's preventive detention.
+
+<<346.55;358.11;en>>
+In May 2011, the Federal Constitutional Court quashed the judgment and remitted the case to the Regional Court for a retrial.
+
+<<358.11;369.19;en>>
+Two days after the Federal Constitutional Court's judgment, the Regional Court ordered the applicant's provisional preventive detention.
+
+<<369.19;379.91;en>>
+In August 2012, the Regional Court, the resumed main proceedings, again ordered the applicant's preventive detention.
+
+<<379.91;386.99;en>>
+At the outset, the preventive detention was executed in a separate wing of a prison.
+
+<<386.99;400.95;en>>
+Since June 2013, until today, it is executed in a newly built facility on the premises of the prison, accommodating only persons in preventive detention.
+
+<<400.95;416.91;en>>
+Concerning the period until June 2013, the government acknowledged the violation of the applicant's rights under Article V, paragraph 1, and Article VII, paragraph 1 of the convention.
+
+<<416.91;423.11;en>>
+The applicant was also granted compensation for non-pecuniary damage.
+
+<<423.11;431.91;en>>
+Regarding this period, the chamber decided to strike the case out of its list of cases.
+
+<<431.91;449.79;en>>
+At issue before the grand chamber is the applicant's preventive detention based on the Regional Court's judgment of 3 August 2012 and the period of detention after 20 June 2013.
+
+<<449.79;464.47;en>>
+The applicant claims that the preventive detention after June 2013 violates Article V, paragraph 1, and Article VII, paragraph 1 of the convention.
+
+<<464.47;482.15;en>>
+He further maintains that the length of the proceedings by which the applicant sought to challenge the lawfulness of his provisional preventive detention violates the speed requirement of Article V, paragraph 4 of the convention.
+
+<<482.15;497.35;en>>
+Moreover, he contends that Judge P had been biased against him in the main proceedings on preventive detention in breach of Article VI, paragraph 1 of the convention.
+
+<<497.35;505.79;en>>
+I will now address the applicant's complaint under Article V, paragraph 1 of the convention.
+
+<<505.79;517.41;en>>
+The applicant's preventive detention is not justified by any of the subparagraphs A to F of Article V, paragraph 1.
+
+<<517.41;529.43;en>>
+In particular, it does not fall within the scope of subparagraph E, permitting the lawful detention of persons of unsound mind.
+
+<<529.43;549.65;en>>
+The applicant's detention was ordered under Article VII, paragraph 2, number 1, and Article 105, paragraph 1, of the Juvenile Court Act, read in conjunction with the Federal Constitutional Court's judgment of 4 May 2011.
+
+<<549.65;584.99;en>>
+The judgment of the Federal Constitutional Court provides that under Article VII, paragraph 2, of the Juvenile Court Act, preventive detention may only be ordered if a high risk of the most serious offenses of violence or sexual offenses can be inferred from specific circumstances in the person or the conduct of the detainee, and the detainee suffers from a mental disorder within the meaning of the Therapy Detention Act.
+
+<<584.99;603.45;en>>
+The applicant observes that he had not reliably been shown to be of unsound mind before the applicant was placed in preventive detention by the judgment at issue of the Regensburg Regional Court of 3 August 2012.
+
+<<603.45;608.81;en>>
+He had already been examined by various experts.
+
+<<608.81;617.55;en>>
+Three experts did not find him to suffer from a mental disorder warranting compulsory confinement.
+
+<<617.55;629.15;en>>
+In the proceedings at issue, the Regensburg Regional Court ordered a fresh examination of the applicant by two external psychiatric experts.
+
+<<629.15;637.35;en>>
+One of the experts found that the applicant suffers from sexual sadism and poses a high risk.
+
+<<637.35;648.11;en>>
+The other expert, however, heard that it is doubtful whether the applicant still suffers from such a mental disorder.
+
+<<648.11;656.71;en>>
+He also heard that the applicant poses a medium and not a high risk with regard to future offenses.
+
+<<656.71;665.31;en>>
+In sum, half of the experts did not find the applicant to suffer from sexual sadism.
+
+<<665.31;675.43;en>>
+In the applicant's view, taking into account that half of the experts disagree, there is not a reliable proof of a true mental disorder.
+
+<<678.31;692.35;en>>
+From 10 June 2015 to 30 June 2017, the applicant regularly underwent one-to-one psychotherapy by Mr. K, a psychologist of the Center
+
+<<692.35;693.55;en>>
+for Preventive Detention.
+
+<<693.55;707.95;en>>
+A report of the Center of 29 September 2016 states that 71 conversations, of which 60 were therapy sessions, took place.
+
+<<707.95;711.31;en>>
+In this report, the psychologist Mr. K
+
+<<711.31;719.63;en>>
+states that he cannot confirm that the applicant suffers from sexual sadism.
+
+<<719.63;733.11;en>>
+He holds either a mental disorder or, he holds, I quote, a hidden sadistic inclination, as Dr. B, in the year of 2015, found in his report
+
+<<733.11;743.91;en>>
+based on the file, cannot be confirmed until today from a therapeutic point of view, end of quote.
+
+<<743.91;758.71;en>>
+On 30 May 2017, the Center for Preventive Detention informed the applicant about its decision to discontinue the therapy provided by psychologist Mr. K
+
+<<758.71;764.47;en>>
+because the psychologist holds that the applicant does not suffer from sexual sadism.
+
+<<767.27;777.61;en>>
+Since 1 July 2017, therapy is offered by Mr. R, another psychologist of the Center.
+
+<<777.61;785.59;en>>
+The applicant disagrees with this decision and refuses to continue therapy with Mr. R since then.
+
+<<788.15;808.55;en>>
+Moreover, the new Center for Preventive Detention is not an appropriate institution for the detention of persons of unsound mind.
+
+<<808.55;828.45;en>>
+According to the case law of the court, the detention of a person as a mental health patient is only lawful for the purposes of subparagraph E of Article V, paragraph 1, if affected in a hospital, clinic, or other appropriate institution.
+
+<<828.45;834.61;en>>
+The conditions of the applicant's accommodation in the new facility have improved.
+
+<<834.61;841.23;en>>
+The cells measure 15 square meters and are furnished in contrast to prison cells.
+
+<<841.23;849.65;en>>
+With a cooking facility, refrigerator, and shower, inmates are permitted to wear their own clothes.
+
+<<849.65;856.75;en>>
+They can stay outside their cell between 6 AM and 10.30 PM.
+
+<<856.75;863.19;en>>
+The center also offers opportunities for recreational activities and sport.
+
+<<863.19;880.83;en>>
+In contrast, until 20 June 2013, in the wing for persons in preventive detention in Straubing Prison, the applicant was accommodated in a prison cell with a bed, a chair, a table, and a toilet.
+
+<<880.83;887.75;en>>
+However, the preventive detention center lacks a therapeutic environment.
+
+<<887.75;892.03;en>>
+It accommodates in total a number of 57 offenders.
+
+<<894.59;901.53;en>>
+The vast majority of these persons is not diagnosed to be of unsound mind.
+
+<<901.53;904.69;en>>
+They are not mental health patients.
+
+<<904.69;910.39;en>>
+They are placed in preventive detention and not in psychiatry.
+
+<<910.39;916.69;en>>
+Only five people there, including the applicant, are mental health patients.
+
+<<916.69;923.23;en>>
+Therefore, the therapeutic environment is still much more like a prison than like a psychiatry.
+
+<<926.19;932.83;en>>
+I will now deal with Article 5, Paragraph 4 of the Convention.
+
+<<932.83;955.79;en>>
+The applicant disagrees with the Chamber's view that the total length of the proceedings about the lawfulness of his provisional preventive detention, and notably the length of the proceedings before the Federal Constitutional Court, complied with Article 5, Paragraph 4.
+
+<<955.79;963.67;en>>
+The provisional preventive detention of the applicant was ordered on 6 May, 2011.
+
+<<963.67;976.15;en>>
+On 22 May, 2012, the Federal Constitutional Court declined the applicant's constitutional complaint of 7 September, 2011.
+
+<<976.15;983.63;en>>
+The decision was served on the applicant's counsel on 30 May, 2012.
+
+<<983.63;992.67;en>>
+The proceedings before the Federal Constitutional Court, therefore, lasted eight months and 23 days.
+
+<<992.67;1001.19;en>>
+The Chamber, in its judgment, held that the special features of constitutional complaint proceedings must be taken into account.
+
+<<1003.99;1011.79;en>>
+The Constitutional Court only examined the detention order's compliance with the fundamental right of liberty.
+
+<<1011.79;1016.43;en>>
+It did not do so as an additional fourth instance.
+
+<<1016.43;1026.03;en>>
+However, in the applicant's view, this special feature does not justify a longer duration of the proceedings.
+
+<<1026.03;1052.99;en>>
+The Constitutional Court, only examining compliance with a fundamental right to liberty, could be expected to take a decision within reasonable time as the Regensburg Regional Court and the Court of Appeal did, examining compliance of the detention order with a code of criminal procedure and the Juvenile Court Act.
+
+<<1052.99;1059.83;en>>
+The different provisions to be examined by the courts do not influence the length of the proceedings.
+
+<<1064.87;1089.07;en>>
+While in appeal proceedings before the ordinary courts, delays exceeding three to four weeks are already susceptible under Article V, Paragraph 4, in the present case, the Federal Constitutional Court took about 10 times longer to take a decision, namely, eight months and 23 days.
+
+<<1089.07;1101.95;en>>
+The complexity of the case to which the Chamber refers does also not justify the duration of the proceedings before the Federal Constitutional Court.
+
+<<1101.95;1110.95;en>>
+The judges of the Federal Constitutional Court were familiar with the circumstances of the applicant's case.
+
+<<1110.95;1126.27;en>>
+Only about a year ago, on 4th May, 2011, in its leading judgment on preventive detention, had the court decided the lawfulness of the applicant's preventive detention.
+
+<<1126.27;1144.67;en>>
+The decision on the applicant's constitutional complaint of 7th September, 2011, was taken by three of the same judges, who had already taken the decision of 4th May, 2011.
+
+<<1144.67;1160.51;en>>
+Therefore, the proceedings by which the applicant sought to challenge the lawfulness of his provisional preventive detention did not comply with a speed requirement of Article V, Paragraph 4 of the Convention.
+
+<<1163.95;1167.51;en>>
+Mr. President, with your permission,
+
+<<1167.51;1170.11;en>>
+my distinguished colleague, Mr. Mervani,
+
+<<1170.11;1173.31;en>>
+will now deal with the Grand Chamber's question about Article VII of the Convention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1179.22;1182.22;en>>
+Please, Mr. Mavany, you have the floor.
+
+[[Applicant;AP2]]
+
+<<1185.8;1190.52;en>>
+Mr. President, Honorable Judges of the Court,
+
+<<1190.52;1196.16;en>>
+the Court in its questions to the parties posed the following question.
+
+<<1196.16;1208.4;en>>
+Does the applicant's preventive detention, served as from 20th June 2013 in the Straubing Preventive Detention Center, amount to a penalty within the meaning of Article 7?
+
+<<1208.4;1212.16;en>>
+Yes, it does, on legal and factual grounds.
+
+<<1212.16;1223.26;en>>
+In its case law, for instance, in M versus Germany, or Bergman versus Germany, the Court found preventive detention to constitute a penalty under Article 7.
+
+<<1223.26;1230.36;en>>
+Likewise did the Federal Constitutional Court in its leading judgment of 4th of May 2011.
+
+<<1230.36;1240.98;en>>
+Regarding the applicant's preventive detention until 20th June 2013, the qualification of preventive detention as penalty is undisputed.
+
+<<1240.98;1252.38;en>>
+By its unilateral declaration of 23rd May 2014, the government admitted the breach of Article 7 and the qualification of preventive detention as a penalty.
+
+<<1252.38;1266.04;en>>
+In the present case, the chamber in paragraph 81 of its judgment held that the applicant's preventive detention from 20th June 2013 onwards is no longer to be qualified as a penalty.
+
+<<1266.04;1275.0;en>>
+This change of qualification is based on the different conditions of the execution of preventive detention in the new preventive detention center.
+
+<<1275.0;1279.84;en>>
+Likewise argued the government in its written observations.
+
+<<1279.84;1283.34;en>>
+The concept of penalty is autonomous in scope.
+
+<<1283.34;1290.96;en>>
+The court in its case law looks at five criteria to qualify a measure as a penalty according to Article 7.
+
+<<1290.96;1295.04;en>>
+The conditions of the execution is just one of them.
+
+<<1295.04;1303.6;en>>
+In contrast to the chamber's findings, the conditions of the execution indicate that preventive detention is still a penalty.
+
+<<1303.6;1313.2;en>>
+Admittedly, the conditions in the Straubing Preventive Detention Center have been modified compared to the applicant's detention before 20th June 2013.
+
+<<1313.2;1320.04;en>>
+There are bigger cells, more therapeutic personnel, and extended times in which the cells are not looked at.
+
+<<1320.04;1329.2;en>>
+But the Straubing Preventive Detention Center is still part of and located on the grounds of a penalty institution.
+
+<<1329.2;1342.44;en>>
+As it had shown on the pictures submitted by the government to the court on 8th November 2017, windows in the center are barred, the inner courtyard and the whole institution are under video surveillance.
+
+<<1342.44;1348.64;en>>
+There were 71 new positions created in the Straubing Preventive Detention Center.
+
+<<1348.64;1368.92;en>>
+According to the government's final action report of 1st December 2014 on compliance with the judgment in the case group M versus Germany, only 13 of this 71 new positions consist of therapeutic staff, general administrative staff, and uniform prison officers from the bigger part.
+
+<<1368.92;1378.52;en>>
+Therefore, the conditions in the Straubing Preventive Detention Center differ fundamentally from the situation in psychiatric hospitals.
+
+<<1378.52;1386.36;en>>
+One of the criteria to classify a measure as a penalty is whether it is imposed following conviction for criminal offense.
+
+<<1386.36;1397.76;en>>
+In this context, the government stated that the applicant's preventive detention was not ordered together with the conviction for a criminal offense, but later on in a separate proceeding.
+
+<<1397.76;1405.68;en>>
+This disregards that preventive detention cannot be ordered without a previous conviction of a criminal offense.
+
+<<1405.68;1423.92;en>>
+The importance of a conviction of an offense for the imposition of preventive detention becomes obvious when comparing other measures under domestic law relating to persons who are classified to be a significant danger to the general public, but did not commit an offense.
+
+<<1423.92;1442.92;en>>
+In absence of a conviction for an offense, a person who suffers from a mental disorder, regardless whether the applicant fulfills this condition or not, falls within the scope of the law of the land of Bavaria on the detention of persons of unsound mind, not to be confused with the Therapy Detention Act.
+
+<<1442.92;1456.76;en>>
+Article 1, paragraph 1 of the law of the land of Bavaria on the detention of persons of unsound mind allows a person to be hospitalized if the person poses a significant danger to general public.
+
+<<1456.76;1465.8;en>>
+Preventive detention is not even mentioned by this law as an admissible measure for persons who have never been convicted for a crime.
+
+<<1465.8;1472.6;en>>
+Thus, the applicant's preventive detention was imposed following conviction for a criminal offense.
+
+<<1472.6;1481.44;en>>
+The provisions governing the order and execution of preventive detention are still part of the criminal court and the code of criminal procedure.
+
+<<1481.44;1493.68;en>>
+This characterizes preventive detention as a criminal law measure under domestic law, one of the court's criteria to classify a measure as a penalty under Article 7.
+
+<<1493.68;1502.48;en>>
+Preventive detention in general, and in this case, is a measure ordered by a criminal court as a part of a criminal justice system.
+
+<<1502.48;1511.44;en>>
+The government, in its written observations, holds that that can be explained by considerations of practicability.
+
+<<1511.44;1522.68;en>>
+It contends that criminal courts are particularly experienced in assessing the necessity of confining mental health patients whose mental state can lead to serious crimes.
+
+<<1522.68;1530.32;en>>
+However, in this respect, civil courts, in fact, and law are at least as experienced as criminal courts.
+
+<<1530.32;1550.16;en>>
+For instance, under Article 312 of the Act on the Procedure in Family Matters and in Matters of Noncontinuous Jurisdiction, civil courts are competent to order the detention of persons of unsound mind according to the mentioned law of the land of Bavaria on detention of persons of unsound mind.
+
+<<1550.16;1559.44;en>>
+This act provides for the confinement of persons who suffer from a mental disorder and are suspected to be dangerous for the public.
+
+<<1559.44;1564.4;en>>
+Furthermore, civil courts are dealing with the Therapy Detention Act as well.
+
+<<1564.4;1570.26;en>>
+Thus, civil courts have as much experience and legal expertise in this field as criminal courts.
+
+<<1573.16;1577.16;en>>
+Finally, the severity of the measure must be regarded.
+
+<<1577.16;1589.28;en>>
+In M versus Germany, the court found that preventive detention in absence of a maximum duration is one of and maybe the severest measure known by domestic law.
+
+<<1589.28;1597.64;en>>
+There are reviews and regular interviews, as the government mentioned, but this does not affect the severity of the measure.
+
+<<1597.64;1603.48;en>>
+It rather constitutes a procedure because of the given severity.
+
+<<1603.48;1617.2;en>>
+Although it is true that the applicant is, in principle, free to request a review at any time, the court can suspend the applicant's right to request a review for a certain period.
+
+<<1617.2;1629.6;en>>
+Coming up, all the given points, all criteria state by the court in its case law indicate that the applicant's preventive detention has to be classified as a penalty, according to Article 7.
+
+<<1629.6;1642.72;en>>
+Although conditions changed with the applicant's transfer to Straubing Preventive Detention Center, the situation is still close to imprisonment and far away from the situation in a psychiatric hospital.
+
+<<1642.72;1650.44;en>>
+Against this background, I will briefly make a remark on question 3, subparagraph B of the questions of the party.
+
+<<1650.44;1658.96;en>>
+What is the impact on the fact that prior to the 20th June 2013, the applicant was kept in Straubing prison?
+
+<<1658.96;1671.96;en>>
+In the present case, it is uncontested that prior to 20th June 2013, the applicant's preventive detention violated Article 7, paragraph 1, second sentence, and Article 5, paragraph 1 of the convention.
+
+<<1671.96;1674.72;en>>
+As a result, there are three consequences.
+
+<<1674.72;1678.32;en>>
+First, the applicant is entitled to compensation.
+
+<<1678.32;1685.28;en>>
+The government acknowledged the violation of the convention and granted compensation by means of a unilateral declaration.
+
+<<1685.28;1691.92;en>>
+Second, the execution of preventive detention did not only violate the convention.
+
+<<1691.92;1697.58;en>>
+It also rendered the order of preventive detention of the Regensburg Regional Court unlawful.
+
+<<1697.58;1703.68;en>>
+Both the practical implementation of preventive detention and the judgment are connected.
+
+<<1703.68;1706.52;en>>
+They cannot be treated isolated.
+
+<<1706.52;1718.38;en>>
+The government stated that it would be overly formalistic to require a new judicial decision to justify the applicant's transfer to the new preventive detention facility.
+
+<<1718.38;1719.88;en>>
+It is not.
+
+<<1719.88;1725.08;en>>
+It is based on the rule of law and required by the convention as well.
+
+<<1725.08;1728.02;en>>
+Not the transfer to the new facility.
+
+<<1728.02;1733.16;en>>
+The preventive detention as such has to be ordered again.
+
+<<1733.16;1740.24;en>>
+Article 5, paragraph 1 requires a detention under subparagraphs A to F to be lawful.
+
+<<1740.24;1751.76;en>>
+The judgment of the Regensburg Regional Court of 3 August 2012 is, as it was shown, unlawful, which the government admits at its unilateral declaration.
+
+<<1751.76;1757.92;en>>
+A justified penalty under Article 7 must be based on a lawful verdict, too.
+
+<<1757.92;1766.16;en>>
+Therefore, the judgment of the Regensburg Regional Court of 3 August 2012 has to be quashed and the case remitted for a new trial.
+
+<<1766.16;1777.68;en>>
+Without a new judgment, there's a lack of legal basis for the applicant's preventive detention in both periods, until 20 June 2013, as well as since then onwards.
+
+<<1777.68;1794.32;en>>
+Third, the Regensburg Regional Court, at the time of the delivery of its judgment of 3 August 2012, was aware that the applicant was placed in a separate wing of Straubing Prison in reach of Article 7 and Article 5 of the Convention.
+
+<<1794.32;1800.84;en>>
+The government contends that at this time, the new center for preventive detention was under construction.
+
+<<1800.84;1805.4;en>>
+However, there were and still are plenty of alternatives.
+
+<<1805.4;1810.64;en>>
+In Germany, there are many hospitals providing treatments for persons who suffer from a mental disorder.
+
+<<1810.64;1817.72;en>>
+Many of them take care of patients suspected to be a threat to the public and are therefore looked up.
+
+<<1817.72;1828.04;en>>
+A therapy detention act and the law of the land of Bavaria of the detention of persons of unsound mind, provide for the option to confine persons of unsound mind in a psychiatric hospital.
+
+<<1828.04;1837.88;en>>
+If this option would have been chosen, the applicant could have been transferred to an institution sufficiently staffed and equipped to treat him appropriately.
+
+<<1837.88;1840.72;en>>
+One final question needs to be answered.
+
+<<1840.72;1847.04;en>>
+Can the applicant's preventive detention be said to have been ordered retrospectively, and if so, in what sense?
+
+<<1847.04;1853.04;en>>
+The applicant's preventive detention has been ordered retrospectively, and this on two grounds.
+
+<<1853.04;1869.0;en>>
+When the applicant was convicted in 1999 for a criminal offense committed in 1997 as a young adult offender, neither his preventive detention was ordered in the decision, nor did the law provide for this measure regarding juvenile offenders or young adults.
+
+<<1869.0;1889.56;en>>
+Only 11 years later, by the law on the introduction of retrospective preventive detention for convictions under criminal law relating to young offenders, of 8th July 2008, which entered in force on 12th July 2008, was Article 7, Paragraph 2 inserted into the Juvenile Court Act.
+
+<<1889.56;1901.84;en>>
+This law provided for the possibility to order preventive detention against juvenile offenders and young adults after the conviction, although it was not yet in force when the offense was committed.
+
+<<1901.84;1916.16;en>>
+In its leading judgment of 4th May 2011, the Federal Constitutional Court found Article 7, Paragraph 2 of the Juvenile Court Act to be unconstitutional inter alia because of its retrospective effects.
+
+<<1916.16;1927.92;en>>
+Besides, the Federal Constitutional Court, in its judgment, explicitly referred the court's decision in M versus Germany and the violation of Article 7 of the Convention.
+
+<<1927.92;1937.88;en>>
+To cut a long story short, the applicant's preventive detention was and still is to be classified as a penalty under Article 7 of the Convention.
+
+<<1937.88;1945.08;en>>
+It was ordered with retrospective effect under a law enacted after the applicant had committed this offense.
+
+<<1945.08;1952.08;en>>
+This, even though there were plenty of alternatives to treat the applicant properly and in accordance with the Convention.
+
+<<1952.08;1962.4;en>>
+The applicant invites the court to find a violation of Article 5, Paragraph 1 and Paragraph 4, Article 6, Paragraph 1, and Article 7, Paragraph 1 of the Convention.
+
+<<1962.4;1962.4;en>>
+Thank you for your attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1964.5;1967.26;en>>
+Thank you very much, Mr. Mavany.
+
+<<1967.26;1969.98;en>>
+I call Professor Giegerich, please, you have the floor.
+
+[[Government;GR1]]
+
+<<1973.53;1977.41;en>>
+Mr. President and Honourable Judges of the Court,
+
+<<1977.41;1993.53;en>>
+I will argue, firstly, that the applicant's preventive detention has, since 20 June 2013, always been and still is justified under Article 5, Paragraph 1, Letter E of the Convention.
+
+<<1993.53;2006.65;en>>
+And secondly, that since that same date, his detention can no longer be characterised as a penalty in the sense of Article 7, Paragraph 1 of the Convention.
+
+<<2006.65;2012.89;en>>
+For lack of violations of the Convention, the applications are ill-founded.
+
+<<2012.89;2025.17;en>>
+German criminal law has long distinguished between penalties such as imprisonment on the one hand and non-penal measures such as preventive detention on the other.
+
+<<2025.17;2039.77;en>>
+This distinction permits German criminal courts to impose prison terms commensurate to the guilt reflected in each crime, irrespective of the dangerousness of the individual criminal.
+
+<<2039.77;2056.65;en>>
+If it appears to the sentencing court that the criminal will still be dangerous after having fully deserved prison term, it can additionally order preventive detention under strict conditions set forth in the law.
+
+<<2056.65;2067.13;en>>
+Because of that two-tier system, the prison terms in Germany are relatively short compared to those in other Convention states.
+
+<<2067.13;2096.17;en>>
+Even if one adds up the number of prisoners serving terms of more than 10 years and the number of persons in preventive detention, the sum for Germany remains under 3,000, less than half the number for France and only 1 6th the number for the United Kingdom, even though Germany's population is considerably larger than that of France or the United Kingdom.
+
+<<2096.17;2106.69;en>>
+These data prove that Germany does not abuse preventive detention to lock up a disproportionately high percentage of the population for long periods of time.
+
+<<2106.69;2109.61;en>>
+Quite the contrary.
+
+<<2109.61;2127.39;en>>
+In 2009, however, this court decided, in the case of MV Germany, that the retrospective imposition of preventive detention, as it was regulated and practiced at that time, violated Articles 5 and 7.
+
+<<2127.39;2138.13;en>>
+Two years later, the Convention standards clarified by this court were translated into German constitutional law by the Federal Constitutional Court.
+
+<<2138.13;2148.01;en>>
+This is an important example of successful cooperation between the two courts for the sake of effective human rights protection.
+
+<<2148.01;2160.45;en>>
+In order to transpose the requirements of the two courts, Germany carried out a fundamental reform of both the law and practice of preventive detention.
+
+<<2160.45;2168.3;en>>
+The Federation and all the constituent states enacted new statutes on preventive detention.
+
+<<2168.3;2181.01;en>>
+The states spent over 200 million euros on new buildings and hired a large number of additional personnel specifically to care for persons in preventive detention.
+
+<<2181.01;2192.93;en>>
+This reform has once and for all clarified the fundamental difference between the penalty of imprisonment and the non-penal measure of preventive detention.
+
+<<2192.93;2210.63;en>>
+It has also considerably improved the situation of the applicant with regard to the therapy offered to him, his accommodation, and the degree of freedom he enjoys in the new preventive detention center since 20th June, 2013.
+
+<<2210.63;2220.41;en>>
+This court has acknowledged Germany's sincere efforts to comply with its obligations under the Convention in several chamber judgments.
+
+<<2220.41;2224.01;en>>
+Mr. President and honorable members of the court,
+
+<<2224.01;2240.82;en>>
+as far as Article 5, Paragraph 1 is concerned, the applicant is a person of unsound mind in the sense of letter E, who is being lawfully detained in an appropriate institution in accordance with this court's case law.
+
+<<2240.82;2251.82;en>>
+The court has established three minimum conditions for justifying detention on the basis of Article 5, Paragraph 1, letter E. In the applicant's case,
+
+<<2251.82;2255.3;en>>
+these conditions are clearly fulfilled.
+
+<<2255.3;2264.43;en>>
+Firstly, he has reliably been shown on the basis of objective medical expertise to suffer from a true mental disorder.
+
+<<2264.43;2271.78;en>>
+Secondly, his mental disorder is of a kind and degree warranting compulsory confinement.
+
+<<2271.78;2279.93;en>>
+And thirdly, the mental disorder persists and warrants his continued confinement.
+
+<<2279.93;2292.22;en>>
+Concerning the first condition, the applicant's mental disorder is sexual sadism, including fantasies of violence entailing the strangulation of women.
+
+<<2292.22;2304.05;en>>
+Sexual sadism is a sexual preference disorder listed in the relevant international classification of diseases of the World Health Organization.
+
+<<2304.05;2317.63;en>>
+The applicant's sexual sadism was established before a competent court on the basis of objective medical expertise in proceedings meeting all due process standards.
+
+<<2317.63;2336.15;en>>
+The regional court held hearings for 24 days, consulted two external psychiatric experts, and also took into consideration the findings and testimony of several other experts who had previously examined the applicant.
+
+<<2336.15;2348.22;en>>
+Contrary to applicants' assertions, the selection of psychiatric experts in this case did not run afoul of Article 43, Paragraph 1 of the Juvenile Courts Act.
+
+<<2348.22;2354.57;en>>
+The experts were well qualified to evaluate the mental state of the applicant.
+
+<<2354.57;2370.38;en>>
+First of all, they are both renowned experts in forensic psychiatry with many years of experience, working not only with adults, but also with adolescent criminal offenders.
+
+<<2370.38;2383.38;en>>
+Moreover, the regional court decided on the applicant's preventive detention when he was no longer an adolescent, but an adult already in his 30s.
+
+<<2383.38;2395.82;en>>
+And finally, the applicant himself proposed both experts during other stages of the proceedings, thus accepting their competence.
+
+<<2395.82;2407.01;en>>
+Concerning the second condition of Article 5, Paragraph 1, Letter E, the applicant's sexual sadism warrants compulsory confinement.
+
+<<2407.01;2421.34;en>>
+In contrast to what Intervena wants to make the court believe, the applicant is not arbitrarily being deprived of his liberty simply because of a vague assumption of dangerousness.
+
+<<2421.34;2438.53;en>>
+Rather, he was first diagnosed by medical experts as suffering from a true mental disorder, and subsequently found to pose a high risk of committing most serious crimes of violence because of that disorder.
+
+<<2438.53;2446.69;en>>
+That risk was deduced from concrete circumstances in the person and behavior of the applicant.
+
+<<2446.69;2455.45;en>>
+It would be irresponsible to release him before his sexual sadism is properly treated.
+
+<<2455.45;2463.49;en>>
+Intervena points to the possibility of diagnostic errors, which can indeed never be excluded.
+
+<<2463.49;2482.78;en>>
+But since Article 5, Paragraph 1, Letter E, expressly permits states to detain persons of unsound mind on the basis of medical expertise, the Convention ultimately accepts that risk if the National Court minimizes it as far as possible.
+
+<<2482.78;2494.73;en>>
+This was done in the instant case by carefully selecting the medical experts and critically assessing the plausibility of their expertise.
+
+<<2494.73;2502.65;en>>
+Moreover, in each of the later review procedures, the regional court commissioned a different external expert.
+
+<<2506.53;2518.22;en>>
+Concerning the third condition of Article 5, Paragraph 1, Letter E, the applicant's mental disorder and ensuing dangerousness persist.
+
+<<2518.22;2535.01;en>>
+His mental state is reexamined ex officio at annual intervals, and the diagnosis was last confirmed by the competent court in April 2017 on the basis of new medical expertise.
+
+<<2535.01;2551.57;en>>
+Whenever deciding about the preventive detention of persons of unsound mind on the basis of German law, all German courts observe the standards of Article 5, Paragraph 1, Letter E, which is directly applicable.
+
+<<2551.57;2568.77;en>>
+Moreover, pursuant to the binding case law of the Federal Constitutional Court, German courts are subject to a constitutional obligation to abide by Article 5, Paragraph 1, Letter E in cases like the incident.
+
+<<2568.77;2575.69;en>>
+That constitutional obligation can, if necessary, be enforced by lodging a constitutional complaint.
+
+<<2575.69;2580.91;en>>
+Mr. President and honorable judges of the court,
+
+<<2580.91;2591.49;en>>
+you also require that detentions based on Article 5, Paragraph 1, Letter E are executed in institutions appropriate for mental health patients.
+
+<<2591.49;2599.18;en>>
+Since 20th June 2013, the applicant has been detained in such an institution.
+
+<<2599.18;2621.51;en>>
+The Straubing Preventive Detention Center was newly built in order to fulfill the precepts formulated by this court in MV Germany and adopted by the Federal Constitutional Court.
+
+<<2621.51;2640.09;en>>
+The center is situated in a fenced-off compound adjacent to the prison and entirely separate from it in regard of accommodation of inmates, staffing, internal rules, material conditions, and therapies.
+
+<<2640.09;2657.78;en>>
+There, the applicant is offered individualized and reinforced medical and therapeutic treatment by specialized personnel in order to cure his mental disorder and enable his release as soon as possible.
+
+<<2657.78;2670.73;en>>
+Immediately after the applicant's transfer to the new center, an individualized therapy plan was made, which is continuously updated and implemented.
+
+<<2670.73;2685.01;en>>
+Moreover, intensive efforts have been made by psychologists and social pedagogues ever since to incentivize the applicant's cooperation in the treatment program.
+
+<<2685.01;2692.09;en>>
+For two reasons, however, these incentivization efforts have not been successful.
+
+<<2692.09;2700.61;en>>
+Firstly, the applicant considers his preventive detention, including the therapy offers, as unlawful.
+
+<<2700.61;2713.89;en>>
+Secondly, he also refuses to accept the expert's diagnosis that he suffers from sexual sadism and needs appropriate treatment before he can be released.
+
+<<2713.89;2723.53;en>>
+It is in connection with that second reason that the preventive detention center recently ordered a change of therapists.
+
+<<2723.53;2738.65;en>>
+It did so because the competent court supervising the applicant's detention and treatment suggested on the basis of medical expertise that the applicant's sexual sadism be treated.
+
+<<2738.65;2746.77;en>>
+Since the previous therapist refused to do so, a change of therapists was inevitable.
+
+<<2746.77;2755.34;en>>
+It is certainly within the competence of the national authorities to decide about the proper therapy in such a case.
+
+<<2755.34;2766.01;en>>
+Moreover, the applicant should have challenged the change of therapists in the competent German court instead of bringing the issue before the grand chamber.
+
+<<2766.01;2780.65;en>>
+The applicant vainly tries to second-guess his detention in an appropriate institution for mental health patients by arguing that only a small group of fellow inmates were persons of unsound mind.
+
+<<2780.65;2791.41;en>>
+Contrary to his allegations, however, most of the inmates of the Straubing Center suffer from various forms of mental disorders.
+
+<<2791.41;2797.89;en>>
+80% of them have personality disorders and need appropriate treatment.
+
+<<2797.89;2810.93;en>>
+The fact that only few are sexual sadists, as the applicant, cannot call into question the center's character as an appropriate institution for his treatment.
+
+<<2810.93;2825.3;en>>
+There, persons with different mental disorders may just live together, but each of them is offered the individualized treatment which is appropriate for his specific disorder.
+
+<<2825.3;2832.38;en>>
+As a matter of fact, the same holds true for psychiatric hospitals.
+
+<<2832.38;2850.69;en>>
+When the applicant's preventive detention was originally ordered in August 2012, he had to be temporarily placed in a separate wing of the prison which did not meet the requirements of an appropriate institution for mental health patients.
+
+<<2850.69;2858.93;en>>
+The reason was that the new preventive detention center could not be completed until 10 months later.
+
+<<2858.93;2867.3;en>>
+In view of the applicant's dangerousness, however, it was absolutely impossible to release him intermittently.
+
+<<2867.3;2875.01;en>>
+But this does not mean that the regional court willfully disobeyed the judgment in MV Germany.
+
+<<2875.01;2893.86;en>>
+Rather, it trusted that this court would acknowledge the practical difficulties which impeded the immediate implementation of the convention standards in Germany and concede a transitional period, just as the Federal Constitutional Court had done.
+
+<<2893.86;2902.05;en>>
+As it turned out later in Glen, V Germany, however, the court was unwilling to do so.
+
+<<2902.05;2916.69;en>>
+This is why the government acknowledged that the applicant's preventive detention violated the convention until 20 June 2013, when he was transferred to the new preventive detention center.
+
+<<2916.69;2923.41;en>>
+With this transfer, however, the violation was definitely terminated.
+
+<<2923.41;2932.69;en>>
+It is immaterial that the regional court did not issue a new decision to justify the applicant's detention in the new center.
+
+<<2932.69;2955.26;en>>
+As a matter of fact, the national courts have meanwhile three times confirmed that the applicant's preventive detention in the new center must continue because his mental disorder has not yet been cured, so that he still poses a high risk of committing another most serious crime of violence.
+
+<<2955.26;2973.01;en>>
+It is not true that the reform of the German law on preventive detention amounted to nothing but redefining all those into persons of unsound mind whose preventive detention violated the convention according to M. V. Germany.
+
+<<2973.01;2984.65;en>>
+As a matter of fact, 88 out of 102 persons in preventive detention whose cases were parallel to M. V. Germany were released as a result
+
+<<2984.65;2997.77;en>>
+of the reexamination of their detention on the basis of Article V, Paragraph 1, Letter E of the convention that had been ordered by the Federal Constitutional Court.
+
+<<2997.77;3012.22;en>>
+Since that time, preventive detention in this kind of cases is used sparingly and in strict conformity with the convention as interpreted by this court.
+
+<<3012.22;3026.89;en>>
+Contrary to the applicant's argument, it is not incompatible with the convention to impose preventive detention on persons such as the applicant who committed crimes while young adults.
+
+<<3026.89;3039.41;en>>
+Since they are transferred to preventive detention only after having served their prison terms, they will always be at least 21 years old at that time.
+
+<<3039.41;3045.89;en>>
+The applicant was well over 30 when his preventive detention was ordered.
+
+<<3045.89;3051.01;en>>
+There is definitely no contradictory European consensus.
+
+<<3051.01;3070.05;en>>
+Apart from Germany, a number of other convention states such as the United Kingdom, France, Italy, Poland, the Czech Republic, and Switzerland permit the preventive detention of persons who committed crimes as young adults.
+
+<<3070.05;3077.89;en>>
+Others may well impose prison terms on young adults, which are much longer than in Germany.
+
+<<3077.89;3094.34;en>>
+All in all, since 20th June 2013, the applicant's preventive detention has been and still is justified in accordance with the strict requirements of Article 5, Paragraph 1, Letter E.
+
+<<3094.34;3098.1;en>>
+Accordingly, it does not violate Article 5.
+
+<<3104.26;3108.45;en>>
+Mr. President and honorable judges of the court,
+
+<<3108.45;3116.02;en>>
+the applicant's preventive detention does not conflict with Article 7, Paragraph 1, either.
+
+<<3116.02;3125.22;en>>
+Since his transfer to the new preventive detention center, it can no longer be qualified as a penalty.
+
+<<3125.22;3141.34;en>>
+I have already explained that the Straubing Center provides adequate therapy for persons of unsound mind, such as the applicant, who need to be kept in detention because their mental disorder makes them dangerous.
+
+<<3141.34;3144.98;en>>
+That center is not a prison for criminals.
+
+<<3144.98;3162.53;en>>
+Rather, it meets standards approximate to those in the closed ward of a psychiatric hospital, providing all the conditions necessary to carry out an individualized and effective therapy of mental disorders.
+
+<<3162.53;3179.18;en>>
+Accordingly, the applicant is no longer detained as a criminal, but as a person of unsound mind in the sense of Article 5, Paragraph 1, Letter E, who also has a criminal record.
+
+<<3179.18;3189.18;en>>
+This detention does not pursue the typical penal purposes of retribution and deterrence, but is purely preventive.
+
+<<3189.18;3199.45;en>>
+This is not a redefinition on paper, but a complete reorientation that is also implemented in everyday practice.
+
+<<3199.45;3214.45;en>>
+The applicant's detention guarantees his individualized therapeutic treatment while preventing his escape because, as a sexual sadist, he poses an extreme threat to others.
+
+<<3214.45;3225.45;en>>
+Accordingly, he will be released as soon as therapeutic success has sufficiently reduced the risk that he will commit most serious crimes of violence.
+
+<<3228.61;3242.69;en>>
+Among the criteria used by this court to determine whether a national measure qualifies as a penalty in the sense of Article 7 are in particular its nature and purpose.
+
+<<3242.69;3249.26;en>>
+A change in the nature and purpose of a measure can also change its character.
+
+<<3249.26;3267.06;en>>
+If sufficient changes are put in effect, a measure will lose its previous penal character and be transformed from a penalty into a measure of an entirely different quality with regard to Article 7.
+
+<<3267.06;3289.26;en>>
+The government acknowledged that the applicant's detention could be considered as a penalty for the purposes of the Convention before 20 June 2013 because he was detained in conditions similar to those in a prison and without being offered comprehensive treatment for his mental disorder.
+
+<<3289.26;3312.73;en>>
+However, as has already been explained, his transfer to the new Straubing Preventive Detention Centre has so fundamentally changed the nature and purpose of his detention that it is now definitely not a penalty but has become approximate to treatment in the closed ward of a psychiatric hospital.
+
+<<3312.73;3317.85;en>>
+The applicant's preventive detention is undoubtedly severe.
+
+<<3317.86;3328.78;en>>
+But this court has acknowledged that the severity of the measure is not in itself decisive for purposes of its characterisation as a penalty.
+
+<<3328.78;3337.45;en>>
+This is because many non-penal measures of a preventive nature have a substantial impact on the person concerned.
+
+<<3337.45;3343.3;en>>
+One example being that person's treatment in the closed ward of a psychiatric hospital.
+
+<<3343.3;3347.93;en>>
+Nobody qualifies such treatment as a penalty.
+
+<<3347.93;3355.49;en>>
+The duration of the applicant's preventive detention depends on the success of the therapy offered to him.
+
+<<3355.49;3366.13;en>>
+If he cooperates, which he has not yet done sufficiently, he can considerably improve the prospects of being released.
+
+<<3366.13;3380.3;en>>
+The fact that it was a criminal court which originally made the preventive detention order and now regularly reviews its continuation ex officio is not decisive either.
+
+<<3380.3;3385.77;en>>
+This attribution of competence does not qualify the measure as a penalty.
+
+<<3385.77;3389.69;en>>
+Rather, it serves a practical purpose.
+
+<<3389.69;3397.69;en>>
+The criminal courts have much experience with regard to the detention of persons who suffer from mental disorders.
+
+<<3397.69;3407.65;en>>
+They regularly decide about the institutionalisation in psychiatric hospitals of mentally ill persons who committed crimes.
+
+<<3407.65;3425.73;en>>
+It is therefore consistent to give criminal courts competences also with regard to the preventive detention of persons of unsound mind who have a criminal record, in accordance with Article 5, Paragraph 1, Letter E of the Convention.
+
+<<3425.73;3438.69;en>>
+Finally, the fact that the applicant's preventive detention was ordered subsequent to his conviction of a crime does not turn his detention into a penalty.
+
+<<3438.69;3460.34;en>>
+In this regard, it is important to take into account that the preventive detention order was issued by the regional court at the end of a separate procedure in 2012, many years after the applicant's conviction of and sentencing for murder in 1999.
+
+<<3460.34;3467.01;en>>
+His previous murder conviction is not the reason for his continuing preventive detention.
+
+<<3467.01;3484.53;en>>
+Rather, the reason is his present mental disorder in the form of sexual sadism and his ensuing dangerousness, in the sense that he is highly likely to commit another most serious crime of violence, if released.
+
+<<3484.53;3504.57;en>>
+The requirement that persons of unsound mind may only be kept in preventive detention for an extended period of time, if their dangerousness has already become manifest in a serious crime, goes back to the Federal Constitutional Court.
+
+<<3504.57;3520.18;en>>
+That court determined in 2004 that without such an underlying serious crime, the preventive detention of those persons was incompatible with the constitutional principle of proportionality.
+
+<<3520.18;3540.97;en>>
+In other words, requiring a prior criminal conviction as a condition for the applicant's preventive detention is intended to keep interferences in his personal liberty at a minimum, which is quite in accordance with the regulatory goal of Article V of the Convention.
+
+<<3540.97;3546.81;en>>
+It does not transform that detention into a penalty.
+
+<<3546.81;3551.01;en>>
+Mr. President and honorable judges of the court,
+
+<<3551.01;3567.93;en>>
+the application of the criteria used by this court to identify the penal character of the measure for the purposes of Article VII leads to the overall result that the applicant's preventive detention is not a penalty.
+
+<<3567.93;3581.34;en>>
+Its nature and purpose clearly qualify it as a therapeutic measure, similar to the confinement in a psychiatric hospital, to which it is also equivalent regarding its severity.
+
+<<3581.34;3589.26;en>>
+The fact that the preventive detention was imposed by a criminal court for practical reasons is not decisive.
+
+<<3589.26;3599.01;en>>
+Finally, the fact that the applicant's preventive detention is related to his murder conviction does not turn it into a penalty either.
+
+<<3599.01;3608.65;en>>
+This is because the murder conviction is not the true reason for his detention, but only one additional limitative factor.
+
+<<3608.65;3619.26;en>>
+All in all, there has been no violation of Article VII either, though that the applications are altogether ill-founded.
+
+<<3619.26;3638.53;en>>
+At the end of my argument, I want to emphasize once more that the intensive dialogue between this court and the Federal Constitutional Court has substantially improved the law and practice of preventive detention in Germany since 2009.
+
+<<3638.53;3652.65;en>>
+The German authorities, both on the federal level and in all constituent states, have done their utmost to implement the requirements of the convention as defined by this court.
+
+<<3652.65;3671.14;en>>
+Their efforts were based on a political consensus across party lines that the human rights of persons in preventive detention need to be upheld, even though they are but a small minority without powerful political lobby.
+
+<<3671.14;3678.56;en>>
+This is a fine example of successful multi-level cooperation in human rights implementation.
+
+<<3678.56;3689.47;en>>
+We view it as an important achievement, fully consistent with the convention, and I move that the Grand Chamber acknowledge it as such.
+
+<<3689.47;3689.47;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3691.39;3698.39;en>>
+Thank you very much, Professor Giegerich, and I thank both parties for their submissions.
+
+<<3698.39;3708.39;en>>
+And now I invite my colleagues, the members of the Grand Chamber, wishing to do so, to put their questions to the parties.
+
+<<3708.39;3711.39;en>>
+I understand that Judge Sicilianos has one or more questions.
+
+<<3711.39;3711.39;en>>
+Please.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<3715.41;3716.69;fr>>
+Merci, Monsieur le Président.
+
+<<3716.89;3723.53;fr>>
+Je voudrais poser une question au gouvernement et une autre question au requérant.
+
+<<3723.73;3728.49;fr>>
+Bien évidemment, chaque parti pourrait commenter sur ces questions.
+
+<<3731.21;3732.77;fr>>
+La question au gouvernement.
+
+<<3733.89;3744.53;fr>>
+Le requérant vient de nous dire que parmi les personnes détenues avec lui à la Facilité spéciale de Straubing, la majorité ne souffre pas de troubles mentaux.
+
+<<3746.77;3757.89;fr>>
+Le gouvernement, pour sa part, vient de dire que la grande majorité de ces personnes, la grande majorité, mais pas tous, souffre de différentes formes de troubles mentaux.
+
+<<3759.89;3761.41;fr>>
+Ma question est la suivante.
+
+<<3761.61;3781.37;fr>>
+Dans le système allemand, tel que modifié depuis 2011, la détention préventive est-elle associée uniquement avec l'existence de troubles mentaux ou bien elle peut être ordonnée également à l'égard de condamnés dangereux qui ne souffrent pas d'une maladie mentale?
+
+<<3783.93;3786.69;fr>>
+Ma deuxième question va au requérant.
+
+<<3786.89;3790.61;fr>>
+Elle concerne l'article 5, paragraphe 4 de la Convention.
+
+<<3792.37;3800.97;fr>>
+Vous vous plaignez notamment de la durée de la procédure devant la Cour constitutionnelle. Vous avez relevé aussi
+
+<<3801.17;3804.49;fr>>
+le rôle particulier de la Cour constitutionnelle allemande.
+
+<<3806.13;3808.13;fr>>
+Ma question est la suivante.
+
+<<3808.33;3827.21;fr>>
+Aviez-vous la possibilité d'obtenir un nouveau contrôle de l'ordonnance de placement d'étention devant les juridictions ordinaires alors même que la procédure antérieure était toujours pendante devant la Cour constitutionnelle?
+
+<<3808.33;3827.21;fr>>
+Merci Mr. le President.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3828.64;3832.14;fr>>
+Merci beaucoup, M. le juge.
+
+<<3831.64;3833.14;en>>
+Now Judge Paulo Pinto de Albuquerque
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<3837.94;3840.78;en>>
+Thank you very much, Mr. President.
+
+<<3840.78;3846.9;en>>
+My questions are addressed to the government, but of course the applicant can comment on them.
+
+<<3846.9;3866.14;en>>
+I would like the government to elaborate on the concept that is enshrined in the Therapy Detention Act, the "Therapie Unterbringungsgesetz", the concept of "psychische Störung", mental disorder.
+
+<<3867.86;3875.66;en>>
+Does it extend to non-pathological disorders or any other social deviance behavior?
+
+<<3883.9;3888.86;en>>
+Ultimately, who has the final saying with regard to these mental disorders?
+
+<<3888.86;3904.44;en>>
+Is the judge competent or the psychologists or psychiatrists who has the final saying in characterizing this mental disorder?
+
+<<3904.44;3915.18;en>>
+My second question regards the preventive detention itself foreseen by this Therapy Detention Act.
+
+<<3915.18;3924.26;en>>
+Can you explain the nature of this measure in the light of the classic dualism between penalties and security measures in German law?
+
+<<3924.26;3931.42;en>>
+If it is not a penalty, a "Strafe", is it a "Massregel der Besserung"?
+
+<<3931.42;3933.92;en>>
+Is it a measure of prevention?
+
+<<3935.66;3937.88;en>>
+Or not even a measure of criminal law?
+
+<<3940.54;3949.52;en>>
+But then why is it applied on the basis of a criminal conviction of mentally ill, of mentally sane persons?
+
+<<3950.74;3955.78;en>>
+And in this particular case, in our case, by a criminal chamber?
+
+<<3955.78;3962.4;en>>
+It seems that the Therapy Detention Act foresaw the competence of civil chambers, not criminal chambers.
+
+<<3966.62;3975.42;en>>
+That leads me to my third point, which refers to an issue raised by the government themselves.
+
+<<3975.42;3992.94;en>>
+What is the difference between the internment in a psychiatric hospital under Article 63 of the "Strafgesetzbuch" and the internment in preventive detention centers under the "Therapie Unterbringungsgesetz"?
+
+<<3992.94;3996.14;en>>
+The government used a word, a very peculiar word.
+
+<<3996.14;3998.06;en>>
+It's approximate.
+
+<<3998.06;4000.02;en>>
+The regimes are approximate.
+
+<<4000.02;4008.34;en>>
+What does this mean in terms of the classic dualism between penalties and security measures in German law?
+
+<<4008.34;4008.34;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4013.52;4015.4;en>>
+Thank you very much.
+
+<<4015.4;4017.0;en>>
+Now, Judge Jäderblom, please.
+
+[[Judge;Helena Jäderblom]]
+
+<<4020.36;4021.24;en>>
+Thank you, Mr. President.
+
+<<4024.36;4025.16;en>>
+Can you hear me?
+
+<<4025.16;4026.56;en>>
+Yes, now I'm on.
+
+<<4026.56;4029.2;en>>
+I have a question to the government.
+
+<<4029.2;4034.68;en>>
+The government said that it would be irresponsible to release this person.
+
+<<4034.68;4053.44;en>>
+And I wonder if this implies that the applicant, if released or no longer detained under criminal law, could not be detained under the Bavarian legislation on the detention of dangerous persons of unsound mind where a criminal conviction is not a precondition.
+
+<<4053.44;4053.44;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4055.13;4056.21;en>>
+Thank you very much.
+
+<<4056.21;4057.21;en>>
+Judge Motoc, please.
+
+[[Judge;Iulia Antoanella Motoc]]
+
+<<4059.63;4061.23;fr>>
+Merci beaucoup, Monsieur le requérant.
+
+<<4061.43;4078.07;fr>>
+Monsieur le Président, mes questions s'adressent au Récurrent, au gouvernement, et en même temps, ils visent le problème de l'âge très jeune, jeune du Récurrent au moment où il avait commis l'infraction.
+
+<<4078.07;4084.79;fr>>
+Donc, une partie importante de la défense du requérant se base sur cet âge très jeune.
+
+<<4085.39;4098.31;fr>>
+Le requérant nous avait dit que les experts n'étaient pas vraiment qualifiés pour faire des expertises sur les jeunes adultes ou sur les mineurs.
+
+<<4098.91;4118.79;fr>>
+Cette affirmation, maintenant, a été contredite par le gouvernement qui nous avait dit qu'en fait, ces experts avaient cette qualification, mais le gouvernement avait ajouté que, même si à l'époque où l'ordonnance de mise en attention a été formulée, le requérant n'était plus mineur.
+
+<<4118.79;4140.75;fr>>
+Donc, je voulais exactement savoir comment est-ce que le jeune âge du requérant, il a joué pendant cette expertise qui a été faite pendant l'ordonnance, et comment est-ce que cet âge jeune joue aussi par rapport à cette mesure préventive qui est appliquée.
+
+<<4140.75;4141.75;fr>>
+Merci beaucoup.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4142.46;4145.66;fr>>
+Merci beaucoup, Mme la juge.
+
+<<4145.66;4147.3;fr>>
+Mme la juge, juge Dedov, s'il vous plaît.
+
+[[Judge;Dmitry Dedov]]
+
+<<4152.86;4154.9;en>>
+Thank you.
+
+<<4154.9;4162.24;en>>
+I have questions to both parties about the psychiatric treatment.
+
+<<4162.24;4175.82;en>>
+I see that both parties mentioned today that the applicant was subject to the psychological treatment.
+
+<<4175.82;4190.02;en>>
+And this is what I see from the observation of the government and the government mentioned that today that there is a sociopedagogical group measures.
+
+<<4190.02;4215.02;en>>
+However, according to the psychiatric standards, ICD-10, the European standards mentioned by the government in its observations, the treatment also should include some sort of psychopharmaceutical intervention, antipsychotics, antidepressants.
+
+<<4215.02;4226.94;en>>
+So my question is whether there was such a treatment, whether the word therapy included this.
+
+<<4226.94;4234.34;en>>
+This is because the observations of the parties are very controversial about what kind of treatment.
+
+<<4234.34;4244.34;en>>
+So what kind of, whether the treatment was in compliance with the psychiatric standards.
+
+<<4244.34;4253.5;en>>
+The sexual sadism is a very severe disorder.
+
+<<4253.5;4260.42;en>>
+However, under the same standards, there is a scale of severity.
+
+<<4260.42;4284.98;en>>
+Whether the scale of severity was diagnosed by the experts, so whether there is a necessity and requirement that the person with such a disorder should come through the special clinical tests.
+
+<<4284.98;4300.42;en>>
+According to the case file and the observation of the parties, it appears that the diagnosis was taken in accordance with the interviews with the applicant.
+
+<<4300.42;4323.1;en>>
+Just what he said without, or maybe with, this is what I would like to clarify, the point is to clarify whether there was a so-called differential analysis, differential test diagnosis provided for the applicant.
+
+<<4323.1;4325.3;en>>
+I also have a question.
+
+<<4325.3;4338.42;en>>
+Whether there is a requirement under German law that if the person, I mean the very first event when the applicant committed a crime.
+
+<<4338.42;4357.86;en>>
+So the crime was committed, there was a murder, a very serious crime, which the punishment for which is lifelong punishment, which was recognized by the government.
+
+<<4357.86;4366.18;en>>
+So it's a very serious crime, especially aggravated by the sexual act.
+
+<<4366.18;4378.14;en>>
+So whether the psychiatric test, psychiatric examination of such a person is necessary, is obligatory from the very beginning.
+
+<<4378.14;4389.88;en>>
+So it was not done and I have no information whether there is a requirement under German law.
+
+<<4389.88;4389.88;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4391.16;4392.4;fr>>
+Merci beaucoup.
+
+<<4392.4;4394.4;fr>>
+maintenant la Madame la Juge Karakaş.
+
+[[Judge;Işıl Karakaş]]
+
+<<4396.94;4398.9;fr>>
+Oui, merci beaucoup, M. le Président.
+
+<<4399.3;4416.42;fr>>
+Et je voudrais juste demander, on comprend qu'après les observations des partis, les conditions matérielles dans ces centres de détention, de sûreté, sont évoluées.
+
+<<4416.7;4418.18;fr>>
+Est-ce qu'on peut dire la même chose?
+
+<<4418.38;4431.98;fr>>
+Peut-on constater la même amélioration dans le cadre des soins médicaux, d'une manière générale, par rapport, je dirais, aux soins qui peuvent être prodigés dans un hôpital psychiatrique normal, je dirais, ou civil?
+
+<<4432.78;4445.66;fr>>
+Et je veux aussi dire que, dans le cadre du requérant, est-ce qu'on peut dire que ce centre qui se trouve est adapté à ses besoins, c'est-à-dire un traitement pour le sadisme sexuel?
+
+<<4445.66;4446.66;fr>>
+Merci beaucoup.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4447.25;4451.65;en>>
+There are no more questions, Judge Ravarani.
+
+[[Judge;Georges Ravarani]]
+
+<<4459.78;4461.14;fr>>
+Merci, monsieur le Président.
+
+<<4461.34;4470.1;fr>>
+Je voudrais poser une question qui, sous différents angles, a déjà été posée et elle s'adresse aux deux partis, mais aussi sous différents auspices.
+
+<<4470.3;4476.9;fr>>
+Pour le gouvernement, je ne sais pas s'il peut répondre, car la question devrait d'abord être posée aux tribunaux.
+
+<<4477.1;4487.58;fr>>
+Était-il envisageable et envisagé de faire juger la question de la détention du requérant après qu'il avait purgé sa peine par des tribunaux civils?
+
+<<4487.58;4499.18;fr>>
+Et pour le requérant, quels auraient été les avantages concrets, et j'insiste sur concrets, pour lui s'il avait été jugé par des tribunaux civils?
+
+<<4499.18;4499.18;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4501.18;4512.18;en>>
+There are no more questions, the court will now withdraw for 20 minutes following which the parties will be able to submit brief observations in reply to each other submissions and reply to the questions of the judges, the hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4598.18;4598.94;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4639.35;4640.63;en>>
+Please be seated.
+
+<<4650.37;4654.45;en>>
+So the hearing is resumed, and I call Mr. Tegebauer.
+
+<<4654.45;4654.45;en>>
+Please, you have the floor.
+
+[[Applicant;AP1]]
+
+<<4658.31;4660.87;en>>
+Mr. President, distinguished judges of the court,
+
+<<4661.79;4669.41;en>>
+first I will deal with a question posed by Judge Sicilianos concerning Article 5, Paragraph 4 of the Convention.
+
+<<4670.51;4690.93;en>>
+At the time the constitutional complaint was pending before the Federal Constitutional Court, there was no additional remedy under domestic law to challenge the order of the provisional preventive detention and the appeal could only be filed with the court once.
+
+<<4694.51;4698.63;en>>
+I will now answer the questions concerning the treatment of the applicant.
+
+<<4700.43;4707.65;en>>
+The applicant was only offered conversations with the therapist and group conversations.
+
+<<4707.65;4710.83;en>>
+No medical treatment was offered to the applicant.
+
+<<4710.83;4725.83;en>>
+The scale of the mental disorder was not determined by the experts examining the applicant and the proceedings before the Regensburg Regional Court leading to the judgment of 3 August 2012.
+
+<<4728.13;4743.53;en>>
+The treatment is not as good than in psychiatry because there is no sufficient evidence and because there is no sufficient therapeutic environment.
+
+<<4748.83;4758.83;en>>
+The civil courts are as experienced and qualified to decide on the confinement of mental health patients.
+
+<<4758.83;4770.83;en>>
+The fact that a criminal court took the decision indicates that preventive detention constitutes a penalty.
+
+<<4770.83;4776.33;en>>
+I would also like to reply to some of the government's observations.
+
+<<4776.33;4789.03;en>>
+The government observed that the replacement of the therapist, Mr. K., was ordered by the Regional Court
+
+<<4789.03;4794.33;en>>
+in its last decision on the continuation of the preventive detention.
+
+<<4794.33;4796.33;en>>
+But this is not true.
+
+<<4796.33;4799.83;en>>
+The court did not order the replacement of Mr. K.
+
+<<4799.83;4804.83;en>>
+It was a decision taken by the preventive detention center.
+
+<<4810.33;4818.83;en>>
+Moreover, the government observed that psychological treatment is offered to all persons detained in the preventive detention center.
+
+<<4818.83;4826.33;en>>
+However, the fact remains that only 5 persons there are mental health patients.
+
+<<4826.33;4830.83;en>>
+The rest is not diagnosed to be of unsound mind.
+
+<<4830.83;4849.83;en>>
+They are placed under Article 63 of the criminal court providing for preventive detention and not under Article 66 of the criminal court providing for confinement in psychiatry.
+
+<<4849.83;4855.33;en>>
+Therefore, the preventive detention center is not an appropriate institution.
+
+<<4855.33;4860.33;en>>
+My colleague Mr. Mavani will now deal
+
+<<4860.33;4861.33;en>>
+with a further question posed by the judges.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4864.82;4866.7;en>>
+Thank you very much.
+
+<<4866.7;4867.7;en>>
+Please, Mr. Mavany.
+
+[[Applicant;AP2]]
+
+<<4871.55;4874.51;en>>
+Mr. President, Honorable Judges of the Court,
+
+<<4874.51;4879.85;en>>
+I will make a remark on the question on behalf of the qualification of the experts.
+
+<<4879.85;4897.75;en>>
+The qualification of the experts on behalf of young adults is necessary because the preventive detention of the applicant was and still is based on the rules of the Juvenile Court Act because of the applicant's age when he committed the offense.
+
+<<4897.75;4914.65;en>>
+There in Article 43, paragraph 2, provides, I quote, where necessary, an examination of the accused shall be made in particular to determine his state of development or other characteristics essential to the process.
+
+<<4914.65;4924.35;en>>
+Where possible, an expert qualified to examine young people is to be entrusted with carrying out the order.
+
+<<4924.35;4929.87;en>>
+The necessity of the expertise in juvenile offenders is not only a formal need.
+
+<<4929.87;4937.55;en>>
+Such experts are more competent to examining the development of the patient in his adult age too.
+
+<<4937.55;4941.83;en>>
+The experts never fulfilled this condition.
+
+<<4941.83;4951.95;en>>
+I make one more remark about whether the diagnosis of a true mental disorder is a condition to order the preventive detention.
+
+<<4951.95;4954.03;en>>
+It is not.
+
+<<4954.03;4961.51;en>>
+By Article 66 of the Criminal Code, they are now stated the following conditions.
+
+<<4961.51;4976.59;en>>
+The person must have committed a serious crime plus a former conviction for a criminal offense prior to the one that this is now dealt in the present case.
+
+<<4976.59;4989.65;en>>
+And third, the danger is of the person to be a threat to the public because of the risk to commit more serious crimes like the first one is here to be seen.
+
+<<4989.65;4990.89;en>>
+These are the conditions.
+
+<<4990.89;4998.39;en>>
+There is nothing said about a mental disorder as a condition for a preventive detention order.
+
+<<4998.39;4998.39;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4998.97;5003.29;en>>
+Thank you very much. Now I call Professor Giegerich, please.
+
+[[Government;GR1]]
+
+<<5005.31;5009.35;en>>
+Mr. President and Honourable Judges of the Court,
+
+<<5009.35;5013.49;en>>
+I'd like to answer the question posed by Judge Sicilianos.
+
+<<5013.49;5032.59;en>>
+It is indeed true that a mental disorder is not a legal requirement for all cases of preventive detention, but it is a legal requirement for cases of retrospective preventive detention to keep that in conformity with Article 5, paragraph 1, letter E of the Convention.
+
+<<5032.59;5056.39;en>>
+But for all cases of preventive detention, the criminal code presupposes in Article 66, letter C, section 1, that detention shall be carried out in institutions which offer a psychiatric, psycho, or sociotherapeutical treatment tailored to the needs of the detainee.
+
+<<5056.39;5084.47;en>>
+And as a matter of fact, it turned out after an examination by a psychologist in the Straubing Preventive Detention Centre that 80% of the inmates, including those under ordinary preventive detention which was not retrospectively imposed, 80% of those had a personality disorder which required treatment, psychological or at least sociotherapeutical treatment.
+
+<<5084.47;5095.59;en>>
+The question posed by Judge Pinto de Albuquerque, we must keep in mind that the Therapy Detention Act is obsolete.
+
+<<5095.59;5098.59;en>>
+It does no longer apply.
+
+<<5098.59;5111.27;en>>
+And no one is currently, there is just one person still detained on the basis of that act in Germany, but no detentions will be ordered on the basis of that act.
+
+<<5111.27;5115.63;en>>
+Detentions will be ordered on the basis of that act anymore.
+
+<<5115.63;5126.19;en>>
+Rather, the conditions were now included in Article 316F of the introductory law to the criminal code.
+
+<<5128.84;5150.63;en>>
+On both bases, on the basis of the old and now obsolete the Detention Act, as well as on the basis of Article 316F of the criminal code, a socially deviant behavior will never be sufficient to justify preventive detention in cases like the one of the applicant.
+
+<<5150.63;5160.35;en>>
+You need a disorder coming up to the standards of the ICD-10 of the World Health Organization.
+
+<<5160.35;5173.63;en>>
+And because the Therapy Detention Act is no longer applied, the civil courts do not play a role in the detention of persons like the applicant in practice.
+
+<<5173.63;5175.43;en>>
+Who has the final say?
+
+<<5175.43;5178.55;en>>
+The final say rests with the courts.
+
+<<5178.55;5185.88;en>>
+They determine whether someone should be placed in preventive detention or kept in preventive detention.
+
+<<5185.88;5189.27;en>>
+But they decide on the basis of medical expertise.
+
+<<5189.27;5193.76;en>>
+But it's ultimately a judicial decision.
+
+<<5193.76;5202.31;en>>
+And the preventive detention is indeed a measure of correction and prevention in the German dual track system.
+
+<<5202.31;5206.31;en>>
+It's not a penalty.
+
+<<5206.31;5210.84;en>>
+And it's not a measure of a third category.
+
+<<5210.84;5214.8;en>>
+It is a measure of correction and prevention.
+
+<<5214.8;5219.8;en>>
+You're also asking, what does approximate to a psychiatric hospital mean?
+
+<<5219.8;5234.43;en>>
+This refers to the relative closeness of treatment in a psychiatric hospital or in a detention center like the Straubing Detention Center of people like the applicant.
+
+<<5234.43;5247.99;en>>
+In cases of people interned in that Straubing Preventive Detention Center, there is a requirement by law that a decision has to be made whether they be transferred to a psychiatric hospital.
+
+<<5247.99;5252.23;en>>
+If treatment in a psychiatric hospital would improve their situation.
+
+<<5252.23;5260.75;en>>
+So if the medical experts say, well, treatment could better be given in a psychiatric hospital, those people will be transferred and have to be transferred.
+
+<<5260.75;5274.39;en>>
+And actually, in the case of the applicant, the court thought about transferring him to a psychiatric hospital and was asking whether that would improve the possibilities of treatment.
+
+<<5274.39;5278.84;en>>
+But the applicant refused being transferred to a psychiatric hospital.
+
+<<5278.84;5289.25;en>>
+And the court said, if he doesn't want to be treated in a psychiatric hospital, it's no need to transfer him to the psychiatry because if he refuses therapy there, it wouldn't help.
+
+<<5293.91;5301.35;en>>
+Concerning the staffing of this Straubing Preventive Detention Center, we added a table to our written submission.
+
+<<5301.35;5304.11;en>>
+And if you have a look at that, you will see.
+
+<<5304.11;5318.88;en>>
+I just give you one example that in a usual psychiatric hospital in the state of Bavaria, you will have one psychologist for 33 patients, while in Straubing you have one psychologist for 12 patients.
+
+<<5318.88;5322.67;en>>
+And that shows you that we do have expert staffing there.
+
+<<5322.67;5326.95;en>>
+We do, of course, have personnel that is responsible for the security.
+
+<<5326.95;5333.95;en>>
+But we do have a lot of experts, seven psychologists, one psychiatrist, a lot of nurses.
+
+<<5333.95;5342.76;en>>
+So there is adequate staffing for the approximate 50 inmates currently detained in Straubing.
+
+<<5342.76;5356.15;en>>
+Concerning the question posed by Judge Jeddebloh, would it be possible to detain a person like the applicant under the civil detention laws in Germany?
+
+<<5356.15;5382.23;en>>
+It would actually not be possible to detain someone like him for an extended and unlimited period of time, because the civil detention statutes only permit the detention for a limited period of time for an acute crisis, a couple of weeks, perhaps a couple of months.
+
+<<5382.23;5396.27;en>>
+But the federal constitutional court said you cannot put someone in detention for an unlimited period of time on the basis of such a civil detention statute, unless a crime had been committed.
+
+<<5396.27;5399.91;en>>
+And then you would need to place him in preventive detention.
+
+<<5399.91;5409.31;en>>
+Or if it's a psychiatric pathology, and then he could be placed in a psychiatric hospital.
+
+<<5409.31;5421.15;en>>
+Concerning the question posed by Judge Dadoff, the treatment given to the applicant complies with the international standards.
+
+<<5421.15;5429.88;en>>
+He is given the treatment required on the basis of a medical examination in his particular situation.
+
+<<5429.88;5438.22;en>>
+He was not given anti-psychotics, because there was no indication that anti-psychotics would be of any help to him.
+
+<<5438.22;5439.22;en>>
+Thank you.
+
+<<5443.45;5449.3;en>>
+The same applies to the examinations undertaken with the applicant.
+
+<<5449.3;5455.57;en>>
+We must also keep in mind that the applicant refused most examinations.
+
+<<5455.57;5462.38;en>>
+And this means that the examinations possible were usually interviews.
+
+<<5462.38;5472.65;en>>
+And there was actually always a decision on what kind of examination was possible and was necessary to determine his state of mind.
+
+<<5472.65;5479.49;en>>
+And everything that was necessary and was not refused by the applicant was undertaken.
+
+<<5479.49;5491.38;en>>
+But he wasn't really force-fed or given anti-psychotics forcibly or anything like this, because that was not indicated in any way.
+
+<<5491.38;5515.53;en>>
+Concerning the question of whether psychiatric examination is needed if a crime like the one committed by the applicant is committed, yes, indeed, a psychiatric examination is always necessary, because it is always necessary to determine whether the criminal acted with full or only limited or with no criminal responsibility.
+
+<<5515.53;5525.05;en>>
+And this is why such an examination was undertaken with the applicant in the year of, I think it was 1999.
+
+<<5525.05;5529.73;en>>
+That was a requirement before he could be convicted for murder.
+
+<<5529.73;5544.85;en>>
+And the statute under which he was convicted allowed only the detention, the imprisonment for a duration of 10 years, because he was treated as a juvenile offender.
+
+<<5544.85;5550.05;en>>
+And it was not possible at that time to impose life imprisonment on him.
+
+<<5550.05;5555.81;en>>
+And this is why the necessity of a preventive detention later turned up.
+
+<<5555.81;5570.41;en>>
+If he had been convicted as an adult, he would have been given life imprisonment, and we wouldn't have the question arising of whether he needed to be placed in preventive detention.
+
+<<5570.41;5584.38;en>>
+Concerning the question of Judge Karakas, yes, of course, the therapeutic treatment offered to the applicant in the Straubach Preventive Detention Center did improve considerably.
+
+<<5584.38;5595.22;en>>
+He is now given individualized, comprehensive treatment for his specific mental disorder in the form of an offer which needs his cooperation.
+
+<<5595.22;5600.89;en>>
+And since he hasn't yet fully cooperated, not so much treatment was possible with him.
+
+<<5600.89;5610.17;en>>
+But it is offered, and there is an individualized treatment plan of what could be and should be done with him if he cooperates.
+
+<<5610.17;5623.69;en>>
+And ultimately concerning the question by Judge Ravarani, no civil court was involved in the question of whether the applicant should be detained or not.
+
+<<5623.69;5640.45;en>>
+And the government doesn't see any specific advantages for the applicant if the decision would have to be made by a civil court, because the legal standards and the medical expertise on which these standards would have to be rested would be the same.
+
+<<5640.45;5646.21;en>>
+And so ultimately, the criminal court and the civil court would be compelled to make the same decision.
+
+<<5646.21;5655.05;en>>
+If they find that he is a sexual sadist, which is extremely dangerous, a civil court couldn't say, well, we just let him go, because we are a civil court.
+
+<<5655.05;5660.53;en>>
+So they would have used the same standards and would probably have come to the same conclusion.
+
+<<5660.53;5663.13;en>>
+But no civil court was involved.
+
+<<5663.13;5663.13;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5664.47;5668.87;en>>
+Thank you very much, Professor Giegerich.
+
+<<5668.87;5671.91;en>>
+We have now come to the end of the hearing.
+
+<<5671.91;5679.12;en>>
+I thank the parties who assisted the Court with their submissions and answers to the Court's questions.
+
+<<5679.12;5682.55;en>>
+The Court will now deliberate on the merits.
+
+<<5682.55;5685.61;en>>
+The judgment will be delivered later.
+
+<<5685.61;5688.59;en>>
+The parties will be informed of the date of delivery.
+
+<<5688.59;5688.59;en>>
+I declare the hearing closed.
+

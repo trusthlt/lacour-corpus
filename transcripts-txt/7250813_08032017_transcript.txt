@@ -1,0 +1,2039 @@
+[[Announcer;UNK]]
+
+<<22.76;23.56;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<64.33;65.83;en>>
+Please be seated.
+
+<<75.25;82.33;en>>
+I declare open the public hearing on the merits in the case of Mirabishvili versus Georgia.
+
+<<83.51;97.45;en>>
+The application was lodged with the court on 20 November 2013 under Article 34 of the Convention by a Georgian national, Mr. Ivan Merabishvili.
+
+<<97.45;108.19;en>>
+The application was allocated to the fourth section of the court, pursuant to Rule 52, paragraph one of the rules of the court.
+
+<<108.19;149.75;en>>
+On 14 June 2016, a chamber of the fourth section delivered a judgment in which it declared the application admissible and held that there had been no violation of Article 5, paragraph one of the Convention and no violation of Article 5, paragraph three, in account of the national court decisions to place the applicant in pretrial detention, but that there had been a violation of Article 5, paragraph three, in account of a judicial decision of 25 September 2013 to release him from pretrial detention.
+
+<<149.75;167.85;en>>
+The chamber also held that there had been a violation of Article 18, taken in conjunction with Article 5, paragraph one, and lastly, that there was no need to examine the complaint under Article 5, paragraph four.
+
+<<168.85;182.91;en>>
+On 14 September 2016, the government requested that the case be referred to the Grand Chamber in accordance with Article 43, paragraph one of the Convention.
+
+<<182.91;187.87;en>>
+The panel of the Grand Chamber accepted the request on 17 October 2016.
+
+<<187.87;195.79;en>>
+The respondent government are represented by Mr. Aleksandre Baramidze,
+
+<<195.79;203.55;en>>
+First Deputy Minister of Justice of Georgia, and by their agent, Mr. Beka Dzamashvili.
+
+<<203.55;208.55;en>>
+They are assisted by Mrs. Mariam Bilikhodze,
+
+<<208.57;212.83;en>>
+Mrs. Nana Tchanturidze, Mr. Revaz Bagashvili,
+
+<<212.83;216.13;en>>
+and Mrs. Elena  Beradze, advisors.
+
+<<216.13;219.55;en>>
+The applicant is represented by Mr. Philip Leach
+
+<<219.55;222.95;en>>
+and Mrs. Joanne Sawyer, counsel.
+
+<<222.95;225.47;en>>
+They are assisted by Mr. Otar Kakhidze,
+
+<<225.47;230.47;en>>
+Mr. Davit Kakoishvili, and Mrs. Ani Khojelani, advisors.
+
+<<230.47;236.53;en>>
+I welcome the representatives of the parties in the name of the court.
+
+<<236.53;247.57;en>>
+Having consulted the agent of the government and the representatives of the applicant, I have determined the order of addresses as follows.
+
+<<247.57;251.19;en>>
+Mrs. Sawyer and Mr. Leach for the applicant
+
+<<251.19;254.83;en>>
+will speak first, and then Mr. Baramidze
+
+<<254.83;257.23;en>>
+and Mr. Dzamashvili for the government.
+
+<<257.23;276.79;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Russian has been authorized for the benefit of a group of visitors from the European Human Rights Advocacy Center who are attending the hearing.
+
+<<276.79;286.39;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<286.39;288.51;en>>
+I call Mrs. Sawyer.
+
+<<288.51;288.51;en>>
+Can we have the floor, please?
+
+[[Applicant;AP1]]
+
+<<293.32;297.24;en>>
+I shall briefly introduce Mr. Mehrabi-Shvili's case
+
+<<297.24;302.24;en>>
+and address the Court on admissibility and Article 5 of the Convention.
+
+<<302.24;304.64;en>>
+My colleague, Mr. Leitch, will address the Court
+
+<<304.64;307.36;en>>
+on Article 18.
+
+<<307.36;335.08;en>>
+At the heart of this case is the use of criminal proceedings to prevent the applicant, a senior representative of the principal opposition party in Georgia, the United National Movement, UNM, and a former minister of interior and prime minister from being able effectively to participate in the political process during the run up to the 2013 presidential election and subsequently.
+
+<<335.08;346.52;en>>
+In its decision of 14th June 2016, the fourth section of the Court held the respondent government in breach of Article 5.3 due to the domestic court's
+
+<<346.52;357.56;en>>
+superficial consideration of the applicant's request for review of his detention and in violation of Article 18 as Mr. Mehrabi-Shvili's detention was used as a means
+
+<<357.56;361.08;en>>
+of exerting leverage or pressure on him.
+
+<<361.08;373.16;en>>
+The applicant respectfully requests the Grand Chamber to affirm and expand on the findings of the Chamber as set out in our written submissions and developed orally today.
+
+<<373.16;379.04;en>>
+The Chamber found this application admissible and the applicant asked the Grand Chamber to affirm this finding.
+
+<<379.04;382.48;en>>
+We make two points on admissibility.
+
+<<382.48;389.8;en>>
+Firstly, before the Chamber, the government did not dispute the admissibility of any aspect of the applicant's complaint.
+
+<<389.8;405.3;en>>
+However, before the Grand Chamber, the government belatedly objects to admissibility of the applicant's complaints regarding the decision of 25th September 2013 on the basis of a failure to appeal to the investigative body of the Court of Appeals.
+
+<<405.3;415.88;en>>
+The applicant submits that he did not have a remedy by which to appeal the September 2013 decision and the government's objection should be dismissed.
+
+<<415.88;425.16;en>>
+Detention decisions of a pretrial conference as opposed to decisions made during the investigation phase are not subject to appeal.
+
+<<425.16;448.06;en>>
+This practice is reflected in the 2015 commentary on the Criminal Procedure Code of Georgia and evidence by the decision of 21st September 2016, relied on by the government, in which the Kutaisi Court of Appeal specifically stated that parties may not appeal decisions on preventive measures adopted during pretrial conference.
+
+<<448.06;458.32;en>>
+In any event, and as we develop later, no reasons were provided by the September 2013 court for the applicant to meaningfully appeal.
+
+<<458.32;471.88;en>>
+In addition, the applicant notes that he again raised the substance of his complaint when he sought further review of his detention less than two weeks later in October 2013.
+
+<<471.88;475.96;en>>
+Secondly, Mr. Maravich-Villi has raised each of his complaints
+
+<<475.96;480.52;en>>
+in compliance with the six-month rule under Article 35.1.
+
+<<480.52;488.6;en>>
+The government's arguments on admissibility are therefore misconceived, and we request that they be dismissed.
+
+<<488.6;494.68;en>>
+Turning to our submissions on the merits, Mr. Maravich-Villi argues that the evidence in this case
+
+<<494.68;514.54;en>>
+establishes that the real motive for his arrest and detention was to exclude him from political life, a point that we develop more fully in our submissions under Article 18, but which the court is asked to take into account now when assessing the compatibility of the applicant's arrest and detention with Article 5.
+
+<<514.54;519.68;en>>
+We make three points under Articles 5.1, 3, and 4.
+
+<<519.68;534.56;en>>
+Before taking each in turn, we underline the fundamental nature of Article 5 and its primary importance in a democratic society, as was reaffirmed by the Grand Chamber last year in Bazarja, Moldova.
+
+<<534.56;547.52;en>>
+Turning to our first submission, the applicant's arrest did not comply with domestic law, and his detention on remand was unjustified and disproportionate in breach of Article 5.1c.
+
+<<547.52;563.84;en>>
+As the court has previously stated, the detention decisions, as well as the circumstances of an individual's arrest, should be taken into consideration when assessing whether or not an individual's arrest is compatible with Article 5.1c.
+
+<<563.84;568.32;en>>
+Mr. Maravich-Villi was arrested on 21 May 2013.
+
+<<568.32;584.48;en>>
+Article 171 of the Georgian Code of Criminal Procedure provides that a court order is required for an arrest unless one of the grounds set out in Article 171 para 2 is met, and only if there's probable cause.
+
+<<584.48;587.28;en>>
+Mr. Maravich-Villi argues that his arrest without an order
+
+<<587.28;589.24;en>>
+was unjustified.
+
+<<589.24;602.2;en>>
+He asked the Grand Chamber to pay particular attention to the circumstances of his arrest, namely 50 minutes after the conclusion of his questioning by the prosecutor as a witness.
+
+<<602.2;612.32;en>>
+The close proximity in time between the conclusion of his interrogation and his arrest demonstrates a lack of bona fides by the authorities.
+
+<<612.32;627.72;en>>
+Despite the government's assertion that the applicant's situation had substantially changed, the fact that he was arrested so soon after his questioning ended indicates that the decision to arrest and charge him had already been made.
+
+<<627.72;638.28;en>>
+The authorities, therefore, had had sufficient time to seek a court order for his arrest, and there was no justification for their having failed to do so.
+
+<<638.28;647.4;en>>
+In addition, the investigative authorities failed to evidence the grounds which they claimed necessitated his arrest without a court order.
+
+<<647.4;650.88;en>>
+Mr. Maravich-Villi had appeared as a witness whenever summoned,
+
+<<650.88;657.2;en>>
+always returned to Georgia, and there was no evidence that he would hinder the investigation.
+
+<<657.2;668.72;en>>
+Further, the Kutaisi City Court, which should have acted as a procedural safeguard at the applicant's first court appearance, failed to examine the lawfulness of his arrest.
+
+<<668.72;678.3;en>>
+Rather than considering the details of his arrest and assessing its proportionality, the court simply concluded that it was lawful.
+
+<<678.3;692.28;en>>
+His unjustified arrest without a court order, coupled with the court's subsequent failure to assess its legality, therefore breached the lawfulness requirement under Article 5.1c.
+
+<<692.28;697.68;en>>
+At his first appearance, the prosecutor applied for Mr. Maravich-Villi's detention
+
+<<697.68;701.24;en>>
+as a preventive measure, which the applicant challenged.
+
+<<701.24;712.8;en>>
+Having heard argument, the city court held that the applicant should be detained on the basis of a risk that he would abscond of evidence being damaged or of witnesses being subjected to pressure.
+
+<<712.8;726.44;en>>
+The court did not specify, however, the period of pretrial detention to be imposed, but based its decision on a number of domestic law provisions without explaining the manner in which they applied to the applicant.
+
+<<726.44;729.36;en>>
+Mr. Maravich-Villi argues that the court's failure
+
+<<729.36;734.76;en>>
+to specify the length of his detention lacked legal certainty.
+
+<<734.76;744.36;en>>
+According to the case law of this court, the principle of legal certainty requires that the law and the authorities' decisions should be unequivocal.
+
+<<744.36;760.4;en>>
+However, the applicant submits that by failing to specify its duration, the decisions on detention in his case were equivocal, and he was placed in a state of uncertainty as to the length of his detention.
+
+<<760.4;770.88;en>>
+The government assert that the city court's reference to Article 205 of the criminal procedure code showed that he was detained for the nine-month maximum period.
+
+<<770.88;784.32;en>>
+Although not disputing that the city court referred to Article 5 in its 22 May decision, the court made simply a passing reference as part of a long list of other provisions which the court was guided by.
+
+<<784.32;793.64;en>>
+The court provided no narrative analysis or explanation of the manner in which the legal provisions were applied or in what respect.
+
+<<793.64;810.6;en>>
+The court did not highlight which of the six subsections of Article 5 it was applying, did not specify that it was applying Article 205 para 2 in particular, nor specified that it was imposing the maximum period of nine months pretrial detention.
+
+<<810.6;829.16;en>>
+The court failed to differentiate between the application of the various legal provisions to the applicant and his co-defendant, to whom it granted bail at the same hearing, and for whom Article 205 was therefore inapplicable, indicating a formulaic rather than an individualized approach and a lack of legal clarity.
+
+<<829.16;839.4;en>>
+The appeal court on 25 May 2013 made no reference to Article 205 nor to the length of Mr. Maribyshvili's detention.
+
+<<839.4;857.56;en>>
+A textual reading of Article 205 indicates that it is a backstop provision, which limits the maximum period of pretrial detention in order to comply with the Constitution, rather than a default period for which detention is authorised.
+
+<<857.56;885.56;en>>
+The uncertainty of the court's approach in the applicant's case was compounded by the fact that at the time, the nine-month period could be applied separately and consecutively in relation to each individual charge, meaning that for individuals like the applicant who were charged with multiple offences, the period for which their detention was authorised was entirely unclear and could potentially extend well beyond nine months.
+
+<<885.56;892.0;en>>
+Such an approach was adopted in relation to Mr. Bachana Achalaya, former Minister of Defence
+
+<<892.0;904.64;en>>
+and Minister of Internal Affairs, who was detained for almost two years pursuant to six overlapping pretrial detention orders during 2012 to 2014.
+
+<<904.64;908.84;en>>
+Mr. Georgi Bougalava, similarly, former mayor of Tbilisi,
+
+<<908.84;922.8;en>>
+a member of the UNM, and an applicant before this court, was detained in July 2014 and then again in March 2015 in relation to a different case shortly before the expiration of the nine-month period.
+
+<<922.8;925.16;en>>
+This led, in Mr. Bougalava's case,
+
+<<925.16;936.48;en>>
+the Constitutional Court of Georgia to determine in September 2015 that Article 205, paragraph 2, was unconstitutional and legally invalid.
+
+<<936.48;941.0;en>>
+As a result, Mr. Bougalava was briefly released.
+
+<<941.0;949.04;en>>
+The chamber in the present case relied on the fact that under domestic law, an applicant may request that his detention be reviewed.
+
+<<949.04;960.86;en>>
+However, the applicant notes that this possibility only exists where there are new essential issues which were unknown at the time of the hearing, Article 206, paragraph 8.
+
+<<960.86;971.56;en>>
+This sets a very high burden for a detainee to meet, give the fundamental rights at stake, and is in conflict with the presumption in favor of release under Article 5.
+
+<<971.56;974.44;en>>
+Finally, under Article 5.1, the applicant
+
+<<974.44;997.0;en>>
+submits that his detention was unjustified, that the domestic courts failed to adequately assess its proportionality, or whether other less restrictive measures would have mitigated the alleged risks, such as the use of personal sureties or release on bail, as the applicant proposed.
+
+<<997.0;1000.36;en>>
+We turn now to Mr. Mirabishvili's second submission,
+
+<<1000.36;1014.16;en>>
+namely that there were no grounds to impose and then extend his pretrial detention, and that the domestic courts failed to provide relevant and sufficient reasons throughout the period of his detention in breach of Article 5.3.
+
+<<1014.16;1026.44;en>>
+In this case, the chamber considered the domestic decisions of 22 and 25 May 2013 together, holding that the initial imposition of detention was not unreasonable.
+
+<<1026.44;1051.84;en>>
+However, it held that the decision of the city court of September 2013, rejecting the applicant's request for review of the reasonableness of his detention without issuing a written decision or providing oral reasons, contradicted the court's heightened obligation to convincingly establish whether his continued detention was justified, given the passage of time, and to consider alternatives.
+
+<<1051.84;1058.96;en>>
+The applicant submits that his pretrial detention throughout was not based on relevant and sufficient reasons.
+
+<<1058.96;1073.64;en>>
+In relation to the May decisions, the city court failed adequately to consider his arguments that he did not represent a flight risk and to specify the specific factors or evidence that it had taken into account when upholding the prosecutor's motion.
+
+<<1073.64;1084.36;en>>
+In addition, the domestic courts failed to consider alternative preventive measures, such as bail or personal guarantee, or the specific reasons for their rejection.
+
+<<1084.36;1090.76;en>>
+As for the decision of September 2013, the city court orally refused Mr. Marabishvili's application
+
+<<1090.76;1098.0;en>>
+for review, simply stating that the request for the cancellation of the pretrial detention should be rejected.
+
+<<1098.0;1103.12;en>>
+It provided no oral or written reasons, despite his request that it do so.
+
+<<1103.12;1117.9;en>>
+Such a superficial review by the domestic court failed to comply with domestic law and with its duty of special diligence under the convention, given that by then the applicant had already been detained for four months.
+
+<<1117.9;1126.16;en>>
+In addition, the court's refusal to provide written reasons indicates a systemic reluctance by the courts to render written decisions.
+
+<<1126.16;1137.56;en>>
+The applicant requests the Grand Chamber to find that his pretrial detention throughout was not based on relevant sufficient reasons in breach of Article 5.3 and in relation to the September decision
+
+<<1137.56;1141.88;en>>
+to adopt the reasoning of the chamber.
+
+<<1141.88;1158.12;en>>
+As for our third and final submission under Article 5, we argue that the domestic court in September 2013 failed to properly examine the merits of his request for release and the continued existence of grounds to justify Mr. Marabishvili's detention in breach of Article
+
+<<1158.12;1160.04;en>>
+5.4.
+
+<<1160.04;1171.08;en>>
+As this court has stated, the risk of absconding or of obstructing the administration of justice, both of which were relied on by the prosecution in this case, diminishes over time.
+
+<<1171.08;1179.14;en>>
+And the risk of tampering with evidence is diminished once recorded testimonies have been submitted to the court, as the case here.
+
+<<1179.14;1189.36;en>>
+The applicant's request for release was based on the fact that the initial grounds used to justify his detention in May were certainly no longer valid in September.
+
+<<1189.36;1197.16;en>>
+He argued that he could not destroy or interfere with witness evidence, as all the testimonies had been obtained by the investigation.
+
+<<1197.16;1204.92;en>>
+He no longer held a position of influence, did not present a flight risk, and his passport had been confiscated.
+
+<<1204.92;1214.82;en>>
+Had those risks ever been well-founded, which he disputed, they had in any event significantly diminished during the four months of his detention.
+
+<<1214.82;1223.0;en>>
+The applicant's request for release was orally rejected by the city court in a formalistic manner, as previously stated.
+
+<<1223.0;1231.68;en>>
+The court provided no reasons justifying its decision to extend his detention or explain why alternative measures were inappropriate.
+
+<<1231.68;1233.5;en>>
+Mr. Mirabishvili therefore submits
+
+<<1233.5;1246.52;en>>
+that when hearing his application for release in September 2013, the domestic authorities failed to examine whether reasons justifying his detention continued to exist in breach of Article 5.4.
+
+<<1246.52;1250.64;en>>
+Mr. President, this completes the applicant's submissibility
+
+<<1250.64;1252.56;en>>
+submissions and those on Article 5.
+
+<<1252.56;1252.56;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1253.67;1255.35;en>>
+Thank you very much, Mr. Sawyer.
+
+<<1255.35;1256.87;en>>
+I call now Mr. Leach, please.
+
+<<1256.87;1257.05;en>>
+You have the floor.
+
+[[Applicant;AP2]]
+
+<<1258.29;1261.29;en>>
+Mr. President, two features of this case we submit
+
+<<1261.29;1271.75;en>>
+are in themselves sufficient to justify a finding of a violation of Article 18, both the overwhelming evidence as to the targeting of Mr. Mirabishvili and the UNM
+
+<<1271.75;1278.61;en>>
+Party for political motives, and also the incident on 14th December 2013.
+
+<<1278.61;1287.23;en>>
+In applying Article 18, we asked the court to take account of its significance to the protection of democracy and its core aim.
+
+<<1287.23;1301.41;en>>
+In their concurring opinion in Timoshenko case, judges Jung, Wirtz, Nussburger, and Potocki suggested that in interpreting Article 18, the direct link between human rights protection and democracy must be taken into account.
+
+<<1301.41;1314.53;en>>
+If the human rights of politically active persons are restricted for the purpose of hindering or making impossible their participation in the political life of a country, democracy is in danger.
+
+<<1314.53;1319.75;en>>
+In seeking to protect democratic values, Article 18 is therefore fundamental to the convention.
+
+<<1319.75;1330.53;en>>
+As the Grand Chamber underscored in the United Communist Party of Turkey, democracy is the only political model contemplated by the convention and the only one compatible with it.
+
+<<1330.53;1335.47;en>>
+In UMAC and SADAC, the Grand Chamber emphasized the importance of political pluralism.
+
+<<1335.47;1347.05;en>>
+Expression of the opinion of the people is inconceivable without the assistance of a plurality of political parties representing the currents of opinion flowing through a country's population.
+
+<<1347.05;1364.49;en>>
+As for the core purpose of Article 18, judges Nikolai, Keller, and Dyedov recalled in the Navalny case that it was drafted as a defense against abusive limitations of convention rights and freedoms and thus to prevent the resurgence of undemocratic regimes in Europe.
+
+<<1364.49;1383.29;en>>
+Judge Keller has said that the drafters considered that state intervention with convention rights is not in the public interest where it comes about for the destruction of fundamental freedoms for reasons of state or to safeguard political tendencies against oppositional actors.
+
+<<1383.29;1393.01;en>>
+Article 18 does not have an autonomous role, as it can only be applied in conjunction with another substantive article of the convention.
+
+<<1393.01;1400.89;en>>
+But as the chamber reiterated in the present case, it may be violated even if there is no violation of the other article taken alone.
+
+<<1400.89;1405.03;en>>
+That principle was established more than 40 years ago in Cameroon, Netherlands.
+
+<<1405.03;1410.53;en>>
+And the point is acknowledged by the government in its request for referral to the grand chamber.
+
+<<1410.53;1428.89;en>>
+It's also well established in the court's case law on Article 18 and Article 5 that if there is more than one reason for the applicant's detention, if any one of those reasons does not comply with Article 5, then Article 18 will be violated, as was the case in Kaczynski.
+
+<<1428.89;1440.55;en>>
+Eight judges of this court have argued, including in separate opinions in Timoshenko and Cankutadze, that the court has imposed too high a standard of proof on applicants in Article 18 cases.
+
+<<1440.55;1451.23;en>>
+Judge Keller has argued that applicants are given the nigh impossible task of proving the authorities true motives for limiting their convention rights and freedoms.
+
+<<1451.23;1459.93;en>>
+We submit that the test should be flexible and realistic without placing too high a burden on the applicants.
+
+<<1459.93;1482.71;en>>
+And the court's case law has already moved away from a requirement on applicants to provide incontrovertible and direct proof to a much more realistic acknowledgment that proof of the authorities' improper reasons can be gleaned from a combination of relevant case-specific facts, and also taking account of the broader political context.
+
+<<1482.71;1491.97;en>>
+Furthermore, where an applicant puts forward a prima facie case of a violation of Article 18, the burden of proof should then shift to the government.
+
+<<1491.97;1493.81;en>>
+Mr. President, I turn now to the incident
+
+<<1493.81;1503.29;en>>
+on the 14th of December, 2013, when the applicant was removed from his prison cell in the early hours of Saturday morning and taken to meet the chief public prosecutor, Mr.
+
+<<1503.29;1506.13;en>>
+Patskaladze, and the head of the prison authority, Mr.
+
+<<1506.13;1507.57;en>>
+Darbyseli.
+
+<<1507.57;1520.29;en>>
+He was told that if he provided information about the death of the former prime minister, Zorab Zvania, and information about accounts allegedly held by former President Saakashvili, all the charges against him would be dropped.
+
+<<1520.29;1523.31;en>>
+He would be released and allowed to leave the country.
+
+<<1523.31;1528.51;en>>
+If he did not provide such information, his prison conditions would become unbearable.
+
+<<1528.51;1539.25;en>>
+He would never be released from prison while Irakli Garabashvili's government remained in power, and his political and other friends and relatives would also be put behind bars.
+
+<<1539.25;1561.81;en>>
+The chamber found the applicant's account of what happened on 14th December, 2013 to be particularly credible and convincing, as he was able to recall clearly and coherently the sequence of events, the time when those events had occurred, the names of the persons involved, the distinguishing details concerning his nighttime removal from the prison, and his talk with Mr. Patskaladze
+
+<<1561.81;1564.01;en>>
+and Mr. Darbyseli.
+
+<<1564.01;1585.29;en>>
+The court also noted that the applicant had informed the authorities at the very first opportunity, and the clearly observable reluctance by the prison authority to provide access to prison video images, and the opposition of the prime minister, minister of prisons, and the chief public prosecutor to calls for an independent investigation into the incident.
+
+<<1585.29;1598.41;en>>
+The chamber was highly critical of the government's failure to provide any meaningful explanation of the incident, and that not even the smallest piece of information was shared with the court about the ministry's internal inquiry.
+
+<<1598.41;1607.01;en>>
+Now, the essence of the government's position before the chamber was to deny, without any supporting material, that the incident ever took place.
+
+<<1607.01;1621.65;en>>
+In seeking referral to the grand chamber, the government has for the first time disclosed documents relating to the internal inquiry carried out back in December, 2013, January, 2014, more than two years and eight months after that inquiry took place.
+
+<<1621.65;1628.49;en>>
+No explanation has been provided as to why those documents could not have been disclosed to the chamber.
+
+<<1628.49;1632.13;en>>
+Mr. Mirabashvili stands by his detailed statement
+
+<<1632.13;1643.69;en>>
+made at the first opportunity at the court hearing on 17th December, 2013, three days after the incident, and subsequently and consistently reiterated by him.
+
+<<1643.69;1657.93;en>>
+The essence of what he said is confirmed in a statement by Ucha Nyanamashvili, the public defender of Georgia, who visited him on 19th December and then issued a public call for an investigation to be launched.
+
+<<1657.93;1666.45;en>>
+We say there are compelling reasons for this court to find the government's position to be fundamentally unreliable and lacking any credibility.
+
+<<1666.45;1675.53;en>>
+From the very outset, the government, at the very highest level, has sought to denounce Mr. Mirabashvili and deny his allegations out of hand.
+
+<<1675.53;1687.17;en>>
+On the very day that he made his statement at the court, Prime Minister Garibashvili said that the applicant had lied, should be assessed by psychiatrists, and that no investigation would be carried out into his allegations.
+
+<<1687.17;1695.85;en>>
+On the same day, the Chief Prosecutor's Office published a statement which described the applicant's allegations as absurd, ungrounded, and frivolous.
+
+<<1695.85;1703.53;en>>
+The following day, the Minister for Prisons described them as utterly false and said that no investigation would be carried out.
+
+<<1703.53;1722.25;en>>
+The 2013 internal inquiry and the 2016 investigation were carried out by two bodies, the Ministry of Prisons and the Chief Prosecutor's Office, which are obviously not independent from the matter being investigated, given that the head of the prison authority and the chief public prosecutor were directly implicated.
+
+<<1722.25;1735.97;en>>
+The prosecutor's investigation was only instigated after the European Court judgment was published in June 2016, and no explanation has ever been provided why an investigation was not initiated in December 2013.
+
+<<1735.97;1741.49;en>>
+The investigation was apparently closed on 11th February this year.
+
+<<1741.49;1743.17;en>>
+From the very beginning, Mr. Murabesvili
+
+<<1743.17;1748.13;en>>
+has sought disclosure of the video recordings taken by the cameras in his prison.
+
+<<1748.13;1756.73;en>>
+The government says that the video evidence from the prison cameras was automatically deleted after 24 hours.
+
+<<1756.73;1773.37;en>>
+However, in correspondence later in December 2013, senior ministry officials, including Simon Maciejice, the deputy director of the penitentiary department, discussed saving and disclosing video records for 13 to 14 December.
+
+<<1773.37;1783.57;en>>
+The minister of prisons himself made a statement on 18th December that the prison recordings could be made available if a criminal investigation were launched.
+
+<<1783.57;1791.21;en>>
+They clearly had no idea about any practice of the automatic deletion of video records after 24 hours.
+
+<<1791.21;1797.85;en>>
+At no point has the government referred to any domestic law regulation governing such a practice.
+
+<<1797.85;1808.65;en>>
+We have submitted a statement from a former deputy minister of prisons saying that recordings were stored and backed up on the ministry's servers for at least one month.
+
+<<1808.65;1815.65;en>>
+The public defender has described the alleged destruction of the video records as suspicious.
+
+<<1815.65;1828.21;en>>
+The government is in possession of video footage from cameras near to the prison and along the main roads leading to the prison's ministry's main office, but it has failed to disclose those tapes.
+
+<<1828.21;1847.73;en>>
+The government simply asserts that this evidence did not reveal any information helpful for the investigation, apparently on the basis of a series of brief formulaic statements made by officials from the ministry in December 2013, which were only disclosed in September 2016.
+
+<<1847.73;1850.69;en>>
+Mr. Mirabashvili challenges the credibility
+
+<<1850.69;1856.41;en>>
+of both the internal inquiry by the ministry and the prosecutor's investigation.
+
+<<1856.41;1862.97;en>>
+The statements taken from prison officers during the course of the internal inquiry are very brief and formulaic.
+
+<<1862.97;1868.97;en>>
+And remarkably, no statements were taken from either Mr. Patskaladze or Mr. Dabaseli.
+
+<<1868.97;1871.13;en>>
+And even though Mr. Mirabashvili said
+
+<<1871.13;1877.13;en>>
+that he thought he could identify the office where he was questioned, there was no attempt to take him to Mr. Dabaseli's office
+
+<<1877.13;1879.89;en>>
+to ascertain whether he could do so.
+
+<<1879.89;1888.17;en>>
+The statements taken from prison officers in 2016 all apparently support the government's position that Mr. Mirabashvili was not removed from his cell
+
+<<1888.17;1890.61;en>>
+on the 14th of December.
+
+<<1890.61;1902.45;en>>
+These officials were apparently able to recall their movements and actions in detail by the hour on a particular day more than 2 and 1 1 half years earlier.
+
+<<1902.45;1910.81;en>>
+There is no reference in their statements to their consulting diaries, email, or telephone records, or other contemporaneous records.
+
+<<1910.81;1912.65;en>>
+Mr. Patskaladze and Mr. Dabaseli
+
+<<1912.65;1915.69;en>>
+were eventually questioned in 2016.
+
+<<1915.69;1921.97;en>>
+Both say they were at work in their offices at the time when the applicant alleges he was removed from prison.
+
+<<1921.97;1926.41;en>>
+In other words, in the early hours of Saturday, 14th of December, 2013.
+
+<<1926.41;1933.73;en>>
+There was only minimal, vague, corroborative witness evidence and minimal documentary evidence.
+
+<<1933.73;1941.13;en>>
+The recent decision to close the investigation on 11th February this year states that Mr. Patskaladze was
+
+<<1941.13;1947.33;en>>
+logged on his computer between 1 and 1.25 that morning.
+
+<<1947.33;1951.51;en>>
+But Mr. Mirabashvili was taken out of his cell after 1.30,
+
+<<1951.51;1954.01;en>>
+probably at around 1.50.
+
+<<1954.01;1957.09;en>>
+So even if he was logged on until 1.25,
+
+<<1957.09;1958.97;en>>
+Mr. Patskaladze would have had ample time
+
+<<1958.97;1962.97;en>>
+to get from his office to Mr. Dabaseli's office, both of which
+
+<<1962.97;1972.43;en>>
+are situated next door to each other on Kogosali Street in the middle of Tbilisi, by the time Mr. Mirabashvili would have arrived there.
+
+<<1972.43;1978.81;en>>
+The prosecutor's office has not obtained mobile phone records for the two men who escorted Mr. Mirabashvili,
+
+<<1978.81;1986.69;en>>
+nor has it taken any steps to try to identify them, men who the applicant said he would be able to recognize.
+
+<<1986.69;2002.41;en>>
+In May 2014, the MP Irma Naderashvili published documents showing that various senior officials in the Ministry of Prisons had been paid very high bonuses, up to the equivalent of 18,000 euros, in December 2013.
+
+<<2002.41;2010.57;en>>
+She alleged that such payments were made to officials involved in the removal of the applicant from his cell in order to ensure their silence.
+
+<<2010.57;2015.53;en>>
+The Minister of Prisons later said that the bonuses were approved by Mr. Dabaseli, who
+
+<<2015.53;2021.61;en>>
+acknowledged that he did pay bonuses, as they were justified by the officials' hard work.
+
+<<2021.61;2025.09;en>>
+When Mr. Dabaseli was questioned by the prosecutor in 2016,
+
+<<2025.09;2029.65;en>>
+he was not asked at all about the payment of bonuses.
+
+<<2029.65;2037.45;en>>
+The MP's list of 40 officials in receipt of bonuses includes Mr. Dabaseli, the director of prison number nine,
+
+<<2037.45;2045.45;en>>
+Simon Maciejice, who has paid the highest sum, nearly 39,000 lari, and two other deputies of Mr. Dabaseli,
+
+<<2045.45;2048.49;en>>
+and one Gheorghe Gulbiani.
+
+<<2048.49;2051.97;en>>
+And he's Mr. Gulbiani, head of the special task force
+
+<<2051.97;2059.81;en>>
+within the prisons department, whom two witnesses say told them that he personally transferred Mr. Marabasvili.
+
+<<2059.81;2073.45;en>>
+The government's list of just 12 bonus payment recipients disclosed a month ago refers to neither Maciejice, nor Gulbiani, nor the other two deputies.
+
+<<2073.45;2075.61;en>>
+We say, therefore, that the court should accept Mr.
+
+<<2075.61;2089.05;en>>
+Marabasvili's testimony about the events of 14th December 2013 as being credible and consistent, and on the basis of which it should find a violation of Article 18 together with Article 5.1.
+
+<<2089.05;2091.65;en>>
+Mr. President, finally I turn to the second aspect
+
+<<2091.65;2098.61;en>>
+of the Article 18 complaint, that the totality of the evidence as to the targeting of Mr. Marabasvili
+
+<<2098.61;2106.65;en>>
+and his party, the UNM, for political purposes also justifies the finding of a violation of Article 18.
+
+<<2106.65;2117.93;en>>
+In its most recent Article 18 decisions, Ilgar Mamadov and Rasul Jafarov, the court has accepted that proof of improper reasons can follow from a combination of relevant case-specific facts.
+
+<<2117.93;2134.09;en>>
+In finding a violation of Article 18 in Jafarov, the court took explicit account not only of the general context of the increasingly restrictive domestic legislation, but also the numerous statements by high-ranking officials targeting NGOs and their leaders.
+
+<<2134.09;2146.35;en>>
+As the Parliamentary Assembly noted, by October 2014, almost the entire leadership of the UNM had been arrested or was under prosecution or investigation.
+
+<<2146.35;2159.01;en>>
+Criminal proceedings were brought against the former president, as well as former ministers of justice, defense, internal affairs, health, labor and social issues, education and science, finance and energy.
+
+<<2159.01;2165.95;en>>
+And a raft of senior officials have also been prosecuted, including the former mayor of Tbilisi, Gheorghi Yugolava.
+
+<<2165.95;2174.73;en>>
+The UNM has provided a list of 25 of its former ministers and officials who've been prosecuted, many of them in multiple sets of proceedings.
+
+<<2174.73;2184.03;en>>
+The Parliamentary Assembly has recorded serious concern that arrests and prosecutions were politically motivated and amounted to selective justice.
+
+<<2184.03;2198.51;en>>
+The criminal proceedings have also been met with an unprecedented level of comment by other governments and international organizations, including the president of the European Commission, in Parliament, and the Commissioner for Human Rights, expressing concerns to their political basis.
+
+<<2198.51;2210.85;en>>
+National courts in France, UK, and Greece have refused to accede to Georgian requests to extradite former UNM ministers, in essence because the proceedings were considered to be politically motivated.
+
+<<2210.85;2221.37;en>>
+In 2015, Interpol rescinded a red notice relating to former UNM minister Davit Kezarashvili and refused to issue a notice in respect of Mr. Sakashvili
+
+<<2221.37;2225.41;en>>
+because of the political nature of the proceedings.
+
+<<2225.41;2232.93;en>>
+The most senior representatives of the Georgian government have made public statements calling for the elimination of the UNM.
+
+<<2232.93;2238.33;en>>
+The UNM politician Gheorghe Bakiria has provided a statement about his meeting with Mr.
+
+<<2238.33;2241.89;en>>
+Ivanishvili in October 2012.
+
+<<2241.89;2244.61;en>>
+Mr. Ivanishvili told him that key members of the UNM
+
+<<2244.61;2249.67;en>>
+leadership would face prosecution unless they refrain from challenging the new government.
+
+<<2249.67;2252.13;en>>
+He said to Mr. Bakiria, quote, the more problems
+
+<<2252.13;2262.01;en>>
+you will create, the more individuals from your team will go to jail, end of quote, referring to several individuals by name, including Mr. Maramashvili.
+
+<<2262.01;2270.49;en>>
+In September 2015, the Constitutional Court issued two public statements in the light of events relating to Mr. Oogalava's case.
+
+<<2270.49;2282.73;en>>
+The court referred to demonstrations held outside the House of the Court's judges and to deliberate attempts to exert pressure on the Constitutional Court and threaten its members.
+
+<<2282.73;2297.65;en>>
+Having monitored the trial in 14 of the cases brought against former government ministers and officials, in 2014, the OSCE produced a report identifying numerous shortcomings as to their fairness.
+
+<<2297.65;2316.05;en>>
+And the Parliamentary Assembly has noted that the UNM has reported that several thousand of its activists and supporters have been regularly interrogated and intimidated by various investigative agencies, and a number of opposition figures, including MPs, have been violently attacked.
+
+<<2316.05;2320.05;en>>
+Mr. President, we submit that the totality of this evidence,
+
+<<2320.05;2328.41;en>>
+which I've just merely summarized today, establishes that the aim of the authorities was to exclude Mr. Maramashvili from being politically active,
+
+<<2328.41;2333.25;en>>
+and therefore the criminal proceedings against him were driven by improper political reasons.
+
+<<2333.25;2343.25;en>>
+The authorities in Georgia sought to neutralize him as a political opponent and remove him from the political arena in violation of Article 18, together with Article 5.
+
+<<2343.25;2360.77;en>>
+And last week, this court unprecedentedly applied interim measures to order the suspension of the Georgian Supreme Court decision relating to the ownership of the Rustavi 2 TV company, a further reflection, we say, of the increasing restrictions on democratic pluralism in Georgia.
+
+<<2360.77;2363.25;en>>
+Mr. President, that completes the submissions
+
+<<2363.25;2364.45;en>>
+on behalf of the applicant.
+
+<<2364.45;2364.65;en>>
+Thank you.
+
+<<2364.65;2364.65;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<2366.0;2370.0;en>>
+Thank you very much, Mr. Leach. Now I call Mr. Baramidze.
+
+[[Government;GR1]]
+
+<<2376.11;2380.66;en>>
+Mr. President and the honorable members of the court,
+
+<<2380.66;2397.51;en>>
+however eloquently my respected opponents may describe the applicant as an innocent man who fell victim to selective justice and persecution by the government of its political opponents, the facts keep telling us quite a different story.
+
+<<2397.51;2437.03;en>>
+This case you are dealing with today is about a person who first came up to the attention of this court back in 2007, when this court started considering the application of the mother and the father of a truly innocent young man who had been kidnapped, taken to the cemetery, brutally tortured, and finally killed by police officers, who implemented unlawful orders of immediate subordinates of the present applicant, then the Minister of Interior of Georgia, and also his wife, who was somehow involved in this gruesome case.
+
+<<2437.03;2444.07;en>>
+I'm confident you understood that I am referring to the Enokiza and Gherguliani case.
+
+<<2444.07;2449.47;en>>
+The applicant was eventually convicted for the covering up of his closest allies.
+
+<<2449.47;2458.18;en>>
+We submit the relevant photographs to the registry and kindly request the court to find them admissible.
+
+<<2458.18;2472.22;en>>
+My honorable opponents filed with this court around three dozens of decisions of prosecutors or judges in totally unrelated criminal cases of other former top-level officials of the former government.
+
+<<2472.22;2483.31;en>>
+And in their submissions, they made numerous allusions to so-called political motivation of the present government in the chase for their political opponents.
+
+<<2483.31;2507.28;en>>
+But of course, they never presented to the court 20,000 to 30,000 complaints of ordinary citizens who personally or whose close relatives were killed, tortured, arbitrarily arrested, convicted, or deprived of their property during the years when the applicant was the country's interior minister, and later the prime minister.
+
+<<2507.28;2525.74;en>>
+Of course, my honorable opponents never quoted the statements by the UN special rapporteur Mendez, who found that torture and other forms of ill treatment was a systemic problem in Georgian prisons when the applicant was one of the key leaders of the country.
+
+<<2525.74;2539.59;en>>
+Of course, they never referred to the numerous calls on the Georgian government by the Parliamentary Assembly or the Council of Europe, the former and the present Council of Europe Commissioners for Human Rights, Mr. Hammerberg
+
+<<2539.59;2543.03;en>>
+and Mr. Muzhnev to address the legitimate claims
+
+<<2543.03;2546.51;en>>
+of the victims of the former regime.
+
+<<2546.51;2554.62;en>>
+That our opponents stay silent about all those problems does not mean that those problems do not exist.
+
+<<2554.62;2560.99;en>>
+But I think we need to stop here with those useless and empty accusations of the present government.
+
+<<2560.99;2567.74;en>>
+It's time to talk about the fact and the law of the present case, the applicant's case.
+
+<<2567.74;2571.7;en>>
+I would like to communicate to you the three key points.
+
+<<2571.7;2579.18;en>>
+A, that the applicant arrest and pretrial detention was fully compatible with the requirements of Article 5.1
+
+<<2579.18;2580.7;en>>
+of the Convention.
+
+<<2580.7;2590.59;en>>
+B, that the applicant's pretrial detention was based on the relevant and sufficient reasons under Article 5.3, and the domestic courts
+
+<<2590.59;2597.41;en>>
+duly examined the continued existence of reasons for his deprivation of liberty under Article 5.4
+
+<<2597.41;2599.03;en>>
+of the Convention.
+
+<<2599.03;2614.51;en>>
+And C, that bringing the applicant to the competent legal authority on a reasonable suspicion of having committed criminal offenses was the sole and only purpose of the applicant's arrest and pretrial detention.
+
+<<2614.51;2631.87;en>>
+On the basis of voluminous corroborative evidence obtained through the comprehensive investigative activities, I will prove that the applicant's alleged removal from his prison cell at the night of 14 December 2013 never took place.
+
+<<2631.87;2638.83;en>>
+I will first underscore that the applicant's arrest and pretrial detention was lawful under Article 5.1
+
+<<2638.83;2641.11;en>>
+of the Convention.
+
+<<2641.11;2660.83;en>>
+On 21st of May 2013, on the basis of his testimony and other materials of the criminal case file, and in the presence of his lawyer, the applicant was arrested for vote buying, embezzlement, abuse of official power, and trespass.
+
+<<2660.83;2676.95;en>>
+The charges were based on the testimonies of around 2,000 witnesses, which raised a reasonable suspicion that the applicant might have committed an offense, as provided by Article 5.3c of the Convention.
+
+<<2676.95;2680.74;en>>
+The arrest was carried out due to the risk of absconding.
+
+<<2680.74;2684.39;en>>
+There is an important prehistory to that risk.
+
+<<2684.39;2700.7;en>>
+On 30th November 2012, while traveling to Armenia, the applicant attempted to cross the Georgian border using a fake international passport issued in 2011 under the name of another person.
+
+<<2700.7;2706.03;en>>
+But that was not the only wrong committed by the applicant in this case.
+
+<<2706.03;2714.55;en>>
+He also attempted to put pressure on the director of the patrol police in charge of the criminal investigation of the case.
+
+<<2714.55;2725.14;en>>
+The letter reported that the applicant had called him from his mobile phone, bullied him, and demanded that he immediately cease the investigation.
+
+<<2725.14;2733.91;en>>
+The applicant threatened him, saying, quote, you will see what you get for that, the end of quote.
+
+<<2733.91;2745.99;en>>
+This incident clearly demonstrates characteristic features of the applicant, his will to defy the law, his disrespect for law enforcement, his intent to obstruct justice.
+
+<<2745.99;2758.27;en>>
+It is quite natural that while deciding on the applicant's arrest in May 2013, the investigator took account of this event from November 2012.
+
+<<2758.27;2760.27;en>>
+However, that was not all.
+
+<<2760.27;2779.18;en>>
+The same day after the applicant's arrest, as a result of search of the applicant's house, the investigative authorities seized large amounts in cash, specifically euro 54,000, US dollar 33,000, and Georgian lari 29,000.
+
+<<2779.18;2787.2;en>>
+They also learned from official sources that the applicant held at least two more valid diplomatic passports.
+
+<<2787.2;2796.35;en>>
+And the applicant's spouse had left Georgia in a couple of hours after the applicant had received summons to appear before the investigator.
+
+<<2796.35;2804.27;en>>
+The above circumstances would raise in any neutral observer a strong belief that there was a real risk of absconding.
+
+<<2811.11;2825.55;en>>
+Under Article 1711 of the Criminal Procedure Code, a person may be arrested based on a court order if there is a reasonable suspicion that he may have committed a crime for which the law prescribes imprisonment.
+
+<<2825.55;2836.03;en>>
+Under Article 1712E, he may be arrested even without a court order if there is a risk of absconding.
+
+<<2836.03;2859.47;en>>
+And even though Article 1713 prescribes that no arrest without court order may be affected if the aim pursued may be accomplished with a more lenient measure of restraint, the particular circumstances of the applicant's case made it clear that the lenient measure could not secure the applicant's appearance for trial.
+
+<<2859.47;2863.35;en>>
+The next day, as required by Article 5.3 of the Convention
+
+<<2863.35;2876.7;en>>
+and relevant provisions of the domestic law, the applicant was promptly brought before the Kutaisi City Court, which accepted the prosecutor's arguments and ordered the applicant's pretrial detention.
+
+<<2876.7;2888.62;en>>
+The domestic court examined the proportionality of this measure and considered that the circumstances of the case supported existence of the risks of absconding and obstructing justice.
+
+<<2888.62;2895.99;en>>
+In the court's opinion, a less stringent measure of restraint would not be sufficient for the prevention of such risks.
+
+<<2895.99;2907.74;en>>
+The court based its decision on the applicant's history, his intention to travel with a fake ID, and his attempt to influence the course of investigation.
+
+<<2907.74;2915.18;en>>
+Now the applicant claims that no time limit of detention was specified in the decision on the applicant's detention.
+
+<<2915.18;2920.07;en>>
+But the case law of this court gives clear instructions on that.
+
+<<2920.07;2934.03;en>>
+As affirmed by this court, quote, the absence of specific time limits in a detention order cannot, as such, render the deprivation of liberty unlawful within the meaning of Article 5.1,
+
+<<2934.03;2947.95;en>>
+as long as a further reading of the relevant domestic law and practice could allow a detained person to comprehend what the actual duration of the detention was, end of quotation.
+
+<<2947.95;2952.68;en>>
+Article 18.6 of the Constitution and Article 205.2
+
+<<2952.68;2961.91;en>>
+of the Criminal Procedure Code provide that the maximum statutory time limit for pretrial detention is nine months.
+
+<<2961.91;2966.59;en>>
+The Kutaisi City Court explicitly grounded its decision on this.
+
+<<2966.59;2978.39;en>>
+The applicant, as a former Minister of Interior, and his lawyers should have known, and they actually knew, what was the maximum time limits of detention.
+
+<<2978.39;2989.7;en>>
+This means that their claim that the detention was incompatible with Article 5, because no specific time limit was indicated, is totally groundless.
+
+<<2989.7;3003.51;en>>
+The applicant also refers to the court's judgment in Nikolai Shvili versus Georgia, where the court criticized the government because the applicant was first summoned as a witness in an unrelated case and then was arrested.
+
+<<3003.51;3025.55;en>>
+But an important difference that distinguishes the present applicant's case from that of Nikolai Shvili is that the present applicant was not summoned as a witness in regard of a totally unrelated facts, but rather in regard of the very facts for which later he was charged, arrested, and convicted.
+
+<<3025.55;3035.51;en>>
+All the above circumstances sufficiently substantiate compatibility of the applicant's arrest and subsequent detention with the requirements of Article 5.1
+
+<<3035.51;3036.82;en>>
+of the Convention.
+
+<<3036.82;3040.51;en>>
+Therefore, we respectfully request to find no violation of this provision.
+
+<<3043.39;3056.99;en>>
+The applicant's pretrial detention was based on relevant and sufficient reasons to justify his deprivation of liberty from the very first day of his arrest until his conviction by the First Instance Court.
+
+<<3056.99;3076.66;en>>
+On 12th of October, 2012, right after the applicant's political party lost the parliamentary elections and cohabitation between the new government and the former president, the leader of the applicant's political party, began, the president amended regulations on diplomatic passports.
+
+<<3076.66;3089.27;en>>
+In particular, former officials were granted a privilege to retain diplomatic passports for one year following their retirement from their offices.
+
+<<3089.27;3095.95;en>>
+Before that, diplomatic passports had been invalidated from the moment of retirement.
+
+<<3095.95;3109.59;en>>
+By the time of deciding on restraint measure, the applicant still possessed two diplomatic passports issued at the time of his tenure in the office, with which he could easily cross the state border.
+
+<<3109.59;3124.22;en>>
+But even if these passports were confiscated, the applicant, former minister of interior, could have had several fake international passports, the exact number of which would be unknown to the investigative authorities.
+
+<<3124.22;3141.47;en>>
+The risk of influencing witnesses still persisted, too, as the majority of witnesses in the criminal case were the applicant's former employees and subordinates under his direct hierarchical authority in the past.
+
+<<3141.47;3154.18;en>>
+Having due regard to the party's arguments, on 25th of September, 2013, the Cutaisi City Court rejected the applicant's motion regarding the annulment of the measure of restraint.
+
+<<3154.18;3164.18;en>>
+The defense and the prosecution were given equal opportunity to present their arguments against or in favor of the applicant's continued detention.
+
+<<3164.18;3187.74;en>>
+As to the manner the decision of 25th of September, 2013, was taken, contrary to the applicant's assertion, we submit that dismissing the applicant's motion orally and providing an audio record of the relevant court session was fully compatible with the domestic law and respective practice.
+
+<<3187.74;3201.11;en>>
+The judge heard the party's oral submissions and found that there still existed grounds, including the risks of absconding and exertion of pressure on witnesses, which justified continued detention.
+
+<<3201.11;3208.14;en>>
+The whole process was audio recorded, and copies of records were given to the parties.
+
+<<3208.14;3223.18;en>>
+By the way, the applicant never appealed to this decision of the Cutaisi City Court or the manner in which it had been adopted, which he could do under Article 207 of the CCP.
+
+<<3223.18;3236.7;en>>
+Decisions adopted by the Tbilisi and Cutaisi appeals courts, which we have submitted to this court, demonstrate that this remedy has been effective both in theory and in practice.
+
+<<3236.7;3250.74;en>>
+The applicant failed to exhaust domestic remedies, for which reason, in this part of the applicant's complaint, this part of the applicant's complaint is clearly inadmissible.
+
+<<3250.74;3265.74;en>>
+In conclusion, it is apparent that there were relevant and sufficient reasons for continued detention, as that on 25th of September, 2013, the Cutaisi City Court duly examined reasons justifying the applicant's deprivation of liberty.
+
+<<3272.03;3286.07;en>>
+My third submission relates to the applicant's claim that the initiation of the criminal proceedings against him and the subsequent pretrial detention served the purpose of excluding him from the country's political life.
+
+<<3286.07;3292.59;en>>
+This is nothing more than a speculation, which is not supported by any evidence.
+
+<<3292.59;3307.59;en>>
+The government emphasized that the applicant's arrest and pretrial detention was carried out with the sole purpose of bringing him before the competent legal authority on a reasonable suspicion of having committed offenses.
+
+<<3307.59;3328.31;en>>
+First of all, it was only on 19th of December, 2014, at this stage of providing just satisfaction claims, when the applicant first raised before the court a fresh allegation that he had been removed from his prison cell on 14th of December, 2013.
+
+<<3328.31;3335.74;en>>
+The claim was thus presented one year after the event had allegedly happened.
+
+<<3335.74;3343.7;en>>
+For some reason, the applicant did not take any immediate steps to let the authorities know about the event.
+
+<<3343.7;3357.03;en>>
+Instead, he waited for several days, and only on 17th of December, 2013, he made a public statement about his alleged removal from the prison cell.
+
+<<3357.03;3373.03;en>>
+Promptly, after the applicant made this statement, on 20th December, 2013, the General Inspectorate of the Ministry of Corrections launched an internal inquiry into the applicant's allegations.
+
+<<3373.03;3385.31;en>>
+On 3rd of January, 2014, the investigators questioned the applicant who confirmed the account of events disclosed on 17th of December, 2013.
+
+<<3385.31;3399.39;en>>
+He further noted that in the night of 14th December, the director of prison number nine came alone to his prison cell and told him that he had to take him out of the prison territory.
+
+<<3399.39;3409.23;en>>
+In the prison yard, the applicant saw a dark-colored vehicle and two unknown individuals whom he said he remembered very well.
+
+<<3409.23;3418.7;en>>
+After placement in the vehicle, he was instructed, as he says, to cover his head and face with his own jacket, which he did.
+
+<<3418.7;3421.62;en>>
+Then, his vehicle left the prison compound.
+
+<<3421.62;3427.89;en>>
+The applicant said that they were basically riding through main roads.
+
+<<3427.89;3434.62;en>>
+He even named the streets, even though he claimed that his face was covered.
+
+<<3434.62;3439.82;en>>
+The applicant assumed that he was taken to the building of the penitentiary department.
+
+<<3439.82;3450.66;en>>
+The applicant further indicated that he could also easily recognize the room where the alleged conversation with the then chief prosecutor was held.
+
+<<3450.66;3459.87;en>>
+However, for some reason, he refused to give any description of either the persons or the place.
+
+<<3459.87;3475.47;en>>
+Based on this information, the investigators examined records of 18 video surveillance cameras, operational nearby prison number nine compound, and along the main municipal roads leading to the office of the penitentiary department.
+
+<<3475.47;3486.59;en>>
+However, in the period indicated by the applicant, no vehicle similar to the one described by the applicant was noticed in any of the video records.
+
+<<3486.59;3494.62;en>>
+Records from the applicant's prison cell could not be retrieved because they were automatically deleted in 24 hours.
+
+<<3494.62;3504.89;en>>
+The general inspectorate also obtained witness test statements of the individuals who could have had any information about the story told by the applicant.
+
+<<3504.89;3522.55;en>>
+In particular, the investigators questioned the director and the deputy director of prison number nine who testified that they had been in the prison premises at the material time but declined any involvement in or knowledge of the facts alleged by the applicant.
+
+<<3522.55;3536.64;en>>
+Among other witnesses questioned were two assistant duty officers of prison number nine who were responsible for the supervision of prisoners and registering the exit and entry of inmates in and out of the prison facility.
+
+<<3536.64;3550.22;en>>
+They also questioned the senior inspector of the legal regime division, the two employees of the technical support division who were responsible for the monitoring of surveillance cameras operational in the territory of the prison.
+
+<<3550.22;3555.9;en>>
+None of them confirmed any of the facts alleged by the applicant.
+
+<<3555.9;3569.27;en>>
+The general inspectorate further examined the entry and exit locks of vehicles, but those did not contain any information regarding the applicant's exit from or entry to the prison that night.
+
+<<3569.27;3587.11;en>>
+Having regard to all the above information and evidence which manifestly excluded the applicant's removal from his prison cell in the night in question, on 14th of January 2014, the internal inquiry into the applicant's allegations was closed.
+
+<<3587.11;3612.19;en>>
+On 14th of April 2014, the applicant's lawyer was informed in writing by the chief prosecutor's office, which by then had thoroughly analyzed the results of inquiry by the general inspectorate of the Ministry of Corrections that it had been established that the applicant's removal could not have occurred.
+
+<<3612.19;3621.43;en>>
+This happened eight months before 19th of December 2014 when the applicant filed his allegations with this court.
+
+<<3621.43;3628.11;en>>
+He clearly violated the six month rule under Article 35 of the convention.
+
+<<3628.11;3639.55;en>>
+The applicant's lawyer claims that he informed the court about the incident on 28th of May 2014, but the court refused to include it in the case file.
+
+<<3639.55;3649.35;en>>
+The correspondence was never provided to the government, but even if it was, the applicant has no excuse for missing the six month limit.
+
+<<3649.35;3656.47;en>>
+We therefore request the court to find this part of the application inadmissible as well.
+
+<<3656.47;3660.51;en>>
+But let me go back to the inquiry and its findings.
+
+<<3660.51;3670.74;en>>
+The nature and extent of inquiry demonstrate that the inquiry was conducted in a diligent and consistent manner.
+
+<<3670.74;3683.47;en>>
+In the course of it, the general inspectorate investigators examined all possible documentary evidence and also all witnesses who might have had any information about the applicant's allegations.
+
+<<3683.47;3695.78;en>>
+Had the general inspectorate found any signs of criminal offense in the conduct of the Ministry of Corrections staff, the general inspectorate would have referred the case to the chief prosecutor's office.
+
+<<3695.78;3706.95;en>>
+Despite this, following the chamber's decision, the chief prosecutor office of Georgia decided to look into the case once again.
+
+<<3706.95;3720.91;en>>
+The chief prosecutor's office revisited the records of 18 video surveillance cameras and discovered no vehicle matching the description provided by the applicant at the material time.
+
+<<3720.91;3735.95;en>>
+The re-examination of the prison register books also excluded exit of any vehicle or person from the applicant's prison at the period when he was allegedly removed from the cell and transported to the penitentiary department.
+
+<<3735.95;3761.57;en>>
+In addition, the prosecutors examined every single individual who could have any information regarding defactual circumstances alleged by the applicant, the former chief prosecutor, the former director of the penitentiary department, the prison staff present at the material time, including those responsible for guarding the perimeter, registering the entry and exit of persons and vehicles.
+
+<<3761.57;3786.99;en>>
+Furthermore, they obtained an evidence which was submitted to this court, which makes it crystal clear that the former chief prosecutor was actually at his office, not in the penitentiary department, working on the official correspondence in the Georgian government electronic document management system, when, according to the applicant, he should have a meeting with the applicant.
+
+<<3786.99;3798.55;en>>
+The system records automatically the date and time when a particular correspondence is assigned to and seen by a system customer.
+
+<<3798.55;3807.95;en>>
+The former chief prosecutor, like any other government employee who uses this system, had his own password to this system.
+
+<<3807.95;3830.03;en>>
+To conclude discussions on the investigation of the applicant's alleged removal from his cell, we can say confidently that both the inquiry by the Ministry of Correction General Inspectorate, which was launched right after the applicant's statement, and the investigation by the chief prosecutor's office were conducted thoroughly, diligently, and professionally.
+
+<<3830.03;3833.15;en>>
+And the final outcome of both is the same.
+
+<<3833.15;3844.91;en>>
+The whole story is a fiction invented by the applicant himself to destroy the confidence in the Georgian government domestically and internationally.
+
+<<3844.91;3856.09;en>>
+Now, the applicant challenges the investigative efforts of the government by questioning legitimacy of a 24-hour rule of storing video camera records.
+
+<<3856.09;3861.43;en>>
+To this end, his team obtained a witness statement by the public defender.
+
+<<3861.43;3869.86;en>>
+The letter has indicated that, in his opinion, some video records could have been destroyed before the inquiry was launched.
+
+<<3869.86;3879.03;en>>
+With my due respect to the public defender, his opinion is just an opinion, not the testimony of an eyewitness.
+
+<<3879.03;3901.66;en>>
+Moreover, that the surveillance camera records at the Georgian prisons could not be kept longer than 24 hours can be found in the CPT report of 2014, and even in annual reports of the public defender himself for 2014 and 2015.
+
+<<3901.66;3906.62;en>>
+Whether 24 hours are enough can be a matter of discussion.
+
+<<3906.62;3914.55;en>>
+But there is no room for an argument that this rule was invented specifically for the applicant's case.
+
+<<3914.55;3920.83;en>>
+Actually, it was established quite long before the applicant's arrest and detention.
+
+<<3920.83;3932.74;en>>
+The applicant also made some fervent attempts to mislead the court by stating that he did not have any opportunity to report about his alleged removal before 17th of December.
+
+<<3932.74;3944.19;en>>
+However, the applicant could have filed a complaint with the prison authorities or the public defender of Georgia at any time during three days of his self-imposed silence.
+
+<<3944.19;3959.39;en>>
+All these events may lead one to a reasonable assumption that the applicant, who could have known the 24-hour rule, deliberately waited for several days before he would announce about his alleged removal.
+
+<<3959.39;3970.18;en>>
+That way, he deprived the government of the chance to present another important evidence against the applicant's uncorroborated speculations.
+
+<<3970.18;3978.11;en>>
+In the end, allow me to add a few words about the case law of this court with respect to Article 18.
+
+<<3978.11;3986.01;en>>
+We appealed the chamber judgment inter alia on the reason that it deviated from the previous precedents.
+
+<<3986.01;4002.99;en>>
+In all those cases where the court established a violation of Article 18 of the Convention, improper reasons were drawn either from incontrovertible and direct proof or from the combination of the relevant facts.
+
+<<4002.99;4007.14;en>>
+None is the case in the applicant's situation.
+
+<<4007.14;4032.23;en>>
+As to the burden of proof, according to the court's case law, even where the appearance is speaking in favor of the applicant's claim and the evidence is sufficient to show that there was an arguable claim of improper motives, the burden of proof must remain with the applicant, who must convincingly show that the actions were driven by improper motives.
+
+<<4032.23;4041.9;en>>
+In the instance case, by ignoring the presumption of good faith on the side of the domestic authorities because of non-violation of Article 5.1
+
+<<4041.9;4051.55;en>>
+and shifting the burden of proof to the government, the chamber failed to meet the very high standard of proof developed by the court in its case law.
+
+<<4051.55;4060.43;en>>
+Before the grand chamber, I would like to underline that it is absolutely necessary to uphold this high standard of proof.
+
+<<4060.43;4071.35;en>>
+Otherwise, as the court stressed it in one of its cases, it would have to find violation in every high profile case.
+
+<<4071.35;4085.11;en>>
+Honorable members of the court, having regard to the reasons set out above, the government kindly requests the court, A, to declare the applicant's complaint under Article 5.4 inadmissible
+
+<<4085.11;4096.23;en>>
+for non-exhaustion of domestic remedies, B, to declare inadmissible the applicant's claim under Article 18 in conjunction with Article 5.1
+
+<<4096.23;4107.39;en>>
+as manifestly ill-founded, C, alternatively, to declare inadmissible the applicant's claim under Article 18 in conjunction with Article 5.1
+
+<<4107.39;4119.07;en>>
+on account of the applicant's alleged removal from the cell as being filed in violation of the six-month rule under Article 35 of the Convention.
+
+<<4119.07;4127.7;en>>
+And in any case, to find that there has been no violation of Article 5.1, 5.3, 5.4,
+
+<<4127.7;4130.99;en>>
+and Article 18 in conjunction with Article 5.1
+
+<<4130.99;4132.9;en>>
+of the Convention.
+
+<<4132.91;4134.07;en>>
+I thank you for your attention.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4135.63;4143.47;en>>
+Thank you very much Mr. Baramidze and I thank both parties for their submissions to the
+
+<<4143.47;4153.63;en>>
+court and I turn towards my colleagues of the Grand Chamber to know whether there are questions for the parties, judge Yudkivska, please.
+
+[[Judge;Ganna Yudkivska]]
+
+<<4155.97;4156.81;en>>
+Thank you, President.
+
+<<4156.81;4163.53;en>>
+I have two questions concerning the incident of 14th December, 2013.
+
+<<4163.53;4166.81;en>>
+And my first question goes to the applicant.
+
+<<4166.81;4175.49;en>>
+In your submissions, you state that this alleged incident was related to questioning the applicant about two issues.
+
+<<4175.49;4179.25;en>>
+First, death of Mr. Zhvania in 2005,
+
+<<4179.25;4183.61;en>>
+and situation with bank accounts of Mr. Saakashvili.
+
+<<4183.61;4193.09;en>>
+Why you consider that it was important for the authorities to obtain this information at that particular moment?
+
+<<4193.09;4210.75;en>>
+And my second question is for the government, but the applicant might comment as well, in respect of the effectiveness of investigation into this incident of 14th December, 2013, to which extent the applicant himself was involved into this investigation.
+
+<<4210.75;4211.25;en>>
+Thank you very much.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4212.11;4214.39;en>>
+Thank you very much.
+
+<<4215.39;4217.71;en>>
+There are no further questions.
+
+<<4218.79;4223.51;en>>
+So the court will now withdraw for 20 minutes.
+
+<<4224.15;4234.11;en>>
+After that, the parties will be able to submit brief observations in reply to each other's submissions and reply to the questions put by Judge Judiska.
+
+<<4234.11;4234.11;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4303.28;4304.12;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<4343.63;4345.11;en>>
+Please be seated.
+
+<<4350.87;4354.55;en>>
+The hearing is resumed.
+
+<<4354.55;4357.67;en>>
+And now I call the applicants' representatives.
+
+<<4357.67;4359.55;en>>
+I understand it's Mr. Leach.
+
+<<4359.55;4359.55;en>>
+Take the floor, please.
+
+[[Applicant;AP2]]
+
+<<4361.6;4363.92;en>>
+Mr. President, thank you.
+
+<<4363.92;4370.88;en>>
+May I start with the point about the destruction of the video evidence after 24 hours?
+
+<<4370.88;4376.64;en>>
+Reference was made to a CPT report in 2014.
+
+<<4376.64;4388.8;en>>
+That is about an alleged torture case in which the response to the CPT by the prosecution was that the video, again, this point that the videos have been deleted after 24 hours.
+
+<<4388.8;4395.84;en>>
+It's not any statement by the CPT, but it seems to be a systemic problem.
+
+<<4395.84;4399.76;en>>
+It seems to be the response of the prosecution.
+
+<<4399.76;4407.7;en>>
+It may be their position where they're wanting to cover up cases, as we say is the position here.
+
+<<4407.7;4412.32;en>>
+Mr. Mirabashvili has been criticized
+
+<<4412.32;4420.2;en>>
+for delaying three days before he made his complaint about the incident on the 14th of December.
+
+<<4420.2;4427.8;en>>
+And the allegation is that he knew that there was a 24-hour policy of destroying videos, and therefore he deliberately waited.
+
+<<4427.8;4432.94;en>>
+He deprived the government of an opportunity to produce this evidence.
+
+<<4432.94;4434.12;en>>
+He was in prison.
+
+<<4434.12;4436.06;en>>
+He was taken out of prison, as we've heard.
+
+<<4436.06;4438.48;en>>
+This was early hours of a Saturday morning.
+
+<<4438.48;4441.34;en>>
+Mr. Mirabashvili, the regime he is under
+
+<<4441.34;4443.64;en>>
+has no right to make phone calls.
+
+<<4443.64;4447.36;en>>
+He has to get permission to do that, which takes a period of time.
+
+<<4447.36;4454.46;en>>
+He had no right to contact his lawyers other than during working hours, Monday to Friday, 10 till 6.
+
+<<4454.46;4457.64;en>>
+So he couldn't have contacted his lawyers over the weekend.
+
+<<4457.64;4462.28;en>>
+A lot of play is made of his supposed right to contact the public defender's office.
+
+<<4462.28;4463.78;en>>
+That's dealt with in his statement.
+
+<<4463.78;4466.12;en>>
+He had no knowledge of any right.
+
+<<4466.12;4467.74;en>>
+And in practice, that wasn't operating.
+
+<<4467.74;4470.68;en>>
+He had no means of contacting the public defender.
+
+<<4470.68;4473.08;en>>
+So what he does, he waits till Monday.
+
+<<4473.08;4478.32;en>>
+He has a meeting already arranged with his lawyers because there's a court hearing on the Tuesday.
+
+<<4478.32;4481.52;en>>
+He tells his lawyers on the Monday what's gone on.
+
+<<4481.52;4486.84;en>>
+And they agree that the best thing for him to do is to make a public statement at the court hearing the next day.
+
+<<4486.84;4492.96;en>>
+So as the chamber found, we say it's effectively the first opportunity that he could have made.
+
+<<4492.96;4506.24;en>>
+Who could he have complained to in the meantime when the director of the prison and the deputy director had been involved in taking him out?
+
+<<4506.24;4510.4;en>>
+Mr. Murabeshvili also deals with this in his statement.
+
+<<4510.4;4519.32;en>>
+And he expresses his view of the stupidity of having any kind of 24-hour destruction policy.
+
+<<4519.32;4526.2;en>>
+Now in turn to two admissibility points were again raised.
+
+<<4526.2;4534.08;en>>
+It is said that we waited for more than six months after complain about the incident in December.
+
+<<4534.08;4536.24;en>>
+First of all, in fact, that's not correct.
+
+<<4536.24;4541.92;en>>
+We submitted information to this court within six months.
+
+<<4541.92;4542.88;en>>
+That's the first thing.
+
+<<4542.88;4545.32;en>>
+But in any event, this is a factual issue.
+
+<<4545.32;4547.54;en>>
+It's not an admissibility issue.
+
+<<4547.54;4552.06;en>>
+The Article 18 complaint had already been lodged at the outset.
+
+<<4552.06;4555.36;en>>
+There is no admissibility issue here.
+
+<<4555.36;4565.56;en>>
+The second admissibility point that was again raised was this supposed failure to appeal against the pretrial review decision to detain him.
+
+<<4565.56;4569.8;en>>
+As we've already said, we say there is no right of appeal.
+
+<<4569.8;4580.56;en>>
+And the decisions that the government have recently disclosed, four of them are irrelevant because they rate the earlier investigatory period.
+
+<<4580.56;4584.72;en>>
+One deals with appeal from the pretrial review stage and says there is no right of appeal.
+
+<<4584.72;4591.28;en>>
+And that's confirmed in the commentary that Ms. Sawyer referred to earlier.
+
+<<4591.28;4598.22;en>>
+May I then turn to the substantive question of a violation of Article 5.1 because
+
+<<4598.22;4606.44;en>>
+of the absence of legal certainty as to the time for which Mr. Mirabai Shmuley was detained.
+
+<<4606.44;4624.44;en>>
+We've said, we've explained, that the court failed to specify the duration of the detention, that there's just a passing reference to Article 205 and no reference in the second decision to Article 205 at all.
+
+<<4624.44;4629.52;en>>
+And Article 205 was referred to in the case in relation to his co-defendant, who was granted bail.
+
+<<4629.52;4630.8;en>>
+And so it had no relevance.
+
+<<4630.8;4636.4;en>>
+And therefore, we suggest there's a formulaic approach here.
+
+<<4636.4;4651.84;en>>
+The problem also is compounded by the fact that the nine-month period could be applied separately and consecutively to each individual charge, as happened with Mr. Ugolava and Mr. Akalaya,
+
+<<4651.84;4655.2;en>>
+as we've said in his case on a number of occasions.
+
+<<4655.2;4669.8;en>>
+And I wanted to draw the court's particular attention to the constitutional court judgments in September 2015, which you have, when the constitutional court declared Article 205 too unconstitutional in Mr. Ugolava's case.
+
+<<4669.8;4676.0;en>>
+This followed the application of the nine-month period twice in his case.
+
+<<4676.0;4681.16;en>>
+So the second order was made within eight months of the first.
+
+<<4681.16;4692.24;en>>
+And the constitutional court, in its judgment, said that its decision was intended to deal with the problem of pretrial detention being postponed artificially.
+
+<<4692.24;4701.32;en>>
+And the court also felt it necessary to say that it was impermissible to manipulate the nine-month term set for pretrial detention so as to artificially prolong it.
+
+<<4701.32;4707.98;en>>
+There's clearly an issue in practice, as we've heard in the cases we've referred to.
+
+<<4707.98;4711.96;en>>
+That's why it was declared unconstitutional in September 2015.
+
+<<4711.96;4718.3;en>>
+But when Mavros Vili was facing these decisions, he was subject to this uncertainty.
+
+<<4718.3;4725.28;en>>
+The constitutional court itself refers to the decision of this course in Sibalgiu in Croatia from 2011.
+
+<<4725.28;4727.48;en>>
+There, there was an Article 5.1 violation
+
+<<4727.48;4741.76;en>>
+founded on the basis that the domestic legislation in Croatia contained no provisions concerning the maximum detention period on the basis of detention orders adopted in separate criminal proceedings.
+
+<<4741.76;4750.64;en>>
+And the court said that the situation in Croatia left open the possibility for the legislation to be circumvented.
+
+<<4750.64;4758.92;en>>
+We say the same is true for Mr. Mravos Vili in 2013.
+
+<<4758.92;4762.12;en>>
+I want to come back also, Mr. President,
+
+<<4762.12;4767.92;en>>
+to the December 2013 incident.
+
+<<4767.92;4773.12;en>>
+Again, it's been said that it did not happen.
+
+<<4773.12;4779.8;en>>
+We strongly refute the credibility of the government's evidence.
+
+<<4779.8;4783.48;en>>
+We remind the court that Mr. Bramash Vili was immediately
+
+<<4783.48;4786.04;en>>
+denounced at the highest political level.
+
+<<4786.04;4790.08;en>>
+And it was announced straightaway that there would be no investigation.
+
+<<4790.08;4797.28;en>>
+Those statements, those instructions, we say, set the tone for any subsequent purported investigation.
+
+<<4797.28;4805.76;en>>
+We say both the inquiry, the ministry inquiry, and the prosecutor's investigation have been very obviously negligent.
+
+<<4805.76;4811.52;en>>
+Failure to scrutinize with any serious intent the movements, for example, of Mr. Patskaladze and Mr.
+
+<<4811.52;4834.76;en>>
+Darboseli at the relevant times, the failure to carry out any serious inquiry into the payment of very high bonuses to officials implicated in this incident, and the one type of evidence which could have been conclusive, the video evidence from the prison, is said to have been deleted, even though there's no law, no regulation, not even a single memo that shows that this was the practice.
+
+<<4834.76;4841.92;en>>
+Nothing at all to show that there was a policy of destroying or deleting video evidence after 24 hours.
+
+<<4841.92;4847.92;en>>
+The statements taken from the prison staff in 2016 are brief and formulaic.
+
+<<4847.92;4854.2;en>>
+Some of them even use identical wording, if you look very closely, in some of the key paragraphs.
+
+<<4854.2;4864.46;en>>
+And those statements suggest that these staff could have remembered what they were doing more than 2 and 1 1⁄2 years earlier in such a level of detail that's just not credible.
+
+<<4864.46;4871.72;en>>
+Can any of us remember what we were doing last week, even, in that much detail?
+
+<<4871.72;4877.76;en>>
+Such a high-level, unlawful intervention would, of course, never have been recorded.
+
+<<4877.76;4884.8;en>>
+So all the apparent recent evidence, which ought to show that there are no records of him leaving the prison, we say are irrelevant.
+
+<<4884.8;4893.32;en>>
+Such an illicit attempt to do some kind of deal with Mirambersele would, of course, never have been documented.
+
+<<4893.32;4901.8;en>>
+Now, I want to just pick up the point about Mr. Patskaladze's
+
+<<4901.8;4903.12;en>>
+movements.
+
+<<4903.12;4918.7;en>>
+And we've had recently disclosed, in February, a document that purports to be information taken, I think, from the electronic case management system of the prosecutor's office.
+
+<<4918.7;4920.48;en>>
+And we have a brief statement.
+
+<<4920.48;4926.0;en>>
+And then we have a series of tables which seem to show the login times for Mr. Patskaladze
+
+<<4926.0;4928.76;en>>
+on the 14th of December, 2013.
+
+<<4928.76;4931.24;en>>
+We have questions about this document, first of all.
+
+<<4931.24;4933.4;en>>
+The numbers are not in sequence.
+
+<<4933.4;4934.68;en>>
+And neither are the dates.
+
+<<4934.68;4936.84;en>>
+The dates are all over the place.
+
+<<4936.84;4939.52;en>>
+The dates are even written in a different format.
+
+<<4939.52;4942.28;en>>
+So some of them say 12-14-2013.
+
+<<4942.28;4944.76;en>>
+Some of them say 14-12-2013.
+
+<<4944.76;4948.88;en>>
+All of that suggests to us that this is not an automatically generated document.
+
+<<4948.88;4949.96;en>>
+It's been created.
+
+<<4949.96;4953.72;en>>
+Therefore, we do question it.
+
+<<4953.72;4959.68;en>>
+It seems to show the times he opened documents in the electronic case management system.
+
+<<4959.68;4969.04;en>>
+Of course, there's no explanation or inquiry as to whether if he had opened a particular document and then walked away from his computer, would it still have shown that it was open?
+
+<<4969.04;4975.94;en>>
+Did he have assistants or colleagues who had his login details who could have logged in on his behalf?
+
+<<4975.94;4979.74;en>>
+This is a national system for the prosecutor's office.
+
+<<4979.74;4980.4;en>>
+We understand.
+
+<<4980.4;5007.36;en>>
+He could have been actually been in any building.
+
+<<5007.36;5016.92;en>>
+And probably around 150, well, it's very difficult to be absolutely precise, around about 10 minutes he said to get him to this building.
+
+<<5016.92;5018.86;en>>
+So around about 2 AM.
+
+<<5018.86;5023.92;en>>
+So Mr. Patskaladze was logged on until 124.
+
+<<5023.92;5027.86;en>>
+He's in the office five minutes away from Mr. Darbyshev's office.
+
+<<5027.86;5040.02;en>>
+The last page of this particular document seems to say that his first date of entry onto the system was 1.48 AM on the 14th of December, which
+
+<<5040.02;5041.98;en>>
+is inexplicable.
+
+<<5041.98;5050.18;en>>
+And then there's a second entry showing logging on at 10.10 PM
+
+<<5050.18;5055.38;en>>
+that day, and the session ending three days later.
+
+<<5055.38;5060.58;en>>
+So we have, and that's just one document, if you drill down and look at one document.
+
+<<5060.58;5064.3;en>>
+So we have a series of questions about that.
+
+<<5064.3;5066.88;en>>
+Mr. President, if I may conclude with responding
+
+<<5066.88;5070.98;en>>
+to Judge Joukowska's two questions.
+
+<<5070.98;5086.1;en>>
+First question about why it was important for the authorities to obtain information about President Saakashvili and former Prime Minister Zhvaniya in December 2013.
+
+<<5086.1;5095.46;en>>
+I mean, in some ways, it's of course difficult, if not impossible, for us to speculate on Mr. Barabashvili's behalf as to why he was hauled out
+
+<<5095.46;5098.94;en>>
+and questioned by Mr. Patzkaladze about these issues
+
+<<5098.94;5100.3;en>>
+at that time.
+
+<<5100.3;5103.12;en>>
+It's difficult for us to say.
+
+<<5103.12;5107.7;en>>
+On the other hand, of course, the context is one in which we're talking about Mr. Saakashvili
+
+<<5107.7;5109.42;en>>
+as the head of the UNM.
+
+<<5109.42;5114.42;en>>
+So he is the main political opponent of the authorities.
+
+<<5114.42;5118.76;en>>
+And he was being targeted like the UNM party.
+
+<<5118.76;5124.38;en>>
+Subsequent to this incident, the government made the request to interpol in relation to Mr. Saakashvili.
+
+<<5124.38;5130.02;en>>
+It was, as we said, was rejected in 2015 because it was considered to be political.
+
+<<5130.02;5133.22;en>>
+And Mr. Saakashvili was then first charged
+
+<<5133.22;5135.94;en>>
+in July and August 2014.
+
+<<5135.94;5139.42;en>>
+So he's a target.
+
+<<5139.42;5151.84;en>>
+In relation to former Prime Minister Zhvaniya, this, again, the context anyway, is one in which this was the period in which this government were reinvestigating the circumstances of his death.
+
+<<5151.84;5162.0;en>>
+And as I understand it, there were some prosecutions launched in 2014 after Mr. Rambashvili's removal.
+
+<<5162.0;5174.86;en>>
+On your second question, Judge Yudhkivsky, we could also, it was a question to the government, but if we could also comment briefly in relation to his involvement in the investigation.
+
+<<5174.86;5180.46;en>>
+On a formal, in a formal sense, he has never been recognized as a victim.
+
+<<5180.46;5183.74;en>>
+And therefore, he has had no access to the criminal case file.
+
+<<5183.74;5188.66;en>>
+He's been refused access to the video recordings, as you've seen.
+
+<<5188.66;5195.86;en>>
+And he's only been given information about the investigation after its conclusion in February this year, a month ago.
+
+<<5195.86;5206.34;en>>
+If your question was also, perhaps also, about the extent to which he was involved in the sense of, did the authorities respond appropriately to his complaints?
+
+<<5206.34;5209.1;en>>
+Well, we say no.
+
+<<5209.1;5210.46;en>>
+They didn't.
+
+<<5210.46;5213.7;en>>
+He said he could recognize the room where he was questioned.
+
+<<5213.7;5216.62;en>>
+He said he could recognize the two men who took him in the car.
+
+<<5216.62;5218.82;en>>
+They weren't identified.
+
+<<5218.82;5223.1;en>>
+He said that the two men in the car had mobile phone conversations.
+
+<<5223.1;5225.82;en>>
+They were never traced.
+
+<<5225.82;5231.86;en>>
+His lawyers have made a series of requests for evidence, which has been rebuffed.
+
+<<5231.86;5235.94;en>>
+So we say very clearly that he's not been involved in the process.
+
+<<5235.94;5237.38;en>>
+That concludes our responses.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5238.45;5243.73;en>>
+Thank you very much Mr. Leach. Now Mr. Baramidze, please.
+
+[[Government;GR1]]
+
+<<5252.62;5267.22;en>>
+Let me start with Judge Utkivska's question regarding the effectiveness of investigation and in particular to what extent the applicant was involved in the investigations.
+
+<<5267.22;5272.42;en>>
+If I understood the question correctly, that was the essence of it.
+
+<<5272.42;5276.5;en>>
+Mr. Miravishvili was questioned on two occasions.
+
+<<5277.86;5288.98;en>>
+Firstly, he was questioned under the internal inquiry, which was conducted by the Ministry of Corrections General Inspectorate.
+
+<<5288.98;5299.92;en>>
+And on other occasion, he was also questioned by the Chief Prosecutor's Office when they started investigation.
+
+<<5303.08;5307.42;en>>
+Of course, this is already a very important involvement.
+
+<<5307.42;5316.56;en>>
+However, as I said in my speech, Mr. Miravishvili did not cooperate with investigators,
+
+<<5317.44;5318.6;en>>
+I mean, to a full extent.
+
+<<5318.6;5327.34;en>>
+Yes, he did told his story, his account, what he quote unquote remembered of that event.
+
+<<5327.34;5354.04;en>>
+But actually, as I mentioned, he said that some people were in the car, someone came up to his prison cell, and then he met someone, but he failed to cooperate with the government on specifications of the people and the room where he was allegedly taken and to whom he allegedly met.
+
+<<5355.54;5366.72;en>>
+He did not say how the people in the car, for example, looked like, or what the room where he was allegedly taken looked like.
+
+<<5366.72;5382.2;en>>
+However, if he cooperated in that sense with the government, then the government would have some other opportunities to take investigative measures, for example, to set up identification parade.
+
+<<5382.2;5389.1;en>>
+If Miravishvili would identify people, then that identification parade would make a sense.
+
+<<5389.1;5397.34;en>>
+Otherwise, it would be senseless because the person who supposedly was there should be in the parade.
+
+<<5397.34;5400.28;en>>
+In other words, he never cooperated.
+
+<<5400.28;5407.12;en>>
+And to the extent he did cooperate, to that extent, he was actually involved.
+
+<<5409.92;5414.12;en>>
+Let me also briefly mention about Mr. Juania's case.
+
+<<5414.12;5418.74;en>>
+Of course, nobody asked Mr. Miravishvili
+
+<<5418.74;5430.04;en>>
+the question about Juania at 14th of December 2013 because he never was taken to anybody to talk about this.
+
+<<5430.04;5433.88;en>>
+But to Mr. Miravishvili, there is a huge question
+
+<<5433.88;5437.04;en>>
+and a set of questions regarding Mr. Juania
+
+<<5437.04;5439.82;en>>
+in the whole of Georgian society.
+
+<<5439.82;5447.76;en>>
+And the reason why is that, is that in the morning of Mr. Juania's death,
+
+<<5447.76;5463.5;en>>
+in very, I mean, questionable circumstances, by the way, he was alleged to meet his death for the reason of gas leakage in some, I mean, conspiratory flat or something.
+
+<<5463.5;5467.2;en>>
+And the way how Mr. Miravishvili
+
+<<5467.2;5476.18;en>>
+and his colleague, general prosecutor of that time, Mr. Adesvili, told the story to the whole people of Georgia
+
+<<5476.18;5479.52;en>>
+in the morning in that tragic moment was this.
+
+<<5479.52;5483.22;en>>
+We already proved that Mr. Juania
+
+<<5483.22;5486.06;en>>
+accidentally died of the gas leakage.
+
+<<5486.06;5491.8;en>>
+How did they know in just couple of hours after Mr. Juania's death
+
+<<5491.8;5494.4;en>>
+that there was no murder, for example?
+
+<<5494.4;5506.18;en>>
+It would be very reasonable, I mean, assumption for any investigator, for any officer, including the chief prosecutor and minister of interior.
+
+<<5506.18;5509.32;en>>
+I am not saying that there was a murder.
+
+<<5509.32;5519.56;en>>
+I am, what I'm saying is, why did not they have that suspicion in the morning or in that tragic morning?
+
+<<5519.56;5526.04;en>>
+And that question is very open and unanswered by either Mr. Miravishvili
+
+<<5526.04;5534.04;en>>
+or anybody else from the previous government.
+
+<<5534.04;5545.02;en>>
+Okay.
+
+<<5545.02;5548.72;en>>
+Let me talk about bonuses.
+
+<<5548.72;5580.22;en>>
+And my honorable opponent said in his speech and also later on when he answered the questions and made additional points that as if the prison officials were paid bonuses for thanking, quote-unquote, thanking Miravishvili, I mean them in Miravishvili case, how they worked in Miravishvili case.
+
+<<5580.22;5587.26;en>>
+There is no link between Miravishvili and, I mean, paying bonuses.
+
+<<5587.26;5590.74;en>>
+We are talking about the end of year, in December.
+
+<<5590.74;5608.92;en>>
+In December, usually government pays bonuses, New Year's and Christmas bonuses to employees, especially for law enforcement because they have very hard work to do.
+
+<<5608.92;5624.24;en>>
+And at that time, there were not only those prison officers who served in Miravishvili prison, but those in other prisons as well who got bonuses from the government.
+
+<<5624.24;5631.08;en>>
+The similar amounts of bonuses were dispersed in the same time in December 2013.
+
+<<5631.08;5640.12;en>>
+The prison staff in five other prisons, prison number six, prison number seven, prison number eight, number 15, and number 17.
+
+<<5640.12;5647.46;en>>
+We have already, I mean, provided the relevant materials and it is in the case file.
+
+<<5647.46;5654.16;en>>
+You can check any time that those bonuses were paid to others as well.
+
+<<5654.16;5661.68;en>>
+I don't know why my honorable colleague raised the question about consecutive application of nine months.
+
+<<5661.68;5669.94;en>>
+It is not disputed that no consecutive application of nine months was applied to Mr. Miravishvili.
+
+<<5669.94;5676.38;en>>
+We are talking right now here his case, not the case of anybody else.
+
+<<5676.38;5693.14;en>>
+And as long as the referrals to other cases of high profile, other high profile cases of former government officials are concerned, what they actually prove is the risk of esconding.
+
+<<5693.14;5707.72;en>>
+Because in other cases, many, I mean, high top level officials of Georgia charged with different criminal offenses, including Mr. Saakashvili, former president,
+
+<<5707.72;5712.48;en>>
+including Mr. Adeshvili, the former chief prosecutor,
+
+<<5712.48;5718.16;en>>
+and Mr. Datakhalaya, the closest ally of Mr. Miravishvili,
+
+<<5718.16;5724.34;en>>
+who was also implicated in the Ghergulyani case, which I mentioned in my speech.
+
+<<5724.34;5729.38;en>>
+All those absconded and are still hiding from justice.
+
+<<5729.38;5751.76;en>>
+Why would not then, why would it be unreasonable for an investigator or for the judge to assume that Miravishvili also could abscond by using his fake passport or valid international passports?
+
+<<5751.76;5775.62;en>>
+My honorable colleague raised the question about, again, about Article 18 and said that our submission regarding the inadmissibility of the applicant's claim with respect to the alleged incident of December 14 is inadmissible.
+
+<<5775.62;5783.3;en>>
+He said in reply that Article 18 was raised from the very beginning.
+
+<<5783.3;5802.72;en>>
+Yes, it was raised from the very beginning, but the matter we are talking about, the incident of December 14, 2013, was raised only at the time when the hearing of the case was at the stage of just satisfaction claims.
+
+<<5802.72;5805.82;en>>
+And this is an undeniable fact.
+
+<<5805.82;5809.8;en>>
+Also, as I said in my speech, Mr. Miravishvili,
+
+<<5809.8;5839.92;en>>
+in April, in February, or April 2014, received a letter from the chief prosecutor's office where chief prosecutor told him that the inquiry, the in-depth inquiry of this allegation, was closed because of non-existence of the body of crime.
+
+<<5839.92;5844.02;en>>
+Then Mr. Miravishvili had six months
+
+<<5844.02;5853.2;en>>
+to file the application on this particular event, on this particular allegation, but as I said, he failed to do so.
+
+<<5853.2;5862.94;en>>
+That's why on this event, his claims are inadmissible on account of, I mean, missing the deadline of six months.
+
+<<5862.94;5865.78;en>>
+This is all what I wanted to raise before you.
+
+<<5865.78;5865.78;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5867.87;5871.27;en>>
+Thank you very much, Mr. Baramidze.
+
+<<5871.27;5875.31;en>>
+We have now come to the end of the hearing.
+
+<<5875.31;5881.07;en>>
+I thank the parties for their submissions and answers to the court's questions.
+
+<<5881.07;5884.91;en>>
+The court will now deliberate on the merits.
+
+<<5884.91;5888.23;en>>
+The judgment will be delivered later.
+
+<<5888.23;5891.47;en>>
+The parties will be informed of the date of delivery.
+
+<<5891.47;5893.87;en>>
+I declare the hearing closed.
+

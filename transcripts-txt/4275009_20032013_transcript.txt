@@ -1,0 +1,1563 @@
+[[Announcer;UNK]]
+
+<<14.91;15.51;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<65.77;67.33;fr>>
+Je vous prie de vous asseoir.
+
+<<69.17;77.05;fr>>
+Je déclare ouverte l'audience publique sur le fond de l'affaire del Río Prada contre Espagne.
+
+<<78.89;90.61;fr>>
+L'affaire a été introduite devant la Cour le 3 août 2009 par une ressortissante espagnole, madame Inés del Río Prada, en vertu de l'article 34 de la Convention.
+
+<<91.21;101.17;fr>>
+Elle a été attribuée à la troisième section de la Cour, conformément à l'article 52, paragraphe 1, du règlement de la Cour.
+
+<<103.05;112.33;fr>>
+Le 10 juillet 2012, une chambre de la troisième section a rendu son arrêt dans l'affaire.
+
+<<112.53;129.49;fr>>
+Le 4 octobre 2012, le gouvernement a demandé le renvoi de l'affaire devant la grande chambre, conformément à l'article 43 de la Convention, et cette demande a été acceptée par le collège de la grande chambre le 22 octobre 2012.
+
+<<130.85;146.69;fr>>
+Le gouvernement est représenté par monsieur Francisco Sanz Gandasegui, agent, et monsieur Isaac Salama, agent, ainsi que par monsieur Jaime Requena Juliani et monsieur Javier  Nistal  Burón, conseiller.
+
+<<147.45;169.73;fr>>
+La requérante est représentée par maître Mark Muller QC, maître Sudhanshu Swaroop et maître Michael Ivers, conseiller, ainsi que par maître Amaia Izko, maître Urko Aiartza et maître Didier Rouget, conseiller.
+
+<<171.25;175.85;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<176.93;198.21;fr>>
+Je salue également une délégation du Haut conseil des juges et des procureurs de Turquie, une délégation de la Cour de cassation française, une délégation de juges russes, ainsi qu'une délégation de juges ukrainiens en visite à la Cour européenne des droits de l'homme.
+
+<<199.61;207.33;fr>>
+Ayant consulté l'agent du gouvernement et les représentants de la requérante, j'ai fixé ainsi l'ordre de parole.
+
+<<207.33;217.73;fr>>
+Nous entendrons successivement maître Muller, maître Swaroop, maître Ivers pour la requérante, puis monsieur Salama pour le gouvernement.
+
+<<220.81;233.41;fr>>
+Je dois expliquer qu'en plus de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en espagnol a été autorisée à la demande du gouvernement espagnol.
+
+<<233.41;242.41;fr>>
+En outre, l'interprétation en turc et en russe a été autorisée au profit des groupes de magistrats turcs et russes.
+
+<<242.61;252.41;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<252.41;257.41;fr>>
+La parole est à maître Muller.
+
+[[Applicant;AP3]]
+
+<<261.59;268.17;en>>
+Mr. President, distinguished judges, I will address you briefly on what we say this case
+
+<<268.17;273.69;en>>
+is about and how the applicant meets the government's principal points of appeal.
+
+<<273.69;279.99;en>>
+Mr. Swaroop will then address you on Article 7, followed by Mr. Ivers on Article 5 and
+
+<<279.99;281.89;en>>
+46.
+
+<<281.89;287.41;en>>
+But perhaps I can just start my address with this brief observation.
+
+<<287.41;293.05;en>>
+Mrs. Rio del Prado did not select her final sentence.
+
+<<293.05;295.77;en>>
+It was imposed upon her.
+
+<<295.77;302.85;en>>
+All we ask is that that sentence be implemented in accordance with the rule of law.
+
+<<302.85;305.49;en>>
+Nothing more, nothing less.
+
+<<305.49;310.45;en>>
+There shall be no special pleading on her behalf.
+
+<<310.45;323.33;en>>
+This case concerns the legality of an increase in the length of sentence imposed upon her as a consequence of the so-called Parrot ruling, which redefined the penalty to which her remission applied.
+
+<<323.33;346.01;en>>
+It ruled that remission was to henceforth apply to individual sentences originally imposed upon the applicant, and not to the combined sentence of 30 years that was fixed and notified to her at the end of a sentencing procedure under Articles 72 and 100 of the 1973 Criminal Code, which governed multiple offending.
+
+<<346.01;356.21;en>>
+In doing so, it overturned 30 years of administrative, prison and judicial practice, resulting in the applicant losing nine years' remission without further inquiry.
+
+<<356.21;365.21;en>>
+Unsurprisingly, she appealed to this Court, where the Third Section unanimously concluded that Spain had violated Articles 5 and 7.
+
+<<365.21;382.49;en>>
+The redefinition of the penalty for the purposes of calculating remission led to a retroactive extension in the scope of the penalty, inconsistent with the quality of law which was unforeseeable when the applicant's sentence was combined, fixed and notified to her.
+
+<<382.49;392.25;en>>
+It follows that it is for the Government to demonstrate why this judgment is wrong and involves important points of law that affect the operation of the Convention.
+
+<<392.25;409.45;en>>
+We submit that the Chamber's treatment of the facts and the application of jurisprudence was entirely proper, and that, stripped bare from the surrounding politics, this is a very simple case indeed, albeit one that strikes at the very heart of the rule of law.
+
+<<409.45;415.21;en>>
+What this case is not about is politics or the applicant's political affiliation.
+
+<<415.21;420.13;en>>
+Neither is it about terrorism or the ability of the State to deal with new social realities.
+
+<<420.13;431.81;en>>
+Rather, it is about the universal application of the rule of law and the lawful circumstances in which a State is permitted to deprive a person of his or her liberty.
+
+<<431.81;439.35;en>>
+The applicant's case can be summed up by a single maxim uttered by Thomas Jefferson 240 years ago.
+
+<<439.35;448.29;en>>
+It is more dangerous that even a guilty person be punished without the forms of law that he should escape.
+
+<<448.29;457.45;en>>
+This principle of legality underpins all civilised systems of justice, and it is one that Europe jettisons at its peril.
+
+<<457.45;465.07;en>>
+Article 5 and 7 both prohibit without qualification any form of punishment or infringement of liberty without forms of law.
+
+<<465.07;469.05;en>>
+They stand as a bulwark against State arbitrariness.
+
+<<469.05;479.41;en>>
+The entitlement to be sentenced to a fixed, final and clearly defined legal penalty is a principle that applies in every Member State.
+
+<<479.41;491.21;en>>
+If ever there was a court that was brought into existence to uphold Jefferson's maxim, it is this one, and that is why we commend the section judgment to this court.
+
+<<491.21;495.69;en>>
+The Government's case would appear to have three strands to it.
+
+<<495.69;509.81;en>>
+As regards Article 7, it submits that the Chamber failed to distinguish between penalty and an execution, thereby trespassing upon the right of States to set their own remission and parole policies.
+
+<<509.81;517.85;en>>
+The 2006 ruling, they say, merely clarified the rules relating to remission as opposed to the imposition of a penalty.
+
+<<517.85;522.09;en>>
+Accordingly, Article 7 should never have been invoked.
+
+<<522.09;531.49;en>>
+To that we say, the ruling did not just clarify the rules relating to remission, it redefined the penalty to which those rules applied.
+
+<<531.49;549.71;en>>
+It switched a fixed, combined, notified and unitary term of 30 years' imprisonment to which remission singly applied for eight separate sentences that operated consecutively and to which, as a consequence, remission applied consecutively.
+
+<<549.71;553.31;en>>
+The switch extended the scope of the penalty.
+
+<<553.31;567.89;en>>
+That is why the Chamber held that even if it accepted that the calculation of remission fell outside the scope of Article 7, and I quote, the way in which the provisions of the Criminal Code of 73 were applied went beyond this.
+
+<<567.89;580.33;en>>
+The new means of calculating remission, and I quote, not only concerned the execution of the applicant's sentence, the measure also had a decisive impact on the scope of the sentence imposed.
+
+<<580.33;596.73;en>>
+Mr President, Mr Swarup will develop this point, but it is important to note at the outside that the last sentence in court judicially accumulated all the individual cases together after concluding there was a sufficient nexus between the offences in accordance with the Code.
+
+<<596.73;610.97;en>>
+As a result, it fixed and notified the applicant of a final sentence of 30 years, which the Supreme Court's own 1990 Order identifies as the penalty to which rules concerning execution apply.
+
+<<610.97;625.65;en>>
+Thus, the 2008 ruling against our client either applied remission to a penalty not notified to her when she was finally sentenced, or redefined the penalty retrospectively.
+
+<<625.65;628.89;en>>
+Either way, Article 7 is invoked.
+
+<<628.89;637.93;en>>
+Further, where the penalty and rules relating to execution are so entwined, the first test to apply is the legality test.
+
+<<637.93;648.97;en>>
+The Chamber held the distinction between the scope of the sentence imposed on the applicant and the manner of its execution was not immediately apparent within the meaning of cas caris.
+
+<<648.97;658.05;en>>
+It therefore sought to ascertain whether the penalty was sufficiently clear, ascertainable and foreseeable as to satisfy the quality of law.
+
+<<658.05;670.29;en>>
+The redefined penalty was not foreseeable given the 35-year long administrative and court practice of applying remission to the combined sentences under the 1973 Code.
+
+<<670.29;691.69;en>>
+Thus, while the Chamber agreed with the Government that Spanish law was sufficiently formulated within the meaning of cas caris when the decision to combine the sentences were pronounced, it concluded that it was difficult or even impossible for the applicant to foresee the Supreme Court's departure from precedent.
+
+<<691.69;702.93;en>>
+Boiled down, the Government's case rests upon the assertion that the applicant knew she had to serve the imposed penalties successively in order of severity.
+
+<<702.93;714.21;en>>
+She did not, and could not know, this at the time when she was finally sentenced, even with appropriate legal advice for the reasons set out by the section in its judgment.
+
+<<714.21;723.01;en>>
+Thus, the execution point has little relevance as the measure falls at the first hurdle of not satisfying the quality of law.
+
+<<723.01;734.17;en>>
+Even if it didn't, not one of the cases relied upon by the Government are analogous as the 2008 ruling altered the penalty notified to the applicant.
+
+<<734.17;739.41;en>>
+The complaints about misapplication of case law are therefore erroneous.
+
+<<739.41;745.45;en>>
+More devastatingly, the execution distinction is totally irrelevant to Article 5.
+
+<<745.45;750.77;en>>
+All that need be established is that the infringement of liberty was not prescribed by law.
+
+<<750.77;753.41;en>>
+That is akin to the quality of law test.
+
+<<753.41;762.57;en>>
+The Government's failure to engage with Article 5 is deafening and determinative of the case, irrespective of its points under Article 7.
+
+<<762.57;779.69;en>>
+In conclusion, the imposition of a nine-year imprisonment breached both Articles as remission was either applied to a penalty not previously fixed or notified, or one rendered so unforeseeable by the departure from precedent as to no longer satisfy the quality of law.
+
+<<779.69;792.05;en>>
+Now Mr Sarup will deal evidentially with the Government's argument about the legitimate expectation concerning ETA and the failure to apply for remission.
+
+<<792.05;809.49;en>>
+I simply note that the remission system was not discretionary but applied automatically to all prisoners who came within its terms, and that the test of foreseeability relates to the penalty imposed for the act committed and not to the policy of an armed group towards its execution.
+
+<<809.49;819.81;en>>
+That leaves the allegation that the Chamber improperly interfered with precedent and the ability of the courts to adapt the interpretation to deal with new social realities.
+
+<<819.81;823.21;en>>
+This submission is unsupported by any facts or law.
+
+<<823.21;827.05;en>>
+Left unbounded, it strikes at the very core of the rule of law.
+
+<<827.05;830.01;en>>
+The role of the court is to apply and interpret law.
+
+<<830.01;839.97;en>>
+It is not to adapt the interpretation of previously settled case law to deal with new social realities which society has failed to legislate for.
+
+<<839.97;843.73;en>>
+That is the preserve of the legislature and executive.
+
+<<843.73;857.09;en>>
+In this case, Parliament brought in a new Code in 1995 that abolished remission for multiple offenders but left undisturbed the previous practice for those sentenced under the 1973 Code.
+
+<<857.09;864.77;en>>
+What the parent ruling did was legislate through the back door what the Executive and Parliament failed to do through the front.
+
+<<864.77;869.57;en>>
+The Government cannot point to a single case where a court is permitted to do the same.
+
+<<869.57;875.49;en>>
+In every case it cites, the changes of remission occurred by way of legislative order.
+
+<<875.49;891.97;en>>
+Even if some new social reality existed, by itself this could not justify the reinterpretation of law, so as to apply retrospectively or to breach the Scopala Edict to apply the most lenient sentencing regime.
+
+<<891.97;901.83;en>>
+Even in combating terrorism, the UN 2005 Global Strategy makes clear that measures should not be introduced that breach fundamental principles of justice.
+
+<<901.83;930.41;en>>
+So in conclusion, we say the simple question in this case is whether Spain was entitled to impose an additional nine years of imprisonment on an applicant by retrospectively using original and harsher penalties for the purposes of calculating remission when those penalties were neither foreseeable, fixed or notified to the applicant at the time her individual sentences were combined by the last sentence in court in accordance with the Code.
+
+<<930.41;937.69;en>>
+To that we submit the answer is manifestly no for all the reasons we cite in our addresses and our pleadings.
+
+<<937.69;940.61;en>>
+I call upon Mr Swarup to develop those arguments.
+
+[[JudgeP;Dean Spielmann]]
+
+<<944.33;947.25;en>>
+Thank you Mr. Muller. I give the floor to Mr. Swaroop.
+
+[[Applicant;AP2]]
+
+<<949.04;952.6;en>>
+Mr. President, distinguished judges,
+
+<<952.6;956.36;en>>
+I will address the applicant's claim under Article 7.
+
+<<956.36;959.48;en>>
+I have three points to make.
+
+<<959.48;962.36;en>>
+First, as indicated by Mr. Muller,
+
+<<962.36;970.56;en>>
+the government's case in relation to the penalty execution distinction is, with respect, flawed.
+
+<<970.56;987.46;en>>
+The government argues that there has not been any change to the penalty imposed on the applicant, that the measures at issue concern only rules as to the execution of the penalty, and that, therefore, there was no breach of Article 7.
+
+<<987.46;997.28;en>>
+The issue requires an analysis of Articles 70 and 100 of the Spanish 1973 Criminal Code.
+
+<<997.28;1010.56;en>>
+Article 70, paragraph 2, provided, broadly speaking, that where, as in this case, multiple sentences were imposed, the maximum term to be served was 30 years.
+
+<<1010.56;1014.48;en>>
+Article 100 governed the question of remission.
+
+<<1014.48;1021.88;en>>
+It stated literally that remission was applied only to, I quote, the penalty imposed.
+
+<<1021.88;1029.12;en>>
+The government itself makes this point in paragraph 14 of its submissions.
+
+<<1029.12;1058.0;en>>
+From the time of the applicant's offenses, at the time of her convictions, and at all times thereafter, at least until 2006, it was the practice of the Spanish courts and authorities in the case of multiple offenses to treat the 30-year maximum term under Article 70 as the penalty imposed, and therefore, the penalty to which remission applied under Article 100.
+
+<<1058.0;1065.68;en>>
+That much does not appear to be seriously in dispute, as recorded in paragraph 41 of the section judgment.
+
+<<1065.68;1087.08;en>>
+Quote, the government admitted that prior to the Supreme Court judgment of 2006, it was the practice of the prisons and the courts to consider the 30-year time limit established in Article 70, paragraph 2, as a sort of new independent sentence to which prison benefits should be applied.
+
+<<1087.08;1092.36;en>>
+I also refer to the facts and matters set out in paragraph 23 of our submissions.
+
+<<1092.36;1112.92;en>>
+These include the Supreme Court's own 1990 order, which determined that the combining of sentences under Article 70 concerned not the execution, but the fixing of the sentence, involving, quote, a decision on the final determination of the penalties.
+
+<<1112.92;1130.96;en>>
+I also refer to the Supreme Court's March 1994 judgment, which held in terms that the combined 30-year sentence under Article 70 was, quote, just like a new sentence, resulting from but independent of the others to which prison benefits should be applied.
+
+<<1130.96;1143.92;en>>
+Thus, in this case, on the 30th of November, 2000, the Audencia Nacional notified the applicant that the sentences from her eight separate proceedings were combined under Article 70.
+
+<<1143.92;1149.96;en>>
+And they thereby determined the penalty applicable to her.
+
+<<1149.96;1160.52;en>>
+The 2006 Supreme Court judgment sought to overturn that established practice and sought retrospectively to redefine the concept of penalty.
+
+<<1160.52;1165.48;en>>
+It is instructive to consider the text of that judgment.
+
+<<1165.48;1177.8;en>>
+The Supreme Court considered that the existing practice was contrary to the text of Article 70 and that under Spanish law, it said the combined 30-year term was not the penalty imposed.
+
+<<1177.8;1193.8;en>>
+It reasoned that, quote, from a purely literal point of view, the penalty, pena, and the resulting term of imprisonment to be served, condena, are two different things.
+
+<<1193.8;1201.08;en>>
+The court also considered that the practice was contrary to its understanding as to the purpose of Article 70.
+
+<<1201.08;1225.64;en>>
+It reasoned that, from a teleological point of view, it would not be logical for a copious criminal record to be reduced to a single new sentence of 30 years because that would be to apply Article 70, I quote, in such a way that committing one murder is punished in the same way as committing 200 murders.
+
+<<1225.64;1239.42;en>>
+On this premise, the court concluded that each of the original sentences constituted a separate penalty to be served successively and that remission was to be applied accordingly and not based on the 30-year term.
+
+<<1239.42;1259.34;en>>
+Put another way, and using the language of the cases of the court, such as Utley, the nature of the 2006 Supreme Court judgment, as applied retrospectively to the applicant in 2008, was to redefine the penalty imposed under Article 70.
+
+<<1259.34;1274.52;en>>
+The purpose of that redefinition, as expressed by the Supreme Court itself, was to punish offenders with multiple sentences more severely than they had been punished under the established pre-2006 practice.
+
+<<1274.52;1282.38;en>>
+The effect of that redefinition, as applied to the applicant, was to extend the length of her sentence by nine years.
+
+<<1282.38;1290.48;en>>
+The question for this court is not whether the interpretation of the Spanish court in 2006 was reasonable.
+
+<<1290.48;1300.66;en>>
+The question is whether the Spanish court was entitled to retrospectively adopt that interpretation to increase the punishment of the applicant.
+
+<<1300.66;1306.98;en>>
+Article 7 mandates a resounding no to that question.
+
+<<1306.98;1311.1;en>>
+The second point I have relates to foreseeability.
+
+<<1311.1;1317.42;en>>
+My point is, the concept of foreseeability arises in two distinct senses under the court's case law.
+
+<<1317.42;1324.94;en>>
+And that distinction is overlooked by the government, leading, with respect, to an element of confusion in its analysis.
+
+<<1324.94;1333.26;en>>
+In the first sense, the penalty incurred for an offense must be clearly defined by law, and therefore must be foreseeable.
+
+<<1333.26;1349.56;en>>
+In the second sense, where rules of criminal liability, or as to the penalty incurred, are clarified through judicial interpretation, any such development must itself be consistent with the essence of the offense and must be reasonably foreseeable.
+
+<<1349.56;1361.76;en>>
+The applicant's case is that the reinterpretation of the law in 2006, with its redefinition of the penalty, was a U-turn from the established practice and was not reasonably foreseeable.
+
+<<1361.76;1366.8;en>>
+That is foreseeability in the second sense identified.
+
+<<1366.8;1376.82;en>>
+The applicant's further or alternative case is that the penalty imposed under Spanish law prior to 2006 was never clearly defined and never reasonably foreseeable.
+
+<<1376.82;1379.9;en>>
+That is foreseeability in the first sense.
+
+<<1379.9;1386.18;en>>
+Indeed, on the logic of the government's own case, that conclusion seems irresistible.
+
+<<1386.18;1397.58;en>>
+The government says that prior to 2006, on the one hand, there was a practice, an established practice, to treat the 30-year combined term as akin to a new independent sentence.
+
+<<1397.58;1403.98;en>>
+On the other hand, that practice, it says, was flatly contradictory to the text of Article 70.
+
+<<1403.98;1407.66;en>>
+And what is more, it says, there was no case law on the point.
+
+<<1407.66;1417.38;en>>
+In those circumstances, it's very difficult to see how they can also maintain that prior to 2006, the penalty was clearly defined and reasonably foreseeable.
+
+<<1420.56;1436.46;en>>
+My third point is that the government's case on the facts that the applicant, it says, had no subjective expectation of remission, and that this somehow precludes a breach of Article 7, that that case is bad, both in law and in fact.
+
+<<1436.46;1438.26;en>>
+The point is irrelevant.
+
+<<1438.26;1447.78;en>>
+As I've set out, it is the penalty and the change to the penalty that was not foreseeable, whatever the position in relation to remission.
+
+<<1447.78;1452.08;en>>
+The argument also fails because the foreseeability test is objective.
+
+<<1452.08;1455.54;en>>
+The question is what could have been foreseen, not was what was foreseen.
+
+<<1455.54;1457.14;en>>
+That must be right.
+
+<<1457.14;1463.94;en>>
+One of the purposes of a foreseeability test is to determine whether a penalty is clearly defined by law.
+
+<<1463.94;1473.66;en>>
+If a penalty is not clearly defined in an objective sense, that position cannot be changed depending on the subjective expectations of a particular individual.
+
+<<1473.66;1477.7;en>>
+Finally, the government's point on the facts is also wrong.
+
+<<1477.7;1483.46;en>>
+The government relies heavily on the applicant's failure to appeal the 2001 ruling.
+
+<<1483.46;1487.22;en>>
+But nothing can be inferred from that action.
+
+<<1487.22;1490.26;en>>
+The applicant's entitlement to remission was automatic.
+
+<<1490.26;1502.3;en>>
+And indeed, in 2008, the prison authorities sought to apply the accrued remission and to release her, and but for the 2006 Supreme Court judgment, would have been allowed to do so.
+
+<<1502.3;1521.9;en>>
+The government's other point about alleged control by an alleged etter policy of non-collaboration until 1993 is not supported by a shred of evidence, it is disputed, even though the government is now seeking to change its original position that the alleged policy ran until 2002.
+
+<<1521.9;1527.34;en>>
+And even though that original position was not supported by a shred of evidence.
+
+<<1527.34;1533.36;en>>
+In conclusion, distinguished judges, the applicant's claim under Article VII must succeed.
+
+<<1533.36;1546.82;en>>
+To hold otherwise would be to dilute the protection of the individual against arbitrary punishment, protection which is absolutely and unconditionally guaranteed by Article VII.
+
+<<1546.82;1548.6;en>>
+I will now hand over to Mr. Arquette.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1550.23;1551.95;en>>
+Thank you, Mr. Swaroop.
+
+<<1551.95;1553.95;en>>
+The floor is Mr. Ivers, please.
+
+[[Applicant;AP1]]
+
+<<1554.65;1561.09;en>>
+I'm grateful. As Mr. Muller indicated in his opening, Article 5 wasn't addressed at any
+
+<<1561.09;1573.19;en>>
+length really by the government in its pleadings, notwithstanding the fact that it's actually freestanding of Article 7. Article 5 of course makes clear that a deprivation of liberty
+
+<<1573.19;1587.97;en>>
+can only take place in accordance with a procedure prescribed by law, and that's to be narrowly interpreted as was stated in Van der Leer. The exception upon the applicant's case is
+
+<<1587.97;1596.77;en>>
+Article 5.1a, quote, the lawful detention of a person after conviction by a competent
+
+<<1596.77;1605.37;en>>
+court. In Emmen, Germany it was stated, compliance with national law is not however sufficient.
+
+<<1605.37;1611.81;en>>
+Article 5.1 requires in addition that any deprivation of liberty should be in keeping
+
+<<1611.81;1618.93;en>>
+with the purpose of protecting the individual from arbitrariness. And arbitrariness is precisely
+
+<<1618.93;1625.33;en>>
+what has been visited upon this applicant. When you consider firstly the realities of
+
+<<1625.33;1641.69;en>>
+what amounts to shifting sands concerning the critical issue of her remission and consequent, we say, arbitrary deprivation of her liberty. We assert, as you've heard, that the redefinition
+
+<<1641.69;1649.81;en>>
+of the penalty and the resultant extension in its scope infringes Article 5 as set out.
+
+<<1649.81;1658.37;en>>
+It lacked legality for all the reasons previously cited. Moreover, and independently, the failure
+
+<<1658.37;1679.77;en>>
+to grant the remission to which she was entitled in law or the lack of legality in respect of its application infringes Article 5, independent of any considerations concerning the penalty execution dichotomy. Whilst Article 5, paragraph 1 doesn't guarantee a prisoner's early
+
+<<1679.77;1692.09;en>>
+release, it has been found to guarantee such release, whereas here there's no discretionary element in relation to the remission. And in this regard, it's irrelevant whether it
+
+<<1692.09;1699.93;en>>
+be termed a penalty or an execution. In Grava, the applicant's vote, his arguments under
+
+<<1699.93;1720.21;en>>
+Article 7 were rejected on the penalty execution dichotomy, but the Court still found an infringement of Article 5 since, quote, the Italian judicial authorities enjoy no discretion but are forced to apply the remission to the extent provided by law. Thus, the failure to grant the remission
+
+<<1720.21;1732.25;en>>
+to which she was entitled by law amounted without more, we say, to an infringement of Article 5. The Government wholly ignore this. They submit in paragraph 83 that the
+
+<<1732.25;1744.81;en>>
+section judgment indicated that an infringement of Article 5 was dependent on an infringement of Article 7, that they stand or fall together, and that just misstates the judgment. I just
+
+<<1744.81;1751.77;en>>
+ask you to look at it. It does no such thing. In particular, the Government fail to recognise
+
+<<1751.77;1771.33;en>>
+that even if they were correct in their penalty execution dichotomy about which much of their pleadings concern, concerning Article 7, this wouldn't affect Article 5, since remission decisions clearly concern questions of liberty, as Graver makes emphatically clear.
+
+<<1771.33;1778.09;en>>
+What quality must the law have in relation to Article 5? Amour and France, quality of
+
+<<1778.09;1799.25;en>>
+law in this sense implies that where a national law authorises deprivation of liberty, it must be sufficiently accessible, precise and foreseeable in its application in order to avoid all risk of arbitrariness. Moreover, as the section judgment made clear, paragraph
+
+<<1799.25;1815.25;en>>
+74, in relation specifically to Article 5, the question is not what's foreseeable at the time the offence was committed, as the Government contend, but what was reasonably foreseeable at the time the offences were consolidated and notified to the applicant.
+
+<<1815.25;1838.53;en>>
+Where there's a system in place, as there is in Spain, to consolidate the sentences, where there's a nexus between the offences, it's wholly artificial just to ignore the actual operation of the criminal justice system concerning multiple offending, which was well-defined and refined in Spain at that time and now. As the section judgment relying on previous
+
+<<1838.53;1859.09;en>>
+jurisprudence states concerning Article 5, the Court must also verify that the effective duration of the deprivation of liberty, taking account of the applicable rules on remission of sentence, was sufficiently foreseeable for the applicant. How could she have foreseen,
+
+<<1859.09;1900.49;en>>
+even with the assistance of legal advice, that the Supreme Court would redefine the penalty, effectively abolish the whole concept of remission for prisoners serving multiple sentences, the inevitable mathematical reality, just do the maths, would depart from its own practice of applying remission to the consolidated sentences, see 1994 and the 2005 judgments, referred to in the three dissenting judgments in Parrot, or that the legal and administrative practice of 30 years would be abandoned, not simply going forward, but retrospectively, 30 years of certainty? How can legality be sustained in those circumstances?
+
+<<1900.49;1912.33;en>>
+From the government's own argument, there are two sets of penalties coexisting upon which remission could attach. Any justice system that plays cat and mouse with a prisoner
+
+<<1912.33;1920.97;en>>
+in this way offends legality. The essence of Article 5 concerns legal clarity. The evil
+
+<<1920.97;1926.73;en>>
+it seeks to cure is procedural and legal. Where there is no certainty, arbitrary power
+
+<<1926.73;1931.69;en>>
+prospers. And the government, in the end, are left to assert, as remarkably they do
+
+<<1931.69;1943.69;en>>
+when it's boiled down, firstly, that she wouldn't have foreseen any remission applying to her, notwithstanding all of the above indications that it would. Any lawyer, such as myself,
+
+<<1943.69;1956.81;en>>
+practicing criminal law, will tell you that any client is going to ask, what does it effectively mean in terms of when I will be released? And they secondly suggest that she should
+
+<<1956.81;1985.97;en>>
+somehow have foreseen that the ruling in 2006 would jettison all the national jurisprudence and administrative practice that applied for 30 years until then, and replace it with a scheme, when you really think about it, that involves performing literally thousands of years' work to obtain any realistic reduction on the two for one. It sounds Kafkaesque.
+
+<<1985.97;1993.13;en>>
+Effectively remission was abolished for prisoners such as her. I turn to Article 46. It's
+
+<<1993.13;2003.45;en>>
+now well established that, exceptionally, in order to assist a state fulfilling its obligations under Article 46, the court can indicate the type of measure. If there is
+
+<<2003.45;2009.53;en>>
+realistically only one measure, that is a ground for recommending that measure. But
+
+<<2009.53;2027.89;en>>
+for the decision of the Supreme Court in 2006, the applicant would have been released in July 2008. That, fundamentally, is the submission of the government. There's no middle ground.
+
+<<2027.89;2039.09;en>>
+In relation to the integrity of the government's submission concerning the Parrott Doctrine, it requires nothing less than a recommendation of her release. It's either right or it's
+
+<<2039.09;2040.69;en>>
+wrong.
+
+<<2040.69;2045.69;en>>
+Let me deal with two points the government makes straight away. Firstly, they say that
+
+<<2045.69;2056.41;en>>
+the cases relied upon by the court in the chamber concerning Article 46 are qualitatively different to this case. That's simply not the case. The Grand Chamber in Adnansi found
+
+<<2056.41;2063.73;en>>
+a violation of 5.1 and continued deprivation of liberty, but said that the unenforced presidential
+
+<<2063.73;2069.41;en>>
+pardon led to them making that recommendation that it be applied. I'll be just one minute
+
+<<2069.41;2071.41;en>>
+more and I'll finish.
+
+<<2071.41;2083.97;en>>
+Secondly, they note that no such order was made in other cases cited, but in Emmen, Germany, it wasn't asked for. In Kafkaris, in actual fact, there was still a parole system in place.
+
+<<2083.97;2093.13;en>>
+The life sentence by the very ruling had still remained, and a glance at the other cases shows that they're far from qualitatively different.
+
+<<2093.13;2110.17;en>>
+And so the applicant has served the lawful period of detention which, in its wisdom, the Spanish state passed upon her. Regret, Mr. President, is a wonderful thing, but it
+
+<<2110.17;2119.49;en>>
+has no place in law. Since 1215, Magna Carta, a fundamental protection against arbitrary
+
+<<2119.49;2127.61;en>>
+power, has been the writ of habeas corpus which demands of the state, bring me the body.
+
+<<2127.61;2135.85;en>>
+And that's all we ask. The government suggests no alternative remedy, but its silence speaks
+
+<<2135.85;2144.61;en>>
+volumes. And if we hear anything at all, it's just the faint tap-tap of liberty knocking
+
+<<2144.61;2152.65;en>>
+on a door of the state which itself chose the time of its opening. It's nothing more
+
+<<2152.65;2158.69;en>>
+or less than that. A straightforward case, we submit. Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2161.51;2162.99;fr>>
+Thank you very much, Mr. Ivers.
+
+<<2162.99;2167.99;fr>>
+La parole est à M. Salama, s'il vous plaît.
+
+[[Government;GR2]]
+
+<<2173.9;2189.3;es>>
+Señor Presidente, señoras y señores jueces del Tribunal, Es igual uno que 132. Es igual un asesinato que 132 asesinatos.
+
+<<2189.3;2211.04;es>>
+La sentencia del Tribunal Supremo Español de 28 de febrero de 2006 dijo que no podía darse el mismo tratamiento penitenciario a quien ha cometido un asesinato que a quien ha cometido 200. Son 200 el número de delitos de asesinato por los que fue condenado Parot
+
+<<2211.04;2220.06;es>>
+en el caso que resolvió la sentencia de 2006. Sin embargo, la aplicación de la doctrina
+
+<<2220.06;2235.86;es>>
+de la sección que aquí recurrimos supone que un asesinato reciba el mismo tratamiento penitenciario que los 132 delitos de asesinato por los que fue condenada la demandante. 24
+
+<<2235.86;2245.2;es>>
+consumados y 108 en grado de tentativa. Señoras y señores, el Gobierno de España
+
+<<2245.2;2266.42;es>>
+pide la revisión de la sentencia de la sección porque es contraria al convenio y a la reiterada jurisprudencia del Tribunal Europeo de Derechos Humanos en la interpretación de los artículos 7 y 5 del convenio. Para la comprensión de este caso comenzaremos
+
+<<2266.42;2273.58;es>>
+por hacer referencia al derecho español vigente al tiempo de los hechos. En relación con
+
+<<2273.58;2299.54;es>>
+la determinación de la pena y el límite de cumplimiento, la demandante en sus alegaciones ante esta gran sala trata de confundir al tribunal sobre el concepto de pena en el Código Penal de 1973, vigente al tiempo de los hechos. Sin embargo, el derecho penal español es
+
+<<2299.54;2306.12;es>>
+clarísimo. La determinación de la pena no se hace en las tres fases a que se refiere
+
+<<2306.12;2312.1;es>>
+la demandante en sus alegaciones ante esta gran sala. No se hace así ni en España ni
+
+<<2312.1;2320.14;es>>
+en ningún otro sitio. El Código Penal de 1973, como cualquier otro Código Penal, fija
+
+<<2320.14;2329.3;es>>
+penas en abstracto. Los tribunales sentenciadores fijan la pena en concreto valorando la gravedad
+
+<<2329.3;2337.82;es>>
+de los hechos. Esta es la pena. Nadie ha discutido que los delitos y las penas del Código Penal
+
+<<2337.82;2355.66;es>>
+de 1973 fueran bien claros, ni que estuvieran igualmente claras las penas impuestas por los 132 delitos de asesinato por los que fue condenada la demandante. En derecho penal
+
+<<2355.66;2372.92;es>>
+español, ya desde el Código Penal de 1870 y hasta el vigente, se prevé que cuando se cometen varios delitos se imponen varias penas. Todos los códigos penales han especificado
+
+<<2372.92;2391.7;es>>
+que las múltiples penas deben cumplirse sucesivamente por orden de gravedad hasta llegar a un límite máximo de cumplimiento. Este límite en el Código Penal de 1973 era de 30 años y en
+
+<<2391.7;2401.78;es>>
+el vigente Código Penal es de 40 años para delincuentes como la demandante. Llegado el
+
+<<2401.78;2420.58;es>>
+límite máximo de cumplimiento y solo entonces se dejan extinguir todas las penas que queden por cumplir. Así lo dice literalmente el artículo 70 del Código Penal de 1973, penas
+
+<<2420.58;2427.98;es>>
+que por lo tanto subsisten hasta el momento en que llega el límite de cumplimiento.
+
+<<2427.98;2444.74;es>>
+Por tanto, en derecho penal español no existe ninguna duda de que por pena se entienden las múltiples penas impuestas por los delitos cometidos. Así, las formas de extinción
+
+<<2444.74;2454.34;es>>
+de la pena se aplican a cada una de las penas impuestas y no al límite de cumplimiento.
+
+<<2454.34;2467.44;es>>
+Tampoco existe un plazo de cancelación de antecedentes penales del límite de cumplimiento, sino de las penas impuestas. La prescripción opera sobre cada una de las penas impuestas
+
+<<2467.44;2475.66;es>>
+y no sobre el límite de cumplimiento. Y, en fin, el indulto se aplica sobre cada una
+
+<<2475.66;2482.66;es>>
+de las penas y no sobre el límite de cumplimiento. Por lo tanto, en derecho penal español nunca
+
+<<2482.66;2495.14;es>>
+ha existido una pena agregada cuando se cometen múltiples delitos, sino que han existido tantas penas como delitos. Todo esto está claro en el derecho penal
+
+<<2495.14;2503.58;es>>
+español desde 1870. Lo decimos porque la demandante trata de confundir al tribunal
+
+<<2503.58;2511.76;es>>
+sobre una cuestión bien clara. En cuanto a la ejecución de la pena, la redención
+
+<<2511.76;2520.38;es>>
+de penas por el trabajo se regulaba en el artículo 100 del Código Penal de 1973. Está
+
+<<2520.38;2528.06;es>>
+transcrito en el párrafo 20 de la sentencia del Río. La naturaleza y finalidad de esta
+
+<<2528.06;2555.7;es>>
+medida era exclusivamente permitir el adelantamiento de la puesta en libertad antes de cumplir las penas impuestas de los condenados que hubieran mostrado, con su conducta en prisión, una actitud favorable a la reinserción. Desde este momento debe quedar claro que,
+
+<<2555.7;2571.5;es>>
+en este caso, no se ha prolongado ni un solo día la pena impuesta a la demandante ni el límite de cumplimiento. Señoras y señores, aquí únicamente estamos
+
+<<2571.5;2585.74;es>>
+discutiendo sobre el cómputo del trabajo y la buena conducta durante la ejecución de la pena. Señoras y señores, la cuestión es, por
+
+<<2585.74;2603.02;es>>
+tanto, si el Tribunal ha decidido ampliar el ámbito del artículo 7 a la ejecución de la pena. Dicho de otro modo, la pregunta que han de responder es si el Tribunal Europeo
+
+<<2603.02;2619.46;es>>
+de Derechos Humanos ha decidido convertirse en juez de cómo los Estados aplican los permisos carcelarios, la libertad condicional y los demás beneficios penitenciarios. Si la respuesta
+
+<<2619.46;2626.86;es>>
+es no, este caso está resuelto. No puede haber violación ni del artículo 7 ni del
+
+<<2626.86;2633.78;es>>
+artículo 5. La sentencia de la sección, dicho con todos
+
+<<2633.78;2646.02;es>>
+los respetos, se equivoca al decir que la sentencia de 2006 aplica retroactivamente el espíritu de las reformas de 2003. Basta con una simple lectura de la sentencia de
+
+<<2646.02;2667.78;es>>
+2006, transcrita en el párrafo 27 de la sentencia del Río, para ver que todos sus razonamientos se refieren a la correcta interpretación de preceptos del Código Penal de 1973 vigentes al tiempo de los hechos. Si se hubiera hecho una aplicación retroactiva
+
+<<2667.78;2683.98;es>>
+de la reforma de 2003, la demandante hubiera tenido que cumplir sus penas hasta el límite máximo de 40 años, cosa que no ha ocurrido. Como señaló la sentencia del Tribunal Supremo
+
+<<2683.98;2701.26;es>>
+de 2006, el cómputo de la redención de penas sobre el límite máximo de cumplimiento supondría dar el mismo tratamiento penitenciario a quien comete un asesinato que a quien comete 200.
+
+<<2701.26;2720.72;es>>
+Nadie podría entender esta equiparación, por supuesto mucho menos las víctimas, y no se entendería porque sería incompatible con los principios más básicos que compartimos todos los Estados que hemos firmado el convenio.
+
+<<2720.72;2737.74;es>>
+Quiero destacar la enorme autoritas que tiene la sentencia de 2006, adoptada por el Pleno de la Sala de lo Penal del Tribunal Supremo Español, formada por 15 jueces. La jurisprudencia
+
+<<2737.74;2754.06;es>>
+de esta sentencia ha sido confirmada por más de 25 sentencias del Pleno del Tribunal Constitucional Español, integrado por 11 jueces. El Tribunal Constitucional Español, en sus sentencias,
+
+<<2754.06;2769.68;es>>
+citó extensamente y aplicó la jurisprudencia de este Tribunal Europeo de Derechos Humanos, ante el que tenemos el honor de comparecer, en la distinción entre pena y su cumplimiento.
+
+<<2769.68;2778.74;es>>
+Conforme con esa jurisprudencia, concluyó que no había ninguna vulneración ni del artículo 7 ni del artículo 5 del convenio.
+
+<<2778.74;2789.62;es>>
+A continuación, veremos cómo este derecho se ha aplicado a nuestro caso. La demandante
+
+<<2789.62;2796.42;es>>
+fue condenada en ocho procesos distintos, apenas que sumaban más de 3.000 años de
+
+<<2796.42;2806.58;es>>
+prisión por 132 delitos de asesinato, entre otros delitos. Los delitos los cometió entre
+
+<<2806.58;2818.7;es>>
+1982 y 1987, año en que fue detenida cuando preparaba nuevos atentados. La demandante
+
+<<2818.7;2834.82;es>>
+fue condenada por aplicación del Código Penal de 1973, vigente al tiempo de los hechos, y que definía con total claridad los delitos y las penas. Esta cuestión no ha sido discutida,
+
+<<2834.82;2842.46;es>>
+como reconoce la sentencia del Río en el párrafo 49. Tampoco se ha discutido que las
+
+<<2842.46;2849.9;es>>
+penas se impusieron en procesos justos con todas las garantías. En cinco de las ocho
+
+<<2849.9;2873.46;es>>
+sentencias, precisamente en las que fue condenada por los delitos más graves, la demandante fue expresamente informada de que cumpliría las penas impuestas hasta el límite de 30 años. En 2000, la Audiencia Nacional dictó un auto por el que se volvió a informar a
+
+<<2873.46;2881.5;es>>
+la demandante de que cumpliría las penas impuestas hasta llegar a los 30 años. Por
+
+<<2881.5;2901.86;es>>
+auto de 15 de febrero de 2001, la Audiencia Nacional fijó con exactitud la fecha de puesta en libertad y la fijó el 27 de junio de 2017. Esta resolución, a que omite hacer referencia
+
+<<2901.86;2925.98;es>>
+a la demandante y la sentencia de la sección, es de extraordinaria importancia, dado que en ella se informa a la demandante que va a cumplir 30 años de prisión y se fija con exactitud su fecha de puesta en libertad en 2017. El auto notificado a la demandante no
+
+<<2925.98;2934.86;es>>
+fue recurrido por esta. En 2001, la demandante tenía reconocidos cuatro años de redención
+
+<<2934.86;2941.62;es>>
+de penas. Si hubiera tenido alguna expectativa de que se aplicara la redención sobre el
+
+<<2941.62;2959.1;es>>
+límite máximo de cumplimiento, habría recurrido una resolución que fijaba su puesta en libertad en 2017, después de cumplir 30 años de prisión. No lo hizo y aceptó que se fijara en firme
+
+<<2959.1;2968.02;es>>
+su fecha de puesta en libertad en 2017. En España, las decisiones sobre ejecución
+
+<<2968.02;2976.42;es>>
+de la pena corresponden en exclusiva a los jueces. Los centros penitenciarios solo tienen
+
+<<2976.42;2985.66;es>>
+la facultad de hacer una propuesta al juez, que es quien decide. En 2008, el centro penitenciario
+
+<<2985.66;2998.42;es>>
+donde estaba la demandante erróneamente propuso a la audiencia su puesta en libertad en ese año. La audiencia nacional, que era quien tenía que decidir, no aprobó la errónea
+
+<<2998.42;3007.46;es>>
+propuesta, fijó como fecha de puesta en libertad el 27 de junio de 2017. Es decir, exactamente
+
+<<3007.46;3014.78;es>>
+la misma fecha fijada ya por el auto firme de 2001.
+
+<<3014.78;3031.26;es>>
+Por tanto, desde el primer momento la demandante fue formalmente notificada de que cumpliría las penas impuestas hasta el límite de 30 años y que saldría en libertad en 2017.
+
+<<3031.26;3047.02;es>>
+En todas las resoluciones judiciales se dijo lo mismo, que la demandante saldría en libertad en 2017. Así de clara estaba la cuestión, también para la demandante que no recurrió
+
+<<3047.02;3055.3;es>>
+el auto de 2001 que fijó su puesta en libertad en 2017.
+
+<<3055.3;3077.5;es>>
+La actuación de España se ha ajustado plenamente a la jurisprudencia del Tribunal Europeo de Derechos Humanos en la aplicación de los artículos 7 y 5 del convenio, como veremos a continuación. De acuerdo con toda esa jurisprudencia, a que ha omitido hacer referencia la demandante,
+
+<<3077.5;3094.02;es>>
+singularmente la de esta gran sala, no existe ninguna duda de que la forma de cómputo de la redención de penas por el trabajo se refiere a la ejecución y no a la determinación de la pena.
+
+<<3094.02;3105.1;es>>
+Caso Cáscaris contra Chipre. El caso se refiere a una persona condenada en 1989 a cadena perpetua.
+
+<<3105.1;3120.34;es>>
+En esas fechas las normas penitenciarias establecían que esas penas se cumplían como 20 años de prisión. El demandante fue informado cuando ingresó en prisión de que saldría en libertad
+
+<<3120.34;3129.86;es>>
+en 2002. En 1996 se reforma la ley penitenciaria y el demandante no fue puesto en libertad
+
+<<3129.86;3137.34;es>>
+en 2002, sino que debió cumplir íntegramente la reclusión a perpetuidad.
+
+<<3137.34;3157.5;es>>
+La gran sala señaló que cuando la naturaleza y finalidad de una medida está relacionada con la remisión de una pena o con el cambio en el régimen para adelantarla puesta en libertad, esa medida no forma parte de la pena en el sentido del artículo 7. Afirma
+
+<<3157.5;3174.5;es>>
+la gran sala literalmente que, aunque esos cambios en la legislación penitenciaria han endurecido las condiciones de prisión del demandante, los cambios no pueden considerarse como imposición de una pena más grave que la impuesta por el tribunal sentenciador.
+
+<<3174.5;3190.62;es>>
+El tribunal reitera que las cuestiones relativas a las políticas de puesta en libertad forman parte del poder de los Estados para determinar su propia política penitenciaria.
+
+<<3190.62;3203.12;es>>
+Caso Hockben contra el Reino Unido El caso se refería a un condenado a cadena perpetua. En el momento de cometer los delitos se concedía la libertad condicional por buena
+
+<<3203.12;3218.86;es>>
+conducta y el demandante, en virtud de esta norma, estaba clasificado para salir en libertad en un año. Sin embargo, justo antes de ser liberado, el ministro del Interior, en un
+
+<<3218.86;3241.66;es>>
+discurso ante la Cámara de los Comunes, afirmó que era necesario estar atento a las críticas crecientes del público en relación con la diferencia entre la duración de la pena impuesta y la efectivamente cumplida. Por ello, el ministro impuso un mínimo de
+
+<<3241.66;3249.98;es>>
+20 años de prisión para poder acceder a la libertad condicional. La Comisión constató
+
+<<3249.98;3263.94;es>>
+que la modificación en la política penitenciaria hacía más rigurosa la pena a cumplir, pero que era una cuestión relativa a la ejecución de la pena y no a la pena misma. La Comisión
+
+<<3263.94;3285.46;es>>
+señala que el repentino giro en materia de libertad condicional, que puso fin a las esperanzas del demandante de una pronta liberación, es una cuestión que corresponde al amplio poder de apreciación de los Estados para definir su política penitenciaria.
+
+<<3285.46;3294.02;es>>
+Caso Utley contra el Reino Unido. Por una reforma legal aplicada retroactivamente, el
+
+<<3294.02;3301.3;es>>
+tribunal dio doblado el tiempo de prisión necesario para acceder a la libertad condicional.
+
+<<3301.3;3313.5;es>>
+El tribunal reconoce que esta ampliación al doble del tiempo de prisión puede ser considerada onerosa, pero no forma parte de la pena en el sentido del artículo 7. El
+
+<<3313.5;3319.02;es>>
+tribunal declaró inadmisible la demanda por falta de fundamento.
+
+<<3319.02;3327.02;es>>
+Revisamos estos tres casos a título de ejemplo. En todas las demás sentencias, el tribunal
+
+<<3327.02;3335.58;es>>
+ha reiterado la misma jurisprudencia. Señoras y señores, en definitiva, en el caso
+
+<<3335.58;3353.28;es>>
+Cáscaris, por una reforma legal aplicada retroactivamente, el demandante pasó de cumplir 20 años de prisión a cadena perpetua. En Utley, una reforma legal aplicada retroactivamente
+
+<<3353.28;3360.7;es>>
+dobló el tiempo de prisión necesario para acceder a la libertad condicional. En Hockben,
+
+<<3360.7;3376.58;es>>
+bastó una declaración del ministro del Interior para que se pasara de cero a 20 años de prisión por requisito para acceder a la libertad condicional. En todos estos casos, el tribunal entendió
+
+<<3376.58;3382.3;es>>
+que estábamos en el ámbito de la ejecución y no de la pena.
+
+<<3382.3;3387.58;es>>
+En el caso del Río, no ha habido reforma legal que se haya aplicado retroactivamente.
+
+<<3387.58;3411.02;es>>
+Ha habido una sentencia del Tribunal Supremo, confirmada por 25 sentencias del Tribunal Constitucional, que ha establecido jurisprudencia sobre cómo deben interpretarse las normas vigentes al tiempo de los hechos relativas a la ejecución de las penas impuestas.
+
+<<3411.02;3424.9;es>>
+En España no puede entender por qué en este caso la sección se ha apartado de la jurisprudencia del Tribunal Europeo de Derechos Humanos. Sobre el cambio en la práctica que produjo
+
+<<3424.9;3449.74;es>>
+la sentencia de 2006, y contestando a la demandante, quiero señalar al tribunal que, por supuesto, en el caso Cáscaris, en el caso Hopkins y en el caso Utley también hubo un cambio en estos casos de legislación. Había casos anteriores que tenían derecho a salir en libertad antes
+
+<<3449.74;3464.94;es>>
+de las penas, y, sin embargo, el cambio fue considerado por el tribunal que no estaba dentro del ámbito del artículo 7 del convenio. En cada una de sus sentencias, este tribunal
+
+<<3464.94;3474.98;es>>
+europeo ha reiterado los criterios para distinguir entre pena y su ejecución. Aplicando estos
+
+<<3474.98;3482.86;es>>
+criterios a la redención de penas por el trabajo, el resultado es siempre el mismo.
+
+<<3482.86;3489.38;es>>
+Estamos ante una medida relativa a la ejecución de la pena. La redención de penas no se impone
+
+<<3489.38;3502.9;es>>
+en la sentencia condenatoria, sino que resulta de la conducta del interno durante el cumplimiento de las penas. El propósito de la medida es permitir el adelantamiento de la fecha de
+
+<<3502.9;3510.5;es>>
+puesta en libertad antes de cumplir las penas impuestas. El procedimiento para su otorgamiento
+
+<<3510.5;3516.9;es>>
+es el típico de una medida de ejecución. La remisión de penas por el trabajo nunca
+
+<<3516.9;3533.94;es>>
+puede suponer el alargamiento de las penas impuestas, que se mantienen exactamente igual que como las fijó el juez sentenciador. La sentencia del Río erróneamente considera
+
+<<3533.94;3547.42;es>>
+que la jurisprudencia de la sentencia de 2006 supuso un incremento en el tiempo de prisión que la demandante debía cumplir. Este, con todos los respetos, es un grave
+
+<<3547.42;3555.34;es>>
+error. El método de cálculo de la redención no alteró ni las penas impuestas ni el límite
+
+<<3555.34;3562.54;es>>
+máximo de cumplimiento, que desde el primer momento permanecieron exactamente iguales.
+
+<<3562.54;3575.86;es>>
+La demandante está cumpliendo las penas impuestas en sentencias firmes hasta el límite de 30 años que fijaba el Código Penal de 1973. Tal y como se le informó en las propias sentencias
+
+<<3575.86;3584.7;es>>
+condenatorias, en el auto de 2000 y en el auto firme de 2001. Este auto precisó que
+
+<<3584.7;3592.54;es>>
+el 27 de junio de 2017 sería la fecha de puesta en libertad de la demandante. Y la
+
+<<3592.54;3599.94;es>>
+demandante estuvo de acuerdo con este auto, ya que no lo recurrió. Por tanto, no ha habido
+
+<<3599.94;3614.42;es>>
+un alargamiento de las penas impuestas, que han permanecido exactamente las mismas que se impusieron en las sentencias condenatorias. En relación con la previsibilidad, también
+
+<<3614.42;3622.82;es>>
+aquí la sentencia de la sección se aparta de la jurisprudencia previa del tribunal.
+
+<<3622.82;3636.14;es>>
+Nunca la jurisprudencia de este tribunal ha extendido el requisito de la previsibilidad a la forma en que se aplica una medida de ejecución de la pena. La previsibilidad solo
+
+<<3636.14;3644.58;es>>
+se ha extendido a los delitos y a las penas. ¿O es que en el momento de cometer sus delitos
+
+<<3644.58;3664.22;es>>
+la delincuente puede prever el adelantamiento de la libertad condicional, el otorgamiento de permisos carcelarios, el otorgamiento de un régimen de cumplimiento en semilibertad, el otorgamiento de indultos o de redenciones por buenas conductas?
+
+<<3664.22;3671.9;es>>
+Al tiempo de cometer los delitos, estas circunstancias son rigurosamente imprevisibles. Esto es así
+
+<<3671.9;3680.46;es>>
+en España y en cualquier otro país, y así lo ha entendido siempre la gran sala. Además,
+
+<<3680.46;3695.38;es>>
+la sección impone a España una concepción del precedente, típico del common law, pero totalmente ajeno al sistema continental que rige en España. En el sistema español los
+
+<<3695.38;3703.3;es>>
+tribunales pueden apartarse motivadamente del precedente, como hizo la sentencia de 2006.
+
+<<3703.3;3716.66;es>>
+La sección entendemos que no ha respetado aquí el margen de apreciación del Estado en la aplicación del convenio, que debe hacerse con respeto a cada sistema jurídico. ¿Es
+
+<<3716.66;3731.62;es>>
+que acaso no es función del Tribunal Supremo de un país corregir una interpretación errónea de la ley que realizan los tribunales inferiores? Si no se le permite ejercer esta función,
+
+<<3731.62;3738.06;es>>
+¿en qué queda el papel del Tribunal Supremo como máximo intérprete de la ley? ¿Debe
+
+<<3738.06;3754.94;es>>
+el Tribunal Supremo aceptar sin más una práctica errónea y manifiestamente injusta, simplemente porque se ha aplicado antes? Sencillamente no. El Tribunal Supremo puede y debe corregir
+
+<<3754.94;3776.66;es>>
+una interpretación de la ley errónea, radicalmente injusta y que se aparta del texto de la norma, en una cuestión que además se refiere a la forma de ejecución de la pena y no a las penas impuestas, que fueron siempre las mismas. En la sentencia Estrelles, Kessler y Krenz
+
+<<3776.66;3806.14;es>>
+contra Alemania, la Gran Sala declaró que no vulneraba el artículo 7 del convenio, un radical cambio de jurisprudencia, realizado mucho después de los hechos, y que recaía sobre la interpretación de lo que era y no era delito, ya que la Gran Sala aprecia que la nueva interpretación era más consistente con el espíritu de la ley. Si esto es así
+
+<<3806.14;3818.58;es>>
+para la interpretación de lo que es delito, ¿cómo el Tribunal Supremo no va a poder interpretar las normas relativas a la ejecución de la pena? Sentando una interpretación más
+
+<<3818.58;3822.62;es>>
+razonable y coherente con el texto de la ley aplicada.
+
+<<3822.62;3838.06;es>>
+Por último, la sentencia del Río comete un error al fijar la fecha en que debe hacerse el juicio de previsibilidad. El principio de legalidad se construye para que el delincuente,
+
+<<3838.06;3850.02;es>>
+cuando comete los hechos, pueda conocer si son constitutivos de delito y la pena que la ley fija para estos delitos. El momento relevante, por lo tanto, para que la demandante
+
+<<3850.02;3859.54;es>>
+pudiera hacer su previsión es entre 1982 y 1987. En esas fechas no existía ninguna
+
+<<3859.54;3874.74;es>>
+resolución del Tribunal Supremo que pudiera hacer albergar esperanzas a la demandante de que se aplicara la redención sobre el límite máximo y no sobre las penas impuestas.
+
+<<3874.74;3887.58;es>>
+Las expectativas que puedan generarse a posteriori durante el cumplimiento de las penas carecen de toda relevancia a efectos del artículo 7 o del artículo 5 del convenio. Nuevamente,
+
+<<3887.58;3894.1;es>>
+únicamente se refieren a medidas de ejecución de la pena y no a la pena misma. En relación
+
+<<3894.1;3910.74;es>>
+con el artículo 5 del convenio, la sentencia del Río consideró vulnerado este artículo únicamente como consecuencia de la vulneración del artículo 7. Lea en el párrafo 74 de
+
+<<3910.74;3917.5;es>>
+la sentencia del Río en el que esto resulta absolutamente claro. Por tanto, justificado
+
+<<3917.5;3921.02;es>>
+que no se ha vulnerado el 7, tampoco lo habría sido el 5.
+
+<<3921.02;3938.94;es>>
+De hecho, la sentencia de la sección no plantea cuestiones diferentes desde la perspectiva del artículo 5 que las ya analizadas desde el artículo 7. La demandante ha citado el
+
+<<3938.94;3949.78;es>>
+caso Grava, en el cual Italia fue condenada por una vulneración del 5, pero no del 7.
+
+<<3949.78;3956.7;es>>
+Sin embargo, no hay ninguna analogía entre este caso y el caso del Río Prada. En el
+
+<<3956.7;3975.1;es>>
+caso Grava fueron los propios tribunales internos quienes reconocieron, después de que el demandante hubiera cumplido todas las penas, que debió haber salido de prisión antes de la fecha de cumplimiento. Ante este reconocimiento de los propios tribunales
+
+<<3975.1;3990.66;es>>
+internos, el Tribunal Europeo dijo que, obviamente, el tiempo que mediaba entre la efectiva puesta en libertad y el momento en que debió haber salido estuvo privado ilegítimamente de libertad.
+
+<<3990.66;4002.86;es>>
+Esto no tiene nada que ver con el caso del Río, en el cual, desde el primer momento, todos los tribunales fijaron la fecha de puesta en libertad en 2017.
+
+<<4002.86;4024.58;es>>
+En relación con los artículos 46 y 41 del convenio, me voy a remitir a lo que ya dijimos en nuestras alegaciones, incidiendo en que, en relación con el artículo 46, en M contra Alemania y en Kafkaris no hubo un uso a esta facultad excepcional del tribunal. Además,
+
+<<4024.58;4039.38;es>>
+no procede otorgar indemnización a una condenada en procesos justos por 132 asesinatos, en el caso Kafkaris, así lo entendió la Gran Sala.
+
+<<4039.38;4052.62;es>>
+Señoras y señores, la jurisprudencia de 2006 se ha aplicado a terroristas, pero también se ha aplicado a los mayores delincuentes que conocen nuestras democracias. GR, condenado
+
+<<4052.62;4067.12;es>>
+por 74 violaciones, RT, condenado por la violación y el asesinato de tres niñas, en un crimen que sigue conmoviendo a todo el país. Y así hasta 37 casos de los más peligrosos delincuentes
+
+<<4067.12;4071.38;es>>
+que saldrían en libertad sin cumplir sus penas y sin rehabilitar.
+
+<<4071.38;4083.22;es>>
+Señoras y señores, uno nunca puede ser igual a 132. Nadie puede entender que 132 asesinatos
+
+<<4083.22;4091.5;es>>
+eran igual que uno. La política penitenciaria de ningún Estado puede ser ajena a este hecho.
+
+<<4091.5;4113.98;es>>
+Por todas estas razones, el Gobierno de España solicita a la Gran Sala que dicte una sentencia en la que revoque la sentencia dictada por la sección tercera de 10 de julio de 2012 por ser contraria al convenio y a la jurisprudencia del tribunal, declarando que no había violación alguna del convenio. Muchas gracias, señor presidente.
+
+<<4113.98;4114.98;es>>
+Gracias, señores jueces del tribunal.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4125.03;4127.51;fr>>
+Merci, M. Salama.
+
+<<4127.71;4132.07;fr>>
+Je me tourne maintenant vers mes collègues juges.
+
+<<4132.27;4136.31;fr>>
+Est-ce qu'il y a une question?
+
+<<4136.31;4136.31;fr>>
+Le juge Lemmens, s'il vous plaît.
+
+[[Judge;Paul Lemmens]]
+
+<<4144.01;4145.91;en>>
+Thank you very much, Mr. President.
+
+<<4145.91;4152.67;en>>
+I would like to ask two questions to the government.
+
+<<4152.67;4159.17;en>>
+And the first question relates to the current situation of the applicant.
+
+<<4159.17;4166.35;en>>
+The applicant, we know what her situation is with respect to the remission of her sentence.
+
+<<4166.35;4175.15;en>>
+But I would like to know what the situation now is with respect to the days that she has worked.
+
+<<4175.15;4181.71;en>>
+Do they have any effect on the duration of her sentence?
+
+<<4181.71;4189.55;en>>
+Could that play a role with respect to a conditional release or in any other way?
+
+<<4189.55;4191.87;en>>
+That's my first question.
+
+<<4191.87;4199.87;en>>
+And the second question is about the point that was raised by you just at the end of your oral argument.
+
+<<4199.87;4217.43;en>>
+If the judgment of the chamber would be confirmed by the grand chamber, what would be the concrete effects, not only for the applicant, but also for other prisoners currently detained in Spain?
+
+<<4217.43;4219.79;en>>
+How many prisoners are affected?
+
+<<4219.79;4223.09;en>>
+And what would be the effect, the concrete effect?
+
+<<4223.09;4223.59;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4224.98;4226.74;fr>>
+Merci.
+
+<<4226.74;4230.3;fr>>
+D'autres questions?
+
+<<4230.3;4261.3;fr>>
+Telle ne semble pas être le cas, donc je propose qu'on suspend l'audience pendant un quart d'heure et on va continuer l'audience vers 10h45, après près, donc 10h45 pour permettre aux parties de répliquer et de répondre aux deux questions qui ont été posées.
+
+<<4261.3;4261.3;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<4312.62;4313.22;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4357.42;4362.9;fr>>
+Je vous prie de vous asseoir. L'audience est reprise.
+
+<<4362.9;4369.9;fr>>
+Je donne la parole à Maître Mark Muller.
+
+[[Applicant;AP3]]
+
+<<4373.89;4382.49;en>>
+Mr. President, if I may just reflect upon the two questions that the LernerJet posed
+
+<<4382.49;4384.59;en>>
+to the government.
+
+<<4384.59;4398.65;en>>
+As we understand the position, the applicant will have a lost all right to remission completely as a consequence of the government's legal argument.
+
+<<4398.65;4429.33;en>>
+Secondly, that in respect of the effect of this court's ruling, if it upheld the section judgment, I'm told that the Home Affairs Minister of Spain told his parliament that if the parrot doctrine was not revoked, or was revoked, they would still have room for, and I quote, legal engineering.
+
+<<4429.33;4438.81;en>>
+So perhaps that's a matter of clarification for the government, but that is the position, the public position, uttered by the Home Affairs Minister in parliament.
+
+<<4438.81;4454.07;en>>
+If I may just take this opportunity to reply to a number of the government's comments, and then I'm going to ask briefly Mr. Swaroop and Mr. Ivers to deal with the case law that
+
+<<4454.07;4457.85;en>>
+was commented upon.
+
+<<4457.85;4460.69;en>>
+First point I want to make is this.
+
+<<4460.69;4473.33;en>>
+I'm extremely grateful to my learning friend on behalf of the government for setting out so clearly what is the overriding motivation of the parrot ruling.
+
+<<4473.33;4492.81;en>>
+He made it absolutely clear that as far as the government of Spain is concerned, and I quote, there was an erroneous practice that was manifestly unjust, and simply because it was previously applied, it cannot stand.
+
+<<4492.81;4501.13;en>>
+The practice was manifestly unjust, it cannot stand that one murder is equivalent to 132.
+
+<<4501.13;4530.89;en>>
+There can be no clearer indication that the purpose of the parrot ruling was in relation to punishment, and that it had decided in effect that the previous practice and the previous sentences imposed, including how remission applied to them, could not stand from a point of view of the penalty, not simply the execution.
+
+<<4530.89;4549.61;en>>
+Secondly, he claims on behalf of the government that the law was clear since 1870, and that the applicant, and I quote, is seeking to mislead the court upon a very clear matter.
+
+<<4549.61;4572.33;en>>
+And yet in the same breath, he tells this court that it took 15 Supreme Court judges to gather in order to overturn a clear and admitted on their own submissions administrative prison and judicial practice.
+
+<<4572.33;4584.01;en>>
+The third section set out that on any view, what was clear and formally sufficiently accessible was the previous practice.
+
+<<4584.01;4588.13;en>>
+What was not clear was the departure from precedent.
+
+<<4588.13;4601.97;en>>
+We now have the reason why, because a decision was taken in respect of applying a harsher penalty to the previous practice.
+
+<<4601.97;4624.97;en>>
+In respect of the submission that Article 5 was somehow found to be a breach simply as a consequence of Article 7, I would ask this court to reread the very paragraph that my learning friend for the government points you to, to paragraph 74.
+
+<<4624.97;4634.41;en>>
+This section did not simply state that we find a breach under Article 5 merely because we found one under Article 7.
+
+<<4634.41;4649.85;en>>
+It effectively applied the quality of law test to Article 5 and found as a consequence of its factual findings that also related to Article 7, a breach was likewise to be declared.
+
+<<4649.85;4657.73;en>>
+And so, in my respectful submission, the point that my learning friend Mr. Swaroop and others
+
+<<4657.73;4661.29;en>>
+have made remains clear.
+
+<<4661.29;4681.61;en>>
+The government has fundamentally failed to address the case under Article 5 and the reason why is because it simply maintains its execution and penalty distinction before this court in respect of Article 7, but it has no case under Article 5 whatsoever.
+
+<<4681.61;4705.97;en>>
+As regards the margin of appreciation, we submit that in respect of Article 7, whose prohibitions are without qualification, the margin of appreciation is not to be applied to those unconditional rights in the same way as they might be applied to conditional rights and certainly not in relation to an important matter as this.
+
+<<4705.97;4726.25;en>>
+And then lastly in terms of precedent, I refer you to paragraph 63 of our submissions which clearly sets out our response to the government's suggestion that somehow the section departed from the ordinary course as to how it treated precedent.
+
+<<4726.25;4734.13;en>>
+It did no such thing.
+
+[[Applicant;AP2]]
+
+<<4741.73;4749.81;en>>
+The government said that we had not referred to the relevant case law on the penalty execution distinction.
+
+<<4749.81;4751.49;en>>
+That is not right.
+
+<<4751.49;4755.97;en>>
+We addressed the case law in some detail in our written submissions.
+
+<<4755.97;4762.61;en>>
+Moreover, in my oral presentation, I specifically framed our position by reference to the case law.
+
+<<4762.61;4780.05;en>>
+I referred by way of example to the Utley case, and I explained why, on the facts of our case, the penalty was redefined, and why the nature and purpose of that redefinition was punitive.
+
+<<4780.05;4786.53;en>>
+None of the cases which the government relies on involve a redefinition of the penalty.
+
+<<4786.53;4789.21;en>>
+In Utley, the penalty remained the same.
+
+<<4789.21;4792.69;en>>
+All that changed was the regime for early release.
+
+<<4792.69;4795.29;en>>
+In Hogben, the penalty remained the same.
+
+<<4795.29;4798.37;en>>
+All that changed was parole policy.
+
+<<4798.37;4804.17;en>>
+In Cafcaris, what the government failed to explain was that the Article 7 claim actually succeeded.
+
+<<4804.17;4810.29;en>>
+It succeeded because the penalty was never properly defined or clearly defined in the first place.
+
+<<4810.29;4819.93;en>>
+It was on that premise that the court went on to hold that there had not been a retrospective change in the penalty.
+
+<<4819.93;4835.85;en>>
+It is, with respect, the government that has referred to the case law without making any reference to the facts of the case or to our analysis of the case, and the facts which we say is the correct analysis.
+
+<<4835.85;4835.85;en>>
+I now hand over to Mr Ivers.
+
+[[Applicant;AP1]]
+
+<<4838.47;4841.11;en>>
+I'm just picking up from that.
+
+<<4841.11;4853.71;en>>
+What we heard from the government just now was that, for instance, in Hogden, the Secretary of State had stood up in Parliament and there in Parliament imposed a 20-year minimum sentence.
+
+<<4853.71;4856.83;en>>
+I mean, actually, he did no such thing.
+
+<<4856.83;4867.71;en>>
+There was a recommendation about penal policy, and when it went to the Supreme Court in England and Wales, Lord Scarman, noted jurist, said this.
+
+<<4867.71;4879.91;en>>
+The question, therefore, is simply, did the new policy constitute a refusal to consider the cases of prisoners within the specified classes?
+
+<<4879.91;4892.95;en>>
+The answer is clearly no, because the parole system, to make a decision on a case-by-case basis, had been specifically preserved in Hogden.
+
+<<4892.95;4894.79;en>>
+Utterly has just been mentioned as well.
+
+<<4894.79;4911.31;en>>
+The change in the policy in Utterly was to allow his earlier release, and what happened as a result of his earlier release from the punitive element of the sentence was that he'd be on licence for a little longer.
+
+<<4911.31;4923.35;en>>
+So how that, in the end, was framed within a penalty that is even described as punitive is difficult to see.
+
+<<4923.35;4939.83;en>>
+So in those two matters, as I say, what the government have simply done is misunderstand the cases in their search for this simple position of putting one box and saying, well, that's the execution, and another box that says that's the penalty.
+
+<<4939.83;4954.51;en>>
+And they've never really addressed whether or not and at what stage in any given sentence they would have said that the penalty-execution dichotomy is such that in this particular case it has to be so described as a penalty.
+
+<<4954.51;4958.27;en>>
+It can't be a trump card, which they have.
+
+<<4958.27;4965.55;en>>
+And then lastly, this, before I'm going to turn over very briefly, and we have the time to Mr Muller, who's going to make a last brief comment.
+
+<<4965.55;4982.55;en>>
+In addition to paragraph 74, as you've just heard from Mr Muller, concerning Article 5, also read paragraph 71 of the section judgment, because there were two alternative bases of the finding in relation to Article 5.
+
+<<4982.55;4987.87;en>>
+The quality of law point, where there were similarities with Article 7, but it was dealt with separately.
+
+<<4987.87;4998.75;en>>
+But in addition, the point about whether or not when there is a non-discretionary power that they are obliged to enforce the law.
+
+<<4998.75;5013.83;en>>
+And that was Grave and Italy, and we still haven't heard an answer to it, because Grave in Italy was a case where they didn't win on the penalty-execution on Article 7, but nevertheless a violation in Article 5.
+
+<<5013.83;5015.07;en>>
+And I pass over.
+
+<<5015.07;5015.07;en>>
+Thank you.
+
+<<5015.04;5022.04;en>>
+Just two last remarks. Firstly, in relation to the government's submissions that somehow
+
+[[Applicant;AP3]]
+
+<<5022.58;5046.54;en>>
+the subjective expectations of the applicant are crucial, we submit, as Maloney Friend has said, that the foreseeability test in relation to the penalty imposed for the acts committed is an objective one, and that in any event, the remission system was not discretionary, it was a mandatory system that applied to all prisoners who came within its terms. The
+
+<<5046.54;5060.36;en>>
+suggestion that somehow she should have made an application between 1982 and 1987 is somewhat laughable since she wasn't even convicted under the sentencing procedure at that stage.
+
+<<5060.36;5066.32;en>>
+We've heard dates move from 2000 to 1993. We say that's a complete red herring. And
+
+<<5066.32;5090.98;en>>
+lastly, if I may, the government suggests in some manner that the section chamber turned itself into some sort of court of parole or remission, and it asks you the question that if that's the case and the answer is no, then there can be no breach of Article 7 or 5.
+
+<<5090.98;5130.18;en>>
+The reality in this case, we submit, is save for the continuous mantra of the execution penalty distinction with which the government has engaged for the last 30 minutes, it has singularly failed to actually engage with any of the arguments put forward in the extensive pleadings of the applicant, or indeed with the section chamber judgment, because the section chamber judgment made it absolutely clear that it accepted, even if it accepted, the point about Article 7 and the calculation of remission. What the Parrott Doctrine did
+
+<<5130.74;5145.3;en>>
+and the 2008 ruling did was move way beyond that to redefine the penalty and to apply remission consecutively, such as to therefore extend the scope of the penalty. That argument
+
+<<5145.3;5150.3;en>>
+has not been engaged with today whatsoever, and neither in the pleadings.
+
+<<5150.3;5151.3;en>>
+Those conclude our submissions.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5152.77;5155.85;fr>>
+Je donne la parole à Mr. Sanz Gandasegui.
+
+[[Government;GR1]]
+
+<<5161.94;5164.3;es>>
+Muchas gracias, señor presidente.
+
+<<5164.38;5201.86;es>>
+Señoras y señores jueces del tribunal, voy, en mi intervención, a responder a las dos preguntas planteadas por el juez Lehmann, relativas, según he entendido, a la eficacia que tienen los días trabajados en prisión a la luz de la doctrina del Tribunal Supremo, y, en segundo lugar, a la pregunta relativa a si se confirma la sentencia de la sección que efectos puede tener en la política penitenciaria española.
+
+<<5201.94;5214.1;es>>
+No obstante, también es mi función responder a las alegaciones formuladas por la parte de demandante, y por eso voy a hacer una breve síntesis donde voy a intentar abordar ambas cosas.
+
+<<5214.1;5238.74;es>>
+Es evidente que la cuestión esencial que se plantea en este caso es relativa al artículo 7, y se refiere a si la demandante tiene un derecho protegido por el convenio a que se adelante su puesta de libertad en un momento anterior al cumplimiento de la pena.
+
+<<5238.74;5249.78;es>>
+El Gobierno insiste en que la sentencia de la sección se ha apartado de la jurisprudencia del Tribunal Europeo que ya ha resuelto esta cuestión.
+
+<<5249.86;5255.9;es>>
+Creemos que hemos estudiado bien la jurisprudencia que hemos comentado, y así ha sido.
+
+<<5255.98;5277.14;es>>
+No se comprende por qué la sentencia del Río Prada afirma que no adelantar la puesta en libertad afecta al artículo 7 del convenio cuando no se llegó a la misma conclusión en el caso Cáscaris.
+
+<<5277.22;5294.46;es>>
+No se consideró que un cambio de normativa penitenciaria que extendió el efectivo cumplimiento de una pena de 20 años a cadena perpetua afectaba al artículo 7.
+
+<<5294.46;5314.1;es>>
+O cuando en los casos Hossein, Hoffman y Atli la fecha a la que el recluso podía acceder a la libertad condicional porque ese fue el resultado final de estas sentencias se demoró durante años.
+
+<<5314.18;5325.18;es>>
+En ninguno de estos casos el Tribunal apreció que se había producido una vulneración del principio de legalidad de los delitos de la pena del artículo 7.
+
+<<5325.26;5349.7;es>>
+Por eso creemos que la Gran Sala, como ha dicho mi compañero anteriormente, debe rectificar el criterio expresado por la sentencia de la sección en el que, de hecho, se amplía el ámbito de garantías del artículo 7 a la forma en que los Estados aplican los beneficios penitenciarios sobre las penas impuestas.
+
+<<5349.7;5379.18;es>>
+Desde la perspectiva del derecho interno español, desde la perspectiva de la actuación de nuestras autoridades jurisdiccionales, nuestro Tribunal Constitucional ha fundamentado sus sentencias en la jurisprudencia del Tribunal Europeo que distingue entre pena y ejecución de pena para considerar que no se ha producido una vulneración del principio de legalidad penal, aplicando así en España la doctrina de este Tribunal.
+
+<<5379.18;5398.26;es>>
+Y afirmamos que el Tribunal Europeo de Derechos Humanos no es un tribunal de casación que revisa el derecho interno, y tampoco siquiera es un tribunal constitucional que utiliza el canon de un texto constitucional concreto, en nuestro caso, la Constitución española.
+
+<<5398.34;5405.7;es>>
+El Tribunal Europeo debe decidir conforme al Convenio Europeo de Derechos Humanos en la medida que exprese el consenso del derecho europeo.
+
+<<5405.78;5428.5;es>>
+Por lo tanto, y creemos que esto es importante, debe respetarse, como ha dicho el tribunal en tantas ocasiones, el margen de apreciación que tiene cada Estado para determinar la forma de ejecución de la pena, sin que en este caso pueda apreciarse vulneración ni del artículo 7 ni del artículo 5.
+
+<<5428.58;5444.38;es>>
+En cuanto a la mención reiterada de la otra parte al artículo 5 y la sentencia de la sección, entendemos que en la sentencia de la sección la vulneración del artículo 5 está vinculada al artículo 7.
+
+<<5444.46;5454.78;es>>
+Leemos brevemente un pequeño párrafo del apartado 74 de la sentencia, que dice...
+
+<<5454.86;5486.98;es>>
+Ahora bien, a la luz de las consideraciones que le condujeron a la constatación de violación del artículo 7 del convenio, es decir, por las mismas razones que el tribunal estima que se produce una vulneración del artículo 7 del convenio, el tribunal considera que la demandante no podía, en el momento de los hechos, prever en grado razonable que la duración efectiva de su privación de libertad se prolongaría en casi nueve años, dejándose sentido las redenciones de pena por el trabajo a las cuales tenía derecho según el antiguo Código Penal de 1973.
+
+<<5487.06;5499.3;es>>
+Es decir, son las mismas razones, entendemos, que determinan la vulneración del artículo 5 en la sentencia y que, o mejor dicho, la vulneración del artículo 5 está condicionada a la vulneración del artículo 7.
+
+<<5499.38;5515.02;es>>
+Queremos, seguidamente, en fin, responder a la pregunta del juez Lehmann en cuanto a qué efectos puede tener la redención de pena y qué sentido tiene la redención de pena en el sistema español que estamos enjuiciando en este caso.
+
+<<5515.1;5529.54;es>>
+Insistimos una vez más, ciertamente lo decimos porque estamos muy convencidos, el adelantamiento de la apuesta en libertad por buena conducta y por el trabajo, que es lo que aquí estudiamos, no forma parte de la determinación de la pena, sino de su ejecución.
+
+<<5529.62;5535.46;es>>
+¿Cuál es el objetivo último de estos beneficios penitenciarios?
+
+<<5535.54;5553.7;es>>
+El objetivo último es acomodar el cumplimiento de la pena a la evolución del comportamiento del penado, como sucede también con la libertad condicional, con los permisos de salida o con el régimen de cumplimiento de la pena fuera de prisión.
+
+<<5553.78;5567.62;es>>
+La redención de penas no es un derecho del interno de aplicación automática, sino una expectativa de derecho condicionada a la concurrencia de una serie de exigencias.
+
+<<5567.7;5575.14;es>>
+Su reconocimiento se conecta con la orientación reeducadora de la Prima Privativa de Libertad.
+
+<<5575.22;5584.86;es>>
+Ahora bien, para que se apliquen estos beneficios penitenciarios, todo ha de construirse sobre la aceptación del tratamiento penitenciario.
+
+<<5584.94;5592.18;es>>
+De la aceptación del tratamiento penitenciario por el recluso depende el acceso a los beneficios penitenciarios.
+
+<<5592.26;5609.26;es>>
+Esta aceptación del tratamiento, en el caso de los presos terroristas, debe buscarse en la renuncia al terrorismo, la petición de perdón a las víctimas, la indemnización de los daños causados, cosa que no ha hecho nunca la demandante.
+
+<<5609.34;5622.86;es>>
+En cuanto a si con la sentencia del Tribunal Supremo desaparecen los efectos del trabajo penitenciario, debemos decir lo siguiente, que no es así.
+
+<<5622.94;5628.9;es>>
+La sentencia del Tribunal Supremo no ha privado de efectos a la redención de penas por el trabajo.
+
+<<5628.9;5635.86;es>>
+En el caso de los condenados a menos de 45 penas de prisión, sigue operando la redención de penas por el trabajo.
+
+<<5635.94;5664.34;es>>
+Y en el caso de los condenados a más de 45 años de penas por prisión, la redención sigue produciendo efecto porque ha de ser tomada en consideración el trabajo en prisión y el buen comportamiento del recluso por las autoridades para adelantar el disfrute de beneficios penitenciarios tales como la libertad condicional o los permisos carcelarios.
+
+<<5664.42;5675.3;es>>
+Queremos insistir también en que no ha existido la alegada falta de previsibilidad del derecho español sobre la materia.
+
+<<5675.38;5702.06;es>>
+En el caso, se tenía señalado desde el principio que la pena máxima a cumplir por la demandante era de 30 años, y en el auto de febrero de 2001, cuya cita hemos reiterado, y que la demandante no recurrió, se señaló antes de la doctrina Paro, en el año 2001, que su fecha de libertad era el año 2017.
+
+<<5702.14;5714.98;es>>
+Por otra parte, queremos trasladar también el mensaje de que no puede pedirse a la ley que prevía todas las incidencias que la ejecución de la pena puede producirse en el momento anterior a la comisión del delito.
+
+<<5715.06;5720.42;es>>
+Obviamente sí respecto de la pena, pero no respecto a la ejecución de la pena, eso es imposible.
+
+<<5720.5;5730.22;es>>
+Según el criterio seguido, cuando cometió los primeros delitos del año 82, debería poder prever también su fecha de puesta en libertad.
+
+<<5730.3;5739.78;es>>
+La sección tercera aplica la exigencia de la previsibilidad de la ley a una medida de ejecución de la pena que no forma parte del contenido del artículo 7.
+
+<<5739.78;5758.02;es>>
+En ningún otro caso, el tribunal ha extendido el requisito de la previsibilidad a las medidas relativas a la ejecución de las penas, al exacto cumplimiento en prisión, al exacto cálculo de los posibles beneficios penitenciarios, indultos o cualquier otra circunstancia que afecte a la ejecución de la pena.
+
+<<5758.1;5769.7;es>>
+Y finalmente, respecto de cuáles pueden ser los efectos de la revocación de la sentencia del Tribunal Supremo, o mejor dicho, la confirmación de la sentencia de la sección tercera.
+
+<<5770.1;5780.78;es>>
+Pues bien, España obviamente es un Estado democrático donde la visión de poder está garantizada, yo no puedo anticipar lo que los jueces, que son a los que corresponde decidir sobre este caso, puedan hacer.
+
+<<5780.86;5786.94;es>>
+Yo les puedo indicar aquí únicamente, les puedo dar información sobre el número de personas que se verían afectadas inmediatamente.
+
+<<5787.1;5806.46;es>>
+Pues bien, el número de personas afectadas inmediatamente serían 54 terroristas de ETA, 7 terroristas del grupo Grapo, 1 del grupo Gal y 14 presos comunes.
+
+<<5806.54;5830.42;es>>
+Dentro de los presos comunes, ya les he señalado a mi compañero, que se encontrarían delincuentes castigados por un gran número de delitos, como violaciones, el recluso GR condenado por 74 violaciones y también entre el grupo de terroristas se encontrarían personas con un historial delictivo similar a la demandante.
+
+<<5830.42;5830.42;es>>
+Muchas gracias, señor presidente.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5836.15;5841.31;fr>>
+Merci beaucoup. Nous en arrivons au terme de l'audience.
+
+<<5841.31;5850.23;fr>>
+Je remercie les comparons qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<5850.23;5853.72;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<5854.68;5862.88;fr>>
+L'arrêt sera rendu ultérieurement et les parties seront informées de la date du prononcé.
+
+<<5862.88;5863.95;fr>>
+L'audience est levée.
+

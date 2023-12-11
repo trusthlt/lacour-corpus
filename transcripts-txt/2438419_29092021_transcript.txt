@@ -1,0 +1,2622 @@
+[[Announcer;UNK]]
+
+<<16.5;17.1;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<60.76;62.36;fr>>
+S'il vous plaît, prenez vos places.
+
+<<80.08;90.44;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds des affaires H.F et M.F contre France et J.D et A.D contre France.
+
+<<91.88;104.72;fr>>
+Les affaires ont été introduites devant la Cour le 6 mai 2019 et 7 octobre 2020 par quatre ressortissants français, M. et Mme H.F et M.F
+
+<<105.4;107.88;fr>>
+et M. et Mme J.D et A.D
+
+<<108.28;111.68;fr>>
+en vertu de l'article 34 de la Convention.
+
+<<111.68;120.28;fr>>
+Elles ont été attribuées à la cinquième section de la Cour conformément à l'article 52, paragraphe 1 du Règlement de la Cour.
+
+<<121.44;129.0;fr>>
+Les requêtes ont été communiquées au gouvernement le 23 janvier 2020 et 16 février 2021.
+
+<<129.76;137.56;fr>>
+Le 16 mars 2021, la Chambre a décidé de se désessire au profit de la Grande Chambre.
+
+<<138.52;157.64;fr>>
+La commissaire aux droits de l'homme, du Conseil de l'Europe, a exercé son droit de prendre part à la procédure écrite érale devant la Grande Chambre conformément à l'article 36, paragraphe 3 de la Convention et a présenté des observations écrites.
+
+<<159.56;225.52;fr>>
+Les gouvernements belges, britanniques, danois, espagnols, néerlandais, norvégiens et suédois, ainsi que les rapporteurs spécials des Nations unies, sur la promotion et la protection des droits de l'homme et des libertés fondamentales dans la lutte antiterroriste, sur les exécutions extrajudiciaires, sommaires ou arbitraires, et sur la traite des personnes, en particulier les femmes et les enfants, les organisations non gouvernementales "Reprieve Rights and Security International", et "Avocats sans frontières", ainsi que "la Commission nationale consultative des droits de l'homme", "le Défenseur des droits", "la Clinique des droits de l'homme" et "le Centre des droits de l'homme de l'Université de Gant", ont tous été autorisés à soumettre des observations écrites en tant que tierces intervenants en vertu de l'article 36, paragraphe 2 de la Convention et de l'article 44 de la Convention.
+
+<<225.52;229.08;fr>>
+Et en 4, paragraphe 3 du Règlement de la Cour.
+
+<<230.68;242.76;fr>>
+Les gouvernements belges, britanniques, danois, espagnols, néerlandais, norvégiens et suédois ont également été autorisés à prendre part à l'audience.
+
+<<244.72;251.4;fr>>
+Lors de cette audience, le gouvernement Défendeur est représenté par son agent, M. François Alabrune,
+
+<<251.92;261.2;fr>>
+directeur des affaires juridiques du ministère de l'Europe, et des affaires étrangères, assisté de M. Benoît Chamouard, Jean-Baptiste  Desprez,
+
+<<261.4;273.52;fr>>
+Alexis Le Cour Grandmaison, conseillère, et par Mme Camille Faure, Flora Diana-
+
+<<261.4;273.52;fr>>
+Martinez, Alexandra Roux et Laure  Neliaz, conseillère.
+
+<<275.08;278.72;fr>>
+Les récréants sont représentés par M. Marie Dosé
+
+<<278.96;281.72;fr>>
+et M. Laurent Pettiti, conseil,
+
+<<281.72;286.72;fr>>
+assisté de M. Sébastien Van Drooghenbroeck, conseillère.
+
+<<286.88;292.88;fr>>
+Les récréants, M. et Mme J.D. et A.D. sont aussi présents.
+
+<<293.08;306.92;fr>>
+La commissaire aux droits de l'homme du Conseil de l'Europe, Mme Dunja Mijatović, est assistée lors de cette audience par M. Giancarlo Cardinale et Matthieu Birker, conseillère.
+
+<<307.12;322.52;fr>>
+Les gouvernements tierces intervenant sont conjointement représentés par Mme Babette Koopman, agent du gouvernement néerlandais, et par Sir James Eadie, conseil du gouvernement britannique.
+
+<<322.68;326.52;fr>>
+Je salue les comparands au nom de la Cour.
+
+<<326.72;334.52;fr>>
+Je salue également une délégation de la Cour de cassation française qui est ici aujourd'hui.
+
+<<336.32;349.92;fr>>
+A y consulter l'agent du gouvernement, les représentants des récréants, ainsi que la commissaire aux droits de l'homme et les représentants des États tierces intervenant, j'ai fixé ainsi l'ordre de parole.
+
+<<351.12;356.12;fr>>
+Nous attendrons successivement M. Alabrune pour le gouvernement,
+
+<<356.28;360.32;fr>>
+M. Dosé et M. Pettiti pour les récréants,
+
+<<360.52;369.12;fr>>
+et enfin Mme Mijatović, Sir James Eadie et Mme Koopman pour les tierces intervenants.
+
+<<369.12;370.92;fr>>
+Je commence la parole à M. Alabrune.
+
+[[Government;GR1]]
+
+<<375.48;376.72;fr>>
+Merci, M. le Président.
+
+<<378.08;393.08;fr>>
+Mesdames et Messieurs les juges, le gouvernement français est pleinement conscient des drames humains qui sont au coeur de l'affaire qui vous est soumise aujourd'hui.
+
+<<395.08;403.96;fr>>
+Ces drames soulèvent des questions d'ordre moral et politique qui alimentent des débats intenses dans de nombreux pays.
+
+<<406.44;412.16;fr>>
+Les questions que la Cour doit trancher sont toutefois d'ordre juridique.
+
+<<412.16;419.4;fr>>
+La France a-t-elle juridiction au sens et pour l'application de l'article 1er de la Convention?
+
+<<419.4;432.36;fr>>
+Si oui, a-t-elle une obligation de rapatriement ou de protection consulaire de ses ressortissants situés dans le nord-est de la Syrie?
+
+<<432.36;453.56;fr>>
+Pour répondre de manière affirmative à ces questions, les requérants vous demandent de franchir plusieurs paliers, éloignés de votre jurisprudence, chacun de ces paliers étant nécessaires pour parvenir à un constat de violation.
+
+<<453.56;462.8;fr>>
+Franchir ces différents paliers supposerait une forte extension de la compétence territoriale de la Cour.
+
+<<462.8;476.08;fr>>
+Cette extension serait éloignée des engagements des Etats et irait bien au-delà de ce que le système actuel de gestion des requêtes lui permet de supporter.
+
+<<476.08;487.76;fr>>
+Une telle démarche créerait un fardeau excessif pour les Etats qui seraient repartis à la Convention et seraient susceptibles d'affecter le cadre des relations internationales.
+
+<<487.76;496.16;fr>>
+Elle conduirait en conséquence à l'adoption d'un arrêt qui risquerait d'être impossible à exécuter.
+
+<<496.16;517.48;fr>>
+Nous nous limiterons ici, après un très bref rappel de contexte, à vous présenter les risques qui découleraient de l'extension de la notion de juridiction proposée par les Etats, puis, sur le fond, à rappeler l'absence de violation au regard de l'article 3 de la Convention et de l'article 3 du quatrième protocole additionnel.
+
+<<517.48;523.12;fr>>
+Nous renvoyons pour les autres questions à nos écritures.
+
+<<523.12;529.0;fr>>
+Le contexte factuel a été exposé dans ces écritures.
+
+<<529.0;534.12;fr>>
+La description qu'elle présente demeure largement actuelle.
+
+<<534.12;547.6;fr>>
+La situation des personnes retenues dans le nord-est de la Syrie a pour origine l'action d'une des organisations terroristes les plus meurtrières de l'histoire contemporaine, Daesh.
+
+<<547.6;554.48;fr>>
+Cette organisation a étendu son emprise sur un vaste territoire, en Irak et en Syrie.
+
+<<554.48;559.56;fr>>
+Elle a vu affluer dans ses rangs un grand nombre de personnes venant de plusieurs pays.
+
+<<559.56;568.64;fr>>
+Cette organisation a commis des crimes d'une exceptionnelle gravité au Levant, mais aussi en Europe et notamment en France.
+
+<<568.64;578.2;fr>>
+Pour faire face à cette menace mortelle, une coalition militaire internationale s'est constituée, s'est alliée aux forces démocratiques syriennes.
+
+<<578.2;589.56;fr>>
+Ces forces ont capturé un grand nombre de djihadistes et de membres de leur famille, parmi lesquels des centaines de ressortissants européens, notamment des Français.
+
+<<589.56;600.88;fr>>
+On estime ainsi que dans les camps d'Alol et de Roche se trouvent plus de 60 000 personnes, personnes qui sont sous le contrôle des forces démocratiques syriennes.
+
+<<600.88;615.16;fr>>
+La France, qui n'a plus de représentation diplomatique et consulaire en Syrie depuis 2012, contribue à l'assistance humanitaire apportée à ses populations.
+
+<<615.16;624.68;fr>>
+Elle est le pays européen qui a rapatrié le plus grand nombre d'enfants depuis le nord-est de la Syrie.
+
+<<624.68;638.68;fr>>
+Ces opérations de rapatriement humanitaire ont chaque fois nécessité des négociations complexes avec les autorités du nord-est syrien et le déploiement de moyens militaires.
+
+<<638.68;647.56;fr>>
+Toutes les opérations se sont déroulées dans un contexte dangereux pour la vie des agents qui les ont accomplies.
+
+<<647.56;650.68;fr>>
+Ma région demeure en effet une zone de guerre.
+
+<<650.68;658.28;fr>>
+Le péril représenté par Daesh reste important, aussi bien dans les camps qu'au dehors.
+
+<<658.28;681.04;fr>>
+Ainsi, depuis les dernières écritures, des attaques djihadistes se sont produites sur des routes au moyen d'engins explosifs, des accrochages entre les forces armées de certains États ont eu lieu et des opérations de milices pro-iraniennes contre les forces de la coalition internationale présentes sur place se sont multipliées.
+
+<<681.04;695.72;fr>>
+Concernant les filles des requérants, nous n'avons pas d'informations sur leur localisation exacte, ni d'ailleurs sur leurs intentions réelles en ce qui concerne un éventuel rapatriement.
+
+<<695.72;704.52;fr>>
+Ce point est important dans la mesure où il est loin d'être évident que les femmes retenues dans le nord-est de la Syrie souhaitent toutes revenir en France.
+
+<<704.52;708.08;fr>>
+Je reviendrai sur ce sujet.
+
+<<708.08;723.88;fr>>
+Ces éléments de contexte étant rappelés, le gouvernement souhaite attirer votre attention sur le fait que, d'une part, au regard de votre jurisprudence actuelle, la France n'a pas juridiction en l'espèce.
+
+<<723.88;740.84;fr>>
+D'autre part, l'élargissement de la notion de juridiction proposée par les requérants bouleverserait l'économie de la Convention et risquerait ainsi d'affecter le cadre juridique des relations internationales.
+
+<<740.84;760.08;fr>>
+La question centrale dans cette affaire est en effet celle de la juridiction au sens de la Convention européenne des droits de l'homme, notion qui conditionne l'application de la Convention, l'étendue des obligations des États et, par conséquent, la compétence de votre Cour.
+
+<<760.08;771.72;fr>>
+Pour répondre à cette question sur la juridiction, il importe de se fonder sur la jurisprudence de la Grande Chambre, issue de plusieurs arrêts, dont certains très récents.
+
+<<771.72;791.28;fr>>
+Tout d'abord, la Cour rappelle que la notion de juridiction est principalement territoriale dans la continuité de la notion de juridiction en droit international public et conformément à l'intention des États partis clairement reflétés dans les travaux préparatoires.
+
+<<791.28;802.16;fr>>
+Ce n'est que dans des circonstances exceptionnelles que la Cour a été amenée à conclure un exercice extraterritorial par un État de sa juridiction.
+
+<<802.16;814.24;fr>>
+La Cour a rappelé que la Convention ne peut, sur ce sujet, être considérée comme un instrument vivant qui évoluerait avec le temps et les pratiques.
+
+<<814.24;833.84;fr>>
+Elle a en effet relevé dans sa décision Bankovic et autres contre Belgique que la portée de l'article 1er était déterminante pour celle des obligations pesant sur les parties contractantes et pour la portée et l'étendue du système de protection des droits de l'homme mis en place par la Convention.
+
+<<833.84;853.72;fr>>
+Dans sa décision MN et autres contre Belgique rendue l'année dernière, la Cour a énoncé de manière complète les cinq catégories de circonstances exceptionnelles dans lesquelles elle avait déjà conclu à l'exercice extraterritorial de sa juridiction.
+
+<<853.72;859.44;fr>>
+Aucune de ces cinq catégories ne trouve à s'appliquer en l'espèce.
+
+<<859.44;868.64;fr>>
+S'agissant premièrement du contrôle effectif du territoire, les requérants admettent eux-mêmes que la France n'exerce pas de contrôle effectif sur le nord-est syrien.
+
+<<868.64;871.8;fr>>
+Nous ne reviendrons pas sur ce sujet.
+
+<<871.8;884.88;fr>>
+Deuxièmement, s'agissant de l'exercice de prérogatives de puissance publique, il n'est pas soutenu que la France assumerait de telles responsabilités dans le nord-est syrien.
+
+<<884.88;898.96;fr>>
+Troisièmement, s'agissant du recours à la force par des agents de l'État, les requérants admettent dans leur mémoire en réplique que leurs filles et petits-enfants ne sont pas directement soumis à l'autorité et au contrôle d'agents français.
+
+<<898.96;907.28;fr>>
+Effectivement, aucun agent français n'a eu recours à la force à l'égard des membres de la famille des requérants.
+
+<<907.28;934.84;fr>>
+Quatrièmement, s'agissant des actes ou omissions des agents diplomatiques ou consulaires, ils ne peuvent être invoqués pour fonder la juridiction de la France, puisque celle-ci ne dispose plus de représentation diplomatique ou consulaire en Syrie depuis 2012 et que les consulats d'autres États installés à Damas n'ont pas accès à la zone contrôlée par les forces démocratiques syriennes.
+
+<<934.84;955.44;fr>>
+Cinquièmement, s'agissant des circonstances particulières d'ordre procédural, la Cour a déjà clairement affirmé que l'introduction d'une procédure devant les juridictions internes ou l'ouverture d'une enquête n'a pas pour effet de faire relever de la juridiction de l'État concerné les personnes à l'origine de ces procédures.
+
+<<955.44;975.36;fr>>
+Ainsi, les affaires dans lesquelles la Cour a reconnu un lien juridictionnel du fait de l'ouverture d'une enquête ou d'une procédure concernait le respect des droits procéduraux issus de l'article 6 de la Convention ou de l'article 2 dans ces aspects procéduraux.
+
+<<975.36;991.32;fr>>
+La Cour n'a jamais utilisé ce lien juridictionnel découlant de circonstances particulières d'ordre procédural pour examiner le respect de dispositions matérielles de la Convention, comme celles invoquées par les requérants.
+
+<<991.32;1001.84;fr>>
+L'ouverture d'informations judiciaires contre les filles des requérants porte sur leur participation présumée à l'organisation terroriste Daech.
+
+<<1001.84;1018.96;fr>>
+L'engagement de ces procédures devant les juridictions françaises n'est donc pas de nature à attraire la situation des filles et petits-enfants des requérants et plus particulièrement leur grief fondé sur le volet matériel de l'article 3 sous la juridiction de la France.
+
+<<1018.96;1030.52;fr>>
+Il se confirme ainsi qu'aucun des critères énoncés par votre jurisprudence pour rétablir la juridiction d'un État-parti n'est rempli en l'espèce.
+
+<<1030.52;1048.04;fr>>
+Et c'est pourquoi les requérants tentent d'obtenir une extension de la notion de juridiction en proposant à la Cour une nouvelle approche fondée sur le double critère de la capacité à agir et de la nationalité.
+
+<<1048.04;1058.24;fr>>
+Or l'invocation de chacun de ces critères, de même que leur combinaison, appelle plusieurs objections majeures.
+
+<<1058.24;1065.16;fr>>
+S'agissant en premier lieu de l'invocation de la capacité à agir, elle appelle deux objections principales.
+
+<<1065.16;1079.84;fr>>
+La première tient au fait que la capacité à agir d'un État-parti pour influencer les autorités étrangères n'a jamais été considérée par votre jurisprudence comme un titre de juridiction extraterritoriale.
+
+<<1079.84;1108.16;fr>>
+La Cour a en effet rappelé dans son récent arrêt géorgique contre Russie que la plupart des affaires qu'elle a eues à connaître depuis sa décision Bankovitch et autres de 2001, l'élément déterminant pour rétablir l'autorité et le contrôle d'un agent de l'État sur des individus à l'extérieur de ses frontières était l'exercice d'un pouvoir et d'un contrôle physique sur les personnes en question.
+
+<<1108.16;1130.52;fr>>
+La Cour a par ailleurs rappelé dans ses décisions MN contre Belgique de 2020, comme Géorgie contre Russie 2 de 2021, que la seule circonstance qu'une décision prise au niveau national ait eu un impact sur les droits des personnes à l'étranger ne suffit pas à établir la juridiction.
+
+<<1130.52;1142.6;fr>>
+La Cour a enfin dit dans l'affaire Sering que la Convention ne régit pas les actes d'un État tiers ni ne prétend exiger les parties contractantes qu'elles imposent ces normes à pareil État.
+
+<<1142.6;1153.76;fr>>
+La deuxième objection à la reconnaissance de l'existence d'une juridiction extraterritoriale en raison de la capacité à agir d'un État tient aux difficultés sérieuses qu'elle créait.
+
+<<1153.76;1163.6;fr>>
+En premier lieu, il est extrêmement difficile d'évaluer précisément la capacité à agir d'un État parti.
+
+<<1163.6;1177.36;fr>>
+Le fait, par exemple, que la France ait rapatrié 37 enfants ne signifie pas qu'elle puisse à l'avenir rapatrier tous ses ressortissants.
+
+<<1177.36;1184.24;fr>>
+Les rapatriements effectués ont nécessité de longs mois de préparation.
+
+<<1184.24;1191.72;fr>>
+Ils ont nécessité des négociations complexes parfois difficiles avec les responsables du nord-est syrien.
+
+<<1191.72;1209.96;fr>>
+Ils ont nécessité l'envoi d'agents qui, parfois au péril de leur vie, ont dû pour accéder aux camps traversés par la voie terrestre des zones tenues par de multiples acteurs, États ou milices armées, zones dans lesquelles des réseaux terroristes tels que Daech restent présents et actifs.
+
+<<1209.96;1227.08;fr>>
+Ils ont nécessité la localisation par les autorités du nord-est syrien d'individus au sein de camps pouvant contenir plus de 60 000 personnes, localisation qui s'est révélée toujours très difficile et parfois impossible.
+
+<<1227.08;1235.76;fr>>
+En effet, l'hostilité à ces opérations de certaines personnes retenues dans les camps est très radicalisée.
+
+<<1235.76;1246.08;fr>>
+Les AS, à plusieurs reprises, conduit à cacher des enfants orphelins ou isolés pour empêcher leur rapatriement.
+
+<<1246.08;1255.0;fr>>
+Dans ce contexte, imposer une obligation générale de rapatriement rendrait les opérations plus prévisibles.
+
+<<1255.0;1264.16;fr>>
+Ceci serait susceptible d'aider les combattants de Daech à préparer des attentats contre les agents français ou européens.
+
+<<1264.16;1269.48;fr>>
+Et les femmes et les enfants retenus pourraient également être victimes de ces attentats.
+
+<<1269.48;1277.44;fr>>
+L'ONG Reprieve rappelle elle-même dans sa tierce intervention combien Daech demeure présent et puissant dans les camps et leurs environs.
+
+<<1277.44;1288.16;fr>>
+L'inspecteur général du gouvernement américain a souligné il y a quatre mois que Daech jouissait encore d'une relative liberté de mouvement et d'une grande influence.
+
+<<1288.16;1297.24;fr>>
+Les articles du journal Le Monde, parus le 12 août dernier, ont confirmé le caractère particulièrement instable et violent des camps et de leurs abords.
+
+<<1297.24;1306.6;fr>>
+Ils ont relevé aussi l'opposition au rapatriement, y compris d'enfants qui existent chez certaines personnes radicalisées sur place.
+
+<<1306.6;1318.72;fr>>
+Les allégations des requérants sur la capacité à agir de la France reflètent ainsi une vue très simplificatrice de ce qui se joue dans le nord-est syrien.
+
+<<1318.72;1322.08;fr>>
+La situation y évolue en permanence.
+
+<<1322.08;1327.48;fr>>
+Ce qui est possible un jour peut ne pas l'être le lendemain.
+
+<<1327.48;1347.2;fr>>
+Deuxième difficulté, en second lieu, il site la capacité à agir, manifestée par des actions humanitaires à l'étranger, notamment des rapatriements, devait contribuer à établir la juridiction extraterritoriale d'un État.
+
+<<1347.2;1354.48;fr>>
+Cela ne risquerait-il pas de dissuader certains États de mener de telles actions?
+
+<<1354.48;1365.24;fr>>
+La notion de capacité à agir, qui est par nature relative et évolutive, ne constitue donc pas un critère approprié et fiable pour fonder la juridiction.
+
+<<1365.24;1371.64;fr>>
+L'usage que les requérants vous proposent irait à l'encontre de la sécurité juridique.
+
+<<1371.64;1391.56;fr>>
+Or, la Cour a rappelé, par exemple dans son arrêt Magyar Helsinki contre Hongrie, l'importance de cette notion de sécurité juridique, et rappelé aussi qu'on ne peut attendre des États qu'ils mettent en oeuvre une obligation internationale qu'ils n'ont pas d'abord acceptée.
+
+<<1391.56;1404.2;fr>>
+Le deuxième critère sur lequel les requérants se fondent pour tenter de démontrer la supposée juridiction de la France dans le Nord-Est syrien est la nationalité de leurs filles et petits-enfants.
+
+<<1404.2;1409.68;fr>>
+Et à ce titre, ils appellent à leur secours la notion de compétence personnelle.
+
+<<1409.68;1414.28;fr>>
+Et cette approche appelle à son tour deux objections majeures.
+
+<<1414.28;1425.44;fr>>
+La première objection tient au fait que ni les rédacteurs de la Convention ni la Cour n'ont consacré la nationalité comme fondement de la juridiction d'un État.
+
+<<1425.44;1431.0;fr>>
+Et les requérants font à ce sujet une lecture erronée de votre jurisprudence.
+
+<<1431.0;1439.08;fr>>
+Ils soutiennent à tort que la décision MN contre Belgique aurait mentionné la nationalité comme fondement de la juridiction.
+
+<<1439.08;1460.92;fr>>
+En réalité, si la Cour a relevé au paragraphe 118 de cette décision que les requérants n'étaient pas belges, c'était pour apprécier si les agents diplomatiques et consulaires de la Belgique présents pouvaient avoir une autorité directe à leur égard, ce qui n'était pas le cas.
+
+<<1460.92;1472.96;fr>>
+La nationalité ne peut ainsi être prise en compte en tant que critère autonome de juridiction, mais seulement comme un élément dans l'examen des actes ou omissions des agents diplomatiques ou consulaires.
+
+<<1472.96;1484.24;fr>>
+Dans la présente affaire, il n'y a aucun agent consulaire français sur zone et le lien de nationalité ne permet donc pas de fonder la juridiction.
+
+<<1484.24;1501.08;fr>>
+La seconde objection à ce critère de nationalité tient à la confusion entretenue par les requérants entre compétence personnelle et juridiction, alors que ces deux notions relèvent de deux champs distincts.
+
+<<1501.08;1516.36;fr>>
+La compétence personnelle se définit en effet en droit international public avant tout comme le pouvoir qu'a un Etat d'appréhender par les normes qui les dictent la situation des personnes qui ont sa nationalité.
+
+<<1516.36;1529.64;fr>>
+Si ces ressortissants sont sur le territoire d'un autre Etat, ils peuvent être affectés par ces normes, mais l'Etat de nationalité n'a en revanche aucune compétence d'exécution.
+
+<<1529.64;1543.44;fr>>
+C'est ce qui distingue la compétence personnelle de la notion de juridiction et c'est ce qui explique aussi que la notion de juridiction soit, elle, principalement territoriale.
+
+<<1543.44;1559.04;fr>>
+Or, l'approche proposée par les requérants à propos de la nationalité renverserait la logique d'une juridiction principalement territoriale.
+
+<<1559.04;1572.56;fr>>
+La combinaison de ces deux critères de capacité et de nationalité proposée par les requérants aurait ainsi des conséquences qui risquent d'être désastreuses.
+
+<<1572.56;1587.96;fr>>
+Premièrement, les Etats-partis dotés de moyens d'agir, notamment militaires, se verraient tenus d'imposer le respect de la Convention partout où leurs ressortissants se trouvent dans le monde.
+
+<<1587.96;1596.2;fr>>
+Ils feraient ainsi face à des conflits de juridiction avec des Etats sur le territoire desquels vivent leurs ressortissants.
+
+<<1596.2;1609.8;fr>>
+Cette extension affecterait en conséquence le cadre actuel des relations entre Etats et pourrait apparaître contradictoire avec le principe de souveraineté.
+
+<<1609.8;1623.64;fr>>
+Deuxièmement, cette extension obligerait les juridictions nationales et conventionnelles à examiner les comportements d'Etat tiers qui ne sont liés par aucune obligation au titre de la Convention.
+
+<<1623.64;1635.72;fr>>
+Et les arrêts de la Cour ne pourraient être exécutés dans de nombreux cas, car leur mise en oeuvre dépendrait d'autorités étrangères et non de la seule volonté d'Etat parti.
+
+<<1635.72;1643.52;fr>>
+Troisièmement, suite à une telle extension, la Cour risquerait de faire face à un flux croissant de nouvelles requêtes.
+
+<<1643.52;1665.32;fr>>
+Les communautés de ressortissants d'Etats européens à l'étranger sont en effet très importantes, à l'instar des 2,5 millions de Français de France, des 2,6 millions d'Espagnols, des 5,5 millions d'Italiens ou du même nombre de Britanniques vivant hors de leur pays.
+
+<<1665.32;1688.96;fr>>
+Quatrièmement, les critères de capacité et de nationalité conditionnant la juridiction entraîneraient une discrimination quant au droit garanti par la Convention sur des territoires étrangers entre des personnes soumises aux mêmes violations selon leur nationalité et la capacité à agir de leur État.
+
+<<1688.96;1707.04;fr>>
+Cinquièmement, on peut craindre que l'introduction du critère de nationalité dans la définition de la juridiction par votre Cour présente un risque particulier au regard des débats qui ont pu avoir lieu dans certains Etats partis sur le retrait de nationalité.
+
+<<1707.04;1727.92;fr>>
+Pour toutes ces raisons, la Cour ne doit pas suivre les requérants dans la dilution de la notion de juridiction qui irait dans le sens d'une application quasi universelle de la Convention, mettrait en péril l'efficacité de son système et irait à l'encontre de la sécurité juridique indispensable à la permanence de ce système.
+
+<<1727.92;1737.24;fr>>
+Le gouvernement vous invite donc à considérer à titre principal ces requêtes comme irrecevables.
+
+<<1737.24;1756.6;fr>>
+À titre subsidiaire et sur le fond, le gouvernement entend montrer qu'aucune obligation de rapatriement ne peut découler de l'article 3 de la Convention ou de l'article 3, paragraphe 2 de son quatrième protocole additionnel.
+
+<<1756.6;1769.16;fr>>
+Tout d'abord, la protection consulaire ne peut découler de l'article 3 de la Convention et ne peut en tout état de cause fonder une obligation de rapatriement.
+
+<<1769.16;1790.04;fr>>
+La Grande Chambre a interrogé, en effet le gouvernement, sur l'existence d'une obligation positive d'accorder la protection consulaire pour tenter de mettre un terme au traitement contraire à l'article 3 de la Convention que les filles et les petits-enfants des requérants subiraient au candidat l'homme.
+
+<<1790.04;1804.8;fr>>
+S'agissant tout d'abord des obligations découlant de l'article 3 de la Convention, la Cour a certes consacré dans sa jurisprudence l'existence d'obligations positives à la charge des Etats sur le fondement de cet article.
+
+<<1804.8;1814.84;fr>>
+Toutefois, dans l'ensemble de ces précédents, l'Etat avait un contrôle direct sur la situation des requérants.
+
+<<1814.84;1822.56;fr>>
+Mais en l'espèce, les filles et petits-enfants des requérants ne se trouvent pas sous le contrôle direct de la France.
+
+<<1822.56;1834.84;fr>>
+Il n'est donc pas possible de faire peser des obligations positives tirées de l'article 3 dans un tel cas et à plus forte raison des obligations consulaires.
+
+<<1834.84;1846.16;fr>>
+S'agissant en effet de la protection consulaire, ni la Commission ni la Cour n'ont jamais reconnu d'obligation de protection à la charge des Etats.
+
+<<1846.16;1855.72;fr>>
+Cette position a été explicitée dans l'affaire Bertrand Russell Peace Foundation Limited contre Royaume-Uni de 1978.
+
+<<1855.72;1859.6;fr>>
+Et cette position est conforme au droit international.
+
+<<1859.6;1877.04;fr>>
+Celui-ci ne met en effet aucunement à la charge des Etats une obligation positive d'exercer leur protection consulaire vis-à-vis de tous leurs ressortissants, même là où ces Etats disposent d'une représentation consulaire.
+
+<<1877.04;1884.88;fr>>
+Il leur impose encore moins une obligation de rapatrier leurs ressortissants.
+
+<<1884.88;1908.12;fr>>
+En effet, l'article 5 de la Convention de Vienne laisse à la discrétion des Etats, la Convention de Vienne sur les relations consulaires, laisse à la discrétion des Etats la possibilité d'exercer ou non la protection consulaire vis-à-vis de leurs ressortissants, ainsi que des moyens engagés.
+
+<<1908.12;1918.16;fr>>
+Cette analyse est notamment confirmée par la jurisprudence de la Cour internationale de justice dans ces arrêts Jadav, La Grande et Avéna.
+
+<<1918.16;1939.76;fr>>
+Cette jurisprudence n'envisage en effet que les obligations de l'Etat de résidence dans ses relations avec l'Etat d'envoi et les nationaux de celui-ci, et non le rapport entre l'Etat et ses propres ressortissants en matière de protection consulaire.
+
+<<1939.76;1966.0;fr>>
+Elle confirme aussi le caractère discrétionnaire de la protection consulaire de la part de l'Etat de nationalité, comme l'a fait au demeurant la Cour interaméricaine des droits de l'homme au paragraphe 86 de son avis consultatif numéro 16 du 1er octobre 1999, avis cité par la partie adverse.
+
+<<1966.0;1973.44;fr>>
+Ceci n'empêche pas un juge national d'examiner les conditions dans lesquelles les postes consulaires exercent leur mission.
+
+<<1973.44;1990.32;fr>>
+Mais toutefois, ce contrôle n'établit pas l'existence d'une obligation internationale, comme d'ailleurs le montre le fait que beaucoup d'Etats, y compris partis à la Convention, ne se considèrent pas tenus de mettre en oeuvre une telle obligation.
+
+<<1990.32;2002.36;fr>>
+La reconnaissance d'une obligation de protection consulaire, notamment de rapatriement, au titre de l'article 3 de la Convention, aurait du reste des effets considérables.
+
+<<2002.36;2012.32;fr>>
+En premier lieu, il convient de rappeler que la protection consulaire nécessite la présence et l'activité de postes consulaires et d'agents consulaires.
+
+<<2012.32;2025.16;fr>>
+La reconnaissance d'une telle obligation imposerait donc aux Etats, dans les pays dans lesquels des ressortissants nationaux sont présents, de mettre en place une représentation consulaire.
+
+<<2025.16;2031.6;fr>>
+Ceci serait irréaliste, car la plupart des Etats n'auraient pas les moyens d'établir un tel réseau consulaire.
+
+<<2031.6;2043.76;fr>>
+L'alternative consisterait à tenter de conclure des accords avec d'autres Etats disposant de consulats dans les pays concernés, mais ce qui ne serait pas toujours possible.
+
+<<2043.76;2052.92;fr>>
+Et une telle obligation ne pourrait d'ailleurs être respectée si les Etats de résidence concernée le refusaient.
+
+<<2052.92;2062.72;fr>>
+L'article 2 de la Convention de Vienne de 1963 stipule en effet qu'il faut un consentement mutuel pour l'établissement de relations consulaires.
+
+<<2062.72;2076.8;fr>>
+Cette obligation porterait par ailleurs atteinte à la liberté des Etats partis à la Convention d'établir de façon souveraine des relations diplomatiques ou consulaires avec les Etats tiers.
+
+<<2076.8;2087.72;fr>>
+En deuxième lieu, une obligation de rapatriement ferait peser une charge excessive sur les Etats partis.
+
+<<2087.72;2106.08;fr>>
+Il convient de relever à ce sujet que les Etats font face de plus en plus fréquemment à des demandes de rapatriement massifs de leurs ressortissants et parfois même d'étrangers.
+
+<<2106.08;2116.16;fr>>
+Comme on l'a vu dans le contexte de la crise sanitaire ou encore récemment dans le contexte de la crise afghane.
+
+<<2116.16;2147.92;fr>>
+En troisième lieu, la création au titre de la protection consulaire et de l'article 3 d'une obligation de rapatriement de personnes retenues à l'étranger risquerait d'inciter des Etats ou des groupes armés qui auraient dans leur pouvoir des ressortissants étrangers à abuser d'une telle situation, par exemple en aidant à ce rapatriement qu'en échange de contrepartie ou du respect de certaines exigences.
+
+<<2147.92;2161.36;fr>>
+En conclusion, il ne peut y avoir en l'espèce d'obligation positive au titre de l'article 3 et encore moins d'obligation de rapatriement tiré de la notion de protection consulaire.
+
+<<2161.36;2181.16;fr>>
+Pour terminer, j'ajouterai que la stipulation de l'article 3 du quatrième protocole additionnel à la Convention, selon laquelle nul ne peut être privé du droit d'entrée sur le territoire de l'Etat dont il est le ressortissant, est inopérante en l'espèce.
+
+<<2181.16;2188.16;fr>>
+Il convient tout d'abord de relever que cette stipulation ne peut trouver à s'appliquer en l'espèce.
+
+<<2188.16;2204.04;fr>>
+En effet, conçue pour lutter contre le bannissement, cette stipulation se limite à formuler l'interdiction pour les Etats de priver leurs ressortissants du droit d'entrée sur le territoire.
+
+<<2204.04;2212.0;fr>>
+Elle s'applique dès lors qu'un ressortissant se présente pour rentrer dans son pays.
+
+<<2212.0;2223.8;fr>>
+Mais elle ne s'applique pas à la situation de personnes qui sont à l'étranger, qui souhaitent revenir dans leur pays, mais qui, pour des raisons matérielles, en sont empêchées.
+
+<<2223.8;2228.08;fr>>
+Elle ne crée donc pas d'obligation positive pour les Etats.
+
+<<2228.08;2235.24;fr>>
+En particulier, elle ne crée pas d'obligation d'organiser le rapatriement de leurs ressortissants.
+
+<<2235.24;2246.4;fr>>
+Il convient ensuite de relever que la France n'a jamais porté atteinte à l'article 3 du quatrième protocole traditionnel.
+
+<<2246.4;2257.2;fr>>
+En effet, aucun ressortissant français se présentant aux frontières françaises n'a été empêché d'y entrer.
+
+<<2257.2;2266.76;fr>>
+L'Etat n'a pris en particulier aucune mesure interdisant le retour de ces ressortissants retenus en Syrie.
+
+<<2266.76;2288.68;fr>>
+Et au contraire, des ressortissants français ayant quitté le nord-est syrien peuvent rejoindre la France depuis le territoire turc en vertu d'un accord entre la France et la Turquie, connu sous le nom de protocole Cas9.
+
+<<2288.68;2295.4;fr>>
+Les proches des requérants pourraient en bénéficier s'ils se rendaient en Turquie.
+
+<<2295.4;2314.68;fr>>
+En conclusion, le gouvernement français vous invite à conforter les principes que votre cours a dégagés sur le fondement de la Convention et, à titre principal, à rejeter pour irrecevabilité les requêtes dont elle est saisie.
+
+<<2314.68;2314.68;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Robert Spano]]
+
+<<2317.15;2319.83;fr>>
+Merci beaucoup, M. Alabrune.
+
+<<2319.83;2324.43;fr>>
+Alors, je me tours vers les récurrents, les représentants des récurrents.
+
+<<2324.43;2326.43;fr>>
+On commence avec M. Dosé, s'il vous plaît, Madame.
+
+[[Applicant;AP1]]
+
+<<2331.42;2348.14;fr>>
+Monsieur le Président, Mesdames et Messieurs les membres de la Cour, les faits qui vous sont soumis aujourd'hui d'une exceptionnelle gravité caractérisent une violation de plusieurs dispositions de la Convention que mon confrère Laurent Petiti développera après mon intervention.
+
+<<2348.14;2365.94;fr>>
+Les requérants et plusieurs tiers intervenants vous ont transmis des éléments objectifs sur la situation dramatique dans laquelle se trouvent les petits-enfants des requérants et leur mère, prisonniers au nord-est syrien depuis deux ans et demi désormais.
+
+<<2365.94;2379.3;fr>>
+62 enfants sont décédés dans les camps Roj et Alol depuis le début de l'année, à déplorer il y a quelques jours seulement l'ONG Save the Children.
+
+<<2379.3;2390.82;fr>>
+Les conditions de vie dans les camps sont renseignées et développées dans de nombreux rapports que nous vous avons transmis et dont le contenu n'a jamais été contesté par le gouvernement français.
+
+<<2390.82;2403.14;fr>>
+Celui-ci a donc parfaitement connaissance et conscience de la situation intolérable dans laquelle se trouvent les petits-enfants des requérants et leur mère.
+
+<<2403.14;2414.7;fr>>
+Cette situation heurte incontestablement les valeurs du Conseil de l'Europe parfaitement exprimées dans chaque mot de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales.
+
+<<2414.7;2426.42;fr>>
+Les autorités du nord-est syrien appellent depuis plus de deux ans les États à rapatrier leurs ressortissants, prisonniers sans droit ni titre.
+
+<<2426.42;2450.14;fr>>
+Le 18 mars 2021, l'administration autonome du nord-est de la Syrie, l'AANES, a de nouveau enjoint les États, dont la France, à rapatrier les femmes et les enfants détenus dans les camps de Roche et à Lolle, en précisant qu'elles ne voulaient ni ne pouvaient les juger.
+
+<<2450.14;2460.3;fr>>
+Malgré cet appel légitime et en dépit de tous les éléments factuels qui sont désormais en votre possession, le gouvernement français maintient sa position.
+
+<<2460.3;2470.06;fr>>
+Seuls certains enfants ont été rapatriés au cas par cas, sur la base de critères qui demeurent inconnus, opaques et arbitraires.
+
+<<2470.06;2482.62;fr>>
+Depuis près de neuf mois, plus aucun enfant français n'a été rapatrié, alors qu'il reste 200 enfants français dans le camp Roche.
+
+<<2482.62;2498.14;fr>>
+Les maires, assure le gouvernement français, n'ont pas vocation à être rapatriés, mais à être jugés sur place, bien que cette option soit parfaitement irréalisable et explicitement écartée par les autorités du Rojava.
+
+<<2498.14;2512.06;fr>>
+L'objet des présentes requêtes est de faire constater par votre cours qu'en refusant de rapatrier ces enfants et leurs mères détenus en dehors du territoire national, la France viole ses obligations conventionnelles.
+
+<<2512.06;2514.78;fr>>
+La présente requête n'est pas isolée.
+
+<<2514.78;2519.3;fr>>
+D'autres organes internationaux de protection des droits de l'homme ont été saisis.
+
+<<2519.3;2529.22;fr>>
+Et comme vous le savez, le Comité international des droits de l'enfant des Nations Unies s'est déclaré compétent dans deux affaires portant sur des situations analogues.
+
+<<2529.22;2551.54;fr>>
+La réalité admise par le gouvernement français dans ses écritures est que celui-ci souhaite laisser ces situations à la libre discrétion des Etats pour mieux ménager des enjeux politiques totalement étrangers au respect des dispositions de la Convention.
+
+<<2551.54;2576.66;fr>>
+Cette volonté de persister dans un registre totalement discrétionnaire et de faire échapper ces situations à l'applicabilité de la Convention et à la compétence de votre cours se vérifie à travers les interprétations erronées de l'Etat défendeur relative à la qualité de victime et à la notion de juridiction au sens de l'article 1 de votre Convention.
+
+<<2576.66;2578.34;fr>>
+Premier point donc sur la qualité de victime.
+
+<<2578.34;2592.98;fr>>
+Il est étonnant de constater que le gouvernement français, dans ses écritures, nie aujourd'hui la qualité de victime des requérants alors que cet argument n'a jamais été soulevé par le gouvernement devant les juridictions internes.
+
+<<2592.98;2599.18;fr>>
+Celles-ci, d'ailleurs, n'ont jamais remis en question la qualité pour agir des grands-parents.
+
+<<2599.18;2616.5;fr>>
+Votre cours a eu l'occasion de souligner qu'elle attachait, je la cite, « une importance considérable » au fait que la capacité d'agir n'ait pas été contestée devant les autorités nationales dont acte.
+
+<<2616.5;2633.06;fr>>
+Dans sa jurisprudence, votre cours admet qu'une personne puisse agir, je la cite, « au nom et pour le compte d'une personne vulnérable sans que cette dernière ait donné ni pouvoir valable ni instruction à celui qui prétendait agir pour elle ».
+
+<<2633.06;2638.06;fr>>
+A cet effet, deux conditions doivent être remplies.
+
+<<2638.06;2643.3;fr>>
+La victime doit être dans l'incapacité de présenter directement la requête.
+
+<<2643.3;2651.02;fr>>
+Et le tiers, agissant au nom et pour le compte de la victime directe, doit présenter des liens avec elle, notamment familiaux.
+
+<<2651.02;2682.94;fr>>
+S'agissant de l'incapacité pour les victimes directes de présenter la requête qui vous saisit, nous rappelons à la Cour que ces mères et ces enfants sont incarcérées en dehors du territoire national, qu'elles ont interdiction de communiquer librement avec l'extérieur, qu'elles n'ont pas accès à un avocat, que nous nous sommes déplacés à deux reprises sur cette zone sans pouvoir ni les rencontrer ni même pénétrer dans le camp Roche.
+
+<<2682.94;2694.14;fr>>
+Malgré tous ces obstacles et tous ces risques, elles ont réussi, à un moment précis de leur détention, à faire connaître leur volonté explicite de voir votre cours saisi.
+
+<<2694.14;2705.62;fr>>
+S'agissant de la seconde condition étrangement remise en cause par le gouvernement français, à savoir le lien familial, celui-ci ne saurait être discuté.
+
+<<2705.62;2712.18;fr>>
+Vous ne pourrez que convenir que les requérants sont bel et bien les parents et grands-parents des victimes.
+
+<<2712.18;2720.26;fr>>
+Par conséquent, en application de sa jurisprudence, votre cours doit conclure à la reconnaissance de la qualité de victime de requérants.
+
+<<2720.26;2740.58;fr>>
+Sur la notion de juridiction désormais, il n'est pas question ici de considérer que tout État parti à la Convention serait dans l'obligation de garantir les droits reconnus par celle-ci à toute personne située hors du territoire national.
+
+<<2740.58;2766.78;fr>>
+Ce que nous soutenons avec force, c'est que l'État parti a en l'espèce d'ores et déjà exercé son contrôle et son autorité vis-à-vis de ses ressortissants, puisque la France a décidé de manière assumée de ne pas rapatrier les petits-enfants des requérants et leurs mères prisonniers au nord-est syrien, décision qui est à l'origine de notre requête.
+
+<<2766.78;2783.96;fr>>
+Notre raisonnement se fonde sur l'ensemble de votre jurisprudence et en particulier sur votre récente décision dans l'affaire MN contre Belgique, dont l'importance a pu récemment être relevée au sein même de votre juridiction.
+
+<<2783.96;2808.44;fr>>
+Dans cette décision, votre cours a affirmé de façon très claire, je la cite, que la juridiction est une question de fait qui nécessite de s'interroger sur la nature du lien entre les requérants et l'État défendeur et de déterminer si celui-ci a effectivement exercé son autorité et son contrôle sur eux.
+
+<<2808.44;2824.42;fr>>
+S'agissant de l'exercice par l'État défendeur de son autorité et de son contrôle sur les victimes, comme le relève le gouvernement français dans ses écritures, deux degrés distincts d'autorité et de contrôle sont susceptibles de pouvoir s'exercer.
+
+<<2824.42;2843.98;fr>>
+Un contrôle total et exclusif lorsque la victime se trouve sous le contrôle physique, direct et immédiat des agents de l'État et un contrôle qui résulte d'un acte ou d'une décision de l'État ayant des conséquences directes sur la situation juridique de l'individu.
+
+<<2843.98;2865.08;fr>>
+En l'espèce, ce second degré de contrôle est, au regard des faits et du caractère exceptionnel de la situation qui vous est soumise, celui qui permet de confirmer l'existence du lien de juridiction entre les victimes et l'État défendeur au sens de l'article 1 de votre Convention.
+
+<<2865.08;2879.1;fr>>
+En refusant de manière assumée de ne pas rapatrier les victimes, l'État défendeur pourra incontestablement exercer son autorité et son contrôle sur celles-ci et affecter leur situation juridique.
+
+<<2879.1;2888.1;fr>>
+En effet, c'est cette décision de refus qui, en les maintenant dans des camps hors du territoire national, les expose à des traitements inhumains et dégradants.
+
+<<2888.1;2902.78;fr>>
+Nous tenons à rappeler à votre cour que les autorités détentrices, comme une majorité écrasante des parties prenantes dans cette affaire, appellent instamment les États à rapatrier leurs ressortissants.
+
+<<2902.78;2912.98;fr>>
+Comme vous le savez, la France a choisi 35 enfants qu'elle a décidé de rapatrier à l'occasion de cinq opérations distinctes.
+
+<<2912.98;2925.26;fr>>
+A l'instant précis où la France a pris la décision de rapatrier ces 35 enfants qu'elle a choisi, elle a exercé sur eux son autorité et son contrôle.
+
+<<2925.26;2935.14;fr>>
+De la même manière, à l'instant précis où la France décide de ne pas rapatrier les victimes, elle exerce tout autant son autorité et son contrôle sur elles.
+
+<<2935.14;2947.66;fr>>
+En effet, comme le soulignent dans une opinion séparée plusieurs juges de votre cour, je cite, l'absence volontaire d'agir peut elle aussi être un mode d'exercice de la puissance publique.
+
+<<2947.66;2957.62;fr>>
+C'est en prenant la décision de rapatrier ou de ne pas rapatrier les mères et les enfants de nationalité française que la France exerce son contrôle.
+
+<<2957.62;2965.38;fr>>
+Il s'agit incontestablement d'un exercice par l'État de son autorité et de son contrôle sur ces personnes.
+
+<<2965.38;2972.58;fr>>
+La juridiction n'est pas fonction de la décision, c'est la décision qui confirme le lien de juridiction.
+
+<<2972.58;2994.5;fr>>
+S'agissant du second critère, celui du lien entre les victimes et l'État parti, les faits de la présente affaire sont à distinguer de ceux de l'affaire MN contre Belgique qui concernait des ressortissants irakiens aspirant à se rendre en Belgique et n'ayant jamais vécu sur le territoire belge.
+
+<<2994.5;3002.78;fr>>
+Votre cours a alors logiquement conclu à l'absence de lien avec l'État défendeur, tant de luriques que de factos.
+
+<<3002.78;3015.5;fr>>
+Mais dans l'affaire qui est soumise à la grande chambre de votre cours aujourd'hui, les victimes sont rattachées à l'État français par des liens de droit et de fait incontestables.
+
+<<3015.5;3026.7;fr>>
+Elles sont toutes de nationalité française, ont vécu en France jusque l'âge adulte, ont gardé des liens étroits avec la France où résident toujours leurs familles.
+
+<<3026.7;3043.78;fr>>
+Loin de la vision catastrophiste que l'État défendeur tire de notre argumentaire, nous n'avons jamais demandé, et nous ne demandons pas à votre cours, de reconnaître une portée universelle à la notion de juridiction.
+
+<<3043.78;3052.66;fr>>
+Notre argumentaire ne peut aucunement avoir pour effet d'aboutir à l'application universelle de la Convention.
+
+<<3052.66;3060.06;fr>>
+Les États partis ne sauraient être tenus pour responsables de toutes les violations commises en territoire étranger.
+
+<<3060.06;3085.46;fr>>
+Nous demandons simplement à votre cours de constater, comme nous y invite l'interprétation que vous avez développée dans votre décision MN contre Belgique, que l'exercice par l'État de sa compétence personnelle sur ces nationaux établit l'autorité et le contrôle, et donc le lien de juridiction au sens de l'article 1 de la Convention.
+
+<<3085.46;3091.46;fr>>
+Cette interprétation ne vaut dès lors que pour les seuls nationaux de l'État défendeur.
+
+<<3091.46;3102.98;fr>>
+De plus, et c'est important, l'extrême spécificité de la situation qui vous est soumise doit être nécessairement prise en considération.
+
+<<3102.98;3116.98;fr>>
+Les victimes ressortissantes d'un État parti puisque de nationalité française ne sont pas détenues par un État tiers exerçant une compétence concurrente.
+
+<<3116.98;3135.58;fr>>
+Si tel avait été le cas, la compétence territoriale de l'État détenteur aurait dû être prise en considération et aurait logiquement fait obstacle à l'exercice de la compétence personnelle de l'État de nationalité et à l'application de la Convention.
+
+<<3135.58;3152.54;fr>>
+Les victimes dans cette affaire ne sont pas détenues par un État, mais une entité non-étatique, l'administration autonome autoproclamée du Nord-Est syrien, avec l'aval de leur État de nationalité qui décide de les y maintenir.
+
+<<3152.54;3162.38;fr>>
+Au regard de ces éléments, nous sommes bien éloignés de l'épouvantail agité par l'État défendeur et les États tiers intervenants.
+
+<<3162.38;3176.14;fr>>
+Nous ne demandons donc, en l'espèce, que l'explication de votre jurisprudence ait aucunement une redéfinition de la notion essentielle pour la Convention et la Cour de juridiction.
+
+<<3176.14;3185.94;fr>>
+Faire droit à la présente requête n'équivaut nullement à renverser la jurisprudence MN, mais uniquement à la prolonger par des distinctions d'espèces.
+
+<<3185.94;3209.62;fr>>
+On n'ajustera, si besoin en est, que par définition, l'exercice du droit de ne pas être privé du droit d'entrée sur le territoire de l'État dont on est ressortissant, tel que garanti par l'article 3, paragraphe 2 du protocole numéro 4, est tout simplement inconcevable sans la reconnaissance d'une juridiction extraterritoriale.
+
+<<3209.62;3226.1;fr>>
+Si l'interdiction prévue par cette disposition ne pouvait être invoquée que lorsque la personne se trouve déjà sur le territoire, alors la garantie offerte par cette disposition serait tout aussi théorique et illusoire qu'absurde.
+
+<<3226.1;3231.4;fr>>
+La France exerce donc bel et bien sa juridiction sur les enfants et leurs mères.
+
+<<3231.4;3251.7;fr>>
+Ajoutons encore, et toujours en vue de prendre la mesure de l'enjeu réel de la présente affaire, que la combinaison des éléments que l'on vient de décrire la rend éminemment exceptionnelle et singulière, un unicum qui risque fort de ne plus jamais se reproduire.
+
+<<3251.7;3261.18;fr>>
+Ceci exclut de facto et considérablement le prétendu risque invoqué par le gouvernement français de voir soumise à votre contrôle des situations semblables.
+
+<<3261.18;3267.5;fr>>
+Nous demandons donc à votre cours de conclure à la recevabilité de notre requête.
+
+[[JudgeP;Robert Spano]]
+
+<<3269.71;3271.79;fr>>
+Merci beaucoup, Maître Dosé.
+
+<<3271.79;3273.79;fr>>
+Maître Pettiti, vous avez la parole.
+
+[[Applicant;AP3]]
+
+<<3277.26;3285.54;fr>>
+Dans l'intérêt général de notre sécurité, mais aussi pour le bien-être d'enfants, qui sont des enfants belges, nous devons tout faire pour les sortir de là.
+
+<<3286.1;3288.58;fr>>
+Il est question d'enfants belges, souvent très jeunes.
+
+<<3289.26;3299.58;fr>>
+Tels sont les propos qui ont été tenus devant la Chambre des représentants le 4 mars 2021 par Monsieur Alexandre de Croix, Premier ministre de la Belgique et à tiers intervenant.
+
+<<3300.42;3308.3;fr>>
+Monsieur le Président, mesdames et messieurs les juges de la Cour européenne, il me revient d'exposer les différentes violations imputables au gouvernement français.
+
+<<3308.54;3316.86;fr>>
+Dans le temps contraint qui m'est à ma partie, je n'aborderai que les violations de l'article 3 et de l'article 3, paragraphe 2 du protocole numéro 4.
+
+<<3318.14;3330.94;fr>>
+La situation dont votre cours est saisi est contraire non seulement aux dispositions, mais aussi à l'esprit même de l'article 3, lequel revêt une importance fondamentale dans le système de la Convention.
+
+<<3331.58;3352.98;fr>>
+La question ici posée est le caractère de l'obligation opposable à l'Etat et notamment la possibilité de mettre fin de manière impérative aux mauvais traitements subis par les intéressés en les rapatriant sous l'angle de l'article 3, lu à la lumière du mécanisme de la protection consulaire.
+
+<<3353.82;3368.66;fr>>
+L'existence d'une obligation positive générale d'empêcher des actes contraires à la Convention est absolue, y compris lorsque les actes en contravention à l'article 3 sont commis dans les territoires où l'Etat n'exerce pas de contrôle effectif.
+
+<<3369.34;3385.42;fr>>
+La jurisprudence de votre cours dans l'affaire El Masri s'interprète comme imposant à l'Etat l'obligation de mettre en œuvre tous les moyens à sa disposition pour faire cesser une situation de traitement inhumain ou dégradant dont il n'est pourtant pas l'auteur.
+
+<<3386.18;3397.1;fr>>
+La France a parfaitement connaissance de la situation générale du camp du nord-est syrien et avait été alertée à maintes reprises de la situation spécifique des proches des requérants.
+
+<<3398.38;3415.1;fr>>
+S'agissant du contexte général, l'Etat français a été mis en garde successivement par le Défenseur des droits, par la Commission nationale consultative des droits de l'homme, sans même citer d'autres institutions et organisations françaises, européennes ou internationales.
+
+<<3415.1;3430.62;fr>>
+L'Etat ne peut donc ignorer que cette situation est contraire à l'article 3 de la Convention et au lieu de prouver toutes les mesures dont il dispose pour y mettre fin, il a néanmoins décidé de laisser perdurer celle-ci jusqu'à aujourd'hui.
+
+<<3431.98;3443.42;fr>>
+Les autorités françaises possèdent sans nul doute les moyens matériels et logistiques utiles pour faire cesser cette intolérable situation et assurer une protection effective.
+
+<<3443.42;3450.02;fr>>
+Par conséquent, le seul obstacle à la réalisation du but poursuivi est l'absence de l'Etat.
+
+<<3450.02;3462.7;fr>>
+L'absence de l'Etat est l'absence pure et simple de volonté politique et diplomatique des autorités françaises de procéder au rapatriement de ses propres ressortissants détenus dans le nord-est syrien.
+
+<<3462.7;3485.58;fr>>
+Il est inacceptable en 2021, notamment au regard des valeurs défendues par le Conseil de l'Europe, qu'un Etat fondateur et ardent défenseur de cette institution ait disposé indiscutablement des moyens de mettre fin aux traitements inhumains ou dégradants, décide de manière arbitraire de ne pas le faire au nom de la raison d'Etat.
+
+<<3485.58;3499.58;fr>>
+Nous considérons que cette obligation positive d'empêcher des traitements inhumains peut être lue à la lumière du mécanisme de protection consulaire en droit international public tel que développé par la Cour internationale de justice.
+
+<<3499.58;3515.98;fr>>
+Eus égard aux circonstances particulières de cette affaire, l'obligation générale opposable à l'Etat français se matérialise par un impératif absolu, octroyer sa protection consulaire aux filles et aux petits-enfants des requérants.
+
+<<3515.98;3520.46;fr>>
+Il existe donc bien un droit à l'assistance consulaire.
+
+<<3520.46;3540.66;fr>>
+Ce droit combiné à l'importance de l'article 3 dans le système conventionnel implique nécessairement le droit des individus de pouvoir bénéficier de l'assistance consulaire, de leur état de nationalité lorsqu'ils sont soumis à des traitements contraires à l'article 3 sur le territoire d'un autre état.
+
+<<3540.66;3549.02;fr>>
+De nombreuses mesures d'assistance consulaire auraient pu et auraient dû être mises en place par l'Etat français depuis bien longtemps.
+
+<<3549.02;3562.18;fr>>
+En réalité, aucune mesure n'a jamais été adoptée par l'Etat français alors que les requérants ont expressément demandé à plusieurs reprises à ce que leurs filles et leurs petits-enfants soient rapatriés.
+
+<<3562.18;3568.06;fr>>
+Le rapatriement n'est pas un moyen permettant la protection consulaire parmi d'autres.
+
+<<3568.06;3576.9;fr>>
+Il s'agit en vérité de la seule mesure à même de protéger les intérêts et de prêter secours et assistance.
+
+<<3576.9;3590.62;fr>>
+Dès lors, seul le rapatriement des ressortissants, qu'il soit ou non directement réalisé par l'Etat français, infatigable défenseur de l'état de droit, lui permettrait de respecter ses obligations conventionnelles.
+
+<<3590.62;3603.02;fr>>
+La France ne saurait affirmer qu'un tel moyen d'assumer son obligation positive constituerait un fardeau insupportable ou excessif au sens de la jurisprudence de la Cour.
+
+<<3603.02;3608.02;fr>>
+Il n'y a en effet aucun obstacle juridique ou pratique sérieux au rapatriement.
+
+<<3608.02;3633.54;fr>>
+La France est compétente en vertu du droit international public pour procéder au dit rapatriement et aucun État étranger n'exerce sa compétence territoriale vis-à-vis des reclairants, puisque ceux-ci se sont détenus par l'ANES, une entité non étatique, et le régime de Damas n'exerce aucun contrôle sur le nord-est syrien.
+
+<<3633.54;3640.46;fr>>
+Du point de vue sécuritaire, la situation locale n'a jamais empêché de tel rapatriement.
+
+<<3640.46;3645.86;fr>>
+L'ensemble des États qui l'ont souhaité ont pu rapatrier les ressortissants.
+
+<<3645.86;3658.02;fr>>
+Je cite les États-Unis, l'Ouzbékistan, le Tadjikistan, la Russie, le Kosovo, l'Indonésie, l'Algérie ont rapatrié leurs ressortissants, soit environ 1250 personnes.
+
+<<3658.02;3664.7;fr>>
+La France, l'Allemagne, l'Australie, la Suède et la Norvège en ont rapatrié 50.
+
+<<3664.7;3668.86;fr>>
+Cette absence d'obstacles juridiques et pratiques au rapatriement a été démontrée.
+
+<<3668.86;3682.54;fr>>
+La France a procédé à plusieurs reprises au rapatriement de ressortissants mineurs de nationalité française détenus dans le nord-est syrien sans que cela constitue une charge insurmontable.
+
+<<3682.54;3698.14;fr>>
+Il est difficile de concevoir pourquoi aujourd'hui comme hier, en rapatrier quelques dizaines de plus, constituerait une différence telle que la lui imposée de le faire deviendrait aujourd'hui impossible.
+
+<<3698.14;3705.3;fr>>
+La France a la capacité matérielle, humaine, logistique de procéder à de tels rapatriements, contrairement à ce qui est soutenu.
+
+<<3705.3;3716.22;fr>>
+Et l'on peut raisonnablement attendre d'elle qu'elle mette ses moyens en oeuvre s'agissant d'un Etat démocratique qui se doit de protéger ses propres ressortissants.
+
+<<3716.22;3724.62;fr>>
+Concernant la situation des ressortissants étrangers dans les camps du nord-est syrien, deux rapports spéciaux des Nations Unies le soulignent.
+
+<<3724.62;3733.58;fr>>
+Les obstacles éventuels ne sauraient constituer une cause justificative de l'inaction de l'Etat défendeur.
+
+<<3733.58;3747.62;fr>>
+Nous insistons sur la circonstance que la France ne saurait harguer de sa participation à l'assistance humanitaire apportée aux populations du nord-est syrien pour se dédouaner de ses obligations conventionnelles.
+
+<<3747.62;3765.98;fr>>
+En effet, cette participation à l'aide humanitaire sur le territoire du nord-est syrien n'a pas permis de protéger effectivement le droit des filles et des petits-enfants des requérants puisqu'il est manifeste que de tels traitements perdurent toujours à l'heure où nous plaidons devant votre cour.
+
+<<3765.98;3782.06;fr>>
+Il résulte de ce qui précède que l'obligation positive générale de l'Etat français de prendre toutes les mesures propres à prévenir les traitements inhumains ou dégradants donne prise à une véritable obligation de leur octroyer sa protection consulaire.
+
+<<3782.06;3790.98;fr>>
+Celle-ci, eu égard à la gravité, à la particularité de leur situation, implique une obligation positive spécifique de procéder à leur rapatriement.
+
+<<3790.98;3814.38;fr>>
+Sur le terrain de l'article 3, la Cour a posé le principe selon lequel je cite, même dans les circonstances les plus difficiles, telles la lutte contre le terrorisme et le crime organisé, la Convention prohibe en termes absolus la torture et les traitements inhumains ou dégradants, quel que soit le comportement de la personne concernée.
+
+<<3814.38;3826.22;fr>>
+L'hostilité de la population envers une personne ou une catégorie de personnes n'est aucunement une raison admissible et a fortiori suffisante pour limiter ses droits fondamentaux.
+
+<<3826.22;3833.74;fr>>
+En effet, le caractère absolu de l'article 3 est une règle qui ne souffre aucune exception.
+
+<<3833.74;3856.14;fr>>
+Votre Cour précise d'ailleurs qu'il n'est pas possible de prendre en compte les agissements de la personne considérée, aussi indésirables ou dangereux soient-ils, ni de mettre en balance le risque de mauvais traitements et les motifs invoqués pour l'éloignement afin de déterminer si la responsabilité de l'État est engagée sur le terrain de l'article 3.
+
+<<3856.14;3861.26;fr>>
+Ainsi, la prohibition des traitements inhumains ou dégradants présente un caractère absolu.
+
+<<3861.26;3884.34;fr>>
+Mesdames et Messieurs les juges, à défaut d'avoir respecté son obligation positive de mettre fin aux traitements inhumains et dégradants subis par ces ressortissants à l'extérieur de ces frontières, à la lumière notamment du mécanisme de la protection consulaire, l'État français a ainsi violé le droit des filles et des petits-enfants de requérants de ne pas le subir.
+
+<<3884.34;3892.26;fr>>
+L'article 3, paragraphe 2 du protocole, énonce que nul ne peut être privé du droit d'entrée sur le territoire de l'État dont il est ressortissant.
+
+<<3892.26;3898.26;fr>>
+La Cour ne s'est jamais à ce jour prononcée au fond sur le contenu de cette disposition.
+
+<<3898.26;3904.54;fr>>
+La Cour intéraméricaine des droits de l'homme a d'ores et déjà reconnu cette obligation positive.
+
+<<3904.54;3915.34;fr>>
+Nous considérons que cette disposition reconnaît, au bénéfice des ressortissants des Etats-partis, un droit d'entrée sur le territoire de leur État de nationalité.
+
+<<3915.34;3924.3;fr>>
+Nous estimons que, dans les présentes circonstances, la France a privé par ses inactions ses ressortissants d'entrée sur le territoire national.
+
+<<3924.3;3940.22;fr>>
+L'article 3, paragraphe 2 du protocole contient une obligation positive à la charge de l'État de garantir et de protéger le droit de ses ressortissants d'entrée sur le territoire national, obligation que la France a violée.
+
+<<3940.22;3963.58;fr>>
+Il ne fait aucun doute, autre regard des travaux préparatoires, de l'interprétation développée par d'autres instances internationales vis-à-vis des dispositions équivalentes à l'article 3, paragraphe 2 du protocole numéro 4, que cet article consacre bien au bénéfice des ressortissants d'un État un droit d'entrée sur le territoire national.
+
+<<3963.58;3975.22;fr>>
+À cet égard, l'interprétation du pacte international relatif aux droits civils et politiques, opérée par le Comité des droits de l'homme des Nations Unies, est particulièrement significative.
+
+<<3975.22;3992.42;fr>>
+L'article 10, paragraphe 2 de la Convention internationale sur les droits de l'enfant consacre expressément le droit qu'un enfant et ses parents ont de quitter tout pays, y compris le leur, et de revenir dans leur propre pays.
+
+<<3992.42;4022.78;fr>>
+Il ressort donc à la fois de la lecture littérale de l'article 3, paragraphe 2 du protocole numéro 4, des travaux préparatoires de cet article, de la jurisprudence d'organes internationaux de protection des droits de l'homme, portant sur des dispositions équivalentes et du principe d'effectivité que cet article contient effectivement un droit subjectif au profit des ressortissants d'état parti de la Convention d'entrer sur le territoire dont il possède la nationalité.
+
+<<4022.78;4030.42;fr>>
+Il ne fait aucun doute que des actions de l'État puissent priver ces ressortissants du droit d'entrer sur le territoire national.
+
+<<4030.42;4039.02;fr>>
+La France, quant à elle, ne les a ni déchus formellement de ce droit d'entrer sur le territoire national, ni même refoulé aux frontières, par exemple.
+
+<<4039.02;4053.34;fr>>
+La présente situation trouve son origine principale dans l'inaction des autorités françaises qui ont publiquement exprimé leur volonté de faire perdurer, au-delà du raisonnable, cette situation inacceptable.
+
+<<4053.34;4079.18;fr>>
+Les filles et les petits-enfants des requérants se trouvent de fait bannis du territoire national, quand bien même les autorités françaises ne les ont pas privés par un acte positif formel de leur droit d'entrer sur le territoire national et quand bien même aucune mesure positive ne fut prise par les autorités françaises pour les empêcher d'entrer sur le territoire qui est leur patrie.
+
+<<4079.18;4092.86;fr>>
+Les États-partis sont ainsi tenus de mobiliser les moyens adéquats pour assurer le respect des droits et ne peuvent pas se contenter de ne pas se rendre coupable d'une ingérence active.
+
+<<4092.86;4104.62;fr>>
+La Cour a ainsi mis en œuvre ce principe d'effectivité, à l'égard des articles 3 et 4 de la Convention, dont l'énoncé s'apparente à celui de l'article 3, paragraphe 2 du protocole numéro 4.
+
+<<4104.62;4125.06;fr>>
+Votre Cour exerce son contrôle sur les mesures prises par l'État afin de remplir ses obligations positives et vérifie que celui-ci a respecté le juste équilibre aménagé entre la sauvegarde de l'intérêt général de la communauté et le respect des droits fondamentaux de l'homme.
+
+<<4125.06;4136.86;fr>>
+Vous veillez également à ce que les mesures exigées de l'État n'aient pas pour conséquence d'imposer aux autorités nationales un fardeau insupportable ou excessif.
+
+<<4136.86;4142.02;fr>>
+Ces principes valent pour l'ensemble des droits garantis par la Convention.
+
+<<4142.02;4159.26;fr>>
+Mesdames et Messieurs les juges, la France a-t-elle pris les mesures qui étaient en son pouvoir et que l'on pouvait raisonnablement attendre d'elles afin de garantir et de protéger les droits des filles et des petits-enfants des requérants d'entrer sur le territoire national?
+
+<<4159.26;4184.98;fr>>
+Force est de constater que la France n'a pris aucune mesure afin de protéger et de garantir le droit des filles et des petits- enfants des requérants d'entrer sur ce territoire, alors même que ces personnes se trouvaient dans l'impossibilité matérielle de retourner sur le territoire national, la France étant évidemment informée de cette situation puisque les requérants ont formulé des demandes de rapatriement de leurs enfants et petits-enfants.
+
+<<4184.98;4198.3;fr>>
+Nous le réaffirmons avec force, le rapatriement ne constitue en aucun cas un fardeau insupportable et excessif au sens de la jurisprudence de la Cour.
+
+<<4198.3;4206.38;fr>>
+Sur ce point, le raisonnement est exactement le même que sous l'angle du grief tiré de l'article 3 de la Convention.
+
+<<4206.38;4219.1;fr>>
+La véritable raison pour laquelle la France n'a pris aucune mesure pour assurer le retour sur le territoire français n'est absolument pas liée à des considérations juridiques ou pratiques.
+
+<<4219.1;4239.34;fr>>
+Il est impossible de soutenir que la France a assuré un juste équilibre entre la sauvegarde de l'intérêt général de la communauté et le respect des droits des personnes concernées, puisque les véritables raisons justifiant le non-rapatriement de ceux-ci ne ressortent en aucun cas de l'intérêt général.
+
+<<4239.34;4247.1;fr>>
+Il n'est pas tant que les filles et les petits-enfants des requérants sont soumis à des traitements contraires à l'article 3.
+
+<<4247.1;4263.54;fr>>
+Or, dans la balance des intérêts en cause, votre Cour pondère ce qui peut être raisonnablement exigé de l'État d'une part et le risque physique et moral que la situation litigieuse avait pour le requérant d'autre part.
+
+<<4263.54;4273.46;fr>>
+Au regard des risques physiques et moraux avérés courus, la France aurait dû procéder à leur rapatriement depuis bien longtemps.
+
+<<4273.46;4291.62;fr>>
+Pour les requérants que nous représentons aujourd'hui, le caractère absolu du droit au retour consacré par l'article 3 paragraphe 2 du protocole numéro 4 doit jouer dans l'évolution, dans l'évaluation de la marge d'appréciation laissée à l'État pour la réalisation de son obligation positive.
+
+<<4291.62;4297.82;fr>>
+Nous nous insurgeons enfin sur le caractère éminemment arbitraire de cette décision de non-rapatriement.
+
+<<4297.82;4306.34;fr>>
+Le Comité des droits de l'homme a précisé ce que l'arbitraire pouvait signifier au regard du droit d'entrée sur le territoire national.
+
+<<4306.34;4314.58;fr>>
+Or, les décisions implicites de refus de rapatriement prises par les autorités françaises ne répondent à aucun de ces critères.
+
+<<4314.58;4329.74;fr>>
+Elles sont injustifiées, injustes, imprévisibles, inappropriées au regard aux exigences de justice et de prééminence du droit puisque les victimes sont laissées face à un vide juridique.
+
+<<4329.74;4341.94;fr>>
+Les requérants estiment à juste titre que leurs filles et leurs petits-enfants sont privées du fait de l'inaction des autorités françaises de leur droit d'entrée sur le territoire national.
+
+<<4341.94;4355.02;fr>>
+Monsieur le Président, Mesdames et Messieurs les juges de la Cour, la France a en vertu de son obligation positive l'impérieux devoir de recourir aux nécessaires moyens en vue de garantir et de protéger leurs droits au retour.
+
+<<4355.02;4357.78;fr>>
+Le rapatriement est l'unique solution.
+
+<<4357.78;4374.94;fr>>
+La circonstance que plusieurs rapatriements ont d'ores et déjà été opérés démontre indubitablement que le rapatriement ne constitue en aucun cas un fardeau insupportable et excessif, comme le soutiennent encore aujourd'hui devant votre Cour les autorités françaises.
+
+<<4374.94;4395.74;fr>>
+L'inconsistance de la position juridique, soutenue avec force depuis l'origine par les autorités françaises, la violation des dispositions de la Convention et de ses protocoles additionnels doivent irrémédiablement vous conduire à déclarer les requêtes recevables, à condamner la France et à accorder la juste satisfaction et l'équitable.
+
+<<4395.74;4405.62;fr>>
+Il en va de la vie des mères et de leurs enfants, aujourd'hui trop longtemps retenus dans les camps et séparés de leurs proches et du respect de l'État de droit.
+
+<<4405.62;4405.62;fr>>
+Merci.
+
+[[JudgeP;Robert Spano]]
+
+<<4407.79;4410.51;en>>
+Merci beaucoup, Maître Pettiti.
+
+<<4410.51;4415.03;en>>
+I now turn to the third-party intervenors in the case.
+
+<<4415.03;4417.43;en>>
+The floor is for Commissioner Mijatović.
+
+<<4417.43;4418.43;en>>
+Please, you have the floor, Madam.
+
+[[ThirdParty;TP3]]
+
+<<4430.64;4435.44;en>>
+Mr. President, distinguished members of the Court,
+
+<<4435.44;4446.28;en>>
+I have decided to intervene in these cases because they concern an urgent situation, demanding urgent action.
+
+<<4446.28;4458.12;en>>
+The situation faced by nationals of Council of Europe member states detained in the camps in northeast Syria is continuously deteriorating.
+
+<<4458.12;4466.48;en>>
+From both a humanitarian and a security point of view, and it involves many small children.
+
+<<4466.48;4477.2;en>>
+Furthermore, it has an important implications for the protection of the rights of victims of terrorism and the prevention of terrorism.
+
+<<4477.2;4485.36;en>>
+My office has been working on the return of suspected European ISIS fighters for several years.
+
+<<4485.4;4497.98;en>>
+Their voluntary return and in some instances their expulsion to their home countries have raised a wide range of issues for the member states concerned.
+
+<<4497.98;4519.52;en>>
+These include identifying and locating these returnees, as they are often called, bringing them to justice where appropriate, identifying, assisting, and protecting those who may have been victims of trafficking, and providing adequate medical, social, and psychological support to their children.
+
+<<4519.52;4535.34;en>>
+With the territorial defeat of ISIS and the detention of large numbers of Council of Europe citizens, mostly women and children, in camps in northeast Syria, new challenges have emerged.
+
+<<4535.34;4543.44;en>>
+For several years now, and still at this very moment, women and children are literally dying in these camps.
+
+<<4543.44;4550.36;en>>
+Or their lives are threatened by the appalling conditions and the violence prevailing therein.
+
+<<4550.36;4558.2;en>>
+This has been widely documented, including in the written submissions of the parties and the third parties to these cases.
+
+<<4558.2;4563.72;en>>
+Against this background, two main questions arise.
+
+<<4563.72;4576.68;en>>
+Do state parties have a duty under the Convention and international human rights law to address the situation of their nationals detained in these camps?
+
+<<4576.68;4582.28;en>>
+And if so, what are they required to do?
+
+<<4582.28;4600.04;en>>
+Relying on the many discussions and consultations I held, not only with human rights interlocutors, but also with counterterrorism and security experts, and with representatives of victims of terrorism, I have reached the following conclusions.
+
+<<4600.04;4606.92;en>>
+The first question, do state parties have a duty, should be answered positively.
+
+<<4606.92;4614.36;en>>
+Since the state parties' nationals detained in these camps fall within their state of nationalities jurisdiction.
+
+<<4614.36;4622.28;en>>
+Therefore, the state parties concerned have a positive obligation to protect the rights of their nationals.
+
+<<4622.28;4626.92;en>>
+As for the second question, what are they required to do?
+
+<<4626.92;4633.52;en>>
+In the present situation, their repatriation is, in my opinion, the only way forward.
+
+<<4633.52;4638.56;en>>
+Now, I should like to briefly address the issue of jurisdiction.
+
+<<4638.56;4650.72;en>>
+In this regard, much of the discussion focused on the interpretation of this court's decision in the case of Amman and others versus Belgium in the light of the present circumstances.
+
+<<4650.72;4667.16;en>>
+According to that decision, jurisdiction presupposes existence of a link with the respondent state and the exercise by the state of authority or control over persons located in its territory and from whom it is responsible.
+
+<<4667.16;4685.44;en>>
+Clearly, the European nationals detained in Northeast Syria have a much closer link with the state parties to which they are applying for repatriation than the applicants in the case of Amman and others versus Belgium.
+
+<<4685.44;4692.24;en>>
+They are nationals, which forms are uncontested, a robust link to for personal jurisdiction.
+
+<<4692.24;4717.6;en>>
+The UN special rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism and the UN special rapporteur on arbitrary summary and extrajudicial executions have stressed that UN soft law instruments confirm the responsibility of the states of nationality towards their nationals.
+
+<<4717.6;4738.08;en>>
+In particular, one of the UN key principles for the protection, repatriation, prosecution, rehabilitation, and reintegration of women and children with links to United Nations listed terrorist groups sets out the state's primary responsibility for their own nationals.
+
+<<4738.08;4759.08;en>>
+It adds that states should ensure their citizens suspected of having committed crimes on the territory of another member state are treated in accordance with international law, including international human rights law, international humanitarian law, and international refugee law.
+
+<<4759.08;4789.1;en>>
+Furthermore, in its admissibility decisions of 30th of September 2020 and 4th February 2021 concerning two communications lodged by the relatives of French children detained in the camps of northeast Syria, the Committee on the Rights of the Child found that states have the positive obligation to protect the human rights of child nationals in the Syrian camps, despite the fact that these camps are under the control of a non-state armed group.
+
+<<4789.1;4811.6;en>>
+Finally, it is important to note that state parties, nationals who are willing to be repatriated remain stranded in these camps, despite the agreement to repatriation given by the autonomous administration of north and east Syria and the proven ability of a number of state parties to organize such operations.
+
+<<4811.6;4830.98;en>>
+These circumstances suggest that a main factor determining the fate of these European citizens is the state party's refusal to repatriate them, and therefore that they exercise decisive influence on the situation of these persons.
+
+<<4830.98;4849.56;en>>
+While this may not constitute effective control within the meaning of this court's case law, it falls, in my view, within the authority of control referred to by this court in the decision of Hemen and others versus Belgium.
+
+<<4849.56;4859.8;en>>
+Therefore, I consider that the European citizens detained in the camps of north east Syria fall within the jurisdiction of the state parties in which there are nationals.
+
+<<4859.8;4869.04;en>>
+I would also like to share with the court my views on the scope of the state's responsibilities towards their nationals detained in these camps.
+
+<<4869.04;4881.24;en>>
+It is not disputed that there is a proven risk of serious harm to physical and psychological integrity of persons disdained in the camps of north east Syria.
+
+<<4881.24;4892.52;en>>
+It has been argued that the treatment that the detained women are exposed to is the result of their own choice.
+
+<<4892.52;4896.76;en>>
+Such assertions prompt several remarks.
+
+<<4896.76;4912.32;en>>
+Firstly, the entire convention is based on the idea that certain treatments cannot be justified under any circumstance and that state parties have the collective duty to eradicate it.
+
+<<4912.32;4935.64;en>>
+Therefore, they get what they deserve cannot be an acceptable answer to treatment that is incompatible with the convention, even when inflicted outside of the territory of the state parties, especially when the state concern has the capability to act to put an end to a violation.
+
+<<4935.64;4947.16;en>>
+Secondly, most of the women are detained with their children, who should not be forced to bear the consequences of their mother's choices.
+
+<<4947.16;4967.08;en>>
+Thirdly, these women and children may have been victims of coercion and trafficking, and states have an international obligation to identify, assist, and protect victims, including extraterritorially, as the UN special reporter on trafficking in persons, especially women and children, has stressed.
+
+<<4970.36;4986.08;en>>
+The conditions of detention in the camps in northeast Syria raise serious questions about their compliance with Article 3 of the convention prohibiting torture and inhuman and degrading treatment or punishment.
+
+<<4986.08;5002.32;en>>
+This court has judged on many instances that state parties have a positive obligation to take measures to prevent persons under their jurisdiction from being subjected to treatment contrary to Article 3.
+
+<<5002.32;5032.76;en>>
+In the present situation, it is not disputed that state parties are aware of the nature and gravity of the risks to which their nationals are exposed, an accumulation of unbearable heat in summer, cold in winter, insufficient food, limited access to water and sanitation, lack of hygiene, anxiety generated by lengthy detention without prospect of judgment or release, physical and psychological violence.
+
+<<5032.76;5045.92;en>>
+In addition, several of them, including France, have demonstrated that they are able to organize the repatriation of their nationals in cooperation with the Syrian Democratic Forces.
+
+<<5045.92;5062.36;en>>
+In this context, and considering the fact that the situation is deteriorating rapidly, repatriating their nationals is, in my view, the only way of fulfilling the state party's positive obligation under Article 3 of the convention.
+
+<<5062.36;5073.64;en>>
+Repatriation also seems to me to be the only possible way to protect the rights enshrined in the UN Convention on the Rights of the Child.
+
+<<5073.64;5091.96;en>>
+According to experts, life on the ground, including experience of war and bombings, as well as the violence between children and from adults towards children in the context of the camps, forms a continuum of violence.
+
+<<5091.96;5102.2;en>>
+It is urgent to stop this continuum now since the chances of trauma recovery diminish with the length of exposure.
+
+<<5102.2;5115.08;en>>
+In view of the situation in the camps, I do not believe that a case-by-case approach before repatriation can be justified, nor would it be feasible.
+
+<<5115.08;5122.72;en>>
+No one can claim that certain children are not at risk or are not going through this continuum of violence.
+
+<<5122.72;5139.92;en>>
+I consider that repatriation at the earliest opportunity of all children who are nationals of state parties to the convention is the only measure that can put an end to the ongoing violation of their most fundamental rights.
+
+<<5139.92;5152.84;en>>
+Their repatriation, along with their mothers, is necessary to safeguard their best interests and prevent their re-traumatization through separation from the primary caregiver.
+
+<<5152.84;5167.6;en>>
+Once on the ground, relevant experts will be able to properly assess and take steps in each individual case in the best interests of the child and in interests of justice.
+
+<<5167.6;5180.0;en>>
+Finally, I should like to underline that the protection of the rights of victims of terrorism and the prevention of terrorism may be hindered by the refusal to repatriate European nationals.
+
+<<5180.0;5188.24;en>>
+Women detained in the northeast Syrian camps are not being prosecuted by the autonomous administration of north and east Syria.
+
+<<5188.24;5197.12;en>>
+As for criminal investigations initiated in their home countries, these cannot be conclusive either without them being present.
+
+<<5197.12;5211.52;en>>
+It is therefore also in the interest of the victims of terrorism to see the possible perpetrators of terrorist acts being returned and properly tried to get access to trials and demand reparation.
+
+<<5211.52;5232.08;en>>
+In addition, many reports from national and international counterterrorism bodies show that the terrorist and security risk resulting from the detention of foreign nationals in the camps and prisons in northeast Syria or Iraq is greater than the risk that might arise from their repatriation.
+
+<<5232.08;5239.6;en>>
+States have a duty under international law to bring terrorists to justice and to prevent terrorism.
+
+<<5239.6;5244.76;en>>
+Repatriation is necessary to fulfill this duty as well.
+
+<<5244.76;5255.9;en>>
+There is no doubt that repatriating their nationals detained in the northeast Syrian camps is a very delicate and sensitive challenge for the state parties concerned.
+
+<<5255.9;5260.84;en>>
+But to conclude, let me stress that there are not left helpless.
+
+<<5260.84;5276.44;en>>
+They can count on the experience of counterparts having already repatriated their nationals, the assistance of other states, and the guidance and expertise provided by international organizations, especially the United Nations.
+
+<<5276.44;5285.46;en>>
+A French prosecutor dealing with the returned and repatriated children recently stated, these are our kids.
+
+<<5285.46;5288.28;en>>
+They didn't ask for anything.
+
+<<5288.28;5294.08;en>>
+It is normal that we take care of them and that their parents are held accountable.
+
+<<5294.08;5298.8;en>>
+Since the first returns in 2016, the system has worked.
+
+<<5298.8;5303.28;en>>
+These children had no interest in going to school, in having friends.
+
+<<5303.28;5307.42;en>>
+We can already see that they are returning to a normal life.
+
+<<5307.42;5316.04;en>>
+It is the state party's duty to give all the children stranded in the camps a chance to return to a normal life.
+
+<<5316.04;5319.86;en>>
+I hope my comments will be helpful to the court.
+
+<<5319.86;5322.16;en>>
+And I thank you for your attention.
+
+[[JudgeP;Robert Spano]]
+
+<<5323.71;5326.43;en>>
+Thank you very much indeed, Commissioner Mijatović.
+
+<<5326.43;5332.51;en>>
+I now turn to the joint representatives of the third-party intervening governments.
+
+<<5332.51;5332.51;en>>
+Mr. James Eadie QC, you have the floor.
+
+[[ThirdParty;TP2]]
+
+<<5340.07;5346.31;en>>
+Mr. President, members of the court, my submissions will deal with the issues relating to jurisdiction
+
+<<5346.31;5353.31;en>>
+on behalf of the intervening government. I start with nationality. The government's
+
+<<5353.31;5368.79;en>>
+submission is that nationality provides no basis for concluding that a person is within the jurisdiction of the contracting state. Three key points we submit are to be noted.
+
+<<5368.79;5380.87;en>>
+First, to treat nationality as doing so would be fundamentally inconsistent with the basis on which the Convention's jurisdictional reach was conceived and framed. It would have
+
+<<5380.87;5394.79;en>>
+been easy and obvious, had that been the intention, to cast Article 1 to make clear that contracting states were obliged to secure Convention rights to their nationals wherever they may be. The
+
+<<5394.79;5407.51;en>>
+wording of Article 1 within the jurisdiction is inconsistent with such an intention and there is nothing whatever in the travo to support it. Quite the reverse.
+
+<<5407.51;5421.47;en>>
+Second, instead, this court has repeatedly recognised, from Bankovic to Emman and Belgium, that the concept of a person being within the jurisdiction is primarily territorial.
+
+<<5421.47;5439.15;en>>
+The principled presumption is that the state exercises authority and control necessary to secure the rights and freedoms guaranteed under the Convention to everyone within a state's territory. They do so irrespective of nationality, indeed subject to a specific
+
+<<5439.15;5446.55;en>>
+obligation not unjustifiably to discriminate on grounds of nationality. The limited exceptions
+
+<<5446.55;5467.27;en>>
+to, or extensions of, that primarily territorial conception of jurisdiction are exceptional, again the court's word, and are founded on precisely the same basis of authority and control enabling the securing of the Convention right or freedom in question.
+
+<<5467.27;5473.19;en>>
+Nationality provides no such basis. A state cannot, for example, secure that the conditions
+
+<<5473.19;5492.07;en>>
+in a camp or a prison in a foreign sovereign state conform to the requirements of Article 3 or that the authorities in such a state do not subject the national of another state to Article 3 ill-treatment. And there are powerful reasons for limiting within the jurisdiction
+
+<<5492.07;5506.15;en>>
+to situations of control and authority because that control and authority is the bedrock on which the obligation to secure sits. A state cannot secure its nationals against
+
+<<5506.15;5520.11;en>>
+ill-treatment in a foreign state because basic principles of international law limit the exercise of enforcement jurisdiction by a state outside its own territory.
+
+<<5520.11;5533.03;en>>
+Third, the implications of this sort of extension would be as serious as they are inimical to the Framers' intention. Every national anywhere in the world is suddenly within the jurisdiction
+
+<<5533.03;5544.23;en>>
+of the state, with the consequent obligation to secure at least some of the rights and freedoms for them. It does so in circumstances in which the ability to secure the relevant
+
+<<5544.23;5549.83;en>>
+substantive rights is, or may very well be, simply absent.
+
+<<5549.83;5560.47;en>>
+So our submission is that nationality provides no basis for concluding that a person is within the jurisdiction of the state whilst abroad. The key feature which links all of the recognised
+
+<<5560.47;5579.27;en>>
+jurisdictional categories is the fact that a contracting state has, by its own positive action, asserted the requisite degree of authority and control over persons, or indeed over a whole area, outside its territory. And that feature is wholly absent in the context of
+
+<<5579.27;5582.23;en>>
+the present applications.
+
+<<5582.23;5592.91;en>>
+Sending article 3 of protocol 4 to my Dutch colleague, the applicants have identified four other features which they say bring their relatives within the jurisdiction of France.
+
+<<5592.91;5604.71;en>>
+We submit that none of those features comes close to bringing these cases within the exceptional categories carefully developed by this court. I'll take them in turn, but the opening point
+
+<<5604.71;5622.59;en>>
+is that if, as we submit, nationality does not in principle provide a basis for a person being within the jurisdiction, it cannot coherently re-enter the arena to provide the support for such a basis, in combination with other things.
+
+<<5622.59;5637.03;en>>
+As to the four specific features relied upon, first, there is no plausible basis whatever for suggesting that France is in effective or any other form of control over an area in Syria.
+
+<<5637.03;5660.63;en>>
+Second, the fact that the applicants brought interlocutory proceedings before the domestic French courts, seeking an order directing repatriation of their daughter and grandchildren, could only create a jurisdictional link for procedural rights, such as in respect of article 6 or the procedural limb of articles 2 or 3. But as MN and Belgium clearly demonstrate,
+
+<<5660.63;5690.79;en>>
+there is a clear and critical distinction between, on the one hand, jurisdictional links sufficient for some procedural convention guarantees, such as arose, for example, in the Markovits case, and on the other hand, the jurisdictional links sufficient for other substantive convention rights, including, critically for present purposes, the substantive guarantees in article 3. The former link does not support the latter link, and nor should
+
+<<5690.79;5696.75;en>>
+it. A form of jurisdiction in relation to substantive rights could, if that were the
+
+<<5696.75;5703.07;en>>
+case, then simply be generated by making a referral to the domestic courts.
+
+<<5703.07;5720.67;en>>
+Third, in relation to French criminal investigations, no doubt the fact of nationality may provide, in domestic law, a necessary link between the national and his or her state before certain action is taken by that state. That may render a person subject to proceedings by the state
+
+<<5720.67;5732.83;en>>
+and a person subject to such proceedings may well be within the jurisdiction, just like everyone else so subject, if the proceedings do not conform to convention standards. However,
+
+<<5732.83;5752.99;en>>
+that fact does not lead, cannot lead to, or support, a more general conclusion that nationality brings a person within the jurisdiction for all purposes, or specifically for the purposes of preventing article 3 ill-treatment by a foreign state. There is no link whatsoever
+
+<<5752.99;5766.11;en>>
+between those criminal proceedings initiated by France, which concern terrorist-related offences, and the article 3 complaint made by the applicants. Even if some jurisdictional
+
+<<5766.11;5779.71;en>>
+link was established, which it is not, again it would only be, and could only be, in respect of procedural convention rights. Finally, the fact that France had, for humanitarian
+
+<<5779.71;5790.43;en>>
+reasons, arranged for the repatriation of a number of French orphan children has no bearing on whether the applicant's relatives fall within the jurisdiction of France. The
+
+<<5790.43;5803.59;en>>
+court has never, in its case law, concluded that a state has jurisdiction merely by virtue of its capacity to act. An extension of the concept of effective control or authority
+
+<<5803.59;5822.83;en>>
+to cover capacity to act would be a radical departure from the court's well-established case law and would give rise to serious legal uncertainty for states, given the inherent difficulty in defining such a concept. Mettel-Dauzé says that the decision not to provide consular
+
+<<5822.83;5837.27;en>>
+assistance provides the requisite authority and control, and so brings the subject of that decision within the jurisdiction of the state. That is, we submit, untenable. It confuses
+
+<<5837.27;5844.11;en>>
+the concept of jurisdiction with arguments about the substantive content of the right.
+
+<<5844.11;5873.47;en>>
+It goes beyond the rejected notion—rejected in cases from Bankovic onwards—of effects and it is directly contrary to the core MN and Belgian conclusion of this court that a decision being made domestically having effects outside the jurisdiction is not in itself sufficient to create the requisite jurisdictional link. So on that basis, we
+
+<<5873.47;5889.35;en>>
+adopt all of the submissions made by Monsieur Allabrun on this issue, and on behalf of all the intervening governments, I invite the court not to take the very considerable jurisdictional step that the applicants and the Commissioner invite you to take.
+
+[[JudgeP;Robert Spano]]
+
+<<5891.06;5892.5;en>>
+Thank you very much, Sir Eadie.
+
+<<5892.5;5895.54;en>>
+I now move to Miss Koopman.
+
+<<5895.54;5896.38;en>>
+Please, you have the floor.
+
+[[ThirdParty;TP1]]
+
+<<5902.85;5906.97;en>>
+Mr. President, distinguished members of the court,
+
+<<5906.97;5913.53;en>>
+the governments of the intervening states would like to thank the court for the opportunity for this oral intervention.
+
+<<5913.53;5918.03;en>>
+The key question is the matter of jurisdiction.
+
+<<5918.03;5924.53;en>>
+This is a matter certainly of general importance that goes beyond the particular facts of this case.
+
+<<5924.53;5934.93;en>>
+Also, in most intervening states, national legal procedures are pending with respect to similar factual circumstances.
+
+<<5934.93;5940.07;en>>
+The governments wish to emphasize the importance of the matters at hand in this case.
+
+<<5940.07;5947.85;en>>
+Should the court establish jurisdiction, this will have far-reaching implications for the contracting states.
+
+<<5947.85;5953.81;en>>
+In our view, to do so would not only deviate from well-established case law concerning jurisdiction.
+
+<<5953.81;5963.17;en>>
+It would significantly extend the obligations of contracting states contrary to the purpose and nature of the convention.
+
+<<5963.17;5976.13;en>>
+It would entail that contracting states would be held responsible under the convention for individuals and events that are totally outside the control and influence of states.
+
+<<5976.13;5981.97;en>>
+I will not repeat what has been submitted in the written observations of the intervening states.
+
+<<5981.97;5989.61;en>>
+All intervening states unambiguously conclude that in this case, there is no jurisdiction under the convention.
+
+<<5989.61;5993.45;en>>
+In this oral intervention, I would like to highlight three aspects.
+
+<<5993.45;5998.17;en>>
+First, that jurisdiction cannot be established on the basis of nationality.
+
+<<5998.17;6010.01;en>>
+Second, that positive obligations under Article III of the convention cannot arise in situations which there is no jurisdiction under Article I. And third, Article III,
+
+<<6010.01;6017.53;en>>
+paragraph 2 of Protocol IV to the convention does not apply extraterritorially.
+
+<<6017.53;6037.81;en>>
+The governments wish to underline that, as already been stated, nothing in this convention court's case law provides a basis for the proposition that citizenship or nationality can establish a basis for jurisdiction for the purpose of Article I of the convention.
+
+<<6037.81;6055.29;en>>
+Indeed, jurisdiction based on nationality would entail that a contracting state is under an obligation to secure the rights and freedoms of its nationals globally, even if they are abroad under the jurisdiction of another state.
+
+<<6055.29;6062.13;en>>
+This approach would significantly stretch the scope of application of the convention.
+
+<<6062.13;6070.83;en>>
+It would also go far beyond the court's established position that the notion of jurisdiction is essentially territorial.
+
+<<6070.83;6078.21;en>>
+And that other basis for jurisdiction are exceptional and require special justification.
+
+<<6078.21;6089.57;en>>
+Besides a nearly universal application of the convention, jurisdiction on the basis of nationality would entail discrimination between state nationals and non-state nationals.
+
+<<6089.57;6100.65;en>>
+The obligation to secure the rights and freedoms set out in the convention would then, in certain circumstances, depend on the nationality of the person.
+
+<<6100.65;6107.77;en>>
+This would be highly undesirable and even contrary to the essence of the convention.
+
+<<6107.77;6121.43;en>>
+In sum, to base jurisdiction on nationality would go against the very fundaments of the convention, as it would rely on discriminatory criterion for its applicability.
+
+<<6121.43;6124.25;en>>
+It must therefore be rejected.
+
+<<6124.25;6127.45;en>>
+I will now address the second aspect of this intervention.
+
+<<6127.45;6139.61;en>>
+The court has asked the parties whether Article III imposes positive obligations on states to provide consular protection in order to prevent treatment in contravention of Article III.
+
+<<6139.61;6146.29;en>>
+The governments would stress that for the reasons set out before, there is no jurisdiction under Article I.
+
+<<6146.29;6149.25;en>>
+And the convention, therefore, does not apply.
+
+<<6149.25;6153.85;en>>
+No positive obligations under the convention can therefore arise.
+
+<<6153.85;6166.65;en>>
+Even inhuman treatment of a state's national abroad cannot give rise to obligations for a state in jurisdiction under Article I. To find otherwise
+
+<<6166.65;6176.85;en>>
+would be to deny the court's well-established position that jurisdiction is a threshold criterion, decisive for the applicability of the convention.
+
+<<6176.85;6180.49;en>>
+The court has held this in numerous cases.
+
+<<6180.49;6192.81;en>>
+We believe that the contracting states do not have a positive obligation to provide consular protection to nationals who face inhuman or degrading treatment outside their jurisdiction.
+
+<<6192.81;6197.67;en>>
+The court refers in its question to the cases Al-Masri and Priti.
+
+<<6197.67;6211.57;en>>
+However, these cases deal with fundamentally different situations where the applicants were on the territory of a contracting state or had been under the control of one or more of its state's agents.
+
+<<6211.57;6217.25;en>>
+Consequently, we do not find that these cases have any bearing on the case at hand.
+
+<<6217.25;6222.53;en>>
+The governments further refer to the decision in the case Abdul-Wahab Khan.
+
+<<6222.53;6241.17;en>>
+In this case, the court clearly rejected the idea that contracting states must allow entry to individuals who might be at risk of ill treatment, contrary to Article III, regardless of where in the world those individuals might find themselves.
+
+<<6241.17;6268.65;en>>
+Also, the governments reiterate that the convention organs have repeatedly stated, and I quote, the convention does not contain a right which requires high-contracting parties to exercise diplomatic protection or espouse an applicant's complaints under international law or otherwise to intervene with the authorities of another state on his or her behalf, unquote.
+
+<<6268.65;6290.25;en>>
+The governments refer to the decision of the former European Commission of Human Rights in the case already mentioned, Bertrand Russell Peace Foundation, the decision in the case S versus the Federal Republic of Germany, and the judgment of the court in M and others versus Italy and Bulgaria.
+
+<<6290.25;6304.25;en>>
+To conclude, the governments hold that Article III cannot impose positive obligations, such as the provision of consular assistance on contracting states with respect to individuals outside their jurisdiction.
+
+<<6304.25;6318.77;en>>
+If an individual voluntarily leaves the contracting state and is then confronted with ill treatment by another state, this will not create jurisdiction within the meaning of Article I of the convention.
+
+<<6318.77;6326.85;en>>
+The third and final aspect of this intervention concerns Article III, paragraph 2 of Protocol IV of the convention.
+
+<<6326.85;6335.09;en>>
+This article provides that no one shall be deprived of the right to enter the territory of the state of which he or she is a national.
+
+<<6335.09;6354.89;en>>
+In the early case of CB, the European Commission held that this provision, and I quote again, relates not only to measures which affect an applicant's desire to enter a country, but rather to actual depreviations of individual's rights to enter the country of which they are a national, unquote.
+
+<<6354.89;6361.85;en>>
+The court has more recently confirmed this view in its judgment in the case Gouliev against Azerbaijan.
+
+<<6361.85;6378.41;en>>
+There, the court considered that because there were no facts indicating that a formal prohibition of entering the country or that the applicant would not be allowed to enter the country if he wished to do so, the complaint was manifestly ill-founded.
+
+<<6378.41;6385.21;en>>
+Paragraph 2 of Article III of Protocol IV, therefore, does not entail a positive obligation.
+
+<<6385.21;6393.81;en>>
+Any claim based on such perceived positive obligations must therefore be rejected as manifestly ill-founded.
+
+<<6393.81;6395.93;en>>
+Mr. President, members of the court,
+
+<<6395.93;6398.77;en>>
+I will conclude this intervention.
+
+<<6398.77;6408.61;en>>
+All governments intervening in this case are aware of the extremely difficult situation in the camps in northeast Syria.
+
+<<6408.61;6416.17;en>>
+It cannot be denied that all those in these camps face deprivation and hardship.
+
+<<6416.17;6421.77;en>>
+However, this cannot be resolved by restorting to the convention.
+
+<<6421.77;6424.37;en>>
+There is no jurisdiction.
+
+<<6424.37;6436.05;en>>
+There is no obligation under the convention for a contracting state to repatriate its nationals living in another state where it does not exert any effective control.
+
+<<6436.05;6448.89;en>>
+Any other conclusion would be contrary not only to the courts who have established case law, but also to the nature and purpose of the convention and the principle of state sovereignty.
+
+<<6448.89;6448.89;en>>
+I thank you for your attention.
+
+[[JudgeP;Robert Spano]]
+
+<<6451.54;6453.34;fr>>
+Merci beaucoup, Mme Koopman.
+
+<<6453.5;6458.18;fr>>
+Je vous remercie, tous les intervenants, pour vos interventions.
+
+<<6458.82;6464.34;fr>>
+J'invite maintenant les juges de la Grande Chambre qui souhaitent poser des questions au parti, Juge Bårdsen.
+
+[[Judge;Arnfinn Bårdsen]]
+
+<<6468.07;6470.43;fr>>
+Merci beaucoup, M. le Président.
+
+<<6470.63;6476.63;fr>>
+D'abord, j'ai une question qui s'adresse principalement aux récurrents.
+
+<<6476.83;6491.75;fr>>
+Dispose-vous d'informations concernant la situation actuelle des filles et petits-enfants des récurrents, s'agissant notamment de leur localisation exacte et leur état de santé?
+
+<<6491.95;6496.07;fr>>
+Ensuite, j'ai 3 questions à poser au gouvernement.
+
+<<6496.07;6500.67;fr>>
+Premièrement, en ce qui concerne la juridiction.
+
+<<6500.87;6529.23;fr>>
+Les récurrents soutiennent que l'article 3, paragraphe 2 du protocole numéro 4, est applicable par définition ou par sa nature, même si les victimes se trouvent en dehors du territoire de leur état national, et que l'exercice de tout droit en vertu de cette disposition est tout simplement inconcevable sans la reconnaissance d'une juridiction extraterritoriale.
+
+<<6529.43;6536.27;fr>>
+D'après vos observations écrites, il semble que votre gouvernement est d'accord avec ce point de vue.
+
+<<6536.51;6539.71;fr>>
+Et c'est bien le cas.
+
+<<6539.91;6552.23;fr>>
+Deuxièmement, dans ces observations écrites, votre gouvernement fait valoir que les filles de récurrents doivent être poursuives en Syrie pour les crimes commis dans ces pays.
+
+<<6552.23;6564.71;fr>>
+Alors, par quel type de tribunal qu'en est-il de l'avancement de la création d'un tribunal pénal international à cet égard?
+
+<<6564.91;6579.79;fr>>
+Et troisièmement, votre gouvernement a fait référence dans ces observations écrites et oralement à cette audience au protocole "cazeneuve", un accord entre la France et la Turquie.
+
+<<6579.79;6584.59;fr>>
+Quel est le mécanisme précis introduit par cet accord?
+
+<<6584.79;6596.03;fr>>
+A l'heure actuelle, y a-t-il des personnes qui retournent en France depuis la Syrie via la Turquie grâce à cet accord?
+
+<<6596.23;6607.23;fr>>
+Enfin, j'ai une question sur le droit international humanitaire, à laquelle j'aimerais que tous les deux partis répondent si possible.
+
+<<6607.43;6624.35;fr>>
+Dans ces observations écrites, le gouvernement a souligné que les filles et petits-enfants de récréants, lorsqu'ils se trouvaient dans le camp, étaient protégés par l'article 3 commun aux 4 conventions de Genève de 2049.
+
+<<6624.55;6630.67;fr>>
+Les autorités locales kurdes sont les responsables directs des conditions dans le camp.
+
+<<6630.87;6663.23;fr>>
+Cependant, je note que selon l'article 1 commun aux 4 conventions de Genève, tous les Etats partis aux instruments en question, y compris les Etats des nationalités respectives comme la France, sont tenus de veiller à ce que ces autorités respectent leurs obligations au titre de l'article 3 commun, en faisant tout ce qui est raisonnablement à leur pouvoir pour mettre fin aux violations de droits internationaux humanitaires.
+
+<<6663.43;6666.03;fr>>
+Voilà donc ma question est la suivante.
+
+<<6666.03;6678.79;fr>>
+Cette obligation de faire tout ce qui est raisonnablement à leur pouvoir pour mettre fin aux violations de droits internationaux humanitaires, peut-elle avoir une influence sur l'examen de ces affaires?
+
+<<6678.79;6683.95;fr>>
+Merci pour votre patience, et je vous remercie d'avance pour vos réponses.
+
+<<6683.95;6684.95;fr>>
+Je vous le précise.
+
+[[JudgeP;Robert Spano]]
+
+<<6685.19;6686.87;fr>>
+Merci beaucoup, Juge Guyomar.
+
+[[Judge;Mattias Guyomar]]
+
+<<6691.43;6692.83;fr>>
+Merci, M. le Président.
+
+<<6693.07;6697.59;fr>>
+J'ai une question de fait qui s'adresse aux représentants du gouvernement français.
+
+<<6699.07;6714.87;fr>>
+Il apparaît des pièces du dossier, et cela a été redit dans les plaidoiries, que les demandes des familles, des 2 familles requérantes, tenant au rapatriement des filles et des petits-enfants, des requérants ici, sont restées sans réponse.
+
+<<6715.95;6721.43;fr>>
+Et il a été mentionné qu'il y avait des décisions implicites de refus.
+
+<<6721.63;6727.47;fr>>
+Je voulais savoir si le gouvernement était en mesure d'expliquer ce choix de ne pas répondre.
+
+<<6727.67;6734.31;fr>>
+Il ne s'agit pas ici de dire pourquoi il y a eu une non-suite donnée à la demande.
+
+<<6734.79;6744.31;fr>>
+C'est vraiment une question de formalisation, d'absence de formalisation de la position française à la suite de demandes précises et réitérées.
+
+<<6744.31;6744.31;fr>>
+Merci.
+
+[[JudgeP;Robert Spano]]
+
+<<6745.65;6747.57;fr>>
+Merci. Le vice-président Kjølbro.
+
+[[Judge;Jon Fridrik Kjølbro]]
+
+<<6749.84;6750.84;fr>>
+Merci, M. le Président.
+
+<<6750.84;6757.44;fr>>
+J'ai une question adressée au gouvernement, mais bien évidemment, les requérants peuvent, s'ils le veulent, y répondre également.
+
+<<6757.44;6762.0;fr>>
+Ma question concerne la législation en vigueur en France.
+
+<<6762.0;6782.16;fr>>
+Comme vous le savez, les requérants se passent sur l'article 3, ainsi que l'article 3 du protocole n°4, aguent et invitent la Cour à conclure que la France a une obligation positive de prendre des mesures pour faciliter le rapprochement des requérants vers la France.
+
+<<6782.16;6785.6;fr>>
+Une telle obligation existe-t-elle ou découle-t-elle de la Convention?
+
+<<6785.6;6786.6;fr>>
+C'est à nous d'étranger.
+
+<<6786.6;6788.6;fr>>
+Ma question est au gouvernement.
+
+<<6788.6;6799.76;fr>>
+Existe-t-il dans la législation en vigueur en France un droit d'être assisté par son État si on est un citoyen français et on se trouve à l'étranger?
+
+<<6799.76;6806.8;fr>>
+Existe-t-il un droit dans la législation en France pour le rapprochement ou l'assistance?
+
+<<6806.8;6812.72;fr>>
+Bien évidemment, je suis conscient qu'un tel droit n'est pas justiciable.
+
+<<6812.72;6826.88;fr>>
+Je fais référence au Conseil d'État qui a dit que le Conseil d'État n'a pas compétence parce que, faisant référence à la séparation du pouvoir et les actes de gouvernement, la Cour a conclu qu'elle n'avait pas une compétence.
+
+<<6826.88;6833.56;fr>>
+L'existence d'un droit et la question de justabilité, ce sont deux choses distinctes.
+
+<<6833.56;6848.88;fr>>
+Et donc, la deuxième question qui est étroitement liée, dans l'affirmative, si un tel droit existe, comment un particulier peut le faire exécuter ou le faire respecter si les tribunales administratifs se déclarent incompétents?
+
+<<6848.88;6853.6;fr>>
+Donc, est-ce qu'il y a, existe-t-il d'autres moyens ou d'autres recours effectifs?
+
+<<6853.6;6853.6;fr>>
+Merci.
+
+[[JudgeP;Robert Spano]]
+
+<<6854.57;6855.97;fr>>
+Merci, juge Wojtyczek.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<6858.36;6860.16;fr>>
+Merci, M. le Président.
+
+<<6860.32;6863.8;fr>>
+J'ai une question aux avocats de récurrents.
+
+<<6864.0;6874.12;fr>>
+Les avocats de récurrents ont mentionné des tentatives pour entrer en contact avec les familles qui se trouvent en Syrie.
+
+<<6874.28;6877.8;fr>>
+J'aimerais avoir plus de précisions sur ce point.
+
+<<6877.96;6890.92;fr>>
+Je voudrais demander quelles démarches exactes ont été entreprises, à quelle date, pour essayer de contacter les familles en Syrie?
+
+<<6891.44;6908.8;fr>>
+Est-ce que les récurrents ont aussi entrepris d'autres démarches auprès des autorités autonomes du nord-est syrien, en vue soit de faciliter le contact avec la famille qui se trouve là-bas, ou en vue d'améliorer leurs conditions de détention?
+
+<<6908.96;6919.6;fr>>
+J'aimerais aussi avoir des précisions sur l'éventuelle suite donnée à des démarches de récurrents par des autorités autonomes du nord-est syrien sur ces questions. Merci.
+
+[[JudgeP;Robert Spano]]
+
+<<6921.85;6922.55;fr>>
+Le juge Pavli.
+
+[[Judge;Darian Pavli]]
+
+<<6925.84;6927.36;en>>
+Thank you very much.
+
+<<6927.36;6930.6;en>>
+I have two questions for the government.
+
+<<6930.6;6934.92;en>>
+The first is more of a clarification on the position.
+
+<<6934.92;6950.04;en>>
+So it is my understanding that the French government has a position that the adults in the camps, including the daughters of the applicants in these cases, are not to be repatriated, that no effort is made to be repatriated.
+
+<<6950.04;6954.64;en>>
+And that is not a question of a capacity to do so, but a policy.
+
+<<6954.64;6958.32;en>>
+So if my understanding is correct on that point.
+
+<<6958.32;6978.88;en>>
+And if so, whether that applies irrespective of the potential dangers to their life, the conditions of their detention, the duration of their detention, and the realistic likelihood of them getting a fair trial where they are now.
+
+<<6982.16;7006.04;en>>
+The second question, and both of these questions leave aside for the moment the issue of jurisdiction, relates to your claim, as I understand it, you have ruled out any form of positive obligation in respect to repatriation, either under Article III of the Convention or Article III of the Fourth Protocol.
+
+<<7006.04;7033.2;en>>
+Let's envisage a situation where a large number of French tourists, due to some transportation disaster, are stranded on a deserted island, which happens to be within the territory of another state, but for some complicated reasons, they would face certain death in the absence of intervention by the French authorities.
+
+<<7033.2;7041.04;en>>
+And let's also assume that this situation is due in part also to their own recklessness.
+
+<<7041.04;7059.08;en>>
+Would it be your submission, then, in such circumstances, there would be no duty, no form of positive obligation under the Convention to undertake any effort, any form of effort, to try and bring them back to the country?
+
+<<7059.08;7064.92;en>>
+Or is it a question of some situations being more sympathetic than others?
+
+<<7064.92;7064.92;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<7067.21;7068.29;fr>>
+Merci beaucoup.
+
+<<7068.29;7077.63;fr>>
+S'il n'y a pas d'autres questions, la Cour va maintenant se retirer pendant 25 minutes.
+
+<<7077.63;7082.13;fr>>
+Ça veut dire jusqu'à 11h35.
+
+<<7082.13;7082.13;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<7396.14;7396.74;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<7445.71;7447.63;fr>>
+L'audience est reprise.
+
+<<7449.43;7455.87;fr>>
+Je vais donner à les parties 15 minutes, chacun pour leur réplique et réponse.
+
+<<7455.87;7458.47;fr>>
+On commence avec le gouvernement, défendeur.
+
+<<7458.47;7459.47;fr>>
+Monsieur Alabrune, vous avez la parole.
+
+[[Government;GR1]]
+
+<<7465.6;7466.8;fr>>
+Je vous remercie, M. le Président.
+
+<<7467.0;7473.72;fr>>
+Je m'attacherai tout d'abord à répondre aux questions posées par les juges.
+
+<<7474.48;7480.28;fr>>
+Et si vous me permettez, je mentionnerai aussi quelques points qui ont été mentionnés par les requérants.
+
+<<7481.92;7505.16;fr>>
+S'agissant des questions tout d'abord posées par le juge Bartsen, concernant tout d'abord l'application extraterritoriale de l'article 3, paragraphe 2 du protocole additionnel numéro 4, le gouvernement relève qu'il n'y a pas de jurisprudence de la Cour sur cet article.
+
+<<7506.05;7515.72;fr>>
+Le gouvernement comprend que cet article entraîne une application particulière pour garantir son effectivité.
+
+<<7516.88;7530.28;fr>>
+Et nous soulignons que rien dans le protocole additionnel numéro 4 ne permet de déroger à l'article 1er de la Convention qui porte sur la juridiction.
+
+<<7533.68;7566.8;fr>>
+Sur la question des conditions de judiciarisation des adultes, le gouvernement français a insisté à plusieurs reprises sur le fait que les adultes doivent être jugés au plus près des lieux où ils ont perpétré leur crime, ce qui est une question de sécurité et un devoir de justice à l'égard des victimes.
+
+<<7568.76;7584.12;fr>>
+Cette judiciarisation peut être soit le fait d'abord, elle peut être soit en Irak, soit en Syrie, puisqu'en réalité, les membres de Daesh peuvent être soit en Syrie, soit en Irak.
+
+<<7584.6;7594.16;fr>>
+Cette judiciarisation peut être le fait de juridiction locale, comme elle peut être le fait de juridiction locale avec une composante internationale.
+
+<<7594.36;7597.96;fr>>
+L'hypothèse d'une juridiction internationale a été évoquée.
+
+<<7598.52;7605.56;fr>>
+Ce sujet a fait l'objet d'un certain nombre de questions et ce sujet a fait l'objet d'un certain nombre de discussions qui, pour l'instant, n'ont pas abouti.
+
+<<7605.76;7609.16;fr>>
+Pour l'instant, je ne peux pas en dire davantage.
+
+<<7610.32;7619.36;fr>>
+Sur le protocole Cas9, le protocole Cas9 a été conclu entre le gouvernement de la République française et le gouvernement de la République de Turquie.
+
+<<7620.52;7641.56;fr>>
+Au terme de ce protocole, les partis sont convenus que les personnes arrivant de Syrie par leurs propres moyens en territoire turc qui feraient l'objet d'une judiciarisation par les autorités turques peuvent faire l'objet d'une expulsion administrative par les autorités turques vers la France.
+
+<<7641.76;7649.56;fr>>
+Les personnes expulsées par les autorités turques sont ensuite placées dans un avion et reconduites en territoire français.
+
+<<7649.76;7654.36;fr>>
+À leur arrivée en territoire français, ces personnes font l'objet d'une judiciarisation.
+
+<<7654.56;7658.96;fr>>
+Il ne s'agit donc pas d'un rapatriement par les autorités françaises.
+
+<<7658.96;7665.56;fr>>
+Et des personnes sont ainsi revenues, effectivement, de Syrie.
+
+<<7667.76;7670.96;fr>>
+Le secrétaire d'Etat, M. Nunez,
+
+<<7671.16;7676.16;fr>>
+avait cité le chiffre de 250 personnes.
+
+<<7680.96;7690.36;fr>>
+J'en viens maintenant à la question sur le droit international humanitaire.
+
+<<7692.56;7709.76;fr>>
+Je voudrais noter sur ce sujet que s'agissant d'un territoire en proie à un conflit armé non international, le droit international humanitaire constitue la lex specialis, applicable par les belligérants, dont les forces démocratiques syriennes.
+
+<<7710.56;7724.16;fr>>
+Au terme des discussions cardinales du droit international humanitaire, les enfants des requérants ont le statut de personnes civiles protégées par les conventions de Genève.
+
+<<7724.16;7739.36;fr>>
+La France n'étant pas présente dans les camps, elle a pour seule obligation, en vertu de l'article 3 commun aux conventions de Genève, d'encourager les belligérants à respecter le droit international humanitaire.
+
+<<7739.36;7743.56;fr>>
+Cette question n'a pas d'influence sur l'examen de cette affaire.
+
+<<7743.56;7746.16;fr>>
+Nous ne sommes pas présents dans les camps.
+
+<<7746.16;7753.56;fr>>
+Les forces démocratiques syriennes sont soutenues par la coalition à laquelle participe la France.
+
+<<7753.56;7764.76;fr>>
+La question posée ici est celle de la juridiction au sens de l'article 1er de la Convention européenne des droits de l'homme.
+
+<<7764.76;7779.56;fr>>
+J'en reviens maintenant à la question posée par le juge...
+
+<<7782.56;7783.96;fr>>
+Si vous permettez, je ne les prends pas dans l'ordre.
+
+<<7783.96;7799.36;fr>>
+Je vais prendre le juge Colbrault.
+
+<<7799.36;7827.36;fr>>
+Sur la question d'une obligation en vertu de la législation française en ce qui concerne l'assistance ou le rapatriement, ce que je voudrais dire, c'est qu'il y a, sur la question de la protection consulaire, un droit jurisprudentiel.
+
+<<7827.36;7853.16;fr>>
+Le Conseil d'Etat, dans un arrêt du 29 janvier 1993, a relevé que les citoyens français sont en droit d'attendre une assistance de la part de poste consulaire sans toutefois qu'il y ait une obligation de moyens précis imposée au consulat.
+
+<<7853.16;7856.56;fr>>
+Il faut en tout cas qu'il y ait un consulat.
+
+<<7856.56;7865.96;fr>>
+Et s'agissant ensuite du contrôle qui est fait, il faut faire une distinction entre deux types d'actes.
+
+<<7865.96;7890.16;fr>>
+Il y a les actes des services consulaires qui peuvent être examinés par le juge, dans le cas, encore une fois, où il y a un consulat, et il peut y avoir, par ailleurs, un certain nombre d'actes non détachables de la conduite des relations internationales qu'on ne peut faire valoir devant le juge au nom de la séparation des pouvoirs.
+
+<<7890.16;7899.16;fr>>
+Et je relèverai enfin qu'il n'y a pas de loi spécifique pour ce sujet.
+
+<<7899.16;7904.56;fr>>
+J'aborderai la question posée par le juge Villemar.
+
+<<7904.56;7924.36;fr>>
+Je voudrais revenir à ce sujet sur les échanges qui ont eu lieu entre les requérants et le ministère de l'Europe et des Affaires étrangères, de façon un peu précise pour être bien concret.
+
+<<7924.36;7927.96;fr>>
+S'agissant de Mme...
+
+<<7927.96;7930.56;fr>>
+La maire de la requérante, Mme...
+
+<<7930.56;7941.16;fr>>
+a contacté le ministère pour la dernière fois, le 31 mars 2020, via l'envoi d'un courriel vide.
+
+<<7941.16;7949.76;fr>>
+Du 28 juin 2019 au 13 février 2020, Mme... avait de nouveau signalé la présence...
+
+<<7949.76;7950.76;fr>>
+d'un enfant à Anne Holle.
+
+[[JudgeP;Robert Spano]]
+
+<<7950.95;7956.79;fr>>
+Monsieur Alabrune, s'il vous plaît, vous permettez de ne pas utiliser le nombre de familles, parce que nous sommes dans une...
+
+[[Government;GR1]]
+
+<<7958.43;7959.43;fr>>
+Pardonnez-moi.
+
+<<7959.63;7972.47;fr>>
+Il a signalé la présence de ses enfants à Al-Hol, a indiqué être en contact régulier avec elles et a alerté sur ses conditions de vie difficiles dans le camp.
+
+<<7973.75;7982.35;fr>>
+Le 13 février 2020, elle sollicitait formellement le rapatriement de sa fille et de ses enfants en indiquant que la famille se trouvait à Al-Hol.
+
+<<7982.35;7989.87;fr>>
+S'agissant de Mme D, maître d'Oset a contacté le ministère pour la dernière fois le 26 juin 2020.
+
+<<7990.07;7997.71;fr>>
+Dans sa communication, elle précisait ne pas savoir où se trouvaient l'intéressée et son enfant et a indiqué qu'elle ne serait plus dans le camp d'Al-Hol.
+
+<<7997.91;8010.55;fr>>
+Le père de la requérante a interpellé le ministre le 26 mai 2021 lors d'une émission de radio à laquelle participait le ministre pour demander le rapatriement de sa fille et de son petit-fils.
+
+<<8010.55;8032.43;fr>>
+Les informations relatives au déroulement de ces 2 procédures sont aujourd'hui couvertes par le secret de l'enquête et ou de l'instruction en application de l'article 11 du code de procédure pénale et nous ne sommes pas en mesure de communiquer davantage d'éléments sur ce sujet.
+
+<<8032.63;8048.55;fr>>
+Je voudrais toutefois soulever, relever qu'il n'y a pas eu de refus de la réunion et de refus de la part du ministère des Affaires étrangères à une requête, une demande adressée par les requérants.
+
+<<8048.87;8061.71;fr>>
+Le ministre des Affaires étrangères a exprimé la doctrine sur les mineurs et cette doctrine reste inchangée en indiquant qu'il y avait rapatriement lorsque les conditions le permettent.
+
+<<8062.15;8075.75;fr>>
+Je voudrais d'ailleurs rappeler encore une fois que la France ne dispose plus de représentations diplomatiques et consulaires depuis le 6 mars 2012, qu'elle se trouve dans l'impossibilité d'exercer la protection consulaire.
+
+<<8076.19;8084.43;fr>>
+Cette absence de représentation diplomatique et consulaire est également un obstacle majeur à l'organisation d'un quelconque retour des intéressés sur le territoire national.
+
+<<8084.99;8086.75;fr>>
+L'accès est difficile et dangereux.
+
+<<8087.23;8089.99;fr>>
+Ce sont des éléments qui ont été rappelés par le ministre.
+
+<<8091.11;8109.75;fr>>
+Dans une zone de guerre où la vie des agents chargés de l'organisation des retours est en danger, le contrôle effectif de cette zone n'appartient pas à la France, qui doit solliciter des autorisations et mener des négociations.
+
+<<8110.31;8112.55;fr>>
+Voilà des éléments qui ont été rappelés par le ministre.
+
+<<8116.11;8159.03;fr>>
+J'en viens maintenant aux questions posées par le juge Pavly sur la question des adultes, en réalité, en rappelant la position exprimée par le ministre de l'Europe et des Affaires étrangères sur la judiciarisation des adultes au plus près des lieux où les faits et les crimes ont été commis.
+
+<<8159.71;8169.51;fr>>
+J'ai répondu à sa question sur la position de la France en ce qui concerne la question d'un éventuel rapatriement des adultes.
+
+<<8169.71;8174.27;fr>>
+Je crois que la position du ministre, de ce point de vue-là, est très claire.
+
+<<8174.27;8214.43;fr>>
+Sur la question de l'hypothèse, sur l'hypothèse que le juge Pavly a évoquée tout à l'heure, hypothèse de touristes français qui se trouveraient sur une île dans une situation périlleuse, ce que je voudrais dire, c'est que s'agissant du rapatriement de nationaux dont la vie serait en danger dans ces circonstances, les mesures prises par les autorités françaises devraient prendre en compte le fait que ce territoire est placé sous la juridiction d'un autre Etat.
+
+<<8214.63;8221.83;fr>>
+La juridiction est le premier mécanisme régulateur pour ce type de situation.
+
+<<8222.03;8232.67;fr>>
+L'existence ou l'absence d'une représentation diplomatique et consulaire française auprès de l'Etat en question est aussi un facteur important.
+
+<<8232.87;8233.87;fr>>
+Y a-t-il un poste consulaire?
+
+<<8234.07;8240.27;fr>>
+Et ce poste consulaire a-t-il, dans sa circonscription, cet endroit?
+
+<<8240.47;8251.67;fr>>
+Et prendre en compte les moyens logistiques mobilisables de manière autonome pour réaliser une telle opération.
+
+<<8251.87;8265.07;fr>>
+En tout cas, je voudrais relever que la situation dans le nord-est syrien n'est aucunement assimilable à celle de cette île dont nous venons de parler.
+
+<<8265.27;8276.67;fr>>
+Si vous le permettez, si j'ai encore 5 minutes, je voudrais relever un certain nombre de points en réponse aux requérants.
+
+<<8276.87;8285.87;fr>>
+Tout d'abord, je voudrais rappeler que la France ne refuse pas de mener des opérations de rapatriement.
+
+<<8286.07;8298.47;fr>>
+Elle en a mené un certain nombre et elle est même, je l'ai dit tout à l'heure, l'Etat européen qui a rapatrié le plus d'enfants.
+
+<<8298.67;8316.07;fr>>
+Et c'est bien parce que la France est l'Etat européen qui a eu en fait la plus grande expérience de rapatriement que nous avons une connaissance concrète des conditions dans lesquelles ces opérations se déroulent.
+
+<<8316.27;8325.07;fr>>
+Que nous avons une connaissance précise, fine, réelle des difficultés que représentent ces opérations.
+
+<<8325.27;8334.47;fr>>
+Une connaissance des dangers que cela représente pour les agents qui mènent ces opérations de rapatriement.
+
+<<8334.47;8341.47;fr>>
+Y compris d'ailleurs en tenant compte des droits de ces agents au regard de l'article 2.
+
+<<8341.67;8361.47;fr>>
+Que nous avons une connaissance précise aussi et une expérience concrète des discussions avec les autorités du Nord-Est syrien sur les conditions dans lesquelles se déroulent ces rapatriements et des difficultés que ces discussions peuvent présenter.
+
+<<8361.67;8375.07;fr>>
+Nous avons aussi une connaissance précise et concrète des difficultés que connaissent les autorités du Nord-Est syrien pour identifier, pour localiser certaines personnes dans les camps.
+
+<<8375.07;8383.87;fr>>
+Sans compter les difficultés d'ailleurs parfois pour identifier la nationalité, la filiation d'enfants qui sont dans les camps.
+
+<<8384.07;8390.27;fr>>
+Les requérants ont relevé que depuis plus d'un an il n'y avait pas eu d'opération de rapatriement.
+
+<<8390.47;8395.47;fr>>
+Et ça reflète bien d'ailleurs le fait que ces opérations sont de plus en plus difficiles.
+
+<<8395.47;8398.47;fr>>
+Pour les raisons que j'ai mentionnées tout à l'heure.
+
+<<8398.47;8405.47;fr>>
+Situation de tension croissante dans la zone entre les différents acteurs dont j'ai parlé.
+
+<<8405.47;8410.47;fr>>
+Danger croissant représenté par Daech en dehors et dans les camps.
+
+<<8410.47;8419.47;fr>>
+Et hostilité de plus en plus manifeste d'un certain nombre de personnes dans les camps au principe même du rapatriement.
+
+<<8419.47;8433.47;fr>>
+Je voudrais aussi relever que cet argument avancé par les requérants sur lequel les autorités du nord-est syrien ne sont pas des autorités étatiques donc il n'y a pas de compétence territoriale.
+
+<<8433.47;8444.47;fr>>
+Je voudrais rappeler que malgré tout l'existence de la Syrie n'a pas été remise en cause comme état en droit international public.
+
+<<8444.47;8461.47;fr>>
+Et que par ailleurs le fait qu'il y ait des autorités qui ne sont pas des autorités étatiques qui contrôlent cette région ne donne pas à la France tout à coup une compétence d'exécution dans cette région.
+
+<<8461.47;8478.47;fr>>
+Et je voudrais aussi relever que l'insistance que maître Dauzé a eue pour dire vous savez c'est très spécifique, ça n'aura pas une portée au-delà de faits aussi particuliers.
+
+<<8478.47;8493.47;fr>>
+Je pense en réalité que les critères qui sont évoqués par les requérants fondés sur la capacité et la nationalité sont des critères qui peuvent être utilisés bien au-delà de cette situation.
+
+<<8493.47;8511.47;fr>>
+Et d'ailleurs je voudrais relever le relatif contraste entre l'insistance de maître Dauzé sur le caractère spécifique de cette situation et la présentation très large, très affirmative de maître Petiti sur les obligations positives que les Etats auraient.
+
+<<8511.47;8532.47;fr>>
+Ce qui montre bien en réalité que si la Cour s'engage dans cette voie, elle fragilisera l'édifice qu'elle a construit sur la question de la juridiction de façon très cohérente, très récente et que cela remettrait en cause l'économie de la Convention.
+
+<<8532.47;8534.47;fr>>
+Et nous vous invitons à ne pas suivre cette voie.
+
+<<8534.47;8535.47;fr>>
+Je vous remercie.
+
+[[JudgeP;Robert Spano]]
+
+<<8537.39;8539.07;fr>>
+Merci beaucoup, M. Alabrune.
+
+<<8539.07;8541.83;fr>>
+Je me trouve à Maître Dosé, s'il vous plaît.
+
+[[Applicant;AP1]]
+
+<<8543.25;8550.85;fr>>
+Monsieur le Président, mesdames et messieurs de la Cour, pour répondre à vos questions, d'abord sur la situation actuelle des familles F et D.
+
+<<8551.69;8561.17;fr>>
+S'agissant de la famille F, une femme, madame F, et ses deux enfants, ils étaient prisonniers dans le camp Alol et sont entrés dans le camp Alol après la chute de Baghouz.
+
+<<8561.33;8565.41;fr>>
+Elle, la mère, était blessée par des éclats d'obus comme un de ses enfants également.
+
+<<8565.57;8571.29;fr>>
+Nous avons été en lien avec elle pendant de longs mois, moi, son avocat, et sa famille également.
+
+<<8571.29;8584.77;fr>>
+Elle a réussi, vous le savez, à formaliser un mandat comme elle l'a pu, parce que c'est interdit, parce que je rappelle que toute personne, toute mère qui serait surprise avec un téléphone portable dans les camps, se retrouvait dans la prison souterraine, et j'y reviendrai.
+
+<<8584.93;8585.93;fr>>
+Ca, c'est la première des choses.
+
+<<8586.09;8608.57;fr>>
+Nous avons eu des contacts réguliers jusqu'en août 2020, parce que ce qui s'est passé en août 2020, c'est qu'on a essayé de rapatrier, pardon, de déplacer le maximum de femmes du camp d'Alol dans le camp Roj, trop d'évasion dans le camp d'Alol pour d'ailleurs, et j'y reviendrai, rejoindre la Turquie et être expulsée via le protocole CASE 9.
+
+<<8608.81;8619.77;fr>>
+Mais à une énorme opération, dans le cadre de cette opération de déplacement, toutes les femmes ont été incarcérées dans une prison que l'on nomme la prison souterraine avec leurs enfants.
+
+<<8619.97;8629.25;fr>>
+Pour certaines, ça a duré plusieurs semaines, pour d'autres, plusieurs mois, et pour Mme F, comme d'autres femmes avec qui j'ai pu avoir des relations, eh bien, on ne sait pas ce qu'elles sont devenues.
+
+<<8629.97;8630.97;fr>>
+Donc, il y a trois solutions.
+
+<<8631.17;8638.85;fr>>
+Soit Mme F est toujours à Alol, soit elle est toujours incarcérée, mais en tout état de cause, depuis cette opération, nous n'avons plus aucune nouvelle.
+
+<<8639.05;8648.05;fr>>
+Et je tiens à revenir sur ce sujet pour tout de même souligner que cette perte de contact résulte directement du refus de rapatrier.
+
+<<8648.21;8654.33;fr>>
+Je fais référence à la jurisprudence Dialogues contre République tchèque pour répondre également au gouvernement français.
+
+<<8654.49;8659.25;fr>>
+Je veux faire référence à la jurisprudence V.M. et autres contre Belgique,
+
+<<8659.53;8661.05;fr>>
+Dialogues contre République tchèque.
+
+<<8661.21;8666.05;fr>>
+La Cour présume que la volonté est toujours actuelle tant qu'il n'y a pas d'élément contraire.
+
+<<8666.21;8675.49;fr>>
+Et puis surtout, encore une fois, nous sommes là face à quelqu'un qui ne peut pas, qui ne peut plus nous contacter et qu'on ne peut pas non plus contacter.
+
+<<8675.65;8677.85;fr>>
+Ce n'est pas de notre fait, ce n'est pas de son fait.
+
+<<8678.05;8681.13;fr>>
+C'est parce que la France a refusé de la rapatrier.
+
+<<8681.81;8686.09;fr>>
+Sur Mme D et son fils, nous sommes en contact régulier avec elle.
+
+<<8686.09;8692.37;fr>>
+Et elle prend d'ailleurs le risque, encore une fois, de garder contact avec ses parents et avec moi, son avocat.
+
+<<8692.53;8694.25;fr>>
+Sa famille est d'ailleurs présente ici.
+
+<<8694.57;8696.89;fr>>
+Elle est arrivée à Alol après la chute de Bagouz.
+
+<<8697.05;8699.97;fr>>
+Son enfant avait quelques semaines à peine dans un état critique.
+
+<<8700.13;8701.61;fr>>
+Il est arrivé dans un état critique.
+
+<<8701.77;8703.21;fr>>
+Il était rachitique.
+
+<<8703.53;8710.41;fr>>
+Elle aussi a subi cette opération de transfert du camp d'Alol au camp Roche, toujours à l'été 2020.
+
+<<8710.57;8719.41;fr>>
+Sachez que son enfant a fait une crise cardiaque, ou en tout cas un arrêt cardiaque, a eu un gros problème cardiaque et qu'elle a eu très peur au moment, justement, de ce transfert.
+
+<<8719.57;8723.89;fr>>
+Cette incarcération dans la prison souterraine a duré plusieurs semaines.
+
+<<8724.05;8727.77;fr>>
+Nous vous avons transmis les conditions dans lesquelles ces femmes et ces enfants sont incarcérées.
+
+<<8727.93;8729.61;fr>>
+C'est absolument abominable.
+
+<<8729.77;8732.73;fr>>
+Elle est sujette à de graves problèmes de tension qui ne sont pas soignés.
+
+<<8732.89;8741.89;fr>>
+Elle est actuellement prisonnière avec son fils dans le camp Roche 2, qui est, entre guillemets, confiné parce que la Covid y a fait son entrée il y a quelques semaines.
+
+<<8741.89;8758.05;fr>>
+Et enfin, cet enfant, comme la grande majorité des enfants dans ces camps, a des problèmes respiratoires extrêmement inquiétants, parce que n'oublions pas qu'ils sont depuis 3 ans, depuis 4 ans, depuis 2 ans et demi, en tout cas, au moins, tous exposés à une atmosphère irrespirable.
+
+<<8758.21;8770.01;fr>>
+Et je sais de quoi je parle, parce que j'ai approché sans pouvoir y rentrer dans ces camps, ce territoire, en tout cas ces camps, ce camp est entouré de champs pétroliers, qui fait que, véritablement, c'est très difficile d'y respirer.
+
+<<8770.01;8780.09;fr>>
+Nos missions, vous ne nous avez pas demandé sur nos missions, 1re mission, décembre 2020, 2 avocats, moi, mon confrère Rivière, nous avons été missionnés par le bâtonnier, par Avocats sans frontières.
+
+<<8780.09;8784.53;fr>>
+La France a refusé de nous lancer, entrer au nord-est syrien.
+
+<<8784.53;8787.49;fr>>
+Ca s'est passé très clairement de cette façon-là.
+
+<<8787.49;8795.33;fr>>
+Nous sommes passés par Erbil, nous sommes arrivés au poste frontière, ils ont appelé le consul général d'Erbil, qui a dit, vous ne les laissez pas passer.
+
+<<8795.33;8803.61;fr>>
+Nous avons été reçus au consul général d'Erbil et il nous a été formellement indiqué que nous ne passerons pas au nord-est syrien pour visiter ces femmes et ces enfants.
+
+<<8803.61;8816.77;fr>>
+2nde mission, février 2021, cette fois-ci, avocats parlementaires et Avocats sans frontières France, toujours missionnés par Avocats sans frontières France, pour nous, les avocats, et par le bâtonnier du barreau de Paris.
+
+<<8816.77;8827.29;fr>>
+Nous avons réussi, cette fois, avec les parlementaires, eurodéputés français, Dantin est présent aujourd'hui à cette audience, et euros et députés français, nous avons réussi à entrer au nord-est syrien.
+
+<<8827.29;8834.41;fr>>
+Mais le directeur des affaires extérieures, de là à Hannès, nous a dit que la France ne souhaitait pas que nous allions plus loin.
+
+<<8834.41;8836.41;fr>>
+Voilà exactement ce qu'il s'est passé.
+
+<<8836.41;8850.41;fr>>
+Et les parlementaires ont pris leur responsabilité en rentrant sur le territoire français, de faire une conférence de presse pour dénoncer cette impossibilité, parce que la France l'avait décidée, d'accéder au camp.
+
+<<8850.41;8861.01;fr>>
+J'ai simplement pu, Monsieur le Président, Mesdames et Messieurs de la Cour, laisser quelques livres aux autorités kurdes pour qu'ils puissent un jour le ramener.
+
+<<8861.01;8864.21;fr>>
+Et notamment certains livres pour le fils de Madame D.
+
+<<8864.21;8877.61;fr>>
+Tout ça pour vous dire, s'agissant de nos contacts avec la Hannès, que dans le cadre de ces deux missions, ce que nous avons pu constater, c'est qu'il est très difficile d'avoir un contact direct avec la Hannès tant elle répond et elle obéit aux injonctions des autorités françaises.
+
+<<8877.61;8893.41;fr>>
+Rappelons-nous qu'en juin 2019, Madame et Monsieur Lopez, je ne les anonymise pas, parce qu'ils ont décidé de raconter leur histoire, ont essayé de rentrer dans ces camps, dans le camp Roche, où sont détenus leurs quatre petits-enfants, avec d'autres grands-parents étrangers européens.
+
+<<8893.41;8898.01;fr>>
+Les autres grands-parents européens sont entrés dans le camp Roche pour embrasser leurs petits-enfants.
+
+<<8898.01;8901.61;fr>>
+Les grands-parents Lopez, eux, ont été interdits d'accès au camp.
+
+<<8901.61;8904.61;fr>>
+Les Kurdes leur expliquant « La France ne veut pas, on est désolés ».
+
+<<8904.61;8906.53;fr>>
+Voilà la réalité de la situation.
+
+<<8906.53;8910.01;fr>>
+Je vais conclure très très vite sur le protocole CASE 9.
+
+<<8910.01;8924.41;fr>>
+Monsieur le Président, Mesdames et Messieurs les membres de la Cour, oui c'est vrai, lorsqu'elles arrivent en Turquie, le protocole CASE 9 s'applique, ou en tout cas tend à s'appliquer, parce que parfois elles attendent 8 mois, 9 mois, 1 an pour pouvoir rentrer, et elles sont expulsées vers la France.
+
+<<8924.41;8927.41;fr>>
+Mais pour pouvoir arriver en Turquie, il faut s'évader des camps.
+
+<<8927.41;8929.61;fr>>
+Il faut réussir à s'évader des camps.
+
+<<8929.61;8934.21;fr>>
+Elles ont pu s'évader du camp Alol, mais elles ne pourront jamais s'évader du camp Roche.
+
+<<8934.21;8947.01;fr>>
+D'ailleurs, il n'y a plus personne actuellement, plus aucune Française, plus aucun enfant français, dans le camp de Jarablus, qui est le camp sous autorité turc, où sont les femmes et les enfants français, avant leur expulsion vers la France.
+
+<<8947.01;8950.21;fr>>
+Elles ont toutes été expulsées, il n'y en a plus, il n'y en aura plus.
+
+<<8950.21;8955.41;fr>>
+Parce qu'il y a une seule possibilité pour sortir du camp Roche, c'est d'être rapatriées.
+
+<<8955.41;8959.01;fr>>
+On ne s'évade pas de Roche, d'Alol oui, mais de Roche non.
+
+<<8959.01;8964.41;fr>>
+Il n'y a pas d'autre possibilité pour sortir ces femmes et ces enfants que ce rapatriement.
+
+<<8964.41;8966.01;fr>>
+J'en ai terminé juste une chose.
+
+<<8966.01;8977.81;fr>>
+Je ne peux pas entendre, je n'arrive pas à entendre, que depuis un an, il n'y a pas de rapatriement en France, de ressortissants français majeurs et mineurs, et cela prouve à quel point c'est difficile.
+
+<<8977.81;8981.61;fr>>
+C'est parce que c'est difficile qu'il n'y a plus de rapatriement depuis près d'un an.
+
+<<8981.61;8986.81;fr>>
+La Belgique a rapatrié en juillet 2020 dix enfants et six femmes.
+
+<<8986.81;8988.41;fr>>
+Pourquoi c'est difficile?
+
+<<8988.41;8994.21;fr>>
+Pour la France et pas pour la Belgique, qui assume sa position claire et nette, il faut rapatrier.
+
+<<8994.21;8997.41;fr>>
+Seule la France a suivi la trajectoire inverse.
+
+<<8997.41;9001.61;fr>>
+Elle avait en effet décidé de rapatrier tout le monde en janvier et février 2009.
+
+<<9001.61;9007.41;fr>>
+C'était une position politiquement assumée par Madame Belloubet, à la hauteur des sceaux, par le chef de gouvernement.
+
+<<9007.41;9012.61;fr>>
+Elle a finalement fait marche arrière après un sondage qui a démontré l'impopularité de cette décision.
+
+<<9012.61;9015.41;fr>>
+Voilà pourquoi ces femmes et ces enfants restent dans les camps.
+
+<<9015.41;9019.41;fr>>
+Il ne s'agit absolument pas d'une difficulté de terrain qui ne se pose pas à la Belgique.
+
+[[JudgeP;Robert Spano]]
+
+<<9024.02;9025.86;fr>>
+Maître Pettiti, s'il vous plaît.
+
+[[Applicant;AP3]]
+
+<<9026.31;9028.91;fr>>
+Oui, M. le Président, Mesdames et Messieurs les Juges,
+
+<<9029.11;9033.59;fr>>
+je parlerai de la judiciarisation et de la justiciabilité.
+
+<<9033.79;9039.91;fr>>
+Le gouvernement vous a expliqué que la judiciarisation en Irak ou dans un autre pays est impossible.
+
+<<9040.11;9048.71;fr>>
+A ce jour, aucune création d'un tribunal spécial n'est envisagée et ne le sera compte tenu des circonstances actuelles.
+
+<<9049.47;9052.95;fr>>
+Donc, à ce jour, la judiciarisation est impossible.
+
+<<9052.95;9060.31;fr>>
+En ce qui concerne la justiciabilité en France, nous nous heurtons évidemment en France à l'acte de gouvernement.
+
+<<9060.51;9066.71;fr>>
+Les actes liés à la conduite des relations internationales échappent à tout contrôle du juge.
+
+<<9066.91;9083.87;fr>>
+Je reprendrai la décision, la motivation de la décision de la Cour d'appel en matière judiciaire, puisque nous sommes allés aussi bien devant les juridictions administratives que devant les juridictions judiciaires, inconsidérant de cette décision la Cour d'appel de Paris.
+
+<<9084.07;9106.43;fr>>
+Le fait que la décision de non-rapatriement contribue incontestablement à l'atteinte portée au droit à la sécurité des personnes n'ouvre pas de ce seul fait aux juges judiciaires, même garant des libertés individuelles, le droit d'interférer dans ces actes politiques.
+
+<<9106.63;9128.95;fr>>
+Il n'y a donc aucune justiciabilité en France, puisque par la théorie de l'acte de gouvernement, tant les juridictions administratives que les juridictions judiciaires ne peuvent contrôler et, en conséquence, ne peuvent statuer sur le fond dès l'instant où le gouvernement a systématiquement invoqué la théorie de l'acte de gouvernement.
+
+[[JudgeP;Robert Spano]]
+
+<<9134.23;9137.31;fr>>
+S'il vous plaît, vous êtes le requerant?
+
+[[Applicant;AP2]]
+
+<<9138.51;9139.51;fr>>
+Le Conseil.
+
+<<9140.91;9141.91;fr>>
+Le professeur Sébastien Van Drooghenbroeck.
+
+<<9142.11;9144.91;fr>>
+Je vous remercie, monsieur le président, madame la ministre et le juge.
+
+<<9145.11;9159.87;fr>>
+Quelques brefs éléments de réponse tant à la plaidoirie du gouvernement, aux arguments qui ont été échangés qu'aux questions qui ont été adressées par le siège, même si ce n'agissait pas toujours de questions adressées aux requérants.
+
+<<9160.07;9162.47;fr>>
+Première précision, tout d'abord, sur la juridiction.
+
+<<9162.67;9176.83;fr>>
+On l'a dit, on le répète, la requête et l'argumentaire qui le soutient est dans la parfaite continuité de la jurisprudence actuelle de la Cour en tant qu'elle met en avant notamment l'élément de nationalité comme susceptible de créer le lien juridictionnel.
+
+<<9177.03;9179.03;fr>>
+Continuité par rapport à Bankovic, tout d'abord.
+
+<<9179.23;9197.43;fr>>
+Dans la décision Bankovic, l'un des éléments qui a été mis en avant par la Cour européenne des droits de l'homme pour illustrer les éventualités d'un exercice de compétence extraterritoriale par la Cour, il y en avait plusieurs, il y avait le pavillon, il y avait la nationalité qui était pointée en premier lieu dans la liste de la Cour.
+
+<<9197.87;9204.47;fr>>
+Cela a été rappelé par la décision MN contre la Belgique au paragraphe 99.
+
+<<9204.71;9212.43;fr>>
+La nationalité est donc un élément qui est susceptible d'être pertinent dans le tracé de ce lien de juridiction.
+
+<<9212.87;9215.31;fr>>
+Continuité aussi par rapport à MN.
+
+<<9215.63;9219.71;fr>>
+Nous l'avons dit, c'est plutôt des distinctions d'espèces qu'il convient de faire ici.
+
+<<9220.11;9225.91;fr>>
+Nous avons affaire tout d'abord à des victimes qui ont la nationalité de l'Etat dont elles réclament la protection.
+
+<<9226.11;9233.39;fr>>
+C'est le paragraphe 123 de la décision MN et nous ne partageons pas la relecture par le gouvernement français de ce paragraphe 123.
+
+<<9233.59;9245.39;fr>>
+Je pense qu'il s'agit ici d'une concrétisation donnée par la Cour du lien qui doit unir le requérant au gouvernement pour établir la juridiction.
+
+<<9245.59;9257.11;fr>>
+Deuxième élément pertinent aussi dont on n'a pas parlé, le paragraphe 115 de la décision MN contre Belgique où il est fait état du fait que les requérants n'avaient jamais résidé en Belgique, il n'y avait pas de famille.
+
+<<9257.39;9262.51;fr>>
+C'est une distinction qui est également pertinente ici pour concrétiser ce lien de rattachement particulier.
+
+<<9262.71;9268.31;fr>>
+Alors ces liens de rattachement particulier ne sont pas constitutifs en soi et de manière suffisante de la juridiction.
+
+<<9268.59;9271.59;fr>>
+Il y a également la question de l'autorité exercée.
+
+<<9271.79;9277.51;fr>>
+Mais comme le dit la décision MN, c'est une question qui doit être tranchée de manière éminemment contextualisée.
+
+<<9277.71;9284.91;fr>>
+Il ne s'agit pas de dire que tel acte de manière générale dans tous les contextes possibles, dans tous les mondes possibles, entraîne l'exercice de la juridiction.
+
+<<9285.35;9289.11;fr>>
+Il s'agit de se demander à la lumière des circonstances de l'espèce si ça peut être le cas.
+
+<<9289.31;9291.31;fr>>
+Et les circonstances de l'espèce sont particulières.
+
+<<9291.79;9297.39;fr>>
+Il n'y a pas de souveraineté nationale qui soit concurrente en la matière.
+
+<<9297.59;9300.91;fr>>
+On a affaire quand même à un cas tout à fait spécifique.
+
+<<9301.35;9326.19;fr>>
+Je précise par ailleurs que dans l'édification des principes qui gouvernent sa jurisprudence, tant dans Bankovic que dans MN, la Cour européenne des droits de l'homme n'a pas fait la différence de principe entre des obligations négatives ou des obligations positives à portée extraterritoriale, dont des abstentions d'agir contextualisées comme celles de la France en l'espèce qui rapatrie certains mais pas d'autres, peuvent parfaitement entraîner l'exercice de la juridiction.
+
+<<9326.39;9353.79;fr>>
+Alors, sur les obligations positives à déduire ou susceptibles d'être déduites de l'article 3 de la Convention européenne des droits de l'homme, il nous semble qu'un précédent pertinent peut être aussi emprunté à la jurisprudence de la Cour qui souligne que quand un requérant se trouve dans un état de dénuement total au point que sa dignité humaine s'en trouve compromise, l'indifférence de l'autorité à son égard peut être constitutive d'un traitement inhumain et dégradant.
+
+<<9353.99;9361.31;fr>>
+C'est ce que la Cour européenne des droits de l'homme dit dans l'affaire MSS contre Grèce et Belgique, reprenant le précédent Boudina contre la Fédération de Russie.
+
+<<9361.51;9384.71;fr>>
+Elle dit ceci, la Cour rappelle qu'elle n'a pas exclué la possibilité que la responsabilité de l'Etat soit engagée sous l'angle de l'article 3 par un traitement dans le cadre duquel le requérant qui est totalement dépendant de l'aide publique serait confronté à l'indifférence des autorités alors qu'il se trouverait dans une situation de privation ou de manque à ce point grave, que cela serait incompatible avec la dignité humaine.
+
+<<9385.11;9394.11;fr>>
+Ce principe doit pouvoir être également pertinent pour faire naître une obligation positive dans le cas d'espèces qui nous occupent.
+
+<<9394.31;9400.71;fr>>
+Cette obligation positive n'est pas une obligation absolue, ce n'est pas une obligation de garantie, ce n'est pas une obligation de résultat.
+
+<<9400.91;9405.11;fr>>
+On ne demande pas l'atteinte d'un résultat coûte que coûte.
+
+<<9405.31;9418.31;fr>>
+C'est une obligation de moyens, mettre en oeuvre les moyens raisonnablement exigibles pour pouvoir oeuvrer à la cessation du traitement inhumain et dégradant.
+
+<<9418.31;9422.11;fr>>
+La protection consulaire peut être un moyen en la matière.
+
+<<9422.31;9445.11;fr>>
+L'enjeu de la présente requête n'est pas de savoir s'il faut affirmer de manière générale et abstraite l'existence d'un droit subjectif à la protection consulaire dans tous les mondes possibles, mais de simplement de savoir s'il s'agit ici d'un moyen dont il aurait pu être exigé qu'il soit mieux mis en oeuvre pour honorer l'obligation positive, qui est à relire également à la lumière des textes de droit humanitaire pertinents.
+
+<<9445.35;9460.11;fr>>
+La Convention européenne des droits de l'homme ne s'interprète pas dans le vide, et notamment les conventions de Genève et leurs protocoles peuvent être, s'ils sont applicables en la matière, pertinents en la matière pour interpréter la Convention, comme l'a dit la Cour dans l'arrêt Hassan contre le Royaume-Uni.
+
+<<9460.31;9474.31;fr>>
+Derrière-élément concernant l'article 3 du protocole additionnel numéro 4, dont finalement personne ne conteste réellement qu'il puisse avoir une portée extraterritoriale, faute de quoi il n'aurait aucun sens, consacre-t-il potentiellement une obligation positive?
+
+<<9474.31;9479.91;fr>>
+Le gouvernement français y a insisté, il n'y a pas de jurisprudence de la Cour en la matière, il faut donc se tourner vers les principes.
+
+<<9480.31;9483.31;fr>>
+Les principes, ce sont ceux de l'arrêt Eiret de 1979.
+
+<<9483.51;9492.91;fr>>
+Un obstacle de fait peut enfreindre la Convention à l'image d'un obstacle de droit et générer une obligation positive d'aider les requérants à surmonter l'obstacle de fait.
+
+<<9493.11;9505.11;fr>>
+Deuxièmement, le libellé de l'article 3, paragraphe 2 du protocole additionnel numéro 4, qui est tout à fait particulier, nul ne peut se voir privé du droit, n'est pas exclusif d'une possibilité d'obligation positive.
+
+<<9505.31;9515.51;fr>>
+Mutatis mutandis, c'est la même chose que pour le droit à l'instruction garantie par l'article 2 du premier protocole additionnel, nul ne peut se voir refuser le droit à l'instruction.
+
+<<9515.71;9524.11;fr>>
+La Cour européenne des droits de l'homme, dès l'affaire linguistique belge de 68, et puis par la suite dans l'affaire Sahin en 2004, a estimé que des obligations positives pouvaient en être.
+
+<<9524.11;9525.11;fr>>
+Je vous remercie.
+
+[[JudgeP;Robert Spano]]
+
+<<9527.33;9529.93;fr>>
+Merci beaucoup, M. Van Drooghenbroeck.
+
+<<9530.12;9532.41;fr>>
+Pardonnez-moi pour la confusion à tout à l'heure.
+
+<<9532.61;9535.65;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<9536.2;9542.85;fr>>
+Je remercie les comparants qui ont assisté la Cour par leur intervention et leur réponse à ces questions.
+
+<<9543.05;9547.2;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<9547.41;9549.77;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<9550.41;9554.41;fr>>
+Les partis seront informés de la date de prononcée.
+
+<<9554.41;9555.77;fr>>
+L'audience est levée.
+

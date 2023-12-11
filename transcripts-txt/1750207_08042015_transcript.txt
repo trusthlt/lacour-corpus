@@ -1,0 +1,1770 @@
+[[Announcer;UNK]]
+
+<<6.07;6.79;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<51.26;52.78;fr>>
+Je vous prie de vous asseoir.
+
+<<53.24;61.86;fr>>
+Je déclare ouverte l'audience publique sur le fond de l'affaire Avotiņš contre l'Ethonie.
+
+<<62.34;75.34;fr>>
+La requête a été introduite devant la Cour le 20 février 2007 en vertu de l'article 34 de la Convention par un ressortissant laiton, Monsieur Pēteris Avotiņš.
+
+<<75.42;83.54;fr>>
+L'affaire a été attribuée à la troisième section de la Cour, conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<83.54;89.96;fr>>
+La requête était initialement dirigée contre deux États défendeurs, Chypre et Lettonie.
+
+<<89.96;104.12;fr>>
+Par une décision partielle du 30 mars 2010, adoptée au stade de communication de l'affaire, la Chambre de la troisième section a déclaré la requête irrecevable dans la mesure où elle était dirigée contre Chypre.
+
+<<104.12;114.6;fr>>
+Plus tard, à la suite du remaniement des sections de la Cour conformément à l'article 25, paragraphe 1 du règlement, la requête a été attribuée à la quatrième section.
+
+<<114.6;128.6;fr>>
+Le 25 février 2014, une Chambre de la quatrième section a rendu un arrêt dans lequel elle a déclaré le restant de la requête recevable et a conclu à la non-violation de l'article 6, paragraphe 1 de la Convention.
+
+<<128.6;143.32;fr>>
+Le 21 mai 2014, le requérant a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention et cette demande a été acceptée par le Collège de la Grande Chambre le 8 septembre 2014.
+
+<<143.32;166.6;fr>>
+Le gouvernement estonien, la Commission européenne et l'organisation non-gouvernementale Centre de conseil sur les droits de l'individu en Europe, dit le Centre-R, ont été autorisés à soumettre des observations écrites en tant que tiers intervenants en vertu de l'article 36, paragraphe 2 de la Convention et de l'article 44, paragraphe 3 du Règlement.
+
+<<166.6;175.56;fr>>
+En outre, la Cour a invité le gouvernement de Chypre à soumettre des observations en qualité de tiers intervenants.
+
+<<175.56;181.68;fr>>
+La Commission européenne a également été autorisée à prendre part à l'audience.
+
+<<181.68;195.2;fr>>
+Le gouvernement défendeur est représenté par son agente, Madame Kristīne Līce, assistée de Madame Sandra Kauliņa Anita Zikmane et Dagnija Palčevska.
+
+<<195.2;204.36;fr>>
+Le requérant est représenté par Maître Lauris Liepa, avocat assisté de Maître Matīss Šķiņķis, Monsieur Mārtiņš Pētersons.
+
+<<204.36;207.68;fr>>
+Le requérant, Monsieur Avotinš, est également présent.
+
+<<207.68;215.72;fr>>
+La Commission européenne est représentée par Monsieur Hannes Krämer, membre de son service juridique.
+
+<<215.72;221.2;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<221.2;241.48;fr>>
+Je salue également la délégation de juges de Saint-Marin, présidée par Monsieur le Secrétaire d'État à la Justice de la République de Saint-Marin, ainsi que la délégation dirigée par le juge de la Cour suprême d'Autriche, le professeur Matthias Neumayer, en visite à la Cour européenne des droits de l'homme.
+
+<<241.48;256.76;fr>>
+Ayant consulté l'agent du gouvernement défendeur et le représentant du requérant, ainsi que le représentant de la tierce partie autorisée à prendre part à l'audience, j'ai fixé ainsi l'ordre de parole.
+
+<<256.76;267.8;fr>>
+Nous entendrons successivement Maître Liepa pour le requérant, puis Madame Līce pour le gouvernement défendeur, et enfin Monsieur Krämer pour la Commission européenne.
+
+<<267.8;267.8;fr>>
+La parole est à Maître Liepa.
+
+[[Applicant;AP1]]
+
+<<277.01;282.05;en>>
+Honorable President, judges, ladies and gentlemen, my client, Mr. Peters Awotins,
+
+<<282.05;299.89;en>>
+has submitted an application requesting the court to declare that by granting enforcement of judgment of the District Court of Limassol in Cyprus of 24th of May 2004, Latvian courts, in particular the Supreme Court of Latvia, has violated paragraph one of the article six of the convention.
+
+<<299.89;309.31;en>>
+The applicant's arguments are submitted in this request to refer the case to the ground chamber, and it is not necessary for me to repeat the arguments in such detail at this stage.
+
+<<309.31;316.49;en>>
+Therefore, I will move to answer seven questions that were put forward by the parties, to the parties by the court.
+
+<<316.49;331.55;en>>
+The first question being the role of the EU law in the present case, and in particular, the presumption of equivalent protection of fundamental rights in the EU that apply in EU in this case, in reference to the Bosphorus case.
+
+<<331.55;346.31;en>>
+The EU law is relevant in the present case because the government of Latvia relies on the presumption of equivalent protection of fundamental rights as a justification for the interference with the applicant's rights guaranteed under article six of the convention.
+
+<<346.31;352.31;en>>
+The applicant in the present case, however, does not challenge the presumption of equivalent protection as such.
+
+<<352.31;368.31;en>>
+To the contrary, applicant relies on the already existing case law of the court and maintains that the presumption is not applicable to the applicant's case because of the specific circumstance that we will elaborate further in this oral presentation.
+
+<<368.31;376.21;en>>
+Number one, Latvian courts did not make use of ECJ case law and control mechanisms provided for in EU law.
+
+<<376.21;386.53;en>>
+Namely, Latvian court did not refer for a preliminary ruling to the European Court of Justice, which was necessary in order to adequately protect the applicant's rights.
+
+<<386.53;393.65;en>>
+And number two, Latvian courts were not under strict obligation of EU law to grant execution of the Cypriot judgment.
+
+<<393.65;402.89;en>>
+To the contrary, EU law required Latvian courts to verify whether the applicant's rights to defense were sufficiently respected by the Cypriot courts.
+
+<<402.89;406.39;en>>
+And I will move on to the answer of the second question.
+
+<<406.39;415.61;en>>
+That is, is the fact that Latvian courts did not refer for a preliminary ruling before the Court of Justice relevant in this present case?
+
+<<415.61;417.79;en>>
+The answer is indeed yes.
+
+<<417.79;432.97;en>>
+The applicant believes that the fact that Latvian courts did not refer to ECJ for a preliminary ruling is relevant in this case because it is one of the reasons why the protection of the applicant's rights to a fair trial were not guaranteed in a manner compatible to Article 6 of the Convention.
+
+<<432.97;438.41;en>>
+And thus, the presumption of equivalent protection does not apply to the present case.
+
+<<438.41;443.97;en>>
+I refer to the case already brought up by other parties in this case, Michaux v. France,
+
+<<443.97;458.49;en>>
+where the court, well, this honorable court, found the presumption of equivalent protection not applicable exactly because the national courts had decided not to refer to the European Court of Justice for a preliminary ruling.
+
+<<458.49;474.81;en>>
+Therefore, it has been well established by this court that referral to the European Court of Justice for a preliminary ruling or absence of such referral is a condition to be considered when deciding on application of presumption of equivalent protection.
+
+<<474.81;492.85;en>>
+Pursuant to Article 267 of the Treaty on the Functioning of the European Union, the court or tribunal shall bring the matter before the European Court of Justice under consideration where the interpretation of EU acts is raised in a case pending before those national courts.
+
+<<492.85;512.33;en>>
+The European Court of Justice has held that referral to ECJ is obligatory unless previous decisions of the ECJ have already dealt with the point of law in question or when the correct interpretation is so obvious as to leave no scope for any reasonable doubt as to the manner in which the question raised is to be resolved.
+
+<<515.01;523.01;en>>
+That is put forward by the ECJ's judgment in Silfit case C-283 slash 81.
+
+<<523.01;526.53;en>>
+This concept has been observed also by this honorable court in Strasbourg.
+
+<<526.53;533.01;en>>
+Notably, the court has emphasized that the national courts must give reasons for not referring to ECJ.
+
+<<533.01;538.09;en>>
+And failing to do so may constitute violation of Article 6 of the convention.
+
+<<538.09;548.01;en>>
+In light of this jurisprudence of the ECJ and this honorable court of Strasbourg, the applicant believes that the Supreme Court had to refer to the ECJ in the applicant's case.
+
+<<548.01;550.45;en>>
+And also because of the following two considerations.
+
+<<550.45;562.05;en>>
+Number one, the Supreme Court of Latvia in the present case did not in any way substantiate that it is not necessary to have the matter examined by the European Court of Justice.
+
+<<562.05;570.17;en>>
+We can see from the decision of the Supreme Court that it does not mention a single judgment of ECJ that would substantiate its opinion.
+
+<<570.17;581.29;en>>
+Number two, on the 31st of January 2007, when the decision of the Supreme Court of Latvia was adopted, there were no case law of ECJ dealing with a particular matter.
+
+<<581.29;593.01;en>>
+Now the chamber has come up with three judgments in its recent judgment in this case of European Court of Justice in relation to the interpretation of Article 34.2
+
+<<593.01;594.65;en>>
+of the Brussels regulation.
+
+<<594.65;608.53;en>>
+These are judgments of December 2006 in the case ASML, of April 2009 in the case Apostolidis, and of September 2012 in the case Trade Agency.
+
+<<608.53;619.61;en>>
+But it is notable that Apostolidis' judgment, as well as Trade Agency judgment, were adopted after the Supreme Court of Latvia was dealing with a particular applicant's case.
+
+<<619.61;636.01;en>>
+Therefore, at the time the Supreme Court's decision was adopted in this particular case, the ECJ had not yet dealt with the issue regarding competence of courts when applying Article 32, 34.2 of the Brussels regulation.
+
+<<636.01;637.37;en>>
+Apologies.
+
+<<637.37;650.81;en>>
+And thirdly, it is very important that three years after the applicant's case in the Latvian Supreme Court, the same Latvian Supreme Court did what it had to do in the applicant's case.
+
+<<650.81;657.53;en>>
+That is, it decided to refer to ECJ for a preliminary ruling regarding the same identical issue.
+
+<<657.53;676.49;en>>
+Namely, in December 2010, the Supreme Court of Latvia referred to ECJ with a question whether, in the case similar to applicant's case, the court is competent to examine for itself the conformity with the evidence of the information contained in the certificate stating that a foreign judgment has come into effect.
+
+<<676.49;684.61;en>>
+And as a result of this request for a preliminary ruling, ECJ initiated case, trade agency case.
+
+<<684.61;699.45;en>>
+The approach of the Supreme Court of Latvia in trade agency case proves that the Supreme Court had to refer for a preliminary ruling already in the applicant's case and not only three years later in an identical case.
+
+<<699.45;708.65;en>>
+Furthermore, it demonstrates that the lack of preliminary ruling in the applicant's case had a direct effect on the outcome of the applicant's case.
+
+<<708.65;717.53;en>>
+And finally, the applicant disagrees with the government of Latvia that the applicant himself did not request the Supreme Court to refer to ECJ.
+
+<<717.53;732.21;en>>
+It shall be emphasized that in the hearing of the Supreme Court, which took place on the 31st of January 2007, applicant was not given a possibility to submit his request and express his arguments and opinion on the substance of the case.
+
+<<732.21;738.61;en>>
+Such rights were given only to one party of the court proceedings, Company Fairweather Holdings, the opposite party.
+
+<<738.61;746.05;en>>
+Thus, the applicant practically was not in a position to request the Latvian court to refer to ECJ for a preliminary ruling.
+
+<<746.05;748.81;en>>
+I now move on to the question number three.
+
+<<748.81;754.81;en>>
+What was the exact limits of competence of Latvian courts in the present case according to the Brussels regulation?
+
+<<754.81;757.41;en>>
+And did they have discretion?
+
+<<757.41;760.81;en>>
+What was the scope of this discretion if that was there?
+
+<<760.81;775.89;en>>
+The court had already established in the Bosphorus judgment that the presumption of equivalent presumption does not apply and the state is fully responsible under the convention for all acts falling outside its strict international legal obligation.
+
+<<775.89;788.57;en>>
+The applicant does not maintain that the Brussels regulation provides for complete discretion of the national courts in a sense that they could voluntarily refuse recognition of judgment rendered in other member state.
+
+<<788.57;806.53;en>>
+However, honorable court, Brussels regulations, in this case, paragraph two of the article 34, puts the national courts in a position where they are both entitled and obliged to verify factual and legal circumstances of the proceedings in the other member state.
+
+<<806.53;812.39;en>>
+Supreme Court of Latvia was not under strict international duty to recognize the Cypriot judgment.
+
+<<812.39;824.89;en>>
+EU law, to the contrary, under the EU law, Latvian courts were obliged to provide certain legal and factual analysis, which Latvian court, in the case of applicant, failed to do.
+
+<<824.89;831.21;en>>
+The said conclusion is established first and foremost by the judgment of the European Court of Justice.
+
+<<831.21;844.39;en>>
+Notably, in trade agency case, the ECJ provided elaborate argumentation on what is the limit of competence for the courts, applying article 34.2 of the Brussels regulation.
+
+<<844.39;857.65;en>>
+Moreover, the circumstances of apostolidis were manifestly different from the applicant's case because in apostolidis, the defendants were aware of the default judgment and did, in fact, commence proceedings to challenge it.
+
+<<857.65;869.85;en>>
+Whereas, circumstances in trade agency case were absolutely identical to the applicant's case, and therefore, it should have been applied also to the applicant's matter.
+
+<<869.85;881.81;en>>
+Thereby, in order to establish the limit of competence of the Latvian courts, in the present case, it is most appropriate to rely on conclusions of the trade agency case judgment.
+
+<<881.81;911.21;en>>
+The applicant believes that conclusions of trade agency judgment clearly establishes that the Latvian courts were competent to verify the factual and legal circumstances of proceedings in Cyprus in order to establish whether the Cypriot judgment was served to the applicant in a time and manner that would make it possible for the applicant to challenge the Cypriot judgment, as it is clearly indicated by the European Court of Justice and trade agency judgment, articles 38 and 45, respectively.
+
+<<911.21;920.01;en>>
+After the preliminary ruling in the trade agency case, the said principles have been carefully applied in the practice of the Supreme Court of Latvia.
+
+<<920.01;943.25;en>>
+Further, on the 2nd of July, 2014, the Supreme Court of Latvia adopted decision in another case, SKC 1255 slash 2014, where the Latvian Supreme Court refused enforcement of a default judgment because the defendant was not served in such a way as to enable him to arrange for his defense.
+
+<<943.25;953.89;en>>
+It should be noted that in both of these cases, it was not disputed that the defendant has not tried to commence proceedings to challenge the default judgment.
+
+<<953.89;974.73;en>>
+Finally, in the light of the above mentioned, the applicant disagrees with the allegation of Latvian government and the European Commission that the present case is similar to the case of Povs versus Austria, where the honorable court had concluded that EU law did not provide any discretion for Austrian courts when ordering enforcement of a judgment of Italian court.
+
+<<974.73;987.21;en>>
+In Povs, the Austrian courts had to apply paragraph 1 of the article 42 of the regulation number 200201 slash 2003, the so-called Brussels II regulation.
+
+<<987.21;1004.09;en>>
+Honorable court, article 42 of the Brussels II regulation requires that the judgment is to be recognized and is to be automatically enforceable in another member state, there being no possibility of opposing its recognition.
+
+<<1004.09;1027.61;en>>
+However, paragraph 2 of the article 34 of the Brussels regulation in case of this particular matter is essentially different because both the text and interpretation provided by European Court of Justice requires the courts of the state of enforcement to verify whether the rights of defense have been respected before the courts of the other member state.
+
+<<1027.61;1053.13;en>>
+In this regard, I invite the honorable court to take a note of paragraphs 33 to 36 of opinion of Advocate General Julien Cocotte in the trade agency case in ECJ, where the advocate general has neatly explained the difference between both of the Brussels regulation in relation to the competence of the courts of state of enforcement.
+
+<<1053.13;1067.05;en>>
+Thereby, the present case is not similar to Povce case because the scope of competence enjoyed by Latvian courts in the present case was much broader in comparison with the Povce case.
+
+<<1067.05;1085.77;en>>
+Therefore, in summing up our response to the question number three of the honorable court, the applicant strongly believes that in the present case, the government of Latvia may not rely on the presumption of equivalent protection as a justification of interference with the applicant's rights guaranteed under the Article 6 of the convention.
+
+<<1085.77;1090.99;en>>
+And I now will respond to the question number four of the honorable court.
+
+<<1090.99;1097.69;en>>
+Could the applicant appeal the judgment of the district court of Limassol of 24th of May 2004?
+
+<<1097.69;1103.29;en>>
+And in particular, could he still do it after 16th of June 2006?
+
+<<1103.29;1111.67;en>>
+Firstly, in our opinion, it was the obligation of Latvian courts to evaluate whether applicants could appeal the judgment of the district court of Limassol.
+
+<<1111.67;1122.89;en>>
+Supreme Court of Latvia, in its decision of 31st of January 2007, did not evaluate the possibility or impossibility to appeal the judgment of the district court of Limassol.
+
+<<1122.89;1135.65;en>>
+Secondly, even according to EU law, the possibility for the applicant to appeal against the Cypriot judgment is to be determined by taking into account the defaults of notification of serving of the documents.
+
+<<1135.65;1161.33;en>>
+The ECJ, in the ASML Netherlands judgment, had established that it is possible for a defendant to bring proceedings to challenge the default judgment against him only if he was in fact acquainted with its contents, because it was served on him in sufficient time to enable him to arrange for his defense before the courts in the state in which the judgment was given.
+
+<<1161.33;1171.57;en>>
+The mere fact is sufficient to conclude that after June 16, 2006, it was not possible within the meaning of Article 34.2 of the Brussels
+
+<<1171.57;1177.77;en>>
+regulations for the applicants to commence proceedings to challenge the Cypriot judgment.
+
+<<1177.77;1187.29;en>>
+It must be observed that such interpretation has also been supported by the Supreme Court of Latvia in the cases following the applicant's case.
+
+<<1187.29;1190.17;en>>
+I had mentioned already the examples.
+
+<<1190.17;1196.29;en>>
+Number three, the applicant had no reason even to think that the Cypriot judgment could have been appealable.
+
+<<1196.29;1204.27;en>>
+Even the Cypriot judgment did not contain information on possibility or impossibility for the applicant to appeal the judgment.
+
+<<1204.27;1213.05;en>>
+Judgment did not even contain information regarding the fact whether the judgment is in force and thereby is enforceable.
+
+<<1213.05;1222.21;en>>
+Fourthly, even at this moment of the present hearing, it is not clear whether the applicant could appeal the judgment of District Court of Limassol.
+
+<<1222.21;1231.89;en>>
+Even the government of Cyprus has explained that in accordance with Cypriot law, the applicant could try to apply to set aside the judgment as soon as he was informed about it.
+
+<<1231.89;1250.15;en>>
+However, government of Cyprus explains that Court of Cyprus may in its own discretion decline to reopen the case if it considers that the conduct of the party applying to reopen the case is inexcusable or cumulus for the judicial process or the right his adversary.
+
+<<1250.15;1254.85;en>>
+That is citing from the paragraph 20 of the Cyprus government's opinion.
+
+<<1254.85;1263.83;en>>
+Thus, District Court of Limassol was not and still is not directly judgment of District Court of Limassol, was not and still is not directly appealable.
+
+<<1263.83;1274.69;en>>
+And ultimately, applicant had no need to appeal the judgment of the District Court of Limassol prior to the court hearing of the Supreme Court of Latvia on 31st of January 2007.
+
+<<1274.69;1284.65;en>>
+Because Riga Regional Court, lower instance court, had rejected already in October 2, 2006, the enforcement of the Cypriot judgment.
+
+<<1284.65;1299.77;en>>
+And there are no evidences in the case file which prove that Cypriot judgment would be because of the same reasoning that we had already indicated, that there were no evidence in the case file which proved that Cypriot judgment is enforced and is enforceable.
+
+<<1299.77;1324.65;en>>
+Therefore, in summary to answer question number four, prior to the court hearing of the Supreme Court of Latvia of the 31st of January 2007, which enforced Cypriot judgment, the applicant's rights were protected and observed by the Latvian courts by rejecting enforcement of the Cypriot judgment for the same reasons as applicant had already mentioned in his application to those courts.
+
+<<1324.65;1326.73;en>>
+And now I will answer to the question number five.
+
+<<1326.73;1336.97;en>>
+Is the fact that the above-mentioned Cypriot judgment did not contain any mention of potential right to appeal relevant in the present case?
+
+<<1336.97;1340.45;en>>
+This fact is of great importance in the present matter.
+
+<<1340.45;1353.79;en>>
+Firstly, it is an evidence in itself that the Latvian court did not even consider whether the proceedings conducted before the court of the other state had been in conformity with Article VI of the Convention.
+
+<<1353.79;1368.41;en>>
+Such consideration should have included answer to the question whether the defendant had the time necessary in order to prepare his defense or to take the steps necessary to prevent a decision delivered in the fault of appearance.
+
+<<1368.41;1379.69;en>>
+Secondly, Article VI, paragraph 1 of the Convention secures to everyone the right to have any claim relating to his or her civil rights and obligations brought before a court or tribunal.
+
+<<1379.69;1387.49;en>>
+Possibility to appeal the full judgment could be considered as such right under Article VI, paragraph 1 of the Convention.
+
+<<1387.49;1403.21;en>>
+Honorable courts practice, for example, in case Mendel versus Sweden had noted that it is essential to verify whether a person could know and understand in what procedure and time limits it is possible to submit an appeal.
+
+<<1403.21;1410.39;en>>
+Especially, that is of great importance if the judgment is delivered by the foreign court and is default judgment.
+
+<<1410.39;1421.09;en>>
+If there is no information available on this issue, it is to be considered that possibility to submit an appeal is not practical and effective right of access to court.
+
+<<1421.09;1430.53;en>>
+And finally, lack of such information meant that there is no information in the case file regarding the fact whether the foreign judgment was enforced and was enforceable.
+
+<<1430.53;1443.01;en>>
+Therefore, in conclusion of our response to the question number five, it shall be concluded that the fact that a superior judgment did not contain any mention on potential right to appeal is relevant in the present case.
+
+<<1443.01;1470.17;en>>
+And now I will answer question number six of the honorable court, did the Senate of the Supreme Court of Latvia in its judgment of 31st of January 2007 sufficiently took into account, number one, the separate procedural law and particularly the possibility or impossibility for the applicant to appeal the judgment of District Court of Limassol and the manner in which the applicant was summoned to appear before the above mentioned Cypriot court?
+
+<<1470.17;1486.21;en>>
+Honorable court, it is clear from the wording of the decision of the Supreme Court of Latvia of 31st of January 2007 that it did not take into account and did not even evaluate the possibility or impossibility for the applicant to appeal the judgment of District Court of Limassol.
+
+<<1486.21;1490.93;en>>
+It can be seen from a number of factual circumstances of the present case.
+
+<<1490.93;1509.73;en>>
+The Latvian court in its decision stated, I quote, since Peter Savotin has not appealed court's decision, there is no essential importance of the arguments put forward by the representative of applicant regarding the fact that the respondent was not summoned in proper manner on the hearing of the case in foreign court.
+
+<<1509.73;1526.65;en>>
+Honorable court, I conclude that it is clear from the wording of the decision of the Supreme Court of Latvia that it not only did it not sufficiently take into account this said circumstance, but it actually did not take into account those relevant facts at all.
+
+<<1526.65;1532.51;en>>
+And now I will proceed to answer the ultimate, the last question of the court, number seven.
+
+<<1532.51;1547.89;en>>
+If recognition and execution, as well as the manner in which the procedure of recognition and execution in these jurisdictions was conducted affected the applicant's right to a fair trial within the meaning of Article VI of the convention.
+
+<<1547.89;1559.25;en>>
+In the light of aforementioned, it must be concluded that by granting recognition and execution of the superior judgment, the Latvian courts violated the applicant's rights guaranteed by Article VI of the convention.
+
+<<1559.25;1566.45;en>>
+As I had explained before, Latvia in present case cannot rely on the presumption of equivalent protection.
+
+<<1566.45;1573.65;en>>
+Therefore, the court must access the compliance of the Latvia's activities within the requirements of the convention.
+
+<<1573.65;1591.17;en>>
+In his request to the Green Chamber, my client, the applicant, has referred to the court's case law, whereby it is established that principle of equality of arms enshrined in Article VI of the convention applies also to the field of meaning and notifying of the judicial documents to the parties.
+
+<<1591.17;1611.25;en>>
+In particular, the applicant relied to the judgment in the case of Miholapa versus Latvia, where the Honorable Court decided that sending notifications to the wrong address, as indicated by the other party, and thereby lacking proper notification of the court hearing, constitutes a violation of Article VI, paragraph one of the convention.
+
+<<1611.25;1628.61;en>>
+It is well established by the court judgments in cases Pelligrini versus Italy and Saccoccia versus Austria that in ex quatur proceedings, the domestic courts must examine whether the proceedings conducted before the court of the other state had been in conformity with the Article VI of the convention.
+
+<<1628.61;1639.77;en>>
+In a present case, the Supreme Court of Latvia apparently did not examine whether the proceedings before the Cypriot court met the requirements of Article VI, paragraph one of the convention.
+
+<<1639.77;1652.81;en>>
+As regards the applicant's argument that he was not properly summoned before the court and was not notified of the court judgment, the Supreme Court of Latvia simply concluded that these arguments are of no importance.
+
+<<1652.81;1664.81;en>>
+Thus, by granting recognition and execution of the Cypriot judgment, the Latvian courts violated the applicant's rights guaranteed by paragraph one of the article of the convention.
+
+<<1664.81;1679.33;en>>
+The government of Latvia and third parties to this case argue that the applicant failed to demonstrate before Latvian courts that his rights to defense before Cypriot court were not respected and that it was impossible for him to challenge the Cypriot judgment once he became aware of its existence.
+
+<<1679.33;1687.09;en>>
+In this regard, I would like to refer once more and summarize the actual circumstances of the case in the time allotted to me.
+
+<<1687.09;1696.73;en>>
+First of all, it is not true that applicant failed to demonstrate before the Latvian courts that his rights to defense before the Cypriot court were not respected.
+
+<<1696.73;1707.89;en>>
+From the very beginning in the court proceedings, the applicant had stated that judgment of district court of Limassol cannot be enforced since there is no information as to the fact whether the said judgment is enforced.
+
+<<1707.89;1723.85;en>>
+Whether it is enforceable and since the applicant was never served with the document which instituted the proceedings, applicant has invariably argued that said circumstance precluded him to arrange for his defense before the courts of the state in which the judgment was given.
+
+<<1723.85;1728.05;en>>
+That can be seen from the minutes of those court hearings.
+
+<<1728.05;1740.29;en>>
+Secondly, it must be recalled that the applicant firmly believed that he had repaid his debt to the plaintiff company already before the legal proceedings before the district court of Limassol were initiated.
+
+<<1740.29;1748.77;en>>
+And therefore, the applicant did not have to expect that there will be any court proceedings in Cyprus as regards his debt to the plaintiff company.
+
+<<1748.77;1758.85;en>>
+Third, by the decision of Riga regional courts taken in 2nd of October 2006, the Latvian court rejected the application to enforce the Cypriot judgment.
+
+<<1758.85;1772.33;en>>
+And therefore, prior to the court hearing of 31st of January 2007, applicant had no practical need to challenge the Cypriot judgment since the Latvian court had already decided that Cypriot judgment was not enforceable.
+
+<<1772.33;1778.13;en>>
+And fourthly, there was no reason for the applicant to consider that Cypriot judgment was enforced and enforceable.
+
+<<1778.13;1795.73;en>>
+As it was argued by the applicant's attorney in the court hearing before the Riga regional court in October 2006, there were no evidence in the case file on issues such as how the claim had been brought before Cyprus court, whether Cypriot judgment is enforced and enforceable, and whether it can be appealed.
+
+<<1795.73;1803.55;en>>
+And fifthly, important that there was no information available to the applicant on the possibility to appeal the Cypriot judgment.
+
+<<1803.55;1818.31;en>>
+Neither the judgment of District Court of Limassol nor even the certificate referred to in Article 55 and 58 of the Brussels regulation contain information on possibility or impossibility for the applicant to appeal the judgment of District Court of Limassol.
+
+<<1818.31;1830.89;en>>
+Moreover, incomplete certificate referred to in Articles 54 and 58 of the Brussels regulation was submitted to the court only on the day of hearing, that is 31st of January 2007.
+
+<<1830.89;1845.37;en>>
+And it was enclosed in the case file in court hearing of the Senate of the Supreme Court of Latvia without giving an opportunity for an applicant to express applicant's opinion in relation to this document.
+
+<<1845.37;1864.13;en>>
+And finally, applicant practically could not request the Supreme Court of Latvia to stay the proceedings in order to give a time for applicant to bring the appeal before the Cypriot court because the hearing of the 31st of January 2007 was conducted in such a manner which was in contrary to the Article 6 of the convention.
+
+<<1864.13;1870.01;en>>
+Applicant was not given a chance to effectively participate in the said hearing.
+
+<<1870.01;1873.81;en>>
+Proceedings must be adversarial to be fair.
+
+<<1873.81;1879.29;en>>
+Proceedings shall also be conducted in line with the principle of equality of arms.
+
+<<1879.29;1889.09;en>>
+The principle of equality of arms provides that each party shall have an adequate opportunity to adduce evidence, to challenge evidence provided by opposing party, and present arguments.
+
+<<1889.09;1901.97;en>>
+Equality of arms may also be violated if there are serious practical obstacles to one party presenting their case, as it has been established by the Honorable Court in McPhee versus France matter.
+
+<<1901.97;1911.41;en>>
+Court hearing of the Senate of Supreme Court of Latvia, which took place on 31st of January 2007, was not conducted in line with the said principles.
+
+<<1911.41;1918.49;en>>
+The hearing was not adversarial, and it definitely was not held taking into account principle of equality of arms.
+
+<<1918.49;1928.93;en>>
+We understand that at this moment it is very hard for the court to reconstruct factual circumstances of that hearing, but it should be emphasized that the only reason for that is the misconduct of the state.
+
+<<1928.93;1930.45;en>>
+State is the present case.
+
+<<1930.45;1939.95;en>>
+State in the present case has actively, in a way, has acted in a way which excluded any possibility to strengthen and verify the allegations of applicant.
+
+<<1939.95;1955.39;en>>
+Namely, the Senate of the Supreme Court of Latvia did not provide minutes of the court hearing of the 31st of January 2007, even though Article 61 and Article 447 of the Civil Procedure Law of Latvia required the minutes of the hearing to be provided.
+
+<<1955.39;1966.85;en>>
+Later on, all state institutions and officials rejected all the requests to initiate disciplinary procedure or grant rights to protest the said judgment.
+
+<<1970.13;1978.91;en>>
+Honorable court, applicant is not claiming that the state has violated convention only because it did not provide the minutes of the hearing.
+
+<<1978.91;1990.61;en>>
+We claim that if there were minutes of the hearing available, it would be easy to verify that a said hearing was not adversarial, and it definitely was not held taking into account principle of equality of arms.
+
+<<1990.61;2008.81;en>>
+And therefore, applicant practically could not submit any request, including a request to stay the proceedings or to apply to the European Court of Justice for a preliminary ruling or any procedural rights granted to applicant by the law of Latvia whatsoever.
+
+<<2008.81;2017.13;en>>
+Therefore, the applicant has proven that he argued before the Latvian courts that his rights to defense before the separate court were not respected.
+
+<<2017.13;2025.69;en>>
+And factual circumstances of the case show that it was practically impossible for him to challenge the separate judgment.
+
+<<2025.69;2037.25;en>>
+By not doing it, now in summary of my submissions, I could confirm to the court that by these relevant circumstance, the state had violated Article VI of the convention.
+
+<<2037.25;2053.85;en>>
+And therefore, applicant requests the court to declare that by granting enforcement of judgment of the district court of Limassol in Cyprus of 24th of May 2004, Latvian courts, in particular the Supreme Court of Latvia, has violated paragraph one of Article VI of the convention.
+
+<<2053.85;2053.85;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2056.04;2057.76;fr>>
+Merci beaucoup, Maître Liepa.
+
+<<2057.76;2060.76;fr>>
+La parole est maintenant à Madame Līce.
+
+[[Government;GR1]]
+
+<<2063.28;2064.72;en>>
+Thank you, Mr. President.
+
+<<2064.72;2066.88;en>>
+Mr. President of the Court, distinguished judges,
+
+<<2066.88;2076.08;en>>
+ladies and gentlemen, the present case originates from the recognition and enforcement proceedings in application of the EU law secondary legislation.
+
+<<2076.08;2089.76;en>>
+That is to say, the Council Regulation number 44 slash 2001 of 22nd December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters.
+
+<<2089.76;2095.08;en>>
+From now on, I shall refer to this instrument as the Brussels 1 regulation.
+
+<<2095.08;2106.24;en>>
+In the following statements, I will provide the replies of the government of flat state to the questions posed by the court, insofar as these questions have not yet been answered in the government's written submissions.
+
+<<2106.24;2111.92;en>>
+In doing so, I might not necessarily follow the order in which the questions were posed.
+
+<<2111.92;2123.04;en>>
+I will also address the applicant's main arguments and will use this opportunity to provide other important information that has not been included in the government's previous written submissions.
+
+<<2123.04;2127.8;en>>
+Where relevant, I will refer to the submissions by third parties.
+
+<<2127.8;2141.64;en>>
+But before I proceed with answering the court's questions, in light of the chamber's judgments and considering the applicant's submissions to the grand chamber, some clarification as to the facts of the case is needed.
+
+<<2141.64;2158.56;en>>
+It should be made very clear from the very beginning that in the present case, there is no dispute that the applicant indeed had entered into a debt deed in May of 1999, borrowing a considerable amount of money from a company registered in Cyprus.
+
+<<2158.56;2184.48;en>>
+There is no dispute that in the debt deed signed by the applicant, he had indicated the following address, Riga, Latvia, Glasnoti Street, number 4, third floor, and that the writ of summons issued by the Limassol District Court was delivered to the aforementioned address and signed upon the receipts on 27th November of 2003.
+
+<<2184.48;2195.08;en>>
+There is no dispute that the applicant had failed to repay his debts by the date indicated in the debt deed, that is to say, by 30th of June 1999.
+
+<<2195.08;2203.24;en>>
+The applicant failed to communicate with the Limassol District Court, to whose jurisdiction he had explicitly consented.
+
+<<2203.24;2217.58;en>>
+Also, it is quite clear that at the time of the recognition and enforcement proceedings were pending for the Latvian courts in October of 2006, the applicant implicitly recognized the existence of the debt.
+
+<<2217.58;2232.32;en>>
+It should be once again emphasized that the subject matter of the present proceedings before this court is not the existence of the applicant's contractual obligations, but the question of whether the applicant's rights to fair trial have been respected.
+
+<<2232.32;2237.04;en>>
+I will now proceed with replying to the court's questions.
+
+<<2237.04;2252.32;en>>
+First of all, the court has asked the parties about the role of the EU law in the present case and whether the presumption of equivalent protection, which is also often referred to as the Bosphorus presumption with respect to the EU, is applicable in the present case.
+
+<<2252.32;2261.04;en>>
+As I stated just a moment ago in my introduction, the EU legislation relevant to the present case is the Brussels I Regulation.
+
+<<2261.04;2285.8;en>>
+Bearing in mind the government's written submissions to the chamber, at this stage I will confine myself to recalling that, according to the Court of Justice of the European Union, the Brussels I Regulation seeks to ensure free movement of judgments from member states in civil and commercial matters by simplifying formalities with a view to their rapid and simple recognition and enforcement.
+
+<<2285.8;2296.4;en>>
+In the words of the Court of Justice in the apostolate of the EU, the EU law is a system of fair and impartial judicial and judicial justice judgments.
+
+<<2296.4;2327.28;en>>
+And I quote, the system aims to establish a fair balance between, on the one hand, the mutual trust in administration of justice in the union, which justifies judgments given in a member state being as a rule recognized and declared enforceable automatically in another member state, and a real and adversarial procedure against declaration of enforceability if he considers one of the grounds for non-enforcement to be present.
+
+<<2327.28;2334.92;en>>
+In his submissions to the court, the applicant claims that the Latvian Supreme Court has misinterpreted and misapplied the EU law.
+
+<<2334.92;2358.8;en>>
+By claiming this, the applicant has manifestly overlooked the well-established case law of this court, including the chamber judgments in the present case, pursuant to Article 19 of the convention, the Strasbourg court has no competence to assess a state's compliance with the EU law or to rule on interpretation and application of the EU law.
+
+<<2358.8;2377.96;en>>
+At the same time, there is no doubt that this does not rule out the court's competence to verify in the light of requirements of Article 6 of the convention the state's actions taken in order to comply with its legal obligations stemming from the EU membership and thus the EU law.
+
+<<2377.96;2398.0;en>>
+With respect to this interplay between the EU law and the convention, I will quote my good colleague Jorg Polakevic, beginning of quotes, the large degree of overlap between the various legal instruments may occasionally generate competition, sometimes even tensions, between their respective ultimate interpreters.
+
+<<2398.0;2409.84;en>>
+Different approaches can be mutually enriching as long as the various actors base their interaction on a set of shared principles, end of quote.
+
+<<2409.84;2419.38;en>>
+These shared principles lie in equal understanding about the protection of fundamental rights by both the Strasbourg court and the Luxembourg court.
+
+<<2419.38;2430.8;en>>
+Therefore, it is the government's firm belief that the presumption of equivalent protection or the post-first presumption is based exactly on the shared principles.
+
+<<2430.8;2435.32;en>>
+And there is no reason in the present case to question this conclusion.
+
+<<2435.32;2439.68;en>>
+I will now turn to the notion of Bosphorus presumption itself.
+
+<<2439.68;2454.28;en>>
+The Bosphorus case decided in 2006 allowed the Strasbourg court to clarify the relationship between the EU and Council of Europe's human rights regimes by elaborating on the equivalent protection presumption from the EU law perspective.
+
+<<2454.28;2462.8;en>>
+This court has ruled that the EU guarantees a level of fundamental rights protection equivalent to that of the convention.
+
+<<2462.8;2470.4;en>>
+Thus, the compliance with the convention can be presumed where a state effectively follows the applicable EU law.
+
+<<2470.4;2483.9;en>>
+I wish to emphasize at this stage that in the course of recognition and enforcement proceedings under Brussels I regulation, the Latvian courts were indeed fulfilling Latvia's legal obligations that stem from its EU membership.
+
+<<2483.9;2497.16;en>>
+The Court of Justice in its turn, in its case law has expressly recognized that the objectives of the EU law cannot be attained by undermining in any way the fundamental rights, including the right to fair trial.
+
+<<2497.16;2506.96;en>>
+In interpreting the scope of the right to fair trial, the Court of Justice takes into consideration the case law of the Strasbourg court relating to Article 6 of the convention.
+
+<<2506.96;2516.6;en>>
+Moreover, the Court of Justice has confirmed that the observance of the right to fair trial is a fundamental principle of community law.
+
+<<2516.6;2531.32;en>>
+The applicant contends that the Bosphorus presumption is not applicable in the present case because firstly, the Latvian courts allegedly had a discretion in deciding whether to grant recognition and enforcement of the Limassol district court judgments.
+
+<<2531.32;2538.0;en>>
+And secondly, because the Latvian courts did not make use of the control mechanism provided for in the EU law.
+
+<<2538.0;2545.96;en>>
+That is to say, the Latvian courts did not file a request for a preliminary ruling with the Court of Justice.
+
+<<2545.96;2559.32;en>>
+In response to the applicant's arguments, I recall and I wish to emphasize that this court has made sufficiently clear the circumstances under which the application of the Bosphorus presumption would be ruled out.
+
+<<2559.32;2568.08;en>>
+In particular, this court has been very mindful of the fact whether the national courts had duly made use of the control mechanism provided for the EU law.
+
+<<2568.08;2579.64;en>>
+That is to say, whether the national courts have asked the Court of Justice for a preliminary ruling and what were the reasons given by national courts in refusing to submit such requests.
+
+<<2579.64;2600.2;en>>
+For instance, as the representative of the applicants referred to the case of Mishadu, this court has ruled out the application of the presumption of equivalent protection where the national court refused to request the preliminary ruling or had failed to give reasons for refusing to submit the preliminary request.
+
+<<2600.2;2615.08;en>>
+But what I want to emphasize particularly is that the facts of the present case are very different in that the applicant has never asked the domestic courts to submit a request for a preliminary ruling with the Court of Justice.
+
+<<2615.08;2624.36;en>>
+And this simple fact makes a clear distinction between the present case and the case of, for example, Mishadu versus France.
+
+<<2624.36;2628.92;en>>
+I now wish to refer to the government's written submissions to the Grand Chamber.
+
+<<2628.92;2641.92;en>>
+In these submissions, the government elaborated in detail regarding the occasions when, according to the Court of Justice, the national court does not need to make a request for a preliminary ruling.
+
+<<2641.92;2656.68;en>>
+The government also has argued that the case law of this court clearly demonstrates that the absence of a request for a preliminary ruling does not per se rule out the application of the Bosphorus presumption.
+
+<<2656.68;2674.56;en>>
+The Latvian courts would address the necessity to submit a preliminary ruling request where the judges discussing the case had questions as to the correct application of the EU law in a particular case or in cases where there has been a request to this effect by a party.
+
+<<2674.56;2682.54;en>>
+It is true that, contrary to the Bosphorus case, in the present case, the Latvian Supreme Court did not seek a preliminary ruling from the Court of Justice.
+
+<<2682.54;2696.92;en>>
+But one must take into account the clarity of the wording of Article 34, Paragraph 2 of the Brussels Fund Regulation, and the fact that the fundamental condition for non-recognition was manifestly not met.
+
+<<2696.92;2707.64;en>>
+And thus, a preliminary ruling was not a requirement indispensable for correct application of the relevant EU law provision and for ensuring the protection of fundamental rights.
+
+<<2707.64;2719.36;en>>
+To repeat, the absence of a request for preliminary ruling does not rule out and does not affect the application of the Bosphorus presumption in the present case.
+
+<<2719.36;2730.78;en>>
+This court has also made very clear in its case law that the Bosphorus presumption would not be applicable where the state's acts amounted to exercise of discretion instead of an obligation.
+
+<<2730.78;2734.96;en>>
+In this regard, I once again would like to refer to the government's written submissions.
+
+<<2734.96;2751.0;en>>
+In these submissions, the government has elaborated in detail as to why the applicants' allegations that the national courts enjoyed discretion in application of the Brussels Fund Regulation, Article 34, Paragraph 2, is wrong.
+
+<<2751.0;2760.18;en>>
+It should be emphasized that the government's position has been supported by the third parties in their observations, namely by the European Commission and the Estonian government.
+
+<<2760.18;2778.88;en>>
+Therefore, there is a common understanding that the limits of the competence of the national courts to decide on non-recognition of a judgment from another member state under Article 34, Paragraph 2 of the Brussels Fund Regulation, are clearly defined, leaving no discretion.
+
+<<2778.88;2788.48;en>>
+The only room of maneuver available to the national courts is limited to the verification of whether the default judgment could have been appealed against.
+
+<<2788.48;2797.24;en>>
+To sum up, the government can only join the chamber in its conclusions and therefore maintains its position expressed in the written submissions.
+
+<<2797.24;2807.92;en>>
+That is to say that the presumption of equivalent protection does apply in the present case, and therefore it should be presumed that Latvia has complied with the requirements of the convention.
+
+<<2807.92;2825.3;en>>
+I will now address the court's question of whether the domestic law of Cyprus provided for an appeal against the Limassol District Court's judgments, and in particular, whether the appeal was possible after the applicant was acquainted with the contents of that judgment on 16 June 2006.
+
+<<2825.3;2829.16;en>>
+The answer to this court's question is a short and very simple one.
+
+<<2829.16;2836.0;en>>
+Yes, the Cypriot law did provide for an appeal against the Limassol District Court judgments.
+
+<<2836.0;2852.92;en>>
+It is sufficient to refer to the written observations submitted to the grand chamber by the government of Cyprus, which demonstrate that under the Cypriot civil procedure rules, the applicant had both theoretical and practical possibility to challenge the default judgments.
+
+<<2852.92;2858.08;en>>
+I also wish to note that therefore said right was not time barred.
+
+<<2858.08;2879.54;en>>
+Finally, the government of Cyprus has demonstrated very well by submitting examples from the case law that the appeal procedure provided in the Cypriot law existed not only in theory, but also in practice, despite the lapse of time between the adoption of the default judgment and the date on which the applicant was acquainted with its contents.
+
+<<2879.54;2893.16;en>>
+It follows from the above considerations that it was open for the applicant to challenge the default judgment after the date on which he became aware of that judgment, namely after 16th of June, 2006.
+
+<<2893.16;2900.28;en>>
+And he had at least six months at his disposal until the Latvian Supreme Court examined the case.
+
+<<2900.28;2912.92;en>>
+Had the applicants exercised his procedural rights under the domestic law of Cyprus in the present case, he could have sought the protection of his rights and legitimate interests in Cyprus.
+
+<<2912.92;2919.04;en>>
+And in doing so, he could have relied on the convention rights before the Cypriot courts as well.
+
+<<2919.04;2935.72;en>>
+It should be recalled that Article 34, paragraph 2 of the Brussels I regulation is likewise based on the assumption that any deficiencies in the default judgment primarily have to be remedied in the state of this judgment's origin.
+
+<<2935.72;2964.08;en>>
+At this stage, I must refer to this court's well-established case law that once the government has proved that the remedy was available both in theory and practice, it is for the applicant to show that the remedy advanced by the government was in fact exhausted, or for some reasons was inadequate and ineffective in the particular circumstances of the case, or that there existed special circumstances absolving the applicant from this requirement.
+
+<<2964.08;2970.96;en>>
+Moreover, the applicants must comply with applicable rules and procedures of domestic law.
+
+<<2970.96;2979.28;en>>
+And any borders, factual or legal, are not an obstacle per se to the execution of domestic remedies within that state.
+
+<<2979.28;2990.06;en>>
+The government believes that in the case like the present one, the court should address the remedies available to the applicants in the light of the case as a whole.
+
+<<2990.06;3002.08;en>>
+Since the applicant's failure, and I wish to emphasize this, the applicant's failure to exhaust the remedies in Cyprus had in fact tied the hands of the Latvian courts.
+
+<<3002.08;3015.52;en>>
+The government wishes to point out that the applicants who had explicitly consented to the jurisdiction of the Cypriot courts was legally represented throughout the whole of the domestic proceedings, as well as in the proceedings before this court.
+
+<<3015.52;3025.2;en>>
+Despite this, the applicant has not provided a single reason to justify his failure to appeal against the Limassol district court judgments.
+
+<<3025.2;3040.72;en>>
+Thus, the person should not misuse the convention rights and seek this court's protection in the situation he had helped to bring about by his own inaction, which was a conclusion arrived by this court in a case of Macdonald versus France.
+
+<<3040.72;3058.78;en>>
+In the case of the Latvian courts, in particular the Supreme Court's decision of 28th of June, 2006, demonstrates that the domestic courts had indeed refused recognition and enforcement of a foreign judgment in case the respondent had lodged an appeal in the country of origin.
+
+<<3058.78;3069.0;en>>
+The applicant could not have been unaware of this practice since the aforementioned Supreme Court's case, which resulted in the refusal to recognize and enforce the foreign judgment.
+
+<<3069.0;3078.0;en>>
+In that case, the defendant was represented by the same lawyer as the applicants in the domestic proceedings of the present case.
+
+<<3078.0;3111.4;en>>
+Last but not least, had the applicants commenced the appeal proceedings against the default judgments once he became aware of it in June, 2006, he could have requested the court faced with the recognition and enforcement to stay those proceedings pursuant to Article 37 and Article 46, paragraph 1 of the Brussels I regulation, as these provisions allow the courts in which recognition and enforcement is sought to stay proceedings if an ordinary appeal against the judgment has been lodged or if the time for such an appeal has not yet expired.
+
+<<3111.4;3122.96;en>>
+I will now turn to the court's question of whether the fact that there was no appeal procedure indicated in the Limassol District Court's judgments was of any importance in the present case.
+
+<<3122.96;3137.24;en>>
+First of all, I wish to refer to the information provided by the government of Cyprus that under the Cypriot law, there is no requirement that court judgments contain any reference to the appeal procedures available.
+
+<<3137.24;3145.56;en>>
+Such requirements can also be not implied from the convention nor from the Brussels I regulation.
+
+<<3145.56;3161.6;en>>
+Otherwise, and this is also something I would like to emphasize, any judgments delivered in Cyprus would automatically lead to the convention's violation because of the simple fact that it does not contain reference to the appeal procedure.
+
+<<3161.6;3183.96;en>>
+The very fact that under various legal systems among the member states of the Council of Europe, different procedural rules are in place does not release the applicant from the obligation to have recourse to the remedies existing under a legal system, particularly where he has consented to the dispute resolution under that legal system and was insured with proper legal representation.
+
+<<3183.96;3201.48;en>>
+In this regard, I must highlight Chambers' conclusions in the present case that the absence of any indication to the possible appeal procedure is immaterial, where the applicant could find it out by himself or by the assistance of his lawyer as soon as he learns about the default judgments.
+
+<<3201.48;3221.42;en>>
+At the same time, it is material for the proper examination of the present case that notwithstanding the absence of the reference to the appeal procedure in the Limassol District Court judgments, the applicant has never alleged, either before the national courts or before this court, that he had been unaware of the appeal procedure under the Cypriot law.
+
+<<3221.42;3233.08;en>>
+To the contrary, the facts of the present case demonstrate that the applicant, in fact, was aware that an appeal procedure under the Cypriot law did exist.
+
+<<3233.08;3241.4;en>>
+I recall the government's written submissions that recognition and enforcement proceedings before the Court of Appeal are adversarial proceedings.
+
+<<3241.4;3256.64;en>>
+The European Commission has also noted that Article 43 of the Brussels I Regulation does not require the appeal court to examine on its own initiative are there or are there not appeal procedures available in the country of origin.
+
+<<3256.64;3274.58;en>>
+I would only add that had the Latvian courts ex officio examined the Cypriot procedural rules, it would have acted contrary to Article 36 of the Brussels I Regulation, which prohibits reviewing of a foreign judgment as to its substance.
+
+<<3274.58;3294.76;en>>
+To conclude on these points, I wish to emphasize that the decisive question to be answered is if and how the absence of the reference to the appeal procedure in the Limassol district court judgment unfavorably affected the enjoyment of the applicant's conventions rights during proceedings before the Latvian courts.
+
+<<3294.76;3314.6;en>>
+So far, the applicant has failed to demonstrate or to reduce a single argument as to how the absence of a reference to the appeal procedure had prevented him from exercising his right to appeal against the Cypriot judgment or have had a real adverse effect on his rights to fair trial.
+
+<<3314.6;3320.6;en>>
+Finally, I will briefly turn to the issue of the service of the documents, which instituted the proceedings.
+
+<<3320.6;3332.08;en>>
+In this regard, the government is compelled to note that the applicant's position regarding the addresses where he could have been receiving the documents is more than contradictory.
+
+<<3332.08;3350.36;en>>
+Thus, in national proceedings, the applicant claimed that the address he himself had indicated in the acknowledgment of the dead deeds, the address that I mentioned at the very introduction and that of Glasnota Street number 4, the applicant states that it's neither his official place of residence nor his place of business.
+
+<<3350.36;3358.76;en>>
+At the same time, the applicant has failed to clarify the reasons as to why he indicated this particular address in the dead deeds.
+
+<<3358.76;3363.8;en>>
+The applicant has likewise failed to clarify which address would have been the correct one.
+
+<<3363.8;3370.38;en>>
+And assuming there was such a correct address, why did the applicant never communicate it to his business partners?
+
+<<3370.38;3382.96;en>>
+In light of these questions, the government invites the court to consider to what extent the applicant's conduct complies with the requirements of Article 17 of the Convention that prohibits the abuse of the Convention's rights.
+
+<<3382.96;3403.96;en>>
+Be that as it may, I can only repeat the submissions by the European Commission in this regard that if the defendant has not appealed against the judgment in the state of origin, although it was possible to do so, the fact that he or she was allegedly not served with a document instituting the proceedings is immaterial.
+
+<<3403.96;3412.64;en>>
+And the court, faced with recognition and enforcement under Article 43 of the Brussels I Regulation, does not have to examine arguments related thereto.
+
+<<3415.4;3436.16;en>>
+The government believes that the foregoing considerations also provide sufficient answer to the court's question of whether the Senate of the Supreme Court, in its decision of 31st of January 2007, had properly taken into account the separate procedural rules, the possibility to appeal against the Limassol District Court judgments, and the service of the documents.
+
+<<3436.16;3442.16;en>>
+Before concluding, I will make a few remarks concerning the applicant's claim for just satisfaction.
+
+<<3442.16;3454.16;en>>
+In addition to the government's observations of 9 November 2010, the government would like to recall its submission earlier this morning concerning the scope of the present application.
+
+<<3454.16;3461.4;en>>
+That is to say that this case does not concern the existence of the applicant's contractual obligations.
+
+<<3461.4;3478.32;en>>
+In addition, whatever the outcome of today's proceedings would be, the government maintains that the compensation for pecuniary damage, if awarded, should play a compensatory role vis-a-vis the applicant, not a punitive or dissuasive role vis-a-vis the respondent state.
+
+<<3478.32;3489.64;en>>
+Thus, any awards made by the court should not lead to the applicant's unjust enrichment, thus discrediting the protection system established by the convention and discourse to its prudence.
+
+<<3489.64;3498.32;en>>
+Finally, the amount of compensation for legal costs concerning the applicant's representation in the proceedings before the Grand Chamber is manifestly exorbitant.
+
+<<3498.32;3504.56;en>>
+To the government's knowledge, no additional request for compensation of legal costs has been made.
+
+<<3504.56;3512.0;en>>
+I have come to the conclusion of my statements, and will now summarize the government's position and will restate the most important points.
+
+<<3512.0;3534.36;en>>
+First of all, the presumption of equal protection is applicable in the present case, because A, Latvian courts did not enjoy discretion in deciding whether to grant recognition and enforcement of the Limassol district court judgment, and B, in the present case, the Latvian courts did not need to file requests for preliminary ruling.
+
+<<3534.36;3541.8;en>>
+An absence of such a request does not in itself rule out the application of the presumption of equal protection.
+
+<<3541.8;3551.56;en>>
+Secondly, all shortcomings alleged by the applicant could have been remedied had the applicant commenced appeal proceedings under the separate law.
+
+<<3551.56;3560.24;en>>
+Let me restate once again, the applicant's failure to exhaust the remedies in Cyprus has tied the hands of the Latvian courts.
+
+<<3560.24;3579.64;en>>
+Finally, as to the level of protection afforded by the Latvian courts, indeed, the Latvian Supreme Court has been very concise in its conclusions, but it did ensure the respect for the applicant's right to fair trial, particularly taking into account that the proceedings before the Latvian courts, taken as a whole, were fair.
+
+<<3579.64;3591.08;en>>
+To conclude, the government invites the court to conclude that in the present case, there has been no violation of the applicant's right to fair trial, as guaranteed by Article 6, Paragraph 1 of the Convention.
+
+<<3591.08;3591.08;en>>
+Thank you, Mr President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3595.34;3597.18;fr>>
+Merci beaucoup, Madame Līce.
+
+<<3597.38;3599.02;fr>>
+Et maintenant, la commission de Bruxelles.
+
+<<3599.02;3601.02;fr>>
+La parole est à M. Krämer.
+
+[[ThirdParty;TP1]]
+
+<<3603.67;3624.31;fr>>
+Monsieur le Président, Mesdames, Messieurs les juges, dans son mémoire en intervention, la Commission a amplement exposé les raisons qui l'amènent à conclure que la présomption de protection équivalente des droits fondamentaux dans l'Union européenne s'applique dans la présente affaire.
+
+<<3624.47;3632.27;fr>>
+La Commission a ainsi répondu aux questions 1 à 3 que votre cours a posées au parti.
+
+<<3632.27;3637.95;fr>>
+Dans ma plaidoirie aujourd'hui, je ne vais pas m'étaler davantage sur ce point.
+
+<<3638.11;3667.23;fr>>
+En revanche, je voudrais apporter quelques clarifications supplémentaires au sujet de la conformité au droit à un procès équitable, au sens de l'article 6, paragraphe 1 de la Convention, du régime de reconnaissance et d'exécution des décisions en matière civile et commerciale prévues par le droit de l'Union et au sujet de l'interprétation du règlement Bruxelles 1.
+
+<<3668.79;3691.07;fr>>
+En premier lieu, et en réponse à la question n°5 que votre cours a posée au parti, la Commission estime que le fait que le jugement du tribunal de district de Limassol du 24 mai 2004 ne comportait aucune mention des voies de recours disponibles et sans pertinence.
+
+<<3691.23;3715.31;fr>>
+En effet, il ressort de la jurisprudence de votre cours que les articles 6 et 13 de la Convention ne couvrent pas le droit à être informé par des mentions figurant sur tout acte attaquable tant des délais que de la computation des délais et que des voies de recours et juridictions de recours disponibles.
+
+<<3715.31;3723.15;fr>>
+Décision du 4 juillet 2000, Société automobile Guérin contre 15 Etats membres de l'Union européenne.
+
+<<3724.03;3735.55;fr>>
+Il incombe, en effet, à chaque parti, le cas échéant en s'entourant des conseils nécessaires, de se renseigner sur les voies de recours lui étant disponibles.
+
+<<3736.19;3738.19;fr>>
+Ius vidi lantibus est.
+
+<<3739.87;3760.95;fr>>
+En deuxième lieu, je voudrais aborder la question du moment auquel il convient de se référer pour apprécier si le défendeur était en mesure d'exercer un recours à l'encontre de la décision rendue par défaut au sens de l'article 34.2 du règlement Bruxelles 1.
+
+<<3762.23;3766.55;fr>>
+Cette dernière condition revêt d'abord une dimension objective.
+
+<<3767.23;3786.71;fr>>
+Il s'agit d'apprécier si, selon le droit de l'Etat membre d'origine, un recours formé par le défendeur contre la décision à exécuter, rendu par défaut, aurait été recevable, rationné personné et rationné temporis.
+
+<<3786.87;3815.11;fr>>
+Ensuite, la condition que le défendeur doit avoir été en mesure d'exercer un recours à l'encontre de la décision revêt également une dimension subjective dans le sens qu'il faut apprécier s'il pouvait être attendu de lui de former un tel recours sous peine de devoir subir l'exécution de la décision judiciaire rendue par défaut dans un autre état.
+
+<<3817.55;3842.31;fr>>
+Or, il ressort de la jurisprudence de la Cour de justice, et en particulier de l'arrêt à ASM, à ASML C-283-05, points 34, 41 et 46, que le moment pertinent est celui où le défendeur a pris connaissance du contenu de la décision rendue par défaut.
+
+<<3843.11;3865.11;fr>>
+En revanche, n'est pas pertinent le moment auquel il a pris connaissance de la simple existence de cette décision, et n'est pas pertinent non plus le moment auquel le défendeur s'est vu signifier ou notifier la décision par défaut dans le respect de toutes les règles applicables à ses actes procéduraux.
+
+<<3866.63;3883.11;fr>>
+Cette interprétation, qui retient donc le critère de la prise de connaissances effectives, correspond par ailleurs à la jurisprudence de votre cours au sujet du délai de six mois visé à l'article 35, paragraphe premier de la Convention.
+
+<<3884.03;3910.07;fr>>
+Ainsi, au point 31 de l'arrêt dans l'affaire Bali contre France, 34, 37, 4 de 97, vous avez jugé qu'en l'absence d'une notification de la décision interne, ce délai commence à courir, je cite, à partir du moment où l'intéressé a une connaissance effective et suffisante de la décision définitive.
+
+<<3910.07;3911.19;fr>>
+Fin de citation.
+
+<<3911.35;3915.15;fr>>
+A nouveau, ius vigilantibus est.
+
+<<3915.71;3929.91;fr>>
+Dans la présente affaire, le moment pertinent est donc le 16 juin, date à laquelle le récréant a pris connaissance du jugement du tribunal de district Limassol de mai 2004.
+
+<<3930.67;3949.19;fr>>
+En troisième lieu, la Commission a déjà eu l'occasion d'exposer, dans son mémoire, que la Convention ne réglemente pas l'admissibilité des preuves ou leur appréciation, matière qui relève dès lors au premier chef du droit interne et des juridictions nationales.
+
+<<3949.59;3975.11;fr>>
+Dès lors, le droit procédural de l'Etat membre requis, qui donc doit exécuter la décision, peut exiger que, lorsque le défendeur s'oppose devant les juridictions de ce dernier Etat membre, à l'exécution d'une décision judiciaire, l'exécution est seulement refusée au titre de l'article 34.2
+
+<<3975.39;3995.03;fr>>
+du règlement Bruxelles 1 si le défendeur invoque le fait qu'au moment pertinent, dont nous avons discuté il y a un moment, un recours dans l'Etat membre d'origine ne lui était pas disponible, rationné personné ou rationné temporis.
+
+<<3995.71;4014.15;fr>>
+Rappelons, dans ce contexte, que le droit interne d'un Etat constitue un fait au sens des règles sur l'administration des preuves devant les juridictions de tout autre Etat, tout comme, par ailleurs, il constitue un fait au regard de la Convention.
+
+<<4014.63;4022.19;fr>>
+S'il en veut, à nouveau, citer un adage latin dans le présent contexte, tua res agitur.
+
+<<4022.95;4032.99;fr>>
+Or, dans la présente affaire, il ressort du point de vue du ressort du point 19 de l'arrêt de chambre de votre cour que M. Avotinj
+
+<<4033.23;4044.79;fr>>
+n'a pas fait valoir devant les juridictions latines qu'un recours à Chypre contre le jugement de 2004 ne lui était pas disponible.
+
+<<4045.03;4070.19;fr>>
+En revanche, il s'est contenté à invoquer, premièrement, l'absence du certificat proti par l'article 54 du règlement Bruxelles 1, deuxièmement, l'absence de mention dans le jugement chypriote de 2004 des voies de recours, et troisièmement, l'absence de pièces attestant que ce dernier jugement était exécutoire à Chypre.
+
+<<4071.79;4072.79;fr>>
+M. le Président,
+
+<<4072.95;4096.31;fr>>
+mesdames, messieurs les juges, je suis confiant que ces quelques éléments ont pu étayer la conclusion que la Commission a exposée dans son mémoire en intervention, à savoir que le régime de reconnaissance et d'exécution des décisions en matière civile prévue par le droit de l'Union est conforme à l'article 6, paragraphe 1er de la Convention.
+
+<<4096.47;4113.55;fr>>
+Faire jouer Ius vigilantibus est et tuaris agitur dans le contexte de l'exécution d'une décision judiciaire rendue par défaut dans un autre Etat membre ne viole pas le droit à un procès équitable du défendant.
+
+<<4113.55;4121.79;fr>>
+Au contraire, une telle approche relève de la mise en balance des droits des deux parties à la procédure civile.
+
+<<4122.03;4147.87;fr>>
+En effet, il résulte de votre jurisprudence constante que le droit de saisir un tribunal en matière civile, garanti également par article 6, paragraphe 1er de la Convention, serait illusoire si l'ordre juridique interne d'un Etat contractant permettait qu'une décision judiciaire définitive et obligatoire reste inopérante au détriment d'une partie.
+
+<<4147.87;4149.51;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4150.88;4155.24;fr>>
+Merci beaucoup, M. Krämer.
+
+<<4155.24;4159.36;fr>>
+Je me tourne maintenant vers mes collègues.
+
+<<4159.36;4162.56;fr>>
+Est-ce qu'il y a des questions?
+
+<<4162.56;4162.56;fr>>
+Le juge André Potocki.
+
+[[Judge;André Potocki]]
+
+<<4169.31;4171.31;fr>>
+Merci, M. le Président.
+
+<<4171.51;4183.99;fr>>
+Je souhaiterais poser une question au requérant, une question à l'Etat défendeur, et avec votre accord, une question aux représentants de la Commission de l'Union européenne.
+
+<<4187.55;4199.87;fr>>
+L'avocat du requérant nous a dit que le requérant n'avait aucune raison de penser que le jugement chypriote pouvait faire l'objet d'un recours.
+
+<<4200.07;4211.83;fr>>
+Mais le requérant a fait valoir ces griefs devant la Cour suprême de Lettonie sur le fondement de l'article 34-2 du règlement Bruxelles 1.
+
+<<4211.99;4224.83;fr>>
+Or, ce texte conditionne l'examen de ces griefs à l'exercice d'un recours contre le jugement dont l'exécuature est demandée.
+
+<<4225.07;4241.43;fr>>
+Dans ce contexte juridique, comment le requérant peut-il dire qu'il n'avait aucune raison de penser qu'il convenait à tout le moins d'établir un débat sur la possibilité de former un recours?
+
+<<4241.67;4250.15;fr>>
+Je sais que le requérant considère que les débats n'ont pas correspondu aux exigences de l'article 6.
+
+<<4250.15;4259.59;fr>>
+Néanmoins, la Cour suprême de Lettonie a jugé qu'elle écartait les arguments de l'avocat du requérant.
+
+<<4259.79;4261.63;fr>>
+Ma question est donc la suivante.
+
+<<4261.83;4277.91;fr>>
+Ces arguments du requérant devant la Cour suprême de Lettonie traitaient-ils précisément de l'impossibilité de former un recours à Chypre ou étaient-elles silencieuses sur ce point?
+
+<<4277.91;4280.15;fr>>
+Oui.
+
+<<4280.39;4284.99;fr>>
+Ma dernière question s'adresse au gouvernement défendeur.
+
+<<4285.19;4293.11;fr>>
+La Cour suprême de l'Ethonie a écarté les griefs du requérant par la motivation suivante.
+
+<<4293.31;4294.67;fr>>
+Je cite.
+
+<<4294.87;4308.71;fr>>
+Le requérant n'ayant pas fait appel du jugement, les arguments de son avocat selon lesquels il ne se serait pas vu dûment notifier l'examen de l'affaire par un tribunal étranger n'ont aucune importance.
+
+<<4309.99;4314.99;fr>>
+Il me semble qu'il faut rappeler que l'article 34.2 du règlement
+
+<<4315.19;4321.91;fr>>
+n'exclut pas le contrôle de l'Etat requis en cas d'absence de recours.
+
+<<4322.11;4334.95;fr>>
+Il l'exclut, je cite, lorsqu'il est établi que ce recours n'a pas été exercé à l'encontre de la décision alors qu'il était en mesure de le faire.
+
+<<4336.95;4339.59;fr>>
+Ma question est alors la suivante.
+
+<<4339.79;4361.03;fr>>
+Avant d'écarter les arguments du requérant pour ce motif, c'est-à-dire l'absence de recours, la Cour suprême a-t-elle vérifié que l'appel du jugement du tribunal de Limassol devant les juridictions chypriotes était possible ou pour reprendre la formule de l'article 34.2,
+
+<<4361.23;4364.79;fr>>
+que le requérant était en mesure de le faire?
+
+<<4366.87;4373.95;fr>>
+Si c'est le cas, quels éléments établissent que cet examen a été fait par la Cour suprême?
+
+<<4375.27;4392.79;fr>>
+Si la Cour suprême estimait qu'il appartenait au requérant de prouver que le recours n'était pas possible, pourquoi n'a-t-elle pas précisé dans sa décision que le requérant n'avait pas apporté la preuve qui lui incombait?
+
+<<4393.55;4415.03;fr>>
+Et enfin, passant du droit de l'union que notre Cour n'a pas pour mission ni pour pouvoir de contrôler, mais passant à l'article 6 de la Convention, est-ce que cette absence de vérification peut poser problème au regard de l'article 6 de la Convention?
+
+<<4415.23;4436.71;fr>>
+J'ajouterai que je ne suis pas certain d'avoir parfaitement compris votre argument présenté à l'audience, selon lequel la Cour suprême de Lettonie aurait porté atteinte à l'article 36 du règlement de Bruxelles si elle avait ouvert le débat sur ce point.
+
+<<4436.71;4454.99;fr>>
+Il me semble qu'il ne s'agissait pas de remettre en cause le jugement dont l'exécuature était demandée, mais simplement, pour la Cour suprême, de se demander si elle pouvait ou non, au regard de l'article 34-2, étudier les griefs du requérant.
+
+<<4455.19;4461.23;fr>>
+Enfin, ma dernière question s'adresse aux représentants de la Commission.
+
+<<4461.51;4476.63;fr>>
+L'article 34-2 du règlement encadre de façon très stricte le contrôle que l'Etat requis peut exercer sur le respect des droits fondamentaux par l'Etat d'origine.
+
+<<4476.83;4497.75;fr>>
+Dans l'hypothèse, je dis bien dans l'hypothèse, où les standards de la Convention seraient plus exigeants, l'Etat requis, qui est également parti à la Convention, devrait-il s'interdire absolument de toute appréciation sur le fondement de la Convention?
+
+<<4497.95;4508.59;fr>>
+Il me semble que cette question pourrait être utilement envisagée à la lumière de certains passages de l'avis de 2013 de la Cour de justice relatifs à l'adhésion.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4512.1;4514.82;fr>>
+Merci beaucoup, le juge Spano.
+
+[[Judge;Robert Spano]]
+
+<<4517.24;4518.8;en>>
+Thank you very much, Mr. President.
+
+<<4518.8;4527.68;en>>
+I have one question to the applicant and then one question to the Council for the Commission.
+
+<<4527.68;4555.68;en>>
+As to the questio to the applicant, I would like clarification on the submission by the applicant that the court judgment in Cyprus and the court order in Latvia on the 27th of February 2006 came to his knowledge by chance.
+
+<<4555.68;4559.68;en>>
+That is the way it is framed in the chamber judgment.
+
+<<4559.68;4579.76;en>>
+I note, however, that in the chamber judgment, there is a verbatim citation in paragraph 16 to the Latgale District Court's granting of the applicant's request for an extension of the time limit for lodging an appeal.
+
+<<4579.76;4587.36;en>>
+And there it is in the court's order stated, the court considers the circumstances to which the applicant P. Avotins refers
+
+<<4587.36;4598.04;en>>
+to be established, namely the fact that he did not receive the order of 27 February until 16 June 2006.
+
+<<4598.04;4623.72;en>>
+So my question is, this so-called knowledge by chance, was it by the order of 27 February 2006 being served on the applicant and also accompanied with the order of 27 February 2006, the actual Cypriot limousole court judgment?
+
+<<4623.72;4646.44;en>>
+The reason I ask this is because under Article 42, paragraph 2 of the regulation of 2001, it is stated that the declaration of enforceability shall be served on the party against whom enforcement is sought accompanied by the judgment, if not already served on that party.
+
+<<4646.44;4655.32;en>>
+So my question is, is this the way you received knowledge of the order of 27 February 2006?
+
+<<4655.32;4661.48;en>>
+And is it clear that the Cypriot judgment itself was served in that way on the applicant?
+
+<<4661.48;4663.0;en>>
+That's my question to the applicant.
+
+<<4663.0;4673.32;en>>
+I have one question to the counsel for the commission, which is a clarification of some of the submissions in the written observation as orally today.
+
+<<4673.32;4688.56;en>>
+Article 43, paragraph 3 of the regulation states, and I quote, the appeal shall be dealt with in accordance with the rules governing procedure in contradictory matters.
+
+<<4688.56;4738.24;en>>
+Now, may I ask the council, if possible, to comment, and this is to some extent an elaboration of Judge Patotsky's question to the applicant, on whether the application of this provision of the regulation in the context of an assessment by the enforcement court of the non-recognition conditions of 34-2 would mean that if the defaulting defendant does not argue or demonstrate in any shape or form that he lacked the possibility to appeal or challenge the defaulting judgment, Article 43-3 precludes the enforcement appellate court to examine that issue on its own motion.
+
+<<4738.24;4747.28;en>>
+So in other words, 43-3 limits proceedings under the regulation to purely adversarial proceedings.
+
+<<4747.28;4759.64;en>>
+So arguments will not be entertained unless they are pled, and evidence being presented on whether lack of an appellate remedy in Cyprus, in this case, is forthcoming.
+
+<<4759.64;4759.64;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4761.07;4762.87;fr>>
+Merci beaucoup, juge Šikuta.
+
+[[Judge;Ján Šikuta]]
+
+<<4764.83;4766.93;fr>>
+Thank you, Mr. President.
+
+<<4766.93;4777.53;en>>
+I do have two factual questions to both the applicant and to the respondent government.
+
+<<4777.53;4780.43;en>>
+First relates to addresses.
+
+<<4780.43;4788.77;en>>
+The applicant claims that he was not given the possibility to be heard and was not summoned in proper manner.
+
+<<4788.77;4810.13;en>>
+I learned from the paragraph 7 of the chamber judgment that the district court issued an order of 27 of June 2003, where he summoned the applicant to appear before the court.
+
+<<4810.13;4820.27;en>>
+Then there was an affidavit declaring that the defendant was habitually resident at the address in G Street in Riga.
+
+<<4820.27;4846.07;en>>
+But the reaction of the applicant was that this address was that it was objectively impossible for him to receive the summons at that address because that was only the address where he signed the loan contract and the deed of acknowledgment of the debt in 1999.
+
+<<4846.07;4851.47;en>>
+And that was not his address of home or business premises.
+
+<<4851.47;4884.59;en>>
+Normally, such a legal document like a contract or deed of acknowledgment as a part of precise identification of the parties of the contract also gives the address, not only the date and place when the contract or the deed of acknowledgment was signed, but in addition to the name, there should be indicated also address of business address or home address.
+
+<<4884.59;4911.47;en>>
+My question is to both parties, because probably you have also government, maybe has a copy of this contract, which addresses the applicant indicated on that legal document as an address, official address, where the possible summons or the possible official communication can be served.
+
+<<4911.47;4920.19;en>>
+The second question is also to both parties, because it's not for me clear enough.
+
+<<4920.19;4930.83;en>>
+The deed of acknowledgment of the debt of $100,000 US was signed before the notary in May 1999.
+
+<<4930.83;4937.39;en>>
+So the question is whether the applicant has paid this debt and when and in which manner.
+
+<<4937.39;4937.39;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4939.93;4941.29;fr>>
+Merci beaucoup, juge Motoc.
+
+[[Judge;Iulia Antoanella Motoc]]
+
+<<4943.65;4945.05;fr>>
+Merci beaucoup, M. le Président.
+
+<<4945.33;4948.77;fr>>
+La première question s'adresse à la partie requérante.
+
+<<4949.33;4975.57;fr>>
+Vous avez mentionné dans votre exposé oral le fait que même si l'applicant avait été conscient du fait qu'après 2006, il pouvait faire un recours devant les cours chypriote, cet recours, à votre avis, ne pouvait pas mener à une voie effective pour l'applicant. Ca veut dire qu'il y avait une possibilité
+
+<<4975.57;4980.69;fr>>
+que le recours soit exclu par les cours Chypriote.
+
+<<4981.25;5010.69;fr>>
+Ma question est, est-ce que la partie recurrente a vraiment su, a vraiment agi dans la direction de formuler un tel recours et il avait des réticences par rapport à la possibilité d'aboutir à cet recours ou vraiment la partie récurrente est restée d'après 2006 jusqu'à 2007 dans une certaine passivité comme les autres parties l'invoquent ici?
+
+<<5011.41;5024.33;fr>>
+Ma deuxième question est liée au problème de la question préliminaire que vous dites que la Cour suprême de la Lettonie devait mettre par rapport à cette question.
+
+<<5024.33;5046.13;fr>>
+D'après ce que j'ai compris, vous avez dit que cette question préliminaire, à votre avis, était obligatoire dans ce jugement particulier parce que, de votre avis, il n'y avait pas une décision de la Cour de Luxembourg qui était relevante à ce cas avant 2006.
+
+<<5046.65;5055.73;fr>>
+Donc, je voulais voir votre raisonnement par rapport à la question préliminaire. Vous pensez que quand on a affaire au règlement
+
+<<5055.73;5081.21;fr>>
+de Bruxelles 1, en général, il faut avoir une question préliminaire ou il faut avoir une question préliminaire seulement si on n'a pas, comme vous avez dit, une décision claire à cet avis, une décision qui est ressemblable aux décisions que la Cour suprême de l'État doit faire à l'égard de cette affaire.
+
+<<5082.05;5086.49;fr>>
+L'autre question, si vous me pertenez, M. le Président,
+
+<<5086.49;5091.13;fr>>
+est aussi mise à la tiède partie intervenante à la Commission.
+
+<<5091.93;5106.61;fr>>
+Et je voulais vous demander une question plus générale, maintenant, qui tient à l'application de notre considération de Bosphorus qui était invoquée par tous les partis ici.
+
+<<5106.61;5133.05;fr>>
+Comme vous le connaissez très bien, dans notre arrêt de Bosphorus, nous avons invoqué une disposition de la Charte de l'Union européenne pour la protection des droits de l'homme et notamment de l'article 52, alinéa 3, qui fait partie aux conditions minimales qui, au niveau de protection conventionnelle, était le minimum qui était respecté dans le droit de l'Union européenne.
+
+<<5133.05;5177.37;fr>>
+Comment est-ce qu'à la lumière de la jurisprudence postérieure de notre arrêt Bosphorus, de la Cour de justice de l'Union européenne, et comment est-ce qu'à la lumière de l'opinion de 2013, est-ce que vous voyez aujourd'hui que cette condition minimale qui a été mise par nous en Bosphorus à l'époque peut être encore considérée par notre Cour, notamment par rapport à tous les considérants au principe de confiance mutuelle que l'opinion de 2013 nous a fait faire connaissance?
+
+<<5177.37;5178.37;fr>>
+Je vous remercie, Monsieur le Président.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5180.46;5186.46;en>>
+Merci beaucoup. I have a small factual question addressed to the applicant.
+
+<<5186.46;5211.46;en>>
+In your request to refer the case to the Grand Chamber in paragraph 67, you say that the applicant did not have to expect that there certainly will be any court proceedings in Cyprus as regards his debt to the plaintiff company.
+
+<<5211.46;5228.46;en>>
+And you mentioned also that you firmly believed that you had repaid the debt to the plaintiff company already before the legal proceedings, before the District Court of Limassol were initiated.
+
+<<5228.46;5240.46;en>>
+Can you clarify what you mean by firm belief in the context of a potential repayment of the debt? Thank you.
+
+<<5230.94;5238.58;fr>>
+S'il n'y a pas d'autres questions, on va suspendre l'audiance dans 20 minutes.
+
+[[Announcer;UNK]]
+
+<<5314.94;5315.58;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<5359.09;5362.09;fr>>
+Je vous prie de vous asseoir. L'audience est reprise.
+
+<<5362.09;5364.09;fr>>
+Maître Liepa.
+
+[[Applicant;AP1]]
+
+<<5373.34;5389.32;en>>
+Your Honor, in response to a number of questions that were provided to us during the hearing, I would like to return back to the actual circumstance, namely initially to the 1999 when debt deed was signed.
+
+<<5390.11;5394.72;en>>
+First of all, the debt deed was signed by Mr. Avotinj,
+
+<<5394.72;5412.18;en>>
+the applicant, as a debtor, and his business partners at that time, a fair weather holding company registered in Cyprus, who were mutually very well aware of their whereabouts, including they knew their addresses, their telephone numbers, and other details.
+
+<<5412.18;5425.03;en>>
+The document was signed on G Street, or Glasnow Tower Street number four, which was the site where the deed was signed, and then sent by fax to the creditor.
+
+<<5425.03;5428.15;en>>
+It was signed in counterparts, not by both parties present.
+
+<<5428.15;5435.99;en>>
+The only reason why G Street appeared on the document was to indicate the site where the document was signed.
+
+<<5435.99;5438.19;en>>
+That was not an address of Mr. Avotinj,
+
+<<5438.19;5452.56;en>>
+and it is well aware, also, the government knows it very well, because the government has, in its annex number 10, included the official transcript, the official document from the registry authority indicating that Mr. Avotinj at that time
+
+<<5452.56;5454.56;en>>
+had different address.
+
+<<5454.56;5456.84;en>>
+I need also to emphasize that Mr. Avotinj
+
+<<5456.84;5463.73;en>>
+had never received on this official address any notification from Cyprus courts.
+
+<<5463.73;5468.84;en>>
+The document, the deed, was not signed in presence of the notary public.
+
+<<5468.84;5474.68;en>>
+The present person was a secretary of that business enterprise, and Mr. Avotinj had nothing to do
+
+<<5474.68;5477.53;en>>
+with that business enterprise.
+
+<<5477.53;5497.49;en>>
+The debt was repaid in the year 1999, not by a cash settlement, but rather because by having mutual business structures with the creditor, Fairweather Holdings, the debt was repaid by production of the capital of the mother company of Fairweather Holdings.
+
+<<5497.49;5510.03;en>>
+Therefore, it was mutually recognized by both parties that there is no outstanding debt obligations, and therefore, Mr. Avotinj had all reasons to believe
+
+<<5510.03;5513.3;en>>
+that he has settled his debt obligations.
+
+<<5513.3;5529.26;en>>
+Unfortunately, from today's perspective, we must conclude that no written documentation to that regard was signed between the parties who later on became, in effect, fighting enemies, as it is also obvious from the case file.
+
+<<5529.26;5539.6;en>>
+There had been mutual cases filed also in Caribbean courts between those parties.
+
+<<5539.6;5561.6;en>>
+Further on, to respond to the question whether the request for preliminary rulings have to be provided by the Latvian court, I would like to refer to the trade agency case of the European Court of Justice, as it has already been indicated, was initiated by the preliminary ruling request of the same Latvian Supreme Court.
+
+<<5561.6;5577.03;en>>
+And notably, the trade agency judgment of the European Court of Justice in its paragraph 38 clearly spells out the duties of the Latvian Supreme Court, which would also have to be applied in the case of applicant.
+
+<<5577.03;5607.26;en>>
+I quote, the court of the member state in which enforcement is sought has jurisdiction to carry out an independent assessment of all the evidence and thereby, as certain where necessary, whether that evidence is consistent with the information in the certificate for the purpose of establishing first whether the defendant in default of appearance was served with the document instituting proceedings and second, if service was effected in sufficient time in such a way as to enable him to arrange for his defense.
+
+<<5607.26;5620.94;en>>
+And here I have to answer another set of questions in relation to those moments of the year of 2006, when and how applicant learned about the Cyprus proceedings and the Cyprus judgment.
+
+<<5620.94;5623.86;en>>
+The wording used in our application is quite clear.
+
+<<5623.86;5630.34;en>>
+Mr. Awotins learned about the Cyprus case
+
+<<5630.34;5644.56;en>>
+and about the judgment taken against him in Cyprus court because of the court bailiff serving a notice which would endanger Mr. Awotins' possession of his property.
+
+<<5644.56;5648.38;en>>
+The next day after court bailiff visited Mr. Awotins
+
+<<5648.38;5653.86;en>>
+and told about the Cyprus judgment to be enforced, the next day Mr. Awotins immediately
+
+<<5653.86;5656.94;en>>
+rushed to the Latgale court of Riga city.
+
+<<5656.94;5661.94;en>>
+It was 16th of June, 2006, in order to examine the case.
+
+<<5661.94;5664.49;en>>
+Only when examining the case, Mr. Awotins
+
+<<5664.49;5670.14;en>>
+learned about the Cyprus judgment and examined it in substance.
+
+<<5670.14;5686.38;en>>
+Therefore, we must emphasize that the applicant had never received any documentation from Cyprus courts, neither in form of summons to the court hearing because, and I must emphasize it again, there is no document certifying that Mr. Awotins personally
+
+<<5686.38;5696.38;en>>
+received the document, or his proxy, or his lawyer, or his counsel would have received the document summoning him to the Cyprus hearing.
+
+<<5696.38;5700.49;en>>
+Neither Mr. Awotins received a judgment of the Cyprus court.
+
+<<5700.49;5709.94;en>>
+It was only because of enforcement proceedings that had commenced earlier in the year 2006 how Mr. Awotins learned about the case that
+
+<<5709.94;5712.14;en>>
+had been initiated against him.
+
+<<5712.14;5725.38;en>>
+And notable that in the 2nd of October in Riga district court hearing, which ultimately took a judgment that was beneficial to Mr. Awotins, his counsel,
+
+<<5725.38;5734.86;en>>
+applicant's counsel, stated that no information about enforceability, and consequently, we have no opportunity to consider filing an appeals.
+
+<<5734.86;5759.98;en>>
+I must repeat that that was a quote from the minutes of that court hearing, that at that time, the applicant did not know about the judgment taken in the Cyprus court in terms of whether it has been effective because the other party, the creditor, Fairweather Holdings, had not presented the court with the document verifying that Cyprus judgment has entered into a legal effect.
+
+<<5759.98;5762.52;en>>
+And therefore, consequently, Mr. Awotins
+
+<<5762.52;5766.53;en>>
+did not have an opportunity to consider.
+
+<<5766.53;5799.95;en>>
+And here again, I have to quote a decision from the trade agency case that in relation to, and I would like to respond to the question that related necessity to apply for the European Court of Justice with a preliminary ruling request.
+
+<<5799.95;5821.53;en>>
+The European Court of Justice has held that referral to European Court of Justice is obligatory unless previous decisions of the European Court of Justice have already dealt with a point of law in question or when the correct interpretation is so obvious as to leave no scope for any reasonable doubt as to the manner in which the question raised is to be resolved.
+
+<<5821.53;5832.22;en>>
+However, it must not be forgotten that even in such cases, the national courts remain entirely at liberty to bring a matter before ECJ if they consider appropriate to do so.
+
+<<5832.22;5840.38;en>>
+I'm quoting this from the ECHA judgment in SILFED case C-283 slash 81.
+
+<<5840.38;5855.56;en>>
+In relation to the government's argument that by recognizing the Cypriot judgment, Latvian courts merely complied with EU law, we must emphasize that the rationale behind the Bosforus presumption has never been to create a loophole for violations of human rights.
+
+<<5855.56;5865.1;en>>
+To the contrary, the presumption is based on the main principle that the human rights must be protected on a similarly high level by both EU and the convention.
+
+<<5865.1;5880.77;en>>
+Thus, the court has emphasized in the Michaud judgment that it will accept the presumption of equivalent protection only where the rights and safeguards it protects are given protection comparable to that afforded by the court itself.
+
+<<5880.77;5889.1;en>>
+Failing that, the state would escape all international review of the compatibility of its actions with the convention commitments.
+
+<<5889.1;5904.61;en>>
+We believe that the present case is a great example where Latvia, as a member state of the European Union as well as party to the convention, has escaped all international review of compatibility of its actions in relation to Article 6, Paragraph 1 of the convention.
+
+<<5904.61;5912.94;en>>
+From the moment the applicant became aware of the Cypriot judgment, he has continuously maintained that the Cypriot judgment may not be recognized in Latvia.
+
+<<5912.94;5916.76;en>>
+And his rights to defense were not respected before the Cypriot court.
+
+<<5916.76;5922.26;en>>
+The reply of the Supreme Court of Latvia was that these arguments are simply of no importance.
+
+<<5922.26;5935.64;en>>
+The Supreme Court of Latvia also did not refer to ECJ case law and did not refer to the ECJ for a preliminary ruling, although it had an obligation to do so under the case law established by the European Court of Justice.
+
+<<5935.64;5940.86;en>>
+In the judgment of the chamber of the court, we agreed with the approach of the Supreme Court of Latvia.
+
+<<5940.86;5949.53;en>>
+And it therefore illustrates that the protection of the applicant's rights guaranteed by Article 6, Paragraph 1 in the present case, have been substantially deficient.
+
+<<5949.53;5949.53;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5952.48;5953.56;fr>>
+Merci beaucoup.
+
+<<5953.56;5955.32;fr>>
+La parole est à Mme Līce.
+
+[[Government;GR1]]
+
+<<5957.29;5959.89;en>>
+Thank you, Mr. President.
+
+<<5959.89;5968.09;en>>
+In the short time allowed, I will do my best to respond to the court's questions and react to some of the arguments presented by the applicants.
+
+<<5968.09;5973.65;en>>
+We remain at the court's disposal to submit these comments in writing, should the court so require.
+
+<<5973.65;5977.37;en>>
+First of all, let me deal with the factual questions.
+
+<<5977.37;5978.85;en>>
+The question about the address.
+
+<<5978.85;5982.83;en>>
+I have the acknowledgment of decades in front of me.
+
+<<5982.83;5997.25;en>>
+And the first line in that document says, for good and valuable consideration, comma, I, comma, Petris Avotinj, off 4 Glasnoti Street, et cetera, et cetera, in brackets, the borrower.
+
+<<5997.25;5999.73;en>>
+That is the address associated with the applicants.
+
+<<5999.73;6002.57;en>>
+No other address appears anywhere else on that document.
+
+<<6005.87;6017.15;en>>
+As to the payment of the debts, in the proceedings before the regional court, the applicants indirectly, implicitly recognized the existence of the debts.
+
+<<6017.15;6024.65;en>>
+As to the knowledge of the governments, the applicant paid his debts in the course of the enforcement proceedings.
+
+<<6024.65;6032.79;en>>
+And no evidence about payments of debt or settlement of debt has ever been submitted before.
+
+<<6032.79;6035.65;en>>
+I will now turn to more general questions.
+
+<<6035.65;6047.05;en>>
+It has been a well-established case law of this court that when examining the compliance with Article VI of the Convention, the case has to be looked at as a whole.
+
+<<6047.05;6049.99;en>>
+And this is exactly what the Supreme Court did.
+
+<<6049.99;6054.31;en>>
+And in response to Judge Potocki's question, this is exactly what the Supreme Court did.
+
+<<6054.31;6061.13;en>>
+It took into account the applicant's submissions in the lower courts, particularly in the regional courts.
+
+<<6061.13;6084.65;en>>
+As to your question whether the lack of review under Article 34, paragraph 2 of the Brussels I regulation might create difficulties in light of Article VI, I would first of all wish to emphasize that these two provisions, paragraph 2 of Article 34, Brussels bond regulation, and paragraph 1, they are two different mechanisms.
+
+<<6084.65;6110.37;en>>
+As proved by the trade agency case, if the domestic court sees potential difficulties with fundamental price protection in general, it can trigger the mechanism under paragraph 1 of Article 34 of the Brussels I regulation, which did not relate to the present case, because this case is examined under paragraph 2 of the Brussels I regulation.
+
+<<6114.13;6127.81;en>>
+Another question that I would like to address is that this case, again, should be looked at as a whole and taking into account the arguments the applicants advanced during the domestic proceedings.
+
+<<6127.81;6141.41;en>>
+During the domestic proceedings, the applicants never advanced any EU law-related arguments or ever requested the domestic court to submit a request for preliminary ruling.
+
+<<6141.41;6148.17;en>>
+The applicant claims that he was precluded from requesting the Supreme Court to submit such a request.
+
+<<6148.17;6153.49;en>>
+I must, I'm compelled to conclude that the applicant is misleading this court.
+
+<<6153.49;6167.53;en>>
+It is evident from the decision of the Latvian Supreme Court that the applicant indeed was represented in the proceedings before that court, and that the applicant's representative was given an opportunity to express himself.
+
+<<6167.53;6181.33;en>>
+Nothing prevented from applicant to submitting further written requests to the court, including the request to submit a preliminary ruling to the Court of Justice in European Union.
+
+<<6181.33;6210.93;en>>
+As to the appeal procedure in Cyprus, and this is in the same direction as Judge Motok's question, we are in a strong position and maintain that it is well-established case law of this court that mere doubts as to the prospects of success does not release the applicants from an obligation of trying the remedy available for him.
+
+<<6210.93;6217.89;en>>
+In his statement, the representative of the applicant has made reference to the Mihalapa judgments of this particular court.
+
+<<6217.89;6221.61;en>>
+We have addressed that judgment in our written observations.
+
+<<6221.61;6225.17;en>>
+I refer you to paragraph 58.
+
+<<6225.17;6228.61;en>>
+And these two cases are fundamentally different.
+
+<<6228.61;6239.37;en>>
+In the Mihalapa case, the domestic court sent notifications to address manifestly different from that indicated by the applicants.
+
+<<6239.37;6246.53;en>>
+In this case, in the present case, all communication was sent to the address, as I just quoted, indicated in the debt deed.
+
+<<6249.89;6293.77;en>>
+As to the argument that the domestic court was obliged to submit a request for a preliminary ruling, considering that there was no case law from the Court of Justice, again, I must admit that this is somewhat confusing arguments, considering that already in December of 2006, that is before the Supreme Court of Latvia decided the case, the Court of Justice in European Union adopted the ASML judgments, where it had interpreted and explained the application and contents of the Brussels I regulation, paragraph 2 of Article 34.
+
+<<6300.69;6306.93;en>>
+I believe I have briefly addressed the questions and the comments.
+
+<<6306.93;6313.21;en>>
+The applicant's representative noted that the Brussels I regulation could not be interpreted as creating loophole for the state.
+
+<<6313.21;6315.05;en>>
+This government can only agree.
+
+<<6315.05;6337.85;en>>
+But the Brussels I regulation and the system of objecting to the enforcement and recognition of a foreign judgment has likewise not been created to allow for abuse of the rights or allow the applicant to rely on his own inaction to refrain from honoring his contractual obligations.
+
+<<6337.85;6338.09;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6342.22;6343.42;fr>>
+Merci beaucoup.
+
+<<6343.42;6345.42;fr>>
+La Commission de Bruxelles, M. Krämer.
+
+[[ThirdParty;TP1]]
+
+<<6349.73;6352.13;fr>>
+Merci, M. le Président.
+
+<<6352.29;6357.37;fr>>
+Pour répondre d'abord à la question posée par M. le juge Potocki,
+
+<<6359.41;6365.73;fr>>
+il faut voir l'article 34.2 du règlement Bruxelles 1,
+
+<<6365.91;6380.13;fr>>
+qui, certes, vise une situation étroitement circonscrite dans le contexte avec le 1er point de ce même article 34, qui se lit comme suit.
+
+<<6380.31;6388.27;fr>>
+Une décision n'est pas reconnue si la reconnaissance est manifestement contraire à l'ordre public de l'Etat membre requis.
+
+<<6389.37;6440.47;fr>>
+Or, il résulte de la jurisprudence de la Cour de justice de l'Union européenne, et notamment des arrêts Crombar C-798 et Gambazzi C-394-07, que le juge de l'Etat requis peut tenir compte au regard de cette clause de l'ordre public du fait que le juge de l'Etat membre d'origine a statué en violation d'un droit fondamental d'une partie, comme par exemple des violations des droits de la défense, autres que celles visées par le point 2, c'est-à-dire autres que celles découlant du fait d'une signification défectueuse de l'acte introductif de l'instance.
+
+<<6441.27;6467.75;fr>>
+Donc, l'ensemble de ces deux dispositions, 34 paragraphes 1 et 34 paragraphes 2, ou point 1 et point 2, empêchent qu'un arrêt rendu en violation d'un droit fondamental dans un Etat membre doive être exécuté dans un autre Etat membre.
+
+<<6467.91;6493.19;fr>>
+La mécanique des deux dispositions est un peu différente et je dirais même que le 34 paragraphes 1 est plus protecteur parce qu'il ne soumet pas la non-exécution à la condition que la personne lésée ait exercé un recours dans l'Etat membre d'origine.
+
+<<6493.35;6509.79;fr>>
+Donc, toute la problématique de la disponibilité d'un recours à Chypre, qui nous occupe aujourd'hui, ne se poserait pas pour les cas qui ne relèvent pas du point 2, mais du point 1 de l'article 34.
+
+<<6509.79;6517.39;fr>>
+Ensuite, en réponse à la question de M. le juge Spano,
+
+<<6517.75;6523.99;fr>>
+l'article 43, paragraphe 3 du règlement est libellé comme suit.
+
+<<6524.15;6533.19;fr>>
+Le recours dirigé contre la décision d'exécuature est examiné selon les règles de la procédure contradictoire.
+
+<<6533.35;6554.19;fr>>
+Or, il faut lire cette disposition ensemble avec et en la contrastant avec l'article 41, 2e phrase du règlement Bruxelles 1, qui dit que l'exécuature même est octroyée dans une procédure ex parte.
+
+<<6554.79;6568.19;fr>>
+La partie, je cite, la partie contre laquelle l'exécution est demandée ne peut, en cet état de la procédure, lors de l'octroi de l'exécuature, pas l'exécuature, présenter d'observation.
+
+<<6568.79;6591.59;fr>>
+Et donc, si l'article 43, paragraphe 3, précise qu'en cas de recours contre la décision octroyant l'exécuature, la procédure est contradictoire, adversarial, cela veut simplement dire que ce n'est plus une procédure ex parte, mais c'est une procédure inter partes.
+
+<<6591.59;6604.95;fr>>
+Or, c'est différent et c'est à distinguer de la question de savoir quelles sont les règles d'administration de la preuve qui s'appliquent dans cette procédure de recours.
+
+<<6605.11;6617.23;fr>>
+Et là, comme nous l'avons expliqué, et le gouvernement défendant également, le droit de l'union est neutre par rapport aux règles procédurales des Etats membres.
+
+<<6617.55;6637.91;fr>>
+Donc, un Etat membre peut, en matière civile, c'est très communément le cas, évidemment, prévoir que toute partie doit invoquer les faits, y compris le droit d'autres Etats membres, qui sont... qui plaident en sa faveur.
+
+<<6638.07;6639.07;fr>>
+Donc...
+
+<<6639.23;6643.31;fr>>
+Et ne pas prévoir, donc, un examen d'office.
+
+<<6643.47;6648.27;fr>>
+Donc, ce n'est pas du tout en contradiction avec le concept même de procédure contradictoire.
+
+<<6648.27;6654.75;fr>>
+Procédure contradictoire ne signifie pas nécessairement un examen d'office.
+
+<<6654.91;6678.87;fr>>
+Et, en dernier lieu, quant à la question de madame le juge Tog, je comprends cette question comme visant la question de l'équivalence des garanties substantielles offertes par le droit de l'union au sujet de la protection des droits fondamentaux, au sens de la jurisprudence gouvernementale, de la REE Bosphorus.
+
+<<6680.67;6696.59;fr>>
+A cet égard, je rappelle que le point 159 de la REE Bosphorus fait dans une description de l'Etat au moment pertinent, donc en 2006, de la protection des droits fondamentaux dans l'Union européenne.
+
+<<6698.19;6725.39;fr>>
+Et j'ajoute que, depuis lors, le droit de l'union a évolué, notamment du fait que, à partir du 1er décembre 2009, avec l'entrée en vigueur du traité de Lisbonne, la charte a acquis force contraignante, ce qui n'était pas encore le cas au moment de la REE Bosphorus, ce dont mention est faite dans le point 159 de cet arrêt.
+
+<<6726.19;6730.91;fr>>
+Et donc, la charte contient l'article 53...
+
+<<6732.07;6733.67;fr>>
+52, paragraphe 3.
+
+<<6733.67;6735.91;fr>>
+Je pense que vous y avez fait allusion.
+
+<<6737.19;6752.43;fr>>
+Selon lequel, pour les droits qui correspondent aux droits de la Convention, le sens et la portée de ces droits de la charte est le même que le sens et la portée des droits correspondants de la Convention.
+
+<<6752.59;6769.47;fr>>
+Donc, il y a plutôt un renforcement, un renforcement des garanties substantielles offertes par le droit de l'union par rapport à l'état du droit au moment où l'arrêt Bosphorus a été rendu.
+
+<<6769.47;6770.47;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6771.0;6773.0;fr>>
+Merci beaucoup, M. Krämer.
+
+<<6773.88;6777.64;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<6777.84;6786.56;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<6786.8;6790.0;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<6790.2;6797.6;fr>>
+L'arrêt sera rendu ultérieurement et les partis seront informés de la date du prononcé.
+
+<<6797.6;6798.6;fr>>
+L'audience est levée.
+

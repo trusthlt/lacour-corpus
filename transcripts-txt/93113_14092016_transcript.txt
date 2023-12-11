@@ -1,0 +1,1457 @@
+[[Announcer;UNK]]
+
+<<11.3;11.98;fr>>
+La Cour!
+
+[[JudgeP;András Sajó]]
+
+<<46.87;48.87;en>>
+Please be seated.
+
+<<59.95;77.11;en>>
+I declare open the public hearing on the merits in the case of Satakunnan
+
+<<59.95;77.11;en>>
+Markkinapörssi Oy and Satamedia Oy against Finland.
+
+<<77.11;98.21;en>>
+The application was lodged with the court on 18th November 2012 under Article 34 of the convention by two Finnish limited liability companies, Satakunnan
+
+<<77.11;98.21;en>>
+Markkinapörssi Oy and Satamedia Oy .
+
+<<98.21;107.67;en>>
+The application was allocated to the first section of the court, pursuant to Rule 52.1 of the rules of the court.
+
+<<107.67;133.23;en>>
+On 21st July 2015, a chamber of that section declared the complaints concerning Article 6 and 10 of the convention admissible and the remainder of the application inadmissible and delivered a judgment in which it held that there had been a violation of Article 6 of the convention and no violation of Article 10 of the convention.
+
+<<133.23;154.11;en>>
+On 21st October 2015, the applicant companies requested that the case be referred to the Grand Chamber in accordance with Article 43 of the convention, and the panel of the Grand Chamber accepted the request on 14th December 2015.
+
+<<154.11;180.59;en>>
+On 28th January and 23rd March 2016, respectively, the president granted leave to the European Information Society Institute, Nordplus Law and Media Network, Article 19, the Access to Information Program, and the Hungarian Civil Liberties Union to submit written comments as third parties by virtue of Rule 44.3 of the rules of the court.
+
+<<180.59;188.35;en>>
+Respondent governments are represented by the agent, Ms. Krista Oinonen,
+
+<<188.35;197.13;en>>
+director of the Ministry for Foreign Affairs, assisted by Ms. Anu Talus, Ms. Helena Hynynen, Ms. Satu
+
+<<197.13;200.95;en>>
+Sistonen, and by Mr. Ato Kosonen, advisors.
+
+<<204.95;210.67;en>>
+The applicant companies are represented by Mr. Pekka Vainio, counsel.
+
+<<210.67;215.07;en>>
+I welcome the representatives in the name of the court.
+
+<<215.07;226.83;en>>
+I would also welcome the groups of judges from Liechtenstein, Russia, Serbia, and Ukraine, who are on a study visit to the court.
+
+<<226.83;236.55;en>>
+Having consulted the agent of the government and the representative of the applicant companies, I have determined the order of addresses as follows.
+
+<<236.55;238.83;en>>
+Mr. Vainio for the applicant companies
+
+<<238.83;243.31;en>>
+will speak first, and Ms. Oinonen for the government.
+
+<<243.31;261.63;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Russian has been authorized for the benefit of groups of judges from Russia and Ukraine attending this hearing.
+
+<<261.63;272.99;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<272.99;274.85;en>>
+Now I would like to call Mr. Vainio, please.
+
+[[Applicant;AP1]]
+
+<<281.96;289.84;en>>
+Thank you, Mr. President and distinguished judges of the Grand Chamber.
+
+<<289.84;295.16;en>>
+On behalf of the applicants, I have the honor to present the following.
+
+<<295.16;310.64;en>>
+I wish to address the esteemed Grand Chamber on four questions in which I attempt to further develop my argumentation and to some extent also to reply to certain observations presented by the government.
+
+<<310.64;318.86;en>>
+At first, I'd like to examine the concept of journalism in this case and some of its implications.
+
+<<318.86;326.46;en>>
+Secondly, I'd like to present some points on the need to protect privacy in this case.
+
+<<326.46;335.4;en>>
+Thirdly, I wish to present certain remarks concerning the applicants' claim for just satisfaction.
+
+<<335.4;349.32;en>>
+And finally, I'd like to present some concluding remarks concerning the importance of freedom of expression and the possible impact that the ruling in this case could have in it.
+
+<<349.32;367.24;en>>
+Now on the concept of journalism, can we define journalism and should we do that in the first place? Which ends would be served by the usage of this concept of journalism.
+
+<<367.24;383.5;en>>
+The European Court of Justice in its preliminary ruling defined not journalism per se, but journalistic purposes referred to in the Directive 95-46EC. The Court stated that activities
+
+<<383.5;397.26;en>>
+had journalistic purposes if the sole purpose of them was to submit information, opinions, or ideas to the public. This definition has also been adapted in the proposed data protection
+
+<<397.26;401.86;en>>
+regulation in the European Union.
+
+<<401.86;411.48;en>>
+Now the purpose. There the focus is on what is being done in general to impart information,
+
+<<411.48;424.82;en>>
+opinions, or ideas, not on the content of the information, the opinions, or the ideas submitted, just the nature of the activity. For instance, the act of writing, but not
+
+<<424.82;428.72;en>>
+on what is actually written.
+
+<<428.72;449.52;en>>
+Your court has in its case law, if you allow me to present an interpretation, utilized the concept of journalism to recognize those violations of freedom of expression that could have the most severe consequences to democracy. The damage done to civilized society could
+
+<<449.52;458.28;en>>
+indeed be more severe if a journalist is silenced than if somebody else is silenced.
+
+<<458.28;471.68;en>>
+As I recall, your court has not for the time being used the concept of journalism to restrict anybody's freedom of expression.
+
+<<471.68;495.2;en>>
+Now the ruling of the Supreme Administrative Court of Finland focused on the content of the actual publication of the applicants, not to the act of writing, but on what was actually written. The ruling was, in a nutshell, since the applicant's database is published
+
+<<495.2;505.6;en>>
+almost in its entirety, these actions are not to be regarded as merely submitting information opinions or ideas to the public.
+
+<<505.6;522.76;en>>
+Even more summarized, since nearly all collected information is published, the purpose is not just to publish information. Even today, I personally cannot grasp this reasoning.
+
+<<522.76;536.48;en>>
+Also the representative of the government has asked the court to look at what has actually been written, the content of the publication. I was requested to send more copies of the
+
+<<536.48;543.84;en>>
+Veropersi magazine to provide accurate conception of its contents.
+
+<<543.84;569.32;en>>
+In the written submissions in 2014, 2 June, paragraph 39, the government states, and I quote, publishing taxation data, which are published public as such extensively and in an unaltered form, as a record, and without journalistic comments on such data, mainly satisfies the curiosity of readers. End of quotation.
+
+<<569.32;582.12;en>>
+Also in government submissions 2016, paragraph 70, the government refers to the manner and extent of the applicant's publication.
+
+<<582.12;598.36;en>>
+Now as I have stated already in writing, I feel that the basic manner of publishing by the applicants has been the same than that of other publishers of taxation data in Finland.
+
+<<598.36;608.26;en>>
+It's the form of categorized lists of names and of taxable income. As to the extent, there
+
+<<608.26;617.8;en>>
+is a significant difference. So what did the applicants do wrong? Too much information,
+
+<<617.8;628.82;en>>
+unedited information, focus on the content of the paper. And the conclusion is not journalistic.
+
+<<628.82;644.12;en>>
+The consequence is a ban to collect and to process personal data if it's intended to be published. This I would call a de facto proactive ban to a newspaper.
+
+<<644.12;649.64;en>>
+I must say that Finnish law does not allow prior censorship. There are only very minor
+
+<<649.64;656.66;en>>
+exceptions to that. Neither does the Personal Data Act, to my interpretation, at least according
+
+<<656.66;662.44;en>>
+to its preparatory documents. The law was not intended to be applied to information
+
+<<662.44;668.74;en>>
+that was to be published. That was to be examined in retrospect.
+
+<<668.74;678.86;en>>
+Now what does this lead to? Can't I just say out or publish a piece of information, even
+
+<<678.86;686.54;en>>
+of personal data, I have discovered? Do I have to edit it first? And should there be
+
+<<686.54;694.24;en>>
+a quantitative restriction to how much information can be published? The crucial circumstance
+
+<<694.24;708.34;en>>
+in the applicants' activities was the quantity of tax data published, as has been duly noted by the minority in the fourth section of your court.
+
+<<708.34;721.5;en>>
+In November 2009, the Data Protection Board in Finland forbade the companies from collecting tax data insofar that it was to be published in the same quantity that was done in 2001.
+
+<<721.5;727.02;en>>
+Nothing was mentioned on acceptable quantities, however. Collecting data that was not to be
+
+<<727.02;732.84;en>>
+published was not forbidden either.
+
+<<732.84;753.28;en>>
+The learned agent of the government has in his written remarks in paragraph 108 noted that the applicants could have continued publishing if they had changed their activities so as to comply with the Personal Data Act. I have to ask how. They were banned from collecting
+
+<<753.28;760.38;en>>
+the data they were to publish. As to the manner and extent, no guidelines whatsoever have
+
+<<760.38;768.84;en>>
+been provided, neither by the data protection ombudsman nor by the domestic courts.
+
+<<768.84;789.88;en>>
+The data protection ombudsman explicitly stated that the database of taxes and data lacked legal grounds, the database of the applicants lacked legal grounds, and that it was an entirely different matter when traditional media published such information. I refer to annex B1 by the
+
+<<789.88;797.08;en>>
+government and a letter from the data protection ombudsman annexed as number 3 by the applicants.
+
+<<797.08;806.6;en>>
+It is an entirely different matter when traditional media publishes taxation data. So are there
+
+<<806.6;816.72;en>>
+really two separate but unequal categories of publishers in Finland, traditional media and the rest?
+
+<<816.72;825.6;en>>
+And is this a question on the right to publish taxation data? In paragraph 112 of the written
+
+<<825.6;844.32;en>>
+submissions of the government, it is said, in perfect accordance with the Supreme Administrative Court, I might add, the matter did not concern the right to publish taxation data as such, but the handling of personal data. My question is, how can you differentiate them in this
+
+<<844.32;851.7;en>>
+case? If it's personal data that is published, how can you separate them? If one cannot collect
+
+<<851.7;860.2;en>>
+and process that data one aims to publish, how could one possibly publish it?
+
+<<860.2;883.36;en>>
+And if the provisions of the Personal Data Act are at the core here, and not at all the overall right to impart information to publish the data, and the result is this, a proactive ban, I would ask, does such applying of the Personal Data Act really comply with the Article 10 of the European Convention of Human Rights?
+
+<<883.36;899.2;en>>
+Now the criterion is the quantity of data, and to some extent also the editing of it, or absence of that. Now I do have to make the following comparison. This was also referred
+
+<<899.2;907.44;en>>
+to by the interveners, Article 19 and others. May it please the Court. Mossack Foncheka,
+
+<<907.44;914.04;en>>
+the Panama Papers. Twelve million individual documents that were obtained unlawfully by
+
+<<914.04;920.88;en>>
+violating the attorney-client privilege. Pieces of that information have been published, and
+
+<<920.88;934.28;en>>
+there is, or at least has been, a search engine online with which one can seek information from the entire database. I tried it. Tax administrations of several countries have
+
+<<934.28;940.96;en>>
+expressed their willingness to buy information from that database. Now the applicants fully
+
+<<940.96;949.14;en>>
+realize that the right to utilize this data is not to be assessed here, but I do have a point.
+
+<<949.14;961.04;en>>
+Numerous arguments, excellent ones, have been presented why this data should not be published by the press or utilized by tax administration. I'd like to mention two arguments that have
+
+<<961.04;967.88;en>>
+so far not been heard. Nobody has yet claimed that this data may not be utilized by the
+
+<<967.88;977.3;en>>
+press because there is too much of it. And nobody has yet argued that this information
+
+<<977.3;985.04;en>>
+could not be published because it has not been edited in any way. And my point.
+
+<<985.04;1005.36;en>>
+Conclusively, I'd like to argue that when assessing freedom of expression and the right to impart information, perhaps we should neither hold the quantity of data nor the degree of editing it as suitable criteria at all.
+
+<<1005.36;1018.06;en>>
+Concerning the concept of journalism, your court has in its case law duly focused on the accuracy and the bona fide of the actual conduct. Pointing the finger at the content
+
+<<1018.06;1023.92;en>>
+is very dangerous and should always be done with extreme caution.
+
+<<1023.92;1029.8;en>>
+Now the accuracy of the information published by the applicants has not been questioned.
+
+<<1029.8;1036.76;en>>
+Know that they have conducted bona fide. The concept of journalism has so far been utilized
+
+<<1036.76;1048.88;en>>
+in this case not as an instrument of recognizing those violations of Article 10 that are most harmful to democracy, but to restrict.
+
+<<1048.88;1062.36;en>>
+The concept of journalism as applied in this case turns out to be a gateway to full and complete freedom of expression. If this is accepted, this leads to the next problem.
+
+<<1062.36;1071.42;en>>
+Who is to be the gatekeeper? Public administration? Government? I'm sure there are countries not
+
+<<1071.42;1080.18;en>>
+so far in which volunteers shall not be hard to find.
+
+<<1080.18;1089.52;en>>
+And next I would like to focus on privacy and public interest as opposed to it. As has
+
+<<1089.52;1105.92;en>>
+been pointed out by the interveners, Article 19 and others, if personal data is made readily available to public, this presupposes that there is a public interest. In Finland, and
+
+<<1105.92;1113.08;en>>
+concerning tax data in particular, this has been expressly stated in the legislative process.
+
+<<1113.08;1121.84;en>>
+To that extent, the public interest in publication outweighs the privacy right of citizens. The
+
+<<1121.84;1128.14;en>>
+choice has already been made by the legislature.
+
+<<1128.14;1143.12;en>>
+At this stage, I would like to point out one, and I might add one quite rare imprecision in the government's written submissions. 31st of March 2016, paragraph 26, with a quotation
+
+<<1143.12;1149.4;en>>
+from the government bill. That's the part where the term gossip calendar is mentioned.
+
+<<1149.4;1169.88;en>>
+But this particular piece in government's bill refers to the possibility of digitally transferring tax data directly from the tax administration to the media, not to the possibility of publishing such data. As the applicants did collect their data from the public tax
+
+<<1169.88;1183.04;en>>
+records manually, this particular possibility of receiving the data directly and digitally is of no relevance here. Neither is the legislative work concerning it.
+
+<<1183.04;1190.28;en>>
+Now was there a violation of privacy? The government has referred to people who have
+
+<<1190.28;1197.02;en>>
+contacted the Data Protection Ombudsman's office concerning my client's newspaper.
+
+<<1197.02;1206.28;en>>
+I refer to Annex 2. First of all, there are contacts, numerous contacts that appear to
+
+<<1206.28;1214.4;en>>
+be from the same people who, for some reason, are active in the matter. Secondly, I fail
+
+<<1214.4;1228.94;en>>
+to see how such a contact that is listed shows that there was a violation of the privacy of these people or that of somebody else. The nature of the alleged violations have
+
+<<1228.94;1235.1;en>>
+not been elaborated. I would also like to refer to the Data Protection
+
+<<1235.1;1248.4;en>>
+Ombudsman's findings in government's Annex B1, in which the Data Protection Ombudsman replied to one of these very persons that had contacted him. He replied that he saw
+
+<<1248.4;1254.44;en>>
+no violation of privacy that would supersede freedom of expression. That person's taxable
+
+<<1254.44;1263.72;en>>
+income had been in the online search machine upheld by Helsingin Sanomat. By that online
+
+<<1263.72;1284.68;en>>
+service, one was able to receive desired tax data concerning individuals, quite like in the SMS service upheld by the applicants, albeit that there again is a significant difference in quantity of the data contained. No violations of anybody's privacy have been
+
+<<1284.68;1292.2;en>>
+presented. What would even be the violation or the harm done by the applicants? People
+
+<<1292.2;1301.76;en>>
+receive information they could easily obtain also elsewhere. What is the significant difference?
+
+<<1301.76;1316.56;en>>
+If one leaves through Veropersi or some other paper, one receives an SMS message or makes a phone call to tax administration. In any case, one may obtain the taxation data concerning
+
+<<1316.56;1323.12;en>>
+the desired certain individual. Insofar, the choice between protection of privacy and the
+
+<<1323.12;1332.4;en>>
+right to access taxation data as well as to publish it is made in law. And the applicant's
+
+<<1332.4;1340.96;en>>
+view is that there is neither need nor legal ground to choose again.
+
+<<1340.96;1349.64;en>>
+A couple of remarks concerning the applicant's claims of just satisfaction. Firstly, referring
+
+<<1349.64;1368.8;en>>
+to the causal link concerning the damages and the proposed violation of the applicant's fundamental rights. With the risk of oversimplifying this, I'd like to make this in five undeniable
+
+<<1368.8;1376.32;en>>
+points. One, the applicants used to publish a newspaper, and together with the teleoperator
+
+<<1376.32;1384.36;en>>
+company, they had an SMS service. Two, these activities brought income to the applicants.
+
+<<1384.36;1391.2;en>>
+Three, the applicants were banned from collecting and processing tax data to these purposes.
+
+<<1391.2;1398.76;en>>
+Four, the applicants complied to the ban. Five, the seized activities no longer brought
+
+<<1398.76;1405.72;en>>
+income. I do see an obvious causal link there.
+
+<<1405.72;1433.12;en>>
+As to the amount of damages presented, the representative of the government has noted in paragraph 173 that the proof provided, which is an affidavit by my client's accountant, does not suffice in the absence of the actual account books and other such material. The
+
+<<1433.12;1440.84;en>>
+entire books, seriously. The registry of this court has already had more than its fair share
+
+<<1440.84;1443.32;en>>
+of work with this case.
+
+<<1443.32;1450.72;en>>
+Now the statement, the affidavit, is based on the bookkeeping. And there's just one remark
+
+<<1450.72;1457.46;en>>
+I'd like to add. The financial statements and balance sheets of corporations are matters
+
+<<1457.46;1464.7;en>>
+of public record in Finland. This is data that anybody can have access to. That is even
+
+<<1464.7;1470.52;en>>
+easier than getting the taxes and data of individuals, if possible.
+
+<<1470.52;1481.88;en>>
+The corporate financial statements are taken into the company register, out of which the government has provided data even in this case. The learned representative of the government
+
+<<1481.88;1489.5;en>>
+has not denied the accuracy of these numbers. He just said that the applicants did not provide
+
+<<1489.5;1499.82;en>>
+enough data to support these numbers. Again, allow me to say this, a question of quantity.
+
+<<1499.82;1506.82;en>>
+But I have no doubt in my mind if there had actually been any inaccuracies in these numbers.
+
+<<1506.82;1511.86;en>>
+The perceptive representatives of the government would have denied their accuracy. They did
+
+<<1511.86;1516.74;en>>
+not. The numbers are accurate.
+
+<<1516.74;1529.98;en>>
+Finally I'd like to present some conclusive remarks. I'd like to refer the court's attention
+
+<<1529.98;1540.92;en>>
+to two causes of development concerning freedom of expression. The first one is somewhat promising,
+
+<<1540.92;1547.34;en>>
+and the second one is somewhat worrying. The first ongoing cause of development is the
+
+<<1547.34;1555.22;en>>
+evolution of new forms of mass media that may distinguish from traditional journalism.
+
+<<1555.22;1569.08;en>>
+Forms of new media develop towards dealing with ever larger masses of information and also exchanging such masses. The Internet has had the effect that media has expanded
+
+<<1569.08;1574.7;en>>
+outside the scope from the traditional press. This has been convincingly pointed out by
+
+<<1574.7;1578.82;en>>
+the intervening parties.
+
+<<1578.82;1592.5;en>>
+European Information Society in its intervention particularly pointed out that the scale at which information is submitted can as such be valuable. Quantity could be good after
+
+<<1592.5;1603.0;en>>
+all. As is stated by the European Information Society, the judgment in this case could have
+
+<<1603.0;1615.98;en>>
+consequences on even forthcoming data processing and information publishing technologies, such means and technologies that do not even exist yet.
+
+<<1615.98;1630.46;en>>
+These technologies may even play a more important role in imparting information than the traditional journalistic activities. The Grand Chamber's ruling in this case might affect even these
+
+<<1630.46;1638.64;en>>
+forthcoming forms of mass media. And as the intervening parties have noted, it is desirable
+
+<<1638.64;1646.3;en>>
+to rather encourage than to restrict these developing and forthcoming forms of media.
+
+<<1646.3;1665.66;en>>
+The second ongoing course of development is the increasing threats of freedom of expression, even in its traditional form. Freedom of expression is not just some right for an individual to
+
+<<1665.66;1672.58;en>>
+speak his mind or a right of another individual to hear this. It's that too, of course, but
+
+<<1672.58;1680.58;en>>
+it's so much more. History has shown us that when fundamental human rights are threatened,
+
+<<1680.58;1686.98;en>>
+freedom of expression tends to be the first target. It's the cornerstone that secures
+
+<<1686.98;1694.48;en>>
+the rest of the building. Even the other fundamental rights are guarded by it.
+
+<<1694.48;1712.86;en>>
+At present, we see threats towards freedom of expression increasing and becoming geographically closer to us than they have been in decades. I could imagine heads of state not so far
+
+<<1712.86;1746.02;en>>
+away who could be most happy if the Grand Chamber chose to give a ruling which could be even interpreted to accept the concept of journalism as gateway to full freedom of expression, and that this could be done based on the content of the publishing, that in this case being all public information. I could even imagine such heads of state saying,
+
+<<1746.02;1754.28;en>>
+so that's how I can do it. First, I do not regard it as journalism. Second, I consider
+
+<<1754.28;1760.04;en>>
+that it's violating privacy. Then I forbid it.
+
+<<1760.04;1774.16;en>>
+It is therefore of vital importance what is to be the message and the signal given by the ruling of the esteemed Grand Chamber. Referring to these observations and to everything
+
+<<1774.16;1781.98;en>>
+I have written in this case earlier, I invite the esteemed Grand Chamber to rule in favor of the applicants.
+
+<<1781.98;1783.98;en>>
+Mr. President, distinguished members of the Grand Chamber, I thank you for your attention.
+
+[[JudgeP;András Sajó]]
+
+<<1789.01;1793.01;en>>
+Thank you Mr. Vainio. Now I would like to call Miss Oinonen.
+
+[[Government;GR1]]
+
+<<1799.67;1803.51;en>>
+Mr. President, distinguished members of the court,
+
+<<1803.51;1815.31;en>>
+to begin with, the government refers to its extensive and detailed written submissions concerning the admissibility and merits of the case, including references to the case law of your court.
+
+<<1815.31;1824.23;en>>
+The chamber found a violation of Article 6, that is, length of proceedings, and no violation concerning Article 10.
+
+<<1824.23;1837.03;en>>
+As to the admissibility of the case, the government reiterates its preliminary objection already raised before the chamber and reiterated in the government's written submissions of 18 March 2016.
+
+<<1837.03;1845.19;en>>
+This objection relates to the applicant company's complaints made under both Article 6, paragraph 1 and Article 10.
+
+<<1845.19;1865.15;en>>
+To de-effect that, as regards the first set of proceedings, the application with your court was not lodged within a period of six months, starting from the decisive and final domestic decision, namely that of 2009 decision by the Supreme Administrative Court.
+
+<<1865.15;1870.35;en>>
+The government emphasises that also the applicant in the case of Anttila v. Finland,
+
+<<1870.35;1889.75;en>>
+to which case the applicant companies have explicitly referred to and at the same time confirmed its similarity with the present case, regarded in this application lodged in 2010, the decision of 2009 by the Supreme Administrative Court, as the final domestic decision.
+
+<<1889.75;1913.19;en>>
+It should be borne in mind that the applicant in the Anttila case was the editor-in-chief of Veropörssi, one of the two shareholders, and the chairman of the board of the now complaining applicant company, Satakunnan Markkinapörssi, as well as one of the two shareholders and the chairman of the board of now complaining applicant company, Satamedia Oy.
+
+<<1913.19;1930.91;en>>
+Moreover, the applicant in the Anttila case and the applicant companies in the present case have throughout the national proceedings, the proceedings before the Court of Justice of the European Union and throughout the proceedings before your court, been represented by the same lawyer.
+
+<<1930.91;1953.91;en>>
+Only after the applicant's application in the Anttila case was declared inadmissible, rationae personae, the applicant companies in the present case lodged their application, this time based on a later domestic 2012 decision by the Supreme Administrative Court, which court, however, did not and could not rule on the subject matter.
+
+<<1953.91;1960.35;en>>
+This is the general prerequisites of processing of personal data in this particular case.
+
+<<1960.35;1974.63;en>>
+Indeed, the later set of proceedings concerned the question whether the orders issued by the Data Protection Board corresponded to the ruling already passed by the Supreme Administrative Court in 2009.
+
+<<1974.63;1994.07;en>>
+The Turku Administrative Court and the Supreme Administrative Court could no longer examine the applicant companies' appeals as they were made against the subject matter already decided by the Supreme Administrative Court in 2009 and thus going beyond the finality of that decision.
+
+<<1994.07;1999.19;en>>
+The applicant companies' efforts against that decision were naturally futile.
+
+<<1999.19;2003.35;en>>
+The applicant companies were aware of this and acted accordingly.
+
+<<2003.35;2014.11;en>>
+As the applicant companies have put forward already in their initial application, that is paragraph 24, they have commenced to abide by the 2009 decision.
+
+<<2014.11;2035.79;en>>
+In addition, also the fact that your court communicated the Anttila application to the government for its written observations and did not refer the case to the judicial composition of three judges to be declared inadmissible without further examination implies that the applicant had exhausted domestic remedies.
+
+<<2035.79;2064.95;en>>
+Furthermore, it has to be taken into account that one of the applicant companies, Satakunna Markkinapörssi, has been declared bank-trapped already on 15 March 2016 and that the auxiliary company name, Satakunna Markkinapörssi, of Suomen Hernerengas, currently Suomen Ruokamarjat Oy, Finnish Food Paris Limited, was deleted from the trade register on 29 January 2016.
+
+<<2064.95;2075.71;en>>
+The government finds it astounding that the applicant companies had not notified the court of such highly relevant change in circumstances as bank-traps.
+
+<<2075.71;2081.63;en>>
+This situation may affect the proper administration of justice in the present proceedings.
+
+<<2081.63;2093.11;en>>
+In any case, this change in the legal status of one of the applicant companies challenges the question of the possible victim status of that applicant company, Satakunna Markkinapörssi.
+
+<<2093.11;2113.35;en>>
+In the government's view, this missing victim status of Satakunna Markkinapörssi should thus be taken also into account, also as it appears that Satakunna Markkinapörssi has not performed activities in question after Satamedia Oy took over the publishing of Veropörssi in 2006.
+
+<<2113.35;2124.63;en>>
+In the lack of any further information, the government starts with the premise that Satakunna Markkinapörssi and its assets are now managed by the bank-trap estate.
+
+<<2124.63;2140.67;en>>
+Turning to the merits of the case, the government considers it clear that this case is not about the publicity or publishing of taxation data as such, but about processing of personal data and the protection of such data.
+
+<<2140.67;2146.11;en>>
+The public taxation data, which is at the heart of this case, is personal data.
+
+<<2146.11;2148.63;en>>
+There is no question about this.
+
+<<2148.63;2156.91;en>>
+This case is about the protection of massive amounts of personal data published in printed lists for over a decade.
+
+<<2156.91;2160.87;en>>
+The information has been collected by hand and printed on paper.
+
+<<2160.87;2163.15;en>>
+This is not data journalism.
+
+<<2163.15;2175.83;en>>
+The respective third-party interventions indicate that third parties have very likely expressed their opinions without ever seeing a print of Veropörssi in its real format.
+
+<<2178.07;2191.07;en>>
+In this connection, the government notes that the right to protection of personal data forms part of the rights protected under Article 8 of the Convention, which guarantees the right to respect for inter-alia private life.
+
+<<2191.07;2207.95;en>>
+The protection of one's private life is also one of the objects of the European Data Protection Directive, which in its first article requires that the EU member states shall protect, in particular, natural persons' right to privacy with respect to processing of personal data.
+
+<<2207.95;2218.35;en>>
+The Council of Europe Convention for the Protection of Individuals with regard to automatic processing of personal data served as basis when the directive was negotiated.
+
+<<2218.35;2229.43;en>>
+Moreover, the status of the right to protection of personal data as fundamental right has been strengthened in the European Union legal framework in the EU primary law.
+
+<<2229.43;2248.07;en>>
+The Treaty on Functioning of the European Union sets now an independent legal basis for data protection, and the EU has general competence to legislate on data protection matters, and the protection of personal data is recognised as a fundamental right in the EU Charter for Fundamental Rights.
+
+<<2248.07;2253.07;en>>
+The European data protection regime has recently gone through a profound reform process.
+
+<<2253.07;2265.71;en>>
+The so-called general data protection regulation replacing the data protection directive has already entered into force and will be directly applicable in member states from May 2018 onwards.
+
+<<2265.71;2272.31;en>>
+The Convention No. 108 was renegotiated simultaneously.
+
+<<2272.31;2291.67;en>>
+As the Supreme Administrative Court affirmed in its 2009 decision, this case is about ensuring that the processing of personal data is made in compliance with the prerequisites laid down in the Personal Data Act, which implements the European data protection directive.
+
+<<2291.67;2309.99;en>>
+As the Supreme Administrative Court held, the applicant company's processing of personal data did not fall within the scope of Section 2, subsection 5 of the Personal Data Act, establishing thus with a legally binding effect that legal principles should be followed in the processing of personal data.
+
+<<2309.99;2317.91;en>>
+Thus, it was confirmed that the applicant companies did not have freedom to process personal data as they had done.
+
+<<2317.91;2329.55;en>>
+The applicant companies can still collect and still publish public taxation data insofar as they comply with the requirements of the Personal Data Act.
+
+<<2329.55;2331.91;en>>
+There is no ban.
+
+<<2331.91;2348.35;en>>
+In this connection, it should be noted that the applicant company's account of their present activities differs to a surprising extent from publicly available information, in particular that the information given on their own veropörsi website.
+
+<<2348.35;2363.19;en>>
+Moreover, the three copies of veropörsi that the applicant companies originally provided concern different taxation year than what was the basis of the assessment in the domestic proceedings taxation year 2001.
+
+<<2363.19;2371.71;en>>
+Only after an additional request by the Grand Chamber, the applicant companies provided one copy of the relevant veropörsi.
+
+<<2371.71;2383.55;en>>
+Furthermore, as it appears from the print from veropörsi website, veropörsi was published in 2010-2011, listing taxation data for tax year 2008.
+
+<<2383.55;2387.15;en>>
+These and the older prints can still be ordered or downloaded.
+
+<<2387.15;2405.23;en>>
+It appears from a copy of 2010 veropörsi provided by the applicant companies after an additional request by the Grand Chamber that the size of the 2010 veropörsi, at last in terms of number of pages, was not different from that of 2003 veropörsi.
+
+<<2405.23;2418.67;en>>
+Moreover, it appears from the website a service subject to a charge is offered where one can authorise veropörsi to act as his or her agent for finding out the taxation data from the year 2014.
+
+<<2418.67;2425.47;en>>
+As the website states, the taxation data is delivered by email or as an SMS message.
+
+<<2425.47;2431.59;en>>
+It seems as evident that the applicant companies did not cease to publish veropörsi in 2009.
+
+<<2431.59;2442.67;en>>
+Moreover, it remains unclear if the information published truly was, as the applicant companies allege, about 20% of the information published before.
+
+<<2442.67;2454.23;en>>
+The government notes that the Chamber found that there had been an interference into the applicant companies' freedom of expression as an essential part of the information previously published would no longer be published.
+
+<<2454.23;2457.51;en>>
+This seems, however, not to be the case.
+
+<<2457.51;2466.75;en>>
+The applicant companies have not been proactively banned from publishing taxation data and certainly not have their publication been censored.
+
+<<2466.75;2471.55;en>>
+The assessment of the applicant companies' activities was done retroactively.
+
+<<2471.55;2480.19;en>>
+This way of interpreting legal issues is inherent practically in all court proceedings, including your court.
+
+<<2480.19;2489.35;en>>
+The government recalls that the data protection ombudsman initiated the proceedings against the applicant companies based on events that had already occurred.
+
+<<2489.35;2500.31;en>>
+The corrective powers applied by the ombudsman are based on the EU Data Protection Directive and even more specifically prescribed in the new General Data Protection Regulation.
+
+<<2500.31;2508.19;en>>
+Moreover, the alleged imbuent measures certainly cannot be considered as characteristics of a totalitarian regime.
+
+<<2508.19;2510.87;en>>
+Such an argument is absurd.
+
+<<2510.87;2528.67;en>>
+As a recent article by David Erdos in International and Comparative Law Quarterly shows, Finland is one of those three countries together with Sweden and Norway in providing maximum derogations to the media from the EU data protection regime.
+
+<<2528.67;2539.35;en>>
+The question is not whether the applicant companies have lost something covered by the protection by Article 10, but about protecting something covered by Article 8.
+
+<<2539.35;2551.75;en>>
+In conclusion, the alleged imbuent measures did not constitute an interference with the applicant companies' right to freedom of expression within the meaning of Article 10, Paragraph 1 of the Convention.
+
+<<2551.75;2569.19;en>>
+Turning to the question of whether the alleged interference was justified under Article 10, Paragraph 2, the government underlines that taxation data is at the same time personal data, and that the processing and protection of such data is essentially regulated by the Personal Data Act.
+
+<<2569.19;2572.55;en>>
+This is something the applicant companies fail to see.
+
+<<2572.55;2581.03;en>>
+The Act on the Public Disclosure and Confidentiality of Tax Information determines the publicity of income tax data.
+
+<<2581.03;2589.43;en>>
+The Act on the Openness of Government Activities, in turn, regulates the access to the aforementioned public information, tax information.
+
+<<2589.43;2605.39;en>>
+As accepted by the Chamber, that is in Paragraph 55, the alleged interference was prescribed by law, and it pursued the legitimate aim of protecting the reputation of rights of others within the meaning of Article 10, Paragraph 2.
+
+<<2605.39;2613.79;en>>
+Now I turn to the question of whether the alleged interference was necessary in a democratic society under Article 10, Paragraph 2.
+
+<<2613.79;2626.39;en>>
+At the outset, the government notes that there is no dispute over the publicity of the taxation data, or the access to such data, or whether it, in general terms, can be published.
+
+<<2626.39;2633.99;en>>
+Regardless of this, in their written submissions, the applicant companies have put forward untrue reasoning in this regard.
+
+<<2633.99;2638.51;en>>
+The public taxation data does not include occupation and sex.
+
+<<2638.51;2646.99;en>>
+The wealth taxation was abolished starting from 2006, and a person's wealth is no longer included in the public information.
+
+<<2646.99;2666.47;en>>
+It is true that anyone could have viewed at the relevant time the public information on a natural person's taxable income, as well as assets covering the tax year 2005, at local tax offices, as is provided for in Section 16 of the Act on the Openness of Government Activities.
+
+<<2666.47;2676.51;en>>
+However, the manner of displaying the said information, as well as its copying and printing, is regulated in more detail in the same Act.
+
+<<2676.51;2699.43;en>>
+According to Section 16, subsection 3 of the Act, access may be granted in the form of a copy or printout, or an electronic format copy of the contents of the system, but only if the person requesting access has the right to record and use such data, according to the legislation on the protection of personal data.
+
+<<2699.43;2718.03;en>>
+Consequently, the disclosure of the information can be done in digital format for journalistic purposes, but only on the condition that the person requesting the information expressly declares that the data is actually used for such a purpose, or that it is not published as such in the form of a list.
+
+<<2718.03;2738.23;en>>
+Even in this situation, the whole taxation database publicly available cannot be disclosed, as it would be against the provisions of the Act on the Openness of Government Activities, as is evident from the decision of 23 January 2015 by the Helsinki Administrative Court, submitted by the government.
+
+<<2738.23;2745.15;en>>
+The order of public income tax information has been disclosed free of charge since 2013.
+
+<<2745.15;2753.27;en>>
+Before that, on the basis of a decree, the Tax Administration collected a charge based on the exact cost price for the transactions.
+
+<<2753.27;2756.19;en>>
+The price was fixed and non-negotiable.
+
+<<2756.19;2771.03;en>>
+The applicant companies ordered data in digital format, but after inquiries by the Tax Administration concerning their possibilities to satisfy the data protection requirement specified by the Tax Administration, withdrew their request.
+
+<<2771.03;2775.15;en>>
+Thus, they did not affirm by the required declaration.
+
+<<2775.15;2785.63;en>>
+In all cases, this episode demonstrates that the applicant companies had in their firm knowledge also this part of the data protection regulation.
+
+<<2785.63;2798.99;en>>
+Something that cannot be overlooked in this context is that the similarly large public transparency and availability of the taxation information, as has been realized in Finland, is rare.
+
+<<2798.99;2810.91;en>>
+In this connection, it should be noted that the Council of Europe Convention on Access to Official Documents guarantees the right of everyone to have access to official documents held by public authorities.
+
+<<2810.91;2819.51;en>>
+Convention has been ratified by nine member states, including Finland, and will enter into force after one more member state has ratified it.
+
+<<2819.51;2825.07;en>>
+In Finland, the fundamental principle of public access to official documents is broadly applied.
+
+<<2825.07;2832.23;en>>
+Thus, certain personal data, such as taxation data, is public and publicly available.
+
+<<2832.23;2845.63;en>>
+Should the publicity of such data automatically mean that it could always be published regardless of the considerations of private life of others, it could lead to a pressure to limit the publicity of such information.
+
+<<2845.63;2856.35;en>>
+One could question if the present case resulting from Finland's high transparency country background would exist at all had the transparency model been the reverse.
+
+<<2856.35;2859.47;en>>
+The reply is obvious, no way.
+
+<<2859.47;2867.71;en>>
+And accordingly, in that case, the question arises, should the high level of transparency be accordingly valued or not?
+
+<<2867.71;2873.47;en>>
+In any case, the publicity of taxation data does not automatically mean that it can be published.
+
+<<2873.47;2877.23;en>>
+The applicant companies have themselves admitted this.
+
+<<2877.23;2885.39;en>>
+The publicity of taxation data does not mean that the provisions on the protection of private life would not apply in the processing of such information.
+
+<<2885.39;2892.39;en>>
+Publicly available taxation data must still be processed in accordance with data protection legislation.
+
+<<2892.39;2898.79;en>>
+Moreover, the processing of such data must meet the criteria laid down in EU legislation.
+
+<<2898.79;2905.91;en>>
+The core element of the Sata Media case was clearly illustrated in the so-called Google versus Spain judgment.
+
+<<2905.91;2920.11;en>>
+The court of justice stated that operator Google was obliged to remove links from the list of links following a search made on the basis of a person's name, even when the publication itself on pages is lawful.
+
+<<2920.11;2932.55;en>>
+The case is essentially about balancing the applicant companies' alleged right to freedom of expression against the private life of those individuals whose personal data has been processed by the applicant companies.
+
+<<2932.55;2941.63;en>>
+Those individuals, a number of which requested the data protection ombudsman to investigate the processing and intervene in it.
+
+<<2941.63;2954.67;en>>
+The balancing, as the Supreme Administrative Court stated, was part of assessing whether the applicant companies' activities fulfilled the requirements set for processing of personal data in the Personal Data Act.
+
+<<2954.67;2964.19;en>>
+Section 2, subsection 5 of the Personal Data Act provides the requirements which the processing of the data for journalistic purposes has to meet.
+
+<<2964.19;2968.67;en>>
+The said provision implements Article 9 of the European Data Protection Directive.
+
+<<2968.67;2990.11;en>>
+Article 9 provides that EU member states shall provide for exemptions or derogations from the provisions of the directive for the processing of personal data, which is carried out solely for journalistic purposes, only if they are necessary to reconcile the right to privacy with the rules governing freedom of expression.
+
+<<2990.11;3000.19;en>>
+The Court of Justice found that the purpose of this said article is to balance two fundamental rights, the protection of privacy and freedom of expression.
+
+<<3000.19;3017.99;en>>
+The Court of Justice further stated that the activities of the applicant companies can be regarded as processing of personal data for journalistic purposes if the sole purpose of such activities has been the imparting of information, opinions, and thoughts to the public.
+
+<<3017.99;3023.91;en>>
+Has this been the case is a matter for the domestic courts to assess.
+
+<<3023.91;3039.71;en>>
+As the Supreme Administrative Court stated, taking into account the guidance received from the Court of Justice, the starting point must be the assessing of whether the purpose of the activities is the imparting of information, opinions, and thoughts to the public.
+
+<<3039.71;3052.91;en>>
+The assessment should take into account assessing the extent to which the activities have promoted socially interesting debate rather than have aimed to satisfy the curiosity of individual persons.
+
+<<3052.91;3059.47;en>>
+Turning to this assessment, it should be noted at the outset that Veropörssi is actually a printed list.
+
+<<3059.47;3072.03;en>>
+In addition to this, one of the applicant companies has provided an SMS service for which the other applicant company disclosed taxation information until an unspecified date.
+
+<<3072.03;3077.95;en>>
+As to the content of the publication, the information was listed in alphabetical order.
+
+<<3077.95;3082.43;en>>
+Basically, no conclusions were drawn from the listed information.
+
+<<3082.43;3089.59;en>>
+The small introductions explaining the contents of the listed information cannot be considered as conclusions.
+
+<<3089.59;3097.23;en>>
+In any case, the small writings referred to by the applicant companies represent only a fraction of the information published.
+
+<<3097.23;3102.63;en>>
+The vast majority of the publication is listings of taxation data.
+
+<<3102.63;3106.79;en>>
+Moreover, the so-called income limits are considerably low.
+
+<<3106.79;3117.63;en>>
+The lowest income limit used is 12,000 euros when the average yearly income in Finland was approximately 25,000 euros.
+
+<<3117.63;3123.47;en>>
+The information published included a large group of very ordinary people.
+
+<<3123.47;3140.03;en>>
+Thus, it is obvious that the publishing activities in the aforementioned manner and extent did not contribute to public debate in a way that would override the public interest of protecting the processing of personal data and the persons concerned.
+
+<<3140.03;3165.79;en>>
+As the Supreme Administrative Court stated, such processing of personal data where a personal data file compiled for journalistic purposes is published to a large extent, almost as a whole, and almost as such, be it in separate issues and divided by municipalities, is published as separate catalogs, cannot be considered as processing of personal data for journalistic purposes.
+
+<<3165.79;3181.19;en>>
+As the publishing of registered data in this extent is comparable to the publishing of the so-called background register of a company compiled for journalistic purposes, the question is not solely of imparting information, opinions, or ideas.
+
+<<3181.19;3192.51;en>>
+Similarly, the Supreme Administrative Court stated that the disclosing of the aforementioned information to Sata Media Oy could not be considered as being done in journalistic purpose.
+
+<<3192.51;3197.55;en>>
+Neither was the disclosing of the information in the SMS service.
+
+<<3197.55;3211.23;en>>
+Contrary to what the applicant companies argue, the assessment was made not only based on the amount of published information or the quantity of it, but also on the manner of publishing the information.
+
+<<3211.23;3218.11;en>>
+The publishing activities of the applicant companies mainly satisfied the curiosity of the reader.
+
+<<3218.11;3225.35;en>>
+And the applicant companies seem to admit this, for example, in paragraph 54 of the written submission.
+
+<<3225.35;3242.51;en>>
+There is no relevance whether other newspapers or media publish taxation data and how, as the applicant companies persistently claim, despite the fact they complained under Article 14, on the same ground was declared inadmissible by the chamber.
+
+<<3242.51;3252.55;en>>
+In any case, as it appears from the prints from the websites of hs.fi, yle.fi, and taloussanomat.fi,
+
+<<3252.55;3273.79;en>>
+and also from the prints from the websites of Ildasanomat and Helsingin Sanomat submitted by the applicant already in the Anttila case illustrating taxation year 2001, the information that can be obtained from those websites today and that could be obtained concerning taxation year 2001 is crucially different.
+
+<<3273.79;3291.55;en>>
+As the applicant companies admit, these websites illustrate the income of persons whose income is fairly large and being a matter of public interest already as such, whereas Veropörssi as well as the SMS service list a very small income.
+
+<<3291.55;3295.51;en>>
+The total amount of the information is also crucially different.
+
+<<3295.51;3308.39;en>>
+This appears also from a reply given by the data protection ombudsman to a question concerning a journalistic purpose of the processing of personal data by newspaper Helsingin Sanomat submitted by the government.
+
+<<3308.39;3317.47;en>>
+Moreover, the information published by Ildasanomat is crucially different from the information published by the applicant companies.
+
+<<3317.47;3324.23;en>>
+Furthermore, the Council of Mass Media has addressed the issue of publishing taxation information in a newspaper.
+
+<<3324.23;3330.51;en>>
+The applicant company's submission is incomplete as appears from the decision submitted by the government.
+
+<<3330.51;3339.67;en>>
+As to the consequences of the domestic decision, the government wishes to draw the court's attention to the entire operations of the applicant companies.
+
+<<3339.67;3354.51;en>>
+As it appears from the print from the business information system submitted by the government, Satakunamarkkinapörssi has operated mainly on other fields and Satamedia Oy started publishing Veropörssi in 2006.
+
+<<3354.51;3365.87;en>>
+The relevance of the domestic decisions to Satakunamarkkinapörssi is thus unclear, which emerges even more now that the applicant company has been declared bankrupt.
+
+<<3365.87;3376.59;en>>
+Moreover, any question of chilling effect cannot arise in this particular case, as is obvious from your court's case law as applied to the present case.
+
+<<3376.59;3391.15;en>>
+The government submits that at any rate, the alleged interference with the applicant companies right to the freedom of expression was proportionate to the legitimate aim pursued and moreover necessary in a democratic society.
+
+<<3391.15;3401.51;en>>
+Based on the above considerations, the government invites the court to conclude that there has been no violation of Article 10 of the convention.
+
+<<3401.51;3420.35;en>>
+As to the question of the alleged violation of Article 6 Paragraph 1 very briefly, the total length of the proceedings is reasonable as explained, reasoned, and calculated thoroughly in the government's written submissions, and there is no violation of Article 6 Paragraph 1 of the convention in the present case.
+
+<<3420.35;3424.83;en>>
+Mr. President, finally, as to the applicant company's claims
+
+<<3424.83;3437.47;en>>
+for just satisfaction, the government recalls that in the proceedings before the chamber, the applicant companies have claimed for pecuniary damages in relation to the alleged violation of Article 10.
+
+<<3437.47;3442.95;en>>
+No causal link exists between a damage claimed and the alleged violation.
+
+<<3442.95;3444.99;en>>
+The claim should be rejected.
+
+<<3444.99;3451.95;en>>
+The calculation provided by the applicant companies cannot be considered sufficient to verify any of the claimed damage.
+
+<<3451.95;3469.07;en>>
+What is striking is that the applicant companies have presented a new claim of 900,000 euros in their written submissions, which is triple the amount that the applicant companies claimed before, one day after the bankruptcy of Satakunan Markkinapörssi.
+
+<<3469.07;3483.71;en>>
+A significant claim for costs and expenses has been put forward concerning the applicant companies' costs before the grand chamber, however, without any documentation to support it.
+
+<<3483.71;3493.99;en>>
+Should your court have another opinion, the question of the application of Article 41 is not in this respect ready for decision, and the said question must be reserved.
+
+<<3493.99;3496.67;en>>
+Mr. President, final conclusion.
+
+<<3496.67;3509.35;en>>
+The government refers to the margin of appreciation afforded to it and emphasizes it as the chamber found that your court would require strong reasons to substitute its own view for that of the domestic courts.
+
+<<3509.35;3519.27;en>>
+Such reasons have not been put forward by the applicant companies before the grand chamber, either that would merit assessing the matter differently.
+
+<<3519.27;3531.59;en>>
+To reply to the applicant on the question of how they could have continued the protection of personal data, they could have continued by protecting personal data.
+
+<<3531.59;3531.59;en>>
+Thank you.
+
+[[JudgeP;András Sajó]]
+
+<<3537.07;3554.27;en>>
+Thank you. Now I would like to invite members of the judges of the Grand Chamber wishing to do so,
+
+<<3554.27;3558.83;en>>
+to put their questions to the parties.
+
+<<3558.83;3563.83;en>>
+Judges, yes, judge O’Leary.
+
+[[Judge;Síofra O’Leary]]
+
+<<3565.89;3568.61;en>>
+Thank you very much, Mr. President.
+
+<<3568.61;3573.65;en>>
+My first question is composed of two branches, but it's addressed to both parties.
+
+<<3573.65;3583.45;en>>
+The government referred to the advisory opinion requested by the tax administration from the Data Protection Ombudsman in 2000 and 2001.
+
+<<3583.45;3594.65;en>>
+And what I'd like the government to do is to clarify a little what advice the ombudsman provided and what was requested of or indicated to the applicant companies at that stage.
+
+<<3594.65;3598.65;en>>
+The same question is addressed in a different form to the applicant companies.
+
+<<3598.65;3612.61;en>>
+Could the applicants explain why, after that opinion, and request for further information by the tax administration, they cancelled their access request and hired people to collect the data manually from the tax offices?
+
+<<3612.61;3615.05;en>>
+That's my first factual question.
+
+<<3615.05;3617.97;en>>
+The other two questions are of a more legal nature.
+
+<<3617.97;3620.81;en>>
+And again, they're addressed to both parties.
+
+<<3620.81;3625.61;en>>
+But principally, the second question is addressed to the respondent government.
+
+<<3625.61;3632.65;en>>
+And it relates to the issue of the quantum of data accessed and disseminated.
+
+<<3632.65;3638.77;en>>
+In terms of reliance on the journalistic purposes derogation in Section 2.5 of the Finnish legislation
+
+<<3638.77;3645.41;en>>
+and Article 9 of the EU directive, where is the cutoff point regarding quantum?
+
+<<3645.41;3648.89;en>>
+And how are journalists to establish what it is?
+
+<<3648.89;3660.05;en>>
+I stress that this question relates only to quantum, a separate question, of course, arising, as the respondent government pointed out, as to the manner of dissemination.
+
+<<3660.05;3663.97;en>>
+And my third question is again addressed to both parties.
+
+<<3663.97;3677.05;en>>
+The taxation data at issue here is, as both of you have emphasized, it's public in the sense that it is publicly accessible, subject to the rules established under Finnish law.
+
+<<3677.05;3680.73;en>>
+The government has partly addressed this question, but I'd like you both to return to it.
+
+<<3680.73;3691.21;en>>
+Should this factor be determinative in the court's assessment of the balancing exercise undertaken by domestic courts under Articles 8 and 10?
+
+<<3691.21;3701.81;en>>
+And if not, what other considerations, particularly relating to data protection, are relevant to the balancing of rights which domestic courts have to engage in?
+
+<<3701.81;3701.81;en>>
+Thank you.
+
+[[JudgeP;András Sajó]]
+
+<<3703.16;3706.16;en>>
+Thank you.
+
+<<3706.16;3710.16;en>>
+So the next questions will be asked by Judge Koskelo, please.
+
+[[Judge;Pauliine Koskelo]]
+
+<<3713.17;3714.97;en>>
+Thank you, Mr. President.
+
+<<3714.97;3719.61;en>>
+I would like to pose one question to the representative of the applicants.
+
+<<3719.61;3725.86;en>>
+Of course, the government is also free to comment on it.
+
+<<3725.86;3746.25;en>>
+In your written and also oral submissions, one of your key arguments is that the Data Protection Act was not meant at all to restrict any publishing activities concerning personal data.
+
+<<3746.25;3747.57;en>>
+And my question is this.
+
+<<3747.57;3781.53;en>>
+In the Data Protection Act, as well as in the EU directive on which the act is based, as well as in the new general data protection regulation that has been adopted earlier this year in the EU, in all of these legislative instruments, it is expressly provided that the processing of personal data does cover, among other things, the disclosure by transmission, the dissemination, and other making available of personal data.
+
+<<3781.53;3804.38;en>>
+So in light of these express provisions, I would ask the applicants' representative to explain to the court on what basis you maintain that the data protection legislation is not intended at all to restrict any publishing of personal data.
+
+<<3804.38;3836.73;en>>
+And secondly, it would also be interesting to hear your views on the implications for data protection if data protection cannot cover the dissemination of personal data at all, or if it cannot in any way extend to the dissemination of personal data in case the disseminator declares that he is a journalist.
+
+<<3836.73;3836.73;en>>
+Thank you.
+
+[[JudgeP;András Sajó]]
+
+<<3837.01;3840.29;en>>
+Thank you.
+
+<<3840.29;3844.77;en>>
+Other further questions?
+
+<<3844.77;3849.41;en>>
+If not, I would like to ask first the government.
+
+<<3849.41;3866.77;en>>
+I understand that there are other media journalists who publish information, but this is about people whose income seems to be higher.
+
+<<3866.77;3876.35;en>>
+Could you elaborate on how long those lists are, if they are lists at all?
+
+<<3876.35;3892.13;en>>
+What is the difference between information about richer people versus less financially fortunate people in terms of purposes of journalism?
+
+<<3892.13;3926.03;en>>
+And also I would like to understand really how the system works, because it was already quoted just a moment ago by Judge Koskelo that the Act on the Public Disclosure of Confidentiality of Tax Information expressly states, among other acts, that this act, the Personal Data Act, does not restrict the collection of such data.
+
+<<3926.03;3927.35;en>>
+But it says only collection.
+
+<<3927.35;3932.03;en>>
+We will hear whether there is more authorized than that.
+
+<<3932.03;3939.45;en>>
+Now I wonder if these other newspapers or other journalists went to the tax authority.
+
+<<3939.45;3948.23;en>>
+What measures the tax authority or those who keep the registry apply?
+
+<<3948.23;3955.63;en>>
+Is there a form that the journalist has to fill out indicating the purpose?
+
+<<3955.63;3957.19;en>>
+What is the procedure?
+
+<<3957.19;3975.87;en>>
+Are there questions raised by the authorities when the collection or perhaps distribution is authorized?
+
+<<3975.87;3985.55;en>>
+So I think that is my question at the moment.
+
+<<3985.55;4003.79;en>>
+If there are no further questions, I suggest that we will withdraw for 25 minutes.
+
+<<4003.79;4009.35;en>>
+So we will start at 10.45 sharp.
+
+<<4009.35;4024.81;en>>
+And following the break, the parties will be able to submit their brief observations in reply to each other's submissions and reply to the questions from the judges.
+
+<<4024.81;4024.81;en>>
+So the hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4491.0;4491.68;fr>>
+La Cour!
+
+[[JudgeP;András Sajó]]
+
+<<4525.05;4526.17;en>>
+Please be seated.
+
+<<4536.25;4537.69;en>>
+The hearing is resumed.
+
+<<4537.69;4539.69;en>>
+I call Mr. Vainio, please.
+
+[[Applicant;AP1]]
+
+<<4547.03;4550.47;en>>
+Thank you, Mr. President.
+
+<<4550.47;4552.93;en>>
+Mr. President, distinguished judges.
+
+<<4563.23;4570.83;en>>
+Now, the first question presented by distinguished Judge O'Leary.
+
+<<4570.83;4585.67;en>>
+My clients indeed did present a request on digital release of the taxation data, which was later canceled.
+
+<<4585.67;4594.43;en>>
+I am not all that well informed of the circumstances concerning this.
+
+<<4594.43;4603.77;en>>
+But to my knowledge, I have discussed this at the time briefly with my clients.
+
+<<4603.77;4610.99;en>>
+The problem as regards to applicants appeared to be the price of such digital release.
+
+<<4610.99;4619.03;en>>
+My clients did consider it cheaper to employ people to collect the tax data manually from the public tax records.
+
+<<4619.03;4627.23;en>>
+Thank you very much.
+
+<<4627.23;4657.73;en>>
+As regards to the next question, whether the matter of the data being public domain should affect the setting of balance between data protection and the right to impart information, firstly, the matter that something is set as public per se implies a public interest.
+
+<<4657.73;4664.33;en>>
+But secondly, that does not, of course, always mean that all such data may be published.
+
+<<4664.33;4667.59;en>>
+That is not my claim.
+
+<<4667.59;4681.79;en>>
+But concerning tax data, taxation data in Finland in particular, now again, I refer to the preparatory works of legislation.
+
+<<4681.79;4699.95;en>>
+Both the matter that that data being public domain and the publishing of it were weighed and discussed in the legislative process.
+
+<<4699.95;4706.63;en>>
+It was discussed whether there should be an income limit to public taxation data.
+
+<<4706.63;4714.73;en>>
+That idea was given up, as is pointed out by the government.
+
+<<4714.73;4721.05;en>>
+The already then ongoing publishing of this data was also discussed.
+
+<<4721.05;4735.73;en>>
+And the result was that all data was to remain public and the publishing was considered serving the ends of this data being public domain.
+
+<<4735.73;4741.99;en>>
+For instance, citizen supervision, which was mentioned in the government bill.
+
+<<4741.99;4751.39;en>>
+And certain other ends set by the fact that tax data was to remain as public domain.
+
+<<4751.39;4768.33;en>>
+So in this case, I suggest that the publishing of taxation data has been considered, not only the publicity, but also the publishing has been considered with care and accepted by the legislature.
+
+<<4768.33;4774.69;en>>
+And I suggest that this should affect where the balance is put.
+
+<<4774.69;4779.83;en>>
+I'd say that the legislature has already made that quite clear.
+
+<<4779.83;4788.03;en>>
+Alas, not in the actual laws, but this comes out in the preparatory work.
+
+<<4788.03;4800.03;en>>
+These are, in Finland, regarded as sources of legislative intention, albeit that they are not strictly binding to codes of law.
+
+<<4800.03;4809.63;en>>
+Nevertheless, they are sources of law that are to be used in taxing.
+
+<<4809.63;4826.93;en>>
+Concerning the question by Distinguished Judge Koskela, the applicants, one of the core arguments indeed has been that personal data act was not intended to restrict publishing activities.
+
+<<4826.93;4832.93;en>>
+And that is based on, again, in the preparatory works, the government bills.
+
+<<4832.93;4844.13;en>>
+And in this case, it goes so that the preceding act of personal data act was the Person Registers Act.
+
+<<4844.13;4856.13;en>>
+And in the preparatory work of personal data act, it was stated that as far as the journalistic exceptions were concerned, the legal status was to remain unchanged.
+
+<<4856.13;4866.03;en>>
+So to look for the legislature's intention, we have to look at the government bill of the Person Registers Act.
+
+<<4866.03;4871.33;en>>
+That is the government bill 311, 1993.
+
+<<4871.33;4889.53;en>>
+And in its general motivations, section 3.3, which is under the
+
+<<4889.53;4896.43;en>>
+title, influences on media and citizens.
+
+<<4896.43;4903.43;en>>
+And I translate freely, so excuse possible mistakes.
+
+<<4903.43;4934.93;en>>
+As regards media, the proposed law means as freedom of expression is concerned, that for the usage of this freedom of expression via media could not, based on Person Registers Act, set such conditions that could even indirectly mean proactive restriction of freedom of expression.
+
+<<4934.93;4950.33;en>>
+And in the same government bill 311, 1993, in the general arguments, section 1.3, it has been stated the part of the data
+
+<<4950.33;4960.43;en>>
+collected by media is not problematic concerning data protection.
+
+<<4960.43;4976.73;en>>
+Since after this information is published, any activity insulting the right to privacy can be dealt with in retrospect.
+
+<<4976.73;4992.03;en>>
+Only, and this I find important, only a part of the registered information is to be published and therefore dealt with in retrospect.
+
+<<4992.03;5014.33;en>>
+On this and also the preparatory work of the law concerning the tax data and that being public domain, I base this argument.
+
+<<5014.33;5026.33;en>>
+Now, do the journalists have free access to personal data?
+
+<<5026.33;5031.23;en>>
+I'd say no, not any more than anybody else.
+
+<<5031.23;5033.93;en>>
+Why should they?
+
+<<5033.93;5047.83;en>>
+But I do suggest that if anybody has access to certain information, that itself gives a strong implication that this could also be published.
+
+<<5047.83;5051.73;en>>
+That is, however, not always the case.
+
+<<5051.73;5058.03;en>>
+Not all information that anybody can have access to can be published freely.
+
+<<5058.03;5060.23;en>>
+I'm not suggesting that.
+
+<<5060.23;5080.23;en>>
+But what I am suggesting, that when it concerns taxation data in my country, in Finland, where that has, so far as anybody can remember, been public domain, and it has, so far as anybody can remember, always been published to a certain extent.
+
+<<5080.23;5085.33;en>>
+Now, that should not be restricted with the concept of journalism or with any other grounds.
+
+[[JudgeP;András Sajó]]
+
+<<5092.81;5095.61;en>>
+Thank you very much, Mr. Vainio.
+
+<<5095.61;5097.89;en>>
+I would like to call Mrs. Oinonen.
+
+<<5097.89;5097.89;en>>
+Please.
+
+[[Government;GR1]]
+
+<<5109.47;5113.35;en>>
+Mr. President, distinguished members of the court,
+
+<<5113.35;5119.43;en>>
+as to the applicant company's claims for just satisfaction, there is no causal link.
+
+<<5119.43;5129.67;en>>
+As an example, the calculations submitted by applicant companies illustrates only a time period between June 2007 and November 2012.
+
+<<5129.67;5133.95;en>>
+That's only a fraction of the time period when Veropörsi was published.
+
+<<5133.95;5144.63;en>>
+Moreover, the applicant companies have continued their activities even after 2009 and to even begin to analyse the possible consequences of the impugned measures.
+
+<<5144.63;5152.91;en>>
+The calculation should illustrate the revenue from a longer period of time and all the way until the moment the claim has been put forward.
+
+<<5152.91;5165.43;en>>
+Moreover, the calculation provided by the applicant companies does not provide any explanation of how the reported revenue is divided based on different activities and to different companies.
+
+<<5165.43;5180.03;en>>
+In any case, the calculation provided by the applicant companies without any account of book or attached auditor's report or any other proof cannot be considered sufficient to verify the claimed damage.
+
+<<5180.03;5185.51;en>>
+The government or the court cannot fetch documents from the trade register.
+
+<<5185.51;5197.35;en>>
+Should your court have another opinion, it is clear that the question of the application of Article 41 is not, in this respect, ready for decision and the same question must be reserved.
+
+<<5202.31;5214.39;en>>
+As regards to questions, the Personal Data Act does not stipulate of the cutoff point regarding the amount of personal data which could be published for journalistic purposes.
+
+<<5214.39;5231.35;en>>
+Instead, the Personal Data Act 2, paragraph 5, contains, for example, provisions regarding protecting the personal data file, which the processing of personal data must meet even when it is processed for journalistic purposes.
+
+<<5231.35;5249.51;en>>
+We see that setting determinative quantities is not possible and could lead to restricting proactively as the considerations culminate in assessing whether the processing has been carried out for journalistic purposes.
+
+<<5249.51;5254.27;en>>
+Should it be determinative that the information was in the public domain?
+
+<<5254.27;5257.47;en>>
+Not in the sense that it was the only consideration.
+
+<<5257.47;5271.59;en>>
+As mentioned by the government, the principle of public access to official documents is strong in Finland and thus information falling in the domain of private life, such as tax data, may be publicly available.
+
+<<5271.59;5281.11;en>>
+However, private life is to be protected also and personal data processed as laid down by law and the EU directive.
+
+<<5281.11;5287.63;en>>
+Thus, information being public cannot automatically mean that it can be published.
+
+<<5287.63;5306.43;en>>
+As regards other media, the limits for publishing taxation information applied by the other media on their own initiative have been, for example, 100,000 euros and 150,000 euros, so that is a considerably high sum of money.
+
+<<5306.43;5310.43;en>>
+Thus, considerable yearly income also in Finland.
+
+<<5310.43;5317.19;en>>
+Taxation information on lower income might have been published, but these have always related to public figure.
+
+<<5317.19;5321.39;en>>
+They refer to the material submitted by the government.
+
+<<5321.39;5329.75;en>>
+Regarding how the information is provided, providing information is based on act of openness, which takes into account Data Protection Act.
+
+<<5329.75;5333.91;en>>
+Everybody is equal before this law.
+
+<<5333.91;5350.47;en>>
+The information can be requested by submitting a form which asks applicant to specify the purposes of the data processing, and we have submitted this form to your court.
+
+<<5350.47;5356.31;en>>
+And naturally, all media in Finland is treated equally.
+
+<<5356.31;5367.19;en>>
+The government notes that the applicant companies have not received any data in digital form on income taxation from the National Board of Taxes slash the tax administration.
+
+<<5367.19;5379.51;en>>
+The applicant companies, that is Veropersi Magazine, ordered the data in question from the National Board of Taxes on 27th September 2000 and 5th November 2001.
+
+<<5379.51;5391.39;en>>
+On account of the first order, the National Board of Taxes requested an opinion of the Data Protection Ombudsman, which was received on 8th October 2001.
+
+<<5391.39;5414.87;en>>
+And in this opinion, the assessment provided by the Data Protection Ombudsman provides that the activities of the Veropersi Magazine are likely to belong to the scope of application of the Personal Data Act.
+
+<<5414.87;5415.87;en>>
+I thank you, Mr. President.
+
+[[JudgeP;András Sajó]]
+
+<<5420.16;5423.68;en>>
+Thank you, Ms. Oinonen.
+
+<<5423.68;5426.92;en>>
+We have now come to the end of the hearing.
+
+<<5426.92;5432.56;en>>
+I thank the parties for their submissions and answers to the court's questions.
+
+<<5432.56;5435.74;en>>
+The court will now deliberate on the merits.
+
+<<5435.74;5438.08;en>>
+The judgment will be delivered later.
+
+<<5438.08;5441.5;en>>
+The parties will be informed of the date of delivery.
+
+<<5441.5;5441.5;en>>
+I declare the hearing closed.
+

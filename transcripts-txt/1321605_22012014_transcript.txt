@@ -1,0 +1,2857 @@
+[[Announcer;UNK]]
+
+<<14.66;15.38;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<61.3;62.3;en>>
+Please be seated.
+
+<<71.98;80.12;en>>
+I declare open the public hearing on the merits in the case of Chiragov and others against Armenia.
+
+<<80.12;94.78;en>>
+The application was lodged with the court on the 6th of April, 2005, under Article 34 of the Convention by six Azerbaijani nationals, Mr. Elkhan Chiragov, Mr.
+
+<<94.78;101.83;en>>
+Adishirin Chiragov, Mr. Ramiz Gebrayilov, Mr. Akif Hasanof,
+
+<<101.83;108.59;en>>
+Mr. Fekhreddin Pashayev, and Mr. Qaraca Gabrayilov.
+
+<<108.59;117.11;en>>
+The application was allocated to the third section of the court pursuant to Rule 52, Paragraph 1 of the Rules of the Court.
+
+<<117.11;124.15;en>>
+It was communicated to the government on the 8th of June, 2006.
+
+<<124.15;132.91;en>>
+On the 9th of March, 2010, the chamber decided to relinquish jurisdiction in favor of the Grand Chamber.
+
+<<132.91;142.47;en>>
+The application was declared admissible by the Grand Chamber on the 14th of December, 2011.
+
+<<142.47;147.94;en>>
+The respondent government are represented by their agent, Mr. Gevorg Kostanyan,
+
+<<147.94;151.38;en>>
+assisted by Mr. Emil Babayan, Deputy Prosecutor General
+
+<<151.38;155.78;en>>
+of Armenia, and by Mr. Geoffrey Robertson QC,
+
+<<155.78;159.14;en>>
+and Mr. Toby Collis, advisors.
+
+<<159.14;163.99;en>>
+The applicants are represented by Mr. Mark Muller QC,
+
+<<163.99;167.61;en>>
+Mr. Sudhanshu Swaroop, Mr. Michael Ivers,
+
+<<167.61;172.75;en>>
+and Ms. Michelle Butler, counsel assisted by Ms. Catriona Vine,
+
+<<172.75;177.87;en>>
+Mr. Bryony Poynor, Mr. Kerim Yildiz, Ms. Saniye Karakas,
+
+<<177.87;181.79;en>>
+and Ms. Angela Evans, advisors.
+
+<<181.79;187.11;en>>
+Two of the applicants, Mr. Akif Hasanof and Mr. Fekhreddin
+
+<<187.11;190.75;en>>
+Pashayev, are also present.
+
+<<190.75;207.46;en>>
+The applicants being of Azerbaijani nationality, the government of Azerbaijan have expressed the wish to take part in the written and oral proceedings as a third party in conformity with Article 36, Paragraph 1 of the Convention.
+
+<<207.46;211.58;en>>
+They are represented by their agent, Mr. Chingiz Asgarov,
+
+<<211.58;216.99;en>>
+assisted by Mr. Malcolm N. Shaw QC, Mr. Gabriel Lansky,
+
+<<216.99;220.62;en>>
+Mr. Otari Gvaladze, Mr. Hannes Tretter,
+
+<<220.62;227.02;en>>
+Ms. Tatiana Urdaneta Wittek, and Mr. Orkhan Ismayilov, advisor.
+
+<<227.02;232.78;en>>
+I welcome the representatives in the name of the court.
+
+<<232.78;238.78;en>>
+I also welcome delegations from the Turkish High Council of Judges and Prosecutors.
+
+<<238.78;250.28;en>>
+Having consulted the agents of the governments and the representatives of the applicants, I have determined the order of addresses as follows.
+
+<<250.28;254.99;en>>
+Mr. Muller QC for the applicants will speak first.
+
+<<254.99;257.87;en>>
+Then Mr. Kostanyan for the Armenian government.
+
+<<257.87;262.38;en>>
+And finally, Mr. Asgarov for the third party government.
+
+<<262.38;277.5;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Turkish has been authorized for the benefit of the group of Turkish judges and prosecutors.
+
+<<277.5;280.87;en>>
+That interpreting is not arranged by the court.
+
+<<280.87;289.26;en>>
+And no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<289.26;290.99;en>>
+I call Mr. Muller QC.
+
+[[Applicant;AP2]]
+
+<<293.28;299.52;en>>
+Mr. President, this case concerns an application by six Azeri Kurds who were forced to leave
+
+<<299.52;311.94;en>>
+their homes in Lachin in Nagorno-Karabakh after it came under attack and was ethnically annexed by Armenian-backed forces on the 18th of May, 1992.
+
+<<311.94;325.86;en>>
+They have been prevented from returning ever since, and therefore they complain that the loss of control over their property constitutes continuing violations by Armenia of Article 1, Protocol 1 and Article 8.
+
+<<325.86;339.08;en>>
+As the Court rightly noted in its judgment of 2011, it does not appear to be in dispute that the applicants had no access to their alleged homes and property since May of 1992.
+
+<<339.08;353.48;en>>
+Rather, the most contentious issues appear to be the exhaustion of domestic remedies and whether the respondent exercised overall control over Nagorno-Karabakh through a subordinate administration.
+
+<<353.48;361.88;en>>
+Mr. President, I will address you on exhaustion, Mr. Swarup on effective control, Mr. Ivers
+
+<<361.88;369.8;en>>
+on the merits, including victim status, while Michelle Butler stands ready to help with replies.
+
+<<369.8;375.8;en>>
+Let me first of all say a few words about what this case is and is not about.
+
+<<375.8;393.64;en>>
+We say this case is about impunity, the potential opening up of a human rights lacuna within convention machinery, and whether this Court is able to protect the rights of the most disadvantaged in our society during times of conflict and political transition.
+
+<<393.64;404.96;en>>
+For there can be no more disadvantaged category of persons than that of IDPs who have been forcibly removed from their land and their lives for the better part of two decades.
+
+<<404.96;414.4;en>>
+They have been condemned to a transitive, sancti-town existence with no hope of a better life other than through this Court.
+
+<<414.4;428.56;en>>
+Theirs is a fate that the people of Armenia know about all too well, and it is one that Armenia rightly reminds the world should never befall a minority population in Europe again.
+
+<<428.56;441.12;en>>
+It is important to note, however, that while this case may have profound consequences for the integrity of the European public order, it does not raise any novel points of law.
+
+<<441.12;457.28;en>>
+The respondents submit that the effect of control implies, and I quote, detailed direction or control over specific operations of the controlled entity, but there is no basis for departing from the settled case law of the Court.
+
+<<457.28;465.48;en>>
+The attempt to apply a different legal test legally obfuscates matters and detracts from the factual task at hand.
+
+<<465.48;477.64;en>>
+The applicant's primary case on jurisdiction is that Armenia exercises overall control over Nagorno-Karabakh through a subordinate local administration, as per Alasku.
+
+<<477.64;485.64;en>>
+It is therefore not necessary to show that Armenia controls every action in the NKR in detail.
+
+<<485.64;489.44;en>>
+This is entirely a question of fact, not law.
+
+<<489.44;498.88;en>>
+And in this regard, the Court should note the respondents' persistent failure to engage with either the applicant or the Court's question on effective control.
+
+<<498.88;502.92;en>>
+Take for example the following unrebutted admission.
+
+<<502.92;512.16;en>>
+In December 1989, the Armenian government declared to the world Nagorno-Karabakh to be an enclave to be part of a unified Armenian republic.
+
+<<512.16;516.86;en>>
+I do not need to remind this Court what then transpired.
+
+<<516.86;536.96;en>>
+Yet on 9 June 2006, in a reply to a question of a third chamber concerning remedies, the respondent declared, the government of the Republic of Armenia insists that the territory in question, particularly Nagorno-Karabakh and the surrounding territories, are not under the jurisdiction and control of Armenia.
+
+<<536.96;540.8;en>>
+How is the Court to reconcile these two statements?
+
+<<540.8;547.44;en>>
+Did a radical shift of policy occur in which Armenia gave up its historical claim over the territory?
+
+<<547.44;551.74;en>>
+Or do these statements form part of a consistent policy?
+
+<<551.74;568.76;en>>
+We say Armenia achieved its dream of a unified republic through the occupation of Nagorno-Karabakh, but thereafter crafted a subordinate separatist state to which it now denies legal, if not political, responsibility for its acts.
+
+<<568.76;584.36;en>>
+How else are we to explain the startling admission of the Armenian defense minister in October 2000, and I quote, that the public declarations that the ARA took no part in the war were purely for foreign consumption?
+
+<<584.36;602.4;en>>
+The failure to rebut these admissions, in conjunction with the unrebutted presumptions of fact in favor of the applicants, creates strong, clear, and concordant inferences that eviscerate the respondent's claim that the NKR is a wholly independent state.
+
+<<602.4;607.36;en>>
+Mr. Swarup will take the Court through the other pillars that demonstrate overall control,
+
+<<607.36;642.24;en>>
+but even if one was to apply a more detailed test, the applicants would still be able to demonstrate the respondent exercised detailed control over the NKR's policy towards Azeri IDPs, from the respondent's preventative policy towards their return, to the failed submission of the NKR legislature extinguishing property rights of the applicants in 1998, on to the 2012 new claim that the applicants were always at liberty to enter Armenia and Nagorno-Karabakh to file claims.
+
+<<642.24;661.24;en>>
+Indeed, far from establishing legal independence, the recently filed party pre-evidence of NKR officials merely demonstrates how easy it is for the respondent to subordinate those officials to its policy and legal needs as and when it needs to do so.
+
+<<661.24;679.92;en>>
+One need look no further than in the admission of Armenian IDPs from Syria into Nagorno-Karabakh after Armenia decided to take them in to find compelling evidence of the respondent's control over the return of IDPs to that territory.
+
+<<679.92;682.96;en>>
+Let me then turn to the issue of exhaustion.
+
+<<682.96;691.36;en>>
+The applicants say there were no identifiable remedies, let alone effective ones, to exhaust when they lodged their application.
+
+<<691.36;699.6;en>>
+As the Act of Aronilovsky makes clear, the applicant is only obliged to have recourse to remedies that are both accessible and effective.
+
+<<699.6;715.32;en>>
+Where a government alleges that the applicant has not exhausted domestic remedies, the burden falls upon it to prove that the remedy in question was an effective, available one capable of providing redress and which offered reasonable prospects of success.
+
+<<715.32;722.92;en>>
+That burden must also be had to the circumstances of the legal and political environment and the applicants.
+
+<<722.92;726.4;en>>
+On 9 June, the third section asked this question.
+
+<<726.4;733.12;en>>
+What remedies were or are still available to the applicants and would these remedies be effective?
+
+<<733.12;742.6;en>>
+In response, the respondent failed to identify any remedies and for seven years wrongly asserted that it was for the applicant to prove a negative.
+
+<<742.6;752.28;en>>
+This is a fundamental error of law and is demonstrative of the respondent's misconceived approach to the entire question of remedies.
+
+<<752.28;768.16;en>>
+As early as 27 February 2007, the applicants made clear that the government bore the burden of proof, that an administrative practice existed, and asked the Court to note the ethnicity of alleged returnees.
+
+<<768.16;776.2;en>>
+The respondent replied by citing several cases where people of Kurdish and Azeri nationality had applied to the respondent courts.
+
+<<776.2;784.32;en>>
+However, none of these cases relate to the right to return or the use of enjoyment of property.
+
+<<784.32;790.2;en>>
+At no stage either did the applicants claim that they were free to enter to pursue their rights.
+
+<<790.2;809.32;en>>
+In fact, at paragraph 26 and 33 of those submissions, it said, firstly, it was not prepared to recognize the claims of displaced people until a comprehensive final solution was agreed, including those of the applicants, and that the IDP issues had already been submitted to the OSCE.
+
+<<809.32;816.26;en>>
+Both these points were repeated in May 2010 and therefore represent settled policy.
+
+<<816.26;831.12;en>>
+We say this evidence, read together with the OSCE and UN resolutions and other reports, as a matter of official Armenian policy, that the applicants are not permitted or able to permanently return to their homes.
+
+<<831.12;841.12;en>>
+This refusal reflects an acknowledged official policy which amounts to administrative practice rendering any remedies theoretically available to them ineffective.
+
+<<841.12;850.28;en>>
+Indeed, many of the international reports relied upon, and not only well-researched, but prepared by reputable bodies, with access to intelligence.
+
+<<850.28;855.56;en>>
+The fact that the contents are not denied, but merely described as hearsay, speaks volumes.
+
+<<855.56;861.44;en>>
+Moreover, the territory from which the applicants were driven out remains a conflict zone.
+
+<<861.44;871.32;en>>
+It follows that without an internationally recognized right of return, any claim the applicants could have lodged in the courts of Armenia or Nagorno-Karabakh was bound to fail.
+
+<<871.32;880.04;en>>
+Thus, even if the respondents had identified an appropriate remedy, the prospects of reasonable sex would have been minimal.
+
+<<880.04;894.8;en>>
+Before 2012, the respondents asserted that the applicants' property rights had been extinguished by the enactment of local NKR laws, and that any remedy lay not with this court but the Minsk process.
+
+<<894.8;898.84;en>>
+Both of these submissions were rejected by the Grand Chamber.
+
+<<898.84;911.24;en>>
+After that judgment, however, the respondent recast its position on exhaustion for the first time and claimed that the applicants were always at liberty to enter Armenia and NKR to lodge claims.
+
+<<911.24;913.4;en>>
+No explanation was proffered.
+
+<<913.4;921.64;en>>
+We say that's because the respondent still held to an administrative practice that denied Azeri refugees the right to return.
+
+<<921.64;937.64;en>>
+But in order to make its 2012 submission work, it was forced to make a vacuous distinction between Azeri IDPs as a class of people who wish to return to their homeland, and those individuals who may wish to return to exercise their individual rights.
+
+<<937.64;942.2;en>>
+That with respect is a distinction without intellectual import.
+
+<<942.2;954.08;en>>
+The established rule is to consider exhaustion when the application was lost, and there is no retrospective legislation here to address historical wrongs.
+
+<<954.08;957.52;en>>
+Therefore there is no basis for departing from the normal rule.
+
+<<957.52;971.44;en>>
+More than to the point, it ill behoves the respondents to suggest the applicants should have known that they were at liberty to return when its own representatives did not even make this point until seven years after the application was lodged.
+
+<<971.44;979.64;en>>
+Even if that were not the case, the Armenian Land Code does not begin to adequately address the violations suffered by the applicants.
+
+<<979.64;987.76;en>>
+It cannot possibly convey the separate and additional right to return home to enjoy one's personal property and private life.
+
+<<987.76;1000.46;en>>
+The submission that these provisions amount to accessible and effective remedies, like its submission as to the relative ease of travel by persons of Azeri ethnicity to Armenia, are devoid of credibility.
+
+<<1000.46;1010.4;en>>
+So too is the complaint that they rely upon abstract arguments about minefields, settlers, and the absence of diplomatic relations.
+
+<<1010.4;1013.76;en>>
+That are real borders for IDPs.
+
+<<1013.76;1031.24;en>>
+As to the human rights defender capacity, the defender has singly failed to do anything to alleviate the plight of the applicants, and we point to the UN Special Rapporteur's report concerning the office and its dwindling organization.
+
+<<1031.24;1035.04;en>>
+That leaves the purported independent nature of the judicial system.
+
+<<1035.04;1042.6;en>>
+This very court has expressed serious concerns in several cases as to the independence and effectiveness of Armenian courts.
+
+<<1042.6;1061.18;en>>
+One need go no further than to the respondents' silence concerning a question posed by this court as to whether any documented examples of Azerbaijan's citizens of Azeri or Kurdish ethnicity were able to return to the district of Lachin to obtain access to their properties.
+
+<<1061.18;1074.16;en>>
+We say the respondents' new claim of exhaustions is about as dissembling as its claim to operate a dual passport system in circumstances where it hasn't even diplomatically recognized the NKR as a state.
+
+<<1074.16;1078.44;en>>
+Mr. President, we submit this case tests the Convention's ability to protect the rights
+
+<<1078.44;1080.6;en>>
+of the most vulnerable.
+
+<<1080.6;1087.72;en>>
+More broadly, the alert suspects a violating state's being given a road map by which to avoid Convention obligations.
+
+<<1087.72;1091.12;en>>
+The respondent seeks to hide behind a vacuum it created.
+
+<<1091.12;1094.4;en>>
+This should not be allowed to stand.
+
+<<1094.4;1100.2;en>>
+My client's journey has been a remarkable one, of hardship but also in the faith of Europe.
+
+<<1100.2;1103.24;en>>
+It is a journey that has led them to this grand chamber.
+
+<<1103.24;1113.12;en>>
+All they ask is for this court to apply its rule equitably, having regard to their status and the Convention's special character as an instrument of European public order.
+
+<<1113.12;1123.24;en>>
+If this happens, we have little doubt that this court will see fit to uphold their claims, thereby vindicating the legal and political purpose that this Convention was designed to serve.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1128.17;1133.63;en>>
+Mr. Muller, I give the floor to Mr. Swaroop. Is that correct?
+
+<<1133.63;1133.63;en>>
+Yes.
+
+[[Applicant;AP4]]
+
+<<1136.99;1142.37;en>>
+I shall address the law and facts in relation to the effective control case.
+
+<<1142.37;1148.83;en>>
+The applicants maintain an alternative state agent case as set out in the written submissions.
+
+<<1148.83;1154.51;en>>
+For brevity, I shall abbreviate Nagorno-Karabakh to NK.
+
+<<1154.51;1158.27;en>>
+The law as to effective control is now well established.
+
+<<1158.27;1180.33;en>>
+In Al-Skhaini, this court repeated that a state's Article I obligation to secure the rights and freedoms set out in the convention derived from the fact of a state's effective control over an area, whether it be exercised directly through the contracting state's own armed forces or through a subordinate local administration.
+
+<<1180.33;1195.21;en>>
+Where the fact of such domination over the territory is established, I quote, it is not necessary to determine whether the contracting state exercises detailed control over the policies and actions of the subordinate local administration.
+
+<<1195.21;1208.93;en>>
+The fact that the local administration survives as a result of the contracting state's military and other support in itself entails that state's responsibility for its policies and actions.
+
+<<1208.93;1215.67;en>>
+The rationale for the effective control principle is the effective protection of human rights.
+
+<<1215.67;1226.09;en>>
+There should be no human rights vacuum within the territory of one convention state, such as Azerbaijan, which is controlled by another convention state, such as Armenia.
+
+<<1226.09;1239.79;en>>
+Furthermore, a state which agrees to the convention and which then chooses to create or sustain a separatist regime elsewhere should strive to secure the convention rights within that territory.
+
+<<1242.71;1263.01;en>>
+As to the Respondent's case, in its July 2012 submissions, after five years of this litigation, it has sought to introduce the novel argument that effective control implies detailed direction or control over specific operations of the controlled entity.
+
+<<1263.01;1274.83;en>>
+This court has never said or implied that, but it has stated precisely the opposite on numerous occasions, including in the passage that I just quoted from Al-Skaini.
+
+<<1274.83;1287.95;en>>
+In Lwazidu, the court held that Turkey was responsible for the acts of a separatist regime in northern Cyprus, because regardless of detailed control, it had overall control over that area of the island.
+
+<<1287.95;1292.51;en>>
+See in particular paragraphs 52 to 56 of the judgment.
+
+<<1292.51;1315.63;en>>
+And in Ilashku, the court held that Russia was liable for the acts of a separatist regime in Moldova, because regardless of detailed control, it had effective control over the relevant territory based primarily on the presence of some 1,500 troops, the provision of weaponry to the regime, and certain financial support.
+
+<<1315.63;1323.59;en>>
+See in particular paragraphs 315 and paragraphs 386 to 393 of the judgment.
+
+<<1323.59;1337.87;en>>
+In support of this novel argument, the Respondent also cites certain non-ECHR material, such as the ICJ Nicaragua judgment relating to general principles of attribution of state responsibility.
+
+<<1337.87;1339.95;en>>
+That material does not assist.
+
+<<1339.95;1355.59;en>>
+The precise issue here is the construction of the word jurisdiction in Article I of the Convention, rather than the general public international law principles of state responsibility, which themselves, as evident from the Respondent's own material, are not settled.
+
+<<1355.59;1362.23;en>>
+In any event, this court is entitled to and should continue to construe Article I precisely as it has been doing.
+
+<<1362.23;1369.35;en>>
+That is, with special regard to the purpose of the Convention as an instrument for the protection of human rights.
+
+<<1369.35;1375.79;en>>
+There is no reason for this court to overturn its clear, settled jurisprudence.
+
+<<1375.79;1380.39;en>>
+As to the facts of the case, they are even more compelling than Elashku.
+
+<<1380.39;1390.99;en>>
+I refer to the evidence cited in paragraphs 41 to 84 of the applicant's October 2013 submissions and highlight eight matters in particular.
+
+<<1390.99;1409.75;en>>
+First, in a March 2010 newspaper interview, the Respondent's president, Sargsyan, stated that in certain circumstances, the Respondent, quote, would consider the return of the security zone regions around NK, which regions, of course, include Lachin.
+
+<<1409.75;1414.87;en>>
+The Respondent could only consider the return of those regions if it controlled them in the first place.
+
+<<1418.43;1426.39;en>>
+Secondly, various international sources have described NK and the surrounding areas as being occupied by the Respondent.
+
+<<1426.39;1437.99;en>>
+For example, a January 2012 European Union information note referred to, quote, the occupation of 20% of Azerbaijani territory by its neighbor.
+
+<<1437.99;1443.23;en>>
+Thirdly, there is the analysis of the world-renowned International Institute of Strategic Studies.
+
+<<1443.23;1461.87;en>>
+Its 2013 report concluded, quote, since 1994, Armenia has controlled most of NK and seven adjacent territories of Azerbaijan, often called the occupied territories, and that Armenia provides political, military, and economic support to NK.
+
+<<1461.87;1473.95;en>>
+Fourthly, the 2008 analysis by Charles Blandy from the Defense Academy of the United Kingdom, which concluded only 8,500 citizens from NK serve in the NK army.
+
+<<1473.95;1476.99;en>>
+Some 10,000 come from Armenia.
+
+<<1476.99;1481.71;en>>
+Between the armed forces of Armenia and NK, a high degree of integration exists.
+
+<<1481.71;1486.79;en>>
+Yerevan supplies arms and other military necessities to Stepanakert.
+
+<<1486.79;1490.35;en>>
+The support offered by Armenia is an open secret.
+
+<<1490.35;1498.71;en>>
+Yet Yerevan maintains that in NK and in the occupied Azeri territories around NK, there is not one military subunit.
+
+<<1498.71;1503.39;en>>
+Fifthly, there is the 2005 report from the International Crisis Group.
+
+<<1503.39;1508.15;en>>
+NK is highly dependent on Armenia for its military security and economic survival.
+
+<<1508.15;1511.23;en>>
+Over half its army are believed to be Armenian citizens.
+
+<<1511.23;1518.79;en>>
+Yerevan covers 50% of the budget through an interstate loan that is virtually interest-free and unlikely to be paid back.
+
+<<1518.79;1525.09;en>>
+The respondent attempts to discredit that report by producing a statement from one of the sources, Mr. Richard Giragosian.
+
+<<1525.09;1530.19;en>>
+However, that statement does not actually withdraw the opinion Mr. Giragosian apparently expressed.
+
+<<1530.19;1535.07;en>>
+Instead, he insists that in Karabakh, there are definitely Armenians serving.
+
+<<1535.07;1543.67;en>>
+Sixthly, there is the visit by President Sargassian to NK in 2012 and 2013.
+
+<<1543.67;1555.07;en>>
+He undertook that the Armenian army would never be, and the defense army, would never be short of any material resources and promised that NK would have the most contemporary combat weapons.
+
+<<1555.07;1562.31;en>>
+Seventhly, as the respondent accepts, Armenian passports are issued to individuals living in the disputed area.
+
+<<1562.31;1569.49;en>>
+Finally, the respondent has established a trust known as the All-Armenian Fund, which is a further means by which it provides financial support.
+
+<<1569.49;1588.71;en>>
+Thus, there is independent, consistent, and authoritative evidence that the respondent has a substantial military presence in the disputed area, that it supplies weaponry to NK and trains its soldiers, that the NK military is dependent for its existence and its effectiveness on the respondent, that the respondent provides financial support and other support.
+
+<<1588.71;1594.47;en>>
+And without all of the above, the NK regime could not survive.
+
+<<1594.47;1598.31;en>>
+The respondent bears a heavy evidential burden to rebut all of this material.
+
+<<1598.31;1599.71;en>>
+It has not done so.
+
+<<1599.71;1601.11;en>>
+No documents.
+
+<<1601.11;1608.39;en>>
+It relies heavily on the so-called expert evidence of Dr. Bukur Marku, which in itself
+
+<<1608.39;1611.15;en>>
+is based on undocumented alleged interviews.
+
+<<1614.07;1626.23;en>>
+The witness evidence relied on is not independent, is not detailed, not corroborated, and is largely directed to the wrong legal test in any event out of detailed control.
+
+<<1626.23;1634.03;en>>
+In summary, the NK regime survives only as a result of the respondent's military and other support, and the respondent has effective control.
+
+<<1634.03;1640.35;en>>
+To hold otherwise would be to cover up the respondent's open secret and to open up a human rights vacuum within the territory of the convention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<1646.13;1649.89;en>>
+Thank you Mr. Swaroop. I call Mr. Ivers.
+
+[[Applicant;AP1]]
+
+<<1649.69;1651.93;en>>
+Thank you, Mr. President.
+
+<<1651.93;1660.69;en>>
+With respect, we agree with the Chamber's judgment that the issues of jurisdiction, remedies, and merits are connected.
+
+<<1660.69;1666.37;en>>
+Evidence in respect of one can clearly be concurrently relevant with respect to others.
+
+<<1666.37;1668.49;en>>
+With this in mind, I turn to the merits.
+
+<<1668.49;1670.85;en>>
+I'm going to make five points.
+
+<<1670.85;1673.71;en>>
+The first one concerns the standard of proof.
+
+<<1673.71;1680.15;en>>
+The respondent government quote Orhan, which establishes that proof must be beyond a reasonable doubt.
+
+<<1680.15;1682.27;en>>
+But the matter goes a little further.
+
+<<1682.27;1693.79;en>>
+As was stated there, such proof may follow from the coexistence of sufficiently strong, clear, and concordant inferences, or of similar unrebutted presumptions of fact.
+
+<<1693.79;1700.99;en>>
+And in that context, the conduct of the parties whose evidence is being obtained has to be taken into account.
+
+<<1700.99;1720.45;en>>
+Tannis tells us that this Chamber must view what the applicants can provide evidentially against the uncontroversial, albeit pre-ratification, factual backdrop of a last-minute flight for safety, an immediate militarization of the region, and their position as refugees ever since.
+
+<<1720.45;1736.29;en>>
+And as the Court has recognized, too inflexible a standard simply rewards the more effective perpetrators of violations for the extent of control they exercise over the ability of the claimants to obtain evidence.
+
+<<1736.29;1748.99;en>>
+The applicants have submitted, secondly, that the merits have submitted sufficient evidence to show that they owned or had the right to use the property from which they were displaced in the several rounds of written pleadings to date.
+
+<<1748.99;1761.21;en>>
+We have provided detailed submissions and evidential annexes concerning their ownership of property on no less than ten occasions between 2005 and 2013.
+
+<<1761.21;1796.01;en>>
+The intervening Government has also provided valuable information which supports the veracity of the applicants' property claims in its 21 June 2010 submissions which clarified the legal technicalities of land ownership in Lachin, the result of which is to reveal that had they not been displaced and left to continue their simple mountain life, they would have achieved the ownership of the properties within the legal reforms which updated the previous Soviet model of property rights.
+
+<<1796.01;1807.85;en>>
+Contrary to the submissions of the respondent Government, this array of documentary evidence is sufficient to show that they may be rightly regarded as possessing victim status for the purposes of the European Convention.
+
+<<1807.85;1824.05;en>>
+And the documentation annexed to the legal submissions to which I have referred represents the totality of the documentation which the applicants are able to assess while they remain in their present predicament as displaced persons residing in Azerbaijan.
+
+<<1824.05;1828.97;en>>
+Mr. President, the legal representatives of the applicants encountered serious difficulties
+
+<<1828.97;1831.73;en>>
+in documenting their land ownership.
+
+<<1831.73;1835.65;en>>
+At the initial stage there was a very quick meeting with Kerem Yildiz.
+
+<<1835.65;1838.01;en>>
+It was under strict time restraints.
+
+<<1838.01;1843.25;en>>
+They didn't, the applicants, have their supporting documentation with them.
+
+<<1843.25;1851.81;en>>
+We've checked the short statements taken at the time and in their original language these simply spoke of leaving Lachin without personal possessions.
+
+<<1851.81;1856.89;en>>
+On the next visit, Mr. Yildiz was prevented by the intervening Government through no fault
+
+<<1856.89;1860.21;en>>
+of his own from entering Azerbaijan.
+
+<<1860.21;1869.97;en>>
+His assistant had to continue in difficult circumstances, hence the confusion in the subsequent statements drafted concerning when it was that the property documents were taken.
+
+<<1869.97;1877.57;en>>
+The Court will note that we're not dealing here with individuals well versed in the nuances of land law and its documentation.
+
+<<1877.57;1884.49;en>>
+We were able, actually, last night to clarify the matter with the two applicants which the Court know are here in person.
+
+<<1884.49;1889.25;en>>
+And the respondent Government are wrong to suggest that they could have left with the primary evidence of title.
+
+<<1889.25;1896.17;en>>
+Only one had that, but right in respect to the technical passports which were in fact taken with them on flight.
+
+<<1896.17;1902.53;en>>
+Mr. President, they took what one might expect somebody in their circumstances may take.
+
+<<1902.53;1910.33;en>>
+They bundled up what documents they thought to be appropriate and that miscellaneous range has been lodged with this Court.
+
+<<1910.33;1918.81;en>>
+And the fact remains that in the absence of any challenge to their authenticity, these documents speak for themselves.
+
+<<1918.81;1924.61;en>>
+And indeed the respondent Government's reach has cast a chilling effect on the preparation of the applicant's case in other respects.
+
+<<1924.61;1938.01;en>>
+Not a single expert was prepared to assist with land rights in Lachin in 1991 and 1992 for fear of being identified by the respondent Government as being involved in these Court proceedings.
+
+<<1938.01;1947.85;en>>
+I'd ask you to contrast that consistent and open approach by the applicants with that of the respondent Government in relation to the merits.
+
+<<1947.85;1965.85;en>>
+Their first in early 2006 response to the Court's questions about efforts to assert property rights said this, Nagorno-Karabakh has not adopted any legal act that deprives the applicants of their right to enter the territory of Lachin or of their right to peaceably enjoy their property.
+
+<<1965.85;1968.47;en>>
+Everything in the garden was rosy.
+
+<<1968.47;1981.41;en>>
+Then on 4 December 2006, in a reply to the question of the Court, the respondent Government stated that the properties were destroyed as a result of the military actions in 1992.
+
+<<1981.41;1996.89;en>>
+And then following the submission of satellite photographs showing the existence of the properties as submitted by the applicants with the assistance of the intervening Government in August 2010, the position of the respondent Government has changed yet again.
+
+<<1996.89;2002.65;en>>
+They were asked in May 2010 about the applicable laws as to land ownership and title.
+
+<<2002.65;2007.65;en>>
+In response there was no mention of new owners or of anything about appropriation.
+
+<<2007.65;2024.21;en>>
+And then, and I quote the Chamber in its judgment, late in the day the respondent Government asserted at the oral hearing that all the land rights had been extinguished by the authorities of the Nagorno-Karabakh Republic in 1998.
+
+<<2024.21;2029.57;en>>
+Well then why say directly otherwise in 2006 if they knew that?
+
+<<2029.57;2031.97;en>>
+And surely they must have done.
+
+<<2031.97;2044.85;en>>
+And then finally, in further submissions in July 2012, they stated that there's disputed ownership of the property and others are currently registered as owners and produced documents which they put in Appendix 27.
+
+<<2044.85;2055.97;en>>
+Although it's the Grand Chamber in its judgment already has observed that Nagorno-Karabakh Republic are not a body that could grant property rights which could be recognized in law.
+
+<<2055.97;2066.93;en>>
+So which of those five wholly inconsistent assertions by the respondent Government is this court to rely upon?
+
+<<2066.93;2074.57;en>>
+Additionally they've said that we haven't requested restitution in intogram, we have checked the documentation.
+
+<<2074.57;2078.97;en>>
+Secondly that they've not expressed the applicants a wish to return to Lachin.
+
+<<2078.97;2083.53;en>>
+Again this desire is clearly set out in the witness statements.
+
+<<2083.53;2088.17;en>>
+Mr. President the most powerful supporting evidence that the respondent Government could
+
+<<2088.17;2107.01;en>>
+have presented concerning this case in terms of rebutting all of the evidential presumptions and inferences from the material provided would be instances of IDPs returning to enjoy their property rights and they cannot point to a single one, not one.
+
+<<2107.01;2120.77;en>>
+We say that there is direct evidence which goes to support their claims concerning their inability to return and it's evidence of a deliberate and clear policy and it's one that's understandable when seen from the perspective of the Government.
+
+<<2120.77;2125.27;en>>
+The answer is to look at the matter as a whole and it's in historical context.
+
+<<2125.27;2133.09;en>>
+The displacement in 1992 of nearly all the Azeri Kurds in the area was deliberate, it wasn't accidental.
+
+<<2133.09;2135.85;en>>
+Why was it that the population left there?
+
+<<2135.85;2140.09;en>>
+These homes aren't in Nagorno-Karabakh, they're in Lachin.
+
+<<2140.09;2145.97;en>>
+The importance of Lachin isn't that it has rich farmlands or industrial complex.
+
+<<2145.97;2161.17;en>>
+By an accident of geography and by a matter of geology it is the corridor that links what the Armenian Government calls Arzak, the Nagorno-Karabakh Republic to Armenia.
+
+<<2161.17;2165.77;en>>
+And so its significance, this small area, is military and strategic.
+
+<<2165.77;2186.21;en>>
+Without it, Nagorno-Karabakh is an island in Azerbaijan and so the comments that you've already heard about and that we've put into the written submissions concerning the unity of the Armenian state between those two aspects has to be seen in the context that Lachin is uncomfortably in the middle.
+
+<<2186.21;2189.65;en>>
+There is also further evidence of a specific policy.
+
+<<2189.65;2201.93;en>>
+The settlement of the area has been encouraged by the Armenian Ministry of Diaspora, referred to in written submissions, and that's evidence capable of supporting the merits of the applicant's claim when you think about it.
+
+<<2201.93;2209.33;en>>
+Because they're being systematically excluded, which at minimum, we put it, facilitates the settlement by others.
+
+<<2209.33;2220.47;en>>
+What of the report at which the intervening government produced of a Syrian Armenian stating this, at the Ministry of Diaspora we were asked if we wanted to go to Karabakh.
+
+<<2220.47;2222.33;en>>
+What is Karabakh?
+
+<<2222.33;2227.73;en>>
+A cancer, a house, a job, livestock.
+
+<<2227.73;2230.61;en>>
+But Mr. President, whose house?
+
+<<2230.61;2235.69;en>>
+Why are there so many empty houses available?
+
+<<2235.69;2241.13;en>>
+Article 8 is engaged because these weren't properties, they were homes as well.
+
+<<2241.13;2249.77;en>>
+The applicants simply seek a declaration of their rights, restitution, or if not, practical compensation and just satisfaction.
+
+<<2249.77;2257.57;en>>
+We are mindful of the criticisms concerning the detail of our claim for just satisfaction and the arithmetic deployed within that claim.
+
+<<2257.57;2261.93;en>>
+Equally, we do not accept those criticisms as negating the claim.
+
+<<2261.93;2277.33;en>>
+We do accept further work may need to be done, and that work can be done, and we suggested that an expert report could be obtained, or if permitted to do so, we could file a corrigendum report to this claim within 15 days of the hearing.
+
+<<2277.33;2304.29;en>>
+And so to conclude, and I'll be seconds, it's time to acknowledge this wrong, to stop blaming the victims for their predicament, and accept what every informed observer recognizes, that they are refugees, helpless in a complex territorial and geopolitical argument in respect of which they have little or no influence.
+
+<<2304.29;2315.33;en>>
+They have lost their homes, lost their communities, and been unable to return, when in a single legislative act the respondent government could clearly allow their return.
+
+<<2315.33;2321.97;en>>
+Instead, they are entertained to the sight of others being encouraged to take their homes.
+
+<<2321.97;2327.41;en>>
+It's time, Mr. President, they had justice.
+
+<<2327.41;2327.41;en>>
+Thank you very much.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2328.45;2333.17;en>>
+Thank you, Mr. Ivers. I call Mr. Kostanyan.
+
+[[Government;GR1]]
+
+<<2337.33;2339.53;en>>
+Thank you, Mr. President.
+
+<<2339.53;2346.99;en>>
+With your permission, the position of the respondent will be presented by Mr. Robertson.
+
+<<2346.99;2346.99;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2348.7;2349.59;en>>
+Mr. Robertson.
+
+[[Government;GR2]]
+
+<<2349.7;2353.64;en>>
+Yes, Mr. President and your learned colleagues.
+
+<<2353.64;2365.16;en>>
+Article 35, the requirement to exhaust domestic remedies, is an obligation this court has described as primordial and fundamental.
+
+<<2365.16;2371.72;en>>
+Because your jurisdiction is supervisory, and you can't function as a court of first instance.
+
+<<2371.72;2378.2;en>>
+You've just heard the applicant say, of course, our claim isn't formulated.
+
+<<2378.2;2382.44;en>>
+It needs further work, perhaps an expert, and so forth.
+
+<<2382.44;2384.76;en>>
+Of course, it needs further work.
+
+<<2384.76;2393.36;en>>
+And that work is appropriately done at first instance courts in Nagorno-Karabakh and Armenia.
+
+<<2393.36;2405.32;en>>
+In the Dimopoulos case, this court said that states, I quote, must have the opportunity to put matters right through their own legal system.
+
+<<2405.32;2411.68;en>>
+Now, in this case, Article 35 is actually no mere technical rule.
+
+<<2411.68;2415.0;en>>
+There can be no peace without justice.
+
+<<2415.0;2443.44;en>>
+And the only way forward for this wretched, intractable conflict that diplomats can't solve is if the domestic courts of Armenia, Nagorno-Karabakh, and Azerbaijan are allowed to demonstrate that they can do justice, independent and impartial justice, in Armenia's case, in Nagorno-Karabakh's case, to Azeri claimants just like the applicants.
+
+<<2443.44;2452.92;en>>
+Their judges and their lawyers in our witness statements assert that they are ready, willing, and able to do justice to these applicants.
+
+<<2452.92;2476.48;en>>
+By giving these courts that opportunity to show that the rule of law can surmount old ethnic hatreds and suspicions, this court could offer a positive step forward in conflict resolution by showing that the rule of law can succeed, not armies acquiring more arms.
+
+<<2476.48;2492.36;en>>
+And that is why it is so important that the domestic courts be given the opportunity to show that they can do justice to the dispossessed, no matter what ethnicity they bear.
+
+<<2492.36;2499.92;en>>
+Now, at least we are in no dispute about the law relating to Article 35.
+
+<<2499.92;2512.64;en>>
+We bear the burden of showing that there are appropriate and available remedies in Armenia and Nagorno-Karabakh for the convention claims raised by the applicant.
+
+<<2512.64;2519.04;en>>
+But then, the burden shifts to them to show that they've tried to access them.
+
+<<2519.04;2520.24;en>>
+Well, they haven't.
+
+<<2520.24;2521.92;en>>
+And they admit that they haven't.
+
+<<2521.92;2530.32;en>>
+They haven't lifted a finger to inquire about what's available to them in Nagorno-Karabakh and Armenia.
+
+<<2530.32;2539.12;en>>
+At paragraph 151 of their latest submissions, they say, oh, that we're ignorant of the law of Armenia and Nagorno-Karabakh.
+
+<<2539.12;2540.8;en>>
+We're lawyers from London.
+
+<<2540.8;2543.84;en>>
+Well, that's all very well.
+
+<<2543.84;2550.52;en>>
+There are more concerns and more lawyers in Europe than are in London.
+
+<<2550.52;2553.16;en>>
+There are lawyers in Nagorno-Karabakh and Armenia.
+
+<<2553.16;2554.2;en>>
+There are judges.
+
+<<2554.2;2558.88;en>>
+And they've made witness statements, saying these remedies are available.
+
+<<2558.88;2565.52;en>>
+Are they lying, these respected and distinguished judges and lawyers, heads of the local bar associations?
+
+<<2565.52;2567.62;en>>
+Of course not.
+
+<<2567.62;2581.44;en>>
+Now, these applicants say, and their claim is disputed, but let's accept it, that they're owners of land and houses wrongfully dispossessed in 1992 by the Armenian army.
+
+<<2581.44;2605.68;en>>
+The evidence actually shows that the army that they thought was Armenian was, in fact, the Nagorno-Karabakh Defense Force, a body that was forged famously in defending the siege of Stepanakert, one of the most hideous European post-war crimes, the rivaling Srebrenica with the attacks on women and children from Sushi.
+
+<<2605.68;2620.4;en>>
+But let's assume that they can make out their facts, either that it was the Armenian forces or that their land is in the control of the Nagorno-Karabakh authorities.
+
+<<2620.4;2622.76;en>>
+What are their available remedies?
+
+<<2622.76;2626.44;en>>
+In Armenia, they can sue the army for damages.
+
+<<2626.44;2632.64;en>>
+They can get compensation for wrongful destruction of their homes and for their distress.
+
+<<2632.64;2638.36;en>>
+There's no doubt that they can sue the army for wrongful damage done abroad.
+
+<<2638.36;2644.48;en>>
+We, in our statements, have set out the Constitution, right to property, and Article 8.
+
+<<2644.48;2647.44;en>>
+Armenia adopts the European Convention.
+
+<<2647.44;2652.76;en>>
+Its courts actually offer exactly the remedies that they seek.
+
+<<2652.76;2663.64;en>>
+Article 114 of the Land Code, adopted in 2001, all disputes about land are subject to judicial procedures.
+
+<<2663.64;2678.04;en>>
+The Land Code of 1991, full compensation and damage caused to citizen or property is entitled to full compensation under Article 276.1 of the Civil Code.
+
+<<2678.04;2680.72;en>>
+That's in our evidence.
+
+<<2680.72;2688.52;en>>
+We set out the compensation claims pursuant to the convention that you can get in Armenia.
+
+<<2688.52;2700.72;en>>
+In Nagorno-Karabakh, they can sue, as other Azeris have done successfully, to have their land re-registered in their name.
+
+<<2700.72;2711.72;en>>
+In other words, in Nagorno-Karabakh, people in exactly the position of these applicants have had their homes restored.
+
+<<2711.72;2720.76;en>>
+From the Nagorno-Karabakh Defense Force in possession, the court has ordered them to be re-registered in their names.
+
+<<2720.76;2738.08;en>>
+So we can find in the Nagorno-Karabakh evidence they have a constitutional right to property under Article 9 of the Constitution, and they have remedies in Nagorno-Karabakh under the Civil Code.
+
+<<2738.08;2743.6;en>>
+And the judges and the lawyers assert that they are ready, willing, and able to do that.
+
+<<2743.6;2761.68;en>>
+Our evidence in witness statements discharges our burden of showing that there are accessible courts, willing lawyers, and remedies with a reasonable prospect of success if they can establish the factual basis of their claim.
+
+<<2761.68;2769.32;en>>
+And that evidence includes evidence from the Office of the Human Rights Defenders.
+
+<<2769.32;2775.04;en>>
+She confirms that she would assist the claimants if they asked.
+
+<<2775.04;2779.12;en>>
+They complain that she hasn't taken action of her own volition.
+
+<<2779.12;2784.2;en>>
+Well, of course she needs to be asked by the applicants.
+
+<<2784.2;2790.2;en>>
+There's evidence from the Public Defender's Office in Armenia that they've acted for Azeris.
+
+<<2790.2;2804.6;en>>
+Evidence from the president of the Armenia Chamber of Advocates says, of course, lawyers in Armenia take cases from any persons without fear if the case is against the state.
+
+<<2804.6;2818.0;en>>
+In fact, one Armenian lawyer, a very experienced lawyer, whose name is Anahit Sargason, is actually very excited at the prospect of taking this very case.
+
+<<2818.0;2836.92;en>>
+And she explains that we uphold the general ethical duty followed by both civil and common lawyers alike that lawyers must not refuse to act on the basis of the nationality of their client or because the government is the respondent.
+
+<<2836.92;2847.12;en>>
+So there awaiting in Armenia are the courts, the judges, and the lawyers ready to process this claim.
+
+<<2847.12;2858.64;en>>
+And so why has what we've shown, we've proved that the courts are there, accessible remedies.
+
+<<2858.64;2878.88;en>>
+What is the reason why they haven't flown to Yerevan, an important European city served by many European airlines where the deputy foreign minister affirms that they have never denied entry to Azerbaijani citizens as a policy.
+
+<<2878.88;2888.84;en>>
+Any Azeri can obtain a visa for five euros at the airport and can go and hire local lawyers to begin their case.
+
+<<2888.84;2897.44;en>>
+Well, it's rather confusing because they talk about a general policy.
+
+<<2897.44;2904.76;en>>
+There's no general policy to deny Azerbaijani citizens entry to Yerevan.
+
+<<2904.76;2907.36;en>>
+That's nonsense, never been suggested.
+
+<<2907.36;2917.52;en>>
+So they can come to Yerevan, the capital of Armenia, and take legal advice and begin their action in the Armenian courts.
+
+<<2917.52;2919.48;en>>
+That's proved.
+
+<<2919.48;2930.6;en>>
+And the Armenian courts have jurisdiction over the army and can order compensation for any wrongdoing wherever in the world it's been perpetrated.
+
+<<2930.6;2934.16;en>>
+And they have independent judges and they have the convention.
+
+<<2934.16;2939.96;en>>
+So how is it that they haven't taken action?
+
+<<2939.96;2945.0;en>>
+They say that, oh, it's telling.
+
+<<2945.0;2954.12;en>>
+It's telling that no Azeri has ever succeeded in an Armenian court to recover property.
+
+<<2954.12;2954.72;en>>
+Is it telling?
+
+<<2954.72;2956.2;en>>
+What does it tell?
+
+<<2956.2;2967.96;en>>
+Maybe it tells that, in fact, the Armenian army wasn't involved, the fact situation was that it was the Nagora Karabakh Defense Force.
+
+<<2967.96;2971.32;en>>
+And that's why no Azeri has brought action.
+
+<<2971.32;2990.12;en>>
+Perhaps the Azeris who have a good case, or any who have a good case, have been deterred by the mistakes and misunderstandings that these applicants and their lawyers have labored under, that they can't somehow bring an action in Armenia.
+
+<<2990.12;3011.32;en>>
+So it may be telling that they have no good claims to bring, or it may be telling that they've been given mistaken advice by lawyers who admit that they don't have expertise in the legal systems of Armenia or Nagora Karabakh.
+
+<<3011.32;3019.36;en>>
+So that is no excuse for failing to exhaust domestic remedies if you have one.
+
+<<3019.36;3023.72;en>>
+No excuse that your lawyers don't understand the local law.
+
+<<3023.72;3026.44;en>>
+No excuse that you're poor.
+
+<<3026.44;3037.4;en>>
+It's no excuse that you don't know or don't fully understand what your rights are.
+
+<<3037.4;3047.72;en>>
+If any applicant could evade Article 35 by pleading poverty or the incapacity of its legal advisors, then the article would become a dead letter.
+
+<<3047.72;3058.52;en>>
+And the court itself would have to take on the burden of sifting the evidence, which should be done, of course, through local domestic courts.
+
+<<3058.52;3085.96;en>>
+It is, as I say, had these London-based lawyers who say, in excusing the fact that they haven't taken any action, that they're ignorant of Armenian and Nagora Karabakh law, had they bothered to come to Euroban, they would have found the bar and the bench as independent and as unafraid to take on the government as in the UK.
+
+<<3085.96;3102.44;en>>
+That concession, incidentally, that they didn't know Armenian or Nagora Karabakh law is found in paragraphs 151 and 152 of their October 6 statement last year.
+
+<<3102.44;3109.68;en>>
+Turning to the remedies available in Nagora Karabakh, the applicants are free to sue there.
+
+<<3109.68;3120.12;en>>
+And the evidence that we've put on from law defenders in Stepanakert might persuade them that they had a case they could bring.
+
+<<3120.12;3121.16;en>>
+And they can bring.
+
+<<3121.16;3122.66;en>>
+They're free to sue.
+
+<<3122.66;3125.36;en>>
+They can obtain not only compensation.
+
+<<3125.36;3127.96;en>>
+This is important for their remedy.
+
+<<3127.96;3132.32;en>>
+In Nagora Karabakh, the court can restore their land.
+
+<<3132.32;3138.72;en>>
+It will order the local authority to re-register the land in their favor.
+
+<<3138.72;3141.76;en>>
+There's an independent court system in Nagora Karabakh.
+
+<<3141.76;3146.02;en>>
+All our evidence shows it applies the European Convention.
+
+<<3146.02;3161.3;en>>
+The president of the Supreme Court and the local judge in Lachin, who's made a statement, say that the applicants are free to commence their action, that their remedies would include an order for repossession of their land.
+
+<<3161.3;3172.0;en>>
+So the Lachin judge said in terms that he would order a discovery of government documents and allow them to cross-examine any government witness.
+
+<<3172.0;3176.88;en>>
+He's at appendix nine of our 2012 submission.
+
+<<3176.88;3187.88;en>>
+The chairman of the new, of the NK Chamber of Advocates says he's acted in the past for his areas and he would act for them in land claims.
+
+<<3187.88;3210.3;en>>
+And what is so important, particularly having heard from the applicant's lawyers that we can't point to one case of an exeri succeeding, not true, we point to two cases which are almost identical to the claim.
+
+<<3210.3;3222.74;en>>
+These cases, Zafarov, he was an exeri who had lived in a house built by his father in 1961, in Nagora Karabakh.
+
+<<3222.74;3225.34;en>>
+He fled as the war heated up.
+
+<<3225.34;3231.42;en>>
+And then in 1991, he asked NK authorities whether he could return.
+
+<<3231.42;3236.14;en>>
+They assured him that he could, that there was no ban on visiting NK.
+
+<<3236.14;3242.74;en>>
+In 2005, he returned, identified his house and asked the authority to give it back.
+
+<<3242.74;3244.38;en>>
+The authority refused.
+
+<<3244.38;3245.94;en>>
+He took the case to court.
+
+<<3245.94;3258.06;en>>
+After careful examination of his claim, the court granted him an order, declaring him the owner of the land and the house and ordering the government authority to register it in his name.
+
+<<3258.06;3264.66;en>>
+So he had exactly the remedy that these claimants claim that they can't get.
+
+<<3264.66;3266.74;en>>
+He went back, no problem.
+
+<<3266.74;3268.9;en>>
+So too did Mr. Aleev.
+
+<<3268.9;3273.62;en>>
+He fled in 1990, stayed in Russia in 2002.
+
+<<3273.62;3279.3;en>>
+He says he made inquiries, discovered there was no prohibition on him visiting.
+
+<<3279.3;3290.46;en>>
+He sought registration and the court ordered the Nagora Karabakh army to re-register the land they were occupying in his name.
+
+<<3290.46;3312.18;en>>
+So these two cases, and we give the details of them, show conclusively that Azeris, in exactly the same position as the applicants, have domestic remedies in Nagora Karabakh, which are accessible, effective, and provide a reasonable prospect of success because they did succeed.
+
+<<3312.18;3315.66;en>>
+Mr. Zafarov and Mr. Aleev read their cases
+
+<<3315.66;3327.62;en>>
+and there's a complete reputation of the claims that they couldn't come back to Nagora Karabakh and that they don't have domestic remedies there.
+
+<<3327.62;3332.9;en>>
+They say, oh, the Armenian authorities will refuse us the right to return.
+
+<<3332.9;3353.06;en>>
+We put on a statement, Appendix 13, from the Minister of Nagora Karabakh explaining that that was a bargaining chip in the Minsk negotiations, had nothing to do with the rights of individual Azeris to come back to Nagora Karabakh and claim their land.
+
+<<3353.06;3363.34;en>>
+Two cases we've given exactly almost the same as these applicants where they have got their land back from the Nagora Karabakh courts.
+
+<<3363.34;3371.1;en>>
+So Zafarov and Aleev cases prove that domestic remedies are theirs for the asking.
+
+<<3371.1;3378.98;en>>
+They've just never asked, they've never inquired of lawyers who have any knowledge of what's going on in Nagora Karabakh.
+
+<<3378.98;3385.26;en>>
+Of course, 11,000 tourists leave from Stepanakert to go to Stepanakert each year.
+
+<<3385.26;3389.9;en>>
+It's a wonderful place with thousand-year-old churches and so forth.
+
+<<3389.9;3394.98;en>>
+It's ridiculous to suggest that there's any difficulty in getting there.
+
+<<3394.98;3401.74;en>>
+Baroness Cox, who runs a charity there, makes a statement to that effect.
+
+<<3401.74;3419.22;en>>
+So, but the applicants say, at paragraph 151, and I quote, moreover, for the avoidance of doubt, the lawyers working on the case are qualified in the UK and do not have expertise in the legal system of Armenia or NK, unquote.
+
+<<3419.22;3424.78;en>>
+This can't be a ground for exemption from the requirement to exhaust domestic remedies.
+
+<<3424.78;3442.14;en>>
+Otherwise, anyone who chooses to complain against any state would say, oh, I'm absolved from compliance with Article 35 because I'm poor and my lawyers are underfunded and don't know anything about the domestic law remedies they're meant to exhaust.
+
+<<3442.14;3449.1;en>>
+If that plea were ever upheld by the court, Article 35 would simply be a dead letter.
+
+<<3449.1;3462.94;en>>
+So let us conclude on this first point by saying that our evidence shows the courts of Armenia and Nagorno-Karabakh are independent and impartial.
+
+<<3462.94;3465.66;en>>
+They do afford these remedies.
+
+<<3465.66;3472.54;en>>
+Lawyers are willing and able to take action against the government, have done so with success.
+
+<<3472.54;3483.26;en>>
+And it's conceded that the applicants have made no attempt whatsoever to go for their remedies in those countries.
+
+<<3483.26;3509.7;en>>
+Turning to the court's second question on extraterritorial jurisdiction, Armenia's adamant case is that no military units are in Nagorno-Karabakh or the occupied territories, that its conscripts, there are conscripts under the 1994 Status of Forces Agreement, which we have exhibited.
+
+<<3509.7;3517.58;en>>
+There are several hundred conscripts in Nagorno-Karabakh who are serving in the Armenian forces.
+
+<<3517.58;3543.94;en>>
+And there are about 1,000, we have identified from a Nagorno-Karabakh general, that about 1,000 Armenian conscripts who are serving under the control of the Nagorno-Karabakh Defense Force, about 5% of the Nagorno-Karabakh army.
+
+<<3543.94;3552.94;en>>
+And that, you will appreciate, ladies and gentlemen, these two governments have forces poised in military readiness.
+
+<<3552.94;3566.62;en>>
+And there are limits to which the applicants can act as stalking horses for the Azeri military in finding out information about other forces.
+
+<<3566.62;3578.78;en>>
+But we have produced evidence that confirms that that is the limit of service in Nagorno-Karabakh.
+
+<<3578.78;3589.02;en>>
+1,000 conscripts doing their two-year national service, not in any position of significance in the Nagorno-Karabakh forces.
+
+<<3589.02;3599.62;en>>
+There is not a single unit of the Armenian army in Nagorno-Karabakh or the occupied territories.
+
+<<3599.62;3601.22;en>>
+That is our case.
+
+<<3601.22;3602.66;en>>
+And we are prepared.
+
+<<3602.66;3611.02;en>>
+You've seen the very distinguished generals and ministers who confirm it.
+
+<<3611.02;3624.9;en>>
+The applicants originally suggested that the court, if it decides that they're absolved from exhausting domestic remedies, should go on location fact-finding.
+
+<<3624.9;3626.98;en>>
+And we would very much support that.
+
+<<3626.98;3644.06;en>>
+If this court is minded to make a determination on effective control, please come to Nagorno-Karabakh through the agencies that were used by the court in the Cyprus and Turkey cases.
+
+<<3644.06;3661.5;en>>
+And in other cases, it's quite wrong in our respectful submission for the court to decide effective control without going and hearing the evidence, hearing it cross-examined, examining through its investigative methods.
+
+<<3661.5;3677.74;en>>
+The problem we have is that the applicants and the interveners have relied entirely upon hearsay, upon politicians' statements, on misstated data like Mr. Gherigossian.
+
+<<3677.74;3692.66;en>>
+It was amusing in a way and sad in another way that a leading NGO said that 10,000 of the Nagorno-Karabakh Defense Force came from Armenia.
+
+<<3692.66;3699.18;en>>
+And this was footnoted, although the applicants didn't say so.
+
+<<3699.18;3702.9;en>>
+This was footnoted to Mr. Gherigossian.
+
+<<3702.9;3705.54;en>>
+Well, we actually tracked him down.
+
+<<3705.54;3711.7;en>>
+And if you read his statement, you find that he didn't say or mean anything of the sort.
+
+<<3711.7;3726.54;en>>
+He says in his statement that you can't say because it's a military secret and that, anyway, he was talking about Armenians ethnically and not Armenians from Armenia.
+
+<<3726.54;3733.34;en>>
+So that is the kind of propaganda statement that we are faced with.
+
+<<3733.34;3734.78;en>>
+It's not evidence.
+
+<<3734.78;3748.18;en>>
+Evidence comes from people who are prepared to say, I know of my own knowledge that this is the case, and I'm prepared to come and face examination over it.
+
+<<3748.18;3749.66;en>>
+Not footnotes.
+
+<<3749.66;3751.18;en>>
+Footnote after footnote.
+
+<<3751.18;3752.02;en>>
+No.
+
+<<3752.02;3753.34;en>>
+Charles Blandy.
+
+<<3753.34;3756.22;en>>
+Who is Charles Blandy?
+
+<<3756.22;3774.02;en>>
+He's an old British soldier who seems to be working for not a world famous organization who's made this statement about the Nagora-Karabakh Defense Force having never gone to Nagora-Karabakh and not giving the authority for the statement.
+
+<<3774.02;3780.1;en>>
+And this Charles W. Blandy is set out as evidence
+
+<<3780.1;3782.82;en>>
+that it's got a lot of Armenians.
+
+<<3782.82;3784.58;en>>
+This is not evidence at all.
+
+<<3784.58;3802.9;en>>
+This is not the way courts should conduct themselves or should be asked to conduct themselves on the basis of names without any kind of knowledge of their experience, of their competence, of their expertise.
+
+<<3802.9;3819.94;en>>
+We've put bodies in front of the court in the form of witness statements and witnesses who are prepared to say on oath, if it's possible, that their statements are true, that there is not one Armenian unit in Nagora-Karabakh.
+
+<<3819.94;3825.78;en>>
+There were 30,000, remember, Turkish soldiers in northern Cyprus.
+
+<<3825.78;3827.78;en>>
+It was a military occupation.
+
+<<3827.78;3829.46;en>>
+There is no military occupation.
+
+<<3829.46;3847.9;en>>
+You may have noticed the statement by that courageous lady who has been for so many years, since 1990, worked for an NGO in Stepanakert with Azeris.
+
+<<3847.9;3854.14;en>>
+And her independence of the Nagora-Karabakh government cannot be in doubt.
+
+<<3854.14;3856.64;en>>
+And she said, there's no question.
+
+<<3856.64;3859.62;en>>
+There are no Armenian troops on the streets.
+
+<<3859.62;3866.02;en>>
+There is no Armenian control of Nagora-Karabakh.
+
+<<3866.02;3876.66;en>>
+I should make clear, it's been suggested that we want the court to adopt the ICJ approach to effective control.
+
+<<3876.66;3882.94;en>>
+We suggest that, but we haven't nailed our colors to that mast.
+
+<<3882.94;3902.38;en>>
+We succeed on any view of effective control, because the statements from the Nagora-Karabakh authorities show that Nagora-Karabakh is independent, that it is not occupied by Armenian forces.
+
+<<3902.38;3909.62;en>>
+It is not, as the interveners suggest, a puppet state.
+
+<<3909.62;3924.1;en>>
+It is a genuine de facto government, elected democratically, observed by European observers to be a democratic country, to be democratic elections.
+
+<<3924.1;3937.62;en>>
+And we have put up the independent evidence of Mr. Harry Burcu-Marcu, who is a Romanian expert,
+
+<<3937.62;3939.38;en>>
+military expert.
+
+<<3939.38;3957.42;en>>
+And he's given a very long and authoritative report confirming there is no control by the Armenian government or armed forces over NK or its defense army.
+
+<<3957.42;3962.62;en>>
+The latter is independent and professional and under independent command.
+
+<<3962.62;3968.94;en>>
+Dr. Burcu-Marcu is, of course, willing to assist
+
+<<3968.94;3972.86;en>>
+if any fact-finding exercise is taken.
+
+<<3972.86;3985.9;en>>
+Of course, they talk in their evidences full of stories, press clippings about military exercises, parades, attendance by leaders at each other's celebrations.
+
+<<3985.9;3996.02;en>>
+This is exactly what could be expected of friendly neighboring states united against a common and saber-rappling enemy.
+
+<<3996.02;4004.94;en>>
+Wherever countries have military alliances, you find these shared training sessions and parades and so on.
+
+<<4004.94;4027.34;en>>
+So in terms of our case on effective control, we say that the status of forces agreement, which provides for conscripts to serve part of their time in the other army, doesn't for a moment place Armenia in effective control.
+
+<<4027.34;4042.02;en>>
+The fact that that agreement requires Armenian courts to punish misbehaving Armenian conscripts serving in Nagorno-Karabakh is common to status of forces agreement.
+
+<<4042.02;4052.54;en>>
+America has status of forces agreement with most European states requiring that disciplinary matters be under the American prosecutors.
+
+<<4052.54;4062.7;en>>
+It's a reflection of the fact that Armenia takes responsibility for the behavior of its conscripts wherever they are serving.
+
+<<4062.7;4072.06;en>>
+So the less important matters pointed to by the applicants, the All-Armenian Fund.
+
+<<4072.06;4081.62;en>>
+This is a charitable organization so that the diaspora can build roads, hospitals, and schools.
+
+<<4081.62;4092.02;en>>
+Exhibit L by the director, statement by the director of the fund, says we wouldn't get as much money if anyone thought it was under government control.
+
+<<4092.02;4096.38;en>>
+25% of the members of the board are from the government.
+
+<<4096.38;4105.14;en>>
+But he says donors generally choose their own target to choose what they want their money to go to.
+
+<<4105.14;4109.54;en>>
+So it can't be suggested that this gives.
+
+<<4109.54;4114.42;en>>
+And the United States pays about as much to Nagorno-Karabakh.
+
+<<4114.42;4122.34;en>>
+It can't be suggested that they have effective control through charitable deeds.
+
+<<4122.34;4137.5;en>>
+As for passports, we've demonstrated the issuance of passports to NK citizens is only done in certain specific circumstances through a highly formal process by no means as of right.
+
+<<4137.5;4144.5;en>>
+It's a humanitarian gesture because NK passports are not internationally recognized.
+
+<<4144.5;4155.78;en>>
+Karabakhians who need hospital treatment abroad or in the Olympics and need passports to compete are given them.
+
+<<4155.78;4161.26;en>>
+On the issue of political ties, well, that's unsurprising.
+
+<<4161.26;4165.3;en>>
+And it's not a basis for excessive jurisdiction.
+
+<<4165.3;4179.14;en>>
+So far as the evidence is concerned, the Lechin judges and police chief and constitutional authorities all say that they are independent, that Armenia has no influence.
+
+<<4179.14;4195.88;en>>
+The OSCE investigation, which is exhibit L in our 2013 submissions, they went there, the ACSE, and they concluded that Armenia exercises no control over the locality.
+
+<<4195.88;4207.66;en>>
+So finally, we focused, of course, on the issues, the jurisdictional issues that the court has asked us to look at.
+
+<<4207.66;4235.5;en>>
+If it's undecided, if it's against us on domestic remedies and considers extraterritorial jurisdiction as a possibility, we request it, as the applicants did, to undertake a fact-finding exercise before deciding that Armenia has effective control, because that will show it hasn't.
+
+<<4235.5;4242.94;en>>
+So far, finally, as the victims are concerned, victim status is denied.
+
+<<4242.94;4259.76;en>>
+And those admitted contraventions and confusions in the victim's evidence, alleged victim's evidence, can only be decided at first instance.
+
+<<4259.76;4268.98;en>>
+So to conclude, let me merely say that in this case, Article 35 is no mere technical legal bar.
+
+<<4268.98;4276.14;en>>
+It can offer a way forward for this intractable conflict that diplomats can't solve.
+
+<<4276.14;4282.62;en>>
+There can be no peace in this area without local justice.
+
+<<4282.62;4285.86;en>>
+If Azeris, like the applicants, and like Mr. Zafarov
+
+<<4285.86;4290.56;en>>
+and Mr. Aleyev, who succeeded, can go to local courts
+
+<<4290.56;4299.98;en>>
+and receive justice from independent judges, they'll see the rule of human rights overcoming the raw hatreds of ethnic war.
+
+<<4299.98;4313.42;en>>
+That is what this court should encourage and supervise, the claims of Azeris being fairly tried in Yerevan and Stepanakert, and the claims of Armenians being fairly tried in Baku.
+
+<<4313.42;4318.78;en>>
+Then and only then can justice, local justice, conduce to peace.
+
+<<4318.78;4325.14;en>>
+Armenia and Nagorno-Karabakh have independent judges, courageous lawyers, and public defenders.
+
+<<4325.14;4331.82;en>>
+They want to be given the opportunity to show that they can do justice to the claims of the applicants.
+
+<<4331.82;4347.1;en>>
+And then and only then, with the court playing its true supervisory role over domestic courts as the guarantor that they'll do right, can the fears and suspicions engendered by this wretched conflict be put to rest.
+
+<<4347.1;4360.02;en>>
+The rights of the most vulnerable are best protected, as Eleanor Roosevelt once observed, by local courts, domestic courts, supervised in this case by this court.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4363.04;4366.36;en>>
+Thank you Mr. Robertson and I call Mr. Asgarov.
+
+[[ThirdParty;TP3]]
+
+<<4368.5;4371.0;en>>
+Mr. President, on behalf of the intervening state,
+
+<<4371.0;4376.0;en>>
+the government of Azerbaijan, Mr. Malcolm Shaw of QC will speak on jurisdiction,
+
+<<4376.0;4378.0;en>>
+and Mr. Gabriel Lansky will cover the issue of remedies.
+
+[[ThirdParty;TP2]]
+
+<<4385.23;4386.83;en>>
+Mr. President, members of the court,
+
+<<4386.83;4390.05;en>>
+it's a privilege to be before you again.
+
+<<4390.05;4396.61;en>>
+I have the honor to appear on behalf of the Republic of Azerbaijan, the intervening state.
+
+<<4396.61;4404.45;en>>
+This case is about three things, jurisdiction, jurisdiction, and jurisdiction.
+
+<<4404.45;4427.51;en>>
+It is at the heart of this seminal case, and the court will have to determine whether or not a significant part of the internationally recognized territory of one contracting party, occupied in reality by another contracting party, remains within or is excluded from the protection of the European Convention on Human Rights.
+
+<<4427.51;4429.71;en>>
+No more, no less.
+
+<<4429.71;4436.43;en>>
+All of the territory in question falls within the territories covered by the European Convention.
+
+<<4436.43;4451.39;en>>
+No state can purport to subcontract out responsibilities to a non-state entity with regard to the territory of another state, and then claim to be free of the constraints of the convention.
+
+<<4451.39;4458.27;en>>
+There can be no legal black holes in the lands of the European Convention on Human Rights.
+
+<<4458.27;4474.07;en>>
+It does not need me to tell this court that jurisdiction has a specific meaning under Article I of the convention, building upon, but moving a notch above, traditional international law principles of state responsibility.
+
+<<4474.07;4486.83;en>>
+General international law has developed principles of state responsibility, exemplified in the Nicaragua and Bosnian genocide cases before the ICJ.
+
+<<4486.83;4496.75;en>>
+However, it is now accepted that specific human rights regimes, complete with binding mechanisms, may add value to these principles.
+
+<<4496.75;4514.67;en>>
+This has been shown in the Tadich case before the ICTY, and in established and respected and consistent judgments of this court, including Loizidou, Issa, and most recently, Al-Skaini.
+
+<<4514.67;4529.51;en>>
+Incidentally, it has affected not just the special definition given to jurisdiction as a term of art in Article I, but also the position with regard to the effect on reservations to specific human rights treaties.
+
+<<4529.51;4535.79;en>>
+The door to reverse this progressive development has surely closed.
+
+<<4535.79;4541.63;en>>
+The Cyprus situation is analogous to Nagorno-Karabakh, with one difference.
+
+<<4541.63;4547.83;en>>
+In the former case, Turkey was transparent about its presence in northern Cyprus.
+
+<<4547.83;4554.63;en>>
+In this case, Armenia seeks to draw a veil of secrecy over what is widely known.
+
+<<4554.63;4566.07;en>>
+The NKR cannot function without Armenia's existential backing, which is military, economic, political, and financial.
+
+<<4566.07;4569.67;en>>
+The two are extraordinarily intertwined.
+
+<<4569.67;4583.83;en>>
+What is even more blatant here is that the Lachin area, where the applicants live and where their property was and is situated, lies between the NKR and Armenia proper.
+
+<<4583.83;4590.99;en>>
+Armenia's arguments before this court is that it is the NKR which effectively controls the relevant area.
+
+<<4590.99;4604.39;en>>
+We argue that Armenia, directly or indirectly through its subordinate local administration, the NKR, is in such effective control for the purposes of Article I.
+
+<<4604.39;4615.47;en>>
+This falls squarely within the paradigm established by this court in Lousidou, Cyprus against Turkey, Ilashgu, and Al-Skaini.
+
+<<4615.47;4619.39;en>>
+But what is the legal test applied by the court?
+
+<<4619.39;4635.11;en>>
+In Al-Skaini, now the leading case on extraterritorial jurisdiction, the court emphasized that such jurisdiction and responsibility would occur where a state, through its agents, exercises control and authority.
+
+<<4635.11;4647.47;en>>
+Further and critically, the court underlines that Article I would apply where a contracting state exercised effective control of an area outside its national territory.
+
+<<4647.47;4662.59;en>>
+Its obligations under the convention derives from the fact of such control, whether exercised directly through their own armed forces or through a subordinate local administration.
+
+<<4662.59;4673.47;en>>
+It is not necessary to demonstrate detailed control over the policies and actions of this subordinate local administration.
+
+<<4673.47;4683.79;en>>
+It is a question of fact whether a contracting state exercises effective control over an area outside its own territory.
+
+<<4683.79;4706.91;en>>
+In determining this, the court has said it will have primary reference to the strength of the state's military presence and activities in the area, while other indicators may also be relevant, such as the military, economic, and political support for the local subordinate administration.
+
+<<4706.91;4719.11;en>>
+The court, therefore, has to examine the facts of the case in order to determine what is the reality and whether Armenia is in reality pulling the strings.
+
+<<4719.11;4726.87;en>>
+I do not propose to repeat all of our evidence presented over the years, up to and including December 2013.
+
+<<4726.87;4733.55;en>>
+I will merely point to some of the essential facts grouped in terms of the court's own categories.
+
+<<4733.55;4741.07;en>>
+Military presence, something which I see is simply not denied by the respondent state.
+
+<<4741.07;4756.07;en>>
+The series of proposals from the Minsk peace process in the late 1990s all called for the withdrawal of the armed forces of Armenia to within the borders of the Republic of Armenia.
+
+<<4756.07;4766.35;en>>
+Various NGO reports have demonstrated the extensive presence of conscript forces in the NKR, something which is now admitted.
+
+<<4766.35;4775.07;en>>
+And the high degree of integration between the forces of Armenia and Nagorno-Karabakh in the supply of weaponry.
+
+<<4775.07;4797.19;en>>
+This court has found that the Republic of Armenian forces serve in the occupied territories and indeed that the detention, questioning, and prosecution of such soldiers took place in such territories in the Haratunian and Zalyan cases.
+
+<<4797.19;4815.43;en>>
+A series of serious internal incidents involving the deaths of Republic of Armenian forces located in the occupied Kozhavand district of Azerbaijan was noted in the Armenian media in 2010.
+
+<<4815.43;4822.95;en>>
+Armenian soldiers serving in the NKR have voted in Republic of Armenian elections.
+
+<<4822.95;4833.79;en>>
+In April 2012, a resolution of the European Parliament was adopted within the context of a proposed EU-Armenia association agreement.
+
+<<4833.79;4847.79;en>>
+In that resolution, it was underlined that deeply concerning reports exist of illegal activities exercised by Armenian troops in the occupied Azerbaijani territories.
+
+<<4847.79;4856.47;en>>
+There was a call for the withdrawal of Armenian forces from occupied territories surrounding Nagorno-Karabakh.
+
+<<4856.47;4859.43;en>>
+This is supported by many authoritative statements.
+
+<<4859.43;4875.11;en>>
+The US Department of State's country reports on human rights for both 2011 and 2012 underlined that the NKR and the surrounding territories, including Lachin, were controlled by ethnic Armenian separatists with Armenian support.
+
+<<4878.79;4907.31;en>>
+Further, in 2012, it was reported that an Armenian soldier had been shot dead by a colleague, and this had been investigated by the Armenian Ministry of Defense under the Armenian Criminal Code, evidence not only of the effective control of Armenia, but of the involvement of officials and agents of Armenia, thus complying with the requirements of both forms of responsibility in Al-Skani.
+
+<<4907.31;4917.95;en>>
+The extensive ties between Armenia and the NKR continue to be evidenced and progressed by continuing high-level visits.
+
+<<4917.95;4932.79;en>>
+The political support given by Armenia to the NKR is evidenced by statements made in 2013 by the President of Armenia, in which it was stated clearly that Armenia acts as the guarantor of the safety of the people of Nagorno-Karabakh.
+
+<<4932.79;4946.35;en>>
+The President of Armenia, the former President of Armenia, both held offices in the military and the political structures of the NKR before moving into Armenia proper.
+
+<<4946.35;4950.83;en>>
+The economic links between Armenia and the NKR are formidable.
+
+<<4950.83;4955.87;en>>
+The All-Armenian Fund was founded by Armenia and is controlled by it.
+
+<<4955.87;4960.79;en>>
+The President of the Board of Trustees is the President of Armenia.
+
+<<4960.79;4974.51;en>>
+It funds an overwhelming number of activities in the NKR, ranging from the construction of hospitals, electricity substations, highways, bridges, and water supply networks.
+
+<<4974.51;4994.35;en>>
+It is clear beyond doubt that Armenia exercises a degree of real, effective control in reality over the NKR and surrounding occupied territories, including Lachin, that prevents it from denying its responsibility under Article 1.
+
+<<4994.35;5001.07;en>>
+The applicants are, therefore, entitled to the protection of the Convention and of this Court.
+
+<<5001.07;5001.07;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5005.88;5009.04;en>>
+Thank you, Professor Shaw. I give the floor to Mr. Lansky.
+
+[[ThirdParty;TP1]]
+
+<<5015.72;5020.42;en>>
+Mr. President, esteemed members of this court,
+
+<<5020.42;5031.44;en>>
+let me deepen and go more intensively to the topic of effective remedy, which has been addressed by Mr. Mueller
+
+<<5031.44;5037.2;en>>
+and strongly addressed previously by Mr. Roberts.
+
+<<5039.76;5061.28;en>>
+The Armenian legislation and practice and the practice in NKR are far away from fulfilling the criteria of effective remedies developed by this court in the admissibility decision, Demopoulos and others, against Turkey of 2010.
+
+<<5061.28;5081.44;en>>
+They did not implement restitution in integrum redress mechanisms and inform and in special legislative acts with needed retrospective effect and did not at all introduce an independent property commission.
+
+<<5081.44;5091.4;en>>
+Let me go into the details of the arguments of the respondent government concerning that topic.
+
+<<5091.4;5098.68;en>>
+Does the Constitution of the Republic of Armenia deliver such an effective remedy?
+
+<<5098.68;5101.4;en>>
+No, it does not.
+
+<<5101.4;5127.64;en>>
+In accordance to the jurisdiction of this court with concerning Article 13, this redress must provide, has to provide precisely determined and practically enforceable redress that might allow the applicants to return to the land plots and it must have a competent authority to be addressed to.
+
+<<5127.64;5144.96;en>>
+The Constitution does guarantee the right to property and the right to respect for private and family life, but it contains neither a provision for the enforcement of applicant claims nor determines a competent authority.
+
+<<5144.96;5158.88;en>>
+Such a constitutional regulation may never substitute a system of procedural provisions and regulatory competencies aimed at realizing the effective implementation of rights.
+
+<<5158.88;5174.92;en>>
+Any other assumption or arguing would completely be against the foundations of the rule of law in particular because it would not ensure legal forcibility and it would jeopardize legal certainty.
+
+<<5174.92;5186.08;en>>
+Does the Land Code 91 of the respondent represent an effective remedy as the respondent claims?
+
+<<5186.08;5187.52;en>>
+No, it does not.
+
+<<5187.52;5188.68;en>>
+Why?
+
+<<5188.68;5201.28;en>>
+As Article 119 of the Armenian Code, Land Code 2001, implies that after its entry into force, the Land Code of 91 expires.
+
+<<5201.28;5207.88;en>>
+That's why the Land Code 91 has no more effect in our case.
+
+<<5207.88;5215.76;en>>
+Next question, does the Land Code 2001 represent an effective remedy?
+
+<<5215.76;5217.76;en>>
+No, it does not.
+
+<<5217.76;5218.72;en>>
+Why?
+
+<<5218.72;5236.16;en>>
+Please read carefully Article 4, Paragraph 3 of this Land Code and you will find there, repeating by the way, the Article 31 of the Constitution, and I may quote it because it has so strongly been claimed by the respondent.
+
+<<5236.16;5248.2;en>>
+This Article 4 says, foreign residents and non-citizens of the Republic of Armenia cannot obtain property rights on land.
+
+<<5248.2;5252.28;en>>
+They can only be land users.
+
+<<5252.28;5262.08;en>>
+From that follows that Azerbaijani citizens are excluded by law to be or to become land owners.
+
+<<5262.08;5295.56;en>>
+Together with Article 1 of the same Land Code, which states that other laws and statutory legal acts on regulation of land relations must be, in any case, under strict correspondence to the Land Code, makes clear that no other laws of the Republic of Armenia could substitute or could give more restitution ground than the clauses of the Land Code.
+
+<<5295.56;5310.84;en>>
+We have a very clear regulation in Article 117, Paragraph 2 of the Code, which says that land relations arising before the implementation of this Code will be regulated after the rules of this Code.
+
+<<5310.84;5323.56;en>>
+That means that there is no question about it, that the Land Code 2001 is governing our questions of the IDPs of the claimants.
+
+<<5323.56;5330.0;en>>
+Does the Land Code of the so-called NKR provide effective remedy?
+
+<<5330.0;5331.64;en>>
+No, it does not.
+
+<<5331.64;5342.4;en>>
+It does not contain provisions for compensations in the case of property losses or restoration of the loss of property rights.
+
+<<5342.4;5355.08;en>>
+I conclude neither the rules in the Republic of Armenia nor the rules in Nagorno-Karabakh, so-called Nagorno-Karabakh, gives remedy.
+
+<<5355.08;5360.8;en>>
+And speaking about the cases which Mr. Robertson
+
+<<5360.8;5391.04;en>>
+has tried to elaborate, we do not know one single case, one single case which has been presented by the respondent in which Azerbaijan IDPs, not being of Armenian ethnic origin, would have had to redress under Armenian or NKR law.
+
+<<5391.04;5406.88;en>>
+The cases which are in our files, at least, have no whatever success concerning effective remedy, and they did not have any chance of justice.
+
+<<5406.88;5407.88;en>>
+That's the human rights defender.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5408.29;5411.49;en>>
+Mr. Lansky, may I ask you to conclude please?
+
+[[ThirdParty;TP1]]
+
+<<5411.49;5411.49;en>>
+Yes, Mr. President.
+
+<<5412.89;5423.69;en>>
+Also, the rules of the Human Rights Defender do not give any chance to order any measures or impose any sanctions.
+
+<<5423.69;5429.41;en>>
+That's why also those rules have no chance of success under effective remedy criteria.
+
+<<5429.41;5430.41;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5432.12;5437.64;en>>
+Thank you, Mr. Lansky. I turn now to the judges if there are questions.
+
+<<5437.64;5439.64;en>>
+Judge López Guerra, please.
+
+[[Judge;Luis López Guerra]]
+
+<<5442.83;5449.11;en>>
+Thank you Mr. President. Only one question and affirmation that somehow has struck me
+
+<<5449.11;5456.11;en>>
+both to both parties. I understand, we know that Azerbaijan is a country which is a signatory
+
+<<5457.77;5464.77;en>>
+of the European Convention on Human Rights. It's bound by it. Armenia is also a signatory
+
+<<5464.77;5473.77;en>>
+of the European Convention. Now, looking at Nagorno-Karabakh, if Nagorno-Karabakh were
+
+<<5473.77;5494.89;en>>
+a separate, independent state, not being a signatory of the European Convention, would be the European Convention applicable, will be enforced, will be the rights recognized by the European Convention enforced in the territory of Nagorno-Karabakh? In this case,
+
+<<5494.89;5510.29;en>>
+if it were not bound by the Convention, what would be the relevance of Article 35 of the Convention for the territory of Nagorno-Karabakh for this case?
+
+[[JudgeP;Dean Spielmann]]
+
+<<5511.1;5513.7;en>>
+Thank you, Judge López Guerra.
+
+<<5513.7;5515.94;en>>
+Judge Ziemele, please.
+
+[[Judge;Ineta Ziemele]]
+
+<<5517.45;5519.85;en>>
+Thank you, Mr. President.
+
+<<5519.85;5536.49;en>>
+My first question is indeed on jurisdiction, since in the pleadings just now, we heard all three parties indeed discussing at lens this issue.
+
+<<5536.49;5548.31;en>>
+And I would really appreciate if the applicants, the respondent government and the third party, if you wish so, clarified your point.
+
+<<5548.31;5551.31;en>>
+And the point you were making is the following.
+
+<<5551.31;5562.05;en>>
+You were drawing comparison with the ICJ's judgment in the Nicaragua case, followed up by indeed, as mentioned, by the genocide case.
+
+<<5562.05;5574.85;en>>
+And you were suggesting that in fact, this court has taken a different approach as compared to the one taken by the ICJ in the Nicaragua case.
+
+<<5574.85;5584.79;en>>
+I would be much obliged if you gave an indication, one or two elements with reference to Ilaşcu or Loizidou cases.
+
+<<5584.79;5595.39;en>>
+Where do you see exactly that this court has in fact departed from the ICJ's approach as concerns test of responsibility?
+
+<<5595.39;5600.39;en>>
+And secondly, I have a small question for the applicants.
+
+<<5600.39;5609.67;en>>
+If you could very briefly answer, the question goes to Article One of Protocol One.
+
+<<5609.67;5640.69;en>>
+Is your submission in fact, that there is a specific and identifiable administrative, executive or legislative act or action attributable to the respondent government which has prevented the applicants that you represent from accessing their houses, which are these acts or actions?
+
+<<5640.69;5659.93;en>>
+Or in fact, your submission is, under Article One of Protocol One, that the respondent state is under a positive obligation to adopt policies, legislation, et cetera, that would enable the applicants to access their houses.
+
+<<5659.93;5661.87;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5662.95;5664.52;en>>
+Thank you, Judge Villiger.
+
+[[Judge;Mark Villiger]]
+
+<<5667.34;5668.62;en>>
+Thank you, President.
+
+<<5668.62;5679.22;en>>
+I have a question to the respondent government, something that the learned representative said, which I didn't understand, and maybe I'm overlooking something.
+
+<<5679.22;5681.1;en>>
+I would be glad for clarification.
+
+<<5681.1;5691.9;en>>
+The respondent government said that the applicants did not exhaust domestic remedies available to them in the Nagorno-Karabakh Republic and in Armenia.
+
+<<5691.9;5700.9;en>>
+Now, the applicants had their property in Lachin, occupied by the Nagorno-Karabakh Republic, that is undisputed.
+
+<<5700.9;5708.7;en>>
+So I can understand if you are claiming that the applicants should have gone before the courts of Nagorno-Karabakh.
+
+<<5708.7;5712.38;en>>
+But you also said that they should have gone before the Armenian courts.
+
+<<5712.38;5723.18;en>>
+And I just have one quote here, which the learned representative said, lawyers and judges in Armenia are waiting to process these claims, end of quote.
+
+<<5723.18;5725.66;en>>
+Here I'm confused, puzzled.
+
+<<5725.66;5735.22;en>>
+What do Armenian courts have to do with the Lachin area, occupied by Nagorno-Karabakh Republic, where the applicants have their property?
+
+<<5735.22;5741.14;en>>
+How could Armenian courts have provided legal redress to the applicants?
+
+<<5741.14;5744.26;en>>
+Maybe I've overlooked something, and I'll be grateful if you could clarify.
+
+<<5744.26;5744.26;en>>
+Thank you, President.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5745.41;5749.41;en>>
+Thank you Judge Villiger. Judge Paulo Pinto de Albuquerque, please.
+
+[[Judge;Paulo Pinto de Albuquerque]]
+
+<<5751.85;5755.01;en>>
+Thank you, President.
+
+<<5755.01;5763.63;en>>
+Three questions, all addressed to the respondent government, and all regarding non-exhaustion of domestic remedies.
+
+<<5763.63;5785.03;en>>
+First, can the government solemnly guarantee to this court that the statement of the Lachin judge with regard to the admissibility of claims of property by people of Azeri and Kurdish origin are still valid today?
+
+<<5788.79;5801.03;en>>
+Second, two cases were referred by the respondent government of restoration of property to Azerbaijani IDPs.
+
+<<5801.03;5814.79;en>>
+And I went through the old file, and I cannot remember to have read any reference to these two cases.
+
+<<5814.79;5834.61;en>>
+I would be grateful for clarification with regard to the date when these judgments were delivered, by which court, and if these two judgments are yes or no final.
+
+<<5834.61;5851.83;en>>
+Third question, is there any legal provision in the NKR prohibiting or expropriating ownership of land or other property by people of Azeri or Kurdish origin?
+
+<<5854.95;5883.79;en>>
+We know what the so-called Constitution of the Nagorno-Karabakh Republic says, but is there any additional legislation which directly prohibits or indirectly prohibits or expropriates ownership of land or other property of IDPs from Azeri or Kurdish origin?
+
+<<5883.79;5883.79;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5885.06;5888.5;en>>
+Thank you, Judge Pinto de Albuquerque, Judge Gyulumyan.
+
+[[Judge;Alvina Gyulumyan]]
+
+<<5892.09;5893.49;en>>
+Thank you, President.
+
+<<5893.49;5896.25;en>>
+I have questions for both parties.
+
+<<5896.25;5899.15;en>>
+First, three questions for the applicant.
+
+<<5899.15;5909.61;en>>
+Is it the applicant's case that the highly respected judges, ministers, and lawyers of Armenia and Nagorno-Karabakh are lying in their witness statements?
+
+<<5909.61;5915.89;en>>
+If so, will you please point out the lies or false statements that you allege?
+
+<<5915.89;5917.35;en>>
+This is the first question.
+
+<<5917.35;5930.15;en>>
+And second question, as you mentioned, the applicant's lawyers admit that they have no experience with Armenian or Nagorno-Karabakh law.
+
+<<5930.15;5936.35;en>>
+Why didn't the applicants seek help from lawyers with such an experience?
+
+<<5936.35;5948.17;en>>
+And my third question, as we know, your government has adopted so-called blacklist of foreigners who visited NKR.
+
+<<5948.17;5959.91;en>>
+My question would be, could their own citizens freely travel to NKR without fear that they will be punished by their own government?
+
+<<5959.91;5973.21;en>>
+We had the case before this court, Eynulla Fatullayev, in which we know that the applicant was punished for his visits to Nagorno-Karabakh and for his articles concerning Nagorno-Karabakh.
+
+<<5973.21;5976.71;en>>
+Now my questions to the government.
+
+<<5976.71;5980.47;en>>
+Our first question concerns the passports.
+
+<<5980.47;5991.31;en>>
+In which cases a resident of, in which concrete cases, a resident of Nagorno-Karabakh can be issued with a passport of the Republic of Armenia?
+
+<<5991.31;5997.21;en>>
+And do you have any figures how many of them have been issued with it?
+
+<<5997.21;6012.61;en>>
+My second question may be not too much related to today's deliberation, because as court decided in his admissibility decision, we will be considering facts after ratification of convention.
+
+<<6012.61;6036.17;en>>
+But in any way, what would be your comments on the statement of Vazgen Manukyan, who was Armenian defense minister in October 1992, and who made statement in 2000 about union of armies in Gaia and Armenia, which is mentioned in the book Thomas De Waal, Black Garden, referred by applicants.
+
+<<6036.17;6061.37;en>>
+And also, more concrete question, could you explain how it was possible that the Armenian law enforcement agents operated in the case of Zalian and others in Nagorno-Karabakh and the regional, Sunni regional court of Armenia hold the hearing in Stepanakert?
+
+<<6061.37;6079.37;en>>
+And my last question, could you please compare the financial support which Nagorno-Karabakh gets from all Armenian fund and from other sources, namely from the government of the United States?
+
+<<6079.37;6080.63;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6081.4;6083.08;en>>
+Thank you, Judge Gyulumyan.
+
+<<6083.08;6084.0;en>>
+Judge Spano.
+
+[[Judge;Dean Spielmann]]
+
+<<6086.87;6088.07;en>>
+Thank you, Mr. President.
+
+<<6088.07;6094.55;en>>
+I have one question for the applicants, and third-party interveners may respond if they so choose.
+
+<<6094.55;6101.39;en>>
+The Applicants' Council cited paragraph 56 of this court's judgment in Loizidou v. Turkey.
+
+<<6101.39;6114.65;en>>
+It's important of the submission that the effective control test does not necessitate a demonstration of detailed control over the policies and actions of local authorities in the disputed area.
+
+<<6114.65;6130.97;en>>
+In paragraph 56 of Loizidou, the court stated, and I quote, it is not necessary to determine whether, as the applicant and the government of Cyprus have suggested, Turkey actually exercises detailed control over the policies and actions of the authorities of the TRC.
+
+<<6130.97;6142.15;en>>
+It is obvious from the large number of troops engaged in active duties in northern Cyprus that her army exercises effective control over that part of the island.
+
+<<6142.15;6151.27;en>>
+Such control, according to the relevant test and in the circumstances of the case, entails her responsibilities for the policies and actions of the TRC.
+
+<<6151.27;6166.63;en>>
+In Al-Skeini, the court elaborated further, stating that the factual assessment of jurisdiction must be, and I quote from paragraphs 138 to 139, primarily based on the strength of the military's presence, as mentioned by counsel to the third-party intervener.
+
+<<6166.63;6195.57;en>>
+My question on this basis is, I would kindly ask the applicants to explain as concretely as possible what they consider to be their strongest pieces of evidence from which the court would be able to draw sufficiently strong, clear, and concordant inferences as to the responding government's strength of its military presence in Nakorno-Karabakh in general and in Lachia in particular.
+
+<<6195.57;6195.67;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6197.75;6198.75;en>>
+Thank you.
+
+<<6198.75;6209.43;en>>
+We will have now a 20 minute break and the court will resume the hearing at around 11.25.
+
+[[Announcer;UNK]]
+
+<<6297.47;6298.19;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<6345.81;6347.29;en>>
+Please be seated.
+
+<<6348.85;6360.05;en>>
+I will give the floor to the lawyers acting on behalf of the applicants and to the lawyers acting on behalf of the respondent government.
+
+<<6361.69;6364.93;en>>
+Who wants to take the floor on behalf of the applicants?
+
+<<6364.93;6364.93;en>>
+Mr. Muller.
+
+[[Applicant;AP2]]
+
+<<6369.41;6381.61;en>>
+Mr. President, perhaps I can start with the learned Armenian judge's question concerning
+
+<<6381.61;6399.17;en>>
+the alleged ignorance of the lawyers, the applicant's lawyers, and my learned friend Mr. Robertson's claim about the lawyers' failure to go to the Armenian Republic to lodge claims.
+
+<<6399.17;6409.01;en>>
+Mr. Robertson is kind enough to submit that we all belong to a very experienced non-governmental
+
+<<6409.01;6420.65;en>>
+organization and yet at the same time he claims that we simply fail to bother to explore domestic remedies in Armenia.
+
+<<6420.65;6433.85;en>>
+That with respect is not the position, neither is it the position that we are ignorant of Armenia and its jurisdiction.
+
+<<6433.85;6443.25;en>>
+I myself have appeared in a number of cases before this court in relation to Armenia, including cases such as Meltek's.
+
+<<6443.25;6462.67;en>>
+The reason why in actual fact no remedies were exhausted in relation to this case was because we took the view, having regard to all the evidence in this case, that no remedies were identifiable whatsoever and certainly not effective.
+
+<<6462.67;6475.45;en>>
+And so perhaps I can begin my address by referring to the very paragraph that my learned friend Mr. Robertson referred to in suggesting somehow that the position of the lawyers in this case
+
+<<6475.45;6480.45;en>>
+was simply not to explore domestic remedies as a consequence of ignorance.
+
+<<6480.45;6486.77;en>>
+In fact, paragraph 151 reads as follows at the end.
+
+<<6486.77;6501.73;en>>
+They agreed to act in ECHR-related proceedings after a view had been taken as to whether Article 35 requirements concerning the exhaustion of domestic remedies had been satisfied or not.
+
+<<6501.73;6519.41;en>>
+The view arrived at for the reasons cited in these submissions was that there were no identifiable, let alone effective domestic remedies available capable of offering redress for the complaints raised with any prospect of reasonable success.
+
+<<6519.41;6522.15;en>>
+That is the position of the applicants.
+
+<<6522.15;6534.11;en>>
+It has absolutely nothing to do with the ignorance of the lawyers representing the applicants or indeed their reluctance to travel to Armenia.
+
+<<6534.11;6543.69;en>>
+It is also the consistent position as expressed in all the written pleadings for the last seven years.
+
+<<6543.69;6549.01;en>>
+So we say that allegation is both misleading.
+
+<<6549.01;6558.41;en>>
+I would also add that many of these lawyers are extremely experienced in relation to the issue of exhaustion of domestic remedies.
+
+<<6558.41;6566.33;en>>
+Myself together with many others were involved in the case of Aktovar and fully understand the obligations to exhaust domestic remedies.
+
+<<6566.33;6581.45;en>>
+It may well be prudent to read the statement of Katrina Vine in relation to the exhaustion of domestic remedies and also the position of the NGO.
+
+<<6581.45;6620.21;en>>
+As to the suggestion that the courts, judges and lawyers of Armenia are waiting to process the case and want to be given an opportunity to show that they can give justice for the complaint, perhaps I can just refer to one or two of our submissions in relation to the position of Armenia and by way of this answer the learned judge's question from Armenia concerning the readiness of judges to deal with these issues.
+
+<<6620.21;6626.29;en>>
+First of all I refer to Annex 1 of Mrs. Vine's statement in which she makes clear that her
+
+<<6626.29;6641.05;en>>
+attempt to try and make further inquiries of other individuals who might be willing to assist in this case ran into severe problems for fear of being identified by the Armenian government as being involved in these proceedings.
+
+<<6641.05;6662.53;en>>
+This reticence to become involved in the case in any way by such a wide range of suitable qualified experts is a poignant reminder of the insidious undercurrent of discrimination by the Armenian government officials against anyone choosing to be affiliated in any form with the applicant's cause of returning to their homeland.
+
+<<6662.53;6682.65;en>>
+I would also point the court to the statement of the UN special rapporteur concerning the role of the human rights defender because that also gives flavor to the present position in respect of cases such as this.
+
+<<6682.65;6693.13;en>>
+Those could be found at paragraph 138 of our written submissions of 2013.
+
+<<6693.13;6706.77;en>>
+In particular he quotes, the special rapporteur is disturbed regarding reports of violence against human rights defenders, in particular journalists, and of the failure to fully and thoroughly investigate and prosecute such incidences.
+
+<<6706.77;6720.65;en>>
+I also refer to the American Bar Association that did extensive research over the many years concerning judicial reform and the independence of the judiciary where it refers to a persistent problem concerning the independence of the judiciary.
+
+<<6720.65;6728.33;en>>
+I don't propose to give any evidence in this case as to whether or not judges who have filed evidence in this case are lying or not.
+
+<<6728.33;6731.41;en>>
+It is a matter of weight and relevance for this court.
+
+<<6731.41;6744.29;en>>
+This court can well judge whether or not witness statements are supported by the facts on the ground in this case and indeed whether or not they come from a party pre-party.
+
+<<6744.29;6762.41;en>>
+Just in relation to Malani Friend's submissions concerning the time as to when to judge the issue of exhaustion, we say nothing should depart from the normal rule that that is when the application was lodged.
+
+<<6762.41;6775.61;en>>
+And I will once again refer the court to the question posed in 2006 of the respondent that what were the available remedies available to the applicant.
+
+<<6775.61;6805.97;en>>
+And in that reply, not only did the respondent fail to identify any remedies whatsoever of any nature, let alone deal with their effectiveness, they made the statement manifestly that a Malminia's writ does not run in the courts of NKR and nothing should be said that be taken that they had jurisdiction over that particular territory.
+
+<<6805.97;6816.25;en>>
+It was only until 2007 when in actual fact they cited a number of cases which they said revealed the existence of effective remedies.
+
+<<6816.25;6822.29;en>>
+And perhaps I could just ask Malani Friend, Ms Butler, to address the court on that point.
+
+[[Applicant;AP3]]
+
+<<6824.34;6826.7;en>>
+Mr. President, distinguished members of the court,
+
+<<6826.7;6833.62;en>>
+it's an honor to appear before you today, and particularly to address the learned judge's question, Judge Albuquerque.
+
+<<6833.62;6840.34;en>>
+I'm very grateful for that question, because we're in exactly the same position as he is on this issue.
+
+<<6840.34;6860.14;en>>
+We have searched in vain through all of the many, many rounds of submissions that have been lodged in this case by the respondent government, and found absolutely no mention whatsoever of the two cases on which they now hinge as the very center point of their arguments on this issue.
+
+<<6860.14;6871.86;en>>
+We would very much like to also have some details of these two cases in order to satisfy ourselves that they really do relate to Aziris who are from displaced situations.
+
+<<6871.86;6882.86;en>>
+We would simply ask the court that if time is not given to us to address those particular cases, that the court themselves approach them with real anxious scrutiny.
+
+<<6882.86;6903.9;en>>
+We note that on previous occasions, when the respondent government has relied upon cases from the Armenian judiciary relating to supposed cases of Aziris being able to have their rights redressed and to obtain effective remedies from the Armenian courts, those cases have tended to be slightly misstated.
+
+<<6903.9;6907.98;en>>
+They've not related in all cases to Aziris or to Kurds.
+
+<<6907.98;6914.5;en>>
+One of those three that they've referred to in the past, in their 2007 submissions, actually related to an Iranian man.
+
+<<6914.5;6917.94;en>>
+And none of them at all related to an IDP.
+
+<<6917.94;6925.58;en>>
+These were cases related to very minor, uncontested matters, contract disputes, real estate disputes, employment disputes.
+
+<<6925.58;6937.22;en>>
+There's certainly nothing at all of the kind of sensitive and conscientious, difficult situation in which this court is faced today in dealing with an ongoing armed conflict.
+
+<<6937.22;6939.94;en>>
+I'll turn now to my colleague, Mr. Ivers.
+
+<<6939.94;6940.36;en>>
+Thank you.
+
+[[Applicant;AP2]]
+
+<<6942.46;6947.46;en>>
+Before I just let Mr. Ivers deal with one of the questions concerning Article 1, Protocol 1,
+
+<<6947.46;6952.46;en>>
+let me just say one thing about the human rights defender's position.
+
+<<6952.46;6969.46;en>>
+My learned friend suggested that somehow the human rights defender was barred from taking up the case of our applicants and that somehow it required an application on behalf of the applicants to be registered in Armenia.
+
+<<6969.46;6989.46;en>>
+I just point to paragraph 48 of his own submissions in which he says the defender has locker stand-eye to challenge executive action and legislation even by the President on grounds of inconsistency and that he may therefore directly approach the Constitutional Court for a remedy.
+
+<<6989.46;7000.46;en>>
+An important feature of the power of the defender to accept individual complaints is that it's not confined to complaints of citizens but rather to any entity regardless of nationality.
+
+<<7000.46;7003.46;en>>
+So it follows from that, but it was always open.
+
+<<7003.46;7019.46;en>>
+We do not for one moment, just as my learned friend for the Azerbaijan government has submitted, to accept that the human rights defender was capable of providing remedies, particularly in relation to Article 8 or in fact the right to return to one's home.
+
+<<7019.46;7030.46;en>>
+But what we do say, however, is that the submission that somehow they were champing at the bit in order to take up this case is manifestly fanciful.
+
+<<7030.46;7056.46;en>>
+And just lastly, you can examine that within the context of your own judgment of 2011 in December where in actual fact you had to entertain the submission relied upon by the Armenian government, firstly that the NKR legislature had extinguished the property rights of our client, and secondly that this was not in actual fact the appropriate forum in any event that it lay within the Minsk process.
+
+<<7056.46;7058.46;en>>
+Both those were rejected.
+
+<<7058.46;7082.46;en>>
+It was only within that context that this new submission concerning free and unfettered access to Armenia arose, and we submit it is highly dissembling and artificial, given to the fact that actually for seven years no remedies were identified, and indeed no representation was made inviting the applicants to return to file claims.
+
+<<7082.46;7099.46;en>>
+Lastly, in relation to the question concerning whether or not Article 35 has any relevance, if it related to an independent state that had not signed the European Convention on Human Rights, we would submit it would not be relevant.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7104.82;7112.82;en>>
+Thank you. I'm afraid your time has expired, so I think we have to conclude.
+
+<<7112.82;7112.82;en>>
+I mean, you have to conclude.
+
+[[Applicant;AP1]]
+
+<<7115.52;7124.28;en>>
+I can deal very quickly with the Article 1, Protocol 1 point, and we can have a couple of just observations in relation to jurisdiction thereafter.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7123.77;7126.41;en>>
+Well, I give you two more minutes, but that's it,
+
+[[Applicant;AP1]]
+
+<<7126.44;7145.04;en>>
+In relation to the Article 1, Protocol 1 point, can I make clear that our principal case is that there's been an administrative practice that denies the return of these IDPs, and that that goes not just to the merits, but also to the question of exhaustion.
+
+[[Applicant;AP1]]
+
+<<7145.04;7159.74;en>>
+As regards any positive obligations, although there are no positive obligations one might discern under Article 1, Protocol 1, of course concurrently the loss of a home affects Article 8, and there are positive obligations in relation to Article 8.
+
+<<7159.74;7182.0;en>>
+Just finishing, we rely also of course on the Court's judgment already, Paragraph 104, which stated that while the applicant's displacement in 1992 is to be considered as resulting from an instantaneous act falling outside the Court's competence, their ensuing lack of access to the alleged property and homes is to be considered as a continuing violation.
+
+<<7182.0;7185.4;en>>
+So the continuing nature, if the facts were made out, would be established in that way.
+
+[[Applicant;AP2]]
+
+<<7185.97;7189.61;en>>
+Mr. President, exceptionally, could I ask for just three more minutes?
+
+<<7189.61;7204.93;en>>
+We did receive a number of detailed questions from a number of judges, and in these circumstances, and particularly to avoid perhaps the need for further written clarification, I would indulge this court and ask for permission for just three minutes from the learning to end.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7204.72;7216.72;en>>
+Yes, I exceptionally grant you three more minutes, but I will grant 15 minutes to the respondent government. Please, you have the floor.
+
+[[Applicant;AP4]]
+
+<<7222.47;7235.65;en>>
+In response to Judge Spano's question about the best evidence on military presence, I refer to the first six points that I listed in my oral presentation.
+
+<<7235.65;7250.39;en>>
+I preface that by saying one should observe that whereas in Wazidu it was 30,000 Turkish soldiers that made the difference, in Ilashku it was only 1,500 Russian soldiers, which was sufficient to create effective overall control in the territory.
+
+<<7250.39;7256.17;en>>
+As to those six points that I highlighted, I make the following further observations.
+
+<<7256.17;7264.43;en>>
+There was the statement by the respondent's president about returning the security zones, completely unrebutted.
+
+<<7264.43;7265.87;en>>
+No suggestion he was misquoted.
+
+<<7265.87;7268.57;en>>
+That may well be the short answer to the whole jurisdiction point.
+
+<<7268.57;7269.45;en>>
+Forget their general.
+
+<<7269.45;7272.63;en>>
+Their own president has given you the answer.
+
+<<7272.63;7276.75;en>>
+I highlight the third point, the evidence from the International Institute of Strategic Studies.
+
+<<7276.75;7284.71;en>>
+I also refer to their military balance publication, which states in terms the respondent's troops make up a large contingency of the standing army in Karabakh.
+
+<<7284.71;7286.81;en>>
+The fourth and fifth points I also highlight.
+
+<<7286.81;7290.05;en>>
+The Charles Blandy analysis, which gives us numbers.
+
+<<7290.05;7298.11;en>>
+He estimates overall strength about 18,000 of which only 8,500 come from Nagorno-Karabakh.
+
+<<7298.11;7300.79;en>>
+Some 10,000 come from Armenia.
+
+<<7300.79;7302.43;en>>
+There we have figures.
+
+<<7302.43;7311.59;en>>
+Those broad figures are corroborated by my fifth point, the International Crisis Group report, quote, over half of Armenia's army are believed to be Armenian citizens.
+
+<<7311.59;7316.03;en>>
+The respondent attempted to discredit this by producing a statement from Mr. Richard Gagosi, one
+
+<<7316.03;7316.83;en>>
+of the sources.
+
+<<7316.83;7319.03;en>>
+I really urge the court to read that statement.
+
+<<7319.03;7322.01;en>>
+I said earlier, he doesn't actually withdraw his opinion.
+
+<<7322.01;7324.11;en>>
+He maintains his opinion as to what he stated.
+
+<<7328.07;7334.11;en>>
+One also needs to stand back and ask what evidence there is against that.
+
+<<7334.11;7335.83;en>>
+Not one single contemporary document.
+
+<<7335.83;7337.23;en>>
+They admit conscripts.
+
+<<7337.23;7339.83;en>>
+They don't give us documents on this, even though they have them.
+
+<<7339.83;7342.83;en>>
+Instead, they rely on this so-called expert, Dr. Harib
+
+<<7342.83;7349.15;en>>
+Bukur, remarkable document based on undocumented interviews.
+
+<<7349.15;7354.19;en>>
+It is worse than hearsay, because it doesn't actually tell us what the interview said.
+
+<<7354.19;7355.97;en>>
+And ultimately, you have these generals.
+
+<<7355.97;7359.55;en>>
+But one Sargassian says he doesn't know the position.
+
+<<7359.55;7365.27;en>>
+Another Balyan maintains massive defense procurement are official secrets.
+
+<<7365.27;7380.31;en>>
+Ultimately, the court has to prefer the independent, objective evidence that has been given, as I have outlined, which does its best to give numbers in circumstances where, as we have said, the respondent has a policy of dissembling and of trying to keep matters secret.
+
+<<7380.31;7386.11;en>>
+I'd also like to address Judge Zemel's question on the legal position.
+
+<<7388.63;7399.35;en>>
+Primarily, we are saying that all these international law authorities are not relevant, because we are construing the concept of jurisdiction in Article 1.
+
+<<7399.35;7403.47;en>>
+Alternatively, as we understand the point being made, it's really the respondent's point.
+
+<<7403.47;7420.19;en>>
+They are saying that Nicaragua and the genocide case, the ICJ, laid down a detailed control test in Nicaragua in relation to the actions of the Contras, in the genocide case in relation to the actions of the Bosnian Serbs.
+
+<<7420.19;7431.59;en>>
+Superficially, that would appear to be different to what the court has said in terms repeatedly in the cases I cited, Al-Skaini, Wazidu, Ilashku, where it says you don't have to show detailed control.
+
+<<7431.59;7434.23;en>>
+But it is a superficial difference.
+
+<<7434.23;7442.71;en>>
+It is not a real difference, we say, because in those cases, the court was developing its own concept of jurisdiction.
+
+<<7442.71;7444.51;en>>
+And it was a territorial concept.
+
+<<7444.51;7450.77;en>>
+If you look at the wording, everything it says is in the concept of talking about effective control over an area.
+
+<<7450.77;7457.99;en>>
+And it's in that context, it says you don't have to show detailed control over a local administration.
+
+<<7457.99;7462.83;en>>
+That point simply did not arise in Nicaragua or the genocide case.
+
+<<7462.83;7466.51;en>>
+They were talking about actions of specific individuals and groups.
+
+<<7466.51;7471.11;en>>
+It was much closer to the court state authority line of jurisprudence.
+
+<<7471.11;7474.99;en>>
+So there's no real difference.
+
+<<7474.99;7475.43;en>>
+That's the answer.
+
+[[JudgeP;Dean Spielmann]]
+
+<<7477.22;7478.02;en>>
+Thank you.
+
+<<7478.82;7481.82;en>>
+I give the floor now to Mr. Robertson.
+
+<<7481.82;7482.82;en>>
+Mr. Robertson, please.
+
+[[Government;GR2]]
+
+<<7483.53;7485.73;en>>
+Thank you, Mr. President.
+
+<<7485.73;7504.87;en>>
+If I may answer firstly, I think there were 10 questions to which I will have to answer, so I'm going to be rather quick and to try to identify those parts of our pleading, particularly our evidence, an argument which seems to answer the question.
+
+<<7504.87;7518.07;en>>
+The first question is whether Nagorno-Karabakh, not having signed the convention, applies it, given that Armenia and Azerbaijan has.
+
+<<7518.07;7526.13;en>>
+This is the legal black hole that is suggested by Azerbaijan.
+
+<<7526.13;7529.87;en>>
+Is Nagorno-Karabakh a legal black hole?
+
+<<7529.87;7531.87;en>>
+By no means.
+
+<<7531.87;7542.87;en>>
+Not only does it have 18, I think, 24 judges in full in a Supreme Court, but a bar association of over 50 lawyers.
+
+<<7542.87;7549.37;en>>
+And we have a convention that is applied.
+
+<<7549.37;7555.17;en>>
+The chief justice of Nagorno-Karabakh says so in terms.
+
+<<7555.17;7567.27;en>>
+When he was asked whether it was applied, he said that the courts of Nagorno-Karabakh apply the European Convention.
+
+<<7567.27;7582.17;en>>
+You'll find his statement, which sets out and refers to a number of cases, at Appendix 8 to our 2012 submissions.
+
+<<7582.17;7593.17;en>>
+And, indeed, we include a case, Appendix 32, to our 2012 submissions where the convention is applied.
+
+<<7593.17;7611.77;en>>
+So there is, and the judge from Lechin, who was also, gave a witness statement, said in terms that he applied the European Convention.
+
+<<7611.77;7623.47;en>>
+Well, I think that's Appendix 9 to our 2012 submissions.
+
+<<7623.47;7631.47;en>>
+So there you have the convention, European Convention, applied by the Supreme Court.
+
+<<7631.47;7634.77;en>>
+You have evidence from the chief justice that it is applied.
+
+<<7634.77;7642.07;en>>
+You have cases, he refers to a number of cases, where it's applied under Article 6 and so forth.
+
+<<7642.07;7649.87;en>>
+And you have the chief judge of the Lechin area saying in terms that he applies it.
+
+<<7649.87;7668.37;en>>
+So the second question, which was, is in terms of the ICJ approach and its connection with the current law applied by this court.
+
+<<7668.37;7689.67;en>>
+You will find our submissions on this matter at paragraphs 112 onwards, where we compare and contrast the ICJ approach in Nicaragua and other cases to the European approach, the European court approach in the Turkey cases.
+
+<<7689.67;7702.07;en>>
+We don't rely, as I said in my opening, we don't nail our colors to the ICJ mask, but we put the material before you.
+
+<<7702.07;7717.37;en>>
+And if you look at Judge Bernello's concurring opinion in Cyprus and Turkey, you'll see that he draws very strongly on the ICJ and says there's a dilemma here that the court has to solve.
+
+<<7717.37;7722.57;en>>
+It has a real problem in this area.
+
+<<7722.57;7732.27;en>>
+So we deal with the cases at 112 onwards, including Al-Skaini.
+
+<<7732.27;7755.37;en>>
+So in a sense, we recommend that the court square the circle and adopt the ICJ approach, which does in some respects is clearer, particularly in relation to showing effective control over the court system.
+
+<<7755.37;7760.17;en>>
+It's not just a matter of having, showing boots on the ground.
+
+<<7760.17;7775.77;en>>
+And of course, for all the spy cameras and satellites that the Azeri army has no doubt hovered over Nagora Karabakh, there's no example whatsoever of any Armenian unit on the ground.
+
+<<7775.77;7780.47;en>>
+But there needs to be control over the court system.
+
+<<7780.47;7783.87;en>>
+It's not enough to show that there is influence.
+
+<<7783.87;7789.77;en>>
+It's not enough to show, as they keep saying, that Armenia is a party to the conflict.
+
+<<7789.77;7806.97;en>>
+They've got to show that the strings that Armenia pulls, as they claim, are not just charitable donations, not just the fund, not just interrelationships, but actually are strings making judges puppets.
+
+<<7806.97;7813.27;en>>
+And the cases that we've produced show that Nagora Karabakh judges are not puppets.
+
+<<7813.27;7816.57;en>>
+They are independent.
+
+<<7816.57;7819.57;en>>
+Can I move to, I think, Judge Village's question?
+
+<<7819.57;7825.37;en>>
+What have Armenian courts got to do with this at all?
+
+<<7825.37;7842.07;en>>
+Because the answer to that, and we entirely agree, we say that the evidence that we put on shows that the claim against the Armenian army is no good.
+
+<<7842.07;7859.27;en>>
+Because if you read the applicant's statements, and I've approached them as if I were formulating a claim, they all say that we were bombed and shot at by the Armenian army or air force.
+
+<<7859.27;7861.57;en>>
+Now, that's their claim.
+
+<<7861.57;7880.67;en>>
+So, on that claim, they can come to Armenia and sue the army for alleged wrongdoing in the air force, even though we point out Armenia didn't have an air force at the time, and the dispossession was by the Nagora Karabakh army.
+
+<<7880.67;7882.97;en>>
+So, they've got a choice, in a sense.
+
+<<7882.97;7891.47;en>>
+They can come to Armenia and sue the army for extraterritorial wrongdoing in the courts of Armenia.
+
+<<7891.47;7902.57;en>>
+We've put on a statement by a local lawyer saying, of course, that Armenia will, courts can give damages for wrongdoing by the army anywhere in the world.
+
+<<7902.57;7914.27;en>>
+But, of course, if you read our statements, it's obvious that they're misconceived, that when they call, describe the Armenian army, they're really talking about the Nagora Karabakh defense force.
+
+<<7914.27;7929.87;en>>
+And, of course, if they sue in Nagora Karabakh, they have the additional ability to get their land back, because they can get restitution, because they'll re-register them, as they did in the Zafaroff and Aleyev cases.
+
+<<7929.87;7932.97;en>>
+So, they...
+
+<<7932.97;7946.07;en>>
+We say, look, your claim as formulated is a claim that's justiciable in Armenia because it alleges the Armenian army wrongly destroyed their home.
+
+<<7946.07;7950.87;en>>
+If that's right, if you get that up, then you get damages in Armenia.
+
+<<7950.87;7955.47;en>>
+But, in fact, the evidence is that Armenia wasn't there at all.
+
+<<7955.47;7961.77;en>>
+They were in barracks, and it was a Nagora Karabakh army who had possession, as you say, of your property.
+
+<<7961.77;7963.97;en>>
+So, you can sue in...
+
+<<7963.97;7969.37;en>>
+You can get your additional remedy in Nagora Karabakh.
+
+<<7969.37;7978.87;en>>
+Now, so, that is the answer to judge your question.
+
+<<7978.87;7981.17;en>>
+It's not that you've overlooked anything.
+
+<<7981.17;7997.67;en>>
+It's simply that their claim is against the Armenian army, and so they have a right, they have a remedy, if they can make good that claim, even though the evidence is that all they can get in Armenia is compensation.
+
+<<7997.67;8004.27;en>>
+They can get compensation for distress and so forth and for the loss of their property, destruction of their property.
+
+<<8004.27;8009.57;en>>
+But if they want their land back, of course, they've got to go to Nagora Karabakh.
+
+<<8009.57;8025.67;en>>
+Now, can we guarantee that the statement of the Nagora Karabakh judge, the Lechin judge, is still valid today?
+
+<<8025.67;8035.37;en>>
+Well, of course, we can't guarantee anything in Nagora Karabakh because we have no control over it, effective or ineffective.
+
+<<8035.37;8058.57;en>>
+But, and so we cannot speak with it, but his statement was taken when the agent of the Armenian government and myself went to see him in Lechin last, in July, I think, 2012.
+
+<<8058.57;8082.27;en>>
+So he emphasized that the European Convention would apply and that he was entirely independent of Armenian authorities and that he would give disclosure, he would give, he would order, he said, government representatives to come to court and face examination.
+
+<<8082.27;8093.27;en>>
+And he was, that statement was supported by other people in the administration in Lechin.
+
+<<8093.27;8109.87;en>>
+So to that extent, that statement is entirely credible and he evinced to us a desire to assist the court if his evidence wanted orally, he will certainly assist any fact-finding mission.
+
+<<8109.87;8128.77;en>>
+The latest cases, and I regret this, there has been, unfortunately, some confusion with the registry in a number of matters, but these were put up on the portal on Monday and we assumed that they would go to the judges in the other parties.
+
+<<8128.77;8138.57;en>>
+Our assumption was wrong, but they are there in a body of material that was put on the portal in relation to this case on Monday.
+
+<<8138.57;8143.97;en>>
+We're sorry, of course, Ms. Butler and her team
+
+<<8143.97;8157.97;en>>
+should have the opportunity to read them and make any comment they wish, and perhaps in the two weeks that we could be permitted in relation to written material, that can be done.
+
+<<8157.97;8161.07;en>>
+But they are document nine and document ten.
+
+<<8161.07;8173.47;en>>
+The Zafirov case is case two, stroke 260 of 2005 and the Aleev case is stroke two, 281 of 2003.
+
+<<8173.47;8179.07;en>>
+Both were cases in the court of Nagora Karabakh, first instance at Stepanakert.
+
+<<8179.07;8182.57;en>>
+Both cases were successful.
+
+<<8182.57;8188.77;en>>
+We are told there was no appeal and you will find them there.
+
+<<8188.77;8193.67;en>>
+They are almost identical cases to the applicant's case.
+
+<<8193.67;8202.67;en>>
+They concern IDPs who fled, who found that they could get a remedy because they inquired of Nagora Karabakh representatives in Russia.
+
+<<8202.67;8208.57;en>>
+They came back, they sued, the local authority refused to register their land.
+
+<<8208.57;8214.47;en>>
+They took them to court and the local authority was ordered to register their land.
+
+<<8214.47;8220.77;en>>
+Now, the sixth question, any legal...
+
+<<8220.77;8231.67;en>>
+We weren't sure whether this question was asking whether there was any law that prevents ownership of land in Nagora Karabakh by Azeris.
+
+<<8231.67;8234.77;en>>
+If that was the question, there certainly isn't.
+
+<<8234.77;8243.27;en>>
+There is indeed laws against discrimination on race or ethnicity.
+
+<<8243.27;8263.17;en>>
+If the question was whether there was any law that prevents expropriation by the Nagora Karabakh force of Azeri land, then there is, as we say, a rule against discrimination.
+
+<<8263.17;8276.77;en>>
+And you have the cases of Zafaroff and Aleev that show that you can get your land back if you are Azeris who have fled.
+
+<<8276.77;8291.97;en>>
+Now, the seventh question concerned passports and the evidence that we put on in our 2013 submissions show that you cannot, a Nagora Karabakh citizen, cannot get passports as of right.
+
+<<8291.97;8293.87;en>>
+There's a highly formal process.
+
+<<8293.87;8297.27;en>>
+You've got to show humanitarian reasons.
+
+<<8297.27;8304.67;en>>
+And we put on evidence of a case where a gentleman showed that he could only get medical treatment in Frankfurt.
+
+<<8304.67;8309.37;en>>
+And so that evidence was sent to the Armenian authorities.
+
+<<8309.37;8313.27;en>>
+They looked at it, and only then did they give it.
+
+<<8313.27;8317.27;en>>
+So it's not for a Nagora Karabakh.
+
+<<8317.27;8319.87;en>>
+And it is certainly not automatic.
+
+<<8319.87;8324.87;en>>
+There was another case of someone who was competing in an athletic event.
+
+<<8324.87;8335.97;en>>
+It is simply the fact that we are discriminated against by other countries, Nagora Karabakhians, as a charitable act.
+
+<<8335.97;8339.07;en>>
+Then there was the question about the minister statement.
+
+<<8339.07;8342.57;en>>
+Well, he's a politician, isn't he?
+
+<<8342.57;8349.77;en>>
+This is what these sort of statements are made by politicians on all sides for nationalistic reasons.
+
+<<8349.77;8357.57;en>>
+There are politicians in Azerbaijan who talk about bombing Nagora Karabakh and so forth.
+
+<<8357.57;8365.07;en>>
+I should say that an inquiry has been made about the number of passports issued to Nagora Karabakhians.
+
+<<8365.07;8376.87;en>>
+And it would appear that approximately 900 passports have been issued over the years since the agreement in 1998.
+
+<<8376.87;8388.87;en>>
+And so given that there are about 150,000 Nagora Karabakhians, that shows that it is, in fact, a very limited number.
+
+<<8388.87;8393.67;en>>
+The conscript cases, I think you asked about one conscript case.
+
+<<8393.67;8417.97;en>>
+The case, the 1994 Status of Forces Agreement, provides that, of course, the Armenian army, and it's got a court in Goris, which is in Armenia, just over the border, deals with discipline cases against Armenian conscripts who may be serving in the NK army.
+
+<<8417.97;8423.37;en>>
+There was one case, in fact, where all the witnesses were in Stepanakert.
+
+<<8423.37;8429.37;en>>
+And by agreement, the court moved from Goris to Stepanakert.
+
+<<8429.37;8432.07;en>>
+But for that, that was only one case.
+
+<<8432.07;8437.37;en>>
+I gather it's the only case, and it was exceptional and dealt with witnesses.
+
+<<8437.37;8442.87;en>>
+Finally, there was the question of the All-Armenian Fund.
+
+<<8442.87;8481.97;en>>
+And I think you have a similar number, the document 12, in our submissions that we put on the portal on Monday, that it would appear members of the court who have not been supplied with by the registry show that there are comparable numbers, the amounts each year given by the Armenian diaspora, and so as given by the United States Congress or Senate.
+
+<<8481.97;8485.87;en>>
+So that concludes the questions.
+
+<<8485.87;8495.67;en>>
+I will only comment that you've heard from the applicants that Charles Blandy's name crops up again.
+
+<<8495.67;8498.27;en>>
+Who is Charles Blandy?
+
+<<8498.27;8517.27;en>>
+This is the kind of thing they invite you to decide, a question as important as effective control by appeal to people about whom they tell you nothing, whose expertise is unknown.
+
+<<8517.27;8541.87;en>>
+And of course, you have the benefit of a very distinguished Romanian general who is an independent advisor, who has actually gone to both armies and looked at the evidence and has concluded that under no definition of effective control was Armenia heavy to carry back the Nagorno-Karabakh forces.
+
+[[JudgeP;Dean Spielmann]]
+
+<<8543.1;8545.1;en>>
+Thank you, Mr. Robertson.
+
+<<8545.1;8548.74;en>>
+We have now come to the end of the hearing.
+
+<<8548.74;8554.54;en>>
+I thank the parties for their interventions and answers to the Court's questions.
+
+<<8554.54;8557.42;en>>
+The Court will now deliberate on the merits.
+
+<<8557.42;8560.26;en>>
+The judgment will be delivered later.
+
+<<8560.26;8563.5;en>>
+The parties will be informed of the date of delivery.
+
+<<8563.5;8563.5;en>>
+I declare the hearing closed.
+

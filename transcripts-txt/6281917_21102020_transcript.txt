@@ -1,0 +1,1547 @@
+[[Announcer;UNK]]
+
+<<3.11;3.81;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<10.74;12.46;fr>>
+Bonjour.
+
+<<12.46;24.18;fr>>
+Je salue tous les participants à cette audience publique devant la Cour européenne des droits de l'homme, laquelle se tient par visioconférence en raison de la crise sanitaire.
+
+<<24.18;41.66;fr>>
+À cet égard, je voudrais commencer par remercier la partie récréante et le gouvernement pour leur coopération dans la préparation de cette audience sur le fonds de l'affaire Denis et Irvine contre Belgique, que je déclare à présent ouverte.
+
+<<41.66;52.86;fr>>
+Je tiens aussi à signaler que cette audience sera enregistrée dans son intégralité et diffusée sur la toile afin d'assurer son caractère public.
+
+<<52.86;62.02;fr>>
+Le podcast sera disponible sur le site Internet de la Cour aujourd'hui à partir de 14h30.
+
+<<62.02;70.86;fr>>
+Les requêtes ont été introduites devant la Cour le 21 août 2017 par un ressortissant belge, M. Jamie Denis,
+
+<<70.86;78.5;fr>>
+et un ressortissant britannique, M. Derek Irvine, en vertu de l'article 34 de la Convention.
+
+<<78.5;88.38;fr>>
+Elles ont été attribuées à la quatrième section de la Cour, conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<88.38;94.46;fr>>
+Les requêtes ont été communiquées au gouvernement le 12 février 2018.
+
+<<94.46;101.06;fr>>
+Le 8 octobre 2019, une chambre de la quatrième section a rendu son arrêt.
+
+<<101.06;115.94;fr>>
+Elle a déclaré les requêtes recevables et a conclu à l'unanimité à l'absence de violation de l'article 5, paragraphe 1 et article 5, paragraphe 4 de la Convention.
+
+<<115.94;134.22;fr>>
+Le 7 janvier 2020, la partie récurrente a demandé le renvoi de l'affaire devant la Grande Chambre, conformément à l'article 43 de la Convention, et cette demande a été acceptée par le Collège de la Grande Chambre le 24 février 2020.
+
+<<134.22;148.82;fr>>
+Le gouvernement est représenté par son agent, Mme Isabelle Niedlispacher, du Service public fédéral de la justice, assisté de M. Koen Lemmens, conseiller, et par Mme Justine Lefebvre, conseillère.
+
+<<148.82;153.86;fr>>
+Les requêtes sont représentées par M. Peter Verpoorten, avocat.
+
+<<153.86;158.62;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<158.62;166.18;fr>>
+Ayant consulté l'agent du gouvernement et le représentant des requêtes, j'ai fixé ainsi l'ordre des paroles.
+
+<<166.18;176.86;fr>>
+Nous entendrons successivement M. Verpoorten pour les requérants, puis Mme Niedlispacher et M. Lemmens pour le gouvernement.
+
+<<176.86;176.86;en>>
+M. Verpoorten, I now give you the floor. Please, you have the floor.
+
+[[Applicant;AP1]]
+
+<<186.32;189.08;en>>
+Thank you, Mr. President.
+
+<<189.08;193.76;en>>
+Mr. President, Honorable Judges of the Court,
+
+<<193.76;199.8;en>>
+Article 5 of the European Convention on Human Rights provides a guarantee for the liberty of the person.
+
+<<199.8;205.2;en>>
+The right to liberty and security is of the highest importance in a democratic society.
+
+<<205.2;210.54;en>>
+Only in a limited number of situations provided by Article 5 can one be deprived of liberty.
+
+<<210.54;214.84;en>>
+These situations furthermore need to be regulated by domestic law.
+
+<<214.84;221.5;en>>
+One of these enumerated situations concerns the necessary detention of the mentally ill.
+
+<<221.5;227.94;en>>
+The Belgian domestic law regarding the detention of people suffering from a mental health problem has two different systems.
+
+<<227.94;238.82;en>>
+There is a civil law system, the so-called forced admission, laid down in the law of 26 June 1990, concerning the protection of the mentally ill person.
+
+<<238.82;241.3;en>>
+This is a system that has two main pillars.
+
+<<241.3;247.9;en>>
+Firstly, the obligation placed on the clinics to admit anyone committed by the judge or the state prosecutor.
+
+<<247.9;257.94;en>>
+And secondly, the flexibility of the law, which places a lot of the decision-making directly in the hands of the psychiatrist treating the patient.
+
+<<257.94;261.92;en>>
+Then there is a second system, which is part of the Belgian criminal law.
+
+<<261.92;275.7;en>>
+This is the internment system, which was enshrined in the social defense law of July 1, 1964, until that law was replaced on the 1st of October 2016 by the internment law of 5 May 2014.
+
+<<275.7;283.62;en>>
+This system has a lot of problems, as your court has already seen in a veritable avalanche of procedures introduced in Strasbourg.
+
+<<283.62;307.02;en>>
+These procedures have eventually led to the pilot judgment of September 6, 2016, in the case WD against Belgium, where your court has concluded that the Belgian internment system is structurally dysfunctional and that the system itself is responsible for the constant and ongoing violations of the convention rights of the persons who are placed under an internment measure.
+
+<<307.02;319.86;en>>
+The basic differences between the internment system and the system of forced admission are, firstly, that the internment system can and does place people in prison until there is an institution willing to admit them.
+
+<<319.86;329.14;en>>
+There was, until recently, no obligation for any psychiatric institution in the Dutch-speaking part of the country to accept any of them.
+
+<<329.14;342.78;en>>
+This problem has been remedied slightly by the opening of two Dutch-speaking forensic psychiatric centers in Ghent and Antwerp in the last few years, which have, in theory, the obligation to accept any patient.
+
+<<342.78;352.34;en>>
+But these two centers are already operating at maximum capacity, while there are still hundreds of people waiting in prison for a placement in an appropriate institution.
+
+<<352.34;368.26;en>>
+There used to be an exceptional procedure in Article 14 of the Social Defense Law of 1964, where the competent internment tribunal under that law, the Social Defense Commission, could order the placement in a private psychiatric institution.
+
+<<368.26;376.74;en>>
+This provision was seldom used, and the occasional placement decision met with intense resistance of the psychiatric institutions concerned.
+
+<<376.74;387.1;en>>
+After intense lobbying from the private psychiatric sector, this exceptional procedure was abolished by the new internment law of 2014.
+
+<<387.1;395.46;en>>
+So there is, to this day, as your court has found in the pilot judgment, a bottleneck in the flow of a criminal law internment measure.
+
+<<395.46;412.54;en>>
+And this shortage of places leads to systematic human rights violations by keeping the persons concerned longer than a reasonable time in prison, a problem that is completely absent from the civil law forced admission.
+
+<<412.54;417.9;en>>
+This is a first fundamental difference between the two procedures.
+
+<<417.9;439.62;en>>
+Secondly, where the Social Defense Law was relatively flexible, with a hearing before the Social Defense Commission every six months, the new internment law states in Article 43 that the current competent tribunal, the Social Protection Chamber of the Tribunal for the Application of Sentences, can limit the hearings to once a year.
+
+<<439.62;442.54;en>>
+And this is exactly what happens in practice.
+
+<<442.54;448.14;en>>
+Theoretically, they can limit this waiting period, but that is only rarely done.
+
+<<448.14;487.42;en>>
+As we read in the report of the European Committee for the Prevention of Torture of 8 March 2018, the government has replied in their public response of June 2018 to the CPT report that they found it not opportune to consider two hearings a year.
+
+<<487.42;496.94;en>>
+So we have the previous internment law that your court has found, after extensive consideration in a pilot judgment, to be structurally dysfunctional.
+
+<<496.94;509.64;en>>
+And we have a new internment law that has scrapped the exceptional placement procedure of the old law, and that has in practice resulted in psychiatric patients in prisons limited to one hearing a year.
+
+<<509.64;517.78;en>>
+Nevertheless, the Belgian government will try to sell this new law as a law that better guarantees the basic rights of the persons involved.
+
+<<517.78;529.74;en>>
+In my opinion, it takes a certain je ne sais quoi to take a structural dysfunctional law and replace it with a new law that offers even less protection to the people within its scope.
+
+<<529.74;541.58;en>>
+Nevertheless, even the old social defense law lacked the therapeutical flexibility of the forced admission system, with none of the autonomy for the psychiatrist treating the patient.
+
+<<541.58;554.64;en>>
+There was always a strict framework of conditions placed on the trial liberation by the Social Protection Commission, limiting what could be done by the patient and the institution.
+
+<<554.64;559.64;en>>
+This has not changed with the new internment law.
+
+<<559.64;578.78;en>>
+To conclude this point, there is a fundamental difference between the forced admission procedure and the internment procedure, with the latter being the much more strict and much more rigid, even when we take the structurally dysfunctional nature of the internment system out of the equation.
+
+<<578.78;590.34;en>>
+And this, in the name of a professed much greater need for the protection of society concerning the people who fall under the scope of the criminal law internment system.
+
+<<590.34;598.04;en>>
+Your court may note that there is no difference between the diagnosis of the people involved.
+
+<<598.04;603.62;en>>
+Both systems apply to the exact same psychiatric illnesses.
+
+<<603.62;611.7;en>>
+Furthermore, we must note that both systems are meant for people who pose a certain qualified risk to society.
+
+<<611.7;630.02;en>>
+A forced admission is limited by Article 2 of the law to people who meet the following condition, because he puts his health and safety in grave danger, or either because he forms a serious threat towards other people's life or integrity.
+
+<<630.02;658.62;en>>
+On the other hand, the conditions lay down in Article 9 of the internment law of 2014, which states that a person who has committed a crime or offense may pose a risk to society.
+
+<<658.62;667.86;en>>
+But as a consequence of the fundamental differences we have explained earlier, the internment system is a much more harsh system to be placed under.
+
+<<667.86;679.5;en>>
+Therefore, there is a general consensus it should only be used when the additional strictness of the internment system is in itself a necessity to protect society.
+
+<<679.5;695.7;en>>
+So in order to differentiate between the target population of the two laws in function to determine whether or not an internment measure with all that that comprises is necessary, there is a legal threshold.
+
+<<695.7;706.3;en>>
+The threshold in the old social defense law of 1964 was quite simply to have committed an offense punishable by more than seven days imprisonment.
+
+<<706.3;710.42;en>>
+It is quite obvious that this was an extremely feeble threshold.
+
+<<710.42;713.86;en>>
+One could, for example, be interned for spraying graffiti.
+
+<<713.86;716.14;en>>
+Minimum punishment is one month.
+
+<<716.14;721.38;en>>
+Or for the demolition of a fence, the minimum punishment is eight days.
+
+<<721.38;731.66;en>>
+This low threshold gave rise to cases where the full force of an internment measure was used for situations where this was objectively completely unnecessary.
+
+<<731.66;745.34;en>>
+The former justice minister has recognized in his proposal of law for the fundamental overhaul of the new internment law before it came into force that this was an improper use of the internment measure.
+
+<<745.34;759.7;fr>>
+L'objectif est de se focaliser sur ces personnes pour lesquelles cette mesure de sûreté est véritablement nécessaire, dès le début, pour une durée indéterminée et desquelles la société et les victimes doivent être protégées.
+
+<<759.7;766.36;fr>>
+Cela permet de contrer un usage impropre de la mesure d'internement.
+
+<<766.36;776.78;en>>
+This improper use is recognized in the abstract by the government in the brief they have filed in the case of Mr. Dennis and Mr. Irvine, while citing the words of the former justice
+
+<<776.78;781.98;en>>
+minister in the Justice Committee of the Chamber of Representatives.
+
+<<781.98;800.14;fr>>
+L'introduction d'un seuil pour pouvoir procéder à l'internement afin de concentrer la mesure d'internement sur le groupe cible qui en a besoin et d'éviter qu'une mesure d'internement à durée indéterminée puisse être ordonnée pour des faits relativement mineurs.
+
+<<800.14;812.7;en>>
+This objective limiting the scope of the internment measure to a target group of people who really need it because of the specific offenses they committed is pretty clear.
+
+<<812.7;820.74;en>>
+In light of the O'Keeley judgment of your court, the Belgian legislature has decided that the threshold should be raised.
+
+<<820.74;826.62;en>>
+It is worth remarking that the facts for which Mr. O'Keeley had been placed under internment
+
+<<826.62;836.56;en>>
+measure, theft with violence, would still be within the scope of the new internment law of 2014 as they meet the threshold inscribed in the new law.
+
+<<836.56;841.98;en>>
+This is not the case for Mr. Dennis and Mr. Irvine.
+
+<<841.98;845.18;en>>
+Mr. Dennis stole a car from an acquaintance.
+
+<<845.18;847.72;en>>
+The car was recovered a week later.
+
+<<847.72;852.38;en>>
+These facts cannot give rise to an internment measure under the new law.
+
+<<852.38;863.22;en>>
+While this offense was committed in May 2005, the internment decision was handed down in June 2007, more than two years after the facts.
+
+<<863.22;870.9;en>>
+Furthermore, when we read the psychiatric expertise of Dr. Asma, piece one of the government,
+
+<<870.9;876.32;en>>
+we see clearly that Mr. Dennis was the subject of a forced admission two times between committing
+
+<<876.32;879.32;en>>
+the offense and the internment decision.
+
+<<879.32;887.42;en>>
+There was no need for an internment measure, the expertise stated clearly that he was in need of psychiatric therapy.
+
+<<887.42;896.06;en>>
+And in the conclusion of the report, the doctor clearly states it was even possible as an outpatient, but the forced admission was better.
+
+<<896.06;901.12;en>>
+Mr. Irvine on his part was apprehended by the police after he entered an uninhabited
+
+<<901.12;908.62;en>>
+squat by the basement and while leaving, smashing the window of the front door with a bar stool.
+
+<<908.62;912.5;en>>
+He left his shoes and his shirt before leaving the scene.
+
+<<912.5;918.62;en>>
+Neither of these offenses fall within the scope of the new internment law.
+
+<<918.62;924.96;en>>
+The question before your court today is therefore a relatively simple one.
+
+<<924.96;940.26;en>>
+Is it legal in the sense of the convention to keep a person under an internment measure when a situation does not meet the threshold of this regime of deprivation of liberty explicitly enshrined in the new law?
+
+<<940.26;945.82;en>>
+Neither Mr. Dennis nor Mr. Irvine fall in the target population of the internment law.
+
+<<945.82;950.32;en>>
+Neither Mr. Dennis nor Mr. Irvine have committed offenses that meet the threshold of the internment
+
+<<950.32;951.46;en>>
+law.
+
+<<951.46;958.86;en>>
+They both suffer from mental health issues that are dealt with each and every day in the alternative system of forced admission.
+
+<<958.86;963.02;en>>
+How can this not be arbitrary?
+
+<<963.02;967.5;en>>
+It falls upon the government to justify why they treat Mr. Dennis and Mr. Irvine completely
+
+<<967.5;976.16;en>>
+different than people who suffer from the same mental health issues as the applicants and who have committed the same offenses as the applicants.
+
+<<976.16;986.18;en>>
+Without proper justification, treating people in the same situation differently is a textbook definition of arbitrariness and that justification is lacking.
+
+<<986.18;989.86;en>>
+The reasons the government gives come down to this.
+
+<<989.86;998.56;en>>
+We have a definitive internment judgment and we kept them in the system because that is the most stable way of doing things.
+
+<<998.56;1008.46;en>>
+Both arguments are in direct opposition of the basic principles your court has formulated in its jurisprudence concerning the detention of people suffering of mental illness.
+
+<<1008.46;1013.84;en>>
+In the case of Mr. Ukili, the ultimate finding of your court that the necessary link between
+
+<<1013.84;1022.58;en>>
+the goal of the detention and the conditions of the detentions was broken rested on two separate conclusions.
+
+<<1022.58;1030.18;en>>
+One that the incarceration in a prison instead of an institution that was adapted to his needs had broken this necessary link.
+
+<<1030.18;1053.22;en>>
+But there was a second consideration that cannot be waived away as superfluous as the government tries to do.
+
+<<1053.22;1058.18;en>>
+That offenses committed are minor and that Mr. Ukili seems not to present a real danger
+
+<<1058.18;1059.76;en>>
+to society.
+
+<<1059.76;1070.8;en>>
+In other words, that he does not meet a substantive threshold for an internment measure and that this means that the necessary link is simply not there.
+
+<<1070.8;1093.12;en>>
+This is in line with your court has held in other judgments.
+
+<<1093.12;1099.74;en>>
+For example, the decision in the grand chamber judgment in the case against Germany.
+
+<<1099.74;1108.08;en>>
+In order for the detention to be lawful and not arbitrary, the deprivation of liberty must be shown to have been necessary in the circumstances.
+
+<<1108.08;1120.98;en>>
+The detention of an individual is such a serious measure that it is only justified where other less severe measures have been considered and found to be insufficient to safeguard the individual or public interest.
+
+<<1120.98;1135.9;en>>
+This element of proportionality that the more serious measure is necessary because other less severe measures have been considered and found to be insufficient is a cornerstone of the protection against arbitrariness.
+
+<<1135.9;1144.66;en>>
+This element of proportionality is equally in play between two different systems of deprivation of liberty as in the cases of Mr. Dennis and Mr. Irvine.
+
+<<1144.66;1154.02;en>>
+The more serious detention measure can only be applied when the specific circumstances of the case meets the legal threshold of this measure.
+
+<<1154.02;1159.18;en>>
+And this, in our opinion, is an oversight in the section judgment.
+
+<<1159.18;1165.46;en>>
+There the principles of the winter where a judgment of your court are correct correctly applied.
+
+<<1165.46;1169.7;en>>
+But the decision is not if Mr. Dennis and Mr. Irvine meet the conditions to be deprived
+
+<<1169.7;1173.06;en>>
+of their liberty in the light of their mental illness.
+
+<<1173.06;1175.82;en>>
+This has never been contested.
+
+<<1175.82;1182.5;en>>
+The winter where the principles are general principles for each and every detention of a mentally ill person.
+
+<<1182.5;1192.82;en>>
+They can justify a basic detention in the form of a forced admission, but they do not justify as such a criminal law internment measure.
+
+<<1192.82;1198.02;en>>
+For a criminal law internment measure, the winter where the principles are necessary but not sufficient.
+
+<<1198.02;1208.94;en>>
+This much stricter system needs additionally to meet other much stricter criteria that are found in the jurisprudence of your court to be considered legal under the convention.
+
+<<1208.94;1233.22;en>>
+As your court stated in the Simons against Belgium judgment, the general principles implied by the convention to which the Article 5, paragraph 1 case law refers are the principle of the rule of law and connecting to the latter that of legal certainty, the principle of proportionality, and the principle of protection against arbitrariness, which is moreover the very aim of Article 5.
+
+<<1233.22;1245.42;en>>
+So we derive from the case law of your court that the element of proportionality is an equal part of the consideration of the necessity for an internment measure to be legal under the convention.
+
+<<1245.42;1264.64;en>>
+And so the two side by side holdings of the O'Keeley judgment, the inappropriate conditions of his detention on one side and the disproportionality of the internment measure on the other side are two equally important elements to determine whether or not there is arbitrariness.
+
+<<1264.64;1284.9;en>>
+Your court has indicated that arbitrariness may arise where there was no connection between the ground of permitted deprivation of liberty relied on and the place and conditions of detention and where there was no relationship of proportionality between the ground of detention relied on and the detention in question.
+
+<<1284.9;1291.94;en>>
+There is, in our opinion, no connection between the conditions of their detention and the facts of their case as required.
+
+<<1291.94;1298.26;en>>
+There is no proportionality between the reason of their detention and the detention in question.
+
+<<1298.26;1308.62;en>>
+The argument, a definitive judgment does not, as the Belgian government argues, overrule the substantive criteria that your court has set forth.
+
+<<1308.62;1314.46;en>>
+Article 5, paragraph 1.e of the convention is by definition a field where all decisions
+
+<<1314.46;1324.14;en>>
+are to be held time and again against the light to verify that further detention is warranted and all the substantive criteria are met.
+
+<<1324.14;1335.74;en>>
+Neither is a government desire for maximum stability a sufficient reason to put aside the fundamental right of its citizens to the maximum degree of freedom that is possible considering their mental illness.
+
+<<1335.74;1342.3;en>>
+Every further degree of restriction of the right to freedom must be necessary and proportional.
+
+<<1342.3;1352.46;en>>
+As we examine the daily practice in Belgium, where people with the exact same mental health issues as Mr. Denes and Mr. Irvine and who have committed the same minor offenses as
+
+<<1352.46;1358.86;en>>
+Mr. Denes and Mr. Irvine are dealt with without any problems under the civil forced admission
+
+<<1358.86;1365.86;en>>
+law, then there seems to be a fundamental problem in the light of this proportionality requirement.
+
+<<1365.86;1375.06;en>>
+As we see that the former justice minister himself admitted that an internment measure in these situations amounts to an improper use of the internment measure.
+
+<<1375.06;1379.18;en>>
+As we find that the government itself admits in its brief before this hearing that Mr.
+
+<<1379.18;1384.58;en>>
+Denes and Mr. Irvine do not belong to the population targeted by the internment law.
+
+<<1384.58;1389.94;en>>
+There is one law meant for people like the applicants, the civil law concerning the forced admission.
+
+<<1389.94;1395.58;en>>
+There was another law not meant for people like the applicants, the criminal law concerning the internment.
+
+<<1395.58;1402.74;en>>
+There is no substantive justification to keep them in a system that is clearly not designed for them.
+
+<<1402.74;1412.86;en>>
+In summing up, I think there is a serious argument here that the prolongation of the internment measure of Mr. Denes and Mr. Irvine does not meet the proportionality requirement
+
+<<1412.86;1416.62;en>>
+of the convention.
+
+<<1416.62;1422.14;en>>
+The government puts forth that there are no questions arising under article 5.4 of the
+
+<<1422.14;1431.06;en>>
+convention as there was in their opinion no violation of article 5 paragraph 1e of the convention.
+
+<<1431.06;1440.34;en>>
+Taking abstraction of the fact that applicants are of the opinion that there was a violation of article 5 paragraph 1 of the convention, the thesis of the government is incorrect.
+
+<<1440.34;1443.58;en>>
+The question is not whether or not there was a basic violation.
+
+<<1443.58;1450.78;en>>
+The question is if there is an effective remedy in the case of a specific violation.
+
+<<1450.78;1468.18;en>>
+As we read in the case law of your court, the fact that the court has found no breach of the requirements of article 5 paragraph 1 of the convention does not mean that it is dispensed from carrying out a review of compliance with article 5 paragraph 4.
+
+<<1468.18;1477.62;en>>
+The two paragraphs are separate provisions and observance of the former does not necessarily entail observance of the latter.
+
+<<1477.62;1493.7;en>>
+A competent tribunal to hear the challenges of the legality of the detention in a timely fashion is fundamental for the respect of this requirement concerning the tensions that find their legal base in article 5 paragraph 1e of the convention.
+
+<<1493.7;1510.86;en>>
+As your court put it, in cases where the grounds justifying the person's deprivation of liberty are susceptible to change with the passage of time, the possibility of recourse to a body satisfying the requirements of article 5 paragraph 4 of the convention is required.
+
+<<1510.86;1532.18;en>>
+And further, the notion of lawfulness under article 5 paragraph 4 has the same meaning as in article 5 paragraph 1 so that the arrested or detained person is entitled to a review of the lawfulness of his detention in the light not only of the requirements of domestic law but also of the convention.
+
+<<1532.18;1540.46;en>>
+The general principles embodied therein and the aim of the restrictions permitted by article 5 paragraph 1.
+
+<<1540.46;1552.98;en>>
+In reviewing the current legal framework of the internment measure of the applicants, there can be in my opinion no discussion that there is no remedy whatsoever for their demands of redress under the convention.
+
+<<1552.98;1574.18;en>>
+By virtue of article 5 paragraph 4, a detainee is entitled to apply to a court having jurisdiction to decide speedily whether or not his deprivation of liberty has become unlawful in the light of new factors which have emerged subsequently to the initial decision depriving a person of his liberty.
+
+<<1574.18;1579.86;en>>
+The standard time lapse between two hearings is as we have earlier demonstrated one year.
+
+<<1579.86;1584.9;en>>
+This cannot be determined to be as speedy as required by the convention.
+
+<<1584.9;1596.1;en>>
+There was the option to get a hearing by the urgency procedure under article 54 of the internment law but this procedure has been abolished in 2019.
+
+<<1596.1;1603.38;en>>
+Furthermore, the competent court must have the power to order release if it finds that the detention is unlawful.
+
+<<1603.38;1607.94;en>>
+The mere power of recommendation is insufficient.
+
+<<1607.94;1620.26;en>>
+There is only one legal ground for release in the internment law, the definitive liberation after a trial period of three years of article 66B of the internment law.
+
+<<1620.26;1627.7;en>>
+A law with this as sole option is obviously not compatible with the requirements of the convention.
+
+<<1627.7;1648.82;en>>
+The court of cassation has added another by way of its decision of the 9th of April 2019, the option of a definitive liberation for people who are no longer of unsound mind and for whom there is no longer any reasonable risk that they will again commit offenses as envisioned by article 9 paragraph 1 of the internment law.
+
+<<1648.82;1655.02;en>>
+This is not sufficient in the light of article 5 paragraph 4 of the convention.
+
+<<1655.02;1661.82;en>>
+Nevertheless, there was and still is no other effective remedy in the internment law for the claims of applicants.
+
+<<1661.82;1668.82;en>>
+The exceptional transfer of article 14 of the social defense law of 1964 has been abolished.
+
+<<1668.82;1705.3;en>>
+There are no private psychiatric institutions that have negotiated a contract of cooperation that is required under the new internment law for the chamber for the protection of society to order a direct placement in a private psychiatric institution and a transfer to the only appropriate institution that has this option under the law, the forensic psychiatric centers of Ghent and Antwerp, is practically impossible as every place there is filled, making this a theoretical option but not a real and effective remedy as required by article 5 paragraph 4 and 13 of the convention.
+
+<<1705.3;1709.5;en>>
+Furthermore, the government is quite clear in its submissions.
+
+<<1709.5;1719.46;en>>
+The chamber for the protection of society cannot examine the claim that the applicants do not fulfill the threshold criteria enshrined in article 9 paragraph 1 of the internment law.
+
+<<1719.46;1731.06;en>>
+There is a definitive decision that cannot be appealed, even though when that decision was taken nine years before article 9 became in force in case of Mr. Dennis and 15 years
+
+<<1731.06;1733.34;en>>
+in case of Mr. Irvine.
+
+<<1733.34;1739.86;en>>
+This is evidently as absurd as it sounds concerning mentally ill people.
+
+<<1739.86;1749.2;en>>
+Neither the section judgment nor the domestic decisions take the element of proportionality or the appropriateness of the internment measure into account.
+
+<<1749.2;1756.62;en>>
+They just apply the Winterwerp criteria in a legal and factual void, which is in our opinion an oversight.
+
+<<1756.62;1771.84;en>>
+Therefore, it is clear that there was and still is no competent court with appropriate jurisdiction to remedy in a speedy way the potential violations of the convention that rendered the deprivation of liberty of the applicants potentially unlawful.
+
+<<1771.84;1783.74;en>>
+In this regard, the domestic situation has not significantly changed since your court reached that exact conclusion in the pilot judgment of September 6, 2016.
+
+<<1783.74;1785.26;en>>
+This concludes my remarks.
+
+<<1785.26;1785.26;en>>
+Mr. President, I thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<1790.36;1791.88;en>>
+Thank you very much indeed.
+
+<<1791.88;1798.24;en>>
+Mr. Verpoorten, I confirm that both audio and video were clear throughout.
+
+<<1798.24;1801.04;en>>
+So I turn to the government.
+
+<<1801.04;1801.04;en>>
+Madam Niedlispacher, vous avez la parole.
+
+[[Government;GR3]]
+
+<<1804.49;1806.09;fr>>
+Je vous remercie, Monsieur le Président.
+
+<<1807.17;1812.95;fr>>
+Monsieur le Président, Mesdames et Messieurs les juges, permettez-moi une brève introduction.
+
+<<1813.57;1821.37;fr>>
+Jusqu'en 2016, une mesure d'internement pouvait être prise à l'égard d'une personne ayant commis des faits relativement mineurs.
+
+<<1822.45;1829.37;fr>>
+C'est dans ce cadre que les requérants furent internés, respectivement en 2007 et en 2002.
+
+<<1829.37;1832.89;fr>>
+Ces décisions sont devenues définitives.
+
+<<1836.97;1844.53;fr>>
+Aujourd'hui, les faits qu'ils ont commis ne pourraient plus donner lieu à un internement, il est vrai.
+
+<<1846.25;1861.37;fr>>
+Ainsi, les requérants affirmaient-ils devant les juridictions belges et devant la Chambre que leur internement n'avait plus de base légale et ne répondait dès lors plus aux exigences de l'article 5, paragraphe 1er.
+
+<<1861.85;1871.73;fr>>
+Ils défendent désormais que le problème n'est pas tant la base légale que le caractère inapproprié de leur internement.
+
+<<1871.93;1890.93;fr>>
+La loi ayant changé et réservant l'internement à des cas plus lourds que le leur, les requérants estiment ne plus pouvoir être présentés en charge correctement du point de vue thérapeutique depuis le changement de législation.
+
+<<1891.81;1899.05;fr>>
+Ils mobilisent à cet effet les enseignements des arrêts Winterwerp contre Pays-Bas et Ukkili contre Belgique.
+
+<<1902.37;1914.45;fr>>
+Cette clarification est nécessaire puisque ce nouvel argument, qui nous le démontrerons que le précédent, pose également des questions de recevabilité à ce stade de la procédure.
+
+<<1916.93;1934.61;fr>>
+Jamais dans le cadre, que ce soit devant les juridictions belges ou devant votre Chambre, les requérants n'ont contesté souffrir de troubles mentaux nécessitant un internement ou affirmer que le traitement reçu n'était pas approprié.
+
+<<1934.61;1953.49;fr>>
+Sur le plan de l'article 5, paragraphe 4, les requérants se plaignent de n'avoir pu bénéficier d'un recours effectif n'ayant obtenu du juge belge de décision de libération définitive au motif que la loi a changé depuis la mesure définitive d'internement prise à leur égard.
+
+<<1955.49;1965.25;fr>>
+Le gouvernement souhaite vous exposer pourquoi il ne peut souscrire à aucun des arguments de l'article 5, paragraphe 4, et pourquoi il ne peut souscrire à aucun des arguments développés.
+
+<<1967.97;1974.01;fr>>
+Commençons par l'évolution de la situation des requérants depuis l'arrêt de Chambre d'octobre 2019.
+
+<<1976.41;1984.81;fr>>
+Monsieur Dennis est libéré à l'essai au centre de psychiatrie Saint-Jean-Baptiste depuis le 12 juin dernier.
+
+<<1986.37;1998.85;fr>>
+Il avait préalablement été placé à la section de défense sociale de la prison de Merk-Place à la suite de la révocation de sa précédente libération à l'essai de 2017.
+
+<<2002.17;2010.01;fr>>
+Monsieur Erwine est actuellement placé au centre de psychiatrie légale d'Anvers depuis 2018.
+
+<<2011.37;2015.49;fr>>
+Un nouvel examen annuel de sa situation devait avoir lieu en août dernier.
+
+<<2016.53;2027.13;fr>>
+Il a été reporté en octobre dans l'attente d'informations sur la possibilité pour le requérant d'être libéré à l'essai dans une institution écossaise, son pays d'origine.
+
+<<2029.45;2035.13;fr>>
+Il est par ailleurs, depuis le 18 septembre, placé sous administration de biens.
+
+<<2038.85;2044.45;fr>>
+Passons désormais à la première question de votre cours qui porte sur la prolongation de l'internement des requérants.
+
+<<2044.45;2056.73;fr>>
+Comme exprimé en guise d'introduction, les décisions d'internement prises à l'égard des requérants avaient force de choses jugées depuis environ dix ans lors de l'entrée en vigueur de la nouvelle loi.
+
+<<2057.05;2076.61;fr>>
+Il ressort des débats parlementaires et de la jurisprudence de la Cour de cassation que la nouvelle loi n'avait pas vocation à affecter les décisions d'internement prises sur la base de l'ancienne loi de défense sociale est devenue définitive. Il s'agit d'un choix pour un maintien
+
+<<2076.61;2080.13;fr>>
+à maxima de la stabilité juridique.
+
+<<2081.53;2095.61;fr>>
+On ne peut donc déduire du seul élément que les faits pour lesquels les requérants ont été internés il y a 13 et 18 ans ne peuvent plus donner lieu à un internement, que cet internement n'a plus de base légale.
+
+<<2095.61;2119.81;fr>>
+Comme l'a souligné la Cour de cassation, l'article 5 n'a pas pour conséquence qu'une mesure d'internement imposée définitivement n'est plus imposée régulièrement ou légalement parce que la loi change au cours de la phase d'exécution et a ainsi pour conséquence que cette mesure ne peut plus être imposée à l'avenir pour le fait pour lequel l'intéressé a déjà été interné.
+
+<<2119.81;2130.41;fr>>
+Ainsi l'argument présenté devant les juridictions belges et devant la Chambre manquait en droit. Il n'y a pas violation de l'article 5
+
+<<2130.41;2138.53;fr>>
+paragraphe 1er de la convention. Si malgré les problèmes de recevabilité
+
+<<2138.53;2155.65;fr>>
+déjà mentionnés, le débat devait désormais se concentrer sur l'évaluation de la dangerosité des requérants et des éléments pertinents par les autorités compétentes en vue du maintien de leur internement, la conclusion ne serait pas autre.
+
+<<2155.65;2169.69;fr>>
+En effet, si nous examinons la situation des requérants à la lumière des enseignements de Winterwerp, nous pouvons conclure de ce qui précède que le premier des critères de votre jurisprudence est rempli.
+
+<<2169.69;2173.93;fr>>
+L'internement des requérants a une base légale.
+
+<<2173.93;2183.93;fr>>
+Le deuxième critère de votre jurisprudence est la présence de troubles mentaux au moment de la décision d'internement.
+
+<<2183.93;2196.93;fr>>
+Or, en l'espèce, les requérants ont été internés après que des problèmes psychiatriques aient été détectés. Des psychiatres ont évalué que des
+
+<<2196.93;2208.93;fr>>
+troubles mentaux spécifiques et sérieux, que Maître Overpoort ne conteste d'ailleurs nullement, étaient à l'origine de l'internement.
+
+<<2208.93;2212.93;fr>>
+La deuxième condition est incontestablement remplie.
+
+<<2212.93;2223.93;fr>>
+Le troisième critère, enfin, est le contrôle de la persistance des troubles mentaux. Il se dégage de la jurisprudence de votre
+
+<<2223.93;2232.93;fr>>
+cours que la présence de ces troubles doit être contrôlée, évidemment, pendant l'internement. Un tel contrôle est prévu par les
+
+<<2232.93;2245.93;fr>>
+dispositions transitoires de la nouvelle loi sur l'internement et a bien eu lieu en l'espèce. Si l'on se concentre donc sur les éléments factuels
+
+<<2245.93;2258.93;fr>>
+ayant mené aux décisions contestées devant votre cours, soit les décisions de 2017, on remarque ce qui suit. Le dossier du premier requérant,
+
+<<2258.93;2263.93;fr>>
+M. Dennis, contient des rapports de la psychologue du service
+
+<<2263.93;2268.93;fr>>
+psychosocial de la prison de Mercks-Place de 2016 et 2017.
+
+<<2268.93;2286.93;fr>>
+Il témoigne d'un suivi approprié, en collaboration avec, entre autres, des psychiatres et du souci de trouver des moyens d'encadrer le reclassement du requérant. Mais surtout, il est rappelé dans ses rapports que le requérant
+
+<<2286.93;2293.93;fr>>
+s'est rendu, durant sa libération à l'essai, dans une pharmacie, dans un état confus et sous l'influence d'une psychose.
+
+<<2293.93;2297.93;fr>>
+Il a annoncé qu'il irait faire des choses folles.
+
+<<2297.93;2310.93;fr>>
+C'était à la suite de cet incident que sa libération à l'essai a malheureusement été révoquée. Si au moment de la dernière décision, avant la saisine
+
+<<2310.93;2314.93;fr>>
+de votre cours en ce dossier, l'état de M. Dennis s'était stabilisé,
+
+<<2314.93;2327.93;fr>>
+un traitement résidentiel restait nécessaire, eu égard aux troubles psychotiques encore existants. La même constatation s'impose
+
+<<2327.93;2334.93;fr>>
+par rapport à M. Erwine. Son dossier contient des rapports psychiatriques
+
+<<2334.93;2344.93;fr>>
+et psychologiques récents, dont il ressort non seulement qu'il a été suivi, mais surtout que des troubles mentaux sérieux existent encore.
+
+<<2344.93;2360.93;fr>>
+Cela résulte notamment de deux rapports dressés par un psychiatre, en 2016 et 2017, qui mentionnent une personnalité psychotique et paranoïaque chronique. Il a également fait mention que le requérant
+
+<<2360.93;2372.93;fr>>
+souffre de symptômes négatifs de schizophrénie, qu'il prend des médicaments antipsychotiques et qu'il ne formule aucune demande par rapport à son reclassement.
+
+<<2372.93;2389.93;fr>>
+Ainsi, la Chambre de protection sociale a-t-elle constaté dans les deux affaires que l'état de santé des requérants ne permettait malheureusement pas leur libération définitive? Il s'agit là de décisions contre lesquelles
+
+<<2389.93;2396.93;fr>>
+le présent recours a été imprimé. Soulignons d'ailleurs que les requérants
+
+<<2396.93;2407.93;fr>>
+eux-mêmes n'ont pas soutenu dans leur requête que les troubles dont ils souffrent ne seraient plus présents. Cette situation perdure jusqu'à aujourd'hui,
+
+<<2407.93;2424.93;fr>>
+puisqu'il ressort de rapports récents, respectivement de 2019 et 2020, que les troubles dont souffrent les requérants persistent et qu'une libération définitive n'est toujours pas envisageable. La troisième condition est donc remplie.
+
+<<2424.93;2439.93;fr>>
+Il découle de ce que nous venons d'exprimer, que l'article 5, paragraphe 1er de la Convention n'a pas été violé. Par ailleurs, le gouvernement belge ne voit pas en quoi
+
+<<2439.93;2446.93;fr>>
+il serait question de privation de liberté arbitraire. D'une part, le cadre légal
+
+<<2446.93;2452.93;fr>>
+a été clair et prévisible. La nouvelle loi, précisément dans un souhait de respect
+
+<<2452.93;2457.93;fr>>
+des décisions devenues définitives sous l'ancienne loi, ne les remet pas en cause.
+
+<<2457.93;2468.93;fr>>
+Ceci a été expliqué au Parlement par le ministre de la Justice lors des débats parlementaires. Il en découle que tant le but de l'ancienne loi
+
+<<2468.93;2473.93;fr>>
+a été respecté que celui de la nouvelle loi. Il s'agit d'un choix pour un maintien
+
+<<2473.93;2477.93;fr>>
+maxima de la stabilité juridique, comme nous l'avons déjà dit.
+
+<<2477.93;2488.93;fr>>
+D'autre part, il n'a jamais été soulevé que les autorités auraient agi avec mauvaise foi ou de façon trompeuse. Et aucun élément du dossier ne pourrait conduire à une telle conclusion.
+
+<<2488.93;2507.93;fr>>
+Certes, les requérants font état de décision de libération définitive prise par la Commission de défense sociale de Gant dans le cadre d'examens individuels d'autres cas. Ils omettent de rappeler qu'il y a eu dans leurs deux cas individuels
+
+<<2507.93;2517.93;fr>>
+des examens sérieux et individualisés de leur situation. Ces examens ont donné lieu
+
+<<2517.93;2523.93;fr>>
+à des libérations à l'essai dans les deux cas qui ont dû malheureusement être révoquées.
+
+<<2523.93;2538.93;fr>>
+Inétant l'espèce dès lors nullement question de privation arbitraire de liberté, comme la quatrième section de votre cours l'a d'ailleurs constaté.
+
+<<2538.93;2548.93;fr>>
+Le gouvernement ne peut pas non plus accepter l'argument des requérants selon lequel votre cours aurait rendu un jugement allant à l'encontre de sa jurisprudence Oukili contre Belgique.
+
+<<2548.93;2562.93;fr>>
+Dans nos observations écrites, nous constations que la jurisprudence Oukili portait principalement sur les conditions de l'internement de M. Oukili et n'abordait dès lors pas le point central
+
+<<2562.93;2568.93;fr>>
+des observations des requérants. À la lecture de leur mémoire devant la grande chambre,
+
+<<2568.93;2586.93;fr>>
+nous comprenons cependant, comme exprimé en guise d'introduction, que les requérants ont changé leur argumentation pour la focaliser désormais sur le caractère inapproprié de leur internement depuis l'entrée en vigueur de la nouvelle loi.
+
+<<2586.93;2593.93;fr>>
+Votre cours a constaté que l'internement de M. Oukili ne se faisait pas dans un établissement
+
+<<2593.93;2607.93;fr>>
+adapté à ses soins et que de ce fait, le lien entre le but de la détention et les conditions de celle-ci avait été rompu. Cependant, la même constatation ne peut s'imposer ici,
+
+<<2607.93;2627.93;fr>>
+uniquement parce que la loi a changé et que les requérants en déduisent, de manière opportune après leur déconvenu en chambre, s'il vous permette, qu'ils ne peuvent plus recevoir les soins appropriés par ce simple fait. Le gouvernement a produit des rapports démontrant,
+
+<<2627.93;2642.93;fr>>
+en particulier jusqu'en 2017, date de la dernière décision interne en ce dossier, le suivi thérapeutique donné aux requérants. Ceci ne démontre, quant à eux, pas en quoi
+
+<<2642.93;2649.93;fr>>
+les soins reçus ne seraient plus appropriés. Ils se contentent de l'affirmer.
+
+<<2649.93;2671.93;fr>>
+Par ailleurs, si dans l'affaire Oukili, votre cours a conclu que le requérant ne présentait de véritables dangers pour la société, on ne peut, à la lumière des informations récentes, en dire autant pour les requérants. En conclusion, le gouvernement ne voit pas en quoi l'on pourrait
+
+<<2671.93;2679.93;fr>>
+affirmer que l'internement des requérants violerait l'article 5, paragraphe 1er de la Convention.
+
+<<2679.93;2686.93;fr>>
+Je vous remercie pour votre attention et passe maintenant la parole à Maître Kounelemen.
+
+[[JudgeP;Robert Spano]]
+
+<<2690.09;2692.49;fr>>
+M. Lemmens, s'il vous plaît.
+
+[[Government;GR1]]
+
+<<2695.9;2699.82;fr>>
+Monsieur le Président, Mesdames, Messieurs les Juges, merci.
+
+<<2699.82;2710.34;fr>>
+Si je ne me lève pas aujourd'hui devant vous, sachez que ce n'est pas par manque de recettes, mais c'est malheureusement le COVID qui impose.
+
+<<2710.34;2713.34;fr>>
+Passons à la deuxième question de votre cours.
+
+<<2713.34;2723.7;fr>>
+C'est la question qui porte sur les mesures de protection de défense sociale, autres que celles organisées par la loi du 5 mai 2014.
+
+<<2723.7;2732.34;fr>>
+Pour les personnes ayant commis des actes qui n'atteignent pas le seuil de gravité requis pour l'internement.
+
+<<2732.34;2748.42;fr>>
+Alors, d'une part, nous constatons que l'exposé des motifs qui accompagne justement la loi 2014 renvoie à l'application de la loi du 26 juin 1990.
+
+<<2748.42;2755.94;fr>>
+Et donc, pour la protection des malades mentaux, pour les cas où l'internement n'est plus possible.
+
+<<2755.94;2759.82;fr>>
+Donc, l'internement doit être l'exception.
+
+<<2759.82;2772.26;fr>>
+Et donc, on constate qu'il y a en effet d'autres moyens d'intervention possibles sans privation de liberté pour aider les personnes et éviter le risque de récidive.
+
+<<2772.26;2786.1;fr>>
+Et celles-ci peuvent être la mise en observation en service psychiatrique, le maintien dans un service psychiatrique, la post-cure ou encore les soins en milieu familial.
+
+<<2786.1;2799.58;fr>>
+Outre ces mesures civiles, pouvant être prises conformément à la loi de 1990, il existe plusieurs autres mesures de protection ou de défense sociale.
+
+<<2799.58;2819.86;fr>>
+Et là, on se réfère notamment en cas de condamnation à la loi du 29 juin 1964, où on utilise la suspension probatoire qui s'accompagne de conditions pouvant notamment consister en une guidance psychiatrique ambulante ou résidentielle.
+
+<<2819.86;2827.78;fr>>
+D'ailleurs, depuis quelques années, la peine de probation comme peine principale autonome existe également.
+
+<<2827.78;2838.58;fr>>
+À nouveau, les conditions sont adaptées en fonction de l'infraction commise et du profil du condamné.
+
+<<2838.58;2844.9;fr>>
+Ensuite, d'une procédure dite médiation et mesure, l'extinction de l'action publique peut intervenir.
+
+<<2844.9;2854.02;fr>>
+Le service compétent des communautés est en charge du suivi et du contrôle de l'exécution et des mesures auxquelles il est comptable.
+
+<<2854.02;2863.3;fr>>
+Il y a toujours la possibilité d'un classement sans suite qui peut intervenir dans le cadre d'une probation prétorienne.
+
+<<2863.3;2873.7;fr>>
+C'est une type de probation qui permet également de mettre en place un suivi médical et psychosocial adapté, encore une fois, à la personne concernée.
+
+<<2873.7;2887.86;fr>>
+Il existe donc plusieurs autres mesures de protection ou de défense sociale qui n'impliquent pas de privation de liberté et dont certains sont antérieurs à la modification d'internement.
+
+<<2887.86;2900.66;fr>>
+L'opportunité d'utiliser telle ou telle voie dépend des circonstances de la cause et est appréciée au cas par cas par les magistrats.
+
+<<2900.66;2919.46;fr>>
+Le gouvernement insiste cependant, on insiste qu'aucune des mesures susmentionnées ne pouvait être appliquée au récurrent car leur trouble mental justifie encore pleinement l'internement comme nous venons d'expliquer.
+
+<<2919.46;2922.9;fr>>
+Concentrons-nous, M. le Président,
+
+<<2922.9;2939.5;fr>>
+maintenant à la troisième question, la question qui porte sur le recours effectif et donc sur le respect des articles 5, paragraphe 4, juncto 13 de la Convention.
+
+<<2939.5;2954.78;fr>>
+Si le gouvernement belge comprend bien, les requérants estiment qu'une détention illégale en vertu de l'article 5, paragraphe 4 de la Convention doit conduire à bref délai à une libération ordonnée par un juge.
+
+<<2954.78;2966.38;fr>>
+Puisqu'ils considèrent que leur internement est désormais sans base légale, ils estiment que leur libération aurait dû être ordinée par la Chambre de Protection Sociale.
+
+<<2966.38;2987.98;fr>>
+Toutefois, et Mme Nidlis-Pachère l'a déjà indiqué, le gouvernement saisit mal le raisonnement juridique tendant à contester des décisions d'internement prises il y a des années en utilisant une nouvelle loi qui n'existe à l'époque.
+
+<<2987.98;2994.78;fr>>
+Il n'existe, évidemment, qu'à contester la légalité d'une décision coulée en force de choses jugées depuis des années.
+
+<<2994.78;3001.46;fr>>
+Même devant votre cour, cet argument s'est écarté comme manifestement tardif.
+
+<<3001.46;3017.22;fr>>
+Donc l'unique possibilité de contester une décision d'internement coulée en force de choses jugées est de soutenir que l'internement ne se justifie plus, par exemple, parce que le trouble mental à son origine a disparu.
+
+<<3017.22;3041.9;fr>>
+Donc, nous l'avons démontré cependant plus tôt, que les troubles mentaux dont souffrent les récurrents, malheureusement, mesdames, messieurs les juges, persistent en 2017 et persistent encore aujourd'hui, de sorte qu'ils ne peuvent être libérés.
+
+<<3041.9;3047.06;fr>>
+La détention, en autres mots, des récurrents n'est donc nullement illégale.
+
+<<3047.06;3064.94;fr>>
+La thèse selon laquelle les récurrents devraient être libérés sous peine de méconnette des articles 5, paragraphes 4 et 13 de la Convention manque d'un point de vue procédural, ne peut pas convaincre non plus.
+
+<<3064.94;3077.74;fr>>
+Le gouvernement belge constate en effet que la nouvelle législation relative à l'internement prévoit clairement un système de contrôle de l'internement et de sa légalité.
+
+<<3077.74;3084.06;fr>>
+On ne va pas expliquer en long et en large et dans tous les détails tous les mécanismes prévus.
+
+<<3084.06;3091.06;fr>>
+Ceci a été amplement fait dans nos mémoires devant votre cour.
+
+<<3091.06;3093.1;fr>>
+Mais en quelques mots quand même.
+
+<<3093.1;3107.1;fr>>
+Il existe tout d'abord un système d'information périodique par lequel la Chambre de Protection sociale se tient informée de l'état de la personne internée qui a été mise en place.
+
+<<3107.1;3128.9;fr>>
+Il existe une procédure d'urgence selon laquelle la Chambre statue de manière motivée en diant les cinq jours sur tout un panel une panoplie de demandes, notamment les demandes de transfert, de permission de sortie, de congé ou de libération à l'essai.
+
+<<3128.9;3141.86;fr>>
+Une demande sur la base d'urgence peut être introduite par le ministère public, par le directeur ou le responsable des soins de l'établissement où la personne est placée.
+
+<<3141.86;3153.42;fr>>
+La Chambre de Protection sociale exerce également un contrôle sur l'organisation ultérieure de l'internement et de ses modalités.
+
+<<3153.42;3165.06;fr>>
+Elle consulte à cette fin le directeur ou le responsable des soins de l'établissement où est internée la personne concernée.
+
+<<3165.06;3181.78;fr>>
+C'est sur cette base que le directeur de l'établissement pénitentiaire de Turnout a donné un avis le 26 janvier 2018 dans le dossier de M. Irvine et dans lequel le maintien de l'internement
+
+<<3181.78;3189.34;fr>>
+et le placement du récurrent dans le centre de psychiatrie légale d'Anvers a été conclu.
+
+<<3189.34;3209.02;fr>>
+En plus, la loi prévoit que la Chambre de Protection sociale et le tribunal de l'application des peines soient minutieusement informés de l'organisation de l'internement ainsi que de ses modalités, ce qui permet encore une fois un contrôle effectif sur l'internement.
+
+<<3209.02;3224.94;fr>>
+Enfin, les décisions de la Chambre de Protection sociale relative aux modalités d'exécution de l'internement à la libération définitive ou à l'internement du condamné sont susceptibles d'un pourvoi en cassation.
+
+<<3224.94;3242.3;fr>>
+Votre cours pose plus précisément la question de la possibilité pour les requérants d'obtenir leur mise en liberté si leur privation de liberté n'était pas conforme à l'article 5, paragraphe 1er de la loi de Guantanamo, bien entendu.
+
+<<3242.3;3246.54;fr>>
+Eh bien, la réponse est positive.
+
+<<3246.54;3254.9;fr>>
+En effet, la Chambre de Protection sociale peut ordonner la libération définitive d'une personne internée.
+
+<<3254.9;3258.94;fr>>
+La loi prévoit cette possibilité à une double condition.
+
+<<3258.94;3268.54;fr>>
+D'un côté, il faut qu'une période d'épreuve de trois ans soit respectée et de l'autre, il faut que le trouble mental soit suffisamment stabilisé.
+
+<<3268.54;3293.98;fr>>
+La Cour de cassation a cependant dit pour droit que la condition de la période, donc la première condition de la période d'épreuve, doit être lue de façon telle qu'une personne qui n'est plus malade et qui ne pose plus aucune dangerosité pour la société doit être définitivement libérée, même si la période d'essai n'est pas encore écoulée.
+
+<<3293.98;3309.5;fr>>
+Certes, nous l'avons bien compris, les requérants, dans leur mémoire de juin de cette année, soulignent que la notion de dangerosité pour la société est une notion arbitraire.
+
+<<3309.5;3317.58;fr>>
+Pourtant, il convient de rappeler que la Chambre de Protection est composée de manière multidisciplinaire.
+
+<<3317.58;3320.62;fr>>
+Ce ne sont pas que des juristes.
+
+<<3320.62;3330.3;fr>>
+La Chambre de Protection est présidée par un magistrat, bien entendu, mais celui-ci est assisté par un psychologue et un spécialiste en réinsertion sociale.
+
+<<3330.3;3347.82;fr>>
+De plus, le directeur ou le responsable des soins de l'établissement soumet un rapport psychosocial et ou est entendu par la Chambre afin de l'aider dans la tâche.
+
+<<3347.82;3354.94;fr>>
+Donc, la personne internée, en plus, est obligatoirement assistée par un avocat.
+
+<<3354.94;3373.9;fr>>
+On a donc assez de garanties prises pour que la décision ne soit pas prise de manière arbitraire, mais bien qu'elle soit prise, que la Chambre prend cette décision sur base d'une évaluation objective du risque posé par la personne.
+
+<<3373.9;3389.34;fr>>
+Ainsi, si une personne internée ne pose objectivement plus de danger pour la société, elle peut être libérée définitivement, même avant la période d'essai de trois ans.
+
+<<3389.34;3395.82;fr>>
+Ce n'est, et nous le regrettons, mais ce n'est malheureusement pas le cas des requérants.
+
+<<3395.82;3405.78;fr>>
+Cela ne peut pas dire pour autant qu'ils n'ont pas pu bénéficier d'un examen de leur situation.
+
+<<3405.78;3422.3;fr>>
+En effet, on constate par l'espèce que les requérants ont pu saisir la Chambre de Protection sociale, ont pu saisir la Cour de cassation, mais ni l'une ni l'autre n'ont déclaré leur demande irrécevable ou soulevé leur incompétence.
+
+<<3422.3;3431.02;fr>>
+Au contraire, les arguments des requérants ont été entendus, analysés, discutés.
+
+<<3431.02;3450.7;fr>>
+Il est vrai qu'à chacun des étapes, des stades, les arguments ont été jugés infondés, mais cette constatation, bien entendu, ne fait pas obstacle au fait que les requérants avaient des recours effectifs à leur disposition.
+
+<<3450.7;3458.34;fr>>
+Il est à souligner que dans le cas des deux requérants, les conditions pour une libération n'ont pas été remplies.
+
+<<3458.34;3470.38;fr>>
+Les requérants, d'ailleurs, ne le démontrant pas, ne l'invoquaient même pas d'ailleurs, que leur trouble mental se serait suffisamment stabilisé pour permettre leur libération.
+
+<<3470.38;3478.38;fr>>
+Et c'est d'ailleurs quelque chose que la quatrième chambre, la chambre a aussi constaté.
+
+<<3478.38;3486.94;fr>>
+Par ailleurs, les requérants l'admettent eux-mêmes dans leur demande de renvoi que, et je cite, « their detention can be warranted ».
+
+<<3486.94;3505.46;fr>>
+Pour le premier requérant, cela a également été confirmé par un jugement du 15 janvier 2020, duquel il ressort que le requérant constitue un réel et sérieux danger pour l'intégrité des personnes tierces et qu'une protection structurée est essentielle.
+
+<<3505.46;3513.9;fr>>
+Ce jugement a d'ailleurs été confirmé par la Cour de cassation qui a rejeté un pourvoi le 18 février de cette année.
+
+<<3513.9;3529.74;fr>>
+Quant au second requérant, une analyse similaire a été faite par la chambre de protection sociale d'Anvers dans son jugement du 28 juin 2019 et en transfert vers l'Écosse est à l'étude et actuellement.
+
+<<3529.74;3554.66;fr>>
+Notons toutefois que si la chambre de protection sociale est d'avis que l'état mental d'une personne internée a suffisamment évolué, même lorsque le risque pour la société existe encore, il lui incombe d'examiner si le placement est toujours nécessaire ou que d'autres mesures moins sévères, peut-être telles que la libération à laisser, peuvent être imposées.
+
+<<3554.66;3564.54;fr>>
+Or, dans le cas précis des deux requérants, ceux-ci ont déjà fait l'objet de plusieurs libérations à laisser qui ont dû être révoquées.
+
+<<3564.54;3586.86;fr>>
+Dans un cas, le premier requérant est rentré dans une pharmacie annonçant qu'il allait faire des choses folles et dans un autre cas, mesdames et messieurs les juges, l'hiver rapprochant, on comprend combien c'est tragique, mais le second requérant a été retrouvé presque mort de froid dans la neige.
+
+<<3586.86;3608.66;fr>>
+Votre court constatera dès lors que les requérants ont pu faire revoir la légalité de leur internement à intervalles réguliers et s'ils n'ont pas pu bénéficier d'une libération définitive, c'est parce que leur état ne le permet pas et des solutions alternatives ont été cherchées.
+
+<<3608.66;3620.7;fr>>
+Je résume, il en découle de ce qui précède que les conditions des articles 5, paragraphes 4 et 13 ont été remplies.
+
+<<3620.7;3632.38;fr>>
+La seule circonstance que les requérants n'ont pas obtenu gain de cause ne saurait remettre en question le contrôle effectif exercé par les juridictions internes.
+
+<<3632.38;3647.14;fr>>
+Dès lors, le gouvernement belge ne comprend pas en quoi il y aurait eu une violation des articles 5, paragraphes 4 et 13 de la Convention.
+
+<<3647.14;3650.86;fr>>
+Je vous remercie.
+
+[[JudgeP;Robert Spano]]
+
+<<3652.88;3655.44;fr>>
+Merci beaucoup, M. Lemmens.
+
+<<3655.61;3667.92;fr>>
+Je vous informe, il y avait parfois un court délai entre l'audio et la vidéo, mais je pense que je peux vous assurer que la compréhension dans la salle d'audience était parfaitement claire.
+
+<<3668.09;3675.48;fr>>
+Alors, je me tourne vers les juges, mes collègues de la Grande Chambre, qui vous souhaitent poser des questions.
+
+<<3675.48;3675.48;fr>>
+M. le juge Felici.
+
+[[Judge;Gilberto Felici]]
+
+<<3680.73;3683.73;fr>>
+Merci, monsieur le président.
+
+<<3683.93;3690.93;fr>>
+J'ai 2 petites questions que vous avez éclairées, mais pas complètement pendant votre plaidoirie.
+
+<<3691.81;3714.33;fr>>
+Alors, tout d'abord, à l'égard des personnes qui avaient été internées lorsque la loi de défense sociale de 1930 était en vigueur, les requérants ont indiqué, et il me semble que ça n'a pas été contesté par le gouvernement, que la CDS de Gand a adopté une approche différente de celle de la CDS d'Anvers.
+
+<<3716.45;3728.01;fr>>
+J'ai mes demands, étant donné qu'il s'agit de 2 institutions du même Etat, sur quels fondements et pour quels motifs la CDS des Gand a-t-elle prise cette décision?
+
+<<3728.73;3740.37;fr>>
+Et d'abord, qu'est-ce qui, selon vous, explique que la CDS d'Anvers n'a pas suivi la même approche à l'égard des requérants?
+
+<<3740.65;3752.25;fr>>
+La 2e question, les documents de travaux parlementaires relatifs au projet de loi, et je me réfère à la loi de 2014, visent à contrer...
+
+<<3752.45;3754.05;fr>>
+On dit qu'on vise à contrer...
+
+<<3754.29;3768.65;fr>>
+La loi vise à contrer un usage impropre de la mesure d'internement, tandis qu'à éviter qu'une mesure d'internement à durée indéterminée puisse être ordonnée pour des faits relativement mineurs.
+
+<<3769.85;3790.77;fr>>
+D'autre part, on lit même que la nouvelle loi n'affectait pas en principe les décisions relatives aux personnes souffrant des troubles mentaux qui avaient commis des faits pouvant donner lieu à un internement en vertu de l'ancienne loi de défense sociale, mais pour lesquels l'internement ne sera plus possible en vertu de la nouvelle législation.
+
+<<3790.77;3825.49;fr>>
+Étant donné que le but de l'article 5, paragraphe 1 de la Convention est de protéger tout individu contre une privation de liberté arbitraire ou injustifiée, comment vous pensez déconcilier l'objectif affiché de la loi de 2014 d'éviter l'usage impropre de l'internement avec le fait que la loi, la loi nouvelle, n'a pas vocation à remettre en cause les décisions d'internement prises auparavant pour les personnes qui ne remplissaient plus les critères et pour être internées?
+
+<<3825.49;3827.21;fr>>
+Merci beaucoup.
+
+[[JudgeP;Robert Spano]]
+
+<<3828.74;3830.4;fr>>
+Merci. Le juge Wojtyczek.
+
+[[Judge;Krzysztof Wojtyczek]]
+
+<<3832.46;3834.58;fr>>
+Merci, monsieur le Président.
+
+<<3834.58;3842.94;fr>>
+J'ai une question au gouvernement, mais peut-être le représentant du réquerant pourra commenter aussi ce point.
+
+<<3842.94;3848.46;fr>>
+La nature du risque que posent les deux réquerants.
+
+<<3848.46;3852.1;fr>>
+Je n'ai pas bien compris la plaidoirie.
+
+<<3852.1;3858.02;fr>>
+Est-ce que c'est un risque pour la vie et la santé d'autres personnes?
+
+<<3858.02;3867.78;fr>>
+Est-ce que c'est un risque de commettre des délits contre la propriété des biens d'autres personnes?
+
+<<3867.78;3871.62;fr>>
+Ou est-ce que c'est un risque que les réquerants posent pour eux-mêmes?
+
+<<3871.62;3875.38;fr>>
+On a entendu parler de ce réquerant retrouvé dans la neige.
+
+<<3875.38;3882.18;fr>>
+Quels sont les risques contre lesquels on doit protéger soit les réquerants, soit la société?
+
+<<3882.18;3889.82;fr>>
+La nature exacte des risques contre lesquels on doit adopter des mesures protectives.
+
+<<3889.82;3893.18;fr>>
+Je voudrais demander un éclaircissement sur ce point.
+
+<<3893.18;3893.18;fr>>
+Merci.
+
+[[JudgeP;Robert Spano]]
+
+<<3895.5;3896.62;en>>
+Vice President Turković.
+
+[[Judge;Ksenija Turković]]
+
+<<3900.26;3901.26;en>>
+Thank you very much.
+
+<<3901.26;3924.98;en>>
+I would like to follow up to the question posed by Judge Felici that is related to the parliamentary procedures and actually the way how would you explain the interplay between two principles, and this is the principle of the prohibition of retroactivity and the principle of proportionality.
+
+<<3924.98;3970.86;en>>
+Namely, if I am correct by reading the documents, one of the statements by the Minister of Justice was that this new provision could not be applied to the persons who have been committed according to the criminal law because of the principle of legality and because of the prohibition of retroactivity because retroactivity is not applicable to the measures of security, but how then this plays with the principle of proportionality, which is the main principle determining the application of the measures of security.
+
+<<3970.86;3980.74;en>>
+So, if you could a little bit explain what was your position on and what is the position on that and interplay and how do you see that?
+
+<<3980.74;3993.82;en>>
+This is the first question, and then the second question relates to..., the request is not that, if I understood correctly, that applicants should be released.
+
+<<3993.82;4004.86;en>>
+The request is that they should be changed, the commitment according to the criminal law should be changed into the commitment according to the civil law.
+
+<<4004.86;4018.34;en>>
+So, if you could specify once again shortly for us the difference and what benefits and in which way these benefits to the applicants.
+
+<<4018.34;4018.34;en>>
+Thank you very much.
+
+[[JudgeP;Robert Spano]]
+
+<<4022.06;4024.18;en>>
+Thank you very much indeed.
+
+<<4024.18;4024.74;en>>
+Judge Pavli.
+
+[[Judge;Darian Pavli]]
+
+<<4028.54;4030.1;en>>
+Thank you.
+
+<<4030.1;4041.86;en>>
+I have a question for the government, which relates to the application of the third criterion of legality under your new law.
+
+<<4041.86;4056.46;en>>
+And I'm referring to section 9 of the 2014 law, paragraph 1 and sub-paragraph Roman numeral 3.
+
+<<4056.46;4079.9;en>>
+As I understand it, that third criterion of legality is that there should be a danger that the person will commit fresh offenses, as referred to paragraph 1, which, again, in my reading, seems to set a threshold of dangerousness for the measure to be legal.
+
+<<4079.9;4082.42;en>>
+But how is that to apply?
+
+<<4082.42;4091.94;en>>
+So again, will commit fresh offenses of the kind referred to in paragraph 1, which is harm the physical or mental integrity of another person.
+
+<<4091.94;4103.26;en>>
+But how is that to be applied to a detainee, a person, who has never committed any of the offenses in paragraph 1?
+
+<<4103.26;4116.1;en>>
+And I think the same would arise again under section 66 of the new law, which governs the full release.
+
+<<4116.1;4129.38;en>>
+And again, it says that the condition is stabilized sufficiently so that the individual concerned will again not commit offenses that reach that threshold of severity.
+
+<<4129.38;4131.58;en>>
+Thank you.
+
+[[JudgeP;Robert Spano]]
+
+<<4131.63;4133.95;en>>
+Thank you very much.
+
+<<4133.95;4136.99;en>>
+I see no further questions.
+
+<<4136.99;4142.91;en>>
+So we will now suspend the hearing for approximately 25 minutes.
+
+<<4142.91;4147.63;en>>
+The hearing will resume sharp at 1135.
+
+<<4147.63;4148.63;en>>
+The hearing is suspended.
+
+[[Announcer;UNK]]
+
+<<4155.04;4155.76;fr>>
+La Cour!
+
+[[JudgeP;Robert Spano]]
+
+<<4161.26;4163.26;en>>
+The hearing is resumed.
+
+<<4163.9;4168.02;en>>
+And I now give the floor to Mr. Verpoorten for his reply.
+
+<<4168.02;4169.3;en>>
+Sir, you have the floor.
+
+[[Applicant;AP1]]
+
+<<4174.63;4176.55;en>>
+Thank you, Mr. President.
+
+<<4178.83;4227.59;en>>
+In regards to the first question of Judge Felici, I can refer to the first piece joined to my brief where the CDS of Ghent gave us a legal base that the concerned person had never committed offenses as qualified in Article 9, Paragraph 1 of the internment law, that there is a minimal risk that he would commit offenses like this, that he claims his internment would be disproportional to the offenses committed, that the facts of the case are no longer the target of the new internment law, when there would be a danger for himself or others, the forced admission can be used, that the principle of equal protection before the law could be violated after October 1st, 2016.
+
+<<4227.59;4239.75;en>>
+So regarding to the difference between CDS of Ghent and CDS of Antwerp, I can only say that's a question of the judges involved.
+
+<<4239.75;4248.99;en>>
+The CDS of Antwerp was a particularly problematic tribunal without a registrar behind closed doors.
+
+<<4248.99;4253.79;en>>
+The Court of Cassation gives them in many cases carte blanche to do as they please.
+
+<<4253.79;4260.39;en>>
+And I have tried to explain this to you, and I have tried to illustrate that in my brief further.
+
+<<4262.39;4286.11;en>>
+What regards to the second question of Judge Felici, when you talk about improper use of the internment measure on one hand, and that not being, and the definitive judgments of people who are not in the target population, not affected by the new law, that's in my opinion, the exact definition of arbitrariness.
+
+<<4288.51;4305.79;en>>
+What, considering the question of Judge Wojticek, if I take a look at the reports, there could be said to be a danger for others, even though they have never been interned for offenses that meet this threshold.
+
+<<4305.79;4308.51;en>>
+In the reports of Mr. Denes,
+
+<<4308.51;4320.85;en>>
+we find from time to time mention of what the therapists call acting out behavior, which is rather typical for people with a diagnosis of Mr. Denes.
+
+<<4320.85;4326.63;en>>
+They have difficulties canalizing their emotions and handling their frustration.
+
+<<4326.63;4330.55;en>>
+It happens all the time in forced admission and internment cases.
+
+<<4330.55;4339.19;en>>
+And most of the time, these things are mentioned in the reports, but they do not warrant prosecution.
+
+<<4339.19;4343.91;en>>
+When they do, there is an actual charge brought against the persons involved.
+
+<<4343.91;4357.75;en>>
+And I think in my practice, we have an average of two or three cases a year relating to this type of incident where there is actually a surpassing of the legal threshold, which has never been the case for Mr. Denes,
+
+<<4357.75;4363.17;en>>
+which is why we make this argument here, that he has not surpassed the threshold.
+
+<<4363.17;4368.15;en>>
+There is talk in case of Mr. Irvine of conviction
+
+<<4368.15;4383.57;en>>
+that he has apparently for acts that would meet threshold, but I cannot really comment on that as he was tried in absentia without a lawyer.
+
+<<4383.57;4389.21;en>>
+The problem here is that Belgian law has no concept of the fitness to stand trial.
+
+<<4389.21;4397.01;en>>
+When the prosecutor and the tribunal move forward with a case like this, there is no actual hearing of the person involved.
+
+<<4397.01;4398.49;en>>
+There is no defense mounted.
+
+<<4398.49;4409.53;en>>
+So in my opinion, it is rather irresponsible thing to do as the prosecution and the judge both should be aware of the mental troubles of the defendant and this impossibility to act for himself.
+
+<<4409.53;4412.69;en>>
+So the result is here that we have a conviction.
+
+<<4412.69;4417.19;en>>
+I have never seen that myself, but there is no longer an option to appeal.
+
+<<4417.19;4430.95;en>>
+And he has in fact purchased sentence, but I cannot comment on the facts of the case only that there is no proof that it was related in any way to his mental illness, which is what the internment law requires.
+
+<<4433.61;4455.29;en>>
+Considering the question of Judge Turkovich, Madam President Turkovich, the CDS of Ghent has among other elements also taken article seven of the convention into account that the retroactivity of the milder criminal law should be applied.
+
+<<4455.29;4466.69;en>>
+I think that is correctly because the new internment law explicitly makes criminal procedure applicable on the internment measure in article 82 of the law of 2014.
+
+<<4466.69;4479.81;en>>
+Article 82 says, the provisions concerning the prosecution in criminal and correctional matters are applicable to the procedures provided by the law, except for the derogations it establishes.
+
+<<4479.81;4491.29;en>>
+The court of cassation disagrees and without any basis in the law, they have decided to exclude article seven of the convention from application.
+
+<<4491.29;4503.37;en>>
+Regarding the second question, it is correct that the applicants do not ask their release as such, just a release from the internment measure.
+
+<<4503.37;4508.77;en>>
+And then it is up to the government to determine which alternative measure is justified.
+
+<<4508.77;4520.49;en>>
+That is exact what the CDS of Ghent has done in the case I was referring to earlier, but not the other commissions or chambers for social protection.
+
+<<4520.49;4523.61;en>>
+In the cases of Mr. Dennis and Mr. Irfinder
+
+<<4523.61;4532.21;en>>
+has never been a discussion or examination of alternative measures, just a plain comparison between the internment and total liberty.
+
+<<4532.21;4535.35;en>>
+And that is in our opinion, not the correct standards to apply.
+
+<<4537.61;4545.05;en>>
+And to conclude in regards to the question of Judge Pavley, how do they do that?
+
+<<4545.05;4560.77;en>>
+How do they apply the law, article nine, paragraph one and article 66 in cases where the persons concerned have never committed offenses who meet the threshold.
+
+<<4560.77;4566.97;en>>
+It pains me to say they just ignored law and the court of cassation lets them do that.
+
+<<4566.97;4578.01;en>>
+I have written on that in my brief, explaining this in regard to one decision of the court of cassation, piece four joins to my brief.
+
+<<4578.01;4579.97;en>>
+These were my answers.
+
+<<4579.97;4582.37;en>>
+I hope these suffice.
+
+<<4582.37;4582.37;en>>
+Thank you, Mr. President.
+
+[[JudgeP;Robert Spano]]
+
+<<4585.72;4587.6;fr>>
+Merci beaucoup, Monsieur Verpoorten.
+
+<<4587.6;4589.88;fr>>
+Alors, je tourne le gouvernement.
+
+<<4589.88;4591.88;fr>>
+Madame Lefebvre, vous avez la parole.
+
+[[Government;GR2]]
+
+<<4594.35;4598.35;fr>>
+Oui, merci Monsieur le Président.
+
+<<4598.35;4615.35;fr>>
+Alors à la première question qui est la question du juge Felici, le Conseil des requérants confirme lui-même qu'il s'agit d'un examen au cas par cas, par des juridictions différentes et par des juges indépendants.
+
+<<4615.35;4640.35;fr>>
+Et à partir de ce moment-là, il ne nous paraît pas opportun ni même intéressant de faire des parallèles entre des situations individuelles différentes qui ont été analysées par des juges qui sont sur la base de rapports d'experts, sur la base desquelles ils ont pris des décisions qui malheureusement n'ont pas donné gain de cause aux requérants.
+
+<<4640.35;4658.35;fr>>
+En outre, jeter le discrédit sur la Chambre de protection sociale d'Anvers est problématique à notre sens, en particulier quand ici nous nous trouvons devant des décisions d'une part, certes, de la Chambre de protection d'Anvers, mais d'autre part aussi de la Chambre de protection de Bruxelles.
+
+<<4658.35;4680.35;fr>>
+Quant à la deuxième question, sur quelque part du juge Felici, sur l'usage impropre de la mesure d'internement, mais l'absence de mesure transitoire, si vous me permettez, je vais répondre à cette question en même temps qu'à la première question de la juge Turkovitch.
+
+<<4680.35;4692.35;fr>>
+Alors, il n'a jamais été, à ma connaissance, à notre connaissance, d'autres cours n'a jamais remis en question, n'a jamais contesté la proportionnalité de la loi précédente.
+
+<<4692.35;4698.35;fr>>
+Il n'a jamais été dit que cette loi était illégale.
+
+<<4698.35;4702.35;fr>>
+Cette loi correspondait au seuil minimal prévu par la Convention.
+
+<<4702.35;4708.35;fr>>
+Ensuite, en Belgique, il y en a eu une nouvelle idée de l'internement.
+
+<<4708.35;4719.35;fr>>
+Il y a eu un choix politique qui a été de hausser le minimum de l'internement et de ne pas toucher aux décisions antérieures.
+
+<<4719.35;4739.35;fr>>
+C'est un choix politique d'une part, et ce choix politique a été étendu quelque part en disant que c'était maintenant aux juges qu'on laissait l'appréciation aux juges de revoir les décisions des chambres de protection, aux chambres de protection sociale de revoir les décisions antérieures.
+
+<<4739.35;4755.35;fr>>
+Parce que c'est ces chambres de protection sociale qui vont recevoir les rapports, qui vont recevoir la personne internée en présence de son avocat, des chambres qui sont composées par des experts de manière multidisciplinaire.
+
+<<4755.35;4769.35;fr>>
+Et le politique a estimé que c'était à elle d'estimer si la situation d'une personne internée avait assez évolué pour que cette personne puisse à nouveau réintégrer de manière immédiate la société.
+
+<<4769.35;4780.35;fr>>
+L'autre solution aurait été de conserver l'ancienne loi, de ne jamais hausser ce minimum.
+
+<<4780.35;4790.35;fr>>
+Alors, il n'aurait jamais été question de proportionnalité des anciennes décisions, puisque celle-ci, leur proportionnalité n'a jamais été contestée devant votre court.
+
+<<4790.35;4830.35;fr>>
+Ensuite, pour répondre à la question du juge Bojcikš, qui aussi, d'un autre côté, je vais aussi répondre à la question du juge Pavly, en même temps, si on prend la loi réparatrice de 2017, on voit que dans son exposé des motifs, la loi dit, je vais lire, si vous me permettez, que malgré les limitations introduites, il est encore possible d'aboutir à une situation où une mesure d'une durée indéterminée qui constitue un internement est ordonnée pour des faits relativement légers.
+
+<<4830.35;4848.35;fr>>
+Le présent projet entend de cette manière aller plus loin que le législateur en 2007 et en 2014, en se concentrant sur les faits plus sérieux, à savoir les crimes correctionnalisables, les crimes non correctionnalisables et les délits.
+
+<<4848.35;4855.35;fr>>
+Pour les deux dernières catégories d'infraction, les faits doivent constituer une atteinte ou une menace à l'intégrité physique ou psychique.
+
+<<4855.35;4860.35;fr>>
+Il va de soi qu'une atteinte ou une menace à l'intégrité sexuelle en font également partie.
+
+<<4860.35;4879.35;fr>>
+L'ajout de la notion de menace est requis pour permettre un internement pour certains faits qui démontrent une dangerosité dans le chef de l'auteur, sans qu'il ait effectivement porté atteinte à l'intégrité physique ou psychique entière.
+
+<<4879.35;4893.35;fr>>
+Il peut s'agir de faits qui, par hasard, n'ont fait aucune victime, comme un incendie volontaire, un attentat à la bombe, un jet d'acide, etc.
+
+<<4893.35;4904.35;fr>>
+Ce qui est fondamental, c'est que l'exposé du motif dit bien que leur appréciation par le juge est une question de fait.
+
+<<4904.35;4926.35;fr>>
+Donc, dans le cas des deux requérants, ce qui importe, c'est que dans les deux dernières décisions, en mai 2020 pour M. Denis, en juin 2019 pour M. Irvine, il y a eu, sur la base de rapports d'excel,
+
+<<4926.35;4937.35;fr>>
+les chambres de protection sociale ont estimé que dans les deux cas, il y avait un risque de commettre de nouvelles infractions.
+
+<<4937.35;4942.35;fr>>
+Dans le cas de M. Denis, cela nécessitait un strict encadrement.
+
+<<4942.35;4951.35;fr>>
+Dans le cas de M. Irvine, on parlait de risque de récidive violente,
+
+<<4951.35;4958.35;fr>>
+qu'une réinsertion immédiate dans la société représentait un risque élevé de récidive violente.
+
+<<4958.35;4996.35;fr>>
+Donc, l'important n'est pas tellement que ces personnes, que les deux requérants, n'ont jamais commis de faits qui, à priori, n'ont jamais commis de faits qui, aujourd'hui, répondraient au seuil minimal, mais en réalité, on voit bien que même l'idée de menace, qu'il n'y a pas besoin d'avoir commis ce fait, que la menace suffit, qu'il n'y a pas besoin qu'il y ait une victime, c'est ce qui est écrit dans l'exploit délématique de la loi réparatrice.
+
+<<4996.35;5021.35;fr>>
+Et ça, c'est quand même le point fondamental, que sur base de rapports d'experts, des juges indépendants, aux prises avec les réalités du terrain, ont décidé qu'il y avait un risque de commettre de nouvelles infractions, et qu'il y avait un risque pour les tiers.
+
+<<5021.35;5044.35;fr>>
+Si, maintenant, on se concentre sur la question du juge Turkovitch, sur la question qu'en réalité, les requérants ne demanderaient pas leur libération, mais une admission forcée, une mesure civile, le gouvernement constate que les requérants ne sont pas clairs.
+
+<<5044.35;5061.35;fr>>
+Devant les juridictions belges, ce qui a été soulevé, et devant la quatrième section, ce qui a été soulevé, c'est que l'internement n'a plus de base légale parce que la loi a changé, donc la libération définitive doit être ordonnée.
+
+<<5061.35;5068.35;fr>>
+Ici, devant la grande chambre, on nous parle maintenant d'admission forcée.
+
+<<5068.35;5105.35;fr>>
+Dans tous les cas, ça n'a pas une importance, qu'on choisisse l'un ou l'autre, ça n'a pas une importance fondamentale, parce que les requérants contestent soit que leur internement n'est pas légal, soit qu'il n'est pas approprié, mais ce qu'on a, ce sont des rapports psychosociaux, des établissements qui les prennent en charge, qui établissent clairement qu'il y a des troubles mentaux qui ne permettent pas une réintégration dans la société.
+
+<<5105.35;5121.35;fr>>
+La situation des requérants sera réévaluée à l'avenir, et nous espérons qu'ils puissent un jour réintégrer la société, mais malheureusement, ce n'est pas le cas actuellement, et c'est le point fondamental de ces deux cas.
+
+<<5121.35;5124.35;fr>>
+Merci pour votre attention.
+
+[[JudgeP;Robert Spano]]
+
+<<5125.89;5126.89;fr>>
+Merci beaucoup.
+
+<<5128.09;5134.69;fr>>
+Est-ce qu'il y a des demandes des juges qui avaient posé des questions qui souhaitent une clarification?
+
+<<5135.89;5137.05;fr>>
+Non, je ne vois pas.
+
+<<5137.13;5141.45;fr>>
+Alors, nous en arrivons au terme de l'audience.
+
+<<5141.89;5148.93;fr>>
+Je remercie les comparants qui ont assisté la Cour pour leur intervention et leur réponse à ces questions.
+
+<<5148.93;5152.53;fr>>
+La Cour va maintenant délibérer sur le fond.
+
+<<5152.53;5155.81;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<5155.81;5159.57;fr>>
+Les partis seront informés de la date de prononcée.
+
+<<5159.57;5160.57;fr>>
+L'audience est levée.
+

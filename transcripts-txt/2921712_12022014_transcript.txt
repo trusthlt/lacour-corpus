@@ -1,0 +1,2024 @@
+[[Announcer;UNK]]
+
+<<20.53;21.09;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<64.76;67.36;fr>>
+Je vous prie de bien vouloir vous asseoir.
+
+<<73.72;83.2;fr>>
+Et je déclare ouvert l'audience publique sur la recevabilité et le fonds de l'affaire Tarakhel contre Suisse.
+
+<<83.4;89.6;fr>>
+L'affaire a été introduite devant la Cour le 10 mai 2012 par 8 ressortissants afghans.
+
+<<89.8;105.16;fr>>
+C'est Golajan Tarakhel, son épouse, Mme Maryam Habibi, et leurs 6 enfants mineurs, Arezoo, Mohammad, Nazanin, Shiba, Zeynab et Amir Hassan, en vertu de l'article 34 de la Convention.
+
+<<105.36;112.04;fr>>
+Elle a été attribuée à la 2e section de la Cour conformément à l'article 52, paragraphe 1er du règlement de la Cour.
+
+<<113.36;119.32;fr>>
+La requête a été communiquée au gouvernement le 25 juin 2012.
+
+<<120.32;126.8;fr>>
+Le 24 septembre 2013, la Chambre a décidé de se dessaisir au profit de la Grande Chambre.
+
+<<127.0;130.68;fr>>
+Aucune des parties ne s'y étant opposée.
+
+<<132.96;146.4;fr>>
+Le gouvernement italien a été invité à soumettre des observations écrites et à prendre part à l'audience en tant que 3e partie en vertu de l'article 36, paragraphe 2 de la Convention.
+
+<<148.16;159.24;fr>>
+Les gouvernements britanniques, néerlandais, norvégiens et suédois, quant à eux, ont été autorisés à intervenir dans la procédure écrite comme 3e partie.
+
+<<160.04;173.28;fr>>
+Il en va de même de l'organisation Defence for Children et du collectif constitué par AIR Centre, le Conseil européen sur les réfugiés et les exilés, et Amnesty International.
+
+<<174.44;180.84;fr>>
+Le gouvernement défendeur est représenté par son agent, M. Frank Schürmann,
+
+<<180.84;193.64;fr>>
+chef de l'Unité protection internationale des droits de l'homme à l'Office fédéral de la justice, assisté de M. Bernard Dubey, Mme Dominique Steiger Leuba,
+
+<<193.84;199.44;fr>>
+M. Juerg Horni et Mme Valérie Hofer, conseiller.
+
+<<199.64;215.44;fr>>
+Les requérants sont représentés par Mme Chloé Bregnard Ecoffey, responsable du service d'aide juridique aux exilés et conseil assisté de Mme Karine Povlakic, conseillère.
+
+<<215.64;224.44;fr>>
+Le gouvernement italien est représenté par Mme Paola Accardo et M. Gianluca Mauro Pellegrini,
+
+<<224.72;228.24;fr>>
+co-agent du gouvernement italien.
+
+<<228.84;233.84;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<234.84;243.24;fr>>
+Je salue également les membres du tribunal administratif du canton de Saint-Gal en visite à la Cour.
+
+<<244.24;255.24;fr>>
+Ayant consulté l'agent du gouvernement suisse, la représentante des requérants et les représentants du gouvernement italien, j'ai fixé ainsi l'ordre de parole.
+
+<<256.24;259.04;fr>>
+Nous entendrons successivement M. Schürmann
+
+<<259.28;266.84;fr>>
+pour le gouvernement défendeur, puis Mme Bregnard Ecoffey pour les requérants et enfin Mme Accardo pour le gouvernement italien.
+
+<<266.84;288.84;fr>>
+Je dois expliquer qu'en suite de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en russe a été autorisée au profit d'un groupe de juristes de l'European Human Rights Advocacy Centre, ainsi que d'un groupe de représentés du Federal Business Ombudsman de la Fédération de Russie en visite d'études à la Cour.
+
+<<289.24;300.04;fr>>
+Une interprétation vers le bosnien a également été autorisée au profit d'un groupe de visiteurs représentés des tribunaux municipaux de la Bosnie-Herzégovine.
+
+<<300.44;309.64;fr>>
+Ces interprétations ne sont pas assurées par la Cour et ne feront donc pas partie de l'enregistrement officiel de la procédure.
+
+<<309.64;311.64;fr>>
+La parole est à M. Schürmann.
+
+[[Government;GR2]]
+
+<<319.78;335.66;fr>>
+Monsieur le Président, Mesdames et Messieurs les juges de la Grande Chambre, le système d'Abelin est basé sur la présomption que le traitement réservé aux demandeurs d'asile dans chaque État membre respecte leurs droits fondamentaux.
+
+<<336.9;347.19;fr>>
+C'est bien la démarche suivie par les juridictions européennes et par les juridictions internes, y compris par notre tribunal administratif fédéral.
+
+<<347.19;360.82;fr>>
+Suite au dessaisissement de la présente affaire, la Grande Chambre est appelée à répondre à la question de savoir si les autorités suisses auraient dû renverser cette présomption vis-à-vis d'Italie.
+
+<<362.46;372.14;fr>>
+Votre arrêt est susceptible d'avoir des conséquences qui vont bien au-delà du cas d'espèce, qui vont au-delà également du cas de l'Italie.
+
+<<373.19;379.46;fr>>
+Il pourrait en effet avoir des conséquences sur le fonctionnement même du règlement d'Abelin en général.
+
+<<380.78;394.9;fr>>
+En pratique, il apparaît déjà que, suite à l'arrêt MSS de la Grande Chambre, les transferts de requérants d'asile vers de nombreux États autres que la Grèce ont été contestés devant les juridictions nationales.
+
+<<396.38;405.42;fr>>
+Quant à l'Italie, la Cour a eu l'occasion à maintes reprises d'examiner l'admissibilité des transferts d'asile vers ce pays.
+
+<<405.62;409.02;fr>>
+On le sait, aucune des requêtes n'a été admise.
+
+<<410.78;416.62;fr>>
+La question se pose, pourquoi un dessaisissement précisément dans l'affaire Tarakel?
+
+<<416.82;419.14;fr>>
+La réponse n'est pas évidente.
+
+<<420.42;438.78;fr>>
+Mais quoi qu'il en soit, l'affaire donne l'occasion à la Grande Chambre de confirmer une jurisprudence cohérente et convaincante, suivie par deux sections de la Cour dans une vingtaine d'affaires, au moins ce sont ce vingtaine d'affaires dont on a connaissance.
+
+<<438.99;448.78;fr>>
+Nous sommes convaincus que notre affaire ne justifie pas un revirement de la jurisprudence, telle qu'opérée par la Grande Chambre dans l'affaire MSS.
+
+<<448.99;452.78;fr>>
+Les deux affaires ne sont pas comparables, j'y reviendrai.
+
+<<454.38;467.38;fr>>
+Pour me conforter dans ma tâche, je peux compter non seulement sur l'appui de mes collègues ici présents, des offices fédéraux de la justice et des migrations, mais également, M. le Président, vous l'avez rappelé,
+
+<<467.58;476.18;fr>>
+sur les tierces interventions des gouvernements de l'Italie, de la Norvège, des Pays-Bas, de la Suède et du Royaume-Uni.
+
+<<476.38;483.58;fr>>
+Le gouvernement suisse se rallie sans réserve aux positions exprimées dans leurs observations respectives.
+
+<<484.18;488.18;fr>>
+C'est d'abord de rappeler quelques éléments factuels.
+
+<<488.18;502.18;fr>>
+S'agissant de la situation en Italie, il n'est pas question aujourd'hui des hommes, femmes et enfants qui ont réussi à gagner la terre ferme européenne.
+
+<<502.38;511.99;fr>>
+Personne ne conteste que ces réfugiés peuvent se retrouver dans un premier temps dans une situation plus que difficile.
+
+<<512.38;515.99;fr>>
+Nous connaissons tous les images récentes.
+
+<<515.99;524.18;fr>>
+Toutefois, ce ne sont pas les premiers jours passés dans des camps provisoires qui nous préoccupent aujourd'hui.
+
+<<524.38;532.38;fr>>
+Ce sont les structures d'accueil pour des requérants d'asile établies conformément à la législation européenne.
+
+<<532.99;546.99;fr>>
+De toute évidence, les représentants du gouvernement italien sont les mieux placés pour en parler, et nous sommes particulièrement heureux qu'ils aient l'occasion et tout à l'heure un compte rendu de la situation.
+
+<<548.99;558.59;fr>>
+Permettez-moi tout de même quelques observations du point d'un pays voisin pour lequel l'Italie représente de loin le pays d'accueil le plus important.
+
+<<561.38;570.78;fr>>
+L'Organisation internationale pour l'immigration a publié il y a deux semaines le nombre de migrants qui sont arrivés en Europe par la Méditerranée en 2013.
+
+<<570.78;573.78;fr>>
+Au total, plus de 45 000 personnes.
+
+<<575.38;581.59;fr>>
+De ces 45 000 personnes, 42 900, soit 95 %, sont arrivés en Italie.
+
+<<583.99;585.99;fr>>
+Voilà le défi à surmonter.
+
+<<588.18;611.18;fr>>
+Même si la situation générale et les conditions de vie présentent certaines insuffisances, la Courrie fait régulièrement référence dans ses décisions, il y a tout de même lieu de constater que malgré le nombre toujours croissant de migrants, des progrès considérables ont été réalisés et continueront de l'être.
+
+<<611.38;621.99;fr>>
+Dans ce contexte, le gouvernement suisse se réfère aux différents programmes en cours relatés dans le nombre de décisions de la Cour et dans des tierces interventions.
+
+<<622.18;634.38;fr>>
+Rappelons notamment le plan d'EASO du 4 juillet 2013 qui prévoit un soutien substantiel à l'Italie dans plusieurs domaines prioritaires, dont le système d'accueil.
+
+<<634.59;639.79;fr>>
+Mentionnons ensuite la contribution de l'Union européenne de 160 millions d'euros pour 2013.
+
+<<641.18;651.78;fr>>
+Rappelons également le budget du HCR, dans 95 % du total de 22 millions de dollars prévus pour l'Italie pour 2014, sans réserver au pilier 1, soit aux réfugiés.
+
+<<651.78;662.78;fr>>
+Et mentionnons finalement les moyens considérables investis par le gouvernement italien lui-même, cela malgré une situation économique tendue.
+
+<<662.98;670.18;fr>>
+Le cadre normatif mérite également qu'on y prête attention.
+
+<<671.78;688.18;fr>>
+Dans ses recommandations concernant d'importants aspects de la protection des réfugiés en Italie de juillet 2012, le HCR fait état, je cite, de «significant positive developments in the normative framework».
+
+<<688.38;695.59;fr>>
+Le HCR se réfère plus précisément à la mise en oeuvre par l'Italie de la directive dite «procédure» et de la directive dite «accueil».
+
+<<697.38;716.38;fr>>
+La Cour, elle aussi, attribue de l'importance à ce cadre normatif, citant à titre d'exemple l'arrêt Mohamed contre Autriche, concernant un transfert vers la Hongrie, dans lequel cet élément était déterminant pour motiver le constat de non-violation.
+
+<<716.79;720.79;fr>>
+Je me réfère au paragraphe 105 de cette décision.
+
+<<720.99;730.59;fr>>
+S'agissant plus particulièrement de la directive accueil, elle impose des normes minimales au niveau des conditions de vie des recueillants d'asile.
+
+<<730.79;738.78;fr>>
+Elle prévoit un régime d'accueil spécifique pour les personnes ayant des besoins particuliers.
+
+<<738.98;740.98;fr>>
+C'est la formulation à l'article 17.
+
+<<741.18;749.38;fr>>
+Cet article 17 de la directive énumère plusieurs groupes de personnes entrant dans cette catégorie.
+
+<<750.18;768.18;fr>>
+Comme l'a affirmé le gouvernement italien dans ses observations, les familles avec des petits-enfants peuvent être considérées comme vulnérables au sens de l'article 17 et méritent dès lors, je cite, un soutien particulier.
+
+<<768.38;775.59;fr>>
+Pour revenir au HCR, il importe souligner le rôle significatif que jouent ces rapports.
+
+<<775.79;790.59;fr>>
+Dans l'affaire MSS, l'évaluation par le HCR était un des éléments clés pour justifier le revirement de la jurisprudence, par rapport notamment à l'affaire KRS contre le Royaume-Uni, concernant elle aussi un transfert vers la Grèce.
+
+<<790.59;801.18;fr>>
+Or, à la connaissance du gouvernement suisse, le HCR n'est jamais intervenu devant la Cour dans des affaires concernant l'Italie.
+
+<<801.59;805.78;fr>>
+Il ne l'a pas fait non plus dans la présente affaire, la première qui sera traitée par la Grande Chambre.
+
+<<805.98;832.98;fr>>
+Autre différence déterminante par rapport à MSS, le HCR n'a jamais recommandé aux Etats de suspendre des transferts d'Ablin vers l'Italie recommandations qu'il avait formulées en avril 2009 pour la Grèce et qu'il vient d'émettre en janvier 2014 à propos de notre Etat membre de Dablin pour les 3 mois à venir.
+
+<<834.59;840.98;fr>>
+Toujours dans le contexte des éléments factuels, il sied de souligner d'autres différences entre la présente affaire et le cas MSS.
+
+<<841.38;845.38;fr>>
+M. MSS a passé plus d'un an et demi en Grèce.
+
+<<845.38;849.38;fr>>
+La Cour a constaté qu'il a été mis en détention à son arrivée.
+
+<<849.59;853.59;fr>>
+Il a subi des violences verbales et physiques.
+
+<<853.78;856.78;fr>>
+Les conditions de détention étaient inacceptables.
+
+<<856.98;862.18;fr>>
+Même en dehors de la détention, il a vécu dans le dénuement total.
+
+<<862.59;864.59;fr>>
+Les besoins vitaux élémentaires n'étaient pas couverts.
+
+<<864.78;868.78;fr>>
+Il vivait dans l'angoisse permanente d'être agressé.
+
+<<869.98;873.98;fr>>
+Il n'avait aucune perspective d'amélioration de sa situation.
+
+<<873.98;886.98;fr>>
+Et au moment de l'arrêt de la Cour, un an et demi après le transfert, la demande d'asile n'était toujours pas traitée, sans perspective réelle qu'elle soit examinée sérieusement.
+
+<<887.18;892.18;fr>>
+Rien de tout ça en l'espèce.
+
+<<892.38;904.59;fr>>
+Les requérants, on le sait, ne sont restés en Italie que 12 jours, dont les deux derniers au centre d'accueil CARA à Bari. Dans ces circonstances,
+
+<<904.79;915.79;fr>>
+force est de constater que les requérants, comme l'a formulé le gouvernement italien, je le cite, n'avaient aucune intention de formaliser la demande d'asile en Italie pour n'être pas obligés de rester dans notre pays.
+
+<<921.38;934.79;fr>>
+Cette conclusion est confirmée par les dépositions de monsieur et madame Taracke dans la procédure d'asile en Suisse et auparavant en Autriche, première destination où ils se sont rendus après avoir quitté l'Italie.
+
+<<934.98;939.18;fr>>
+Selon ces dépositions, la situation en Italie aurait été très mauvaise.
+
+<<939.38;941.38;fr>>
+La femme n'aurait pas pu y vivre avec les cinq enfants.
+
+<<943.59;951.98;fr>>
+Mais à aucun moment, ils n'ont fait valoir avoir été ou avoir risqué d'être exposés à un traitement inhumain ou dégradant.
+
+<<951.98;961.38;fr>>
+Notons également que les requérants n'ont jamais allégé qu'ils auraient essayé en vain d'obtenir de l'aide de la part des autorités locales.
+
+<<963.59;971.98;fr>>
+Monsieur MSS, on l'a dit, n'avait pas l'accès à la procédure d'asile et n'avait aucune perspective réelle de l'obtenir.
+
+<<972.18;974.18;fr>>
+La Cour a attaché une grande importance à ces éléments.
+
+<<974.38;988.18;fr>>
+En l'espèce, rien n'indique que les requérants auraient été exposés à un traitement inhumain ou que les enfants auraient pu se retrouver dans une situation comparable.
+
+<<988.38;1003.18;fr>>
+L'Italie, dans sa tierce intervention, parle d'une durée moyenne de la procédure de 72 jours en 2012 et de 92 jours en 2013, ce qui correspond plus ou moins aux observations du HCR, qui a retenu une moyenne de 4 à 6 mois.
+
+<<1003.38;1008.59;fr>>
+Il est intéressant aussi de relever le taux de décision positive.
+
+<<1008.79;1017.99;fr>>
+Reconnaissance comme réfugié, protection subsidiaire, protection humanitaire, comme il ressort des statistiques d'Eurostat 2012, les dernières statistiques disponibles.
+
+<<1021.79;1046.59;fr>>
+En 2012, ce taux était pour l'Italie de 37 %, légèrement en dessous de celui de la Suède, 39 %, mais plus élevé que celui, par exemple, de l'Allemagne, 29 %, ou de la France, 14 %, et infiniment supérieur à celui de la Grèce, avec 0,8 %.
+
+<<1052.38;1058.59;fr>>
+Commençons l'appréciation juridique par l'article 8 de la Convention.
+
+<<1058.78;1063.98;fr>>
+Cette garantie est entrée en jeu tardivement, et cela à deux égards.
+
+<<1063.98;1070.59;fr>>
+Le Cours, en transmettant la requête au gouvernement suisse, avait limité ces questions à l'article 3.
+
+<<1070.78;1077.98;fr>>
+L'article 8, comme d'ailleurs l'article 13, n'a été rajouté qu'après le dessaisissement.
+
+<<1078.18;1090.18;fr>>
+Deuxièmement, et voilà l'aspect sur lequel nous insistons, les articles 8 et 13 ne faisaient nullement l'objet de la procédure nationale, pour la simple raison qu'ils n'ont pas été invoqués.
+
+<<1090.38;1097.59;fr>>
+La Cour n'est donc pas appelée à les connaître, et ce n'est qu'à titre subsidiaire que je vais faire quelques brèves observations sur le fond.
+
+<<1099.78;1112.78;fr>>
+Quant au risque invoqué par les requérants que les enfants pourraient être séparés de leur père, voire être placés, on constate que les requérants n'ont apporté aucun élément à l'appui de cette affirmation.
+
+<<1112.98;1123.38;fr>>
+La situation est semblable à celle examinée par la Cour, par exemple dans l'affaire Mohamed Hassan contre les Pays-Bas et Italie, paragraphe 192.
+
+<<1124.98;1138.78;fr>>
+Rappelons ensuite que pour tomber sous le coup de l'article 8, le fait que la situation, en particulier économique, dans l'état d'accueil, pourrait se présenter d'une façon moins favorable que dans d'autres États, ne suffit pas.
+
+<<1140.59;1142.59;fr>>
+Décision Halimi contre Autriche et Italie, paragraphe 58.
+
+<<1144.98;1156.79;fr>>
+La Cour n'a jamais interprété l'article 8 comme comprenant une obligation pour les États de respecter le choix des immigrants quant au pays dans lequel ils souhaitent vivre leur vie familiale ou privée.
+
+<<1158.79;1169.59;fr>>
+En d'autres termes, on ne saurait transposer le concept du non-refoulement qui s'applique sans réserve aux articles 2 et 3 à d'autres garanties de la Convention telles que celles de l'article 8.
+
+<<1172.79;1176.98;fr>>
+Le gouvernement ne conteste pas que le retour de la famille en Italie ne sera pas facile.
+
+<<1176.98;1191.78;fr>>
+Toutefois, les difficultés liées à ce changement ne sont pas de nature à porter atteinte à la vie privée ou familiale des requérants, rappelant que la famille n'est en Suisse que depuis deux ans suite à l'octroi de l'effet suspensif par la Cour.
+
+<<1192.78;1205.18;fr>>
+Ces considérations nous amènent à la conclusion confirmée par les tierces interventions qui se sont prononcées sur ce point que la présente affaire ne touche pas aux droits garantis par l'article 8.
+
+<<1205.18;1211.79;fr>>
+Quant à l'article 3, sous son aspect matériel, on rappellera les éléments suivants.
+
+<<1214.79;1228.18;fr>>
+La Cour qualifie, et je cite l'arrêt MSS, la Cour qualifie d'inhumain un traitement qui est infligé avec préméditation pendant des heures et qui cause des lésions corporelles, de vive souffrance physique ou mentale.
+
+<<1229.38;1249.18;fr>>
+Un traitement est dégradant s'il humilie ou avilie un individu, s'il témoigne d'un manque de respect pour sa dignité humaine, voire la diminue, ou s'il suscite chez l'intéressé des sentiments de peur, d'angoisse ou d'infériorité propres à briser sa résistance morale et physique.
+
+<<1251.59;1253.59;fr>>
+Paragraphe 220 de l'arrêt MSS.
+
+<<1255.18;1259.98;fr>>
+Les requérants n'ont pas vécu pareils traitements et ne risqueront pas d'en vivre.
+
+<<1262.18;1275.38;fr>>
+Deuxième élément, il ressort de la juridiction de la jurisprudence constante que la Cour n'applique l'article 3 qu'à titre tout à fait exceptionnel en relation avec les circonstances socio-économiques dans le pays de destination.
+
+<<1277.18;1285.79;fr>>
+Je cite la décision Mohamed Houssein et à défaut d'une traduction française officielle, je cite la version originale pour être précis.
+
+<<1286.79;1310.9;fr>>
+« In the absence of exceptionally compelling humanitarian grounds, the fact that the applicants' material and social living conditions would be significantly reduced, même de façon significative, if he or she were to be removed from the contracting state, is not sufficient in itself to give rise to breach of article 3. »
+
+<<1312.59;1319.98;fr>>
+Les exigences sont particulièrement élevées quand il s'agit d'un transfert vers un autre état parti à la Convention.
+
+<<1319.98;1331.98;fr>>
+Jusqu'à présent, à part MSS, on ne compte que trois arrêts avec constat de violation, les trois concernaient des cas en dehors de Dabli.
+
+<<1332.98;1337.18;fr>>
+Cette approche correspond à celle adoptée par la Cour de justice.
+
+<<1337.98;1362.98;fr>>
+Ainsi, la Cour de Luxembourg a statué, par exemple dans l'affaire NS contre Secretary of State for the Home Department, arrêt du 21 décembre 2011, qu'il, je cite, « ne serait pas compatible avec les objectifs et le système du règlement d'Ablin que la moindre violation des directives suffise à empêcher tout transfert d'un demandeur d'asile vers l'état membre normalement compétent. »
+
+<<1363.38;1379.58;fr>>
+En effet, le règlement vise, en présumant que les droits fondamentaux seront respectés, à instaurer une méthode claire et opérationnelle permettant de déterminer rapidement l'état membre compétent pour connaître d'une demande d'asile.
+
+<<1379.78;1380.58;fr>>
+Fin de citation.
+
+<<1381.78;1383.58;fr>>
+C'est le paragraphe 84 de l'arrêt.
+
+<<1385.38;1387.78;fr>>
+Troisième élément.
+
+<<1387.98;1415.38;fr>>
+Dans les affaires pertinentes, la Cour de Strasbourg souligne régulièrement que, « although the general situation and living conditions in Italy of asylum seekers is certainly far from ideal and may disclose some shortcomings, there is no systemic failure where it concerns providing support or facilities catering for asylum seekers, as was the case in MSS. »
+
+<<1416.59;1427.18;fr>>
+Pas plus que les requérants en question, décision Mohamed Hassan contre Pays-Bas et Italie, pas plus que ces requérants, M. et Mme Tarakel,
+
+<<1427.38;1448.58;fr>>
+have established that their future prospects if returned to Italy, whether taken from a material, physical or psychological perspective, disclose a sufficiently real and imminent risk of hardship severe enough to fall within the scope of Article 3.
+
+<<1448.78;1472.79;fr>>
+La Cour ajoute ce qui nous paraît être également un aspect particulièrement important, qu'elle n'a pas trouvé une base on which it can be issued, that the applicants will not be able to benefit from the available resources in Italy for asylum seekers, or that in case of difficulties, the Italian authorities would not respond in an appropriate manner.
+
+<<1473.59;1479.38;fr>>
+C'est le paragraphe 176 de la décision Mohamed Hassan contre Pays-Bas et Italie.
+
+<<1480.59;1488.59;fr>>
+Quatrième élément, le système d'Ablin, on l'a dit, repose sur la présomption que les États-Pas-Deux respectent leurs obligations.
+
+<<1489.59;1509.18;fr>>
+Outre le fait que la Cour admet que même une somme d'incidents isolés ne peut être considérée comme une défaillance structurelle, par exemple la décision d'Ait Begova contre Autriche, la situation en Italie n'est pas comparable à celle qui a motivé pour la Grèce le revirement de la jurisprudence.
+
+<<1509.99;1520.59;fr>>
+Quant à la protection juridique, il n'y a aucun indice de comportement pour conclure que cette protection serait illusoire en Italie.
+
+<<1521.79;1535.59;fr>>
+Dans MSS, l'incertitude prolongée était un élément déterminant pour conclure que la situation du requérant avait atteint le seuil de gravité requis par l'article 3.
+
+<<1535.79;1538.38;fr>>
+Cet élément fait défaut en l'espèce.
+
+<<1538.59;1548.79;fr>>
+Les requérants ne font pas non plus valoir qu'il y aurait un risque d'être directement refoulé en état tiers sans examen de leur demande d'asile en Italie.
+
+<<1550.38;1574.99;fr>>
+Cinquième et dernier élément, parmi les affaires jugées par la Cour, plusieurs connaissent la même particularité que notre affaire, à savoir le fait que les requérants n'ont pas entrepris la moindre démarche pour obtenir le statut de demandeur d'asile en Italie, statut qui leur aurait permis de bénéficier des structures d'accueil et d'un encadrement.
+
+<<1577.38;1579.38;fr>>
+M. et Mme Tarakel ont clairement affirmé
+
+<<1579.59;1587.18;fr>>
+lors des premières procédures en Autriche déjà qu'ils ne voulaient pas demander l'asile en Italie, mais uniquement en Autriche.
+
+<<1588.99;1602.78;fr>>
+C'est exactement la situation que la Cour a jugée, par exemple, dans l'affaire Halimi contre Autriche et Italie, paragraphe 64, 65, et on rappelle la même déclaration que les requérants avaient faite en Autriche.
+
+<<1603.78;1606.78;fr>>
+Ils ont fait la déclaration analogue devant les autorités suisses.
+
+<<1609.18;1611.38;fr>>
+J'en viens au contenu procédural de l'article 3.
+
+<<1611.78;1617.18;fr>>
+C'est l'objet de la seconde question posée par la Chambre lorsqu'elle nous a transmis la requête.
+
+<<1618.59;1624.38;fr>>
+Avant de décider de leur expulsion, est-ce que les autorités suisses ont dûment examiné la situation?
+
+<<1625.98;1628.38;fr>>
+Il faut bien replacer cette question dans son contexte.
+
+<<1628.38;1638.79;fr>>
+Il y a d'une part la philosophie du système d'Abelin qui repose, encore une fois, sur une présomption et auquel, de ce fait, est inhérent un certain automatisme.
+
+<<1639.59;1650.79;fr>>
+Il y a aussi, d'autre part, les décisions des autorités qui ont statué sur la base d'une jurisprudence de la Cour bien établie, confirmée à maintes reprises, jusqu'à tout récemment.
+
+<<1651.98;1668.59;fr>>
+Ces autorités, contrairement à celles dans l'affaire MSS, ne disposaient pas d'informations pertinentes émanant en particulier du HCR, sur la base desquelles elles auraient dû considérer les transferts en Italie comme contraires à l'article 3.
+
+<<1669.18;1677.79;fr>>
+Elles n'ont notamment pas été averties par un courrier particulier du HCR recommandant de suspendre les transferts.
+
+<<1678.99;1682.59;fr>>
+Cela étant dit, je souligne les éléments suivants.
+
+<<1682.59;1690.18;fr>>
+Le tribunal administratif fédéral a examiné l'affaire à deux reprises et a rendu des jugements d'humains motivés.
+
+<<1691.18;1697.18;fr>>
+Durant l'ensemble de la procédure, les requérants étaient représentés par des mandataires expérimentés.
+
+<<1697.79;1710.98;fr>>
+On ne saurait reprocher au tribunal d'avoir statué à bref délai et en déduire que l'examen n'était pas sérieux, étant donné que le traitement prioritaire revêt une importance particulière dans ce genre de procédure.
+
+<<1710.98;1724.38;fr>>
+Les deux jugements du tribunal administratif fédéral montrent au contraire que ce tribunal insiste sur un examen concret de chaque cas d'espèce, fondé sur toutes les informations pertinentes mises à jour constamment.
+
+<<1724.98;1734.78;fr>>
+Les autorités nationales compétentes tiennent compte en particulier de circonstances comme l'état de santé, la situation familiale, l'état de destination.
+
+<<1735.58;1755.99;fr>>
+En l'espèce, les autorités nationales ont dûment examiné le cas et sont arrivées à la conclusion que les requérants ne peuvent pas être considérés comme personnes particulièrement vulnérables en vue de l'application de la clause de souveraineté, article 3, paragraphe 2 du règlement.
+
+<<1757.38;1761.38;fr>>
+Il y a d'autres exemples également de ce tribunal administratif fédéral.
+
+<<1761.99;1782.18;fr>>
+Ce tribunal a en effet confirmé des décisions de l'Etat à l'origine de ce tribunal a en effet confirmé dans plusieurs arrêts de principe, je cite, qu'un requérant d'asile peut se prévaloir de la violation d'une norme de droit international public ou d'une norme de droit interne, faisant obstacle au transfert envisagé.
+
+<<1782.38;1791.98;fr>>
+Si cet argument est fondé, la clause de souveraineté doit être appliquée et la responsabilité de la Suisse pour l'examen de la demande admise.
+
+<<1792.18;1795.98;fr>>
+C'est un arrêt du tribunal administratif fédéral du 31 août 2010.
+
+<<1796.78;1800.78;fr>>
+On a envoyé, quand on l'a annexé, à notre mémoire à la Grande Chambre.
+
+<<1802.18;1811.59;fr>>
+En appliquant cette jurisprudence, le tribunal a admis de nombreux recours, y compris concernant des transferts vers l'Italie.
+
+<<1813.59;1821.38;fr>>
+La 3e intervention du Air Centre et de Amnesty y fait d'ailleurs également référence dans son annexe 9.
+
+<<1821.38;1828.38;fr>>
+À la lecture de ces cas, on constate aisément qu'il n'est pas possible de comparer ces situations à la nôtre.
+
+<<1828.59;1839.59;fr>>
+Il s'agit notamment de cas de maladies graves ou de liens familiaux étroits avec des membres de la famille déjà établie en Suisse.
+
+<<1840.38;1848.38;fr>>
+Dernier point, la préparation du transfert.
+
+<<1848.59;1852.38;fr>>
+La cour y attache de l'implication et de l'importance à juste titre.
+
+<<1854.38;1870.59;fr>>
+Ainsi, elle a pris en compte l'affaire Mohamed Houssein, le fait que les autorités du Nétherlands donneront priori des notices à leurs compagnons italiens sur le transfert des applicants et de leurs enfants.
+
+<<1872.18;1876.38;fr>>
+En ce qui concerne les autorités italiennes, elles permettront de préparer leur arrivée.
+
+<<1876.38;1881.59;fr>>
+Il en irait bien sûr de même pour la famille Tarakel.
+
+<<1881.98;1890.59;fr>>
+Les tierces interventions, le plus explicitement celle de la Suède, soulignent la bonne collaboration avec les autorités italiennes.
+
+<<1890.59;1893.59;fr>>
+Cela correspond exactement à nos expériences.
+
+<<1893.79;1906.78;fr>>
+La collaboration est facilitée par le fait que la Suisse dispose d'une personne de liaison à Rome qui était jusqu'à fin 2013, Mme Rofo, ici, présente.
+
+<<1906.98;1918.38;fr>>
+Rappelons également les multiples rencontres bilatérales qui ont eu et qui ont encore lieu entre nos deux pays à différents niveaux politiques et techniques.
+
+<<1918.98;1922.38;fr>>
+Je vous renvoie à l'annexe 2 de notre mémoire.
+
+<<1923.18;1928.38;fr>>
+Pour conclure, M. le Président, Mesdames et Messieurs les juges,
+
+<<1928.58;1957.78;fr>>
+nous demandons à la Grande Chambre de confirmer la jurisprudence constante et de déclarer irrecevable la présente requête, en particulier nous invitant la Grande Chambre à confirmer que la présomption sur laquelle repose le système d'Abelin ne saurait être renversée par le fait que les conditions de vie matérielles et sociales des requérants d'asile sont, trouveraient réduites, même de façon significative.
+
+<<1957.98;1963.98;fr>>
+Il faudrait encore qu'il s'y ajoute à la loi humanitaire impérative.
+
+<<1964.18;1976.38;fr>>
+Or, les requérants n'ont pas démontré, ni dans le principe, ni dans leur situation individuelle, que le transfert en Italie les exposerait à un traitement contraire à la Convention.
+
+<<1976.58;1980.58;fr>>
+Quelques remarques relatives à l'article 41.
+
+<<1980.78;1993.59;fr>>
+En ce qui concerne les frais d'épam en couru pour la procédure devant les instances internes et pour la procédure devant la Chambre, le gouvernement renvoie à ses observations du 7 janvier 2013.
+
+<<1993.78;2001.18;fr>>
+Dans ses observations, il n'a pas contesté les montants réclamés par les requérants, soit un total de 4 564 francs.
+
+<<2001.38;2007.59;fr>>
+Il n'a pas connaissance d'autres demandes formulées au titre des frais d'épam.
+
+<<2007.78;2012.98;fr>>
+Le gouvernement confirme également sa position quant aux prétentions au titre de tort moral.
+
+<<2013.18;2021.18;fr>>
+Il estime, en effet, ici, que les différences par rapport à MSS se manifestent.
+
+<<2021.38;2029.59;fr>>
+Il estime, en effet, que le constat par la Grande Chambre d'une violation de la Convention représenterait une satisfaction équitable.
+
+<<2029.59;2029.59;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2032.77;2035.25;fr>>
+Merci, Monsieur Schürmann.
+
+<<2035.25;2037.25;fr>>
+Je donne la parole à Madame Ecoffey.
+
+[[Applicant;AP1]]
+
+<<2047.3;2050.84;fr>>
+Nous remercions la Cour de nous permettre d'exposer nos griefs oralement.
+
+<<2052.16;2077.48;fr>>
+Nous avons divisé notre plaidoirie en deux parties, la première relative à la procédure et aux allégations de violation de l'article 13 de la Convention, et la seconde, qui sera présentée par ma collègue, relative aux risques encourus par des requérants en cas de renvoi en Italie sous l'angle des articles 3 ou 8 de la Convention. En ce qui
+
+<<2077.48;2095.64;fr>>
+concerne les questions de procédure, nous avons défendu l'argument que les requérants n'ont pas été correctement entendus des autorités suisses parce que leurs motifs de non-renvoi n'ont pas été établis et n'ont donc pas été examinés.
+
+<<2095.64;2105.56;fr>>
+Au centre de ce problème d'accès à une procédure d'examen effective se trouve la clause dite de souveraineté.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2105.56;2109.24;fr>>
+Il faut nous arrêter quelques instants.
+
+<<2109.24;2109.8;fr>>
+Excusez-moi.
+
+[[Applicant;AP3]]
+
+<<2113.01;2113.57;fr>>
+Hum...
+
+[[JudgeP;Dean Spielmann]]
+
+<<2109.2;2112.4;fr>>
+Excusez-moi, Madame, est-ce que vous avez mis le micro?
+
+<<2114.77;2116.77;fr>>
+Vous avez poussé sur le bouton qui est devant vous?
+
+<<2116.77;2119.77;fr>>
+Il faut que la lumière rouge s'allume, le témoin rouge doit s'allumer.
+
+[[Applicant;AP1]]
+
+<<2121.01;2122.53;fr>>
+Les témoins rouges sont allumés.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2122.95;2127.27;fr>>
+D'accord. Alors, il y a un problème de sonorité.
+
+<<2127.27;2130.15;fr>>
+Je vous prie de bien vouloir continuer.
+
+[[Applicant;AP1]]
+
+<<2132.71;2141.83;fr>>
+Au centre de ce problème d'accès à une procédure d'examen effective se trouve la clause dite de souveraineté.
+
+<<2144.91;2155.07;fr>>
+Il faut nous arrêter quelques instants sur la signification de cette clause avant d'examiner les arguments des autorités au cours de la procédure interne.
+
+<<2157.19;2168.99;fr>>
+L'article 3 du règlement Dublin 2 prévoit que les Etats peuvent renoncer au renvoi de demandeurs d'asile même si le règlement désigne la compétence d'un autre Etat.
+
+<<2170.43;2196.47;fr>>
+La clause de souveraineté signifie que dans chaque cas pris individuellement, les Etats peuvent examiner s'il existe des circonstances personnelles propres à la personne même du demandeur d'asile ou à sa situation individuelle qui ferait penser qu'il y aurait lieu dans ce cas-là de renoncer à un renvoi vers un autre Etat du Blin.
+
+<<2198.87;2209.95;fr>>
+Derrière la clause de souveraineté se trouve le principe de l'examen individuel en rapport avec la lisséité de renvoi de telle personne ou de telle famille.
+
+<<2211.93;2222.79;fr>>
+Dans un Etat de droit, c'est-à-dire un Etat où l'action des autorités tire son fondement, sa justification et ses limites de la loi.
+
+<<2223.77;2230.23;fr>>
+Il appartient en premier lieu à la loi de dire dans quel cas un ordre de renvoi est licite.
+
+<<2231.51;2242.11;fr>>
+La clause de souveraineté, en effet, n'est pas directement applicable et nécessite pour produire un effet juridique d'être précisée par le droit interne.
+
+<<2242.11;2257.79;fr>>
+Nous reprochons ici aux autorités suisses de ne pas avoir mis en œuvre la clause de souveraineté en droit interne, c'est-à-dire que cette disposition n'a pas été explicitée ni par la loi ni par la jurisprudence.
+
+<<2257.79;2286.63;fr>>
+Il faut préciser ici que si les États sont libres de choisir les critères de renonciation au renvoi du Blin, comme l'a déclaré la Cour de justice de l'Union européenne dans son arrêt de grande chambre, PUID, l'Office fédéral des migrations n'est pas l'État et n'est pas libre de choisir ses critères à chaque fois que cette autorité statue sur une demande d'asile.
+
+<<2286.63;2301.35;fr>>
+L'article 29A de l'ordonnance sur l'asile, qui est la disposition topique en droit interne, dit que l'ODM peut renoncer au renvoi du Blin pour des motifs humanitaires.
+
+<<2301.35;2307.27;fr>>
+Que signifient des motifs humanitaires?
+
+<<2307.27;2311.11;fr>>
+Aucune directive ne donne l'indication à ce sujet.
+
+<<2311.11;2332.87;fr>>
+Comment l'ODM va-t-il trier entre les cas humanitaires et les autres cas également humanitaires, si on conçoit que tous les demandeurs d'asile sont également humains et que la majorité d'entre eux ont traversé des épreuves terrifiantes ou traumatisantes avant de demander l'asile?
+
+<<2332.87;2363.83;fr>>
+Selon des principes généraux du droit administratif et spécifiquement dans le domaine des droits de l'homme, dont c'est la fonction de protéger les intérêts et les libertés des particuliers contre les décisions arbitraires, c'est-à-dire non motivées, la loi doit être suffisamment claire et précise pour permettre à l'administré, au besoin en s'entourant de conseils éclairés, d'en comprendre le contenu et d'y adapter son comportement.
+
+<<2363.83;2376.27;fr>>
+La loi doit être prévisible, elle doit encadrer l'activité de l'administration et permettre aux autorités judiciaires d'en contrôler la bonne application.
+
+<<2376.27;2411.47;fr>>
+Avant l'entrée en vigueur du règlement Dublin 2 pour la Suisse, la loi sur l'asile prévoyait que les personnes qui avaient transité pendant moins de 20 jours dans un État voisin ne pouvaient pas y être envoyées, ni celles qui pouvaient faire valoir des liens particuliers avec la Suisse, notamment des liens de famille ou un séjour antérieur, ni celles qui sont manifestement des réfugiés, c'est-à-dire qui ont manifestement enduré de graves souffrances et sont arrivés dans un état d'épuisement physique et moral.
+
+<<2411.47;2425.07;fr>>
+À cela, il fallait ajouter que, d'une manière générale, l'Italie refusait de réadmettre les familles en application de l'accord bilatéral de réadmission.
+
+<<2425.07;2449.11;fr>>
+Ces critères n'ont pas de valeur en soi, mais ils avaient l'avantage de permettre aux demandeurs d'asile de faire valoir leurs motifs de protection contre un renvoi vers un État tiers de manière concrète, en s'appuyant sur des critères énoncés par la loi et sur une pratique jurisprudentielle compréhensible.
+
+<<2449.11;2462.47;fr>>
+C'est en cela que les autorités n'ont pas mis en œuvre la clause de souveraineté en omettant d'énoncer dans une loi les critères d'exception au renvoi du blin.
+
+<<2462.47;2471.63;fr>>
+Et c'est pour cette raison que les motifs de non-renvoi de la famille Tahaquel n'ont été ni établis ni examinés.
+
+<<2471.63;2481.43;fr>>
+Au cours de la procédure interne, l'ODM a posé en page 8 de l'audition de M. Tahaquel deux questions juridiques
+
+<<2481.43;2485.63;fr>>
+incompréhensibles que l'on peut traduire ainsi.
+
+<<2485.63;2493.63;fr>>
+Quels sont les motifs plaidant en défaveur de la compétence de l'Italie pour le traitement de votre demande d'asile?
+
+<<2493.63;2500.87;fr>>
+Et existent-ils dans votre cas des motifs d'illicité du renvoi?
+
+<<2500.87;2515.31;fr>>
+Ces questions ne permettaient pas aux requérants de comprendre qu'ils devaient décrire avec précision les circonstances de leur arrivée et de leur séjour en Italie.
+
+<<2515.31;2538.95;fr>>
+Dans sa décision du 24 janvier 2012, l'ODM déclare que le règlement du blin désigne la compétence de l'Italie et que les conditions de vie difficiles en Italie ne sont pas une raison pour renoncer au renvoi de la famille dans la mesure où leur vie ne sera pas en danger.
+
+<<2538.95;2549.19;fr>>
+Cet argument se réfère à l'idée qu'il n'y a pas de situation de violence généralisée en Italie, c'est-à-dire au principe de non-refoulement.
+
+<<2549.19;2560.31;fr>>
+Il n'y a pas une ligne dans cette décision sur l'éventuelle application de la clause de souveraineté, c'est-à-dire de critères humanitaires.
+
+<<2560.31;2565.67;fr>>
+Pour l'autorité, ces critères sont juridiquement inexistants.
+
+<<2565.67;2574.07;fr>>
+En ce qui concerne l'arrêt du 9 février 2012, le tribunal a justement analysé qu'il y a deux niveaux d'appréciation.
+
+<<2574.07;2586.55;fr>>
+En page 4, il est dit qu'il faut renoncer au transfert si celui-ci est contraire au principe de non-refoulement ou bien s'il existe des raisons humanitaires.
+
+<<2586.55;2603.63;fr>>
+Ensuite, les trois quarts de la motivation du tribunal, en pages 6 et 7, se réfèrent à l'examen du principe de non-refoulement, c'est-à-dire à la question d'ordre général, de savoir s'il existe des défaillances systémiques en Italie.
+
+<<2603.63;2612.99;fr>>
+Le tribunal conclut qu'il n'existe pas de raison de renoncer d'une manière générale au renvoi des demandeurs d'asile en Italie.
+
+<<2612.99;2628.27;fr>>
+Puis, dans un unique paragraphe, en page 8, le tribunal considère que, pour les mêmes motifs, il n'y a pas de raison humanitaire de renoncer au renvoi de la famille Tarraken.
+
+<<2628.27;2634.87;fr>>
+Les mêmes motifs, c'est la situation générale en Italie dont le tribunal vient de traiter.
+
+<<2634.87;2644.47;fr>>
+Ce ne sont pas les raisons particulières liées à la famille Tarraken, lesquelles ne sont donc pas examinées.
+
+<<2644.47;2650.59;fr>>
+En outre, quelles sont ces raisons humanitaires a priori?
+
+<<2650.59;2655.79;fr>>
+Le tribunal ne nous en donne aucune, pas plus que l'ODM.
+
+<<2655.79;2662.95;fr>>
+Le tribunal ne connaît le sens juridique de la clause de souveraineté en droit suisse.
+
+<<2662.95;2710.63;fr>>
+À cause de cela, les autorités n'ont pas pris en considération les faits que la famille n'a séjourné que quelques jours en Italie, qu'elle ne parle pas la langue, qu'elle n'y a jamais vécu auparavant, et que leurs enfants, qui ont failli périr de faim et de soif pendant le voyage et sont arrivés à bout de force en Italie, ne parvenaient pas à se reposer et à récupérer, d'abord dans l'école bruyante où la famille s'est retrouvée avec d'autres familles en situation d'accueil d'urgence, puis dans une espèce de garage qui contenait quelques 50 personnes, dont des familles, où les conditions étaient insalubres et insuffisantes, où l'accès à la nourriture était difficile et où il n'y avait pas de tranquillité.
+
+<<2710.63;2719.79;fr>>
+Les enfants en particulier avaient un besoin pressant de cadres sécurisants et de stabilité afin de pouvoir récupérer.
+
+<<2719.79;2724.39;fr>>
+Or, ces motifs n'avaient aucun objet pour les autorités.
+
+<<2724.39;2761.35;fr>>
+L'ODM et le tribunal, parce que l'article 29a de l'ordonnance ne prévoit que la prise en compte des cas humanitaires et ne leur prescrit pas spécifiquement d'examiner la situation individuelle des requérants du point de vue de la composition familiale, de l'âge des enfants, de leur état de santé, de leur intégration en Suisse ou en Italie, ou de leur statut dans l'état de destination, ni de prendre en considération aucune autre raison que l'on aurait pu invoquer dans cette affaire.
+
+<<2761.35;2786.99;fr>>
+En conclusion sur ce point, en l'absence d'une motivation plus précise et individualisée de la décision de renvoi, se référant à des critères prévisibles, à une pratique connue du public de mise en œuvre de la clause de souveraineté, nous soutenons qu'il y a eu violation de l'article 13 de la Convention en lien avec l'article 3 ou l'article 8.
+
+<<2786.99;2790.79;fr>>
+Je vous remercie pour votre attention et je passe la parole à Mme Brunia-Récoff.
+
+[[Applicant;AP2]]
+
+<<2797.65;2808.61;fr>>
+L'affaire qui nous occupe aujourd'hui concerne une famille afghane de 8 personnes, 2 parents et 6 enfants de respectivement 14, 12, 10, 8, 5 et 1 an.
+
+<<2809.45;2817.97;fr>>
+Ils ont fui l'Afghanistan en 1992 et 1994 pour le Pakistan, puis le Pakistan pour l'Iran, puis l'Iran où ils ont séjourné 15 ans pour l'Europe.
+
+<<2819.05;2828.49;fr>>
+Pour gagner les côtes italiennes, cette famille a notamment fait un voyage en mer sur une embarcation surpeuplée, sans eau ni nourriture et sans pouvoir se protéger du soleil.
+
+<<2829.61;2833.49;fr>>
+Ils sont arrivés dans un état secondaire d'épuisement et de déshydratation.
+
+<<2833.89;2839.09;fr>>
+Ils ont été logés à Bari dans une école, puis dans un garage avec 50 ou 60 autres personnes.
+
+<<2840.17;2842.57;fr>>
+Ils ont été témoins de bagarres à larmes blanches.
+
+<<2842.77;2846.57;fr>>
+Les enfants suffoquaient en raison de la fumée permanente des gens qui fumaient.
+
+<<2847.13;2849.81;fr>>
+Seuls 2 matelas ont été mis à la disposition de la famille.
+
+<<2850.85;2857.77;fr>>
+Le bruit et l'insécurité les ont empêchés de dormir et les enfants n'ont pas pu se remettre de l'état d'épuisement causé par leur voyage.
+
+<<2858.81;2867.09;fr>>
+Les locaux ne comportaient aucun sanitaire et l'état des toilettes provoque un sentiment de honte et de dégoût chez nos mentants, tant elles étaient sales.
+
+<<2868.29;2876.41;fr>>
+Pour pouvoir se nourrir, il fallait faire de longues files d'attente qui causaient parfois des débordements de violence dues à l'impatience et l'épuisement de certains requérants.
+
+<<2877.45;2883.89;fr>>
+La famille Tarakel a rencontré d'autres personnes afghanes vivant dans ces locaux d'urgence depuis plusieurs mois.
+
+<<2883.89;2887.25;fr>>
+Ils ont été informés du risque de voir leurs plus jeunes enfants placés.
+
+<<2887.77;2900.49;fr>>
+Ils ont également été informés par l'interprète qui les accompagnait que ce dispositif d'urgence était largement surpeuplé et qu'en lieu et place de la capacité maximale de 700 places, ils hébergeaient 1 300 personnes.
+
+<<2901.97;2913.73;fr>>
+En raison des conditions d'hébergement, de l'état de santé des enfants, de la peur de se voir séparé de certains et de l'insécurité régnante, nos mentants ont poursuivi leur voyage en Autriche puis en Suisse.
+
+<<2914.93;2921.05;fr>>
+Sur la base de cet état de fait et en fonction des législations internationales et nationales en vigueur, deux questions se posent.
+
+<<2922.25;2931.57;fr>>
+Est-ce que le risque de traitement contraire à l'article 3 CEDH en Italie est suffisant pour obliger la Suisse à ne pas renvoyer la famille Tarakel en Italie?
+
+<<2932.57;2941.89;fr>>
+Et deuxièmement, est-ce que la protection des intérêts supérieurs des enfants Tarakel oblige la Suisse à ne pas les renvoyer en Italie? Je précise à ce stade
+
+<<2942.09;2948.85;fr>>
+que toutes les affirmations sont étayées par des documents, mais que pour faciliter l'audition, je ne vais pas systématiquement m'y référer.
+
+<<2949.05;2951.01;fr>>
+Elles sont en notes de bas de page.
+
+<<2951.21;2958.53;fr>>
+Les citations sont également toutes en français, parfois en traduction libre, également pour faciliter l'audition de la plaidoirie.
+
+<<2960.17;2977.21;fr>>
+Pour revenir à la première question, la directive Accueil 2003-9CE impose aux Etats contractuels dont l'Italie de pourvoir matériellement à des conditions minimales d'existence permettant de garantir un niveau de vie adéquat pour la santé et d'assurer la subsistance des demandeurs d'asile.
+
+<<2977.41;2989.85;fr>>
+Selon l'arrêt Soufi et Elmi contre Royaume-Uni, l'obligation de fournir des conditions minimales d'existence peut découler également de l'article 3 CEDH et ne concerne pas uniquement les requérants d'asile.
+
+<<2990.05;2996.09;fr>>
+Je cite en traduction libre, la directive accueille les demandeurs d'asile. Je cite en traduction libre,
+
+<<2996.29;3014.65;fr>>
+la responsabilité de l'Etat, selon l'article 3, est engagée lorsqu'un recourant, qui est entièrement dépendant de l'aide publique, se retrouve confronté à une indifférence locale dans une situation de sérieuse privation ou de manque incompatible avec la dignité humaine.
+
+<<3014.85;3036.73;fr>>
+En ce qui concerne la situation en Italie d'une manière générale et sur la base des rapports versés au dossier des témoignages internationals écrit The Air Centre, Protect the Children et de l'association italienne ASGI, le nombre de places d'accueil en Italie est largement insuffisant par rapport au nombre de requérants d'asile et de personnes dans le processus asile.
+
+<<3036.93;3047.09;fr>>
+Cela expose un nombre substantiel d'entre eux, de 50 % à 67 % selon les rapports, à vivre à la rue ou dans des squats.
+
+<<3047.29;3062.93;fr>>
+Selon le rapport de l'EUSAIR 2012, pour l'ensemble des réfugiés, 64 000 personnes et des personnes dans le processus asile, plusieurs dizaines de milliers, il existe environ 8 000 places d'hébergement proposées par l'Etat.
+
+<<3063.13;3073.05;fr>>
+Le droit à un hébergement en structure proposée par l'Etat, les CARAS, PRA, CDA, nécessite une inscription formelle de la demande d'asile qui peut prendre plusieurs semaines.
+
+<<3073.25;3076.25;fr>>
+Dans ce laps de temps, le demandeur est à la rue.
+
+<<3076.45;3081.09;fr>>
+Le temps de séjour dans les structures étatiques est limité à quelques mois.
+
+<<3081.29;3099.29;fr>>
+L'annexe 15 de la position d'Amnesty International et CREATE the Air Centre fait état de 4 175 places dans les CARAS et de 3 000 places dans les SPRAR en 2011, soit à peu près 7 000 places pour 34 120 nouvelles demandes d'asile.
+
+<<3099.49;3110.41;fr>>
+En juin 2012, près de 7 000 personnes étaient sur liste d'attente pour une place dans une structure SPRAR et étaient près de 7 500 à la fin 2012.
+
+<<3110.41;3124.41;fr>>
+Les experts de Lazare ont évalué à plusieurs milliers les personnes vivant dans des squats ou des maisons abandonnées et estiment que 2 300 à 2 800 personnes vivent dans la rue pour les seules villes de Rome et de Milan.
+
+<<3124.41;3137.09;fr>>
+Ces conditions de vie exposent les gens à la faim, au froid, à l'insécurité, à la violence, à la mendicité et aux atteintes psychiques et physiques qu'engendre la survie.
+
+<<3137.09;3141.65;fr>>
+En outre, plusieurs rapports et articles dénoncent les mauvaises conditions d'accueil des structures étatiques.
+
+<<3141.65;3149.21;fr>>
+Elles sont systématiquement surpeuplées et accueillent entre deux et cinq fois plus de personnes que la capacité d'accueil maximale.
+
+<<3149.21;3156.73;fr>>
+Les locaux sont fréquemment insalubres, les toilettes sont en nombre insuffisant, elles sont régulièrement bouchées, il y a des reflux qui s'écoulent.
+
+<<3156.73;3159.37;fr>>
+Dans plusieurs centres, il n'y a pas d'eau chaude.
+
+<<3159.37;3168.57;fr>>
+Ces conditions de vie entraînent des situations de violence, des cas de meurtre, de coups de couteau, de viol et d'automutilation ont été largement dénoncés.
+
+<<3168.57;3174.01;fr>>
+Par ailleurs, il existe très peu de structures adaptées à l'accueil des familles et des personnes vulnérables.
+
+<<3174.01;3178.05;fr>>
+De nombreux centres n'accueillent que les hommes et parfois que pour la nuit.
+
+<<3178.05;3183.33;fr>>
+Et les centres accueillant les enfants n'hébergent souvent que la mère, mais pas le père.
+
+<<3183.33;3191.05;fr>>
+Enfin, l'absence de logement convenable engendre encore les conséquences suivantes, les risques de séparation des familles et placement des plus jeunes enfants.
+
+<<3191.05;3195.97;fr>>
+Ce sont notamment les craintes invoquées par la recourante lors de son audition.
+
+<<3195.97;3200.37;fr>>
+Risques de ne pas pouvoir bénéficier d'une procédure d'asile en cas d'absence d'adresse.
+
+<<3200.37;3207.29;fr>>
+Ce risque est rapporté par les rapports Ozar 2012, HCR 2013 et l'arrêt du tribunal de Francfort sur le Main.
+
+<<3207.29;3214.33;fr>>
+La famille Tarakel serait alors exposée à un risque de refoulement contraire à la protection de l'article 3 CEDH.
+
+<<3214.33;3221.85;fr>>
+L'association ASGI dénonce également la difficulté, voire l'impossibilité de bénéficier d'une protection juridique.
+
+<<3221.85;3226.73;fr>>
+Enfin, le risque de ne pas avoir accès aux soins sans adresse.
+
+<<3226.73;3244.89;fr>>
+En ce qui concerne plus particulièrement la situation de Barry, là où sont arrivés nos mandants et là où ils seraient renvoyés, et sur la base d'articles de presse parus dans les journaux et du témoignage de la juge Herminia Rizzi, juge honoraire auprès du tribunal pour mineurs de Barry, les précisions suivantes peuvent être apportées.
+
+<<3244.89;3252.13;fr>>
+Barry ne comporte aucune structure SPRAR, mais uniquement un CARA dont la capacité d'accueil est de 700 places.
+
+<<3252.13;3259.25;fr>>
+Le CARA héberge pourtant actuellement 1 470 personnes et en hébergeait 1 300 en 2011.
+
+<<3259.25;3262.41;fr>>
+Ces chiffres confirment le récit du recourant.
+
+<<3262.41;3272.09;fr>>
+Le temps de séjour devrait être limité à quelques semaines, puisqu'il s'agit d'une structure de premier accueil, mais se prolonge à quelques mois, voire quelques années.
+
+<<3272.09;3281.81;fr>>
+Il n'y a aucune mesure d'intégration ni de programme d'occupation, puisqu'il s'agit d'un CARA et non d'un SPRAR, précisément destiné à l'intégration.
+
+<<3281.81;3293.85;fr>>
+Les cas de violence sont nombreux, le stress et les tensions psychologiques sont difficiles à supporter, la salubrité des locaux est déplorable et il n'y a aucun logement adéquat à disposition des familles.
+
+<<3293.85;3301.45;fr>>
+À la question quelles sont les possibilités de logement pour une famille nombreuse à Bari, la réponse de la juge est sans appel.
+
+<<3301.45;3306.17;fr>>
+La famille dont on parle n'a aucune possibilité de trouver un logement.
+
+<<3306.17;3309.81;fr>>
+Des aides financières n'existent pas non plus.
+
+<<3309.81;3318.85;fr>>
+La juge Rizzi a fait plusieurs fois l'expérience de familles qui ont été séparées et où la mère et les enfants ont été placées dans des structures d'hébergement pour femmes battues.
+
+<<3318.85;3329.13;fr>>
+Elle précise que son expérience n'est, je cite, pas positive en raison de la séparation d'avec le père et parce que les structures d'hébergement ne sont pas adaptées aux requérants d'asile.
+
+<<3329.13;3337.17;fr>>
+Elle témoigne aussi de personnes renvoyées selon les accords du Blin qui se retrouvent à la rue et des enfants placés.
+
+<<3337.17;3343.61;fr>>
+Dans sa prise de position, le gouvernement italien expose son système d'accueil et les améliorations apportées.
+
+<<3343.61;3355.53;fr>>
+Il ne met toutefois pas en rapport le nombre de places d'accueil offertes avec la demande d'hébergement, ne détaille pas le nombre de places mises à disposition des familles, ni celles réservées aux demandeurs d'asile.
+
+<<3355.53;3359.41;fr>>
+Il ne détaille pas l'accueil des personnes renvoyées selon les accords du Blin.
+
+<<3359.41;3371.49;fr>>
+L'Italie ne renseigne donc pas de manière compréhensible sur la situation actuelle de l'accueil des personnes dans le processus asile et confirme ainsi son manque de vue d'ensemble de son système d'accueil.
+
+<<3371.49;3391.85;fr>>
+Par ailleurs, l'augmentation des places d'accueil à laquelle se réfère le gouvernement italien est trompeuse, car la majorité des 1 800 places supplémentaires en hébergement sprares annoncées en 2013 faisaient en fait déjà partie du système d'accueil pour les requérants d'asile et étaient auparavant comptabilisées comme des places d'accueil municipales.
+
+<<3391.85;3397.21;fr>>
+Ce sont le rapport d'Ozar, du HCR et d'Amnesty qui le disent.
+
+<<3397.21;3404.53;fr>>
+Il n'y a donc pas eu augmentation de 1 800 places, mais un changement d'affectation de certaines places d'accueil.
+
+<<3404.53;3418.77;fr>>
+En outre, la position du gouvernement italien est contredite par l'association italienne ASGI, composée de juristes, d'avocats, de juges, de professeurs de droit et de chercheurs actifs dans la protection des droits des étrangers depuis 1990.
+
+<<3418.77;3433.89;fr>>
+Son président explique que, je cite, les conditions d'accueil, d'hébergement, de traitement général, en particulier des cellules familiales et des mineurs, ne respectent pas les conditions minimales que les articles 3 et 8 CEDH imposent.
+
+<<3433.89;3447.37;fr>>
+Les standards des CARA sont méprisables du point de vue sanitaire, de qualité de vie, les structures sont combles et donc insuffisantes pour garantir un niveau de vie digne, spécialement pour les familles et les mineurs.
+
+<<3447.37;3470.89;fr>>
+La résolution du 28 novembre 2013 de la Commission extraordinaire pour la défense et la promotion des droits humains du Sénat italien précise, je cite, en Italie, à partir de 2011, on a enregistré une détérioration progressive des standards d'accueil pour les requérants d'asile qui s'est aggravée au cours des années 2012 et 2013.
+
+<<3470.89;3492.93;fr>>
+Enfin, le député du ministre de l'Intérieur, Filippo Bubbio, expose dans la presse le 4 février 2014 la dramatique pression migratoire à laquelle l'Italie doit faire face avec une augmentation de la demande en 2013 de 325 % par rapport à celle de 2012, avec 43 000 demandeurs d'asile, dont 4 000 enfants.
+
+<<3492.93;3506.61;fr>>
+Quant au gouvernement suisse, il justifie notamment sa position sur les excellentes relations bilatérales qu'il entretient avec l'Italie et sur un prétendu privilège accordé aux personnes renvoyées selon les accords du Blin.
+
+<<3506.61;3514.77;fr>>
+Or, la Suisse n'a reçu aucune garantie pour la famille Tarakel, puisque l'acceptation de l'Italie s'est faite tacitement.
+
+<<3514.77;3524.05;fr>>
+La Suisse n'a jamais été informée ni des conditions de prise en charge de la famille Tarakel, ni de son lieu d'hébergement, ni de la possibilité de les loger.
+
+<<3524.05;3533.57;fr>>
+En outre, le rapport de Le Zare constate que 84 % du total des renvois du Blin en Italie l'ont été depuis la Suisse.
+
+<<3533.57;3548.49;fr>>
+Or, sur l'ensemble des personnes renvoyées qui ont trouvé à se loger, qu'elles aient été renvoyées depuis la Suisse ou un autre pays, seul 6,5 % de ces personnes ont été transférées depuis la Suisse, au lieu des 84 % attendus.
+
+<<3548.49;3557.73;fr>>
+L'arrêt du tribunal de Francfort-sur-Le-Magne fait état d'un pourcentage d'environ 15 % des personnes renvoyées selon le désaccord du Blin, qui trouvent un logement dans une structure officielle.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3558.13;3563.73;fr>>
+Madame, est-ce qu'il serait possible de parler un peu moins vite pour les interprètes?
+
+<<3563.73;3564.57;fr>>
+Merci beaucoup.
+
+[[Applicant;AP2]]
+
+<<3563.1;3569.7;fr>>
+Cela démontre les affirmations suisses et augmente encore le risque
+
+<<3569.7;3576.84;fr>>
+de la famille Tarakel de ne pas être accueillie dignement. On relèvera enfin que selon les
+
+<<3576.84;3604.66;fr>>
+experts d'Amnesty International, ECRE et The Air Centre, en 2009 il y avait 640 000 affaires pendantes devant les tribunaux administratifs italiens et le commissaire au droit de l'homme du conseil de l'Europe a fait part de ces graves préoccupations relatives à la lenteur excessive des procédures italiennes en 2009 et en 2012. Il ne peut ainsi pas être reproché aux recourants
+
+<<3604.66;3610.5;fr>>
+de ne pas s'être adressé aux autorités italiennes. Sur la base de ce qui vient d'être
+
+<<3610.5;3641.94;fr>>
+exposé et de nos différents mémoires, nous considérons avoir démontré que l'exécution du renvoi de la famille Tarakel en Italie emporterait violation des articles 3 et 8 CEDH en raison de l'importance du risque pour nos mandants d'être confrontés à des conditions de vie indignes et de subir ainsi des traitements dégradants ainsi que de ne pas pouvoir vivre une vie familiale digne. En ce qui concerne plus précisément la protection des intérêts des
+
+<<3641.94;3664.74;fr>>
+enfants, les articles 3 et 6 de la Convention des droits de l'enfant obligent les États contractants à préserver le bien-être des enfants et leur droit de se développer dans un environnement favorable à leur santé mentale et physique. Les articles 9 et 18 CEDH imposent aux États-partis
+
+<<3664.74;3672.3;fr>>
+de ne pas séparer un enfant de ses parents. Le Comité des Nations Unies sur les droits de l'enfant
+
+<<3672.3;3678.98;fr>>
+a précisé les obligations des États relatives aux droits de l'enfant. Je cite en traduction libre
+
+<<3678.98;3707.22;fr>>
+« Substantiellement, les enfants ont le droit d'avoir leur intérêt supérieur évalué et pris en compte en tant que considération primordiale et d'un point de vue procédural, l'article 3 requiert que chaque prise de décision affectant des enfants inclut nécessairement une évaluation de l'impact possible de la décision sur l'enfant. Cela concerne également les décisions de renvoi
+
+<<3707.22;3720.14;fr>>
+et c'est l'une des raisons qui a motivé la modification des accords de Dublin 2 et l'établissement des accords de Dublin 3. Le paragraphe 13 du préambule de Dublin 3 précise que, je cite,
+
+<<3720.14;3731.18;fr>>
+« l'intérêt supérieur de l'enfant devrait être une considération primordiale des États membres lorsqu'ils appliquent le présent règlement. » Les recommandations du préambule sont reprises
+
+<<3731.18;3737.22;fr>>
+sous forme de garantie en faveur des mineurs à l'article 6. En ce qui concerne la famille
+
+<<3737.22;3744.7;fr>>
+Tarakel, la Suisse n'a à aucun moment examiné l'intérêt supérieur des enfants. Il n'y a aucune
+
+<<3744.7;3756.98;fr>>
+considération sur la situation des enfants, ni dans la décision de l'Office fédéral des migrations, ni dans les deux arrêts du Tribunal administratif fédéral. L'exil prolongé, les conditions
+
+<<3756.98;3779.42;fr>>
+dramatiques dans lesquelles les enfants ont rejoint les côtes italiennes, l'expérience de l'insécurité et du manque vécu en Italie n'ont pas été analysées sous l'angle de l'intérêt supérieur des enfants à ne pas être renvoyés en Italie ou n'apparaissent en tout cas pas dans aucune des décisions. Les enfants ont besoin de stabilité et de sécurité pour bien se développer.
+
+<<3779.42;3797.42;fr>>
+L'imposition d'un nouveau changement radical de leur environnement, dans un contexte culturel et linguistique qu'ils ne connaissent pas, prétériterait leur développement social et émotionnel en les confrontant une nouvelle fois à l'expérience de l'exil forcé. En outre, comme relevé en amont,
+
+<<3797.42;3814.26;fr>>
+le CARA de Bari est l'une des structures d'accueil les plus surchargées d'Italie et n'est pas à même de leur offrir un contexte suffisamment stable et sécurisant si tant est qu'ils y trouvent une place. Il n'y a aucune place d'hébergement adaptée à une famille nombreuse requérant d'asile à Bari,
+
+<<3814.26;3827.5;fr>>
+si bien qu'il n'existe aucune possibilité de vivre une vie familiale conforme à l'article 8 CEDH, tant que la famille n'est pas autonome financièrement. Or, en raison de la configuration
+
+<<3827.5;3848.02;fr>>
+familiale, six enfants à garder et de l'état de santé du père, douleur lancinante dans le bras droit et la jambe droite due aux éclats d'obus qui sont restés incrustés depuis 1992 et hépatite B active, il est peu vraisemblable que la famille puisse s'autonomiser à court terme. Cela d'autant
+
+<<3848.02;3860.3;fr>>
+plus qu'il n'y a aucune mesure d'intégration offerte à Bari qui ne comprend pas d'hébergement sprare. Or, tout le système italien est basé sur l'autonomisation et a peu développé de
+
+<<3860.3;3866.52;fr>>
+système d'aide sociale. Le risque de se retrouver à la rue à court ou moyen terme est ainsi
+
+<<3866.52;3873.94;fr>>
+considérable et évidemment néfaste au bon développement des enfants. Il y a enfin lieu
+
+<<3873.94;3886.14;fr>>
+de préciser que la Grande Chambre a estimé que le degré de sévérité pour emporter violation de l'article 3 CEDH n'est pas aussi élevé que pour emporter violation de l'article 3 CEDH. Ainsi,
+
+<<3886.14;3904.5;fr>>
+si la Cour ne retenait pas une violation de l'article 3 CEDH sous son aspect préventif, la question de l'obligation de l'État suisse de protéger les intérêts supérieurs des enfants tarakel demeure, elle, pleine et entière. Sur la base de ce qui vient d'être exposé,
+
+<<3904.5;3928.38;fr>>
+des conditions de vie en Italie, du risque de séparation, du risque de se retrouver à la rue, de l'expérience difficile que les enfants ont vécu durant leur exil, leur voyage et leur séjour en Italie, des repères structurants et de leur socialisation acquis en Suisse, l'ensemble des enseignants reconnaissent l'excellente intégration des enfants et leur maîtrise du français. Nous
+
+<<3928.38;3946.46;fr>>
+considérons avoir démontré que l'exécution du renvoi de la famille Tarakel en Italie emporterait violation de la Convention des droits de l'enfant, leur intérêt supérieur commandant de ne pas les exposer à un nouveau renvoi. Nous concluons à une violation de l'article 8 CEDH en ce qui
+
+<<3946.46;3952.38;fr>>
+concerne la situation des enfants, étant entendu que nos arguments ont été invoqués en substance devant les autorités nationales et sont dès lors recevables. Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3958.88;3966.0;fr>>
+Merci Madame Ecoffey, je donne la parole à Madame Accardo pour le gouvernement italien.
+
+[[ThirdParty;TP1]]
+
+<<3971.96;3982.44;fr>>
+Monsieur le Président, Mesdames et Messieurs les Juges, l'Italie n'est pas partie de fin de reste à la procédure.
+
+<<3983.32;4014.48;fr>>
+Elle n'intervient pas sur les fonds de raison qui poussent la famille Tarakel à l'expansion de la Suisse vers l'Italie, mais c'est ce qu'elle tient à préciser et à affirmer très fortement, et que les requérants ne peuvent certainement pas craindre de subir un mauvais traitement qui relève de l'article 3 de la Convention, ni de voir méconnus le respect de leur vie privée familiale au sein de l'article 8 de la Convention.
+
+<<4015.56;4028.64;fr>>
+Donc, il ressort, je viens d'entendre, de la situation telle qu'elle dit par la partie requérante.
+
+<<4028.64;4050.96;fr>>
+Il faut observer que la famille Tarakel est arrivée le 16 juillet, épuisée après avoir fait un voyage de 5 jours dans une embarcation de fortune pour un voyage arrangé par des passers.
+
+<<4051.16;4055.96;fr>>
+Nous savons quelle est la situation, la triste situation.
+
+<<4055.96;4060.96;fr>>
+Et ça, bien sûr, ce n'est pas une responsabilité de l'Italie.
+
+<<4061.2;4064.16;fr>>
+Au contraire, l'Italie a prêté ses cours.
+
+<<4064.36;4081.0;fr>>
+Et après les formalités d'identification, on a dû faire des formalités d'identification, et on l'a fait dans la structure d'accueil d'Estiniano, Reggio Calabria.
+
+<<4081.2;4088.2;fr>>
+Cette structure, c'était seulement une structure pour un passage provisoire.
+
+<<4088.4;4091.08;fr>>
+Elle restait 10 jours, bien sûr.
+
+<<4091.28;4095.0;fr>>
+Elle débarquait avec un groupe d'autres migrants.
+
+<<4095.2;4100.2;fr>>
+Il faut faire face à ces nombreux migrants avec urgence.
+
+<<4101.2;4113.28;fr>>
+Mais elle a été envoyée dans le centre d'accueil de Baripalese, où elle est restée moins de 3 jours, comme nous savons.
+
+<<4113.28;4117.28;fr>>
+Ce centre d'accueil, il était déjà plus équipé.
+
+<<4117.48;4121.08;fr>>
+Et les conditions de santé de cette...
+
+<<4121.28;4129.28;fr>>
+Alors, c'était 7 membres de la famille, maintenant, elles sont 8, ont été vérifiées dans le centre de santé.
+
+<<4129.48;4145.08;fr>>
+On lui a donné tout ce qu'il fallait, des choses de première nécessité, des vêtements, des enquêtes d'hygiène personnelle.
+
+<<4146.28;4159.08;fr>>
+Et on lui a signé, dans ce centre de Palese, Cara, une unité de logement qui assurait l'intimité du groupe.
+
+<<4159.28;4172.88;fr>>
+Évidemment, c'était pas un grand logement, c'était un logement modulaire, mais il était séparé des autres groupes familiales.
+
+<<4174.88;4211.68;fr>>
+Bien sûr, ils sont restés vraiment têts, ils ont subi des inconvénients, bien sûr, parce que ça vient de la situation, des problèmes qui ont traversé, des inconvénients liés au moment où les migrants accueillis dans la salle de bain et les migrants accueillis dans la structure sont arrivés en masse, et même au fait qu'il y a quelques jours auparavant, des désordres s'étaient vérifiés, toujours pour ces problèmes, des arrivées massives.
+
+<<4211.88;4223.28;fr>>
+Mais pendant leur très bref séjour dans ce centre de bar, ils n'ont jamais été impliqués dans l'épisode de violences.
+
+<<4223.28;4227.88;fr>>
+Ils n'ont rien dénoncé.
+
+<<4228.68;4240.68;fr>>
+Dans les recours qu'ils ont présentés, les requérants affirment avoir vu dans la même structure d'accueil leur ennemi, un certain Uredine.
+
+<<4241.28;4244.88;fr>>
+C'est alors que la famille a fui et s'est rendue en Autriche.
+
+<<4245.68;4255.48;fr>>
+Et apparemment, la cause de la fuite vers l'Autriche serait donc la peur de l'ennemi qu'ils avaient rencontré dans le même centre d'accueil.
+
+<<4256.08;4263.08;fr>>
+Mais ils n'ont pas signalé cette crainte aux personnes préposées à l'organisation du centre d'accueil.
+
+<<4264.28;4282.68;fr>>
+Cela dit, maintenant, j'ai entendu bien par la partie requérante de conditions épouvantables qui se passeraient dans les centres d'accueil, surtout dans les centres CARA.
+
+<<4282.88;4308.68;fr>>
+Donc, il faut distinguer entre centres d'accueil CARA, qui sont les structures gouvernementales qui appartiennent à la structure centrale de l'Etat, au pouvoir central de l'Etat, et les structures du système de protection sur des modèles d'asile réfugiés, SPRA, gérés par les collectivités locales.
+
+<<4309.88;4318.08;fr>>
+Il paraît, de ce que dit la partie requérante, que les CARA seraient moins équipés.
+
+<<4318.68;4336.68;fr>>
+Mais on va voir tout de suite ce qui se passe et ce qui arrive quand les gens, après les voyages dans l'invocation des fortunes, arrivent dans ces centres.
+
+<<4336.88;4339.08;fr>>
+Et on va les voir tout de suite.
+
+<<4339.28;4358.08;fr>>
+Les CARA sont destinés à accueillir les demandeurs de protection internationale pendant la période nécessaire à effectuer leur identification ou à permettre aux commissions territoriales pour la reconnaissance de la protection internationale de se prononcer sur leur requête.
+
+<<4359.08;4363.88;fr>>
+Donc il s'agit de structures équipées à ces buts.
+
+<<4364.88;4375.48;fr>>
+Une fois terminés les procédures d'identification, les demandeurs d'asile peuvent quitter les centres pendant les jours.
+
+<<4375.88;4380.28;fr>>
+Donc ce ne sont pas évidemment des prisons, ce sont des centres d'accueil.
+
+<<4380.48;4384.68;fr>>
+Et ils peuvent se loigner pendant les jours de 8h à 20h.
+
+<<4384.68;4395.48;fr>>
+Et même s'il a des besoins particuliers, même pour quelques jours, il doit seulement prévenir les directeurs de la structure.
+
+<<4397.48;4405.48;fr>>
+Donc, et il, je réponds même à ce que je viens d'écouter sur les faits qu'il...
+
+<<4405.68;4414.28;fr>>
+Le temps est long pour l'examen de la demande d'asile et ils n'ont pas des perspectives d'abri pendant ce temps.
+
+<<4414.48;4416.28;fr>>
+Ce n'est pas du tout vrai.
+
+<<4416.48;4423.28;fr>>
+Parce que l'immigrant qui a proposé sa demande d'asile a le droit de rester pendant le temps de son examen.
+
+<<4424.28;4435.28;fr>>
+Et si la décision n'est pas prise dans les 6 mois suivant la présentation de la requête, l'intéressé va recevoir un permis de séjour pour demande d'asile.
+
+<<4435.48;4437.48;fr>>
+Donc à titre de rester.
+
+<<4437.48;4442.08;fr>>
+Mais pas seulement de rester dans les pays, mais de rester dans les centres.
+
+<<4442.28;4449.08;fr>>
+Et même ce permis de séjour pour demande d'asile, il lui permet de travailler.
+
+<<4449.28;4453.08;fr>>
+S'il trouve un travail, il peut quand même rester dans les centres.
+
+<<4453.28;4459.08;fr>>
+En ce cas, il est prévu une petite contribution au frais de maintien.
+
+<<4461.08;4469.08;fr>>
+Le système d'accueil prévoit une série de services mis à disposition de migrants.
+
+<<4469.28;4471.68;fr>>
+Donc ils sont accueillis.
+
+<<4473.08;4480.68;fr>>
+On a parlé dans ces observations écrites présentées à la Cour, je ne vais pas aller en détail.
+
+<<4480.88;4499.68;fr>>
+Mais je dis, je souligne, qu'on ne considère pas seulement les besoins primaires des vies, c'est-à-dire les repas, les trois repas par jour, les vêtements.
+
+<<4499.88;4511.68;fr>>
+On donne lui de quoi s'habiller, de changer, parce qu'il arrive bien sûr dans des conditions qui ne sont pas équipées de ces choses-ci.
+
+<<4511.88;4516.68;fr>>
+Mais on lui donne aussi une carte de téléphone.
+
+<<4516.68;4527.48;fr>>
+Et on lui donne un coupon de la valeur des 5 euros tous les deux jours pour acheter à l'intérieur du centre.
+
+<<4527.68;4546.28;fr>>
+Donc toutes les choses sont données gratuitement, bien sûr, mais pour avoir à part les premières nécessités, ils ont cet argent, c'est pas tellement, mais il lui permet de pouvoir acheter des choses dans le centre.
+
+<<4546.48;4557.28;fr>>
+Parce qu'en effet, la Galice tient en compte, c'est fait charge du fait que souvent les migrants ont tout donné au poste d'air.
+
+<<4558.48;4565.28;fr>>
+Et ils n'ont pas d'argent, et donc même ça, il y a une considération.
+
+<<4565.28;4574.08;fr>>
+Les hôtes du Car ont le droit de recevoir les visites des représentants de l'HCR.
+
+<<4575.08;4600.88;fr>>
+Les collègues suisses ont remarqué tout à l'heure que l'HCR n'a jamais entamé de procédure contre l'Italie pour les mauvais traitements, n'a été en particulier, n'a jamais parti demander d'intervention devant la cour.
+
+<<4601.08;4610.88;fr>>
+Mais j'ajoute, l'HCR collabore avec l'Italie et on va voir après comment.
+
+<<4612.08;4649.48;fr>>
+Alors, c'est très important, parce que s'il s'agit d'une famille avec des enfants de différents âges, mais très petits, certains sont encore très petits, les personnes vulnérables sont identifiées par leur protection, et leur protection est assurée à travers des mesures appropriées dans le but de lui fournir tout ce qu'il lui faut en considération de leur état de vulnérabilité.
+
+<<4649.68;4658.48;fr>>
+Et à ce point-ci, je vais vraiment démentir l'affirmation que les familles sont séparées.
+
+<<4658.68;4672.48;fr>>
+Ça ne s'est pas passé du tout pour la famille Caracal à laquelle on a assigné une unité pour abriter toute la famille.
+
+<<4672.48;4683.28;fr>>
+Mais même dans la perspective qu'elle doit rentrer en Italie, elle ne couvre absolument pas ce risque que la famille soit séparée.
+
+<<4683.48;4690.28;fr>>
+Parce que ce n'est pas dans le système italien.
+
+<<4690.48;4707.28;fr>>
+Et ça, je pense qu'enfin, on peut admettre qu'au débarquement, dans certaines situations, on a eu quelques moments dans lesquels des familles, des hommes ont été séparés des femmes de façon toute provisoire.
+
+<<4707.28;4712.28;fr>>
+Et en tout cas, ça ne s'est jamais passé pour la famille Caracal.
+
+<<4717.28;4744.28;fr>>
+Donc, en effet, l'Italie est engagée dans les actions entamées dans le cadre du FEEER, du Fonds européen pour les réfugiés, et en particulier sont ciblées à l'accueil des appartements aux catégories vulnérables.
+
+<<4744.28;4759.28;fr>>
+Moi, ici, je me limite à jeter quelques coups d'œil parce que dans les observations du gouvernement italien, il y a une description détaillée.
+
+<<4759.28;4780.28;fr>>
+Je dis quelques mots sur le projet Presidium, qui est le signe pour le renforcement de l'accueil au regard des flux migratoires qui affectent l'île de Lampedusa, qui est cofinancé par la communauté européenne dans le cadre du projet Argo 2005.
+
+<<4780.28;4800.28;fr>>
+À partir de 2006, c'était progressivement élargi au fil des ans, tant pour ce qui est du contexte local, et en incluant les centres, communautés d'hébergement d'autres raisons, en plus de la Sicile.
+
+<<4800.28;4810.28;fr>>
+Et il a été bien développé en faisant référence aux organisations humanitaires concernées.
+
+<<4810.28;4830.28;fr>>
+Le programme de l'Italie, le programme de l'Italie avec les enfants, a été ajouté aux organisations qui sont déjà en coopération avec l'Italie pour résoudre ces problèmes.
+
+<<4830.28;4856.28;fr>>
+Donc, je dis qu'il y a l'activité de l'OIM, l'Organisation internationale des migrants, l'Aquare Rouge et Save the Children, qui s'occupent en particulier de sujets plus vulnérables tels que les enfants et même leur mère, et toujours en liaison avec les ministères de l'Intérieur.
+
+<<4856.28;4873.28;fr>>
+Cette action est ainsi dirigée à coopérer et potentier les effets des mesures que le gouvernement italien a prises à cet égard.
+
+<<4873.28;4884.28;fr>>
+Donc, il faut tout vite dire que la situation dans les deux dernières années a été dramatique.
+
+<<4884.28;4887.28;fr>>
+Elle a été prise en considération à la suite de ça.
+
+<<4887.28;4895.28;fr>>
+Il y a eu ces débarquements massifs qui se sont passés.
+
+<<4895.28;4906.28;fr>>
+Et ça a déterminé à déclarer l'urgence, la situation d'urgence humanitaire en Afrique du Nord.
+
+<<4906.28;4922.28;fr>>
+Et c'est-à-dire en Italie, cette déclaration d'urgence a émené à faire un peu un programme particulier et a destiné à bouger des montants d'une certaine importance.
+
+<<4922.28;4936.28;fr>>
+Et des ressources financières supplémentaires ont été destinées pour promouvoir dans les communes métropolitaines des standards d'accueil meilleur.
+
+<<4936.28;4946.28;fr>>
+Donc, je viens tout de suite au problème médical, après les problèmes de scolarisation.
+
+<<4946.28;4960.28;fr>>
+Il faut tout de suite dire que l'assistance sanitaire est assurée dans les centres, mais elle est assurée si le migrant a besoin d'hospitalisation.
+
+<<4960.28;4962.28;fr>>
+Il est bien sûr hospitalisé.
+
+<<4962.28;4973.28;fr>>
+Et l'assistance est à la charge de l'Italie, du système d'assurance sanitaire national.
+
+<<4973.28;4984.28;fr>>
+Donc, déjà l'accueil, bien sûr, il sont prévus des services médicaux et psychologiques.
+
+<<4984.28;4997.28;fr>>
+Parce que nous parlons même en particulier pour les personnes qui ont subi de la violence pendant leur passé dans leur pays.
+
+<<4997.28;5009.28;fr>>
+Et donc, il n'y a pas seulement les problèmes du soin matériel, mais même celui psychologique qui est pris en charge.
+
+<<5009.28;5026.28;fr>>
+Des accords ont été signés pour la mise en place de centres d'accueil multifonctionnels, desquels vous pouvez trouver des informations en plus détaillé dans les observations.
+
+<<5026.28;5043.28;fr>>
+Et l'Italie a bien montré son engagement, même lors des débarquements massifs et désormais habituels qui ont eu lieu ces derniers mois en manque de côtes de l'Italie.
+
+<<5043.28;5053.28;fr>>
+Des directives explicitives ont été prises pour améliorer la situation.
+
+<<5053.28;5065.28;fr>>
+Et en particulier, on conteste les données qu'on a vues dans les observations du gouvernement italien.
+
+<<5065.28;5078.28;fr>>
+Mais il faut dire qu'il y a quand même 40 structures temporaires qui pouvaient accueillir 1 304 personnes.
+
+<<5078.28;5083.28;fr>>
+Et six autres structures sont déjà prêtes.
+
+<<5083.28;5087.28;fr>>
+Elles sont prêtes pour être utilisées.
+
+<<5087.28;5097.28;fr>>
+Les prochains jours, elles seront activées pour faire face à ces débarquements massifs.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5097.57;5101.33;fr>>
+Madame, excusez-moi, le temps qui est...
+
+[[ThirdParty;TP1]]
+
+<<5101.27;5108.27;fr>>
+Oui, alors j'aborde seulement tout de suite, sans regarder ce que j'écris, je dis seulement des mots.
+
+<<5108.27;5120.27;fr>>
+Alors, la scolarisation des enfants, c'est un grand problème, et c'est un droit qui leur est assuré tel que les autres enfants qui vivent en Italie.
+
+<<5120.27;5131.27;fr>>
+Et il y a pour ça des programmes particuliers pour les intégrations des enfants qui viennent des autres pays, pour leur apprendre la langue.
+
+<<5131.27;5146.27;fr>>
+Et il y a même, on prévoit la scolarisation des adultes pour ce qui concerne les cours de langue italienne.
+
+<<5146.27;5156.27;fr>>
+On a même suivi, les familles en général sont suivies sur ces problèmes pour chercher leur place de travail.
+
+<<5156.27;5162.27;fr>>
+Et ils ont organisé des cours de formation professionnelle.
+
+<<5162.27;5170.27;fr>>
+Donc, je dois démentir, enfin, je termine, ces points, les familles sont séparées.
+
+<<5170.27;5176.27;fr>>
+Il n'y a pas besoin de sujets vulnérables.
+
+<<5176.27;5185.27;fr>>
+Les services sanitaires, ça marche comme pour les autres, les ressortissants italiennes, ou les gens qui vivent en Italie.
+
+<<5185.27;5210.27;fr>>
+Et donc, je termine en disant que la famille Tarakelle, qui est maintenant composée de 8 personnes, ne peut pas craindre d'avoir un traitement inhumain, ou que l'unité de sa famille, de sa vie familiale, ne soit pas respectée.
+
+<<5210.27;5212.27;fr>>
+Merci, Monsieur le Président.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5214.28;5215.36;fr>>
+Merci.
+
+[[ThirdParty;TP1]]
+
+<<5214.94;5217.26;fr>>
+et je reste à disposition s'il y a de...
+
+<<5217.03;5217.53;fr>>
+Oui.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5218.21;5220.51;fr>>
+Merci Madame Accardo.
+
+<<5220.55;5225.15;fr>>
+Alors, je me tourne vers mes collègues pour d'éventuelles questions. Monsieur le juge, Ledi Bianku, s'il vous plaît.
+
+[[Judge;Ledi Bianku]]
+
+<<5231.0;5232.44;fr>>
+Merci, monsieur le Président.
+
+<<5232.64;5236.24;fr>>
+J'ai 2 questions pour les représentants du gouvernement suisse.
+
+<<5237.28;5238.28;fr>>
+La 1re question.
+
+<<5239.12;5250.56;fr>>
+Dans le cadre du coopération Dublin, quelle est, en pratique, la forme et l'étendue des réponses pour la prise en charge des demandeurs d'asile de la part de l'Etat requis?
+
+<<5251.76;5258.32;fr>>
+Est-ce qu'elle se réfère à la situation spécifique des demandeurs d'asile, aux conditions spécifiques d'accueil, etc.?
+
+<<5258.32;5259.84;fr>>
+La 2e question.
+
+<<5260.16;5279.4;fr>>
+Quelle est la proportion entre, d'une côté, les prises en charge explicites à la base de l'article 22, paragraphe 1 du règlement Dublin 3, et de l'autre côté, de la prise en charge implicite à la base du paragraphe 7 du même article du règlement Dublin 3?
+
+<<5280.12;5287.84;fr>>
+Est-ce que les Etats requis réagissent régulièrement ou la pratique, c'est plutôt l'acceptation implicite?
+
+<<5288.04;5289.04;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5292.24;5295.68;fr>>
+Merci monsieur le juge Bianku, Madame la juge Ziemele.
+
+[[Judge;Ineta Ziemele]]
+
+<<5298.92;5300.46;en>>
+Thank you, Mr. President.
+
+<<5300.46;5304.16;en>>
+I have a question to the respondent government.
+
+<<5304.16;5313.78;en>>
+I would appreciate if you responded on this issue concerning the best interests of the child.
+
+<<5313.78;5335.52;en>>
+And in particular, the question is, in what manner have the Swiss authorities taken into consideration the best interests of the child within the proceedings that we are dealing with today in the framework of the case?
+
+<<5335.52;5357.14;en>>
+And would the position of the Swiss government be that essentially the considerations of the best interests of the child within the Dublin system lie with the government who receives the asylum seekers in this case?
+
+<<5357.14;5358.26;en>>
+Italy?
+
+<<5358.26;5377.7;en>>
+Or would you consider that depending on where you are in the proceedings, there is a difference in how much the Swiss authorities could consider the principle of the best interests of the child?
+
+<<5377.7;5377.7;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5382.27;5386.55;fr>>
+Merci, madame la juge Helen Keller.
+
+[[Judge;Helen Keller]]
+
+<<5389.68;5391.8;fr>>
+Merci, M. le Président.
+
+<<5391.8;5395.68;fr>>
+J'ai deux questions aux représentants du gouvernement suisse.
+
+<<5395.68;5432.76;fr>>
+La première, est-ce que les autorités suisses étaient, à l'époque, quand l'expulsion était pendante, conscientes que les autorités responsables en Belgique et en Allemagne ne permettaient plus l'expulsion de demandeurs d'asile vers l'Italie dans plusieurs cas pour les craintes qu'il y a des défauts systématiques dans le système d'asile, notamment concernant les accords d'accommodation?
+
+<<5432.76;5435.48;fr>>
+Deuxième question.
+
+<<5435.48;5450.76;fr>>
+Est-ce que les autorités suisses étaient conscientes, à l'époque, quand l'expulsion était pendante, du fait que les familles expulsées vers l'Italie risquent à être séparées?
+
+<<5450.76;5463.56;fr>>
+Un risque bien démontré dans plusieurs rapports des ONG, une pratique qui, selon les ONG, est de nature systématique.
+
+<<5463.56;5471.4;fr>>
+Cela veut dire que dans certaines régions en Italie, les familles sont séparées systématiquement.
+
+<<5471.4;5471.4;fr>>
+Merci.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5473.87;5475.67;fr>>
+Merci Madame la juge.
+
+<<5475.91;5478.91;fr>>
+Qu'elle a pas d'autres questions?
+
+<<5479.87;5481.19;fr>>
+Non?
+
+<<5481.43;5487.19;fr>>
+Bien, alors je propose une interruption, une pause d'un quart d'heure.
+
+<<5488.31;5491.83;fr>>
+Et on va donc se revoir à 11h.
+
+<<5491.83;5492.83;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<5541.83;5542.39;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<5585.01;5588.73;fr>>
+Alors je vous prie de vous asseoir et je donne la parole à monsieur Schürmann.
+
+[[Government;GR2]]
+
+<<5599.85;5602.25;fr>>
+Merci, M. le Président.
+
+<<5602.41;5609.05;fr>>
+Je vous prie de bien vouloir passer d'abord la parole à M. Horny
+
+<<5609.25;5616.38;fr>>
+pour les questions qui ont été posées par les juges Bianco et la juge Cibélé.
+
+<<5616.53;5631.01;fr>>
+Après, je vous prie de bien vouloir me repasser la parole pour répondre aux questions de Mme Keller, pour revenir sur deux points qui ont été invoqués dans la plaidoirie de la partie requérante et pour une observation finale.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5633.0;5634.52;fr>>
+Merci, M. Schürmann.
+
+<<5634.68;5636.92;fr>>
+Alors, je donne la parole à M. Horni,
+
+<<5637.12;5638.12;fr>>
+s'il vous plaît.
+
+<<5638.12;5639.12;fr>>
+Vous avez la parole.
+
+[[Government;GR1]]
+
+<<5640.29;5675.21;fr>>
+Monsieur le Président, mesdames et messieurs les juges, pour répondre à la première question qui a été posée, s'agissant de la coopération concrète en vue du transfert, j'aimerais attirer votre attention sur le fait que la Commission européenne a mis à disposition de tous les Etats membres des formulaires standardisés pour la transmission de toute information pertinente à l'Etat responsable avant le transfert, notamment en ce qui concerne l'échange de données médicales, ceci au seul but de permettre une reprise en charge adéquate de la personne transférée.
+
+<<5675.21;5679.41;fr>>
+Les formulaires respectives sont à votre disposition.
+
+<<5679.41;5683.65;fr>>
+On a des copies ici présents.
+
+<<5683.65;5699.51;fr>>
+En ce qui concerne la deuxième question du taux d'acceptation tacite ou explicite, je peux répondre que jusqu'au début de l'année 2013, l'Italie a accepté tacitement la plupart des requêtes du Blin.
+
+<<5699.51;5704.35;fr>>
+Cela suite à un manque de capacité de ressources de personnel à l'Office du Blin.
+
+<<5704.35;5719.81;fr>>
+La Suisse et l'Italie se sont mis d'accord que dans les cas d'acceptation tacite, le transfert sera effectué à Rome ou à Milan avec annonce en avant, selon les dispositions légales dans l'ordonnance du Blin.
+
+<<5719.81;5727.95;fr>>
+Rome ou Milan, où il y a des infrastructures d'accueil et aussi de renseignements offerts par des ONG mandatées par le gouvernement italien.
+
+<<5727.95;5731.15;fr>>
+Depuis 2013, la plupart des acceptations est explicite.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5741.64;5745.04;fr>>
+Merci, M. Horni, M. Schürmann.
+
+[[Government;GR2]]
+
+<<5746.32;5747.84;fr>>
+Merci, M. le Président,
+
+<<5748.0;5751.32;fr>>
+pour la première question de Mme la juge Keller.
+
+<<5751.52;5759.24;fr>>
+Est-ce que la Suisse était au courant que la Belgique et l'Allemagne ont suspendu les transferts vers l'Italie?
+
+<<5759.48;5783.24;fr>>
+L'Office fédéral des migrations et le tribunal fédéral administratif étaient bien au courant de l'existence du jugement qui a été cité aussi par la partie requérante, Francfort, sur le mât, et ils étaient également au courant d'une décision accordant un effet suspensif à un recours introduit devant une juridiction d'appel en Belgique.
+
+<<5784.44;5788.52;fr>>
+Mais dans les deux cas, il ne s'agissait pas d'une pratique générale.
+
+<<5789.48;5812.24;fr>>
+Et j'aimerais ajouter, en vue de la préparation de la présente audience, le gouvernement suisse est renseigné auprès des autorités d'Ablin en Allemagne, en Belgique, et d'ailleurs également au Royaume-Uni, pays qui a été également mentionné par les requérants comme étant sur la même voie, comme l'ont exprimé les requérants, sur la même voie que l'Allemagne.
+
+<<5818.92;5834.24;fr>>
+Pour la situation en Allemagne, il est vrai qu'il y a des jugements rendus par des juridictions d'instance inférieure, aussi autres que celui de Francfort sur le mât, qui ont suspendu des transferts.
+
+<<5835.08;5838.84;fr>>
+D'autres tribunaux n'ont toutefois pas changé leur pratique.
+
+<<5839.76;5843.56;fr>>
+Il en va de même de l'Office fédéral allemand des migrations et des réfugiés.
+
+<<5844.92;5846.92;fr>>
+Alors, même pratique comme celle en Suisse.
+
+<<5847.92;5852.48;fr>>
+En Belgique, les transferts vers l'Italie continuent d'être effectués.
+
+<<5854.0;5856.08;fr>>
+Un changement de pratique n'est pas envisagé.
+
+<<5857.2;5861.92;fr>>
+Et pour terminer avec le Royaume-Uni, il y a une affaire pendante devant le Supreme Court.
+
+<<5862.88;5870.32;fr>>
+Selon les renseignements du Home Office, en attendant l'issue de cette procédure, les transferts ne sont pas suspendus.
+
+<<5871.24;5875.4;fr>>
+Information qu'on a reçue lundi passé, removals are continuing.
+
+<<5878.08;5888.84;fr>>
+Puis, comme j'ai annoncé, j'aimerais revenir sur deux points qui ont été soulevés par la partie requérante, par exemple, la clause souveraineté.
+
+<<5889.04;5899.24;fr>>
+Les requérants nous ont fait croire que cette clause n'existe pas dans la jurisprudence suisse et dans la pratique de l'Office fédéral des migrations.
+
+<<5900.92;5907.48;fr>>
+On nous reproche qu'on n'aurait pas dûment examiné l'affaire et n'aurait pas appliqué la clause souveraineté.
+
+<<5908.2;5922.2;fr>>
+Je rappelle, si vous permettez encore une fois le cadre, la présomption de Dublin, la philosophie de Dublin, la jurisprudence bien établie de cette Cour et l'absence de rapport et de recommandation du HCR.
+
+<<5922.68;5929.48;fr>>
+Ça serait beaucoup demander aux autorités, aux tribunaux nationaux d'aller au-delà de ce cadre.
+
+<<5932.0;5934.0;fr>>
+Clause souveraineté inexistante.
+
+<<5934.2;5941.8;fr>>
+Dans ma pléboirée, j'ai déjà cité la liste dans l'annexe 9 de Amnesty, de Air Saint-Ouen.
+
+<<5941.8;5954.36;fr>>
+Et peut-être je vous donne juste quelques exemples de cette liste qui est intitulée « Table of selected national jurisprudence on positive court decisions on suspension of Dublin transfers ».
+
+<<5954.96;5958.0;fr>>
+Il y a une cinquantaine d'affaires concernant la Suisse.
+
+<<5960.2;5964.24;fr>>
+Une vingtaine, 25 concernent des transferts vers l'Italie.
+
+<<5964.72;5969.32;fr>>
+Je me limite à des exemples concernant les transferts en Italie.
+
+<<5969.32;5975.4;fr>>
+Un Nigerien homme avec des problèmes de santé mentale et des symptômes psychotiques.
+
+<<5975.6;5977.96;fr>>
+Article 3, paragraphe 2, appliqué.
+
+<<5978.16;5980.6;fr>>
+Toujours tribunal administratif fédéral.
+
+<<5980.8;5986.68;fr>>
+Une femme nigerienne, un appelant, a été trafiquée à l'Italie où elle a dû se prostituer.
+
+<<5986.88;5989.68;fr>>
+Article 3, paragraphe 2, appliqué.
+
+<<5990.88;5994.12;fr>>
+Un appelant Sri Lankan souffrant de cancer.
+
+<<5994.32;5996.2;fr>>
+Article 3, 2, appliqué.
+
+<<5996.2;6001.44;fr>>
+Une femme somalie enceinte dont père et mère vivent en Suisse.
+
+<<6001.64;6007.2;fr>>
+Une femme aérienne subjectée à une rape dans un pays de la maison et en Italie.
+
+<<6007.4;6010.0;fr>>
+Article 3, paragraphe 2, appliqué.
+
+<<6010.0;6015.24;fr>>
+Une famille aérienne avec un enfant mineur souffrant d'une maladie de l'eau.
+
+<<6015.44;6017.84;fr>>
+Article 3, paragraphe 2, appliqué.
+
+<<6018.04;6021.8;fr>>
+Je pourrais continuer la liste aussi vis-à-vis d'autres Etats.
+
+<<6022.0;6055.28;fr>>
+C'est pour vous de me donner des exemples d'autres Etats, c'est pour vous démontrer que le tribunal administratif fédéral, non seulement que la clause souveraineté n'est pas inexistante, elle est examinée dans chaque cas d'espèce et en l'espèce, les autorités ont considéré que pour la famille Tarakel, malgré le fait qu'il y a 5 enfants aujourd'hui, 6 enfants, n'avait pas cette vulnérabilité particulière qui aurait permis d'appliquer la clause souveraineté.
+
+<<6055.48;6067.28;fr>>
+Concernant le deuxième point sur lequel j'aimerais revenir, concernant particulièrement les enfants, nous sommes sensibles à cet aspect.
+
+<<6067.48;6068.48;fr>>
+Et...
+
+<<6077.08;6097.88;fr>>
+On est aussi sensibles et bien conscients du fait que chaque déménagement pose des difficultés, surtout pour les requérants d'asile, la Cour l'a dit, les requérants d'asile font partie d'un groupe particulièrement défavorisé et vulnérable, surtout avec des petits-enfants et surtout au début.
+
+<<6099.68;6116.68;fr>>
+Mais nous sommes également convaincus que ces difficultés peuvent être surmontées grâce à un encadrement mis à disposition par les autorités, mais non seulement par les autorités, mais également par les institutions privées de toutes sortes, y compris les ONG.
+
+<<6118.28;6126.08;fr>>
+Il ne faut pas non plus oublier l'histoire d'une famille que telle que Tarakel, l'histoire, tout ce qu'ils ont vécu avant d'arriver en Europe.
+
+<<6126.08;6132.88;fr>>
+En Italie, ils ne risquent pas de détention arbitraire, ils ne risquent pas d'être poursuivis.
+
+<<6132.88;6145.48;fr>>
+Et ils auront, je le répète, ils peuvent compter sur une attention toute particulière de la part des autorités italiennes, comme le vient de dire Mme Macardo pour le gouvernement italien.
+
+<<6149.88;6158.48;fr>>
+Avant de terminer avec une dernière remarque, je vous prie encore une fois de repasser la parole à M. Hornier, excusez-moi,
+
+<<6158.48;6168.08;fr>>
+je n'avais pas la vue d'ensemble juste avant, pour vous informer des perspectives concrètes de la famille Tarakel en cas du transfert vers l'Italie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6170.05;6172.17;fr>>
+Merci, merci, monsieur Schürmann.
+
+<<6172.17;6174.01;fr>>
+Monsieur Horni, s'il vous plaît.
+
+[[Government;GR1]]
+
+<<6175.81;6177.57;fr>>
+Merci, M. le Président.
+
+<<6177.89;6186.93;fr>>
+Mesdames et Messieurs les juges, l'Office fédéral de migration observe de près la situation actuelle en Italie, en consultant régulièrement de différentes sources.
+
+<<6187.77;6204.12;fr>>
+Comme il a été soulevé à plusieurs reprises, l'Office du Blin suisse a dédié une attention particulière aux relations avec notre pays voisin, qui est de loin notre partenaire le plus important en matière de Dublin, en entretenant des contacts étroits avec l'Office du Blin italien.
+
+<<6204.12;6212.61;fr>>
+Ainsi, le directeur général de l'Office fédéral et ses cadres se sont rendus régulièrement à Rome dans le but de rencontrer leurs homologues italiens.
+
+<<6213.29;6222.33;fr>>
+Lors de ces occasions, la délégation suisse a également eu la possibilité de visiter des différents centres d'accueil pour requérants d'asile.
+
+<<6223.69;6228.01;fr>>
+En outre, l'Office dispose, comme l'a déjà expliqué M. Juhlmann,
+
+<<6228.21;6233.97;fr>>
+d'un collaborateur détaché auprès du ministère de l'Intérieur italien à Rome.
+
+<<6234.16;6245.45;fr>>
+Tout cela dans le souci d'assurer le bon déroulement des transferts de toutes personnes renvoyées vers ce pays en application du règlement du Blin, et en particulier des personnes vulnérables.
+
+<<6247.97;6266.33;fr>>
+Dans ce contexte, j'ai tient à préciser que l'ODM, en effectuant une appréciation de l'ensemble des éléments de ce cas précis avant de rendre sa décision, est arrivé à la conclusion que la famille Tarakel ne se trouvait pas dans une situation d'une vulnérabilité telle à pouvoir justifier l'application de la clause de souveraineté.
+
+<<6266.53;6281.53;fr>>
+En fait, lorsque l'ODM a rendu sa décision, il n'avait aucun indice que les autorités italiennes n'étaient pas en mesure d'apporter à cette famille une assistance conforme aux dispositions européennes pertinentes en matière.
+
+<<6281.73;6291.85;fr>>
+Cette appréciation correspond aux décisions prises auparavant par les autorités autrichiennes qui n'ont d'ailleurs pas été contestées par les recourants.
+
+<<6293.49;6305.69;fr>>
+Ceci dit, nous nous rendons compte qu'une famille requérante asile avec 6 enfants se trouve dans une situation particulière et a dès lors besoin d'une prise en charge adaptée à ces besoins spécifiques.
+
+<<6306.69;6340.25;fr>>
+Les autorités italiennes ont confirmé à l'Office du Blin suisse que le transfert de requérants pourra être effectué à destination de Bologne, où la famille Tarakel sera accueillie dans le programme STEP Italy, un projet financé par le Fonds européen pour les réfugiés et qui prévoit un accueil de soutien et de l'assistance pour requérants de protection internationale appartenant à des catégories vulnérables et non vulnérables qui sont transférées en Italie en application du règlement du Blin.
+
+<<6340.25;6344.25;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6348.57;6350.05;fr>>
+Merci, M. Horni.
+
+<<6351.89;6354.85;fr>>
+M. Schürmann, vous voulez encore ajouter quelque chose?
+
+[[Government;GR2]]
+
+<<6356.11;6359.47;fr>>
+Merci, M. le Président, pour une remarque finale.
+
+<<6362.27;6367.27;fr>>
+Un revirement de la jurisprudence, à notre avis, est envisageable à deux hypothèses.
+
+<<6368.51;6381.03;fr>>
+La première, nous sommes en présence d'éléments factuels qui démontreraient que la situation en Italie s'est détériorée de façon significative depuis les dernières décisions d'irrecevabilité.
+
+<<6381.83;6384.15;fr>>
+Or, tel n'est pas le cas. Au contraire.
+
+<<6384.15;6389.23;fr>>
+Seconde hypothèse, la Cour procède à une appréciation juridiquement différente.
+
+<<6390.15;6414.19;fr>>
+Un revirement motivé de celle sorte irait, à notre avis, à l'encontre du système d'Ablin en tant que tel et, qui plus en est, mettrait en danger l'interprétation cohérente et uniforme de la garantie absolue qu'est l'article 3 dans les différentes constellations de refoulement vers les Etats tiers à l'intérieur ou bien en dehors de l'Europe.
+
+<<6415.07;6430.63;fr>>
+Nous estimons, en effet, important, dans l'intérêt d'une protection effective des réfugiés, que la Cour ne développe pas un double standard sous l'article 3, dépendant de la question si le traitement a lieu en Europe ou pas.
+
+<<6431.23;6438.35;fr>>
+Cela risquerait de nuire l'autorité du caractère absolu de cette norme primordiale.
+
+<<6438.35;6440.55;fr>>
+Je vous remercie de votre attention.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6442.07;6445.48;fr>>
+Merci. Merci beaucoup, M. Schürmann.
+
+<<6445.95;6447.99;fr>>
+Je me tourne vers la partie requérante.
+
+<<6448.95;6451.84;fr>>
+Mme Ecoffey ou Mme Povlakic?
+
+<<6452.27;6453.52;fr>>
+Qui veut prendre la parole?
+
+<<6453.52;6453.52;fr>>
+Madame Ecoffey?
+
+<<6458.38;6460.98;fr>>
+Excusez-moi, madame Povlakic, vous avez la parole.
+
+[[Applicant;AP1]]
+
+<<6463.62;6467.9;fr>>
+Je voudrais juste dire quelques mots sur les questions de recevabilité.
+
+<<6468.31;6481.94;fr>>
+Nous avons invoqué en substance tous les griefs qui ont été développés devant la Cour, donc dans la procédure interne, et donc donné l'occasion aux autorités suisses de redresser les torts que nous avons.
+
+<<6482.74;6492.94;fr>>
+Il n'y a pas d'exigence dans la jurisprudence de la Cour que les articles précis de la Convention soient cités au cours des procédures internes.
+
+<<6494.35;6508.82;fr>>
+Nous avons invoqué donc les carences de la procédure de première instance, notamment que des requérants d'asile n'ont pas été suffisamment entendus, ce à quoi le tribunal a répondu qu'il y a eu une audition et que c'était suffisant.
+
+<<6509.35;6521.9;fr>>
+Nous avons invoqué également le risque que la famille soit confrontée à des conditions d'accueil insuffisantes, voire à aucune condition d'accueil du tout en cas de renvoi en Italie, et que ce renvoi serait une épreuve pour les enfants.
+
+<<6524.47;6537.9;fr>>
+La Cour, selon une jurisprudence de la Cour, je pense à l'arrêt notamment Ranninen-Konte-France, un arrêt assez ancien, il est parfois difficile de distinguer les frontières entre les articles 3 et 8 CDH.
+
+<<6538.07;6547.9;fr>>
+Il n'est pas non plus déterminant que les requérants invoquent l'un ou l'autre article devant la procédure de la Cour, et la Cour...
+
+<<6550.47;6567.47;fr>>
+Pour notre part, nous n'avons pas d'intérêt particulier à ce que la Cour décide de statuer sous l'angle de l'article 8 ou de l'article 3, ou sous l'angle de l'article 13 ou de l'article 3 sous son volet procédural, et nous nous en remettrons à la décision de la Cour sur ces points.
+
+<<6568.78;6583.82;fr>>
+En ce qui concerne la jurisprudence du tribunal administratif fédéral sur la clause de souveraineté, nous ne contestons pas que dans un certain nombre de cas, le tribunal a annulé un renvoi vers l'Italie dans des situations vulnérables.
+
+<<6586.59;6629.31;fr>>
+Nous savons, les organisations de défense des demandeurs d'asile en Suisse sont toutefois confrontées à un certain nombre de situations équivalentes de personnes sérieusement malades ayant des liens de famille étroits en Suisse ou de familles monoparentales, notamment des femmes seules ayant subi des violences sexuelles en Italie en raison de la précarité des conditions dans lesquelles elles se trouvaient, qui n'ont pas obtenu la reconnaissance de leur situation de vulnérabilité en procédure de recours et dont le tribunal a confirmé le renvoi en Italie.
+
+<<6629.31;6636.27;fr>>
+C'est-à-dire que les critères que le tribunal applique, le tribunal ne considère pas qu'il est lié par ces critères.
+
+<<6636.78;6643.99;fr>>
+Il n'existe pas de système légal obligeant le tribunal à appliquer certains critères.
+
+<<6644.59;6659.82;fr>>
+Et la clause de souveraineté est appliquée au cas par cas, en fonction, selon le bon vouloir des autorités, sans que cela soit prévisible pour notamment les organisations de défense des personnes.
+
+<<6660.03;6661.43;fr>>
+Je vous remercie, M. le Président,
+
+<<6661.43;6663.98;fr>>
+de passer la parole à Mme Ecoffey.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6664.97;6666.97;fr>>
+Merci, Madame Povlakić.
+
+<<6666.97;6670.97;fr>>
+Je donne la parole à Madame Ecoffey, s'il vous plaît.
+
+[[Applicant;AP2]]
+
+<<6672.13;6675.69;fr>>
+Alors, très brièvement, je souhaiterais compléter 2...
+
+<<6675.69;6682.89;fr>>
+donner 2 informations par rapport à ce qui a été dit par rapport au progrès qu'il y a eu lieu dans les conditions d'accueil en Italie.
+
+<<6682.89;6692.29;fr>>
+Premièrement, dire que ces progrès sont largement insuffisants par rapport au nombre de demandeurs d'asile qui sont arrivés sur les côtes italiennes ces dernières années.
+
+<<6692.29;6698.89;fr>>
+On parle de milliers de places d'hébergement contre des dizaines... plusieurs dizaines de milliers
+
+<<6698.89;6700.89;fr>>
+de personnes arrivées en Italie.
+
+<<6700.89;6708.13;fr>>
+Il y a donc disproportions manifestes entre les efforts qui sont faits et le nombre de personnes qui a besoin d'hébergement.
+
+<<6708.13;6716.93;fr>>
+Et puis, la 2e chose, c'est que toutes les structures temporaires dont on nous a fait part ne sont pas mises à disposition des personnes renvoyées du Blin.
+
+<<6716.93;6724.93;fr>>
+Donc, pour la famille Tarakel, en cas de renvoi, elle n'aurait pas accès à ces places qui sont réservées aux personnes qui arrivent en Italie.
+
+<<6724.93;6724.93;fr>>
+Je vous remercie.
+
+[[JudgeP;Dean Spielmann]]
+
+<<6728.81;6730.81;fr>>
+Merci beaucoup.
+
+<<6730.81;6735.81;fr>>
+Alors nous en arrivons au terme de l'audience.
+
+<<6735.81;6744.81;fr>>
+Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<6744.81;6749.81;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fonds.
+
+<<6749.81;6753.81;fr>>
+La décision ou l'arrêt sera rendu ultérieurement.
+
+<<6753.81;6757.81;fr>>
+Les parties seront informées de la date du prononcé.
+
+<<6757.81;6759.81;fr>>
+L'audience est levée.
+

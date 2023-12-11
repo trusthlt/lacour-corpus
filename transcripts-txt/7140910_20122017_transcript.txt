@@ -1,0 +1,1548 @@
+[[Announcer;UNK]]
+
+<<9.37;10.09;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<49.96;51.36;fr>>
+Prenez place.
+
+<<59.96;67.96;fr>>
+Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire Beuze contre Belgique.
+
+<<69.16;82.32;fr>>
+L'affaire a été introduite devant la Cour le 25 novembre 2010 par un ressortissant belge, M. Philippe Beuze, en vertu de l'article 34 de la Convention.
+
+<<82.32;91.16;fr>>
+Elle a été attribuée à la deuxième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.
+
+<<91.16;97.52;fr>>
+La requête a été communiquée au gouvernement le 25 août 2014.
+
+<<97.52;105.32;fr>>
+Le 13 juin 2017, la Chambre a décidé de se dessaisir au profit de la Grande Chambre.
+
+<<105.32;121.52;fr>>
+Le 19 septembre 2017, Fair Trials International a été autorisé à soumettre des observations écrites en tant que tiers parti en vertu de l'article 44, paragraphe 3 du règlement.
+
+<<121.52;130.6;fr>>
+Le gouvernement est représenté par son agente, Mme Isabelle Niedlispacher, du service public fédéral justice.
+
+<<130.6;136.28;fr>>
+Le requérant est représenté par M. Delphine Paci, conseil.
+
+<<136.28;139.56;fr>>
+Je salue les comparants au nom de la Cour.
+
+<<139.56;147.64;fr>>
+Je salue également la délégation de magistrats turcs et la délégation de magistrats japonais en visite à la Cour.
+
+<<147.64;155.68;fr>>
+Ayant consulté l'agente du gouvernement et la représentante du requérant, j'ai fixé ainsi l'ordre de parole.
+
+<<155.68;163.76;fr>>
+Nous entendrons successivement Mme Niedlispacher pour le gouvernement, puis M. Paci pour le requérant.
+
+<<163.76;179.24;fr>>
+Je dois expliquer qu'en suce de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en turc a été autorisée au profit de la délégation de magistrats turcs qui assistent à cette audience.
+
+<<179.24;190.36;fr>>
+Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.
+
+<<190.36;191.36;fr>>
+Mme Niedlispacher, vous avez la parole.
+
+[[Government;GR1]]
+
+<<194.41;195.81;fr>>
+Je vous remercie, M. le Président.
+
+<<196.85;199.13;fr>>
+M. le Président, mesdames, messieurs les juges,
+
+<<200.21;210.61;fr>>
+la Chambre a décidé de se désaisir de cette affaire au profit de votre grande Chambre parce que son enjeu dépasse la question de savoir si la procédure a été équitable en l'espèce.
+
+<<212.01;223.65;fr>>
+L'enjeu d'intérêt général est ici de savoir s'il faut confirmer ou infirmer la jurisprudence Ibrahim contre le Royaume-Uni et Simeonovi contre Bulgari.
+
+<<225.69;227.29;fr>>
+Que nous enseigne cette jurisprudence?
+
+<<228.97;236.53;fr>>
+Dans son récent arrêt, Ibrahim et autres, la Cour a complété et précisé les critères énoncés dans l'arrêt Saldus.
+
+<<238.49;246.09;fr>>
+Elle a notamment indiqué que les restrictions de l'accès à une assistance juridique ne sont permises que dans des cas exceptionnels.
+
+<<248.25;255.09;fr>>
+Elles doivent être de nature temporaire et reposer sur une appréciation individuelle des circonstances particulières de l'espèce.
+
+<<257.69;273.45;fr>>
+Ainsi, le besoin urgent de prévenir une atteinte grave à la vie, à la liberté ou à l'intégrité physique dans un cas donné constitue une raison impérieuse de restreindre l'accès à l'assistance juridique aux fins de l'article 6 de la Convention.
+
+<<275.65;285.93;fr>>
+Toutefois, l'absence de raison impérieuse de restreindre l'accès à un avocat n'emporte pas à elle seule violation de l'article 6, paragraphes 1 et 3C.
+
+<<286.65;295.45;fr>>
+En ce cas, la Cour doit cependant opérer un contrôle très strict de l'équité de la procédure pénale.
+
+<<296.05;315.45;fr>>
+Il revient alors au gouvernement, défendeur, d'expliquer de façon convaincante pourquoi, à titre exceptionnel et au vu des circonstances particulières de l'espèce, la restriction à l'accès à l'assistance juridique n'a pas porté une atteinte irrémédiable à l'équité globale du procès.
+
+<<317.05;317.85;fr>>
+Je vais m'y attacher.
+
+<<319.85;330.85;fr>>
+Il est de jurisprudence constante que l'équité de la procédure pénale s'apprécie au cas par cas et à l'aune de la conduite de la procédure dans son ensemble.
+
+<<332.45;348.05;fr>>
+Dans son arrêt Ibrahim, la Cour fournit une liste non exhaustive de facteurs à prendre en compte pour mesurer les conséquences de lacunes procédurales survenues au stade de l'instruction sur l'équité globale du procès.
+
+<<348.85;351.25;fr>>
+On y retrouve notamment les facteurs suivants.
+
+<<352.05;387.65;fr>>
+La vulnérabilité particulière du requérant, le dispositif légal encadrant la procédure antérieure à la phase de jugement et l'admissibilité des preuves, et l'admissibilité des preuves au cours de cette phase, la possibilité ou non pour le requérant de contester l'authenticité des preuves recueillies et de s'opposer à leur production, le point de savoir si la culpabilité a été appréciée par des magistrats professionnels ou par des jurés, et dans ce dernier cas, la teneur des instructions qui leur a été donnée au jury.
+
+<<387.65;395.25;fr>>
+Selon des critères récemment clarifiés par la Cour, c'est l'arrestation de M. Beuze par les autorités françaises
+
+<<395.65;401.45;fr>>
+qui doit être considérée comme le point de départ pour l'application des garanties énumérées à l'article 6.
+
+<<403.05;405.65;fr>>
+M. Beuze a bénéficié dès cette arrestation
+
+<<405.85;413.85;fr>>
+de la possibilité que lui offrait le Code français de procédure pénale de se faire assister par un avocat lors de sa garde à vue.
+
+<<413.85;425.45;fr>>
+Il a alors renoncé explicitement à ce droit et n'a fait la demande d'être assisté par un avocat que lors de sa comparution devant la chambre d'instruction de la Cour d'appel de Douai.
+
+<<426.85;431.45;fr>>
+M. Odegon l'a alors assisté lors de sa comparution.
+
+<<432.45;437.85;fr>>
+Conseillé par elle, il a donné son consentement à sa remise aux autorités belges.
+
+<<437.85;443.85;fr>>
+La remise de M. Beuze aux autorités belges a eu lieu le 31 décembre 2007.
+
+<<444.85;455.45;fr>>
+Dans la même journée, il est auditionné par la police puis par la juge d'instruction de Charles Roy qui lui demande en début d'audition s'il a déjà fait le choix d'un conseil.
+
+<<457.25;462.85;fr>>
+Sur réponse négative, la juge avertit le délégué du bâtonnier et le signé de la police.
+
+<<462.85;469.85;fr>>
+Sur réponse négative, la juge avertit le délégué du bâtonnier et le signale à M. Beuze à la fin de l'audition.
+
+<<472.25;475.25;fr>>
+Lors de l'audition suivante, M. Beuze affirme qu'il est conseillé
+
+<<475.25;478.25;fr>>
+par maître Grindorge.
+
+<<478.25;486.25;fr>>
+Entre le moment où il a cessé d'être conseillé par maître Odegon et celui où il est référé au conseil de maître Grindorge, deux interrogatoires ont eu lieu.
+
+<<488.85;497.85;fr>>
+Cet ordre des événements est compatible avec l'application régulière des anciens articles 16 et 20 de la loi belge relative à la détention préventive, alors en vigueur.
+
+<<497.85;500.85;fr>>
+relative à la détention préventive, alors en vigueur.
+
+<<500.85;508.85;fr>>
+Ce n'était en règle qu'après le premier interrogatoire par le juge d'instruction que la loi reconnaissait au prévenu le droit de communiquer librement avec leur avocat.
+
+<<508.85;512.85;fr>>
+le droit de communiquer librement avec leur avocat.
+
+<<512.85;526.85;fr>>
+Une déduction automatique, telle que le suggère le requérant qui ferait de l'assistance par un avocat à chaque stade du procès une fin en soi et non un outil au service de l'équité du procès doit être écartée.
+
+<<526.85;551.85;fr>>
+Une telle lecture formaliste, amenant à conclure automatiquement au respect ou au non-respect d'un droit garanti par la Convention sur la seule considération du prescrit de la loi serait incompatible avec les fondements de la méthodologie de la Cour, notamment le principe selon lequel la Convention vise à protéger des droits effectifs et non illusoires ou théoriques.
+
+<<551.85;556.85;fr>>
+et non illusoires ou théoriques.
+
+<<556.85;564.85;fr>>
+Sur les auditions en Belgique et l'assistance par un avocat, entre le moment où M. Beuze a cessé d'être conseillé
+
+<<564.85;579.85;fr>>
+par maître Odegon en France et celui où il a bénéficié du conseil de maître Grindorge en Belgique, les deux auditions de l'avocatoire, tous deux du 31 décembre 2007, ont eu lieu.
+
+<<579.85;599.85;fr>>
+On ne saurait cependant considérer comme équivalent le cas où un prévenu est auditionné sans avoir eu le moindre contact avec son avocat et celui où il est auditionné seul mais après avoir rencontré son avocat, reçu ses conseils, mis au point avec lui des lignes stratégiques de défense.
+
+<<599.85;617.85;fr>>
+Il est évident que l'assistance de l'avocat ne s'entend pas uniquement de sa présence physique lors des auditions mais de toutes les tâches les entourant, notamment la préparation de la défense, la définition de la stratégie et la possibilité de remettre en cause les conditions de détention.
+
+<<617.85;622.85;fr>>
+les conditions de détention.
+
+<<622.85;631.85;fr>>
+de chacun de ces services, y compris l'organisation de la défense et la préparation des interrogatoires.
+
+<<631.85;637.85;fr>>
+dès les premiers stades de sa détention et comme il sera démontré tout au long de la procédure.
+
+<<637.85;660.85;fr>>
+Il a bénéficié préalablement à sa remise aux autorités belges à laquelle il a consenti en connaissance de cause, de l'assistance d'un avocat devant la cour d'appel de Douai, maître au Degon, et rapidement après son arrivée, de l'aide juridique organisée par la Belgique, dont par maître Grindorge, maître Lafineur et maître Rucha.
+
+<<660.85;681.85;fr>>
+A moins de s'en tenir à une lecture formaliste, il faut considérer que monsieur Beuze a joui de garanties suffisantes au regard de l'article 6, à chaque fois qu'il bénéficiait de la possibilité de s'entretenir avec son avocat préalablement à son audition.
+
+<<681.85;690.85;fr>>
+Ce point a d'ailleurs été mis en avant par la Cour d'Assise belge dans son arrêt interlocutoire du 1er février 2010.
+
+<<690.85;714.85;fr>>
+La législation alors en vigueur lui donnait bel et bien cette possibilité pour tous les interrogatoires postérieurs à sa première rencontre avec la juge d'instruction, en l'autorisant à rencontrer son avocat pour une consultation confidentielle à tout moment de sa détention préventive.
+
+<<714.85;729.85;fr>>
+Si l'on peut remettre en doute la continuité de l'assistance dont a joui monsieur Beuze lors de son extradition, ce doute ne s'étend qu'aux deux interrogatoires du 31 décembre 2007, date de sa remise aux autorités belges.
+
+<<729.85;740.85;fr>>
+Or, il est vivement contestable que les conseils de maître Odegon n'aient pas bénéficié à ces interrogatoires.
+
+<<740.85;761.85;fr>>
+D'une part, la décision de monsieur Beuze de consentir à sa remise aux autorités belges après consultation avec son conseil ne peut être comprise que comme s'inscrivant dans une vision stratégique à plus long terme, dont il se sera certainement entretenu avec son conseil en France.
+
+<<761.85;775.85;fr>>
+D'autre part, il est visiblement arrivé devant les autorités belges avec une stratégie de défense et une version des faits bien construite, consistant à plaider son innocence et à contester tous les chefs d'accusation retenus alors.
+
+<<775.85;796.85;fr>>
+Les interrogatoires du 31 décembre servaient essentiellement à déterminer si sa détention répondait à une absolue nécessité pour la sécurité publique, de manière à déterminer l'opportunité de délivrer un mandat d'arrêt à son encontre.
+
+<<796.85;811.85;fr>>
+Il serait difficile de défendre, au vu des circonstances de l'espèce et de la gravité des faits, que la présence d'un avocat à ses côtés eût alors changé quoi que ce soit aux conséquences de cette rencontre.
+
+<<811.85;822.85;fr>>
+Les différents devoirs attribués à l'avocat ont ainsi pu, tous et sans défaut, être correctement exercés a priori par Maître Odegon, préalablement à la remise de M. Boeus
+
+<<822.85;832.85;fr>>
+aux autorités belges et a posteriori par les différents conseils belges après le premier interrogatoire avec la juge d'instruction.
+
+<<832.85;858.85;fr>>
+Il s'agit donc d'examiner en quoi les deux interrogatoires du 31 décembre 2007 et l'absence de l'avocat lors des autres interrogatoires tenus entre le 31 décembre et le 1er février 2010 ont préjudicié de manière irrémédiable à l'équité du procès.
+
+<<858.85;878.85;fr>>
+A cet égard, relevons que l'ancien article 47 bis du Code d'instruction criminelle, avant sa modification par une loi de 2011, prévoyait que, lors de l'audition de personnes entendues en quelque qualité que ce soit, l'on respectera au moins les règles suivantes. Au début de toute audition,
+
+<<878.85;900.85;fr>>
+il est communiqué à la personne interrogée qu'elle peut demander que toutes les questions qui lui sont posées et les réponses qu'elle donne soient actées dans les termes utilisés, qu'elle peut demander qu'il soit procédé à un tel acte d'information ou telle audition, que ces déclarations peuvent être utilisées comme preuve en justice.
+
+<<900.85;909.85;fr>>
+Chacun des procès-verbaux d'interrogatoire de la police et de la juge d'instruction attestent que ces communications ont effectivement été faites à M. Beuze.
+
+<<909.85;913.85;fr>>
+M. Beuze a reçu, à la fin de chaque audition,
+
+<<913.85;917.85;fr>>
+la possibilité de modifier ses propos et ses déclarations.
+
+<<917.85;936.85;fr>>
+Il a fait, dès ses premières déclarations, un large usage de son droit au silence, notamment de celui de se taire, de sélectionner ou de cacher des faits.
+
+<<936.85;951.85;fr>>
+Et il n'existe aucune corrélation positive ou négative entre la version des faits qu'il a adopté à tel moment de la procédure et son assistance ou non par un avocat à ce moment. On ne peut dès lors considérer qu'une quelconque
+
+<<951.85;964.85;fr>>
+ignorance de ces droits ou l'absence d'assistance aurait nuit ou profité, en quelque manière que ce soit, à ses déclarations ou à la cohérence de sa défense.
+
+<<964.85;972.85;fr>>
+Vu ces circonstances, on ne peut prétendre que l'interruption momentanée de l'assistance de M. Beuze par un avocat
+
+<<972.85;980.85;fr>>
+ait porté préjudice à sa connaissance de ses droits, notamment de son droit de garder le silence et de ne pas s'incriminer.
+
+<<980.85;994.85;fr>>
+Au sein d'un flagrant excès de formalisme, on ne peut que conclure que cet objectif, au moins, de l'assistance par un avocat, n'a pas été obstrué en l'espèce.
+
+<<994.85;1004.85;fr>>
+L'absence d'auto-incrimination, d'aveu et d'autres éléments de preuve. Selon votre jurisprudence, l'utilisation faite
+
+<<1004.85;1026.85;fr>>
+des preuves et en particulier le point de savoir qu'elles sont une partie intégrante ou importante des pièces à charge sur lesquelles s'est fondée la condamnation, ainsi que la force des autres éléments du dossier, est un facteur utile, voire déterminant, pour juger de l'équité globale de la procédure.
+
+<<1026.85;1041.85;fr>>
+Comme il sera démontré, ce facteur est appliqué plus fermement encore par la Cour de cassation belge, et que je considère comme toujours déterminant.
+
+<<1041.85;1045.85;fr>>
+M. Beuze n'a jamais tenu de propos auto-incriminants,
+
+<<1045.85;1065.85;fr>>
+aux seules exceptions d'avoir mentionné la soustraction d'une pièce du dossier pénal et d'avoir avoué le vol de la carte bancaire de Christelle Lacroix, deux éléments qui n'ont eu aucune influence sur la décision finale de la Cour et la sévérité de sa peine.
+
+<<1065.85;1076.85;fr>>
+A aucun moment, les chefs d'homicide volontaire, de tentative d'homicide, de préméditation, n'ont été appuyés sur ces déclarations.
+
+<<1076.85;1097.85;fr>>
+Les indices de culpabilité retenus contre lui résultaient avant tout des déclarations des témoins, des constatations des enquêteurs, des documents matériels recueillis et de considérations médico-légales et psychiatriques.
+
+<<1097.85;1103.85;fr>>
+Ceci est vrai tant pour la décision de la Chambre des Mises en accusation renvoyant M. Beuze devant la Cour d'assises
+
+<<1103.85;1109.85;fr>>
+que pour la décision de condamnation du jury d'assises.
+
+<<1109.85;1115.85;fr>>
+Cela transparaît clairement de leur motivation.
+
+<<1115.85;1126.85;fr>>
+Dans la présente affaire, les déclarations faites en l'absence d'un avocat n'ont jamais été utilisées contre la partie requérante.
+
+<<1126.85;1133.85;fr>>
+Partant, l'équité de la procédure n'a pu être compromise par ces déclarations.
+
+<<1133.85;1139.85;fr>>
+L'existence de recours internes effectifs.
+
+<<1139.85;1156.85;fr>>
+Lorsque la loi nationale offre des garanties insuffisantes à l'exécution de la Convention lors des premières phases du procès, un usage approprié des voies de recours internes est susceptible de rectifier l'irrégularité ainsi créée.
+
+<<1156.85;1162.85;fr>>
+Le pourvoi en cassation est l'une de ces voies de recours en droit belge.
+
+<<1162.85;1166.85;fr>>
+Le requérant en a fait usage.
+
+<<1166.85;1185.85;fr>>
+Comme votre Cour a bien observé dans sa décision du 1er octobre 2013, la Cour de cassation belge n'a pas attendu que le législateur ait modifié le cadre légal pour intégrer les enseignements de la jurisprudence salle douce en droit belge.
+
+<<1185.85;1191.85;fr>>
+Dans plusieurs cas postérieurs, partiellement similaires à celui de M. Beuze, la Cour de cassation effectue
+
+<<1191.85;1201.85;fr>>
+un contrôle strict assurant que les déclarations auto-incriminantes faites en l'absence d'un avocat ne puissent être utilisées par le juge du fond pour condamner l'intéressé.
+
+<<1201.85;1208.85;fr>>
+Cassation 5 septembre 2012, 31 octobre 2012, 8 avril 2014.
+
+<<1208.85;1228.85;fr>>
+La Cour de cassation a par exemple cassé dans un arrêt du 15 décembre 2010 une décision du juge du fond retenant des déclarations auto-incriminantes faites à la police au cours d'une garde à vue sans que l'intéressé ait eu l'occasion de bénéficier de l'assistance d'un avocat.
+
+<<1228.85;1231.85;fr>>
+Si la Cour de cassation n'a pas, dans le cas de M. Beuze,
+
+<<1231.85;1255.85;fr>>
+abouti à la même conclusion, ce n'est qu'après avoir examiné l'entièreté de la situation et constaté que son droit n'avait pas été mis en péril en l'espèce par l'application de la loi belge, notamment au vu de l'absence de propos auto-incriminants lors de ses interrogatoires.
+
+<<1255.85;1259.85;fr>>
+L'admissibilité des preuves illégales au cours du jugement est la règle d'exclusion.
+
+<<1259.85;1273.85;fr>>
+La constance de la jurisprudence citée de la Cour de cassation belge, antérieurement et postérieurement à l'arrêt prononcé à l'égard de M. Beuze, est telle qu'elle peut même
+
+<<1273.85;1284.85;fr>>
+être assimilée à une règle d'exclusion consistant à casser systématiquement les jugements de condamnation fondés sur des déclarations auto-incriminantes faites en l'absence d'avocat.
+
+<<1284.85;1294.85;fr>>
+Le fait que cette règle soit de nature jurisprudentielle ne lui ôte pas son effectivité.
+
+<<1294.85;1306.85;fr>>
+Si l'on considère le droit dans son ensemble, tel qu'appliqué par les Cours et Tribunaux à l'époque pertinente, on doit accepter qu'une règle d'exclusion protégeait M. Beuze
+
+<<1306.85;1318.85;fr>>
+dans l'ordre juridique et institutionnel belge, consistant à écarter toutes déclarations auto-incriminantes faites hors la présence d'un avocat.
+
+<<1318.85;1323.85;fr>>
+Ce point en particulier s'oppose avec poids à un constat de violation de l'article 6.
+
+<<1323.85;1335.85;fr>>
+De plus, le droit de recevoir copie des pièces du dossier est un droit de l'organiser et construire au mieux sa défense, en concertation illimitée avec son avocat.
+
+<<1335.85;1345.85;fr>>
+Les copies systématiques des auditions lui permettaient de s'en tenir à sa version des faits, pourtant en contradiction avec les dépositions des témoins.
+
+<<1345.85;1359.85;fr>>
+De plus, l'instruction étant placée sous le contrôle de la Chambre des Mises en Accusation, il pouvait à tout moment, comme tout inculpé, contester la légalité.
+
+<<1359.85;1374.85;fr>>
+En conclusion, l'affaire ayant été successivement portée devant la Chambre des Mises en Accusation et la Cour d'Assise, fondant chacune leur décision sur des éléments autres que les déclarations de M. Beuze,
+
+<<1374.85;1384.85;fr>>
+puis devant la Cour de Cassation, l'intéressé et ses conseils ont largement bénéficié de possibilités de contester les éléments de preuve.
+
+<<1384.85;1405.85;fr>>
+Les restrictions quant au respect de ces droits garantis par la Convention ont été successivement examinées par la Cour d'Assise et la Cour de Cassation, lesquelles ont chacune dûment motivé leur décision et longuement précisé en quoi les dits droits n'avaient pas été violés.
+
+<<1405.85;1414.85;fr>>
+Le gouvernement estime dès lors que l'article 6, paragraphe 1 et 3C de la Convention ont été méconnus.
+
+[[JudgeP;Guido Raimondi]]
+
+<<1415.68;1419.12;fr>>
+Merci beaucoup, madame Niedlispacher.
+
+<<1419.28;1421.48;fr>>
+Maintenant, la parole est à maître Paci.
+
+<<1421.48;1421.48;fr>>
+Vous avez la parole, maître.
+
+[[Applicant;AP1]]
+
+<<1423.33;1425.25;fr>>
+Je vous remercie.
+
+<<1425.45;1427.49;fr>>
+M. le Président,
+
+<<1427.69;1446.89;fr>>
+mesdames, messieurs les juges, c'est à la Cour, et plus particulièrement à son arrêt Saldus, que le justiciable belge se voit aujourd'hui assister d'un avocat lors des auditions devant les forces de police et devant le juge d'instruction lorsque celui-ci est suspect.
+
+<<1447.09;1470.21;fr>>
+C'est la loi du 13 août 2011, dite loi Saldus, qui, en droit belge, va instaurer cette insistance de l'avocat qui est fondamentale lors des premières auditions, et une loi encore postérieure du 21 novembre 2016, qui va permettre l'assistance de l'avocat lors des auditions subséquentes.
+
+<<1470.41;1474.69;fr>>
+M. Beuze, qui a été arrêté en 2007,
+
+<<1474.89;1477.05;fr>>
+n'a pas eu cette chance.
+
+<<1477.25;1488.49;fr>>
+La question qui se pose est celle de savoir s'il a bénéficié d'un procès équitable conformément à l'article 6, paragraphes 1 et 3 de la Convention.
+
+<<1488.73;1496.77;fr>>
+En 2007, en effet, la loi belge notorise les contacts avec l'avocat qu'après le placement sous mandat d'arrêt.
+
+<<1497.01;1513.21;fr>>
+Pas d'assistance donc avant les premières auditions, pas d'assistance non plus lors de ces auditions, ni à la police, ni devant le juge d'instruction, ni lors de toutes les auditions subséquentes et également tous les autres actes et devoirs d'enquête, comme par exemple les reconstitutions.
+
+<<1513.21;1527.45;fr>>
+La seule audition où la présence de l'avocat est autorisée avant les lois précitées, c'est l'interrogatoire récapitulatif, qui, comme son nom l'indique, a lieu à un stade postérieur de la procédure, puisqu'il est récapitulatif.
+
+<<1527.45;1557.37;fr>>
+Et la question de votre cours, beaucoup plus générale, et c'est évidemment la portée de la comparution aujourd'hui en grande chambre, le critère de l'appréciation de l'équité de la procédure dans son ensemble, tel qu'il est développé notamment dans l'arrêt Ibrahim contre Royaume-Uni, s'applique-t-il également aux procédures où, comme en l'espèce, c'est la loi qui s'oppose à l'assistance d'un avocat lors des interrogatoires et auditions qui sont menées durant la phase d'enquête?
+
+<<1557.37;1575.37;fr>>
+Une telle loi, et ici on parle spécifiquement de la loi belge sur la détention préventive en son article 20, la loi du 20 juillet 1990, entraîne-t-elle automatiquement l'absence de raisons impérieuses qui peuvent justifier l'absence de l'avocat à ce stade de la procédure?
+
+<<1575.37;1577.37;fr>>
+Et c'est évidemment là la question.
+
+<<1577.37;1592.37;fr>>
+Nous soutenons que la restriction systématique à l'accès d'un avocat sur la base des dispositions légales suffit à conclure un manquement aux exigences de l'article 6 de la Convention, quel que soit le contenu des auditions.
+
+<<1592.37;1599.37;fr>>
+Il est incontestable et incontesté dans le cadre du dossier de M. Beuze
+
+<<1599.37;1607.37;fr>>
+qu'il n'existait pas pour la Belgique de circonstances impérieuses qui ont justifié l'absence d'assistance du requérant.
+
+<<1607.37;1612.37;fr>>
+On l'a dit, cela résultait uniquement de la législation en place à l'époque.
+
+<<1612.37;1618.37;fr>>
+Aucune circonstance impérieuse n'a même été invoquée pour à un quelconque moment priver M. Beuze
+
+<<1618.37;1620.57;fr>>
+de cette assistance.
+
+<<1620.57;1643.17;fr>>
+Dans votre arrêt d'Ayanan contre Turquie, arrêt rendu également en grande chambre, il avait été précisé qu'en soi une telle restriction systématique sur la base des dispositions légales pertinentes suffit à conclure un manquement aux exigences de l'article 6 de la Convention, nonobstant le fait que le requérant a gardé le silence au cours de sa garde à vue.
+
+<<1643.17;1669.17;fr>>
+Il ressort donc très clairement de cette jurisprudence que lorsque l'absence de l'avocat au moment même où l'inculpé est le plus fragilisé, c'est-à-dire lors des premières auditions, lorsque cette absence résulte de l'application d'une disposition légale, même si la personne suspectée à nier les faits fait l'usage d'un droit au silence, et on verra que pour M. Beuze, c'est un peu plus complexe,
+
+<<1669.17;1675.17;fr>>
+à ce moment-là, votre court a estimé qu'il y avait violation de l'article 6.
+
+<<1675.17;1705.67;fr>>
+Alors si l'arrêt Ibrahim semble avoir fait marche arrière d'un certain point de vue, il n'en est rien, il n'en est rien, car la Cour impose au gouvernement d'expliquer, en l'absence de raison impérieuse, pourquoi, à titre exceptionnel, et au vu des circonstances particulières du cas d'espèce, la restriction à l'accès à l'assistance juridique n'a pas porté une atteinte irrémédiable à l'équité globale du procès.
+
+<<1705.67;1728.17;fr>>
+En l'absence ici d'une pratique habituelle, législative, conforme à la législation en vigueur, le gouvernement est bien dans l'incapacité de démontrer qu'à titre exceptionnel, et je resouligne une nouvelle fois, cette restriction n'a pas porté atteinte à l'équité du procès du requérant.
+
+<<1728.17;1756.17;fr>>
+Cette décision, l'arrêt Ibrahim, peut être mise en parallèle avec d'autres arrêts qui sont cités dans le mémoire, comme par exemple l'arrêt Bouglam, qui confirme que la législation belge à l'époque constituait en soi une atteinte au droit au procès équitable, l'arrêt intervenant par rapport à un rejet, uniquement dans le cadre de la perte de qualité de victime de M. Bouglam, qui a été acquittée.
+
+<<1756.17;1763.17;fr>>
+D'autres arrêts sont également cités dans le mémoire, qui vont dans le même sens.
+
+<<1763.17;1777.67;fr>>
+La limitation qui était organisée par la législation belge applicable au moment où le requérant a pu être entendu a constitué en soi une atteinte au procès équitable de celui-ci.
+
+<<1777.67;1806.67;fr>>
+À titre subsidiaire, si vous estimiez qu'il faut tout de même avoir égard finalement à l'équité de l'ensemble de la procédure, parce que le gouvernement pourrait éventuellement démontrer que celle-ci n'a pas été atteinte, et considérer alors qu'il pourrait le faire, non pas à titre exceptionnel, mais peut-être à chaque fois dans chaque procédure.
+
+<<1806.67;1818.67;fr>>
+L'absence de raison impérieuse entraîne une présomption de violation de l'article 6 de la Convention, donc un renversement de la charge de la preuve.
+
+<<1818.67;1829.17;fr>>
+Comme je vous l'exposerai dans un instant, l'absence de notification du droit au silence, puisque le droit au silence n'a pas été notifié en tant que tel à M. Beuze,
+
+<<1829.17;1849.67;fr>>
+et l'absence de notification du droit de ne pas témoigner contre lui-même, va rendre pour le gouvernement la tâche encore plus difficile quant au fait de lever cette présomption de manque d'équité qui est née de l'absence de raison impérieuse de retarder l'assistance juridique de M. Beuze.
+
+<<1849.67;1859.67;fr>>
+En l'espèce, nous soutenons que la restriction au droit de l'assistance d'un avocat en Belgique par rapport à M. Beuze avicie l'équité de la procédure.
+
+<<1859.67;1867.67;fr>>
+Différents critères doivent effectivement être examinés au regard des critères de l'arrêt Ibrahim.
+
+<<1867.67;1882.17;fr>>
+Alors, sans revenir en détail sur les faits qui vous ont été présentés dans la note d'observation, je souhaiterais revenir sur certains éléments importants qui doivent être mis en exergue avec ces critères développés par la Cour.
+
+<<1882.17;1886.17;fr>>
+M. Beuze purge actuellement à la prison de Marchand-Famenne
+
+<<1886.17;1895.67;fr>>
+une peine de réclusion à perpétuité qui a été prononcée par la Cour d'assises de la province du Hainaut du chef des crimes les plus graves.
+
+<<1895.67;1910.67;fr>>
+C'est-à-dire, le crime d'assassinat sur la personne de Muriel Boudard, le crime de tentative d'assassinat sur la personne de Christelle Lacroix, et ensuite de divers vols et de diverses menaces.
+
+<<1910.67;1920.17;fr>>
+La Convention doit s'appliquer avec encore plus de rigueur dans la mesure où M. Beuze était accusé de faits extrêmement graves.
+
+<<1920.17;1927.17;fr>>
+Autre élément important à prendre en considération, c'est la vulnérabilité particulière du requérant.
+
+<<1927.17;1933.67;fr>>
+La vulnérabilité particulière du requérant, M. Beuze présentait des fragilités.
+
+<<1933.67;1940.67;fr>>
+Et ces fragilités sont parfaitement décrites dans un rapport d'une neuropsychologue qui est versée au dossier.
+
+<<1940.67;1944.17;fr>>
+Cette analyse de la personnalité plus avant de M. Beuze
+
+<<1944.17;1946.67;fr>>
+est demandée dans le cadre de l'instruction.
+
+<<1946.67;1950.67;fr>>
+Et M. Beuze, on peut lire à la suite de cette expertise,
+
+<<1950.67;1970.17;fr>>
+présente un quotient intellectuel de 73, soit un quotient intellectuel limite, s'agissant essentiellement de difficultés dans les épreuves mesurant l'échelle verbale, l'échelle verbale, soit les facultés qui doivent être mobilisées lors des auditions.
+
+<<1970.17;1973.67;fr>>
+Le rapport du neuropsychologue va exposer que M. Beuze
+
+<<1973.67;1978.17;fr>>
+a un acquis scolaire faible, des aptitudes verbales limitées.
+
+<<1978.17;1983.67;fr>>
+On sait que la moyenne du quotient intellectuel dans la population est de 100.
+
+<<1983.67;2006.67;fr>>
+Et que ce que les experts considèrent, même si je n'aime pas le terme, comme la normalité, se situe entre 85 et 115, son quotient intellectuel est très très bas, sachant que le quotient intellectuel verbal est au seuil de la débilité, puisque inférieur à 70.
+
+<<2006.67;2013.67;fr>>
+La procédure est extrêmement compliquée concernant M. Beuze, qui, comme je viens de vous le dire,
+
+<<2013.67;2018.17;fr>>
+a des capacités intellectuelles limitées.
+
+<<2018.17;2035.17;fr>>
+Il est poursuivi pour différents faits, il va être extradé suite à un mandat d'arrêt européen, on va lui parler de principes de spécialité, de notions juridiques extrêmement complexes, dont il ne va pas du tout pouvoir prendre seul toute la mesure.
+
+<<2035.17;2051.67;fr>>
+Et souvent d'ailleurs dans les auditions subséquentes, il va demander à pouvoir faire confirmer ses auditions par son avocat, et dans le dossier, aucune trace de ce que l'avocat va pouvoir confirmer par la suite les déclarations de son client.
+
+<<2051.67;2069.17;fr>>
+S'agissant toujours des critères de l'arrêt Ibrahim, s'il s'agit de déposition, et c'est vraiment ici le cœur du sujet, voir la nature de celle-ci, il est loin de savoir s'il y a eu prompte rétractation ou rectification.
+
+<<2069.17;2076.17;fr>>
+L'État belge fait grand cas du fait qu'en France, le requérant était assisté d'un avocat.
+
+<<2076.17;2089.17;fr>>
+Le requérant va invoquer des pressions subies en France, il signe un formulaire qui a l'air d'être un formulaire type, a-t-il compris la portée du formulaire compte tenu de ses capacités limitées?
+
+<<2089.17;2099.17;fr>>
+C'est une question que l'on peut se poser, en tout cas en France, il n'y a pas de rappel de son droit au silence en tant que tel dans le cadre de la première audition.
+
+<<2099.17;2107.67;fr>>
+Mais surtout en France, il ne va pas être interrogé sur les faits qui vont conduire à sa condamnation.
+
+<<2107.67;2116.67;fr>>
+En France, il va être uniquement interrogé sur la délivrance d'un mandat d'arrêt européen et la conformité de M. Beuze
+
+<<2116.67;2122.67;fr>>
+avec l'identité qui est fournie à l'État français dans le mandat d'arrêt européen.
+
+<<2122.67;2131.67;fr>>
+L'audience qui va s'en suivre suite à l'audition en France est une audience technique, quant à savoir si oui ou non, il y a lieu de remettre M. Beuze
+
+<<2131.67;2143.17;fr>>
+aux autorités belges pour les poursuites qui s'imposent et savoir s'il existe des causes d'exclusion, de remise dans le cadre du mandat d'arrêt européen.
+
+<<2143.17;2155.67;fr>>
+Cette assistance n'a rien à voir avec une assistance stratégique pour pouvoir développer sa défense en Belgique qui est aussi essentiellement du cadre du mandat d'arrêt européen.
+
+<<2155.67;2160.17;fr>>
+Le premier moment où, avec certitude, M. Beuze souhaite un avocat,
+
+<<2160.17;2164.17;fr>>
+c'est pourtant bien la juridiction de Douai où il est assisté.
+
+<<2164.17;2169.17;fr>>
+Mais à nouveau, comme je le disais, juste dans le cadre de ce mandat d'arrêt européen.
+
+<<2169.17;2171.67;fr>>
+Et ensuite, commencent les auditions.
+
+<<2171.67;2178.67;fr>>
+Et l'audition ne commence pas au commissariat en Belgique, mais commence avant.
+
+<<2178.67;2192.67;fr>>
+La pièce dans l'audition, le procès verbal du 31 décembre 2017, dont on vous a dit qu'il avait pour objet uniquement de voir si oui ou non il fallait placer M. Beuze sous mandat d'arrêt,
+
+<<2192.67;2198.67;fr>>
+cette audition fait 8 pages, il me semble qu'elle est un peu plus étayée, M. Beuze va dire,
+
+<<2198.67;2207.67;fr>>
+comme je vous l'ai expliqué, durant le trajet en voiture depuis le poste frontière, je n'y ai être l'auteur du meurtre.
+
+<<2207.67;2211.67;fr>>
+M. Beuze est donc récupéré par des agents de police belges en France.
+
+<<2211.67;2214.17;fr>>
+On n'a aucune idée de ce qui lui est notifié.
+
+<<2214.17;2216.67;fr>>
+Est-ce que M. Beuze a le droit de se taire?
+
+<<2216.67;2218.67;fr>>
+Personne ne lui dit.
+
+<<2218.67;2221.17;fr>>
+Et en tout cas, dans le véhicule commence cette audition.
+
+<<2221.17;2226.67;fr>>
+Cette audition qui va d'ailleurs être rapportée dans ce procès verbal.
+
+<<2226.67;2231.67;fr>>
+M. Beuze va effectivement nier les faits d'assassinat
+
+<<2231.67;2238.67;fr>>
+et de tentative d'assassinat, mais il va donner des explications et il va parler.
+
+<<2238.67;2243.67;fr>>
+Il ne s'agit pas ici purement d'une audition où M. Beuze se tairait.
+
+<<2243.67;2246.67;fr>>
+Il va changer de version au fil du temps.
+
+<<2246.67;2254.67;fr>>
+Dans la première audition, il va reconnaître des menaces avec une arme factice sur un témoin.
+
+<<2254.67;2261.67;fr>>
+Il va également reconnaître une non-assistance à personne en danger.
+
+<<2261.67;2278.67;fr>>
+Suite à son interrogatoire d'un culpé, la construction, ça n'est pas banal, va indiquer dans le mandat d'arrêt, attendu qu'il apparait de l'interrogatoire, la nécessité de requérir immédiatement un médecin psychiatre.
+
+<<2278.67;2292.67;fr>>
+Il s'agit donc de quelqu'un qui présente des capacités limitées et qui manifestement est dans un état psychiatrique qui peut même se faire poser la question de savoir s'il était en état d'être interrogé.
+
+<<2292.67;2312.67;fr>>
+D'ailleurs, c'est un interrogatoire d'un culpé sans avoir pu voir d'avocat avant qui va donner une connotation au dossier puisque dans le mandat d'arrêt, il faut indiquer qu'il faut nécessairement requérir l'expertise d'un médecin psychiatre.
+
+<<2312.67;2314.67;fr>>
+M. Beuze va ensuite faire d'autres déclarations
+
+<<2314.67;2318.67;fr>>
+dans le volet de Mme Lacroix.
+
+<<2318.67;2323.67;fr>>
+Il va exposer l'avoir isolé, l'avoir frappé.
+
+<<2323.67;2335.67;fr>>
+Il va changer de version, notamment lors de la reconstitution et on va lui dire « mais c'est la première fois que vous donnez cette version » et M. Beuze va répondre « ce n'est pas vrai, j'ai déjà exposé ceci,
+
+<<2335.67;2340.67;fr>>
+mais on n'a pas voulu noter ».
+
+<<2340.67;2346.67;fr>>
+Il n'a donc pas usé sensus stricto de son droit au silence dont il ne connaissait pas la portée.
+
+<<2346.67;2360.67;fr>>
+Quand bien même l'avocat français lui aurait exposé qu'il avait ce droit au silence dans la procédure française, encore aurait-il fallu pour M. Beuze qu'il ait la capacité
+
+<<2360.67;2367.67;fr>>
+de pouvoir déduire que ce droit continuait avec la procédure également en Belgique.
+
+<<2367.67;2373.67;fr>>
+L'État belge ici reconnaît à tout le moins une interruption dans le cadre de l'assistance de M. Beuze.
+
+<<2373.67;2397.67;fr>>
+Autre critère, l'utilisation faite d'épreuves, était-elle partie intégrante ou importante des pièces à charge et le fait de savoir si la culpabilité a été appréciée par des magistrats professionnels ou par des jurés et notamment le fait de savoir quelle était la teneur des instructions qui auraient été données aux jurés.
+
+<<2397.67;2401.67;fr>>
+Je vous l'ai dit, les déclarations de M. Beuze ont donné
+
+<<2401.67;2411.67;fr>>
+une claire connotation à l'ensemble du dossier et nous maintenons qu'elles ont également été utilisées pour sa condamnation.
+
+<<2411.67;2416.67;fr>>
+M. Beuze a été condamné par une cour d'assises.
+
+<<2416.67;2421.67;fr>>
+La cour d'assises en Belgique, telle qu'elle est applicable à l'époque où M. Beuze reçoit sa condamnation,
+
+<<2421.67;2433.67;fr>>
+prévoit que le jury délibère seul sur la culpabilité et puis la cour rejoint le jury et la cour recueille les motifs du jury et motive avec le jury, mais le jury délibère seul.
+
+<<2433.67;2438.67;fr>>
+Les conseils de M. Beuze à l'époque soulèvent
+
+<<2438.67;2445.67;fr>>
+« in limine litis », les arguments liés aux soucis dans le cadre des auditions de M. Beuze.
+
+<<2445.67;2451.67;fr>>
+La cour y répond seule et rejette cette argumentation.
+
+<<2451.67;2455.67;fr>>
+Ensuite, avant même l'interrogatoire de M. Beuze,
+
+<<2455.67;2468.67;fr>>
+l'avocat général, au moment du procès, se lève et donne lecture de l'acte d'accusation, qui va être délivré au jury.
+
+<<2468.67;2476.67;fr>>
+C'est le premier élément que le jury reçoit de connaissance de l'affaire.
+
+<<2476.67;2482.67;fr>>
+Et cet acte d'accusation fait grand cas des auditions de M. Beuze.
+
+<<2482.67;2489.67;fr>>
+L'accusé reconnaît sa présence sur les lieux, mais conteste toute participation aux faits.
+
+<<2489.67;2498.67;fr>>
+Selon cette version, l'accusé reconnaît que dans sa fuite, il a menacé. Réentendu, M. Beuze change à sa version.
+
+<<2498.67;2503.67;fr>>
+Cette autre version de l'accusé ne résiste pas non plus à l'analyse.
+
+<<2503.67;2506.67;fr>>
+L'accusé donne une version totalement différente des faits.
+
+<<2506.67;2515.67;fr>>
+Voilà donc l'acte d'accusation, qui très clairement est distribué au jury avant même qu'on puisse entendre M. Beuze,
+
+<<2515.67;2518.67;fr>>
+et qui va jouer très clairement dans le cadre de sa condamnation.
+
+<<2518.67;2531.67;fr>>
+À la fin de l'audience de la Cour d'assises, lorsque tous les témoins ont été entendus, lorsque chacun a pu plaider, le jury se retire.
+
+<<2531.67;2536.67;fr>>
+Le jury se retire et a à sa disposition, pendant son délibéré, le dossier papier.
+
+<<2536.67;2541.67;fr>>
+Le dossier papier qui comprend les auditions de M. Beuze.
+
+<<2541.67;2551.67;fr>>
+Et à aucun moment, le président ne va dire au jury « Faites attention, des auditions ont pu être faites hors la présence d'un avocat.
+
+<<2551.67;2555.67;fr>>
+Il va falloir les utiliser avec circonspection. »
+
+<<2555.67;2567.67;fr>>
+Dans l'arrêt de condamnation, certains des motifs sont des affirmations, mais ne sont pas explicités.
+
+<<2567.67;2577.67;fr>>
+La Cour ne donne pas d'indications qui vont permettre de dire que les éléments ne relèvent pas des aveux de certains actes matériels de M. Beuze,
+
+<<2577.67;2581.67;fr>>
+parce qu'il a reconnu avoir accompli certains actes matériels.
+
+<<2581.67;2583.67;fr>>
+Je vous donne un exemple.
+
+<<2583.67;2586.67;fr>>
+Il s'est isolé avec une femme enceinte.
+
+<<2586.67;2589.67;fr>>
+Est-ce que cet élément ressort de la déclaration de M. Beuze?
+
+<<2589.67;2596.67;fr>>
+Personne ne le dit, mais en tout cas, c'est quelque chose qu'il déclare.
+
+<<2596.67;2608.67;fr>>
+Autre élément à examiner, le dispositif légal qui encadre la phase antérieure à la phase de jugement et l'existence, dans le droit et la pratique interne, d'autres garanties procédurales.
+
+<<2608.67;2617.67;fr>>
+Nous soutenons avec force qu'aucune garantie procédurale n'existait pour garantir l'effectivité du droit au silence.
+
+<<2617.67;2621.67;fr>>
+Certains droits sont énoncés aux personnes auditionnées.
+
+<<2621.67;2628.67;fr>>
+On vous l'a dit, l'article 47 bis avant sa modification par la loi de 2011.
+
+<<2628.67;2635.67;fr>>
+Mais pas le droit au silence expressis verbis.
+
+<<2635.67;2637.67;fr>>
+Ce qui est énoncé, et ce qui a été dit à M. Beuze,
+
+<<2637.67;2646.67;fr>>
+à quel moment on l'a encore la question, c'est ceci, les déclarations peuvent être utilisées en justice.
+
+<<2646.67;2656.67;fr>>
+Cette affirmation ne signifie pas qu'une personne n'est pas contrainte de faire des déclarations contre elle-même, de s'auto-incriminer.
+
+<<2656.67;2666.67;fr>>
+Et comme il n'y a pas de présence d'avocat, il n'y a aucune certitude sur le moment où cette affirmation est dite.
+
+<<2666.67;2683.67;fr>>
+Le CPT, lors de ses différentes visites en Belgique, a pu exprimer ses inquiétudes à l'époque par rapport à cet élément de fait, et de rappeler que c'était important que la Belgique se dote d'une législation qui permettait l'effectivité de ce droit.
+
+<<2683.67;2687.67;fr>>
+L'effectivité du droit au silence n'était donc absolument pas garantie.
+
+<<2687.67;2693.67;fr>>
+Quelle est l'effectivité d'un droit si le justiciable n'en est pas averti?
+
+<<2693.67;2699.67;fr>>
+Rien dans le droit belge de l'époque ne vient pallier ce manquement au respect du droit au silence.
+
+<<2699.67;2710.67;fr>>
+Et les conséquences, et c'est évidemment ça l'essentiel, parce que c'est vrai qu'au niveau du gouvernement belge, on va essayer de dire qu'il y a des choses dans la procédure, mais tout ça vient postérieurement.
+
+<<2710.67;2723.67;fr>>
+Or, les conséquences de la violation du droit au silence, du droit de ne pas s'auto-incriminer, d'une droite de ne pas être assistée, vont se marquer dès le début de la procédure.
+
+<<2723.67;2734.67;fr>>
+On voit mal, effectivement, comment la demande de devoir complémentaire pourrait pallier à l'absence d'effectivité du droit au silence.
+
+<<2734.67;2739.67;fr>>
+L'interrogatoire récapitulatif, j'en ai déjà parlé, intervient enfin de procédure.
+
+<<2739.67;2757.67;fr>>
+Alors, via la jurisprudence de la Cour de cassation, dont on vous dit aujourd'hui qu'elle avait finalement déjà beaucoup anticipé, en réalité, la Cour de cassation de Belgique était très très mal à l'aise avec l'arrêt Saldus, et elle va évoluer.
+
+<<2757.67;2763.67;fr>>
+Elle va évoluer, mais lorsque M. Beuze porte son affaire
+
+<<2763.67;2773.67;fr>>
+devant la Cour de cassation, celle-ci se borne uniquement à développer les éléments de droit belge qui lui permettraient de contester les accusations portées contre lui, uniquement.
+
+<<2773.67;2786.67;fr>>
+Le premier arrêt dans lequel la Cour de cassation semble prendre une mesure relative des enseignements de votre cour date du 15 décembre 2010.
+
+<<2786.67;2788.67;fr>>
+Or, dans le cas de M. Beuze,
+
+<<2788.67;2793.67;fr>>
+l'accusation interne est datée du 26 mai 2010.
+
+<<2793.67;2804.67;fr>>
+Les arrêts cités par l'état belge dans le mémoire du 5 mai 2010 et du 23 mars 2010 n'inervent en rien ce que je vous explique.
+
+<<2804.67;2819.17;fr>>
+Les pourvois sont rejetés, et la Cour de cassation, à l'époque, fait une appréciation de voir si le droit au procès équitable est violé par rapport à une appréciation, en fait, de la Cour d'appel. Dans l'arrêt du 23 mars 2010,
+
+<<2819.17;2826.67;fr>>
+il est dit que l'appréciation, en fait, de la Cour d'appel ne peut pas être censurée par la Cour de cassation.
+
+<<2826.67;2834.67;fr>>
+Il n'y a donc pas de règle d'exclusion en droit belge qui protège M. Beuze, à l'époque, de son recours.
+
+<<2834.67;2847.67;fr>>
+De même, la vérification de la procédure en Chambre du Conseil ou en Chambre des mises en accusation ne pouvait pas plus venir au secours du requérant, devenu de la jurisprudence de l'époque, de la Cour de cassation.
+
+<<2847.67;2857.67;fr>>
+Cette jurisprudence de l'époque est parfaitement rappelée dans, notamment, vos arrêts Simons contre Belgique ou encore Bouglane contre Belgique.
+
+<<2857.67;2868.67;fr>>
+À la lumière de ces différents éléments, il convient donc de conclure à la violation de l'article 6, paragraphe 1 et paragraphe 3 de la Convention.
+
+<<2868.67;2868.67;fr>>
+Je vous remercie.
+
+[[JudgeP;Guido Raimondi]]
+
+<<2870.2;2871.97;fr>>
+Merci beaucoup, Maître.
+
+<<2872.16;2875.2;fr>>
+Je remercie les 2 partis pour leurs interventions.
+
+<<2875.64;2882.24;fr>>
+Et j'invite maintenant mes collègues, les juges de la Grande Chambre, qui le souhaitent, à poser leurs questions aux partis de M. le Vice-président Sicilianos.
+
+[[Judge;Linos-Alexandre Sicilianos]]
+
+<<2887.62;2889.42;fr>>
+Merci beaucoup, M. Président.
+
+<<2890.42;2895.22;fr>>
+J'ai tout d'abord une question pour le requérant, et le gouvernement pourrait aussi commenter, bien évidemment.
+
+<<2896.1;2905.46;fr>>
+Maître, comment est-ce que vous, en tant qu'avocate, vous concevez la notion d'atteinte irrémédiable de l'équité du procès?
+
+<<2905.66;2907.86;fr>>
+Qu'est-ce que, pour vous, constitue une atteinte irrémédiable?
+
+<<2910.22;2914.54;fr>>
+La deuxième question s'adresse au gouvernement, mais là aussi, le requérant pourrait commenter.
+
+<<2917.22;2926.86;fr>>
+Mme Niedlispacher, vous avez parlé de la continuité de l'assistance, mais aussi de l'interruption momentanée de l'assistance.
+
+<<2928.42;2939.02;fr>>
+Et vous avez mentionné que le requérant a eu 4 conseils belges différents, mais quand même, il a pu développer une stratégie de défense.
+
+<<2941.82;2947.74;fr>>
+Alors, ma question est de savoir, dans ces circonstances, y est-il eu vraiment une stratégie de défense?
+
+<<2948.26;2950.14;fr>>
+Et pourquoi 4 conseils différents?
+
+<<2950.34;2951.18;fr>>
+Qu'est-ce qui s'est passé?
+
+<<2951.42;2953.58;fr>>
+Est-ce qu'on a une idée?
+
+<<2953.78;2960.9;fr>>
+Pourquoi est-ce qu'on a dû, donc, changer si fréquemment les différents avocats du requérant?
+
+<<2961.58;2962.54;fr>>
+C'est une question factuelle.
+
+<<2966.1;2968.82;fr>>
+La troisième et dernière question s'adresse aussi au gouvernement.
+
+<<2969.94;3006.58;fr>>
+Lors de votre plaidoirie dans l'affaire Lhermitte, vous nous disiez que l'accusation, l'acte d'accusation constitue la pièce maîtresse de la procédure, que les jurés, à l'époque dans l'affaire Lhermitte, mais le cadre juridique est plus ou moins le même, si je comprends bien, que les jurés avaient probablement déjà formé leur opinion avant l'audience sur la base de l'acte d'accusation, et que cet acte d'accusation ait d'une grande importance pour que l'accusé comprenne les raisons de sa condamnation en l'absence de motivation du verdict des jurés.
+
+<<3007.22;3013.42;fr>>
+Bref, vous avez souligné à l'époque l'importance centrale de l'acte d'accusation.
+
+<<3014.1;3015.62;fr>>
+Et ma question est la suivante.
+
+<<3015.82;3023.18;fr>>
+Est-ce que vous estimez que l'acte d'accusation a eu la même importance centrale dans cette affaire?
+
+<<3023.82;3024.5;fr>>
+Merci beaucoup.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3026.76;3028.96;fr>>
+Merci beaucoup.
+
+<<3028.96;3029.96;en>>
+Judge De Gaetano, please.
+
+[[Judge;Vincent A. De Gaetano]]
+
+<<3035.75;3039.91;en>>
+Just one question to counsel for the government.
+
+<<3041.91;3065.99;en>>
+Some emphasis has been placed on the fact of the extradition proceedings in France and then the criminal trial in Belgium and that he was what happened as far as waiver of the rights in France and then what happened in Belgium and in between the two interviews which took place.
+
+<<3067.73;3089.19;en>>
+Is the government's position, or is the government suggesting in any way, and I ask this simply for clarity's sake, is the government suggesting that the extradition proceedings in France and the criminal proceedings in Belgium are to be considered as one continuum as far as the right of the accused to legal assistance is concerned?
+
+<<3089.19;3091.43;en>>
+That is my only question, thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3094.05;3097.41;en>>
+Thank you very much, Judge De Gaetano. Judge O’Leary, please.
+
+[[Judge;Síofra O’Leary]]
+
+<<3099.68;3101.84;en>>
+Thank you very much, Mr. President.
+
+<<3101.84;3104.68;en>>
+My question is for the respondent government.
+
+<<3104.68;3119.8;en>>
+In your initial observations to the court, the written observations, you indicated that uncertainty remained regarding whether Mr. Gworth had already met his lawyer when he was questioned by police on the 11th of January 2008.
+
+<<3119.8;3125.66;en>>
+In your oral observations today, any doubts seem to have been dissipated.
+
+<<3125.66;3149.0;en>>
+But could you specify when a lawyer was formally designated to Mr. Beuze, and I mean designated, not simply requested, on what date, and if possible, for how long the applicant consulted with that lawyer for the first time, and in particular, whether this was prior to the 11th of January questioning?
+
+<<3149.0;3149.0;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3149.76;3151.76;en>>
+Thank you very much.
+
+<<3151.76;3152.6;en>>
+Judge Griţco, please.
+
+[[Judge;Valeriu Griţco]]
+
+<<3154.63;3155.99;fr>>
+Merci, M. le Président.
+
+<<3156.19;3158.47;fr>>
+J'ai une question au gouvernement.
+
+<<3158.67;3180.35;fr>>
+Donc, je voudrais savoir, est-ce qu'il y avait des contradictions essentielles entre les différentes déclarations de M. Beuze lors des interrogatoires ou auditions qui ont eu lieu sans une présence physique d'un avocat?
+
+<<3180.55;3184.19;fr>>
+Bien sûr, la partie récurrente également peut faire des commentaires.
+
+<<3184.19;3184.19;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3184.46;3186.66;fr>>
+Merci beaucoup. Judge Spano, please.
+
+[[Judge;Robert Spano]]
+
+<<3189.4;3190.44;en>>
+Thank you, Mr. President.
+
+<<3190.44;3194.88;en>>
+I first have a question to both parties.
+
+<<3194.88;3219.44;en>>
+As just referred to by my colleague, Judge Sicilianos, in the case of Lermitte versus Belgium, the court explained that to some extent, when viewing jury reasoning as presented by the judges, one would perhaps to some extent view the way in which the court of cassation has viewed that reasoning.
+
+<<3219.44;3226.12;en>>
+One can be informed by the court of cassation as to the reasoning of jury deliberations.
+
+<<3226.12;3231.36;en>>
+On that basis, we have a court of cassation judgment in this case.
+
+<<3231.36;3244.68;en>>
+Can I ask both parties to assist me in whether I'm reading the court of cassation's judgment in the case where the applicant presents arguments on the basis of Article 6?
+
+<<3244.68;3280.36;en>>
+The first is, do I read the court of cassation judgment correctly that in its findings that the fairness of the proceedings at first instance or in the Assisi court were fair, the court of cassation did not base its conclusions on the fairness that statements of the applicant during police custody or pretrial investigation had not in fact been used or been the basis upon which the jury made its conclusions?
+
+<<3280.36;3281.32;en>>
+I don't see it.
+
+<<3281.32;3307.2;en>>
+I just want to be clear that what I see from the dossier, the court of cassation did not make that finding by its own reading of the jury reasoning that that was excluded as a possibility, that the jury might in fact have had as its basis for some of its views the statements provided by the applicant during the proceedings.
+
+<<3307.2;3341.0;en>>
+Related to this, I see that in the reasoning of the jury as set out by the court as to the indicted part as regards the attempted murder of Christian Lacroix on the 17th of September 2007, the jury reasoning states, the defendant had deliberately arranged to be alone with a pregnant woman.
+
+<<3341.0;3345.96;en>>
+Now here, of course, this is just a statement of a proven fact.
+
+<<3345.96;3351.8;en>>
+The basis upon which the evidentiary material relied upon is not stated.
+
+<<3351.8;3374.0;en>>
+What I do see, however, from the dossier, and here comes my question, in an interview or the interrogation by the criminal investigation police on the 25th of March 2008, the applicant acknowledged that he had invited Christian Lacroix, then pregnant, to get into his car.
+
+<<3374.0;3385.4;en>>
+He stated that he had punched Christian Lacroix in the face to protect her from a possible encounter with Madame Boudard that had been planned, and so forth.
+
+<<3385.4;3410.28;en>>
+So do we have before us, because this is the reasoning of the jury, can you point out to any other piece of evidence which could have formed the basis for the jury's finding on this issue, that the defendant had deliberately arranged to be alone with a pregnant woman?
+
+<<3410.28;3411.96;en>>
+Is there any other piece of evidence?
+
+<<3411.96;3422.44;en>>
+Do we have any reason to think that it is other piece of evidence than the testimony provided by the applicant himself?
+
+<<3422.44;3424.12;en>>
+Just a clarification on that issue.
+
+<<3424.12;3424.12;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3425.37;3427.65;en>>
+Thank you very much.
+
+<<3427.65;3429.25;en>>
+Judge Turković, please.
+
+[[Judge;Ksenija Turković]]
+
+<<3430.58;3442.74;en>>
+I'd just like to expand on the question of Judge Spano and just one point related to the jury and the conclusions that the jury is drawing.
+
+<<3442.74;3458.08;en>>
+Could the court made a conclusion that the jury was not relying if the jury was not given specific instruction upon that, without giving the instruction to the jury?
+
+<<3458.08;3460.44;en>>
+Could then the court rely?
+
+<<3460.44;3478.82;en>>
+And then to expand on the question related to the lawyer and the contacts between lawyer, the specific question was asked for this one particular date, 11th of January, 2012.
+
+<<3478.82;3491.18;en>>
+But I think this question is actually pertinent to each questioning of our applicant.
+
+<<3491.18;3498.62;en>>
+When the lawyer was present, to what extent he could consult with him.
+
+<<3498.62;3506.86;en>>
+And when the lawyer was not present, to what extent did he consulted with him outside of the interview?
+
+<<3506.86;3509.46;en>>
+It's important for each questioning.
+
+<<3509.46;3509.46;en>>
+Thank you.
+
+[[JudgeP;Guido Raimondi]]
+
+<<3510.99;3513.39;fr>>
+Thank you very much.
+
+<<3513.59;3522.67;fr>>
+S'il n'y a pas d'autres questions, la Cour va maintenant se retirer, disons jusqu'à 10h35.
+
+<<3522.67;3532.99;fr>>
+Et après quoi, les partis pourront présenter des brèves observations en réponse aux plaidoiries adverses et répondre aux questions des juges.
+
+<<3532.99;3532.99;fr>>
+L'audience est suspendue.
+
+[[Announcer;UNK]]
+
+<<3731.36;3732.08;fr>>
+La Cour!
+
+[[JudgeP;Guido Raimondi]]
+
+<<3772.92;3774.44;fr>>
+Vous en prenez place.
+
+<<3775.92;3780.56;fr>>
+L'audience reprend et la parole est à madame Niedlispacher.
+
+<<3780.56;3780.56;fr>>
+Vous avez la parole madame.
+
+[[Government;GR1]]
+
+<<3783.34;3785.3;fr>>
+Je vous remercie, M. le Président.
+
+<<3785.45;3795.82;fr>>
+Mesdames, Messieurs les juges, la question a été posée de savoir qu'est-ce qu'une atteinte irrémédiable à l'équité du procès?
+
+<<3795.98;3821.54;fr>>
+Une atteinte irrémédiable à l'équité du procès, c'est un vice de procédure qui jette ou qui est susceptible de jeter le discrédit sur les conclusions qui ont été prises en tenant compte des déclarations ici qui auraient été faites sans l'assistance d'un avocat ou qui...
+
+<<3823.62;3834.14;fr>>
+Enfin, l'atteinte est irrémédiable si elle est d'une gravité telle qu'elle jette le discrédit sur l'issue de la procédure.
+
+<<3834.58;3855.78;fr>>
+Et donc, cette notion est essentielle pour répondre à ce qui nous a été dit par la partie requérante à savoir le fait que la loi Belge ne prévoyait pas à l'époque d'avocats pour le premier interrogatoire suffit à jeter le discrédit sur la procédure, suffit à conclure à la violation de l'article 6.
+
+<<3855.93;3895.02;fr>>
+Je dis non parce que la Convention ne protège pas des droits théoriques et illusoires, mais concrètement, dans le cas d'espèce, chaque élément doit être examiné avec, il est vrai, ici, un renversement de la charge de la preuve pour le gouvernement, établir avec plus de force, plus de précision que les irrégularités éventuelles de la procédure ont pu être en l'espèce compensées par des garanties de procédure offertes aux requérants ou, si elles n'ont pas été compensées, n'ont pas porté préjudice aux requérants en l'espèce.
+
+<<3895.34;3902.5;fr>>
+Parce que ce qui nous intéresse tous, c'est l'Etat de droit, la démocratie, le fait que M. Beuze ait eu une procédure équitable.
+
+<<3903.18;3905.45;fr>>
+Nous sommes tous d'accord là-dessus.
+
+<<3907.22;3918.93;fr>>
+Alors, j'ai dit dans l'affaire Lhermitte contre Belgique que l'acte d'accusation était la pièce maîtresse pour que l'accusé comprenne ce qui lui était reproché.
+
+<<3920.98;3929.3;fr>>
+C'est plutôt une compensation quand la motivation du jury est imparfaite, puisque nous avons des jurés non professionnels.
+
+<<3931.54;3953.66;fr>>
+Mais l'acte d'accusation est certainement une pièce déterminante qui permet à l'accusé de comprendre ce qui lui est reproché, pourquoi, comment, quelle a été sa part de participation active, s'il a pu bénéficier de causes d'excuses ou non.
+
+<<3953.66;3958.14;fr>>
+Donc a-t-il eu ici la même importance?
+
+<<3960.18;3967.5;fr>>
+Je pense qu'il a eu une importance déterminante ici aussi, bien sûr.
+
+<<3967.66;3968.45;fr>>
+On ne peut pas nier.
+
+<<3971.34;3981.62;fr>>
+Mais les jurés ont eu des instructions par les membres professionnels de la Cour d'assises.
+
+<<3981.62;3985.86;fr>>
+Et on leur a demandé il faut vous fonder une intime conviction.
+
+<<3986.74;3992.5;fr>>
+Est-ce que la personnalité même plus vulnérable de M. Beuze,
+
+<<3992.66;4005.62;fr>>
+est-ce que ce qu'il a déclaré, ne pas déclaré, ses mensonges, ses versions qui ont changé, sont les seuls éléments sur lesquels vous vous basez pour déterminer sa culpabilité?
+
+<<4006.1;4007.3;fr>>
+Non.
+
+<<4007.45;4021.58;fr>>
+Vous vous êtes basé, vous devez vous baser sur tous les éléments qui vous sont présentés et vous demander en votre âme et conscience, dans votre fort intérieur, si M. Beuze est coupable ou non de tentative d'homicide,
+
+<<4021.74;4023.82;fr>>
+homicide avec préméditation.
+
+<<4024.98;4046.26;fr>>
+Et dans les éléments qui ont été présentés de manière contradictoire au jury, eh bien, il y avait des déclarations de témoins, des éléments matériels recueillis, des constatations des enquêteurs, des considérations médico-légales et psychiatriques eu égard à sa vulnérabilité particulière.
+
+<<4047.54;4059.74;fr>>
+Donc, les jurés se sont formés leur opinion sur base de l'ensemble des éléments qui ont été présentés, et pas une déclaration partielle de M. Beuze,
+
+<<4059.89;4097.53;fr>>
+parce que les jurés qui étaient donc choisis au hasard étaient d'intelligence sur le sujet, d'intelligence suffisante et de sagesse suffisante pour s'imaginer qu'on peut tous se voir un jour dans une situation particulière qui pourrait donner à penser que nous pourrions pas nous conduire comme la loi nous l'impose, mais qu'en réalité, c'est une apparence et que derrière cette apparence, il y a d'autres éléments du dossier qui suffisent à nous disculper.
+
+<<4097.69;4102.1;fr>>
+Est-ce que les procédures françaises et belges sont à considérer dans la continuité?
+
+<<4102.26;4104.26;fr>>
+Oui.
+
+<<4106.14;4112.98;fr>>
+Indépendamment de la connaissance juridique fine dont M. Beuze n'a certainement pas bénéficié,
+
+<<4114.38;4124.22;fr>>
+il a certainement compris que l'étau se resserrait sur lui et les éléments du dossier le montrent très clairement.
+
+<<4126.49;4136.1;fr>>
+D'abord, dès son arrestation, le Code français de procédure pénale lui offre la possibilité de se faire assister par un avocat lors de sa garde à vue.
+
+<<4136.26;4147.02;fr>>
+Il y renonce, je ne sais pas pourquoi, et fait la demande d'être assisté seulement lors de sa comparution devant la chambre d'instruction de la cour d'appel de Douai.
+
+<<4147.02;4152.02;fr>>
+À ce moment-là, il est assisté, il reçoit des conseils.
+
+<<4152.18;4162.34;fr>>
+Son avocat, bien sûr, lui dit vous avez le droit de vous taire, de mentir, de ne pas répondre à toutes les questions.
+
+<<4162.49;4170.41;fr>>
+Et ce qui va se passer maintenant, c'est que la Belgique va demander que vous soyez remis pour être jugé en Belgique où les faits sont sursournés roulés.
+
+<<4170.57;4177.26;fr>>
+Il a bien compris ça, il a donné son consentement puisque son avocat lui a expliqué qu'il n'avait pas d'intérêt stratégique à s'opposer à cette remise.
+
+<<4179.53;4191.61;fr>>
+Il a bien compris où était le risque pour lui puisque dès le début, dès les premiers instants, il choisit de ne pas dire la vérité.
+
+<<4192.22;4200.74;fr>>
+Il choisit même de plaider que les enquêteurs français auraient exercé sur lui une pression pour qu'il incrimine un mineur.
+
+<<4200.74;4204.74;fr>>
+Alors, ou c'est de la panique totale ou c'est machiavélique.
+
+<<4208.94;4218.18;fr>>
+Dès ses premières déclarations, il fait un large usage de son droit au silence, notamment celui de se taire, de mentir et de sélectionner ou de cacher des faits.
+
+<<4219.82;4221.18;fr>>
+Les pièces du dossier le démontrent.
+
+<<4222.69;4234.3;fr>>
+Il n'existe, la question a été posée, aucune corrélation positive ou négative entre sa version des faits à tel moment de la procédure et son assistance par un avocat à tel autre moment de la procédure.
+
+<<4234.86;4247.34;fr>>
+On ne peut pas donc déduire ici une quelconque ignorance de ses droits ou l'absence d'assistance par un avocat lui aurait nuit ou profité dans la cohérence de ses déclarations.
+
+<<4248.1;4257.57;fr>>
+Je crois que, quelle que soit notre intelligence, face à une accusation d'une telle gravité, nous avons tous nos limites humaines et nous sommes tous amenés à...
+
+<<4257.57;4266.02;fr>>
+peut-être d'abord cacher et puis éventuellement commettre des erreurs stratégiques, d'évoluer dans nos déclarations, surtout quand les questions sont précises et insistantes.
+
+<<4266.18;4275.34;fr>>
+Donc, je pense que, dans ce cas-là, presque tout être humain est plus ou moins dans le même désarroi quand il sait ce qu'il attend potentiellement, c'est-à-dire de la prison.
+
+<<4276.38;4295.14;fr>>
+Les indices de culpabilité contre lui étaient suffisamment solides pour que la Cour de cassation estime que, compte tenu, et ça, c'est l'élément essentiel du dossier, du fait qu'il n'a pas tenu de propos auto-incriminants.
+
+<<4295.65;4303.49;fr>>
+Alors, je l'avais dit aussi, ses seuls propos auto-incriminants, c'est j'ai volé une carte bancaire et j'ai volé une pièce de procédure.
+
+<<4303.65;4308.02;fr>>
+Ça n'a pas d'incidence sur la question avez-vous ou non tué?
+
+<<4308.18;4320.22;fr>>
+Ça n'a pas d'incidence, ni dans la tête des jurés, ni dans la tête des enquêteurs, ni du juge d'instruction, ni des juges professionnels qui vont statuer par la suite.
+
+<<4320.9;4333.57;fr>>
+Alors, il a dit une chose, qu'il voulait être seul avec la femme enceinte, qu'il l'a frappée au visage.
+
+<<4333.74;4337.53;fr>>
+Est-ce que ça aussi, c'est une preuve qu'il l'ait tuée?
+
+<<4337.69;4342.69;fr>>
+Je crois que les jurés qui regardent la télévision ont déjà vu des preuves de ce genre.
+
+<<4342.69;4355.26;fr>>
+Les jurés qui regardent la télévision ont déjà vu des procès et se disent que oui, comme je l'ai dit, on peut être amené peut-être à une violence envers quelqu'un.
+
+<<4355.41;4360.82;fr>>
+Ça ne veut pas dire qu'on va aller jusqu'à tuer cette personne.
+
+<<4360.98;4366.82;fr>>
+Je pense que personne ne fait le raccourci.
+
+<<4367.94;4378.14;fr>>
+Et doit-on considérer que systématiquement, la violation de l'article 6 a défaut d'avocat prévu par la loi?
+
+<<4378.3;4398.86;fr>>
+Non, certainement pas, puisque déjà, on ne peut considérer comme équivalent le cas où un prévenu est auditionné sans avoir eu le moindre contact avec son avocat et celui où il a eu l'occasion préalablement à son audition de mettre au point des lignes de défense.
+
+<<4399.02;4411.3;fr>>
+C'est la raison pour laquelle il faut considérer l'équité de la procédure dans son ensemble, à la lumière de chaque élément des volets français et belge de la procédure.
+
+<<4415.41;4430.69;fr>>
+L'absence de raison impérieuse, qu'elle soit automatique ou circonstanciée, même si, évidemment, il n'y avait pas de raison vitale ou pour la sécurité physique de priver M. Beuze d'un avocat,
+
+<<4430.69;4437.14;fr>>
+n'indique pas pour autant que ses droits garantis à l'article 6 ont été violés.
+
+<<4437.34;4490.06;fr>>
+Il faut vérifier, une fois de plus, l'équité globale de la procédure, puisque l'intéressé ici a bénéficié de la possibilité de se faire assister d'un avocat immédiatement après son arrestation, bien qu'il y ait renoncé, qu'il s'est fait assister d'un avocat dès qu'il en a fait la demande et sous son conseil consenti à sa remise, qu'il n'a jamais comparu devant une juridiction de jugement sans être assisté d'un avocat ni en France ni en Belgique, qu'il a été mis en contact avec un avocat immédiatement après sa première audition par la juge d'instruction belge et qu'il a bénéficié de l'assistance juridique tout au long de la procédure ultérieure, qu'il a pu faire un usage illimité, en vertu du droit belge, de sa possibilité de se concerter avec son avocat pour mettre au point sa défense, faire valoir ses droits et contester sa détention.
+
+<<4492.02;4507.86;fr>>
+Il a joui d'une connaissance évidente de ses droits lors de chaque interrogatoire et en a fait plusieurs fois usage dès ses premiers contacts avec les autorités belges, notamment son droit au silence et celui de réclamer des actes d'instruction complémentaires.
+
+<<4510.14;4550.38;fr>>
+Aucune des déclarations qu'il a faites hors l'assistance de son conseil n'a servi à sa condamnation, si ses recours n'ont pas abouti, c'est parce qu'aucune violation de l'article 6 ne pouvait être retenue.
+
+<<4551.41;4553.53;fr>>
+Chacune des décisions a été correctement motivée.
+
+<<4555.94;4572.38;fr>>
+Sa condamnation du chef d'homicide volontaire avec préméditation et tentative d'homicide prononcée par un jury d'assises s'est fondée sur des déclarations de témoins, des constatations d'enquêteurs, des éléments matériels soigneusement recueillis et des considérations médico-légales et psychiatriques.
+
+<<4572.38;4576.26;fr>>
+Il en a été de même de l'arrêt de la Chambre des mises en accusation.
+
+<<4578.18;4600.02;fr>>
+Même si l'arrêt matérialisant et établissant cette tendance jurisprudentielle de la Cour de cassation est postérieure de quelques mois à l'arrêt de cassation de l'espèce, il existait au moment du dernier recours interne introduit par M. Beuze
+
+<<4600.02;4609.69;fr>>
+une règle d'exclusion de toute déclaration auto-incriminante faite hors la présence par un avocat dans le jugement de condamnation.
+
+<<4610.49;4612.65;fr>>
+Cette règle a protégé M. Beuze
+
+<<4613.06;4614.86;fr>>
+contre cette éventualité.
+
+<<4618.69;4630.26;fr>>
+Si l'arrêt de cassation dans le cas du dossier Beuze n'a pas été cassé alors qu'il a fait des déclarations sans avocat, c'est parce que ces déclarations n'étaient pas auto-incriminantes.
+
+<<4631.74;4657.3;fr>>
+Donc, le fait que l'arrêt que malheureusement je peux vous invoquer est postérieur de quelques mois n'établit pas que la Cour de cassation n'avait pas déjà conscience du fait que des déclarations auto-incriminantes sans avocat sont des déclarations faites dans une situation de vulnérabilité particulière qui doivent être écartées, surtout si en l'espèce on a d'autres éléments suffisamment solides.
+
+<<4657.45;4669.06;fr>>
+Pourquoi prendre le risque de se fonder sur un élément inéquitable à l'égard du requérant si on a d'autres éléments qui ont été récoltés dans le respect de la règle de l'équité de la procédure?
+
+<<4669.22;4673.1;fr>>
+Voilà pourquoi, malheureusement, je ne peux pas vous produire un arrêt antérieur.
+
+<<4673.26;4681.02;fr>>
+Il est postérieur de quelques mois, mais ça n'établit pas que la Cour de cassation n'avait pas déjà conscience de cette nécessité dans un État démocratique.
+
+<<4681.02;4685.49;fr>>
+Chacune des décisions a été correctement motivée.
+
+<<4685.65;4688.34;fr>>
+Donc vous pourrez vérifier. Voilà.
+
+<<4688.34;4708.45;fr>>
+Donc juste pour conclure, ainsi, donc, non seulement l'article 6 n'a-t-il pas été méconnu en l'espèce au regard des critères utilement établis par la jurisprudence Ibrahim, mais encore ces critères révèlent-ils conjugués à la juridiction de l'Etat?
+
+<<4708.45;4722.94;fr>>
+Ces critères révèlent-ils conjugués à un parfait baromètre pour mesurer les conséquences de lacunes procédurales éventuelles au stade de l'enquête sur l'équité globale du procès?
+
+<<4722.94;4722.94;fr>>
+Je vous remercie.
+
+[[JudgeP;Guido Raimondi]]
+
+<<4723.67;4726.03;fr>>
+Merci beaucoup, madame la Niedlispacher.
+
+<<4726.35;4728.15;fr>>
+La parole est à maître Paci.
+
+<<4728.15;4728.15;fr>>
+Je vous invite à la parole, madame la députée.
+
+[[Applicant;AP1]]
+
+<<4729.79;4731.75;fr>>
+Je vous remercie.
+
+<<4731.75;4735.63;fr>>
+L'atteinte irrémédiable aux droits de M. Beuze
+
+<<4735.63;4751.91;fr>>
+me semble malheureusement devoir être constatée dans la mesure où ses déclarations, sans aucun rappel du droit au silence ni de s'auto-incriminer, ont été utilisées contre lui.
+
+<<4751.91;4768.47;fr>>
+C'est notamment le cas de cette première audition du 31 décembre 2007, faite en Belgique, qui contient 8 pages extrêmement détaillées dans lesquelles M. Beuze reconnaît des actes matériels.
+
+<<4768.47;4776.91;fr>>
+Cette déclaration qui va être utilisée dans l'acte d'accusation et que M. Beuze n'a pu rétracter dans la mesure,
+
+<<4776.91;4786.83;fr>>
+et vous verrez à la dernière page de cette audition du 31 décembre 2007, j'ai relu mes déclarations, je ne souhaite ni les corriger ni les compléter.
+
+<<4786.83;4793.39;fr>>
+Je demande une copie gratuite du texte de mon audition, je prends acte de ce que vous me refusez la copie.
+
+<<4793.39;4796.23;fr>>
+M. Beuze a donc été auditionné seul,
+
+<<4796.23;4802.71;fr>>
+sans avoir vu d'avocat précédemment pour préparer cette audition.
+
+<<4802.71;4815.47;fr>>
+On ne lui a pas remis de copie, il n'a donc pas non plus pu soumettre cette audition rapidement à son conseil pour pouvoir en discuter avec lui, éventuellement rétracter certains propos.
+
+<<4815.47;4830.51;fr>>
+Pour réparer cette atteinte, il aurait fallu écarter cette audition qui, comme les autres, a clairement pesé dans la balance au moment où il s'agit de condamner M. Beuze.
+
+<<4830.51;4834.11;fr>>
+M. Beuze a eu quatre conseils belges,
+
+<<4834.11;4839.63;fr>>
+Maître Grindorge, Rucha et Lafineur sont en réalité trois conseils qui appartiennent au même cabinet.
+
+<<4839.63;4859.71;fr>>
+Maître Rucha et Lafineur étaient les collaborateurs de Maître Grindorge à l'époque, et donc il ne s'agit pas de conseils différents, mais bien d'un même cabinet qui est intervenu à l'assistance de Maître Beuze à l'époque du dossier, et notamment la condamnation de la Cour d'Assise.
+
+<<4859.71;4881.07;fr>>
+L'État belge, en vous précisant que les instructions qui sont données aux jurés sont de se fonder sur l'intime conviction, confirme ce que je vous ai plaidé, à savoir qu'aucune instruction n'a été donnée, de prendre avec énormément de circonspection les déclarations de M. Beuze, d'autant plus que l'acte d'accusation
+
+<<4881.07;4887.99;fr>>
+a eu un poids extrêmement important, ce qui a été reconnu par l'État belge.
+
+<<4887.99;4892.11;fr>>
+Est-ce que les procédures françaises et belges doivent faire un tout?
+
+<<4892.11;4900.59;fr>>
+Certainement pas au niveau de l'examen du droit au silence, ces procédures n'ont pas le même objet.
+
+<<4900.59;4910.39;fr>>
+La procédure en France ne consistait uniquement qu'en la vérification de savoir si ce mandat d'arrêt européen s'appliquait bien à M. Beuze, si oui ou non il acceptait
+
+<<4910.39;4918.03;fr>>
+sa remise aux autorités belges, et si oui ou non il renonçait au principe de spécialité dans le cadre du mandat d'arrêt.
+
+<<4918.03;4929.07;fr>>
+Les autorités françaises n'avaient pas le dossier belge sous la main, ils avaient uniquement le mandat d'arrêt européen, et donc M. Beuze n'a jamais été interrogé sur les faits,
+
+<<4929.07;4939.99;fr>>
+proprement parlant, qui se sont déroulés en Belgique, mais uniquement sur la question de savoir si oui ou non il consentait à sa remise.
+
+<<4939.99;4951.23;fr>>
+La Cour de cassation de Belgique, je vous le disais, a quelque peu pris la mesure de votre arrêt salduze, mais postérieurement à la condamnation de M. Beuze,
+
+<<4951.23;4954.35;fr>>
+et postérieurement au moment où M. Beuze a apporté
+
+<<4954.35;4958.39;fr>>
+sa contestation devant la Cour de cassation.
+
+<<4958.39;4965.67;fr>>
+La Cour de cassation part du principe qu'aucune déclaration auto-accusatrice n'a été faite par M. Beuze.
+
+<<4965.67;4969.51;fr>>
+Cela n'est, me semble-t-il, pas exact dans la mesure où M. Beuze
+
+<<4969.51;4981.51;fr>>
+a reconnu des éléments matériels, je vous l'ai déjà plaidé, il a reconnu avoir menacé, il a reconnu être présent, et ces éléments-là ont effectivement contribué à sa condamnation.
+
+<<4981.51;4992.07;fr>>
+A aucun moment, la Cour de cassation n'a examiné si oui ou non ces déclarations avaient eu un poids par rapport à sa condamnation.
+
+<<4992.07;4994.75;fr>>
+Des contradictions dans les déclarations de M. Beuze,
+
+<<4994.75;5010.87;fr>>
+effectivement, il y en a eu, mais pas sur certains éléments, et notamment sur certains éléments matériels, le fait d'être présent, le fait d'avoir menacé un témoin, et ces contradictions vont être utilisées dans l'acte d'accusation.
+
+<<5010.87;5014.79;fr>>
+M. Beuze n'a en tout cas pas pu consulter d'avocat
+
+<<5014.79;5026.31;fr>>
+avant le 31 décembre 2017 en Belgique, portant sur la procédure belge et spécifiquement sur l'interrogatoire pour l'assassinat de Muriel Boudard.
+
+<<5026.31;5030.51;fr>>
+Pas de consultation d'avocat avant, pas d'avocat présent.
+
+<<5030.51;5049.03;fr>>
+Par la suite, un avocat a pu intervenir, mais en droit belge, à l'époque, l'avocat n'était jamais prévenu de ce que la personne allait être auditionnée, et notamment une autre audition va intervenir qui est relativement importante, c'est celle de la tentative d'assassinat par rapport à Mme Christelle Lacroix.
+
+<<5049.03;5053.11;fr>>
+Par rapport à cette tentative d'assassinat, un nouveau mandat d'arrêt va être délivré.
+
+<<5053.11;5056.35;fr>>
+A nouveau, on va extraire M. Beuze.
+
+<<5056.35;5061.79;fr>>
+Cette audition va être permise par le fait qu'on étend les poursuites au niveau du principe de spécialité.
+
+<<5061.79;5064.71;fr>>
+L'avocat de M. Beuze n'est pas prévenu de cet élément.
+
+<<5064.71;5067.35;fr>>
+M. Beuze va à nouveau être auditionné seul,
+
+<<5067.35;5073.59;fr>>
+sans avoir pu préparer son interrogatoire et sans que ses droits fondamentaux lui soient rappelés.
+
+<<5073.59;5077.87;fr>>
+Les auditions de M. Beuze ont contribué à sa condamnation.
+
+<<5077.87;5079.79;fr>>
+L'acte d'accusation le démontre.
+
+<<5079.79;5088.75;fr>>
+Les éléments de fait également cités dans la décision qui ne reposent sur aucun autre élément matériel que les déclarations de M. Beuze,
+
+<<5088.75;5092.67;fr>>
+les droits de M. Beuze ont été atteints irrémédiablement
+
+<<5092.67;5098.35;fr>>
+par le fait que ces déclarations ont été faites sans rappel de son droit au silence ni de s'auto-incriminer.
+
+<<5098.35;5098.35;fr>>
+Merci.
+
+[[JudgeP;Guido Raimondi]]
+
+<<5099.92;5102.68;fr>>
+Merci beaucoup, maître.
+
+<<5102.88;5106.2;fr>>
+Nous en arrivons au terme de l'audience.
+
+<<5106.4;5113.36;fr>>
+Je remercie les comparantes qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.
+
+<<5113.56;5118.12;fr>>
+La Cour va maintenant délibérer sur la recevabilité et le fond.
+
+<<5118.32;5120.88;fr>>
+L'arrêt sera rendu ultérieurement.
+
+<<5121.08;5124.36;fr>>
+Les partis seront informés de la date du prononcé.
+
+<<5124.36;5124.36;fr>>
+L'audience est levée.
+

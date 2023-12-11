@@ -1,0 +1,1844 @@
+[[Announcer;UNK]]
+
+<<18.99;19.57;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<60.86;62.18;en>>
+Please be seated.
+
+<<69.06;77.54;en>>
+I declare open the public hearing on the admissibility and merits in the case of Allen against the United Kingdom.
+
+<<77.54;87.04;en>>
+The case was lodged with the court on the 29th of April, 2009 under Article 34 of the Convention by a British national, Miss Lorraine Allen.
+
+<<87.04;102.86;en>>
+The application was allocated to the fourth section, which on the 26th of June, 2012, decided to relinquish jurisdiction in favor of the Grand Chamber, none of the parties having objected to this relinquishment.
+
+<<102.86;111.66;en>>
+The government are represented by their agent, Miss Yasmine Ahmed, assisted by Mr. James Strachan, counsel,
+
+<<111.66;117.0;en>>
+and by Mr. Christopher Goulbourn and Mr. Gavin Baird, advisors.
+
+<<117.0;123.0;en>>
+The applicant is represented by Mr. Hugh Southey QC, counsel.
+
+<<123.0;128.26;en>>
+I welcome the representatives in the name of the court.
+
+<<128.26;139.46;en>>
+I would also like to welcome a delegation of French magistrates from the Ecole Nationale de la Magistrature and delegations of German and Turkish judges.
+
+<<139.46;153.9;en>>
+I would explain that in addition to interpreting in the two official languages of the court, English and French, interpreting into Turkish has been authorized for the benefit of the delegation of Turkish judges.
+
+<<153.9;166.28;en>>
+That interpreting is not arranged by the court, and no transcription of the oral translation will be included in the official record of the proceedings.
+
+<<166.28;177.74;en>>
+Having consulted the agent of the government and the representative of the applicant, I have determined the order of addresses as follows.
+
+<<177.74;181.86;en>>
+Mr. Strachan for the government will speak first,
+
+<<181.86;185.84;en>>
+and then Mr. Southey for the applicant.
+
+<<185.84;187.1;en>>
+I call Mr. Strachan.
+
+[[Government;GR1]]
+
+<<191.64;194.76;en>>
+Mr. President, members of the court,
+
+<<194.76;205.5;en>>
+there is no general right to compensation for a person who is subject to an unsuccessful criminal investigation and prosecution.
+
+<<205.5;209.26;en>>
+And there is no good reason why there should be.
+
+<<209.26;220.84;en>>
+The rule of law requires an active and effective criminal justice system to try people if they are properly suspected of committing a criminal offense.
+
+<<220.84;224.84;en>>
+The suspected person then enjoys basic protections.
+
+<<224.84;233.0;en>>
+These include the right to be presumed innocent and lessen until proven guilty, and a high standard of proof.
+
+<<233.0;239.36;en>>
+These and other protections guard against the wrongful conviction of the innocent.
+
+<<239.36;249.24;en>>
+But the protections also mean it is inevitable that not everyone charged and prosecuted will necessarily be convicted.
+
+<<249.24;262.0;en>>
+A fair system means a person can be properly charged and prosecuted on evidence that may exist, but then acquitted if their guilt is not established to the requisite standard.
+
+<<262.0;273.54;en>>
+Likewise, even if convicted, the conviction may be quashed at a later stage if some new facts emerge which demonstrate that the conviction is unsafe.
+
+<<273.54;281.1;en>>
+But this doesn't mean that there has necessarily been any miscarriage of justice in bringing the prosecution.
+
+<<281.1;288.94;en>>
+A person who has been acquitted or who has had a conviction quashed will be treated as innocent of the offense.
+
+<<288.94;309.68;en>>
+But neither the European Convention on Human Rights nor the International Covenant on Civil and Political Rights requires payment of compensation in these circumstances, nor does the presumption of innocence prevent any inquiry into the underlying facts to decide whether compensation is due.
+
+<<309.68;313.68;en>>
+Both the International Covenant through Article 14.6
+
+<<313.68;322.08;en>>
+and now the Convention through Article 3 of Protocol 7 recognize that there is only a limited right to compensation.
+
+<<322.08;330.64;en>>
+And the right is subject to specific eligibility criteria which require an assessment of what took place.
+
+<<330.64;338.6;en>>
+It's common to Section 133 of the Criminal Justice Act, Article 14.6 of the International Covenant,
+
+<<338.6;349.52;en>>
+which it implements, and Article 3 of Protocol 7 to the Convention, that a right to compensation only arises if four conditions are satisfied.
+
+<<349.52;354.2;en>>
+First, a person must have been convicted of a criminal offense.
+
+<<354.2;365.92;en>>
+There is therefore no right to compensation if a person has been charged, detained, or even tried if that person is acquitted at trial or if the prosecution is withdrawn.
+
+<<365.92;374.76;en>>
+Secondly, the conviction must have been reversed or a pardon granted because of a new or newly discovered fact.
+
+<<374.76;386.6;en>>
+There's no right to compensation, for example, if it's reversed because of an error of law in the trial process or because of a reappraisal of the same facts.
+
+<<386.6;398.68;en>>
+Third, the new or newly discovered fact must show conclusively that there was a miscarriage of justice, not merely that the conviction was quashed.
+
+<<398.68;407.04;en>>
+And the UK gives effect to that requirement of conclusiveness through the comparable standard of beyond reasonable doubt.
+
+<<407.04;416.44;en>>
+And fourthly, the previous nondisclosure of the unknown fact must not be wholly or partly attributable to the individual.
+
+<<416.44;430.16;en>>
+These conditions, which are common to all three instruments, make it clear that there is no right to compensation simply because someone has been acquitted or because a conviction has been reversed.
+
+<<430.16;434.12;en>>
+The presumption of innocence does not have that effect.
+
+<<434.12;442.32;en>>
+A right to compensation of that kind would contradict and rewrite the conditions in Article 14.6
+
+<<442.32;445.28;en>>
+and Article 3 of Protocol 7.
+
+<<445.28;450.72;en>>
+It would create a far more extravagant right than that found in those obligations.
+
+<<450.72;468.06;en>>
+And it would also ignore the reality that a fair criminal justice system means people can have their convictions reversed, where, for example, the safety of the conviction is in doubt, but without that meaning that a miscarriage of justice has occurred.
+
+<<468.06;475.48;en>>
+States can, of course, adopt compensation schemes that go wider than the international obligations.
+
+<<475.48;486.48;en>>
+Some states, but by no means all, provide compensation where a person is detained for a criminal offense, but no conviction occurs for whatever reason.
+
+<<486.48;494.12;en>>
+But compensation in those circumstances is not required by Article 14.6 of the International Covenant
+
+<<494.12;498.04;en>>
+or by Article 3 of Protocol 7 of the Convention.
+
+<<498.04;508.48;en>>
+But if a state does choose to offer compensation in those extra circumstances, care has to be taken in operating the eligibility criteria.
+
+<<508.48;512.16;en>>
+The right to be presumed innocent under Article 6.2
+
+<<512.16;514.16;en>>
+must not be infringed.
+
+<<514.16;526.16;en>>
+But the court's jurisprudence on such schemes is not directly applicable to compensation required under Article 14.6 or Article 3 of Protocol 7.
+
+<<526.16;534.28;en>>
+The scheme required by those articles limits the right to cases where all four conditions are satisfied.
+
+<<534.28;546.16;en>>
+And those conditions sit compatibly alongside the right that everyone charged with a criminal offense shall be presumed innocent until proved guilty according to law.
+
+<<546.16;549.4;en>>
+In the International Covenant, Article 14.6
+
+<<549.4;557.32;en>>
+is part of the fair trial rights that includes the presumption of innocence in Article 14.2.
+
+<<557.32;569.16;en>>
+And in the Convention, the limited right to compensation under Article 3 of Protocol 7 is found alongside the presumption of innocence in Article 6.2.
+
+<<569.16;579.16;en>>
+States can legitimately refuse compensation if any one of the four conditions are not met without infringing the presumption of innocence.
+
+<<579.16;589.52;en>>
+By contrast, on the applicant's argument here, compensation would have to be paid whenever a conviction is quashed because of a new fact.
+
+<<589.52;593.68;en>>
+Otherwise, the applicant's innocence would be implicitly questioned.
+
+<<593.68;598.44;en>>
+We say that argument is wrong for at least three reasons.
+
+<<598.44;604.28;en>>
+First, it would be contrary to the intention of the parties to the international conventions.
+
+<<604.28;613.32;en>>
+They deliberately limited the right to compensation to cases where a miscarriage of justice has been conclusively demonstrated.
+
+<<613.32;627.16;en>>
+This requirement would be redundant if the presumption of innocence meant that compensation had to be paid whenever a reversal occurs on the basis of a new or newly discovered fact.
+
+<<627.16;639.12;en>>
+If the applicant were right in her interpretation, it's difficult to see how a state could ever refuse compensation applying this condition without infringing the presumption of innocence.
+
+<<639.12;654.92;en>>
+A decision to refuse compensation because no miscarriage of justice has been conclusively demonstrated is wrongly treated by the applicant as involving some sort of expression of doubt over the acquittal, and therefore the applicant's innocence.
+
+<<654.92;657.68;en>>
+That interpretation cannot be right.
+
+<<657.68;667.68;en>>
+If it were, it would remove one of the four conditions that the parties deliberately included in articulating the right that they put in place.
+
+<<667.68;671.68;en>>
+Secondly, the applicant's interpretation is illogical.
+
+<<671.68;684.44;en>>
+The need to demonstrate a miscarriage of justice is a deliberate and express recognition that more is required for compensation to be paid than mere reversal of a conviction.
+
+<<684.44;695.24;en>>
+There may be many reasons why a conviction is legitimately reversed without that calling into question the propriety of the prosecution that took place.
+
+<<695.24;709.6;en>>
+There's no logic in assuming that a reversal, the reversal of a conviction where a new fact comes to light necessarily means the conviction was the result of a miscarriage of justice.
+
+<<709.6;719.8;en>>
+In Miss Allen's case, new scientific evidence was discovered that cast doubt on the safety of her original conviction some years before.
+
+<<719.8;724.48;en>>
+That doubt was sufficient to justify quashing her conviction.
+
+<<724.48;733.36;en>>
+And the assessment of safety is one that's carried out by the Court of Appeal Criminal Division on an appeal against a conviction.
+
+<<733.36;738.32;en>>
+As a result, the applicant is now deemed innocent of the offense.
+
+<<738.32;744.88;en>>
+But as in Miss Allen's case, a retrial may not be ordered for very simple practical reasons.
+
+<<744.88;753.44;en>>
+The most common of these is that the sentence has already been served, and the retrial will serve no sensible purpose.
+
+<<753.44;766.92;en>>
+The reversal of the conviction does not mean that the original prosecution was wrongly brought, nor does it mean that no fresh prosecution could be brought now, even with the benefit of the newly discovered fact.
+
+<<766.92;770.76;en>>
+It only means the original conviction was unsafe.
+
+<<770.76;781.56;en>>
+It's therefore wrong to claim that a miscarriage of justice has been conclusively demonstrated, requiring payment of compensation, where a conviction is quashed.
+
+<<781.56;788.8;en>>
+This, however, does not affect the applicant's entitlement to be treated as innocent of the offense.
+
+<<788.8;794.68;en>>
+And thirdly, the applicant's interpretation causes potentially absurd results.
+
+<<794.68;806.8;en>>
+On her analysis, compensation would be paid whenever a new or newly discovered fact caused a conviction to be reversed, regardless of whether there had been a miscarriage of justice.
+
+<<806.8;821.08;en>>
+But yet no compensation would be required where a conviction was reversed because of a misdirection of law or because of a reappraisal of the same evidence, despite the fact that the individual would be similarly deemed to be innocent.
+
+<<821.08;836.44;en>>
+If compensation can be refused consistently with the presumption of innocence where those other conditions are not met, there is no reason why it cannot be refused if the condition concerning a miscarriage of justice has not been met.
+
+<<836.44;845.16;en>>
+The applicant's argument doesn't recognize the special nature of the right to compensation in Article 14.6 of the International Covenant
+
+<<845.16;848.34;en>>
+and Article 3 of Protocol 7 of the Convention.
+
+<<848.34;856.76;en>>
+That special nature is something which both the United Nations Human Rights Committee and this court have long recognized.
+
+<<856.76;866.22;en>>
+In WJH and Netherlands, the UN Human Rights Committee identified that the presumption of innocence in Article 14.2 of the International Covenant
+
+<<866.22;871.88;en>>
+didn't apply to proceedings for compensations under Article 14.6.
+
+<<871.88;880.24;en>>
+And that's because proceedings to determine such eligibility are not criminal and do not engage the presumption of innocence.
+
+<<880.24;885.04;en>>
+This court reached a very similar conclusion in Seconina in Austria.
+
+<<885.04;898.64;en>>
+There, the court was looking at a domestic compensation scheme that offered compensation for persons not convicted at trial rather than a right to compensation under Article 3 of Protocol 7.
+
+<<898.64;902.02;en>>
+A breach of Article 6.2 was found
+
+<<902.02;910.8;en>>
+where eligibility required an applicant to prove his innocence rather than to prove a miscarriage of justice.
+
+<<910.8;921.72;en>>
+And the Austrian court's decision cast doubt over the correctness of the criminal court's verdict to acquit in the way that it was expressed.
+
+<<921.72;943.96;en>>
+This court was careful to point out the important difference between that sort of situation and eligibility for compensation under Article 3 of Protocol 7, which was not comparable and which applies solely to a person who has suffered punishment as a result of a conviction stemming from a miscarriage of justice.
+
+<<943.96;952.48;en>>
+That eligibility criterion, therefore, depends upon identification of a miscarriage of justice, not proof of innocence.
+
+<<952.48;958.84;en>>
+The situation is fundamentally different to the domestic scheme considered in Seconina.
+
+<<958.84;969.4;en>>
+Assessment of whether a miscarriage of justice has been conclusively demonstrated must involve some assessment of the evidence that led to the conviction in the first place.
+
+<<969.4;979.04;en>>
+And that process does not involve any necessary infringement of the presumption of innocence, nor does it undermine the acquittal that has occurred on reversal.
+
+<<979.04;991.12;en>>
+The essential focus is whether, having regard to what is now known of the new fact, a prosecution could properly have been brought against the applicant in the first place.
+
+<<991.12;998.68;en>>
+And that decision does not involve interfering with the outcome of the prosecution, nor any acquittal or reversal.
+
+<<998.68;1004.24;en>>
+Nor does it amount to the voicing of suspicions regarding the applicant's innocence.
+
+<<1004.24;1013.44;en>>
+It's merely a decision that exposing the individual to the criminal justice system did not entail a miscarriage of justice.
+
+<<1013.44;1026.96;en>>
+It's inherent in this criterion that reversals may occur without a miscarriage of justice taking place as the UN Committee and the court correctly recognized in WJH and Seconina.
+
+<<1026.96;1030.52;en>>
+And there is nothing surprising in this result.
+
+<<1030.52;1039.96;en>>
+The eligibility criteria was recently examined by the United Kingdom Supreme Court in the case of Adams and the Secretary of State for Justice.
+
+<<1039.96;1045.0;en>>
+Nine justices examined the true meaning of Article 14.6
+
+<<1045.0;1052.8;en>>
+based on its origins, its wording, and the need for an autonomous interpretation of the international covenant.
+
+<<1052.8;1077.12;en>>
+Previously, there had been a difference of view in a case called Mullen as to whether the right to compensation only applied to a person who was shown to be innocent, described as category one, or whether it also covered cases where the new or newly discovered fact so undermined the evidence that no conviction could possibly have been based upon it, referred to as category two.
+
+<<1077.12;1083.6;en>>
+The Supreme Court reached a majority 5-4 verdict that both categories were covered.
+
+<<1083.6;1090.64;en>>
+But there was unanimity amongst all nine judges on two other important points.
+
+<<1090.64;1094.08;en>>
+First, they unanimously decided that Article 14.6
+
+<<1094.08;1102.6;en>>
+does not require compensation where a new or newly discovered fact merely renders a conviction unsafe.
+
+<<1102.6;1111.12;en>>
+Had the new fact been available at the time of trial, a reasonable jury might or might not have convicted the defendant.
+
+<<1111.12;1116.32;en>>
+But this did not mean a miscarriage of justice had been conclusively demonstrated.
+
+<<1116.32;1119.2;en>>
+And this was described as category three.
+
+<<1119.2;1122.2;en>>
+And there is no dispute that Ms. Allen's case
+
+<<1122.2;1124.4;en>>
+is in that category.
+
+<<1124.4;1137.32;en>>
+Secondly, the Supreme Court unanimously decided that limiting compensation to cases in categories one and two did not infringe the presumption of innocence under Article 6.2.
+
+<<1137.32;1148.52;en>>
+This is either because the presumption doesn't apply at all or because the assessment for compensation doesn't interfere with that presumption in practice.
+
+<<1148.52;1154.28;en>>
+The Supreme Court's unanimous decision on both these topics was clearly correct.
+
+<<1154.28;1158.4;en>>
+And we say the applicant's case fails to deal with that decision properly.
+
+<<1158.4;1161.4;en>>
+And we give three examples of that failure.
+
+<<1161.4;1169.72;en>>
+First, the applicant doesn't address the unanimous decision that the right in Article 14.6 cannot logically
+
+<<1169.72;1173.72;en>>
+include category three cases, such as Ms. Allen's,
+
+<<1173.72;1177.28;en>>
+where the new fact renders a conviction unsafe.
+
+<<1177.28;1181.4;en>>
+But a jury might still have convicted, had it known of the fresh evidence.
+
+<<1181.4;1195.2;en>>
+Lord Phillips explained that an interpretation which included category three cases would give no sensible meaning to the requirement that a miscarriage of justice has to be demonstrated conclusively.
+
+<<1195.2;1211.64;en>>
+Lord Hape similarly explained that fresh evidence which renders a conviction unsafe will usually not be, and will certainly not need to be, of a character to show a miscarriage of justice has been conclusively demonstrated.
+
+<<1211.64;1223.76;en>>
+Secondly, there's no merit in the applicant's argument that small differences in wording between Section 133 of the UK Act and Article 14.6 are significant.
+
+<<1223.76;1231.44;en>>
+The only differences are immaterial, such as translating the word conclusive into beyond reasonable doubt.
+
+<<1231.44;1234.4;en>>
+And there is no difference in substance between these tests.
+
+<<1234.4;1241.28;en>>
+And both were applied by the justices of the Supreme Court interchangeably in their reasoning.
+
+<<1241.28;1255.76;en>>
+And thirdly, the applicant's case depends on the mistaken idea that the decision in Adams creates two categories of acquittal on the merits, and that a person is required to prove innocence for compensation to be paid.
+
+<<1255.76;1258.16;en>>
+That argument is plainly wrong.
+
+<<1258.16;1263.88;en>>
+The autonomous meaning adopted by the Supreme Court was not one of demonstrating innocence.
+
+<<1263.88;1268.84;en>>
+It's one of showing conclusively that there has been a miscarriage of justice.
+
+<<1268.84;1271.36;en>>
+And that's not limited to cases of innocence.
+
+<<1271.36;1275.48;en>>
+And the Supreme Court majority rejected any such interpretation.
+
+<<1275.48;1283.92;en>>
+It's concerned with cases where the evidence has been completely undermined, such that the prosecution should not have been brought at all.
+
+<<1283.92;1287.68;en>>
+Category 2 does not require demonstration of innocence.
+
+<<1287.68;1297.6;en>>
+Instead, it's focused on whether the new fact has conclusively demonstrated that there's been a miscarriage of justice of that kind.
+
+<<1297.6;1309.92;en>>
+As analyzed by the Supreme Court, the principle of the presumption of innocence applied by this court is that it is not open to the state to undermine the effects of an acquittal.
+
+<<1309.92;1323.64;en>>
+But this does not forbid comments on the underlying facts of the case in subsequent proceedings of a different kind, such as a civil claim for damages, when it is necessary to find out what happened.
+
+<<1323.64;1329.12;en>>
+Both Article 14.6 and Section 133 of the 1988 Act
+
+<<1329.12;1332.6;en>>
+are in the category of lex specialis.
+
+<<1332.6;1338.16;en>>
+The general provision for a presumption of innocence does not have any impact on them.
+
+<<1338.16;1350.32;en>>
+A refusal of compensation under Section 133, because it has not been shown that criminal proceedings should not have been brought at all, doesn't undermine the acquittal.
+
+<<1350.32;1357.12;en>>
+The assessment under Section 133 of the UK Act is therefore not based on proof of innocence.
+
+<<1357.12;1365.52;en>>
+Instead, it is about whether a new fact shows beyond reasonable doubt or conclusively that a miscarriage of justice occurred.
+
+<<1365.52;1370.16;en>>
+And that assessment doesn't infringe the presumption of innocence.
+
+<<1370.16;1379.64;en>>
+The court itself has recognized that the right to compensation under Article 3 of Protocol 7 is restricted in nature.
+
+<<1379.64;1385.8;en>>
+And the court has applied the Council of Ministers' own explanatory memorandum as to its meaning.
+
+<<1385.8;1401.72;en>>
+In Biakowski and Poland, the court identified that the right only applies to cases where there has been a serious failure in the judicial process involving grave prejudice to the convicted person.
+
+<<1401.72;1412.54;en>>
+It emphasized that there is no requirement under the article to pay compensation if the conviction has been reversed or a pardon has been granted on some other ground.
+
+<<1412.54;1427.7;en>>
+The court also noted that the article does not seek to lay down any rules as to the nature of the procedure to be applied to establish a miscarriage of justice, this being a matter for domestic law or practice of the state concerned.
+
+<<1427.7;1435.02;en>>
+It's also untenable to suggest that the meaning of Article 3 of Protocol 7 is altered by Article 6.2
+
+<<1435.02;1440.36;en>>
+or that the criterion to demonstrate a miscarriage of justice is somehow removed.
+
+<<1440.36;1446.18;en>>
+That's irreconcilable with the words in the article itself that include this criterion.
+
+<<1446.18;1458.82;en>>
+And it's also inconceivable that the expert authors of the explanatory memorandum on Protocol 7 were not aware of Article 6.2 when explaining its effect.
+
+<<1458.82;1462.26;en>>
+Article 14.6 and Article 3 of Protocol 7
+
+<<1462.26;1473.86;en>>
+can therefore properly be categorized as a form of lex specialis to which the presumption of innocence does not apply, as indicated in WJH and Second ENA, respectively.
+
+<<1473.86;1482.26;en>>
+Moreover, this court's decisions on different domestic compensation schemes that do not give effect to Article 14.6
+
+<<1482.26;1486.88;en>>
+or Article 3 of Protocol 7 are not directly applicable.
+
+<<1486.88;1506.26;en>>
+Thus, the court's decisions in Lamana in Austria, Weizelbraun in Austria, Second ENA in Austria, and Rushidi in Austria were all concerned with compensation payable on an acquittal, where a person had to prove his innocence by showing he or she had been clear of all suspicion.
+
+<<1506.26;1513.02;en>>
+Moreover, the assessment process in those cases was closely linked to the criminal proceedings.
+
+<<1513.02;1523.66;en>>
+And none of them concerned compensation payable under Article 3 of Protocol 7, nor demonstrating conclusively that there had been a miscarriage of justice.
+
+<<1523.66;1538.42;en>>
+Likewise, this court's decisions in Hammann in Norway, Owe in Norway, and Orr in Norway concerned domestic compensation schemes on acquittal, not a reversal of a conviction because of a new fact.
+
+<<1538.42;1550.18;en>>
+Moreover, the application for compensation in those cases were generally dealt with by the same courts that have dealt with the acquittals and were very closely linked to those criminal proceedings.
+
+<<1550.18;1560.18;en>>
+Again, none concerned compensation under the equivalent of Article 3 or Protocol 7, nor the demonstration of a miscarriage of justice.
+
+<<1560.18;1572.7;en>>
+And the same point is also true of each of the domestic schemes of compensation that were an issue in Capo in Belgium, Tendam in Spain, and Puig Panella in Spain.
+
+<<1572.7;1590.38;en>>
+Even if this right to compensation is not treated as a form of lex specialis as such, the assessment reflected in Section 133 of the Criminal Justice Act does not call into question a person's lack of criminal liability.
+
+<<1590.38;1597.62;en>>
+It's not part of any criminal proceedings, nor is it sufficiently or closely linked to criminal proceedings.
+
+<<1597.62;1610.14;en>>
+This court's case law establishes that acquittal of a criminal offense does not mean that no investigation of the underlying facts can ever take place without impugning the presumption of innocence.
+
+<<1610.14;1620.3;en>>
+The applicant's interpretation of the court's observations in Reschiti in Austria or in Sikic in Croatia in this way is clearly wrong.
+
+<<1620.3;1632.22;en>>
+The court has long recognized that even after an acquittal in criminal proceedings, a subsequent civil court can nevertheless investigate the underlying acts.
+
+<<1632.22;1639.5;en>>
+It may still award a victim compensation in civil proceedings without infringing Article 6.2,
+
+<<1639.5;1642.82;en>>
+as noted in Why and Norway.
+
+<<1642.82;1656.46;en>>
+And in Sikic in Croatia, the court recognized that disciplinary proceedings can also inquire into the same facts of a criminal charge after an acquittal without infringing the presumption of innocence.
+
+<<1656.46;1665.06;en>>
+In making these judgments, the court has looked at the closeness between the criminal proceedings and the other civil proceedings.
+
+<<1665.06;1673.38;en>>
+Doing that exercise for Section 133 of the Criminal Justice Act reveals a very clear separation.
+
+<<1673.38;1684.02;en>>
+Amongst other things, a decision on compensation under Section 133 is never a decision taken by the same criminal court that considered the acquittal.
+
+<<1684.02;1688.54;en>>
+The decision is one taken by the executive, not by the judiciary.
+
+<<1688.54;1694.22;en>>
+The decision is taken pursuant to an administrative process and not in criminal proceedings.
+
+<<1694.22;1697.02;en>>
+The decision may be based on different evidence.
+
+<<1697.02;1705.98;en>>
+The Secretary of State can consider the new facts that would not have been available at the criminal trial itself because they were inadmissible or discovered too late.
+
+<<1705.98;1710.38;en>>
+The decision is normally remote in time from the criminal proceedings.
+
+<<1710.38;1718.14;en>>
+An application for compensation may now be made at any time up to two years after the conviction was reversed.
+
+<<1718.14;1723.78;en>>
+And the decision is, in fact, provided on a confidential basis to the applicant.
+
+<<1723.78;1733.26;en>>
+The decision to refuse compensation on the basis that no miscarriage of justice occurred does not call into question the acquittal in any way.
+
+<<1733.26;1747.3;en>>
+The government therefore submits that the presumption of innocence is not engaged at all for decisions under Section 133, where the Secretary of State is merely applying the test for compensation in Article 14.6 of the International
+
+<<1747.3;1752.14;en>>
+Covenant and Article 3 of Protocol 7 of the Convention.
+
+<<1752.14;1761.06;en>>
+Even if the presumption of innocence is potentially engaged, the decision does not involve any necessary infringement of Article 6.2.
+
+<<1761.06;1774.14;en>>
+Refusal of compensation because a case falls within category 3 rather than categories 1 and 2 doesn't undermine the acquittal itself or the person's entitlement to be treated as innocent of the offense.
+
+<<1774.14;1792.82;en>>
+The reality is that a decision to refuse compensation does not entail any voicing of doubt as to the correctness of the acquittal itself any more than would a decision in disciplinary or civil proceedings investigating the same facts, as in Sikic in Croatia and Vaniak in Croatia.
+
+<<1792.82;1808.1;en>>
+In Miss Allen's case, the refusal of compensation is merely a recognition that no miscarriage of justice has been conclusively demonstrated by the new evidence because a prosecution could properly have been brought on the evidence that remained.
+
+<<1808.1;1812.74;en>>
+It is not a decision that a conviction would or should have resulted.
+
+<<1812.74;1824.94;en>>
+The Secretary of State is only looking to see whether the fresh evidence that caused the acquittal also so undermined the evidence against her that no conviction could possibly be based on it.
+
+<<1824.94;1851.9;en>>
+The ability in principle to refuse compensation in respect of a criminal process without infringing Article VI is also evident from this court's decision in AL and Germany and BOK and the Netherlands, where the court reaffirmed that there is no right to compensation for lawful pretrial detention of an applicant where proceedings against him are subsequently discontinued or have resulted in an acquittal.
+
+<<1851.9;1859.82;en>>
+Finally, the government submits that the absence of any violation of Article VI in the applicant's own case is clear from the facts.
+
+<<1859.82;1866.1;en>>
+The applicant was originally charged and convicted of the manslaughter of her four-month-old son.
+
+<<1866.1;1873.54;en>>
+He had died from what appeared to be injuries of the kind usually associated with shaken baby syndrome.
+
+<<1873.54;1881.68;en>>
+She was prosecuted on the basis that she had killed her son deliberately by shaking him so as to cause bleeding inside his skull.
+
+<<1881.68;1895.58;en>>
+The prosecution case was based on medical evidence that the child's triad of symptoms, brain damage, bleeding under the skull, and bleeding into the retina, strongly indicated non-accidental injury.
+
+<<1895.58;1906.98;en>>
+At trial, the applicant's own medical experts accepted that the findings were consistent with violent shaking but contended that it did not necessarily prove that it had happened.
+
+<<1906.98;1911.34;en>>
+The applicant denied the offense but couldn't explain her son's collapse and death.
+
+<<1911.34;1917.18;en>>
+And after deliberating for a little less than three hours, the jury returned a verdict of guilty of manslaughter.
+
+<<1917.18;1920.7;en>>
+And the applicant was then sentenced to three years' imprisonment.
+
+<<1920.7;1928.74;en>>
+Five years later, a team of medical experts raised a new hypothesis as to an alternative cause for the triad of symptoms.
+
+<<1928.74;1939.98;en>>
+Some of these theories didn't stand up to scrutiny, but there were new disagreements between the medical experts on a number of points concerning the causation of the injuries that have been sustained.
+
+<<1939.98;1949.66;en>>
+In quashing the conviction, the Court of Appeal recognized the prosecution still had a strong case against the appellant, even in light of this new medical knowledge.
+
+<<1949.66;1955.48;en>>
+But it concluded that the conviction was no longer safe because of the disputes of medical opinion.
+
+<<1955.48;1961.66;en>>
+Had those disputes been known at the time of the trial, they would have been left to the jury to decide.
+
+<<1961.66;1972.94;en>>
+In quashing the conviction, the Court of Appeal recognized that the prosecution evidence and arguments were powerful and no specific alternative cause of death had been provided by the defense.
+
+<<1972.94;1981.06;en>>
+But they also recognized that the presence of the triad of symptoms could not automatically lead to a diagnosis of a violent death.
+
+<<1981.06;1988.46;en>>
+And in those circumstances, the fresh medical evidence might reasonably have affected the jury's decision to convict.
+
+<<1988.46;1993.42;en>>
+The conviction was therefore unsafe, and the appeal against the conviction allowed.
+
+<<1993.42;1997.88;en>>
+No retrial was ordered because the applicant had already served her sentence.
+
+<<1997.88;2002.9;en>>
+As a result, the applicant is now treated as innocent of the offense.
+
+<<2002.9;2015.94;en>>
+But the Secretary of State for Justice was entitled to reject her later application for compensation because Miss Allen's situation was not one where any miscarriage of justice had been conclusively shown.
+
+<<2015.94;2026.18;en>>
+The new evidence means the original conviction was unsafe, but it was not evidence which demonstrates that no prosecution could or should not have been brought against her.
+
+<<2026.18;2041.58;en>>
+The Court of Appeal Civil Division rejected Miss Allen's challenge to the Secretary of State's decision and correctly found no fault with that analysis and also no infringement of Article 6-2 in the way that the decision was made or expressed.
+
+<<2041.58;2054.56;en>>
+The applicant is still treated as innocent of the criminal offense, but that does not mean that she satisfies the conditions for compensation under Section 133 of the Criminal Justice Act 1988.
+
+<<2054.56;2064.74;en>>
+For those reasons and those in the government's written submissions, the government submits that Miss Allen's application is either inadmissible or it should be dismissed on its merits.
+
+<<2064.74;2069.42;en>>
+Article 6 does not apply to the decision on compensation here.
+
+<<2069.42;2084.98;en>>
+But even if it does, there's been no violation in this case because the decision to refuse compensation doesn't call into question the correctness of the finding that the applicant's conviction was unsafe and that she bears no criminal liability.
+
+[[JudgeP;Dean Spielmann]]
+
+<<2089.79;2094.67;en>>
+Thank you Mr. Strachan. I call Mr. Southey please, you have the floor.
+
+[[Applicant;AP1]]
+
+<<2097.09;2109.93;en>>
+Members of the Court, the United Kingdom Government started its submissions this morning with the statement that there is no general right to compensation under international law.
+
+<<2109.93;2123.23;en>>
+That's true, however it's irrelevant because the issue in this case is not whether the applicant has a right under the European Convention to compensation.
+
+<<2123.23;2129.85;en>>
+It doesn't because the United Kingdom has never signed up to Article 3 of Protocol 7.
+
+<<2129.85;2138.19;en>>
+The issue is whether Article 6.2 was violated when the United Kingdom took a decision under
+
+<<2138.19;2146.29;en>>
+the existing scheme for compensation that it's enacted.
+
+<<2146.29;2154.49;en>>
+In addressing that issue, there are four issues that I'd like to address briefly in these submissions.
+
+<<2154.49;2158.57;en>>
+Firstly does Article 6.2 apply to the compensation scheme in question?
+
+<<2158.57;2171.95;en>>
+I'll submit that there's insufficient basis for distinguishing this Court's clear case law holding that Article 6.2 applies to compensation schemes intended to compensate people following
+
+<<2171.95;2174.09;en>>
+acquittal.
+
+<<2174.09;2185.03;en>>
+In particular, the fact that the compensation scheme is intended to ensure compliance with Article 14.6 of the International Covenant on Civil and Political Rights is, in my submission,
+
+<<2185.03;2190.01;en>>
+insufficient reason for holding that Article 6.2 doesn't apply.
+
+<<2190.01;2202.67;en>>
+The second issue that I wish to address is the relationship between the compensation decision and the criminal proceedings and whether that's one that permits the applicant to rely on Article 6.2.
+
+<<2202.67;2208.71;en>>
+The third issue is whether the reasons why compensation was refused are inconsistent with Article 6.2.
+
+<<2208.71;2222.83;en>>
+I'll submit that the reasons were essentially that there were doubts regarding the applicant's innocence and that expression of doubts by the United Kingdom Government is sufficient to mean that Article 6.2 is violated.
+
+<<2222.83;2229.51;en>>
+And finally, there are brief submissions that I just want to make about relief.
+
+<<2229.51;2234.31;en>>
+Turning to those issues, the first issue, which is whether Article 6.2 applies to the
+
+<<2234.31;2251.91;en>>
+compensation scheme in question, the starting point in my submission when considering that issue is the fact that there are a significant number of decisions of this Court holding that Article 6.2 applies when eligibility for compensation is assessed by the State
+
+<<2251.91;2254.43;en>>
+following a person's acquittal.
+
+<<2254.43;2259.83;en>>
+Examples of the range of situations in which Article 6.2 applies include Puig Penella v.
+
+<<2259.83;2270.59;en>>
+Spain, a scheme that provided for the payment of compensation where an individual had been acquitted and it had then been demonstrated that the facts charged did not exist.
+
+<<2270.59;2277.71;en>>
+Reschetti v. Austria, compensation that was payable where a person had been placed on
+
+<<2277.71;2279.67;en>>
+remand and acquitted.
+
+<<2279.67;2285.59;en>>
+Hammond v. Norway, a scheme for compensation where a person was acquitted or the prosecution
+
+<<2285.59;2287.15;en>>
+was discontinued.
+
+<<2287.15;2292.59;en>>
+Kappo v. Belgium, a scheme that covered those exculpated directly or indirectly by judicial
+
+<<2292.59;2298.29;en>>
+decision as well as those who could establish their innocence after proceedings were discontinued.
+
+<<2298.29;2312.19;en>>
+The key feature of all these schemes, which are varied, is that following acquittal the State assessed whether it should pay compensation for its actions in bringing a prosecution.
+
+<<2312.19;2315.75;en>>
+That key factor is plainly present here.
+
+<<2315.75;2322.31;en>>
+The existence of those authorities means it is necessary to consider whether there is any reason for distinguishing them.
+
+<<2322.31;2333.59;en>>
+The United Kingdom Government has sought to distinguish the authorities just mentioned by arguing that Article 6.2 is inconsistent with Article 14.6 of the International Covenant
+
+<<2333.59;2338.95;en>>
+and its equivalent in Article 3 of Protocol 7 of the European Convention.
+
+<<2338.95;2344.47;en>>
+As a consequence, it is argued that Article 6.2 does not imply in the context of a scheme
+
+<<2344.47;2348.95;en>>
+intended to ensure compliance with Article 14.6.
+
+<<2348.95;2352.15;en>>
+That is an issue that I need to address.
+
+<<2352.15;2362.73;en>>
+When looking at that issue, it is important to note that there is no case law directly considering the application of Article 6.2 to schemes that are intended to comply with
+
+<<2362.73;2365.15;en>>
+Article 14.6.
+
+<<2365.15;2373.47;en>>
+The only decision of this Court that touches on the subject is Szechania v. Austria.
+
+<<2373.47;2385.79;en>>
+With respect to this Court, the reference at paragraph 25 of the judgment to the distinction between the domestic scheme being considered and Article 3 of Protocol 7 is unclear.
+
+<<2385.79;2391.79;en>>
+It appears to be in a context in which this Court is identifying reasons why Article 6.2
+
+<<2391.79;2395.91;en>>
+should not apply to the domestic scheme in question.
+
+<<2395.91;2401.15;en>>
+That was a scheme that obviously went beyond that required by Article 14.6 or Article 3
+
+<<2401.15;2403.27;en>>
+of Protocol 7.
+
+<<2403.27;2408.27;en>>
+An example of how the Court was looking for reasons why Article 6.2 should not apply is
+
+<<2408.27;2414.35;en>>
+the reference to the fact that Article 6.2 does not guarantee compensation.
+
+<<2414.35;2425.67;en>>
+That appears to imply that this Court regarded the fact that the provision was not intended to comply with Article 14.6 as a reason why Article 6.2 should not apply, the implication
+
+<<2425.67;2433.19;en>>
+being that it is easier to argue that Article 6.2 applies when Article 14.6 is in issue.
+
+<<2433.19;2435.55;en>>
+That's not surprising.
+
+<<2435.55;2442.75;en>>
+Article 14.6 is presumably intended to identify those people who have the greatest right to
+
+<<2442.75;2445.03;en>>
+compensation.
+
+<<2445.03;2449.95;en>>
+That's why those people are given a right in international law to claim compensation.
+
+<<2449.95;2465.39;en>>
+It would be odd if the presumption of innocence didn't apply to that scheme but applied to schemes that were more generous and were meant to compensate those who perhaps the international community would regard as less deserving.
+
+<<2465.39;2477.83;en>>
+Turning to the decisions of the United Nations Human Rights Committee, again none of the decisions cited by the United Kingdom Government addresses the issue of the presumption of innocence because it didn't arise on the facts.
+
+<<2477.83;2483.95;en>>
+The reasons for refusing compensation did not call into question innocence.
+
+<<2483.95;2487.95;en>>
+WJH in the Netherlands is an example of this.
+
+<<2487.95;2493.99;en>>
+In that case there had been no final conviction and so the compensation was not payable for that reason.
+
+<<2493.99;2500.43;en>>
+So the reason for refusing compensation did not say anything about whether the applicant was innocent.
+
+<<2500.43;2510.79;en>>
+Now it's true that the United Nations Human Rights Committee also said that the presumption of innocence does not apply to proceedings for compensation.
+
+<<2510.79;2516.41;en>>
+However that demonstrates the difficulties of applying the United Nations Human Rights Committee judgments.
+
+<<2516.41;2521.67;en>>
+The case law of this court has repeatedly accepted that Article 6.2 does apply in the
+
+<<2521.67;2525.71;en>>
+context of compensation proceedings.
+
+<<2525.71;2535.27;en>>
+So one can't adopt the United Nations Human Rights Committee's statement because it's inconsistent with case law of this court.
+
+<<2535.27;2543.93;en>>
+The other decisions of the United Nations Human Rights Committee are also ones where the reasons for refusing compensation had nothing to do with doubts about innocence.
+
+<<2543.93;2549.99;en>>
+For example in Mahunan v. Finland the reason why compensation was refused was that there
+
+<<2549.99;2556.15;en>>
+was no miscarriage of justice as the applicant had merely been pardoned for reasons of equity.
+
+<<2556.15;2561.11;en>>
+In Irving v. Australia the issue that resulted in acquittal was the fact that the trial had
+
+<<2561.11;2566.39;en>>
+been unfair and not that there was a new or newly discovered fact.
+
+<<2566.39;2579.95;en>>
+What these cases demonstrate is that the application of the presumption of innocence does not make the restrictions expressly included in Article 14.6 of the International Covenant or the
+
+<<2579.95;2585.63;en>>
+restrictions in its equivalent in Article 3 of Protocol 7 meaningless.
+
+<<2585.63;2598.35;en>>
+One can refuse compensation without infringing the presumption of innocence if one does it on the basis that some of the grounds that the matter set out in Article 14.6 are not
+
+<<2598.35;2600.57;en>>
+satisfied.
+
+<<2600.57;2607.73;en>>
+Of course the fact there is no case law does not undermine the applicant's arguments.
+
+<<2607.73;2617.39;en>>
+In the absence of case law the only material that might be said to directly address the issue of Article 6.2 and its application to Article 3 of Protocol 7 is the explanatory
+
+<<2617.39;2619.31;en>>
+note.
+
+<<2619.31;2631.83;en>>
+And paragraph 7, paragraph 25 rather of the explanatory note to Protocol 7 states that the intention is only to compensate those who are clearly innocent.
+
+<<2631.83;2641.67;en>>
+However it doesn't address the presumption of innocence and that means that it's not unclear what is meant by the reference to a person who is clearly innocent.
+
+<<2641.67;2649.87;en>>
+Simply doesn't know whether the experts believe that the presumption of innocence applied when determining whether a person is clearly innocent.
+
+<<2649.87;2660.03;en>>
+In any event the explanatory note is plainly not binding in the sense that this Court is required to follow it.
+
+<<2660.03;2669.75;en>>
+The explanatory note must be reviewed in the light of this Court considering the reasons why Article 6.2 applies to compensation schemes.
+
+<<2669.75;2675.19;en>>
+The argument that Article 6.2 applies when consideration is given to Article 14.6 of
+
+<<2675.19;2685.03;en>>
+the International Covenant is supported by the factors that this Court has identified as relevant to the application of Article 6.2.
+
+<<2685.03;2690.47;en>>
+Firstly this Court held in Hammond v. Norway that the fact that a compensation decision
+
+<<2690.47;2702.67;en>>
+is intended to decide whether the state should pay compensation for its actions in bringing a prosecution is a weighty factor that suggests that Article 6.2 applies.
+
+<<2702.67;2709.03;en>>
+Secondly Article 14.6 of the International Covenant is intended to decide whether the
+
+<<2709.03;2714.19;en>>
+state should pay compensation for its actions in bringing a prosecution.
+
+<<2714.19;2722.79;en>>
+In addition in the same judgment in Hammond this Court identified two other factors that were said to mean that Article 6.2 applied.
+
+<<2722.79;2736.83;en>>
+Those factors were that the outcome of the criminal proceedings was decisive for the compensation decision and the fact that compensation was decided on the basis of the evidence relied on in criminal proceedings.
+
+<<2736.83;2746.01;en>>
+Both of those factors are present when a decision is made as to whether to pay compensation under Article 14.6 of the International Covenant.
+
+<<2746.01;2751.39;en>>
+It's the outcome of the criminal proceedings that decides whether compensation is payable.
+
+<<2751.39;2759.05;en>>
+That's because compensation is only payable when the conviction is quashed for reasons of fresh evidence.
+
+<<2759.05;2764.75;en>>
+It's the evidence that's used in those criminal proceedings that determines whether compensation is payable.
+
+<<2764.75;2773.15;en>>
+For example if the compensation, if the conviction rather is quashed because of judicial misdirection Article 14.6 doesn't apply.
+
+<<2773.15;2780.29;en>>
+That's true whether or not subsequent evidence proves innocence.
+
+<<2780.29;2788.83;en>>
+Whether or not the applicant has correctly identified the factors that cause this Court to conclude that Article 6.2 applied in Hammann and Norway.
+
+<<2788.83;2799.23;en>>
+It's still in our submission highly relevant as already noted that this Court has repeatedly held that Article 6.2 applies to provisions compensating persons for loss caused by a
+
+<<2799.23;2801.55;en>>
+criminal prosecution.
+
+<<2801.55;2812.27;en>>
+That's particularly relevant when at least some of those schemes would appear to have been so broad that they would have covered the State's obligations under Article 14.6.
+
+<<2812.27;2819.87;en>>
+For example, Capo v. Belgium covered a person who'd been exculpated and that was apparently
+
+<<2819.87;2826.17;en>>
+potentially covering the area covered by Article 14.6 because the scheme was not restricted
+
+<<2826.17;2830.31;en>>
+to those who'd been acquitted before the conviction became final.
+
+<<2830.31;2838.45;en>>
+The difference between that scheme and this scheme was that the Belgian scheme went beyond that required by Article 14.6.
+
+<<2838.45;2842.79;en>>
+It would be surprising in the applicant's submission if Article 6.2 only applied to
+
+<<2842.79;2858.37;en>>
+those parts of the scheme that went beyond the international obligations of the Belgian and the other Member States, but not to the part of the scheme where the international community decided there was the greatest need for compensation.
+
+<<2858.37;2863.99;en>>
+That suggests that Article 6.2 applies to the compensation scheme in question, whether
+
+<<2863.99;2870.51;en>>
+or not it's intended to comply with Article 14.6 of the International Covenant.
+
+<<2870.51;2874.75;en>>
+The applicant's submissions do not mean that the criteria set out in Article 14.6
+
+<<2874.75;2877.83;en>>
+of the International Covenant become meaningless.
+
+<<2877.83;2884.47;en>>
+In particular, the submissions do not mean that a person is entitled to compensation whenever their conviction is quashed.
+
+<<2884.47;2894.39;en>>
+The decisions of the United Nations Human Rights Committee provide examples of cases where compensation was refused without infringement of the presumption of innocence.
+
+<<2894.39;2902.27;en>>
+It's easy to identify other cases where compensation can be refused without interference with the presumption of innocence.
+
+<<2902.27;2915.53;en>>
+For example, if the Court of Appeal were to reverse a conviction as a consequence of evidence that was available to the defence at trial, but the defence failed to deploy, compensation could then be refused.
+
+<<2915.53;2923.23;en>>
+It would be refused because the reasons for reversing the conviction had nothing to do with any new or newly discovered fact.
+
+<<2923.23;2932.71;en>>
+That would be compatible with the presumption of innocence because it wouldn't suggest that the person who'd been acquitted was anything other than innocent.
+
+<<2932.71;2944.31;en>>
+This demonstrates how this case is not an analogy to the situation considered by the Court in Mauillet v. France, where the principle of l'ex specialis was applied.
+
+<<2944.31;2954.63;en>>
+This is not a case where the application of a provision of the Convention, in this case Article 6.2, would render a provision of the Protocol, Article 3 of the Seventh Protocol,
+
+<<2954.63;2956.07;en>>
+meaningless.
+
+<<2956.07;2963.49;en>>
+Article 3 of Protocol 7 continues to have an important role if the applicant's submissions are correct.
+
+<<2963.49;2971.81;en>>
+It defines the circumstances where there's a right to compensation, and it imports important restrictions on those rights.
+
+<<2971.81;2980.07;en>>
+In fact, the applicant submits that their submissions are consistent with the wording of Article 14.6 of the International Covenant.
+
+<<2980.07;2986.39;en>>
+Those provisions do not require innocence to be established, which they could easily have done.
+
+<<2986.39;2999.49;en>>
+Indeed the UK government's system doesn't require the establishment of innocence, as compensation is payable when the jury would have been required to acquit the person because there was insufficient evidence of guilt.
+
+<<2999.49;3007.07;en>>
+Article 14.6 requires compensation to be paid where a miscarriage of justice has been established.
+
+<<3007.07;3022.67;en>>
+What the applicant's written submissions demonstrate is that that phrase, miscarriage of justice, has been used in a number of English-speaking jurisdictions governed by the ICCPR to define the circumstances when an appeal is allowed.
+
+<<3022.67;3030.83;en>>
+Appeals are allowed on the basis that a conviction is unsafe, and that demonstrates a miscarriage of justice.
+
+<<3030.83;3044.43;en>>
+That implies that a person who's demonstrated that their conviction is unsafe, so that their appeal should be allowed, has demonstrated conclusively that they are a victim of a miscarriage of justice.
+
+<<3044.43;3051.11;en>>
+All these matters mean that this scheme, which is intended to comply with Article 14.6, is
+
+<<3051.11;3058.85;en>>
+no different, essentially, and cannot be distinguished from the schemes considered in cases such as Puig Penella.
+
+<<3058.85;3068.27;en>>
+That means that I need to address a second issue, which is the nature of the relationship between the assessment of compensation in this case and the criminal proceedings.
+
+<<3068.27;3073.27;en>>
+The United Kingdom Government argues that the relationship is not sufficiently close.
+
+<<3073.27;3080.71;en>>
+The applicant, however, admits that there are a number of factors that suggest a close relationship so that Article 16.2 applies.
+
+<<3080.71;3083.71;en>>
+What are these factors?
+
+<<3083.71;3092.55;en>>
+Firstly we will see in a moment that the domestic scheme means that the Government is required to determine whether or not the applicant might have been found guilty.
+
+<<3092.55;3101.23;en>>
+That demonstrates a close relationship between the outcome of the criminal proceedings and the subsequent compensation decision.
+
+<<3101.23;3107.89;en>>
+Secondly the factors identified in Hammond and Norway are all present on the facts of this case.
+
+<<3107.89;3118.35;en>>
+The compensation decision is plainly intended to decide whether the United Kingdom Government should pay compensation for its actions in bringing a prosecution.
+
+<<3118.35;3124.91;en>>
+It's the outcome of the criminal proceedings that's decisive for that application for compensation.
+
+<<3124.91;3130.21;en>>
+If the conviction is quashed as a consequence of fresh evidence, compensation may be payable.
+
+<<3130.21;3135.63;en>>
+If the conviction is quashed because of judicial misdirection, compensation is not payable.
+
+<<3135.63;3141.63;en>>
+That's true even if evidence is available to demonstrate innocence.
+
+<<3141.63;3148.15;en>>
+Thirdly it's the evidence that was adduced in the criminal proceedings that determines whether compensation is payable.
+
+<<3148.15;3157.11;en>>
+In particular, evidence obtained after acquittal cannot be considered when determining whether compensation is payable.
+
+<<3157.11;3165.23;en>>
+That all demonstrates a close relationship between the criminal proceedings and the compensation decision such that Article 6.2 applies.
+
+<<3165.23;3170.71;en>>
+Now I accept the compensation decision challenged is not one of a criminal court.
+
+<<3170.71;3177.35;en>>
+It's an administrative decision that was subsequently challenged in the administrative courts of the United Kingdom.
+
+<<3177.35;3183.03;en>>
+However Article 6.2 has clearly been held to apply in that sort of context.
+
+<<3183.03;3193.03;en>>
+Capo and Belgium, Puig Penella and Spain both concerned administrative decisions following some form of court review.
+
+<<3193.03;3198.03;en>>
+I also accept of course that the administrative decision will be confidential.
+
+<<3198.03;3210.31;en>>
+However as the facts of this case demonstrate, subsequent administrative proceedings in the administrative courts, sorry subsequent judicial proceedings in the administrative courts are not confidential.
+
+<<3210.31;3221.11;en>>
+After those proceedings it will be well known that the applicant has been refused compensation because it has been concluded that the jury may have convicted her.
+
+<<3221.11;3234.91;en>>
+All of this demonstrates that there is a sufficiently close relationship between the compensation decision and the criminal proceedings for Article 6.2 to apply.
+
+<<3234.91;3239.59;en>>
+So if I'm correct that Article 6.2 applies, one then needs to consider the reasons why
+
+<<3239.59;3247.11;en>>
+compensation was refused and whether those reasons are inconsistent with Article 6.2.
+
+<<3247.11;3258.19;en>>
+In relation to that issue, the start of the memorial of the United Kingdom government is carefully worded and that wording throws light on this issue.
+
+<<3258.19;3274.19;en>>
+In particular it said at the start of the memorial that the decision on compensation does not call into question the correctness of the finding that the conviction is unsafe and the consequence fact that the individual bears no criminal liability.
+
+<<3274.19;3281.71;en>>
+What is not said at that stage is that the decision on compensation does not question innocence.
+
+<<3281.71;3292.31;en>>
+The significance of that narrow wording is clear when one looks at the United Kingdom government's reasons for refusing compensation.
+
+<<3292.31;3298.07;en>>
+Those reasons are set out in paragraph 10 of the memorial and were repeated this morning.
+
+<<3298.07;3315.95;en>>
+They are essentially that had there been a retrial, the trial judge would not necessarily have directed the acquittal at the conclusion of the prosecution case and that's because there was still powerful evidence that could have been deployed by the prosecution against the applicant.
+
+<<3315.95;3329.39;en>>
+In other words, the United Kingdom government is saying that compensation was refused because the applicant might have been convicted had evidence been deployed at a retrial.
+
+<<3329.39;3336.91;en>>
+Put more bluntly, the United Kingdom government is saying that the applicant might not be innocent.
+
+<<3336.91;3344.31;en>>
+Difficult to see how that position is consistent with the presumption of innocence.
+
+<<3344.31;3353.47;en>>
+The United Kingdom government is also effectively saying that there are two categories of acquittal in the United Kingdom.
+
+<<3353.47;3361.43;en>>
+One is where it can be established that the jury would not have convicted.
+
+<<3361.43;3369.19;en>>
+That's effectively a higher quality acquittal because it's one where compensation may be payable.
+
+<<3369.19;3379.33;en>>
+The second category of acquittal is where the position of the government is that a person might have been convicted had their evidence been presented to the jury.
+
+<<3379.33;3383.91;en>>
+That's a lower category of acquittal because compensation isn't payable.
+
+<<3383.91;3390.43;en>>
+Clearly the United Kingdom government argues that the applicant falls into the second category.
+
+<<3390.43;3401.51;en>>
+That demonstrates that the United Kingdom government is simply wrong when it says its decision does not involve it expressing any views regarding the applicant's innocence.
+
+<<3401.51;3421.67;en>>
+The approach of the United Kingdom government means it's necessary to consider whether the presumption of innocence merely prevents, as the United Kingdom government appears to argue at points, the decision of a criminal court being questioned or whether, as the applicant argues, it prevents innocence being questioned.
+
+<<3421.67;3429.23;en>>
+The submission that the presumption of innocence prevents innocence being questioned is supported by a number of matters.
+
+<<3429.23;3443.59;en>>
+Firstly it's perhaps worth noting in passing that the memorial of the United Kingdom government accepts that the presumption of innocence can be violated where there's an expression of suspicion amounting to the determination of the guilt of the individual.
+
+<<3443.59;3446.87;en>>
+That's taken from paragraph 56 of the memorial.
+
+<<3446.87;3453.03;en>>
+That suggests that the presumption of innocence does not merely prevent the decision of a court being questioned.
+
+<<3453.03;3461.07;en>>
+In fact, the language of this court is different to that used by the United Kingdom government in its memorial.
+
+<<3461.07;3469.83;en>>
+In particular, this court has repeatedly said that the voicing of suspicions regarding innocence is not acceptable.
+
+<<3469.83;3476.03;en>>
+See for example Hamann and Norway, Sekhania versus Austria, Capo and Belgium.
+
+<<3476.03;3480.87;en>>
+Now it's important to note that those decisions were all compensation decisions.
+
+<<3480.87;3488.67;en>>
+That's important as different considerations may apply where a tort claim is brought by a person who's not the state.
+
+<<3488.67;3496.91;en>>
+That difference, or the possible different considerations that arise in that context, were recognised in Why and Norway.
+
+<<3496.91;3509.91;en>>
+The language that it's unacceptable to voice suspicions regarding innocence as opposed to it merely being unacceptable to voice suspicions regarding the acquittal is consistent with the approach to the cases.
+
+<<3509.91;3513.07;en>>
+Take the facts of Hamann and Norway.
+
+<<3513.07;3522.39;en>>
+In that case, the compensation decision was taken by the same court that had decided on acquittal, so it's unlikely that it would doubt its own decision.
+
+<<3522.39;3528.51;en>>
+The reasoning of the court deciding on compensation made it clear that it wasn't questioning acquittal.
+
+<<3528.51;3534.71;en>>
+It said the issue was whether compensation was payable, applying different rules of evidence.
+
+<<3534.71;3541.59;en>>
+So it's clear that the decision of the criminal court that acquitted the applicant in Hamann was not questioned.
+
+<<3541.59;3546.47;en>>
+Despite that, this court held that Article 6.2 was violated, and the reason for that
+
+<<3546.47;3556.95;en>>
+was because the approach to compensation adopted by the Norwegian court implied that there was a suspicion that the applicant was guilty despite their acquittal.
+
+<<3556.95;3562.03;en>>
+So it's unsurprising that the voicing of suspicions is prohibited.
+
+<<3562.03;3570.67;en>>
+If the authorities of a member state question innocence, that is likely to be regarded as significant by the public.
+
+<<3570.67;3576.43;en>>
+It undermines the innocence of the individual in the minds of the public.
+
+<<3576.43;3585.59;en>>
+There is one clear limitation to the principle that I've just described, that it's impermissible to raise suspicions regarding innocence.
+
+<<3585.59;3595.63;en>>
+That limitation is the principle that it may be permissible to raise suspicions where there is no decision on the merits.
+
+<<3595.63;3609.95;en>>
+That was expressly recognised to be a limitation on the principle that one cannot express doubts about innocence in the case of Sekania at paragraph 30 of this court's judgment.
+
+<<3609.95;3621.75;en>>
+That limitation explains in the applicant's submission the approach that this court took in cases such as A.L. and Germany, Baars v. Netherlands, and Del Latte v. Netherlands,
+
+<<3621.75;3625.15;en>>
+that the government relies on in its written pleadings.
+
+<<3625.15;3629.83;en>>
+A.L. was a case where the prosecution discontinued because compensation had been paid to the
+
+<<3629.83;3633.31;en>>
+Association to Aid Criminal Offenders.
+
+<<3633.31;3641.99;en>>
+Baars was a case where the prosecution had been dismissed because of a failure to comply with the guarantee to conduct a trial within a reasonable time period.
+
+<<3641.99;3651.75;en>>
+Del Latte was a case where compensation had been refused because of an assessment by the Dutch courts that the applicant was guilty of an offence that they'd never been indicted of.
+
+<<3651.75;3666.53;en>>
+In other words, all of those cases were ones where the court had never decided that the defendant should be acquitted of the relevant charges because there was insufficient evidence against them.
+
+<<3666.53;3671.27;en>>
+When considering whether the applicant is correct that A.L., Baars, and Del Latte can
+
+<<3671.27;3690.35;en>>
+be distinguished, it should be noted that United Kingdom government does not explain the difference in language used in cases such as Sekania, where there are references made to it being unacceptable to voice suspicions regarding innocence, and the language used in cases such as A.L.
+
+<<3690.35;3699.03;en>>
+Effectively, the United Kingdom is saying that the court did not mean what it said in cases such as Sekania.
+
+<<3699.03;3705.15;en>>
+That seems unlikely in light of the repeated adoption of the principle that voicing suspicions is unacceptable.
+
+<<3705.15;3720.59;en>>
+It also seems unlikely in light of the fact that in Sekania, this court expressly distinguished cases where there'd been a determination on the merits from ones where there'd not been.
+
+<<3720.59;3724.55;en>>
+Obviously the principle that Article 6.2 does not prevent the voicing of suspicions when
+
+<<3724.55;3729.63;en>>
+there's been no decision on the merits of the allegations does not apply here.
+
+<<3729.63;3744.59;en>>
+The decision of the Court of Appeal to quash the applicant's conviction was clearly based on an assessment of the evidence and not on a procedural matter such as the failure to comply with rules requiring a matter to be tried within a reasonable period.
+
+<<3744.59;3756.91;en>>
+All of this demonstrates that the voicing of suspicions about the applicant's guilt, as occurred in this case when she was refused compensation, is inconsistent with the presumption of innocence.
+
+<<3756.91;3767.07;en>>
+So in summary, the position of the applicant is that we submit that there clearly has been a violation of Article 6.2 on the facts.
+
+<<3767.07;3773.27;en>>
+That is because this court has consistently held that Article 6.2 applies to schemes to
+
+<<3773.27;3777.23;en>>
+compensate people after they've been acquitted.
+
+<<3777.23;3780.53;en>>
+There is no basis for distinguishing those judgments.
+
+<<3780.53;3787.03;en>>
+The fact that this scheme is intended to ensure compliance with Article 14.6 of the International
+
+<<3787.03;3791.29;en>>
+Covenant is no reason to distinguish those judgments.
+
+<<3791.29;3798.75;en>>
+And if Article 6.2 applies, it's been violated because compensation has been refused because
+
+<<3798.75;3804.57;en>>
+it's suggested that the applicant might have been convicted by a jury had there been a retrial.
+
+<<3804.57;3809.43;en>>
+That amounts to voicing of suspicions regarding her innocence.
+
+<<3809.43;3815.55;en>>
+Finally turning to relief, there is one brief point that I should make in this respect.
+
+<<3815.55;3824.35;en>>
+The United Kingdom Government does not identify any principles that are applied when awards of compensation are made under the domestic scheme.
+
+<<3824.35;3831.23;en>>
+That of course makes it very difficult for both this court and the applicant to assess the loss she suffers.
+
+<<3831.23;3845.83;en>>
+Particularly true when of course the loss of liberty suffered by the applicant had dramatic consequences for her, such as the loss of her child or the separation, permanent separation from her child.
+
+<<3845.83;3856.35;en>>
+That suggests that the correct approach is to require the United Kingdom Government to assess compensation under the national compensation scheme.
+
+<<3856.35;3863.75;en>>
+That is the only way that the applicant can be put in the position that she would have been in had there been no violation of her rights.
+
+[[JudgeP;Dean Spielmann]]
+
+<<3867.12;3873.53;en>>
+Thank you Mr. Southey. I turn now to the judges if there are questions.
+
+<<3873.53;3873.53;en>>
+Judge Sajó please.
+
+[[Judge;András Sajó]]
+
+<<3881.52;3883.68;en>>
+Thank you, Mr. President.
+
+<<3883.68;3886.96;en>>
+My first question is to the government.
+
+<<3886.96;3909.08;en>>
+We've seen statistics provided in the Adams case, which indicate that in earlier days, half of the applications were considered to be discourage of justice.
+
+<<3909.08;3914.24;en>>
+More recently, the figures are different or show a different trend.
+
+<<3914.24;3925.24;en>>
+My question related to the statistics is, are there cases where compensation for miscarriage was provided?
+
+<<3925.24;3932.44;en>>
+So Section 133 was applied in the absence of a retrial.
+
+<<3932.44;3939.56;en>>
+So once again, no retrial was 133 ever applied without retrial.
+
+<<3939.56;3945.44;en>>
+Secondly, I would like to know a little bit more about the conditions of retrial.
+
+<<3945.44;3953.56;en>>
+What would trigger a retrial once the judgment is clashed?
+
+<<3956.56;3966.84;en>>
+And finally, a question to the counsel of the applicant.
+
+<<3966.84;3974.48;en>>
+Assuming for the sake of argument that Article 6.2 applies in this case,
+
+<<3974.48;3983.2;en>>
+in the specific circumstances of the case, Mrs. Allen,
+
+<<3983.2;4010.84;en>>
+what would, in your view, indicate that the judgment of Lord Justice Hughes was based on an assumption that Mrs. Allen is not innocent?
+
+<<4010.84;4023.32;en>>
+Is there anything on record that indicates that the judgment was based on such an assumption of lack of innocence?
+
+<<4023.32;4023.84;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4026.89;4028.65;en>>
+Thank you. Judge Kalaydjieva, please.
+
+[[Judge;Zdravka Kalaydjieva]]
+
+<<4032.2;4033.36;en>>
+Thank you, President.
+
+<<4033.36;4036.6;en>>
+My question goes to both parties.
+
+<<4036.6;4046.0;en>>
+I understand that the applicant was considered deprived of liberty based on Article 5.1a within the meaning
+
+<<4046.0;4054.6;en>>
+of the convention until the moment when the Court of Appeal quashed this conviction.
+
+<<4054.6;4066.24;en>>
+What is the bearing of the quashing to the legal qualification of the deprivation of liberty sustained by the applicant?
+
+<<4066.24;4076.56;en>>
+Can it be considered that the period in which she was deprived of liberty falls under Article 5.1
+
+<<4076.56;4083.28;en>>
+and which of the exclusions would be applicable to her circumstances after the quashing?
+
+<<4083.28;4083.62;en>>
+Thank you.
+
+<<4083.62;4083.62;en>>
+for watching.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4085.26;4086.26;en>>
+Thank you.
+
+<<4086.26;4090.16;en>>
+Are there any other questions?
+
+<<4090.16;4100.34;en>>
+That doesn't seem to be the case, so we interrupt the hearing for 20 minutes and we will resume the hearing in a quarter to 11.
+
+[[Announcer;UNK]]
+
+<<4140.86;4141.44;fr>>
+La Cour!
+
+[[JudgeP;Dean Spielmann]]
+
+<<4184.28;4185.36;en>>
+Please be seated.
+
+<<4185.36;4186.6;en>>
+The hearing is resumed.
+
+<<4186.6;4189.6;en>>
+I call Mr. Strachan, please.
+
+<<4189.6;4192.9;en>>
+You have the floor.
+
+[[Government;GR1]]
+
+<<4194.38;4196.06;en>>
+Thank you, Mr. President.
+
+<<4196.06;4199.82;en>>
+Could I deal first with the questions from the court?
+
+<<4199.82;4210.86;en>>
+And the first question from Judge Sargio related to the statistics that are indicated in the Addams decision in the Supreme Court.
+
+<<4210.86;4233.9;en>>
+And if I could just first of all observe that those statistics in part relate to a time when there was, in addition to the statutory scheme under Section 133, previously also there was an ex gratia scheme that operated in addition.
+
+<<4233.9;4237.98;en>>
+And that scheme was subsequently withdrawn.
+
+<<4237.98;4250.26;en>>
+But the question that was asked was whether compensation has been paid under Section 133 without there having been a retrial.
+
+<<4250.26;4256.02;en>>
+And the answer to that question is yes, indeed, there have been such cases.
+
+<<4256.02;4265.58;en>>
+And those are where the Secretary of State has concluded that there has been a relevant miscarriage of justice.
+
+<<4265.58;4288.1;en>>
+And examples, or two examples, of those cases are where, for example, there had been non-disclosure of relevant defense material which was examined at the court of appeal hearing, quashing the conviction.
+
+<<4288.1;4297.58;en>>
+And as a result of that non-disclosure, it was concluded a miscarriage of justice had occurred, even though a retrial was not ordered.
+
+<<4297.58;4322.54;en>>
+And another example is where statistical scientific evidence relied upon at the time of prosecution has become so discredited that it is no longer reliable at all, such that the evidence against the defendant is undermined to the extent that no prosecution could then take place.
+
+<<4322.54;4332.9;en>>
+So those are two examples of where compensation has been paid, notwithstanding that there's been no retrial.
+
+<<4332.9;4345.54;en>>
+The second question was related to the circumstances in which a retrial would be ordered by the court of appeal that quashes the conviction.
+
+<<4345.54;4360.9;en>>
+And the answer to that is that it's a power that the court of appeal criminal division has to decide whether to order a retrial if a retrial is requested by the crown.
+
+<<4360.9;4369.62;en>>
+And the court of appeal will examine whether it's in the interests of justice for a retrial to take place.
+
+<<4369.62;4379.42;en>>
+The crown may not apply or may not request a retrial, and the court may not order one if it's not in the interests of justice.
+
+<<4379.42;4397.5;en>>
+And two examples of those, one relevant to this case, but one more generally, the first example is where the sentence has already been served, and it's considered that ordering a retrial to examine the matter again would serve no useful purpose.
+
+<<4397.5;4410.02;en>>
+And the second example is where the crown, or indeed the court, considers that there is no longer any case to answer at a subsequent prosecution.
+
+<<4410.02;4420.82;en>>
+And in those circumstances, the court of appeal may itself decline to order a retrial even if it's requested.
+
+<<4420.82;4431.42;en>>
+The second question came from Judge Kalijeva, and that concerned Article V. And I just
+
+<<4431.42;4448.5;en>>
+would observe that the applicant's complaint is not brought in respect of Article V or an alleged violation of Article V. In terms of what has happened here,
+
+<<4448.5;4464.58;en>>
+the applicant's detention pursuant to her original conviction was a detention carried out lawfully under Article V1A.
+
+<<4464.58;4471.14;en>>
+Lawful detention of a person after conviction by a competent court.
+
+<<4471.14;4485.78;en>>
+And the subsequent quashing of the conviction on an appeal doesn't have any retrospective effect on the validity of that detention that previously took place.
+
+<<4485.78;4509.62;en>>
+And I would just add that the limited right to compensation in Article III of Protocol VII recognizes that point, that the fact of a conviction subsequently being quashed doesn't invalidate the previous lawfulness of the detention that occurred.
+
+<<4509.62;4521.7;en>>
+And finally, could I just, by way of very brief response to the applicant's case, just observe the following short points.
+
+<<4521.7;4544.78;en>>
+The applicant's submissions to the court today do indeed ignore or require the rewriting of the condition in Article III of Protocol VII, the condition that one has to demonstrate conclusively that there has been a miscarriage of justice.
+
+<<4544.78;4553.94;en>>
+And none of the cases relied upon by the applicant, in fact, relate to that criterion.
+
+<<4553.94;4565.46;en>>
+And the court, this court, has recognized the importance of that criterion and the relevant differences with the other compensation cases that have been before the court.
+
+<<4565.46;4570.82;en>>
+And that difference was recognized in Seconina and also Tendam, Spain.
+
+<<4570.82;4581.74;en>>
+And the only examples the applicant gave where it was said Article III of Protocol VII will continue to have effect, i.e.
+
+<<4581.74;4598.22;en>>
+where a conviction is reversed but not on a new or newly discovered fact, all of those examples ignore the additional criterion or condition, the miscarriage of justice condition, which I've identified.
+
+<<4598.22;4605.22;en>>
+And the applicant's submissions would indeed require that condition to be ignored.
+
+<<4605.22;4606.02;en>>
+Thank you very much.
+
+<<4606.02;4610.3;en>>
+Unless there's anything further I can assist the court with, those are my submissions.
+
+[[JudgeP;Dean Spielmann]]
+
+<<4613.47;4617.66;en>>
+Thank you very much indeed, Mr. Strachan. I call Mr. Southey, please.
+
+[[Applicant;AP1]]
+
+<<4619.59;4621.63;en>>
+Thank you, Mr. President, members of the court.
+
+<<4621.63;4634.19;en>>
+If I can also deal firstly with the submissions, sorry, with the questions, and then make some very brief observations regarding the United Kingdom government's submissions.
+
+<<4634.19;4655.03;en>>
+Dealing firstly with the question raised by Judge Sajo about the judgment of Lord Justice Hughes, and whether that was based on an assumption that the applicant was not innocent.
+
+<<4655.03;4672.83;en>>
+If I may, I would firstly suggest that the correct way of looking at the judgment of Lord Justice Hughes is to consider whether the judgment questioned the innocence of the applicant.
+
+<<4672.83;4682.67;en>>
+I say that in light of the submissions I made earlier this morning, that the issue, or the right, that arises under Article 6.2 is that the innocence
+
+<<4682.67;4687.03;en>>
+of the applicant should not be questioned by the state.
+
+<<4687.03;4713.15;en>>
+With that in mind, the judgment of Lord Justice Hughes, firstly at paragraph 17, noted that the decision of the Court of Appeal effectively involved it deciding that there was evidence that might have resulted in the applicant's acquittal, implying that it may not have.
+
+<<4713.15;4733.31;en>>
+Then perhaps more directly, at paragraph 28, Lord Justice Hughes indicated that he had no doubt that the decision of the Court of Appeal did not begin to carry the application that there was no case for the appellant to answer once fresh evidence was available.
+
+<<4733.31;4744.87;en>>
+He repeated those remarks essentially at paragraph 29, where he said that in the present case, there was no basis for saying that on the new evidence there was no case to go for the jury.
+
+<<4748.03;4754.59;en>>
+And in light of that, effectively at paragraph 30, concluded that there was no entitlement to compensation.
+
+<<4754.59;4771.95;en>>
+And those remarks in my submission need to be viewed in light of the general position as to why compensation is not payable in the United Kingdom, and the conclusion of the Court of Appeal that the applicant wasn't entitled to compensation.
+
+<<4771.95;4799.27;en>>
+And when those remarks are viewed in light of the general position that compensation is only payable if an individual can demonstrate that a jury would have been bound to acquit them following a retrial, it becomes clear in my submission that the decision of the Court of Appeal to refuse the claimant's claim for judicial review and hold that it was lawful to deny her compensation implies that it was accepted.
+
+<<4799.27;4803.63;en>>
+And the language I've just highlighted demonstrates that this is the case.
+
+<<4803.63;4810.47;en>>
+It becomes clear that it was accepted that the applicant could potentially have been convicted following a retrial.
+
+<<4810.47;4815.47;en>>
+That, in my submission, amounts to questioning her innocence.
+
+<<4815.47;4832.51;en>>
+Dealing with the second question, which is the question of Judge Kalajeva, which was the relevance of Article 5, it is correct that it's never been claimed by the applicant that Article 5 has been violated.
+
+<<4832.51;4840.15;en>>
+And you'll probably be pleased to know that this morning, I don't propose to suddenly add a further ground of claim.
+
+<<4840.15;4857.99;en>>
+The reason why it's never been suggested is that, as suggested by the United Kingdom government, the case law of this court doesn't indicate that Article 5 is violated where an individual is detained following a conviction that is then set aside on an appeal.
+
+<<4857.99;4864.35;en>>
+The only exception to that may be relatively extreme circumstances that certainly don't arise in this case.
+
+<<4864.35;4871.31;en>>
+However, I would say that it is relevant to consider Article 5 when looking at this claim.
+
+<<4871.31;4878.23;en>>
+And the reason I say that is that Article 5 demonstrates the importance attached to liberty in the Convention.
+
+<<4878.23;4883.63;en>>
+Article 5, of course, is the only article that includes an express right to compensation.
+
+<<4883.63;4889.39;en>>
+And that suggests that any exceptions to the application of Article 6.2
+
+<<4889.39;4900.39;en>>
+to schemes that are intended to compensate individuals for their loss of liberty caused by a criminal prosecution should be interpreted narrowly.
+
+<<4900.39;4910.39;en>>
+Returning then to the submissions of the United Kingdom government, there are four points that I'd just like to address briefly.
+
+<<4910.39;4923.19;en>>
+Firstly, it's been repeatedly suggested that my submissions mean that the requirement for it to be conclusively demonstrated there is a miscarriage of justice in Article 14.6
+
+<<4923.19;4924.79;en>>
+becomes meaningless.
+
+<<4924.79;4928.31;en>>
+However, in my submission, one needs to look at Article 14.6
+
+<<4928.31;4929.87;en>>
+as a whole.
+
+<<4929.87;4938.71;en>>
+The requirement for it to be conclusively demonstrated that there is a miscarriage of justice is linked in Article 14.6 as a whole
+
+<<4938.71;4942.15;en>>
+to the requirement for fresh evidence.
+
+<<4942.15;4953.91;en>>
+When the article is taken as a whole, in my submission, what it demonstrates is it must be the fresh evidence, and only the fresh evidence, that results in the acquittal.
+
+<<4953.91;4965.11;en>>
+For example, if judicial error is an aspect in any way of the reasons why an individual is acquitted, there is no compensation.
+
+<<4965.11;4971.91;en>>
+What the United Kingdom government fails to engage with in its submissions is the meaning of the phrase miscarriage of justice.
+
+<<4971.91;4975.59;en>>
+That plainly is different to innocence.
+
+<<4975.59;4977.15;en>>
+It's wider.
+
+<<4977.15;4988.55;en>>
+And as I've already indicated, in English-speaking jurisdictions at least, it tends to be used to define the circumstances in which a conviction is quashed.
+
+<<4988.55;5000.83;en>>
+If that is the language, if that's what miscarriage of justice means, it then becomes difficult to see how the United Kingdom's position is consistent with Article 14.6.
+
+<<5000.83;5009.19;en>>
+Why should the payment of compensation under Article 6 be linked to the outcome of a retrial?
+
+<<5009.19;5018.67;en>>
+In the applicant's submission, the United Kingdom government position doesn't fit coherently with Article 14.6.
+
+<<5018.67;5025.99;en>>
+It's a compromise, and it's a compromise that is not consistent with Article 6.2.
+
+<<5025.99;5031.19;en>>
+In contrast, the applicant's submissions do fit with Article 14.6.
+
+<<5031.19;5036.95;en>>
+Where somebody has been acquitted, that implies there's been a miscarriage of justice.
+
+<<5036.95;5042.03;en>>
+It's the miscarriage of justice that allowed their conviction to be acquitted.
+
+<<5042.03;5060.75;en>>
+If it's fresh evidence, it's the fresh evidence that conclusively, if the acquittal is on the basis of fresh evidence, that fresh evidence has conclusively demonstrated the miscarriage of justice, because that was the basis upon which the miscarriage of justice was established.
+
+<<5060.75;5068.87;en>>
+The second point Maloney makes, the UK government make, is that there is an inconsistency if the applicant is correct.
+
+<<5068.87;5078.23;en>>
+There's compensation payable when there is fresh evidence, but no compensation when, for example, there's judicial error.
+
+<<5078.23;5083.63;en>>
+But that inconsistency doesn't undermine the applicant's arguments.
+
+<<5083.63;5098.75;en>>
+That inconsistency isn't inconsistent with the presumption of innocence, because the reasons for refusing compensation don't suggest that the applicant for compensation is in any way guilty.
+
+<<5098.75;5108.47;en>>
+And the inconsistency arises, if it is an inconsistency, from the fact that the international community in provisions such as Article 14.6
+
+<<5108.47;5116.27;en>>
+has decided to prioritize the payment of compensation when fresh evidence comes to light.
+
+<<5116.27;5130.51;en>>
+The inconsistency exists on the UK government's arguments, because even if somebody is wholly innocent, they do not get compensation if the reason why their conviction was quashed was judicial error.
+
+<<5130.51;5150.63;en>>
+The third point that I ought to just address briefly is that the United Kingdom government refers at times, and has repeatedly referred to, case law regarding civil litigation and the right of individuals to bring claims for damages against people who've been acquitted.
+
+<<5150.63;5154.27;en>>
+But in those circumstances, different considerations apply.
+
+<<5154.27;5163.11;en>>
+Of course there is, in those circumstances, the need to protect the right of the individual to bring a claim under tort law of a state.
+
+<<5163.11;5169.99;en>>
+Here, the state is deciding on its own liability for its decision to bring a prosecution.
+
+<<5169.99;5177.27;en>>
+That's why the compensation decisions the applicant relies upon are relevant.
+
+<<5177.27;5182.07;en>>
+Finally, the United Kingdom government made brief reference to BOK and the Netherlands.
+
+<<5182.07;5195.35;en>>
+In my submission, BOK and the Netherlands is irrelevant and should be ignored, because it's concerned a second set of proceedings after there'd been an initial set of proceedings intended to comply with Article 6.2.
+
+<<5195.35;5199.91;en>>
+That's why this Court was not able to distinguish Puig Penella.
+
+<<5199.91;5209.63;en>>
+And in my submission, Puig Penella is far closer to the situation in this case and should be followed.
+
+<<5209.63;5217.35;en>>
+There's one final general point that I'd make and arises partly from what has happened this morning.
+
+<<5217.35;5227.23;en>>
+One ought to, in my submission, when looking at this case, remember this is an applicant who faced one of the most serious allegations a mother can face, that she'd killed her child.
+
+<<5227.23;5232.87;en>>
+It resulted in her being separated from her child and imprisoned.
+
+<<5232.87;5236.51;en>>
+That was set aside.
+
+<<5236.51;5249.27;en>>
+However, since then, because of the compensation scheme, the United Kingdom government has said repeatedly in proceedings and proceedings this morning that she may still have been convicted.
+
+<<5249.27;5252.71;en>>
+There was sufficient evidence potentially to convict her.
+
+<<5252.71;5268.91;en>>
+That is likely in the minds of anybody who's followed these proceedings, and there has been interest in these proceedings in the United Kingdom media, to result in her being identified as somebody who might be guilty of one of the most serious offences a mother can commit.
+
+<<5268.91;5271.67;en>>
+In my submission, that is inconsistent with the presumption of innocence.
+
+<<5271.67;5271.67;en>>
+Thank you.
+
+[[JudgeP;Dean Spielmann]]
+
+<<5276.63;5278.59;en>>
+Thank you very much, Mr. Southey.
+
+<<5278.59;5282.11;en>>
+We have now come to the end of the hearing.
+
+<<5282.11;5288.71;en>>
+I thank the parties for their interventions and answers to the court's questions.
+
+<<5288.71;5293.39;en>>
+The court will now deliberate on the admissibility and merits.
+
+<<5293.39;5298.07;en>>
+The decision or the judgment will be delivered later.
+
+<<5298.07;5301.91;en>>
+The parties will be informed of the date of delivery.
+
+<<5301.91;5303.95;en>>
+I declare the hearing closed.
+
