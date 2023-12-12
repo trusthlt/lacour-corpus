@@ -83,7 +83,7 @@ Both file formats contain the following information:
 The second subset ``documents`` contains information on all relevant documents found in the [HUDOC database](https://hudoc.echr.coe.int) which have a link to a webcast hearing. This link is established by the application number associated with the hearing and a case. To link transcripts with these documents, the ``webcast_id`` can be used.
 Each instance in documents represents information on a document in hudoc associated with a hearing and the metadata associated with a hearing. Note: `hearing_type` states the type of the hearing, `type` states the type of the document. If the hearing is a "Grand Chamber hearing", the "CHAMBER" document refers to a different hearing.
 
-```json
+```yaml
  '4': {
     'webcast_id': '2438419_29092021',
     'hearing_date': '2021-09-29 00:00:00',
@@ -109,7 +109,7 @@ Each instance in documents represents information on a document in hudoc associa
     'separate_opinion': 'TRUE',
     'judges': "Ganna Yudkivska;Jon Fridrik Kjølbro;Krzysztof Wojtyczek;Mārtiņš Mits;Robert Spano;Síofra O'Leary;Stéphanie Mourou-Vikström;Yonko Grozev;Georges Ravarani;Ksenija Turković;Lorraine Schembri Orland",
     'ecli': 'ECLI:CE:ECHR:2022:0914JUD002438419'
-    },
+    }
 
 ```
 The fields in documents are:
