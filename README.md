@@ -24,8 +24,8 @@ Please use the following citation
 |:---:|:---|:---|
 |:book:|Reading some ECHR hearing transcripts? |[LaCour! Preview](https://www.trusthlt.org/lacour/transcripts.html)|
 |:hugs:|Dataset convenient and easy usage |[Huggingface Dataset](https://huggingface.co/datasets/TrustHLT/LaCour)|
-||Download the individual transcript files |[.txt](transcripts-txt) [.xml](transcripts-xml)|
-||Download the documents meta data |[documents](lacour_linked_documents.json)|
+|:arrow_down_small:|Download the individual transcript files |[.txt](transcripts-txt) [.xml](transcripts-xml)|
+|:arrow_down_small:|Download the documents meta data |[documents](lacour_linked_documents.json)|
 |:woman_technologist:|Creation code for reproduction |[trusthlt/lacour-generation](https://github.com/trusthlt/lacour-generation)|
 |:interrobang:|Questions and opinions dataset |[trusthlt/lacour-qando](https://github.com/trusthlt/lacour-quando)|
 
@@ -48,23 +48,23 @@ La Cour!
 
 Files in .xml format have the following structure:
 
-```
-<transcript_20117_21112018>
-  <SpeakerSegment>
-    <Segment>
-      <meta_data>
-        <Role>Announcer</Role>
-        <Name>UNK</Name>
-        <TimestampBegin>22.32</TimestampBegin>
-        <TimestampEnd>23.16</TimestampEnd>
-        <Language>fr</Language>
-      </meta_data>
-      <text>La Cour!</text>
-    </Segment>
+```xml
+<?xml version='1.0' encoding='utf-8'?>
+<Transcript>
+  <WebcastID>2438419_29092021</WebcastID>
+	<SpeakerSegment>
+		<Role>Announcer</Role>
+		<Name>UNK</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>16.5</TimestampBegin>
+			<TimestampEnd>17.1</TimestampEnd>
+			<Text>La Cour!</Text>
+		</Snippet>
     ...
-  </SpeakerSegment>
+	</SpeakerSegment>
   ...
-  </transcript_20117_21112018>
+</Transcript>
 ```
 We provide this nested format to make potential annotation tasks easier.
 
@@ -83,7 +83,7 @@ Both file formats contain the following information:
 The second subset ``documents`` contains information on all relevant documents found in the [HUDOC database](https://hudoc.echr.coe.int) which have a link to a webcast hearing. This link is established by the application number associated with the hearing and a case. To link transcripts with these documents, the ``webcast_id`` can be used.
 Each instance in documents represents information on a document in hudoc associated with a hearing and the metadata associated with a hearing. Note: `hearing_type` states the type of the hearing, `type` states the type of the document. If the hearing is a "Grand Chamber hearing", the "CHAMBER" document refers to a different hearing.
 
-```
+```json
  '4': {
     'webcast_id': '2438419_29092021',
     'hearing_date': '2021-09-29 00:00:00',
@@ -142,7 +142,54 @@ The fields in documents are:
 
 ## Usage
 
-tbd
+### Loading transcripts
+
+#### XML
+The xml format is nested and can be loaded e.g. with the function provided in [load_lacour.py](load_lacour.py).
+
+```python
+from load_lacour import load_transcript
+from glob import glob
+import pandas as pd
+
+transcripts = []
+for tf in glob('transcripts-xml/*.xml'):
+    t, w = load_transcript(tf, format='xml')
+    transcripts += t
+
+df = pd.DataFrame(transcripts)
+```
+
+#### TXT
+To load the txt files, you can use [load_lacour.py](load_lacour.py):
+
+```python
+from load_lacour import load_transcript
+from glob import glob
+import pandas as pd
+
+transcripts = []
+for tf in glob('transcripts-txt/*.txt'):
+    t, w = load_transcript(tf)
+    transcripts += t
+
+df = pd.DataFrame(transcripts)
+```
+
+
+### Loading document meta data
+
+Load the .json file, i.e.
+```python
+import pandas as pd
+df = pd.read_json('lacour_linked_documents.json', orient='index', dtype={'webcast_id':str})
+```
+or
+```python
+import json
+with open('lacour_linked_documents.json') as f:
+    d = json.load(f)
+```
 
 
 ## Questions and Opinions

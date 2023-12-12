@@ -1,0 +1,4074 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Transcript>
+	<WebcastID>5135707_14062017</WebcastID>
+	<SpeakerSegment>
+		<Role>Announcer</Role>
+		<Name>UNK</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>10.86</TimestampBegin>
+			<TimestampEnd>11.66</TimestampEnd>
+			<Text>La Cour!</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>59.38</TimestampBegin>
+			<TimestampEnd>61.68</TimestampEnd>
+			<Text>Je vous en prie, prenez place.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>73.54</TimestampBegin>
+			<TimestampEnd>80.24</TimestampEnd>
+			<Text>Je déclare ouverte l'audience publique sous le fond de l'affaire Naït-Liman contre la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>80.24</TimestampBegin>
+			<TimestampEnd>91.64</TimestampEnd>
+			<Text>L'affaire a été introduite devant la Cour le 20 novembre 2007 par un ressortissant tunisien, naturalisé suisse, M. Abdennacer Naït-Liman,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>91.64</TimestampBegin>
+			<TimestampEnd>95.14</TimestampEnd>
+			<Text>en vertu de l'article 34 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>95.14</TimestampBegin>
+			<TimestampEnd>103.54</TimestampEnd>
+			<Text>Elle a été attribuée à la deuxième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>103.54</TimestampBegin>
+			<TimestampEnd>109.14</TimestampEnd>
+			<Text>La requête a été communiquée au gouvernement le 25 novembre 2010.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>109.14</TimestampBegin>
+			<TimestampEnd>120.04</TimestampEnd>
+			<Text>Le 21 juin 2016, une chambre constituée au centre de la section a déclaré la requête recevable et a adopté un arrêt dans cette affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>120.04</TimestampBegin>
+			<TimestampEnd>130.04</TimestampEnd>
+			<Text>Le 19 septembre 2016, le requérant a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>130.04</TimestampBegin>
+			<TimestampEnd>138.04</TimestampEnd>
+			<Text>Cette demande a été acceptée par le Collège de la Grande Chambre le 28 novembre 2016.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>138.04</TimestampBegin>
+			<TimestampEnd>145.74</TimestampEnd>
+			<Text>Le gouvernement du Royaume-Uni a été autorisé à intervenir dans la procédure écrite comme tierce partie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>145.74</TimestampBegin>
+			<TimestampEnd>149.04</TimestampEnd>
+			<Text>Il en va de même des organisations suivantes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>149.04</TimestampBegin>
+			<TimestampEnd>155.74</TimestampEnd>
+			<Text>Redress, agissant conjointement avec l'Organisation mondiale contre la torture OMCT.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>155.74</TimestampBegin>
+			<TimestampEnd>164.14</TimestampEnd>
+			<Text>Amnesty International, agissant conjointement avec la Commission internationale de juristes et Citizens Watch.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>164.14</TimestampBegin>
+			<TimestampEnd>170.74</TimestampEnd>
+			<Text>Le gouvernement, représenté par son agent, M. Frank Schürmann, chef de l'Unité de protection internationale</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>170.74</TimestampBegin>
+			<TimestampEnd>178.34</TimestampEnd>
+			<Text>des droits de l'homme à l'Office fédéral de la justice, assisté par M. Niklaus Meier, conseil,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>178.34</TimestampBegin>
+			<TimestampEnd>183.54</TimestampEnd>
+			<Text>et par Mme Cornelia Ehrich et Anna Begemann, conseillère.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>183.54</TimestampBegin>
+			<TimestampEnd>187.74</TimestampEnd>
+			<Text>Le requérant est représenté par M. Philip Grant</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>187.74</TimestampBegin>
+			<TimestampEnd>190.84</TimestampEnd>
+			<Text>et M. François Membrez, avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>190.84</TimestampBegin>
+			<TimestampEnd>194.24</TimestampEnd>
+			<Text>Je salue les comparants au nom de la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>194.24</TimestampBegin>
+			<TimestampEnd>204.84</TimestampEnd>
+			<Text>Je salue également les magistrats allemands, espagnols, macédoniens, russes, suisses, turcs, et les magistrats de la Cour de l'Union économique euro-asiatique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>204.84</TimestampBegin>
+			<TimestampEnd>211.94</TimestampEnd>
+			<Text>En visite à la Cour, ainsi que la délégation du Réseau européen de formation judiciaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>211.94</TimestampBegin>
+			<TimestampEnd>219.64</TimestampEnd>
+			<Text>Ayant consulté l'agent du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>219.64</TimestampBegin>
+			<TimestampEnd>223.24</TimestampEnd>
+			<Text>Nous entendrons successivement M. Grant et M. Membrez</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>223.24</TimestampBegin>
+			<TimestampEnd>227.84</TimestampEnd>
+			<Text>pour le requérant, puis M. Schürmann pour le gouvernement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>227.84</TimestampBegin>
+			<TimestampEnd>242.34</TimestampEnd>
+			<Text>Je dois expliquer qu'en sus de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, une interprétation en macédonien, russe et turc, a été autorisée au profit d'un groupe de magistrats que je viens de saluer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>242.34</TimestampBegin>
+			<TimestampEnd>251.14</TimestampEnd>
+			<Text>Une interprétation en arménien a également été autorisée au profit d'un groupe de visiteurs sous la direction de l'Ombudsman des droits de l'homme de l'Arménie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>251.14</TimestampBegin>
+			<TimestampEnd>258.04</TimestampEnd>
+			<Text>Enfin, une interprétation en bulgare a été autorisée au profit d'une délégation d'avocats bulgare.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>258.04</TimestampBegin>
+			<TimestampEnd>265.64</TimestampEnd>
+			<Text>Ces interprétations ne sont pas aux assurés par la Cour et ne feront donc pas partie de l'enregistrement officiel de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>265.64</TimestampBegin>
+			<TimestampEnd>268.44</TimestampEnd>
+			<Text>La parole est à M. Grant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>268.44</TimestampBegin>
+			<TimestampEnd>268.44</TimestampEnd>
+			<Text>Je vous en prie, maître.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP1</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>271.72</TimestampBegin>
+			<TimestampEnd>286.88</TimestampEnd>
+			<Text>Monsieur le Président, Mesdames et Messieurs les Juges, il y a presque 25 ans, jour pour jour, le requérant quittait les locaux du ministère de l'Intérieur à Tunis suite à six semaines d'interrogatoire et de torture sauvage.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>287.8</TimestampBegin>
+			<TimestampEnd>314.16</TimestampEnd>
+			<Text>Nous nous retrouvons aujourd'hui à Strasbourg pour l'épilogue de cette affaire, votre cours devant déterminer pour la première fois si l'article 6, paragraphe 1 de la Convention est violé lorsqu'une victime qui ne peut agir ailleurs est empêchée de saisir la justice du pays qui lui a accordé l'asile afin d'y faire valoir les prétentions civiles découlant des actes de torture.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>314.16</TimestampBegin>
+			<TimestampEnd>318.12</TimestampEnd>
+			<Text>Permettez-moi d'écarter deux obstacles initiaux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>318.12</TimestampBegin>
+			<TimestampEnd>321.64</TimestampEnd>
+			<Text>Le premier concerne la question de l'immunité de juridiction.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>321.64</TimestampBegin>
+			<TimestampEnd>332.84</TimestampEnd>
+			<Text>Tout le monde ici, l'État défendeur, la Chambre, le requérant, le Royaume-Uni également, s'accorde pour considérer que cette question n'a pas à être traitée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>332.84</TimestampBegin>
+			<TimestampEnd>351.68</TimestampEnd>
+			<Text>En rappelant que le Tribunal fédéral a laissé ouverte la question des immunités, le gouvernement, au paragraphe 2 de ses écritures, conclut correctement que ce point devra être traité ultérieurement au plan national, dans l'hypothèse évidemment où votre Chambre devait rendre un avis de violation de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>351.68</TimestampBegin>
+			<TimestampEnd>355.96</TimestampEnd>
+			<Text>Le second point, lui, concerne le cœur de cette affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>355.96</TimestampBegin>
+			<TimestampEnd>375.28</TimestampEnd>
+			<Text>Le requérant doit désagréablement relever que le gouvernement suisse, d'abord suivi en cela par la Chambre et rejoint désormais par le Royaume-Uni, tente d'enfermer le débat juridique autour de la notion de compétence universelle civile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>375.28</TimestampBegin>
+			<TimestampEnd>379.88</TimestampEnd>
+			<Text>Il est important d'emblée de clarifier cette notion.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>379.88</TimestampBegin>
+			<TimestampEnd>385.88</TimestampEnd>
+			<Text>La compétence universelle est une notion bien connue en droit pénal qui découle de différentes conventions internationales.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>385.88</TimestampBegin>
+			<TimestampEnd>392.64</TimestampEnd>
+			<Text>La Convention de Genève de 1949, la Convention contre la torture des Nations Unies de 1984.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>392.64</TimestampBegin>
+			<TimestampEnd>397.12</TimestampEnd>
+			<Text>En revanche, il ne s'agit pas d'un concept de droit civil.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>397.12</TimestampBegin>
+			<TimestampEnd>411.24</TimestampEnd>
+			<Text>En utilisant cette formule, on fait croire que le requérant pourrait et voudrait saisir les tribunaux de n'importe quel État, indépendamment de quelconque lien tissé avec cet État.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>411.24</TimestampBegin>
+			<TimestampEnd>416.2</TimestampEnd>
+			<Text>Le gouvernement parle ainsi dans ses écritures de l'effort universel.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>416.2</TimestampBegin>
+			<TimestampEnd>421.84</TimestampEnd>
+			<Text>Il écrit que nous n'avons pas pour tâche d'ouvrir à toute l'humanité des forts en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>421.84</TimestampBegin>
+			<TimestampEnd>423.24</TimestampEnd>
+			<Text>C'est en page 9.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>423.24</TimestampBegin>
+			<TimestampEnd>433.6</TimestampEnd>
+			<Text>Avant d'ajouter que prévoir une juridiction civile quasiment illimitée surmènerait les instances juridiques de quelques nations que ce soit.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>433.6</TimestampBegin>
+			<TimestampEnd>438.08</TimestampEnd>
+			<Text>Le Royaume-Uni dédie quatre pages d'observation à cette thématique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>438.08</TimestampBegin>
+			<TimestampEnd>452.08</TimestampEnd>
+			<Text>Et l'arrêt du 21 juin 2016 consacre de long développement à cette thématique, mais rend la chose confuse, ne prenant pas le temps de définir ce que ce concept recouvre exactement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>452.08</TimestampBegin>
+			<TimestampEnd>457.36</TimestampEnd>
+			<Text>Je tiens à vous rassurer et j'espère que l'État parti le comprendra enfin aujourd'hui.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>457.36</TimestampBegin>
+			<TimestampEnd>471.36</TimestampEnd>
+			<Text>Le requérant ne demande pas la reconnaissance d'un fort universel illimité qui lui permettrait de quémander justice devant n'importe lequel des 47 États du Conseil de l'Europe.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>471.36</TimestampBegin>
+			<TimestampEnd>486.6</TimestampEnd>
+			<Text>En l'absence de toute possibilité de saisir les tribunaux tunisiens, il souhaite simplement pouvoir bénéficier d'un fort approprié et un seul devant lequel plaider son affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>486.6</TimestampBegin>
+			<TimestampEnd>499.24</TimestampEnd>
+			<Text>Et ce fort approprié, il se trouve nécessairement en Suisse, le seul État avec lequel le requérant entretient des liens objectifs et effectifs sur lesquels maître Monbré reviendra.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>499.24</TimestampBegin>
+			<TimestampEnd>511.64</TimestampEnd>
+			<Text>Faire croire qu'au final votre cour devra consacrer un fort universel valable devant n'importe quelle juridiction européenne est tout simplement faux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>511.64</TimestampBegin>
+			<TimestampEnd>517.52</TimestampEnd>
+			<Text>La présente affaire, en définitive, est probablement plus facile qu'il n'y paraît.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>517.52</TimestampBegin>
+			<TimestampEnd>525.84</TimestampEnd>
+			<Text>Personne ici ne remet en cause l'applicabilité de l'article 6 paragraphe 1 aux prétentions civiles de M. Naït Limane,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>525.84</TimestampBegin>
+			<TimestampEnd>532.0</TimestampEnd>
+			<Text>ni l'arrêt de la Chambre, paragraphe 85, ni désormais le gouvernement dans ses écritures.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>532.0</TimestampBegin>
+			<TimestampEnd>543.44</TimestampEnd>
+			<Text>La présente affaire implique donc de s'interroger de manière assez classique sur la capacité de l'État à restreindre le droit d'accès du requérant à un tribunal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>543.44</TimestampBegin>
+			<TimestampEnd>550.08</TimestampEnd>
+			<Text>À cet égard, l'arrêt du 21 juin 2016 est assez décevant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>550.08</TimestampBegin>
+			<TimestampEnd>570.2</TimestampEnd>
+			<Text>Tant en ce qui concerne les buts justifiants de restreindre ce droit d'accès, que le rapport raisonnable de proportionnalité entre les moyens utilisés et le but visé, la Chambre ne parvient pas à se détacher de la question de la compétence universelle civile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>570.2</TimestampBegin>
+			<TimestampEnd>589.56</TimestampEnd>
+			<Text>Il faut relire impérativement le paragraphe 107 et le paragraphe 108 de l'arrêt pour bien se rendre compte que la Chambre nie la violation de l'article 6 parce qu'elle rejette cette notion de compétence universelle civile pourtant étrangère à notre affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>589.56</TimestampBegin>
+			<TimestampEnd>597.04</TimestampEnd>
+			<Text>Tout aussi grave, la Chambre omet à ce stade de prendre en considération deux éléments fondamentaux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>597.04</TimestampBegin>
+			<TimestampEnd>600.84</TimestampEnd>
+			<Text>Le premier élément, c'est la torture.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>600.84</TimestampBegin>
+			<TimestampEnd>607.76</TimestampEnd>
+			<Text>La présente affaire ne concerne pas n'importe quelle cause civile, droit de la famille, succession, droit des contrats.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>607.76</TimestampBegin>
+			<TimestampEnd>611.6</TimestampEnd>
+			<Text>Elle ne découle pas non plus d'un crime ordinaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>611.6</TimestampBegin>
+			<TimestampEnd>628.76</TimestampEnd>
+			<Text>Elle se base sur la commission d'un crime de droit international, la torture, prohibée par l'article 3 de la Convention, qui relève du jus cogens et que la communauté internationale s'est engagée fermement à bannir et à réprimer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>628.76</TimestampBegin>
+			<TimestampEnd>631.56</TimestampEnd>
+			<Text>La torture, ce n'est pas un fait ordinaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>631.56</TimestampBegin>
+			<TimestampEnd>645.84</TimestampEnd>
+			<Text>Sa commission entraîne la mise en œuvre de tout un corpus juridique particulier au plan européen et au plan universel, notamment les obligations découlant de la Convention des Nations Unies contre la torture de 1984.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>645.84</TimestampBegin>
+			<TimestampEnd>668.92</TimestampEnd>
+			<Text>Amnesty International, la Commission internationale de juristes, rappelle très justement qu'il découle de l'article 14 de cette convention, qu'une restriction au droit d'accès à un tribunal pour les victimes de torture ne peut intervenir qu'en application stricte du principe de nécessité et de proportionnalité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>668.92</TimestampBegin>
+			<TimestampEnd>685.24</TimestampEnd>
+			<Text>Et donc que les États ont l'obligation de ne pas interpréter leurs droits internes de manière à réduire à néant le droit des victimes de torture à obtenir réparation, comme l'a précisément fait le tribunal fédéral.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>685.24</TimestampBegin>
+			<TimestampEnd>696.12</TimestampEnd>
+			<Text>Ces organisations rappellent également que la mise en œuvre d'une voie de droit civil, ce n'est pas juste autoriser la victime à aller demander de l'argent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>696.12</TimestampBegin>
+			<TimestampEnd>720.12</TimestampEnd>
+			<Text>Elle peut permettre la mise en œuvre de multiples autres aspects du droit à la réparation, le droit à la vérité, à ce que la responsabilité du crime soit imputée à son auteur, notamment en conformité à la pratique et à la jurisprudence de nombreuses instances et cours internationales, notamment de la vôtre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>720.12</TimestampBegin>
+			<TimestampEnd>730.12</TimestampEnd>
+			<Text>En matière de torture, la réparation civile, ce n'est pas moins sérieux ou moins important que le droit à la justice pénale.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>730.12</TimestampBegin>
+			<TimestampEnd>739.0</TimestampEnd>
+			<Text>Le second élément dont la Chambre omet de saisir la portée, c'est le risque généralisé de déni de justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>739.0</TimestampBegin>
+			<TimestampEnd>774.12</TimestampEnd>
+			<Text>En effet, à la seule et à la première occasion qui lui était donnée d'appliquer l'article 3 de la loi suisse sur le droit international privé à un cas de torture, et donc de donner un effet réel et vivant à l'article 6 de la Convention européenne ou à l'article 14 de la Convention contre la torture, le tribunal fédéral a malheureusement recouru à l'interprétation la plus rigide qui soit, celle qui empêche de prendre en compte le moindre lien entre le requérant et son pays d'accueil.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>774.12</TimestampBegin>
+			<TimestampEnd>779.4</TimestampEnd>
+			<Text>À lire les écritures du gouvernement, cela est au demeurant largement assumé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>779.4</TimestampBegin>
+			<TimestampEnd>784.2</TimestampEnd>
+			<Text>Je cite « même si le prix à payer est de ne pas pouvoir éviter des dénis de justice ».</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>784.2</TimestampBegin>
+			<TimestampEnd>786.32</TimestampEnd>
+			<Text>C'est en page 10.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>786.32</TimestampBegin>
+			<TimestampEnd>805.68</TimestampEnd>
+			<Text>Or, depuis cet arrêt, cela vaut pour tous les crimes internationaux, torture, disparition forcée, génocide et autres crimes de guerre, impossibilité désormais pure et simple, sans exception, de saisir les tribunaux pour obtenir réparation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>805.68</TimestampBegin>
+			<TimestampEnd>824.88</TimestampEnd>
+			<Text>Dans l'arrêt « Harlewin contre Suède » du mois de mars 2016, la Cour devait juger, si l'on pouvait attendre d'un Suédois vivant en Suède, qu'il se rende en Grande-Bretagne pour y introduire une action civile suite à une émission de télévision diffusée depuis la Grande-Bretagne vers la Suède.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>824.88</TimestampBegin>
+			<TimestampEnd>833.36</TimestampEnd>
+			<Text>Or, ces deux éléments fondamentaux, que sont la torture et le risque de déni de justice, faisaient défaut dans l'affaire Harlewin.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>833.36</TimestampBegin>
+			<TimestampEnd>842.96</TimestampEnd>
+			<Text>On y parlait d'une part seulement de diffamation, et d'autre part, une procédure aurait pu être diligentée en Grande-Bretagne.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>842.96</TimestampBegin>
+			<TimestampEnd>844.88</TimestampEnd>
+			<Text>Qu'a jugé la Cour?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>844.88</TimestampBegin>
+			<TimestampEnd>868.16</TimestampEnd>
+			<Text>À l'unanimité, elle a conclu que l'interprétation du droit suédois portait atteinte à la substance même du droit garanti par l'article 6 de la Convention, en ne prévoyant pas un fort approprié en Suède, paragraphe 73 de l'arrêt Harlewin.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>868.16</TimestampBegin>
+			<TimestampEnd>882.28</TimestampEnd>
+			<Text>Or, l'interprétation du droit suisse dans l'affaire Naït Lehmann porte une atteinte autrement plus grave au droit du requérant, puisqu'il n'existe pour lui aucun fort de repli.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>882.28</TimestampBegin>
+			<TimestampEnd>889.32</TimestampEnd>
+			<Text>Alors, que valent les buts poursuivis par cette restriction massive telle que consacrée par l'arrêt du 21 juin 2016?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>889.32</TimestampBegin>
+			<TimestampEnd>905.0</TimestampEnd>
+			<Text>Les paragraphes 107 les énoncent, par exemple, le risque d'ineffectivité des décisions judiciaires internes ou alors des difficultés pratiques considérables pour les tribunaux, notamment à cause de l'administration des preuves.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>905.0</TimestampBegin>
+			<TimestampEnd>915.56</TimestampEnd>
+			<Text>Le requérant s'est prononcé en détail sur chacun de ces buts prétendus, et je vous renvoie respectueusement aux paragraphes 107 à 130 de ces écritures.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>915.56</TimestampBegin>
+			<TimestampEnd>922.6</TimestampEnd>
+			<Text>En revanche, j'aimerais revenir sur deux ou trois éléments soulevés par le gouvernement dans ces écritures, avec trois remarques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>922.6</TimestampBegin>
+			<TimestampEnd>941.64</TimestampEnd>
+			<Text>Sur la prétendue difficulté à faire exécuter des jugements rendus sur la base du fort de nécessité, c'est le gouvernement suisse qui nous offre le meilleur argument contre cette justification, en nous rappelant que des régimes dictatoriaux sont parfois appelés à se transformer en régimes plus démocratiques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>941.64</TimestampBegin>
+			<TimestampEnd>949.96</TimestampEnd>
+			<Text>Si la Suisse avait rendu, il y a dix ans, un arrêt attribuant des réparations à M. Naïk Limane,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>949.96</TimestampBegin>
+			<TimestampEnd>956.68</TimestampEnd>
+			<Text>celui-ci aurait pu, dès 2011, se rendre en Tunisie, faire exécuter ce jugement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>956.68</TimestampBegin>
+			<TimestampEnd>970.76</TimestampEnd>
+			<Text>Deuxième élément, les difficultés liées à l'administration des preuves, à savoir, comme le gouvernement l'écrit, qu'il serait très difficile d'apporter dans le cadre du procès civil la preuve des actes de torture commises à l'étranger.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>970.76</TimestampBegin>
+			<TimestampEnd>977.96</TimestampEnd>
+			<Text>Mais voyons, en matière civile, la charge de la preuve, elle n'incombe pas au juge, elle incombe au demandeur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>977.96</TimestampBegin>
+			<TimestampEnd>983.76</TimestampEnd>
+			<Text>Si celui-ci n'est pas à même de prouver les faits qu'il allègue, il perd son procès.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>983.76</TimestampBegin>
+			<TimestampEnd>988.24</TimestampEnd>
+			<Text>Ce n'est pas une raison de fermer la porte du tribunal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>988.24</TimestampBegin>
+			<TimestampEnd>995.48</TimestampEnd>
+			<Text>Troisième argument qui pourrait peser peut-être un petit peu plus lourd, la crainte d'une avalanche de nouvelles affaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>995.48</TimestampBegin>
+			<TimestampEnd>1000.4</TimestampEnd>
+			<Text>Ni le gouvernement ni la Chambre nous donnent le moindre début d'illustration d'un tel risque.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1000.4</TimestampBegin>
+			<TimestampEnd>1016.48</TimestampEnd>
+			<Text>Alors le requérant a sollicité un grand cabinet d'avocats, White &amp; Case, qu'il vérifie le nombre d'affaires qui ont pu occuper les tribunaux de pays qui connaissent le fort de nécessité et qu'il l'applique plus largement que ne le fait la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1016.48</TimestampBegin>
+			<TimestampEnd>1019.44</TimestampEnd>
+			<Text>Ce document est maintenant versé au dossier.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1019.44</TimestampBegin>
+			<TimestampEnd>1025.68</TimestampEnd>
+			<Text>Il s'agit de l'Allemagne, de l'Estonie, de la France, de la Pologne, de la Russie et de la Suède.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1025.68</TimestampBegin>
+			<TimestampEnd>1042.28</TimestampEnd>
+			<Text>Non seulement cette étude nous montre que l'affaire Naït Liman aurait probablement aisément pu être entendue par les tribunaux de ces pays, mais surtout elle nous prouve qu'aucune affaire similaire à l'affaire Naït Liman n'a été portée devant les juridictions de ces Etats.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1042.28</TimestampBegin>
+			<TimestampEnd>1048.8</TimestampEnd>
+			<Text>Nous sommes en présence, au plan européen, de quelques cas tout à fait isolés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1048.8</TimestampBegin>
+			<TimestampEnd>1053.28</TimestampEnd>
+			<Text>Votre arrêt permettra probablement à ce qu'il y en ait d'autres à l'avenir.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1053.28</TimestampBegin>
+			<TimestampEnd>1060.96</TimestampEnd>
+			<Text>Mais en aucune manière, pour citer le gouvernement, cela ne surmènera les instances juridiques de quelques nations que ce soit.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1060.96</TimestampBegin>
+			<TimestampEnd>1064.28</TimestampEnd>
+			<Text>Pour terminer, un peu de logique s'impose.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1064.28</TimestampBegin>
+			<TimestampEnd>1071.48</TimestampEnd>
+			<Text>Si un procès s'était tenu en Suisse suite à l'arrestation hypothétique du tortionnaire de M. Naït Liman,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1071.48</TimestampBegin>
+			<TimestampEnd>1076.96</TimestampEnd>
+			<Text>le requérant aurait demandé et certainement obtenu une indemnisation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1076.96</TimestampBegin>
+			<TimestampEnd>1094.08</TimestampEnd>
+			<Text>Or, l'ensemble des arguments avancés pour montrer à quel point il serait délicat de se prononcer sur une demande civile vaut exactement de la même manière si la prétention civile est formulée à l'appui du procès pénal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1094.08</TimestampBegin>
+			<TimestampEnd>1102.88</TimestampEnd>
+			<Text>Nombreux sont les Etats du Conseil de l'Europe majoritaire, probablement, qui acceptent la formulation de telles prétentions civiles, à commencer par la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1102.88</TimestampBegin>
+			<TimestampEnd>1113.52</TimestampEnd>
+			<Text>L'article 126 du Code de procédure pénale prévoit que les tribunaux statuent sur les prétentions civiles présentées lorsqu'ils rendent un verdict de culpabilité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1113.52</TimestampBegin>
+			<TimestampEnd>1121.92</TimestampEnd>
+			<Text>Contrairement à ce que le gouvernement affirme au paragraphe 50 de ses observations, cela est tout à fait fréquent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1121.92</TimestampBegin>
+			<TimestampEnd>1125.64</TimestampEnd>
+			<Text>Certes, des affaires comme celle de M. Naït Liman</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1125.64</TimestampBegin>
+			<TimestampEnd>1128.8</TimestampEnd>
+			<Text>ne sont pas nombreuses, mais des illustrations existent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1128.8</TimestampBegin>
+			<TimestampEnd>1146.44</TimestampEnd>
+			<Text>Nous avons fourni en pièce 28 une telle illustration, un procès qui s'est tenu dans le canton de Genève en 2014, au cours duquel l'ancien chef de la police du Guatemala a été condamné à la prison à vie pour toute une série d'exécutions extrajudiciaires commises au Guatemala.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1146.44</TimestampBegin>
+			<TimestampEnd>1155.56</TimestampEnd>
+			<Text>Or, les tribunaux ont accordé à la famille de l'une des victimes vivant au Guatemala, de nationalité guatemaltèque, 30 000 francs de réparation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1155.56</TimestampBegin>
+			<TimestampEnd>1158.24</TimestampEnd>
+			<Text>Cela se fait tout à fait correctement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1158.24</TimestampBegin>
+			<TimestampEnd>1170.32</TimestampEnd>
+			<Text>Redress et l'OMCT, d'ailleurs, le disent dans leurs écritures, une telle pratique se retrouve en Belgique, en France, en Suède, en Espagne, aux Pays-Bas et ailleurs.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1170.32</TimestampBegin>
+			<TimestampEnd>1177.92</TimestampEnd>
+			<Text>S'il eût ainsi été possible, dans le cadre d'un procès pénal, d'allouer une indemnisation pour tort moral à M. Naït Liman,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1177.92</TimestampBegin>
+			<TimestampEnd>1188.4</TimestampEnd>
+			<Text>il ne reste aucun argument, aucun argument permettant de justifier que cela serait compliqué ou impossible dans le cadre d'un procès civil.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1188.4</TimestampBegin>
+			<TimestampEnd>1197.16</TimestampEnd>
+			<Text>En conclusion, le fort de nécessité aurait dû être appliqué de manière appropriée au cas d'espèce.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1197.16</TimestampBegin>
+			<TimestampEnd>1204.04</TimestampEnd>
+			<Text>Je cède maintenant la parole à maître Monbrey pour qu'il explique plus précisément comment, en vous remerciant très vivement pour votre attention.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1206.44</TimestampBegin>
+			<TimestampEnd>1208.04</TimestampEnd>
+			<Text>pour M. Grant, M. Membrez, je vous en prie.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP2</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1214.63</TimestampBegin>
+			<TimestampEnd>1226.23</TimestampEnd>
+			<Text>Monsieur le Président, mesdames et messieurs les juges, comme Maître Grant vous l'a indiqué, je vais maintenant aborder les conditions d'application du fort de nécessité en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1226.43</TimestampBegin>
+			<TimestampEnd>1239.11</TimestampEnd>
+			<Text>L'article 3 de la loi sur le droit international privé, LDIP, exige pour que le fort de nécessité soit admis en Suisse essentiellement 2 conditions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1239.31</TimestampBegin>
+			<TimestampEnd>1250.03</TimestampEnd>
+			<Text>En 1er lieu, il convient qu'une procédure à l'étranger se révèle impossible ou qu'on ne puisse raisonnablement exiger qu'elle y soit introduite.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1250.23</TimestampBegin>
+			<TimestampEnd>1254.23</TimestampEnd>
+			<Text>En l'espèce, cette condition n'est pas litigieuse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1254.43</TimestampBegin>
+			<TimestampEnd>1259.35</TimestampEnd>
+			<Text>Le requérant ne pouvait nullement agir en Tunisie contre son tortionnaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1259.55</TimestampBegin>
+			<TimestampEnd>1268.99</TimestampEnd>
+			<Text>Le gouvernement suisse le reconnaît expressément en affirmant que l'on ne pouvait certes pas attendre du requérant qu'il agisse devant les tribunaux tunisiens.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1269.15</TimestampBegin>
+			<TimestampEnd>1270.71</TimestampEnd>
+			<Text>C'est en page 8.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1270.71</TimestampBegin>
+			<TimestampEnd>1276.75</TimestampEnd>
+			<Text>L'arrêt de la Chambre du 21 juin 2016 enterrine ce point en son paragraphe 19.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1278.39</TimestampBegin>
+			<TimestampEnd>1299.99</TimestampEnd>
+			<Text>Cela dit, et pour répondre à la question du juge rapporteur, le requérant a effectivement écrit, mais de nombreuses années plus tard, à l'instance tunisienne de la vérité et de la dignité, l'IVD, suite à l'adoption de la loi tunisienne sur la justice transitionnelle de décembre 2013.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1299.99</TimestampBegin>
+			<TimestampEnd>1304.59</TimestampEnd>
+			<Text>C'était en février 2016, dans le but de l'informer de son cas.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1304.79</TimestampBegin>
+			<TimestampEnd>1311.71</TimestampEnd>
+			<Text>Après avoir reçu un simple accusé de réception, le requérant n'a plus eu de contact avec l'IVD.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1311.91</TimestampBegin>
+			<TimestampEnd>1315.39</TimestampEnd>
+			<Text>Est-ce dire qu'il aurait introduit une action judiciaire en Tunisie?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1315.63</TimestampBegin>
+			<TimestampEnd>1317.03</TimestampEnd>
+			<Text>Certainement pas.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1317.23</TimestampBegin>
+			<TimestampEnd>1339.47</TimestampEnd>
+			<Text>L'expert suisse Dick Marty, ancien membre de l'Assemblée parlementaire du Conseil de l'Europe, souligne dans son courrier du 19 mai 2017, en pièce 25, que le mandat de cette instance est essentiellement d'enquêter, de dévoiler la vérité au sujet des violations des droits de l'homme commises entre 1955 et 2013.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1339.67</TimestampBegin>
+			<TimestampEnd>1347.39</TimestampEnd>
+			<Text>Elle a ainsi été saisie de 62 300 dossiers et a récemment commencé à mener des auditions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1347.55</TimestampBegin>
+			<TimestampEnd>1351.15</TimestampEnd>
+			<Text>Cette instance n'est clairement pas un tribunal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1351.39</TimestampBegin>
+			<TimestampEnd>1357.27</TimestampEnd>
+			<Text>Elle n'est pas tenue de respecter les principes élémentaires du procès équitable découlant du pacte II de l'ONU.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1357.27</TimestampBegin>
+			<TimestampEnd>1361.43</TimestampEnd>
+			<Text>Et elle n'est donc nullement une voie de recours effective en matière de réparation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1361.63</TimestampBegin>
+			<TimestampEnd>1374.27</TimestampEnd>
+			<Text>Le comité contre la torture des Nations unies relève dans ses observations finales du 10 juin 2016 que l'IVD a certes sur le papier également une fonction d'indemnisation, mais aucun budget ne lui a été accordé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1374.47</TimestampBegin>
+			<TimestampEnd>1386.27</TimestampEnd>
+			<Text>En définitive, tout cela n'est cependant guerre d'importance pour la solution du présent cas, puisque ces faits sont largement postérieurs de 9 ans à l'arrêt du tribunal fédéral.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1386.27</TimestampBegin>
+			<TimestampEnd>1397.99</TimestampEnd>
+			<Text>Par définition, ils n'ont pu avoir aucune incidence sur la manière dont la justice suisse a traité le dossier du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1398.23</TimestampBegin>
+			<TimestampEnd>1416.51</TimestampEnd>
+			<Text>Une fois la possibilité d'agir à l'étranger établie, l'article 3 LDIP énonce comme seconde condition que sont compétentes les autorités judiciaires suisses du lieu avec lequel la cause présente un lien suffisant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1416.71</TimestampBegin>
+			<TimestampEnd>1434.23</TimestampEnd>
+			<Text>Dans le cas du requérant, le tribunal fédéral a retenu que le mot cause, figurant à l'article 3 LDIP, devait être compris dans l'acception restreinte de complexes de faits à l'origine de la prétention juridique invoquée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1434.43</TimestampBegin>
+			<TimestampEnd>1444.39</TimestampEnd>
+			<Text>Ce seraient donc les actes de torture et non la personne du demandeur qui devrait présenter un lien suffisant avec la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1444.59</TimestampBegin>
+			<TimestampEnd>1453.07</TimestampEnd>
+			<Text>Le tribunal fédéral s'est ainsi focalisé sur le complexe de faits et a ignoré le lien suffisant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1453.27</TimestampBegin>
+			<TimestampEnd>1469.55</TimestampEnd>
+			<Text>Cette interprétation a été vivement critiquée en Suisse en doctrine, car donnant lieu à des dénis de justice dans le cas des réfugiés à qui la Suisse accorde l'asile en raison des crimes qu'ils ont subis.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1469.75</TimestampBegin>
+			<TimestampEnd>1481.43</TimestampEnd>
+			<Text>En exigeant que la cause juridique ait un lien avec la Suisse et non le requérant, l'article 3 LDIP est en effet vidé de toute portée pratique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1481.63</TimestampBegin>
+			<TimestampEnd>1493.23</TimestampEnd>
+			<Text>Pas moins de 6 commentateurs qui se sont penchés sur l'arrêt du tribunal fédéral du 22 mai 2007 font état de leur incompréhension face à la solution retenue.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1493.43</TimestampBegin>
+			<TimestampEnd>1497.83</TimestampEnd>
+			<Text>Leur critique est en reprise dans les observations écrites du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1498.03</TimestampBegin>
+			<TimestampEnd>1500.99</TimestampEnd>
+			<Text>Je ne vais pas y revenir maintenant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1501.19</TimestampBegin>
+			<TimestampEnd>1510.07</TimestampEnd>
+			<Text>Quelques mots du professeur Bernard Dutoit dans son commentaire joint à la procédure résument les avis de la doctrine suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1510.27</TimestampBegin>
+			<TimestampEnd>1511.43</TimestampEnd>
+			<Text>Je cite.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1511.63</TimestampBegin>
+			<TimestampEnd>1518.91</TimestampEnd>
+			<Text>On se permettra d'émettre quelques doutes sur une telle interprétation du mot cause à l'article 3 LDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1519.11</TimestampBegin>
+			<TimestampEnd>1527.39</TimestampEnd>
+			<Text>Ne convenait-il pas de lui donner le sens le plus conforme à la ratio de cette disposition qui est d'éviter un déni de justice?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1527.59</TimestampBegin>
+			<TimestampEnd>1539.55</TimestampEnd>
+			<Text>Pourquoi la situation d'un réfugié tunisien qui a obtenu l'asile en Suisse où il vit depuis plus de 10 ans avec sa famille devrait-elle échapper à l'article 3 LDIP?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1539.71</TimestampBegin>
+			<TimestampEnd>1550.63</TimestampEnd>
+			<Text>Exiger que le complexe de fait et non la procédure ait un lien suffisant avec la Suisse, c'est vider l'article 3 LDIP de sa substance.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1550.79</TimestampBegin>
+			<TimestampEnd>1552.39</TimestampEnd>
+			<Text>Fin de citation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1552.39</TimestampBegin>
+			<TimestampEnd>1580.07</TimestampEnd>
+			<Text>On le voit, l'interprétation du tribunal fédéral revient pour les victimes de crimes de droite internationale commis à l'étranger, à rendre impossibles toutes ces hymnes des tribunaux suisses, et cela même dans l'hypothèse où les victimes sont de nationalité suisse où ils résident au moment des faits, comme le soutient le gouvernement suisse au paragraphe 17 et 18 de ses écritures.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1580.07</TimestampBegin>
+			<TimestampEnd>1609.35</TimestampEnd>
+			<Text>Nous avons produit 3 décisions judiciaires aux annexes 29 à 31, dans lesquelles les autorités suisses n'ont pas hésité à faire application du fort de nécessité de l'article 3 LDIP lors de procédures tendant à constater l'inexistence d'une dette, protéger un enfant ou partager des avoirs de prévoyance professionnelle après un divorce.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1609.35</TimestampBegin>
+			<TimestampEnd>1633.75</TimestampEnd>
+			<Text>Et le gouvernement défendeur nous offre, sur un plateau en page 12, une autre affaire dont nous n'avions pas connaissance, soit un jugement cantonal rendu le 17 mai 2013, permettant à un ressortissant suisse domicilié à l'étranger de faire constater son changement de sexe en Suisse, chose impossible au lieu de son domicile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1633.95</TimestampBegin>
+			<TimestampEnd>1655.99</TimestampEnd>
+			<Text>Ces 4 affaires démontrent que dans les cas où l'article 3 LDIP fonde la compétence des tribunaux suisses, ceux-ci se rattachent soit au domicile du demandeur, soit au domicile d'un tiers, soit à la nationalité du demandeur, même s'il est domicilié à l'étranger.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1656.19</TimestampBegin>
+			<TimestampEnd>1667.35</TimestampEnd>
+			<Text>En revanche, en l'espèce, le domicile en Suisse du requérant a été considéré comme non pertinent par le tribunal fédéral, et bien même M. Neytleman y vivait depuis plus de 14 ans</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1667.67</TimestampBegin>
+			<TimestampEnd>1669.75</TimestampEnd>
+			<Text>lorsqu'il l'a statué.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1669.99</TimestampBegin>
+			<TimestampEnd>1684.75</TimestampEnd>
+			<Text>Ainsi, c'est dans le seul domaine des crimes de droit international que le tribunal fédéral s'est autorisé à une interprétation non seulement restrictive, mais qui consacre un déni de justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1684.95</TimestampBegin>
+			<TimestampEnd>1703.31</TimestampEnd>
+			<Text>Or, comme déjà dit, c'est dans ce domaine précisément que le droit international devrait guider les Etats à ne pas interpréter les dispositions de droit interne de manière à réduire à néant le droit des victimes de torture à obtenir réparation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1703.51</TimestampBegin>
+			<TimestampEnd>1709.47</TimestampEnd>
+			<Text>L'arrêt du tribunal fédéral n'est pas le seul à présenter de tels défauts de raisonnement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1709.67</TimestampBegin>
+			<TimestampEnd>1715.75</TimestampEnd>
+			<Text>L'arrêt de la Chambre contient lui aussi, en son coeur, une contradiction.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1715.95</TimestampBegin>
+			<TimestampEnd>1733.35</TimestampEnd>
+			<Text>Il souligne en effet que les Etats partis à la Convention qui appliquent le fort de nécessité subordonnent celui-ci à l'existence d'un certain lien de rattachement entre le litige et l'Etat du fort requis.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1733.55</TimestampBegin>
+			<TimestampEnd>1746.91</TimestampEnd>
+			<Text>Et constate en son paragraphe 114 que les liens de rattachement suffisants sont habituellement la nationalité, le domicile ou la résidence habituelle.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1746.91</TimestampBegin>
+			<TimestampEnd>1772.11</TimestampEnd>
+			<Text>Les facteurs énumérés sont dans la plupart des pays définis soit en termes généraux ou indéterminés, tels que liens étroits, liens suffisants, soit ils sont énoncés de manière plus précise, mais ils ont tous trait au rapport existant entre la partie au litige et l'Etat du fort de nécessité, jamais à la cause juridique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1772.35</TimestampBegin>
+			<TimestampEnd>1789.27</TimestampEnd>
+			<Text>On citera par exemple la nationalité ou la résidence habituelle en Allemagne, en Autriche, en Belgique, en Estonie, en Roumanie, en Pologne et au Portugal, et des liens plus souples encore aux Pays-Bas.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1789.47</TimestampBegin>
+			<TimestampEnd>1802.19</TimestampEnd>
+			<Text>L'arrêt ajoute qu'il s'ensuit que l'article 3 LDIP n'a rien d'exceptionnel parmi les Etats membres du Conseil de l'Europe qui ont introduit une telle compétence dans leurs ordres juridiques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1802.19</TimestampBegin>
+			<TimestampEnd>1804.19</TimestampEnd>
+			<Text>C'est le paragraphe 114.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1804.39</TimestampBegin>
+			<TimestampEnd>1823.19</TimestampEnd>
+			<Text>Or, justement, la Suisse refuse très clairement de reconnaître, au contraire de tous les autres Etats qui admettent le fort de nécessité, des liens non attachés à l'Etat de fait lui-même, comme la nationalité, le domicile ou la résidence habituelle.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1823.39</TimestampBegin>
+			<TimestampEnd>1836.35</TimestampEnd>
+			<Text>Au contraire de tous les autres Etats qui acceptent de les prendre en compte, la Suisse consacre pour les victimes de torture un déni de justice absolument incompatible avec l'ordre juridique européen.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1836.55</TimestampBegin>
+			<TimestampEnd>1856.47</TimestampEnd>
+			<Text>La seule manière de réconcilier l'article 3 LDIP, l'article 6 CEDH et les autres normes de droit international, c'est de reconnaître que du moment où, en matière de torture, une procédure en dommage d'intérêt est impossible à l'étranger, les liens tissés avec le nouvel Etat d'accueil sont suffisants.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1856.67</TimestampBegin>
+			<TimestampEnd>1863.07</TimestampEnd>
+			<Text>Ces liens pourraient être la nationalité, l'octroi de l'asile, le domicile, la résidence ou d'autres encore.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1863.27</TimestampBegin>
+			<TimestampEnd>1875.63</TimestampEnd>
+			<Text>Le gouvernement suisse indique dans ses observations que la nationalité suisse du requérant acquise le 21 mai 2007, soit un jour avant que le tribunal fédéral s'est prononcé en dernière instance, devrait être ignorée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1875.83</TimestampBegin>
+			<TimestampEnd>1877.71</TimestampEnd>
+			<Text>Or, cette nationalité fait pourtant partie du dossier.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1877.91</TimestampBegin>
+			<TimestampEnd>1887.23</TimestampEnd>
+			<Text>Elle a été mentionnée dans la requête auprès de la Cour du 20 novembre 2007, puis développée dans la réplique du 31 mai 2011 en page 8.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1887.23</TimestampBegin>
+			<TimestampEnd>1889.87</TimestampEnd>
+			<Text>Toutefois, peu importe, puisque M. Naik Lieman</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1890.11</TimestampBegin>
+			<TimestampEnd>1897.95</TimestampEnd>
+			<Text>était domicilier en Suisse, à Genève, où il avait reçu l'asile politique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1898.15</TimestampBegin>
+			<TimestampEnd>1906.35</TimestampEnd>
+			<Text>Depuis 13 ans et 9 mois, lorsque le tribunal fédéral s'est prononcé en dernier lieu le 22 mai 2007.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1906.59</TimestampBegin>
+			<TimestampEnd>1916.15</TimestampEnd>
+			<Text>Les critères plus souples encore appliqués dans nombre d'Etats européens, comme la simple résidence habituelle, seraient évidemment également remplis en la personne du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1916.15</TimestampBegin>
+			<TimestampEnd>1923.19</TimestampEnd>
+			<Text>En matière de lutte contre la torture, le principe directeur devrait être d'éviter le déni de justice pur et simple.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1923.39</TimestampBegin>
+			<TimestampEnd>1939.27</TimestampEnd>
+			<Text>En ce sens, les intervenants Redress et l'Organisation mondiale contre la torture indiquent en page 3 que plus le risque d'un déni de justice est grand, plus petit devrait être l'exigence d'un lien avec l'Etat du fort.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1939.47</TimestampBegin>
+			<TimestampEnd>1942.15</TimestampEnd>
+			<Text>Ne nous arrêtons pas à son...</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1942.35</TimestampBegin>
+			<TimestampEnd>1948.87</TimestampEnd>
+			<Text>La résolution, excusez-moi, la résolution de l'Institut de droit international du 30 août 2015.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1949.07</TimestampBegin>
+			<TimestampEnd>1953.31</TimestampEnd>
+			<Text>La résolution de l'Institut de droit international du 30 août 2015 va dans le même sens.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1953.51</TimestampBegin>
+			<TimestampEnd>1960.55</TimestampEnd>
+			<Text>Ne nous arrêtons pas à son titre, qui parle de compétences universelles civiles pour la réparation de crimes internationaux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1960.75</TimestampBegin>
+			<TimestampEnd>1968.35</TimestampEnd>
+			<Text>Sa portée n'a pas le sens illimité que le gouvernement suisse souhaite donner à cette notion de compétences universelles civiles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1968.55</TimestampBegin>
+			<TimestampEnd>1973.99</TimestampEnd>
+			<Text>Arrêtons-nous plutôt sur ces critères matériels, tout à fait objectifs et raisonnables.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1974.19</TimestampBegin>
+			<TimestampEnd>1997.51</TimestampEnd>
+			<Text>En son article 2, chiffre 1, lettre C, la résolution de l'Institut énonce qu'un tribunal devrait exercer sa compétence pour connaître des demandes en réparation des victimes à condition qu'aucun autre Etat n'ait des liens plus étroits avec le litige eu égard aux liens avec les victimes et les défendeurs ainsi qu'aux faits et circonstances pertinents.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1997.71</TimestampBegin>
+			<TimestampEnd>2002.99</TimestampEnd>
+			<Text>C'est la définition même du fort approprié qu'il serait raisonnable d'appliquer ici.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2003.15</TimestampBegin>
+			<TimestampEnd>2022.43</TimestampEnd>
+			<Text>En matière de réparation pour crimes internationaux, si le fort ordinaire n'est pas donné, en présence de prétention civile comme une demande en indemnisation du dommage physique ou du tort moral, un fort secondaire doit pouvoir être ouvert dans l'Etat où des liens pertinents ont été tissés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2022.63</TimestampBegin>
+			<TimestampEnd>2046.55</TimestampEnd>
+			<Text>Le recours à ces critères lors de l'interprétation de l'article 3 LDIP résoudra très logiquement la présente procédure, car aucun Etat n'avait de lien plus étroit avec l'affaire que la Suisse, domicile du requérant depuis 13 ans et 9 mois, à l'exception, bien sûr, de la Tunisie, mais où l'action était impossible, ce qui n'est pas contesté.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2046.79</TimestampBegin>
+			<TimestampEnd>2058.83</TimestampEnd>
+			<Text>L'application de ces critères permettra également de répondre à la question du juge rapporteur de savoir si le requérant a tenté de saisir les tribunaux italiens.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2059.11</TimestampBegin>
+			<TimestampEnd>2062.11</TimestampEnd>
+			<Text>La réponse est évidemment négative.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2062.31</TimestampBegin>
+			<TimestampEnd>2066.39</TimestampEnd>
+			<Text>En effet, M. Naït Leeman se plaint d'actes de torture</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2066.59</TimestampBegin>
+			<TimestampEnd>2071.03</TimestampEnd>
+			<Text>sur sa personne et le moment auquel il pouvait demander réparation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2071.23</TimestampBegin>
+			<TimestampEnd>2079.47</TimestampEnd>
+			<Text>C'est alors qu'il était domicilié en Suisse qui lui avait accordé l'asile en raison, justement, de ces actes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2079.67</TimestampBegin>
+			<TimestampEnd>2097.27</TimestampEnd>
+			<Text>Il n'avait aucun motif de saisir les tribunaux italiens, car au contraire de la Suisse, aucun lien n'existait entre lui et l'Italie, où il n'a séjourné que brièvement et antérieurement à la commission des crimes dont il a été victime.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2097.51</TimestampBegin>
+			<TimestampEnd>2099.83</TimestampEnd>
+			<Text>Il est temps de conclure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2100.03</TimestampBegin>
+			<TimestampEnd>2105.31</TimestampEnd>
+			<Text>Au point 8.7 de sa recommandation 1327,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2105.51</TimestampBegin>
+			<TimestampEnd>2145.63</TimestampEnd>
+			<Text>produite en pièce 32, l'Assemblée parlementaire du Conseil de l'Europe recommandait au comité des ministres de demander aux Etats membres d'adopter, je cite, d'adopter une législation nationale permettant aux victimes de torture ou d'autres violations graves des droits de l'homme d'intenter dans le pays d'accueil une action civile en réparation à l'encontre des personnes coupables de ces violations, et de déterminer dans quelle mesure il serait possible d'élaborer une convention européenne ayant cet objectif.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2145.87</TimestampBegin>
+			<TimestampEnd>2147.07</TimestampEnd>
+			<Text>Fin de citation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2147.27</TimestampBegin>
+			<TimestampEnd>2166.71</TimestampEnd>
+			<Text>Retenir dans l'affaire Naït Leeman une violation de l'article 6, paragraphe 1 de la Convention n'impliquera aucune réforme législative en Suisse, puisqu'il s'agira uniquement d'interpréter différemment à l'avenir l'article 3 LDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2166.91</TimestampBegin>
+			<TimestampEnd>2174.43</TimestampEnd>
+			<Text>Mais cela permettra également de mettre en oeuvre la recommandation de l'Assemblée parlementaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2174.63</TimestampBegin>
+			<TimestampEnd>2206.71</TimestampEnd>
+			<Text>La convention à laquelle il est fait référence n'existe pas encore, mais votre cour a le pouvoir, par l'arrêt qu'elle rendra, non seulement de répondre à la recommandation de l'Assemblée parlementaire, mais également de consacrer l'article 6 de la Convention européenne des droits de l'homme comme étant le fondement du droit des victimes de torture et autres crimes internationaux à obtenir justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2206.91</TimestampBegin>
+			<TimestampEnd>2209.79</TimestampEnd>
+			<Text>En conclusion, le requérant, M. Naït Leeman,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2209.99</TimestampBegin>
+			<TimestampEnd>2224.87</TimestampEnd>
+			<Text>persiste dans ses conclusions et sollicite respectueusement de la Grande Chambre qu'elle dise qu'il y a eu violation de l'article 6 de la Convention au titre de l'accès à un tribunal pour faire valoir ses prétentions civiles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2224.87</TimestampBegin>
+			<TimestampEnd>2226.11</TimestampEnd>
+			<Text>Je vous remercie beaucoup de votre attention.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2227.26</TimestampBegin>
+			<TimestampEnd>2229.1</TimestampEnd>
+			<Text>Merci beaucoup, maître.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2229.34</TimestampBegin>
+			<TimestampEnd>2231.74</TimestampEnd>
+			<Text>J'ai pris la parole, et maintenant, à M. Schürmann.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2231.74</TimestampBegin>
+			<TimestampEnd>2231.74</TimestampEnd>
+			<Text>Vous avez la parole.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR2</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2237.21</TimestampBegin>
+			<TimestampEnd>2245.09</TimestampEnd>
+			<Text>Monsieur le Président, Mesdames et Messieurs les membres de la Grande Chambre, La toile de fond de cette affaire est sérieuse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2245.09</TimestampBegin>
+			<TimestampEnd>2261.61</TimestampEnd>
+			<Text>À son origine, une des violations les plus graves des droits de l'homme, des actes de torture en l'espèce commis sous l'ancien régime tunisien, lié au statut des acteurs présumés, la question complexe de leur immunité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2261.61</TimestampBegin>
+			<TimestampEnd>2266.93</TimestampEnd>
+			<Text>En même temps, l'objet du litige devant votre cour reste limité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2266.93</TimestampBegin>
+			<TimestampEnd>2277.45</TimestampEnd>
+			<Text>La Grande Chambre est elle aussi appelée à juger si le droit du requérant d'avoir accès à un tribunal a été violé en violation de l'article 6 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2277.45</TimestampBegin>
+			<TimestampEnd>2297.89</TimestampEnd>
+			<Text>Une violation ne saurait être admise que si les juridictions internes avaient nié à tort leurs compétences, soit en méconnaissance flagrante des règles du droit interne sur les forts, soit en méconnaissance d'une éventuelle obligation découlant du droit international.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2297.89</TimestampBegin>
+			<TimestampEnd>2302.05</TimestampEnd>
+			<Text>La question de l'immunité, quant à elle, ne se pose pas sur ce point.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2302.05</TimestampBegin>
+			<TimestampEnd>2307.81</TimestampEnd>
+			<Text>On vient de l'entendre, les partis s'accordent de même que les juges de la Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2307.81</TimestampBegin>
+			<TimestampEnd>2312.41</TimestampEnd>
+			<Text>Permettez-moi, M. le Président, deux autres remarques liminaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2312.41</TimestampBegin>
+			<TimestampEnd>2315.25</TimestampEnd>
+			<Text>D'abord, un bref rappel des faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2315.25</TimestampBegin>
+			<TimestampEnd>2325.05</TimestampEnd>
+			<Text>Avant d'être arrêté par la police italienne et ramené en Tunisie par des agents tunisiens, le requérant avait son domicile en Italie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2325.05</TimestampBegin>
+			<TimestampEnd>2333.49</TimestampEnd>
+			<Text>À la connaissance du gouvernement suisse, le requérant n'a par la suite entrepris aucune démarche vis-à-vis de notre pays voisin.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2333.49</TimestampBegin>
+			<TimestampEnd>2340.73</TimestampEnd>
+			<Text>En 1993, après avoir subi les actes de torture allégués, le requérant a fui la Tunisie pour la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2340.73</TimestampBegin>
+			<TimestampEnd>2343.53</TimestampEnd>
+			<Text>Deux ans plus tard, il se voit octroyé l'asile politique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2343.53</TimestampBegin>
+			<TimestampEnd>2348.17</TimestampEnd>
+			<Text>En 2007, il a acquis la nationalité suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2348.17</TimestampBegin>
+			<TimestampEnd>2360.85</TimestampEnd>
+			<Text>En 2001, il dépose une plainte pénale contre Aka, ancien ministre tunisien de l'Intérieur, supposé d'être hospitalisé en ce moment dans un hôpital à Genève.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2360.85</TimestampBegin>
+			<TimestampEnd>2367.73</TimestampEnd>
+			<Text>Le procureur général a classé la plainte parce qu'Aka avait quitté la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2367.73</TimestampBegin>
+			<TimestampEnd>2375.81</TimestampEnd>
+			<Text>Sa présence aurait été la condition sine qua non pour justifier la compétence des autorités de poursuite.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2375.81</TimestampBegin>
+			<TimestampEnd>2386.93</TimestampEnd>
+			<Text>J'ajoute que contrairement à ce que laissent entendre les trois juges minoritaires de la Chambre, le procureur général n'a pas attendu le départ d'Aka pour ensuite pouvoir classer l'affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2386.93</TimestampBegin>
+			<TimestampEnd>2397.81</TimestampEnd>
+			<Text>Il a au contraire agi tout de suite, le jour même, mais il s'est avéré qu'Aka avait déjà quitté l'hôpital avant même le dépôt de la plainte.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2397.81</TimestampBegin>
+			<TimestampEnd>2401.93</TimestampEnd>
+			<Text>Je renvoie ici au paragraphe 47 et 48 de notre mémoire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2401.93</TimestampBegin>
+			<TimestampEnd>2408.29</TimestampEnd>
+			<Text>Et rappelons aussi que le requérant n'a pas recouru contre cette décision de classement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2408.29</TimestampBegin>
+			<TimestampEnd>2419.41</TimestampEnd>
+			<Text>Trois ans plus tard, en 2004, le requérant entame la voie civile, présentant une demande de dommages d'intérêt dirigée contre la République de Tunisie et M. Aka.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2419.41</TimestampBegin>
+			<TimestampEnd>2427.41</TimestampEnd>
+			<Text>C'est ainsi que le fort de nécessité de l'article 3 et des IP entrent dans la discussion.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2427.41</TimestampBegin>
+			<TimestampEnd>2440.29</TimestampEnd>
+			<Text>Une dernière remarque liminaire, l'importance de la garantie de l'interdiction de la torture, son caractère absolu, son appartenance aux jus cogens sont hors question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2440.29</TimestampBegin>
+			<TimestampEnd>2446.85</TimestampEnd>
+			<Text>La Suisse reconnaît sans réserve les engagements qui la lient au niveau international.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2446.85</TimestampBegin>
+			<TimestampEnd>2456.21</TimestampEnd>
+			<Text>Cela vaut en particulier pour l'obligation ancrée à l'article 5 de la Convention contre la torture, la CCT, ratifiée en 1986.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2456.21</TimestampBegin>
+			<TimestampEnd>2466.89</TimestampEnd>
+			<Text>C'est donc l'article 5 l'obligation d'établir la compétence des juridictions pénales pour connaître des infractions de torture commises en dehors de son territoire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2466.89</TimestampBegin>
+			<TimestampEnd>2469.25</TimestampEnd>
+			<Text>Mais le requérant veut plus.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2469.25</TimestampBegin>
+			<TimestampEnd>2478.77</TimestampEnd>
+			<Text>Il cherche à faire reconnaître une compétence en matière civile au-delà des conditions prévues à l'article 5 CCT pour le volet pénal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2478.77</TimestampBegin>
+			<TimestampEnd>2495.89</TimestampEnd>
+			<Text>Plus concrètement, il milite en faveur d'une interprétation de l'article 6 CEDH permettant de réclamer devant les juridictions civiles une indemnisation pour des actes de torture qui n'ont aucun lien avec le pays dont il a saisi les tribunaux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2495.89</TimestampBegin>
+			<TimestampEnd>2507.33</TimestampEnd>
+			<Text>Dans ce sens, il réclame bel et bien ce qu'on appelle communément, y compris la Chambre, une compétence universelle en matière civile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2507.33</TimestampBegin>
+			<TimestampEnd>2513.53</TimestampEnd>
+			<Text>Selon lui, la Suisse aurait une obligation d'exercer cette compétence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2513.53</TimestampBegin>
+			<TimestampEnd>2521.93</TimestampEnd>
+			<Text>Et c'est une proposition, Monsieur le Président, Mesdames et Messieurs les Juges, une proposition à proprement parler révolutionnaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2521.93</TimestampBegin>
+			<TimestampEnd>2533.77</TimestampEnd>
+			<Text>En effet, en droit international public, même la question de savoir sous quelles conditions un Etat a le droit d'exercer une telle compétence est loin d'être tranchée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2533.77</TimestampBegin>
+			<TimestampEnd>2551.97</TimestampEnd>
+			<Text>Il est généralement admis qu'un exercice quasi illimité de la compétence en matière civile, en tout cas au-delà des points, soi-disant classiques, de rattachement de l'article 5 CCT, aurait des conséquences très négatives pour les relations internationales à plusieurs égards.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2551.97</TimestampBegin>
+			<TimestampEnd>2556.13</TimestampEnd>
+			<Text>Pour atteindre le résultat visé, le requérant se fonde sur deux arguments.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2556.13</TimestampBegin>
+			<TimestampEnd>2569.17</TimestampEnd>
+			<Text>La compétence des juridictions civiles suisses imposerait selon lui, d'une part en vertu de l'article 14 CCT et d'autre part par le droit interne, donc l'article 3 LDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2569.17</TimestampBegin>
+			<TimestampEnd>2576.85</TimestampEnd>
+			<Text>On laisse de côté l'article 16 de la Convention de Genève relative au statut des réfugiés portant sur le droit d'esté en justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2576.85</TimestampBegin>
+			<TimestampEnd>2587.37</TimestampEnd>
+			<Text>À cet égard, nous vous renvoyons à nos observations devant la Chambre, paragraphe 37 ajoutant que cet article n'a jamais été appliqué dans notre contexte spécifique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2587.37</TimestampBegin>
+			<TimestampEnd>2592.53</TimestampEnd>
+			<Text>Le requérant ne cite ni jurisprudence ni doctrine allant dans ce sens.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2592.53</TimestampBegin>
+			<TimestampEnd>2599.05</TimestampEnd>
+			<Text>Il en va de même des autres sources de droit, du droit international invoqué par des tierces intervenantes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2599.05</TimestampBegin>
+			<TimestampEnd>2610.69</TimestampEnd>
+			<Text>Au volet procédural de l'article 3 CEDH, article 13 CEDH, sans pendant, au niveau universel, l'article 2 Alignat 3 PAC 2 et d'autres.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2610.69</TimestampBegin>
+			<TimestampEnd>2629.25</TimestampEnd>
+			<Text>En ce qui concerne le droit coutumier, comme la Chambre l'a constaté, une pratique des États comme expression d'une opinion juris qui reconnaîtrait une obligation d'établir une compétence universelle civile, je cite, « faisait clairement défaut ».</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2629.25</TimestampBegin>
+			<TimestampEnd>2635.41</TimestampEnd>
+			<Text>Quant à l'article 14 CCT, pourquoi n'est-il pas une base suffisante?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2635.41</TimestampBegin>
+			<TimestampEnd>2643.65</TimestampEnd>
+			<Text>D'abord, la comparaison entre l'article 14 CCT et l'article 5 CCT est révélatrice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2643.65</TimestampBegin>
+			<TimestampEnd>2659.97</TimestampEnd>
+			<Text>Ce dernier établit une règle de fort, complétant ainsi la garantie précédente, article 4, qui statue l'obligation des États d'ériger en infraction pénale les actes de torture.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2659.97</TimestampBegin>
+			<TimestampEnd>2676.21</TimestampEnd>
+			<Text>De toute autre nature, l'article 14, qui confère un droit matériel, le droit des victimes à une réparation, sans référence à une quelconque règle de fort. L'interprétation grammaticale systématique</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2676.21</TimestampBegin>
+			<TimestampEnd>2687.69</TimestampEnd>
+			<Text>démontre clairement qu'on ne saurait déduire de cette garantie matérielle une obligation des États d'établir un fort en matière civile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2687.69</TimestampBegin>
+			<TimestampEnd>2699.13</TimestampEnd>
+			<Text>Deuxième observation, la Chambre a fondé sa conclusion sur une analyse détaillée, prenant notamment en compte la pratique dans 26 États européens et celle du Comité contre la torture.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2699.13</TimestampBegin>
+			<TimestampEnd>2716.57</TimestampEnd>
+			<Text>Le requérant et les organisations tierces intervenantes insistent beaucoup sur cette dernière, se référant à l'observation générale numéro 3 du Comité de 2012 et notamment à son paragraphe 22.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2716.57</TimestampBegin>
+			<TimestampEnd>2725.09</TimestampEnd>
+			<Text>S'il en fait référence à ce paragraphe 22, il faut le citer dès son début, ce que fait la Chambre au paragraphe 39.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2725.09</TimestampBegin>
+			<TimestampEnd>2739.17</TimestampEnd>
+			<Text>La phrase citée par le requérant, à savoir, je cite, « L'application de l'article 14 ne se limite pas aux victimes de préjudices commis sur le territoire de l'État-Parti ou commis par ou contre en ressortissant de l'État-Parti. »</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2739.17</TimestampBegin>
+			<TimestampEnd>2758.69</TimestampEnd>
+			<Text>Cette phrase est en effet précédée par une autre, qui se lit comme suit, « En vertu de la Convention CCT, les États-Partis sont tenus de poursuivre ou à extrader les auteurs présumés d'actes de torture qui se trouvent sur tout territoire sous leur juridiction. »</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2758.69</TimestampBegin>
+			<TimestampEnd>2773.09</TimestampEnd>
+			<Text>Ce paragraphe 22 de l'observation générale ne demande donc pas aux États de reconnaître une compétence universelle civile dans des affaires telles que le cas d'espèce, où M. Haka ne se trouve pas en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2773.09</TimestampBegin>
+			<TimestampEnd>2791.45</TimestampEnd>
+			<Text>Pour le surplus, la Chambre constate que l'approche préconisée par le comité, qui en fait veut appliquer les règles du fort de l'article 5 au volet civil, que cette approche, je cite, « n'a pas été suivie par les États-Partis à cet instrument. »</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2791.45</TimestampBegin>
+			<TimestampEnd>2802.89</TimestampEnd>
+			<Text>En effet, aucun des 26 États couverts par l'étude ne reconnaît aujourd'hui pareille application analogue et encore moins ce que réclame le requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2802.89</TimestampBegin>
+			<TimestampEnd>2808.61</TimestampEnd>
+			<Text>Le comité a confirmé cette interprétation dans le contexte de plusieurs communications individuelles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2808.61</TimestampBegin>
+			<TimestampEnd>2817.09</TimestampEnd>
+			<Text>Je cite l'affaire Z contre Australie, rendue en 2014, donc après l'adoption de cette observation générale numéro 3.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2817.09</TimestampBegin>
+			<TimestampEnd>2829.93</TimestampEnd>
+			<Text>« Le requérant reprochait aux juridictions australiennes d'avoir rejeté son action civile contre des autorités chinoises pour des actes de torture commis en Chine.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2829.93</TimestampBegin>
+			<TimestampEnd>2851.69</TimestampEnd>
+			<Text>Le comité a rejeté la requête, estimant que, je cite, « dans les circonstances particulières de l'affaire, l'État-Parti n'était pas en mesure d'établir sa compétence pour connaître d'actes commis en dehors de son territoire par des agents d'un autre État. »</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2851.69</TimestampBegin>
+			<TimestampEnd>2878.17</TimestampEnd>
+			<Text>Si on veut identifier une incohérence entre cette pratique et l'observation numéro 3, ou si on interprète comme le juge Lemens, dans son opinion concordante, les deux sources de façon cohérente, dans les deux hypothèses, l'article 14, CCT, ne peut être considéré comme une base suffisante pour en déduire une obligation des États d'établir une compétence universelle civile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2878.17</TimestampBegin>
+			<TimestampEnd>2882.57</TimestampEnd>
+			<Text>Une dernière observation dans le contexte de l'article 14.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2882.57</TimestampBegin>
+			<TimestampEnd>2906.73</TimestampEnd>
+			<Text>À supposer même que l'on puisse faire une analogie avec le volet pénal, la ligne 1 de l'article 5 CCT rattache la compétence au principe de la territorialité, lettre A, de la personnalité active, lettre B, et de la personnalité passive, donc la nationalité de la victime, lettre C.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2906.73</TimestampBegin>
+			<TimestampEnd>2915.93</TimestampEnd>
+			<Text>Soulignant que ce dernier point de rattachement n'entre en ligne de compte que si l'État le juge approprié.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2915.93</TimestampBegin>
+			<TimestampEnd>2926.17</TimestampEnd>
+			<Text>On voit donc que la Convention elle-même ne met pas sur pied d'égalité la nationalité de la victime avec les deux autres points de rattachement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2926.17</TimestampBegin>
+			<TimestampEnd>2940.81</TimestampEnd>
+			<Text>En l'espèce, les actes présumés n'ont pas été commis en Suisse, les auteurs présumés ne sont pas suisses, et la victime présumée n'était pas suisse, ni à l'époque des faits, ni au moment de l'introduction de son action.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2940.81</TimestampBegin>
+			<TimestampEnd>2957.37</TimestampEnd>
+			<Text>La ligne 2 de cet article 5 CCT, quant à lui, complète les dix points de rattachement en prévoyant la compétence dans le cas où l'auteur présumé se trouve sur le territoire de la juridiction en question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2957.37</TimestampBegin>
+			<TimestampEnd>2963.17</TimestampEnd>
+			<Text>Mais dans notre cas, l'auteur présumé ne se trouvait pas en Suisse au moment de l'action civile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2963.17</TimestampBegin>
+			<TimestampEnd>2970.69</TimestampEnd>
+			<Text>Par la suite, les notifications adressées à M. Haka et par le billet des affaires étrangères à la République tunisienne</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2970.69</TimestampBegin>
+			<TimestampEnd>2981.45</TimestampEnd>
+			<Text>comportant l'assignation à comparaitre devant le tribunal en Suisse ont été refusées, respectivement renvoyées par les destinataires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2981.45</TimestampBegin>
+			<TimestampEnd>2992.77</TimestampEnd>
+			<Text>En résumé, le requérant veut déduire de l'article 14 CCT l'obligation d'établir un fort en matière civile, même au-delà des conditions applicables au pénal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2992.77</TimestampBegin>
+			<TimestampEnd>3007.05</TimestampEnd>
+			<Text>Nous invitons la Grande Chambre à rejeter cette interprétation excessive et à dire, à l'instar de la Chambre, qu'aucune obligation internationale n'imposait à la Suisse de statuer sur l'action civile du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3007.05</TimestampBegin>
+			<TimestampEnd>3010.77</TimestampEnd>
+			<Text>Passons à l'article 3 de la EDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3010.77</TimestampBegin>
+			<TimestampEnd>3026.17</TimestampEnd>
+			<Text>La Chambre l'a rappelé, s'agissant de l'interprétation d'une règle de droit interne, la Cour ne peut mettre en cause l'appréciation des autorités internes que lorsque cette appréciation est arbitraire ou manifestement déraisonnable.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3026.17</TimestampBegin>
+			<TimestampEnd>3031.21</TimestampEnd>
+			<Text>Si les définitions de ces termes peuvent varier dans la forme, l'essence est toujours la même.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3031.21</TimestampBegin>
+			<TimestampEnd>3034.73</TimestampEnd>
+			<Text>Il s'agit d'une appréciation grossièrement fausse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3034.73</TimestampBegin>
+			<TimestampEnd>3039.89</TimestampEnd>
+			<Text>L'erreur saute aux yeux, une injustice manifeste.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3039.89</TimestampBegin>
+			<TimestampEnd>3054.89</TimestampEnd>
+			<Text>Pour reprocher à la juridiction suprême, qui a jugé cette affaire en audience publique et après délibération en public, d'avoir commis une injustice pareille, il faut des arguments forts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3054.89</TimestampBegin>
+			<TimestampEnd>3063.05</TimestampEnd>
+			<Text>De l'avis du gouvernement, ni les juges dissidents, ni le requérant, ni les organisations tierces intervenantes ne les ont présentés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3063.05</TimestampBegin>
+			<TimestampEnd>3073.97</TimestampEnd>
+			<Text>Nous sommes au contraire convaincus que l'interprétation de l'article 3 EDIP par le tribunal fédéral n'est non seulement pas arbitraire, mais au contraire bien raisonnable.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3073.97</TimestampBegin>
+			<TimestampEnd>3078.69</TimestampEnd>
+			<Text>La Chambre a retenu plusieurs buts légitimes de la restriction du droit d'accès au tribunal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3078.69</TimestampBegin>
+			<TimestampEnd>3101.57</TimestampEnd>
+			<Text>La bonne administration de la justice, l'effectivité des décisions judiciaires internes, l'arrêt souligne les difficultés pratiques considérables, notamment à cause de l'administration des preuves et de l'exécution de ces décisions, ainsi que le risque de provoquer des émissions indésirables.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3101.57</TimestampBegin>
+			<TimestampEnd>3108.97</TimestampEnd>
+			<Text>Dans le mémoire, dans son mémoire, le requérant investit de gros moyens pour minimiser les difficultés pratiques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3108.97</TimestampBegin>
+			<TimestampEnd>3112.89</TimestampEnd>
+			<Text>D'ailleurs, la minorité les passe sous silence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3112.89</TimestampBegin>
+			<TimestampEnd>3120.81</TimestampEnd>
+			<Text>A commencer par un aspect soulevé dans nos observations devant la Chambre, la charge de travail supplémentaire pour les juridictions civiles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3120.81</TimestampBegin>
+			<TimestampEnd>3124.33</TimestampEnd>
+			<Text>La partie adverse vient de mentionner ce point également.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3124.33</TimestampBegin>
+			<TimestampEnd>3138.09</TimestampEnd>
+			<Text>La statistique suisse en matière d'asile est à fin 2016, compte à peu près 46 000 réfugiés reconnus et à peu près 31 000 personnes qui étaient dans le processus d'asile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3138.09</TimestampBegin>
+			<TimestampEnd>3150.09</TimestampEnd>
+			<Text>Dans leur opinion concordante dans l'affaire Al-Azhani contre UK, les juges Pellampé et Sir Bradsha en parlaient de centaines de réfugiés qui pourraient s'adresser aux juridictions civiles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3150.09</TimestampBegin>
+			<TimestampEnd>3158.61</TimestampEnd>
+			<Text>De là précisément et paradoxalement dans les pays qui se montrent plus libéraux que d'autres dans l'accueil de ces personnes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3158.61</TimestampBegin>
+			<TimestampEnd>3162.17</TimestampEnd>
+			<Text>Un des problèmes pratiques est celui de l'exécution.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3162.17</TimestampBegin>
+			<TimestampEnd>3176.41</TimestampEnd>
+			<Text>Comme la Cour l'a dit à ma reprise, déjà dans un arrêt rendu il y a 20 ans, Hanspi contre Grèce, le simple accès à un tribunal sans possibilité de voir exécuter les jugements ne suffit pas au regard de l'article 6.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3176.41</TimestampBegin>
+			<TimestampEnd>3206.81</TimestampEnd>
+			<Text>Plus concrètement, et là je cite la résolution de Tallinn particulièrement parlante, le droit d'accès des victimes à la justice n'a de sens qu'à la condition qu'il existe une perspective que les jugements rendus puissent s'appliquer effectivement et notamment devenir exécutoires à l'encontre des défendeurs, auteurs ou complices des atrocités commises.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3206.81</TimestampBegin>
+			<TimestampEnd>3214.69</TimestampEnd>
+			<Text>Supposons que le tribunal de première instance à Genève ait condamné les défendeurs en 2004 à payer au requérant l'indemnisation demandée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3214.69</TimestampBegin>
+			<TimestampEnd>3219.49</TimestampEnd>
+			<Text>Est-ce que ce jugement suisse aurait été exécuté en Tunisie?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3219.49</TimestampBegin>
+			<TimestampEnd>3225.81</TimestampEnd>
+			<Text>Selon nous, la réponse est négative, indépendamment de la question de l'immunité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3225.81</TimestampBegin>
+			<TimestampEnd>3236.33</TimestampEnd>
+			<Text>Un jugement suisse tel que réclamé par le requérant ne pourrait pas être exécuté en Tunisie, l'exigence de réciprocité faisant défaut.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3236.33</TimestampBegin>
+			<TimestampEnd>3255.05</TimestampEnd>
+			<Text>Et à part cet aspect, contrairement à ce que vient de dire le requérant, le fait d'avoir mis en place un système de justice transitionnel en Tunisie, selon nous, rend encore plus difficile l'exécution d'un arrêt d'une tribunale suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3255.05</TimestampBegin>
+			<TimestampEnd>3266.01</TimestampEnd>
+			<Text>Il en va de la cohérence d'une application uniforme dans toutes les affaires comparables à l'intérieur d'un tel système de justice transitionnel.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3266.01</TimestampBegin>
+			<TimestampEnd>3278.01</TimestampEnd>
+			<Text>Un jugement étranger serait en quelque sorte un corps étranger dans les efforts de rendre justice aux victimes dans le pays directement concerné.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3278.01</TimestampBegin>
+			<TimestampEnd>3285.21</TimestampEnd>
+			<Text>Quant à la proportionnalité de la restriction, la Chambre a analysé, avec la retenue requise, l'argumentation du tribunal fédéral.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3285.21</TimestampBegin>
+			<TimestampEnd>3294.17</TimestampEnd>
+			<Text>Elle rappelle que l'article 3 LDIP pose comme condition que la cause présente un lien suffisant avec la juridiction suisse saisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3294.17</TimestampBegin>
+			<TimestampEnd>3308.61</TimestampEnd>
+			<Text>Vu les circonstances de l'espèce dans laquelle, et là je cite le tribunal fédéral et la Chambre, par le paragraphe 112, l'ensemble des caractéristiques de la cause ramène en Tunisie, sauf la résidence en Italie à l'époque des faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3308.61</TimestampBegin>
+			<TimestampEnd>3316.21</TimestampEnd>
+			<Text>Et la Chambre conclut sur cette base que l'appréciation du tribunal fédéral n'était pas arbitraire ou déraisonnable.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3316.21</TimestampBegin>
+			<TimestampEnd>3320.41</TimestampEnd>
+			<Text>La conclusion est corroborée par les résultats de l'étude effectuée par la Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3320.41</TimestampBegin>
+			<TimestampEnd>3328.09</TimestampEnd>
+			<Text>Déjà seule une minorité de neuf des 26 États sous examen connaît le concept d'un fort de nécessité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3328.09</TimestampBegin>
+			<TimestampEnd>3335.73</TimestampEnd>
+			<Text>Peut-être y en a-t-il d'autres, comme le prétend le requérant, critiquant la méthodologie adoptée par la Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3335.73</TimestampBegin>
+			<TimestampEnd>3355.81</TimestampEnd>
+			<Text>Encore avant-hier, il a transmis à la Cour un document concernant la situation dans six États membres, et vient de les citer, « Selon notre analyse, aucun des États, pourtant librement choisis par le requérant, ne reconnaîtrait le fort de nécessité dans une constellation comme la nôtre. »</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3355.81</TimestampBegin>
+			<TimestampEnd>3364.49</TimestampEnd>
+			<Text>D'ailleurs, à une exception près, la Suède, ces États sont déjà couverts par l'étude de la Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3364.49</TimestampBegin>
+			<TimestampEnd>3378.29</TimestampEnd>
+			<Text>Quant à la Suède, le document présenté par le requérant constate qu'il est impossible de dire si une cause comparable au cas d'espèce pourrait être portée devant les juridictions suédoises.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3378.29</TimestampBegin>
+			<TimestampEnd>3406.25</TimestampEnd>
+			<Text>Et qui plus en est, et je cite la phrase en anglais parce que le document est en anglais, le document cite l'avis du comité judiciaire parlementaire suédois, selon lequel, « In practice, damages claims for crimes committed outside of Sweden by foreign citizens residing outside of Sweden cannot be brought before Swedish courts. »</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3406.25</TimestampBegin>
+			<TimestampEnd>3417.45</TimestampEnd>
+			<Text>Quant aux autres États et aux exemples de jurisprudence mentionnés, aucun des cas cités ne concerne une constellation identique ou au moins similaire de la nôtre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3417.45</TimestampBegin>
+			<TimestampEnd>3425.49</TimestampEnd>
+			<Text>Les liens entre la cause, le droit de la ferme et des successions, du travail et l'État en question étaient plus étroits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3425.49</TimestampBegin>
+			<TimestampEnd>3435.77</TimestampEnd>
+			<Text>Nous allons le démontrer plus en détail dans le délai que vous nous avez imparti pour réagir à ce nouveau document.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3435.77</TimestampBegin>
+			<TimestampEnd>3455.41</TimestampEnd>
+			<Text>Et même si l'on trouvait un État qui adoptait une base légale claire, ou si l'on trouvait une pratique établie des tribunaux nationaux qui reconnaîtrait une compétence dans une affaire comme la nôtre, cela ne signifierait nullement qu'il en découlerait l'obligation pour les autres États de faire de même.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3455.41</TimestampBegin>
+			<TimestampEnd>3460.65</TimestampEnd>
+			<Text>Le Royaume-Uni le souligne à juste titre dans sa tierce intervention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3460.65</TimestampBegin>
+			<TimestampEnd>3468.61</TimestampEnd>
+			<Text>En fait, on est très loin d'une application uniforme du fort de nécessité allant dans le sens du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3468.61</TimestampBegin>
+			<TimestampEnd>3470.33</TimestampEnd>
+			<Text>Bien au contraire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3470.33</TimestampBegin>
+			<TimestampEnd>3482.57</TimestampEnd>
+			<Text>La Chambre a conclu, je cite l'article 3 de la AEDIP, « n'a rien d'exceptionnel » et s'inscrit dans un consensus très large parmi les États membres du Conseil de l'Europe, paragraphe 114.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3482.57</TimestampBegin>
+			<TimestampEnd>3488.81</TimestampEnd>
+			<Text>Dans ces circonstances, on ne saurait parler d'arbitraire ou de déni de justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3488.81</TimestampBegin>
+			<TimestampEnd>3493.41</TimestampEnd>
+			<Text>Deux points de rattachement potentiel sont analysés de plus près par la Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3493.41</TimestampBegin>
+			<TimestampEnd>3500.29</TimestampEnd>
+			<Text>Le domicile du requérant et la nationalité suisse acquises peu après l'arrêt du tribunal fédéral.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3500.29</TimestampBegin>
+			<TimestampEnd>3511.97</TimestampEnd>
+			<Text>Quant au domicile, la Chambre cite là aussi le tribunal fédéral qui avait estimé qu'il s'agit d'un fait postérieur à la cause et qui n'en fait du reste pas partie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3511.97</TimestampBegin>
+			<TimestampEnd>3527.09</TimestampEnd>
+			<Text>Quant à la nationalité, elle se contente de constater que la naturalisation est intervenue postérieurement à l'adoption de l'arrêt du tribunal fédéral et n'a donc pas pu être prise en compte par celui-ci, paragraphe 113.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3527.09</TimestampBegin>
+			<TimestampEnd>3545.21</TimestampEnd>
+			<Text>La majorité quant à elle se réfère aux critères suivants pour établir le lien requis par l'article 3, le lieu de résidence, le statut de réfugié, la procédure de naturalisation en cours, combinée à la présence de la personne suspectée sur le territoire suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3545.21</TimestampBegin>
+			<TimestampEnd>3553.73</TimestampEnd>
+			<Text>Quelques clarifications s'imposent, d'abord sur plusieurs faits auxquels la minorité semble avoir attaché une importance déterminante.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3553.73</TimestampBegin>
+			<TimestampEnd>3563.65</TimestampEnd>
+			<Text>Les juges minoritaires partent l'idée que le TF, le tribunal fédéral, ne pouvait pas ignorer la procédure de naturalisation qui était sur le point de s'achever.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3563.65</TimestampBegin>
+			<TimestampEnd>3572.69</TimestampEnd>
+			<Text>Mais comment aurait-il pu en avoir connaissance? Cette procédure n'était pas l'argument du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3572.69</TimestampBegin>
+			<TimestampEnd>3589.17</TimestampEnd>
+			<Text>Il ne l'a jamais mentionné tout au long de la procédure devant les trois juridictions internes, ni d'ailleurs, selon nous, on va le vérifier dans sa requête à la Cour, c'est dans sa réplique, à notre avis, que la nationalité est mentionnée pour la première fois.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3589.17</TimestampBegin>
+			<TimestampEnd>3603.29</TimestampEnd>
+			<Text>En plus, s'il avait considéré comme pertinente le critère de la nationalité, pourquoi n'a-t-il pas introduit une nouvelle action une fois la procédure de naturalisation définitivement terminée?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3603.29</TimestampBegin>
+			<TimestampEnd>3609.85</TimestampEnd>
+			<Text>Une autre clarification concerne l'argument tiré de la présence supposée du défendeur en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3609.85</TimestampBegin>
+			<TimestampEnd>3621.01</TimestampEnd>
+			<Text>Monsieur Aka ne se trouvait pas en Suisse ni au moment de l'introduction de l'action civile en 2004, ni au moment des débats devant les trois juridictions civiles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3621.01</TimestampBegin>
+			<TimestampEnd>3631.53</TimestampEnd>
+			<Text>Quant à la plainte pénale, on l'a dit, malgré l'intervention immédiate de l'autorité de poursuite, Aka n'a pas pu être appréhendé parce qu'il avait déjà quitté le pays.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3631.53</TimestampBegin>
+			<TimestampEnd>3655.81</TimestampEnd>
+			<Text>Ensuite, quant à l'interprétation de l'article 3, l'analyse des travaux préparatoires, je renvoie notamment au paragraphe 17 et suivant dans notre mémoire, démontre que le critère de nationalité a certes été discuté au Parlement, mais n'a pas été retenu en tant que critère généralement admis pour ouvrir le fort de nécessité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3655.81</TimestampBegin>
+			<TimestampEnd>3665.69</TimestampEnd>
+			<Text>Bien sûr, il y a des constellations dans lesquelles le domicile du demandeur ou la nationalité peuvent créer ce lien.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3665.69</TimestampBegin>
+			<TimestampEnd>3668.73</TimestampEnd>
+			<Text>C'est notamment le cas en droit de la famille.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3668.73</TimestampBegin>
+			<TimestampEnd>3672.61</TimestampEnd>
+			<Text>Le droit de la famille diffère toujours fortement d'un État à l'autre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3672.61</TimestampBegin>
+			<TimestampEnd>3685.45</TimestampEnd>
+			<Text>L'État peut donc avoir intérêt à offrir à ses ressortissants des concepts inconnus à l'étranger, par exemple le partenariat enregistré entre personnes du même sexe.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3685.45</TimestampBegin>
+			<TimestampEnd>3689.45</TimestampEnd>
+			<Text>En revanche, la situation n'est pas la même en droit des obligations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3689.45</TimestampBegin>
+			<TimestampEnd>3693.69</TimestampEnd>
+			<Text>Ici, la nationalité n'est pas un critère déterminant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3693.69</TimestampBegin>
+			<TimestampEnd>3699.65</TimestampEnd>
+			<Text>Autrement dit, il faut identifier pour chaque constellation les critères de rattachement déterminants.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3699.65</TimestampBegin>
+			<TimestampEnd>3712.09</TimestampEnd>
+			<Text>Le requérant n'en tient pas compte lorsqu'il déduit du fait que le fort d'origine est connu en droit de la famille, que ce critère devrait aussi lui garantir un fort en matière d'actes illicites.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3712.09</TimestampBegin>
+			<TimestampEnd>3727.05</TimestampEnd>
+			<Text>Si la nationalité ne peut pas créer le lien suffisant, l'article 3 LDIP ne serait même pas applicable dans une cause comparable impliquant un ressortissant suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3727.05</TimestampBegin>
+			<TimestampEnd>3737.29</TimestampEnd>
+			<Text>Prenons l'exemple d'un touriste suisse dans un pays tiers qui est arrêté et maltraité par la police du pays.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3737.29</TimestampBegin>
+			<TimestampEnd>3742.49</TimestampEnd>
+			<Text>De retour en Suisse, il introduit une action civile devant le tribunal de son domicile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3742.49</TimestampBegin>
+			<TimestampEnd>3748.49</TimestampEnd>
+			<Text>À notre connaissance, une telle affaire n'a jamais été examinée par un tribunal suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3748.49</TimestampBegin>
+			<TimestampEnd>3756.69</TimestampEnd>
+			<Text>Vu la conception adoptée par le législateur, il faut partir de l'idée que l'article 3 ne s'appliquerait pas.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3756.69</TimestampBegin>
+			<TimestampEnd>3766.69</TimestampEnd>
+			<Text>Il s'agit, comme l'a formulé le tribunal fédéral, d'un élément qui ne fait pas partie de la cause.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3766.69</TimestampBegin>
+			<TimestampEnd>3774.09</TimestampEnd>
+			<Text>Il est d'ailleurs intéressant de faire un parallèle avec une autre loi pertinente, la loi sur l'aide aux victimes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3774.09</TimestampBegin>
+			<TimestampEnd>3785.49</TimestampEnd>
+			<Text>Cette loi ne considère, et non plus comme déterminante, la nationalité de la victime, s'agissant du droit à une indemnité et à une réparation morale.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3785.49</TimestampBegin>
+			<TimestampEnd>3795.49</TimestampEnd>
+			<Text>Dans l'article 3, ligne 1 de cette loi, je cite « l'aide aux victimes est accordée lorsque l'infraction a été commise en Suisse ».</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3795.49</TimestampBegin>
+			<TimestampEnd>3808.09</TimestampEnd>
+			<Text>La ligne 2 ajoute, je cite toujours « si l'infraction a été commise à l'étranger, aucune indemnité ni réparation morale n'est accordée ».</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3808.09</TimestampBegin>
+			<TimestampEnd>3823.29</TimestampEnd>
+			<Text>Et même si on voulait admettre avec la minorité que la nationalité ou le domicile peuvent, en principe, créer le lien nécessaire, il y a toujours un aspect temporel dont il faut tenir compte.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3823.29</TimestampBegin>
+			<TimestampEnd>3830.69</TimestampEnd>
+			<Text>Pour faire partie de la cause, un élément doit exister au moment des faits en question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3830.69</TimestampBegin>
+			<TimestampEnd>3840.49</TimestampEnd>
+			<Text>En l'espèce, nous l'avons dit, les actes de torture allégués ont été commis en Tunisie par des agents de l'État tunisien avant ressorti sans Tunisien domicilier en Italie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3840.49</TimestampBegin>
+			<TimestampEnd>3845.09</TimestampEnd>
+			<Text>Aucun élément de la cause ne présentait un lien avec la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3845.09</TimestampBegin>
+			<TimestampEnd>3868.69</TimestampEnd>
+			<Text>Donc, même à supposer que le critère du domicile, nationalité, pourrait être déterminant, ce qui, je le répète, ne correspond pas à la conception suisse, l'arrivée du requérant en Suisse après les actes de torture et sa naturalisation ne pourrait plus créer, après coup, un lien qui n'existait pas au moment des faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3868.69</TimestampBegin>
+			<TimestampEnd>3872.29</TimestampEnd>
+			<Text>C'est ce qu'a exprimé le tribunal fédéral de façon succincte.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3872.29</TimestampBegin>
+			<TimestampEnd>3877.29</TimestampEnd>
+			<Text>Il s'agit d'un fait postérieur à la cause.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3877.29</TimestampBegin>
+			<TimestampEnd>3881.69</TimestampEnd>
+			<Text>Finalement, l'argument du requérant tiré de la possibilité d'une procédure d'adhésion.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3881.69</TimestampBegin>
+			<TimestampEnd>3892.29</TimestampEnd>
+			<Text>La Chambre note que plusieurs États connaissent la compétence universelle en matière pénale, nous pouvons alors se constituer parti civil devant la juridiction pénale.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3892.29</TimestampBegin>
+			<TimestampEnd>3900.29</TimestampEnd>
+			<Text>Ce qu'a fait le requérant, la plainte fut toutefois classée parce que le prévenu avait quitté la Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3900.29</TimestampBegin>
+			<TimestampEnd>3910.29</TimestampEnd>
+			<Text>Le Code de procédure pénale du Compte de Genève, applicable à l'époque des faits, connaissait ce type de procédure comme aujourd'hui le Code de procédure pénale suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3910.29</TimestampBegin>
+			<TimestampEnd>3920.89</TimestampEnd>
+			<Text>A la connaissance du gouvernement, jamais un tribunal pénal en Suisse n'a jugé de conclusion civile dans une constellation comparable à la présente.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3920.89</TimestampBegin>
+			<TimestampEnd>3925.69</TimestampEnd>
+			<Text>L'affaire S qui vient d'être mentionnée, il faut voir de quoi il s'agissait.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3925.69</TimestampBegin>
+			<TimestampEnd>3934.69</TimestampEnd>
+			<Text>Monsieur S a son domicile, sa résidence habituelle en Suisse et il est de nationalité suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3934.69</TimestampBegin>
+			<TimestampEnd>3939.49</TimestampEnd>
+			<Text>Il ne s'agit donc pas d'une affaire comparable à la nôtre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3939.49</TimestampBegin>
+			<TimestampEnd>3951.69</TimestampEnd>
+			<Text>Quoi qu'il en soit, le requérant essaye de construire une contradiction entre cette possibilité et procédure d'adhésion qu'il présente comme une certitude et l'interprétation restrictive de l'article 3 et des IP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3951.69</TimestampBegin>
+			<TimestampEnd>3964.59</TimestampEnd>
+			<Text>On sait toutefois que ce type de procédure est déjà peu utilisé dans la pratique du procès pénal en général et il semble plus probable que le juge pénal aurait renvoyé la partie plaignante à agir par la voie civile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3964.59</TimestampBegin>
+			<TimestampEnd>3976.29</TimestampEnd>
+			<Text>Et même s'il ne l'avait pas fait, ce renvoi, il aurait dû lui aussi examiner si les conditions du fort de nécessité en matière civile étaient bien remplies.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3976.29</TimestampBegin>
+			<TimestampEnd>3983.59</TimestampEnd>
+			<Text>Cette exigence est aujourd'hui expressément réglée à l'article 8C de la LDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3983.59</TimestampBegin>
+			<TimestampEnd>3995.39</TimestampEnd>
+			<Text>Voilà, Monsieur le Président, Mesdames et Messieurs les Juges, les raisons pour lesquelles le gouvernement estime que le tribunal fédéral a rendu un arrêt non seulement défendable, mais raisonnable et judicieux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3995.39</TimestampBegin>
+			<TimestampEnd>4007.19</TimestampEnd>
+			<Text>Il invite la Grande Chambre à suivre la majorité de la Chambre et à dire que la restriction du droit du requérant à l'accès à un tribunal n'a pas enfreint l'article 6 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4007.19</TimestampBegin>
+			<TimestampEnd>4012.49</TimestampEnd>
+			<Text>Quelques observations encore sur l'article 41 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4012.49</TimestampBegin>
+			<TimestampEnd>4022.29</TimestampEnd>
+			<Text>Rappelons d'abord que devant la Chambre, le requérant n'a demandé une satisfaction ni pour dommages matériels, ni pour les frais et dépens encourus dans la procédure interne.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4022.29</TimestampBegin>
+			<TimestampEnd>4033.09</TimestampEnd>
+			<Text>Il est donc fort clos quand il inclut maintenant dans son mémoire devant la Grande Chambre, page 29, les dédits, frais et dépens, d'ailleurs sans aucune précision.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4033.09</TimestampBegin>
+			<TimestampEnd>4044.29</TimestampEnd>
+			<Text>Quant aux prétentions au titre du tort moral et des dépens pour la procédure devant la Chambre, nous vous renvoyons à nos observations du 23 juin 2011 devant la Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4044.29</TimestampBegin>
+			<TimestampEnd>4049.69</TimestampEnd>
+			<Text>Dans la procédure devant la Grande Chambre, le requérant se fait représenter par deux avocats.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4049.69</TimestampBegin>
+			<TimestampEnd>4058.19</TimestampEnd>
+			<Text>Ces derniers réclament un montant de plus de 33 000 francs suisses pour la seule procédure devant la Grande Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4058.19</TimestampBegin>
+			<TimestampEnd>4063.19</TimestampEnd>
+			<Text>Nous l'avons dit au début, l'objet du litige dans la présente affaire est assez limité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4063.19</TimestampBegin>
+			<TimestampEnd>4071.09</TimestampEnd>
+			<Text>Nous référons à la jurisprudence pertinente de la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4071.09</TimestampBegin>
+			<TimestampEnd>4083.39</TimestampEnd>
+			<Text>Array Iatridis contre Grèce, Array Associated Society of Locomotive Engineers and Firemen, nous contestons la nécessité d'avoir recours à plusieurs avocats.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4083.39</TimestampBegin>
+			<TimestampEnd>4097.29</TimestampEnd>
+			<Text>Nous contestons en plus le caractère raisonnable du montant réclamé et estimons qu'un montant de 7 000 francs suisses constituerait une satisfaction équitable pour les dépens encourus dans la procédure devant la Grande Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4097.29</TimestampBegin>
+			<TimestampEnd>4097.29</TimestampEnd>
+			<Text>Je vous remercie de votre attention.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4100.04</TimestampBegin>
+			<TimestampEnd>4102.64</TimestampEnd>
+			<Text>Merci beaucoup, M. Schürmann.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4102.8</TimestampBegin>
+			<TimestampEnd>4107.32</TimestampEnd>
+			<Text>Je remercie tous les intervenants pour leur déclaration.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4107.48</TimestampBegin>
+			<TimestampEnd>4114.32</TimestampEnd>
+			<Text>Je me tourne maintenant vers mes collègues, juge de la Grande Chambre, pour savoir s'ils ont des questions à poser au parti.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4114.32</TimestampBegin>
+			<TimestampEnd>4116.32</TimestampEnd>
+			<Text>Merci. M. le juge Wojtyczek.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Krzysztof Wojtyczek</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4119.78</TimestampBegin>
+			<TimestampEnd>4120.78</TimestampEnd>
+			<Text>Merci, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4120.94</TimestampBegin>
+			<TimestampEnd>4127.46</TimestampEnd>
+			<Text>J'ai deux questions qui s'adressent avant tout aux requérants, mais peut-être le gouvernement souhaitera aussi répondre à ces questions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4128.62</TimestampBegin>
+			<TimestampEnd>4141.1</TimestampEnd>
+			<Text>La première concerne les modalités pratiques de l'exécution d'un arrêt sur les fonds à supposer que les requérants aient pu obtenir un arrêt sur les fonds.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4142.3</TimestampBegin>
+			<TimestampEnd>4146.18</TimestampEnd>
+			<Text>Dans quel État sera engagée la procédure d'exécution?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4146.18</TimestampBegin>
+			<TimestampEnd>4151.94</TimestampEnd>
+			<Text>Quelle serait sa base légale, notamment les traités applicables à la procédure d'exécution?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4152.18</TimestampBegin>
+			<TimestampEnd>4158.02</TimestampEnd>
+			<Text>Et quels seraient les effets pratiques de l'exécution d'un tel arrêt?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4158.34</TimestampBegin>
+			<TimestampEnd>4159.54</TimestampEnd>
+			<Text>C'est la première question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4160.26</TimestampBegin>
+			<TimestampEnd>4164.5</TimestampEnd>
+			<Text>La deuxième question concerne un point différent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4165.38</TimestampBegin>
+			<TimestampEnd>4178.54</TimestampEnd>
+			<Text>Les requérants présentent par d'un lien entre l'affaire et la Suisse qui rendrait l'article 6 de la Convention applicable.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4178.78</TimestampBegin>
+			<TimestampEnd>4200.46</TimestampEnd>
+			<Text>Est-ce que la nature de ces liens s'apprécie de la même façon pour établir la compétence juridictionnelle, la compétence des tribunaux, que pour établir aussi la compétence d'un État pour régir des questions de fonds et établir des règles de l'exécution?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4200.46</TimestampBegin>
+			<TimestampEnd>4203.74</TimestampEnd>
+			<Text>Et établir des règles substantielles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4204.1</TimestampBegin>
+			<TimestampEnd>4214.06</TimestampEnd>
+			<Text>Autrement dit, est-ce que la compétence des tribunaux suisses est indépendante des questions quels sont les droits substantiels applicables?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4215.18</TimestampBegin>
+			<TimestampEnd>4225.54</TimestampEnd>
+			<Text>Elle peut aller au-delà du droit suisse substantiel et les tribunaux seraient compétents pour connaître le droit civil qui serait régi par le droit d'un autre État?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4225.9</TimestampBegin>
+			<TimestampEnd>4234.34</TimestampEnd>
+			<Text>Ou est-ce qu'entre les deux compétences, la compétence des tribunaux et la compétence de l'État pour régir les questions de droits matériels, il y a un lien?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4236.74</TimestampBegin>
+			<TimestampEnd>4252.1</TimestampEnd>
+			<Text>Est-ce que ces critères de lien entre l'État et les mêmes critères pour établir la compétence des tribunaux que pour établir la compétence pour régir les questions de fonds, pour édicter les droits matériels?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4252.1</TimestampBegin>
+			<TimestampEnd>4252.1</TimestampEnd>
+			<Text>Merci.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4253.26</TimestampBegin>
+			<TimestampEnd>4255.06</TimestampEnd>
+			<Text>Merci beaucoup.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4255.9</TimestampBegin>
+			<TimestampEnd>4257.3</TimestampEnd>
+			<Text>Donc...</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4257.46</TimestampBegin>
+			<TimestampEnd>4259.38</TimestampEnd>
+			<Text>Ah, monsieur le juge Dedov.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4259.38</TimestampBegin>
+			<TimestampEnd>4261.59</TimestampEnd>
+			<Text>Yes, please, you have the floor.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Dmitry Dedov</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4266.43</TimestampBegin>
+			<TimestampEnd>4268.55</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4268.55</TimestampBegin>
+			<TimestampEnd>4271.11</TimestampEnd>
+			<Text>I have three questions to the parties.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4271.11</TimestampBegin>
+			<TimestampEnd>4278.23</TimestampEnd>
+			<Text>First, the Italian aspect context was mentioned by the government.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4278.23</TimestampBegin>
+			<TimestampEnd>4286.15</TimestampEnd>
+			<Text>And my question is for both parties, what could be the nature of the claim?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4286.15</TimestampBegin>
+			<TimestampEnd>4294.43</TimestampEnd>
+			<Text>It would be the same or the different nature in Italian courts, if the case would be.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4294.43</TimestampBegin>
+			<TimestampEnd>4301.39</TimestampEnd>
+			<Text>The next question is about the case law provided by the federal court in its judgment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4301.39</TimestampBegin>
+			<TimestampEnd>4318.63</TimestampEnd>
+			<Text>And also, the government referred to other examples how the Article 3 of the law was applied to the inheritance law, the law of debt enforcement and bankruptcy.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4318.63</TimestampBegin>
+			<TimestampEnd>4337.63</TimestampEnd>
+			<Text>My question is whether this article is limited to those property disputes or to family law, or it has more general application in civil cases.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4337.63</TimestampBegin>
+			<TimestampEnd>4349.19</TimestampEnd>
+			<Text>And in connection with this case law, if the parties could explain how the elements in those cases were applied in Article 3.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4349.19</TimestampBegin>
+			<TimestampEnd>4362.81</TimestampEnd>
+			<Text>I mean the connection to the state, the connection which could be provided by the applicant, by the claimant, by the offender, or the events.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4362.81</TimestampBegin>
+			<TimestampEnd>4375.69</TimestampEnd>
+			<Text>So as I understand, and maybe I'm wrong, that there are some foreign elements and domestic elements in those cases.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4375.69</TimestampBegin>
+			<TimestampEnd>4388.25</TimestampEnd>
+			<Text>For example, if you give some explanation in relation to one particular category of those cases, for example, debt enforcement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4388.25</TimestampBegin>
+			<TimestampEnd>4395.65</TimestampEnd>
+			<Text>The next question is about the element which was mentioned by the government, not by the applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4395.65</TimestampBegin>
+			<TimestampEnd>4410.29</TimestampEnd>
+			<Text>But my question is how the domestic proceedings, the parties and the national authorities assessed or examined that element.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4410.29</TimestampBegin>
+			<TimestampEnd>4420.21</TimestampEnd>
+			<Text>I mean that the person who ordered the torture, Mr. A.K.,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4420.21</TimestampBegin>
+			<TimestampEnd>4429.69</TimestampEnd>
+			<Text>the Minister of Internal Affairs of Tunis, had medical treatment in the Swiss clinic.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4429.69</TimestampBegin>
+			<TimestampEnd>4456.85</TimestampEnd>
+			<Text>Does it mean that there could be some connection with the Swiss state, with Switzerland, for example, that the person could have a property or a bank account, how he paid for the services, whether that element was the subject of investigation by the national authorities to establish the connection between the case and the state?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4456.85</TimestampBegin>
+			<TimestampEnd>4478.97</TimestampEnd>
+			<Text>And also the question in connection with all these observations made by the applicants, whether the concept of arguable claim or legitimate expectations could be applied in the present case, that what you said about the connection between the applicant and the state.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4478.97</TimestampBegin>
+			<TimestampEnd>4478.97</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4479.92</TimestampBegin>
+			<TimestampEnd>4481.58</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4481.58</TimestampBegin>
+			<TimestampEnd>4482.58</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4482.58</TimestampBegin>
+			<TimestampEnd>4482.58</TimestampEnd>
+			<Text>Judge Serghides, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Georgios A. Serghides</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4484.48</TimestampBegin>
+			<TimestampEnd>4486.52</TimestampEnd>
+			<Text>Thank you, Mr. President.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4486.52</TimestampBegin>
+			<TimestampEnd>4493.52</TimestampEnd>
+			<Text>I have only one question, which will be addressed to both parties.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4493.52</TimestampBegin>
+			<TimestampEnd>4517.08</TimestampEnd>
+			<Text>Could you please comment as to whether the provisions of Article 1 of the Convention, which provides that the high contracted parties shall secure to everyone within their jurisdiction the rights and freedoms defined in Section 1 of the Convention, may be relevant in the present case?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4517.08</TimestampBegin>
+			<TimestampEnd>4521.0</TimestampEnd>
+			<Text>And if yes, in what way and to what extent?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4521.0</TimestampBegin>
+			<TimestampEnd>4521.0</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4522.44</TimestampBegin>
+			<TimestampEnd>4525.44</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4525.44</TimestampBegin>
+			<TimestampEnd>4532.44</TimestampEnd>
+			<Text>S'il n'y a pas d'autres questions, la cour va maintenant se retirer pour 20 minutes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4532.44</TimestampBegin>
+			<TimestampEnd>4542.44</TimestampEnd>
+			<Text>Après quoi, les partis pourront présenter des brèves observations en réponse aux clés d'oreille adverse et répondre aux questions des juges.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4542.44</TimestampBegin>
+			<TimestampEnd>4542.44</TimestampEnd>
+			<Text>La séance est suspendue.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Announcer</Role>
+		<Name>UNK</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4653.51</TimestampBegin>
+			<TimestampEnd>4654.35</TimestampEnd>
+			<Text>La Cour!</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4702.88</TimestampBegin>
+			<TimestampEnd>4704.14</TimestampEnd>
+			<Text>Je vous en prie, prenez place.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4710.26</TimestampBegin>
+			<TimestampEnd>4720.08</TimestampEnd>
+			<Text>L'audience est reprise, donc la parole est à la partie récréante, si possible Maître Grant ou Maître Membrez, Maître Membrez.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP2</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4724.28</TimestampBegin>
+			<TimestampEnd>4725.44</TimestampEnd>
+			<Text>Merci beaucoup, monsieur le président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4726.48</TimestampBegin>
+			<TimestampEnd>4741.0</TimestampEnd>
+			<Text>Je vais commencer par répondre à une question de monsieur le juge Wojtyszek en rapport avec les modalités pratiques de l'exécution du jugement suisse dans ce cas.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4741.88</TimestampBegin>
+			<TimestampEnd>4756.84</TimestampEnd>
+			<Text>Alors, pour vous dire que le jugement peut être exécuté dans tous les États où monsieur Aka, ou dans tous les pays où monsieur Aka aurait détenu des biens, comme par exemple en Suisse, s'il y avait un compte bancaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4758.24</TimestampBegin>
+			<TimestampEnd>4767.96</TimestampEnd>
+			<Text>Le jugement peut aussi être exécuté en Tunisie sans difficulté. En droit tunisien, la reconnaissance et l'exécution</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4767.96</TimestampBegin>
+			<TimestampEnd>4773.68</TimestampEnd>
+			<Text>des jugements est prévue par le Code de droit international privé de la République de Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4774.32</TimestampBegin>
+			<TimestampEnd>4781.48</TimestampEnd>
+			<Text>Les articles 11 à 18 indiquent quelles sont les modalités de l'exécution d'un jugement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4782.12</TimestampBegin>
+			<TimestampEnd>4796.0</TimestampEnd>
+			<Text>Et il y a, à notre connaissance, toutes les conditions sont remplies pour qu'un jugement rendu en Suisse sur une base telle que celle qui est requise pour monsieur Naït Liman soit exécutée en Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4796.8</TimestampBegin>
+			<TimestampEnd>4809.56</TimestampEnd>
+			<Text>Nous ne comprenons pas l'affirmation du gouvernement suisse qui dit qu'il n'y a pas de réciprocité parce qu'à notre connaissance, les jugements tunisiens sont reconnus sans problème en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4809.56</TimestampBegin>
+			<TimestampEnd>4819.36</TimestampEnd>
+			<Text>Et comme je l'ai indiqué, selon le Code de droit international privé de la Tunisie, les articles 11 à 18, les jugements suisses sont aussi reconnus sans difficulté en Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4819.36</TimestampBegin>
+			<TimestampEnd>4832.6</TimestampEnd>
+			<Text>Pour répondre à votre seconde question au sujet de la différence entre la compétence juridictionnelle et le droit applicable au fond de la cause.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4832.6</TimestampBegin>
+			<TimestampEnd>4838.48</TimestampEnd>
+			<Text>Alors ici, la situation, c'est la suivante.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4838.48</TimestampBegin>
+			<TimestampEnd>4850.24</TimestampEnd>
+			<Text>L'article 3 LDIP avec le fort de nécessité prévoit une compétence juridictionnelle en Suisse, mais pour le droit de fond, la même LDIP suisse renvoie au droit tunisien.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4850.24</TimestampBegin>
+			<TimestampEnd>4858.76</TimestampEnd>
+			<Text>C'est le Code des obligations de la Tunisie qui est applicable au droit de fond à la substance matérielle de l'affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4858.76</TimestampBegin>
+			<TimestampEnd>4871.0</TimestampEnd>
+			<Text>Les articles 82 et suivants, ce sont eux que nous avons plaidés devant les instances nationales sur le fond pour la substance de la réclamation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4871.0</TimestampBegin>
+			<TimestampEnd>4880.92</TimestampEnd>
+			<Text>Maintenant, je vais répondre brièvement à la question de M. le juge Dedoff au sujet des autres cas d'application,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4880.92</TimestampBegin>
+			<TimestampEnd>4890.76</TimestampEnd>
+			<Text>des autres cas qui ont été jugés en Suisse où la compétence a été fondée sur l'article 3 LDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4890.76</TimestampBegin>
+			<TimestampEnd>4901.8</TimestampEnd>
+			<Text>Alors, dans les autres affaires, il y avait une société en Californie qui avait son siège en Californie qui prétendait être créancière d'une société suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4901.8</TimestampBegin>
+			<TimestampEnd>4918.96</TimestampEnd>
+			<Text>Sur une question de constatation que la créance n'existait pas, la société suisse a agi en Suisse, mais pour nous, la cause était aussi à l'étranger dans ce cas, comme dans la présente affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4918.96</TimestampBegin>
+			<TimestampEnd>4925.68</TimestampEnd>
+			<Text>Ensuite, dans la deuxième, la mère et son enfant étaient domiciliés aux Etats-Unis.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4925.68</TimestampBegin>
+			<TimestampEnd>4932.4</TimestampEnd>
+			<Text>Le seul rattachement avec la Suisse, c'est que le demandeur, le père de l'enfant, avait son domicile en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4932.4</TimestampBegin>
+			<TimestampEnd>4938.32</TimestampEnd>
+			<Text>Et dans la troisième affaire, ce sont deux époux qui ont vécu en France et qui ont divorcé en France.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4938.32</TimestampBegin>
+			<TimestampEnd>4947.72</TimestampEnd>
+			<Text>Et là, la compétence a été fondée parce que l'institution de prévoyance avait son domicile, son siège en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4947.72</TimestampBegin>
+			<TimestampEnd>4963.44</TimestampEnd>
+			<Text>Donc, selon nous, comme nous l'avons dit, le tribunal fédéral a jugé différemment l'affaire présente ici, l'affaire de M. Naït Limane, où il agit en dommages intérêts contre M.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4963.44</TimestampBegin>
+			<TimestampEnd>4966.08</TimestampEnd>
+			<Text>Aka pour les actes qu'il a subis en Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4966.08</TimestampBegin>
+			<TimestampEnd>4976.72</TimestampEnd>
+			<Text>Il la juge différemment que les autres cas, parce que dans les autres cas, la cause se présentait, même si on retient cette interprétation que nous contestons, la cause était également à l'étranger.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4976.72</TimestampBegin>
+			<TimestampEnd>4981.28</TimestampEnd>
+			<Text>Et c'est pourquoi nous avons aussi invoqué une inégalité de traitement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4981.28</TimestampBegin>
+			<TimestampEnd>4985.2</TimestampEnd>
+			<Text>Voilà, M. le Président, j'en ai terminé pour mes réponses</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4985.2</TimestampBegin>
+			<TimestampEnd>4987.36</TimestampEnd>
+			<Text>et je passe maintenant la parole à M. Grant pour la suite</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4987.36</TimestampBegin>
+			<TimestampEnd>4987.36</TimestampEnd>
+			<Text>des réponses.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4989.22</TimestampBegin>
+			<TimestampEnd>4992.58</TimestampEnd>
+			<Text>Merci beaucoup, maitre Membrez, maître Grant.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP1</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4993.04</TimestampBegin>
+			<TimestampEnd>4994.04</TimestampEnd>
+			<Text>Merci, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4994.04</TimestampBegin>
+			<TimestampEnd>4998.12</TimestampEnd>
+			<Text>Il s'agira de réponses à certaines questions et de répliques aussi aux propos du gouvernement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4998.12</TimestampBegin>
+			<TimestampEnd>5008.04</TimestampEnd>
+			<Text>Celui-ci, tout comme le tribunal fédéral, nous a appris, nous a répété que les faits postérieurs aux actes de torture ne devaient pas, ne pouvaient pas être pris en compte.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5008.04</TimestampBegin>
+			<TimestampEnd>5019.4</TimestampEnd>
+			<Text>Et s'il y avait un déplacement, par exemple, de la victime du pays où les tortures ont été commises en Suisse, cela ne créait pas un fort pour une action civile en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5019.4</TimestampBegin>
+			<TimestampEnd>5039.4</TimestampEnd>
+			<Text>Mais il y a une règle qui contrecarre complètement cet état de figure dans la loi suisse sur le droit international privé, l'article 129, qui énonce que les tribunaux suisses du domicile ou à défaut de domicile, ceux de la résidence habituelle du défendeur, sont compétents pour connaître les actions fondées sur un acte judicite à torture.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5039.4</TimestampBegin>
+			<TimestampEnd>5044.32</TimestampEnd>
+			<Text>Imaginons-nous le tortionnaire venir s'établir en Suisse après les faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5044.32</TimestampBegin>
+			<TimestampEnd>5046.28</TimestampEnd>
+			<Text>Les tribunaux suisses sont compétents.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5046.28</TimestampBegin>
+			<TimestampEnd>5054.44</TimestampEnd>
+			<Text>C'est bien la preuve que des faits subséquents à la torture peuvent avoir un impact sur l'établissement du fort en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5054.44</TimestampBegin>
+			<TimestampEnd>5065.68</TimestampEnd>
+			<Text>Et nous le pensons très fortement, permettent également de considérer d'autres éléments, par exemple, l'acquisition de la nationalité, la résidence et d'autres éléments de ce type-là.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5065.68</TimestampBegin>
+			<TimestampEnd>5068.32</TimestampEnd>
+			<Text>J'aimerais aussi revenir sur la question de la compétence universelle.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5068.32</TimestampBegin>
+			<TimestampEnd>5074.4</TimestampEnd>
+			<Text>Je crois qu'il y a un réel danger à tenter de faire de l'équilibrisme sur des concepts que l'on maîtrise mal et qui sont flous.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5074.4</TimestampBegin>
+			<TimestampEnd>5083.92</TimestampEnd>
+			<Text>En matière pénale, la compétence universelle, c'est un concept qui est connu, qui permet aux victimes, à quelque part, d'aller chasser, pourchasser, poursuivre leurs auteurs.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5083.92</TimestampBegin>
+			<TimestampEnd>5087.48</TimestampEnd>
+			<Text>La compétence universelle pénale permet la création de multiples forts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5087.48</TimestampBegin>
+			<TimestampEnd>5094.36</TimestampEnd>
+			<Text>Si vous avez un tortionnaire qui vient s'établir dans plusieurs pays, la compétence des autorités de poursuite pénale le suive.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5094.36</TimestampBegin>
+			<TimestampEnd>5098.44</TimestampEnd>
+			<Text>En matière civile, on ne peut pas avoir les choses de la même manière.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5098.44</TimestampBegin>
+			<TimestampEnd>5103.68</TimestampEnd>
+			<Text>Ce serait évidemment intenable d'avoir ce type de fort et ce n'est pas ce que le requérant demande.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5103.68</TimestampBegin>
+			<TimestampEnd>5118.28</TimestampEnd>
+			<Text>Il faut laisser cette question de compétence universelle civile qui n'a aucun ancrage en droit positif de côté et il faut se rabattre sur quelque chose que l'on connaît tous, le droit d'accès à un tribunal fondé sur un fort approprié.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5118.28</TimestampBegin>
+			<TimestampEnd>5121.28</TimestampEnd>
+			<Text>On nous a fait très peur avec des chiffres tout à l'heure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5121.28</TimestampBegin>
+			<TimestampEnd>5131.12</TimestampEnd>
+			<Text>Il y aurait des milliers de réfugiés en Suisse qui viendraient, lors suite à votre arrêt, saisir les tribunaux et évidemment surcharger les administrations judiciaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5131.12</TimestampBegin>
+			<TimestampEnd>5133.2</TimestampEnd>
+			<Text>Dans la pratique, ça ne va pas se passer comme ça.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5133.2</TimestampBegin>
+			<TimestampEnd>5138.32</TimestampEnd>
+			<Text>Il faut évidemment surmonter des difficultés énormes dans ces domaines.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5138.32</TimestampBegin>
+			<TimestampEnd>5142.0</TimestampEnd>
+			<Text>Il faut importer la preuve des tortures subies.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5142.0</TimestampBegin>
+			<TimestampEnd>5147.92</TimestampEnd>
+			<Text>Il faut réussir à signer son tortionnaire s'il est encore en ville, dans le lieu où il réside.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5147.92</TimestampBegin>
+			<TimestampEnd>5149.6</TimestampEnd>
+			<Text>Il faut rémunérer un avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5149.6</TimestampBegin>
+			<TimestampEnd>5153.72</TimestampEnd>
+			<Text>Il faut avoir la force physique et humaine, psychologique d'aller de l'avant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5153.72</TimestampBegin>
+			<TimestampEnd>5155.8</TimestampEnd>
+			<Text>Il n'y aura pas des dizaines de milliers d'affaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5155.8</TimestampBegin>
+			<TimestampEnd>5165.12</TimestampEnd>
+			<Text>La preuve, c'est que dans les pays très largement ouverts à ce type de procédure, les Pays-Bas par exemple, il y a eu, je crois, un ou deux dossiers cette dernière décennie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5165.12</TimestampBegin>
+			<TimestampEnd>5171.8</TimestampEnd>
+			<Text>Votre jugement aujourd'hui ne va pas ouvrir la porte à une avalanche d'affaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5171.8</TimestampBegin>
+			<TimestampEnd>5173.6</TimestampEnd>
+			<Text>Je crois que c'est M. le juge Dédoeuf qui a posé</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5173.6</TimestampBegin>
+			<TimestampEnd>5176.92</TimestampEnd>
+			<Text>une question sur une affaire possible en Italie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5176.92</TimestampBegin>
+			<TimestampEnd>5182.64</TimestampEnd>
+			<Text>Alors évidemment, une affaire en Italie, si elle avait pu avoir lieu, elle aurait été dirigée contre l'État.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5182.64</TimestampBegin>
+			<TimestampEnd>5191.12</TimestampEnd>
+			<Text>Ça aurait été une action en responsabilité pour le fait que l'État a livré le requérant à la Tunisie pour qu'il s'y fasse torturer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5191.12</TimestampBegin>
+			<TimestampEnd>5197.36</TimestampEnd>
+			<Text>Une affaire de non-refoulement, nous n'avons pas les éléments, M. Naït Limane ne l'a pas faite, cette affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5197.36</TimestampBegin>
+			<TimestampEnd>5210.24</TimestampEnd>
+			<Text>Si en revanche, on estime que c'est en Italie qu'il doit aller déposer plainte contre le tortionnaire lui-même, alors on retombe dans cette compétence universelle civile et on permet d'ouvrir des forts un petit peu n'importe où.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5210.24</TimestampBegin>
+			<TimestampEnd>5214.48</TimestampEnd>
+			<Text>Ce n'est pas ce que demande M. Naït Limane.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5216.68</TimestampBegin>
+			<TimestampEnd>5225.72</TimestampEnd>
+			<Text>Et pour répondre à la dernière question, je crois, du juge Serguides et de l'article 1er, comment celui-ci peut être vu dans l'autre cas.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5225.72</TimestampBegin>
+			<TimestampEnd>5229.16</TimestampEnd>
+			<Text>Je crois que les conclusions de cette affaire sont assez évidentes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5229.16</TimestampBegin>
+			<TimestampEnd>5236.92</TimestampEnd>
+			<Text>Premier point, en matière de torture, la victime doit pouvoir disposer d'une voie de droit civil pour obtenir réparation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5236.92</TimestampBegin>
+			<TimestampEnd>5245.88</TimestampEnd>
+			<Text>Si ce n'est pas dans son pays, cela doit être dans un pays tiers, nous dit notamment l'article 14 de la Convention contre la torture.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5245.88</TimestampBegin>
+			<TimestampEnd>5253.48</TimestampEnd>
+			<Text>Il suffit alors dans ce cas de garantir un fort et un seul fort approprié pour cela, pour éviter le déni de justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5253.48</TimestampBegin>
+			<TimestampEnd>5272.0</TimestampEnd>
+			<Text>Si un réfugié, il peut venir d'Europe, d'ailleurs, mais s'il venait de pays extra-européens, arrivait et débarquait sur le territoire d'un État membre du Conseil de l'Europe, au titre de l'article 1er, il récupérerait le droit garanti par l'article 6 CEDH.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5272.0</TimestampBegin>
+			<TimestampEnd>5290.04</TimestampEnd>
+			<Text>Et cet article CEDH, à ce moment-là, servirait en quelque sorte de réceptacle aux exigences, aux obligations découlant de l'article 14 de la Convention contre la torture et permettrait de mettre ces obligations découlant de la Convention contre la torture en oeuvre de manière cohérente.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5290.04</TimestampBegin>
+			<TimestampEnd>5309.68</TimestampEnd>
+			<Text>Du moment où l'article 6 s'applique, et il s'applique parce que les prétentions civiles qui découlent d'actes de torture sont des prétentions couvertes par l'article 6, paragraphe 1, on pourra alors se référer à l'ensemble des circonstances du cas d'espèce pour établir où est le fort approprié en suivant l'arrêt Harlewin, notamment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5309.68</TimestampBegin>
+			<TimestampEnd>5310.92</TimestampEnd>
+			<Text>Alors quelles sont ces circonstances?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5310.92</TimestampBegin>
+			<TimestampEnd>5312.64</TimestampEnd>
+			<Text>Elles peuvent être de plusieurs ordres.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5312.64</TimestampBegin>
+			<TimestampEnd>5331.96</TimestampEnd>
+			<Text>Je vous réfère à la résolution de l'Institut de droit international de 2015 et de son article 2 qui permettent de manière très coulante, de manière très cohérente de déterminer le pays le plus approprié pour exercer ce fort et éviter les dénis de justice pour les victimes de torture.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5331.96</TimestampBegin>
+			<TimestampEnd>5351.72</TimestampEnd>
+			<Text>Parce que les restrictions, et je terminerai avec cela, les restrictions qui porteraient atteinte à l'essence même du droit d'accès au tribunal, comme le tribunal fédéral l'a fait, contrecarreraient le principe maintes fois répété par votre cours selon lequel la prohibition de la torture consacre l'une des valeurs fondamentales des sociétés démocratiques qui forment le Conseil de l'Europe.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5351.72</TimestampBegin>
+			<TimestampEnd>5351.72</TimestampEnd>
+			<Text>Merci.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5352.7</TimestampBegin>
+			<TimestampEnd>5355.34</TimestampEnd>
+			<Text>Merci beaucoup, maître Grant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5355.34</TimestampBegin>
+			<TimestampEnd>5357.34</TimestampEnd>
+			<Text>Et maintenant, la parole est à M. Schürmann.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR2</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5360.84</TimestampBegin>
+			<TimestampEnd>5362.96</TimestampEnd>
+			<Text>Merci, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5363.8</TimestampBegin>
+			<TimestampEnd>5371.8</TimestampEnd>
+			<Text>Mesdames et Messieurs les membres de la Grande Chambre, d'abord quelques observations sur la plaidoirie de la partie adverse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5371.8</TimestampBegin>
+			<TimestampEnd>5372.56</TimestampEnd>
+			<Text>Trois points.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5372.56</TimestampBegin>
+			<TimestampEnd>5382.76</TimestampEnd>
+			<Text>D'abord, on a pris note avec intérêt que le requérant s'est effectivement adressé à l'instance de la vérité et de la dignité en Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5383.84</TimestampBegin>
+			<TimestampEnd>5393.12</TimestampEnd>
+			<Text>On n'ignore pas qu'il y a des difficultés de mettre en oeuvre le système transitionnel, comme il a été décrit par M. Dik-Marti, entre autres.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5393.12</TimestampBegin>
+			<TimestampEnd>5408.08</TimestampEnd>
+			<Text>Nous savons également de notre représentation à Tunis qu'il y a ces difficultés, mais il ne reste pas moins qu'il y a un système de justice transitionnelle qui a été mis en place et les efforts continuent pour les mettre en oeuvre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5409.32</TimestampBegin>
+			<TimestampEnd>5424.84</TimestampEnd>
+			<Text>La deuxième observation concerne la recommandation citée par le requérant, la recommandation de l'Assemblée parlementaire numéro 1327 de 1997, intitulée Protection et renforcement des droits de l'homme des réfugiés et des requérants d'asile.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5425.84</TimestampBegin>
+			<TimestampEnd>5438.36</TimestampEnd>
+			<Text>Cette recommandation, en effet, invite les États membres à établir une législation à l'instar du Alien Tort Claim Act des États-Unis.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5438.36</TimestampBegin>
+			<TimestampEnd>5447.84</TimestampEnd>
+			<Text>La Chambre a fait référence à cet Alien Tort Act au paragraphe 53 de son arrêt.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5447.84</TimestampBegin>
+			<TimestampEnd>5449.6</TimestampEnd>
+			<Text>Deux petites remarques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5449.6</TimestampBegin>
+			<TimestampEnd>5458.04</TimestampEnd>
+			<Text>Cet acte, lui aussi, demande la présence de la personne soupçonnée sur le territoire qui a la juridiction.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5458.04</TimestampBegin>
+			<TimestampEnd>5464.36</TimestampEnd>
+			<Text>Et deuxièmement, n'oublions pas, il y a 20 ans que cette recommandation a été adoptée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5464.36</TimestampBegin>
+			<TimestampEnd>5470.88</TimestampEnd>
+			<Text>À notre connaissance, les États ne les ont pas suivies jusqu'à maintenant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5470.88</TimestampBegin>
+			<TimestampEnd>5474.6</TimestampEnd>
+			<Text>Troisième très petite remarque concernant la nationalité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5474.6</TimestampBegin>
+			<TimestampEnd>5482.64</TimestampEnd>
+			<Text>Il est vrai que la nationalité est mentionnée dans la requête à la Cour, mais seulement dans l'introduction où il y a les coordonnées du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5482.64</TimestampBegin>
+			<TimestampEnd>5485.84</TimestampEnd>
+			<Text>Mais la nationalité n'a pas été...</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5485.84</TimestampBegin>
+			<TimestampEnd>5492.16</TimestampEnd>
+			<Text>L'argumentation de substance n'a pas été basée sur cet aspect de la nationalité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5492.16</TimestampBegin>
+			<TimestampEnd>5500.6</TimestampEnd>
+			<Text>Quant aux questions posées par plusieurs juges, d'abord, je prends l'ordre dans lequel elles ont été posées.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5500.6</TimestampBegin>
+			<TimestampEnd>5503.4</TimestampEnd>
+			<Text>D'abord, la question de M. le juge Wojciech.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5503.4</TimestampBegin>
+			<TimestampEnd>5506.24</TimestampEnd>
+			<Text>Là, je vous prie, M. le président, de passer la parole</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5506.24</TimestampBegin>
+			<TimestampEnd>5512.52</TimestampEnd>
+			<Text>après à mon collègue, Nicolas Maillan, chef de l'Unité des droits internationals et publics.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5512.52</TimestampBegin>
+			<TimestampEnd>5516.36</TimestampEnd>
+			<Text>La question ou les questions de M. le juge Dédoff,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5516.36</TimestampBegin>
+			<TimestampEnd>5519.0</TimestampEnd>
+			<Text>la nature de la procédure en Italie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5519.0</TimestampBegin>
+			<TimestampEnd>5521.52</TimestampEnd>
+			<Text>Là, je crois qu'il y a deux aspects.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5521.52</TimestampBegin>
+			<TimestampEnd>5533.36</TimestampEnd>
+			<Text>Il y a l'aspect des obligations positives découlant de l'article 3 qui pourrait entraîner la responsabilité de l'Etat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5533.36</TimestampBegin>
+			<TimestampEnd>5537.68</TimestampEnd>
+			<Text>Et le deuxième aspect, c'est la question du fort de nécessité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5537.68</TimestampBegin>
+			<TimestampEnd>5540.8</TimestampEnd>
+			<Text>Là, j'avoue qu'on n'a pas les éléments de réponse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5540.8</TimestampBegin>
+			<TimestampEnd>5547.12</TimestampEnd>
+			<Text>On ignore pour l'instant quelle est la situation, ou quelle était la situation à l'époque en Italie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5547.12</TimestampBegin>
+			<TimestampEnd>5557.36</TimestampEnd>
+			<Text>Et je propose qu'on va vérifier ces éléments et vous envoyer la réponse ensemble avec les réponses au dernier document qui a été soumis à la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5557.36</TimestampBegin>
+			<TimestampEnd>5562.28</TimestampEnd>
+			<Text>Je crois que vous nous avez imparti un délai jusqu'au 26 juin.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5562.28</TimestampBegin>
+			<TimestampEnd>5567.52</TimestampEnd>
+			<Text>Une autre question de M. le juge Dédoff,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5567.52</TimestampBegin>
+			<TimestampEnd>5573.64</TimestampEnd>
+			<Text>property or bank accounts et notamment la facture de l'hôpital.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5573.64</TimestampBegin>
+			<TimestampEnd>5583.52</TimestampEnd>
+			<Text>On avait mis à l'annexe de notre mémoire devant la grande chambre, c'est l'annexe 3C, le rapport d'un policier à M. le chef de la police judiciaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5583.52</TimestampBegin>
+			<TimestampEnd>5595.04</TimestampEnd>
+			<Text>Je cite brièvement, il parle donc de l'invitation du procureur, demander de localiser, d'identifier l'intéressé qui se trouvait hospitalisé à l'hôpital, etc.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5595.04</TimestampBegin>
+			<TimestampEnd>5602.0</TimestampEnd>
+			<Text>Aussitôt en possession de cette requête, nous avons pris contact avec Mme Marès Coty, responsable du service juridique de l'hôpital cantonal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5602.0</TimestampBegin>
+			<TimestampEnd>5606.92</TimestampEnd>
+			<Text>Celle-ci, après avoir reçu ces instructions de la part de M. le directeur général de l'hôpital,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5606.92</TimestampBegin>
+			<TimestampEnd>5608.8</TimestampEnd>
+			<Text>a répondu à notre demande.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5608.8</TimestampBegin>
+			<TimestampEnd>5614.16</TimestampEnd>
+			<Text>Selon les recherches qu'elle a fait effectuer, Mme a pu nous informer que M. K. avait effectivement</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5614.16</TimestampBegin>
+			<TimestampEnd>5619.76</TimestampEnd>
+			<Text>été hospitalisé à l'hôpital cantonal, mais avait quitté cet établissement le dimanche 11 février 2001.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5619.76</TimestampBegin>
+			<TimestampEnd>5627.52</TimestampEnd>
+			<Text>La facture consécutive à cette hospitalisation a été réglée par l'ambassade de Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5627.52</TimestampBegin>
+			<TimestampEnd>5631.24</TimestampEnd>
+			<Text>Annexe 3C à notre mémoire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5631.24</TimestampBegin>
+			<TimestampEnd>5636.04</TimestampEnd>
+			<Text>Quant à la quatrième question de M. le juge Dedof,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5636.04</TimestampBegin>
+			<TimestampEnd>5641.36</TimestampEnd>
+			<Text>là aussi, c'est mon collègue M. Maillard qui va y répondre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5641.36</TimestampBegin>
+			<TimestampEnd>5644.04</TimestampEnd>
+			<Text>Puis, il y avait la question de M. le juge Zerguides,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5644.04</TimestampBegin>
+			<TimestampEnd>5651.68</TimestampEnd>
+			<Text>article 1 de la CEDH, donc l'obligation de respecter les droits de l'homme.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5651.68</TimestampBegin>
+			<TimestampEnd>5658.44</TimestampEnd>
+			<Text>Bien sûr, cet article définit le champ d'application de la Convention à plusieurs égards.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5658.44</TimestampBegin>
+			<TimestampEnd>5684.84</TimestampEnd>
+			<Text>On sait que la Cour a fondé le concept des obligations positives également sur cet article 1, mais à notre avis, cet article 1 ne peut pas élargir la protection offerte par l'article 6 quant au droit à l'accès à un tribunal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5684.84</TimestampBegin>
+			<TimestampEnd>5693.92</TimestampEnd>
+			<Text>Voilà, maintenant, je vous prie de bien vouloir passer la parole à mon collègue et de me redonner la parole pour une dernière observation de mon intervention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5693.92</TimestampBegin>
+			<TimestampEnd>5695.72</TimestampEnd>
+			<Text>Merci, M. le Président.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5696.14</TimestampBegin>
+			<TimestampEnd>5698.46</TimestampEnd>
+			<Text>Merci, M. Schürmann.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5698.46</TimestampBegin>
+			<TimestampEnd>5699.5</TimestampEnd>
+			<Text>Merci, M. Meier.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR1</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5703.23</TimestampBegin>
+			<TimestampEnd>5714.43</TimestampEnd>
+			<Text>Monsieur le Président, Mesdames, Messieurs les juges, je vais d'abord aborder la question de monsieur le juge Wojciech par rapport aux modalités d'exécution du jugement éventuel suisse en Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5715.19</TimestampBegin>
+			<TimestampEnd>5724.79</TimestampEnd>
+			<Text>Comme la cité le requérant, le Code de droit international privé de la Tunisie connaît l'exigence de réciprocité et en l'espèce, cette réciprocité ne serait pas donnée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5725.27</TimestampBegin>
+			<TimestampEnd>5743.23</TimestampEnd>
+			<Text>Je cite l'article 149, aligné à 2, lettre F de la loi suisse sur le droit international privé, une décision étrangère est reconnue en matière d'obligation délectuelle lorsqu'elle a été rendue au lieu de l'acte, au lieu du résultat, et que le défendeur n'était pas domicilié en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5745.39</TimestampBegin>
+			<TimestampEnd>5763.71</TimestampEnd>
+			<Text>Supposons donc des atrocités commises en Suisse par un agent domicilié en Suisse et un jugement rendu en Tunisie sur un fort de nécessité tunisien ne pourraient pas être reconnus en Suisse parce que ces exigences de compétence indirecte ne seraient pas reconnues, ne seraient pas remplies.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5764.15</TimestampBegin>
+			<TimestampEnd>5771.75</TimestampEnd>
+			<Text>Donc il n'y a pas de réciprocité dans ce cas et un jugement suisse, en notre cas, ne pourrait pas être reconnu en Tunisie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5773.59</TimestampBegin>
+			<TimestampEnd>5777.55</TimestampEnd>
+			<Text>Ensuite, la 2e question par rapport aux liens entre la compétence et le droit applicable.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5779.27</TimestampBegin>
+			<TimestampEnd>5781.83</TimestampEnd>
+			<Text>Le gouvernement suisse confirme ici ce qu'a dit le requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5782.23</TimestampBegin>
+			<TimestampEnd>5794.95</TimestampEnd>
+			<Text>Il n'y a pas de lien entre la compétence et le droit applicable et il n'y a pas non plus de lien entre la compétence juridictionnelle et la compétence législative sur le fond, sur le droit matériel.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5795.39</TimestampBegin>
+			<TimestampEnd>5802.91</TimestampEnd>
+			<Text>Et en l'espèce, il n'y a pas de compétence juridictionnelle et il n'y aurait pas de compétence législative pour régler de telles affaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5803.59</TimestampBegin>
+			<TimestampEnd>5807.19</TimestampEnd>
+			<Text>Ensuite, je passe aux questions de M. le juge Dédof.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5808.19</TimestampBegin>
+			<TimestampEnd>5812.19</TimestampEnd>
+			<Text>D'abord, par rapport au champ d'application de l'article 3 LDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5813.03</TimestampBegin>
+			<TimestampEnd>5815.39</TimestampEnd>
+			<Text>En effet, le champ d'application, il est général.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5815.39</TimestampBegin>
+			<TimestampEnd>5818.75</TimestampEnd>
+			<Text>Il n'est pas limité à des questions de droit de la famille.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5819.79</TimestampBegin>
+			<TimestampEnd>5836.31</TimestampEnd>
+			<Text>Mais d'après la systématique du droit international privé telle qu'elle est connue en Europe depuis le 19e siècle, je cite ici Pasquale Mancini, Etienne Bartin ou bien encore Frédéric Kalf von Savigny, il faut toujours chercher, pour chaque constellation, le siège de cette affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5837.39</TimestampBegin>
+			<TimestampEnd>5842.11</TimestampEnd>
+			<Text>Pour, par exemple, un immeuble, c'est le lieu de situation de l'immeuble.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5842.11</TimestampBegin>
+			<TimestampEnd>5852.39</TimestampEnd>
+			<Text>Pour le droit de la famille, c'est notamment la nationalité, parce que le droit de la famille continue à être étroitement forgé par des concepts nationaux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5853.35</TimestampBegin>
+			<TimestampEnd>5864.7</TimestampEnd>
+			<Text>Et ce que je veux dire par là, c'est qu'on ne peut pas faire de parallélisme entre un critère de rattachement retenu dans un domaine du droit et l'extrapoler et l'appliquer à un autre domaine du droit.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5864.99</TimestampBegin>
+			<TimestampEnd>5866.7</TimestampEnd>
+			<Text>Il n'y a pas ce parallélisme.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5866.99</TimestampBegin>
+			<TimestampEnd>5872.79</TimestampEnd>
+			<Text>Donc, c'est pas parce qu'on a retenu un critère en droit de la famille qu'on pourrait l'appliquer en matière d'actes illicites.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5873.19</TimestampBegin>
+			<TimestampEnd>5876.95</TimestampEnd>
+			<Text>Je reprends les 4 exemples cités par le requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5878.35</TimestampBegin>
+			<TimestampEnd>5884.31</TimestampEnd>
+			<Text>D'abord, en matière de droit de la famille, comme je l'ai dit, c'est fortement forgé par les concepts nationaux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5884.51</TimestampBegin>
+			<TimestampEnd>5893.71</TimestampEnd>
+			<Text>Par exemple, en Suisse, on oblige les ressortissants suisses à inscrire un partenariat enregistré dans le registre d'Etat civil suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5893.91</TimestampBegin>
+			<TimestampEnd>5897.55</TimestampEnd>
+			<Text>Si on les oblige à l'inscrire, alors il faut aussi leur offrir un fort.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5897.75</TimestampBegin>
+			<TimestampEnd>5900.15</TimestampEnd>
+			<Text>Mais ce n'est pas du tout le cas.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5900.15</TimestampBegin>
+			<TimestampEnd>5903.39</TimestampEnd>
+			<Text>Ce n'est pas du tout le cas en matière d'actes illicites.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5903.59</TimestampBegin>
+			<TimestampEnd>5913.71</TimestampEnd>
+			<Text>Ensuite, en ce qui concerne l'action en constatation négative de dette, il s'agit là d'une particularité du droit suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5913.91</TimestampBegin>
+			<TimestampEnd>5922.51</TimestampEnd>
+			<Text>Chacun peut saisir les autorités de poursuite en Suisse pour intenter une poursuite contre quelqu'un qui est domicilier en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5922.99</TimestampBegin>
+			<TimestampEnd>5926.79</TimestampEnd>
+			<Text>Et après cela, il y a un inversement des rôles procéduraux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5926.79</TimestampBegin>
+			<TimestampEnd>5933.39</TimestampEnd>
+			<Text>Le débiteur devient celui qui doit demander que l'action ne soit pas poursuivie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5933.59</TimestampBegin>
+			<TimestampEnd>5935.79</TimestampEnd>
+			<Text>Donc il y a un inversement des rôles procéduraux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5935.99</TimestampBegin>
+			<TimestampEnd>5945.62</TimestampEnd>
+			<Text>Et si effectivement, c'est le demandeur qui peut saisir les tribunaux de son domicile, en réalité, dans l'aspect matériel, il s'agit du débiteur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5946.03</TimestampBegin>
+			<TimestampEnd>5952.19</TimestampEnd>
+			<Text>Donc dans une procédure ordinaire, ce serait le défendeur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5952.43</TimestampBegin>
+			<TimestampEnd>5957.75</TimestampEnd>
+			<Text>Et bien sûr, le domicile du défendeur est reconnu partout au monde, mais pas le domicile du demandeur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5957.83</TimestampBegin>
+			<TimestampEnd>5960.83</TimestampEnd>
+			<Text>Donc c'est bien une particularité suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5960.99</TimestampBegin>
+			<TimestampEnd>5975.95</TimestampEnd>
+			<Text>L'autre exemple cité en matière de droit de la famille, les requérants n'ont pas mentionné que dans ce cas cité en matière de droit de la famille et de protection des enfants, le divorce avait été prononcé en Suisse, la mère était suisse et l'enfant aussi était suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5976.15</TimestampBegin>
+			<TimestampEnd>5977.99</TimestampEnd>
+			<Text>C'est donc pas du tout comparable.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5978.23</TimestampBegin>
+			<TimestampEnd>6003.99</TimestampEnd>
+			<Text>Et finalement, encore, le partage des avoirs de prévoyance professionnelle, je ne vais pas vous expliquer le système de la sécurité sociale en Suisse, je dis juste, c'est une particularité suisse qui est inconnue à l'étranger, donc il faut prévoir un fort en Suisse parce qu'un juge étranger ne pourrait pas partager les avoirs de prévoyance professionnel, puisque ce système n'est simplement pas connu à l'étranger.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6004.19</TimestampBegin>
+			<TimestampEnd>6007.39</TimestampEnd>
+			<Text>Alors il faut prévoir un fort pour cela en Suisse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6007.59</TimestampBegin>
+			<TimestampEnd>6010.19</TimestampEnd>
+			<Text>Cela me ramène à la conclusion.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6010.19</TimestampBegin>
+			<TimestampEnd>6020.35</TimestampEnd>
+			<Text>Ces exemples montrent bien qu'il s'agit là de lacunes pour lesquelles le législateur n'avait pas prévu de fort et l'article 3 permet de combler ces lacunes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6020.59</TimestampBegin>
+			<TimestampEnd>6022.95</TimestampEnd>
+			<Text>Et cela démontre la vraie nature de cet article 3.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6023.19</TimestampBegin>
+			<TimestampEnd>6039.55</TimestampEnd>
+			<Text>Le législateur, à l'époque, il essayait de prévoir et de régler de façon exhaustive toutes les questions au droit international privé, dans cette loi sur le droit international privé, or il savait qu'il n'en est pas à pouvoir régler toutes les questions, donc il a prévu une soupape de sécurité, cet article 3 LDIP.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6039.55</TimestampBegin>
+			<TimestampEnd>6045.55</TimestampEnd>
+			<Text>Pour justement lui permettre de régler certaines lacunes qui allaient peut-être survenir plus tard.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6045.95</TimestampBegin>
+			<TimestampEnd>6048.75</TimestampEnd>
+			<Text>Les 4 exemples qu'on a cités, ce sont des exemples de lacunes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6049.15</TimestampBegin>
+			<TimestampEnd>6053.35</TimestampEnd>
+			<Text>Or le cas présent ici, ce n'est pas une lacune, c'est plutôt un silence qualifié.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6053.75</TimestampBegin>
+			<TimestampEnd>6060.35</TimestampEnd>
+			<Text>Car si on lit les débats parlementaires, on a bel et bien discuté de cas comparables.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6060.75</TimestampBegin>
+			<TimestampEnd>6068.35</TimestampEnd>
+			<Text>Mais après ces débats parlementaires, on a dit non, on ne veut pas offrir en Suisse un fort pour tout le monde.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6068.35</TimestampBegin>
+			<TimestampEnd>6076.55</TimestampEnd>
+			<Text>Il faut que la cause, et je répète et j'insiste, la cause est un lien avec la Suisse, et ceci n'est pas le cas en l'espèce.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6076.55</TimestampBegin>
+			<TimestampEnd>6079.75</TimestampEnd>
+			<Text>...</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6082.61</TimestampBegin>
+			<TimestampEnd>6085.69</TimestampEnd>
+			<Text>Merci beaucoup, Monsieur Meier.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6085.69</TimestampBegin>
+			<TimestampEnd>6086.69</TimestampEnd>
+			<Text>Monsieur Schürmann, please.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6086.69</TimestampBegin>
+			<TimestampEnd>6087.95</TimestampEnd>
+			<Text>Je vous en prie.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR2</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6089.8</TimestampBegin>
+			<TimestampEnd>6091.64</TimestampEnd>
+			<Text>Merci, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6091.8</TimestampBegin>
+			<TimestampEnd>6095.08</TimestampEnd>
+			<Text>Il m'importe de faire une dernière brève observation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6096.52</TimestampBegin>
+			<TimestampEnd>6107.2</TimestampEnd>
+			<Text>Les intentions du requérant et de ses représentants, directeur et vice-président de l'organisation Trial International, sont louables.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6107.36</TimestampBegin>
+			<TimestampEnd>6119.24</TimestampEnd>
+			<Text>En même temps, les arguments invoqués par la partie adverse se basent plutôt sur des avis et propositions qui ne sauraient être considérés comme juridiquement contraignants.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6119.24</TimestampBegin>
+			<TimestampEnd>6125.68</TimestampEnd>
+			<Text>Il y a beaucoup de wunschdenken, de wishful thinking, dans cette argumentation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6125.84</TimestampBegin>
+			<TimestampEnd>6132.8</TimestampEnd>
+			<Text>L'engagement des représentants du requérant, encore une fois, pour la bonne cause, mérite respect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6132.95</TimestampBegin>
+			<TimestampEnd>6137.99</TimestampEnd>
+			<Text>Pour atteindre le but visé, il faudrait des bases légales solides.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6138.16</TimestampBegin>
+			<TimestampEnd>6140.91</TimestampEnd>
+			<Text>Aujourd'hui, elles font défaut.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6141.08</TimestampBegin>
+			<TimestampEnd>6160.68</TimestampEnd>
+			<Text>Pour les créer, il faudrait, en droit interne, une décision délibérée du législateur établissant un fort de nécessité dans le sens postulé et, ou en droit international, un consensus suffisamment large de la communauté des Etats.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6160.84</TimestampBegin>
+			<TimestampEnd>6165.44</TimestampEnd>
+			<Text>Aujourd'hui, nous sommes loin dans tel consensus.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6165.44</TimestampBegin>
+			<TimestampEnd>6165.44</TimestampEnd>
+			<Text>Je vous remercie de votre attention.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6168.63</TimestampBegin>
+			<TimestampEnd>6170.35</TimestampEnd>
+			<Text>Merci beaucoup.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6170.55</TimestampBegin>
+			<TimestampEnd>6173.59</TimestampEnd>
+			<Text>Et nous en arrivons au terme de l'audience.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6174.19</TimestampBegin>
+			<TimestampEnd>6180.91</TimestampEnd>
+			<Text>Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6181.67</TimestampBegin>
+			<TimestampEnd>6185.39</TimestampEnd>
+			<Text>La Cour va maintenant délibérer sur la recevabilité le fonds.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6186.03</TimestampBegin>
+			<TimestampEnd>6188.15</TimestampEnd>
+			<Text>L'arrêt sera rendu ultérieurement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6188.71</TimestampBegin>
+			<TimestampEnd>6192.43</TimestampEnd>
+			<Text>Les partis seront informés de la date du prononcé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>6192.43</TimestampBegin>
+			<TimestampEnd>6192.43</TimestampEnd>
+			<Text>L'audience est levée.</Text>
+		</Snippet>
+	</SpeakerSegment>
+</Transcript>

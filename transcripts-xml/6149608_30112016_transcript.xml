@@ -1,0 +1,4266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Transcript>
+	<WebcastID>6149608_30112016</WebcastID>
+	<SpeakerSegment>
+		<Role>Announcer</Role>
+		<Name>UNK</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>13.37</TimestampBegin>
+			<TimestampEnd>14.07</TimestampEnd>
+			<Text>La Cour!</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>54.83</TimestampBegin>
+			<TimestampEnd>57.35</TimestampEnd>
+			<Text>Je vous en prie, prenez place.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>64.83</TimestampBegin>
+			<TimestampEnd>71.15</TimestampEnd>
+			<Text>Je déclare ouverte l'audience publique sur le fonds de l'affaire Bărbulescu contre la Roumanie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>71.47</TimestampBegin>
+			<TimestampEnd>80.75</TimestampEnd>
+			<Text>L'affaire a été introduite devant la Cour le 15 décembre 2008 par un ressortissant roumain, M. Bogdan Mihai Bărbulescu,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>81.47</TimestampBegin>
+			<TimestampEnd>83.99</TimestampEnd>
+			<Text>en vertu de l'article 34 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>83.99</TimestampBegin>
+			<TimestampEnd>90.95</TimestampEnd>
+			<Text>Elle a été attribuée à la 4e section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>91.47</TimestampBegin>
+			<TimestampEnd>95.83</TimestampEnd>
+			<Text>La requête a été communiquée au gouvernement le 18 décembre 2012.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>96.47</TimestampBegin>
+			<TimestampEnd>102.39</TimestampEnd>
+			<Text>Le 12 janvier 2016, une chambre de la 4e section a rendu un arrêt dans l'affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>102.87</TimestampBegin>
+			<TimestampEnd>111.75</TimestampEnd>
+			<Text>Dans celui-ci, la chambre a déclaré la requête recevable en ce qui concerne le grief tiré de l'article 8 de la Convention et irrecevable pour le surplus.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>111.75</TimestampBegin>
+			<TimestampEnd>116.55</TimestampEnd>
+			<Text>La chambre a conclu en non-violation de l'article 8 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>117.03</TimestampBegin>
+			<TimestampEnd>127.11</TimestampEnd>
+			<Text>Le 12 avril 2016, la partie requérante a demandé le renvoi de l'affaire devant la Grande Chambre conformément à l'article 43 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>127.43</TimestampBegin>
+			<TimestampEnd>133.19</TimestampEnd>
+			<Text>Cette demande a été acceptée par le Collège de la Grande Chambre le 6 juin 2016.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>133.51</TimestampBegin>
+			<TimestampEnd>151.07</TimestampEnd>
+			<Text>Le 30 août et le 2 septembre 2016, respectivement, le gouvernement français et la Confédération européenne et la Confédération européenne des syndicats ont été autorisés à intervenir en qualité de tiers dans la procédure écrite en vertu de l'article 44, paragraphe 3 du règlement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>151.95</TimestampBegin>
+			<TimestampEnd>162.87</TimestampEnd>
+			<Text>Le gouvernement défendeur est représenté par son agente, Mme Catrinel Brumar, du ministère des Affaires étrangères, assistée de M. George-Virgil Gavrilă, conseil,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>163.27</TimestampBegin>
+			<TimestampEnd>166.03</TimestampEnd>
+			<Text>et par Mme Livia Alexandrina Rusu, conseillère.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>166.03</TimestampBegin>
+			<TimestampEnd>170.59</TimestampEnd>
+			<Text>Le requérant est représenté par M. Emeric Domokos-Hâncu</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>170.79</TimestampBegin>
+			<TimestampEnd>172.99</TimestampEnd>
+			<Text>et Ovidiu Juverdeanu, conseil.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>173.47</TimestampBegin>
+			<TimestampEnd>175.99</TimestampEnd>
+			<Text>Je salue les comparants au nom de la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>176.59</TimestampBegin>
+			<TimestampEnd>188.75</TimestampEnd>
+			<Text>Je salue également les juges de la Cour de cassation française et de la Cour suprême de Moldova, ainsi que le magistrat norvégien, polonais, suisse et turc en visite à la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>189.35</TimestampBegin>
+			<TimestampEnd>204.39</TimestampEnd>
+			<Text>Je dois expliquer qu'en-dessus de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en polonais et en turc a été autorisée au profit du groupe de magistrats polonais et turcs qui assistent à cette audience.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>204.79</TimestampBegin>
+			<TimestampEnd>213.19</TimestampEnd>
+			<Text>Cette interprétation n'est pas assurée par la Cour, ne fera donc pas partie de l'enregistrement officiel de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>213.79</TimestampBegin>
+			<TimestampEnd>220.39</TimestampEnd>
+			<Text>Ayant consulté l'agente du gouvernement et les représentants du requérant, j'ai fixé ainsi l'ordre de parole.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>220.59</TimestampBegin>
+			<TimestampEnd>230.19</TimestampEnd>
+			<Text>Nous entendrons successivement maître Domokos-Hâncu et Juverdeanu pour le requérant, puis madame Brumar et madame Gavrilă pour le gouvernement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>230.59</TimestampBegin>
+			<TimestampEnd>232.79</TimestampEnd>
+			<Text>La parole est à maître Domokos-Hâncu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>232.79</TimestampBegin>
+			<TimestampEnd>234.79</TimestampEnd>
+			<Text>Vous avez la parole maître, je vouse en pris.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP1</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>240.44</TimestampBegin>
+			<TimestampEnd>243.82</TimestampEnd>
+			<Text>Mr. President and honorable judges,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>243.82</TimestampBegin>
+			<TimestampEnd>261.58</TimestampEnd>
+			<Text>it is an honor to be here today, but also a great responsibility as lawyers who strongly believe in the values that are the sacred goals of your mission, values which should always prevail over injustice and unfairness.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>261.58</TimestampBegin>
+			<TimestampEnd>281.74</TimestampEnd>
+			<Text>Our mission today is also to determine a clear guideline for every kind of situation in the future that will imply the private life in the workplace, so easily to be interfered with by the employer, especially when using modern ways of communication.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>281.74</TimestampBegin>
+			<TimestampEnd>285.62</TimestampEnd>
+			<Text>Our cases raise some fundamental questions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>285.62</TimestampBegin>
+			<TimestampEnd>288.54</TimestampEnd>
+			<Text>Is spying in the workplace allowed?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>288.54</TimestampBegin>
+			<TimestampEnd>297.86</TimestampEnd>
+			<Text>Would anyone like their private communication violated without consent and for the single reason that it occurred during working hours?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>297.86</TimestampBegin>
+			<TimestampEnd>313.3</TimestampEnd>
+			<Text>Or would anyone like their private communication violated for the purpose of sustaining a previously decided termination of the labor agreement and for the sole reason to sustain such dismissal?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>313.3</TimestampBegin>
+			<TimestampEnd>323.06</TimestampEnd>
+			<Text>Or how Professor Pierce put it in a well-documented opinion, expressed also over the internet, is work privacy dead?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>323.06</TimestampBegin>
+			<TimestampEnd>351.68</TimestampEnd>
+			<Text>When considering what to say here today before the court, we thought we would present the case as Judge Pinto said it in the dissenting opinion, like an opportunity, like an opportunity for the court to set standards as to work privacy and protection of communication that occurred during working hours.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>351.68</TimestampBegin>
+			<TimestampEnd>354.58</TimestampEnd>
+			<Text>But this case is much more than setting standards.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>354.58</TimestampBegin>
+			<TimestampEnd>355.62</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>355.62</TimestampBegin>
+			<TimestampEnd>358.62</TimestampEnd>
+			<Text>Because such standards already exist.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>358.62</TimestampBegin>
+			<TimestampEnd>364.46</TimestampEnd>
+			<Text>Because such standards are already provided by the previous case law of the court.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>364.46</TimestampBegin>
+			<TimestampEnd>379.82</TimestampEnd>
+			<Text>So now we are here to enforce the standards, to further refine the standards, but taking into consideration the realities of modern communication through the internet.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>379.82</TimestampBegin>
+			<TimestampEnd>389.02</TimestampEnd>
+			<Text>So this case is before anything else about enforcing the standard and the correct application of Article 8 of the Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>389.02</TimestampBegin>
+			<TimestampEnd>400.74</TimestampEnd>
+			<Text>This case is also a chance to protect the fundamental private life in face of ad hoc, non-transparent internet surveillance in the workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>400.74</TimestampBegin>
+			<TimestampEnd>407.94</TimestampEnd>
+			<Text>It's about sanctioning an abuse and about serving justice, even if it's in the ultimate instance.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>407.94</TimestampBegin>
+			<TimestampEnd>414.82</TimestampEnd>
+			<Text>It's also about the state failing to protect Mr. Barbulescu's fundamental human right</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>414.82</TimestampBegin>
+			<TimestampEnd>422.46</TimestampEnd>
+			<Text>to private life, including privacy of his personal communication and protection of personal data.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>422.46</TimestampBegin>
+			<TimestampEnd>447.22</TimestampEnd>
+			<Text>It is also the best occasion for the court to further develop its case law in the field of privacy with regard to employees' internet communication in an ever-changing world where the line between personal and work communication is shrinking continuously and can be diluted until there is none.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>447.22</TimestampBegin>
+			<TimestampEnd>459.26</TimestampEnd>
+			<Text>And finally, it is a chance to say no to spying in the work relationship and thus support healthy development of human relationships in the workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>459.26</TimestampBegin>
+			<TimestampEnd>469.94</TimestampEnd>
+			<Text>On the other hand, this case is not, and I emphasize, is not about protecting any fundamental right of the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>469.94</TimestampBegin>
+			<TimestampEnd>480.78</TimestampEnd>
+			<Text>And in any circumstance, any fundamental right of the employer that could prevail over the fundamental human right to privacy.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>480.78</TimestampBegin>
+			<TimestampEnd>483.86</TimestampEnd>
+			<Text>Finally, this is a case of many.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>483.86</TimestampBegin>
+			<TimestampEnd>494.46</TimestampEnd>
+			<Text>As we said it even from the beginning, workers do not abandon their right to privacy every time they walk through the doorstep of the workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>494.46</TimestampBegin>
+			<TimestampEnd>504.1</TimestampEnd>
+			<Text>On the other hand, workers have a legitimate expectation that a substantial degree of privacy exists in the workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>504.1</TimestampBegin>
+			<TimestampEnd>504.62</TimestampEnd>
+			<Text>And why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>504.62</TimestampBegin>
+			<TimestampEnd>509.94</TimestampEnd>
+			<Text>Because they develop a significant part of their relationship in the workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>509.94</TimestampBegin>
+			<TimestampEnd>517.58</TimestampEnd>
+			<Text>I wonder if there is anybody here that does not develop human relationships in the workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>517.58</TimestampBegin>
+			<TimestampEnd>529.94</TimestampEnd>
+			<Text>On this road, we will firstly show that both the fundamental human right to private life as well as access to internet have been previously acknowledged by the court and significantly developed by the court.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>529.94</TimestampBegin>
+			<TimestampEnd>543.14</TimestampEnd>
+			<Text>Secondly, we will show that the principles set out in the working document on the surveillance and the monitoring of electronic communication in the workplace have not been observed.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>543.14</TimestampBegin>
+			<TimestampEnd>551.66</TimestampEnd>
+			<Text>As the monitoring in this case was not transparent, was not necessary, was not fair towards Mr. Borbulescu,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>551.66</TimestampBegin>
+			<TimestampEnd>556.7</TimestampEnd>
+			<Text>and by no means was proportional with any interest it tried to balance.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>556.7</TimestampBegin>
+			<TimestampEnd>567.14</TimestampEnd>
+			<Text>Thirdly, we will show a personal view over the case, coming from the first voice of the first advocate in this case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>567.14</TimestampBegin>
+			<TimestampEnd>568.94</TimestampEnd>
+			<Text>This voice is crucial to the case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>568.94</TimestampBegin>
+			<TimestampEnd>569.46</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>569.46</TimestampBegin>
+			<TimestampEnd>576.1</TimestampEnd>
+			<Text>Because it will show what was the real origin and the purpose of the spying.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>576.1</TimestampBegin>
+			<TimestampEnd>581.66</TimestampEnd>
+			<Text>It will show how there was intent to use the private communication against Mr. Borbulescu</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>581.66</TimestampBegin>
+			<TimestampEnd>588.54</TimestampEnd>
+			<Text>and how illegally secured communication finally served as an ungrounded reason to terminate Mr. Borbulescu's</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>588.54</TimestampBegin>
+			<TimestampEnd>589.78</TimestampEnd>
+			<Text>employment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>589.78</TimestampBegin>
+			<TimestampEnd>590.26</TimestampEnd>
+			<Text>And why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>590.26</TimestampBegin>
+			<TimestampEnd>594.02</TimestampEnd>
+			<Text>Because there was no other reason to sustain such dismissal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>594.02</TimestampBegin>
+			<TimestampEnd>598.74</TimestampEnd>
+			<Text>And how Mr. Borbulescu's private communication</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>598.74</TimestampBegin>
+			<TimestampEnd>605.92</TimestampEnd>
+			<Text>of sensitive nature became a public matter in the workplace, also discussed by his colleagues.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>605.92</TimestampBegin>
+			<TimestampEnd>610.06</TimestampEnd>
+			<Text>In the end, we will show how all this affected Mr. Borbulescu's</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>610.06</TimestampBegin>
+			<TimestampEnd>611.22</TimestampEnd>
+			<Text>life.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>611.22</TimestampBegin>
+			<TimestampEnd>628.18</TimestampEnd>
+			<Text>Fourthly, we will show why this is a case of many and why the court needs to render a landmark decision that will affect millions of lives, calling the Grand Chamber to take action and to protect a single fundamental human right in question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>631.34</TimestampBegin>
+			<TimestampEnd>640.38</TimestampEnd>
+			<Text>Now, while both opinions of the chamber concluded there has been an interference as regards Mr. Borbulescu's fundamental right to privacy,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>640.38</TimestampBegin>
+			<TimestampEnd>642.94</TimestampEnd>
+			<Text>they come to contradictory conclusions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>642.94</TimestampBegin>
+			<TimestampEnd>658.86</TimestampEnd>
+			<Text>Thus, there is a wide gap between the majority's opinion and the dissenting one, whereas the latter opinion is the single one that retained the correct facts of this case and thus correctly applied the provision of the convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>658.86</TimestampBegin>
+			<TimestampEnd>659.36</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>659.36</TimestampBegin>
+			<TimestampEnd>666.5</TimestampEnd>
+			<Text>Because this interference that both opinions say existed was not in accordance with the law.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>666.5</TimestampBegin>
+			<TimestampEnd>674.06</TimestampEnd>
+			<Text>And this is why it is the dissenting opinion which is in accordance with the correct interpretation of the convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>674.06</TimestampBegin>
+			<TimestampEnd>681.94</TimestampEnd>
+			<Text>We would start by pointing out two of the main issues that were fully overlooked by the majority.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>681.94</TimestampBegin>
+			<TimestampEnd>694.18</TimestampEnd>
+			<Text>On one hand, the court's Grand Chamber recently stated that access to internet provides an unprecedented platform for the exercise of freedom of expression.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>694.18</TimestampBegin>
+			<TimestampEnd>709.98</TimestampEnd>
+			<Text>Even the French Constitutional Council has affirmed that in a democratic state, expression of ideas and opinions is a crucial matter, whereas the right to freedom of expression implies freedom to access to internet.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>709.98</TimestampBegin>
+			<TimestampEnd>718.04</TimestampEnd>
+			<Text>Thus, states have a positive obligation to promote and facilitate universal internet access.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>718.04</TimestampBegin>
+			<TimestampEnd>732.9</TimestampEnd>
+			<Text>Consequently, access to internet cannot be qualified as a right granted by any employer to the employee, but rather part of the human's fundamental right to freedom of expression.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>732.9</TimestampBegin>
+			<TimestampEnd>748.9</TimestampEnd>
+			<Text>Also, contrary to what the majority's opinion conclusion, a blanket ban on personal use of the internet by the employees is firstly inadmissible, is impractical, and slightly unrealistic.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>748.9</TimestampBegin>
+			<TimestampEnd>749.82</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>749.82</TimestampBegin>
+			<TimestampEnd>760.1</TimestampEnd>
+			<Text>Because it fails to reflect the degree to which internet not only can assist employees, but does so in their day to day activity.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>760.1</TimestampBegin>
+			<TimestampEnd>765.82</TimestampEnd>
+			<Text>This is not a goal to achieve anyway when using instant messaging.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>765.82</TimestampBegin>
+			<TimestampEnd>767.74</TimestampEnd>
+			<Text>And this is important in this case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>767.74</TimestampBegin>
+			<TimestampEnd>768.74</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>768.74</TimestampBegin>
+			<TimestampEnd>772.06</TimestampEnd>
+			<Text>Because it is the employer that asked Mr. Balbuescu</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>772.06</TimestampBegin>
+			<TimestampEnd>775.38</TimestampEnd>
+			<Text>to set up an instant messaging account.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>775.38</TimestampBegin>
+			<TimestampEnd>775.86</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>775.86</TimestampBegin>
+			<TimestampEnd>780.84</TimestampEnd>
+			<Text>With the hope that he will be contacted by the employer's clients.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>780.84</TimestampBegin>
+			<TimestampEnd>796.02</TimestampEnd>
+			<Text>So it is actually the employer who had the reasonable expectation that personal communication may occur, as it generally does when using instant messaging.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>796.02</TimestampBegin>
+			<TimestampEnd>803.62</TimestampEnd>
+			<Text>On the other hand, what the majority also failed to acknowledge, it there is no fundamental right of any employer in question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>803.62</TimestampBegin>
+			<TimestampEnd>811.3</TimestampEnd>
+			<Text>The single fundamental human right in question is the one provided by Article 8 and no other.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>811.3</TimestampBegin>
+			<TimestampEnd>821.38</TimestampEnd>
+			<Text>Of course, the right to private life and protection of private data has to be balanced, but only by legitimate rights and interests of the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>821.38</TimestampBegin>
+			<TimestampEnd>827.62</TimestampEnd>
+			<Text>And such balancing may only be achieved by observing a series of principles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>827.62</TimestampBegin>
+			<TimestampEnd>832.1</TimestampEnd>
+			<Text>As we will show in this case, there was no legitimate interest.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>832.1</TimestampBegin>
+			<TimestampEnd>835.22</TimestampEnd>
+			<Text>There was no legitimate right of the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>835.22</TimestampBegin>
+			<TimestampEnd>846.46</TimestampEnd>
+			<Text>Whereas all principles that have been developed by the court in terms of privacy of internet communication have been completely disregarded by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>846.46</TimestampBegin>
+			<TimestampEnd>852.3</TimestampEnd>
+			<Text>And such breach finally incorrectly confirmed by the majority.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>852.3</TimestampBegin>
+			<TimestampEnd>872.5</TimestampEnd>
+			<Text>In other words, the majority, by failing to see the true facts of the case, really concluded that it is allowed for an employer to spy on his employee, because we cannot honestly say that there has been a monitoring, let alone a legitimate one.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>872.5</TimestampBegin>
+			<TimestampEnd>878.1</TimestampEnd>
+			<Text>All of the principles of monitoring in the workplace have been infringed.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>878.1</TimestampBegin>
+			<TimestampEnd>881.66</TimestampEnd>
+			<Text>The court needs to establish now if Mr. Barbulescu's</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>881.66</TimestampBegin>
+			<TimestampEnd>887.0</TimestampEnd>
+			<Text>so-called monitoring, a true spying, was transparent to him or not.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>887.0</TimestampBegin>
+			<TimestampEnd>893.82</TimestampEnd>
+			<Text>Was the spying necessary if the employer failed to claim any damage or harm to his activity?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>893.82</TimestampBegin>
+			<TimestampEnd>897.66</TimestampEnd>
+			<Text>Was the processing of Mr. Barbulescu's private data fair</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>897.66</TimestampBegin>
+			<TimestampEnd>899.98</TimestampEnd>
+			<Text>and protected in the workplace?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>899.98</TimestampBegin>
+			<TimestampEnd>904.24</TimestampEnd>
+			<Text>Was it proportionate with any interest it tried to balance?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>904.24</TimestampBegin>
+			<TimestampEnd>909.18</TimestampEnd>
+			<Text>The answer is no, no, and no.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>909.18</TimestampBegin>
+			<TimestampEnd>914.02</TimestampEnd>
+			<Text>The Article 29 Working Party's view on the matter is essential.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>914.02</TimestampBegin>
+			<TimestampEnd>921.58</TimestampEnd>
+			<Text>It states the principle of prevention, namely that prevention should be more important than detection.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>921.58</TimestampBegin>
+			<TimestampEnd>931.94</TimestampEnd>
+			<Text>The interest of the employer being better served by preventing internet misuse and not by detecting internet misuse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>931.94</TimestampBegin>
+			<TimestampEnd>941.46</TimestampEnd>
+			<Text>And this case appears to be more extraordinary, as Mr. Barbulescu's employer did not state at any point</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>941.46</TimestampBegin>
+			<TimestampEnd>945.98</TimestampEnd>
+			<Text>that he failed to properly and timely fulfill his work duties.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>945.98</TimestampBegin>
+			<TimestampEnd>949.58</TimestampEnd>
+			<Text>So why monitor him at all?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>949.58</TimestampBegin>
+			<TimestampEnd>953.62</TimestampEnd>
+			<Text>In any case, this so-called monitoring was not transparent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>953.62</TimestampBegin>
+			<TimestampEnd>954.5</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>954.5</TimestampBegin>
+			<TimestampEnd>964.54</TimestampEnd>
+			<Text>The undoubtful evidence to this fact is the sheer existence of the correspondence in the form collected and revealed by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>964.54</TimestampBegin>
+			<TimestampEnd>984.74</TimestampEnd>
+			<Text>One could hardly comprehend the existence of such correspondence, also referring to hostile work environment, also referring to bullying bosses in the context of any transparent monitoring performed by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>984.74</TimestampBegin>
+			<TimestampEnd>995.86</TimestampEnd>
+			<Text>The subject and the content of the instant messaging fully excludes the possibility to sustain that Mr. Barbulescu either knew or at least had</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>995.86</TimestampBegin>
+			<TimestampEnd>1003.22</TimestampEnd>
+			<Text>the slightest clue about the spying or monitoring of his instant messaging accounts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1003.22</TimestampBegin>
+			<TimestampEnd>1013.6</TimestampEnd>
+			<Text>Actually, nobody really expects that their instant messaging accounts, their private accounts, are being ever monitored.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1013.6</TimestampBegin>
+			<TimestampEnd>1021.54</TimestampEnd>
+			<Text>Contrary to what the state claimed, contrary to what the majority concluded, there was no work policy on internet use in place.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1021.54</TimestampBegin>
+			<TimestampEnd>1043.18</TimestampEnd>
+			<Text>We cannot escape the fact that the state failed to meet the burden of proof in this respect and to provide evidence, first, that there's been a workplace internet policy in use and that it was duly acknowledged and accepted by Mr. Barbulescu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1043.18</TimestampBegin>
+			<TimestampEnd>1053.22</TimestampEnd>
+			<Text>The state's attempt to produce a side notice at this stage, before the Grand Chamber, is an important fact by itself.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1053.22</TimestampBegin>
+			<TimestampEnd>1053.72</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1053.72</TimestampBegin>
+			<TimestampEnd>1056.94</TimestampEnd>
+			<Text>Because there was no side notice until now.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1056.94</TimestampBegin>
+			<TimestampEnd>1057.44</TimestampEnd>
+			<Text>Why?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1057.44</TimestampBegin>
+			<TimestampEnd>1063.26</TimestampEnd>
+			<Text>Because such a side notice was never produced and used before the domestic courts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1063.26</TimestampBegin>
+			<TimestampEnd>1073.54</TimestampEnd>
+			<Text>So in lack of any prior and accepted policy and notice, the arguments raised by the French government actually sustain Mr. Barbulescu's case</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1073.54</TimestampBegin>
+			<TimestampEnd>1075.86</TimestampEnd>
+			<Text>and not the other way around.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1075.86</TimestampBegin>
+			<TimestampEnd>1088.38</TimestampEnd>
+			<Text>And even so, the so-called notice is nothing more than a threaten directing against the employee, showing little to no concern to their right to dignity.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1088.38</TimestampBegin>
+			<TimestampEnd>1110.66</TimestampEnd>
+			<Text>The so-called notice contains no specific reference to any monitoring, to how and when it will be performed, who will be its subject, what will be investigated, what will be the technical means engaged in this monitoring, and what are the workers' rights as regards to the collected data.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1110.66</TimestampBegin>
+			<TimestampEnd>1121.62</TimestampEnd>
+			<Text>As the partly descending opinion states, such a poorly drafted policy, if existent, offered precious little protection to the employee.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1121.62</TimestampBegin>
+			<TimestampEnd>1125.02</TimestampEnd>
+			<Text>And now I read from the words of Mr. Pinto.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1125.02</TimestampBegin>
+			<TimestampEnd>1144.98</TimestampEnd>
+			<Text>I cannot but consider that the notice did not identify the minimum elements of an internet usage and surveillance policy, including the specific misconduct being monitored, the technical means of surveillance, and the employee's rights regarding the monitored materials.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1144.98</TimestampBegin>
+			<TimestampEnd>1157.5</TimestampEnd>
+			<Text>Making records prior to initiating the so-called disciplinary research, conducting the disciplinary research in two stages, we are at the first stage occurring at 4.30,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1157.5</TimestampBegin>
+			<TimestampEnd>1161.54</TimestampEnd>
+			<Text>when Mr. Barbulescu was asked to explain</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1161.54</TimestampBegin>
+			<TimestampEnd>1183.54</TimestampEnd>
+			<Text>the use of the computer for personal interest, and the second stage that occurred 50 minutes later, when the employee was faced with the actual transcript of his personal communication, proves without a doubt that the monitoring of his internet communication was conducted well before the disciplinary procedure even started.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1183.54</TimestampBegin>
+			<TimestampEnd>1191.52</TimestampEnd>
+			<Text>Contrary to the majority's decision and to what the state claims, Mr. Barbulescu was not monitored.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1191.52</TimestampBegin>
+			<TimestampEnd>1195.16</TimestampEnd>
+			<Text>Mr. Barbulescu was spied by his employer using spyware.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1195.16</TimestampBegin>
+			<TimestampEnd>1208.1</TimestampEnd>
+			<Text>And what is spyware, but the software that enables a user to obtain covert information about another's computer by transmitting data covertly from their hard drive.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1208.1</TimestampBegin>
+			<TimestampEnd>1217.02</TimestampEnd>
+			<Text>Such software is generally used in a non-transparent way, this excluding, of course, any knowledge of its use by the spied subject.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1217.02</TimestampBegin>
+			<TimestampEnd>1227.5</TimestampEnd>
+			<Text>If the employer would have had access to the Yahoo Messenger account, such software would not have been necessary.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1227.5</TimestampBegin>
+			<TimestampEnd>1229.34</TimestampEnd>
+			<Text>Mr. Barbulescu was definitely not</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1229.34</TimestampBegin>
+			<TimestampEnd>1247.9</TimestampEnd>
+			<Text>aware about the installation of W-Filter spyware, nor was he ever informed about the existence of such software in the workplace, nor there's been any reference in the so-called notice as the use of spyware by the employer to keep track of the employee's communication.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1247.9</TimestampBegin>
+			<TimestampEnd>1273.02</TimestampEnd>
+			<Text>Use of this software was in breach with the provisions of Article 28 of the Romanian Constitution, was in breach with the employer's internal regulation, was in breach with the provisions of the Romanian Criminal Code, was in breach with even the terms and conditions of such software that provided that it can only be used in accordance with the law.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1273.02</TimestampBegin>
+			<TimestampEnd>1275.02</TimestampEnd>
+			<Text>So how can this be monitoring?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1275.02</TimestampBegin>
+			<TimestampEnd>1288.74</TimestampEnd>
+			<Text>This statement of facts alone basically rules the application of any principles of employees monitoring and definitely rules out any prevention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1288.74</TimestampBegin>
+			<TimestampEnd>1291.8</TimestampEnd>
+			<Text>Also, it's not a coincidence that Mr. Barbulescu's</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1291.8</TimestampBegin>
+			<TimestampEnd>1303.5</TimestampEnd>
+			<Text>first summons, 3772, mentioned from the starting point that he had used the computer and internet connection for personal interest.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1303.5</TimestampBegin>
+			<TimestampEnd>1308.14</TimestampEnd>
+			<Text>How could the employer have known the nature of Mr. Barbulescu's communication</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1308.14</TimestampBegin>
+			<TimestampEnd>1312.74</TimestampEnd>
+			<Text>at this preliminary stage of the disciplinary procedure?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1312.74</TimestampBegin>
+			<TimestampEnd>1316.9</TimestampEnd>
+			<Text>But he did know.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1316.9</TimestampBegin>
+			<TimestampEnd>1320.02</TimestampEnd>
+			<Text>Mr. Barbulescu's so-called monitoring</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1320.02</TimestampBegin>
+			<TimestampEnd>1321.42</TimestampEnd>
+			<Text>was not even necessary.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1321.42</TimestampBegin>
+			<TimestampEnd>1325.66</TimestampEnd>
+			<Text>There was no misconduct supposedly investigated by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1325.66</TimestampBegin>
+			<TimestampEnd>1327.86</TimestampEnd>
+			<Text>On contrary, Mr. Barbulescu was considered</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1327.86</TimestampBegin>
+			<TimestampEnd>1332.94</TimestampEnd>
+			<Text>to be a good employer that duly fulfilled his work duties.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1332.94</TimestampBegin>
+			<TimestampEnd>1343.14</TimestampEnd>
+			<Text>Use of the internet alone cannot constitute by itself a misconduct and furthermore, a reason for termination.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1343.14</TimestampBegin>
+			<TimestampEnd>1350.3</TimestampEnd>
+			<Text>And we should all bear in mind that it was not alleged and of course not proven that Mr. Barbulescu had caused</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1350.3</TimestampBegin>
+			<TimestampEnd>1358.7</TimestampEnd>
+			<Text>any actual damage to his employer or that he had adopted the same pattern of behavior for a considerable period of time.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1358.7</TimestampBegin>
+			<TimestampEnd>1361.74</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1361.74</TimestampBegin>
+			<TimestampEnd>1365.82</TimestampEnd>
+			<Text>And on this note, I will allow my colleague to continue the pleading.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1365.82</TimestampBegin>
+			<TimestampEnd>1367.36</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP2</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1369.5</TimestampBegin>
+			<TimestampEnd>1375.26</TimestampEnd>
+			<Text>Thank you, Mr. President, honored Grand Chamber.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1375.26</TimestampBegin>
+			<TimestampEnd>1389.1</TimestampEnd>
+			<Text>As my colleague said to me, in a figurative manner of speaking, of course, I easily can act now in this case more as a witness than as a lawyer, as I have been involved in it from its beginning.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1389.1</TimestampBegin>
+			<TimestampEnd>1393.64</TimestampEnd>
+			<Text>But if to say the complete truth, I was involved in this case even before its beginning.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1393.64</TimestampBegin>
+			<TimestampEnd>1397.12</TimestampEnd>
+			<Text>I have been a part of this case from its origins.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1397.12</TimestampBegin>
+			<TimestampEnd>1402.88</TimestampEnd>
+			<Text>As I defended Mr. Barbulescu in the first part of year 2007 in front of domestic labor</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1402.88</TimestampBegin>
+			<TimestampEnd>1414.24</TimestampEnd>
+			<Text>courts against a disciplinary measure applied by the same employer for the single fact that Mr. Barbulescu has a dignity to accuse the improper working conditions and behavior of</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1414.24</TimestampBegin>
+			<TimestampEnd>1417.28</TimestampEnd>
+			<Text>his superior calling for an improvement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1417.28</TimestampBegin>
+			<TimestampEnd>1423.96</TimestampEnd>
+			<Text>In that particular case, the court ruled in favor of Mr. Barbulescu and concludes there</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1423.96</TimestampBegin>
+			<TimestampEnd>1429.86</TimestampEnd>
+			<Text>is no misconduct and thus the disciplinary sanction was held as ungrounded.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1429.86</TimestampBegin>
+			<TimestampEnd>1431.26</TimestampEnd>
+			<Text>Why is this important here?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1431.26</TimestampBegin>
+			<TimestampEnd>1436.46</TimestampEnd>
+			<Text>Because this is, as we said, is the actual origin and the true reason of Mr. Barbulescu's</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1436.46</TimestampBegin>
+			<TimestampEnd>1437.46</TimestampEnd>
+			<Text>dismissal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1437.46</TimestampBegin>
+			<TimestampEnd>1447.06</TimestampEnd>
+			<Text>Cassius Bailey was the canvas of the employer's actions that lead to his right to private life being tarnished.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1447.06</TimestampBegin>
+			<TimestampEnd>1452.56</TimestampEnd>
+			<Text>All of the employer's actions had been to artificially assess the motives against Mr.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1452.56</TimestampBegin>
+			<TimestampEnd>1460.86</TimestampEnd>
+			<Text>Barbulescu that could apparently sustain a safe termination of the employment agreement as the initiative of employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1460.86</TimestampBegin>
+			<TimestampEnd>1466.3</TimestampEnd>
+			<Text>On the other hand, I am the one who can be blamed that this case arrived here today.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1466.3</TimestampBegin>
+			<TimestampEnd>1467.5</TimestampEnd>
+			<Text>Why blame?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1467.5</TimestampBegin>
+			<TimestampEnd>1471.02</TimestampEnd>
+			<Text>Because I believe 100 percent in truth and justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1471.02</TimestampBegin>
+			<TimestampEnd>1475.38</TimestampEnd>
+			<Text>These are exact values we all have sworn to protect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1475.38</TimestampBegin>
+			<TimestampEnd>1485.54</TimestampEnd>
+			<Text>And if I deeply know that an injustice was made, I cannot keep silent, so I constantly advise Mr. Barbulescu not to abandon his rights in face of any obstacle and fight for his</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1485.54</TimestampBegin>
+			<TimestampEnd>1486.54</TimestampEnd>
+			<Text>justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1486.54</TimestampBegin>
+			<TimestampEnd>1490.18</TimestampEnd>
+			<Text>I wonder, is Romania not Mr. Barbulescu's state?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1490.18</TimestampBegin>
+			<TimestampEnd>1494.02</TimestampEnd>
+			<Text>Is Romania not the state where all of this happened?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1494.02</TimestampBegin>
+			<TimestampEnd>1500.34</TimestampEnd>
+			<Text>Should not Romania, before anybody else, be the one to defend Mr. Barbulescu's fundamental</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1500.34</TimestampBegin>
+			<TimestampEnd>1506.58</TimestampEnd>
+			<Text>rights, especially the fundamental human right provided by Article 8 of the Convention?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1506.58</TimestampBegin>
+			<TimestampEnd>1513.66</TimestampEnd>
+			<Text>If this is the case, why are we arguing today with Romania about not observing Mr. Barbulescu's</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1513.66</TimestampBegin>
+			<TimestampEnd>1515.78</TimestampEnd>
+			<Text>right to private life?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1515.78</TimestampBegin>
+			<TimestampEnd>1522.34</TimestampEnd>
+			<Text>Did Romania accomplish its positive obligation to protect state fundamental human rights in Mr. Barbulescu's case?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1522.34</TimestampBegin>
+			<TimestampEnd>1527.54</TimestampEnd>
+			<Text>If it would have done so, we would not have been here today.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1527.54</TimestampBegin>
+			<TimestampEnd>1530.98</TimestampEnd>
+			<Text>We are sure that this Court will find to the contrary.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1530.98</TimestampBegin>
+			<TimestampEnd>1537.78</TimestampEnd>
+			<Text>We stand here in front of the highest body of human rights for two main reasons, and with the hope to achieve the following goals.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1537.78</TimestampBegin>
+			<TimestampEnd>1542.66</TimestampEnd>
+			<Text>To ensure justice is served in the case of Mr. Barbulescu facing justice, the system</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1542.66</TimestampBegin>
+			<TimestampEnd>1544.54</TimestampEnd>
+			<Text>is restored.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1544.54</TimestampBegin>
+			<TimestampEnd>1559.94</TimestampEnd>
+			<Text>But we are also here today for millions of other workers who are now looking at us, waiting to see if we are able to defend them against the ever-growing and arbitrary need of their employers to invade their private lives.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1559.94</TimestampBegin>
+			<TimestampEnd>1562.7</TimestampEnd>
+			<Text>Why justice for Mr. Barbulescu?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1562.7</TimestampBegin>
+			<TimestampEnd>1578.58</TimestampEnd>
+			<Text>Because the national courts failed to protect his fundamental right to private life and allowed illegal security and instant messaging records to serve as apparent grounds for the termination decision that was taken even before that so-called evidence was produced.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1578.58</TimestampBegin>
+			<TimestampEnd>1580.82</TimestampEnd>
+			<Text>This fact remained uncontested up to this day.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1580.82</TimestampBegin>
+			<TimestampEnd>1586.18</TimestampEnd>
+			<Text>By doing so, Mr. Barbulescu's rights were fewer than those of a crime suspect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1586.18</TimestampBegin>
+			<TimestampEnd>1592.62</TimestampEnd>
+			<Text>Thus, the dismissal decision is as illegal as the so-called evidence that sustained it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1592.62</TimestampBegin>
+			<TimestampEnd>1605.58</TimestampEnd>
+			<Text>The domestic labor courts also fully dismissed the concept of prevention and basically confirmed the employer's spying over its employees, failed to see that it was actually not Mr.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1605.58</TimestampBegin>
+			<TimestampEnd>1616.98</TimestampEnd>
+			<Text>Barbulescu, but the other two people involved in the instant messaging exchange who generated and started every conversation, failed to see that Mr. Barbulescu was not previously</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1616.98</TimestampBegin>
+			<TimestampEnd>1626.54</TimestampEnd>
+			<Text>informed about the monitoring taking place and the lack of any damage incurred by the employer, and finally, failed to see the lack of protection of Mr. Barbulescu's private</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1626.54</TimestampBegin>
+			<TimestampEnd>1631.38</TimestampEnd>
+			<Text>communication in the way of instant messaging from the workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1631.38</TimestampBegin>
+			<TimestampEnd>1636.34</TimestampEnd>
+			<Text>And all of this because Mr. Barbulescu has the courage to complain about the work condition</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1636.34</TimestampBegin>
+			<TimestampEnd>1638.7</TimestampEnd>
+			<Text>and ask for their improvement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1638.7</TimestampBegin>
+			<TimestampEnd>1643.06</TimestampEnd>
+			<Text>Also, Mr. Barbulescu's criminal complaint has not been actually properly solved until</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1643.06</TimestampBegin>
+			<TimestampEnd>1644.62</TimestampEnd>
+			<Text>this day.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1644.62</TimestampBegin>
+			<TimestampEnd>1656.3</TimestampEnd>
+			<Text>On a first note, the criminal investigation department of the Bucharest 1st District failed to provide any answer for a period of no less five years, and the answer finally came from another body.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1656.3</TimestampBegin>
+			<TimestampEnd>1662.9</TimestampEnd>
+			<Text>The court has concluded that Mr. Barbulescu, his fiancé, and his brother were working</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1662.9</TimestampBegin>
+			<TimestampEnd>1667.78</TimestampEnd>
+			<Text>for SecPral Proinstallazione and there had been no crime committed by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1667.78</TimestampBegin>
+			<TimestampEnd>1673.78</TimestampEnd>
+			<Text>This is of course false, as neither his fiancé nor his brother ever worked with him for SecPral.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1673.78</TimestampBegin>
+			<TimestampEnd>1681.62</TimestampEnd>
+			<Text>This is a serious error as above all the criminal investigators and prosecutors are called to firstly determine the correct facts of the case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1681.62</TimestampBegin>
+			<TimestampEnd>1685.46</TimestampEnd>
+			<Text>This never happened in Mr. Barbulescu's criminal complaint.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1685.46</TimestampBegin>
+			<TimestampEnd>1694.42</TimestampEnd>
+			<Text>He found himself the subject of terror in the workplace, as it culminated with the termination of his employment contract.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1694.42</TimestampBegin>
+			<TimestampEnd>1713.18</TimestampEnd>
+			<Text>Articles 63 and 268 of the Romanian Labor Code provided a very strict procedure for sanctioning employees with the aim to protect them against any potential abuse from the employers, so easily to achieve in the subordination report specific to labor agreements.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1713.18</TimestampBegin>
+			<TimestampEnd>1732.48</TimestampEnd>
+			<Text>But if even the simple failure to observe the procedure should lead to the disciplinary decision being null and void, how can a much more serious situation like the breach of private life protected by Article 8 and the crime in this time not lead to the same result?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1732.48</TimestampBegin>
+			<TimestampEnd>1744.98</TimestampEnd>
+			<Text>When a disciplinary measure is taken as a result of the employer's illegal behavior, like it happened in this case through the breach of the employee's fundamental human rights, the disciplinary sanction has to be annulled.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1744.98</TimestampBegin>
+			<TimestampEnd>1755.3</TimestampEnd>
+			<Text>In the claim against the termination of the employment agreement, we have asked the national courts to apply among others Article 8 as interpreted by the court in Copeland v. Great</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1755.3</TimestampBegin>
+			<TimestampEnd>1760.66</TimestampEnd>
+			<Text>Britain that is applicable mutatis mutandis in this case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1760.66</TimestampBegin>
+			<TimestampEnd>1766.62</TimestampEnd>
+			<Text>Nevertheless, the Romanian Labor Code failed to apply Copeland and to understand its significance and the similarity with this case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1766.62</TimestampBegin>
+			<TimestampEnd>1784.66</TimestampEnd>
+			<Text>The core of this case is that there could not be a valid dismissal procedure grounded on illegal foundation represented by the breach of right to private life of the employee, despite the sharp definition of this right achieved in Copeland that was only a few months old at that time.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1784.66</TimestampBegin>
+			<TimestampEnd>1794.38</TimestampEnd>
+			<Text>The failure of the national courts at the same time is the failure of the Romania state to undergo its positive obligation under convention in this particular case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1794.38</TimestampBegin>
+			<TimestampEnd>1799.54</TimestampEnd>
+			<Text>The state failed to protect Mr. Barbulescu's fundamental rights, failed to react when Mr.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1799.54</TimestampBegin>
+			<TimestampEnd>1809.82</TimestampEnd>
+			<Text>Barbulescu's fundamental rights were tarnished, and also fails him even today when trying to argue to the contrary before the court.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1809.82</TimestampBegin>
+			<TimestampEnd>1813.74</TimestampEnd>
+			<Text>This had a very serious and permanent impact over Mr. Barbulescu's life.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1813.74</TimestampBegin>
+			<TimestampEnd>1818.58</TimestampEnd>
+			<Text>He lost his job and has yet been able to find a new one.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1818.58</TimestampBegin>
+			<TimestampEnd>1828.82</TimestampEnd>
+			<Text>This left him unable to support himself and his family while also pointing an end to his relation with his fiancée, who ended up leaving the country.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1828.82</TimestampBegin>
+			<TimestampEnd>1835.5</TimestampEnd>
+			<Text>He eventually stopped believing in himself, and for a long period of time, hope evaded him.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1835.5</TimestampBegin>
+			<TimestampEnd>1842.42</TimestampEnd>
+			<Text>He lost faith in the justice system, and finally his view and direction about his life in general turned for the worse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1842.42</TimestampBegin>
+			<TimestampEnd>1845.14</TimestampEnd>
+			<Text>It ruined a young life.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1845.14</TimestampBegin>
+			<TimestampEnd>1855.5</TimestampEnd>
+			<Text>He was 28 at that time, now he is 37.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1855.5</TimestampBegin>
+			<TimestampEnd>1861.14</TimestampEnd>
+			<Text>Why is this the case of the many, as my colleague said previously?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1861.14</TimestampBegin>
+			<TimestampEnd>1869.1</TimestampEnd>
+			<Text>Because besides serving justice for the past, there is also a need to ensure a fair balance for the future.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1869.1</TimestampBegin>
+			<TimestampEnd>1874.94</TimestampEnd>
+			<Text>Just one judge, Mr. Pinto Dalbuquerque, understood exactly and did justly with these two faces</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1874.94</TimestampBegin>
+			<TimestampEnd>1881.78</TimestampEnd>
+			<Text>of the problem while acknowledging that Mr. Barbulescu has served insofar only with injustice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1881.78</TimestampBegin>
+			<TimestampEnd>1897.9</TimestampEnd>
+			<Text>Hundreds of opinions publicly expressed on the Internet, on European and international mass media, in law studies and public debates were focusing on the outcome of the course majority decision and really it was the argument of the dissenting opinion.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1897.9</TimestampBegin>
+			<TimestampEnd>1902.62</TimestampEnd>
+			<Text>Express the expectations that the judgment will be withdrawn by the Grand Chamber.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1902.62</TimestampBegin>
+			<TimestampEnd>1912.9</TimestampEnd>
+			<Text>The judgment sends a negative signal for millions of employees who may see their right to private life denied by the employers following the abusive and excessive monitoring.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1912.9</TimestampBegin>
+			<TimestampEnd>1924.14</TimestampEnd>
+			<Text>In the case at hand, the monitoring conducted by the employer was not proportional and in accordance with the principles set out by the court in Copeland and Halford cases.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1924.14</TimestampBegin>
+			<TimestampEnd>1934.12</TimestampEnd>
+			<Text>As Judge Pinto Dalbuquerque said better than us, the delicate character of the present case is significantly increased by the nature of Mr. Barbulescu's private correspondence</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1934.12</TimestampBegin>
+			<TimestampEnd>1936.34</TimestampEnd>
+			<Text>violated by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1936.34</TimestampBegin>
+			<TimestampEnd>1945.98</TimestampEnd>
+			<Text>This subject pertains to the court of the applicant's private life and requires the most intense protection under Article 8.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1945.98</TimestampBegin>
+			<TimestampEnd>1959.54</TimestampEnd>
+			<Text>For what is worse, I would not personally like my private communication breached, used against me and any of my private correspondence or messaging become a public subject with little to no protection against this.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1959.54</TimestampBegin>
+			<TimestampEnd>1969.74</TimestampEnd>
+			<Text>Thus, this case is about all workers who have faced or might face in the future the same abusive and even illegal conduct.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1969.74</TimestampBegin>
+			<TimestampEnd>1991.86</TimestampEnd>
+			<Text>While we acknowledge that the protection of the employee's internet communication and international law is a developing matter, we deem that no single occasion should be lost when such abusive conduct like the one in this case occurs and gives to the human rights protection bodies the opportunity to enhance the principles of the employer's interference with the employee's communications on the internet.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>1991.86</TimestampBegin>
+			<TimestampEnd>2017.34</TimestampEnd>
+			<Text>The Grand Chamber has now the opportunity to clarify this issue of general importance and consequently to trace a clear boundary inside which the employer could monitor its employees over the internet, bearing in mind that there is in question no protection of any fundamental human right of the employer, which could prevail against the protection of fundamental human rights to private life protected by Article 8 of the Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2017.34</TimestampBegin>
+			<TimestampEnd>2036.78</TimestampEnd>
+			<Text>Most relevant opinions see the first judgment as a shift in the court's practice in contrast with Copeland and Halford, the judgment on the other hand, and more specifically the majority decision is the result of misinterpretation of the facts leading to fundamentally erroneous results.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2036.78</TimestampBegin>
+			<TimestampEnd>2064.3</TimestampEnd>
+			<Text>Nowadays, when various means of instant messaging are widespread, example, Facebook Messenger, Yahoo Messenger, WhatsApp, Skype, et cetera, and available on any kind of devices provided by the employer, when each employee could be found online by their private contacts in occasions when they are performing work-duty tasks, it's a very likely and common situation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2064.3</TimestampBegin>
+			<TimestampEnd>2068.82</TimestampEnd>
+			<Text>This is why the issue raised by the case of Bolescu v. Romania presents a tremendous interest</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2068.82</TimestampBegin>
+			<TimestampEnd>2076.3</TimestampEnd>
+			<Text>both for the employees and the employers in protection of private life and their rights in such relationships.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2076.3</TimestampBegin>
+			<TimestampEnd>2094.42</TimestampEnd>
+			<Text>Thus is why we urge the Court to acknowledge the huge potential of these conditions repeating themselves given that instant messaging is part of our lives and the substantial differences between the factual features retained by the Chamber's majority and the reality of the day-to-day life.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2094.42</TimestampBegin>
+			<TimestampEnd>2108.26</TimestampEnd>
+			<Text>It is clear that the public expects a landmark decision to be rendered by the Grand Chamber in this respect, and I conclude by saying, on the other hand, we maintain the request for just satisfaction for Mr. Bolescu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2108.26</TimestampBegin>
+			<TimestampEnd>2109.26</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2109.26</TimestampBegin>
+			<TimestampEnd>2110.26</TimestampEnd>
+			<Text>And we will answer any questions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2110.26</TimestampBegin>
+			<TimestampEnd>2110.26</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2114.9</TimestampBegin>
+			<TimestampEnd>2117.74</TimestampEnd>
+			<Text>Thank you very much, Mr. Juverdeanu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2117.74</TimestampBegin>
+			<TimestampEnd>2120.46</TimestampEnd>
+			<Text>And now I call Mrs. Brumar, you have the floor, please, Madam.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR1</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2122.11</TimestampBegin>
+			<TimestampEnd>2123.81</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2123.81</TimestampBegin>
+			<TimestampEnd>2126.19</TimestampEnd>
+			<Text>Mr. President, honorable judges, it</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2126.19</TimestampBegin>
+			<TimestampEnd>2136.35</TimestampEnd>
+			<Text>is an honor and a privilege for me and my colleague to appear before this distinguished court in addressing such a sensitive issue as the one raised by the case at hand.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2136.35</TimestampBegin>
+			<TimestampEnd>2153.11</TimestampEnd>
+			<Text>After providing the essential factual elements for a clear image of the unfolding of the events as they occurred at the material time, I shall address the applicability of Article 8 of the Convention and present an overview of the most relevant aspects regarding the scope of the conventional text.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2153.11</TimestampBegin>
+			<TimestampEnd>2165.71</TimestampEnd>
+			<Text>My colleague will address the issue of states' responsibility and the manner in which the national authorities acted with observance of their incumbent obligations enshrined in Article 8 of the Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2165.71</TimestampBegin>
+			<TimestampEnd>2168.87</TimestampEnd>
+			<Text>Mr. President, honorable members of the court,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2168.87</TimestampBegin>
+			<TimestampEnd>2184.43</TimestampEnd>
+			<Text>before presenting the essential factual elements of the case before you today, please allow me to sketch the applicable normative framework for a better understanding of the events and of the domestic court's reaction to the applicant's judicial steps.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2184.43</TimestampBegin>
+			<TimestampEnd>2196.11</TimestampEnd>
+			<Text>The national legal system guarantees the right for respect of the inviolability of correspondence at the constitutional level within the same standards as the conventional ones.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2196.11</TimestampBegin>
+			<TimestampEnd>2201.07</TimestampEnd>
+			<Text>That is to say, a conditional right whose exercise could be limited.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2201.07</TimestampBegin>
+			<TimestampEnd>2215.83</TimestampEnd>
+			<Text>At the same time, the legislation in force in the labor field, while recognizing the employer's right to control the employee's fulfillment of professional tasks, provided that it was under the obligation to respect the employee's personal data.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2215.83</TimestampBegin>
+			<TimestampEnd>2229.81</TimestampEnd>
+			<Text>Moreover, the normative framework opened for any employee who considered that her rights were disrespected within the labor relationship the way to bring a claim before the labor court.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2229.81</TimestampBegin>
+			<TimestampEnd>2254.47</TimestampEnd>
+			<Text>Special regulation regarding the protection of personal data was in place, offering the person who considered her data had been illegally retained or misused the possibility to either bring her case before the administrative body competent to supervise the respect in the collection, retention, and use of personal data, and or seek damages before the civil courts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2254.47</TimestampBegin>
+			<TimestampEnd>2260.79</TimestampEnd>
+			<Text>On the criminal level, the illegal opening of anyone's correspondent is sanctioned with imprisonment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2260.79</TimestampBegin>
+			<TimestampEnd>2268.39</TimestampEnd>
+			<Text>At the material time of fact, the criminal action was set in motion at the prior complaint of the person concerned.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2268.39</TimestampBegin>
+			<TimestampEnd>2300.47</TimestampEnd>
+			<Text>Our written pleadings before the grand chamber contained the detailed presentation of the relevant legislative regulations in place, as well as the highlight of the domestic practice and case law, indicating that electronic correspondence, as well as a classical one, benefits from the same standards of protection and that, in their analysis, the national bodies perform an extensive exam of the legality of any interference with the exercise of the right to the inviolability of one's correspondence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2300.47</TimestampBegin>
+			<TimestampEnd>2305.11</TimestampEnd>
+			<Text>It is against this background that the fact of the case needs to be reminded.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2305.11</TimestampBegin>
+			<TimestampEnd>2324.63</TimestampEnd>
+			<Text>The applicant was dismissed in August 2007 after being employed for three years within a private company following a disciplinary action for infringement of his employer's internal regulations, namely the use of the office's facilities, computer and internet connection, in his personal interest.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2324.63</TimestampBegin>
+			<TimestampEnd>2339.79</TimestampEnd>
+			<Text>The applicant, including before the European Court, claimed that the employer's right of control was exercised in an unpredictable manner and that he had not been notified about the possibility of monitoring by his employer of his correspondence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2339.79</TimestampBegin>
+			<TimestampEnd>2351.83</TimestampEnd>
+			<Text>It is worth reminding in this context that on 20 December 2006, that is eight months before the events that led to Mr. Bobulescu's dismissal, he was informed of</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2351.83</TimestampBegin>
+			<TimestampEnd>2356.51</TimestampEnd>
+			<Text>and he had signed the internal regulations of the company.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2356.51</TimestampBegin>
+			<TimestampEnd>2361.33</TimestampEnd>
+			<Text>The said document contained the policy of computers and internet use.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2361.33</TimestampBegin>
+			<TimestampEnd>2370.95</TimestampEnd>
+			<Text>It was written in clear terms, computers and internet use was permitted only for work-related activities.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2370.95</TimestampBegin>
+			<TimestampEnd>2378.99</TimestampEnd>
+			<Text>The failure to observe this obligation was regulated as a severe infringement capable of leading to a dismissal decision.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2378.99</TimestampBegin>
+			<TimestampEnd>2400.83</TimestampEnd>
+			<Text>At the beginning of July 2007, the applicant and his 14 colleagues within the Bucharest office of the firm signed for acknowledgement a company-wide notice which highlighted that another employee had been let go on disciplinary grounds, specifically due to personal use of the company's internet connection and phones.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2400.83</TimestampBegin>
+			<TimestampEnd>2415.39</TimestampEnd>
+			<Text>The notice also stated that the employer verified and monitored the employee's activity, specifically mentioning that they should not use the internet, phones, or faxes for issues unrelated to work.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2415.39</TimestampBegin>
+			<TimestampEnd>2425.95</TimestampEnd>
+			<Text>It is of utmost importance to highlight that the notice signed by the applicant for acknowledgement is a document which previously lacked from the probative material.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2425.95</TimestampBegin>
+			<TimestampEnd>2437.47</TimestampEnd>
+			<Text>As such, the chamber had no choice but to hold the issue of whether the applicant had been explicitly warned or not of the monitoring as being a disputed one.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2437.47</TimestampBegin>
+			<TimestampEnd>2444.35</TimestampEnd>
+			<Text>Indeed, the applicant tried to take full advantage of the fact that the government had not sent a copy of the said document.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2444.35</TimestampBegin>
+			<TimestampEnd>2450.79</TimestampEnd>
+			<Text>And under these circumstances, he submitted to the chamber a copy which did not bear any signatures.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2450.79</TimestampBegin>
+			<TimestampEnd>2453.59</TimestampEnd>
+			<Text>Mr. President, two preliminary conclusions</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2453.59</TimestampBegin>
+			<TimestampEnd>2457.43</TimestampEnd>
+			<Text>need to be drawn from the aforementioned aspects.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2457.43</TimestampBegin>
+			<TimestampEnd>2467.95</TimestampEnd>
+			<Text>The first is that the absolute ban to use the internet in personal interest and the corresponding possibility to be fired for noncompliance were both well-known to Mr. Bobulescu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2467.95</TimestampBegin>
+			<TimestampEnd>2480.59</TimestampEnd>
+			<Text>The second conclusion is the fact that at this time before the grand chamber, it is certain that the explicit warning of monitoring was delivered by the management and also acknowledged by Mr. Bobulescu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2480.59</TimestampBegin>
+			<TimestampEnd>2482.47</TimestampEnd>
+			<Text>Mr. Bobulescu had previously set up</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2482.47</TimestampBegin>
+			<TimestampEnd>2490.55</TimestampEnd>
+			<Text>an account at the request of his employer with the purpose to provide technical support to the company's clients.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2490.55</TimestampBegin>
+			<TimestampEnd>2496.99</TimestampEnd>
+			<Text>From the comparison of the internet traffic data consumed by employees, significant discrepancies emerged.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2496.99</TimestampBegin>
+			<TimestampEnd>2500.55</TimestampEnd>
+			<Text>All were using very little amounts except for the applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2500.55</TimestampBegin>
+			<TimestampEnd>2502.91</TimestampEnd>
+			<Text>Indeed, not only did Mr. Bobulescu</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2502.91</TimestampBegin>
+			<TimestampEnd>2514.45</TimestampEnd>
+			<Text>have the highest level of internet data use, but he had spent more time online than the rest of the employees together, as undeniably shown by the graphics.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2514.45</TimestampBegin>
+			<TimestampEnd>2519.59</TimestampEnd>
+			<Text>On 13 July 2007, the company summoned the applicant for explanations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2519.59</TimestampBegin>
+			<TimestampEnd>2522.43</TimestampEnd>
+			<Text>Mr. Bobulescu provided written notifications</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2522.43</TimestampBegin>
+			<TimestampEnd>2528.53</TimestampEnd>
+			<Text>which started with the clear statement that he did not use Yahoo Messenger in personal interests.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2528.53</TimestampBegin>
+			<TimestampEnd>2537.43</TimestampEnd>
+			<Text>He further showed that the high internet data level corresponded to conversations which were strictly professional with a potential client.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2537.43</TimestampBegin>
+			<TimestampEnd>2544.83</TimestampEnd>
+			<Text>Detailed information was provided on the matter, showing even who that potential client was.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2544.83</TimestampBegin>
+			<TimestampEnd>2546.79</TimestampEnd>
+			<Text>After Mr. Bobulescu's reassurance</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2546.79</TimestampBegin>
+			<TimestampEnd>2566.15</TimestampEnd>
+			<Text>of the completely professional nature of the conversations, the discipline committee, which comprised three persons, namely the director general, the manager, and the employee's representative, reviewed the communications and discovered that they were in fact conducted only in a personal interest.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2566.15</TimestampBegin>
+			<TimestampEnd>2578.69</TimestampEnd>
+			<Text>After his second summoning, when presented with the transcripts of the conversations between 5 and 13 July 2007, the applicant responded in writing that he refrained from any comments.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2578.69</TimestampBegin>
+			<TimestampEnd>2585.55</TimestampEnd>
+			<Text>The disciplinary proceedings ultimately led to the management dismissal decision of 1 August 2007.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2585.55</TimestampBegin>
+			<TimestampEnd>2590.79</TimestampEnd>
+			<Text>The applicant challenged the measure by lodging a complaint before the competent labor court.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2590.79</TimestampBegin>
+			<TimestampEnd>2603.55</TimestampEnd>
+			<Text>He claimed that the dismissal decision was null, as his communications were monitored without his prior knowledge, thus constituting a violation of his right to respect of the privacy of correspondence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2603.55</TimestampBegin>
+			<TimestampEnd>2615.15</TimestampEnd>
+			<Text>The court of first instance dismissed the challenge as ill-founded on 7 December 2007, and the ruling was subsequently upheld by the superior court's final decision of 17 June 2008.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2616.43</TimestampBegin>
+			<TimestampEnd>2635.29</TimestampEnd>
+			<Text>On the point of monitoring of the applicant's electronic conversations, the domestic courts have found that the company's internal regulations contain a prohibition of the use of computers in the personal interest of employees, and that this prohibition was permitted by the provisions of the labor court.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2636.71</TimestampBegin>
+			<TimestampEnd>2639.55</TimestampEnd>
+			<Text>The labor courts, sorry.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2639.55</TimestampBegin>
+			<TimestampEnd>2655.77</TimestampEnd>
+			<Text>They further held that the employer was entitled to prohibit personal use of internet during business hours, as the availability of internet in the workplace should be seen as a professional tool whose use is subject to regulation by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2655.77</TimestampBegin>
+			<TimestampEnd>2677.11</TimestampEnd>
+			<Text>In order to summarize, the national labor courts fully understood the fact of the case as described above, and within the framework of labor law proceedings, perform a thorough examination in relation to the relevant national and EU law provisions, having at the same time regards to the conventional requirement of a fair balance between competing private interests.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2677.11</TimestampBegin>
+			<TimestampEnd>2697.29</TimestampEnd>
+			<Text>The judicial conclusions integrated the employer's internal regulation within its right normatively recognized to control the fulfillment of professional tasks, while verifying that this monitoring was performed with prior notice, and limited to the use of tools specifically listed as professional ones.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2697.29</TimestampBegin>
+			<TimestampEnd>2702.25</TimestampEnd>
+			<Text>In addition to his complaint against the decision for his dismissal, Mr. Babulescu also filed</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2702.25</TimestampBegin>
+			<TimestampEnd>2709.15</TimestampEnd>
+			<Text>a criminal complaint against unknown persons who had violated his right to respect for his correspondence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2709.15</TimestampBegin>
+			<TimestampEnd>2728.05</TimestampEnd>
+			<Text>While acknowledging that the messages exchanged through Yahoo Messenger benefited from the protection of criminal law, the competent prosecution bodies held that the interception and monitoring of the communications were not unlawful, since the internet connection was established through the employer's server.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2728.05</TimestampBegin>
+			<TimestampEnd>2745.75</TimestampEnd>
+			<Text>Moreover, the legal entity which was the beneficiary of the informatics systems and of the internet connection had both the right to control, in the interest of the unit, the traffic from informatics systems, and to dispose of the information retained on the server.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2745.75</TimestampBegin>
+			<TimestampEnd>2757.55</TimestampEnd>
+			<Text>In addition, even the internal regulations forbade the use of informatics systems in a personal interest, being thus predictable that such a conduct could be monitored.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2757.55</TimestampBegin>
+			<TimestampEnd>2762.27</TimestampEnd>
+			<Text>The applicant did not challenge the decision not to open criminal proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2762.27</TimestampBegin>
+			<TimestampEnd>2764.27</TimestampEnd>
+			<Text>Mr. President, honorable judges,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2764.27</TimestampBegin>
+			<TimestampEnd>2777.53</TimestampEnd>
+			<Text>the court has consistently held that the notion of private life is a broad concept, encompassing, for example, the right to establish and develop relationships with other human beings, and the right to identity and personal development.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2778.87</TimestampBegin>
+			<TimestampEnd>2794.95</TimestampEnd>
+			<Text>The examination of the court's case law in this field discloses that Article 8 of the Convention is applicable in work relationships as regards the monitoring of communications, only provided that two major conditions are cumulatively met.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2794.95</TimestampBegin>
+			<TimestampEnd>2799.65</TimestampEnd>
+			<Text>The first condition is that the nature of communication is personal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2799.65</TimestampBegin>
+			<TimestampEnd>2814.15</TimestampEnd>
+			<Text>Indeed, this condition flows from the actual conventional text, and also from the fact that conversations of employees with third parties in the name and interest of the employer are in fact the communications of the company itself.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2814.15</TimestampBegin>
+			<TimestampEnd>2824.41</TimestampEnd>
+			<Text>It would appear beyond logic to hold that the employer had interfered with its own correspondence, or the correspondence dedicated to working activities.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2824.41</TimestampBegin>
+			<TimestampEnd>2830.15</TimestampEnd>
+			<Text>The second condition is represented by the existence of a reasonable expectation of privacy.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2830.15</TimestampBegin>
+			<TimestampEnd>2839.51</TimestampEnd>
+			<Text>The court takes into account a number of factors to ascertain the existence of an expectation of privacy, covering any given form of communication.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2839.51</TimestampBegin>
+			<TimestampEnd>2854.91</TimestampEnd>
+			<Text>It attaches particular importance to prior warning as to the possibility of interception, and takes into account relevant circumstances, the designation used, such as private phone, and applicable workplace rules.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2854.91</TimestampBegin>
+			<TimestampEnd>2871.03</TimestampEnd>
+			<Text>In the case of Harvard versus UK, the court held that in the absence of a warning that one's calls would be liable to monitoring, the applicant had a reasonable expectation as to the privacy of calls made from a work telephone.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2871.03</TimestampBegin>
+			<TimestampEnd>2879.83</TimestampEnd>
+			<Text>The same expectation should apply in relation to an applicant's email and internet usage, according to the case of Copeland versus UK.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2879.83</TimestampBegin>
+			<TimestampEnd>2891.39</TimestampEnd>
+			<Text>Para contrario, it follows that in the presence of a warning that one's communications would be liable to monitoring, the person no longer has the reasonable expectation of privacy.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2891.39</TimestampBegin>
+			<TimestampEnd>2911.99</TimestampEnd>
+			<Text>Verifying whether the two conditions are met in the present case, with regard to the personal nature of communications, it needs to be highlighted that the review of the applicant's communications was performed only after the letter had been provided with the possibility to state that they were, even in part, personal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2911.99</TimestampBegin>
+			<TimestampEnd>2919.15</TimestampEnd>
+			<Text>He appeared outraged and described in details what the strictly professional communications contained.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2919.15</TimestampBegin>
+			<TimestampEnd>2935.13</TimestampEnd>
+			<Text>As such, the review of communications was performed only by the three members of the discipline committee with observance of the confidentiality obligation within the exercise of disciplinary proceedings in the legitimate interest of determining them fairly.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2935.13</TimestampBegin>
+			<TimestampEnd>2939.95</TimestampEnd>
+			<Text>The government did not challenge that the recording had been carried out at a previous time.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2939.95</TimestampBegin>
+			<TimestampEnd>2949.99</TimestampEnd>
+			<Text>What needs to be underlined, however, is that there is a significant difference between recording of correspondence and the actual reviewing of its content.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2949.99</TimestampBegin>
+			<TimestampEnd>2962.07</TimestampEnd>
+			<Text>Very relevant on this matter is an example inspired from the observations of the third party etuque concerning the processing of correspondence addressed to an employee at her workplace.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2962.07</TimestampBegin>
+			<TimestampEnd>2969.87</TimestampEnd>
+			<Text>As such, when correspondence arrives at the company premises, the employer, through its registry, keeps the record of it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2969.87</TimestampBegin>
+			<TimestampEnd>2973.59</TimestampEnd>
+			<Text>Also, it can take notice of the sender and perhaps other information.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2973.59</TimestampBegin>
+			<TimestampEnd>2987.11</TimestampEnd>
+			<Text>However, when it is not certain that the envelope contains information strictly limited to the working tasks of the recipient employee, the registry asks for clarifications in order to establish how to handle the envelope.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>2987.11</TimestampBegin>
+			<TimestampEnd>3002.87</TimestampEnd>
+			<Text>Should the recipient state that it is an envelope which contains a strictly professional aspect, the opening of the envelope and the subsequent review of its content cannot reasonably be regarded as a situation falling under the protection of Article 8.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3002.87</TimestampBegin>
+			<TimestampEnd>3022.11</TimestampEnd>
+			<Text>Similarly, in the present application, the employer recorded the communications aspect which was known by the employees, both from the regulations and explicitly from the notice as described above, but proceeded to their review only after being reassured by Mr. Bobulescu</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3022.11</TimestampBegin>
+			<TimestampEnd>3027.63</TimestampEnd>
+			<Text>and in a very convincing manner that they were professional in their integrity.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3027.63</TimestampBegin>
+			<TimestampEnd>3046.15</TimestampEnd>
+			<Text>Therefore, in the instant case, the grand chamber must examine whether the applicant had the reasonable expectation of privacy when communicating from the Yahoo Messenger account that he had registered at his employer's request, specifically designed in the sole purpose of fulfilling professional tasks.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3046.15</TimestampBegin>
+			<TimestampEnd>3054.15</TimestampEnd>
+			<Text>Continuing the issue of applicable workplace rules, it needs to be underlined that the instant case is different from previous jurisprudence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3054.15</TimestampBegin>
+			<TimestampEnd>3060.83</TimestampEnd>
+			<Text>The court has found Article 8 to be applicable when the personal use of the office telephone, for example, was accepted.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3060.83</TimestampBegin>
+			<TimestampEnd>3072.71</TimestampEnd>
+			<Text>The government strongly asserts that an identical approach cannot be embraced in this case where the applicable workplace rules were clear, specifically forbidding the conduct in question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3072.71</TimestampBegin>
+			<TimestampEnd>3084.67</TimestampEnd>
+			<Text>Moving along with the examination of the applicability of Article 8, the government took notice of the fact that the chamber accorded particular weight to the use to which the communications were put.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3084.67</TimestampBegin>
+			<TimestampEnd>3088.91</TimestampEnd>
+			<Text>On this issue, important elements must be provided to the grand chamber.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3088.91</TimestampBegin>
+			<TimestampEnd>3107.35</TimestampEnd>
+			<Text>Firstly, while agreeing that the transcripts were used in the disciplinary proceedings and in the subsequent trial phase, the government underlined that there is absolutely no indication that they were presented to the colleagues of the applicant and that they were discussed by them as the applicant claims.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3107.35</TimestampBegin>
+			<TimestampEnd>3114.33</TimestampEnd>
+			<Text>In addition, the applicant stripped away the possibility for the employer to prove its observance of confidentiality.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3114.33</TimestampBegin>
+			<TimestampEnd>3129.95</TimestampEnd>
+			<Text>The applicant himself and not the employer opted to make available to the general public the actual content of communications by attaching them to the challenge before the national court, even though this was not even necessary for the court's assessment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3129.95</TimestampBegin>
+			<TimestampEnd>3137.99</TimestampEnd>
+			<Text>Indeed, neither the court nor the company were ever interested in the actual content of the communications.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3137.99</TimestampBegin>
+			<TimestampEnd>3147.43</TimestampEnd>
+			<Text>They only needed to establish the nature of the conversations in order to decide upon the existence or not of an internal regulations infringement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3147.43</TimestampBegin>
+			<TimestampEnd>3153.47</TimestampEnd>
+			<Text>Secondly, the use of the transcripts as evidence in trial was performed at the applicant's request.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3153.47</TimestampBegin>
+			<TimestampEnd>3172.89</TimestampEnd>
+			<Text>In order to conclude, the government recalled that in the present case, the applicant's communications fall outside the protection of Article 8 because it was his own conduct characterized by convincing reassurance of their integral professional nature, which led to their subsequent review by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3172.89</TimestampBegin>
+			<TimestampEnd>3190.03</TimestampEnd>
+			<Text>Because they were carried out in severe infringement of clear workplace rules, which forbade the conducting question, and in spite of the explicit warning of monitoring, departing from other cases where such warning was absent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3190.03</TimestampBegin>
+			<TimestampEnd>3197.47</TimestampEnd>
+			<Text>Because they are carried out from a device and by means which were specifically designed for professional tasks.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3197.47</TimestampBegin>
+			<TimestampEnd>3203.11</TimestampEnd>
+			<Text>Because they are not processed excessively, but in the strict limit of disciplinary proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3203.11</TimestampBegin>
+			<TimestampEnd>3206.87</TimestampEnd>
+			<Text>It was the applicant who opted to make them available to the public.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3206.87</TimestampBegin>
+			<TimestampEnd>3214.31</TimestampEnd>
+			<Text>Otherwise said, the applicant intentionally screamed, and now he complains that too many people have heard.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3214.31</TimestampBegin>
+			<TimestampEnd>3224.91</TimestampEnd>
+			<Text>The previous decision on the applicability of Article 8 was delivered by the chamber after holding that the existence of a proper warning of monitoring was a disputed aspect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3224.91</TimestampBegin>
+			<TimestampEnd>3232.99</TimestampEnd>
+			<Text>At present, the grand chamber knows that a proper warning of monitoring existed and was duly signed for acknowledgement by the applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3232.99</TimestampBegin>
+			<TimestampEnd>3243.83</TimestampEnd>
+			<Text>We therefore respectfully ask the grand chamber, after taking note of the document's explicit content, to hold that it completely striped away any reasonable expectation of privacy.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3243.83</TimestampBegin>
+			<TimestampEnd>3246.79</TimestampEnd>
+			<Text>Mr. President, honorable judges, the government</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3246.79</TimestampBegin>
+			<TimestampEnd>3255.27</TimestampEnd>
+			<Text>wished to provide hereinafter the distilled information regarding the scope of Article 8 in relation to the events in the instant case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3255.27</TimestampBegin>
+			<TimestampEnd>3269.03</TimestampEnd>
+			<Text>As such, we fully share the chamber's view, showing that the applicant chose to raise before the national courts his complaint under Article 8 within the framework of labor law proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3269.03</TimestampBegin>
+			<TimestampEnd>3289.59</TimestampEnd>
+			<Text>Thus, the alleged infringement of his respect for private life was only an argument he used in order to prove the nullity of his employer's decision, while the assessment of the legal and substantiated character of the dismissal measure constituted, in fact, the main object of the domestic case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3289.59</TimestampBegin>
+			<TimestampEnd>3298.95</TimestampEnd>
+			<Text>It follows that the object of his complaint before the grand chamber is limited to the monitoring of his communications within the framework of disciplinary proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3298.95</TimestampBegin>
+			<TimestampEnd>3310.59</TimestampEnd>
+			<Text>The employer's decision to terminate the applicant's contract was not based on either the actual content of his communications, nor on the fact of their eventual disclosure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3310.59</TimestampBegin>
+			<TimestampEnd>3323.51</TimestampEnd>
+			<Text>In this regard, the government asserts that the applicant did not argue that he had had no other fora in which to bring these arguments separately before the domestic courts, as showed at the beginning of our oral pleading.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3323.51</TimestampBegin>
+			<TimestampEnd>3341.87</TimestampEnd>
+			<Text>While the applicant criticized the absence of the enforcement of law on data protection and the activity of the criminal pursuit bodies, it needs to be recalled that these critics of the applicant were neither submitted before the national competent authorities.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3341.87</TimestampBegin>
+			<TimestampEnd>3354.11</TimestampEnd>
+			<Text>As such, the applicant did not file a complaint on the basis of the law on data protection, nor did he raise this argument of an alleged infringement of data protection rights before the national courts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3354.11</TimestampBegin>
+			<TimestampEnd>3363.91</TimestampEnd>
+			<Text>Also, the applicant argued that the prosecution bodies erred when they determined the criminal case and that the proceedings were not expeditious.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3363.91</TimestampBegin>
+			<TimestampEnd>3374.39</TimestampEnd>
+			<Text>It needs to be responded to the applicant that he did not participate in the criminal proceedings by any means, such as submitting requests or complaints.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3374.39</TimestampBegin>
+			<TimestampEnd>3385.63</TimestampEnd>
+			<Text>Furthermore, the applicant did not even challenge the prosecutor's office decision before the chief prosecutor or the office, effective remedies which could have properly dispelled any alleged shortcomings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3385.63</TimestampBegin>
+			<TimestampEnd>3404.67</TimestampEnd>
+			<Text>Under these circumstances, the government respectfully asked the courts to dismiss their plan or for non-exhaustion of domestic remedies, any critics related to the alleged failure of national authorities to enforce the data protection or criminal provisions since these issues were raised before the court for the first time.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3404.67</TimestampBegin>
+			<TimestampEnd>3406.23</TimestampEnd>
+			<Text>Mr. President, with your permission,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3406.23</TimestampBegin>
+			<TimestampEnd>3411.31</TimestampEnd>
+			<Text>my colleague will now address the last point of the pleading regarding the issue of state responsibility.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3411.31</TimestampBegin>
+			<TimestampEnd>3413.45</TimestampEnd>
+			<Text>I therefore respectfully ask you to give him the floor.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3416.41</TimestampBegin>
+			<TimestampEnd>3418.66</TimestampEnd>
+			<Text>Thank you very much, Mrs. Brumar.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3418.66</TimestampBegin>
+			<TimestampEnd>3421.05</TimestampEnd>
+			<Text>Now the floor goes to Mr. Gavrilă.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3421.05</TimestampBegin>
+			<TimestampEnd>3421.05</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR2</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3422.41</TimestampBegin>
+			<TimestampEnd>3425.85</TimestampEnd>
+			<Text>Mr. President, honorable members of the court,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3425.85</TimestampBegin>
+			<TimestampEnd>3438.71</TimestampEnd>
+			<Text>although the purpose of Article 8 is essentially to protect an individual against arbitrary interference by the public authorities, it does not simply compel the state to abstain from such interference.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3438.71</TimestampBegin>
+			<TimestampEnd>3449.75</TimestampEnd>
+			<Text>The court held that in addition to this primarily negative undertaking, there may be positive obligations inherent in an effective respect for private life.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3449.75</TimestampBegin>
+			<TimestampEnd>3461.25</TimestampEnd>
+			<Text>These obligations may involve the adoption of measures designed to secure respect for private life, even in the field of relations between individuals themselves.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3461.25</TimestampBegin>
+			<TimestampEnd>3478.01</TimestampEnd>
+			<Text>In the instant case, the applicant's complaint must be examined from the standpoint of the state's positive obligations, since he was employed by a private company, which could not, by its actions, engage state responsibility under the convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3478.01</TimestampBegin>
+			<TimestampEnd>3498.65</TimestampEnd>
+			<Text>The government fully agree with the submissions of France as an intervenant, showing that the instant case is about the protection provided by the legal framework and the national jurisdictions as regards the right to respect for private life and correspondence within the working relationship.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3498.65</TimestampBegin>
+			<TimestampEnd>3520.73</TimestampEnd>
+			<Text>As such, the control of the court should concern the legal framework enacted by the state with the purpose to ensure effective protection of the said right, and at the same time, the decisions of the national jurisdictions which applied it, so as to strike a fair balance between the competing private interests.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3520.73</TimestampBegin>
+			<TimestampEnd>3533.57</TimestampEnd>
+			<Text>Regarding the first aspect, in the written observations before the grand chamber, the government submitted detailed information concerning the national framework enforced at the material time.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3533.57</TimestampBegin>
+			<TimestampEnd>3537.09</TimestampEnd>
+			<Text>Essential elements were reminded by my colleague.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3537.09</TimestampBegin>
+			<TimestampEnd>3557.45</TimestampEnd>
+			<Text>The enacted provisions clearly regulated concrete safeguards and guarantees for the observance of the right enshrined in Article 8 of the convention, both at the constitutional level as well as within different branches of the law, criminal law, labor law, data protection law, civil law.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3557.45</TimestampBegin>
+			<TimestampEnd>3575.75</TimestampEnd>
+			<Text>In addition, several examples of enforcement have also been provided, such as convictions, fines, modifying the dismissal decision of the employer with a milder sanction, restoring of the previous situation, and just satisfaction awards.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3575.75</TimestampBegin>
+			<TimestampEnd>3590.03</TimestampEnd>
+			<Text>These case law examples serve the purpose of proving that the legal framework regulated effective remedies as they adequately fulfilled the roles of prevention, sanction, and redress.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3590.03</TimestampBegin>
+			<TimestampEnd>3602.25</TimestampEnd>
+			<Text>In the instant case, the applicant chose to pursue only one of the instituted remedies, namely by lodging a complaint before the National Labor Courts within disciplinary proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3602.25</TimestampBegin>
+			<TimestampEnd>3621.23</TimestampEnd>
+			<Text>Therefore, the government show no reserve in completely adhering to the findings of the chamber, which revealed that regard must be had to the scope of the complaint, which is limited to the monitoring of the applicant's communications within the framework of disciplinary proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3621.23</TimestampBegin>
+			<TimestampEnd>3640.73</TimestampEnd>
+			<Text>Moving on to the decisions of the national jurisdictions, namely to the quality of the enforcement of the remedy chosen, the government outlined that the applicant was able to raise his arguments related to the alleged breach of his private life and correspondence before the domestic courts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3640.73</TimestampBegin>
+			<TimestampEnd>3657.77</TimestampEnd>
+			<Text>These judicial bodies, which present the highest level of independence and impartiality, thoroughly examined his arguments and found that the employer had acted in the context of disciplinary powers as provided for by the labor code.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3657.77</TimestampBegin>
+			<TimestampEnd>3677.89</TimestampEnd>
+			<Text>In addition, both the county court and the court of appeal attached particular importance to the fact that the employer reviewed the communications in the belief that they contained professional messages, since the applicant had provided solid arguments in this respect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3677.89</TimestampBegin>
+			<TimestampEnd>3682.01</TimestampEnd>
+			<Text>It follows that such access had therefore been legitimate.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3682.01</TimestampBegin>
+			<TimestampEnd>3691.91</TimestampEnd>
+			<Text>As to the use of the transcript of the applicant's communications, it was a piece of evidence which the national courts correctly did not attach particular weight to.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3691.91</TimestampBegin>
+			<TimestampEnd>3698.81</TimestampEnd>
+			<Text>Indeed, they relied on the transcript only to the extent that it proved the applicant's disciplinary breach.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3698.81</TimestampBegin>
+			<TimestampEnd>3707.85</TimestampEnd>
+			<Text>There is absolutely no mention in their decisions of any particular circumstances that the applicant had communicated.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3707.85</TimestampBegin>
+			<TimestampEnd>3722.21</TimestampEnd>
+			<Text>Both the domestic courts and the chamber held that it is not unreasonable for an employer to want to verify that the employees are completing their professional tasks during working hours.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3722.21</TimestampBegin>
+			<TimestampEnd>3733.65</TimestampEnd>
+			<Text>In this respect, the probative material did not disclose any indication that the employer's monitoring was not limited in scope and proportionate.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3733.65</TimestampBegin>
+			<TimestampEnd>3754.33</TimestampEnd>
+			<Text>Lastly, the national courts found that the applicant has not convincingly explained why he had used the internet for personal purposes, in spite of the clear regulations, the possible consequences of his conduct, and the proper warning, all well known by the applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3754.33</TimestampBegin>
+			<TimestampEnd>3770.05</TimestampEnd>
+			<Text>It is for these reasons above that the government strongly disagree with the dissenting opinion and the observations of the third party, ETUC, showing that the dismissal measure was not proportionate.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3770.05</TimestampBegin>
+			<TimestampEnd>3781.85</TimestampEnd>
+			<Text>The government consider that the foundation for solid and functional interpersonal relationships in all areas of life is represented by trust.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3781.85</TimestampBegin>
+			<TimestampEnd>3788.09</TimestampEnd>
+			<Text>As such, we choose the make of our cars based on the trust we have in the producer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3788.09</TimestampBegin>
+			<TimestampEnd>3795.73</TimestampEnd>
+			<Text>We order our lunch from a certain restaurant because we trust it is prepared properly, and so on.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3795.73</TimestampBegin>
+			<TimestampEnd>3802.29</TimestampEnd>
+			<Text>Imagine if the car brake suddenly stops functioning, or if we get food poisoning after lunch.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3802.29</TimestampBegin>
+			<TimestampEnd>3809.29</TimestampEnd>
+			<Text>It appears natural not to want to continue in those relationships due to the loss of trust.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3809.29</TimestampBegin>
+			<TimestampEnd>3813.89</TimestampEnd>
+			<Text>We often provide another chance and request explanations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3813.89</TimestampBegin>
+			<TimestampEnd>3819.97</TimestampEnd>
+			<Text>It is also the case of the applicant's employer, who provided Mr. Barbulescu with the opportunity</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3819.97</TimestampBegin>
+			<TimestampEnd>3823.33</TimestampEnd>
+			<Text>to submit explanations for his conduct.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3823.33</TimestampBegin>
+			<TimestampEnd>3833.41</TimestampEnd>
+			<Text>Had he revealed, for instance, reasons of personal problems or fatigue, the unfolding of the events might have been different.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3833.41</TimestampBegin>
+			<TimestampEnd>3846.37</TimestampEnd>
+			<Text>Instead, the applicant made a choice of attitude which completely striped away any possibility for the work relationship to continue with benefits for both parties.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3846.37</TimestampBegin>
+			<TimestampEnd>3856.31</TimestampEnd>
+			<Text>Under these circumstances, it seems reasonable for the employer to want to place his investment in the hands of other competent people which he trusts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3856.31</TimestampBegin>
+			<TimestampEnd>3861.25</TimestampEnd>
+			<Text>The decision of dismissal was adopted with proper observance of all legal provisions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3861.25</TimestampBegin>
+			<TimestampEnd>3873.59</TimestampEnd>
+			<Text>Otherwise, the national courts would have annulled it or modified it into a milder measure, as they had the possibility and the competence to do so, but for the reasons above, considered not to be the case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3873.59</TimestampBegin>
+			<TimestampEnd>3896.69</TimestampEnd>
+			<Text>As a final point, the government wished to address another issue flowing from the dissenting opinion and the observations of a third party, ETUC, proclaiming in essence that the complete ban of internet use in personal interest at the workplace is not reasonable, as internet needs to be regarded as a fundamental human right.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3896.69</TimestampBegin>
+			<TimestampEnd>3918.77</TimestampEnd>
+			<Text>The government will not speculate on the recognition of internet as a distinct fundamental human right, nor will they ignore that its use as a means to impart or receive information or as a vehicle to modern forms of correspondence is covered by the exercise of other fundamental yet conditional human rights.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3918.77</TimestampBegin>
+			<TimestampEnd>3940.29</TimestampEnd>
+			<Text>However, it needs not be omitted that the broad arguments supporting the proclamation above stem from provisions which were, in their vast majority, enacted or adopted after the events in question, which occurred in 2007, almost 10 years ago.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3940.29</TimestampBegin>
+			<TimestampEnd>3945.73</TimestampEnd>
+			<Text>Back then, we had black and white mobile phones and we were playing Tetris or Snake.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3945.73</TimestampBegin>
+			<TimestampEnd>3955.19</TimestampEnd>
+			<Text>Nowadays, we have smartphones with gigabytes of internet traffic and find that staying eight hours at work without internet access appears absurd.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3955.19</TimestampBegin>
+			<TimestampEnd>3973.21</TimestampEnd>
+			<Text>As such, a correct assessment of the events should be performed not with regard to the current reality of 2016, but by evaluating the competing interests using the 2007 model scale.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3973.21</TimestampBegin>
+			<TimestampEnd>3989.13</TimestampEnd>
+			<Text>As such, a ban to use internet for personal purposes during working hours from the employer's devices does not equate a lack of access to internet nowadays, given the present possibility to connect through individual means.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3989.13</TimestampBegin>
+			<TimestampEnd>3994.05</TimestampEnd>
+			<Text>But most importantly, the present case is not about access to internet as a human right.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3994.05</TimestampBegin>
+			<TimestampEnd>3996.23</TimestampEnd>
+			<Text>Mr. Barbulescu did not at any moment,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3996.23</TimestampBegin>
+			<TimestampEnd>4003.49</TimestampEnd>
+			<Text>before or after his dismissal, complain about being denied access to internet and to the consequences of this denial.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4003.49</TimestampBegin>
+			<TimestampEnd>4006.83</TimestampEnd>
+			<Text>Mr. Barbulescu did not challenge the internal regulations that</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4006.83</TimestampBegin>
+			<TimestampEnd>4014.69</TimestampEnd>
+			<Text>clearly stipulated the use of computer and internet, among other tools, only in a professional purpose.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4014.69</TimestampBegin>
+			<TimestampEnd>4029.25</TimestampEnd>
+			<Text>The only thing this case is about is the abusive use, in total acknowledgment of the employer's internal rules, of a tool that was placed at his disposal only for work-related goals.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4029.25</TimestampBegin>
+			<TimestampEnd>4032.73</TimestampEnd>
+			<Text>Mr. President, honorable judges, in order</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4032.73</TimestampBegin>
+			<TimestampEnd>4054.21</TimestampEnd>
+			<Text>to summarize on this last point of the pleading, the government recalled that, in the present case, the national framework enforced at the material time clearly regulated concrete safeguards and guarantees for the observance of the right in question, and also corresponding functional mechanisms for their enforcement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4054.21</TimestampBegin>
+			<TimestampEnd>4065.41</TimestampEnd>
+			<Text>The applicant chose to pursue only one of the instituted mechanism, and the remedy chosen was properly enforced by the national courts within fair hearings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4065.41</TimestampBegin>
+			<TimestampEnd>4104.85</TimestampEnd>
+			<Text>Accordingly, we respectfully ask the Grand Chamber, after taking note of the elements above, and after having regard to the fact that the four national judges held that the applicants' rights were not infringed, and also that six of the seven judges of the chamber reached the same conclusion, in spite of the absence of proof of proper warning, which is now present at the case, to hold that, in the case at hand, a fair balance between the competing private interest has been struck, and that there has been no violation of Article 8 of the Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4104.85</TimestampBegin>
+			<TimestampEnd>4104.85</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4107.23</TimestampBegin>
+			<TimestampEnd>4113.23</TimestampEnd>
+			<Text>Thank you very much Mr. Gavrilă. I thank both parties for their interventions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4113.73</TimestampBegin>
+			<TimestampEnd>4121.23</TimestampEnd>
+			<Text>And now I ask the judges of the Grand Chamber, I invite them to ask the parties the questions they may have.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4121.23</TimestampBegin>
+			<TimestampEnd>4123.23</TimestampEnd>
+			<Text>I see Judge Ravarani, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Georges Ravarani</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4125.71</TimestampBegin>
+			<TimestampEnd>4128.51</TimestampEnd>
+			<Text>Merci, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4128.71</TimestampBegin>
+			<TimestampEnd>4136.43</TimestampEnd>
+			<Text>J'ai quelques questions factuelles qui s'adressent aux deux parties, mais en fait, plutôt à l'employeur qui n'est pas présent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4137.07</TimestampBegin>
+			<TimestampEnd>4141.71</TimestampEnd>
+			<Text>Et il ne s'agit pas à proprement parler de questions, mais plutôt également de confirmations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4142.75</TimestampBegin>
+			<TimestampEnd>4158.27</TimestampEnd>
+			<Text>Dans le mémoire du gouvernement, il est dit, et je cite, le 13 juillet 2007, dans le cadre de la procédure disciplinaire engagée par son employeur, le requérant lui-même déclara avoir ouvert le compte de massagerie pour fournir des conseils techniques aux clients de l'entreprise.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4158.91</TimestampBegin>
+			<TimestampEnd>4166.91</TimestampEnd>
+			<Text>Alors, ma question, qui était à l'initiative de la création des comptes Yahoo, professionnels et privés au sein de l'entreprise?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4167.35</TimestampBegin>
+			<TimestampEnd>4172.63</TimestampEnd>
+			<Text>Le requérant l'a-t-il fait de sa propre initiative ou y a-t-il été encouragé par l'employeur?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4172.87</TimestampBegin>
+			<TimestampEnd>4188.07</TimestampEnd>
+			<Text>Et dans cette suite, l'employeur était-il au courant de l'ouverture par le requérant de deux comptes dont l'un était privé et l'autre était professionnel, mais les deux fonctionnaient sur le matériel informatique de l'entreprise?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4189.03</TimestampBegin>
+			<TimestampEnd>4190.11</TimestampEnd>
+			<Text>Ca, c'est ma première question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4190.67</TimestampBegin>
+			<TimestampEnd>4209.23</TimestampEnd>
+			<Text>La deuxième question, je me réfère au règlement d'ordre intérieur qui a été cité en partie dans le jugement, où il est dit, il est strictement interdit de troubler l'ordre et la discipline dans les cours de l'entreprise, et en particulier d'utiliser les ordinateurs, photocopieurs, téléphones, téléscripteurs, etc. à des fins personnelles.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4209.23</TimestampBegin>
+			<TimestampEnd>4218.23</TimestampEnd>
+			<Text>Par ailleurs, dans la note d'information circulée le 3 juillet 2007, il est dit, le temps passé dans l'entreprise doit être de qualité pour tout le monde.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4218.43</TimestampBegin>
+			<TimestampEnd>4224.03</TimestampEnd>
+			<Text>Venez au travail pour vous occuper des problèmes de la société, de votre travail, et non pas des problèmes privés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4224.23</TimestampBegin>
+			<TimestampEnd>4227.95</TimestampEnd>
+			<Text>Ne passez pas votre temps à occuper les lignes Internet, téléphone, etc.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4228.15</TimestampBegin>
+			<TimestampEnd>4235.03</TimestampEnd>
+			<Text>Est-ce que les interdictions se rapportaient seulement à l'usage du matériel mis à disposition par l'employeur?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4235.23</TimestampBegin>
+			<TimestampEnd>4249.43</TimestampEnd>
+			<Text>Ou est-ce que l'interdiction a été générale, dans le sens qu'on ne devait même pas l'utiliser pendant les heures de travail, ses propres moyens de communication, si tant est qu'il en existait en 2007, comme des portables privés, etc.?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4249.83</TimestampBegin>
+			<TimestampEnd>4257.83</TimestampEnd>
+			<Text>Dans ce contexte, l'usage du compte personnel était-il autorisé ou toléré par l'employeur?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4258.83</TimestampBegin>
+			<TimestampEnd>4260.71</TimestampEnd>
+			<Text>Une dernière question qui était...</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4262.23</TimestampBegin>
+			<TimestampEnd>4267.83</TimestampEnd>
+			<Text>Je crois qu'elle a déjà été répondue, mais une confirmation serait la bienvenue.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4268.51</TimestampBegin>
+			<TimestampEnd>4279.91</TimestampEnd>
+			<Text>Quel est le moment exact auquel l'employeur a imprimé les messages qu'il avait préalablement enregistrés avant ou après la déclaration du salarié qu'il s'agissait de messages professionnels?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4279.91</TimestampBegin>
+			<TimestampEnd>4279.91</TimestampEnd>
+			<Text>Merci.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4283.81</TimestampBegin>
+			<TimestampEnd>4286.89</TimestampEnd>
+			<Text>Merci, madame la juge Karakaş.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Işıl Karakaş</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4290.56</TimestampBegin>
+			<TimestampEnd>4292.56</TimestampEnd>
+			<Text>Merci beaucoup, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4292.76</TimestampBegin>
+			<TimestampEnd>4295.56</TimestampEnd>
+			<Text>J'ai aussi une question factuelle.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4295.76</TimestampBegin>
+			<TimestampEnd>4305.2</TimestampEnd>
+			<Text>Le gouvernement a précisé que le requérant, lui-même a diffusé le contenu des messages pendant le procès, c'était pas l'employeur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4305.4</TimestampBegin>
+			<TimestampEnd>4314.6</TimestampEnd>
+			<Text>Mais est-ce que les transcriptions des communications privées du requérant ont été rendues publiques déjà, je dirais, par l'employeur?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4314.84</TimestampBegin>
+			<TimestampEnd>4322.04</TimestampEnd>
+			<Text>C'est-à-dire, est-ce qu'il a divulgué ces communications aux collègues, aux salariés au sein de l'entreprise?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4322.6</TimestampBegin>
+			<TimestampEnd>4332.64</TimestampEnd>
+			<Text>Parce que le requérant a ce griffé au paragraphe 82 de ses observations, mais là, il manque de détails, il n'y a pas assez de précisions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4333.24</TimestampBegin>
+			<TimestampEnd>4358.12</TimestampEnd>
+			<Text>Donc, moi, je dirais que, comme le gouvernement a dit, il y a une différence, bien sûr, entre l'enregistrement, l'examen et la vérification, et l'examen des messages par l'employeur, mais je dirais qu'il existe aussi une grande différence, une grande, importante différence entre la vérification et l'examen et la divulgation des messages au sein de l'article 8.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4359.12</TimestampBegin>
+			<TimestampEnd>4368.64</TimestampEnd>
+			<Text>Et donc, par rapport à ça, j'aimerais aussi savoir, et surtout par le requérant, est-ce que ce griffé a été soulevé devant les juridictions internes?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4368.64</TimestampBegin>
+			<TimestampEnd>4368.64</TimestampEnd>
+			<Text>Voila, merci beaucoup.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4371.39</TimestampBegin>
+			<TimestampEnd>4374.07</TimestampEnd>
+			<Text>Merci beaucoup, madame la juge Nußberger.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Angelika Nußberger</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4376.6</TimestampBegin>
+			<TimestampEnd>4377.62</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4377.62</TimestampBegin>
+			<TimestampEnd>4379.9</TimestampEnd>
+			<Text>I also would have a factual question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4379.9</TimestampBegin>
+			<TimestampEnd>4397.38</TimestampEnd>
+			<Text>I understand that on 3rd July 2007, as is said in the observations of the government, paragraph 11, a company-wide notice was registered with the Bucharest office.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4397.38</TimestampBegin>
+			<TimestampEnd>4402.22</TimestampEnd>
+			<Text>And then it was signed one by one by the employees.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4402.22</TimestampBegin>
+			<TimestampEnd>4408.02</TimestampEnd>
+			<Text>I would like to understand the communication policy in this respect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4408.02</TimestampBegin>
+			<TimestampEnd>4410.02</TimestampEnd>
+			<Text>What does it mean it was registered?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4410.02</TimestampBegin>
+			<TimestampEnd>4415.86</TimestampEnd>
+			<Text>And was it only a paper version that was given from hand to hand, one by the other?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4415.86</TimestampBegin>
+			<TimestampEnd>4419.66</TimestampEnd>
+			<Text>Or was it also communicated electronically?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4419.66</TimestampBegin>
+			<TimestampEnd>4423.86</TimestampEnd>
+			<Text>Or was it even put on the blackboard in the enterprise?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4423.86</TimestampBegin>
+			<TimestampEnd>4441.5</TimestampEnd>
+			<Text>So how could the employees take notice of this note, just to understand, because we don't know this exactly when he knew it, between this period of 3rd July to 13th July.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4441.5</TimestampBegin>
+			<TimestampEnd>4454.98</TimestampEnd>
+			<Text>And the second question I would have, as my colleague Judge Ravarani has said, we have these two parallel accounts, the personal account and the professional account.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4454.98</TimestampBegin>
+			<TimestampEnd>4464.1</TimestampEnd>
+			<Text>And as they were parallel, I would like to understand the way of using it on the side of the employee.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4464.1</TimestampBegin>
+			<TimestampEnd>4469.08</TimestampEnd>
+			<Text>Did he make a difference in using the personal account and the professional account?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4469.08</TimestampBegin>
+			<TimestampEnd>4478.06</TimestampEnd>
+			<Text>And also for the employer, did the employer make a difference in monitoring the personal account and the professional account?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4478.06</TimestampBegin>
+			<TimestampEnd>4478.1</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4480.3</TimestampBegin>
+			<TimestampEnd>4482.3</TimestampEnd>
+			<Text>Thank you very much, judge Potocki.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>André Potocki</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4486.3</TimestampBegin>
+			<TimestampEnd>4487.5</TimestampEnd>
+			<Text>Merci, Monsieur le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4488.5</TimestampBegin>
+			<TimestampEnd>4506.54</TimestampEnd>
+			<Text>Pour ma part, je voudrais revenir sur un argument présenté par le gouvernement défendeur et dont il nous dit qu'il est inspiré par les informations données par la Confédération européenne des syndicats parties tierces intervenantes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4507.62</TimestampBegin>
+			<TimestampEnd>4524.16</TimestampEnd>
+			<Text>Si j'ai bien compris la position du gouvernement sur ce point, il y aurait trois niveaux d'intensité dans la surveillance qu'un employeur peut exercer à l'égard des communications passées par un employé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4525.36</TimestampBegin>
+			<TimestampEnd>4530.76</TimestampEnd>
+			<Text>Le premier niveau, le plus bas, serait celui d'un simple contrôle des flux.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4531.76</TimestampBegin>
+			<TimestampEnd>4536.16</TimestampEnd>
+			<Text>Le nombre de communications, le temps passé dans ces communications, leur durée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4536.16</TimestampBegin>
+			<TimestampEnd>4570.36</TimestampEnd>
+			<Text>Un niveau intermédiaire serait celui de l'interception de ces communications, mais sans accès à leur contenu, ces communications étant alors conservées, notamment pour réserver une preuve si nécessaire dans un contentieux ultérieur, ou pour interroger le salarié lui-même sur le caractère privé ou professionnel de ces conversations interceptées, mais non ouvertes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4570.36</TimestampBegin>
+			<TimestampEnd>4580.16</TimestampEnd>
+			<Text>Le troisième niveau, le niveau ultime, serait celui de l'interception avec accès immédiat au contenu de ces échanges.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4580.16</TimestampBegin>
+			<TimestampEnd>4636.16</TimestampEnd>
+			<Text>Le gouvernement, si j'ai bien compris sa position, nous dit que, en réalité, dans cette affaire, l'employeur aurait pratiqué le niveau de surveillance intermédiaire, c'est-à-dire qu'il aurait noté que le flux des communications était, je mets des guillemets, suspect, qu'il aurait alors intercepté ces communications, ces messages, mais sans avoir accès à leur contenu, qu'il aurait ensuite interrogé le salarié, le requérant, sur leur nature professionnelle ou privée, et que ce n'est que parce que le requérant aurait répondu que ces communications étaient professionnelles, qu'il n'avait que des communications professionnelles, qu'il aurait alors accédé au contenu de ces informations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4636.16</TimestampBegin>
+			<TimestampEnd>4654.86</TimestampEnd>
+			<Text>Je voudrais, d'une part, que le gouvernement me dise si j'ai bien compris cette argumentation et si elle est soutenue factuellement comme étant soit établie, soit probable, soit hypothétique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4654.86</TimestampBegin>
+			<TimestampEnd>4670.76</TimestampEnd>
+			<Text>Et je voudrais que les conseils du requérant nous disent, sur le plan factuel, ce qu'ils pensent de cette analyse, et sur le plan juridique, à supposer qu'il en soit ainsi, comment réagissent-ils.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4670.76</TimestampBegin>
+			<TimestampEnd>4672.06</TimestampEnd>
+			<Text>Voilà ma question, Monsieur le Président.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4673.76</TimestampBegin>
+			<TimestampEnd>4676.16</TimestampEnd>
+			<Text>Merci beaucoup, monsieur le juge Lemmens.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Paul Lemmens</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4679.73</TimestampBegin>
+			<TimestampEnd>4680.77</TimestampEnd>
+			<Text>Thank you very much, I'd like to ask a first very simple question to the government, the government mentioned that there were some remedies that could have been exhausted by the applicant, does that mean that there is now a formal objection to the admissibility of the application based of non-exhaustion of these remedies.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4709.73</TimestampBegin>
+			<TimestampEnd>4716.73</TimestampEnd>
+			<Text>And the second question is to both parties and it is of a factual nature and it is somewhat in the line of what my colleague Mr. Potocki has asked.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4716.73</TimestampBegin>
+			<TimestampEnd>4728.73</TimestampEnd>
+			<Text>If I can see, or the government attached to its observations the charge showing the internet traffic.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4728.73</TimestampBegin>
+			<TimestampEnd>4738.73</TimestampEnd>
+			<Text>And it shows that the applicant has had much more, made much more use of the internet than some other employees.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4738.73</TimestampBegin>
+			<TimestampEnd>4744.73</TimestampEnd>
+			<Text>I don't know whether these are all the employees. I see that there are in total seven employees mentioned.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4744.73</TimestampBegin>
+			<TimestampEnd>4755.73</TimestampEnd>
+			<Text>My question is, this actually prompted the disciplinary proceedings by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4755.73</TimestampBegin>
+			<TimestampEnd>4767.73</TimestampEnd>
+			<Text>Was there also a rule on the excessive use of internet and in particular on the excessive use of Yahoo messenger by the employees?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4767.73</TimestampBegin>
+			<TimestampEnd>4769.73</TimestampEnd>
+			<Text>Whether private or professional.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4769.73</TimestampBegin>
+			<TimestampEnd>4778.73</TimestampEnd>
+			<Text>Was the use of the Yahoo messenger in itself something suspect within the firm?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4778.73</TimestampBegin>
+			<TimestampEnd>4788.73</TimestampEnd>
+			<Text>Was this high use of the Yahoo messenger an indication that it was being used for private purposes?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4788.73</TimestampBegin>
+			<TimestampEnd>4796.73</TimestampEnd>
+			<Text>And then I come a bit to the situation or the questions raised by my colleague.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4796.73</TimestampBegin>
+			<TimestampEnd>4809.73</TimestampEnd>
+			<Text>If the high use of the Yahoo messenger was already an indication of a private use, why then still ask the applicant whether he used it for professional purposes?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4809.73</TimestampBegin>
+			<TimestampEnd>4819.73</TimestampEnd>
+			<Text>I would like to, it's not, it's in fact a question to the employer, but I would like to know whether the parties have something to say about this.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4819.73</TimestampBegin>
+			<TimestampEnd>4819.73</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4822.65</TimestampBegin>
+			<TimestampEnd>4825.05</TimestampEnd>
+			<Text>Thank you very much, judge Dedov please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Dmitry Dedov</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4832.87</TimestampBegin>
+			<TimestampEnd>4836.47</TimestampEnd>
+			<Text>I have a question to both parties.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4836.47</TimestampBegin>
+			<TimestampEnd>4846.47</TimestampEnd>
+			<Text>You both said about legitimate expectations, and I understand both parties had legitimate expectations in this case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4846.47</TimestampBegin>
+			<TimestampEnd>4873.15</TimestampEnd>
+			<Text>And can we, and can you say that it is possible, instead of legitimate expectations of privacy, in some circumstances, or in the context of this case, this particular case, there could be legitimate expectations that the privacy could be limited, or even monitored?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4873.15</TimestampBegin>
+			<TimestampEnd>4893.69</TimestampEnd>
+			<Text>And the second question is about the proportionality, whether the use of Internet for private correspondence was too much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4893.69</TimestampBegin>
+			<TimestampEnd>4906.13</TimestampEnd>
+			<Text>So it's not a quick question between the relatives, just the call for emergency, or that we have 45 pages of correspondence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4906.13</TimestampBegin>
+			<TimestampEnd>4915.69</TimestampEnd>
+			<Text>Isn't it too much for using, enjoying privacy in a working environment?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4915.69</TimestampBegin>
+			<TimestampEnd>4943.83</TimestampEnd>
+			<Text>And the question to the government, whether there was also no proportionality enjoyed by the employer when monitoring without or with any cause, just because it was the equipment belonging to the company, that's all, or there was any cause for monitoring.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4943.83</TimestampBegin>
+			<TimestampEnd>4953.43</TimestampEnd>
+			<Text>Or it is the case that we call as a mass surveillance case within the limits of working environment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>4953.43</TimestampBegin>
+			<TimestampEnd>4953.43</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4956.57</TimestampBegin>
+			<TimestampEnd>4960.89</TimestampEnd>
+			<Text>Maintenant, la cour va se retirer jusqu'à 11h00.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4960.89</TimestampBegin>
+			<TimestampEnd>4968.93</TimestampEnd>
+			<Text>Après quoi, les partis pourront présenter des brèves observations à réponse aux coupes les doigts et adverses et aux questions des juges.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4968.93</TimestampBegin>
+			<TimestampEnd>4968.93</TimestampEnd>
+			<Text>L'audience est suspendue.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Announcer</Role>
+		<Name>UNK</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5433.83</TimestampBegin>
+			<TimestampEnd>5434.43</TimestampEnd>
+			<Text>La Cour!</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5475.12</TimestampBegin>
+			<TimestampEnd>5482.69</TimestampEnd>
+			<Text>Vous en prie, asseyez-vous. L'audience est reprise et la parole est à Maître Domokos-Hâncu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5482.69</TimestampBegin>
+			<TimestampEnd>5483.69</TimestampEnd>
+			<Text>Vous avez la parole, Maître.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP1</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5491.31</TimestampBegin>
+			<TimestampEnd>5492.79</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5492.79</TimestampBegin>
+			<TimestampEnd>5498.71</TimestampEnd>
+			<Text>I will start by addressing part of the state's arguments.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5498.71</TimestampBegin>
+			<TimestampEnd>5504.03</TimestampEnd>
+			<Text>Firstly, I will touch upon the nature of the accounts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5504.03</TimestampBegin>
+			<TimestampEnd>5516.91</TimestampEnd>
+			<Text>As the majority failed to see, and as the state claims here today, the employer was not the owner of the instant messaging account.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5516.91</TimestampBegin>
+			<TimestampEnd>5526.59</TimestampEnd>
+			<Text>Indeed, these accounts were opened following the employer's instruction in this respect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5526.59</TimestampBegin>
+			<TimestampEnd>5529.35</TimestampEnd>
+			<Text>But it is Mr. Barbulescu who firstly</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5529.35</TimestampBegin>
+			<TimestampEnd>5535.35</TimestampEnd>
+			<Text>accepted the terms and conditions of Yahoo Incorporated in his own name.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5535.35</TimestampBegin>
+			<TimestampEnd>5540.33</TimestampEnd>
+			<Text>It is the single person who had the passwords to these accounts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5540.33</TimestampBegin>
+			<TimestampEnd>5549.19</TimestampEnd>
+			<Text>And basically, he was the sole owner of the account, not the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5549.19</TimestampBegin>
+			<TimestampEnd>5557.11</TimestampEnd>
+			<Text>But it's true the accounts were set up, were opened following the employer's instructions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5557.11</TimestampBegin>
+			<TimestampEnd>5565.07</TimestampEnd>
+			<Text>The state also touched the fact that we were not active in the criminal complaint.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5565.07</TimestampBegin>
+			<TimestampEnd>5568.03</TimestampEnd>
+			<Text>Firstly, we filed a criminal complaint.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5568.03</TimestampBegin>
+			<TimestampEnd>5577.59</TimestampEnd>
+			<Text>Secondly, generally, you would be proactive in a criminal investigation when you are called to be active.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5577.59</TimestampBegin>
+			<TimestampEnd>5593.31</TimestampEnd>
+			<Text>Also, what the state fails to clearly state, that it took more than five years for the criminal investigation to come to a completely false understanding of the statement of facts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5593.31</TimestampBegin>
+			<TimestampEnd>5602.15</TimestampEnd>
+			<Text>How could they conclude after five years that his fiance and his brother worked for the same employer?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5602.15</TimestampBegin>
+			<TimestampEnd>5603.55</TimestampEnd>
+			<Text>This is false.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5603.55</TimestampBegin>
+			<TimestampEnd>5617.39</TimestampEnd>
+			<Text>Also, what the state failed to prove and to show is that the paper that was served after five years to Mr. Barbulescu had no reference to the fact</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5617.39</TimestampBegin>
+			<TimestampEnd>5621.15</TimestampEnd>
+			<Text>that he had any right to challenge it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5621.15</TimestampBegin>
+			<TimestampEnd>5624.63</TimestampEnd>
+			<Text>And he is by no means a lawyer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5624.63</TimestampBegin>
+			<TimestampEnd>5637.07</TimestampEnd>
+			<Text>And at any way, at that stage, he almost lost faith in any just reply from the state's authorities.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5637.07</TimestampBegin>
+			<TimestampEnd>5641.95</TimestampEnd>
+			<Text>Also, the state talked about access to the internet.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5641.95</TimestampBegin>
+			<TimestampEnd>5656.75</TimestampEnd>
+			<Text>As I've mentioned, access to the internet cannot be regarded as a right of the employer to be granted to the employee, but an extension of the fundamental human right to freedom of expression.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5656.75</TimestampBegin>
+			<TimestampEnd>5672.87</TimestampEnd>
+			<Text>Also, what is crucial, and we need to go back to the first notice, Notice 3772, which is the notice that commenced the so-called disciplinary procedure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5672.87</TimestampBegin>
+			<TimestampEnd>5683.11</TimestampEnd>
+			<Text>This notice, at this preliminary stage of the disciplinary procedure, calls Mr. Barbulescu</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5683.11</TimestampBegin>
+			<TimestampEnd>5693.47</TimestampEnd>
+			<Text>to say why he used the internet and why he used the computer of the company for his personal use.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5693.47</TimestampBegin>
+			<TimestampEnd>5701.83</TimestampEnd>
+			<Text>Now, the question is, how could the employer could have known at this stage that Mr. Barbulescu used</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5701.83</TimestampBegin>
+			<TimestampEnd>5708.21</TimestampEnd>
+			<Text>the company computer and internet connection for his personal interest?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5708.21</TimestampBegin>
+			<TimestampEnd>5718.15</TimestampEnd>
+			<Text>How could they have known, even from reading the transcripts, that this is personal correspondence?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5718.15</TimestampBegin>
+			<TimestampEnd>5742.31</TimestampEnd>
+			<Text>And this basically proves that the employer, even before commencing any disciplinary procedure, knew about the existence of such communication and knew about the personal nature of such communication.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5742.31</TimestampBegin>
+			<TimestampEnd>5749.91</TimestampEnd>
+			<Text>This also proves that the employer's real intent to terminate Mr. Barbulescu's employment</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5749.91</TimestampBegin>
+			<TimestampEnd>5755.95</TimestampEnd>
+			<Text>existed even before accessing the so-called communication.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5755.95</TimestampBegin>
+			<TimestampEnd>5765.79</TimestampEnd>
+			<Text>It also proves that there is any serious lack of any serious reason to substantiate the termination.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5765.79</TimestampBegin>
+			<TimestampEnd>5773.47</TimestampEnd>
+			<Text>That, as my colleague said, was based on a pre-existing dispute over a working condition.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5773.47</TimestampBegin>
+			<TimestampEnd>5788.59</TimestampEnd>
+			<Text>So that was the origin of the dispute, which led to the employer basically tarnishing Mr. Barbulescu's right to private life.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5788.59</TimestampBegin>
+			<TimestampEnd>5801.19</TimestampEnd>
+			<Text>And this also led to the employer's need to secure evidence to substantiate the termination of Mr. Barbulescu's employment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5801.19</TimestampBegin>
+			<TimestampEnd>5811.59</TimestampEnd>
+			<Text>Also, you have asked how could have such communication be revealed.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5811.59</TimestampBegin>
+			<TimestampEnd>5813.11</TimestampEnd>
+			<Text>It's simple.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5813.11</TimestampBegin>
+			<TimestampEnd>5817.19</TimestampEnd>
+			<Text>In the company, there was only one printer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5817.19</TimestampBegin>
+			<TimestampEnd>5819.83</TimestampEnd>
+			<Text>The communication was printed.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5819.83</TimestampBegin>
+			<TimestampEnd>5836.35</TimestampEnd>
+			<Text>This printer was in the invoicing department where other two employees worked, not the managers of the company, but two employers who handled the accountancy and invoicing department.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5836.35</TimestampBegin>
+			<TimestampEnd>5848.23</TimestampEnd>
+			<Text>So basically, everything, every piece of paper that was printed in this company went through that printer, including this communication.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5848.23</TimestampBegin>
+			<TimestampEnd>5855.79</TimestampEnd>
+			<Text>You have asked how could have the colleagues known about this communication.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5855.79</TimestampBegin>
+			<TimestampEnd>5868.07</TimestampEnd>
+			<Text>Because it was printed there, and because it was other employees who accessed the correspondence and entrusted this correspondence to the managers.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5868.07</TimestampBegin>
+			<TimestampEnd>5871.35</TimestampEnd>
+			<Text>And Mr. Barbulescu always complained,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5871.35</TimestampBegin>
+			<TimestampEnd>5887.47</TimestampEnd>
+			<Text>and actually complained more about the fact that it became public among his colleagues that freely discussed the sensitive content that was included in this correspondence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5887.47</TimestampBegin>
+			<TimestampEnd>5898.87</TimestampEnd>
+			<Text>And on a final note, the state asked us to consider the level of development of modern ways of communication in 2007.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5898.87</TimestampBegin>
+			<TimestampEnd>5906.63</TimestampEnd>
+			<Text>Yahoo Messenger, which was used in this case, had in 2007 more than 62 million users.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5906.63</TimestampBegin>
+			<TimestampEnd>5913.19</TimestampEnd>
+			<Text>That was the level of development of instant messaging in 2007.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5913.19</TimestampBegin>
+			<TimestampEnd>5914.43</TimestampEnd>
+			<Text>Thank you, and I will allow my colleague to continue.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5918.57</TimestampBegin>
+			<TimestampEnd>5921.57</TimestampEnd>
+			<Text>You have the floor.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP2</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5921.57</TimestampBegin>
+			<TimestampEnd>5923.87</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5923.87</TimestampBegin>
+			<TimestampEnd>5942.07</TimestampEnd>
+			<Text>In response to the questions for the judges, first question put by Judge Ravarani referred to the applicant declarations about the account.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5942.07</TimestampBegin>
+			<TimestampEnd>5951.37</TimestampEnd>
+			<Text>The account was made following employer initiative in order for the applicant to stay online and be contacted by potential clients.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5951.37</TimestampBegin>
+			<TimestampEnd>5955.57</TimestampEnd>
+			<Text>That's a fact.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5955.57</TimestampBegin>
+			<TimestampEnd>5966.49</TimestampEnd>
+			<Text>And standing online, he was available for all person who can see it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5966.49</TimestampBegin>
+			<TimestampEnd>5972.17</TimestampEnd>
+			<Text>And such, he was contacted by his brother and his fiance.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5972.17</TimestampBegin>
+			<TimestampEnd>5976.45</TimestampEnd>
+			<Text>Every conversation was started by these two person.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5976.45</TimestampBegin>
+			<TimestampEnd>5980.13</TimestampEnd>
+			<Text>Non-conversation was started by the applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5980.13</TimestampBegin>
+			<TimestampEnd>5996.61</TimestampEnd>
+			<Text>And in the content of the conversation, there are occasions when he write, he must go to undergo his duties, his tasks.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>5996.61</TimestampBegin>
+			<TimestampEnd>6001.45</TimestampEnd>
+			<Text>And he cannot have a conversation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6001.45</TimestampBegin>
+			<TimestampEnd>6005.29</TimestampEnd>
+			<Text>Another point, the conversation are very short.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6005.29</TimestampBegin>
+			<TimestampEnd>6008.01</TimestampEnd>
+			<Text>There are instant messages.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6008.01</TimestampBegin>
+			<TimestampEnd>6010.21</TimestampEnd>
+			<Text>He's online.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6010.21</TimestampBegin>
+			<TimestampEnd>6017.77</TimestampEnd>
+			<Text>Supposedly, he's at a window and somebody go in front of this window.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6017.77</TimestampBegin>
+			<TimestampEnd>6020.01</TimestampEnd>
+			<Text>It's the same thing.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6020.01</TimestampBegin>
+			<TimestampEnd>6023.97</TimestampEnd>
+			<Text>They ask him something and he respond.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6023.97</TimestampBegin>
+			<TimestampEnd>6031.61</TimestampEnd>
+			<Text>There are no large object of these conversations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6031.61</TimestampBegin>
+			<TimestampEnd>6043.57</TimestampEnd>
+			<Text>Also, he was the owner of the account because he is a sole detainer of password.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6043.57</TimestampBegin>
+			<TimestampEnd>6049.69</TimestampEnd>
+			<Text>And only he could access this account in a legal mode.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6049.69</TimestampBegin>
+			<TimestampEnd>6066.53</TimestampEnd>
+			<Text>What the employer did was to spy this account, to use spyware program to interfere with his messaging.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6074.41</TimestampBegin>
+			<TimestampEnd>6084.73</TimestampEnd>
+			<Text>The only justification for this interference was namely to terminate this contract.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6084.73</TimestampBegin>
+			<TimestampEnd>6089.89</TimestampEnd>
+			<Text>There is no interest for the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6089.89</TimestampBegin>
+			<TimestampEnd>6094.05</TimestampEnd>
+			<Text>The employer never invoke.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6094.05</TimestampBegin>
+			<TimestampEnd>6098.49</TimestampEnd>
+			<Text>They have an interest to control these communications.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6098.49</TimestampBegin>
+			<TimestampEnd>6105.29</TimestampEnd>
+			<Text>And the graphics of these communications, we don't know if they are real.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6105.29</TimestampBegin>
+			<TimestampEnd>6114.21</TimestampEnd>
+			<Text>There are a chart that was put at our disposition, but we don't know if this is real.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6114.21</TimestampBegin>
+			<TimestampEnd>6118.21</TimestampEnd>
+			<Text>It could be counterfeit.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6118.21</TimestampBegin>
+			<TimestampEnd>6122.81</TimestampEnd>
+			<Text>It may be did it for causa.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6127.09</TimestampBegin>
+			<TimestampEnd>6131.97</TimestampEnd>
+			<Text>Asking to the question of Judge Karakas, we didn't know.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6131.97</TimestampBegin>
+			<TimestampEnd>6137.33</TimestampEnd>
+			<Text>And the applicant didn't remember if the notice was communicated.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6137.33</TimestampBegin>
+			<TimestampEnd>6143.53</TimestampEnd>
+			<Text>He has at some point a copy which is not signed.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6143.53</TimestampBegin>
+			<TimestampEnd>6157.21</TimestampEnd>
+			<Text>Now in the procedure, the last stage of the procedure, the government send us a copy which has a signature of the applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6157.21</TimestampBegin>
+			<TimestampEnd>6159.81</TimestampEnd>
+			<Text>We don't know if this is real.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6159.81</TimestampBegin>
+			<TimestampEnd>6164.57</TimestampEnd>
+			<Text>The applicant didn't remember if he signed this notice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6164.57</TimestampBegin>
+			<TimestampEnd>6177.09</TimestampEnd>
+			<Text>Only thing he is remember at some point he has this copy in his possession, but he didn't remember if he signed it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6177.09</TimestampBegin>
+			<TimestampEnd>6185.17</TimestampEnd>
+			<Text>We don't know how it was communicated or even if it was communicated to the employees.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6185.17</TimestampBegin>
+			<TimestampEnd>6195.09</TimestampEnd>
+			<Text>It's a thing to remark that this notice was not signed by any of employees.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6195.09</TimestampBegin>
+			<TimestampEnd>6199.89</TimestampEnd>
+			<Text>There are just the employees from Bucharest office who signed it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6199.89</TimestampBegin>
+			<TimestampEnd>6211.41</TimestampEnd>
+			<Text>And we thought it was on purpose to be used at some point after the applicant was dismissed.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6217.05</TimestampBegin>
+			<TimestampEnd>6220.89</TimestampEnd>
+			<Text>Another question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6220.89</TimestampBegin>
+			<TimestampEnd>6223.57</TimestampEnd>
+			<Text>In the same mode, we don't have a date.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6223.57</TimestampBegin>
+			<TimestampEnd>6230.45</TimestampEnd>
+			<Text>We don't know if it was signed.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6230.45</TimestampBegin>
+			<TimestampEnd>6246.77</TimestampEnd>
+			<Text>Referring to the personal account, this is indeed a personal account which was a very short time opened on the computer of an employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6246.77</TimestampBegin>
+			<TimestampEnd>6252.73</TimestampEnd>
+			<Text>And there are just six messages recorded on this account.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6252.73</TimestampBegin>
+			<TimestampEnd>6255.01</TimestampEnd>
+			<Text>The employee didn't use this account.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6255.01</TimestampBegin>
+			<TimestampEnd>6257.29</TimestampEnd>
+			<Text>It was by accident opened.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6257.29</TimestampBegin>
+			<TimestampEnd>6275.53</TimestampEnd>
+			<Text>And these six messages demonstrate that, but also demonstrate that the employer did have not any refrain to record and to interfere with this content of these accounts.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6275.53</TimestampBegin>
+			<TimestampEnd>6285.53</TimestampEnd>
+			<Text>Both accounts are, in fact, personal accounts because for both of them, the applicant have the password.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6285.53</TimestampBegin>
+			<TimestampEnd>6288.17</TimestampEnd>
+			<Text>And it was the only one he has a password.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6293.17</TimestampBegin>
+			<TimestampEnd>6303.77</TimestampEnd>
+			<Text>The interception, the question of Judge Potocki, the interception was purpose of termination.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6303.77</TimestampBegin>
+			<TimestampEnd>6310.49</TimestampEnd>
+			<Text>We deem it was not an interest for an employer to make such interception.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6310.49</TimestampBegin>
+			<TimestampEnd>6317.29</TimestampEnd>
+			<Text>The employer didn't say that Mr. Barbulescu</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6317.29</TimestampBegin>
+			<TimestampEnd>6325.41</TimestampEnd>
+			<Text>didn't accomplish his duty service assignment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6325.41</TimestampBegin>
+			<TimestampEnd>6341.33</TimestampEnd>
+			<Text>And he is an employee who was promoted constantly until the moment when he was in disagree with work condition and with his bosses.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6347.61</TimestampBegin>
+			<TimestampEnd>6364.45</TimestampEnd>
+			<Text>There is no damage the employer sustained, and there is no damage the employer invoked like an interest to spy the whole internet account of Mr. Barbulescu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6364.45</TimestampBegin>
+			<TimestampEnd>6364.53</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6367.03</TimestampBegin>
+			<TimestampEnd>6371.75</TimestampEnd>
+			<Text>Thank you very much. Now I call Mrs. Brumar on the floor, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR1</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6373.21</TimestampBegin>
+			<TimestampEnd>6375.65</TimestampEnd>
+			<Text>Thank you, Mr. President.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6375.65</TimestampBegin>
+			<TimestampEnd>6388.17</TimestampEnd>
+			<Text>In responding to the questions put by the honorable members of the court, as the applicant admitted, the account was created at his employer's request for professional purposes only.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6388.17</TimestampBegin>
+			<TimestampEnd>6408.05</TimestampEnd>
+			<Text>The ban on using in the personal interest by the employees of offices facilities referred only to professional tools put at their disposal by the employer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6408.05</TimestampBegin>
+			<TimestampEnd>6418.13</TimestampEnd>
+			<Text>As such, computers and Internet connection were considered professional tools to be used only to perform working tasks.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6418.13</TimestampBegin>
+			<TimestampEnd>6436.51</TimestampEnd>
+			<Text>That meant that you were entitled to use these facilities in your professional activity in work-related issues.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6436.51</TimestampBegin>
+			<TimestampEnd>6444.73</TimestampEnd>
+			<Text>There is no indication that the employer was informed by the applicant on the existence of a personal Yahoo Messenger account.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6444.73</TimestampBegin>
+			<TimestampEnd>6457.47</TimestampEnd>
+			<Text>The only account the employer could be considered to be aware of was the account that was created at his request.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6457.47</TimestampBegin>
+			<TimestampEnd>6462.21</TimestampEnd>
+			<Text>The transcripts were printed on 13 July 2007.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6462.21</TimestampBegin>
+			<TimestampEnd>6467.47</TimestampEnd>
+			<Text>The hour is not mentioned, and there is no indication of it in the domestic file.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6467.47</TimestampBegin>
+			<TimestampEnd>6480.69</TimestampEnd>
+			<Text>But from the unfolding of the events and from the intermediate level type of monitoring that I will come back to, it can reasonably be concluded that the analysis was performed gradually.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6480.69</TimestampBegin>
+			<TimestampEnd>6490.21</TimestampEnd>
+			<Text>This means that they were printed only after the first round of disciplinary proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6490.21</TimestampBegin>
+			<TimestampEnd>6497.21</TimestampEnd>
+			<Text>No element in the case files indicate a prior disclosure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6497.21</TimestampBegin>
+			<TimestampEnd>6507.55</TimestampEnd>
+			<Text>It is with surprise that we've learned here today for the first time the applicant's explanation on what he considers to be a prior disclosure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6507.55</TimestampBegin>
+			<TimestampEnd>6511.39</TimestampEnd>
+			<Text>I do share a printer with my colleagues.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6511.39</TimestampBegin>
+			<TimestampEnd>6535.95</TimestampEnd>
+			<Text>I find it rather difficult in just a glance or one minute to read 45 pages so as to have a clear perception of the content of the files printed and to be able to share the information with the colleagues.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6535.95</TimestampBegin>
+			<TimestampEnd>6544.45</TimestampEnd>
+			<Text>So I consider that the explanation provided by the applicant today is not convincing.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6544.45</TimestampBegin>
+			<TimestampEnd>6569.65</TimestampEnd>
+			<Text>As the graphics shows, the employer resorted to an intermediate level type of monitoring, controlling the traffic data consumption of all employees who had access to such facility in order to perform their tasks, not only the applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6569.65</TimestampBegin>
+			<TimestampEnd>6580.69</TimestampEnd>
+			<Text>The graphics show monitoring of the data, of the traffic data consumption for seven employees.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6580.69</TimestampBegin>
+			<TimestampEnd>6596.65</TimestampEnd>
+			<Text>As the employees, as the employer explained in the domestic file, this monitoring was then read on the basis of the professional performance of the employees.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6596.65</TimestampBegin>
+			<TimestampEnd>6613.29</TimestampEnd>
+			<Text>Only when large traffic data consumption not supported by an increase in sales or other similar results, they requested explanations and subsequently proceeded to the review of communications.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6613.29</TimestampBegin>
+			<TimestampEnd>6619.83</TimestampEnd>
+			<Text>This was the unfolding of the events in the present case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6619.83</TimestampBegin>
+			<TimestampEnd>6627.55</TimestampEnd>
+			<Text>The employer only resorted to the review of communications when confronted with Mr.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6627.55</TimestampBegin>
+			<TimestampEnd>6636.11</TimestampEnd>
+			<Text>Babulescu's firm affirmation on the professional nature of the communications.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6636.11</TimestampBegin>
+			<TimestampEnd>6645.53</TimestampEnd>
+			<Text>It was not the use of Yahoo Messenger account that was considered suspicious.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6645.53</TimestampBegin>
+			<TimestampEnd>6667.91</TimestampEnd>
+			<Text>It was the large discrepancy in internet traffic consumption without a proper reflection in the professional performance that made the employer search for further explanations of this situation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6667.91</TimestampBegin>
+			<TimestampEnd>6686.03</TimestampEnd>
+			<Text>As to the notification of the company-wide notice of 3 July 2007, I must admit that I am not aware of other forms of communication to the employees.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6686.03</TimestampBegin>
+			<TimestampEnd>6714.09</TimestampEnd>
+			<Text>But what is certain is that it was acknowledged by all the employees in the Bucharest office that the signature, this means, or it might reasonably meant that each employee who signed read the notice and became aware of the information contained by it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6714.09</TimestampBegin>
+			<TimestampEnd>6727.31</TimestampEnd>
+			<Text>As the notice arrived through fax from Cluj headquarters on that day, the company-wide notice arrived to Cluj headquarters on that day.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6727.31</TimestampBegin>
+			<TimestampEnd>6740.69</TimestampEnd>
+			<Text>And given the small numbers of employees in the Bucharest office, it is reasonably to consider that within hours the notice was disseminated through all Bucharest office.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6740.69</TimestampBegin>
+			<TimestampEnd>6751.73</TimestampEnd>
+			<Text>The applicant was present at work as the presence should show on those days.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6751.73</TimestampBegin>
+			<TimestampEnd>6760.37</TimestampEnd>
+			<Text>So he rapidly became aware of it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6760.37</TimestampBegin>
+			<TimestampEnd>6777.33</TimestampEnd>
+			<Text>The government would not raise at this stage, without ignoring the procedural requirements, a new exception of non-exhaustion of domestic remedies.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6777.33</TimestampBegin>
+			<TimestampEnd>6811.33</TimestampEnd>
+			<Text>What the government wants to underline is that for the first time before the European Court, the applicant criticizes the alleged lack of protection of his personal data, the lack of effectivity of the criminal proceedings without at any moment before domestic authorities invoking these issues.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6811.33</TimestampBegin>
+			<TimestampEnd>6836.65</TimestampEnd>
+			<Text>What the government meant is that for these reasons, that he did not give a proper opportunity to national authorities to examine these allegations, that they should not be taken into account in the analysis performed by the grand chamber.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6836.65</TimestampBegin>
+			<TimestampEnd>6874.27</TimestampEnd>
+			<Text>As to the expectation of privacy, or the level of expectation of privacy that the present case is about, we believe that in the context, and given the particularities of the present case, the applicant, as the other employees of the private company, had no expectation of privacy when using offices facilities in personal interest.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6874.27</TimestampBegin>
+			<TimestampEnd>6923.11</TimestampEnd>
+			<Text>This is why the case is not about recognizing or crystallizing the concept of internet as a component of a human right, but it's about the legal normal consequences drawn from a clear infringement of the employer's internal regulations that developed in the respect of the normative framework, its right to control the activity of the employees in fulfilling their professional tasks.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6923.11</TimestampBegin>
+			<TimestampEnd>6926.03</TimestampEnd>
+			<Text>One last point, Mr. President.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6926.03</TimestampBegin>
+			<TimestampEnd>6938.75</TimestampEnd>
+			<Text>The applicant, as his representatives stated here today, was, from the beginning, before the national authorities, assisted by a lawyer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6938.75</TimestampBegin>
+			<TimestampEnd>6994.71</TimestampEnd>
+			<Text>Therefore, we believe that aspects such as the fact that he was not aware of the existence of a remedy against the decision not to open criminal prosecution, or the fact that now he claims that he does not remember, or that graphics or the copy of the notice might be fake, we think that they are a little exaggerated and unfounded, as it is obviously a council's task to navigate its client through the normative framework.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>6994.71</TimestampBegin>
+			<TimestampEnd>6997.95</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>7000.39</TimestampBegin>
+			<TimestampEnd>7001.39</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>7001.39</TimestampBegin>
+			<TimestampEnd>7005.63</TimestampEnd>
+			<Text>Nous en arrivons au terme de l'audience.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>7005.63</TimestampBegin>
+			<TimestampEnd>7013.03</TimestampEnd>
+			<Text>Je remercie les comparants qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>7013.03</TimestampBegin>
+			<TimestampEnd>7015.79</TimestampEnd>
+			<Text>La Cour va maintenant délibérer sur le fond.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>7015.79</TimestampBegin>
+			<TimestampEnd>7018.75</TimestampEnd>
+			<Text>L'arrêt sera rendu ultérieurement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>7018.75</TimestampBegin>
+			<TimestampEnd>7022.31</TimestampEnd>
+			<Text>Les partis seront informés de la date du prononcé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>7022.31</TimestampBegin>
+			<TimestampEnd>7022.31</TimestampEnd>
+			<Text>L'audience est levée.</Text>
+		</Snippet>
+	</SpeakerSegment>
+</Transcript>

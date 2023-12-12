@@ -1,0 +1,3100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Transcript>
+	<WebcastID>7140910_20122017</WebcastID>
+	<SpeakerSegment>
+		<Role>Announcer</Role>
+		<Name>UNK</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>9.37</TimestampBegin>
+			<TimestampEnd>10.09</TimestampEnd>
+			<Text>La Cour!</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>49.96</TimestampBegin>
+			<TimestampEnd>51.36</TimestampEnd>
+			<Text>Prenez place.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>59.96</TimestampBegin>
+			<TimestampEnd>67.96</TimestampEnd>
+			<Text>Je déclare ouverte l'audience publique sur la recevabilité et le fonds de l'affaire Beuze contre Belgique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>69.16</TimestampBegin>
+			<TimestampEnd>82.32</TimestampEnd>
+			<Text>L'affaire a été introduite devant la Cour le 25 novembre 2010 par un ressortissant belge, M. Philippe Beuze, en vertu de l'article 34 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>82.32</TimestampBegin>
+			<TimestampEnd>91.16</TimestampEnd>
+			<Text>Elle a été attribuée à la deuxième section de la Cour conformément à l'article 52, paragraphe 1 du règlement de la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>91.16</TimestampBegin>
+			<TimestampEnd>97.52</TimestampEnd>
+			<Text>La requête a été communiquée au gouvernement le 25 août 2014.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>97.52</TimestampBegin>
+			<TimestampEnd>105.32</TimestampEnd>
+			<Text>Le 13 juin 2017, la Chambre a décidé de se dessaisir au profit de la Grande Chambre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>105.32</TimestampBegin>
+			<TimestampEnd>121.52</TimestampEnd>
+			<Text>Le 19 septembre 2017, Fair Trials International a été autorisé à soumettre des observations écrites en tant que tiers parti en vertu de l'article 44, paragraphe 3 du règlement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>121.52</TimestampBegin>
+			<TimestampEnd>130.6</TimestampEnd>
+			<Text>Le gouvernement est représenté par son agente, Mme Isabelle Niedlispacher, du service public fédéral justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>130.6</TimestampBegin>
+			<TimestampEnd>136.28</TimestampEnd>
+			<Text>Le requérant est représenté par M. Delphine Paci, conseil.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>136.28</TimestampBegin>
+			<TimestampEnd>139.56</TimestampEnd>
+			<Text>Je salue les comparants au nom de la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>139.56</TimestampBegin>
+			<TimestampEnd>147.64</TimestampEnd>
+			<Text>Je salue également la délégation de magistrats turcs et la délégation de magistrats japonais en visite à la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>147.64</TimestampBegin>
+			<TimestampEnd>155.68</TimestampEnd>
+			<Text>Ayant consulté l'agente du gouvernement et la représentante du requérant, j'ai fixé ainsi l'ordre de parole.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>155.68</TimestampBegin>
+			<TimestampEnd>163.76</TimestampEnd>
+			<Text>Nous entendrons successivement Mme Niedlispacher pour le gouvernement, puis M. Paci pour le requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>163.76</TimestampBegin>
+			<TimestampEnd>179.24</TimestampEnd>
+			<Text>Je dois expliquer qu'en suce de l'interprétation dans les deux langues officielles de la Cour, l'anglais et le français, l'interprétation en turc a été autorisée au profit de la délégation de magistrats turcs qui assistent à cette audience.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>179.24</TimestampBegin>
+			<TimestampEnd>190.36</TimestampEnd>
+			<Text>Cette interprétation n'est pas assurée par la Cour et ne fera donc pas partie de l'enregistrement officiel de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>190.36</TimestampBegin>
+			<TimestampEnd>191.36</TimestampEnd>
+			<Text>Mme Niedlispacher, vous avez la parole.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR1</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>194.41</TimestampBegin>
+			<TimestampEnd>195.81</TimestampEnd>
+			<Text>Je vous remercie, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>196.85</TimestampBegin>
+			<TimestampEnd>199.13</TimestampEnd>
+			<Text>M. le Président, mesdames, messieurs les juges,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>200.21</TimestampBegin>
+			<TimestampEnd>210.61</TimestampEnd>
+			<Text>la Chambre a décidé de se désaisir de cette affaire au profit de votre grande Chambre parce que son enjeu dépasse la question de savoir si la procédure a été équitable en l'espèce.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>212.01</TimestampBegin>
+			<TimestampEnd>223.65</TimestampEnd>
+			<Text>L'enjeu d'intérêt général est ici de savoir s'il faut confirmer ou infirmer la jurisprudence Ibrahim contre le Royaume-Uni et Simeonovi contre Bulgari.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>225.69</TimestampBegin>
+			<TimestampEnd>227.29</TimestampEnd>
+			<Text>Que nous enseigne cette jurisprudence?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>228.97</TimestampBegin>
+			<TimestampEnd>236.53</TimestampEnd>
+			<Text>Dans son récent arrêt, Ibrahim et autres, la Cour a complété et précisé les critères énoncés dans l'arrêt Saldus.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>238.49</TimestampBegin>
+			<TimestampEnd>246.09</TimestampEnd>
+			<Text>Elle a notamment indiqué que les restrictions de l'accès à une assistance juridique ne sont permises que dans des cas exceptionnels.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>248.25</TimestampBegin>
+			<TimestampEnd>255.09</TimestampEnd>
+			<Text>Elles doivent être de nature temporaire et reposer sur une appréciation individuelle des circonstances particulières de l'espèce.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>257.69</TimestampBegin>
+			<TimestampEnd>273.45</TimestampEnd>
+			<Text>Ainsi, le besoin urgent de prévenir une atteinte grave à la vie, à la liberté ou à l'intégrité physique dans un cas donné constitue une raison impérieuse de restreindre l'accès à l'assistance juridique aux fins de l'article 6 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>275.65</TimestampBegin>
+			<TimestampEnd>285.93</TimestampEnd>
+			<Text>Toutefois, l'absence de raison impérieuse de restreindre l'accès à un avocat n'emporte pas à elle seule violation de l'article 6, paragraphes 1 et 3C.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>286.65</TimestampBegin>
+			<TimestampEnd>295.45</TimestampEnd>
+			<Text>En ce cas, la Cour doit cependant opérer un contrôle très strict de l'équité de la procédure pénale.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>296.05</TimestampBegin>
+			<TimestampEnd>315.45</TimestampEnd>
+			<Text>Il revient alors au gouvernement, défendeur, d'expliquer de façon convaincante pourquoi, à titre exceptionnel et au vu des circonstances particulières de l'espèce, la restriction à l'accès à l'assistance juridique n'a pas porté une atteinte irrémédiable à l'équité globale du procès.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>317.05</TimestampBegin>
+			<TimestampEnd>317.85</TimestampEnd>
+			<Text>Je vais m'y attacher.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>319.85</TimestampBegin>
+			<TimestampEnd>330.85</TimestampEnd>
+			<Text>Il est de jurisprudence constante que l'équité de la procédure pénale s'apprécie au cas par cas et à l'aune de la conduite de la procédure dans son ensemble.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>332.45</TimestampBegin>
+			<TimestampEnd>348.05</TimestampEnd>
+			<Text>Dans son arrêt Ibrahim, la Cour fournit une liste non exhaustive de facteurs à prendre en compte pour mesurer les conséquences de lacunes procédurales survenues au stade de l'instruction sur l'équité globale du procès.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>348.85</TimestampBegin>
+			<TimestampEnd>351.25</TimestampEnd>
+			<Text>On y retrouve notamment les facteurs suivants.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>352.05</TimestampBegin>
+			<TimestampEnd>387.65</TimestampEnd>
+			<Text>La vulnérabilité particulière du requérant, le dispositif légal encadrant la procédure antérieure à la phase de jugement et l'admissibilité des preuves, et l'admissibilité des preuves au cours de cette phase, la possibilité ou non pour le requérant de contester l'authenticité des preuves recueillies et de s'opposer à leur production, le point de savoir si la culpabilité a été appréciée par des magistrats professionnels ou par des jurés, et dans ce dernier cas, la teneur des instructions qui leur a été donnée au jury.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>387.65</TimestampBegin>
+			<TimestampEnd>395.25</TimestampEnd>
+			<Text>Selon des critères récemment clarifiés par la Cour, c'est l'arrestation de M. Beuze par les autorités françaises</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>395.65</TimestampBegin>
+			<TimestampEnd>401.45</TimestampEnd>
+			<Text>qui doit être considérée comme le point de départ pour l'application des garanties énumérées à l'article 6.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>403.05</TimestampBegin>
+			<TimestampEnd>405.65</TimestampEnd>
+			<Text>M. Beuze a bénéficié dès cette arrestation</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>405.85</TimestampBegin>
+			<TimestampEnd>413.85</TimestampEnd>
+			<Text>de la possibilité que lui offrait le Code français de procédure pénale de se faire assister par un avocat lors de sa garde à vue.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>413.85</TimestampBegin>
+			<TimestampEnd>425.45</TimestampEnd>
+			<Text>Il a alors renoncé explicitement à ce droit et n'a fait la demande d'être assisté par un avocat que lors de sa comparution devant la chambre d'instruction de la Cour d'appel de Douai.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>426.85</TimestampBegin>
+			<TimestampEnd>431.45</TimestampEnd>
+			<Text>M. Odegon l'a alors assisté lors de sa comparution.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>432.45</TimestampBegin>
+			<TimestampEnd>437.85</TimestampEnd>
+			<Text>Conseillé par elle, il a donné son consentement à sa remise aux autorités belges.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>437.85</TimestampBegin>
+			<TimestampEnd>443.85</TimestampEnd>
+			<Text>La remise de M. Beuze aux autorités belges a eu lieu le 31 décembre 2007.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>444.85</TimestampBegin>
+			<TimestampEnd>455.45</TimestampEnd>
+			<Text>Dans la même journée, il est auditionné par la police puis par la juge d'instruction de Charles Roy qui lui demande en début d'audition s'il a déjà fait le choix d'un conseil.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>457.25</TimestampBegin>
+			<TimestampEnd>462.85</TimestampEnd>
+			<Text>Sur réponse négative, la juge avertit le délégué du bâtonnier et le signé de la police.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>462.85</TimestampBegin>
+			<TimestampEnd>469.85</TimestampEnd>
+			<Text>Sur réponse négative, la juge avertit le délégué du bâtonnier et le signale à M. Beuze à la fin de l'audition.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>472.25</TimestampBegin>
+			<TimestampEnd>475.25</TimestampEnd>
+			<Text>Lors de l'audition suivante, M. Beuze affirme qu'il est conseillé</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>475.25</TimestampBegin>
+			<TimestampEnd>478.25</TimestampEnd>
+			<Text>par maître Grindorge.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>478.25</TimestampBegin>
+			<TimestampEnd>486.25</TimestampEnd>
+			<Text>Entre le moment où il a cessé d'être conseillé par maître Odegon et celui où il est référé au conseil de maître Grindorge, deux interrogatoires ont eu lieu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>488.85</TimestampBegin>
+			<TimestampEnd>497.85</TimestampEnd>
+			<Text>Cet ordre des événements est compatible avec l'application régulière des anciens articles 16 et 20 de la loi belge relative à la détention préventive, alors en vigueur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>497.85</TimestampBegin>
+			<TimestampEnd>500.85</TimestampEnd>
+			<Text>relative à la détention préventive, alors en vigueur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>500.85</TimestampBegin>
+			<TimestampEnd>508.85</TimestampEnd>
+			<Text>Ce n'était en règle qu'après le premier interrogatoire par le juge d'instruction que la loi reconnaissait au prévenu le droit de communiquer librement avec leur avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>508.85</TimestampBegin>
+			<TimestampEnd>512.85</TimestampEnd>
+			<Text>le droit de communiquer librement avec leur avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>512.85</TimestampBegin>
+			<TimestampEnd>526.85</TimestampEnd>
+			<Text>Une déduction automatique, telle que le suggère le requérant qui ferait de l'assistance par un avocat à chaque stade du procès une fin en soi et non un outil au service de l'équité du procès doit être écartée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>526.85</TimestampBegin>
+			<TimestampEnd>551.85</TimestampEnd>
+			<Text>Une telle lecture formaliste, amenant à conclure automatiquement au respect ou au non-respect d'un droit garanti par la Convention sur la seule considération du prescrit de la loi serait incompatible avec les fondements de la méthodologie de la Cour, notamment le principe selon lequel la Convention vise à protéger des droits effectifs et non illusoires ou théoriques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>551.85</TimestampBegin>
+			<TimestampEnd>556.85</TimestampEnd>
+			<Text>et non illusoires ou théoriques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>556.85</TimestampBegin>
+			<TimestampEnd>564.85</TimestampEnd>
+			<Text>Sur les auditions en Belgique et l'assistance par un avocat, entre le moment où M. Beuze a cessé d'être conseillé</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>564.85</TimestampBegin>
+			<TimestampEnd>579.85</TimestampEnd>
+			<Text>par maître Odegon en France et celui où il a bénéficié du conseil de maître Grindorge en Belgique, les deux auditions de l'avocatoire, tous deux du 31 décembre 2007, ont eu lieu.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>579.85</TimestampBegin>
+			<TimestampEnd>599.85</TimestampEnd>
+			<Text>On ne saurait cependant considérer comme équivalent le cas où un prévenu est auditionné sans avoir eu le moindre contact avec son avocat et celui où il est auditionné seul mais après avoir rencontré son avocat, reçu ses conseils, mis au point avec lui des lignes stratégiques de défense.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>599.85</TimestampBegin>
+			<TimestampEnd>617.85</TimestampEnd>
+			<Text>Il est évident que l'assistance de l'avocat ne s'entend pas uniquement de sa présence physique lors des auditions mais de toutes les tâches les entourant, notamment la préparation de la défense, la définition de la stratégie et la possibilité de remettre en cause les conditions de détention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>617.85</TimestampBegin>
+			<TimestampEnd>622.85</TimestampEnd>
+			<Text>les conditions de détention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>622.85</TimestampBegin>
+			<TimestampEnd>631.85</TimestampEnd>
+			<Text>de chacun de ces services, y compris l'organisation de la défense et la préparation des interrogatoires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>631.85</TimestampBegin>
+			<TimestampEnd>637.85</TimestampEnd>
+			<Text>dès les premiers stades de sa détention et comme il sera démontré tout au long de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>637.85</TimestampBegin>
+			<TimestampEnd>660.85</TimestampEnd>
+			<Text>Il a bénéficié préalablement à sa remise aux autorités belges à laquelle il a consenti en connaissance de cause, de l'assistance d'un avocat devant la cour d'appel de Douai, maître au Degon, et rapidement après son arrivée, de l'aide juridique organisée par la Belgique, dont par maître Grindorge, maître Lafineur et maître Rucha.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>660.85</TimestampBegin>
+			<TimestampEnd>681.85</TimestampEnd>
+			<Text>A moins de s'en tenir à une lecture formaliste, il faut considérer que monsieur Beuze a joui de garanties suffisantes au regard de l'article 6, à chaque fois qu'il bénéficiait de la possibilité de s'entretenir avec son avocat préalablement à son audition.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>681.85</TimestampBegin>
+			<TimestampEnd>690.85</TimestampEnd>
+			<Text>Ce point a d'ailleurs été mis en avant par la Cour d'Assise belge dans son arrêt interlocutoire du 1er février 2010.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>690.85</TimestampBegin>
+			<TimestampEnd>714.85</TimestampEnd>
+			<Text>La législation alors en vigueur lui donnait bel et bien cette possibilité pour tous les interrogatoires postérieurs à sa première rencontre avec la juge d'instruction, en l'autorisant à rencontrer son avocat pour une consultation confidentielle à tout moment de sa détention préventive.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>714.85</TimestampBegin>
+			<TimestampEnd>729.85</TimestampEnd>
+			<Text>Si l'on peut remettre en doute la continuité de l'assistance dont a joui monsieur Beuze lors de son extradition, ce doute ne s'étend qu'aux deux interrogatoires du 31 décembre 2007, date de sa remise aux autorités belges.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>729.85</TimestampBegin>
+			<TimestampEnd>740.85</TimestampEnd>
+			<Text>Or, il est vivement contestable que les conseils de maître Odegon n'aient pas bénéficié à ces interrogatoires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>740.85</TimestampBegin>
+			<TimestampEnd>761.85</TimestampEnd>
+			<Text>D'une part, la décision de monsieur Beuze de consentir à sa remise aux autorités belges après consultation avec son conseil ne peut être comprise que comme s'inscrivant dans une vision stratégique à plus long terme, dont il se sera certainement entretenu avec son conseil en France.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>761.85</TimestampBegin>
+			<TimestampEnd>775.85</TimestampEnd>
+			<Text>D'autre part, il est visiblement arrivé devant les autorités belges avec une stratégie de défense et une version des faits bien construite, consistant à plaider son innocence et à contester tous les chefs d'accusation retenus alors.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>775.85</TimestampBegin>
+			<TimestampEnd>796.85</TimestampEnd>
+			<Text>Les interrogatoires du 31 décembre servaient essentiellement à déterminer si sa détention répondait à une absolue nécessité pour la sécurité publique, de manière à déterminer l'opportunité de délivrer un mandat d'arrêt à son encontre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>796.85</TimestampBegin>
+			<TimestampEnd>811.85</TimestampEnd>
+			<Text>Il serait difficile de défendre, au vu des circonstances de l'espèce et de la gravité des faits, que la présence d'un avocat à ses côtés eût alors changé quoi que ce soit aux conséquences de cette rencontre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>811.85</TimestampBegin>
+			<TimestampEnd>822.85</TimestampEnd>
+			<Text>Les différents devoirs attribués à l'avocat ont ainsi pu, tous et sans défaut, être correctement exercés a priori par Maître Odegon, préalablement à la remise de M. Boeus</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>822.85</TimestampBegin>
+			<TimestampEnd>832.85</TimestampEnd>
+			<Text>aux autorités belges et a posteriori par les différents conseils belges après le premier interrogatoire avec la juge d'instruction.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>832.85</TimestampBegin>
+			<TimestampEnd>858.85</TimestampEnd>
+			<Text>Il s'agit donc d'examiner en quoi les deux interrogatoires du 31 décembre 2007 et l'absence de l'avocat lors des autres interrogatoires tenus entre le 31 décembre et le 1er février 2010 ont préjudicié de manière irrémédiable à l'équité du procès.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>858.85</TimestampBegin>
+			<TimestampEnd>878.85</TimestampEnd>
+			<Text>A cet égard, relevons que l'ancien article 47 bis du Code d'instruction criminelle, avant sa modification par une loi de 2011, prévoyait que, lors de l'audition de personnes entendues en quelque qualité que ce soit, l'on respectera au moins les règles suivantes. Au début de toute audition,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>878.85</TimestampBegin>
+			<TimestampEnd>900.85</TimestampEnd>
+			<Text>il est communiqué à la personne interrogée qu'elle peut demander que toutes les questions qui lui sont posées et les réponses qu'elle donne soient actées dans les termes utilisés, qu'elle peut demander qu'il soit procédé à un tel acte d'information ou telle audition, que ces déclarations peuvent être utilisées comme preuve en justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>900.85</TimestampBegin>
+			<TimestampEnd>909.85</TimestampEnd>
+			<Text>Chacun des procès-verbaux d'interrogatoire de la police et de la juge d'instruction attestent que ces communications ont effectivement été faites à M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>909.85</TimestampBegin>
+			<TimestampEnd>913.85</TimestampEnd>
+			<Text>M. Beuze a reçu, à la fin de chaque audition,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>913.85</TimestampBegin>
+			<TimestampEnd>917.85</TimestampEnd>
+			<Text>la possibilité de modifier ses propos et ses déclarations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>917.85</TimestampBegin>
+			<TimestampEnd>936.85</TimestampEnd>
+			<Text>Il a fait, dès ses premières déclarations, un large usage de son droit au silence, notamment de celui de se taire, de sélectionner ou de cacher des faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>936.85</TimestampBegin>
+			<TimestampEnd>951.85</TimestampEnd>
+			<Text>Et il n'existe aucune corrélation positive ou négative entre la version des faits qu'il a adopté à tel moment de la procédure et son assistance ou non par un avocat à ce moment. On ne peut dès lors considérer qu'une quelconque</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>951.85</TimestampBegin>
+			<TimestampEnd>964.85</TimestampEnd>
+			<Text>ignorance de ces droits ou l'absence d'assistance aurait nuit ou profité, en quelque manière que ce soit, à ses déclarations ou à la cohérence de sa défense.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>964.85</TimestampBegin>
+			<TimestampEnd>972.85</TimestampEnd>
+			<Text>Vu ces circonstances, on ne peut prétendre que l'interruption momentanée de l'assistance de M. Beuze par un avocat</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>972.85</TimestampBegin>
+			<TimestampEnd>980.85</TimestampEnd>
+			<Text>ait porté préjudice à sa connaissance de ses droits, notamment de son droit de garder le silence et de ne pas s'incriminer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>980.85</TimestampBegin>
+			<TimestampEnd>994.85</TimestampEnd>
+			<Text>Au sein d'un flagrant excès de formalisme, on ne peut que conclure que cet objectif, au moins, de l'assistance par un avocat, n'a pas été obstrué en l'espèce.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>994.85</TimestampBegin>
+			<TimestampEnd>1004.85</TimestampEnd>
+			<Text>L'absence d'auto-incrimination, d'aveu et d'autres éléments de preuve. Selon votre jurisprudence, l'utilisation faite</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1004.85</TimestampBegin>
+			<TimestampEnd>1026.85</TimestampEnd>
+			<Text>des preuves et en particulier le point de savoir qu'elles sont une partie intégrante ou importante des pièces à charge sur lesquelles s'est fondée la condamnation, ainsi que la force des autres éléments du dossier, est un facteur utile, voire déterminant, pour juger de l'équité globale de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1026.85</TimestampBegin>
+			<TimestampEnd>1041.85</TimestampEnd>
+			<Text>Comme il sera démontré, ce facteur est appliqué plus fermement encore par la Cour de cassation belge, et que je considère comme toujours déterminant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1041.85</TimestampBegin>
+			<TimestampEnd>1045.85</TimestampEnd>
+			<Text>M. Beuze n'a jamais tenu de propos auto-incriminants,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1045.85</TimestampBegin>
+			<TimestampEnd>1065.85</TimestampEnd>
+			<Text>aux seules exceptions d'avoir mentionné la soustraction d'une pièce du dossier pénal et d'avoir avoué le vol de la carte bancaire de Christelle Lacroix, deux éléments qui n'ont eu aucune influence sur la décision finale de la Cour et la sévérité de sa peine.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1065.85</TimestampBegin>
+			<TimestampEnd>1076.85</TimestampEnd>
+			<Text>A aucun moment, les chefs d'homicide volontaire, de tentative d'homicide, de préméditation, n'ont été appuyés sur ces déclarations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1076.85</TimestampBegin>
+			<TimestampEnd>1097.85</TimestampEnd>
+			<Text>Les indices de culpabilité retenus contre lui résultaient avant tout des déclarations des témoins, des constatations des enquêteurs, des documents matériels recueillis et de considérations médico-légales et psychiatriques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1097.85</TimestampBegin>
+			<TimestampEnd>1103.85</TimestampEnd>
+			<Text>Ceci est vrai tant pour la décision de la Chambre des Mises en accusation renvoyant M. Beuze devant la Cour d'assises</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1103.85</TimestampBegin>
+			<TimestampEnd>1109.85</TimestampEnd>
+			<Text>que pour la décision de condamnation du jury d'assises.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1109.85</TimestampBegin>
+			<TimestampEnd>1115.85</TimestampEnd>
+			<Text>Cela transparaît clairement de leur motivation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1115.85</TimestampBegin>
+			<TimestampEnd>1126.85</TimestampEnd>
+			<Text>Dans la présente affaire, les déclarations faites en l'absence d'un avocat n'ont jamais été utilisées contre la partie requérante.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1126.85</TimestampBegin>
+			<TimestampEnd>1133.85</TimestampEnd>
+			<Text>Partant, l'équité de la procédure n'a pu être compromise par ces déclarations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1133.85</TimestampBegin>
+			<TimestampEnd>1139.85</TimestampEnd>
+			<Text>L'existence de recours internes effectifs.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1139.85</TimestampBegin>
+			<TimestampEnd>1156.85</TimestampEnd>
+			<Text>Lorsque la loi nationale offre des garanties insuffisantes à l'exécution de la Convention lors des premières phases du procès, un usage approprié des voies de recours internes est susceptible de rectifier l'irrégularité ainsi créée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1156.85</TimestampBegin>
+			<TimestampEnd>1162.85</TimestampEnd>
+			<Text>Le pourvoi en cassation est l'une de ces voies de recours en droit belge.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1162.85</TimestampBegin>
+			<TimestampEnd>1166.85</TimestampEnd>
+			<Text>Le requérant en a fait usage.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1166.85</TimestampBegin>
+			<TimestampEnd>1185.85</TimestampEnd>
+			<Text>Comme votre Cour a bien observé dans sa décision du 1er octobre 2013, la Cour de cassation belge n'a pas attendu que le législateur ait modifié le cadre légal pour intégrer les enseignements de la jurisprudence salle douce en droit belge.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1185.85</TimestampBegin>
+			<TimestampEnd>1191.85</TimestampEnd>
+			<Text>Dans plusieurs cas postérieurs, partiellement similaires à celui de M. Beuze, la Cour de cassation effectue</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1191.85</TimestampBegin>
+			<TimestampEnd>1201.85</TimestampEnd>
+			<Text>un contrôle strict assurant que les déclarations auto-incriminantes faites en l'absence d'un avocat ne puissent être utilisées par le juge du fond pour condamner l'intéressé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1201.85</TimestampBegin>
+			<TimestampEnd>1208.85</TimestampEnd>
+			<Text>Cassation 5 septembre 2012, 31 octobre 2012, 8 avril 2014.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1208.85</TimestampBegin>
+			<TimestampEnd>1228.85</TimestampEnd>
+			<Text>La Cour de cassation a par exemple cassé dans un arrêt du 15 décembre 2010 une décision du juge du fond retenant des déclarations auto-incriminantes faites à la police au cours d'une garde à vue sans que l'intéressé ait eu l'occasion de bénéficier de l'assistance d'un avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1228.85</TimestampBegin>
+			<TimestampEnd>1231.85</TimestampEnd>
+			<Text>Si la Cour de cassation n'a pas, dans le cas de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1231.85</TimestampBegin>
+			<TimestampEnd>1255.85</TimestampEnd>
+			<Text>abouti à la même conclusion, ce n'est qu'après avoir examiné l'entièreté de la situation et constaté que son droit n'avait pas été mis en péril en l'espèce par l'application de la loi belge, notamment au vu de l'absence de propos auto-incriminants lors de ses interrogatoires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1255.85</TimestampBegin>
+			<TimestampEnd>1259.85</TimestampEnd>
+			<Text>L'admissibilité des preuves illégales au cours du jugement est la règle d'exclusion.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1259.85</TimestampBegin>
+			<TimestampEnd>1273.85</TimestampEnd>
+			<Text>La constance de la jurisprudence citée de la Cour de cassation belge, antérieurement et postérieurement à l'arrêt prononcé à l'égard de M. Beuze, est telle qu'elle peut même</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1273.85</TimestampBegin>
+			<TimestampEnd>1284.85</TimestampEnd>
+			<Text>être assimilée à une règle d'exclusion consistant à casser systématiquement les jugements de condamnation fondés sur des déclarations auto-incriminantes faites en l'absence d'avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1284.85</TimestampBegin>
+			<TimestampEnd>1294.85</TimestampEnd>
+			<Text>Le fait que cette règle soit de nature jurisprudentielle ne lui ôte pas son effectivité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1294.85</TimestampBegin>
+			<TimestampEnd>1306.85</TimestampEnd>
+			<Text>Si l'on considère le droit dans son ensemble, tel qu'appliqué par les Cours et Tribunaux à l'époque pertinente, on doit accepter qu'une règle d'exclusion protégeait M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1306.85</TimestampBegin>
+			<TimestampEnd>1318.85</TimestampEnd>
+			<Text>dans l'ordre juridique et institutionnel belge, consistant à écarter toutes déclarations auto-incriminantes faites hors la présence d'un avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1318.85</TimestampBegin>
+			<TimestampEnd>1323.85</TimestampEnd>
+			<Text>Ce point en particulier s'oppose avec poids à un constat de violation de l'article 6.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1323.85</TimestampBegin>
+			<TimestampEnd>1335.85</TimestampEnd>
+			<Text>De plus, le droit de recevoir copie des pièces du dossier est un droit de l'organiser et construire au mieux sa défense, en concertation illimitée avec son avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1335.85</TimestampBegin>
+			<TimestampEnd>1345.85</TimestampEnd>
+			<Text>Les copies systématiques des auditions lui permettaient de s'en tenir à sa version des faits, pourtant en contradiction avec les dépositions des témoins.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1345.85</TimestampBegin>
+			<TimestampEnd>1359.85</TimestampEnd>
+			<Text>De plus, l'instruction étant placée sous le contrôle de la Chambre des Mises en Accusation, il pouvait à tout moment, comme tout inculpé, contester la légalité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1359.85</TimestampBegin>
+			<TimestampEnd>1374.85</TimestampEnd>
+			<Text>En conclusion, l'affaire ayant été successivement portée devant la Chambre des Mises en Accusation et la Cour d'Assise, fondant chacune leur décision sur des éléments autres que les déclarations de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1374.85</TimestampBegin>
+			<TimestampEnd>1384.85</TimestampEnd>
+			<Text>puis devant la Cour de Cassation, l'intéressé et ses conseils ont largement bénéficié de possibilités de contester les éléments de preuve.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1384.85</TimestampBegin>
+			<TimestampEnd>1405.85</TimestampEnd>
+			<Text>Les restrictions quant au respect de ces droits garantis par la Convention ont été successivement examinées par la Cour d'Assise et la Cour de Cassation, lesquelles ont chacune dûment motivé leur décision et longuement précisé en quoi les dits droits n'avaient pas été violés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1405.85</TimestampBegin>
+			<TimestampEnd>1414.85</TimestampEnd>
+			<Text>Le gouvernement estime dès lors que l'article 6, paragraphe 1 et 3C de la Convention ont été méconnus.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1415.68</TimestampBegin>
+			<TimestampEnd>1419.12</TimestampEnd>
+			<Text>Merci beaucoup, madame Niedlispacher.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1419.28</TimestampBegin>
+			<TimestampEnd>1421.48</TimestampEnd>
+			<Text>Maintenant, la parole est à maître Paci.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1421.48</TimestampBegin>
+			<TimestampEnd>1421.48</TimestampEnd>
+			<Text>Vous avez la parole, maître.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP1</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1423.33</TimestampBegin>
+			<TimestampEnd>1425.25</TimestampEnd>
+			<Text>Je vous remercie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1425.45</TimestampBegin>
+			<TimestampEnd>1427.49</TimestampEnd>
+			<Text>M. le Président,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1427.69</TimestampBegin>
+			<TimestampEnd>1446.89</TimestampEnd>
+			<Text>mesdames, messieurs les juges, c'est à la Cour, et plus particulièrement à son arrêt Saldus, que le justiciable belge se voit aujourd'hui assister d'un avocat lors des auditions devant les forces de police et devant le juge d'instruction lorsque celui-ci est suspect.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1447.09</TimestampBegin>
+			<TimestampEnd>1470.21</TimestampEnd>
+			<Text>C'est la loi du 13 août 2011, dite loi Saldus, qui, en droit belge, va instaurer cette insistance de l'avocat qui est fondamentale lors des premières auditions, et une loi encore postérieure du 21 novembre 2016, qui va permettre l'assistance de l'avocat lors des auditions subséquentes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1470.41</TimestampBegin>
+			<TimestampEnd>1474.69</TimestampEnd>
+			<Text>M. Beuze, qui a été arrêté en 2007,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1474.89</TimestampBegin>
+			<TimestampEnd>1477.05</TimestampEnd>
+			<Text>n'a pas eu cette chance.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1477.25</TimestampBegin>
+			<TimestampEnd>1488.49</TimestampEnd>
+			<Text>La question qui se pose est celle de savoir s'il a bénéficié d'un procès équitable conformément à l'article 6, paragraphes 1 et 3 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1488.73</TimestampBegin>
+			<TimestampEnd>1496.77</TimestampEnd>
+			<Text>En 2007, en effet, la loi belge notorise les contacts avec l'avocat qu'après le placement sous mandat d'arrêt.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1497.01</TimestampBegin>
+			<TimestampEnd>1513.21</TimestampEnd>
+			<Text>Pas d'assistance donc avant les premières auditions, pas d'assistance non plus lors de ces auditions, ni à la police, ni devant le juge d'instruction, ni lors de toutes les auditions subséquentes et également tous les autres actes et devoirs d'enquête, comme par exemple les reconstitutions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1513.21</TimestampBegin>
+			<TimestampEnd>1527.45</TimestampEnd>
+			<Text>La seule audition où la présence de l'avocat est autorisée avant les lois précitées, c'est l'interrogatoire récapitulatif, qui, comme son nom l'indique, a lieu à un stade postérieur de la procédure, puisqu'il est récapitulatif.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1527.45</TimestampBegin>
+			<TimestampEnd>1557.37</TimestampEnd>
+			<Text>Et la question de votre cours, beaucoup plus générale, et c'est évidemment la portée de la comparution aujourd'hui en grande chambre, le critère de l'appréciation de l'équité de la procédure dans son ensemble, tel qu'il est développé notamment dans l'arrêt Ibrahim contre Royaume-Uni, s'applique-t-il également aux procédures où, comme en l'espèce, c'est la loi qui s'oppose à l'assistance d'un avocat lors des interrogatoires et auditions qui sont menées durant la phase d'enquête?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1557.37</TimestampBegin>
+			<TimestampEnd>1575.37</TimestampEnd>
+			<Text>Une telle loi, et ici on parle spécifiquement de la loi belge sur la détention préventive en son article 20, la loi du 20 juillet 1990, entraîne-t-elle automatiquement l'absence de raisons impérieuses qui peuvent justifier l'absence de l'avocat à ce stade de la procédure?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1575.37</TimestampBegin>
+			<TimestampEnd>1577.37</TimestampEnd>
+			<Text>Et c'est évidemment là la question.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1577.37</TimestampBegin>
+			<TimestampEnd>1592.37</TimestampEnd>
+			<Text>Nous soutenons que la restriction systématique à l'accès d'un avocat sur la base des dispositions légales suffit à conclure un manquement aux exigences de l'article 6 de la Convention, quel que soit le contenu des auditions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1592.37</TimestampBegin>
+			<TimestampEnd>1599.37</TimestampEnd>
+			<Text>Il est incontestable et incontesté dans le cadre du dossier de M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1599.37</TimestampBegin>
+			<TimestampEnd>1607.37</TimestampEnd>
+			<Text>qu'il n'existait pas pour la Belgique de circonstances impérieuses qui ont justifié l'absence d'assistance du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1607.37</TimestampBegin>
+			<TimestampEnd>1612.37</TimestampEnd>
+			<Text>On l'a dit, cela résultait uniquement de la législation en place à l'époque.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1612.37</TimestampBegin>
+			<TimestampEnd>1618.37</TimestampEnd>
+			<Text>Aucune circonstance impérieuse n'a même été invoquée pour à un quelconque moment priver M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1618.37</TimestampBegin>
+			<TimestampEnd>1620.57</TimestampEnd>
+			<Text>de cette assistance.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1620.57</TimestampBegin>
+			<TimestampEnd>1643.17</TimestampEnd>
+			<Text>Dans votre arrêt d'Ayanan contre Turquie, arrêt rendu également en grande chambre, il avait été précisé qu'en soi une telle restriction systématique sur la base des dispositions légales pertinentes suffit à conclure un manquement aux exigences de l'article 6 de la Convention, nonobstant le fait que le requérant a gardé le silence au cours de sa garde à vue.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1643.17</TimestampBegin>
+			<TimestampEnd>1669.17</TimestampEnd>
+			<Text>Il ressort donc très clairement de cette jurisprudence que lorsque l'absence de l'avocat au moment même où l'inculpé est le plus fragilisé, c'est-à-dire lors des premières auditions, lorsque cette absence résulte de l'application d'une disposition légale, même si la personne suspectée à nier les faits fait l'usage d'un droit au silence, et on verra que pour M. Beuze, c'est un peu plus complexe,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1669.17</TimestampBegin>
+			<TimestampEnd>1675.17</TimestampEnd>
+			<Text>à ce moment-là, votre court a estimé qu'il y avait violation de l'article 6.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1675.17</TimestampBegin>
+			<TimestampEnd>1705.67</TimestampEnd>
+			<Text>Alors si l'arrêt Ibrahim semble avoir fait marche arrière d'un certain point de vue, il n'en est rien, il n'en est rien, car la Cour impose au gouvernement d'expliquer, en l'absence de raison impérieuse, pourquoi, à titre exceptionnel, et au vu des circonstances particulières du cas d'espèce, la restriction à l'accès à l'assistance juridique n'a pas porté une atteinte irrémédiable à l'équité globale du procès.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1705.67</TimestampBegin>
+			<TimestampEnd>1728.17</TimestampEnd>
+			<Text>En l'absence ici d'une pratique habituelle, législative, conforme à la législation en vigueur, le gouvernement est bien dans l'incapacité de démontrer qu'à titre exceptionnel, et je resouligne une nouvelle fois, cette restriction n'a pas porté atteinte à l'équité du procès du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1728.17</TimestampBegin>
+			<TimestampEnd>1756.17</TimestampEnd>
+			<Text>Cette décision, l'arrêt Ibrahim, peut être mise en parallèle avec d'autres arrêts qui sont cités dans le mémoire, comme par exemple l'arrêt Bouglam, qui confirme que la législation belge à l'époque constituait en soi une atteinte au droit au procès équitable, l'arrêt intervenant par rapport à un rejet, uniquement dans le cadre de la perte de qualité de victime de M. Bouglam, qui a été acquittée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1756.17</TimestampBegin>
+			<TimestampEnd>1763.17</TimestampEnd>
+			<Text>D'autres arrêts sont également cités dans le mémoire, qui vont dans le même sens.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1763.17</TimestampBegin>
+			<TimestampEnd>1777.67</TimestampEnd>
+			<Text>La limitation qui était organisée par la législation belge applicable au moment où le requérant a pu être entendu a constitué en soi une atteinte au procès équitable de celui-ci.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1777.67</TimestampBegin>
+			<TimestampEnd>1806.67</TimestampEnd>
+			<Text>À titre subsidiaire, si vous estimiez qu'il faut tout de même avoir égard finalement à l'équité de l'ensemble de la procédure, parce que le gouvernement pourrait éventuellement démontrer que celle-ci n'a pas été atteinte, et considérer alors qu'il pourrait le faire, non pas à titre exceptionnel, mais peut-être à chaque fois dans chaque procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1806.67</TimestampBegin>
+			<TimestampEnd>1818.67</TimestampEnd>
+			<Text>L'absence de raison impérieuse entraîne une présomption de violation de l'article 6 de la Convention, donc un renversement de la charge de la preuve.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1818.67</TimestampBegin>
+			<TimestampEnd>1829.17</TimestampEnd>
+			<Text>Comme je vous l'exposerai dans un instant, l'absence de notification du droit au silence, puisque le droit au silence n'a pas été notifié en tant que tel à M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1829.17</TimestampBegin>
+			<TimestampEnd>1849.67</TimestampEnd>
+			<Text>et l'absence de notification du droit de ne pas témoigner contre lui-même, va rendre pour le gouvernement la tâche encore plus difficile quant au fait de lever cette présomption de manque d'équité qui est née de l'absence de raison impérieuse de retarder l'assistance juridique de M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1849.67</TimestampBegin>
+			<TimestampEnd>1859.67</TimestampEnd>
+			<Text>En l'espèce, nous soutenons que la restriction au droit de l'assistance d'un avocat en Belgique par rapport à M. Beuze avicie l'équité de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1859.67</TimestampBegin>
+			<TimestampEnd>1867.67</TimestampEnd>
+			<Text>Différents critères doivent effectivement être examinés au regard des critères de l'arrêt Ibrahim.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1867.67</TimestampBegin>
+			<TimestampEnd>1882.17</TimestampEnd>
+			<Text>Alors, sans revenir en détail sur les faits qui vous ont été présentés dans la note d'observation, je souhaiterais revenir sur certains éléments importants qui doivent être mis en exergue avec ces critères développés par la Cour.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1882.17</TimestampBegin>
+			<TimestampEnd>1886.17</TimestampEnd>
+			<Text>M. Beuze purge actuellement à la prison de Marchand-Famenne</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1886.17</TimestampBegin>
+			<TimestampEnd>1895.67</TimestampEnd>
+			<Text>une peine de réclusion à perpétuité qui a été prononcée par la Cour d'assises de la province du Hainaut du chef des crimes les plus graves.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1895.67</TimestampBegin>
+			<TimestampEnd>1910.67</TimestampEnd>
+			<Text>C'est-à-dire, le crime d'assassinat sur la personne de Muriel Boudard, le crime de tentative d'assassinat sur la personne de Christelle Lacroix, et ensuite de divers vols et de diverses menaces.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1910.67</TimestampBegin>
+			<TimestampEnd>1920.17</TimestampEnd>
+			<Text>La Convention doit s'appliquer avec encore plus de rigueur dans la mesure où M. Beuze était accusé de faits extrêmement graves.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1920.17</TimestampBegin>
+			<TimestampEnd>1927.17</TimestampEnd>
+			<Text>Autre élément important à prendre en considération, c'est la vulnérabilité particulière du requérant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1927.17</TimestampBegin>
+			<TimestampEnd>1933.67</TimestampEnd>
+			<Text>La vulnérabilité particulière du requérant, M. Beuze présentait des fragilités.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1933.67</TimestampBegin>
+			<TimestampEnd>1940.67</TimestampEnd>
+			<Text>Et ces fragilités sont parfaitement décrites dans un rapport d'une neuropsychologue qui est versée au dossier.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1940.67</TimestampBegin>
+			<TimestampEnd>1944.17</TimestampEnd>
+			<Text>Cette analyse de la personnalité plus avant de M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1944.17</TimestampBegin>
+			<TimestampEnd>1946.67</TimestampEnd>
+			<Text>est demandée dans le cadre de l'instruction.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1946.67</TimestampBegin>
+			<TimestampEnd>1950.67</TimestampEnd>
+			<Text>Et M. Beuze, on peut lire à la suite de cette expertise,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1950.67</TimestampBegin>
+			<TimestampEnd>1970.17</TimestampEnd>
+			<Text>présente un quotient intellectuel de 73, soit un quotient intellectuel limite, s'agissant essentiellement de difficultés dans les épreuves mesurant l'échelle verbale, l'échelle verbale, soit les facultés qui doivent être mobilisées lors des auditions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1970.17</TimestampBegin>
+			<TimestampEnd>1973.67</TimestampEnd>
+			<Text>Le rapport du neuropsychologue va exposer que M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1973.67</TimestampBegin>
+			<TimestampEnd>1978.17</TimestampEnd>
+			<Text>a un acquis scolaire faible, des aptitudes verbales limitées.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1978.17</TimestampBegin>
+			<TimestampEnd>1983.67</TimestampEnd>
+			<Text>On sait que la moyenne du quotient intellectuel dans la population est de 100.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>1983.67</TimestampBegin>
+			<TimestampEnd>2006.67</TimestampEnd>
+			<Text>Et que ce que les experts considèrent, même si je n'aime pas le terme, comme la normalité, se situe entre 85 et 115, son quotient intellectuel est très très bas, sachant que le quotient intellectuel verbal est au seuil de la débilité, puisque inférieur à 70.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2006.67</TimestampBegin>
+			<TimestampEnd>2013.67</TimestampEnd>
+			<Text>La procédure est extrêmement compliquée concernant M. Beuze, qui, comme je viens de vous le dire,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2013.67</TimestampBegin>
+			<TimestampEnd>2018.17</TimestampEnd>
+			<Text>a des capacités intellectuelles limitées.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2018.17</TimestampBegin>
+			<TimestampEnd>2035.17</TimestampEnd>
+			<Text>Il est poursuivi pour différents faits, il va être extradé suite à un mandat d'arrêt européen, on va lui parler de principes de spécialité, de notions juridiques extrêmement complexes, dont il ne va pas du tout pouvoir prendre seul toute la mesure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2035.17</TimestampBegin>
+			<TimestampEnd>2051.67</TimestampEnd>
+			<Text>Et souvent d'ailleurs dans les auditions subséquentes, il va demander à pouvoir faire confirmer ses auditions par son avocat, et dans le dossier, aucune trace de ce que l'avocat va pouvoir confirmer par la suite les déclarations de son client.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2051.67</TimestampBegin>
+			<TimestampEnd>2069.17</TimestampEnd>
+			<Text>S'agissant toujours des critères de l'arrêt Ibrahim, s'il s'agit de déposition, et c'est vraiment ici le cœur du sujet, voir la nature de celle-ci, il est loin de savoir s'il y a eu prompte rétractation ou rectification.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2069.17</TimestampBegin>
+			<TimestampEnd>2076.17</TimestampEnd>
+			<Text>L'État belge fait grand cas du fait qu'en France, le requérant était assisté d'un avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2076.17</TimestampBegin>
+			<TimestampEnd>2089.17</TimestampEnd>
+			<Text>Le requérant va invoquer des pressions subies en France, il signe un formulaire qui a l'air d'être un formulaire type, a-t-il compris la portée du formulaire compte tenu de ses capacités limitées?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2089.17</TimestampBegin>
+			<TimestampEnd>2099.17</TimestampEnd>
+			<Text>C'est une question que l'on peut se poser, en tout cas en France, il n'y a pas de rappel de son droit au silence en tant que tel dans le cadre de la première audition.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2099.17</TimestampBegin>
+			<TimestampEnd>2107.67</TimestampEnd>
+			<Text>Mais surtout en France, il ne va pas être interrogé sur les faits qui vont conduire à sa condamnation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2107.67</TimestampBegin>
+			<TimestampEnd>2116.67</TimestampEnd>
+			<Text>En France, il va être uniquement interrogé sur la délivrance d'un mandat d'arrêt européen et la conformité de M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2116.67</TimestampBegin>
+			<TimestampEnd>2122.67</TimestampEnd>
+			<Text>avec l'identité qui est fournie à l'État français dans le mandat d'arrêt européen.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2122.67</TimestampBegin>
+			<TimestampEnd>2131.67</TimestampEnd>
+			<Text>L'audience qui va s'en suivre suite à l'audition en France est une audience technique, quant à savoir si oui ou non, il y a lieu de remettre M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2131.67</TimestampBegin>
+			<TimestampEnd>2143.17</TimestampEnd>
+			<Text>aux autorités belges pour les poursuites qui s'imposent et savoir s'il existe des causes d'exclusion, de remise dans le cadre du mandat d'arrêt européen.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2143.17</TimestampBegin>
+			<TimestampEnd>2155.67</TimestampEnd>
+			<Text>Cette assistance n'a rien à voir avec une assistance stratégique pour pouvoir développer sa défense en Belgique qui est aussi essentiellement du cadre du mandat d'arrêt européen.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2155.67</TimestampBegin>
+			<TimestampEnd>2160.17</TimestampEnd>
+			<Text>Le premier moment où, avec certitude, M. Beuze souhaite un avocat,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2160.17</TimestampBegin>
+			<TimestampEnd>2164.17</TimestampEnd>
+			<Text>c'est pourtant bien la juridiction de Douai où il est assisté.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2164.17</TimestampBegin>
+			<TimestampEnd>2169.17</TimestampEnd>
+			<Text>Mais à nouveau, comme je le disais, juste dans le cadre de ce mandat d'arrêt européen.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2169.17</TimestampBegin>
+			<TimestampEnd>2171.67</TimestampEnd>
+			<Text>Et ensuite, commencent les auditions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2171.67</TimestampBegin>
+			<TimestampEnd>2178.67</TimestampEnd>
+			<Text>Et l'audition ne commence pas au commissariat en Belgique, mais commence avant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2178.67</TimestampBegin>
+			<TimestampEnd>2192.67</TimestampEnd>
+			<Text>La pièce dans l'audition, le procès verbal du 31 décembre 2017, dont on vous a dit qu'il avait pour objet uniquement de voir si oui ou non il fallait placer M. Beuze sous mandat d'arrêt,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2192.67</TimestampBegin>
+			<TimestampEnd>2198.67</TimestampEnd>
+			<Text>cette audition fait 8 pages, il me semble qu'elle est un peu plus étayée, M. Beuze va dire,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2198.67</TimestampBegin>
+			<TimestampEnd>2207.67</TimestampEnd>
+			<Text>comme je vous l'ai expliqué, durant le trajet en voiture depuis le poste frontière, je n'y ai être l'auteur du meurtre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2207.67</TimestampBegin>
+			<TimestampEnd>2211.67</TimestampEnd>
+			<Text>M. Beuze est donc récupéré par des agents de police belges en France.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2211.67</TimestampBegin>
+			<TimestampEnd>2214.17</TimestampEnd>
+			<Text>On n'a aucune idée de ce qui lui est notifié.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2214.17</TimestampBegin>
+			<TimestampEnd>2216.67</TimestampEnd>
+			<Text>Est-ce que M. Beuze a le droit de se taire?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2216.67</TimestampBegin>
+			<TimestampEnd>2218.67</TimestampEnd>
+			<Text>Personne ne lui dit.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2218.67</TimestampBegin>
+			<TimestampEnd>2221.17</TimestampEnd>
+			<Text>Et en tout cas, dans le véhicule commence cette audition.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2221.17</TimestampBegin>
+			<TimestampEnd>2226.67</TimestampEnd>
+			<Text>Cette audition qui va d'ailleurs être rapportée dans ce procès verbal.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2226.67</TimestampBegin>
+			<TimestampEnd>2231.67</TimestampEnd>
+			<Text>M. Beuze va effectivement nier les faits d'assassinat</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2231.67</TimestampBegin>
+			<TimestampEnd>2238.67</TimestampEnd>
+			<Text>et de tentative d'assassinat, mais il va donner des explications et il va parler.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2238.67</TimestampBegin>
+			<TimestampEnd>2243.67</TimestampEnd>
+			<Text>Il ne s'agit pas ici purement d'une audition où M. Beuze se tairait.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2243.67</TimestampBegin>
+			<TimestampEnd>2246.67</TimestampEnd>
+			<Text>Il va changer de version au fil du temps.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2246.67</TimestampBegin>
+			<TimestampEnd>2254.67</TimestampEnd>
+			<Text>Dans la première audition, il va reconnaître des menaces avec une arme factice sur un témoin.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2254.67</TimestampBegin>
+			<TimestampEnd>2261.67</TimestampEnd>
+			<Text>Il va également reconnaître une non-assistance à personne en danger.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2261.67</TimestampBegin>
+			<TimestampEnd>2278.67</TimestampEnd>
+			<Text>Suite à son interrogatoire d'un culpé, la construction, ça n'est pas banal, va indiquer dans le mandat d'arrêt, attendu qu'il apparait de l'interrogatoire, la nécessité de requérir immédiatement un médecin psychiatre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2278.67</TimestampBegin>
+			<TimestampEnd>2292.67</TimestampEnd>
+			<Text>Il s'agit donc de quelqu'un qui présente des capacités limitées et qui manifestement est dans un état psychiatrique qui peut même se faire poser la question de savoir s'il était en état d'être interrogé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2292.67</TimestampBegin>
+			<TimestampEnd>2312.67</TimestampEnd>
+			<Text>D'ailleurs, c'est un interrogatoire d'un culpé sans avoir pu voir d'avocat avant qui va donner une connotation au dossier puisque dans le mandat d'arrêt, il faut indiquer qu'il faut nécessairement requérir l'expertise d'un médecin psychiatre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2312.67</TimestampBegin>
+			<TimestampEnd>2314.67</TimestampEnd>
+			<Text>M. Beuze va ensuite faire d'autres déclarations</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2314.67</TimestampBegin>
+			<TimestampEnd>2318.67</TimestampEnd>
+			<Text>dans le volet de Mme Lacroix.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2318.67</TimestampBegin>
+			<TimestampEnd>2323.67</TimestampEnd>
+			<Text>Il va exposer l'avoir isolé, l'avoir frappé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2323.67</TimestampBegin>
+			<TimestampEnd>2335.67</TimestampEnd>
+			<Text>Il va changer de version, notamment lors de la reconstitution et on va lui dire « mais c'est la première fois que vous donnez cette version » et M. Beuze va répondre « ce n'est pas vrai, j'ai déjà exposé ceci,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2335.67</TimestampBegin>
+			<TimestampEnd>2340.67</TimestampEnd>
+			<Text>mais on n'a pas voulu noter ».</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2340.67</TimestampBegin>
+			<TimestampEnd>2346.67</TimestampEnd>
+			<Text>Il n'a donc pas usé sensus stricto de son droit au silence dont il ne connaissait pas la portée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2346.67</TimestampBegin>
+			<TimestampEnd>2360.67</TimestampEnd>
+			<Text>Quand bien même l'avocat français lui aurait exposé qu'il avait ce droit au silence dans la procédure française, encore aurait-il fallu pour M. Beuze qu'il ait la capacité</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2360.67</TimestampBegin>
+			<TimestampEnd>2367.67</TimestampEnd>
+			<Text>de pouvoir déduire que ce droit continuait avec la procédure également en Belgique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2367.67</TimestampBegin>
+			<TimestampEnd>2373.67</TimestampEnd>
+			<Text>L'État belge ici reconnaît à tout le moins une interruption dans le cadre de l'assistance de M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2373.67</TimestampBegin>
+			<TimestampEnd>2397.67</TimestampEnd>
+			<Text>Autre critère, l'utilisation faite d'épreuves, était-elle partie intégrante ou importante des pièces à charge et le fait de savoir si la culpabilité a été appréciée par des magistrats professionnels ou par des jurés et notamment le fait de savoir quelle était la teneur des instructions qui auraient été données aux jurés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2397.67</TimestampBegin>
+			<TimestampEnd>2401.67</TimestampEnd>
+			<Text>Je vous l'ai dit, les déclarations de M. Beuze ont donné</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2401.67</TimestampBegin>
+			<TimestampEnd>2411.67</TimestampEnd>
+			<Text>une claire connotation à l'ensemble du dossier et nous maintenons qu'elles ont également été utilisées pour sa condamnation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2411.67</TimestampBegin>
+			<TimestampEnd>2416.67</TimestampEnd>
+			<Text>M. Beuze a été condamné par une cour d'assises.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2416.67</TimestampBegin>
+			<TimestampEnd>2421.67</TimestampEnd>
+			<Text>La cour d'assises en Belgique, telle qu'elle est applicable à l'époque où M. Beuze reçoit sa condamnation,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2421.67</TimestampBegin>
+			<TimestampEnd>2433.67</TimestampEnd>
+			<Text>prévoit que le jury délibère seul sur la culpabilité et puis la cour rejoint le jury et la cour recueille les motifs du jury et motive avec le jury, mais le jury délibère seul.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2433.67</TimestampBegin>
+			<TimestampEnd>2438.67</TimestampEnd>
+			<Text>Les conseils de M. Beuze à l'époque soulèvent</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2438.67</TimestampBegin>
+			<TimestampEnd>2445.67</TimestampEnd>
+			<Text>« in limine litis », les arguments liés aux soucis dans le cadre des auditions de M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2445.67</TimestampBegin>
+			<TimestampEnd>2451.67</TimestampEnd>
+			<Text>La cour y répond seule et rejette cette argumentation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2451.67</TimestampBegin>
+			<TimestampEnd>2455.67</TimestampEnd>
+			<Text>Ensuite, avant même l'interrogatoire de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2455.67</TimestampBegin>
+			<TimestampEnd>2468.67</TimestampEnd>
+			<Text>l'avocat général, au moment du procès, se lève et donne lecture de l'acte d'accusation, qui va être délivré au jury.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2468.67</TimestampBegin>
+			<TimestampEnd>2476.67</TimestampEnd>
+			<Text>C'est le premier élément que le jury reçoit de connaissance de l'affaire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2476.67</TimestampBegin>
+			<TimestampEnd>2482.67</TimestampEnd>
+			<Text>Et cet acte d'accusation fait grand cas des auditions de M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2482.67</TimestampBegin>
+			<TimestampEnd>2489.67</TimestampEnd>
+			<Text>L'accusé reconnaît sa présence sur les lieux, mais conteste toute participation aux faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2489.67</TimestampBegin>
+			<TimestampEnd>2498.67</TimestampEnd>
+			<Text>Selon cette version, l'accusé reconnaît que dans sa fuite, il a menacé. Réentendu, M. Beuze change à sa version.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2498.67</TimestampBegin>
+			<TimestampEnd>2503.67</TimestampEnd>
+			<Text>Cette autre version de l'accusé ne résiste pas non plus à l'analyse.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2503.67</TimestampBegin>
+			<TimestampEnd>2506.67</TimestampEnd>
+			<Text>L'accusé donne une version totalement différente des faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2506.67</TimestampBegin>
+			<TimestampEnd>2515.67</TimestampEnd>
+			<Text>Voilà donc l'acte d'accusation, qui très clairement est distribué au jury avant même qu'on puisse entendre M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2515.67</TimestampBegin>
+			<TimestampEnd>2518.67</TimestampEnd>
+			<Text>et qui va jouer très clairement dans le cadre de sa condamnation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2518.67</TimestampBegin>
+			<TimestampEnd>2531.67</TimestampEnd>
+			<Text>À la fin de l'audience de la Cour d'assises, lorsque tous les témoins ont été entendus, lorsque chacun a pu plaider, le jury se retire.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2531.67</TimestampBegin>
+			<TimestampEnd>2536.67</TimestampEnd>
+			<Text>Le jury se retire et a à sa disposition, pendant son délibéré, le dossier papier.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2536.67</TimestampBegin>
+			<TimestampEnd>2541.67</TimestampEnd>
+			<Text>Le dossier papier qui comprend les auditions de M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2541.67</TimestampBegin>
+			<TimestampEnd>2551.67</TimestampEnd>
+			<Text>Et à aucun moment, le président ne va dire au jury « Faites attention, des auditions ont pu être faites hors la présence d'un avocat.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2551.67</TimestampBegin>
+			<TimestampEnd>2555.67</TimestampEnd>
+			<Text>Il va falloir les utiliser avec circonspection. »</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2555.67</TimestampBegin>
+			<TimestampEnd>2567.67</TimestampEnd>
+			<Text>Dans l'arrêt de condamnation, certains des motifs sont des affirmations, mais ne sont pas explicités.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2567.67</TimestampBegin>
+			<TimestampEnd>2577.67</TimestampEnd>
+			<Text>La Cour ne donne pas d'indications qui vont permettre de dire que les éléments ne relèvent pas des aveux de certains actes matériels de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2577.67</TimestampBegin>
+			<TimestampEnd>2581.67</TimestampEnd>
+			<Text>parce qu'il a reconnu avoir accompli certains actes matériels.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2581.67</TimestampBegin>
+			<TimestampEnd>2583.67</TimestampEnd>
+			<Text>Je vous donne un exemple.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2583.67</TimestampBegin>
+			<TimestampEnd>2586.67</TimestampEnd>
+			<Text>Il s'est isolé avec une femme enceinte.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2586.67</TimestampBegin>
+			<TimestampEnd>2589.67</TimestampEnd>
+			<Text>Est-ce que cet élément ressort de la déclaration de M. Beuze?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2589.67</TimestampBegin>
+			<TimestampEnd>2596.67</TimestampEnd>
+			<Text>Personne ne le dit, mais en tout cas, c'est quelque chose qu'il déclare.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2596.67</TimestampBegin>
+			<TimestampEnd>2608.67</TimestampEnd>
+			<Text>Autre élément à examiner, le dispositif légal qui encadre la phase antérieure à la phase de jugement et l'existence, dans le droit et la pratique interne, d'autres garanties procédurales.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2608.67</TimestampBegin>
+			<TimestampEnd>2617.67</TimestampEnd>
+			<Text>Nous soutenons avec force qu'aucune garantie procédurale n'existait pour garantir l'effectivité du droit au silence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2617.67</TimestampBegin>
+			<TimestampEnd>2621.67</TimestampEnd>
+			<Text>Certains droits sont énoncés aux personnes auditionnées.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2621.67</TimestampBegin>
+			<TimestampEnd>2628.67</TimestampEnd>
+			<Text>On vous l'a dit, l'article 47 bis avant sa modification par la loi de 2011.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2628.67</TimestampBegin>
+			<TimestampEnd>2635.67</TimestampEnd>
+			<Text>Mais pas le droit au silence expressis verbis.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2635.67</TimestampBegin>
+			<TimestampEnd>2637.67</TimestampEnd>
+			<Text>Ce qui est énoncé, et ce qui a été dit à M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2637.67</TimestampBegin>
+			<TimestampEnd>2646.67</TimestampEnd>
+			<Text>à quel moment on l'a encore la question, c'est ceci, les déclarations peuvent être utilisées en justice.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2646.67</TimestampBegin>
+			<TimestampEnd>2656.67</TimestampEnd>
+			<Text>Cette affirmation ne signifie pas qu'une personne n'est pas contrainte de faire des déclarations contre elle-même, de s'auto-incriminer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2656.67</TimestampBegin>
+			<TimestampEnd>2666.67</TimestampEnd>
+			<Text>Et comme il n'y a pas de présence d'avocat, il n'y a aucune certitude sur le moment où cette affirmation est dite.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2666.67</TimestampBegin>
+			<TimestampEnd>2683.67</TimestampEnd>
+			<Text>Le CPT, lors de ses différentes visites en Belgique, a pu exprimer ses inquiétudes à l'époque par rapport à cet élément de fait, et de rappeler que c'était important que la Belgique se dote d'une législation qui permettait l'effectivité de ce droit.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2683.67</TimestampBegin>
+			<TimestampEnd>2687.67</TimestampEnd>
+			<Text>L'effectivité du droit au silence n'était donc absolument pas garantie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2687.67</TimestampBegin>
+			<TimestampEnd>2693.67</TimestampEnd>
+			<Text>Quelle est l'effectivité d'un droit si le justiciable n'en est pas averti?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2693.67</TimestampBegin>
+			<TimestampEnd>2699.67</TimestampEnd>
+			<Text>Rien dans le droit belge de l'époque ne vient pallier ce manquement au respect du droit au silence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2699.67</TimestampBegin>
+			<TimestampEnd>2710.67</TimestampEnd>
+			<Text>Et les conséquences, et c'est évidemment ça l'essentiel, parce que c'est vrai qu'au niveau du gouvernement belge, on va essayer de dire qu'il y a des choses dans la procédure, mais tout ça vient postérieurement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2710.67</TimestampBegin>
+			<TimestampEnd>2723.67</TimestampEnd>
+			<Text>Or, les conséquences de la violation du droit au silence, du droit de ne pas s'auto-incriminer, d'une droite de ne pas être assistée, vont se marquer dès le début de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2723.67</TimestampBegin>
+			<TimestampEnd>2734.67</TimestampEnd>
+			<Text>On voit mal, effectivement, comment la demande de devoir complémentaire pourrait pallier à l'absence d'effectivité du droit au silence.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2734.67</TimestampBegin>
+			<TimestampEnd>2739.67</TimestampEnd>
+			<Text>L'interrogatoire récapitulatif, j'en ai déjà parlé, intervient enfin de procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2739.67</TimestampBegin>
+			<TimestampEnd>2757.67</TimestampEnd>
+			<Text>Alors, via la jurisprudence de la Cour de cassation, dont on vous dit aujourd'hui qu'elle avait finalement déjà beaucoup anticipé, en réalité, la Cour de cassation de Belgique était très très mal à l'aise avec l'arrêt Saldus, et elle va évoluer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2757.67</TimestampBegin>
+			<TimestampEnd>2763.67</TimestampEnd>
+			<Text>Elle va évoluer, mais lorsque M. Beuze porte son affaire</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2763.67</TimestampBegin>
+			<TimestampEnd>2773.67</TimestampEnd>
+			<Text>devant la Cour de cassation, celle-ci se borne uniquement à développer les éléments de droit belge qui lui permettraient de contester les accusations portées contre lui, uniquement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2773.67</TimestampBegin>
+			<TimestampEnd>2786.67</TimestampEnd>
+			<Text>Le premier arrêt dans lequel la Cour de cassation semble prendre une mesure relative des enseignements de votre cour date du 15 décembre 2010.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2786.67</TimestampBegin>
+			<TimestampEnd>2788.67</TimestampEnd>
+			<Text>Or, dans le cas de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2788.67</TimestampBegin>
+			<TimestampEnd>2793.67</TimestampEnd>
+			<Text>l'accusation interne est datée du 26 mai 2010.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2793.67</TimestampBegin>
+			<TimestampEnd>2804.67</TimestampEnd>
+			<Text>Les arrêts cités par l'état belge dans le mémoire du 5 mai 2010 et du 23 mars 2010 n'inervent en rien ce que je vous explique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2804.67</TimestampBegin>
+			<TimestampEnd>2819.17</TimestampEnd>
+			<Text>Les pourvois sont rejetés, et la Cour de cassation, à l'époque, fait une appréciation de voir si le droit au procès équitable est violé par rapport à une appréciation, en fait, de la Cour d'appel. Dans l'arrêt du 23 mars 2010,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2819.17</TimestampBegin>
+			<TimestampEnd>2826.67</TimestampEnd>
+			<Text>il est dit que l'appréciation, en fait, de la Cour d'appel ne peut pas être censurée par la Cour de cassation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2826.67</TimestampBegin>
+			<TimestampEnd>2834.67</TimestampEnd>
+			<Text>Il n'y a donc pas de règle d'exclusion en droit belge qui protège M. Beuze, à l'époque, de son recours.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2834.67</TimestampBegin>
+			<TimestampEnd>2847.67</TimestampEnd>
+			<Text>De même, la vérification de la procédure en Chambre du Conseil ou en Chambre des mises en accusation ne pouvait pas plus venir au secours du requérant, devenu de la jurisprudence de l'époque, de la Cour de cassation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2847.67</TimestampBegin>
+			<TimestampEnd>2857.67</TimestampEnd>
+			<Text>Cette jurisprudence de l'époque est parfaitement rappelée dans, notamment, vos arrêts Simons contre Belgique ou encore Bouglane contre Belgique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2857.67</TimestampBegin>
+			<TimestampEnd>2868.67</TimestampEnd>
+			<Text>À la lumière de ces différents éléments, il convient donc de conclure à la violation de l'article 6, paragraphe 1 et paragraphe 3 de la Convention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2868.67</TimestampBegin>
+			<TimestampEnd>2868.67</TimestampEnd>
+			<Text>Je vous remercie.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2870.2</TimestampBegin>
+			<TimestampEnd>2871.97</TimestampEnd>
+			<Text>Merci beaucoup, Maître.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2872.16</TimestampBegin>
+			<TimestampEnd>2875.2</TimestampEnd>
+			<Text>Je remercie les 2 partis pour leurs interventions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2875.64</TimestampBegin>
+			<TimestampEnd>2882.24</TimestampEnd>
+			<Text>Et j'invite maintenant mes collègues, les juges de la Grande Chambre, qui le souhaitent, à poser leurs questions aux partis de M. le Vice-président Sicilianos.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Linos-Alexandre Sicilianos</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2887.62</TimestampBegin>
+			<TimestampEnd>2889.42</TimestampEnd>
+			<Text>Merci beaucoup, M. Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2890.42</TimestampBegin>
+			<TimestampEnd>2895.22</TimestampEnd>
+			<Text>J'ai tout d'abord une question pour le requérant, et le gouvernement pourrait aussi commenter, bien évidemment.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2896.1</TimestampBegin>
+			<TimestampEnd>2905.46</TimestampEnd>
+			<Text>Maître, comment est-ce que vous, en tant qu'avocate, vous concevez la notion d'atteinte irrémédiable de l'équité du procès?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2905.66</TimestampBegin>
+			<TimestampEnd>2907.86</TimestampEnd>
+			<Text>Qu'est-ce que, pour vous, constitue une atteinte irrémédiable?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2910.22</TimestampBegin>
+			<TimestampEnd>2914.54</TimestampEnd>
+			<Text>La deuxième question s'adresse au gouvernement, mais là aussi, le requérant pourrait commenter.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2917.22</TimestampBegin>
+			<TimestampEnd>2926.86</TimestampEnd>
+			<Text>Mme Niedlispacher, vous avez parlé de la continuité de l'assistance, mais aussi de l'interruption momentanée de l'assistance.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2928.42</TimestampBegin>
+			<TimestampEnd>2939.02</TimestampEnd>
+			<Text>Et vous avez mentionné que le requérant a eu 4 conseils belges différents, mais quand même, il a pu développer une stratégie de défense.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2941.82</TimestampBegin>
+			<TimestampEnd>2947.74</TimestampEnd>
+			<Text>Alors, ma question est de savoir, dans ces circonstances, y est-il eu vraiment une stratégie de défense?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2948.26</TimestampBegin>
+			<TimestampEnd>2950.14</TimestampEnd>
+			<Text>Et pourquoi 4 conseils différents?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2950.34</TimestampBegin>
+			<TimestampEnd>2951.18</TimestampEnd>
+			<Text>Qu'est-ce qui s'est passé?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2951.42</TimestampBegin>
+			<TimestampEnd>2953.58</TimestampEnd>
+			<Text>Est-ce qu'on a une idée?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2953.78</TimestampBegin>
+			<TimestampEnd>2960.9</TimestampEnd>
+			<Text>Pourquoi est-ce qu'on a dû, donc, changer si fréquemment les différents avocats du requérant?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2961.58</TimestampBegin>
+			<TimestampEnd>2962.54</TimestampEnd>
+			<Text>C'est une question factuelle.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2966.1</TimestampBegin>
+			<TimestampEnd>2968.82</TimestampEnd>
+			<Text>La troisième et dernière question s'adresse aussi au gouvernement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>2969.94</TimestampBegin>
+			<TimestampEnd>3006.58</TimestampEnd>
+			<Text>Lors de votre plaidoirie dans l'affaire Lhermitte, vous nous disiez que l'accusation, l'acte d'accusation constitue la pièce maîtresse de la procédure, que les jurés, à l'époque dans l'affaire Lhermitte, mais le cadre juridique est plus ou moins le même, si je comprends bien, que les jurés avaient probablement déjà formé leur opinion avant l'audience sur la base de l'acte d'accusation, et que cet acte d'accusation ait d'une grande importance pour que l'accusé comprenne les raisons de sa condamnation en l'absence de motivation du verdict des jurés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3007.22</TimestampBegin>
+			<TimestampEnd>3013.42</TimestampEnd>
+			<Text>Bref, vous avez souligné à l'époque l'importance centrale de l'acte d'accusation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3014.1</TimestampBegin>
+			<TimestampEnd>3015.62</TimestampEnd>
+			<Text>Et ma question est la suivante.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3015.82</TimestampBegin>
+			<TimestampEnd>3023.18</TimestampEnd>
+			<Text>Est-ce que vous estimez que l'acte d'accusation a eu la même importance centrale dans cette affaire?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3023.82</TimestampBegin>
+			<TimestampEnd>3024.5</TimestampEnd>
+			<Text>Merci beaucoup.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3026.76</TimestampBegin>
+			<TimestampEnd>3028.96</TimestampEnd>
+			<Text>Merci beaucoup.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3028.96</TimestampBegin>
+			<TimestampEnd>3029.96</TimestampEnd>
+			<Text>Judge De Gaetano, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Vincent A. De Gaetano</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3035.75</TimestampBegin>
+			<TimestampEnd>3039.91</TimestampEnd>
+			<Text>Just one question to counsel for the government.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3041.91</TimestampBegin>
+			<TimestampEnd>3065.99</TimestampEnd>
+			<Text>Some emphasis has been placed on the fact of the extradition proceedings in France and then the criminal trial in Belgium and that he was what happened as far as waiver of the rights in France and then what happened in Belgium and in between the two interviews which took place.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3067.73</TimestampBegin>
+			<TimestampEnd>3089.19</TimestampEnd>
+			<Text>Is the government's position, or is the government suggesting in any way, and I ask this simply for clarity's sake, is the government suggesting that the extradition proceedings in France and the criminal proceedings in Belgium are to be considered as one continuum as far as the right of the accused to legal assistance is concerned?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3089.19</TimestampBegin>
+			<TimestampEnd>3091.43</TimestampEnd>
+			<Text>That is my only question, thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3094.05</TimestampBegin>
+			<TimestampEnd>3097.41</TimestampEnd>
+			<Text>Thank you very much, Judge De Gaetano. Judge O’Leary, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Síofra O’Leary</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3099.68</TimestampBegin>
+			<TimestampEnd>3101.84</TimestampEnd>
+			<Text>Thank you very much, Mr. President.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3101.84</TimestampBegin>
+			<TimestampEnd>3104.68</TimestampEnd>
+			<Text>My question is for the respondent government.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3104.68</TimestampBegin>
+			<TimestampEnd>3119.8</TimestampEnd>
+			<Text>In your initial observations to the court, the written observations, you indicated that uncertainty remained regarding whether Mr. Gworth had already met his lawyer when he was questioned by police on the 11th of January 2008.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3119.8</TimestampBegin>
+			<TimestampEnd>3125.66</TimestampEnd>
+			<Text>In your oral observations today, any doubts seem to have been dissipated.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3125.66</TimestampBegin>
+			<TimestampEnd>3149.0</TimestampEnd>
+			<Text>But could you specify when a lawyer was formally designated to Mr. Beuze, and I mean designated, not simply requested, on what date, and if possible, for how long the applicant consulted with that lawyer for the first time, and in particular, whether this was prior to the 11th of January questioning?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3149.0</TimestampBegin>
+			<TimestampEnd>3149.0</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3149.76</TimestampBegin>
+			<TimestampEnd>3151.76</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3151.76</TimestampBegin>
+			<TimestampEnd>3152.6</TimestampEnd>
+			<Text>Judge Griţco, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Valeriu Griţco</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3154.63</TimestampBegin>
+			<TimestampEnd>3155.99</TimestampEnd>
+			<Text>Merci, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3156.19</TimestampBegin>
+			<TimestampEnd>3158.47</TimestampEnd>
+			<Text>J'ai une question au gouvernement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3158.67</TimestampBegin>
+			<TimestampEnd>3180.35</TimestampEnd>
+			<Text>Donc, je voudrais savoir, est-ce qu'il y avait des contradictions essentielles entre les différentes déclarations de M. Beuze lors des interrogatoires ou auditions qui ont eu lieu sans une présence physique d'un avocat?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3180.55</TimestampBegin>
+			<TimestampEnd>3184.19</TimestampEnd>
+			<Text>Bien sûr, la partie récurrente également peut faire des commentaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3184.19</TimestampBegin>
+			<TimestampEnd>3184.19</TimestampEnd>
+			<Text>Merci.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3184.46</TimestampBegin>
+			<TimestampEnd>3186.66</TimestampEnd>
+			<Text>Merci beaucoup. Judge Spano, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Robert Spano</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3189.4</TimestampBegin>
+			<TimestampEnd>3190.44</TimestampEnd>
+			<Text>Thank you, Mr. President.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3190.44</TimestampBegin>
+			<TimestampEnd>3194.88</TimestampEnd>
+			<Text>I first have a question to both parties.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3194.88</TimestampBegin>
+			<TimestampEnd>3219.44</TimestampEnd>
+			<Text>As just referred to by my colleague, Judge Sicilianos, in the case of Lermitte versus Belgium, the court explained that to some extent, when viewing jury reasoning as presented by the judges, one would perhaps to some extent view the way in which the court of cassation has viewed that reasoning.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3219.44</TimestampBegin>
+			<TimestampEnd>3226.12</TimestampEnd>
+			<Text>One can be informed by the court of cassation as to the reasoning of jury deliberations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3226.12</TimestampBegin>
+			<TimestampEnd>3231.36</TimestampEnd>
+			<Text>On that basis, we have a court of cassation judgment in this case.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3231.36</TimestampBegin>
+			<TimestampEnd>3244.68</TimestampEnd>
+			<Text>Can I ask both parties to assist me in whether I'm reading the court of cassation's judgment in the case where the applicant presents arguments on the basis of Article 6?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3244.68</TimestampBegin>
+			<TimestampEnd>3280.36</TimestampEnd>
+			<Text>The first is, do I read the court of cassation judgment correctly that in its findings that the fairness of the proceedings at first instance or in the Assisi court were fair, the court of cassation did not base its conclusions on the fairness that statements of the applicant during police custody or pretrial investigation had not in fact been used or been the basis upon which the jury made its conclusions?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3280.36</TimestampBegin>
+			<TimestampEnd>3281.32</TimestampEnd>
+			<Text>I don't see it.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3281.32</TimestampBegin>
+			<TimestampEnd>3307.2</TimestampEnd>
+			<Text>I just want to be clear that what I see from the dossier, the court of cassation did not make that finding by its own reading of the jury reasoning that that was excluded as a possibility, that the jury might in fact have had as its basis for some of its views the statements provided by the applicant during the proceedings.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3307.2</TimestampBegin>
+			<TimestampEnd>3341.0</TimestampEnd>
+			<Text>Related to this, I see that in the reasoning of the jury as set out by the court as to the indicted part as regards the attempted murder of Christian Lacroix on the 17th of September 2007, the jury reasoning states, the defendant had deliberately arranged to be alone with a pregnant woman.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3341.0</TimestampBegin>
+			<TimestampEnd>3345.96</TimestampEnd>
+			<Text>Now here, of course, this is just a statement of a proven fact.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3345.96</TimestampBegin>
+			<TimestampEnd>3351.8</TimestampEnd>
+			<Text>The basis upon which the evidentiary material relied upon is not stated.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3351.8</TimestampBegin>
+			<TimestampEnd>3374.0</TimestampEnd>
+			<Text>What I do see, however, from the dossier, and here comes my question, in an interview or the interrogation by the criminal investigation police on the 25th of March 2008, the applicant acknowledged that he had invited Christian Lacroix, then pregnant, to get into his car.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3374.0</TimestampBegin>
+			<TimestampEnd>3385.4</TimestampEnd>
+			<Text>He stated that he had punched Christian Lacroix in the face to protect her from a possible encounter with Madame Boudard that had been planned, and so forth.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3385.4</TimestampBegin>
+			<TimestampEnd>3410.28</TimestampEnd>
+			<Text>So do we have before us, because this is the reasoning of the jury, can you point out to any other piece of evidence which could have formed the basis for the jury's finding on this issue, that the defendant had deliberately arranged to be alone with a pregnant woman?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3410.28</TimestampBegin>
+			<TimestampEnd>3411.96</TimestampEnd>
+			<Text>Is there any other piece of evidence?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3411.96</TimestampBegin>
+			<TimestampEnd>3422.44</TimestampEnd>
+			<Text>Do we have any reason to think that it is other piece of evidence than the testimony provided by the applicant himself?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3422.44</TimestampBegin>
+			<TimestampEnd>3424.12</TimestampEnd>
+			<Text>Just a clarification on that issue.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3424.12</TimestampBegin>
+			<TimestampEnd>3424.12</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3425.37</TimestampBegin>
+			<TimestampEnd>3427.65</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3427.65</TimestampBegin>
+			<TimestampEnd>3429.25</TimestampEnd>
+			<Text>Judge Turković, please.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Judge</Role>
+		<Name>Ksenija Turković</Name>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3430.58</TimestampBegin>
+			<TimestampEnd>3442.74</TimestampEnd>
+			<Text>I'd just like to expand on the question of Judge Spano and just one point related to the jury and the conclusions that the jury is drawing.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3442.74</TimestampBegin>
+			<TimestampEnd>3458.08</TimestampEnd>
+			<Text>Could the court made a conclusion that the jury was not relying if the jury was not given specific instruction upon that, without giving the instruction to the jury?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3458.08</TimestampBegin>
+			<TimestampEnd>3460.44</TimestampEnd>
+			<Text>Could then the court rely?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3460.44</TimestampBegin>
+			<TimestampEnd>3478.82</TimestampEnd>
+			<Text>And then to expand on the question related to the lawyer and the contacts between lawyer, the specific question was asked for this one particular date, 11th of January, 2012.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3478.82</TimestampBegin>
+			<TimestampEnd>3491.18</TimestampEnd>
+			<Text>But I think this question is actually pertinent to each questioning of our applicant.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3491.18</TimestampBegin>
+			<TimestampEnd>3498.62</TimestampEnd>
+			<Text>When the lawyer was present, to what extent he could consult with him.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3498.62</TimestampBegin>
+			<TimestampEnd>3506.86</TimestampEnd>
+			<Text>And when the lawyer was not present, to what extent did he consulted with him outside of the interview?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3506.86</TimestampBegin>
+			<TimestampEnd>3509.46</TimestampEnd>
+			<Text>It's important for each questioning.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>en</Language>
+			<TimestampBegin>3509.46</TimestampBegin>
+			<TimestampEnd>3509.46</TimestampEnd>
+			<Text>Thank you.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3510.99</TimestampBegin>
+			<TimestampEnd>3513.39</TimestampEnd>
+			<Text>Thank you very much.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3513.59</TimestampBegin>
+			<TimestampEnd>3522.67</TimestampEnd>
+			<Text>S'il n'y a pas d'autres questions, la Cour va maintenant se retirer, disons jusqu'à 10h35.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3522.67</TimestampBegin>
+			<TimestampEnd>3532.99</TimestampEnd>
+			<Text>Et après quoi, les partis pourront présenter des brèves observations en réponse aux plaidoiries adverses et répondre aux questions des juges.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3532.99</TimestampBegin>
+			<TimestampEnd>3532.99</TimestampEnd>
+			<Text>L'audience est suspendue.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Announcer</Role>
+		<Name>UNK</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3731.36</TimestampBegin>
+			<TimestampEnd>3732.08</TimestampEnd>
+			<Text>La Cour!</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3772.92</TimestampBegin>
+			<TimestampEnd>3774.44</TimestampEnd>
+			<Text>Vous en prenez place.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3775.92</TimestampBegin>
+			<TimestampEnd>3780.56</TimestampEnd>
+			<Text>L'audience reprend et la parole est à madame Niedlispacher.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3780.56</TimestampBegin>
+			<TimestampEnd>3780.56</TimestampEnd>
+			<Text>Vous avez la parole madame.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Government</Role>
+		<Name>GR1</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3783.34</TimestampBegin>
+			<TimestampEnd>3785.3</TimestampEnd>
+			<Text>Je vous remercie, M. le Président.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3785.45</TimestampBegin>
+			<TimestampEnd>3795.82</TimestampEnd>
+			<Text>Mesdames, Messieurs les juges, la question a été posée de savoir qu'est-ce qu'une atteinte irrémédiable à l'équité du procès?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3795.98</TimestampBegin>
+			<TimestampEnd>3821.54</TimestampEnd>
+			<Text>Une atteinte irrémédiable à l'équité du procès, c'est un vice de procédure qui jette ou qui est susceptible de jeter le discrédit sur les conclusions qui ont été prises en tenant compte des déclarations ici qui auraient été faites sans l'assistance d'un avocat ou qui...</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3823.62</TimestampBegin>
+			<TimestampEnd>3834.14</TimestampEnd>
+			<Text>Enfin, l'atteinte est irrémédiable si elle est d'une gravité telle qu'elle jette le discrédit sur l'issue de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3834.58</TimestampBegin>
+			<TimestampEnd>3855.78</TimestampEnd>
+			<Text>Et donc, cette notion est essentielle pour répondre à ce qui nous a été dit par la partie requérante à savoir le fait que la loi Belge ne prévoyait pas à l'époque d'avocats pour le premier interrogatoire suffit à jeter le discrédit sur la procédure, suffit à conclure à la violation de l'article 6.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3855.93</TimestampBegin>
+			<TimestampEnd>3895.02</TimestampEnd>
+			<Text>Je dis non parce que la Convention ne protège pas des droits théoriques et illusoires, mais concrètement, dans le cas d'espèce, chaque élément doit être examiné avec, il est vrai, ici, un renversement de la charge de la preuve pour le gouvernement, établir avec plus de force, plus de précision que les irrégularités éventuelles de la procédure ont pu être en l'espèce compensées par des garanties de procédure offertes aux requérants ou, si elles n'ont pas été compensées, n'ont pas porté préjudice aux requérants en l'espèce.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3895.34</TimestampBegin>
+			<TimestampEnd>3902.5</TimestampEnd>
+			<Text>Parce que ce qui nous intéresse tous, c'est l'Etat de droit, la démocratie, le fait que M. Beuze ait eu une procédure équitable.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3903.18</TimestampBegin>
+			<TimestampEnd>3905.45</TimestampEnd>
+			<Text>Nous sommes tous d'accord là-dessus.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3907.22</TimestampBegin>
+			<TimestampEnd>3918.93</TimestampEnd>
+			<Text>Alors, j'ai dit dans l'affaire Lhermitte contre Belgique que l'acte d'accusation était la pièce maîtresse pour que l'accusé comprenne ce qui lui était reproché.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3920.98</TimestampBegin>
+			<TimestampEnd>3929.3</TimestampEnd>
+			<Text>C'est plutôt une compensation quand la motivation du jury est imparfaite, puisque nous avons des jurés non professionnels.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3931.54</TimestampBegin>
+			<TimestampEnd>3953.66</TimestampEnd>
+			<Text>Mais l'acte d'accusation est certainement une pièce déterminante qui permet à l'accusé de comprendre ce qui lui est reproché, pourquoi, comment, quelle a été sa part de participation active, s'il a pu bénéficier de causes d'excuses ou non.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3953.66</TimestampBegin>
+			<TimestampEnd>3958.14</TimestampEnd>
+			<Text>Donc a-t-il eu ici la même importance?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3960.18</TimestampBegin>
+			<TimestampEnd>3967.5</TimestampEnd>
+			<Text>Je pense qu'il a eu une importance déterminante ici aussi, bien sûr.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3967.66</TimestampBegin>
+			<TimestampEnd>3968.45</TimestampEnd>
+			<Text>On ne peut pas nier.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3971.34</TimestampBegin>
+			<TimestampEnd>3981.62</TimestampEnd>
+			<Text>Mais les jurés ont eu des instructions par les membres professionnels de la Cour d'assises.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3981.62</TimestampBegin>
+			<TimestampEnd>3985.86</TimestampEnd>
+			<Text>Et on leur a demandé il faut vous fonder une intime conviction.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3986.74</TimestampBegin>
+			<TimestampEnd>3992.5</TimestampEnd>
+			<Text>Est-ce que la personnalité même plus vulnérable de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>3992.66</TimestampBegin>
+			<TimestampEnd>4005.62</TimestampEnd>
+			<Text>est-ce que ce qu'il a déclaré, ne pas déclaré, ses mensonges, ses versions qui ont changé, sont les seuls éléments sur lesquels vous vous basez pour déterminer sa culpabilité?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4006.1</TimestampBegin>
+			<TimestampEnd>4007.3</TimestampEnd>
+			<Text>Non.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4007.45</TimestampBegin>
+			<TimestampEnd>4021.58</TimestampEnd>
+			<Text>Vous vous êtes basé, vous devez vous baser sur tous les éléments qui vous sont présentés et vous demander en votre âme et conscience, dans votre fort intérieur, si M. Beuze est coupable ou non de tentative d'homicide,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4021.74</TimestampBegin>
+			<TimestampEnd>4023.82</TimestampEnd>
+			<Text>homicide avec préméditation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4024.98</TimestampBegin>
+			<TimestampEnd>4046.26</TimestampEnd>
+			<Text>Et dans les éléments qui ont été présentés de manière contradictoire au jury, eh bien, il y avait des déclarations de témoins, des éléments matériels recueillis, des constatations des enquêteurs, des considérations médico-légales et psychiatriques eu égard à sa vulnérabilité particulière.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4047.54</TimestampBegin>
+			<TimestampEnd>4059.74</TimestampEnd>
+			<Text>Donc, les jurés se sont formés leur opinion sur base de l'ensemble des éléments qui ont été présentés, et pas une déclaration partielle de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4059.89</TimestampBegin>
+			<TimestampEnd>4097.53</TimestampEnd>
+			<Text>parce que les jurés qui étaient donc choisis au hasard étaient d'intelligence sur le sujet, d'intelligence suffisante et de sagesse suffisante pour s'imaginer qu'on peut tous se voir un jour dans une situation particulière qui pourrait donner à penser que nous pourrions pas nous conduire comme la loi nous l'impose, mais qu'en réalité, c'est une apparence et que derrière cette apparence, il y a d'autres éléments du dossier qui suffisent à nous disculper.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4097.69</TimestampBegin>
+			<TimestampEnd>4102.1</TimestampEnd>
+			<Text>Est-ce que les procédures françaises et belges sont à considérer dans la continuité?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4102.26</TimestampBegin>
+			<TimestampEnd>4104.26</TimestampEnd>
+			<Text>Oui.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4106.14</TimestampBegin>
+			<TimestampEnd>4112.98</TimestampEnd>
+			<Text>Indépendamment de la connaissance juridique fine dont M. Beuze n'a certainement pas bénéficié,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4114.38</TimestampBegin>
+			<TimestampEnd>4124.22</TimestampEnd>
+			<Text>il a certainement compris que l'étau se resserrait sur lui et les éléments du dossier le montrent très clairement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4126.49</TimestampBegin>
+			<TimestampEnd>4136.1</TimestampEnd>
+			<Text>D'abord, dès son arrestation, le Code français de procédure pénale lui offre la possibilité de se faire assister par un avocat lors de sa garde à vue.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4136.26</TimestampBegin>
+			<TimestampEnd>4147.02</TimestampEnd>
+			<Text>Il y renonce, je ne sais pas pourquoi, et fait la demande d'être assisté seulement lors de sa comparution devant la chambre d'instruction de la cour d'appel de Douai.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4147.02</TimestampBegin>
+			<TimestampEnd>4152.02</TimestampEnd>
+			<Text>À ce moment-là, il est assisté, il reçoit des conseils.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4152.18</TimestampBegin>
+			<TimestampEnd>4162.34</TimestampEnd>
+			<Text>Son avocat, bien sûr, lui dit vous avez le droit de vous taire, de mentir, de ne pas répondre à toutes les questions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4162.49</TimestampBegin>
+			<TimestampEnd>4170.41</TimestampEnd>
+			<Text>Et ce qui va se passer maintenant, c'est que la Belgique va demander que vous soyez remis pour être jugé en Belgique où les faits sont sursournés roulés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4170.57</TimestampBegin>
+			<TimestampEnd>4177.26</TimestampEnd>
+			<Text>Il a bien compris ça, il a donné son consentement puisque son avocat lui a expliqué qu'il n'avait pas d'intérêt stratégique à s'opposer à cette remise.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4179.53</TimestampBegin>
+			<TimestampEnd>4191.61</TimestampEnd>
+			<Text>Il a bien compris où était le risque pour lui puisque dès le début, dès les premiers instants, il choisit de ne pas dire la vérité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4192.22</TimestampBegin>
+			<TimestampEnd>4200.74</TimestampEnd>
+			<Text>Il choisit même de plaider que les enquêteurs français auraient exercé sur lui une pression pour qu'il incrimine un mineur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4200.74</TimestampBegin>
+			<TimestampEnd>4204.74</TimestampEnd>
+			<Text>Alors, ou c'est de la panique totale ou c'est machiavélique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4208.94</TimestampBegin>
+			<TimestampEnd>4218.18</TimestampEnd>
+			<Text>Dès ses premières déclarations, il fait un large usage de son droit au silence, notamment celui de se taire, de mentir et de sélectionner ou de cacher des faits.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4219.82</TimestampBegin>
+			<TimestampEnd>4221.18</TimestampEnd>
+			<Text>Les pièces du dossier le démontrent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4222.69</TimestampBegin>
+			<TimestampEnd>4234.3</TimestampEnd>
+			<Text>Il n'existe, la question a été posée, aucune corrélation positive ou négative entre sa version des faits à tel moment de la procédure et son assistance par un avocat à tel autre moment de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4234.86</TimestampBegin>
+			<TimestampEnd>4247.34</TimestampEnd>
+			<Text>On ne peut pas donc déduire ici une quelconque ignorance de ses droits ou l'absence d'assistance par un avocat lui aurait nuit ou profité dans la cohérence de ses déclarations.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4248.1</TimestampBegin>
+			<TimestampEnd>4257.57</TimestampEnd>
+			<Text>Je crois que, quelle que soit notre intelligence, face à une accusation d'une telle gravité, nous avons tous nos limites humaines et nous sommes tous amenés à...</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4257.57</TimestampBegin>
+			<TimestampEnd>4266.02</TimestampEnd>
+			<Text>peut-être d'abord cacher et puis éventuellement commettre des erreurs stratégiques, d'évoluer dans nos déclarations, surtout quand les questions sont précises et insistantes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4266.18</TimestampBegin>
+			<TimestampEnd>4275.34</TimestampEnd>
+			<Text>Donc, je pense que, dans ce cas-là, presque tout être humain est plus ou moins dans le même désarroi quand il sait ce qu'il attend potentiellement, c'est-à-dire de la prison.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4276.38</TimestampBegin>
+			<TimestampEnd>4295.14</TimestampEnd>
+			<Text>Les indices de culpabilité contre lui étaient suffisamment solides pour que la Cour de cassation estime que, compte tenu, et ça, c'est l'élément essentiel du dossier, du fait qu'il n'a pas tenu de propos auto-incriminants.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4295.65</TimestampBegin>
+			<TimestampEnd>4303.49</TimestampEnd>
+			<Text>Alors, je l'avais dit aussi, ses seuls propos auto-incriminants, c'est j'ai volé une carte bancaire et j'ai volé une pièce de procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4303.65</TimestampBegin>
+			<TimestampEnd>4308.02</TimestampEnd>
+			<Text>Ça n'a pas d'incidence sur la question avez-vous ou non tué?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4308.18</TimestampBegin>
+			<TimestampEnd>4320.22</TimestampEnd>
+			<Text>Ça n'a pas d'incidence, ni dans la tête des jurés, ni dans la tête des enquêteurs, ni du juge d'instruction, ni des juges professionnels qui vont statuer par la suite.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4320.9</TimestampBegin>
+			<TimestampEnd>4333.57</TimestampEnd>
+			<Text>Alors, il a dit une chose, qu'il voulait être seul avec la femme enceinte, qu'il l'a frappée au visage.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4333.74</TimestampBegin>
+			<TimestampEnd>4337.53</TimestampEnd>
+			<Text>Est-ce que ça aussi, c'est une preuve qu'il l'ait tuée?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4337.69</TimestampBegin>
+			<TimestampEnd>4342.69</TimestampEnd>
+			<Text>Je crois que les jurés qui regardent la télévision ont déjà vu des preuves de ce genre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4342.69</TimestampBegin>
+			<TimestampEnd>4355.26</TimestampEnd>
+			<Text>Les jurés qui regardent la télévision ont déjà vu des procès et se disent que oui, comme je l'ai dit, on peut être amené peut-être à une violence envers quelqu'un.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4355.41</TimestampBegin>
+			<TimestampEnd>4360.82</TimestampEnd>
+			<Text>Ça ne veut pas dire qu'on va aller jusqu'à tuer cette personne.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4360.98</TimestampBegin>
+			<TimestampEnd>4366.82</TimestampEnd>
+			<Text>Je pense que personne ne fait le raccourci.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4367.94</TimestampBegin>
+			<TimestampEnd>4378.14</TimestampEnd>
+			<Text>Et doit-on considérer que systématiquement, la violation de l'article 6 a défaut d'avocat prévu par la loi?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4378.3</TimestampBegin>
+			<TimestampEnd>4398.86</TimestampEnd>
+			<Text>Non, certainement pas, puisque déjà, on ne peut considérer comme équivalent le cas où un prévenu est auditionné sans avoir eu le moindre contact avec son avocat et celui où il a eu l'occasion préalablement à son audition de mettre au point des lignes de défense.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4399.02</TimestampBegin>
+			<TimestampEnd>4411.3</TimestampEnd>
+			<Text>C'est la raison pour laquelle il faut considérer l'équité de la procédure dans son ensemble, à la lumière de chaque élément des volets français et belge de la procédure.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4415.41</TimestampBegin>
+			<TimestampEnd>4430.69</TimestampEnd>
+			<Text>L'absence de raison impérieuse, qu'elle soit automatique ou circonstanciée, même si, évidemment, il n'y avait pas de raison vitale ou pour la sécurité physique de priver M. Beuze d'un avocat,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4430.69</TimestampBegin>
+			<TimestampEnd>4437.14</TimestampEnd>
+			<Text>n'indique pas pour autant que ses droits garantis à l'article 6 ont été violés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4437.34</TimestampBegin>
+			<TimestampEnd>4490.06</TimestampEnd>
+			<Text>Il faut vérifier, une fois de plus, l'équité globale de la procédure, puisque l'intéressé ici a bénéficié de la possibilité de se faire assister d'un avocat immédiatement après son arrestation, bien qu'il y ait renoncé, qu'il s'est fait assister d'un avocat dès qu'il en a fait la demande et sous son conseil consenti à sa remise, qu'il n'a jamais comparu devant une juridiction de jugement sans être assisté d'un avocat ni en France ni en Belgique, qu'il a été mis en contact avec un avocat immédiatement après sa première audition par la juge d'instruction belge et qu'il a bénéficié de l'assistance juridique tout au long de la procédure ultérieure, qu'il a pu faire un usage illimité, en vertu du droit belge, de sa possibilité de se concerter avec son avocat pour mettre au point sa défense, faire valoir ses droits et contester sa détention.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4492.02</TimestampBegin>
+			<TimestampEnd>4507.86</TimestampEnd>
+			<Text>Il a joui d'une connaissance évidente de ses droits lors de chaque interrogatoire et en a fait plusieurs fois usage dès ses premiers contacts avec les autorités belges, notamment son droit au silence et celui de réclamer des actes d'instruction complémentaires.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4510.14</TimestampBegin>
+			<TimestampEnd>4550.38</TimestampEnd>
+			<Text>Aucune des déclarations qu'il a faites hors l'assistance de son conseil n'a servi à sa condamnation, si ses recours n'ont pas abouti, c'est parce qu'aucune violation de l'article 6 ne pouvait être retenue.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4551.41</TimestampBegin>
+			<TimestampEnd>4553.53</TimestampEnd>
+			<Text>Chacune des décisions a été correctement motivée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4555.94</TimestampBegin>
+			<TimestampEnd>4572.38</TimestampEnd>
+			<Text>Sa condamnation du chef d'homicide volontaire avec préméditation et tentative d'homicide prononcée par un jury d'assises s'est fondée sur des déclarations de témoins, des constatations d'enquêteurs, des éléments matériels soigneusement recueillis et des considérations médico-légales et psychiatriques.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4572.38</TimestampBegin>
+			<TimestampEnd>4576.26</TimestampEnd>
+			<Text>Il en a été de même de l'arrêt de la Chambre des mises en accusation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4578.18</TimestampBegin>
+			<TimestampEnd>4600.02</TimestampEnd>
+			<Text>Même si l'arrêt matérialisant et établissant cette tendance jurisprudentielle de la Cour de cassation est postérieure de quelques mois à l'arrêt de cassation de l'espèce, il existait au moment du dernier recours interne introduit par M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4600.02</TimestampBegin>
+			<TimestampEnd>4609.69</TimestampEnd>
+			<Text>une règle d'exclusion de toute déclaration auto-incriminante faite hors la présence par un avocat dans le jugement de condamnation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4610.49</TimestampBegin>
+			<TimestampEnd>4612.65</TimestampEnd>
+			<Text>Cette règle a protégé M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4613.06</TimestampBegin>
+			<TimestampEnd>4614.86</TimestampEnd>
+			<Text>contre cette éventualité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4618.69</TimestampBegin>
+			<TimestampEnd>4630.26</TimestampEnd>
+			<Text>Si l'arrêt de cassation dans le cas du dossier Beuze n'a pas été cassé alors qu'il a fait des déclarations sans avocat, c'est parce que ces déclarations n'étaient pas auto-incriminantes.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4631.74</TimestampBegin>
+			<TimestampEnd>4657.3</TimestampEnd>
+			<Text>Donc, le fait que l'arrêt que malheureusement je peux vous invoquer est postérieur de quelques mois n'établit pas que la Cour de cassation n'avait pas déjà conscience du fait que des déclarations auto-incriminantes sans avocat sont des déclarations faites dans une situation de vulnérabilité particulière qui doivent être écartées, surtout si en l'espèce on a d'autres éléments suffisamment solides.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4657.45</TimestampBegin>
+			<TimestampEnd>4669.06</TimestampEnd>
+			<Text>Pourquoi prendre le risque de se fonder sur un élément inéquitable à l'égard du requérant si on a d'autres éléments qui ont été récoltés dans le respect de la règle de l'équité de la procédure?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4669.22</TimestampBegin>
+			<TimestampEnd>4673.1</TimestampEnd>
+			<Text>Voilà pourquoi, malheureusement, je ne peux pas vous produire un arrêt antérieur.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4673.26</TimestampBegin>
+			<TimestampEnd>4681.02</TimestampEnd>
+			<Text>Il est postérieur de quelques mois, mais ça n'établit pas que la Cour de cassation n'avait pas déjà conscience de cette nécessité dans un État démocratique.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4681.02</TimestampBegin>
+			<TimestampEnd>4685.49</TimestampEnd>
+			<Text>Chacune des décisions a été correctement motivée.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4685.65</TimestampBegin>
+			<TimestampEnd>4688.34</TimestampEnd>
+			<Text>Donc vous pourrez vérifier. Voilà.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4688.34</TimestampBegin>
+			<TimestampEnd>4708.45</TimestampEnd>
+			<Text>Donc juste pour conclure, ainsi, donc, non seulement l'article 6 n'a-t-il pas été méconnu en l'espèce au regard des critères utilement établis par la jurisprudence Ibrahim, mais encore ces critères révèlent-ils conjugués à la juridiction de l'Etat?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4708.45</TimestampBegin>
+			<TimestampEnd>4722.94</TimestampEnd>
+			<Text>Ces critères révèlent-ils conjugués à un parfait baromètre pour mesurer les conséquences de lacunes procédurales éventuelles au stade de l'enquête sur l'équité globale du procès?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4722.94</TimestampBegin>
+			<TimestampEnd>4722.94</TimestampEnd>
+			<Text>Je vous remercie.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4723.67</TimestampBegin>
+			<TimestampEnd>4726.03</TimestampEnd>
+			<Text>Merci beaucoup, madame la Niedlispacher.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4726.35</TimestampBegin>
+			<TimestampEnd>4728.15</TimestampEnd>
+			<Text>La parole est à maître Paci.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4728.15</TimestampBegin>
+			<TimestampEnd>4728.15</TimestampEnd>
+			<Text>Je vous invite à la parole, madame la députée.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>Applicant</Role>
+		<Name>AP1</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4729.79</TimestampBegin>
+			<TimestampEnd>4731.75</TimestampEnd>
+			<Text>Je vous remercie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4731.75</TimestampBegin>
+			<TimestampEnd>4735.63</TimestampEnd>
+			<Text>L'atteinte irrémédiable aux droits de M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4735.63</TimestampBegin>
+			<TimestampEnd>4751.91</TimestampEnd>
+			<Text>me semble malheureusement devoir être constatée dans la mesure où ses déclarations, sans aucun rappel du droit au silence ni de s'auto-incriminer, ont été utilisées contre lui.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4751.91</TimestampBegin>
+			<TimestampEnd>4768.47</TimestampEnd>
+			<Text>C'est notamment le cas de cette première audition du 31 décembre 2007, faite en Belgique, qui contient 8 pages extrêmement détaillées dans lesquelles M. Beuze reconnaît des actes matériels.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4768.47</TimestampBegin>
+			<TimestampEnd>4776.91</TimestampEnd>
+			<Text>Cette déclaration qui va être utilisée dans l'acte d'accusation et que M. Beuze n'a pu rétracter dans la mesure,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4776.91</TimestampBegin>
+			<TimestampEnd>4786.83</TimestampEnd>
+			<Text>et vous verrez à la dernière page de cette audition du 31 décembre 2007, j'ai relu mes déclarations, je ne souhaite ni les corriger ni les compléter.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4786.83</TimestampBegin>
+			<TimestampEnd>4793.39</TimestampEnd>
+			<Text>Je demande une copie gratuite du texte de mon audition, je prends acte de ce que vous me refusez la copie.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4793.39</TimestampBegin>
+			<TimestampEnd>4796.23</TimestampEnd>
+			<Text>M. Beuze a donc été auditionné seul,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4796.23</TimestampBegin>
+			<TimestampEnd>4802.71</TimestampEnd>
+			<Text>sans avoir vu d'avocat précédemment pour préparer cette audition.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4802.71</TimestampBegin>
+			<TimestampEnd>4815.47</TimestampEnd>
+			<Text>On ne lui a pas remis de copie, il n'a donc pas non plus pu soumettre cette audition rapidement à son conseil pour pouvoir en discuter avec lui, éventuellement rétracter certains propos.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4815.47</TimestampBegin>
+			<TimestampEnd>4830.51</TimestampEnd>
+			<Text>Pour réparer cette atteinte, il aurait fallu écarter cette audition qui, comme les autres, a clairement pesé dans la balance au moment où il s'agit de condamner M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4830.51</TimestampBegin>
+			<TimestampEnd>4834.11</TimestampEnd>
+			<Text>M. Beuze a eu quatre conseils belges,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4834.11</TimestampBegin>
+			<TimestampEnd>4839.63</TimestampEnd>
+			<Text>Maître Grindorge, Rucha et Lafineur sont en réalité trois conseils qui appartiennent au même cabinet.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4839.63</TimestampBegin>
+			<TimestampEnd>4859.71</TimestampEnd>
+			<Text>Maître Rucha et Lafineur étaient les collaborateurs de Maître Grindorge à l'époque, et donc il ne s'agit pas de conseils différents, mais bien d'un même cabinet qui est intervenu à l'assistance de Maître Beuze à l'époque du dossier, et notamment la condamnation de la Cour d'Assise.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4859.71</TimestampBegin>
+			<TimestampEnd>4881.07</TimestampEnd>
+			<Text>L'État belge, en vous précisant que les instructions qui sont données aux jurés sont de se fonder sur l'intime conviction, confirme ce que je vous ai plaidé, à savoir qu'aucune instruction n'a été donnée, de prendre avec énormément de circonspection les déclarations de M. Beuze, d'autant plus que l'acte d'accusation</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4881.07</TimestampBegin>
+			<TimestampEnd>4887.99</TimestampEnd>
+			<Text>a eu un poids extrêmement important, ce qui a été reconnu par l'État belge.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4887.99</TimestampBegin>
+			<TimestampEnd>4892.11</TimestampEnd>
+			<Text>Est-ce que les procédures françaises et belges doivent faire un tout?</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4892.11</TimestampBegin>
+			<TimestampEnd>4900.59</TimestampEnd>
+			<Text>Certainement pas au niveau de l'examen du droit au silence, ces procédures n'ont pas le même objet.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4900.59</TimestampBegin>
+			<TimestampEnd>4910.39</TimestampEnd>
+			<Text>La procédure en France ne consistait uniquement qu'en la vérification de savoir si ce mandat d'arrêt européen s'appliquait bien à M. Beuze, si oui ou non il acceptait</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4910.39</TimestampBegin>
+			<TimestampEnd>4918.03</TimestampEnd>
+			<Text>sa remise aux autorités belges, et si oui ou non il renonçait au principe de spécialité dans le cadre du mandat d'arrêt.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4918.03</TimestampBegin>
+			<TimestampEnd>4929.07</TimestampEnd>
+			<Text>Les autorités françaises n'avaient pas le dossier belge sous la main, ils avaient uniquement le mandat d'arrêt européen, et donc M. Beuze n'a jamais été interrogé sur les faits,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4929.07</TimestampBegin>
+			<TimestampEnd>4939.99</TimestampEnd>
+			<Text>proprement parlant, qui se sont déroulés en Belgique, mais uniquement sur la question de savoir si oui ou non il consentait à sa remise.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4939.99</TimestampBegin>
+			<TimestampEnd>4951.23</TimestampEnd>
+			<Text>La Cour de cassation de Belgique, je vous le disais, a quelque peu pris la mesure de votre arrêt salduze, mais postérieurement à la condamnation de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4951.23</TimestampBegin>
+			<TimestampEnd>4954.35</TimestampEnd>
+			<Text>et postérieurement au moment où M. Beuze a apporté</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4954.35</TimestampBegin>
+			<TimestampEnd>4958.39</TimestampEnd>
+			<Text>sa contestation devant la Cour de cassation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4958.39</TimestampBegin>
+			<TimestampEnd>4965.67</TimestampEnd>
+			<Text>La Cour de cassation part du principe qu'aucune déclaration auto-accusatrice n'a été faite par M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4965.67</TimestampBegin>
+			<TimestampEnd>4969.51</TimestampEnd>
+			<Text>Cela n'est, me semble-t-il, pas exact dans la mesure où M. Beuze</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4969.51</TimestampBegin>
+			<TimestampEnd>4981.51</TimestampEnd>
+			<Text>a reconnu des éléments matériels, je vous l'ai déjà plaidé, il a reconnu avoir menacé, il a reconnu être présent, et ces éléments-là ont effectivement contribué à sa condamnation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4981.51</TimestampBegin>
+			<TimestampEnd>4992.07</TimestampEnd>
+			<Text>A aucun moment, la Cour de cassation n'a examiné si oui ou non ces déclarations avaient eu un poids par rapport à sa condamnation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4992.07</TimestampBegin>
+			<TimestampEnd>4994.75</TimestampEnd>
+			<Text>Des contradictions dans les déclarations de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>4994.75</TimestampBegin>
+			<TimestampEnd>5010.87</TimestampEnd>
+			<Text>effectivement, il y en a eu, mais pas sur certains éléments, et notamment sur certains éléments matériels, le fait d'être présent, le fait d'avoir menacé un témoin, et ces contradictions vont être utilisées dans l'acte d'accusation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5010.87</TimestampBegin>
+			<TimestampEnd>5014.79</TimestampEnd>
+			<Text>M. Beuze n'a en tout cas pas pu consulter d'avocat</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5014.79</TimestampBegin>
+			<TimestampEnd>5026.31</TimestampEnd>
+			<Text>avant le 31 décembre 2017 en Belgique, portant sur la procédure belge et spécifiquement sur l'interrogatoire pour l'assassinat de Muriel Boudard.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5026.31</TimestampBegin>
+			<TimestampEnd>5030.51</TimestampEnd>
+			<Text>Pas de consultation d'avocat avant, pas d'avocat présent.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5030.51</TimestampBegin>
+			<TimestampEnd>5049.03</TimestampEnd>
+			<Text>Par la suite, un avocat a pu intervenir, mais en droit belge, à l'époque, l'avocat n'était jamais prévenu de ce que la personne allait être auditionnée, et notamment une autre audition va intervenir qui est relativement importante, c'est celle de la tentative d'assassinat par rapport à Mme Christelle Lacroix.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5049.03</TimestampBegin>
+			<TimestampEnd>5053.11</TimestampEnd>
+			<Text>Par rapport à cette tentative d'assassinat, un nouveau mandat d'arrêt va être délivré.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5053.11</TimestampBegin>
+			<TimestampEnd>5056.35</TimestampEnd>
+			<Text>A nouveau, on va extraire M. Beuze.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5056.35</TimestampBegin>
+			<TimestampEnd>5061.79</TimestampEnd>
+			<Text>Cette audition va être permise par le fait qu'on étend les poursuites au niveau du principe de spécialité.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5061.79</TimestampBegin>
+			<TimestampEnd>5064.71</TimestampEnd>
+			<Text>L'avocat de M. Beuze n'est pas prévenu de cet élément.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5064.71</TimestampBegin>
+			<TimestampEnd>5067.35</TimestampEnd>
+			<Text>M. Beuze va à nouveau être auditionné seul,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5067.35</TimestampBegin>
+			<TimestampEnd>5073.59</TimestampEnd>
+			<Text>sans avoir pu préparer son interrogatoire et sans que ses droits fondamentaux lui soient rappelés.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5073.59</TimestampBegin>
+			<TimestampEnd>5077.87</TimestampEnd>
+			<Text>Les auditions de M. Beuze ont contribué à sa condamnation.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5077.87</TimestampBegin>
+			<TimestampEnd>5079.79</TimestampEnd>
+			<Text>L'acte d'accusation le démontre.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5079.79</TimestampBegin>
+			<TimestampEnd>5088.75</TimestampEnd>
+			<Text>Les éléments de fait également cités dans la décision qui ne reposent sur aucun autre élément matériel que les déclarations de M. Beuze,</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5088.75</TimestampBegin>
+			<TimestampEnd>5092.67</TimestampEnd>
+			<Text>les droits de M. Beuze ont été atteints irrémédiablement</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5092.67</TimestampBegin>
+			<TimestampEnd>5098.35</TimestampEnd>
+			<Text>par le fait que ces déclarations ont été faites sans rappel de son droit au silence ni de s'auto-incriminer.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5098.35</TimestampBegin>
+			<TimestampEnd>5098.35</TimestampEnd>
+			<Text>Merci.</Text>
+		</Snippet>
+	</SpeakerSegment>
+	<SpeakerSegment>
+		<Role>JudgeP</Role>
+		<Name>Guido Raimondi</Name>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5099.92</TimestampBegin>
+			<TimestampEnd>5102.68</TimestampEnd>
+			<Text>Merci beaucoup, maître.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5102.88</TimestampBegin>
+			<TimestampEnd>5106.2</TimestampEnd>
+			<Text>Nous en arrivons au terme de l'audience.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5106.4</TimestampBegin>
+			<TimestampEnd>5113.36</TimestampEnd>
+			<Text>Je remercie les comparantes qui ont assisté la Cour par leurs interventions et leurs réponses à ces questions.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5113.56</TimestampBegin>
+			<TimestampEnd>5118.12</TimestampEnd>
+			<Text>La Cour va maintenant délibérer sur la recevabilité et le fond.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5118.32</TimestampBegin>
+			<TimestampEnd>5120.88</TimestampEnd>
+			<Text>L'arrêt sera rendu ultérieurement.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5121.08</TimestampBegin>
+			<TimestampEnd>5124.36</TimestampEnd>
+			<Text>Les partis seront informés de la date du prononcé.</Text>
+		</Snippet>
+		<Snippet>
+			<Language>fr</Language>
+			<TimestampBegin>5124.36</TimestampBegin>
+			<TimestampEnd>5124.36</TimestampEnd>
+			<Text>L'audience est levée.</Text>
+		</Snippet>
+	</SpeakerSegment>
+</Transcript>
