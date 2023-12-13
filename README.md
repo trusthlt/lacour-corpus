@@ -27,7 +27,7 @@ Please use the following citation
 |:arrow_down_small:|Download the individual transcript files |[.txt](transcripts-txt) [.xml](transcripts-xml)|
 |:arrow_down_small:|Download the documents meta data |[documents](lacour_linked_documents.json)|
 |:woman_technologist:|Creation code for reproduction |[trusthlt/lacour-generation](https://github.com/trusthlt/lacour-generation)|
-|:interrobang:|Questions and opinions dataset |[trusthlt/lacour-qando](https://github.com/trusthlt/lacour-quando)|
+|:interrobang:|Questions and opinions dataset |[trusthlt/lacour-qando](https://github.com/trusthlt/lacour-qando)|
 
 ## Data
 
